@@ -1,0 +1,10 @@
+
+decorator:
+HammerSmithOperation acts as a decorator for component Operation, which is inherited by. It is a public class that implements Operation. The 3 methods of HammerSmithOperation are checkBefore (void), join (void) and chekcAfter (void). No methods call checkBefore and checkBefore calls no methods. No methods call join and join calls no methods. No methods call chekcAfter and chekcAfter calls no methods.
+
+Operation acts as a component for HammerSmithOperation, which is inherited by CarpenterOperation, CarpenterOperation, CarpenterOperation. It is a public interface. The 3 methods of Operation are checkBefore (void), join (void) and chekcAfter (void). No methods call checkBefore and checkBefore calls no methods. No methods call join and join calls no methods. No methods call chekcAfter and chekcAfter calls no methods.
+
+CarpenterOperation acts as a component for decorator HammerSmithOperation, which overrides checkBeforeOperation, joinOperation, chekcAfterOperation. It is a public class that implements Operation. The 3 methods of CarpenterOperation are checkBefore (void), join (void) and chekcAfter (void). No methods call checkBefore and checkBefore calls no methods. No methods call join and join calls no methods. No methods call chekcAfter and chekcAfter calls no methods.
+
+Application does not have any design pattern.  It is a public class. The only method of Application is main (void). No methods call main and main calls no methods.
+

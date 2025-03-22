@@ -1,0 +1,12 @@
+ICoffee acts as a component for CoffeeDecorator, which is inherited by OriginalCoffee. It is a public interface. The only method of ICoffee is makeCoffee (void). No methods call makeCoffee and makeCoffee calls no methods.
+
+OriginalCoffee acts as a component for decorator CoffeeDecorator, which overrides makeCoffeeICoffee. It is a public class that implements ICoffee. The only method of OriginalCoffee is makeCoffee (void). No methods call makeCoffee and makeCoffee calls no methods.
+
+CoffeeDecorator acts as a decorator for component ICoffee, which is inherited by MilkDecorator, SugarDecorator. It is a public abstract class that implements ICoffee. The only method of CoffeeDecorator is makeCoffee (void). No methods call makeCoffee and makeCoffee calls no methods.
+
+MilkDecorator acts as a decorator for decorator CoffeeDecorator, which overrides makeCoffee method of CoffeeDecorator. It is a public class that extends CoffeeDecorator. The 2 methods of MilkDecorator are makeCoffee (void) and addMilk (void). No methods call makeCoffee and makeCoffee calls only one method : addMilk method of class MilkDecorator. Only one method ( makeCoffee method of class MilkDecorator ) calls addMilk and addMilk calls no methods.
+
+SugarDecorator acts as a decorator for decorator CoffeeDecorator, which overrides makeCoffee method of CoffeeDecorator. It is a public class that extends CoffeeDecorator. The 2 methods of SugarDecorator are makeCoffee (void) and addSugar (void). No methods call makeCoffee and makeCoffee calls only one method : addSugar method of class SugarDecorator. Only one method ( makeCoffee method of class SugarDecorator ) calls addSugar and addSugar calls no methods.
+
+DecoratorClient does not have any design pattern.  It is a public class. The only method of DecoratorClient is makeCoffee (void). No methods call makeCoffee and makeCoffee calls no methods.
+

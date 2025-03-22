@@ -1,0 +1,28 @@
+
+abstract_factory:
+XiaoMiFactory acts as a factory for AbstractFactory, which overrides makeComputer method of AbstractFactory, makeMobilePhone method of AbstractFactory. It is a public class that implements AbstractFactory. The 2 methods of XiaoMiFactory are makeComputer (Computer) and makeMobilePhone (MobilePhone). No methods call makeComputer and makeComputer calls no methods. No methods call makeMobilePhone and makeMobilePhone calls no methods.
+
+AppleFactory acts as a factory for AbstractFactory, which overrides makeComputer method of AbstractFactory, makeMobilePhone method of AbstractFactory. It is a public class that implements AbstractFactory. The 2 methods of AppleFactory are makeComputer (Computer) and makeMobilePhone (MobilePhone). No methods call makeComputer and makeComputer calls no methods. No methods call makeMobilePhone and makeMobilePhone calls no methods.
+
+MiPhone acts as a product for AbstractFactory, which overrides setOperationSystem method of MobilePhone. It is a public class that extends MobilePhone. The only method of MiPhone is setOperationSystem (void). No methods call setOperationSystem and setOperationSystem calls no methods.
+
+AbstractFactory acts as an abstract factory for MobilePhone, which is inherited by XiaoMiFactory, AppleFactory. It is a public interface. The 2 methods of AbstractFactory are makeComputer (Computer) and makeMobilePhone (MobilePhone). No methods call makeComputer and makeComputer calls no methods. No methods call makeMobilePhone and makeMobilePhone calls no methods.
+
+MobilePhone acts as an abstract product for MobilePhone, which is inherited by MiPhone, IPhone. It is a public abstract class. The only method of MobilePhone is setOperationSystem (void). No methods call setOperationSystem and setOperationSystem calls no methods.
+
+IPhone acts as a product for AbstractFactory, which overrides setOperationSystem method of MobilePhone. It is a public class that extends MobilePhone. The only method of IPhone is setOperationSystem (void). No methods call setOperationSystem and setOperationSystem calls no methods.
+
+
+memento:
+XiaoMiFactory acts as an originator for memento MobilePhone, which makes a MobilePhone Mobile Phone to. It is a public class that implements AbstractFactory. The 2 methods of XiaoMiFactory are makeComputer (Computer) and makeMobilePhone (MobilePhone). No methods call makeComputer and makeComputer calls no methods. No methods call makeMobilePhone and makeMobilePhone calls no methods.
+
+AppleFactory acts as an originator for memento MobilePhone, which makes a MobilePhone Mobile Phone to. It is a public class that implements AbstractFactory. The 2 methods of AppleFactory are makeComputer (Computer) and makeMobilePhone (MobilePhone). No methods call makeComputer and makeComputer calls no methods. No methods call makeMobilePhone and makeMobilePhone calls no methods.
+
+MiPhone acts as a memento, which sets Operation System. It is a public class that extends MobilePhone. The only method of MiPhone is setOperationSystem (void). No methods call setOperationSystem and setOperationSystem calls no methods.
+
+AbstractFactory acts as an originator for memento MobilePhone, which is inherited by, which makes a MobilePhone Mobile Phone to. It is a public interface. The 2 methods of AbstractFactory are makeComputer (Computer) and makeMobilePhone (MobilePhone). No methods call makeComputer and makeComputer calls no methods. No methods call makeMobilePhone and makeMobilePhone calls no methods.
+
+MobilePhone acts as a memento, which is inherited by MiPhone, IPhone, which sets Operation System. It is a public abstract class. The only method of MobilePhone is setOperationSystem (void). No methods call setOperationSystem and setOperationSystem calls no methods.
+
+IPhone acts as a memento, which sets Operation System. It is a public class that extends MobilePhone. The only method of IPhone is setOperationSystem (void). No methods call setOperationSystem and setOperationSystem calls no methods.
+

@@ -1,0 +1,4 @@
+Cook acts as a singleton, which gets a Cook Instance to. It is a public class. The 2 methods of Cook are getInstance (Cook) and makeBroth (void). No methods call getInstance and getInstance calls no methods. No methods call makeBroth and makeBroth calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+

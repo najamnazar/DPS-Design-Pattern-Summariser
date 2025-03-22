@@ -1,0 +1,10 @@
+EnemyRobot acts as an adaptee for adapter EnemyRobotAdapter, which adapts to EnemyAttacker, which adapts to EnemyAttacker, which adapts to EnemyAttacker. It is a public class. The 3 methods of EnemyRobot are smashWithHands (void), walkForward (void) and reactToHuman (void). No methods call smashWithHands and smashWithHands calls no methods. No methods call walkForward and walkForward calls no methods. No methods call reactToHuman and reactToHuman calls no methods.
+
+TestEnemyAttackers does not have any design pattern.  It is a public class. The only method of TestEnemyAttackers is main (void). No methods call main and main calls no methods.
+
+EnemyRobotAdapter acts as an adapter, which adapts to EnemyAttacker, which adapts to EnemyAttacker, which adapts to EnemyAttacker. It is a public class that extends EnemyAttacker and that implements EnemyAttacker. The 3 methods of EnemyRobotAdapter are fireWeapon (void), driveForward (void) and assignDriver (void). No methods call fireWeapon and fireWeapon calls no methods. No methods call driveForward and driveForward calls no methods. No methods call assignDriver and assignDriver calls no methods.
+
+EnemyAttacker acts as a target for adapter EnemyRobotAdapter, which adapts to EnemyAttacker, which adapts to EnemyAttacker, which adapts to EnemyAttacker. It is a public interface. The 3 methods of EnemyAttacker are fireWeapon (void), driveForward (void) and assignDriver (void). No methods call fireWeapon and fireWeapon calls no methods. No methods call driveForward and driveForward calls no methods. No methods call assignDriver and assignDriver calls no methods.
+
+EnemyTank does not have any design pattern.  It is a public class that extends EnemyAttacker and that implements EnemyAttacker. The 3 methods of EnemyTank are fireWeapon (void), driveForward (void) and assignDriver (void). No methods call fireWeapon and fireWeapon calls no methods. No methods call driveForward and driveForward calls no methods. No methods call assignDriver and assignDriver calls no methods.
+

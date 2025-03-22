@@ -1,0 +1,8 @@
+
+singleton:
+DemoSingleThread does not have any design pattern.  It is a public class. The only method of DemoSingleThread is main (void). No methods call main and main calls no methods.
+
+Singleton acts as a singleton, which gets a Singleton Instance to. It is a public final class. The only method of Singleton is getInstance (Singleton). No methods call getInstance and getInstance calls no methods.
+
+DemoMultiThread does not have any design pattern.  It is a public class. The 3 methods of DemoMultiThread are main (void), run (void) and run (void). No methods call main and main calls no methods. No methods call run and run calls no methods. No methods call run and run calls no methods.
+

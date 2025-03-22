@@ -1,0 +1,23 @@
+YoungSailor acts as a product for TeamFactory, which overrides. It is a public class that implements Sailor. The only method of YoungSailor is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+OldShip acts as a product for TeamFactory, which overrides. It is a public class that implements Ship. The only method of OldShip is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+YoungTeamFactory acts as a factory for TeamFactory, which overrides. It is a public class that implements TeamFactory. The 3 methods of YoungTeamFactory are createShip (Ship), createCaptain (Captain) and createSailor (Sailor). No methods call createShip and createShip calls no methods. No methods call createCaptain and createCaptain calls no methods. No methods call createSailor and createSailor calls no methods.
+
+YoungCaptain acts as a product for TeamFactory, which overrides. It is a public class that implements Captain. The only method of YoungCaptain is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+Captain acts as an abstract product for Captain, which is inherited by YoungCaptain, OldCaptain. It is a public interface that extends Member.OldSailor acts as a product for TeamFactory, which overrides. It is a public class that implements Sailor. The only method of OldSailor is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+NewShip acts as a product for TeamFactory, which overrides. It is a public class that implements Ship. The only method of NewShip is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+PermanentTeamFactory acts as a factory for TeamFactory, which overrides. It is a public class that implements TeamFactory. The 3 methods of PermanentTeamFactory are createShip (Ship), createCaptain (Captain) and createSailor (Sailor). No methods call createShip and createShip calls no methods. No methods call createCaptain and createCaptain calls no methods. No methods call createSailor and createSailor calls no methods.
+
+Ship acts as an abstract product for Ship, which is inherited by OldShip, NewShip. It is a public interface that extends Member.TeamFactory acts as an abstract factory for Ship, Captain, Sailor, which is inherited by YoungTeamFactory, PermanentTeamFactory. It is a public interface. The 3 methods of TeamFactory are createShip (Ship), createCaptain (Captain) and createSailor (Sailor). No methods call createShip and createShip calls no methods. No methods call createCaptain and createCaptain calls no methods. No methods call createSailor and createSailor calls no methods.
+
+OldCaptain acts as a product for TeamFactory, which overrides. It is a public class that implements Captain. The only method of OldCaptain is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+Member does not have any design pattern.  It is a public interface. The only method of Member is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+Application does not have any design pattern.  It is a public class. The 8 methods of Application are createTeam (void), main (void), getmShip (Ship), setmShip (void), getmCaptain (Captain), setmCaptain (void), getmSailor (Sailor) and setmSailor (void). No methods call createTeam and createTeam calls no methods. No methods call main and main calls 3 methods : getmCaptain method of class Application, getmSailor method of class Application and getmShip method of class Application. Only one method ( main method of class Application ) calls getmShip and getmShip calls no methods. No methods call setmShip and setmShip calls no methods. Only one method ( main method of class Application ) calls getmCaptain and getmCaptain calls no methods. No methods call setmCaptain and setmCaptain calls no methods. Only one method ( main method of class Application ) calls getmSailor and getmSailor calls no methods. No methods call setmSailor and setmSailor calls no methods.
+
+Sailor acts as an abstract product for Sailor, which is inherited by YoungSailor, OldSailor. It is a public interface that extends Member.

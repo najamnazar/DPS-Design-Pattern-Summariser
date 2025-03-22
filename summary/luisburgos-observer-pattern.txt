@@ -1,0 +1,14 @@
+
+observer:
+ConcreteSubject acts as a publisher for observer Observer, which is inherited by, which gets int parameter of type List, which attaches int parameter of eventTpye, Observer parameter of newObserver, which detaches int parameter of eventTpye, Observer parameter of observer, which notifies int parameter of eventTpye, Event parameter of event Observer. ConcreteSubject acts as a publisher for observer Observer, which gets int parameter of type List, which attaches int parameter of eventTpye, Observer parameter of newObserver, which detaches int parameter of eventTpye, Observer parameter of observer, which notifies int parameter of eventTpye, Event parameter of event Observer. It is a public class that extends Subject. The 4 methods of ConcreteSubject are getList (LinkedList<Observer>), attach (void), detach (void) and notifyObserver (void). No methods call getList and getList calls no methods. No methods call attach and attach calls no methods. No methods call detach and detach calls no methods. No methods call notifyObserver and notifyObserver calls no methods.
+
+Test does not have any design pattern.  It is a public class. The only method of Test is main (void). No methods call main and main calls no methods.
+
+Observer acts as an observer for publisher Subject, ConcreteSubject, which is inherited by ConcreteObserver, which updates Event parameter of event. It is a public interface. The only method of Observer is update (void). No methods call update and update calls no methods.
+
+Event does not have any design pattern.  It is a public class. The 5 methods of Event are getType (int), setType (void), getDescription (String), setDescription (void) and getDate (String). No methods call getType and getType calls no methods. No methods call setType and setType calls no methods. No methods call getDescription and getDescription calls no methods. No methods call setDescription and setDescription calls no methods. No methods call getDate and getDate calls no methods.
+
+ConcreteObserver acts as an observer, which updates Event parameter of event. It is a public class that extends Observer and that implements Observer. The only method of ConcreteObserver is update (void). No methods call update and update calls no methods.
+
+Subject acts as a publisher for observer Observer, which is inherited by ConcreteSubject, which attaches int parameter of eventTpye, Observer parameter of observer, which detaches int parameter of eventTpye, Observer parameter of observer, which notifies int parameter of eventTpye, Event parameter of event Observer. It is a public abstract class. The 3 methods of Subject are attach (void), detach (void) and notifyObserver (void). No methods call attach and attach calls no methods. No methods call detach and detach calls no methods. No methods call notifyObserver and notifyObserver calls no methods.
+

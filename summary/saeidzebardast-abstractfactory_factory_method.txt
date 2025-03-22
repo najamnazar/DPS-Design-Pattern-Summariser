@@ -1,0 +1,30 @@
+ESUFOBossEngine acts as a product for EnemyShipFactory, which overrides. It is a public class that extends ESEngine and that implements ESEngine. The only method of ESUFOBossEngine is toString (String). No methods call toString and toString calls no methods.
+
+UFOEnemyShip does not have any design pattern.  It is a public class that extends EnemyShip. The only method of UFOEnemyShip is makeShip (void). No methods call makeShip and makeShip calls no methods.
+
+ESWeapon does not have any design pattern.  It is a public interface. The only method of ESWeapon is toString (String). No methods call toString and toString calls no methods.
+
+ESEngine acts as an abstract product for EnemyShipFactory, which is inherited by ESUFOBossEngine, ESUFOEngine. It is a public interface. The only method of ESEngine is toString (String). No methods call toString and toString calls no methods.
+
+EnemyShipFactory acts as a factory for EnemyShipFactory, which overrides. EnemyShipFactory acts as a factory method for ESEngine, which is inherited by EnemyShipFactory, EnemyShipFactory. It is a public interface. The 2 methods of EnemyShipFactory are addESGun (ESWeapon) and addESEngine (ESEngine). No methods call addESGun and addESGun calls no methods. No methods call addESEngine and addESEngine calls no methods.
+
+UFOBossEnemyShipFactory does not have any design pattern.  It is a public class that extends EnemyShipFactory and that implements EnemyShipFactory. The 2 methods of UFOBossEnemyShipFactory are addESGun (ESWeapon) and addESEngine (ESEngine). No methods call addESGun and addESGun calls no methods. No methods call addESEngine and addESEngine calls no methods.
+
+ESUFOBossGun does not have any design pattern.  It is a public class that extends ESWeapon and that implements ESWeapon. The only method of ESUFOBossGun is toString (String). No methods call toString and toString calls no methods.
+
+ESUFOGun does not have any design pattern.  It is a public class that extends ESWeapon and that implements ESWeapon. The only method of ESUFOGun is toString (String). No methods call toString and toString calls no methods.
+
+EnemyShipBuilding does not have any design pattern.  It is a public abstract class. The 2 methods of EnemyShipBuilding are makeEnemyShip (EnemyShip) and orderTheShip (EnemyShip). Only one method ( orderTheShip method of class EnemyShipBuilding ) calls makeEnemyShip and makeEnemyShip calls no methods. No methods call orderTheShip and orderTheShip calls only one method : makeEnemyShip method of class EnemyShipBuilding.
+
+UFOEnemyShipFactory does not have any design pattern.  It is a public class that extends EnemyShipFactory and that implements EnemyShipFactory. The 2 methods of UFOEnemyShipFactory are addESGun (ESWeapon) and addESEngine (ESEngine). No methods call addESGun and addESGun calls no methods. No methods call addESEngine and addESEngine calls no methods.
+
+EnemyShipTesting does not have any design pattern.  It is a public class. The only method of EnemyShipTesting is main (void). No methods call main and main calls no methods.
+
+UFOBossEnemyShip does not have any design pattern.  It is a public class that extends EnemyShip. The only method of UFOBossEnemyShip is makeShip (void). No methods call makeShip and makeShip calls no methods.
+
+ESUFOEngine acts as a product for EnemyShipFactory, which overrides. It is a public class that extends ESEngine and that implements ESEngine. The only method of ESUFOEngine is toString (String). No methods call toString and toString calls no methods.
+
+UFOEnemyShipBuilding does not have any design pattern.  It is a public class that extends EnemyShipBuilding. The only method of UFOEnemyShipBuilding is makeEnemyShip (EnemyShip). No methods call makeEnemyShip and makeEnemyShip calls no methods.
+
+EnemyShip does not have any design pattern.  It is a public abstract class. The 7 methods of EnemyShip are getName (String), setName (void), makeShip (void), followHeroShip (void), displayEnemyShip (void), enemyShipShoots (void) and toString (String). 3 methods ( followHeroShip method of class EnemyShip, displayEnemyShip method of class EnemyShip and enemyShipShoots method of class EnemyShip ) call getName and getName calls no methods. No methods call setName and setName calls no methods. No methods call makeShip and makeShip calls no methods. No methods call followHeroShip and followHeroShip calls only one method : getName method of class EnemyShip. No methods call displayEnemyShip and displayEnemyShip calls only one method : getName method of class EnemyShip. No methods call enemyShipShoots and enemyShipShoots calls only one method : getName method of class EnemyShip. No methods call toString and toString calls no methods.
+

@@ -1,0 +1,24 @@
+LoginEventListener acts as a target for adapter LoginValidatorA, which adapts to LoginEventListener. LoginEventListener acts as a target for adapter LoginValidatorB, which adapts to LoginEventListener. It is a public interface that extends EventListener. The only method of LoginEventListener is validateLogin (void). No methods call validateLogin and validateLogin calls no methods.
+
+MyObserver does not have any design pattern.  It is a public interface. The only method of MyObserver is response (void). No methods call response and response calls no methods.
+
+Mouse does not have any design pattern.  It is a public class that implements MyObserver. The only method of Mouse is response (void). No methods call response and response calls no methods.
+
+LoginBean acts as an adaptee for adapter LoginValidatorB, which adapts to LoginEventListener, which adapts to LoginEventListener, which adapts to LoginEventListener. LoginBean acts as an adaptee for adapter LoginValidatorA, which adapts to LoginEventListener, which adapts to LoginEventListener, which adapts to LoginEventListener. It is a public class that extends JPanel and that implements ActionListener. The 3 methods of LoginBean are addLoginEventListener (void), fireLoginEvent (void) and actionPerformed (void). No methods call addLoginEventListener and addLoginEventListener calls no methods. Only one method ( actionPerformed method of class LoginBean ) calls fireLoginEvent and fireLoginEvent calls no methods. No methods call actionPerformed and actionPerformed calls only one method : fireLoginEvent method of class LoginBean.
+
+MySubject does not have any design pattern.  It is a public abstract class. The 3 methods of MySubject are attach (void), detach (void) and cry (void). No methods call attach and attach calls no methods. No methods call detach and detach calls no methods. No methods call cry and cry calls no methods.
+
+Cat does not have any design pattern.  It is a public class that extends MySubject. The only method of Cat is cry (void). No methods call cry and cry calls no methods.
+
+LoginEvent does not have any design pattern.  It is a public class that extends EventObject. The 4 methods of LoginEvent are setUserName (void), getUserName (String), setPassword (void) and getPassword (String). No methods call setUserName and setUserName calls no methods. No methods call getUserName and getUserName calls no methods. No methods call setPassword and setPassword calls no methods. No methods call getPassword and getPassword calls no methods.
+
+LoginValidatorA acts as an adapter, which adapts to LoginEventListener, which adapts to LoginEventListener. It is a public class that extends JFrame and that implements LoginEventListener. The 2 methods of LoginValidatorA are validateLogin (void) and main (void). No methods call validateLogin and validateLogin calls no methods. No methods call main and main calls no methods.
+
+LoginValidatorB acts as an adapter, which adapts to LoginEventListener, which adapts to LoginEventListener. It is a public class that extends JFrame and that implements LoginEventListener. The 2 methods of LoginValidatorB are validateLogin (void) and main (void). No methods call validateLogin and validateLogin calls no methods. No methods call main and main calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+Dog does not have any design pattern.  It is a public class that implements MyObserver. The only method of Dog is response (void). No methods call response and response calls no methods.
+
+Pig does not have any design pattern.  It is a public class that implements MyObserver. The only method of Pig is response (void). No methods call response and response calls no methods.
+

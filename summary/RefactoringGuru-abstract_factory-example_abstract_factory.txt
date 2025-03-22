@@ -1,0 +1,22 @@
+WindowsButton acts as a product for GUIFactory, which overrides paint method of Button. It is a public class that implements Button. The only method of WindowsButton is paint (void). No methods call paint and paint calls no methods.
+
+Demo does not have any design pattern.  It is a public class. The 2 methods of Demo are configureApplication (Application) and main (void). Only one method ( main method of class Demo ) calls configureApplication and configureApplication calls no methods. No methods call main and main calls only one method : configureApplication method of class Demo.
+
+Button acts as an abstract product for Button, which is inherited by WindowsButton, MacOSButton. It is a public interface. The only method of Button is paint (void). No methods call paint and paint calls no methods.
+
+Checkbox acts as an abstract product for Checkbox, which is inherited by WindowsCheckbox, MacOSCheckbox. It is a public interface. The only method of Checkbox is paint (void). No methods call paint and paint calls no methods.
+
+MacOSFactory acts as a factory for GUIFactory, which overrides createButton method of GUIFactory, createCheckbox method of GUIFactory. It is a public class that implements GUIFactory. The 2 methods of MacOSFactory are createButton (Button) and createCheckbox (Checkbox). No methods call createButton and createButton calls no methods. No methods call createCheckbox and createCheckbox calls no methods.
+
+MacOSButton acts as a product for GUIFactory, which overrides paint method of Button. It is a public class that implements Button. The only method of MacOSButton is paint (void). No methods call paint and paint calls no methods.
+
+WindowsCheckbox acts as a product for GUIFactory, which overrides paint method of Checkbox. It is a public class that implements Checkbox. The only method of WindowsCheckbox is paint (void). No methods call paint and paint calls no methods.
+
+WindowsFactory acts as a factory for GUIFactory, which overrides createButton method of GUIFactory, createCheckbox method of GUIFactory. It is a public class that implements GUIFactory. The 2 methods of WindowsFactory are createButton (Button) and createCheckbox (Checkbox). No methods call createButton and createButton calls no methods. No methods call createCheckbox and createCheckbox calls no methods.
+
+Application does not have any design pattern.  It is a public class. The only method of Application is paint (void). No methods call paint and paint calls no methods.
+
+GUIFactory acts as an abstract factory for Button, Checkbox, which is inherited by MacOSFactory, WindowsFactory. It is a public interface. The 2 methods of GUIFactory are createButton (Button) and createCheckbox (Checkbox). No methods call createButton and createButton calls no methods. No methods call createCheckbox and createCheckbox calls no methods.
+
+MacOSCheckbox acts as a product for GUIFactory, which overrides paint method of Checkbox. It is a public class that implements Checkbox. The only method of MacOSCheckbox is paint (void). No methods call paint and paint calls no methods.
+

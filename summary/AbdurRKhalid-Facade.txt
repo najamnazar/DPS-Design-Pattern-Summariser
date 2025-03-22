@@ -1,0 +1,14 @@
+
+memento:
+Codec acts as a memento, which is inherited by OggCompressionCodec, MPEG4CompressionCodec. It is a public interface.VideoConversionFacade does not have any design pattern.  It is a public class. The only method of VideoConversionFacade is convertVideo (File). No methods call convertVideo and convertVideo calls no methods.
+
+Test does not have any design pattern.  It is a public class. The only method of Test is main (void). No methods call main and main calls no methods.
+
+OggCompressionCodec acts as a memento. It is a public class that implements Codec.VideoFile does not have any design pattern.  It is a public class. The 2 methods of VideoFile are getCodecType (String) and getName (String). No methods call getCodecType and getCodecType calls no methods. No methods call getName and getName calls no methods.
+
+CodecFactory acts as an originator for memento Codec, which extracts Codec. It is a public class. The only method of CodecFactory is extract (Codec). No methods call extract and extract calls no methods.
+
+AudioMixer does not have any design pattern.  It is a public class. The only method of AudioMixer is fix (File). No methods call fix and fix calls no methods.
+
+MPEG4CompressionCodec acts as a memento. It is a public class that implements Codec.BitrateReader does not have any design pattern.  It is a public class. The 2 methods of BitrateReader are read (VideoFile) and convert (VideoFile). No methods call read and read calls no methods. No methods call convert and convert calls no methods.
+

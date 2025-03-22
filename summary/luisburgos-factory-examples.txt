@@ -1,0 +1,21 @@
+
+abstract_factory:
+ToyotaFactory does not have any design pattern.  It is a public class that extends CarsFactory. The only method of ToyotaFactory is createProduct (Car). No methods call createProduct and createProduct calls no methods.
+
+CarsFactoryTestDrive does not have any design pattern.  It is a public class. The only method of CarsFactoryTestDrive is main (void). No methods call main and main calls no methods.
+
+EnemyShipFactory acts as a factory for ShipFactory, which overrides createShip method of ShipFactory. It is a public class that extends ShipFactory and that implements ShipFactory. The only method of EnemyShipFactory is createShip (Ship). No methods call createShip and createShip calls no methods.
+
+Camry does not have any design pattern.  It is a public class that extends Car.Tsuru does not have any design pattern.  It is a public class that extends Car.ShipTestDrive does not have any design pattern.  It is a public class. The only method of ShipTestDrive is main (void). No methods call main and main calls no methods.
+
+NissanFactory does not have any design pattern.  It is a public class that extends CarsFactory. The only method of NissanFactory is createProduct (Car). No methods call createProduct and createProduct calls no methods.
+
+RocketShip acts as a product for ShipFactory, which overrides. It is a public class that extends Ship.Car does not have any design pattern.  It is a public abstract class. The 7 methods of Car are getName (String), setName (void), getPrice (String), setPrice (void), getAgency (String), setAgency (void) and getInformation (String). Only one method ( getInformation method of class Car ) calls getName and getName calls no methods. No methods call setName and setName calls no methods. Only one method ( getInformation method of class Car ) calls getPrice and getPrice calls no methods. No methods call setPrice and setPrice calls no methods. Only one method ( getInformation method of class Car ) calls getAgency and getAgency calls no methods. No methods call setAgency and setAgency calls no methods. No methods call getInformation and getInformation calls 3 methods : getPrice method of class Car, getAgency method of class Car and getName method of class Car.
+
+CarsFactory does not have any design pattern.  It is a public abstract class. The only method of CarsFactory is createProduct (Car). No methods call createProduct and createProduct calls no methods.
+
+Versa does not have any design pattern.  It is a public class that extends Car.ShipFactory acts as an abstract factory for Ship, which is inherited by EnemyShipFactory. It is a public interface. The only method of ShipFactory is createShip (Ship). No methods call createShip and createShip calls no methods.
+
+Ship acts as an abstract product for Ship, which is inherited by RocketShip, UFOShip. It is a public abstract class. The 7 methods of Ship are getName (String), setName (void), getSpeed (double), setSpeed (void), getDamage (double), setDamage (void) and toString (String). Only one method ( toString method of class Ship ) calls getName and getName calls no methods. No methods call setName and setName calls no methods. Only one method ( toString method of class Ship ) calls getSpeed and getSpeed calls no methods. No methods call setSpeed and setSpeed calls no methods. Only one method ( toString method of class Ship ) calls getDamage and getDamage calls no methods. No methods call setDamage and setDamage calls no methods. No methods call toString and toString calls 3 methods : getSpeed method of class Ship, getName method of class Ship and getDamage method of class Ship.
+
+Corolla does not have any design pattern.  It is a public class that extends Car.UFOShip acts as a product for ShipFactory, which overrides. It is a public class that extends Ship.

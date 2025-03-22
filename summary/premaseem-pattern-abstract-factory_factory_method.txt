@@ -1,0 +1,22 @@
+ChocolateMilkShake does not have any design pattern.  It is a public class that implements MilkShake. The 3 methods of ChocolateMilkShake are getIceAmount (Integer), getBrand (String) and toString (String). No methods call getIceAmount and getIceAmount calls no methods. No methods call getBrand and getBrand calls no methods. No methods call toString and toString calls no methods.
+
+StrawberryIceCream acts as a product for AmulIceCreamFactory, which overrides getCalories method of IceCream, getCost method of IceCream, getBrand method of IceCream. It is a public class that implements IceCream. The 4 methods of StrawberryIceCream are toString (String), getCalories (Integer), getCost (Integer) and getBrand (String). No methods call toString and toString calls 2 methods : getCost method of class StrawberryIceCream and getCalories method of class StrawberryIceCream. Only one method ( toString method of class StrawberryIceCream ) calls getCalories and getCalories calls no methods. Only one method ( toString method of class StrawberryIceCream ) calls getCost and getCost calls no methods. No methods call getBrand and getBrand calls no methods.
+
+MilkShake does not have any design pattern.  It is a public interface. The 2 methods of MilkShake are getIceAmount (Integer) and getBrand (String). No methods call getIceAmount and getIceAmount calls no methods. No methods call getBrand and getBrand calls no methods.
+
+StrawberryMilkShake does not have any design pattern.  It is a public class that implements MilkShake. The 2 methods of StrawberryMilkShake are getIceAmount (Integer) and getBrand (String). No methods call getIceAmount and getIceAmount calls no methods. No methods call getBrand and getBrand calls no methods.
+
+AmulIceCreamFactory acts as a factory method for IceCream, which is inherited by AbstractIceCreamFactory, AbstractIceCreamFactory. It is a public class that extends AbstractIceCreamFactory. The 2 methods of AmulIceCreamFactory are createIceCream (IceCream) and createMilkShake (MilkShake). No methods call createIceCream and createIceCream calls no methods. No methods call createMilkShake and createMilkShake calls no methods.
+
+DairyQueenCreamFactory does not have any design pattern.  It is a public class that extends AbstractIceCreamFactory. The 2 methods of DairyQueenCreamFactory are createIceCream (IceCream) and createMilkShake (MilkShake). No methods call createIceCream and createIceCream calls no methods. No methods call createMilkShake and createMilkShake calls no methods.
+
+FactoryCreator does not have any design pattern.  It is a public class. The only method of FactoryCreator is getFactory (AbstractIceCreamFactory). No methods call getFactory and getFactory calls no methods.
+
+IceCream acts as an abstract product for AmulIceCreamFactory, which is inherited by StrawberryIceCream, ChocolateIceCream. It is a public interface. The 3 methods of IceCream are getCalories (Integer), getCost (Integer) and getBrand (String). No methods call getCalories and getCalories calls no methods. No methods call getCost and getCost calls no methods. No methods call getBrand and getBrand calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+AbstractIceCreamFactory acts as a factory for AmulIceCreamFactory, which overrides. It is a public abstract class. The 2 methods of AbstractIceCreamFactory are createIceCream (IceCream) and createMilkShake (MilkShake). No methods call createIceCream and createIceCream calls no methods. No methods call createMilkShake and createMilkShake calls no methods.
+
+ChocolateIceCream acts as a product for AmulIceCreamFactory, which overrides getCalories method of IceCream, getCost method of IceCream, getBrand method of IceCream. It is a public class that implements IceCream. The 4 methods of ChocolateIceCream are getCalories (Integer), getCost (Integer), getBrand (String) and toString (String). Only one method ( toString method of class ChocolateIceCream ) calls getCalories and getCalories calls no methods. Only one method ( toString method of class ChocolateIceCream ) calls getCost and getCost calls no methods. No methods call getBrand and getBrand calls no methods. No methods call toString and toString calls 2 methods : getCost method of class ChocolateIceCream and getCalories method of class ChocolateIceCream.
+

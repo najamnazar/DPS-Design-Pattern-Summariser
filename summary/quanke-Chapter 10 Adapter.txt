@@ -1,0 +1,28 @@
+
+adapter:
+DataOperation does not have any design pattern.  It is a public abstract class. The 3 methods of DataOperation are setPassword (void), getPassword (String) and doEncrypt (String). No methods call setPassword and setPassword calls no methods. No methods call getPassword and getPassword calls no methods. No methods call doEncrypt and doEncrypt calls no methods.
+
+Caesar does not have any design pattern.  It is a public final class. The only method of Caesar is doEncrypt (String). No methods call doEncrypt and doEncrypt calls no methods.
+
+Bird acts as an adaptee for adapter BirdAdapter, which adapts to Robot, which adapts to Robot. It is a public class. The 2 methods of Bird are tweedle (void) and fly (void). No methods call tweedle and tweedle calls no methods. No methods call fly and fly calls no methods.
+
+Adapter does not have any design pattern.  It is a public class that extends Target. The only method of Adapter is request (void). No methods call request and request calls no methods.
+
+NewCipher does not have any design pattern.  It is a public final class. The only method of NewCipher is doEncrypt (String). No methods call doEncrypt and doEncrypt calls no methods.
+
+CipherAdapter does not have any design pattern.  It is a public class that extends DataOperation. The only method of CipherAdapter is doEncrypt (String). No methods call doEncrypt and doEncrypt calls no methods.
+
+NewCipherAdapter does not have any design pattern.  It is a public class that extends DataOperation. The only method of NewCipherAdapter is doEncrypt (String). No methods call doEncrypt and doEncrypt calls no methods.
+
+XMLUtil does not have any design pattern.  It is a public class. The only method of XMLUtil is getBean (Object). No methods call getBean and getBean calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+Robot acts as a target for adapter DogAdapter, which adapts to Robot, which adapts to Robot. Robot acts as a target for adapter BirdAdapter, which adapts to Robot, which adapts to Robot. It is a public interface. The 2 methods of Robot are cry (void) and move (void). No methods call cry and cry calls no methods. No methods call move and move calls no methods.
+
+Dog acts as an adaptee for adapter DogAdapter, which adapts to Robot, which adapts to Robot. It is a public class. The 2 methods of Dog are wang (void) and run (void). No methods call wang and wang calls no methods. No methods call run and run calls no methods.
+
+BirdAdapter acts as an adapter, which adapts to Robot, which adapts to Robot. It is a public class that extends Bird and that implements Robot. The 2 methods of BirdAdapter are cry (void) and move (void). No methods call cry and cry calls no methods. No methods call move and move calls no methods.
+
+DogAdapter acts as an adapter, which adapts to Robot, which adapts to Robot. It is a public class that extends Dog and that implements Robot. The 2 methods of DogAdapter are cry (void) and move (void). No methods call cry and cry calls no methods. No methods call move and move calls no methods.
+

@@ -1,0 +1,14 @@
+WindowsButton acts as a memento, which ons Click, which ons Click. WindowsButton acts as a caretaker for memento Button, which renders, which ons Click. It is a public class that implements Button. The 2 methods of WindowsButton are render (void) and onClick (void). No methods call render and render calls only one method : onClick method of class WindowsButton. Only one method ( render method of class WindowsButton ) calls onClick and onClick calls no methods.
+
+Demo does not have any design pattern.  It is a public class. The 3 methods of Demo are main (void), configure (void) and runBusinessLogic (void). No methods call main and main calls 2 methods : runBusinessLogic method of class Demo and configure method of class Demo. Only one method ( main method of class Demo ) calls configure and configure calls no methods. Only one method ( main method of class Demo ) calls runBusinessLogic and runBusinessLogic calls no methods.
+
+Button acts as a memento, which is inherited by WindowsButton, HtmlButton, which ons Click, which ons Click. It is a public interface. The 2 methods of Button are render (void) and onClick (void). No methods call render and render calls no methods. No methods call onClick and onClick calls no methods.
+
+Dialog acts as an originator for memento Button, which is inherited by, which creates a Button Button to. It is a public abstract class. The 2 methods of Dialog are renderWindow (void) and createButton (Button). No methods call renderWindow and renderWindow calls only one method : createButton method of class Dialog. Only one method ( renderWindow method of class Dialog ) calls createButton and createButton calls no methods.
+
+WindowsDialog acts as an originator for memento Button, which creates a Button Button to. It is a public class that extends Dialog. The only method of WindowsDialog is createButton (Button). No methods call createButton and createButton calls no methods.
+
+HtmlDialog acts as an originator for memento Button, which creates a Button Button to. It is a public class that extends Dialog. The only method of HtmlDialog is createButton (Button). No methods call createButton and createButton calls no methods.
+
+HtmlButton acts as a memento, which ons Click, which ons Click. It is a public class that implements Button. The 2 methods of HtmlButton are render (void) and onClick (void). No methods call render and render calls only one method : onClick method of class HtmlButton. Only one method ( render method of class HtmlButton ) calls onClick and onClick calls no methods.
+

@@ -1,0 +1,12 @@
+
+decorator:
+Bus does not have any design pattern.  It is a public class. The only method of Bus is run (void). No methods call run and run calls no methods.
+
+Car acts as a component for Driver, which is inherited by BusAdapter. It is a public interface. The only method of Car is drive (void). No methods call drive and drive calls no methods.
+
+Driver acts as a decorator for component Car, which is inherited by. It is a public class that implements Car. The only method of Driver is drive (void). No methods call drive and drive calls no methods.
+
+BusAdapter acts as a component for decorator Driver, which overrides driveCar. It is a public class that implements Car. The only method of BusAdapter is drive (void). No methods call drive and drive calls no methods.
+
+Application does not have any design pattern.  It is a public class. The only method of Application is main (void). No methods call main and main calls no methods.
+

@@ -1,0 +1,12 @@
+Decorator acts as a decorator for component Component, which is inherited by ConcreteDecoratorTwo, ConcreteDecoratorOne. It is a public abstract class that extends Component and that implements Component. The only method of Decorator is doOperation (void). No methods call doOperation and doOperation calls no methods.
+
+ConcreteComponent acts as a component for decorator Decorator, which overrides doOperationComponent. It is a public class that extends Component and that implements Component. The only method of ConcreteComponent is doOperation (void). No methods call doOperation and doOperation calls no methods.
+
+ConcreteDecoratorTwo acts as a decorator for decorator Decorator, which overrides doOperation method of Decorator. It is a public class that extends Decorator. The 2 methods of ConcreteDecoratorTwo are doOperation (void) and doAdditionalOperation (void). No methods call doOperation and doOperation calls only one method : doAdditionalOperation method of class ConcreteDecoratorTwo. Only one method ( doOperation method of class ConcreteDecoratorTwo ) calls doAdditionalOperation and doAdditionalOperation calls no methods.
+
+ConcreteDecoratorOne acts as a decorator for decorator Decorator, which overrides doOperation method of Decorator. It is a public class that extends Decorator. The 2 methods of ConcreteDecoratorOne are doOperation (void) and doAdditionalOperation (void). No methods call doOperation and doOperation calls only one method : doAdditionalOperation method of class ConcreteDecoratorOne. Only one method ( doOperation method of class ConcreteDecoratorOne ) calls doAdditionalOperation and doAdditionalOperation calls no methods.
+
+Component acts as a component for Decorator, which is inherited by ConcreteComponent. It is a public interface. The only method of Component is doOperation (void). No methods call doOperation and doOperation calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+

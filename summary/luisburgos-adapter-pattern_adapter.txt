@@ -1,0 +1,8 @@
+Target acts as a target for adapter Adapter, which adapts to Target. It is a public interface. The only method of Target is request (void). No methods call request and request calls no methods.
+
+Adaptee acts as an adaptee for adapter Adapter, which adapts to Target. It is a public class. The only method of Adaptee is specificRequest (void). No methods call specificRequest and specificRequest calls no methods.
+
+Adapter acts as an adapter, which adapts to Target. It is a public class that extends Target and that implements Target. The only method of Adapter is request (void). No methods call request and request calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+

@@ -1,0 +1,18 @@
+BigHuYouCompany does not have any design pattern.  It is a public class. The only method of BigHuYouCompany is startProject (void). No methods call startProject and startProject calls no methods.
+
+LiveApp acts as a visitor for element CorporateSlave, which overrides, which visits Programmer parameter of programmer, which visits HumanSource parameter of humanSource, which visits Tester parameter of tester. It is a public class that implements CorporateSlaveVisitor. The 3 methods of LiveApp are visit (void), visit (void) and visit (void). No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods.
+
+HumanSource acts as a visitor for element CorporateSlave, which overrides accept method of CorporateSlave, which gets a Name to, which accepts CorporateSlaveVisitor parameter of visitor. It is a public class that implements CorporateSlave. The 2 methods of HumanSource are getName (String) and accept (void). No methods call getName and getName calls no methods. No methods call accept and accept calls no methods.
+
+Tester acts as a visitor for element CorporateSlave, which overrides accept method of CorporateSlave, which gets a Name to, which accepts CorporateSlaveVisitor parameter of visitor. It is a public class that implements CorporateSlave. The 2 methods of Tester are getName (String) and accept (void). No methods call getName and getName calls no methods. No methods call accept and accept calls no methods.
+
+Programmer acts as a visitor for element CorporateSlave, which overrides accept method of CorporateSlave, which gets a Name to, which accepts CorporateSlaveVisitor parameter of visitor. It is a public class that implements CorporateSlave. The 2 methods of Programmer are getName (String) and accept (void). No methods call getName and getName calls no methods. No methods call accept and accept calls no methods.
+
+SocialApp acts as a visitor for element CorporateSlave, which overrides, which visits Programmer parameter of programmer, which visits HumanSource parameter of humanSource, which visits Tester parameter of tester. It is a public class that implements CorporateSlaveVisitor. The 3 methods of SocialApp are visit (void), visit (void) and visit (void). No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods.
+
+VisitorClient does not have any design pattern.  It is a public class. The only method of VisitorClient is startProject (void). No methods call startProject and startProject calls no methods.
+
+CorporateSlaveVisitor does not have any design pattern.  It is a public interface. The 3 methods of CorporateSlaveVisitor are visit (void), visit (void) and visit (void). No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods.
+
+CorporateSlave acts as an element for visitor CorporateSlave, which is inherited by HumanSource, Tester, Programmer, which accepts CorporateSlaveVisitor parameter of visitor. CorporateSlave acts as a visitor for element CorporateSlave, which is inherited by LiveApp, SocialApp, which accepts CorporateSlaveVisitor parameter of visitor. CorporateSlave acts as a visitor for element CorporateSlave, which is inherited by HumanSource, Tester, Programmer, which accepts CorporateSlaveVisitor parameter of visitor. It is a public interface. The only method of CorporateSlave is accept (void). No methods call accept and accept calls no methods.
+

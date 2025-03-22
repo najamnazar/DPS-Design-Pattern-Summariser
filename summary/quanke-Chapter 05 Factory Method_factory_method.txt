@@ -1,0 +1,16 @@
+HaierTV acts as a product for HaierTVFactory, which overrides. It is a public class that extends TV and that implements TV. The only method of HaierTV is play (void). No methods call play and play calls no methods.
+
+TV acts as an abstract product for HaierTVFactory, which is inherited by HaierTV, HisenseTV. It is a public interface. The only method of TV is play (void). No methods call play and play calls no methods.
+
+HaierTVFactory acts as a factory method for TV, which is inherited by TVFactory, TVFactory. It is a public class that extends TVFactory and that implements TVFactory. The only method of HaierTVFactory is produceTV (TV). No methods call produceTV and produceTV calls no methods.
+
+TVFactory acts as a factory for HaierTVFactory, which overrides. It is a public interface. The only method of TVFactory is produceTV (TV). No methods call produceTV and produceTV calls no methods.
+
+XMLUtil does not have any design pattern.  It is a public class. The only method of XMLUtil is getBean (Object). No methods call getBean and getBean calls no methods.
+
+HisenseTV acts as a product for HaierTVFactory, which overrides. It is a public class that extends TV and that implements TV. The only method of HisenseTV is play (void). No methods call play and play calls no methods.
+
+HisenseTVFactory does not have any design pattern.  It is a public class that extends TVFactory and that implements TVFactory. The only method of HisenseTVFactory is produceTV (TV). No methods call produceTV and produceTV calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+

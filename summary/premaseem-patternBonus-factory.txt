@@ -1,0 +1,16 @@
+
+memento:
+PizzaFactory acts as an originator for memento PizzaBase, which gets a PizzaBase Pizza to. It is a public class. The only method of PizzaFactory is getPizza (PizzaBase). No methods call getPizza and getPizza calls no methods.
+
+PizzaBase acts as a memento, which is inherited by VegPizza, DefaultPizza, MexicanPizza, NonVegPizza, which gets Description, which gets Description. It is a public interface. The 2 methods of PizzaBase are getCost (double) and getDescription (String). No methods call getCost and getCost calls no methods. No methods call getDescription and getDescription calls no methods.
+
+VegPizza acts as a memento, which gets Description, which gets Description. It is a public class that implements PizzaBase. The 2 methods of VegPizza are getCost (double) and getDescription (String). No methods call getCost and getCost calls no methods. No methods call getDescription and getDescription calls no methods.
+
+DefaultPizza acts as a memento, which gets Description, which gets Description. It is a public class that implements PizzaBase. The 2 methods of DefaultPizza are getCost (double) and getDescription (String). No methods call getCost and getCost calls no methods. No methods call getDescription and getDescription calls no methods.
+
+MexicanPizza acts as a memento, which gets Description, which gets Description. It is a public class that implements PizzaBase. The 2 methods of MexicanPizza are getCost (double) and getDescription (String). No methods call getCost and getCost calls no methods. No methods call getDescription and getDescription calls no methods.
+
+NonVegPizza acts as a memento, which gets Description, which gets Description. It is a public class that implements PizzaBase. The 2 methods of NonVegPizza are getCost (double) and getDescription (String). No methods call getCost and getCost calls no methods. No methods call getDescription and getDescription calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+

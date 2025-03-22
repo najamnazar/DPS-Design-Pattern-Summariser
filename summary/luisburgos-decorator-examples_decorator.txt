@@ -1,0 +1,12 @@
+Pizza acts as a component for ToppingDecorator, which is inherited by PlainPizza, PlainPizza. It is a public interface. The 2 methods of Pizza are getDescription (String) and getPrice (double). No methods call getDescription and getDescription calls no methods. No methods call getPrice and getPrice calls no methods.
+
+ToppingDecorator acts as a decorator for component Pizza, which is inherited by Mozzarella, TomatoSauce. It is a public abstract class that extends Pizza and that implements Pizza. The 2 methods of ToppingDecorator are getDescription (String) and getPrice (double). No methods call getDescription and getDescription calls no methods. No methods call getPrice and getPrice calls no methods.
+
+PizzaMaker does not have any design pattern.  It is a public class. The only method of PizzaMaker is main (void). No methods call main and main calls no methods.
+
+Mozzarella acts as a decorator for decorator ToppingDecorator, which overrides getDescription method of ToppingDecorator, getPrice method of ToppingDecorator. It is a public class that extends ToppingDecorator. The 2 methods of Mozzarella are getDescription (String) and getPrice (double). No methods call getDescription and getDescription calls no methods. No methods call getPrice and getPrice calls no methods.
+
+TomatoSauce acts as a decorator for decorator ToppingDecorator, which overrides getDescription method of ToppingDecorator, getPrice method of ToppingDecorator. It is a public class that extends ToppingDecorator. The 2 methods of TomatoSauce are getDescription (String) and getPrice (double). No methods call getDescription and getDescription calls no methods. No methods call getPrice and getPrice calls no methods.
+
+PlainPizza acts as a component for decorator ToppingDecorator, which overrides getDescriptionPizza, getPricePizza. It is a public class that extends Pizza and that implements Pizza. The 2 methods of PlainPizza are getDescription (String) and getPrice (double). No methods call getDescription and getDescription calls no methods. No methods call getPrice and getPrice calls no methods.
+

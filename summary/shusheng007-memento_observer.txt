@@ -1,0 +1,8 @@
+GameCareTaker acts as a publisher for observer GameProgressMemento, which is inherited by, which saves GameProgressMemento parameter of memento Memento, which gets int parameter of index Memento. It is a public class. The 2 methods of GameCareTaker are saveMemento (void) and getMemento (GameProgressMemento). No methods call saveMemento and saveMemento calls no methods. No methods call getMemento and getMemento calls no methods.
+
+MementoClient does not have any design pattern.  It is a public class. The only method of MementoClient is replayGame (void). No methods call replayGame and replayGame calls no methods.
+
+GameOriginator does not have any design pattern.  It is a public class. The 4 methods of GameOriginator are saveProcess (GameProgressMemento), restoreProcess (void), playGame (void) and exitGame (void). No methods call saveProcess and saveProcess calls no methods. No methods call restoreProcess and restoreProcess calls no methods. No methods call playGame and playGame calls no methods. No methods call exitGame and exitGame calls no methods.
+
+GameProgressMemento acts as an observer for publisher GameCareTaker, which is inherited by, which gets Score. It is a public class. The only method of GameProgressMemento is getScore (int). No methods call getScore and getScore calls no methods.
+

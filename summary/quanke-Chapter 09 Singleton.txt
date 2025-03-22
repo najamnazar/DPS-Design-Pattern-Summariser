@@ -1,0 +1,33 @@
+
+singleton:
+MainClass does not have any design pattern.  It is a public class that extends JFrame. The 2 methods of MainClass are actionPerformed (void) and main (void). No methods call actionPerformed and actionPerformed calls no methods. No methods call main and main calls no methods.
+
+IdentityCardNo acts as a singleton, which gets an IdentityCardNo Instance to. It is a public class. The 3 methods of IdentityCardNo are getInstance (IdentityCardNo), setIdentityCardNo (void) and getIdentityCardNo (String). No methods call getInstance and getInstance calls only one method : setIdentityCardNo method of class IdentityCardNo. Only one method ( getInstance method of class IdentityCardNo ) calls setIdentityCardNo and setIdentityCardNo calls no methods. No methods call getIdentityCardNo and getIdentityCardNo calls no methods.
+
+PrintSpoolerSingleton acts as a singleton, which gets a PrintSpoolerSingleton Instance to. It is a public class. The 2 methods of PrintSpoolerSingleton are getInstance (PrintSpoolerSingleton) and manageJobs (void). No methods call getInstance and getInstance calls no methods. No methods call manageJobs and manageJobs calls no methods.
+
+Singleton acts as a singleton, which gets a Singleton Instance to. It is a public class. The only method of Singleton is getInstance (Singleton). No methods call getInstance and getInstance calls no methods.
+
+SubFrame acts as a singleton, which gets a SubFrame Frame to. It is a public class that extends JInternalFrame. The 2 methods of SubFrame are getFrame (SubFrame) and internalFrameClosing (void). No methods call getFrame and getFrame calls no methods. No methods call internalFrameClosing and internalFrameClosing calls no methods.
+
+HibernateSessionFactory does not have any design pattern.  It is a public class. The 6 methods of HibernateSessionFactory are getSession (Session), rebuildSessionFactory (void), closeSession (void), getSessionFactory (org.hibernate.SessionFactory), setConfigFile (void) and getConfiguration (Configuration). No methods call getSession and getSession calls only one method : rebuildSessionFactory method of class HibernateSessionFactory. Only one method ( getSession method of class HibernateSessionFactory ) calls rebuildSessionFactory and rebuildSessionFactory calls no methods. No methods call closeSession and closeSession calls no methods. No methods call getSessionFactory and getSessionFactory calls no methods. No methods call setConfigFile and setConfigFile calls no methods. No methods call getConfiguration and getConfiguration calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+PrintSpoolerException does not have any design pattern.  It is a public class that extends Exception.
+memento:
+MainClass does not have any design pattern.  It is a public class that extends JFrame. The 2 methods of MainClass are actionPerformed (void) and main (void). No methods call actionPerformed and actionPerformed calls no methods. No methods call main and main calls no methods.
+
+IdentityCardNo does not have any design pattern.  It is a public class. The 3 methods of IdentityCardNo are getInstance (IdentityCardNo), setIdentityCardNo (void) and getIdentityCardNo (String). No methods call getInstance and getInstance calls only one method : setIdentityCardNo method of class IdentityCardNo. Only one method ( getInstance method of class IdentityCardNo ) calls setIdentityCardNo and setIdentityCardNo calls no methods. No methods call getIdentityCardNo and getIdentityCardNo calls no methods.
+
+PrintSpoolerSingleton acts as an originator for memento PrintSpoolerSingleton, which gets a PrintSpoolerSingleton Instance to. PrintSpoolerSingleton acts as a memento, which manages Jobs, which manages Jobs. PrintSpoolerSingleton acts as a caretaker for memento PrintSpoolerSingleton, which gets Instance, which manages Jobs. PrintSpoolerSingleton acts as a caretaker for memento Singleton, which gets Instance, which manages Jobs. It is a public class. The 2 methods of PrintSpoolerSingleton are getInstance (PrintSpoolerSingleton) and manageJobs (void). No methods call getInstance and getInstance calls no methods. No methods call manageJobs and manageJobs calls no methods.
+
+Singleton acts as an originator for memento Singleton, which gets a Singleton Instance to. Singleton acts as a caretaker for memento Singleton, which gets Instance. Singleton acts as a memento, which gets Instance. It is a public class. The only method of Singleton is getInstance (Singleton). No methods call getInstance and getInstance calls no methods.
+
+SubFrame does not have any design pattern.  It is a public class that extends JInternalFrame. The 2 methods of SubFrame are getFrame (SubFrame) and internalFrameClosing (void). No methods call getFrame and getFrame calls no methods. No methods call internalFrameClosing and internalFrameClosing calls no methods.
+
+HibernateSessionFactory does not have any design pattern.  It is a public class. The 6 methods of HibernateSessionFactory are getSession (Session), rebuildSessionFactory (void), closeSession (void), getSessionFactory (org.hibernate.SessionFactory), setConfigFile (void) and getConfiguration (Configuration). No methods call getSession and getSession calls only one method : rebuildSessionFactory method of class HibernateSessionFactory. Only one method ( getSession method of class HibernateSessionFactory ) calls rebuildSessionFactory and rebuildSessionFactory calls no methods. No methods call closeSession and closeSession calls no methods. No methods call getSessionFactory and getSessionFactory calls no methods. No methods call setConfigFile and setConfigFile calls no methods. No methods call getConfiguration and getConfiguration calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+PrintSpoolerException does not have any design pattern.  It is a public class that extends Exception.

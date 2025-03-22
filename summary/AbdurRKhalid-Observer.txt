@@ -1,0 +1,12 @@
+
+observer:
+EmailNotificationListener acts as an observer, which updates String parameter of eventType, File parameter of file. It is a public class that implements EventListener. The only method of EmailNotificationListener is update (void). No methods call update and update calls no methods.
+
+EventManager acts as a publisher for observer EventListener, which is inherited by, which subscribes String parameter of eventType, EventListener parameter of listener, which unsubscribes String parameter of eventType, EventListener parameter of listener, which notifies String parameter of eventType, File parameter of file. It is a public class. The 3 methods of EventManager are subscribe (void), unsubscribe (void) and notify (void). No methods call subscribe and subscribe calls no methods. No methods call unsubscribe and unsubscribe calls no methods. No methods call notify and notify calls no methods.
+
+EventListener acts as an observer for publisher EventManager, which is inherited by EmailNotificationListener, LogOpenListener, which updates String parameter of eventType, File parameter of file. It is a public interface. The only method of EventListener is update (void). No methods call update and update calls no methods.
+
+Editor does not have any design pattern.  It is a public class. The 2 methods of Editor are openFile (void) and saveFile (void). No methods call openFile and openFile calls no methods. No methods call saveFile and saveFile calls no methods.
+
+LogOpenListener acts as an observer, which updates String parameter of eventType, File parameter of file. It is a public class that implements EventListener. The only method of LogOpenListener is update (void). No methods call update and update calls no methods.
+

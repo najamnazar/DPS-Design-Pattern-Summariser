@@ -1,0 +1,16 @@
+ComputerPart acts as an element for visitor ComputerPart, which is inherited by Monitor, Mouse, Keyboard, Computer, which accepts ComputerPartVisitor parameter of computerPartVisitor. ComputerPart acts as a visitor for element ComputerPart, which is inherited by ComputerPartDisplayVisitor, which accepts ComputerPartVisitor parameter of computerPartVisitor. It is a public interface. The only method of ComputerPart is accept (void). No methods call accept and accept calls no methods.
+
+Monitor does not have any design pattern.  It is a public class that extends ComputerPart and that implements ComputerPart. The only method of Monitor is accept (void). No methods call accept and accept calls no methods.
+
+Mouse does not have any design pattern.  It is a public class that extends ComputerPart and that implements ComputerPart. The only method of Mouse is accept (void). No methods call accept and accept calls no methods.
+
+ComputerPartDisplayVisitor acts as a visitor for element ComputerPart, which overrides, which visits Computer parameter of computer, which visits Mouse parameter of mouse, which visits Keyboard parameter of keyboard, which visits Monitor parameter of monitor. It is a public class that extends ComputerPartVisitor and that implements ComputerPartVisitor. The 4 methods of ComputerPartDisplayVisitor are visit (void), visit (void), visit (void) and visit (void). No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods.
+
+Test does not have any design pattern.  It is a public class. The only method of Test is main (void). No methods call main and main calls no methods.
+
+Keyboard does not have any design pattern.  It is a public class that extends ComputerPart and that implements ComputerPart. The only method of Keyboard is accept (void). No methods call accept and accept calls no methods.
+
+Computer does not have any design pattern.  It is a public class that extends ComputerPart and that implements ComputerPart. The only method of Computer is accept (void). No methods call accept and accept calls no methods.
+
+ComputerPartVisitor does not have any design pattern.  It is a public interface. The 4 methods of ComputerPartVisitor are visit (void), visit (void), visit (void) and visit (void). No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods. No methods call visit and visit calls no methods.
+

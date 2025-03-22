@@ -1,0 +1,8 @@
+
+memento:
+Memento acts as a memento, which gets Saved Time. It is a public class. The only method of Memento is getSavedTime (String). No methods call getSavedTime and getSavedTime calls no methods.
+
+TimeMachineClient does not have any design pattern.  It is a public class. The only method of TimeMachineClient is main (void). No methods call main and main calls no methods.
+
+Life acts as an originator for memento Memento, which saves a Memento To Memento to, which restores Memento parameter of memento From Memento. It is a public class. The 3 methods of Life are set (void), saveToMemento (Memento) and restoreFromMemento (void). No methods call set and set calls no methods. No methods call saveToMemento and saveToMemento calls no methods. No methods call restoreFromMemento and restoreFromMemento calls no methods.
+

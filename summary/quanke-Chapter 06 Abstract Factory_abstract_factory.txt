@@ -1,0 +1,22 @@
+EFactory acts as an abstract factory for Television, AirConditioner, which is inherited by TCLFactory, HaierFactory. It is a public interface. The 2 methods of EFactory are produceTelevision (Television) and produceAirConditioner (AirConditioner). No methods call produceTelevision and produceTelevision calls no methods. No methods call produceAirConditioner and produceAirConditioner calls no methods.
+
+TCLFactory acts as a factory for EFactory, which overrides. It is a public class that extends EFactory and that implements EFactory. The 2 methods of TCLFactory are produceTelevision (Television) and produceAirConditioner (AirConditioner). No methods call produceTelevision and produceTelevision calls no methods. No methods call produceAirConditioner and produceAirConditioner calls no methods.
+
+HairAirConditioner acts as a product for EFactory, which overrides. It is a public class that extends AirConditioner and that implements AirConditioner. The only method of HairAirConditioner is changeTemperature (void). No methods call changeTemperature and changeTemperature calls no methods.
+
+Television acts as an abstract product for Television, which is inherited by TCLTelevision, HaierTelevision. It is a public interface. The only method of Television is play (void). No methods call play and play calls no methods.
+
+TCLTelevision acts as a product for EFactory, which overrides. It is a public class that extends Television and that implements Television. The only method of TCLTelevision is play (void). No methods call play and play calls no methods.
+
+TCLAirConditioner acts as a product for EFactory, which overrides. It is a public class that extends AirConditioner and that implements AirConditioner. The only method of TCLAirConditioner is changeTemperature (void). No methods call changeTemperature and changeTemperature calls no methods.
+
+XMLUtil does not have any design pattern.  It is a public class. The only method of XMLUtil is getBean (Object). No methods call getBean and getBean calls no methods.
+
+HaierFactory acts as a factory for EFactory, which overrides. It is a public class that extends EFactory and that implements EFactory. The 2 methods of HaierFactory are produceTelevision (Television) and produceAirConditioner (AirConditioner). No methods call produceTelevision and produceTelevision calls no methods. No methods call produceAirConditioner and produceAirConditioner calls no methods.
+
+AirConditioner acts as an abstract product for AirConditioner, which is inherited by HairAirConditioner, TCLAirConditioner. It is a public interface. The only method of AirConditioner is changeTemperature (void). No methods call changeTemperature and changeTemperature calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+HaierTelevision acts as a product for EFactory, which overrides. It is a public class that extends Television and that implements Television. The only method of HaierTelevision is play (void). No methods call play and play calls no methods.
+

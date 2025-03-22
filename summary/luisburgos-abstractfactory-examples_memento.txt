@@ -1,0 +1,46 @@
+KingdomTestDrive does not have any design pattern.  It is a public class. The 2 methods of KingdomTestDrive are main (void) and createKingdom (void). No methods call main and main calls no methods. No methods call createKingdom and createKingdom calls no methods.
+
+UFOBossShipFactory acts as an originator for memento ShipWeapon, which makes a ShipWeapon Ship Gun to. UFOBossShipFactory acts as an originator for memento ShipEngine, which makes a ShipEngine Ship Engine to. It is a public class that extends ShipFactory. The 2 methods of UFOBossShipFactory are makeShipGun (ShipWeapon) and makeShipEngine (ShipEngine). No methods call makeShipGun and makeShipGun calls no methods. No methods call makeShipEngine and makeShipEngine calls no methods.
+
+UFOGun acts as a memento, which gets Ship Weapon Information. It is a public class that extends ShipWeapon and that implements ShipWeapon. The only method of UFOGun is getShipWeaponInformation (String). No methods call getShipWeaponInformation and getShipWeaponInformation calls no methods.
+
+MenKingdomFactory acts as an originator for memento Castle, which makes a Castle Castle to. MenKingdomFactory acts as an originator for memento Army, which makes an Army Army to. MenKingdomFactory acts as an originator for memento King, which makes a King King to. It is a public class that extends KingdomFactory. The 3 methods of MenKingdomFactory are makeCastle (Castle), makeKing (King) and makeArmy (Army). No methods call makeCastle and makeCastle calls no methods. No methods call makeKing and makeKing calls no methods. No methods call makeArmy and makeArmy calls no methods.
+
+UFOShipFactory acts as an originator for memento ShipEngine, which makes a ShipEngine Ship Engine to. UFOShipFactory acts as an originator for memento ShipWeapon, which makes a ShipWeapon Ship Gun to. It is a public class that extends ShipFactory. The 2 methods of UFOShipFactory are makeShipGun (ShipWeapon) and makeShipEngine (ShipEngine). No methods call makeShipGun and makeShipGun calls no methods. No methods call makeShipEngine and makeShipEngine calls no methods.
+
+ShipEngine acts as a memento, which is inherited by UFOEngine, UFOBossEngine, which gets Ship Engine Information. It is a public interface. The only method of ShipEngine is getShipEngineInformation (String). No methods call getShipEngineInformation and getShipEngineInformation calls no methods.
+
+UFOEngine acts as a memento, which gets Ship Engine Information. It is a public class that extends ShipEngine and that implements ShipEngine. The only method of UFOEngine is getShipEngineInformation (String). No methods call getShipEngineInformation and getShipEngineInformation calls no methods.
+
+King acts as a memento, which is inherited by MenKing, ElfKing. It is a public interface.ElfCastle acts as a memento, which tos String. It is a public class that implements Castle. The only method of ElfCastle is toString (String). No methods call toString and toString calls no methods.
+
+ShipsAbstractFactoryTestDrive does not have any design pattern.  It is a public class. The only method of ShipsAbstractFactoryTestDrive is main (void). No methods call main and main calls no methods.
+
+UFOBossEngine acts as a memento, which gets Ship Engine Information. It is a public class that extends ShipEngine and that implements ShipEngine. The only method of UFOBossEngine is getShipEngineInformation (String). No methods call getShipEngineInformation and getShipEngineInformation calls no methods.
+
+UFOShip acts as a caretaker for memento ShipEngine, which makes Ship. UFOShip acts as a caretaker for memento ShipWeapon, which makes Ship. It is a public class that extends Ship. The only method of UFOShip is makeShip (void). No methods call makeShip and makeShip calls no methods.
+
+Army acts as a memento, which is inherited by MenArmy, ElfArmy. It is a public interface.MenKing acts as a memento, which tos String. It is a public class that implements King. The only method of MenKing is toString (String). No methods call toString and toString calls no methods.
+
+ElfArmy acts as a memento, which tos String. It is a public class that implements Army. The only method of ElfArmy is toString (String). No methods call toString and toString calls no methods.
+
+ElfKing acts as a memento, which tos String. It is a public class that implements King. The only method of ElfKing is toString (String). No methods call toString and toString calls no methods.
+
+KingdomFactory acts as an originator for memento Castle, which is inherited by, which makes a Castle Castle to. KingdomFactory acts as an originator for memento King, which is inherited by, which makes a King King to. KingdomFactory acts as an originator for memento Army, which is inherited by, which makes an Army Army to. It is a public abstract class. The 3 methods of KingdomFactory are makeCastle (Castle), makeKing (King) and makeArmy (Army). No methods call makeCastle and makeCastle calls no methods. No methods call makeKing and makeKing calls no methods. No methods call makeArmy and makeArmy calls no methods.
+
+UFOBossGun acts as a memento, which gets Ship Weapon Information. It is a public class that extends ShipWeapon and that implements ShipWeapon. The only method of UFOBossGun is getShipWeaponInformation (String). No methods call getShipWeaponInformation and getShipWeaponInformation calls no methods.
+
+ElfKingdomFactory acts as an originator for memento Castle, which makes a Castle Castle to. ElfKingdomFactory acts as an originator for memento Army, which makes an Army Army to. ElfKingdomFactory acts as an originator for memento King, which makes a King King to. It is a public class that extends KingdomFactory. The 3 methods of ElfKingdomFactory are makeCastle (Castle), makeKing (King) and makeArmy (Army). No methods call makeCastle and makeCastle calls no methods. No methods call makeKing and makeKing calls no methods. No methods call makeArmy and makeArmy calls no methods.
+
+MenCastle acts as a memento, which tos String. It is a public class that implements Castle. The only method of MenCastle is toString (String). No methods call toString and toString calls no methods.
+
+MenArmy acts as a memento, which tos String. It is a public class that implements Army. The only method of MenArmy is toString (String). No methods call toString and toString calls no methods.
+
+Castle acts as a memento, which is inherited by MenCastle, ElfCastle. It is a public interface.ShipFactory acts as an originator for memento ShipEngine, which is inherited by, which makes a ShipEngine Ship Engine to. ShipFactory acts as an originator for memento ShipWeapon, which is inherited by, which makes a ShipWeapon Ship Gun to. It is a public abstract class. The 2 methods of ShipFactory are makeShipGun (ShipWeapon) and makeShipEngine (ShipEngine). No methods call makeShipGun and makeShipGun calls no methods. No methods call makeShipEngine and makeShipEngine calls no methods.
+
+UFOBossShip acts as a caretaker for memento ShipEngine, which makes Ship. UFOBossShip acts as a caretaker for memento ShipWeapon, which makes Ship. It is a public class that extends Ship. The only method of UFOBossShip is makeShip (void). No methods call makeShip and makeShip calls no methods.
+
+Ship acts as a caretaker for memento ShipEngine, which is inherited by, which gets Name, which sets String parameter of name Name, which gets Ship Engine, which sets ShipEngine parameter of shipEngine Ship Engine, which gets Ship Weapon, which sets ShipWeapon parameter of shipWeapon Ship Weapon, which tos String, which makes Ship. Ship acts as a caretaker for memento ShipWeapon, which is inherited by, which gets Name, which sets String parameter of name Name, which gets Ship Engine, which sets ShipEngine parameter of shipEngine Ship Engine, which gets Ship Weapon, which sets ShipWeapon parameter of shipWeapon Ship Weapon, which tos String, which makes Ship. It is a public abstract class. The 8 methods of Ship are getName (String), setName (void), getShipEngine (ShipEngine), setShipEngine (void), getShipWeapon (ShipWeapon), setShipWeapon (void), toString (String) and makeShip (void). Only one method ( toString method of class Ship ) calls getName and getName calls no methods. No methods call setName and setName calls no methods. No methods call getShipEngine and getShipEngine calls no methods. No methods call setShipEngine and setShipEngine calls no methods. No methods call getShipWeapon and getShipWeapon calls no methods. No methods call setShipWeapon and setShipWeapon calls no methods. No methods call toString and toString calls only one method : getName method of class Ship. No methods call makeShip and makeShip calls no methods.
+
+ShipWeapon acts as a memento, which is inherited by UFOBossGun, UFOGun, which gets Ship Weapon Information. It is a public interface. The only method of ShipWeapon is getShipWeaponInformation (String). No methods call getShipWeaponInformation and getShipWeaponInformation calls no methods.
+

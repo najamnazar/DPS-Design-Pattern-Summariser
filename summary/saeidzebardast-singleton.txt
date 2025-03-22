@@ -1,0 +1,10 @@
+
+singleton:
+GetTheTiles does not have any design pattern.  It is a public class that implements Runnable. The only method of GetTheTiles is run (void). No methods call run and run calls no methods.
+
+Singleton acts as a singleton, which gets a Singleton Instance to. It is a public class. The 3 methods of Singleton are getInstance (Singleton), getLetterList (LinkedList<String>) and getTiles (LinkedList<String>). No methods call getInstance and getInstance calls no methods. No methods call getLetterList and getLetterList calls no methods. No methods call getTiles and getTiles calls no methods.
+
+ScrabbleTestThreads does not have any design pattern.  It is a public class. The only method of ScrabbleTestThreads is main (void). No methods call main and main calls no methods.
+
+ScrabbleTest does not have any design pattern.  It is a public class. The only method of ScrabbleTest is main (void). No methods call main and main calls no methods.
+

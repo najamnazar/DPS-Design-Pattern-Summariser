@@ -1,0 +1,26 @@
+
+decorator:
+Decorator does not have any design pattern.  It is a public class that extends Component. The 3 methods of Decorator are operation (void), operation (void) and addedBehavior (void). No methods call operation and operation calls no methods. No methods call operation and operation calls no methods. No methods call addedBehavior and addedBehavior calls no methods.
+
+Changer acts as a decorator for component Transform, which is inherited by Airplane, Robot. It is a public class that extends Transform and that implements Transform. The only method of Changer is move (void). No methods call move and move calls no methods.
+
+Airplane acts as a decorator for decorator Changer. It is a public class that extends Changer. The only method of Airplane is fly (void). No methods call fly and fly calls no methods.
+
+Car acts as a component for decorator Changer. It is a public final class that extends Transform and that implements Transform. The only method of Car is move (void). No methods call move and move calls no methods.
+
+AdvancedCipher acts as a decorator for decorator CipherDecorator. It is a public class that extends CipherDecorator. The 2 methods of AdvancedCipher are encrypt (String) and mod (String). No methods call encrypt and encrypt calls only one method : mod method of class AdvancedCipher. Only one method ( encrypt method of class AdvancedCipher ) calls mod and mod calls no methods.
+
+Cipher acts as a component for CipherDecorator, which is inherited by SimpleCipher. It is a public interface. The only method of Cipher is encrypt (String). No methods call encrypt and encrypt calls no methods.
+
+CipherDecorator acts as a decorator for component Cipher, which is inherited by AdvancedCipher, ComplexCipher. It is a public class that extends Cipher and that implements Cipher. The only method of CipherDecorator is encrypt (String). No methods call encrypt and encrypt calls no methods.
+
+Client does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.
+
+Transform acts as a component for Changer, which is inherited by Car. It is a public interface. The only method of Transform is move (void). No methods call move and move calls no methods.
+
+SimpleCipher acts as a component for decorator CipherDecorator. It is a public final class that extends Cipher and that implements Cipher. The only method of SimpleCipher is encrypt (String). No methods call encrypt and encrypt calls no methods.
+
+Robot acts as a decorator for decorator Changer. It is a public class that extends Changer. The only method of Robot is say (void). No methods call say and say calls no methods.
+
+ComplexCipher acts as a decorator for decorator CipherDecorator. It is a public class that extends CipherDecorator. The 2 methods of ComplexCipher are encrypt (String) and reverse (String). No methods call encrypt and encrypt calls only one method : reverse method of class ComplexCipher. Only one method ( encrypt method of class ComplexCipher ) calls reverse and reverse calls no methods.
+

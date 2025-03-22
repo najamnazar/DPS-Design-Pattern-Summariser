@@ -1,0 +1,8 @@
+Caretaker acts as a publisher for observer Memento, which is inherited by, which adds Memento parameter of m Memento, which gets int parameter of index Memento. It is a class. The 2 methods of Caretaker are addMemento (void) and getMemento (Memento). No methods call addMemento and addMemento calls no methods. No methods call getMemento and getMemento calls no methods.
+
+Memento acts as an observer for publisher Caretaker, which is inherited by, which gets Saved Article. It is a public class. The only method of Memento is getSavedArticle (String). No methods call getSavedArticle and getSavedArticle calls no methods.
+
+TestMemento does not have any design pattern.  It is a public class that extends JFrame. The 2 methods of TestMemento are main (void) and actionPerformed (void). No methods call main and main calls no methods. No methods call actionPerformed and actionPerformed calls no methods.
+
+Originator does not have any design pattern.  It is a public class. The 3 methods of Originator are set (void), storeInMemento (Memento) and restoreFromMemento (String). No methods call set and set calls no methods. No methods call storeInMemento and storeInMemento calls no methods. No methods call restoreFromMemento and restoreFromMemento calls no methods.
+

@@ -1,0 +1,4 @@
+Test does not have any design pattern.  It is a public class. The only method of Test is main (void). No methods call main and main calls no methods.
+
+Singleton acts as an originator for memento Singleton, which gets a Singleton Instance to. Singleton acts as a caretaker for memento Singleton, which gets Instance. Singleton acts as a memento, which gets Instance. It is a public class. The only method of Singleton is getInstance (Singleton). No methods call getInstance and getInstance calls no methods.
+
