@@ -1,0 +1,14 @@
+App does not have any design pattern.  It is a public class. The only method of App is main (void). No methods call main and main calls no methods.
+
+Sword acts as a product for WeaponFactory, which overrides. It is a public class that implements Weapon. The only method of Sword is toString (String). No methods call toString and toString calls no methods.
+
+Builder does not have any design pattern.  It is a public interface. The only method of Builder is add (void). No methods call add and add calls no methods.
+
+WeaponFactory acts as an abstract factory for Weapon, which is inherited by. It is a public interface. The 2 methods of WeaponFactory are create (Weapon) and factory (WeaponFactory). No methods call create and create calls no methods. No methods call factory and factory calls no methods.
+
+Bow acts as a product for WeaponFactory, which overrides. It is a public class that implements Weapon. The only method of Bow is toString (String). No methods call toString and toString calls no methods.
+
+Weapon acts as an abstract product for Weapon, which is inherited by Sword, Bow, Axe, Spear. It is a public interface.Axe acts as a product for WeaponFactory, which overrides. It is a public class that implements Weapon. The only method of Axe is toString (String). No methods call toString and toString calls no methods.
+
+Spear acts as a product for WeaponFactory, which overrides. It is a public class that implements Weapon. The only method of Spear is toString (String). No methods call toString and toString calls no methods.
+

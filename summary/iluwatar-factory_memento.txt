@@ -1,0 +1,10 @@
+CoinFactory acts as an originator for memento Coin, which gets a Coin Coin to. It is a public class. The only method of CoinFactory is getCoin (Coin). No methods call getCoin and getCoin calls no methods.
+
+App does not have any design pattern.  It is a public class. The only method of App is main (void). No methods call main and main calls no methods.
+
+Coin acts as a memento, which is inherited by GoldCoin, CopperCoin, which gets Description. It is a public interface. The only method of Coin is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+GoldCoin acts as a memento, which gets Description. It is a public class that implements Coin. The only method of GoldCoin is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+CopperCoin acts as a memento, which gets Description. It is a public class that implements Coin. The only method of CopperCoin is getDescription (String). No methods call getDescription and getDescription calls no methods.
+

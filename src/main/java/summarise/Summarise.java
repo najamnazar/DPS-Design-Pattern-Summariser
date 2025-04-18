@@ -44,6 +44,10 @@ public class Summarise {
 
                 // generate class detail description, put summary as a parameter so that
                 // design pattern details shall be included.
+                ArrayList classDetails = Utils.getClassOrInterfaceDetails(fileEntry.getValue());
+                if (classDetails.size() == 0) {
+                    continue;
+                }
                 HashMap classDetail = Utils.getClassOrInterfaceDetails(fileEntry.getValue()).get(0);
                 String classDescription = classInterfaceSummariser.generateClassDescription(nlgFactory,
                         realiser, classDetail, fileSummarySet);

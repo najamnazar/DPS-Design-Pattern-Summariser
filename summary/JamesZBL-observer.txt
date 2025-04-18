@@ -1,0 +1,12 @@
+
+observer:
+Northern acts as an observer, which updates TimePoint parameter of time. It is a public class that implements TimeObserver. The only method of Northern is update (void). No methods call update and update calls no methods.
+
+Time acts as a publisher for observer TimeObserver, which is inherited by, which adds TimeObserver parameter of observer Observer, which removes TimeObserver parameter of observer Observer, which passes, which notifies Observers. It is a public class. The 4 methods of Time are addObserver (void), removeObserver (void), passing (void) and notifyObservers (void). No methods call addObserver and addObserver calls no methods. No methods call removeObserver and removeObserver calls no methods. No methods call passing and passing calls only one method : notifyObservers method of class Time. Only one method ( passing method of class Time ) calls notifyObservers and notifyObservers calls no methods.
+
+Southern acts as an observer, which updates TimePoint parameter of time. It is a public class that implements TimeObserver. The only method of Southern is update (void). No methods call update and update calls no methods.
+
+TimeObserver acts as an observer for publisher Time, which is inherited by Northern, Southern, which updates TimePoint parameter of time. It is a public interface. The only method of TimeObserver is update (void). No methods call update and update calls no methods.
+
+Application does not have any design pattern.  It is a public class. The only method of Application is main (void). No methods call main and main calls no methods.
+

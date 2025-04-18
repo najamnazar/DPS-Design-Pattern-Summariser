@@ -1,0 +1,10 @@
+Singleton1 acts as a singleton, which gets a Singleton1 Instance to. It is a public class. The only method of Singleton1 is getInstance (Singleton1). No methods call getInstance and getInstance calls no methods.
+
+SingletonClient does not have any design pattern.  It is a public class. The only method of SingletonClient is run (void). No methods call run and run calls no methods.
+
+Singleton4 acts as a singleton, which gets a Singleton4 Instance to. It is a public class. The only method of Singleton4 is getInstance (Singleton4). No methods call getInstance and getInstance calls no methods.
+
+Singleton3 acts as a singleton, which gets a Singleton3 Instance to. It is a public class. The only method of Singleton3 is getInstance (Singleton3). No methods call getInstance and getInstance calls no methods.
+
+Singleton5 acts as a singleton, which gets a Singleton5 Instance to. It is a public class. The only method of Singleton5 is getInstance (Singleton5). No methods call getInstance and getInstance calls no methods.
+

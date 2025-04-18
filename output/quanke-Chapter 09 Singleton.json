@@ -1,0 +1,551 @@
+{
+	"final_summary" : "\nsingleton:\nMainClass does not have any design pattern.  It is a public class that extends JFrame. The 2 methods of MainClass are actionPerformed (void) and main (void). No methods call actionPerformed and actionPerformed calls no methods. No methods call main and main calls no methods.\n\nIdentityCardNo acts as a singleton, which gets an IdentityCardNo Instance to. It is a public class. The 3 methods of IdentityCardNo are getInstance (IdentityCardNo), setIdentityCardNo (void) and getIdentityCardNo (String). No methods call getInstance and getInstance calls only one method : setIdentityCardNo method of class IdentityCardNo. Only one method ( getInstance method of class IdentityCardNo ) calls setIdentityCardNo and setIdentityCardNo calls no methods. No methods call getIdentityCardNo and getIdentityCardNo calls no methods.\n\nPrintSpoolerSingleton acts as a singleton, which gets a PrintSpoolerSingleton Instance to. It is a public class. The 2 methods of PrintSpoolerSingleton are getInstance (PrintSpoolerSingleton) and manageJobs (void). No methods call getInstance and getInstance calls no methods. No methods call manageJobs and manageJobs calls no methods.\n\nSingleton acts as a singleton, which gets a Singleton Instance to. It is a public class. The only method of Singleton is getInstance (Singleton). No methods call getInstance and getInstance calls no methods.\n\nSubFrame acts as a singleton, which gets a SubFrame Frame to. It is a public class that extends JInternalFrame. The 2 methods of SubFrame are getFrame (SubFrame) and internalFrameClosing (void). No methods call getFrame and getFrame calls no methods. No methods call internalFrameClosing and internalFrameClosing calls no methods.\n\nHibernateSessionFactory does not have any design pattern.  It is a public class. The 6 methods of HibernateSessionFactory are getSession (Session), rebuildSessionFactory (void), closeSession (void), getSessionFactory (org.hibernate.SessionFactory), setConfigFile (void) and getConfiguration (Configuration). No methods call getSession and getSession calls only one method : rebuildSessionFactory method of class HibernateSessionFactory. Only one method ( getSession method of class HibernateSessionFactory ) calls rebuildSessionFactory and rebuildSessionFactory calls no methods. No methods call closeSession and closeSession calls no methods. No methods call getSessionFactory and getSessionFactory calls no methods. No methods call setConfigFile and setConfigFile calls no methods. No methods call getConfiguration and getConfiguration calls no methods.\n\nClient does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.\n\nPrintSpoolerException does not have any design pattern.  It is a public class that extends Exception.\nmemento:\nMainClass does not have any design pattern.  It is a public class that extends JFrame. The 2 methods of MainClass are actionPerformed (void) and main (void). No methods call actionPerformed and actionPerformed calls no methods. No methods call main and main calls no methods.\n\nIdentityCardNo does not have any design pattern.  It is a public class. The 3 methods of IdentityCardNo are getInstance (IdentityCardNo), setIdentityCardNo (void) and getIdentityCardNo (String). No methods call getInstance and getInstance calls only one method : setIdentityCardNo method of class IdentityCardNo. Only one method ( getInstance method of class IdentityCardNo ) calls setIdentityCardNo and setIdentityCardNo calls no methods. No methods call getIdentityCardNo and getIdentityCardNo calls no methods.\n\nPrintSpoolerSingleton acts as an originator for memento PrintSpoolerSingleton, which gets a PrintSpoolerSingleton Instance to. PrintSpoolerSingleton acts as a memento, which manages Jobs, which manages Jobs. PrintSpoolerSingleton acts as a caretaker for memento PrintSpoolerSingleton, which gets Instance, which manages Jobs. PrintSpoolerSingleton acts as a caretaker for memento Singleton, which gets Instance, which manages Jobs. It is a public class. The 2 methods of PrintSpoolerSingleton are getInstance (PrintSpoolerSingleton) and manageJobs (void). No methods call getInstance and getInstance calls no methods. No methods call manageJobs and manageJobs calls no methods.\n\nSingleton acts as an originator for memento Singleton, which gets a Singleton Instance to. Singleton acts as a caretaker for memento Singleton, which gets Instance. Singleton acts as a memento, which gets Instance. It is a public class. The only method of Singleton is getInstance (Singleton). No methods call getInstance and getInstance calls no methods.\n\nSubFrame does not have any design pattern.  It is a public class that extends JInternalFrame. The 2 methods of SubFrame are getFrame (SubFrame) and internalFrameClosing (void). No methods call getFrame and getFrame calls no methods. No methods call internalFrameClosing and internalFrameClosing calls no methods.\n\nHibernateSessionFactory does not have any design pattern.  It is a public class. The 6 methods of HibernateSessionFactory are getSession (Session), rebuildSessionFactory (void), closeSession (void), getSessionFactory (org.hibernate.SessionFactory), setConfigFile (void) and getConfiguration (Configuration). No methods call getSession and getSession calls only one method : rebuildSessionFactory method of class HibernateSessionFactory. Only one method ( getSession method of class HibernateSessionFactory ) calls rebuildSessionFactory and rebuildSessionFactory calls no methods. No methods call closeSession and closeSession calls no methods. No methods call getSessionFactory and getSessionFactory calls no methods. No methods call setConfigFile and setConfigFile calls no methods. No methods call getConfiguration and getConfiguration calls no methods.\n\nClient does not have any design pattern.  It is a public class. The only method of Client is main (void). No methods call main and main calls no methods.\n\nPrintSpoolerException does not have any design pattern.  It is a public class that extends Exception.",
+	"design_pattern" : [ {
+		"singleton" : [ "IdentityCardNo", "PrintSpoolerSingleton", "Singleton", "SubFrame" ]
+	}, {
+		"memento" : {
+			"PrintSpoolerSingleton" : {
+				"caretaker" : {
+					"PrintSpoolerSingleton" : [ ]
+				},
+				"originator" : {
+					"PrintSpoolerSingleton" : [ ]
+				},
+				"concrete_memento" : [ ]
+			},
+			"Singleton" : {
+				"caretaker" : {
+					"PrintSpoolerSingleton" : [ ],
+					"Singleton" : [ ]
+				},
+				"originator" : {
+					"Singleton" : [ ]
+				},
+				"concrete_memento" : [ ]
+			}
+		}
+	} ],
+	"summary_NLG" : {
+		"singleton" : {
+			"IdentityCardNo" : [ "IdentityCardNo acts as a singleton, which gets an IdentityCardNo Instance to." ],
+			"PrintSpoolerSingleton" : [ "PrintSpoolerSingleton acts as a singleton, which gets a PrintSpoolerSingleton Instance to." ],
+			"Singleton" : [ "Singleton acts as a singleton, which gets a Singleton Instance to." ],
+			"SubFrame" : [ "SubFrame acts as a singleton, which gets a SubFrame Frame to." ]
+		},
+		"memento" : {
+			"PrintSpoolerSingleton" : [ "PrintSpoolerSingleton acts as an originator for memento PrintSpoolerSingleton, which gets a PrintSpoolerSingleton Instance to.", "PrintSpoolerSingleton acts as a memento, which manages Jobs, which manages Jobs.", "PrintSpoolerSingleton acts as a caretaker for memento PrintSpoolerSingleton, which gets Instance, which manages Jobs.", "PrintSpoolerSingleton acts as a caretaker for memento Singleton, which gets Instance, which manages Jobs." ],
+			"Singleton" : [ "Singleton acts as an originator for memento Singleton, which gets a Singleton Instance to.", "Singleton acts as a caretaker for memento Singleton, which gets Instance.", "Singleton acts as a memento, which gets Instance." ]
+		}
+	},
+	"quanke-Chapter 09 Singleton" : {
+		"MainClass" : {
+			"FIELDDETAIL" : [ {
+				"FIELDCOMMONTYPE" : "JButton",
+				"FIELDMODIFIERTYPE" : [ "private" ],
+				"FIELDDECLARATION" : [ "button" ],
+				"FIELDDATATYPE" : "JButton",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "JDesktopPane",
+				"FIELDMODIFIERTYPE" : [ "private" ],
+				"FIELDDECLARATION" : [ "desktopPane" ],
+				"FIELDDATATYPE" : "JDesktopPane",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "SubFrame",
+				"FIELDMODIFIERTYPE" : [ "private" ],
+				"FIELDDECLARATION" : [ "iFrame = null" ],
+				"FIELDDATATYPE" : "SubFrame",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			} ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 12,
+				"EXTENDSFROM" : [ "JFrame" ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "MainClass",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "public" ],
+				"CONSTRUCTORPARAMETER" : [ ]
+			} ],
+			"VARIABLEDETAIL" : [ {
+				"VARIABLEDECLARATION" : [ "c = this.getContentPane()" ],
+				"VARIABLECOMMONTYPE" : "Container",
+				"VARIABLEELEMENTTYPE" : "Container"
+			} ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "actionPerformed",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public" ],
+				"METHODBODYLINETYPE" : [ "IF", "EXPRESSION", "EXPRESSION" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 3,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 3,
+				"METHODPARAMETER" : [ {
+					"PARAMETERNAME" : "e",
+					"PARAMETERTYPE" : "ActionEvent"
+				} ]
+			}, {
+				"METHODNAME" : "main",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ {
+					"PARAMETERNAME" : "args",
+					"PARAMETERTYPE" : "String[]"
+				} ]
+			} ]
+		},
+		"IdentityCardNo" : {
+			"FIELDDETAIL" : [ {
+				"FIELDCOMMONTYPE" : "IdentityCardNo",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "instance = null" ],
+				"FIELDDATATYPE" : "IdentityCardNo",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "String",
+				"FIELDMODIFIERTYPE" : [ "private" ],
+				"FIELDDECLARATION" : [ "no" ],
+				"FIELDDATATYPE" : "String",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			} ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 3,
+				"EXTENDSFROM" : [ ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "IdentityCardNo",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "private" ],
+				"CONSTRUCTORPARAMETER" : [ ]
+			} ],
+			"VARIABLEDETAIL" : [ ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "getInstance",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "IF", "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 3,
+				"METHODRETURNTYPE" : "IdentityCardNo",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ {
+					"CALLEECLASS" : "IdentityCardNo",
+					"CALLEEMETHODNAME" : "setIdentityCardNo"
+				} ],
+				"NUMBEROFMETHODLINES" : 2,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "setIdentityCardNo",
+				"NUMBEROFINCOMINGMETHODS" : 1,
+				"INCOMINGMETHOD" : [ {
+					"CALLEDMETHODNAME" : "getInstance",
+					"CALLEDCLASS" : "IdentityCardNo"
+				} ],
+				"METHODMODIFIERTYPE" : [ "private" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ {
+					"PARAMETERNAME" : "no",
+					"PARAMETERTYPE" : "String"
+				} ]
+			}, {
+				"METHODNAME" : "getIdentityCardNo",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public" ],
+				"METHODBODYLINETYPE" : [ "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "String",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ ]
+			} ]
+		},
+		"PrintSpoolerSingleton" : {
+			"FIELDDETAIL" : [ {
+				"FIELDCOMMONTYPE" : "PrintSpoolerSingleton",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "instance = null" ],
+				"FIELDDATATYPE" : "PrintSpoolerSingleton",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			} ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 2,
+				"EXTENDSFROM" : [ ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "PrintSpoolerSingleton",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "private" ],
+				"CONSTRUCTORPARAMETER" : [ ]
+			} ],
+			"VARIABLEDETAIL" : [ ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "getInstance",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "IF", "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 1,
+				"METHODRETURNTYPE" : "PrintSpoolerSingleton",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 2,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "manageJobs",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 1,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ ]
+			} ]
+		},
+		"Singleton" : {
+			"FIELDDETAIL" : [ {
+				"FIELDCOMMONTYPE" : "Singleton",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "instance = null" ],
+				"FIELDDATATYPE" : "Singleton",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			} ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 0,
+				"EXTENDSFROM" : [ ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "Singleton",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "private" ],
+				"CONSTRUCTORPARAMETER" : [ ]
+			} ],
+			"VARIABLEDETAIL" : [ ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "getInstance",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "IF", "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "Singleton",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 2,
+				"METHODPARAMETER" : [ ]
+			} ]
+		},
+		"SubFrame" : {
+			"FIELDDETAIL" : [ {
+				"FIELDCOMMONTYPE" : "SubFrame",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "frame" ],
+				"FIELDDATATYPE" : "SubFrame",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			} ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 4,
+				"EXTENDSFROM" : [ "JInternalFrame" ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "SubFrame",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "private" ],
+				"CONSTRUCTORPARAMETER" : [ ]
+			} ],
+			"VARIABLEDETAIL" : [ ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "getFrame",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "IF", "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "SubFrame",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 2,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "internalFrameClosing",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public" ],
+				"METHODBODYLINETYPE" : [ "IF" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ {
+					"PARAMETERNAME" : "e",
+					"PARAMETERTYPE" : "InternalFrameEvent"
+				} ]
+			} ]
+		},
+		"HibernateSessionFactory" : {
+			"FIELDDETAIL" : [ {
+				"FIELDCOMMONTYPE" : "String",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "CONFIG_FILE_LOCATION = \"/hibernate.cfg.xml\"" ],
+				"FIELDDATATYPE" : "String",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "ThreadLocal<Session>",
+				"FIELDMODIFIERTYPE" : [ "private", "static", "final" ],
+				"FIELDDECLARATION" : [ "threadLocal = new ThreadLocal<Session>()" ],
+				"FIELDDATATYPE" : "ThreadLocal<Session>",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "Configuration",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "configuration = new Configuration()" ],
+				"FIELDDATATYPE" : "Configuration",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "org.hibernate.SessionFactory",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "sessionFactory" ],
+				"FIELDDATATYPE" : "org.hibernate.SessionFactory",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			}, {
+				"FIELDCOMMONTYPE" : "String",
+				"FIELDMODIFIERTYPE" : [ "private", "static" ],
+				"FIELDDECLARATION" : [ "configFile = CONFIG_FILE_LOCATION" ],
+				"FIELDDATATYPE" : "String",
+				"FIELDACCESSSPECIFIER" : "PRIVATE"
+			} ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 16,
+				"EXTENDSFROM" : [ ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "HibernateSessionFactory",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "private" ],
+				"CONSTRUCTORPARAMETER" : [ ]
+			} ],
+			"VARIABLEDETAIL" : [ {
+				"VARIABLEDECLARATION" : [ "session = (Session) threadLocal.get()" ],
+				"VARIABLECOMMONTYPE" : "Session",
+				"VARIABLEELEMENTTYPE" : "Session"
+			}, {
+				"VARIABLEDECLARATION" : [ "session = (Session) threadLocal.get()" ],
+				"VARIABLECOMMONTYPE" : "Session",
+				"VARIABLEELEMENTTYPE" : "Session"
+			} ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "getSession",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION", "IF", "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 1,
+				"NUMBEROFOUTGOINGMETHODS" : 5,
+				"METHODRETURNTYPE" : "Session",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ {
+					"CALLEECLASS" : "HibernateSessionFactory",
+					"CALLEEMETHODNAME" : "rebuildSessionFactory"
+				} ],
+				"NUMBEROFMETHODLINES" : 3,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "rebuildSessionFactory",
+				"NUMBEROFINCOMINGMETHODS" : 1,
+				"INCOMINGMETHOD" : [ {
+					"CALLEDMETHODNAME" : "getSession",
+					"CALLEDCLASS" : "HibernateSessionFactory"
+				} ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "OTHER" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 4,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "closeSession",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION", "EXPRESSION", "IF" ],
+				"NUMBEROFMETHODVARIABLES" : 1,
+				"NUMBEROFOUTGOINGMETHODS" : 3,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 3,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "getSessionFactory",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "org.hibernate.SessionFactory",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ ]
+			}, {
+				"METHODNAME" : "setConfigFile",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION", "EXPRESSION" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 2,
+				"METHODPARAMETER" : [ {
+					"PARAMETERNAME" : "configFile",
+					"PARAMETERTYPE" : "String"
+				} ]
+			}, {
+				"METHODNAME" : "getConfiguration",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "RETURN" ],
+				"NUMBEROFMETHODVARIABLES" : 0,
+				"NUMBEROFOUTGOINGMETHODS" : 0,
+				"METHODRETURNTYPE" : "Configuration",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 1,
+				"METHODPARAMETER" : [ ]
+			} ]
+		},
+		"Client" : {
+			"FIELDDETAIL" : [ ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 10,
+				"EXTENDSFROM" : [ ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "Client",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ ],
+			"VARIABLEDETAIL" : [ {
+				"VARIABLEDECLARATION" : [ "no1", "no2" ],
+				"VARIABLECOMMONTYPE" : "IdentityCardNo",
+				"VARIABLEELEMENTTYPE" : "IdentityCardNo"
+			}, {
+				"VARIABLEDECLARATION" : [ "str1", "str2" ],
+				"VARIABLECOMMONTYPE" : "String",
+				"VARIABLEELEMENTTYPE" : "String"
+			} ],
+			"METHODDETAIL" : [ {
+				"METHODNAME" : "main",
+				"NUMBEROFINCOMINGMETHODS" : 0,
+				"INCOMINGMETHOD" : [ ],
+				"METHODMODIFIERTYPE" : [ "public", "static" ],
+				"METHODBODYLINETYPE" : [ "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION", "EXPRESSION" ],
+				"NUMBEROFMETHODVARIABLES" : 4,
+				"NUMBEROFOUTGOINGMETHODS" : 10,
+				"METHODRETURNTYPE" : "void",
+				"METHODOVERRIDE" : [ ],
+				"OUTGOINGMETHOD" : [ ],
+				"NUMBEROFMETHODLINES" : 11,
+				"METHODPARAMETER" : [ {
+					"PARAMETERNAME" : "a",
+					"PARAMETERTYPE" : "String[]"
+				} ]
+			} ]
+		},
+		"PrintSpoolerException" : {
+			"FIELDDETAIL" : [ ],
+			"CLASSORINTERFACEDETAIL" : [ {
+				"CLASSACCESSSPECIFIER" : "PUBLIC",
+				"NUMBEROFMETHODCALLS" : 0,
+				"EXTENDSFROM" : [ "Exception" ],
+				"IMPLEMENTSFROM" : [ ],
+				"CLASSNAME" : "PrintSpoolerException",
+				"ISINTERFACEORNOT" : false,
+				"CLASSTYPEPARAMS" : [ ],
+				"ISABSTRACTORNOT" : false,
+				"CLASSMODIFIERTYPE" : [ "public" ]
+			} ],
+			"CONSTRUCTORDETAIL" : [ {
+				"CONSTRUCTORMODIFIER" : [ "public" ],
+				"CONSTRUCTORPARAMETER" : [ {
+					"PARAMETERNAME" : "message",
+					"PARAMETERTYPE" : "String"
+				} ]
+			} ],
+			"VARIABLEDETAIL" : [ ],
+			"METHODDETAIL" : [ ]
+		}
+	}
+}

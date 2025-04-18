@@ -1,0 +1,20 @@
+GenWeather does not have any design pattern.  It is a public class that extends Observable<GenWeather, Race, WeatherType>. The only method of GenWeather is timePasses (void). No methods call timePasses and timePasses calls no methods.
+
+Weather acts as a publisher for observer WeatherObserver, which is inherited by, which adds WeatherObserver parameter of obs Observer, which removes WeatherObserver parameter of obs Observer, which times Passes, which notifies Observers. It is a public class. The 4 methods of Weather are addObserver (void), removeObserver (void), timePasses (void) and notifyObservers (void). No methods call addObserver and addObserver calls no methods. No methods call removeObserver and removeObserver calls no methods. No methods call timePasses and timePasses calls only one method : notifyObservers method of class Weather. Only one method ( timePasses method of class Weather ) calls notifyObservers and notifyObservers calls no methods.
+
+App does not have any design pattern.  It is a public class. The only method of App is main (void). No methods call main and main calls no methods.
+
+GenOrcs does not have any design pattern.  It is a public class that implements Race. The only method of GenOrcs is update (void). No methods call update and update calls no methods.
+
+Orcs acts as an observer, which updates WeatherType parameter of currentWeather. It is a public class that implements WeatherObserver. The only method of Orcs is update (void). No methods call update and update calls no methods.
+
+Observer does not have any design pattern.  It is a public interface. The only method of Observer is update (void). No methods call update and update calls no methods.
+
+Race does not have any design pattern.  It is a public interface that extends Observer<GenWeather, Race, WeatherType>.WeatherObserver acts as an observer for publisher Weather, which is inherited by Orcs, Hobbits, which updates WeatherType parameter of currentWeather. It is a public interface. The only method of WeatherObserver is update (void). No methods call update and update calls no methods.
+
+Hobbits acts as an observer, which updates WeatherType parameter of currentWeather. It is a public class that implements WeatherObserver. The only method of Hobbits is update (void). No methods call update and update calls no methods.
+
+GenHobbits does not have any design pattern.  It is a public class that implements Race. The only method of GenHobbits is update (void). No methods call update and update calls no methods.
+
+Observable does not have any design pattern.  It is a public abstract class. The 3 methods of Observable are addObserver (void), removeObserver (void) and notifyObservers (void). No methods call addObserver and addObserver calls no methods. No methods call removeObserver and removeObserver calls no methods. No methods call notifyObservers and notifyObservers calls no methods.
+

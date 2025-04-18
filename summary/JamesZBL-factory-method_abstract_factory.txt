@@ -1,0 +1,14 @@
+ChineseCook acts as a factory for Cook, which overrides cookFood method of Cook. It is a public class that implements Cook. The only method of ChineseCook is cookFood (Food). No methods call cookFood and cookFood calls no methods.
+
+WesternFood acts as a factory for Food, which overrides getFoodType method of Food. WesternFood acts as a product for Cook, which overrides getFoodType method of Food. It is a public class that implements Food. The 2 methods of WesternFood are getFoodType (FoodType) and toString (String). No methods call getFoodType and getFoodType calls no methods. No methods call toString and toString calls no methods.
+
+Cook acts as an abstract factory for Food, which is inherited by ChineseCook, WesternCook. It is a public interface. The only method of Cook is cookFood (Food). No methods call cookFood and cookFood calls no methods.
+
+ChineseFood acts as a product for Cook, which overrides getFoodType method of Food. ChineseFood acts as a factory for Food, which overrides getFoodType method of Food. It is a public class that implements Food. The 2 methods of ChineseFood are getFoodType (FoodType) and toString (String). No methods call getFoodType and getFoodType calls no methods. No methods call toString and toString calls no methods.
+
+Application does not have any design pattern.  It is a public class. The 2 methods of Application are main (void) and makeFood (void). No methods call main and main calls only one method : makeFood method of class Application. Only one method ( main method of class Application ) calls makeFood and makeFood calls no methods.
+
+WesternCook acts as a factory for Cook, which overrides cookFood method of Cook. It is a public class that implements Cook. The only method of WesternCook is cookFood (Food). No methods call cookFood and cookFood calls no methods.
+
+Food acts as an abstract product for Food, which is inherited by WesternFood, ChineseFood. Food acts as an abstract factory for, which is inherited by WesternFood, ChineseFood. It is a public interface. The only method of Food is getFoodType (FoodType). No methods call getFoodType and getFoodType calls no methods.
+

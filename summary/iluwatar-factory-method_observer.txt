@@ -1,0 +1,10 @@
+App does not have any design pattern.  It is a public class. The only method of App is main (void). No methods call main and main calls no methods.
+
+Blacksmith acts as a publisher for observer WeaponType, which is inherited by OrcBlacksmith, ElfBlacksmith, which manufactures WeaponType parameter of weaponType Weapon. It is a public interface. The only method of Blacksmith is manufactureWeapon (Weapon). No methods call manufactureWeapon and manufactureWeapon calls no methods.
+
+OrcBlacksmith acts as a publisher for observer WeaponType, which manufactures WeaponType parameter of weaponType Weapon, which tos String. OrcBlacksmith acts as a publisher for observer WeaponType, which is inherited by, which manufactures WeaponType parameter of weaponType Weapon, which tos String. It is a public class that extends Blacksmith and that implements Blacksmith. The 2 methods of OrcBlacksmith are manufactureWeapon (Weapon) and toString (String). No methods call manufactureWeapon and manufactureWeapon calls no methods. No methods call toString and toString calls no methods.
+
+ElfBlacksmith acts as a publisher for observer WeaponType, which manufactures WeaponType parameter of weaponType Weapon, which tos String. ElfBlacksmith acts as a publisher for observer WeaponType, which is inherited by, which manufactures WeaponType parameter of weaponType Weapon, which tos String. It is a public class that extends Blacksmith and that implements Blacksmith. The 2 methods of ElfBlacksmith are manufactureWeapon (Weapon) and toString (String). No methods call manufactureWeapon and manufactureWeapon calls no methods. No methods call toString and toString calls no methods.
+
+Weapon does not have any design pattern.  It is a public interface. The only method of Weapon is weaponType (WeaponType). No methods call weaponType and weaponType calls no methods.
+

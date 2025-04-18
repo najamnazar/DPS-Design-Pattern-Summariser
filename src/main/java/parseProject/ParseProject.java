@@ -1,6 +1,7 @@
 package parseProject;
 
 import com.github.javaparser.StaticJavaParser;
+import com.github.javaparser.ParserConfiguration.LanguageLevel;
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.body.MethodDeclaration;
 import com.github.javaparser.ast.expr.MethodCallExpr;
@@ -45,6 +46,7 @@ public class ParseProject {
         // referenced from Java Callgraph
         JavaSymbolSolver symbolSolver = SymbolSolverFactory.getJavaSymbolSolver(srcPathList, libPathList);
         StaticJavaParser.getParserConfiguration().setSymbolResolver(symbolSolver);
+        StaticJavaParser.getParserConfiguration().setLanguageLevel(LanguageLevel.JAVA_16);
 
         // referenced from Java callgraph
         // 获取src目录中的全部java文件，并进行解析
@@ -146,6 +148,9 @@ public class ParseProject {
 
                             // add incoming method for the method in caller class
                             HashMap<String, ArrayList> parsedCalleeClass = parsedFile.get(calleeClass);
+                            if (parsedCalleeClass == null) {
+                                continue;
+                            }
                             ArrayList<HashMap> parsedCallingMethods = Utils.getMethodDetails(parsedCalleeClass);
 
                             for (HashMap parsedCallingMethod : parsedCallingMethods) {

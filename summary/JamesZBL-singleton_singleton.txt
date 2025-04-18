@@ -1,0 +1,10 @@
+ThreadSafeDoubleCheckLocking acts as a singleton, which gets a ThreadSafeDoubleCheckLocking Instance to. It is a public final class. The only method of ThreadSafeDoubleCheckLocking is getInstance (ThreadSafeDoubleCheckLocking). No methods call getInstance and getInstance calls no methods.
+
+LazyInitializationDirector acts as a singleton, which gets a LazyInitializationDirector Instance to. It is a public final class. The only method of LazyInitializationDirector is getInstance (LazyInitializationDirector). No methods call getInstance and getInstance calls no methods.
+
+Director acts as a singleton, which gets a Director Instance to. It is a public final class. The only method of Director is getInstance (Director). No methods call getInstance and getInstance calls no methods.
+
+ThreadSafeLazyLoadDirector acts as a singleton, which gets a ThreadSafeLazyLoadDirector Instance to. It is a public final class. The only method of ThreadSafeLazyLoadDirector is getInstance (ThreadSafeLazyLoadDirector). No methods call getInstance and getInstance calls no methods.
+
+Application does not have any design pattern.  It is a public class. The only method of Application is main (void). No methods call main and main calls no methods.
+

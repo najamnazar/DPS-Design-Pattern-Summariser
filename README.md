@@ -12,7 +12,7 @@ java -cp target\dependency\*;target\code-summarisation-1.0.0.jar Application
 ### Linux
 
 ```
-./mvnw clean dependency:copy-dependencies install
+sh ./mvnw clean dependency:copy-dependencies install
 java -cp target/dependency/\*:target/code-summarisation-1.0.0.jar Application
 ```
 

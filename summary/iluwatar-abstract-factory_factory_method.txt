@@ -1,0 +1,28 @@
+App does not have any design pattern.  It is a public class that implements Runnable. The 3 methods of App are main (void), run (void) and createKingdom (void). No methods call main and main calls only one method : run method of class App. Only one method ( main method of class App ) calls run and run calls no methods. No methods call createKingdom and createKingdom calls no methods.
+
+Army does not have any design pattern.  It is a public interface. The only method of Army is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+ElfArmy does not have any design pattern.  It is a public class that implements Army. The only method of ElfArmy is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+ElfKing does not have any design pattern.  It is a public class that implements King. The only method of ElfKing is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+KingdomFactory acts as a factory for KingdomFactory, which overrides. KingdomFactory acts as a factory method for Castle, which is inherited by KingdomFactory, KingdomFactory. It is a public interface. The 3 methods of KingdomFactory are createCastle (Castle), createKing (King) and createArmy (Army). No methods call createCastle and createCastle calls no methods. No methods call createKing and createKing calls no methods. No methods call createArmy and createArmy calls no methods.
+
+ElfKingdomFactory does not have any design pattern.  It is a public class that implements KingdomFactory. The 3 methods of ElfKingdomFactory are createCastle (Castle), createKing (King) and createArmy (Army). No methods call createCastle and createCastle calls no methods. No methods call createKing and createKing calls no methods. No methods call createArmy and createArmy calls no methods.
+
+OrcKingdomFactory does not have any design pattern.  It is a public class that implements KingdomFactory. The 3 methods of OrcKingdomFactory are createCastle (Castle), createKing (King) and createArmy (Army). No methods call createCastle and createCastle calls no methods. No methods call createKing and createKing calls no methods. No methods call createArmy and createArmy calls no methods.
+
+King does not have any design pattern.  It is a public interface. The only method of King is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+Kingdom does not have any design pattern.  It is a public class. The only method of Kingdom is makeFactory (KingdomFactory). No methods call makeFactory and makeFactory calls no methods.
+
+OrcCastle acts as a product for KingdomFactory, which overrides getDescription method of Castle. It is a public class that implements Castle. The only method of OrcCastle is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+Castle acts as an abstract product for KingdomFactory, which is inherited by OrcCastle, ElfCastle. It is a public interface. The only method of Castle is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+ElfCastle acts as a product for KingdomFactory, which overrides getDescription method of Castle. It is a public class that implements Castle. The only method of ElfCastle is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+OrcArmy does not have any design pattern.  It is a public class that implements Army. The only method of OrcArmy is getDescription (String). No methods call getDescription and getDescription calls no methods.
+
+OrcKing does not have any design pattern.  It is a public class that implements King. The only method of OrcKing is getDescription (String). No methods call getDescription and getDescription calls no methods.
+

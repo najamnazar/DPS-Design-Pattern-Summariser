@@ -31,8 +31,14 @@ public class Application {
             System.out.println("\n" + project.getName());
             HashMap<String, Object> parsedProject = new HashMap<>();
 
-            // Each directory in input folder is parsed
-            parsedProject = parseProject.parseProject(project);
+            try{
+                // Each directory in input folder is parsed
+                parsedProject = parseProject.parseProject(project);
+            } catch (Exception e){
+                System.out.println("\tError during project " + project.getName());
+                e.printStackTrace();
+                continue;
+            }
 
             ObjectWriter writer = new ObjectMapper()
                     .writer(new DefaultPrettyPrinter().withObjectIndenter(new DefaultIndenter("\t", "\n")));
