@@ -117,19 +117,21 @@ public class VisitorPattern extends DesignPatterns {
     public void summarise(HashMap<String, HashMap> fileDetails, HashMap designPatternDetails,
             MultiValuedMap<String, String> summary) {
         for (Map.Entry<String, HashMap> visitorEntry : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
 
             String element = visitorEntry.getKey();
 
             String elementSentence = "";
-            HashSet<String> concreteElements = (HashSet<String>) visitorEntry.getValue().get("concrete_element");
-            HashMap<String, HashSet> visitors = (HashMap<String, HashSet>) visitorEntry.getValue().get("visitor");
+            HashSet<String> concreteElements = (HashSet<String>) visitorEntry.getValue().getOrDefault("concrete_element", 
+                    new HashSet<>());
+            HashMap<String, HashSet> visitors = (HashMap<String, HashSet>) visitorEntry.getValue().getOrDefault("visitor",
+                    new HashMap<>());
             HashSet baseVisitors = new HashSet<>();
 
             for (String concreteElement : concreteElements) {
 
-                HashMap classDetail = fileDetails.get(concreteElement);
-                HashMap parentClassDetail = fileDetails.get(element);
+                HashMap classDetail = fileDetails.getOrDefault(concreteElement, new HashMap<>());
+                HashMap parentClassDetail = fileDetails.getOrDefault(element, new HashMap<>());
 
                 ArrayList<DesignPatternMethodMessage> cemmal = new ArrayList<>();
                 DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
@@ -177,8 +179,8 @@ public class VisitorPattern extends DesignPatterns {
                     DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
                     ArrayList<String> overrideMethodArray = new ArrayList<>();
 
-                    HashMap classDetail = fileDetails.get(concreteVisitor);
-                    HashMap parentClassDetail = fileDetails.get(visitor);
+                    HashMap classDetail = fileDetails.getOrDefault(concreteVisitor, new HashMap<>());
+                    HashMap parentClassDetail = fileDetails.getOrDefault(visitor, new HashMap<>());
                     overrideMethodArray
                             .addAll(Utils.checkMethodOverride(classDetail, parentClassDetail, " method of " + element));
 
@@ -232,7 +234,7 @@ public class VisitorPattern extends DesignPatterns {
                 DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
 
                 // find all elements that the visitor accepts
-                HashMap classDetail = fileDetails.get(visitor);
+                HashMap classDetail = fileDetails.getOrDefault(visitor, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
                     mm = new DesignPatternMethodMessage();
                     ArrayList<String> methodParameterClasses = Utils
@@ -272,7 +274,7 @@ public class VisitorPattern extends DesignPatterns {
                 ecm.setRelatedClassDesignPattern("visitor");
                 ArrayList<DesignPatternMethodMessage> emmal = new ArrayList<>();
 
-                classDetail = fileDetails.get(element);
+                classDetail = fileDetails.getOrDefault(element, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
                     mm = new DesignPatternMethodMessage();
                     ArrayList<String> methodParameterClasses = Utils

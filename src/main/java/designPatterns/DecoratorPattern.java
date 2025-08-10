@@ -152,14 +152,14 @@ public class DecoratorPattern extends DesignPatterns {
             MultiValuedMap<String, String> summary) {
 
         for (Map.Entry<String, HashMap> patternDetails : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
 
             String decorator = patternDetails.getKey();
             String component = "";
 
-            for (String concreteDecorator : (ArrayList<String>) patternDetails.getValue().get("concrete_decorator")) {
-                HashMap classDetail = fileDetails.get(concreteDecorator);
-                HashMap parentClassDetail = fileDetails.get(decorator);
+            for (String concreteDecorator : (ArrayList<String>) patternDetails.getValue().getOrDefault("concrete_decorator", new ArrayList<>())) {
+                HashMap classDetail = fileDetails.getOrDefault(concreteDecorator, new HashMap<>());
+                HashMap parentClassDetail = fileDetails.getOrDefault(decorator, new HashMap<>());
 
                 ArrayList<DesignPatternMethodMessage> mmal = new ArrayList<>();
                 ArrayList<String> overrideMethodArray = new ArrayList<>();
@@ -181,13 +181,13 @@ public class DecoratorPattern extends DesignPatterns {
             }
 
             // generate concrete component sentence
-            HashMap<String, HashMap> componentDetails = (HashMap) patternDetails.getValue().get("component");
+            HashMap<String, HashMap> componentDetails = (HashMap) patternDetails.getValue().getOrDefault("component", new HashMap<>());
             for (Map.Entry<String, HashMap> componentDetail : componentDetails.entrySet()) {
                 component = componentDetail.getKey();
                 for (String concreteComponent : (ArrayList<String>) componentDetail.getValue()
-                        .get("concrete_component")) {
-                    HashMap classDetail = fileDetails.get(concreteComponent);
-                    HashMap parentClassDetail = fileDetails.get(decorator);
+                        .getOrDefault("concrete_component", new ArrayList<>())) {
+                    HashMap classDetail = fileDetails.getOrDefault(concreteComponent, new HashMap<>());
+                    HashMap parentClassDetail = fileDetails.getOrDefault(decorator, new HashMap<>());
 
                     ArrayList<DesignPatternMethodMessage> mmal = new ArrayList<>();
                     ArrayList<String> overrideMethodArray = new ArrayList<>();
@@ -209,7 +209,7 @@ public class DecoratorPattern extends DesignPatterns {
 
                 // generate component sentence
                 String concreteComponents = String.join(", ", (ArrayList<String>) componentDetail.getValue()
-                        .get("concrete_component"));
+                        .getOrDefault("concrete_component", new ArrayList<>()));
                 DesignPatternClassMessage ccm = new DesignPatternClassMessage(component, "component");
                 ccm.setRelatedClassName(decorator);
 
@@ -222,7 +222,7 @@ public class DecoratorPattern extends DesignPatterns {
 
             // generate decorator sentences
             String concreteDecorators = String.join(", ",
-                    (ArrayList<String>) patternDetails.getValue().get("concrete_decorator"));
+                    (ArrayList<String>) patternDetails.getValue().getOrDefault("concrete_decorator", new ArrayList<>()));
 
             DesignPatternClassMessage dcm = new DesignPatternClassMessage(decorator, patternNameAsText);
             dcm.setRelatedClassDesignPattern("component");

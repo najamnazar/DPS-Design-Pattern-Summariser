@@ -93,13 +93,13 @@ public class FacadePattern extends DesignPatterns {
     public void summarise(HashMap<String, HashMap> fileDetails, HashMap designPatternDetails,
             MultiValuedMap<String, String> summary) {
         for (Map.Entry<String, ArrayList<String>> facadeDetails : ((HashMap<String, ArrayList<String>>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
 
             // generate subsystem sentence
             String facade = facadeDetails.getKey();
             for (String subsystem : facadeDetails.getValue()) {
 
-                HashMap classDetail = fileDetails.get(subsystem);
+                HashMap classDetail = fileDetails.getOrDefault(subsystem, new HashMap<>());
 
                 DesignPatternClassMessage sscm = new DesignPatternClassMessage(subsystem, "subsystem");
                 sscm.setRelatedClassName(facade);
@@ -134,7 +134,7 @@ public class FacadePattern extends DesignPatterns {
             fcm.setRelatedClassName(subsystemClasses);
             fcm.setRelatedClassDesignPattern("subsystem");
 
-            HashMap facadeClassDetail = fileDetails.get(facade);
+            HashMap facadeClassDetail = fileDetails.getOrDefault(facade, new HashMap<>());
             DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
             ArrayList<DesignPatternMethodMessage> fmmal = new ArrayList<>();
             for (HashMap methodDetail : Utils.getMethodDetails(facadeClassDetail)) {

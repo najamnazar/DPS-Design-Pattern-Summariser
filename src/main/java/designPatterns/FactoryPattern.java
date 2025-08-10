@@ -110,12 +110,12 @@ public class FactoryPattern extends DesignPatterns {
 
         // Details of factory
         for (Map.Entry<String, HashMap> factoryDetails : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
             String factory = factoryDetails.getKey();
-            String abstractProduct = (String) factoryDetails.getValue().get("abstract_product");
-            for (String concreteProduct : (ArrayList<String>) factoryDetails.getValue().get("concrete_product")) {
-                HashMap classDetail = (HashMap) fileDetails.get(concreteProduct);
-                HashMap parentClassDetail = (HashMap) fileDetails.get(abstractProduct);
+            String abstractProduct = (String) factoryDetails.getValue().getOrDefault("abstract_product", "");
+            for (String concreteProduct : (ArrayList<String>) factoryDetails.getValue().getOrDefault("concrete_product", new ArrayList<>())) {
+                HashMap classDetail = (HashMap) fileDetails.getOrDefault(concreteProduct, new HashMap<>());
+                HashMap parentClassDetail = (HashMap) fileDetails.getOrDefault(abstractProduct, new HashMap<>());
 
                 DesignPatternClassMessage cm = new DesignPatternClassMessage(concreteProduct, patternNameAsText);
                 ArrayList<DesignPatternMethodMessage> mmal = new ArrayList<>();
@@ -137,10 +137,10 @@ public class FactoryPattern extends DesignPatterns {
                 summary.put(concreteProduct, concreteProductSentence);
             }
 
-            for (String concreteFactory : (ArrayList<String>) factoryDetails.getValue().get("concrete_factory")) {
+            for (String concreteFactory : (ArrayList<String>) factoryDetails.getValue().getOrDefault("concrete_factory", new ArrayList<>())) {
 
-                HashMap classDetail = (HashMap) fileDetails.get(concreteFactory);
-                HashMap parentClassDetail = (HashMap) fileDetails.get(abstractProduct);
+                HashMap classDetail = (HashMap) fileDetails.getOrDefault(concreteFactory, new HashMap<>());
+                HashMap parentClassDetail = (HashMap) fileDetails.getOrDefault(abstractProduct, new HashMap<>());
 
                 DesignPatternClassMessage cm = new DesignPatternClassMessage(concreteFactory, patternNameAsText);
                 ArrayList<DesignPatternMethodMessage> mmal = new ArrayList<>();
@@ -163,9 +163,9 @@ public class FactoryPattern extends DesignPatterns {
             }
 
             String concreteProductsAsText = String.join(", ",
-                    (ArrayList<String>) factoryDetails.getValue().get("concrete_product"));
+                    (ArrayList<String>) factoryDetails.getValue().getOrDefault("concrete_product", new ArrayList<>()));
             String concreteFactoriesAsText = String.join(", ",
-                    (ArrayList<String>) factoryDetails.getValue().get("concrete_factory"));
+                    (ArrayList<String>) factoryDetails.getValue().getOrDefault("concrete_factory", new ArrayList<>()));
 
             // for abstract product
             DesignPatternClassMessage apcm = new DesignPatternClassMessage(abstractProduct,

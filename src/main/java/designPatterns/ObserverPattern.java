@@ -104,7 +104,7 @@ public class ObserverPattern extends DesignPatterns {
     public void summarise(HashMap<String, HashMap> fileDetails, HashMap designPatternDetails,
             MultiValuedMap<String, String> summary) {
         for (Map.Entry<String, HashMap> observerDetails : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
 
             String observer = observerDetails.getKey();
             String publisher = "";
@@ -112,7 +112,7 @@ public class ObserverPattern extends DesignPatterns {
 
             // generate publisher sentence
             for (Map.Entry<String, HashSet> publisherEntry : ((HashMap<String, HashSet>) observerDetails.getValue()
-                    .get("publisher")).entrySet()) {
+                    .getOrDefault("publisher", new HashMap<>())).entrySet()) {
 
                 publisher = publisherEntry.getKey();
                 for (String concretePublisher : (HashSet<String>) publisherEntry.getValue()) {
@@ -123,7 +123,7 @@ public class ObserverPattern extends DesignPatterns {
                     cscm.setRelatedClassDesignPattern(patternNameAsText);
                     cscm.setRelatedClassName(observer);
 
-                    HashMap classDetail = fileDetails.get(concretePublisher);
+                    HashMap classDetail = fileDetails.getOrDefault(concretePublisher, new HashMap<>());
                     for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                         mm = new DesignPatternMethodMessage();
@@ -163,7 +163,7 @@ public class ObserverPattern extends DesignPatterns {
                 scm.setRelatedClassDesignPattern(patternNameAsText);
                 scm.setRelatedClassName(observer);
 
-                HashMap classDetail = fileDetails.get(publisher);
+                HashMap classDetail = fileDetails.getOrDefault(publisher, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                     mm = new DesignPatternMethodMessage();
@@ -198,13 +198,13 @@ public class ObserverPattern extends DesignPatterns {
             }
 
             // generate concrete observer sentence
-            for (String concreteObserver : (HashSet<String>) observerDetails.getValue().get("concrete_observer")) {
+            for (String concreteObserver : (HashSet<String>) observerDetails.getValue().getOrDefault("concrete_observer", new HashSet<>())) {
 
                 DesignPatternClassMessage cocm = new DesignPatternClassMessage(concreteObserver, patternNameAsText);
                 DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
                 ArrayList<DesignPatternMethodMessage> commal = new ArrayList<>();
 
-                HashMap classDetail = fileDetails.get(concreteObserver);
+                HashMap classDetail = fileDetails.getOrDefault(concreteObserver, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                     mm = new DesignPatternMethodMessage();
@@ -237,7 +237,7 @@ public class ObserverPattern extends DesignPatterns {
 
             // generate observer sentence
             String concreteObservers = String.join(", ",
-                    (HashSet<String>) observerDetails.getValue().get("concrete_observer"));
+                    (HashSet<String>) observerDetails.getValue().getOrDefault("concrete_observer", new HashSet<>()));
 
             DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
             ArrayList<DesignPatternMethodMessage> ommal = new ArrayList<>();
@@ -245,7 +245,7 @@ public class ObserverPattern extends DesignPatterns {
             ocm.setRelatedClassName(publisher + ", " + concretePublishers);
             ocm.setRelatedClassDesignPattern("publisher");
 
-            HashMap classDetail = fileDetails.get(observer);
+            HashMap classDetail = fileDetails.getOrDefault(observer, new HashMap<>());
             for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                 mm = new DesignPatternMethodMessage();

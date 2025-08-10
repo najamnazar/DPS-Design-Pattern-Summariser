@@ -96,11 +96,11 @@ public class AdapterPattern extends DesignPatterns {
     public void summarise(HashMap<String, HashMap> fileDetails, HashMap designPatternDetails,
             MultiValuedMap<String, String> summary) {
         for (Map.Entry<String, HashMap> adapterDetails : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
 
             String adapter = adapterDetails.getKey();
-            HashSet<String> targets = (HashSet) adapterDetails.getValue().get("target");
-            HashSet<String> adaptees = (HashSet) adapterDetails.getValue().get("adaptee");
+            HashSet<String> targets = (HashSet) adapterDetails.getValue().getOrDefault("target", new HashSet<>());
+            HashSet<String> adaptees = (HashSet) adapterDetails.getValue().getOrDefault("adaptee", new HashSet<>());
 
             // generate target sentence
             for (String adaptee : adaptees) {
@@ -112,7 +112,7 @@ public class AdapterPattern extends DesignPatterns {
                     cm.setRelatedClassName(adapter);
 
                     // could be target?
-                    HashMap classDetail = fileDetails.get(target);
+                    HashMap classDetail = fileDetails.getOrDefault(target, new HashMap<>());
                     for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                         ArrayList<String> incomingMethodArrayList = Utils
@@ -139,7 +139,7 @@ public class AdapterPattern extends DesignPatterns {
                 adapteeCm.setRelatedClassDesignPattern("adapter");
                 adapteeCm.setRelatedClassName(adapter);
 
-                HashMap adapteeDetails = fileDetails.get(adaptee);
+                HashMap adapteeDetails = fileDetails.getOrDefault(adaptee, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(adapteeDetails)) {
                     ArrayList<String> incomingMethodArrayList = Utils
                             .getMethodNameFromMatchingIncomingMethod(methodDetail, adapter, adaptee);
@@ -161,7 +161,7 @@ public class AdapterPattern extends DesignPatterns {
                 ArrayList<DesignPatternMethodMessage> adapterMmal = new ArrayList<>();
                 DesignPatternClassMessage adapterCm = new DesignPatternClassMessage(adapter, "adapter");
 
-                HashMap adapterDetail = fileDetails.get(adapter);
+                HashMap adapterDetail = fileDetails.getOrDefault(adapter, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(adapterDetail)) {
                     ArrayList<String> incomingMethodArrayList = Utils
                             .getMethodNameFromMatchingIncomingMethod(methodDetail, adapter, adaptee);

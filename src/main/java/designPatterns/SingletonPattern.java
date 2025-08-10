@@ -90,12 +90,12 @@ public class SingletonPattern extends DesignPatterns {
     @Override
     public void summarise(HashMap<String, HashMap> fileDetails, HashMap designPatternDetails,
             MultiValuedMap<String, String> summary) {
-        for (String singleton : (ArrayList<String>) designPatternDetails.get(patternName)) {
+        for (String singleton : (ArrayList<String>) designPatternDetails.getOrDefault(patternName, new ArrayList<>())) {
 
             DesignPatternClassMessage cm = new DesignPatternClassMessage(singleton, patternNameAsText);
             ArrayList<DesignPatternMethodMessage> mmal = new ArrayList<>();
 
-            HashMap classDetails = fileDetails.get(singleton);
+            HashMap classDetails = fileDetails.getOrDefault(singleton, new HashMap<>());
             for (HashMap methodDetail : Utils.getMethodDetails(classDetails)) {
 
                 DesignPatternMethodMessage mm = new DesignPatternMethodMessage();

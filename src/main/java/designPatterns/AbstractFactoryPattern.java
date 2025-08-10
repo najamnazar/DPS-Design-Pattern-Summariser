@@ -102,12 +102,12 @@ public class AbstractFactoryPattern extends DesignPatterns {
 
         // Details of abstract factory
         for (Map.Entry<String, HashMap> abstractFactoryDetails : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
             String abstractFactory = abstractFactoryDetails.getKey();
             ArrayList<String> concreteFactoryList = (ArrayList) abstractFactoryDetails.getValue()
-                    .get("concrete_factory");
+                    .getOrDefault("concrete_factory", new ArrayList<>());
             HashMap<String, ArrayList<String>> abstractProductMap = (HashMap<String, ArrayList<String>>) abstractFactoryDetails
-                    .getValue().get("abstract_product");
+                    .getValue().getOrDefault("abstract_product", new HashMap<>());
 
             // Details of abstract products
             for (Map.Entry<String, ArrayList<String>> abstractProductDetails : abstractProductMap.entrySet()) {
@@ -115,8 +115,8 @@ public class AbstractFactoryPattern extends DesignPatterns {
                 ArrayList<String> concreteProductList = abstractProductDetails.getValue();
                 for (String concreteProduct : concreteProductList) {
 
-                    HashMap classDetail = (HashMap) fileDetails.get(concreteProduct);
-                    HashMap parentClassDetail = (HashMap) fileDetails.get(abstractProduct);
+                    HashMap classDetail = (HashMap) fileDetails.getOrDefault(concreteProduct, new HashMap<>());
+                    HashMap parentClassDetail = (HashMap) fileDetails.getOrDefault(abstractProduct, new HashMap<>());
 
                     DesignPatternClassMessage cm = new DesignPatternClassMessage(concreteProduct,
                             patternNameAsText);
@@ -157,8 +157,8 @@ public class AbstractFactoryPattern extends DesignPatterns {
             // Concrete Factory
             for (String concreteFactory : concreteFactoryList) {
 
-                HashMap classDetail = (HashMap) fileDetails.get(concreteFactory);
-                HashMap parentClassDetail = (HashMap) fileDetails.get(abstractFactory);
+                HashMap classDetail = (HashMap) fileDetails.getOrDefault(concreteFactory, new HashMap<>());
+                HashMap parentClassDetail = (HashMap) fileDetails.getOrDefault(abstractFactory, new HashMap<>());
 
                 ArrayList<DesignPatternMethodMessage> mmal = new ArrayList<>();
                 ArrayList<String> overrideMethodArray = new ArrayList<>();

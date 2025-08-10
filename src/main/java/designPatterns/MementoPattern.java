@@ -34,7 +34,7 @@ public class MementoPattern extends DesignPatterns {
 
                 // No Memento methods can have parameters
                 boolean hasParameters = false;
-                HashMap mementoClassDetail = fileDetails.get(methodReturnType);
+                HashMap mementoClassDetail = fileDetails.getOrDefault(methodReturnType, new HashMap<>());
                 for (HashMap mementoMethodDetail : Utils.getMethodDetails(mementoClassDetail)) {
                     if (Utils.getMethodParameters(mementoMethodDetail).size() > 0) {
                         hasParameters = true;
@@ -142,10 +142,10 @@ public class MementoPattern extends DesignPatterns {
             MultiValuedMap<String, String> summary) {
 
         for (Map.Entry<String, HashMap> mementoEntry : ((HashMap<String, HashMap>) designPatternDetails
-                .get(patternName)).entrySet()) {
+                .getOrDefault(patternName, new HashMap<>())).entrySet()) {
 
             String memento = mementoEntry.getKey();
-            HashSet<String> concreteMementos = ((HashSet) mementoEntry.getValue().get("concrete_memento"));
+            HashSet<String> concreteMementos = ((HashSet) mementoEntry.getValue().getOrDefault("concrete_memento", new HashSet<>()));
             if (concreteMementos.size() != 0) {
                 for (String concreteMemento : concreteMementos) {
 
@@ -153,7 +153,7 @@ public class MementoPattern extends DesignPatterns {
                     DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
                     ArrayList<DesignPatternMethodMessage> cmmmal = new ArrayList<>();
 
-                    HashMap classDetail = fileDetails.get(concreteMemento);
+                    HashMap classDetail = fileDetails.getOrDefault(concreteMemento, new HashMap<>());
                     for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                         String methodName = Utils.getMethodName(methodDetail);
@@ -184,7 +184,7 @@ public class MementoPattern extends DesignPatterns {
             }
 
             for (Map.Entry<String, HashSet> caretakerEntry : ((HashMap<String, HashSet>) mementoEntry.getValue()
-                    .get("caretaker")).entrySet()) {
+                    .getOrDefault("caretaker", new HashMap<>())).entrySet()) {
 
                 String caretaker = caretakerEntry.getKey();
 
@@ -200,7 +200,7 @@ public class MementoPattern extends DesignPatterns {
                         cctcm.setRelatedClassDesignPattern(patternNameAsText);
                         cctcm.setRelatedClassName(memento);
 
-                        HashMap classDetail = fileDetails.get(concretecaretaker);
+                        HashMap classDetail = fileDetails.getOrDefault(concretecaretaker, new HashMap<>());
                         for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                             mm = new DesignPatternMethodMessage();
@@ -240,7 +240,7 @@ public class MementoPattern extends DesignPatterns {
                 ctcm.setRelatedClassDesignPattern(patternNameAsText);
                 ctcm.setRelatedClassName(memento);
 
-                HashMap classDetail = fileDetails.get(caretaker);
+                HashMap classDetail = fileDetails.getOrDefault(caretaker, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                     mm = new DesignPatternMethodMessage();
@@ -276,7 +276,7 @@ public class MementoPattern extends DesignPatterns {
             }
 
             for (Map.Entry<String, HashSet> originatorEntry : ((HashMap<String, HashSet>) mementoEntry.getValue()
-                    .get("originator")).entrySet()) {
+                    .getOrDefault("originator", new HashMap<>())).entrySet()) {
 
                 String originator = originatorEntry.getKey();
 
@@ -293,7 +293,7 @@ public class MementoPattern extends DesignPatterns {
                         cocm.setRelatedClassDesignPattern(patternNameAsText);
                         cocm.setRelatedClassName(memento);
 
-                        HashMap classDetail = fileDetails.get(concreteoriginator);
+                        HashMap classDetail = fileDetails.getOrDefault(concreteoriginator, new HashMap<>());
                         for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                             mm = new DesignPatternMethodMessage();
@@ -364,7 +364,7 @@ public class MementoPattern extends DesignPatterns {
                 ocm.setRelatedClassDesignPattern(patternNameAsText);
                 ocm.setRelatedClassName(memento);
 
-                HashMap classDetail = fileDetails.get(originator);
+                HashMap classDetail = fileDetails.getOrDefault(originator, new HashMap<>());
                 for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
 
                     mm = new DesignPatternMethodMessage();
@@ -434,7 +434,7 @@ public class MementoPattern extends DesignPatterns {
             DesignPatternMethodMessage mm = new DesignPatternMethodMessage();
             ArrayList<DesignPatternMethodMessage> mmmal = new ArrayList<>();
 
-            HashMap classDetail = fileDetails.get(memento);
+            HashMap classDetail = fileDetails.getOrDefault(memento, new HashMap<>());
             for (HashMap methodDetail : Utils.getMethodDetails(classDetail)) {
                 String methodName = Utils.getMethodName(methodDetail);
                 ArrayList<String> methodParameters = Utils.getMethodParameterAsText(methodDetail);

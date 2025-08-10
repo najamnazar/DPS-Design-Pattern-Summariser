@@ -46,7 +46,7 @@ public class ParseProject {
         // referenced from Java Callgraph
         JavaSymbolSolver symbolSolver = SymbolSolverFactory.getJavaSymbolSolver(srcPathList, libPathList);
         StaticJavaParser.getParserConfiguration().setSymbolResolver(symbolSolver);
-        StaticJavaParser.getParserConfiguration().setLanguageLevel(LanguageLevel.JAVA_16);
+        StaticJavaParser.getParserConfiguration().setLanguageLevel(LanguageLevel.BLEEDING_EDGE);
 
         // referenced from Java callgraph
         // 获取src目录中的全部java文件，并进行解析
@@ -64,25 +64,45 @@ public class ParseProject {
 
         // go through all files under the project
         for (File file : fileArrayList) {
-            HashMap<String, ArrayList> fileDetails = new HashMap<>();
-            CompilationUnit compilationUnit = StaticJavaParser.parse(file);
+            try {
+                HashMap<String, ArrayList> fileDetails = new HashMap<>();
+                CompilationUnit compilationUnit = new CompilationUnit();
 
-            MethodsExtr methodsExtr = new MethodsExtr();
+                try {
+                    compilationUnit = StaticJavaParser.parse(file);
+                } catch (Exception e) {
+                    System.out.println("Skipping file due to parse error: " + file.getName() + ", " + e.getMessage());
+                    continue;
+                } catch (Error e) {
+                    System.out.println("Skipping file due to parse error: " + file.getName() + ", " + e.getMessage());
+                    continue;
+                }
 
-            FieldExtr fieldExtr = new FieldExtr();
-            ConstructorExtr constructorExtr = new ConstructorExtr();
-            VariableExtr variableExtr = new VariableExtr();
-            ClassOrInterfaceExtr classOrInterfaceExtr = new ClassOrInterfaceExtr();
+                MethodsExtr methodsExtr = new MethodsExtr();
 
-            fileDetails.put("FIELDDETAIL", fieldExtr.getFieldInfo(compilationUnit));
-            fileDetails.put("CONSTRUCTORDETAIL", constructorExtr.getConstructorInfo(compilationUnit));
-            fileDetails.put("VARIABLEDETAIL", variableExtr.getVariableInfo(compilationUnit));
-            fileDetails.put("METHODDETAIL", methodsExtr.getMethodInfo(compilationUnit));
-            fileDetails.put("CLASSORINTERFACEDETAIL", classOrInterfaceExtr.getClassInterfaceInfo(compilationUnit));
-            extract(compilationUnit, callerCallees, skipPatterns);
+                FieldExtr fieldExtr = new FieldExtr();
+                ConstructorExtr constructorExtr = new ConstructorExtr();
+                VariableExtr variableExtr = new VariableExtr();
+                ClassOrInterfaceExtr classOrInterfaceExtr = new ClassOrInterfaceExtr();
 
-            // zip the extracted file details with the file name
-            parsedFile.put(Utils.getBaseName(file.getName()), fileDetails);
+                fileDetails.put("FIELDDETAIL", fieldExtr.getFieldInfo(compilationUnit));
+                fileDetails.put("CONSTRUCTORDETAIL", constructorExtr.getConstructorInfo(compilationUnit));
+                fileDetails.put("VARIABLEDETAIL", variableExtr.getVariableInfo(compilationUnit));
+                fileDetails.put("METHODDETAIL", methodsExtr.getMethodInfo(compilationUnit));
+                fileDetails.put("CLASSORINTERFACEDETAIL", classOrInterfaceExtr.getClassInterfaceInfo(compilationUnit));
+                extract(compilationUnit, callerCallees, skipPatterns);
+
+                // zip the extracted file details with the file name
+                parsedFile.put(Utils.getBaseName(file.getName()), fileDetails);
+            } catch (Exception e) {
+                System.out.println("Error processing file: " + file.getName() + ", " + e.getMessage());
+                e.printStackTrace();
+                continue;
+            } catch (Error e) {
+                System.out.println("Error processing file: " + file.getName() + ", " + e.getMessage());
+                e.printStackTrace();
+                continue;
+            }
         }
 
         // merge the features with the callgraph
