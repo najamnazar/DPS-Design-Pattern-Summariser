@@ -1,0 +1,2 @@
+SyslogDataFormat acts as a publisher for observer DataFormat, which ends.
+SyslogDataFormat acts as an observer, which ends.

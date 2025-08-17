@@ -1,0 +1,2 @@
+PlatformTransactionManagerFacade acts as a caretaker for memento TransactionManager, which gets @Nullable parameter of TransactionDefinition Transaction, which commits TransactionStatus parameter of status, which rollbacks TransactionStatus parameter of status.
+PlatformTransactionManagerFacade acts as a caretaker for memento Transaction, which gets @Nullable parameter of TransactionDefinition Transaction, which commits TransactionStatus parameter of status, which rollbacks TransactionStatus parameter of status.

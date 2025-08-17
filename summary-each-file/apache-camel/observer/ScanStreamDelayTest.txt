@@ -1,0 +1,5 @@
+ScanStreamDelayTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Scan File, which creates Route Builder.
+ScanStreamDelayTest acts as a publisher for observer CamelContext, which sets Up, which tests Scan File, which creates Route Builder.
+ScanStreamDelayTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Scan File, which creates Route Builder.
+ScanStreamDelayTest acts as a publisher for observer Service, which sets Up, which tests Scan File, which creates Route Builder.
+ScanStreamDelayTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Scan File, which creates Route Builder.

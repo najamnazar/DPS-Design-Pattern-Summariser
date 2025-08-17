@@ -1,0 +1,2 @@
+TryCatchWireTapOnPrepareTest acts as a publisher for observer Service, which tests Try Catch Wire Tap On Prepare, which creates Route Builder.
+TryCatchWireTapOnPrepareTest acts as a publisher for observer CamelContext, which tests Try Catch Wire Tap On Prepare, which creates Route Builder.

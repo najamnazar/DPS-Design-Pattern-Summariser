@@ -1,0 +1,1 @@
+AttachmentsContentTransferEncodingResolver acts as an observer for publisher MailConfiguration, which is inherited by, which resolves BodyPart parameter of messageBodyPart Content Transfer Encoding.

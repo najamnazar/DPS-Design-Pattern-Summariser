@@ -1,0 +1,1 @@
+SagaActionUriDefinition acts as a memento, which gets Short Name.

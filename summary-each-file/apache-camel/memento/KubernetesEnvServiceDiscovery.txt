@@ -1,0 +1,1 @@
+KubernetesEnvServiceDiscovery acts as a caretaker for memento Configuration, which gets String parameter of name Services, which tos String.

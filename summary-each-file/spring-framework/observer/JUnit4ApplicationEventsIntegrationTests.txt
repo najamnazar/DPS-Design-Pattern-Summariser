@@ -1,0 +1,1 @@
+JUnit4ApplicationEventsIntegrationTests acts as a publisher for observer ApplicationEvents, which is inherited by, which befores Each, which test1s, which test2s, which asserts String parameter of testName Test Expectations, which afters Each, which asserts ApplicationEvents parameter of applicationEvents, String... parameter of types Event Types, which gets Message.

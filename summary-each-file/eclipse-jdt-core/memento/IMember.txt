@@ -1,0 +1,2 @@
+IMember acts as an originator for memento String, which gets String parameter of name, int parameter of occurrenceCount Type.
+IMember acts as an originator for memento ISourceRange, which gets an ISourceRange Javadoc Range to.

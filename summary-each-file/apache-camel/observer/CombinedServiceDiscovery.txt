@@ -1,0 +1,1 @@
+CombinedServiceDiscovery acts as an observer, which gets Delegates, which gets String parameter of name Services, which wraps ServiceDiscovery... parameter of delegates.

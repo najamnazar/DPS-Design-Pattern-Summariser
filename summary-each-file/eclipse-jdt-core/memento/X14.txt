@@ -1,0 +1,2 @@
+X14 acts as a caretaker for memento S, which foos Z17 parameter of outerScope, which gets String parameter of name, String parameter of variable, X14 parameter of x17, boolean parameter of b Binding.
+X14 acts as a caretaker for memento String, which foos Z17 parameter of outerScope, which gets String parameter of name, String parameter of variable, X14 parameter of x17, boolean parameter of b Binding.

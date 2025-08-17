@@ -1,0 +1,3 @@
+ITestS3APrefetchingCacheFiles acts as an adapter, which adapts to AbstractS3ACostTest, which adapts createConfiguration method of FileSystem to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest.
+ITestS3APrefetchingCacheFiles acts as an adapter, which adapts to AbstractS3ACostTest, which adapts createConfiguration method of Configuration to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest.
+ITestS3APrefetchingCacheFiles acts as an adapter, which adapts to AbstractS3ACostTest, which adapts createConfiguration method of Path to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest.

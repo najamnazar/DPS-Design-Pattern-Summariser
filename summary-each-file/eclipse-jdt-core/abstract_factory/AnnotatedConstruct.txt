@@ -1,0 +1,1 @@
+AnnotatedConstruct acts as an abstract factory for A, which is inherited by.

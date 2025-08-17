@@ -1,0 +1,1 @@
+AbstractSockJsSessionTests acts as a caretaker for memento C, which sets Up, which inits Sock Js Session, which asserts New, which asserts Open, which asserts Closed, which asserts boolean parameter of isNew, boolean parameter of isOpen, boolean parameter of isClosed State.

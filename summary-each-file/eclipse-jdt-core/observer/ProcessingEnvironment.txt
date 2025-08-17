@@ -1,0 +1,1 @@
+ProcessingEnvironment acts as an observer for publisher BaseProcessor, FilerProc, which is inherited by BaseProcessingEnvImpl, which gets Options, which gets Messager, which gets Filer, which gets Element Utils, which gets Type Utils, which gets Source Version, which gets Locale, which is Preview Enabled.

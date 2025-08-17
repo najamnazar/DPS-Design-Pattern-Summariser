@@ -1,0 +1,3 @@
+DockerEndpoint acts as an adaptee for adapter DockerEventsConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+DockerEndpoint acts as an adaptee for adapter DockerStatsConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+DockerEndpoint acts as an adapter, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

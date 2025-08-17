@@ -1,0 +1,1 @@
+SpringSecurityProvider acts as an observer, which adds BiConsumer<String, parameter of Object>, HttpServerExchange parameter of httpExchange Header, which authenticates HttpServerExchange parameter of httpExchange, List<String> parameter of allowedRoles, which accepts Object parameter of configuration, String parameter of endpointUri Configuration, which requires Servlet Context.

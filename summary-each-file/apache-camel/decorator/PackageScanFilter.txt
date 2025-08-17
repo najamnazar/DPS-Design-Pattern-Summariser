@@ -1,0 +1,1 @@
+PackageScanFilter acts as a component for InvertingPackageScanFilter, which is inherited by PatternBasedPackageScanFilter, CompositePackageScanFilter, AssignableToPackageScanFilter, AssignableToPackageScanFilter, AnnotatedWithAnyPackageScanFilter, AnnotatedWithAnyPackageScanFilter, AnnotatedWithPackageScanFilter, AnnotatedWithPackageScanFilter.

@@ -1,0 +1,1 @@
+HttpHeaderFilterStrategy acts as an adaptee for adapter HttpHeaderFilterStrategyTest, which adapts to CamelTestSupport.

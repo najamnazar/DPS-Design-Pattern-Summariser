@@ -1,0 +1,1 @@
+EmptyPrefetchingStatistics acts as a singleton, which gets an EmptyPrefetchingStatistics Instance to.

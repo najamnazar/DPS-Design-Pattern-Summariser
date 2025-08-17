@@ -1,0 +1,1 @@
+Type acts as a caretaker for memento C, which is Primitive Type, which is Simple Type, which is Array Type, which is Name Qualified Type, which is Parameterized Type, which is Qualified Type, which is Union Type, which is Var, which is Intersection Type, which is Wildcard Type, which is Annotatable, which resolves Binding.

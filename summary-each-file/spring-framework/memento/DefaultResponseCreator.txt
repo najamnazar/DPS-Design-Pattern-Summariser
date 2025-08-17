@@ -1,0 +1,2 @@
+DefaultResponseCreator acts as a caretaker for memento Headers, which bodies String parameter of content, which bodies byte[] parameter of content, which bodies Resource parameter of resource, which contents MediaType parameter of mediaType Type, which locations URI parameter of location, which headerses HttpHeaders parameter of headers, which creates @Nullable parameter of ClientHttpRequest Response.
+DefaultResponseCreator acts as an originator for memento ClientHttpResponse, which creates a ClientHttpResponse Response to.

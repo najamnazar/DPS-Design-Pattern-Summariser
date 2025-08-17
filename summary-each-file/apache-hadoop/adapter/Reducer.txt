@@ -1,0 +1,1 @@
+Reducer acts as an adaptee for adapter PipeReducer, which adapts to PipeMapRed.

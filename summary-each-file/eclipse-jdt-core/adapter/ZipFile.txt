@@ -1,0 +1,1 @@
+ZipFile acts as an adaptee for adapter ClasspathJar, which adapts to ClasspathLocation, which adapts to ClasspathLocation.

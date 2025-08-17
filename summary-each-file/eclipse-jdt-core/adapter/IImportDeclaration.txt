@@ -1,0 +1,1 @@
+IImportDeclaration acts as an adapter, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.

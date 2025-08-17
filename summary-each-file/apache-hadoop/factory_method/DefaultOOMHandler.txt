@@ -1,0 +1,1 @@
+DefaultOOMHandler acts as a factory method for CGroupsHandler, which is inherited by AbstractCGroupsMemoryResourceHandler, AbstractCGroupsResourceCalculator, AbstractCGroupsMemoryResourceHandler, AbstractCGroupsResourceCalculator.

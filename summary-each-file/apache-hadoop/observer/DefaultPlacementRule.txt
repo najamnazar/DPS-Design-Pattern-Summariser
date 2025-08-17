@@ -1,0 +1,1 @@
+DefaultPlacementRule acts as a publisher for observer PlacementRule, which sets Element parameter of conf Config, which sets Boolean parameter of create Config, which initializes ResourceScheduler parameter of scheduler, which gets ApplicationSubmissionContext parameter of asc, String parameter of user Placement For App.

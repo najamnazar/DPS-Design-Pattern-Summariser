@@ -1,0 +1,1 @@
+ConcurrencyModeEnum acts as an observer for publisher JobInfo, which is inherited by, which froms String parameter of v Value.

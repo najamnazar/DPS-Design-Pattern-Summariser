@@ -1,0 +1,1 @@
+TableEq acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx, which $arg1s, which $arg2s, which $arg1s Table<R> parameter of newValue, which $arg2s Table<R> parameter of newValue, which $constructors, which equals Object parameter of that.

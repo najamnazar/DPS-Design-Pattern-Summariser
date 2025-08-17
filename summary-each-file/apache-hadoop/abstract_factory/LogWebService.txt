@@ -1,0 +1,1 @@
+LogWebService acts as a factory for AppInfoProvider, which overrides getNodeHttpAddress method of AppInfoProvider, getApp method of AppInfoProvider.

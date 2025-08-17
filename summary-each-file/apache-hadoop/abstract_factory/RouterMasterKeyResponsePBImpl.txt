@@ -1,0 +1,1 @@
+RouterMasterKeyResponsePBImpl acts as a product for FederationDelegationTokenStateStore, which overrides getRouterMasterKey method of RouterMasterKeyResponse, setRouterMasterKey method of RouterMasterKeyResponse.

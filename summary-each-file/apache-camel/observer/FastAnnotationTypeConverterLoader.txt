@@ -1,0 +1,1 @@
+FastAnnotationTypeConverterLoader acts as a publisher for observer PackageScanClassResolver, which accepts Class<?> parameter of clazz Class.

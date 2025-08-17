@@ -1,0 +1,3 @@
+RestProducerFactory acts as an adaptee for adapter NettyHttpComponent, which adapts to NettyComponent.
+RestProducerFactory acts as an adaptee for adapter HttpComponent, which adapts to HttpCommonComponent.
+RestProducerFactory acts as an adaptee for adapter UndertowComponent, which adapts to DefaultComponent.

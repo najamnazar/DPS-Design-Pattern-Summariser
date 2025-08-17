@@ -1,0 +1,2 @@
+ChoiceCompoundPredicateSimpleTest acts as a publisher for observer Service, which tests Null, which tests Empty, which tests Empty Or, which tests Empty Simple, which tests Data, which tests Data Or, which tests Data Simple, which creates Route Builder.
+ChoiceCompoundPredicateSimpleTest acts as a publisher for observer CamelContext, which tests Null, which tests Empty, which tests Empty Or, which tests Empty Simple, which tests Data, which tests Data Or, which tests Data Simple, which creates Route Builder.

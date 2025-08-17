@@ -1,0 +1,1 @@
+ProtobufLibrary acts as an observer for publisher ProtobufDataFormat, which is inherited by, which gets Data Format Name.

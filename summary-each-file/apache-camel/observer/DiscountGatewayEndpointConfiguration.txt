@@ -1,0 +1,2 @@
+DiscountGatewayEndpointConfiguration acts as an observer.
+DiscountGatewayEndpointConfiguration acts as a publisher for observer BraintreeApiName.

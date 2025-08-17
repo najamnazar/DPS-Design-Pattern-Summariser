@@ -1,0 +1,1 @@
+AMAttemptsInfo acts as a publisher for observer AMAttemptInfo, which is inherited by, which adds AMAttemptInfo parameter of info, which gets Attempts.

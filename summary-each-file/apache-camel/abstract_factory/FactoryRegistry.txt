@@ -1,0 +1,2 @@
+FactoryRegistry acts as an abstract factory for FormatFactoryInterface, FactoryRegistry, which is inherited by DefaultFactoryRegistry.
+FactoryRegistry acts as an abstract product for FactoryRegistry, which is inherited by DefaultFactoryRegistry, DefaultFactoryRegistry.

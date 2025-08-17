@@ -1,0 +1,1 @@
+StandardClassMetadataMemberClassTests acts as a factory method for ClassMetadata, which is inherited by AbstractClassMetadataMemberClassTests, AbstractClassMetadataMemberClassTests, MetadataReader.

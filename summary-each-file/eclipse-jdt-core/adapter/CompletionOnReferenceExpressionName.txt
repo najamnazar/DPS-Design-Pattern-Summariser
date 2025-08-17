@@ -1,0 +1,1 @@
+CompletionOnReferenceExpressionName acts as an adapter, which adapts to ReferenceExpression, which adapts to ReferenceExpression.

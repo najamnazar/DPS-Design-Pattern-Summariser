@@ -1,0 +1,1 @@
+EntityManagerFactoryInfo acts as a factory for AbstractEntityManagerFactoryBean, which overrides.

@@ -1,0 +1,1 @@
+AsyncConfigurer acts as an abstract factory for AsyncUncaughtExceptionHandler, which is inherited by AsyncConfigurerSupport.

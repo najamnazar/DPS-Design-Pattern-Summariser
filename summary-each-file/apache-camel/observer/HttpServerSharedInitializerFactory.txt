@@ -1,0 +1,2 @@
+HttpServerSharedInitializerFactory acts as a publisher for observer Channel, which creates NettyConsumer parameter of nettyConsumer Pipeline Factory, which inits Channel parameter of ch Channel, which creates SSLContext, which configures Server SSLOn Demand.
+HttpServerSharedInitializerFactory acts as a publisher for observer Channel, which is inherited by, which creates NettyConsumer parameter of nettyConsumer Pipeline Factory, which inits Channel parameter of ch Channel, which creates SSLContext, which configures Server SSLOn Demand.

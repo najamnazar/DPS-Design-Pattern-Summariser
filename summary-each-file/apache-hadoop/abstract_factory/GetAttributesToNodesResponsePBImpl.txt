@@ -1,0 +1,1 @@
+GetAttributesToNodesResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides setAttributeToNodes method of GetAttributesToNodesResponse, getAttributesToNodes method of GetAttributesToNodesResponse.

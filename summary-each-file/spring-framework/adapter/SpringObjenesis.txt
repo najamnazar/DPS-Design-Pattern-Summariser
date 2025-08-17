@@ -1,0 +1,1 @@
+SpringObjenesis acts as an adaptee for adapter ObjenesisCglibAopProxy, which adapts to CglibAopProxy, which adapts to CglibAopProxy, which adapts to CglibAopProxy, which adapts to CglibAopProxy, which adapts to CglibAopProxy.

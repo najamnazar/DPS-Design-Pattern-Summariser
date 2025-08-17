@@ -1,0 +1,1 @@
+ThreadLocalTransactionProvider acts as a product for Configuration, which overrides begin method of TransactionProvider, commit method of TransactionProvider, rollback method of TransactionProvider.

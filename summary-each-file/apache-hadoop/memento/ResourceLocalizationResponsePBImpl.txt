@@ -1,0 +1,3 @@
+ResourceLocalizationResponsePBImpl acts as a caretaker for memento ResourceLocalizationResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+ResourceLocalizationResponsePBImpl acts as an originator for memento ResourceLocalizationResponse.
+ResourceLocalizationResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.

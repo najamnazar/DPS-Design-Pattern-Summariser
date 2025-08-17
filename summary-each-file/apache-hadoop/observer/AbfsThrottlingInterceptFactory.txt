@@ -1,0 +1,1 @@
+AbfsThrottlingInterceptFactory acts as a publisher for observer AbfsConfiguration, which is inherited by, which factories final parameter of String, which references String parameter of accountName Lost, which gets String parameter of accountName, AbfsConfiguration parameter of abfsConfiguration Instance.

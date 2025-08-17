@@ -1,0 +1,2 @@
+ResolvedSourceMethod acts as an adapter, which adapts getKey method of String to SourceMethod, which adapts to SourceMethod, which adapts to SourceMethod, which adapts to SourceMethod.
+ResolvedSourceMethod acts as a target for adapter AssistSourceMethod, which adapts to ResolvedSourceMethod, which adapts to ResolvedSourceMethod, which adapts to ResolvedSourceMethod, which adapts to ResolvedSourceMethod.

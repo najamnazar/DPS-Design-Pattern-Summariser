@@ -1,0 +1,1 @@
+JsonValidatorErrorHandler acts as an observer for publisher JsonValidatorEndpoint, which is inherited by DefaultJsonValidationErrorHandler, which handles Exchange parameter of exchange, JsonSchema parameter of schema, Set<ValidationMessage> parameter of errors Errors, which handles Exchange parameter of exchange, JsonSchema parameter of schema, Exception parameter of e Errors.

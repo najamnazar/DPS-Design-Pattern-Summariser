@@ -1,0 +1,1 @@
+JmsInOutPipelineWithBeanTest acts as a publisher for observer ArtemisService, which tests A, which tests B, which tests C, which gets Component Name, which creates Route Builder, which does Exchange parameter of exchange Something.

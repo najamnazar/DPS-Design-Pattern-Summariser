@@ -1,0 +1,6 @@
+ClasspathLocationTest acts as a caretaker for memento String, which suites, which tests For Jrt System, which gets String parameter of releaseVersion Major Version Segment.
+ClasspathLocationTest acts as a caretaker for memento E, which suites, which tests For Jrt System, which gets String parameter of releaseVersion Major Version Segment.
+ClasspathLocationTest acts as a caretaker for memento ICompilationUnit, which suites, which tests For Jrt System, which gets String parameter of releaseVersion Major Version Segment.
+ClasspathLocationTest acts as a caretaker for memento List, which suites, which tests For Jrt System, which gets String parameter of releaseVersion Major Version Segment.
+ClasspathLocationTest acts as a caretaker for memento S, which suites, which tests For Jrt System, which gets String parameter of releaseVersion Major Version Segment.
+ClasspathLocationTest acts as a caretaker for memento C, which suites, which tests For Jrt System, which gets String parameter of releaseVersion Major Version Segment.

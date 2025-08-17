@@ -1,0 +1,7 @@
+ClassDeclaration acts as a caretaker for memento S, which gets Superclass, which gets Constructors, which gets Methods.
+ClassDeclaration acts as a caretaker for memento E, which gets Superclass, which gets Constructors, which gets Methods.
+ClassDeclaration acts as a caretaker for memento R, which gets Superclass, which gets Constructors, which gets Methods.
+ClassDeclaration acts as a caretaker for memento Binding, which gets Superclass, which gets Constructors, which gets Methods.
+ClassDeclaration acts as a caretaker for memento Class, which gets Superclass, which gets Constructors, which gets Methods.
+ClassDeclaration acts as a memento, which is inherited by ClassDeclarationImpl, which gets Methods, which gets Methods, which gets Methods.
+ClassDeclaration acts as a caretaker for memento C, which gets Superclass, which gets Constructors, which gets Methods.

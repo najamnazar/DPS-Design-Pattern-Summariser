@@ -1,0 +1,2 @@
+DataFormatTransformer acts as a publisher for observer DataFormat, which is inherited by, which transforms Message parameter of message, DataType parameter of from, DataType parameter of to, which sets DataFormat parameter of dataFormat Data Format, which tos String, which does Start, which does Stop.
+DataFormatTransformer acts as an observer, which transforms Message parameter of message, DataType parameter of from, DataType parameter of to, which sets DataFormat parameter of dataFormat Data Format, which tos String, which does Start, which does Stop.

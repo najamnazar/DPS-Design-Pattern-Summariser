@@ -1,0 +1,2 @@
+ParameterizedFieldBinding acts as a caretaker for memento R, which constants, which is Constant Value, which originals, which sets Constant parameter of constant Constant.
+ParameterizedFieldBinding acts as a caretaker for memento Binding, which constants, which is Constant Value, which originals, which sets Constant parameter of constant Constant.

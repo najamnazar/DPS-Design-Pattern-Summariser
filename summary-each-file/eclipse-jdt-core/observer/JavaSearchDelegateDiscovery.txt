@@ -1,0 +1,1 @@
+JavaSearchDelegateDiscovery acts as a publisher for observer String, which is inherited by, which gets Instance, which gets String parameter of id Configuration Element, which sets Error Logged.

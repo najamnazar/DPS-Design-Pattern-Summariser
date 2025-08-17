@@ -1,0 +1,1 @@
+ShutdownOrderBean acts as an observer for publisher BeanB, which is inherited by, which starts String parameter of name, which shutdowns String parameter of name, which gets Start, which gets Shutdown.

@@ -1,0 +1,1 @@
+DefaultPublishedEvents acts as a product for PublishedEventsExtension, which overrides ofType method of PublishedEvents, ofSubType method of PublishedEvents, matching method of PublishedEvents, matchingMapped method of PublishedEvents.

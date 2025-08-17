@@ -1,0 +1,1 @@
+RMAppNodeUpdateEvent acts as an observer, which converts RMAppNodeUpdateType parameter of rmAppNodeUpdateType To Node Update Type, which gets Node, which gets Update Type.

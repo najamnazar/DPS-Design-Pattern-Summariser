@@ -1,0 +1,1 @@
+DAO acts as an originator for memento Configuration, which configurations Configuration.

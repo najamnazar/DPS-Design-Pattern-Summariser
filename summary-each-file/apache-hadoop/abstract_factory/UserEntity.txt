@@ -1,0 +1,1 @@
+UserEntity acts as a product for TimelineReader, which overrides.

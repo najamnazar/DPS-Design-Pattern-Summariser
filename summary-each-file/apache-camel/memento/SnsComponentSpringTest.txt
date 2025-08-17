@@ -1,0 +1,1 @@
+SnsComponentSpringTest acts as a caretaker for memento Context, which sends In Only, which sends In Out, which creates Application Context.

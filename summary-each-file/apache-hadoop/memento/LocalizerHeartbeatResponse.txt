@@ -1,0 +1,1 @@
+LocalizerHeartbeatResponse acts as an originator for memento LocalizerAction, which is inherited by, which gets a LocalizerAction Localizer Action to, which sets LocalizerAction parameter of action Localizer Action.

@@ -1,0 +1,2 @@
+SedaInOutBigChainedTest acts as a publisher for observer Service, which tests In Out Big Seda Chained, which creates Route Builder.
+SedaInOutBigChainedTest acts as a publisher for observer CamelContext, which tests In Out Big Seda Chained, which creates Route Builder.

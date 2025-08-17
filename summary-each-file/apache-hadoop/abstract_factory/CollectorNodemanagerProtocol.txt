@@ -1,0 +1,1 @@
+CollectorNodemanagerProtocol acts as an abstract factory for ReportNewCollectorInfoResponse, GetTimelineCollectorContextResponse, which is inherited by CollectorNodemanagerProtocolPBClientImpl, NMCollectorService.

@@ -1,0 +1,1 @@
+Transformer acts as an observer for publisher DefaultTransformerRegistry, which is inherited by DataFormatTransformer, ProcessorTransformer, which transforms Exchange parameter of exchange.

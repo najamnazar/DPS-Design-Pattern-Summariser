@@ -1,0 +1,1 @@
+ContainerWideInterceptor acts as an adaptee for adapter ContainerWideInterceptorTest, which adapts to TestSupport, which adapts to TestSupport.

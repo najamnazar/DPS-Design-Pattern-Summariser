@@ -1,0 +1,1 @@
+FreeMarkerConfigurerTests acts as a caretaker for memento C, which frees Marker Configurer With Config Location, which frees Marker Configurer With Resource Loader Path, which frees Marker Configurer With Non File Resource Loader Path.

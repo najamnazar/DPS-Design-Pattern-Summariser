@@ -1,0 +1,1 @@
+DefaultRecordContext acts as a factory for RecordContext, which overrides type method of RecordContext, record method of RecordContext, batchRecords method of RecordContext, recordType method of RecordContext, exception method of RecordContext.

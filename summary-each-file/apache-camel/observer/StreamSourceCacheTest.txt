@@ -1,0 +1,2 @@
+StreamSourceCacheTest acts as a publisher for observer CamelContext, which tests Stream Source Cache.
+StreamSourceCacheTest acts as a publisher for observer Service, which tests Stream Source Cache.

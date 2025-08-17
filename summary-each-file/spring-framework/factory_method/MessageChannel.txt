@@ -1,0 +1,1 @@
+MessageChannel acts as an abstract product for AbstractBrokerMessageHandler, which is inherited by OrderedMessageChannelDecorator, AbstractMessageChannel.

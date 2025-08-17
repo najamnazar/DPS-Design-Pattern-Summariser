@@ -1,0 +1,1 @@
+RMAppState acts as an adaptee for adapter RMAppImpl.

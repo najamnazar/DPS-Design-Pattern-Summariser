@@ -1,0 +1,1 @@
+Customer acts as an observer for publisher CustomerList, which is inherited by.

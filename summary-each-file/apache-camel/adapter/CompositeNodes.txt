@@ -1,0 +1,3 @@
+CompositeNodes acts as an adaptee for adapter SimpleFunctionStart, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+CompositeNodes acts as an adaptee for adapter SingleQuoteStart, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+CompositeNodes acts as an adaptee for adapter DoubleQuoteStart, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.

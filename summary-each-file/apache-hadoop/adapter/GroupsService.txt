@@ -1,0 +1,1 @@
+GroupsService acts as an adapter, which adapts to Groups, which adapts to Groups, which adapts to Groups, which adapts to Groups.

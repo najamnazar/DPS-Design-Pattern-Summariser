@@ -1,0 +1,1 @@
+WebApplicationContext acts as a memento, which gets Servlet Context.

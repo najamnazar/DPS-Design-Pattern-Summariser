@@ -1,0 +1,3 @@
+RefreshUserToGroupsMappingsResponsePBImpl acts as a caretaker for memento RefreshUserToGroupsMappingsResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+RefreshUserToGroupsMappingsResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+RefreshUserToGroupsMappingsResponsePBImpl acts as an originator for memento RefreshUserToGroupsMappingsResponse.

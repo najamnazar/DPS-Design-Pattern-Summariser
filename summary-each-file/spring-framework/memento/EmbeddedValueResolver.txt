@@ -1,0 +1,2 @@
+EmbeddedValueResolver acts as a caretaker for memento B, which resolves String parameter of strVal String Value.
+EmbeddedValueResolver acts as a caretaker for memento C, which resolves String parameter of strVal String Value.

@@ -1,0 +1,1 @@
+TableMetaProvider acts as an observer, which provides.

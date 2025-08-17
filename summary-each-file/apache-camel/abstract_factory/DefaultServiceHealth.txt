@@ -1,0 +1,1 @@
+DefaultServiceHealth acts as a product for ServiceDefinition, which overrides isHealthy method of ServiceHealth, getMetadata method of ServiceHealth.

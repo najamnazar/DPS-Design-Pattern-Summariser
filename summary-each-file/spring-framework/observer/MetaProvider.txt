@@ -1,0 +1,1 @@
+MetaProvider acts as an observer for publisher DefaultConfiguration, which is inherited by InformationSchemaMetaProvider, TableMetaProvider, CatalogMetaProvider, SchemaMetaProvider, SourceMetaProvider, InterpreterMetaProvider, TranslatingMetaProvider, DefaultMetaProvider, which provides.

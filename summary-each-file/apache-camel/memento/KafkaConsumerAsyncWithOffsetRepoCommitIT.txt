@@ -1,0 +1,1 @@
+KafkaConsumerAsyncWithOffsetRepoCommitIT acts as a caretaker for memento Producer, which off sets Repo, which afters, which creates Route Builder, which kafkas Manual Commit With Offset Repo.

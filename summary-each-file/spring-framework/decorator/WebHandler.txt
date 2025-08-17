@@ -1,0 +1,1 @@
+WebHandler acts as a component for WebHandlerDecorator, which is inherited by DispatcherHandler, ResourceWebHandler, ResourceWebHandler.

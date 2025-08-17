@@ -1,0 +1,2 @@
+AbstractFormTagTests acts as an adapter, which adapts to AbstractHtmlElementTagTests, which adapts to AbstractHtmlElementTagTests, which adapts to AbstractHtmlElementTagTests, which adapts to AbstractHtmlElementTagTests.
+AbstractFormTagTests acts as a target for adapter LabelTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests.

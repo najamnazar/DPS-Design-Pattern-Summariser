@@ -1,0 +1,1 @@
+AbstractCamelProducerTemplateFactoryBean acts as a caretaker for memento Producer, which is inherited by, which gets Object, which gets Object Type, which destroys, which gets Default Endpoint, which sets String parameter of defaultEndpoint Default Endpoint, which gets Maximum Cache Size, which sets Integer parameter of maximumCacheSize Maximum Cache Size.

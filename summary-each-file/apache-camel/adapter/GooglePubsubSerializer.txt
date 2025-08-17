@@ -1,0 +1,1 @@
+GooglePubsubSerializer acts as an adaptee for adapter CustomSerializerIT, which adapts to PubsubTestSupport.

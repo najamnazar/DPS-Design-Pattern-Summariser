@@ -1,0 +1,1 @@
+ManagedLoopMBean acts as a memento, which is Copy, which is Copy, which is Copy.

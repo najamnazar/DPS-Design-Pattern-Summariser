@@ -1,0 +1,5 @@
+StringTemplateContentCacheTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.
+StringTemplateContentCacheTest acts as a publisher for observer ProducerTemplate, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.
+StringTemplateContentCacheTest acts as a publisher for observer ConsumerTemplate, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.
+StringTemplateContentCacheTest acts as a publisher for observer CamelContext, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.
+StringTemplateContentCacheTest acts as a publisher for observer Service, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.

@@ -1,0 +1,1 @@
+DefaultDestinationCreationStrategy acts as an observer, which creates final parameter of Session, String parameter of name, final parameter of boolean Destination, which creates final parameter of Session, final parameter of boolean Temporary Destination.

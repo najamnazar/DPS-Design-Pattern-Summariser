@@ -1,0 +1,1 @@
+HelsinkiServiceNowScorecardProcessor acts as a publisher for observer ServiceNowDispatcher, which retrieves Exchange parameter of exchange Performance Analytics.

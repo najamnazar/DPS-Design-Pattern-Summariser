@@ -1,0 +1,3 @@
+IClasspathEntry acts as an abstract product for IClasspathEntry, which is inherited by ClasspathEntry, ClasspathEntry.
+IClasspathEntry acts as an abstract factory for IClasspathEntry, which is inherited by ClasspathEntry.
+IClasspathEntry acts as an abstract product for IClasspathEntry, which is inherited by ClasspathEntry, ClasspathEntry, ClasspathEntry.

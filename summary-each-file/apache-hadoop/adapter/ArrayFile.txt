@@ -1,0 +1,1 @@
+ArrayFile acts as an adapter, which adapts to MapFile, which adapts to MapFile, which adapts to MapFile, which adapts to MapFile, which adapts to MapFile.

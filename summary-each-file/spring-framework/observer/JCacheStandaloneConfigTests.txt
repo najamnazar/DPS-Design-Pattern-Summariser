@@ -1,0 +1,1 @@
+JCacheStandaloneConfigTests acts as a publisher for observer Cache, which gets Application Context.

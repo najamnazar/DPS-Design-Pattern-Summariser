@@ -1,0 +1,2 @@
+FacebookEndpointConfigurationTest acts as a caretaker for memento Context, which tests Configuration Bean Uri Param, which creates Conf.
+FacebookEndpointConfigurationTest acts as a caretaker for memento Producer, which tests Configuration Bean Uri Param, which creates Conf.

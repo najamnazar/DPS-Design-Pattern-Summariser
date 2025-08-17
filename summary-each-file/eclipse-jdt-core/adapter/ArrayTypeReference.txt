@@ -1,0 +1,1 @@
+ArrayTypeReference acts as a target for adapter ParameterizedSingleTypeReference, which adapts to ArrayTypeReference, which adapts to ArrayTypeReference, which adapts to ArrayTypeReference, which adapts to ArrayTypeReference, which adapts to ArrayTypeReference, which adapts to ArrayTypeReference.

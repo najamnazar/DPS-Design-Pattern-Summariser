@@ -1,0 +1,2 @@
+CompletionOnKeyword acts as an adaptee for adapter CompletionOnKeyword3, which adapts to SingleNameReference, which adapts to SingleNameReference.
+CompletionOnKeyword acts as an adaptee for adapter CompletionOnKeyword1, which adapts to SingleTypeReference, which adapts to SingleTypeReference.

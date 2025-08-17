@@ -1,0 +1,1 @@
+ContainerState acts as an observer for publisher ContainerLogsRequest, which is inherited by.

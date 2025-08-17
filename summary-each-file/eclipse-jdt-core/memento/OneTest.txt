@@ -1,0 +1,2 @@
+OneTest acts as a caretaker for memento String, which suites, which test1s.
+OneTest acts as a caretaker for memento S, which suites, which test1s.

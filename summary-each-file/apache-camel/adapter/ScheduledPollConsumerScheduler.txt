@@ -1,0 +1,2 @@
+ScheduledPollConsumerScheduler acts as an adaptee for adapter ScheduledPollConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+ScheduledPollConsumerScheduler acts as an adaptee for adapter ScheduledPollEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

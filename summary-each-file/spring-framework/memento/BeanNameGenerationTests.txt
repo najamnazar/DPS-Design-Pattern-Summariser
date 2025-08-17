@@ -1,0 +1,1 @@
+BeanNameGenerationTests acts as a caretaker for memento B, which sets Up, which names.

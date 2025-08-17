@@ -1,0 +1,2 @@
+FSContext acts as an adaptee for adapter FSLeafQueue, which adapts to FSQueue, which adapts to FSQueue, which adapts to FSQueue, which adapts to FSQueue, which adapts to FSQueue, which adapts to FSQueue.
+FSContext acts as an adaptee for adapter DominantResourceFairnessPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy.

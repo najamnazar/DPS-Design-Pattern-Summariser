@@ -1,0 +1,1 @@
+ServiceDefinition acts as an observer for publisher BlacklistServiceFilter, which is inherited by DefaultServiceDefinition, which gets Id, which gets Name, which gets Host, which gets Port, which gets Health, which gets Metadata, which matches ServiceDefinition parameter of other.

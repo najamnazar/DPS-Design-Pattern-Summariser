@@ -1,0 +1,1 @@
+SimpleJmsListenerEndpoint acts as a caretaker for memento Message, which sets @Nullable parameter of MessageListener Message Listener, which gets Message Listener, which creates MessageListenerContainer parameter of container Message Listener, which gets Endpoint Description.

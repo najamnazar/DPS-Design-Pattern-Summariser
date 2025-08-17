@@ -1,0 +1,3 @@
+AnnotationMirror acts as a factory for AnnotationMirror, which overrides.
+AnnotationMirror acts as a factory method for AnnotationType, which is inherited by AnnotationMirror.
+AnnotationMirror acts as a factory for BinaryParameterDeclarationImpl, which overrides.

@@ -1,0 +1,1 @@
+JavadocModuleReference acts as a product for IPolyExpression, which overrides traverse method of Expression, resolveType method of Expression.

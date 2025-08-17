@@ -1,0 +1,1 @@
+MockLocalResourceStatus acts as a product for LocalizerStatus, which overrides getResource method of LocalResourceStatus, getStatus method of LocalResourceStatus, getLocalSize method of LocalResourceStatus, getLocalPath method of LocalResourceStatus, getException method of LocalResourceStatus, setLocalPath method of LocalResourceStatus, setLocalSize method of LocalResourceStatus.

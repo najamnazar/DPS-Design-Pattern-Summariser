@@ -1,0 +1,2 @@
+PropertiesComponentOnExceptionDelayPatternTest acts as a publisher for observer CamelContext, which tests Delay Pattern, which creates Route Builder, which creates Camel Context.
+PropertiesComponentOnExceptionDelayPatternTest acts as a publisher for observer Service, which tests Delay Pattern, which creates Route Builder, which creates Camel Context.

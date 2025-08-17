@@ -1,0 +1,1 @@
+GetContainerReportResponse acts as a publisher for observer ContainerReport, which is inherited by GetContainerReportResponsePBImpl, which news ContainerReport parameter of containerReport Instance, which gets Container Report, which sets ContainerReport parameter of containerReport Container Report.

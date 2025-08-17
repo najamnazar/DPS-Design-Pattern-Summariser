@@ -1,0 +1,1 @@
+AsyncUncaughtExceptionHandler acts as an abstract product for AsyncUncaughtExceptionHandler, which is inherited by SimpleAsyncUncaughtExceptionHandler, TestableAsyncUncaughtExceptionHandler.

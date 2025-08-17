@@ -1,0 +1,2 @@
+DumpModelAsXmlPlaceholdersTest acts as a caretaker for memento Context, which tests Dump Model As Xml, which creates Route Builder, which creates Camel Context.
+DumpModelAsXmlPlaceholdersTest acts as a caretaker for memento Producer, which tests Dump Model As Xml, which creates Route Builder, which creates Camel Context.

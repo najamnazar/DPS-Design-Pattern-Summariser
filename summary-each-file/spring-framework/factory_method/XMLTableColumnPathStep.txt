@@ -1,0 +1,1 @@
+XMLTableColumnPathStep acts as an abstract product for XMLTableColumnsFirstStep, which is inherited by XMLTable.

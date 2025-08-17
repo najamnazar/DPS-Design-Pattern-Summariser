@@ -1,0 +1,2 @@
+PlainPackageBinding acts as a caretaker for memento Binding, which gets ModuleBinding parameter of moduleBinding Incarnation, which adds PackageBinding parameter of element, ModuleBinding parameter of module Package.
+PlainPackageBinding acts as a caretaker for memento E, which gets ModuleBinding parameter of moduleBinding Incarnation, which adds PackageBinding parameter of element, ModuleBinding parameter of module Package.

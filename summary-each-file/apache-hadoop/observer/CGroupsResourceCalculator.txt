@@ -1,0 +1,2 @@
+CGroupsResourceCalculator acts as a publisher for observer CGroupsHandler, which gets CGroup Files To Load In Stats, which gets CGroupsHandler.CGroupController parameter of controller CGroup Relative Path.
+CGroupsResourceCalculator acts as a publisher for observer CpuTimeTracker, which gets CGroup Files To Load In Stats, which gets CGroupsHandler.CGroupController parameter of controller CGroup Relative Path.

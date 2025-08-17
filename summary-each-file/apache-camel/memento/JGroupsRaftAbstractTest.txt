@@ -1,0 +1,2 @@
+JGroupsRaftAbstractTest acts as a caretaker for memento Context, which checks Exchange parameter of exchange Headers, which waits int parameter of attempts, RaftHandle parameter of rh, RaftHandle parameter of rh2, RaftHandle parameter of rh3 For Leader.
+JGroupsRaftAbstractTest acts as a caretaker for memento Producer, which checks Exchange parameter of exchange Headers, which waits int parameter of attempts, RaftHandle parameter of rh, RaftHandle parameter of rh2, RaftHandle parameter of rh3 For Leader.

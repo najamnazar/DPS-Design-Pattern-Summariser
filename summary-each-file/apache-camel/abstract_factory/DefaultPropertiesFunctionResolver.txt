@@ -1,0 +1,2 @@
+DefaultPropertiesFunctionResolver acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultPropertiesFunctionResolver acts as a factory for PropertiesFunctionResolver, which overrides addPropertiesFunction method of PropertiesFunctionResolver, getFunctions method of PropertiesFunctionResolver, hasFunction method of PropertiesFunctionResolver, resolvePropertiesFunction method of PropertiesFunctionResolver.

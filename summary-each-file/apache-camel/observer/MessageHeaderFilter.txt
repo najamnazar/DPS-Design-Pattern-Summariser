@@ -1,0 +1,1 @@
+MessageHeaderFilter acts as an observer for publisher CxfHeaderFilterStrategy, which is inherited by SoapMessageHeaderFilter, CustomHeaderFilter, which gets Activation Namespaces, which filters Direction parameter of direction, List<Header> parameter of headers.

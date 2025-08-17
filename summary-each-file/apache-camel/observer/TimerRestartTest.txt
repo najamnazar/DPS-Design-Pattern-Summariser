@@ -1,0 +1,2 @@
+TimerRestartTest acts as a publisher for observer CamelContext, which tests Timer Restart, which creates Route Builder.
+TimerRestartTest acts as a publisher for observer Service, which tests Timer Restart, which creates Route Builder.

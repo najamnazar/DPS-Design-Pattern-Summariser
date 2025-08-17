@@ -1,0 +1,1 @@
+HAServiceStatus acts as an observer for publisher HealthMonitor, which is inherited by, which gets State, which sets Ready To Become Active, which sets String parameter of reason Not Ready To Become Active, which is Ready To Become Active, which gets Not Ready Reason.

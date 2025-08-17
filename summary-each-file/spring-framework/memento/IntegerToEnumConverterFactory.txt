@@ -1,0 +1,1 @@
+IntegerToEnumConverterFactory acts as a caretaker for memento C, which gets Class<T> parameter of targetType Converter, which converts Integer parameter of source.

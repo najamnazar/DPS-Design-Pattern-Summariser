@@ -1,0 +1,1 @@
+TelegramConsumerReadyLiveCheckTest acts as an adapter, which adapts to TelegramTestSupport, which adapts to TelegramTestSupport, which adapts to TelegramTestSupport, which adapts to TelegramTestSupport.

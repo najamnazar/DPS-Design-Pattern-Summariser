@@ -1,0 +1,2 @@
+CamelSpringProvidesBreakpointTest acts as a caretaker for memento Context, which creates Breakpoint, which tests Provides Breakpoint, which befores Exchange parameter of exchange, Processor parameter of processor, NamedNode parameter of definition Process, which is Breakpoint Hit.
+CamelSpringProvidesBreakpointTest acts as a caretaker for memento Producer, which creates Breakpoint, which tests Provides Breakpoint, which befores Exchange parameter of exchange, Processor parameter of processor, NamedNode parameter of definition Process, which is Breakpoint Hit.

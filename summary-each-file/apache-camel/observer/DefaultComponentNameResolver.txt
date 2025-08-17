@@ -1,0 +1,1 @@
+DefaultComponentNameResolver acts as an observer, which resolves CamelContext parameter of camelContext Names.

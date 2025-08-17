@@ -1,0 +1,1 @@
+MessageSource acts as an abstract product for MessageSource, which is inherited by HierarchicalMessageSource, ApplicationContext.

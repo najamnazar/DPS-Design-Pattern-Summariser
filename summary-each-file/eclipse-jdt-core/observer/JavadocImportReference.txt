@@ -1,0 +1,1 @@
+JavadocImportReference acts as an observer.

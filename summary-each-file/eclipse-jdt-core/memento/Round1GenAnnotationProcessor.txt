@@ -1,0 +1,3 @@
+Round1GenAnnotationProcessor acts as a caretaker for memento AnnotationProcessor, which processes.
+Round1GenAnnotationProcessor acts as a memento, which processes.
+Round1GenAnnotationProcessor acts as a caretaker for memento E, which processes.

@@ -1,0 +1,1 @@
+HashicorpVaultOperation acts as a memento.

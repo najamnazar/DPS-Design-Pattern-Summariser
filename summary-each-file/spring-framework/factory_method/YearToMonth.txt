@@ -1,0 +1,1 @@
+YearToMonth acts as a product for Expression, which overrides toDuration method of Interval, getSign method of Interval, intValue method of Interval, longValue method of Interval, floatValue method of Interval, doubleValue method of Interval.

@@ -1,0 +1,2 @@
+ImportBinding acts as a target for adapter ImportConflictBinding, which adapts to ImportBinding, which adapts to ImportBinding, which adapts to ImportBinding.
+ImportBinding acts as an adaptee for adapter CompletionEngine, which adapts to ISearchRequestor, ICompletionEngine, Engine, which adapts to ISearchRequestor, ICompletionEngine, Engine, which adapts to ISearchRequestor, ICompletionEngine, Engine.

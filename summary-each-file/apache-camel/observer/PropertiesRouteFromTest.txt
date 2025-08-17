@@ -1,0 +1,2 @@
+PropertiesRouteFromTest acts as a publisher for observer CamelContext, which tests Properties Route From, which creates Route Builder, which creates Camel Context.
+PropertiesRouteFromTest acts as a publisher for observer Service, which tests Properties Route From, which creates Route Builder, which creates Camel Context.

@@ -1,0 +1,2 @@
+MountTableStore acts as an adaptee for adapter RouterAdminServer, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+MountTableStore acts as an adaptee for adapter MountTableRefresherService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

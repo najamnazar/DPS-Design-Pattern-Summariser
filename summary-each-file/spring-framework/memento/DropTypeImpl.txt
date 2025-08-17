@@ -1,0 +1,2 @@
+DropTypeImpl acts as a caretaker for memento C, which cascades, which restricts, which accepts Context<?> parameter of ctx, which $nameses, which $ifs Exists, which $cascades.
+DropTypeImpl acts as a memento, which $cascades Exists, which $cascades Exists, which $cascades Exists, which $cascades Exists, which $cascades Exists, which $cascades Exists.

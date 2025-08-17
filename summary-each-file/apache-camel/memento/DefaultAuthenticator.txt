@@ -1,0 +1,1 @@
+DefaultAuthenticator acts as a memento, which gets Password Authentication.

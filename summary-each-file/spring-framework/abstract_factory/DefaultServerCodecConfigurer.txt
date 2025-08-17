@@ -1,0 +1,2 @@
+DefaultServerCodecConfigurer acts as a product for ServerCodecConfigurer, which overrides defaultCodecs method of ServerCodecConfigurer.
+DefaultServerCodecConfigurer acts as a factory for ServerCodecConfigurer, which overrides defaultCodecs method of ServerCodecConfigurer.

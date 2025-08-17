@@ -1,0 +1,2 @@
+ParserException acts as a product for LoaderError, which overrides.
+ParserException acts as a product for ResultOrRows, which overrides.

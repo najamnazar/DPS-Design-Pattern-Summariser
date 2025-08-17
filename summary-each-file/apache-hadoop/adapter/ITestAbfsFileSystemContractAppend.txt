@@ -1,0 +1,1 @@
+ITestAbfsFileSystemContractAppend acts as an adapter, which adapts to AbstractContractAppendTest, which adapts to AbstractContractAppendTest, which adapts to AbstractContractAppendTest, which adapts to AbstractContractAppendTest.

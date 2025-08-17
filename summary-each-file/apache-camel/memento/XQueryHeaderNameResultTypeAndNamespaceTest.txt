@@ -1,0 +1,2 @@
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a caretaker for memento Producer, which tests XPath With Namespace, which creates Route Builder.
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a caretaker for memento Context, which tests XPath With Namespace, which creates Route Builder.

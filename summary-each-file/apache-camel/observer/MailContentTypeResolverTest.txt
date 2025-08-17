@@ -1,0 +1,5 @@
+MailContentTypeResolverTest acts as a publisher for observer ProducerTemplate, which tests Custom Content Type Resolver, which creates Route Builder.
+MailContentTypeResolverTest acts as a publisher for observer ConsumerTemplate, which tests Custom Content Type Resolver, which creates Route Builder.
+MailContentTypeResolverTest acts as a publisher for observer CamelContext, which tests Custom Content Type Resolver, which creates Route Builder.
+MailContentTypeResolverTest acts as a publisher for observer FluentProducerTemplate, which tests Custom Content Type Resolver, which creates Route Builder.
+MailContentTypeResolverTest acts as a publisher for observer Service, which tests Custom Content Type Resolver, which creates Route Builder.

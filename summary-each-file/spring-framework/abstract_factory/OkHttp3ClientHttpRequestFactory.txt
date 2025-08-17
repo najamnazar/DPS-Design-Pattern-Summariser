@@ -1,0 +1,2 @@
+OkHttp3ClientHttpRequestFactory acts as a factory for ClientHttpRequestFactory, which overrides createRequest method of ClientHttpRequestFactory.
+OkHttp3ClientHttpRequestFactory acts as a factory for AsyncClientHttpRequestFactory, which overrides createAsyncRequest method of AsyncClientHttpRequestFactory.

@@ -1,0 +1,4 @@
+ResourceBundleViewResolverNoCacheTests acts as a caretaker for memento ApplicationContext, which gets Cache.
+ResourceBundleViewResolverNoCacheTests acts as a caretaker for memento B, which gets Cache.
+ResourceBundleViewResolverNoCacheTests acts as a caretaker for memento C, which gets Cache.
+ResourceBundleViewResolverNoCacheTests acts as a caretaker for memento A, which gets Cache.

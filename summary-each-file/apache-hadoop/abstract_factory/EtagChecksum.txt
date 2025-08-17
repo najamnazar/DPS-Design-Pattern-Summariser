@@ -1,0 +1,1 @@
+EtagChecksum acts as a product for FSWrapper, which overrides getAlgorithmName method of FileChecksum, getLength method of FileChecksum, getBytes method of FileChecksum.

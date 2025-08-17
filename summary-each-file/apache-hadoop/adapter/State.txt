@@ -1,0 +1,3 @@
+State acts as an adaptee for adapter RedundantEditLogInputStream, which adapts to EditLogInputStream, which adapts to EditLogInputStream, which adapts to EditLogInputStream.
+State acts as an adaptee for adapter WindowsSecureContainerExecutor, which adapts to DefaultContainerExecutor, which adapts to DefaultContainerExecutor, which adapts to DefaultContainerExecutor.
+State acts as an adaptee for adapter EditLogFileInputStream, which adapts to EditLogInputStream, which adapts to EditLogInputStream, which adapts to EditLogInputStream.

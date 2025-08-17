@@ -1,0 +1,1 @@
+JGroupsRaftConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop.

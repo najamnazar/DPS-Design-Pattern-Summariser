@@ -1,0 +1,1 @@
+GetQueueInfoResponse acts as a publisher for observer QueueInfo, which is inherited by GetQueueInfoResponsePBImpl, which news QueueInfo parameter of queueInfo Instance, which gets Queue Info, which sets QueueInfo parameter of queueInfo Queue Info.

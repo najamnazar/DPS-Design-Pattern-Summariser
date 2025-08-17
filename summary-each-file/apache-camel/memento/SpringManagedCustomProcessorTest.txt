@@ -1,0 +1,1 @@
+SpringManagedCustomProcessorTest acts as a caretaker for memento Context, which uses Jmx, which creates Application Context, which gets MBean Server, which tests Manage Custom Processor, which gets Foo, which sets String parameter of foo Foo, which processes Exchange parameter of exchange.

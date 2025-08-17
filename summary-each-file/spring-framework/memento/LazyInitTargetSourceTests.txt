@@ -1,0 +1,1 @@
+LazyInitTargetSourceTests acts as a caretaker for memento C, which tests Lazy Init Singleton Target Source, which tests Custom Lazy Init Singleton Target Source, which tests Lazy Init Factory Bean Target Source, which posts Object parameter of targetObject Process Target Object.

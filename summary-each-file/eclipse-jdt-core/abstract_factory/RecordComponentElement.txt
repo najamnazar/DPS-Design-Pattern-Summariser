@@ -1,0 +1,10 @@
+RecordComponentElement acts as a product for PackageElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as a product for TypeParameterElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as a product for TypeElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as a product for RecordComponentElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as an abstract factory for Element, ExecutableElement, Name, which is inherited by RecordComponentElementImpl.
+RecordComponentElement acts as a product for VariableElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as an abstract product for RecordComponentElement, which is inherited by RecordComponentElementImpl.
+RecordComponentElement acts as a product for ModuleElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as a product for Element, which overrides getEnclosingElement method of Element, getSimpleName method of Element.
+RecordComponentElement acts as a product for ExecutableElement, which overrides getEnclosingElement method of Element, getSimpleName method of Element.

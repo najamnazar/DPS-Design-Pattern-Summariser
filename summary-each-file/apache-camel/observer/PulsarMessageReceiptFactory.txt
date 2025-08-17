@@ -1,0 +1,1 @@
+PulsarMessageReceiptFactory acts as an observer for publisher PulsarComponent, which is inherited by DefaultPulsarMessageReceiptFactory, which news Exchange parameter of exchange, Message parameter of message, Consumer parameter of consumer Instance.

@@ -1,0 +1,2 @@
+Volume acts as an observer for publisher VolumeStates, which is inherited by VolumeImpl, which gets Volume State, which gets Volume Id, which gets Volume Meta, which gets Client, which sets CsiAdaptorProtocol parameter of client Client.
+Volume acts as a publisher for observer CsiAdaptorProtocol, which is inherited by VolumeImpl, which gets Volume State, which gets Volume Id, which gets Volume Meta, which gets Client, which sets CsiAdaptorProtocol parameter of client Client.

@@ -1,0 +1,2 @@
+SQLExceptionSubclassTranslatorTests acts as a caretaker for memento C, which errors Code Translation.
+SQLExceptionSubclassTranslatorTests acts as a caretaker for memento SQL, which errors Code Translation.

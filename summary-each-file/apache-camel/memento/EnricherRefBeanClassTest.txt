@@ -1,0 +1,2 @@
+EnricherRefBeanClassTest acts as a caretaker for memento Context, which creates Registry, which tests Enrich Ref, which creates Route Builder.
+EnricherRefBeanClassTest acts as a caretaker for memento Producer, which creates Registry, which tests Enrich Ref, which creates Route Builder.

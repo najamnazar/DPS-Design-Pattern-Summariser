@@ -1,0 +1,1 @@
+Validator acts as a caretaker for memento Context, which is inherited by, which validates Message parameter of message, DataType parameter of type, which gets Type, which sets String parameter of type Type, which gets Camel Context, which sets CamelContext parameter of context Camel Context, which tos String, which does Start, which does Stop.

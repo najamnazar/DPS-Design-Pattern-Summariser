@@ -1,0 +1,1 @@
+BoundDTExtension acts as an adaptee for adapter StubDelegationTokenManager, which adapts to ClassicDelegationTokenManager, which adapts to ClassicDelegationTokenManager, which adapts to ClassicDelegationTokenManager.

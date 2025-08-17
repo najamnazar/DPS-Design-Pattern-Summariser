@@ -1,0 +1,1 @@
+IrcsListUsersTest acts as a publisher for observer MockEndpoint, which creates Route Builder, which tests.

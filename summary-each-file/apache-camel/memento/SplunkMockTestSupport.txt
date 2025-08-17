@@ -1,0 +1,2 @@
+SplunkMockTestSupport acts as a caretaker for memento Context, which creates Camel Context.
+SplunkMockTestSupport acts as a caretaker for memento Producer, which creates Camel Context.

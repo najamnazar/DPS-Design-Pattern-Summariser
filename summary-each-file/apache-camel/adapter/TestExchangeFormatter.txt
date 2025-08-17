@@ -1,0 +1,1 @@
+TestExchangeFormatter acts as an adaptee for adapter LogCustomFormatterTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

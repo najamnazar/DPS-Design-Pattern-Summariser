@@ -1,0 +1,2 @@
+KMS2ClientOptimizedImpl acts as a caretaker for memento Configuration, which gets Kms Client.
+KMS2ClientOptimizedImpl acts as a memento, which gets Kms Client.

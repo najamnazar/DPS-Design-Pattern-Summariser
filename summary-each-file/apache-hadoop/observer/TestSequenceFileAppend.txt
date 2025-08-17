@@ -1,0 +1,1 @@
+TestSequenceFileAppend acts as a publisher for observer Path, which is inherited by, which sets Up, which tears Down, which tests Append, which tests Append Record Compression, which tests Append Block Compression, which tests Append None Compression, which tests Append Sort, which verify2Valueses Path parameter of file, which verifies Path parameter of file All4Values.

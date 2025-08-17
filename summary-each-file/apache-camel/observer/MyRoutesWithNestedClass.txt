@@ -1,0 +1,7 @@
+MyRoutesWithNestedClass acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRoutesWithNestedClass acts as an observer, which configures.
+MyRoutesWithNestedClass acts as a publisher for observer RestsDefinition, which configures.
+MyRoutesWithNestedClass acts as a publisher for observer RoutesDefinition, which configures.
+MyRoutesWithNestedClass acts as a publisher for observer Resource, which configures.
+MyRoutesWithNestedClass acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRoutesWithNestedClass acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

@@ -1,0 +1,2 @@
+CharacterSet acts as an observer for publisher DataTypeProxy, which is inherited by CharacterSetImpl, which gets Name.
+CharacterSet acts as an observer, which gets Name.

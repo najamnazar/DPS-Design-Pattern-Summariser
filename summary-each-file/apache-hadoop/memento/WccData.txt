@@ -1,0 +1,1 @@
+WccData acts as a caretaker for memento Attribute, which gets Pre Op Attr, which sets WccAttr parameter of preOpAttr Pre Op Attr, which gets Post Op Attr, which sets Nfs3FileAttributes parameter of postOpAttr Post Op Attr, which deserializes XDR parameter of xdr, which serializes XDR parameter of out.

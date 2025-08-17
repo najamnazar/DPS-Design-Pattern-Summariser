@@ -1,0 +1,3 @@
+AopNamespaceHandlerProxyTargetClassTests acts as a caretaker for memento C, which tests Is Class Proxy.
+AopNamespaceHandlerProxyTargetClassTests acts as a caretaker for memento A, which tests Is Class Proxy.
+AopNamespaceHandlerProxyTargetClassTests acts as a caretaker for memento ApplicationContext, which tests Is Class Proxy.

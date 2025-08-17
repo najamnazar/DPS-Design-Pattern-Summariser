@@ -1,0 +1,1 @@
+ResumeActionAware acts as a memento, which sets ResumeAction parameter of resumeAction Resume Action.

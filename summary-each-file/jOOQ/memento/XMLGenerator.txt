@@ -1,0 +1,2 @@
+XMLGenerator acts as a caretaker for memento Block, which generate0s Database parameter of db, which exports InformationSchema parameter of is, RoutineDefinition parameter of r, String parameter of catalogName, String parameter of schemaName Routine.
+XMLGenerator acts as a caretaker for memento Language, which generate0s Database parameter of db, which exports InformationSchema parameter of is, RoutineDefinition parameter of r, String parameter of catalogName, String parameter of schemaName Routine.

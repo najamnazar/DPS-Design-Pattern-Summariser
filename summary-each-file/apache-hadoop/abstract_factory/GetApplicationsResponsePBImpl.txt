@@ -1,0 +1,1 @@
+GetApplicationsResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides getApplicationList method of GetApplicationsResponse, setApplicationList method of GetApplicationsResponse.

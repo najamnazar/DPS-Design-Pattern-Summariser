@@ -1,0 +1,2 @@
+RecoveredPackageBinding acts as a factory for IPackageBinding, which overrides getName method of IPackageBinding, isUnnamed method of IPackageBinding, getNameComponents method of IPackageBinding, getModule method of IPackageBinding.
+RecoveredPackageBinding acts as a product for ITypeBinding, which overrides getName method of IPackageBinding, isUnnamed method of IPackageBinding, getNameComponents method of IPackageBinding, getModule method of IPackageBinding.

@@ -1,0 +1,1 @@
+WebFilter acts as an observer for publisher DefaultWebFilterChain, which is inherited by CorsWebFilter, PreFlightRequestWebFilter, HiddenHttpMethodFilter, ServerWebExchangeContextFilter, ForwardedHeaderFilter, which filters ServerWebExchange parameter of exchange, WebFilterChain parameter of chain.

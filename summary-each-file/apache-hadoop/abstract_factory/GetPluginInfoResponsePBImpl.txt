@@ -1,0 +1,2 @@
+GetPluginInfoResponsePBImpl acts as a product for CsiAdaptorProtocol, which overrides setDriverName method of GetPluginInfoResponse, getDriverName method of GetPluginInfoResponse, setVersion method of GetPluginInfoResponse, getVersion method of GetPluginInfoResponse.
+GetPluginInfoResponsePBImpl acts as a product for CsiClient, which overrides setDriverName method of GetPluginInfoResponse, getDriverName method of GetPluginInfoResponse, setVersion method of GetPluginInfoResponse, getVersion method of GetPluginInfoResponse.

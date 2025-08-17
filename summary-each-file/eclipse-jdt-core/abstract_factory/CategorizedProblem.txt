@@ -1,0 +1,2 @@
+CategorizedProblem acts as a product for IProblemFactory, which overrides.
+CategorizedProblem acts as a factory for IProblem, which overrides.

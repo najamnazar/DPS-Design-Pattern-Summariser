@@ -1,0 +1,1 @@
+HttpHandler acts as an observer for publisher AbstractHttpServer, ReactorHttpsServer, TomcatHttpServer, ReactorHttpServer, UndertowHttpServer, JettyHttpServer, which is inherited by HttpWebHandlerAdapter, ContextPathCompositeHandler, which handles ServerHttpRequest parameter of request, ServerHttpResponse parameter of response.

@@ -1,0 +1,1 @@
+ManagedStop acts as a caretaker for memento Context.

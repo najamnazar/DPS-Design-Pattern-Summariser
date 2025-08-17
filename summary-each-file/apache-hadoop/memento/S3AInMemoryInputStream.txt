@@ -1,0 +1,1 @@
+S3AInMemoryInputStream acts as a caretaker for memento Attribute, which ensures Current Buffer.

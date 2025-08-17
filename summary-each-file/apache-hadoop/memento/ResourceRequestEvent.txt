@@ -1,0 +1,1 @@
+ResourceRequestEvent acts as a caretaker for memento LocalResourceVisibility, which gets Context, which gets Visibility.

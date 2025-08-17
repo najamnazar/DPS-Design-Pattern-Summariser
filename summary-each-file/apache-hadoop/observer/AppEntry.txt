@@ -1,0 +1,1 @@
+AppEntry acts as a publisher for observer Service, which is inherited by, which gets Id, which sets String parameter of id Id, which gets Name, which sets String parameter of name Name, which gets App, which sets String parameter of app App, which gets Yarnfile, which sets Service parameter of yarnfile Yarnfile.

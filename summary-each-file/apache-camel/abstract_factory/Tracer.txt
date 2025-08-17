@@ -1,0 +1,2 @@
+Tracer acts as an abstract product for Tracer, which is inherited by DefaultTracer.
+Tracer acts as an abstract factory for ExchangeFormatter, which is inherited by DefaultTracer.

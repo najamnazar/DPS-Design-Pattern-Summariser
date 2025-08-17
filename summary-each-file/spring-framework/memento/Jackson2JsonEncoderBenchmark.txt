@@ -1,0 +1,1 @@
+Jackson2JsonEncoderBenchmark acts as a caretaker for memento B, which setups, which encodes EncodeSingleData parameter of data Value, which encodes Blackhole parameter of bh, EncodeData parameter of data.

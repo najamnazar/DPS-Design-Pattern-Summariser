@@ -1,0 +1,3 @@
+HdfsCompatMkdirTestCases acts as an observer, which mkdirses.
+HdfsCompatMkdirTestCases acts as a publisher for observer HdfsCompatEnvironment, which mkdirses.
+HdfsCompatMkdirTestCases acts as a publisher for observer Path, which mkdirses.

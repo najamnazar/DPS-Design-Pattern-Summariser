@@ -1,0 +1,2 @@
+HandlersBeanDefinitionParserTests acts as a product for InterceptableChannel, which overrides.
+HandlersBeanDefinitionParserTests acts as a product for SockJsServiceConfig, which overrides encode method of SockJsMessageCodec, decode method of SockJsMessageCodec, decodeInputStream method of SockJsMessageCodec.

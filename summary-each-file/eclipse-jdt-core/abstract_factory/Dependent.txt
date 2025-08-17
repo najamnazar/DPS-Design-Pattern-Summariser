@@ -1,0 +1,3 @@
+Dependent acts as a product for Declaration, which overrides.
+Dependent acts as a product for AnnotatedConstruct, which overrides.
+Dependent acts as a product for Element, which overrides.

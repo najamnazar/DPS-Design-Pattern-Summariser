@@ -1,0 +1,1 @@
+TransactionAttributeSourceEditorTests acts as a publisher for observer TransactionAttributeSource, which is inherited by, which nulls Value, which invalids Format, which matches Specific, which matches All, which checks TransactionAttributeSource parameter of tas, Method parameter of method, int parameter of propagationBehavior Transaction Properties.

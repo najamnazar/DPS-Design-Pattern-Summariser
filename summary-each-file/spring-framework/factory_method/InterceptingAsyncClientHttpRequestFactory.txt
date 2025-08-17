@@ -1,0 +1,1 @@
+InterceptingAsyncClientHttpRequestFactory acts as a product for OkHttp3AsyncClientHttpRequestFactoryTests, which overrides.

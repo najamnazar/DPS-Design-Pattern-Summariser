@@ -1,0 +1,1 @@
+AlterSchemaFinalStep acts as an abstract product for AlterSchemaStep, which is inherited by AlterSchemaImpl.

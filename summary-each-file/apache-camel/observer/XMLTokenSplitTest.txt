@@ -1,0 +1,5 @@
+XMLTokenSplitTest acts as a publisher for observer CamelContext, which tests XMLToken, which tests XMLToken2, which creates Body, which creates Route Builder.
+XMLTokenSplitTest acts as a publisher for observer Service, which tests XMLToken, which tests XMLToken2, which creates Body, which creates Route Builder.
+XMLTokenSplitTest acts as a publisher for observer ProducerTemplate, which tests XMLToken, which tests XMLToken2, which creates Body, which creates Route Builder.
+XMLTokenSplitTest acts as a publisher for observer ConsumerTemplate, which tests XMLToken, which tests XMLToken2, which creates Body, which creates Route Builder.
+XMLTokenSplitTest acts as a publisher for observer FluentProducerTemplate, which tests XMLToken, which tests XMLToken2, which creates Body, which creates Route Builder.

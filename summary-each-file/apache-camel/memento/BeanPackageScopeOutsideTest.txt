@@ -1,0 +1,2 @@
+BeanPackageScopeOutsideTest acts as a caretaker for memento Context, which tests Package Scope, which creates Route Builder.
+BeanPackageScopeOutsideTest acts as a caretaker for memento Producer, which tests Package Scope, which creates Route Builder.

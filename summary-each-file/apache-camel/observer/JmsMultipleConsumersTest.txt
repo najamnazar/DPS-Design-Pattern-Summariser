@@ -1,0 +1,1 @@
+JmsMultipleConsumersTest acts as a publisher for observer ArtemisService, which tests Multiple Consumers Topic, which tests Multiple Consumers Queue, which gets Component Name, which is Use Route Builder.

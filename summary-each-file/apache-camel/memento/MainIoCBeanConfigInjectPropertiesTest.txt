@@ -1,0 +1,1 @@
+MainIoCBeanConfigInjectPropertiesTest acts as an originator for memento MyBar, which creates a MyBar Bar to.

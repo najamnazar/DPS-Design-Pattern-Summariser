@@ -1,0 +1,1 @@
+TestSlidingWindowRetryPolicy acts as a caretaker for memento Clock, which setups, which tests Never Retry, which tests Always Retry, which tests Failures Validity Interval.

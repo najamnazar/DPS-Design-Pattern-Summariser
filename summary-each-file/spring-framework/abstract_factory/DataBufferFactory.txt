@@ -1,0 +1,2 @@
+DataBufferFactory acts as an abstract product for DataBufferFactory, which is inherited by DefaultDataBufferFactory, LeakAwareDataBufferFactory, NettyDataBufferFactory.
+DataBufferFactory acts as an abstract factory for DataBuffer, which is inherited by DefaultDataBufferFactory, LeakAwareDataBufferFactory, NettyDataBufferFactory.

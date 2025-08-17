@@ -1,0 +1,1 @@
+ObjectNamingStrategy acts as an adaptee for adapter MBeanExporter, which adapts to MBeanRegistrationSupport.

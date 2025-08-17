@@ -1,0 +1,2 @@
+SpringMethodCallTest acts as a publisher for observer Service, which tests Method Call Type, which tests Method Call Ref, which tests To Bean Type, which creates Camel Context.
+SpringMethodCallTest acts as a publisher for observer CamelContext, which tests Method Call Type, which tests Method Call Ref, which tests To Bean Type, which creates Camel Context.

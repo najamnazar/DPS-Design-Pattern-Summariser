@@ -1,0 +1,3 @@
+PutDefinition acts as a publisher for observer RestDefinition, which ases Verb.
+PutDefinition acts as an observer, which ases Verb.
+PutDefinition acts as a publisher for observer ToDefinition, which ases Verb.

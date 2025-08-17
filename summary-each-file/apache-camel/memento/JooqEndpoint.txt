@@ -1,0 +1,1 @@
+JooqEndpoint acts as a caretaker for memento Configuration, which creates Producer, which gets Configuration, which sets JooqConfiguration parameter of configuration Configuration, which gets Producer Expression, which creates Producer Expression, which creates Processor parameter of processor Consumer.

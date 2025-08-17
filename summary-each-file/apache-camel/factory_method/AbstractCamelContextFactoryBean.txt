@@ -1,0 +1,1 @@
+AbstractCamelContextFactoryBean acts as a product for XmlTestSupport, which overrides getRoutes method of RouteContainer.

@@ -1,0 +1,2 @@
+ProxyBuilderSkipJavaLangObjectMethodsTest acts as a publisher for observer CamelContext, which tests Say Foo, which creates Route Builder, which says String parameter of body Hello.
+ProxyBuilderSkipJavaLangObjectMethodsTest acts as a publisher for observer Service, which tests Say Foo, which creates Route Builder, which says String parameter of body Hello.

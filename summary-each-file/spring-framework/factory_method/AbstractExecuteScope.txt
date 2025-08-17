@@ -1,0 +1,2 @@
+AbstractExecuteScope acts as a factory method for ExecuteContext, which is inherited by AbstractExecuteScope, ExecuteScope, AbstractExecuteScope, AbstractExecuteScope, AbstractExecuteScope, AbstractExecuteScope, ExecuteScope, ExecuteScope, ExecuteScope, AbstractExecuteScope, ExecuteScope, ExecuteScope, ExecuteScope.
+AbstractExecuteScope acts as a factory for AbstractExecuteScope, which overrides.

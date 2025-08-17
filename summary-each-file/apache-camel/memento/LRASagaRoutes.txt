@@ -1,0 +1,1 @@
+LRASagaRoutes acts as a caretaker for memento Configuration, which configures, which verifies Exchange parameter of exchange Request.

@@ -1,0 +1,1 @@
+OfflineEditsVisitor acts as a publisher for observer FSEditLogOp, which is inherited by StatisticsEditsVisitor, which starts int parameter of version, which closes Throwable parameter of error, which visits FSEditLogOp parameter of op Op.

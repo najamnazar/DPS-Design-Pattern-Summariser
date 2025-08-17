@@ -1,0 +1,1 @@
+Etcd3LocalContainerService acts as a visitor for element ExtendedCamelContext, which overrides, which inits a Container to, which registers a Properties to, which initializes, which shutdowns, which gets a Container to, which gets a Service Address to.

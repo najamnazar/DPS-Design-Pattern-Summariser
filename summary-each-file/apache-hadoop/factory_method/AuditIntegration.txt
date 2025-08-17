@@ -1,0 +1,1 @@
+AuditIntegration acts as a factory method for AuditManagerS3A, which is inherited by AbstractAuditingTest, AbstractAuditingTest, S3AFileSystem, AbstractAuditingTest.

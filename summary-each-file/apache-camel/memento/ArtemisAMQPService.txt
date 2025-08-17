@@ -1,0 +1,1 @@
+ArtemisAMQPService acts as a caretaker for memento Configuration, which gets Configuration parameter of artemisConfiguration, int parameter of port Configuration, which services Address, which brokers Port.

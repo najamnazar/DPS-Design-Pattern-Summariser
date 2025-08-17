@@ -1,0 +1,1 @@
+MicroProfileMetricsMessageHistoryNamingStrategy acts as a caretaker for memento MessageHistory, which gets Route parameter of route, NamedNode parameter of node Name, which gets Route parameter of route, NamedNode parameter of node Tags.

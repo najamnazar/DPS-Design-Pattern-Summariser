@@ -1,0 +1,1 @@
+JDBCDatabase acts as a caretaker for memento Comparator, which gets Meta0.

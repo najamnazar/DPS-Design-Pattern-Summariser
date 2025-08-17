@@ -1,0 +1,2 @@
+TestContainerManagerWithLCE acts as a publisher for observer ContainerId, which setups, which tears Down, which shoulds Run Test, which creates Container Executor.
+TestContainerManagerWithLCE acts as a publisher for observer ContainerEvent, which setups, which tears Down, which shoulds Run Test, which creates Container Executor.

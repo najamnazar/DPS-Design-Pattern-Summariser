@@ -1,0 +1,1 @@
+AsyncUncaughtExceptionHandler acts as an abstract product for AsyncConfigurerSupport, which is inherited by SimpleAsyncUncaughtExceptionHandler, TestableAsyncUncaughtExceptionHandler.

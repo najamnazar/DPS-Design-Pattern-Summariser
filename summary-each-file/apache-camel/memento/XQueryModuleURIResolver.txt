@@ -1,0 +1,1 @@
+XQueryModuleURIResolver acts as a caretaker for memento Component, which resolves String parameter of moduleURI, String parameter of baseURI, String[] parameter of locations.

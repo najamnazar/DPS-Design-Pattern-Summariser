@@ -1,0 +1,1 @@
+RMAppEvent acts as an observer for publisher TestAppManager, which is inherited by RMAppFailedAttemptEvent, RMAppKillByClientEvent, RMAppNodeUpdateEvent, RMAppRunningOnNodeEvent, RMAppRecoverEvent, which gets Application Id, which gets Diagnostic Msg.

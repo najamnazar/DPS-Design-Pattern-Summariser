@@ -1,0 +1,5 @@
+MockFileDatabase acts as a caretaker for memento B, which nulls String parameter of literal Literal, which loads, which querieses, which executes MockExecuteContext parameter of ctx.
+MockFileDatabase acts as a caretaker for memento File, which nulls String parameter of literal Literal, which loads, which querieses, which executes MockExecuteContext parameter of ctx.
+MockFileDatabase acts as a caretaker for memento Database, which nulls String parameter of literal Literal, which loads, which querieses, which executes MockExecuteContext parameter of ctx.
+MockFileDatabase acts as a caretaker for memento C, which nulls String parameter of literal Literal, which loads, which querieses, which executes MockExecuteContext parameter of ctx.
+MockFileDatabase acts as a caretaker for memento Configuration, which nulls String parameter of literal Literal, which loads, which querieses, which executes MockExecuteContext parameter of ctx.

@@ -1,0 +1,1 @@
+ReactiveExecutor acts as an abstract product for ReactiveExecutor, which is inherited by TomcatReactiveExecutor, DefaultReactiveExecutor, VertXReactiveExecutor.

@@ -1,0 +1,2 @@
+Pointcut acts as an abstract product for AspectJExpressionPointcutAdvisor, which is inherited by AnnotationMatchingPointcut, StaticMethodMatcherPointcut, ComposablePointcut, ControlFlowPointcut, DynamicMethodMatcherPointcut, TruePointcut.
+Pointcut acts as a factory for AnnotationMatchingPointcut, which overrides.

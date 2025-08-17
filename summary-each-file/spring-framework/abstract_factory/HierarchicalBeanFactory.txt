@@ -1,0 +1,2 @@
+HierarchicalBeanFactory acts as a product for HierarchicalBeanFactory, which overrides.
+HierarchicalBeanFactory acts as an abstract factory for BeanFactory, which is inherited by.

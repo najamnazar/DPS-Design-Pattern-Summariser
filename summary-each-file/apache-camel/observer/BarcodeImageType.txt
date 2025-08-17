@@ -1,0 +1,1 @@
+BarcodeImageType acts as an observer for publisher BarcodeParameters, which is inherited by.

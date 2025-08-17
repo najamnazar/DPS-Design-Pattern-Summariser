@@ -1,0 +1,1 @@
+TestContextBootstrapper acts as an originator for memento BootstrapContext, which is inherited by, which sets BootstrapContext parameter of bootstrapContext Bootstrap Context, which gets a BootstrapContext Bootstrap Context to.

@@ -1,0 +1,2 @@
+OracleAQExamples acts as a caretaker for memento C, which setups, which tests AQSimple, which tests AQStream, which tests AQIterable, which tests AQAsync, which tests AQWait, which tests AQOptions, which tests AQTransactions.
+OracleAQExamples acts as a caretaker for memento A, which setups, which tests AQSimple, which tests AQStream, which tests AQIterable, which tests AQAsync, which tests AQWait, which tests AQOptions, which tests AQTransactions.

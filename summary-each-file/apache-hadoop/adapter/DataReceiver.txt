@@ -1,0 +1,2 @@
+DataReceiver acts as an adaptee for adapter NativeBatchProcessor, which adapts to INativeHandler.
+DataReceiver acts as a target for adapter BufferPuller, which adapts to DataReceiver.

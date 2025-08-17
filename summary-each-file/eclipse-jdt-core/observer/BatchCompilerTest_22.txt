@@ -1,0 +1,1 @@
+BatchCompilerTest_22 acts as a publisher for observer String, which suites, which tests Class, which tests Issue3055, which tests Issue3055_2.

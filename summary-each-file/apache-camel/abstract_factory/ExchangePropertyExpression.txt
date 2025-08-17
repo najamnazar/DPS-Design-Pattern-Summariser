@@ -1,0 +1,1 @@
+ExchangePropertyExpression acts as a product for HasExpressionType, which overrides getLanguage method of ExpressionDefinition.

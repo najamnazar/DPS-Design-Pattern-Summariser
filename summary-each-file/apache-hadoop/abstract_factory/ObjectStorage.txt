@@ -1,0 +1,1 @@
+ObjectStorage acts as an abstract factory for Configuration, ObjectInfo, which is inherited by FileStore.

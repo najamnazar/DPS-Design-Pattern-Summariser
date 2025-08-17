@@ -1,0 +1,1 @@
+RunningService acts as a target for adapter LaunchableRunningService, which adapts to RunningService, which adapts to RunningService, which adapts to RunningService, which adapts to RunningService.

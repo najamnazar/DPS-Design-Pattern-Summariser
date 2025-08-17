@@ -1,0 +1,1 @@
+BonitaAuthFilter acts as a publisher for observer BonitaAPIConfig, which is inherited by, which filters ClientRequestContext parameter of requestContext, which gets Bonita Api Config, which sets BonitaAPIConfig parameter of bonitaApiConfig Bonita Api Config.

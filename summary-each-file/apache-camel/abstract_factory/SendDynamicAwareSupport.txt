@@ -1,0 +1,1 @@
+SendDynamicAwareSupport acts as a factory for SendDynamicAware, which overrides setScheme method of SendDynamicAware, getScheme method of SendDynamicAware, resolveRawParameterValues method of SendDynamicAware.

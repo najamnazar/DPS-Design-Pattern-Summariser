@@ -1,0 +1,1 @@
+ErasureCoder acts as an abstract factory for ErasureCodingStep, which is inherited by ErasureDecoder, ErasureEncoder.

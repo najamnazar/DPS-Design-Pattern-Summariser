@@ -1,0 +1,1 @@
+KillAMPreemptionPolicy acts as an adapter, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy, which adapts to AMPreemptionPolicy.

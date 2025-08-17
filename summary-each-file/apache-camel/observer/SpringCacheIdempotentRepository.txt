@@ -1,0 +1,1 @@
+SpringCacheIdempotentRepository acts as an observer, which adds String parameter of key, which contains String parameter of key, which removes String parameter of key, which clears, which gets Cache Name, which confirms String parameter of key, which does Start, which does Stop.

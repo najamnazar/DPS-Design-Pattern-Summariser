@@ -1,0 +1,1 @@
+ScheduledPollConsumerScheduler acts as an abstract product for ScheduledPollConsumer, which is inherited by QuartzScheduledPollConsumerScheduler, SpringScheduledPollConsumerScheduler, DefaultScheduledPollConsumerScheduler.

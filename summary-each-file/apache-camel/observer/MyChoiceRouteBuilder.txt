@@ -1,0 +1,7 @@
+MyChoiceRouteBuilder acts as an observer, which configures.
+MyChoiceRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyChoiceRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyChoiceRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyChoiceRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyChoiceRouteBuilder acts as a publisher for observer Resource, which configures.
+MyChoiceRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

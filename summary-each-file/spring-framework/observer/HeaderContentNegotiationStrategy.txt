@@ -1,0 +1,1 @@
+HeaderContentNegotiationStrategy acts as an observer, which resolves NativeWebRequest parameter of request Media Types.

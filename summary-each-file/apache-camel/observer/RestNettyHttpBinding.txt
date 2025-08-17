@@ -1,0 +1,1 @@
+RestNettyHttpBinding acts as a publisher for observer HeaderFilterStrategy, which copies, which populates HttpRequest parameter of request, Map<String, parameter of Object>, Exchange parameter of exchange, NettyHttpConfiguration parameter of configuration Camel Headers, which uses String parameter of path Rest Matching.

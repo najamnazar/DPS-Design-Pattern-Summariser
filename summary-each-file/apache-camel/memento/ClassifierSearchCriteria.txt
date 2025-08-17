@@ -1,0 +1,1 @@
+ClassifierSearchCriteria acts as a caretaker for memento Context, which is inherited by, which is Hide Empty, which sets boolean parameter of hideEmpty Hide Empty, which gets Post Id, which sets Integer parameter of postId Post Id, which gets Slug, which sets String parameter of slug Slug, which gets Context, which sets Context parameter of context Context.

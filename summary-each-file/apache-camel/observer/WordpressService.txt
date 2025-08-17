@@ -1,0 +1,1 @@
+WordpressService acts as a publisher for observer WordpressAuthentication, which is inherited by AbstractWordpressServiceAdapter, which sets WordpressAuthentication parameter of authentication Wordpress Authentication.

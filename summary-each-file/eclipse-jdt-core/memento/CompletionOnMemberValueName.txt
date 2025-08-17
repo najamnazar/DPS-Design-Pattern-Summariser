@@ -1,0 +1,1 @@
+CompletionOnMemberValueName acts as a caretaker for memento E, which prints int parameter of indent, StringBuilder parameter of output.

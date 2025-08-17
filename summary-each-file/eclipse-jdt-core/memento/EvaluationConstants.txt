@@ -1,0 +1,2 @@
+EvaluationConstants acts as a caretaker for memento String, which is inherited by.
+EvaluationConstants acts as a caretaker for memento S, which is inherited by.

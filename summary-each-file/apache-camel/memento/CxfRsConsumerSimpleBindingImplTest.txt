@@ -1,0 +1,2 @@
+CxfRsConsumerSimpleBindingImplTest acts as a caretaker for memento Context, which sets Up, which tears Down, which creates Route Builder, which tests Get Customer Only Headers, which tests New Customer With Query Param.
+CxfRsConsumerSimpleBindingImplTest acts as a caretaker for memento Producer, which sets Up, which tears Down, which creates Route Builder, which tests Get Customer Only Headers, which tests New Customer With Query Param.

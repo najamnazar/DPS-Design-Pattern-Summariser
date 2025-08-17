@@ -1,0 +1,1 @@
+ITestS3APrefetchingCacheFiles acts as a publisher for observer OperationCost, which sets Up, which creates Configuration, which teardowns, which tests Cache File Existence.

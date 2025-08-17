@@ -1,0 +1,1 @@
+ForwardRequestPostProcessor acts as a product for MockMvcConfigurer, which overrides postProcessRequest method of RequestPostProcessor.

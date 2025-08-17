@@ -1,0 +1,7 @@
+AnnotatedBeanDefinition acts as a product for BeanDefinitionParser, which overrides.
+AnnotatedBeanDefinition acts as a product for ConfigurableListableBeanFactory, which overrides.
+AnnotatedBeanDefinition acts as a product for BeanDefinition, which overrides.
+AnnotatedBeanDefinition acts as a product for ConfigurableBeanFactory, which overrides.
+AnnotatedBeanDefinition acts as a product for NamespaceHandler, which overrides.
+AnnotatedBeanDefinition acts as a product for BeanDefinitionRegistry, which overrides.
+AnnotatedBeanDefinition acts as an abstract factory for MethodMetadata, AnnotationMetadata, which is inherited by ScannedGenericBeanDefinition, AnnotatedGenericBeanDefinition.

@@ -1,0 +1,1 @@
+LocatedStripedBlock acts as a product for ClientProtocol, which overrides toString method of LocatedBlock, isStriped method of LocatedBlock, getBlockType method of LocatedBlock.

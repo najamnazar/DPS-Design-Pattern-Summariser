@@ -1,0 +1,6 @@
+AroundAdviceCircularTests acts as a caretaker for memento ApplicationContext, which tests Both Beans Are Proxies.
+AroundAdviceCircularTests acts as a caretaker for memento ITestBean, which tests Both Beans Are Proxies.
+AroundAdviceCircularTests acts as a caretaker for memento Advice, which tests Both Beans Are Proxies.
+AroundAdviceCircularTests acts as a caretaker for memento A, which tests Both Beans Are Proxies.
+AroundAdviceCircularTests acts as a caretaker for memento C, which tests Both Beans Are Proxies.
+AroundAdviceCircularTests acts as a caretaker for memento B, which tests Both Beans Are Proxies.

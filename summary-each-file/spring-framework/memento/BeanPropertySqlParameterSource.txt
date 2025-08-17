@@ -1,0 +1,1 @@
+BeanPropertySqlParameterSource acts as a caretaker for memento B, which has String parameter of paramName Value, which gets String parameter of paramName Value, which gets String parameter of paramName Sql Type, which gets Parameter Names, which gets Readable Property Names.

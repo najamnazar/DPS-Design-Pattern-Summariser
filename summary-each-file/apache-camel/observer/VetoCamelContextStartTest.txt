@@ -1,0 +1,2 @@
+VetoCamelContextStartTest acts as a publisher for observer Service, which tests Veto Camel Context Start, which creates Route Builder, which creates Camel Context, which ons CamelContext parameter of context Context Start.
+VetoCamelContextStartTest acts as a publisher for observer CamelContext, which tests Veto Camel Context Start, which creates Route Builder, which creates Camel Context, which ons CamelContext parameter of context Context Start.

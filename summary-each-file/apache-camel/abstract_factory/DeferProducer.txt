@@ -1,0 +1,9 @@
+DeferProducer acts as a product for ProcessorExchangePair, which overrides.
+DeferProducer acts as a product for KafkaClientFactory, which overrides.
+DeferProducer acts as a product for Endpoint, which overrides.
+DeferProducer acts as a product for DeferServiceFactory, which overrides.
+DeferProducer acts as a product for KnativeProducerFactory, which overrides.
+DeferProducer acts as a product for RestProducerFactory, which overrides.
+DeferProducer acts as a product for AnnotationBasedProcessorFactory, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.
+DeferProducer acts as a product for ConsulFactories, which overrides.
+DeferProducer acts as a product for InternalProcessorFactory, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.

@@ -1,0 +1,1 @@
+ZendeskApiMethod acts as an observer for publisher ZendeskConfiguration, ZendeskEndpointConfiguration, which is inherited by, which gets Name, which gets Result Type, which gets Arg Names, which gets Arg Types, which gets Method.

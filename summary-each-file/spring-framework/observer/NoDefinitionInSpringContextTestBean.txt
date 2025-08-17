@@ -1,0 +1,2 @@
+NoDefinitionInSpringContextTestBean acts as a publisher for observer BeanSource.
+NoDefinitionInSpringContextTestBean acts as an observer.

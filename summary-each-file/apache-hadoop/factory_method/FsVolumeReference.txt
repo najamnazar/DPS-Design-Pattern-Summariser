@@ -1,0 +1,1 @@
+FsVolumeReference acts as a factory method for FsVolumeSpi, which is inherited by FsVolumeSpi, ReplicaInfo, FsVolumeImpl, ReplicaInfo, Replica, FsVolumeSpi, Replica, Replica.

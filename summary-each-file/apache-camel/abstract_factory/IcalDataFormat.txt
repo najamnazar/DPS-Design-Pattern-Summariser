@@ -1,0 +1,2 @@
+IcalDataFormat acts as a product for DataFormatDefinitionAware, which overrides.
+IcalDataFormat acts as a product for Model, which overrides.

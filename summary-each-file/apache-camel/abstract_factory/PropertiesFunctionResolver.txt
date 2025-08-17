@@ -1,0 +1,1 @@
+PropertiesFunctionResolver acts as an abstract factory for PropertiesFunction, which is inherited by DefaultPropertiesFunctionResolver.

@@ -1,0 +1,2 @@
+IDOMPackage acts as an adaptee for adapter DOMPackage, which adapts to IDOMPackage, DOMNode, which adapts to IDOMPackage, DOMNode.
+IDOMPackage acts as a target for adapter DOMPackage, which adapts to IDOMPackage, which adapts to IDOMPackage.

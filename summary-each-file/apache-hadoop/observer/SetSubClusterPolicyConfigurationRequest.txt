@@ -1,0 +1,1 @@
+SetSubClusterPolicyConfigurationRequest acts as a publisher for observer SubClusterPolicyConfiguration, which is inherited by SetSubClusterPolicyConfigurationRequestPBImpl, which news SubClusterPolicyConfiguration parameter of policy Instance, which gets Policy Configuration, which sets SubClusterPolicyConfiguration parameter of policyConfiguration Policy Configuration.

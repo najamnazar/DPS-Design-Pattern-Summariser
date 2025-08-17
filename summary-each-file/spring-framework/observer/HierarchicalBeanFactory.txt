@@ -1,0 +1,1 @@
+HierarchicalBeanFactory acts as an observer, which gets Parent Bean Factory, which contains String parameter of name Local Bean.

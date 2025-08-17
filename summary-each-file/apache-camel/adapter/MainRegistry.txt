@@ -1,0 +1,1 @@
+MainRegistry acts as an adaptee for adapter KameletMain, which adapts to MainCommandLineSupport.

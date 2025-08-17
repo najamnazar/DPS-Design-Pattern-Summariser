@@ -1,0 +1,2 @@
+RMTimelineCollectorManager acts as an adaptee for adapter TimelineServiceV2Publisher, which adapts to AbstractSystemMetricsPublisher.
+RMTimelineCollectorManager acts as an adapter, which adapts to TimelineCollectorManager.

@@ -1,0 +1,1 @@
+GlobalEndpointConfiguration acts as an abstract product for GlobalEndpointConfiguration, which is inherited by DefaultGlobalEndpointConfiguration.

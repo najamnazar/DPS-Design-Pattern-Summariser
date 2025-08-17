@@ -1,0 +1,2 @@
+SplitterCompletedPropertyTest acts as a publisher for observer CamelContext, which tests Splitter Completed, which tests Splitter Streaming Completed, which creates Route Builder.
+SplitterCompletedPropertyTest acts as a publisher for observer Service, which tests Splitter Completed, which tests Splitter Streaming Completed, which creates Route Builder.

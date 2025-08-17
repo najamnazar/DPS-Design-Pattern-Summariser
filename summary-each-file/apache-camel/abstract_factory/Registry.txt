@@ -1,0 +1,3 @@
+Registry acts as a product for RouteTemplateContext, which overrides.
+Registry acts as an abstract product for Registry, which is inherited by SimpleRegistry, DefaultRegistry, ConsulRegistry.
+Registry acts as a product for LocalBeanRepositoryAware, which overrides.

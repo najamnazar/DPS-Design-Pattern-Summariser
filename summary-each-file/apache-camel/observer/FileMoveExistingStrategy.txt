@@ -1,0 +1,1 @@
+FileMoveExistingStrategy acts as an observer for publisher GenericFileEndpoint, which is inherited by GenericFileDefaultMoveExistingFileStrategy, FtpDefaultMoveExistingFileStrategy, SftpDefaultMoveExistingFileStrategy, which moves GenericFileEndpoint parameter of endpoint, GenericFileOperations parameter of operations, String parameter of fileName Existing File.

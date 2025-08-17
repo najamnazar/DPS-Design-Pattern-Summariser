@@ -1,0 +1,1 @@
+JcrConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which gets Jcr Endpoint, which creates Session And Register Listener, which unregisters Listener And Logout Session, which cancels Session Listener Checker, which schedules Session Listener Checker, which runs.

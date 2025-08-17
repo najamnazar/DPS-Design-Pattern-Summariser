@@ -1,0 +1,2 @@
+DerivedColumnListImpl acts as a product for CommonTableExpression, which overrides $tableName method of DerivedColumnList, $columnNames method of DerivedColumnList.
+DerivedColumnListImpl acts as a product for Name, which overrides.

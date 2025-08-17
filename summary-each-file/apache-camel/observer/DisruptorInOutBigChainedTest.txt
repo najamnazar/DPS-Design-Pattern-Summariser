@@ -1,0 +1,5 @@
+DisruptorInOutBigChainedTest acts as a publisher for observer ProducerTemplate, which tests In Out Big Disruptor Chained, which creates Route Builder.
+DisruptorInOutBigChainedTest acts as a publisher for observer Service, which tests In Out Big Disruptor Chained, which creates Route Builder.
+DisruptorInOutBigChainedTest acts as a publisher for observer ConsumerTemplate, which tests In Out Big Disruptor Chained, which creates Route Builder.
+DisruptorInOutBigChainedTest acts as a publisher for observer CamelContext, which tests In Out Big Disruptor Chained, which creates Route Builder.
+DisruptorInOutBigChainedTest acts as a publisher for observer FluentProducerTemplate, which tests In Out Big Disruptor Chained, which creates Route Builder.

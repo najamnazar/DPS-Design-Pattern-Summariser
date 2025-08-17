@@ -1,0 +1,1 @@
+RefreshClusterMaxPriorityResponse acts as an abstract product for RefreshClusterMaxPriorityResponse, which is inherited by RefreshClusterMaxPriorityResponsePBImpl.

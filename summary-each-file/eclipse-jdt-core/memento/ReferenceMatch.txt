@@ -1,0 +1,3 @@
+ReferenceMatch acts as a caretaker for memento E, which is inherited by, which gets Local Element, which sets IJavaElement parameter of element Local Element.
+ReferenceMatch acts as a caretaker for memento R, which gets Local Element, which sets IJavaElement parameter of element Local Element.
+ReferenceMatch acts as a caretaker for memento S, which gets Local Element, which sets IJavaElement parameter of element Local Element.

@@ -1,0 +1,5 @@
+JettyValidatorStreamTest acts as a publisher for observer ProducerTemplate, which tests Valide Request As Stream, which creates Route Builder.
+JettyValidatorStreamTest acts as a publisher for observer ConsumerTemplate, which tests Valide Request As Stream, which creates Route Builder.
+JettyValidatorStreamTest acts as a publisher for observer FluentProducerTemplate, which tests Valide Request As Stream, which creates Route Builder.
+JettyValidatorStreamTest acts as a publisher for observer CamelContext, which tests Valide Request As Stream, which creates Route Builder.
+JettyValidatorStreamTest acts as a publisher for observer Service, which tests Valide Request As Stream, which creates Route Builder.

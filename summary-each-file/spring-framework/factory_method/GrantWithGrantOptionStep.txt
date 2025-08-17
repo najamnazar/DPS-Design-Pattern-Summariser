@@ -1,0 +1,3 @@
+GrantWithGrantOptionStep acts as an abstract product for GrantToStep, which is inherited by GrantImpl.
+GrantWithGrantOptionStep acts as a factory method for GrantFinalStep, which is inherited by GrantWithGrantOptionStep.
+GrantWithGrantOptionStep acts as a factory for GrantWithGrantOptionStep, which overrides.

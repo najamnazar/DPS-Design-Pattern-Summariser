@@ -1,0 +1,2 @@
+AttachmentMap acts as a product for SafeCopyProperty, which overrides safeCopy method of SafeCopyProperty.
+AttachmentMap acts as a factory for SafeCopyProperty, which overrides safeCopy method of SafeCopyProperty.

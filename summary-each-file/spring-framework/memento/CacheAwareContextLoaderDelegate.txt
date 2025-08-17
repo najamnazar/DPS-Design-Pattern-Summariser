@@ -1,0 +1,1 @@
+CacheAwareContextLoaderDelegate acts as an originator for memento ApplicationContext, which is inherited by, which loads an ApplicationContext Context to.

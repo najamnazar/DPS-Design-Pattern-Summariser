@@ -1,0 +1,1 @@
+BasicAppInfo acts as a caretaker for memento YarnApplicationState, which froms AppInfo parameter of report App Info, which gets App State, which gets User.

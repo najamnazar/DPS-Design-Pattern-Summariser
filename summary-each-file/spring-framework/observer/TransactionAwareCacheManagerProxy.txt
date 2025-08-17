@@ -1,0 +1,2 @@
+TransactionAwareCacheManagerProxy acts as an observer, which sets CacheManager parameter of targetCacheManager Target Cache Manager, which afters Properties Set, which gets String parameter of name Cache, which gets Cache Names.
+TransactionAwareCacheManagerProxy acts as a publisher for observer CacheManager, which is inherited by, which sets CacheManager parameter of targetCacheManager Target Cache Manager, which afters Properties Set, which gets String parameter of name Cache, which gets Cache Names.

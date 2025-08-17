@@ -1,0 +1,3 @@
+Spr12278Tests acts as a caretaker for memento A, which closes, which components Single Constructor, which components Two Constructors No Hint, which components Two Specific Constructors No Hint, which autowireds Name.
+Spr12278Tests acts as a caretaker for memento ApplicationContext, which closes, which components Single Constructor, which components Two Constructors No Hint, which components Two Specific Constructors No Hint, which autowireds Name.
+Spr12278Tests acts as a caretaker for memento C, which closes, which components Single Constructor, which components Two Constructors No Hint, which components Two Specific Constructors No Hint, which autowireds Name.

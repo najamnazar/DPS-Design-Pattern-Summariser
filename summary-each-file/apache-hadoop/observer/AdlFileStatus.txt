@@ -1,0 +1,2 @@
+AdlFileStatus acts as an observer, which has Acl, which equals Object parameter of o, which hashes Code.
+AdlFileStatus acts as a publisher for observer FsPermission, which has Acl, which equals Object parameter of o, which hashes Code.

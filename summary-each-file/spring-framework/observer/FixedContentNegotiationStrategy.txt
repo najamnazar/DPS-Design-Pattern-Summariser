@@ -1,0 +1,1 @@
+FixedContentNegotiationStrategy acts as an observer, which gets Content Types, which resolves NativeWebRequest parameter of request Media Types.

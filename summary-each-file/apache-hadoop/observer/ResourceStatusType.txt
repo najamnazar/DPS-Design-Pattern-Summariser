@@ -1,0 +1,1 @@
+ResourceStatusType acts as an observer for publisher LocalResourceStatus, MockLocalResourceStatus, which is inherited by.

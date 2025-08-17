@@ -1,0 +1,2 @@
+AbstractBeanDefinitionReader acts as a factory for BeanDefinitionReader, which overrides getRegistry method of BeanDefinitionReader, getResourceLoader method of BeanDefinitionReader, getBeanClassLoader method of BeanDefinitionReader, getBeanNameGenerator method of BeanDefinitionReader, loadBeanDefinitions method of BeanDefinitionReader, loadBeanDefinitions method of BeanDefinitionReader, loadBeanDefinitions method of BeanDefinitionReader.
+AbstractBeanDefinitionReader acts as a factory for EnvironmentCapable, which overrides getEnvironment method of EnvironmentCapable.

@@ -1,0 +1,1 @@
+XhrPollingTransportHandler acts as a factory method for SockJsFrameFormat, which is inherited by AbstractHttpSendingTransportHandler, AbstractHttpSendingTransportHandler, AbstractHttpSendingTransportHandler, AbstractHttpSendingTransportHandler.

@@ -1,0 +1,5 @@
+DisruptorInOnlyTest acts as a publisher for observer FluentProducerTemplate, which tests In Only, which creates Route Builder.
+DisruptorInOnlyTest acts as a publisher for observer CamelContext, which tests In Only, which creates Route Builder.
+DisruptorInOnlyTest acts as a publisher for observer ConsumerTemplate, which tests In Only, which creates Route Builder.
+DisruptorInOnlyTest acts as a publisher for observer Service, which tests In Only, which creates Route Builder.
+DisruptorInOnlyTest acts as a publisher for observer ProducerTemplate, which tests In Only, which creates Route Builder.

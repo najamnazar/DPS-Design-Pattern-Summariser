@@ -1,0 +1,5 @@
+WebhookTestBase acts as a publisher for observer ProducerTemplate, which inits Port.
+WebhookTestBase acts as a publisher for observer CamelContext, which inits Port.
+WebhookTestBase acts as a publisher for observer ConsumerTemplate, which inits Port.
+WebhookTestBase acts as a publisher for observer FluentProducerTemplate, which inits Port.
+WebhookTestBase acts as a publisher for observer Service, which inits Port.

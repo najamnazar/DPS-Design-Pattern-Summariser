@@ -1,0 +1,1 @@
+KeyProviderTokenIssuer acts as an abstract factory for KeyProvider, which is inherited by DistributedFileSystem, WebHdfsFileSystem, DFSClient.

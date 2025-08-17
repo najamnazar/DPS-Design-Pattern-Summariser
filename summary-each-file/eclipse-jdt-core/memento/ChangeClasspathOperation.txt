@@ -1,0 +1,4 @@
+ChangeClasspathOperation acts as a caretaker for memento S, which cans Modify Roots, which classpathes ClasspathChange parameter of change, boolean parameter of refreshExternalFolder Changed, which gets Scheduling Rule, which is Read Only.
+ChangeClasspathOperation acts as a caretaker for memento String, which cans Modify Roots, which classpathes ClasspathChange parameter of change, boolean parameter of refreshExternalFolder Changed, which gets Scheduling Rule, which is Read Only.
+ChangeClasspathOperation acts as a caretaker for memento E, which cans Modify Roots, which classpathes ClasspathChange parameter of change, boolean parameter of refreshExternalFolder Changed, which gets Scheduling Rule, which is Read Only.
+ChangeClasspathOperation acts as a caretaker for memento Map, which cans Modify Roots, which classpathes ClasspathChange parameter of change, boolean parameter of refreshExternalFolder Changed, which gets Scheduling Rule, which is Read Only.

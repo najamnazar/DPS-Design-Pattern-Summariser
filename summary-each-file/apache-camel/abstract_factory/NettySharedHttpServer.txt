@@ -1,0 +1,1 @@
+NettySharedHttpServer acts as an abstract factory for HttpServerConsumerChannelFactory, NettyServerBootstrapFactory, which is inherited by DefaultNettySharedHttpServer.

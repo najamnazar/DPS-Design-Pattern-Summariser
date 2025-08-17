@@ -1,0 +1,3 @@
+XsltBuilder acts as a factory method for ResultHandlerFactory, which is inherited by XsltEndpoint, XsltBuilder.
+XsltBuilder acts as a product for FaultToleranceProcessorFactory, which overrides process method of Processor.
+XsltBuilder acts as a factory for XsltBuilder, which overrides.

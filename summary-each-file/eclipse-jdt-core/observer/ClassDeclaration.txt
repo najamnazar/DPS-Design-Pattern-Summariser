@@ -1,0 +1,2 @@
+ClassDeclaration acts as an observer, which gets Superclass, which gets Constructors, which gets Methods.
+ClassDeclaration acts as a publisher for observer ClassScope, which gets Superclass, which gets Constructors, which gets Methods.

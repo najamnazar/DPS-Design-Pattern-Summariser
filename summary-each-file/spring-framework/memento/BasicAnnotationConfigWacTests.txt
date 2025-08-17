@@ -1,0 +1,6 @@
+BasicAnnotationConfigWacTests acts as a caretaker for memento A, which is inherited by, which foos, which servlets Context Aware Bean, which foos Enigma Autowired, which servlets Context Aware Bean Processed.
+BasicAnnotationConfigWacTests acts as a caretaker for memento B, which is inherited by, which foos, which servlets Context Aware Bean, which foos Enigma Autowired, which servlets Context Aware Bean Processed.
+BasicAnnotationConfigWacTests acts as a caretaker for memento C, which is inherited by, which foos, which servlets Context Aware Bean, which foos Enigma Autowired, which servlets Context Aware Bean Processed.
+BasicAnnotationConfigWacTests acts as a caretaker for memento ApplicationContext, which foos, which servlets Context Aware Bean, which foos Enigma Autowired, which servlets Context Aware Bean Processed.
+BasicAnnotationConfigWacTests acts as a caretaker for memento A, which foos, which servlets Context Aware Bean, which foos Enigma Autowired, which servlets Context Aware Bean Processed.
+BasicAnnotationConfigWacTests acts as a caretaker for memento C, which foos, which servlets Context Aware Bean, which foos Enigma Autowired, which servlets Context Aware Bean Processed.

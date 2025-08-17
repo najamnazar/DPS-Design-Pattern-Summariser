@@ -1,0 +1,2 @@
+SimpleTryThrowExceptionFinallyTest acts as a publisher for observer Service, which tests Simple Try Throw Exception Finally, which creates Route Builder.
+SimpleTryThrowExceptionFinallyTest acts as a publisher for observer CamelContext, which tests Simple Try Throw Exception Finally, which creates Route Builder.

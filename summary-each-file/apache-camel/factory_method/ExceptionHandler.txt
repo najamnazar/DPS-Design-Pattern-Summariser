@@ -1,0 +1,1 @@
+ExceptionHandler acts as an abstract product for DefaultEndpoint, which is inherited by LoggingExceptionHandler, BridgeExceptionHandlerToErrorHandler, NettyConsumerExceptionHandler, CustomRabbitExceptionHandler.

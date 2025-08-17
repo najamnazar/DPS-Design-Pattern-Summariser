@@ -1,0 +1,2 @@
+GenericFileMessageTest acts as a publisher for observer CamelContext, which tests Generic Message To String Conversion, which tests Generic File Content Type.
+GenericFileMessageTest acts as a publisher for observer Service, which tests Generic Message To String Conversion, which tests Generic File Content Type.

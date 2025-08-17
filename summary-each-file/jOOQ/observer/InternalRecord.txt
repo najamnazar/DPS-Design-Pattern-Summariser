@@ -1,0 +1,1 @@
+InternalRecord acts as an observer.

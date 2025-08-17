@@ -1,0 +1,2 @@
+DropTableStep acts as a memento, which restricts, which restricts.
+DropTableStep acts as a memento, which is inherited by DropTableImpl, which restricts, which restricts.

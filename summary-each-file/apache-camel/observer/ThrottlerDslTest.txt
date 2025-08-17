@@ -1,0 +1,2 @@
+ThrottlerDslTest acts as a publisher for observer CamelContext, which tests Dsl, which creates Route Builder.
+ThrottlerDslTest acts as a publisher for observer Service, which tests Dsl, which creates Route Builder.

@@ -1,0 +1,2 @@
+DummyEnvironment acts as a product for ConditionContext, which overrides getActiveProfiles method of Environment, getDefaultProfiles method of Environment, acceptsProfiles method of Environment, acceptsProfiles method of Environment.
+DummyEnvironment acts as a product for EnvironmentCapable, which overrides getActiveProfiles method of Environment, getDefaultProfiles method of Environment, acceptsProfiles method of Environment, acceptsProfiles method of Environment.

@@ -1,0 +1,2 @@
+DefaultDevConsolesLoaderTest acts as a publisher for observer Service, which tests Loader.
+DefaultDevConsolesLoaderTest acts as a publisher for observer CamelContext, which tests Loader.

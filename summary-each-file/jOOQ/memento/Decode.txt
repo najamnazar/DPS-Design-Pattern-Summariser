@@ -1,0 +1,1 @@
+Decode acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx.

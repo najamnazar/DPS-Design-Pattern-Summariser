@@ -1,0 +1,5 @@
+StAXJAXBIteratorExpressionTest acts as a publisher for observer CamelContext, which inits Route Example, which creates Route Builder, which tests Stax Expression.
+StAXJAXBIteratorExpressionTest acts as a publisher for observer Service, which inits Route Example, which creates Route Builder, which tests Stax Expression.
+StAXJAXBIteratorExpressionTest acts as a publisher for observer FluentProducerTemplate, which inits Route Example, which creates Route Builder, which tests Stax Expression.
+StAXJAXBIteratorExpressionTest acts as a publisher for observer ProducerTemplate, which inits Route Example, which creates Route Builder, which tests Stax Expression.
+StAXJAXBIteratorExpressionTest acts as a publisher for observer ConsumerTemplate, which inits Route Example, which creates Route Builder, which tests Stax Expression.

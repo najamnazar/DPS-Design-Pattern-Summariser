@@ -1,0 +1,1 @@
+AptCompilationParticipant acts as a singleton, which gets an AptCompilationParticipant Instance to addNewUnit method of IdeProcessingEnvImpl, createResource method of IdeFilerImpl, create method of AptCompilationParticipantExtensionFactory, createSourceFile method of IdeFilerImpl.

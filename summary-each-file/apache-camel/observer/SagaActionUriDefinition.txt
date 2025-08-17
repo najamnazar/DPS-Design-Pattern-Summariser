@@ -1,0 +1,1 @@
+SagaActionUriDefinition acts as an observer for publisher SagaDefinition, which is inherited by, which gets Short Name.

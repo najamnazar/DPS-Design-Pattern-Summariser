@@ -1,0 +1,1 @@
+ImportReference acts as a caretaker for memento C, which is Static, which gets Import Name, which prints int parameter of indent, StringBuffer parameter of output, which prints int parameter of tab, StringBuffer parameter of output, boolean parameter of withOnDemand, which traverses ASTVisitor parameter of visitor, CompilationUnitScope parameter of scope.

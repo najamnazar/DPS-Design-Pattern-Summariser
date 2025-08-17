@@ -1,0 +1,1 @@
+GroupListener acts as an adaptee for adapter ZookeeperGroupListenerSupport, which adapts to ZookeeperGroupSupport.

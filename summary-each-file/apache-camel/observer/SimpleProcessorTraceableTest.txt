@@ -1,0 +1,2 @@
+SimpleProcessorTraceableTest acts as a publisher for observer CamelContext, which tests Process, which creates Route Builder, which processes Exchange parameter of exchange, which gets Trace Label.
+SimpleProcessorTraceableTest acts as a publisher for observer Service, which tests Process, which creates Route Builder, which processes Exchange parameter of exchange, which gets Trace Label.

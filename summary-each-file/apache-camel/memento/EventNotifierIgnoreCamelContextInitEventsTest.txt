@@ -1,0 +1,2 @@
+EventNotifierIgnoreCamelContextInitEventsTest acts as a caretaker for memento Context, which sets Up, which tears Down, which creates Camel Context, which tests Ignore Init Events, which creates Route Builder.
+EventNotifierIgnoreCamelContextInitEventsTest acts as a caretaker for memento Producer, which sets Up, which tears Down, which creates Camel Context, which tests Ignore Init Events, which creates Route Builder.

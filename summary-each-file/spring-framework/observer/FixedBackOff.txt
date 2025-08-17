@@ -1,0 +1,1 @@
+FixedBackOff acts as an observer, which sets long parameter of interval Interval, which gets Interval, which sets long parameter of maxAttempts Max Attempts, which gets Max Attempts, which starts, which nexts Back Off, which tos String.

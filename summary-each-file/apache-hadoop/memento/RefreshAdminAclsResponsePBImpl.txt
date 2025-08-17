@@ -1,0 +1,3 @@
+RefreshAdminAclsResponsePBImpl acts as a caretaker for memento RefreshAdminAclsResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+RefreshAdminAclsResponsePBImpl acts as an originator for memento RefreshAdminAclsResponse.
+RefreshAdminAclsResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.

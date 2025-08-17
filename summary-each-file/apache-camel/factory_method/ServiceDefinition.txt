@@ -1,0 +1,2 @@
+ServiceDefinition acts as a factory for DefaultServiceDefinition, which overrides.
+ServiceDefinition acts as an abstract product for ServiceEndpoint, which is inherited by DefaultServiceDefinition.

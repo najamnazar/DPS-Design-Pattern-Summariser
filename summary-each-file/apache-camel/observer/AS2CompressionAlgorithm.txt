@@ -1,0 +1,1 @@
+AS2CompressionAlgorithm acts as an observer for publisher AS2Configuration, AS2ServerManagerEndpointConfiguration, AS2ClientManagerEndpointConfiguration, which is inherited by, which gets Algorithm Name, which gets Algorithm OID, which gets Output Compressor.

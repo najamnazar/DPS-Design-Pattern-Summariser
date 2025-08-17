@@ -1,0 +1,2 @@
+UserTransactionAdapter acts as a caretaker for memento Transaction, which gets Transaction Manager, which sets int parameter of timeout Transaction Timeout, which begins, which commits, which rollbacks, which sets Rollback Only, which gets Status.
+UserTransactionAdapter acts as a caretaker for memento TransactionManager, which gets Transaction Manager, which sets int parameter of timeout Transaction Timeout, which begins, which commits, which rollbacks, which sets Rollback Only, which gets Status.

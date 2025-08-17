@@ -1,0 +1,2 @@
+GatherAllStaticEndpointUrisTest acts as a publisher for observer CamelContext, which tests Gather All Static Endpoint Uris, which creates Route Builder.
+GatherAllStaticEndpointUrisTest acts as a publisher for observer Service, which tests Gather All Static Endpoint Uris, which creates Route Builder.

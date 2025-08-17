@@ -1,0 +1,1 @@
+DefaultBindingGetResultSetContext acts as a caretaker for memento C, which results Set, which indexes, which indexes int parameter of i, which fields, which fields Field<U> parameter of f, which values U parameter of v, which values, which converts final parameter of Converter<?, which tos String.

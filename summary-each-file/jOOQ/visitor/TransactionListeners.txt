@@ -1,0 +1,1 @@
+TransactionListeners acts as a visitor for element Configuration, which overrides, which begins a Start to, which begins a End to, which commits a Start to, which commits a End to, which rollbacks a Start to, which rollbacks a End to.

@@ -1,0 +1,1 @@
+RouteTemplateBeanDefinition acts as a memento.

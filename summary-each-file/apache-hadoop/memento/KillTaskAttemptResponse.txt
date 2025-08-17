@@ -1,0 +1,1 @@
+KillTaskAttemptResponse acts as a memento, which is inherited by KillTaskAttemptResponsePBImpl.

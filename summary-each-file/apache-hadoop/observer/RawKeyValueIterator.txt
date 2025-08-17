@@ -1,0 +1,1 @@
+RawKeyValueIterator acts as an observer for publisher MergeManagerImpl, which is inherited by BufferPuller, BasicTypeSorterBase, which gets Key, which gets Value, which nexts, which closes, which gets Progress.

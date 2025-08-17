@@ -1,0 +1,1 @@
+MockConnectionProvider acts as an observer, which acquires, which releases Connection parameter of connection.

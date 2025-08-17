@@ -1,0 +1,1 @@
+TaskFailedEvent acts as an observer, which gets Datum, which sets Object parameter of odatum Datum, which gets Task Id, which gets Error, which gets Finish Time, which gets Start Time, which gets Task Type, which gets Failed Attempt ID, which gets Task Status, which gets Counters, which gets Event Type, which tos Timeline Event, which gets Timeline Metrics.

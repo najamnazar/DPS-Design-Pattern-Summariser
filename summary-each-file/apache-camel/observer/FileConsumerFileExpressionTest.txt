@@ -1,0 +1,2 @@
+FileConsumerFileExpressionTest acts as a publisher for observer Service, which creates Registry, which tests Consume File Based On Bean Name, which tests Consume File Based On Date Pattern, which nexts.
+FileConsumerFileExpressionTest acts as a publisher for observer CamelContext, which creates Registry, which tests Consume File Based On Bean Name, which tests Consume File Based On Date Pattern, which nexts.

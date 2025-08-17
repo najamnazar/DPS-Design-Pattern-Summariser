@@ -1,0 +1,1 @@
+DataSetTestComponent acts as a product for MockComponentBuilderFactory, which overrides createEndpoint method of MockComponent.

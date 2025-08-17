@@ -1,0 +1,1 @@
+DefaultUuidGenerator acts as a product for CamelContext, which overrides generateUuid method of UuidGenerator.

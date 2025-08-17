@@ -1,0 +1,1 @@
+IClassFileReader acts as an abstract factory for INestMembersAttribute, ISourceAttribute, IPermittedSubclassesAttribute, IInnerClassesAttribute, IRecordAttribute, which is inherited by.

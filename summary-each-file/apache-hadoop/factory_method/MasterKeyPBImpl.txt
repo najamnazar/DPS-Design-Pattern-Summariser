@@ -1,0 +1,1 @@
+MasterKeyPBImpl acts as a product for TestNodeStatusUpdaterForAttributes, which overrides getKeyId method of MasterKey, getBytes method of MasterKey, setBytes method of MasterKey.

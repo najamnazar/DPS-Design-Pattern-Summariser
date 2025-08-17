@@ -1,0 +1,11 @@
+Server acts as an adaptee for adapter JettyHttpComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent.
+Server acts as an adaptee for adapter CxfConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+Server acts as an adaptee for adapter CxfPayloadRouterContentLengthTest, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.
+Server acts as an adaptee for adapter CxfSimpleRouterTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+Server acts as an adaptee for adapter HttpProxyIntegrationTest, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase.
+Server acts as an adaptee for adapter FileToCxfMessageDataFormatTest, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.
+Server acts as an adaptee for adapter GrpcConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+Server acts as an adaptee for adapter CometdComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+Server acts as an adaptee for adapter CxfSpringRouterTest, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.
+Server acts as an adaptee for adapter CxfMixedModeRouterTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+Server acts as an adaptee for adapter CxfRsConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

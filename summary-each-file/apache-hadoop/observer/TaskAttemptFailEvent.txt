@@ -1,0 +1,1 @@
+TaskAttemptFailEvent acts as an observer, which is Fast Fail.

@@ -1,0 +1,1 @@
+ReconfigurationUtil acts as an observer for publisher ReconfigurableBase, NameNode, DataNode, which is inherited by, which gets Configuration parameter of newConf, Configuration parameter of oldConf Changed Properties, which parses Configuration parameter of newConf, Configuration parameter of oldConf Changed Properties.

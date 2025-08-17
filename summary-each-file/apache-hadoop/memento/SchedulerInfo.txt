@@ -1,0 +1,1 @@
+SchedulerInfo acts as a caretaker for memento ResourceTypes, which is inherited by, which gets Scheduler Type, which gets Min Allocation, which gets Max Allocation, which gets Scheduler Resource Types, which gets Max Cluster Level App Priority.

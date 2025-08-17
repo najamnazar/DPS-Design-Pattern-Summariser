@@ -1,0 +1,3 @@
+UrlBasedCorsConfigurationSourceTests acts as a caretaker for memento B, which empties, which registers And Match.
+UrlBasedCorsConfigurationSourceTests acts as a caretaker for memento C, which empties, which registers And Match.
+UrlBasedCorsConfigurationSourceTests acts as a caretaker for memento Configuration, which empties, which registers And Match.

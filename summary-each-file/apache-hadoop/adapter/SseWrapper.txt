@@ -1,0 +1,1 @@
+SseWrapper acts as an adaptee for adapter OBSFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

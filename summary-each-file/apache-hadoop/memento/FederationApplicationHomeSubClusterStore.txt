@@ -1,0 +1,2 @@
+FederationApplicationHomeSubClusterStore acts as an originator for memento DeleteApplicationHomeSubClusterResponse, which is inherited by, which deletes a DeleteApplicationHomeSubClusterResponse Application Home Sub Cluster to.
+FederationApplicationHomeSubClusterStore acts as an originator for memento UpdateApplicationHomeSubClusterResponse, which is inherited by, which updates an UpdateApplicationHomeSubClusterResponse Application Home Sub Cluster to.

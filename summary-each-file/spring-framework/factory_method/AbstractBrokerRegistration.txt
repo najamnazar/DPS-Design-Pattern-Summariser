@@ -1,0 +1,1 @@
+AbstractBrokerRegistration acts as a factory for AbstractBrokerMessageHandler, which overrides.

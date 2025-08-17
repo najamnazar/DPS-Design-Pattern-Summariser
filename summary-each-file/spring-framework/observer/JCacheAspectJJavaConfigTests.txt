@@ -1,0 +1,1 @@
+JCacheAspectJJavaConfigTests acts as a publisher for observer Cache, which gets Application Context, which caches Manager, which cacheables Service, which defaults Cache.

@@ -1,0 +1,2 @@
+BindingResult acts as a factory for BindingResult, which overrides.
+BindingResult acts as a factory method for PropertyEditorRegistry, which is inherited by AbstractPropertyBindingResult, AbstractBindingResult, BindingResult, AbstractBindingResult, BindException, BindingResult, BindingResult, AbstractPropertyBindingResult, DataBinder.

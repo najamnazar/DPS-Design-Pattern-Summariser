@@ -1,0 +1,2 @@
+JavadocTagConstants acts as an adaptee for adapter AbstractJavadocCompletionModelTest, which adapts to AbstractJavaModelCompletionTests.
+JavadocTagConstants acts as an adaptee for adapter CompletionOnJavadocTag, which adapts to CompletionOnJavadoc.

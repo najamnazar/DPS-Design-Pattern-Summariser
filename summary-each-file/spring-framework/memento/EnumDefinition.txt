@@ -1,0 +1,2 @@
+EnumDefinition acts as an originator for memento Database.
+EnumDefinition acts as an originator for memento PackageDefinition.

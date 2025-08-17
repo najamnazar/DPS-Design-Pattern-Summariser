@@ -1,0 +1,1 @@
+EnvelopingXmlSignatureChecker acts as an observer, which checks Input parameter of input Before Core Validation.

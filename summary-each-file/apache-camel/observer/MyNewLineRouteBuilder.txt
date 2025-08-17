@@ -1,0 +1,7 @@
+MyNewLineRouteBuilder acts as an observer, which configures.
+MyNewLineRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyNewLineRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyNewLineRouteBuilder acts as a publisher for observer Resource, which configures.
+MyNewLineRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyNewLineRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyNewLineRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

@@ -1,0 +1,1 @@
+AbfsBlockStatus acts as an observer for publisher BlockEntry, which is inherited by.

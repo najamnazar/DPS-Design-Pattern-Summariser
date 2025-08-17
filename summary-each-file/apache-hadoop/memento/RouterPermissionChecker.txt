@@ -1,0 +1,1 @@
+RouterPermissionChecker acts as a caretaker for memento Attribute, which checks MountTable parameter of mountTable, FsAction parameter of access Permission, which checks Superuser Privilege.

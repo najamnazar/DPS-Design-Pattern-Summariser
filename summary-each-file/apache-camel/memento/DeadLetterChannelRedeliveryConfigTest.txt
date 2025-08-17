@@ -1,0 +1,2 @@
+DeadLetterChannelRedeliveryConfigTest acts as a caretaker for memento Producer, which tests DLCSpring Configured Redelivery Policy.
+DeadLetterChannelRedeliveryConfigTest acts as a caretaker for memento Context, which tests DLCSpring Configured Redelivery Policy.

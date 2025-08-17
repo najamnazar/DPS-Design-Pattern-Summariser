@@ -1,0 +1,1 @@
+FacebookMethodsType acts as an adaptee for adapter FacebookConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

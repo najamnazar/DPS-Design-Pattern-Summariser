@@ -1,0 +1,2 @@
+MDCResetTest acts as a publisher for observer CamelContext, which tests MDC, which tests MDCTwo Messages, which creates Route Builder.
+MDCResetTest acts as a publisher for observer Service, which tests MDC, which tests MDCTwo Messages, which creates Route Builder.

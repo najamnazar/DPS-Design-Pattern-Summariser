@@ -1,0 +1,1 @@
+RepeatedTest acts as a caretaker for memento Test, which counts Test Cases, which runs TestResult parameter of result, which tos String.

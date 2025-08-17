@@ -1,0 +1,6 @@
+CxfEndpoint acts as a product for SplunkEndpoint, which overrides.
+CxfEndpoint acts as a factory for CxfEndpoint, which overrides.
+CxfEndpoint acts as a factory for UndertowEndpoint, which overrides.
+CxfEndpoint acts as a factory method for CxfBinding, which is inherited by CxfEndpoint.
+CxfEndpoint acts as a factory for HostnameVerifierCxfConfigurer, which overrides.
+CxfEndpoint acts as a factory for TransformerRouteTest, which overrides.

@@ -1,0 +1,1 @@
+JmsUseOriginalBodyTest acts as a publisher for observer ArtemisService, which tests Use Original Body, which tests Do Not Use Original Body, which creates Route Builder, which processes Exchange parameter of exchange, which gets Component Name.

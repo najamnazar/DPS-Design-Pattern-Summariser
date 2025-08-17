@@ -1,0 +1,2 @@
+SQLiteDataType acts as a caretaker for memento SQL.
+SQLiteDataType acts as a caretaker for memento B.

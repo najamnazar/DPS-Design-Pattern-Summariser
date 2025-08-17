@@ -1,0 +1,5 @@
+MailCommitOnCompletionTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Commit On Completion, which prepares Mailbox, which creates Route Builder.
+MailCommitOnCompletionTest acts as a publisher for observer CamelContext, which sets Up, which tests Commit On Completion, which prepares Mailbox, which creates Route Builder.
+MailCommitOnCompletionTest acts as a publisher for observer Service, which sets Up, which tests Commit On Completion, which prepares Mailbox, which creates Route Builder.
+MailCommitOnCompletionTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Commit On Completion, which prepares Mailbox, which creates Route Builder.
+MailCommitOnCompletionTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Commit On Completion, which prepares Mailbox, which creates Route Builder.

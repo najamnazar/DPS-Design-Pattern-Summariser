@@ -1,0 +1,1 @@
+LocalResourceVisibility acts as an observer for publisher LocalResource, LocalResourceRequest, which is inherited by.

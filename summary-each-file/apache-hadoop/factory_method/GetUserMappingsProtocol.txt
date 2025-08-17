@@ -1,0 +1,1 @@
+GetUserMappingsProtocol acts as an abstract product for GetGroups, which is inherited by RouterRpcServer, RouterUserProtocol, GetUserMappingsProtocolClientSideTranslatorPB.

@@ -1,0 +1,3 @@
+ModifyingResourceTests acts as a factory for IMember, which overrides.
+ModifyingResourceTests acts as a factory for ClasspathEntry, which overrides.
+ModifyingResourceTests acts as a factory for FullSourceWorkspaceTests, which overrides.

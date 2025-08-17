@@ -1,0 +1,2 @@
+RoutingSlipNoErrorHandlerTest acts as a publisher for observer Service, which tests Routing Slip No Error Handler, which creates Route Builder.
+RoutingSlipNoErrorHandlerTest acts as a publisher for observer CamelContext, which tests Routing Slip No Error Handler, which creates Route Builder.

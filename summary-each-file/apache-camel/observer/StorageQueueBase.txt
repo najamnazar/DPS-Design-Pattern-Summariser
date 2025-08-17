@@ -1,0 +1,5 @@
+StorageQueueBase acts as a publisher for observer FluentProducerTemplate, which inits Credentials, which creates Camel Context, which inits Properties.
+StorageQueueBase acts as a publisher for observer Service, which inits Credentials, which creates Camel Context, which inits Properties.
+StorageQueueBase acts as a publisher for observer ConsumerTemplate, which inits Credentials, which creates Camel Context, which inits Properties.
+StorageQueueBase acts as a publisher for observer ProducerTemplate, which inits Credentials, which creates Camel Context, which inits Properties.
+StorageQueueBase acts as a publisher for observer CamelContext, which inits Credentials, which creates Camel Context, which inits Properties.

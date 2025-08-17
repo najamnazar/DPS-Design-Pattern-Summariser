@@ -1,0 +1,2 @@
+TextPlainEntity acts as a publisher for observer Header, which gets Text, which writes OutputStream parameter of outstream To.
+TextPlainEntity acts as an observer, which gets Text, which writes OutputStream parameter of outstream To.

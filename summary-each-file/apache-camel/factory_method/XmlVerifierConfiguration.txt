@@ -1,0 +1,1 @@
+XmlVerifierConfiguration acts as a factory method for XmlSignature2Message, which is inherited by XmlSignatureTest.

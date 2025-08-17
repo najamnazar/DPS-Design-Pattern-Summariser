@@ -1,0 +1,3 @@
+StaticApplicationContextTests acts as a caretaker for memento A, which creates Context, which counts.
+StaticApplicationContextTests acts as a caretaker for memento C, which creates Context, which counts.
+StaticApplicationContextTests acts as a caretaker for memento ApplicationContext, which creates Context, which counts.

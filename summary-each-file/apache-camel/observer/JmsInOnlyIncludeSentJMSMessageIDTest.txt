@@ -1,0 +1,1 @@
+JmsInOnlyIncludeSentJMSMessageIDTest acts as a publisher for observer ArtemisService, which tests Jms In Only Include Sent JMSMessage ID, which gets Component Name, which creates Route Builder.

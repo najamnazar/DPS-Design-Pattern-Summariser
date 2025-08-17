@@ -1,0 +1,1 @@
+RunningJob acts as an abstract factory for Configuration, Counters, which is inherited by.

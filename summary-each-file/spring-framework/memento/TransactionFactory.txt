@@ -1,0 +1,1 @@
+TransactionFactory acts as an originator for memento Transaction, which is inherited by, which creates a Transaction Transaction to.

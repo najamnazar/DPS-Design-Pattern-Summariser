@@ -1,0 +1,3 @@
+ReflectivePropertyAccessor acts as a factory method for PropertyAccessor, which is inherited by ReflectivePropertyAccessor.
+ReflectivePropertyAccessor acts as a product for ReflectivePropertyAccessor, which overrides.
+ReflectivePropertyAccessor acts as a factory for ReflectivePropertyAccessor, which overrides.

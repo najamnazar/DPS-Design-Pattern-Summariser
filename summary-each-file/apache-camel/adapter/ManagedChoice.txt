@@ -1,0 +1,2 @@
+ManagedChoice acts as an adapter, which adapts getDefinition method of ManagedChoiceMBean, getDefinition method of ManagedChoiceMBean to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor.
+ManagedChoice acts as an adapter, which adapts getDefinition method of ChoiceProcessor, getDefinition method of ChoiceProcessor to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor.

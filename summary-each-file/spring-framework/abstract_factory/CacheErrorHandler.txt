@@ -1,0 +1,1 @@
+CacheErrorHandler acts as an abstract product for CacheErrorHandler, which is inherited by SimpleCacheErrorHandler.

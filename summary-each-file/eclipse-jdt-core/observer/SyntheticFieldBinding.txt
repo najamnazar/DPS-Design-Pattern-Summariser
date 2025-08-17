@@ -1,0 +1,1 @@
+SyntheticFieldBinding acts as an observer.

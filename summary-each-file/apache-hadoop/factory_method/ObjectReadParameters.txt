@@ -1,0 +1,1 @@
+ObjectReadParameters acts as a factory method for ObjectInputStreamCallbacks, which is inherited by ObjectInputStream, ObjectInputStream, S3AFileSystem, ObjectInputStream.

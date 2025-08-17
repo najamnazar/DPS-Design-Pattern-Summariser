@@ -1,0 +1,1 @@
+LocalFetcher acts as a publisher for observer TaskAttemptID, which is inherited by, which runs, which does Set<TaskAttemptID> parameter of maps Copy, which copies TaskAttemptID parameter of mapTaskId Map Output.

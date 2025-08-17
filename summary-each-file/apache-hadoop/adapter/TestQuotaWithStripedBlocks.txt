@@ -1,0 +1,1 @@
+TestQuotaWithStripedBlocks acts as a target for adapter TestQuotaWithStripedBlocksWithRandomECPolicy, which adapts to TestQuotaWithStripedBlocks, which adapts to TestQuotaWithStripedBlocks, which adapts to TestQuotaWithStripedBlocks, which adapts to TestQuotaWithStripedBlocks.

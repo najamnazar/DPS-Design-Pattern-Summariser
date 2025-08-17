@@ -1,0 +1,1 @@
+SmartMimeMessage acts as a caretaker for memento File, which gets Default Encoding, which gets Default File Type Map.

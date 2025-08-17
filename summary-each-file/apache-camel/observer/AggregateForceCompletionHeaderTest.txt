@@ -1,0 +1,2 @@
+AggregateForceCompletionHeaderTest acts as a publisher for observer CamelContext, which tests Force Completion True Exclusive, which tests Force Completion True Inclusive, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+AggregateForceCompletionHeaderTest acts as a publisher for observer Service, which tests Force Completion True Exclusive, which tests Force Completion True Inclusive, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

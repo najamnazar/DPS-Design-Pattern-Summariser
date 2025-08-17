@@ -1,0 +1,1 @@
+StatementType acts as an observer for publisher MyBatisEndpoint, which is inherited by.

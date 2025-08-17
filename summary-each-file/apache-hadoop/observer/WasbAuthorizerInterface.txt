@@ -1,0 +1,1 @@
+WasbAuthorizerInterface acts as an observer for publisher NativeAzureFileSystem, which is inherited by RemoteWasbAuthorizerImpl, MockWasbAuthorizerImpl, which inits Configuration parameter of conf, which authorizes String parameter of wasbAbolutePath, String parameter of accessType, String parameter of owner.

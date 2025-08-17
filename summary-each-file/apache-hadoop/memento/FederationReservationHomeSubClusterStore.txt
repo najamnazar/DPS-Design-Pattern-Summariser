@@ -1,0 +1,2 @@
+FederationReservationHomeSubClusterStore acts as an originator for memento UpdateReservationHomeSubClusterResponse, which is inherited by, which updates an UpdateReservationHomeSubClusterResponse Reservation Home Sub Cluster to.
+FederationReservationHomeSubClusterStore acts as an originator for memento DeleteReservationHomeSubClusterResponse, which is inherited by, which deletes a DeleteReservationHomeSubClusterResponse Reservation Home Sub Cluster to.

@@ -1,0 +1,1 @@
+TestPriorityBroadcastPolicyManager acts as a publisher for observer FederationPolicyManager, which setups, which tests Policy Info Set Correctly.

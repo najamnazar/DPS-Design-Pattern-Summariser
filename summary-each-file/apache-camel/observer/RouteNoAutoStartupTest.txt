@@ -1,0 +1,2 @@
+RouteNoAutoStartupTest acts as a publisher for observer CamelContext, which tests Route Not Auto Started, which tests Route Not Auto Started Then Started, which creates Route Builder.
+RouteNoAutoStartupTest acts as a publisher for observer Service, which tests Route Not Auto Started, which tests Route Not Auto Started Then Started, which creates Route Builder.

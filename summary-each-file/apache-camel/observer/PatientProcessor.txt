@@ -1,0 +1,1 @@
+PatientProcessor acts as an observer, which processes Exchange parameter of exchange, which gets ORU_R01 parameter of msg Patient.

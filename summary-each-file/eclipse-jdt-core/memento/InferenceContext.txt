@@ -1,0 +1,1 @@
+InferenceContext acts as a caretaker for memento Binding, which gets TypeVariableBinding parameter of typeVariable, int parameter of constraint Substitutes, which has Unresolved Type Argument, which records TypeVariableBinding parameter of typeVariable, TypeBinding parameter of actualType, int parameter of constraint Substitute, which tos String.

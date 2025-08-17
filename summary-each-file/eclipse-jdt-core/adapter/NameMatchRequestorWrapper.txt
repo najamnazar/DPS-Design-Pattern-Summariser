@@ -1,0 +1,2 @@
+NameMatchRequestorWrapper acts as an adaptee for adapter TypeNameMatchRequestorWrapper, which adapts to IRestrictedAccessTypeRequestor, which adapts to IRestrictedAccessTypeRequestor, which adapts to IRestrictedAccessTypeRequestor.
+NameMatchRequestorWrapper acts as an adaptee for adapter MethodNameMatchRequestorWrapper, which adapts to IRestrictedAccessMethodRequestor, which adapts to IRestrictedAccessMethodRequestor, which adapts to IRestrictedAccessMethodRequestor.

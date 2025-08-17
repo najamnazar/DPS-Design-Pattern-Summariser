@@ -1,0 +1,3 @@
+RmView acts as a target for adapter CapacitySchedulerPage, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView.
+RmView acts as a target for adapter FairSchedulerPage, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView.
+RmView acts as a target for adapter DefaultSchedulerPage, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView.

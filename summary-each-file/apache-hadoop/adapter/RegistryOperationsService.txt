@@ -1,0 +1,1 @@
+RegistryOperationsService acts as an adaptee for adapter RegistryDNSServer, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

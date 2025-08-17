@@ -1,0 +1,1 @@
+CompilerConfiguration acts as an adaptee for adapter MockCompilerFactory.

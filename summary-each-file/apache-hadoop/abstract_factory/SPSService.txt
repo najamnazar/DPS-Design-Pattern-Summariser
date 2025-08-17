@@ -1,0 +1,1 @@
+SPSService acts as an abstract factory for Configuration, which is inherited by StoragePolicySatisfier.

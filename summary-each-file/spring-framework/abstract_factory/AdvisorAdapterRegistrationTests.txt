@@ -1,0 +1,4 @@
+AdvisorAdapterRegistrationTests acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+AdvisorAdapterRegistrationTests acts as a product for AdvisorAdapter, which overrides.
+AdvisorAdapterRegistrationTests acts as an abstract factory for MethodInterceptor, which is inherited by.
+AdvisorAdapterRegistrationTests acts as a factory for AdvisorAdapter, which overrides supportsAdvice method of AdvisorAdapter, getInterceptor method of AdvisorAdapter.

@@ -1,0 +1,3 @@
+SubClusterHeartbeatResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+SubClusterHeartbeatResponsePBImpl acts as an originator for memento SubClusterHeartbeatResponse.
+SubClusterHeartbeatResponsePBImpl acts as a caretaker for memento SubClusterHeartbeatResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.

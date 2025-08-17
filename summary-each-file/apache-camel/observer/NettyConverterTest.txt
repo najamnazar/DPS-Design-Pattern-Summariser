@@ -1,0 +1,5 @@
+NettyConverterTest acts as a publisher for observer ConsumerTemplate, which starts Up, which tears Down, which tests Conversion With Exchange, which tests Conversion Without Exchange.
+NettyConverterTest acts as a publisher for observer CamelContext, which starts Up, which tears Down, which tests Conversion With Exchange, which tests Conversion Without Exchange.
+NettyConverterTest acts as a publisher for observer ProducerTemplate, which starts Up, which tears Down, which tests Conversion With Exchange, which tests Conversion Without Exchange.
+NettyConverterTest acts as a publisher for observer FluentProducerTemplate, which starts Up, which tears Down, which tests Conversion With Exchange, which tests Conversion Without Exchange.
+NettyConverterTest acts as a publisher for observer Service, which starts Up, which tears Down, which tests Conversion With Exchange, which tests Conversion Without Exchange.

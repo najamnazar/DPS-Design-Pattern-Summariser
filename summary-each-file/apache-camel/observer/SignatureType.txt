@@ -1,0 +1,1 @@
+SignatureType acts as an observer for publisher XmlSignerProcessor, which is inherited by.

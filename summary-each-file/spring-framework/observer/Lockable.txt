@@ -1,0 +1,1 @@
+Lockable acts as an observer for publisher AbstractAspectJAdvisorFactoryTests, ReflectiveAspectJAdvisorFactoryTests, which is inherited by AbstractAspectJAdvisorFactoryTests, LockMixin, DefaultLockable, which locks, which unlocks, which locks.

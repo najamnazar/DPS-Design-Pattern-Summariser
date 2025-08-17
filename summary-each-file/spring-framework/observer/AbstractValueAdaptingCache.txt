@@ -1,0 +1,1 @@
+AbstractValueAdaptingCache acts as an observer, which is Allow Null Values, which gets Object parameter of key, which gets Object parameter of key, @Nullable parameter of Class<T>, which lookups Object parameter of key, which froms @Nullable parameter of Object Store Value, which tos @Nullable parameter of Object Store Value, which tos @Nullable parameter of Object Value Wrapper.

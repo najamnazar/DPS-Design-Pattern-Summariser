@@ -1,0 +1,1 @@
+Etcd3Service acts as an adaptee for adapter Etcd3TestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

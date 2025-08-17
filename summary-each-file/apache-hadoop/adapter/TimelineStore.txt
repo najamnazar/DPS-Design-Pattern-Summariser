@@ -1,0 +1,6 @@
+TimelineStore acts as an adaptee for adapter TestTimelineWebServices.
+TimelineStore acts as an adaptee for adapter RollingLevelDBTimelineStore.
+TimelineStore acts as an adaptee for adapter LeveldbTimelineStore.
+TimelineStore acts as an adaptee for adapter EntityGroupFSTimelineStore.
+TimelineStore acts as an adaptee for adapter TimelineDataManager.
+TimelineStore acts as an adaptee for adapter ApplicationHistoryServer.

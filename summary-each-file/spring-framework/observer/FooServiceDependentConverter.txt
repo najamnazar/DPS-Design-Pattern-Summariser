@@ -1,0 +1,1 @@
+FooServiceDependentConverter acts as a publisher for observer FooService, which is inherited by, which sets FooService parameter of fooService Foo Service, which converts String parameter of source.

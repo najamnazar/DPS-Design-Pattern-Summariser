@@ -1,0 +1,5 @@
+LambdaProducerDefaultFunctionTest acts as a publisher for observer CamelContext, which lambdas Invoke Function Test, which creates Route Builder.
+LambdaProducerDefaultFunctionTest acts as a publisher for observer Service, which lambdas Invoke Function Test, which creates Route Builder.
+LambdaProducerDefaultFunctionTest acts as a publisher for observer ProducerTemplate, which lambdas Invoke Function Test, which creates Route Builder.
+LambdaProducerDefaultFunctionTest acts as a publisher for observer ConsumerTemplate, which lambdas Invoke Function Test, which creates Route Builder.
+LambdaProducerDefaultFunctionTest acts as a publisher for observer FluentProducerTemplate, which lambdas Invoke Function Test, which creates Route Builder.

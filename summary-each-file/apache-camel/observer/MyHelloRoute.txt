@@ -1,0 +1,7 @@
+MyHelloRoute acts as an observer, which configures.
+MyHelloRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyHelloRoute acts as a publisher for observer RoutesDefinition, which configures.
+MyHelloRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyHelloRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyHelloRoute acts as a publisher for observer RestsDefinition, which configures.
+MyHelloRoute acts as a publisher for observer Resource, which configures.

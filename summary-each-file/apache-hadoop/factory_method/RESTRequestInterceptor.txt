@@ -1,0 +1,3 @@
+RESTRequestInterceptor acts as an abstract product for RESTRequestInterceptor, which is inherited by AbstractRESTRequestInterceptor.
+RESTRequestInterceptor acts as a factory method for RESTRequestInterceptor, which is inherited by AbstractRESTRequestInterceptor, RESTRequestInterceptor, AbstractRESTRequestInterceptor, AbstractRESTRequestInterceptor, AbstractRESTRequestInterceptor.
+RESTRequestInterceptor acts as a factory for RESTRequestInterceptor, which overrides.

@@ -1,0 +1,1 @@
+HttpClientInitializerFactory acts as an observer, which creates NettyProducer parameter of nettyProducer Pipeline Factory, which inits Channel parameter of ch Channel, which creates NettyProducer parameter of producer SSLContext, which configures Client SSLOn Demand.

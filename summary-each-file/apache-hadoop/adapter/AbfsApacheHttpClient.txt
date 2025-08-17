@@ -1,0 +1,1 @@
+AbfsApacheHttpClient acts as an adaptee for adapter AbfsAHCHttpOperation, which adapts to AbfsHttpOperation, which adapts to AbfsHttpOperation, which adapts to AbfsHttpOperation, which adapts to AbfsHttpOperation, which adapts to AbfsHttpOperation.

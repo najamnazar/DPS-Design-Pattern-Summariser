@@ -1,0 +1,2 @@
+ResourceTransformerChain acts as an observer for publisher ResourceTransformerSupportTests, which is inherited by DefaultResourceTransformerChain, which gets Resolver Chain, which transforms HttpServletRequest parameter of request, Resource parameter of resource.
+ResourceTransformerChain acts as a publisher for observer Resource, which is inherited by DefaultResourceTransformerChain, which gets Resolver Chain, which transforms HttpServletRequest parameter of request, Resource parameter of resource.

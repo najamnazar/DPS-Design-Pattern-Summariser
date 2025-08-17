@@ -1,0 +1,1 @@
+ClassFilter acts as an observer for publisher ComposablePointcut, which is inherited by TrueClassFilter, AnnotationClassFilter, ControlFlowPointcut, AspectJExpressionPointcut, DefaultIntroductionAdvisor, RootClassFilter, TypePatternClassFilter, which matches Class<?> parameter of clazz.

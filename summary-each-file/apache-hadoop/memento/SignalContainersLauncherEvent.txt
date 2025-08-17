@@ -1,0 +1,1 @@
+SignalContainersLauncherEvent acts as a caretaker for memento SignalContainerCommand, which gets Command.

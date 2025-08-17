@@ -1,0 +1,2 @@
+AnnotationProcessorFactory acts as an abstract product for AptUtil, which is inherited by BaseFactory, BatchGenAnnotationFactory, ColorAnnotationProcessorFactory, LoaderTestAnnotationProcessorFactory, Round2GenAnnotationFactory, Round1GenAnnotationFactory, BatchAnnotationFactory.
+AnnotationProcessorFactory acts as a factory for ExceptionHandlingProcessorFactory, which overrides.

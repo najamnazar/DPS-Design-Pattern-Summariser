@@ -1,0 +1,1 @@
+HazelcastQueueEndpoint acts as a caretaker for memento Configuration, which gets Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which creates Executor.

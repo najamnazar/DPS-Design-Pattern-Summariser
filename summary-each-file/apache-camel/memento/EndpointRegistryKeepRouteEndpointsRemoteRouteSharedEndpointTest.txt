@@ -1,0 +1,2 @@
+EndpointRegistryKeepRouteEndpointsRemoteRouteSharedEndpointTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Endpoint Registry Keep Route Endpoints Remove Route Shared Endpoint, which creates Route Builder.
+EndpointRegistryKeepRouteEndpointsRemoteRouteSharedEndpointTest acts as a caretaker for memento Context, which creates Camel Context, which tests Endpoint Registry Keep Route Endpoints Remove Route Shared Endpoint, which creates Route Builder.

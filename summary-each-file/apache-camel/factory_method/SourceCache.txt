@@ -1,0 +1,2 @@
+SourceCache acts as a product for SourceCache, which overrides reset method of StreamCache, writeTo method of StreamCache, copy method of StreamCache, inMemory method of StreamCache, length method of StreamCache.
+SourceCache acts as a factory method for StreamCache, which is inherited by StreamCache, StreamCache, StreamCache, StreamCache, StreamCachingStrategy, CachedOutputStream, CamelInternalProcessor, StreamCache, StreamCache, StreamCache, StreamCache.

@@ -1,0 +1,2 @@
+BlobListResultSchema acts as a product for ListResultSchema, which overrides.
+BlobListResultSchema acts as a factory for ListResultSchema, which overrides.

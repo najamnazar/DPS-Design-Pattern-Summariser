@@ -1,0 +1,1 @@
+CheckImpl acts as an adapter, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts constraint method of Condition to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed.

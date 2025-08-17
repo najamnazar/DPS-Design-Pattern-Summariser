@@ -1,0 +1,1 @@
+SnapshotDiff acts as a publisher for observer Configuration, which gets String parameter of name Snapshot Name, which runs String[] parameter of argv, which mains String[] parameter of argv.

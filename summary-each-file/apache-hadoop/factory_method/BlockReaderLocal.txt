@@ -1,0 +1,1 @@
+BlockReaderLocal acts as a product for BlockReaderFactory, which overrides skip method of BlockReader, available method of BlockReader, close method of BlockReader, isShortCircuit method of BlockReader, getClientMmap method of BlockReader, getDataChecksum method of BlockReader, getNetworkDistance method of BlockReader.

@@ -1,0 +1,2 @@
+TransactionDefinition acts as an abstract product for TransactionDefinition, which is inherited by ResourceTransactionDefinition, TransactionAttribute, DelegatingTransactionDefinition, DefaultTransactionDefinition, StaticTransactionDefinition.
+TransactionDefinition acts as an abstract factory for TransactionDefinition, which is inherited by DelegatingTransactionDefinition, DefaultTransactionDefinition, StaticTransactionDefinition.

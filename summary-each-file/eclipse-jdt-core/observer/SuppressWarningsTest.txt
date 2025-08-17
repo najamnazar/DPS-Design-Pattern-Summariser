@@ -1,0 +1,1 @@
+SuppressWarningsTest acts as a publisher for observer String, which suites, which tests Class, which gets Compiler Options, which tests Simple Suppress Warnings, which tests Nested Suppress Warnings, which tests Unrelated Suppress Warnings.

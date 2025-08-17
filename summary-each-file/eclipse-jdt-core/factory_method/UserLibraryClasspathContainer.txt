@@ -1,0 +1,1 @@
+UserLibraryClasspathContainer acts as a product for ContainerInitializer, which overrides getClasspathEntries method of IClasspathContainer, getDescription method of IClasspathContainer, getKind method of IClasspathContainer, getPath method of IClasspathContainer.

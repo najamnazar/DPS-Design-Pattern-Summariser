@@ -1,0 +1,1 @@
+ZooKeeperContainer acts as an adaptee for adapter ZooKeeperServiceRegistrationITBase, which adapts to CamelTestSupport.

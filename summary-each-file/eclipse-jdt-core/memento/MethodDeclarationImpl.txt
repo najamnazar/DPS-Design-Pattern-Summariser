@@ -1,0 +1,1 @@
+MethodDeclarationImpl acts as a caretaker for memento R, which gets Return Type, which accepts DeclarationVisitor parameter of visitor, which kinds, which tos String.

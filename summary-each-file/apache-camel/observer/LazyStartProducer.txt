@@ -1,0 +1,1 @@
+LazyStartProducer acts as a publisher for observer Processor, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which is Singleton, which does Build, which does Init, which does Start, which does Stop, which does Suspend, which does Resume, which does Shutdown, which gets Processor.

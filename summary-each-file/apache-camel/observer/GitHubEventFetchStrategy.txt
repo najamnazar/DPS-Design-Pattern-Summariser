@@ -1,0 +1,1 @@
+GitHubEventFetchStrategy acts as an observer for publisher GitHubEndpoint, which is inherited by, which fetches EventService parameter of eventService Events.

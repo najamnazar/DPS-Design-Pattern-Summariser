@@ -1,0 +1,1 @@
+CamelInternalTask acts as an observer, which prepares Exchange parameter of exchange, AsyncCallback parameter of callback, which gets States, which resets.

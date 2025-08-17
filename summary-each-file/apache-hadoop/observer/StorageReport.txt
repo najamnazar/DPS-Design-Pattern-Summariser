@@ -1,0 +1,1 @@
+StorageReport acts as an observer for publisher TestDatanodeReport, which is inherited by, which gets Storage, which is Failed, which gets Capacity, which gets Dfs Used, which gets Non Dfs Used, which gets Remaining, which gets Block Pool Used, which gets Mount, which gets Block Pool Usage Percent.

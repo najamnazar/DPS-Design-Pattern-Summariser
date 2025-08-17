@@ -1,0 +1,1 @@
+TypedLanguageSupport acts as a publisher for observer CamelContext, which gets Result Type, which sets Class<?> parameter of resultType Result Type, which creates String parameter of expression, Object[] parameter of properties Expression.

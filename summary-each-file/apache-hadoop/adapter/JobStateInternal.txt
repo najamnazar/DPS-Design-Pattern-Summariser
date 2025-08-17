@@ -1,0 +1,1 @@
+JobStateInternal acts as an adaptee for adapter MRAppMaster.

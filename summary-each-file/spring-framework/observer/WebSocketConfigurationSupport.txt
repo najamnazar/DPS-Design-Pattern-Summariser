@@ -1,0 +1,1 @@
+WebSocketConfigurationSupport acts as a publisher for observer WebSocketHandlerRegistry, which is inherited by DelegatingWebSocketConfiguration, which webs @Nullable parameter of TaskScheduler Socket Handler Mapping, which inits Handler Registry, which registers WebSocketHandlerRegistry parameter of registry Web Socket Handlers, which defaults Sock Js Task Scheduler.

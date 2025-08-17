@@ -1,0 +1,1 @@
+MessageResultGameScores acts as a publisher for observer IncomingMessage, which gets Game High Scores, which sets List<GameHighScore> parameter of gameHighScores Message, which sets List<GameHighScore> parameter of result Result, which tos String.

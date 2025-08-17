@@ -1,0 +1,1 @@
+WeatherMode acts as an observer for publisher WeatherConfiguration, which is inherited by.

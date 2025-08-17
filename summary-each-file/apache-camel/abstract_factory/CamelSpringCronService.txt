@@ -1,0 +1,2 @@
+CamelSpringCronService acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.
+CamelSpringCronService acts as a factory for CamelCronService, which overrides createEndpoint method of CamelCronService.

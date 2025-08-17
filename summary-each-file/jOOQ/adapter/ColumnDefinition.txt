@@ -1,0 +1,1 @@
+ColumnDefinition acts as an adaptee for adapter DefaultIdentityDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition.

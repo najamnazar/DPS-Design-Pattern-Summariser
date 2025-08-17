@@ -1,0 +1,2 @@
+IProblemFactory acts as a factory for ProblemHandler, which overrides.
+IProblemFactory acts as an abstract product for EvaluationTest, which is inherited by DefaultProblemFactory.

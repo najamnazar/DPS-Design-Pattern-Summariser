@@ -1,0 +1,1 @@
+RegistryBindingSource acts as an abstract product for CuratorService, which is inherited by CuratorService, MicroZookeeperService.

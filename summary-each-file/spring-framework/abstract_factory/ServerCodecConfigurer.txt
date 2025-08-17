@@ -1,0 +1,3 @@
+ServerCodecConfigurer acts as an abstract product for ServerCodecConfigurer, which is inherited by DefaultServerCodecConfigurer, DefaultServerCodecConfigurer.
+ServerCodecConfigurer acts as a product for CodecConfigurer, which overrides.
+ServerCodecConfigurer acts as an abstract factory for ServerCodecConfigurer, which is inherited by DefaultServerCodecConfigurer.

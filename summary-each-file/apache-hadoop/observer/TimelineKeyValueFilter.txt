@@ -1,0 +1,1 @@
+TimelineKeyValueFilter acts as a publisher for observer TimelineCompareOp, which gets Filter Type, which sets TimelineCompareOp parameter of timelineCompareOp, boolean parameter of keyExistFlag Compare Op.

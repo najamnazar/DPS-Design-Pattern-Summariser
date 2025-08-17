@@ -1,0 +1,3 @@
+DefaultResourceLoader acts as a product for BeanDefinitionReader, which overrides getClassLoader method of ResourceLoader, getResource method of ResourceLoader.
+DefaultResourceLoader acts as a factory for ResourceLoader, which overrides getClassLoader method of ResourceLoader, getResource method of ResourceLoader.
+DefaultResourceLoader acts as a product for ConditionContext, which overrides getClassLoader method of ResourceLoader, getResource method of ResourceLoader.

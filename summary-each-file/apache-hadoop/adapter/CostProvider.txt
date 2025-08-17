@@ -1,0 +1,1 @@
+CostProvider acts as an adaptee for adapter DecayRpcScheduler, which adapts to RpcScheduler, which adapts to RpcScheduler.

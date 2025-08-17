@@ -1,0 +1,5 @@
+ChunkComponentTemplateTest acts as a publisher for observer ConsumerTemplate, which tests Chunk With Template Header, which creates Route Builder.
+ChunkComponentTemplateTest acts as a publisher for observer ProducerTemplate, which tests Chunk With Template Header, which creates Route Builder.
+ChunkComponentTemplateTest acts as a publisher for observer CamelContext, which tests Chunk With Template Header, which creates Route Builder.
+ChunkComponentTemplateTest acts as a publisher for observer FluentProducerTemplate, which tests Chunk With Template Header, which creates Route Builder.
+ChunkComponentTemplateTest acts as a publisher for observer Service, which tests Chunk With Template Header, which creates Route Builder.

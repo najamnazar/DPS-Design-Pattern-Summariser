@@ -1,0 +1,2 @@
+InvalidCursorLocation acts as a caretaker for memento S.
+InvalidCursorLocation acts as a caretaker for memento String.

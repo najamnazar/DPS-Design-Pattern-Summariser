@@ -1,0 +1,1 @@
+HandlerInterceptor acts as a component for MappedInterceptor, which is inherited by LocaleChangeInterceptor, ResourceUrlProviderExposingInterceptor, WebContentInterceptor, WebContentInterceptor, WebContentInterceptor, WebContentInterceptor, UserRoleAuthorizationInterceptor, ThemeChangeInterceptor, ConversionServiceExposingInterceptor.

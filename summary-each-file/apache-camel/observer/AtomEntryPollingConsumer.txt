@@ -1,0 +1,1 @@
+AtomEntryPollingConsumer acts as a publisher for observer ResumeStrategy, which gets Document, which sorts Feed parameter of feed Entries, which populates Object parameter of feed List, which creates Feed, which resets List.

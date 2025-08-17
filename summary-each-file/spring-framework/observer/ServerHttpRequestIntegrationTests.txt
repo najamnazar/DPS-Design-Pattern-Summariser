@@ -1,0 +1,1 @@
+ServerHttpRequestIntegrationTests acts as a publisher for observer HttpServer, which creates Http Handler, which checks HttpServer parameter of httpServer Uri, which handles ServerHttpRequest parameter of request, ServerHttpResponse parameter of response.

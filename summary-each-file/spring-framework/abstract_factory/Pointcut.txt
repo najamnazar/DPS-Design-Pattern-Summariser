@@ -1,0 +1,2 @@
+Pointcut acts as an abstract product for Pointcut, which is inherited by AnnotationMatchingPointcut, StaticMethodMatcherPointcut, ComposablePointcut, ControlFlowPointcut, DynamicMethodMatcherPointcut, TruePointcut, ExpressionPointcut.
+Pointcut acts as an abstract factory for ClassFilter, MethodMatcher, which is inherited by AnnotationMatchingPointcut, StaticMethodMatcherPointcut, ComposablePointcut, ControlFlowPointcut, DynamicMethodMatcherPointcut, TruePointcut.

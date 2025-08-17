@@ -1,0 +1,1 @@
+VertxKafkaConsumer acts as a factory method for VertxKafkaManualCommit, which is inherited by VertxKafkaManualCommitFactory.

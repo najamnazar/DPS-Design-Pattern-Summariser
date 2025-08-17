@@ -1,0 +1,1 @@
+ServiceDiscoveryAware acts as an abstract factory for ServiceDiscovery, which is inherited by DefaultServiceLoadBalancer.

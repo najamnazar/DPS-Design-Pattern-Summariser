@@ -1,0 +1,2 @@
+XPathContentBasedRouterTest acts as a publisher for observer Service, which tests XPath Content Based Router, which creates Route Builder.
+XPathContentBasedRouterTest acts as a publisher for observer CamelContext, which tests XPath Content Based Router, which creates Route Builder.

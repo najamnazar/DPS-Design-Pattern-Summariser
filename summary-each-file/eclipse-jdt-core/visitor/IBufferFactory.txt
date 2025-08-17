@@ -1,0 +1,4 @@
+IBufferFactory acts as a visitor for element IBufferFactory, which is inherited by Openable, which creates a Buffer to.
+IBufferFactory acts as a visitor for element IBufferFactory, which is inherited by ModulePackagesAttribute, which creates a Buffer to.
+IBufferFactory acts as a visitor for element IBufferFactory, which is inherited by Region, which creates a Buffer to.
+IBufferFactory acts as an element for visitor IBufferFactory, which is inherited by, which creates a Buffer to.

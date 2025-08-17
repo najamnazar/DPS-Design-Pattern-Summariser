@@ -1,0 +1,1 @@
+DefaultCacheProvider acts as an observer, which provides CacheContext parameter of ctx.

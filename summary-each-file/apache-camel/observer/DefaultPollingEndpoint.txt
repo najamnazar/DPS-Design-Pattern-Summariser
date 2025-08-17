@@ -1,0 +1,4 @@
+DefaultPollingEndpoint acts as a publisher for observer Processor, which is inherited by ProcessorEndpoint, which creates Processor parameter of processor Consumer.
+DefaultPollingEndpoint acts as a publisher for observer Consumer, which creates Processor parameter of processor Consumer.
+DefaultPollingEndpoint acts as a publisher for observer LoggingLevel, which creates Processor parameter of processor Consumer.
+DefaultPollingEndpoint acts as a publisher for observer PollingConsumerPollStrategy, which creates Processor parameter of processor Consumer.

@@ -1,0 +1,1 @@
+ContextScriptBean acts as an abstract factory for ApplicationContext, TestBean, which is inherited by.

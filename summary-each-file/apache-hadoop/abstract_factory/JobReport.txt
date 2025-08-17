@@ -1,0 +1,2 @@
+JobReport acts as an abstract product for JobReport, which is inherited by JobReportPBImpl.
+JobReport acts as an abstract factory for Priority, JobId, which is inherited by JobReportPBImpl.

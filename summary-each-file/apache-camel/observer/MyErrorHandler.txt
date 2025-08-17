@@ -1,0 +1,1 @@
+MyErrorHandler acts as an observer, which writes HttpServletRequest parameter of request, Writer parameter of writer, int parameter of code, String parameter of message, boolean parameter of showStacks Error Page Body.

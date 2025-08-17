@@ -1,0 +1,1 @@
+TestHealthMonitorWithDedicatedHealthAddress acts as a publisher for observer HealthMonitor, which creates Dummy HAService.

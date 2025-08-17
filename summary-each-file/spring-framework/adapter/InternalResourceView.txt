@@ -1,0 +1,1 @@
+InternalResourceView acts as a target for adapter JstlView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView.

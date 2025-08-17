@@ -1,0 +1,2 @@
+D acts as an observer.
+D acts as an observer for publisher AbstractMessageSendingTemplate, which is inherited by.

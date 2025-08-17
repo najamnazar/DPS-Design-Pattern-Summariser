@@ -1,0 +1,1 @@
+SplunkConsumer acts as a publisher for observer ShutdownRunningTask, which polls, which creates List<SplunkEvent> parameter of splunkEvents Exchanges, which processes Queue<Object> parameter of exchanges Batch.

@@ -1,0 +1,3 @@
+AbstractBrokerMessageHandler acts as a factory for AbstractBrokerMessageHandler, which overrides.
+AbstractBrokerMessageHandler acts as a product for ExecutorSubscribableChannel, which overrides handleMessage method of MessageHandler.
+AbstractBrokerMessageHandler acts as a factory method for MessageChannel, which is inherited by AbstractBrokerRegistration, AbstractBrokerRegistration, AbstractBrokerMessageHandler, AbstractBrokerMessageHandler.

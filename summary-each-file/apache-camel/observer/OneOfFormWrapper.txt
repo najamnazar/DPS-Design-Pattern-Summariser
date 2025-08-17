@@ -1,0 +1,1 @@
+OneOfFormWrapper acts as a publisher for observer OneOfForm, which is inherited by, which gets Form Type, which sets String parameter of formType Form Type, which gets Form, which sets OneOfForm parameter of form Form.

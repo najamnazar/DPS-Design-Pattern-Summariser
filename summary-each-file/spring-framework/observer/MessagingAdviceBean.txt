@@ -1,0 +1,1 @@
+MessagingAdviceBean acts as an observer for publisher InvocableHelper, which is inherited by, which gets Bean Type, which resolves Bean, which is Class<?> parameter of beanType Applicable To Bean Type.

@@ -1,0 +1,1 @@
+ReportStatusEnum acts as an observer for publisher ReportInstance, which is inherited by.

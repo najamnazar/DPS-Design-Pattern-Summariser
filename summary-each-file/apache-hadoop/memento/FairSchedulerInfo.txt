@@ -1,0 +1,1 @@
+FairSchedulerInfo acts as a caretaker for memento ResourceTypes, which gets ApplicationAttemptId parameter of appAttemptId App Fair Share, which gets Root Queue Info.

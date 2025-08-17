@@ -1,0 +1,4 @@
+SchedulerApplicationAttempt acts as a factory for ContainerUpdateContext, which overrides.
+SchedulerApplicationAttempt acts as a factory for SchedulerApplicationAttempt, which overrides.
+SchedulerApplicationAttempt acts as a factory for RMAppAttemptImpl, which overrides getPriority method of RMAppAttemptImpl, isRecovering method of RMAppAttemptImpl.
+SchedulerApplicationAttempt acts as a factory method for Queue, which is inherited by AbstractSchedulerPlanFollower, SchedulerApplicationAttempt, MutableConfScheduler, QueueConfigurationParser, AbstractSchedulerPlanFollower, TestSchedulerPlanFollowerBase, QueueMetrics, QueueMetrics, QueueMetrics, SchedulerApplicationAttempt, TestSchedulerPlanFollowerBase.

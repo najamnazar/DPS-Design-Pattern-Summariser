@@ -1,0 +1,1 @@
+MaskingFormatter acts as an observer for publisher CamelLogProcessor, which is inherited by DefaultMaskingFormatter, which formats String parameter of source.

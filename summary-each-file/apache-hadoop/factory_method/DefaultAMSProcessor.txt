@@ -1,0 +1,1 @@
+DefaultAMSProcessor acts as a factory method for RMContext, which is inherited by InvariantsChecker, CapacitySchedulerContext, CapacityScheduler, RMNode, RMNode, CapacitySchedulerPreemptionContext, InvariantsChecker, FairScheduler, ResourceManager, FairScheduler.

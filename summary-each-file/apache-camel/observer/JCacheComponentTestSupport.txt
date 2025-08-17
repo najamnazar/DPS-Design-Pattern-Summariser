@@ -1,0 +1,5 @@
+JCacheComponentTestSupport acts as a publisher for observer FluentProducerTemplate, which gets String parameter of endpoint Cache From Endpoint, which randoms String, which generates int parameter of size Random Map.
+JCacheComponentTestSupport acts as a publisher for observer Service, which gets String parameter of endpoint Cache From Endpoint, which randoms String, which generates int parameter of size Random Map.
+JCacheComponentTestSupport acts as a publisher for observer CamelContext, which gets String parameter of endpoint Cache From Endpoint, which randoms String, which generates int parameter of size Random Map.
+JCacheComponentTestSupport acts as a publisher for observer ProducerTemplate, which gets String parameter of endpoint Cache From Endpoint, which randoms String, which generates int parameter of size Random Map.
+JCacheComponentTestSupport acts as a publisher for observer ConsumerTemplate, which gets String parameter of endpoint Cache From Endpoint, which randoms String, which generates int parameter of size Random Map.

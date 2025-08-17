@@ -1,0 +1,1 @@
+AbstractEmbeddedDatabaseConfigurer acts as an observer, which shutdowns DataSource parameter of dataSource, String parameter of databaseName.

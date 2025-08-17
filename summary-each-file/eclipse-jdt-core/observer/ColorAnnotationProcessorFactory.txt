@@ -1,0 +1,1 @@
+ColorAnnotationProcessorFactory acts as an observer, which supports Options, which supports Annotation Types, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For.

@@ -1,0 +1,1 @@
+ManagedGroupFactory acts as an observer for publisher ZookeeperGroupSupport, ZookeeperGroupListenerSupport, which is inherited by DefaultManagedGroupFactory, which gets Curator, which closes, which sets ClassLoader parameter of classLoader Class Loader.

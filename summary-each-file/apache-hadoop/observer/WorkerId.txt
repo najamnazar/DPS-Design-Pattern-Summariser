@@ -1,0 +1,1 @@
+WorkerId acts as an observer, which gets Hostname, which sets final parameter of Text Hostname, which gets IPAddress, which tos String, which gets Worker Id, which sets final parameter of String Worker Id, which equals final parameter of Object, which writes final parameter of DataOutput, which reads final parameter of DataInput Fields, which hashes Code.

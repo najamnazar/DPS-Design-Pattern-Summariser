@@ -1,0 +1,7 @@
+MyRoutesWithRestConfiguration acts as a publisher for observer RestsDefinition, which configures.
+MyRoutesWithRestConfiguration acts as a publisher for observer Resource, which configures.
+MyRoutesWithRestConfiguration acts as an observer, which configures.
+MyRoutesWithRestConfiguration acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRoutesWithRestConfiguration acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRoutesWithRestConfiguration acts as a publisher for observer RoutesDefinition, which configures.
+MyRoutesWithRestConfiguration acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

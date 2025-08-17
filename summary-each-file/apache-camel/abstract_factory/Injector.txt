@@ -1,0 +1,1 @@
+Injector acts as an abstract product for Injector, which is inherited by SpringInjector, KameletMainInjector, ReflectionInjector, DefaultInjector.

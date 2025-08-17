@@ -1,0 +1,1 @@
+HealthCheckAware acts as an originator for memento HealthCheck, which is inherited by, which gets a HealthCheck Health Check to, which sets HealthCheck parameter of healthCheck Health Check.

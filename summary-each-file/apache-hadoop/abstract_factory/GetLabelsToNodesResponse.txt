@@ -1,0 +1,1 @@
+GetLabelsToNodesResponse acts as an abstract product for GetLabelsToNodesResponse, which is inherited by GetLabelsToNodesResponsePBImpl.

@@ -1,0 +1,1 @@
+TestSchedulingUpdate acts as a publisher for observer Resource, which creates Configuration, which setups, which teardowns, which tests Scheduling Update On Node Join Leave, which verifies long parameter of expectedCalls, int parameter of memory, int parameter of vcores Expected Calls, which verifies No Calls.

@@ -1,0 +1,2 @@
+BeanImplicitMethodTest acts as a publisher for observer Service, which tests Route, which creates Route Builder, which creates Registry, which ints Integer parameter of request Request, which strings String parameter of request Request.
+BeanImplicitMethodTest acts as a publisher for observer CamelContext, which tests Route, which creates Route Builder, which creates Registry, which ints Integer parameter of request Request, which strings String parameter of request Request.

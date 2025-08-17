@@ -1,0 +1,2 @@
+NoErrorHandlerProperties acts as a memento.
+NoErrorHandlerProperties acts as an originator for memento ErrorHandlerFactory.

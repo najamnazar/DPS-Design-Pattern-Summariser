@@ -1,0 +1,1 @@
+ShortUuidGenerator acts as a memento, which seeds long parameter of v To Hex, which seeds long parameter of v To Hex, which seeds long parameter of v To Hex.

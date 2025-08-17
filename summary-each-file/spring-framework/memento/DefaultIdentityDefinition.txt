@@ -1,0 +1,6 @@
+DefaultIdentityDefinition acts as a caretaker for memento Package, which gets Definition Path, which gets Table, which gets Column.
+DefaultIdentityDefinition acts as a memento, which gets Column, which gets Column, which gets Column.
+DefaultIdentityDefinition acts as a caretaker for memento Database, which gets Definition Path, which gets Table, which gets Column.
+DefaultIdentityDefinition acts as a caretaker for memento PackageDefinition, which gets Definition Path, which gets Table, which gets Column.
+DefaultIdentityDefinition acts as a caretaker for memento ColumnDefinition, which gets Definition Path, which gets Table, which gets Column.
+DefaultIdentityDefinition acts as a caretaker for memento C, which gets Definition Path, which gets Table, which gets Column.

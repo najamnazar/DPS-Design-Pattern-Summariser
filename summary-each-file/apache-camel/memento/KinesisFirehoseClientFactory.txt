@@ -1,0 +1,1 @@
+KinesisFirehoseClientFactory acts as an originator for memento KinesisFirehoseInternalClient, which gets a KinesisFirehoseInternalClient Kinesis Firehose Client to.

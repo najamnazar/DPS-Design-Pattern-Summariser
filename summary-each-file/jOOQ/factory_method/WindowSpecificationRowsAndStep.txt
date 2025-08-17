@@ -1,0 +1,1 @@
+WindowSpecificationRowsAndStep acts as an abstract product for WindowDefinitionImpl, which is inherited by WindowSpecificationImpl.

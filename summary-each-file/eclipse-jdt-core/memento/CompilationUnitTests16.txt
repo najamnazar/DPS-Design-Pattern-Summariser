@@ -1,0 +1,6 @@
+CompilationUnitTests16 acts as a caretaker for memento C, which sets Up Suite, which suites, which tears Down, which tears Down Suite, which tests Get Types, which cans Run Java16.
+CompilationUnitTests16 acts as a caretaker for memento E, which sets Up Suite, which suites, which tears Down, which tears Down Suite, which tests Get Types, which cans Run Java16.
+CompilationUnitTests16 acts as a caretaker for memento String, which sets Up Suite, which suites, which tears Down, which tears Down Suite, which tests Get Types, which cans Run Java16.
+CompilationUnitTests16 acts as a caretaker for memento ICompilationUnit, which sets Up Suite, which suites, which tears Down, which tears Down Suite, which tests Get Types, which cans Run Java16.
+CompilationUnitTests16 acts as a caretaker for memento S, which sets Up Suite, which suites, which tears Down, which tears Down Suite, which tests Get Types, which cans Run Java16.
+CompilationUnitTests16 acts as a caretaker for memento Class, which sets Up Suite, which suites, which tears Down, which tears Down Suite, which tests Get Types, which cans Run Java16.

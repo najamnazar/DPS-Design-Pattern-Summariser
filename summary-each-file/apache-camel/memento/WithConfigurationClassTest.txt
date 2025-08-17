@@ -1,0 +1,1 @@
+WithConfigurationClassTest acts as a caretaker for memento Producer, which shoulds Apply Configuration Class, which shoulds Support Nested Test.

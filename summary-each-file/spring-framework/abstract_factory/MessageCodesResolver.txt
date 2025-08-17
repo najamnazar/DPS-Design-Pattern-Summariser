@@ -1,0 +1,1 @@
+MessageCodesResolver acts as an abstract product for MessageCodesResolver, which is inherited by DefaultMessageCodesResolver.

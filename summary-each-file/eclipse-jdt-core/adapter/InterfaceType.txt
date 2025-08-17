@@ -1,0 +1,1 @@
+InterfaceType acts as an adaptee for adapter InterfaceDeclarationImpl, which adapts to TypeDeclarationImpl.

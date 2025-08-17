@@ -1,0 +1,2 @@
+DefaultErrorHandlerRedeliveryTest acts as a publisher for observer Service, which tests Redelivery Test, which tests No Redeliveries Test, which tests One Redelivery Test, which creates Route Builder.
+DefaultErrorHandlerRedeliveryTest acts as a publisher for observer CamelContext, which tests Redelivery Test, which tests No Redeliveries Test, which tests One Redelivery Test, which creates Route Builder.

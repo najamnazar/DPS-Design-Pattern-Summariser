@@ -1,0 +1,1 @@
+TokenRenewer acts as a publisher for observer Text, which is inherited by FakeRenewer, which handles Text parameter of kind Kind, which is Token<?> parameter of token Managed, which renews Token<?> parameter of token, Configuration parameter of conf, which cancels Token<?> parameter of token, Configuration parameter of conf.

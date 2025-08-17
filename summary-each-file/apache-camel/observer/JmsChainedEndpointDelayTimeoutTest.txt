@@ -1,0 +1,1 @@
+JmsChainedEndpointDelayTimeoutTest acts as a publisher for observer ArtemisService, which tests Timeout Not Triggered Temp Queue, which tests Timeout Not Triggered Fixed Queue, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,1 @@
+Clock acts as an abstract product for Clock, which is inherited by MonotonicClock, ControlledClock, SystemClock, UTCClock.

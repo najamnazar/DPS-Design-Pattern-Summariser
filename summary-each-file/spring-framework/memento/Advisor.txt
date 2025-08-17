@@ -1,0 +1,2 @@
+Advisor acts as a caretaker for memento A, which is inherited by, which gets Advice, which is Per Instance.
+Advisor acts as a caretaker for memento Advice, which is inherited by, which gets Advice, which is Per Instance.

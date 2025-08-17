@@ -1,0 +1,1 @@
+ZooKeeperServiceRegistrationWithServiceComponentIT acts as a caretaker for memento Component, which gets Metadata, which creates Route Builder.

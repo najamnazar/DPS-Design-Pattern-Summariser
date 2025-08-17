@@ -1,0 +1,1 @@
+RMContainerReservedEvent acts as an observer, which gets Reserved Resource, which gets Reserved Node, which gets Reserved Scheduler Key.

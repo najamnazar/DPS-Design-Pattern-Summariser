@@ -1,0 +1,1 @@
+MockEncryptionContextProvider acts as a product for ITestAbfsCustomEncryption, which overrides initialize method of EncryptionContextProvider, getEncryptionContext method of EncryptionContextProvider, getEncryptionKey method of EncryptionContextProvider.

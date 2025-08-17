@@ -1,0 +1,1 @@
+SalesforceComponentIntegrationTest acts as a caretaker for memento Component, which uses User Supplied Http Client, which creates Component.

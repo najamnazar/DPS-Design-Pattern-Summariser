@@ -1,0 +1,1 @@
+ActiveSpanManagerTest acts as a publisher for observer Exchange, which tests No Span, which tests Current Span, which tests SEnd Scope, which tests Create Child, which tests Isolated Concurrent Exchanges, which tests MDCSupport.

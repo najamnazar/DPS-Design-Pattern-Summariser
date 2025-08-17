@@ -1,0 +1,1 @@
+TransactionAwareCacheManagerProxy acts as a caretaker for memento C, which sets CacheManager parameter of targetCacheManager Target Cache Manager, which afters Properties Set, which gets String parameter of name Cache, which gets Cache Names.

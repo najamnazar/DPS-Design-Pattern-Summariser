@@ -1,0 +1,1 @@
+ResultSetSupportingSqlParameter acts as a product for CallMetaDataProvider, which overrides isInputValueProvided method of SqlParameter.

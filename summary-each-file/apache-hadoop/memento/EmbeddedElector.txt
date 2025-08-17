@@ -1,0 +1,1 @@
+EmbeddedElector acts as a memento, which is inherited by ActiveStandbyElectorBasedElectorService, CuratorBasedElectorService, which gets Zookeeper Connection State, which gets Zookeeper Connection State.

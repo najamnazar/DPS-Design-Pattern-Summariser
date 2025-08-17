@@ -1,0 +1,1 @@
+GetGroupsBase acts as a publisher for observer Configuration, which runs String[] parameter of args, which gets Configuration parameter of conf Protocol Address, which gets Ugm Protocol.

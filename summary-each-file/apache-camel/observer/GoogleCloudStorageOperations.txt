@@ -1,0 +1,1 @@
+GoogleCloudStorageOperations acts as an observer for publisher GoogleCloudStorageConfiguration, which is inherited by.

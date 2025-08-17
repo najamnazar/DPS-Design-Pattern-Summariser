@@ -1,0 +1,1 @@
+MethodMetadata acts as an abstract product for MethodMetadata, which is inherited by SimpleMethodMetadata, StandardMethodMetadata, MethodMetadataReadingVisitor.

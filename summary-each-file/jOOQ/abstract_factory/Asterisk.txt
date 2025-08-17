@@ -1,0 +1,2 @@
+Asterisk acts as an abstract product for Asterisk, which is inherited by AsteriskImpl, AsteriskImpl, AsteriskImpl.
+Asterisk acts as an abstract factory for Asterisk, which is inherited by AsteriskImpl.

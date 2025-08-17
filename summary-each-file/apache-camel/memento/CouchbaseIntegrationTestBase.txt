@@ -1,0 +1,2 @@
+CouchbaseIntegrationTestBase acts as a caretaker for memento Producer, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.
+CouchbaseIntegrationTestBase acts as a caretaker for memento Context, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.

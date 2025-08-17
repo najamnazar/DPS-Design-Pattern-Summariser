@@ -1,0 +1,1 @@
+GetClusterNodeAttributesResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides setNodeAttributes method of GetClusterNodeAttributesResponse, getNodeAttributes method of GetClusterNodeAttributesResponse.

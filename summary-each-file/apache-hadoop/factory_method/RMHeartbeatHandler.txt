@@ -1,0 +1,1 @@
+RMHeartbeatHandler acts as an abstract product for TestMRAppMaster, which is inherited by RMCommunicator.

@@ -1,0 +1,3 @@
+JCacheEndpoint acts as a caretaker for memento Context, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.
+JCacheEndpoint acts as a caretaker for memento Configuration, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.
+JCacheEndpoint acts as a caretaker for memento Component, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.

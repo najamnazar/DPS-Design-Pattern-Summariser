@@ -1,0 +1,1 @@
+LeakAwareDataBufferFactory acts as a product for DataBuffer, which overrides allocateBuffer method of DataBufferFactory, allocateBuffer method of DataBufferFactory, wrap method of DataBufferFactory, wrap method of DataBufferFactory, join method of DataBufferFactory.

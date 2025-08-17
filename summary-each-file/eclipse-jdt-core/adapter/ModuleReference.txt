@@ -1,0 +1,3 @@
+ModuleReference acts as a target for adapter CompletionOnModuleReference, which adapts to ModuleReference, which adapts resolve method of CompletionNode to ModuleReference.
+ModuleReference acts as an adaptee for adapter JavadocModuleReference, which adapts to Expression, IJavadocTypeReference, which adapts resolve method of ModuleReference to Expression, IJavadocTypeReference.
+ModuleReference acts as an adaptee for adapter RecoveredModuleReference, which adapts to RecoveredElement, which adapts to RecoveredElement.

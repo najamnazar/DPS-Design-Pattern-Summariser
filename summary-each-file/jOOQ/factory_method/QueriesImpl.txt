@@ -1,0 +1,1 @@
+QueriesImpl acts as a product for Diff, which overrides concat method of Queries, queries method of Queries, block method of Queries, stream method of Queries, queryStream method of Queries, fetchMany method of Queries, executeBatch method of Queries, $queries method of Queries.

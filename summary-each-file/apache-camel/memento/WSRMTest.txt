@@ -1,0 +1,1 @@
+WSRMTest acts as a caretaker for memento Context, which gets Client Address, which tests WSAddressing, which gets Cxf Client Config.

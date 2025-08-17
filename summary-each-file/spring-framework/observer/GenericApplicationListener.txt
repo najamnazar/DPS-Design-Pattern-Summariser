@@ -1,0 +1,1 @@
+GenericApplicationListener acts as a publisher for observer ResolvableType, which is inherited by GenericApplicationListenerAdapter, ApplicationListenerMethodAdapter, which supports Class<? parameter of extends Event Type, which supports ResolvableType parameter of eventType Event Type.

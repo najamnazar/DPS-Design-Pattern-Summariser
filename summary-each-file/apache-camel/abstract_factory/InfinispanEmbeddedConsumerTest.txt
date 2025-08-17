@@ -1,0 +1,1 @@
+InfinispanEmbeddedConsumerTest acts as a factory for InfinispanConsumerTestSupport, which overrides getCache method of InfinispanConsumerTestSupport, getCache method of InfinispanConsumerTestSupport, getMockEndpoint method of InfinispanConsumerTestSupport.

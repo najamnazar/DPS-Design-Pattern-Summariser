@@ -1,0 +1,2 @@
+SourcePosition acts as an abstract factory for, which is inherited by SourcePositionImpl.
+SourcePosition acts as an abstract product for SourcePosition, which is inherited by SourcePositionImpl.

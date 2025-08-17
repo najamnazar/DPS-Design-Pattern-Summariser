@@ -1,0 +1,1 @@
+SpringPersistenceUnitInfo acts as a publisher for observer LoadTimeWeaver, which is inherited by, which inits LoadTimeWeaver parameter of loadTimeWeaver, which inits @Nullable parameter of ClassLoader, which gets Class Loader, which adds ClassTransformer parameter of classTransformer Transformer, which gets New Temp Class Loader.

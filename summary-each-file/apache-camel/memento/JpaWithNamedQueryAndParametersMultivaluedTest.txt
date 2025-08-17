@@ -1,0 +1,2 @@
+JpaWithNamedQueryAndParametersMultivaluedTest acts as a caretaker for memento Context, which gets Endpoint Uri.
+JpaWithNamedQueryAndParametersMultivaluedTest acts as a caretaker for memento Producer, which gets Endpoint Uri.

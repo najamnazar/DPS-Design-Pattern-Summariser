@@ -1,0 +1,1 @@
+TrueClassFilter acts as an observer, which matches Class<?> parameter of clazz, which reads Resolve, which tos String.

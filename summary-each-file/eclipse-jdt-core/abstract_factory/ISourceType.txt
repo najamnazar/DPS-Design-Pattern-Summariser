@@ -1,0 +1,2 @@
+ISourceType acts as an abstract product for ISourceType, which is inherited by SourceTypeElementInfo.
+ISourceType acts as an abstract factory for ISourceType, which is inherited by SourceTypeElementInfo.

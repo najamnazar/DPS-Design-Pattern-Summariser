@@ -1,0 +1,1 @@
+AppView acts as a target for adapter TaskPage, which adapts to AppView, which adapts to AppView, which adapts to AppView, which adapts to AppView, which adapts to AppView.

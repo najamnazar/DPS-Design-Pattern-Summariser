@@ -1,0 +1,3 @@
+TestWebHDFSAcl acts as a publisher for observer UserGroupInformation, which inits, which tests Default Acl New Symlink Intermediate, which creates File System, which creates UserGroupInformation parameter of user File System.
+TestWebHDFSAcl acts as a publisher for observer MiniDFSCluster, which inits, which tests Default Acl New Symlink Intermediate, which creates File System, which creates UserGroupInformation parameter of user File System.
+TestWebHDFSAcl acts as a publisher for observer Path, which inits, which tests Default Acl New Symlink Intermediate, which creates File System, which creates UserGroupInformation parameter of user File System.

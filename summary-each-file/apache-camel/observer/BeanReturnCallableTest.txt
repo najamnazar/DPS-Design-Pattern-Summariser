@@ -1,0 +1,2 @@
+BeanReturnCallableTest acts as a publisher for observer Service, which tests Bean Return Callable, which creates Registry, which creates Route Builder, which does Something.
+BeanReturnCallableTest acts as a publisher for observer CamelContext, which tests Bean Return Callable, which creates Registry, which creates Route Builder, which does Something.

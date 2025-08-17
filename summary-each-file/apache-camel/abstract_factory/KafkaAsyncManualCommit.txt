@@ -1,0 +1,2 @@
+KafkaAsyncManualCommit acts as a product for KafkaManualCommitFactory, which overrides.
+KafkaAsyncManualCommit acts as a product for CommitManager, which overrides.

@@ -1,0 +1,4 @@
+DrainDispatcher acts as a publisher for observer Event, which waits For Event Thread To Wait, which awaits, which creates Thread, which gets Event Handler, which is Drained.
+DrainDispatcher acts as an observer, which waits For Event Thread To Wait, which awaits, which creates Thread, which gets Event Handler, which is Drained.
+DrainDispatcher acts as a publisher for observer EventTypeMetrics, which waits For Event Thread To Wait, which awaits, which creates Thread, which gets Event Handler, which is Drained.
+DrainDispatcher acts as a publisher for observer EventHandler, which waits For Event Thread To Wait, which awaits, which creates Thread, which gets Event Handler, which is Drained.

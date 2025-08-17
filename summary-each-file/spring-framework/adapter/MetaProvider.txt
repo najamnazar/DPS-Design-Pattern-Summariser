@@ -1,0 +1,1 @@
+MetaProvider acts as an adaptee for adapter DefaultConfiguration, which adapts to AbstractConfiguration.

@@ -1,0 +1,1 @@
+JobContextImpl acts as a caretaker for memento Progressable, which gets Job Conf, which gets Progressible.

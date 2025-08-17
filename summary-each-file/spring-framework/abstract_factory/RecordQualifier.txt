@@ -1,0 +1,1 @@
+RecordQualifier acts as an abstract factory for Package, which is inherited by.

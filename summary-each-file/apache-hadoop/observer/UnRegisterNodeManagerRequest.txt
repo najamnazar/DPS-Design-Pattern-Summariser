@@ -1,0 +1,1 @@
+UnRegisterNodeManagerRequest acts as a publisher for observer NodeId, which is inherited by UnRegisterNodeManagerRequestPBImpl, which news NodeId parameter of nodeId Instance, which gets Node Id, which sets NodeId parameter of nodeId Node Id.

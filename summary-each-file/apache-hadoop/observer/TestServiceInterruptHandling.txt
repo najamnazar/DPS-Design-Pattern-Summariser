@@ -1,0 +1,1 @@
+TestServiceInterruptHandling acts as a publisher for observer Service, which tests Register And Raise, which tests Interrupt Escalation Shutdown, which tests Blocking Shutdown Timeouts, which interrupts IrqHandler.InterruptData parameter of data.

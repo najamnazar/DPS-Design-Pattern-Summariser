@@ -1,0 +1,1 @@
+DefaultApplicationStartup acts as a product for AbstractApplicationContext, which overrides.

@@ -1,0 +1,1 @@
+KeyGeneratorAdapter acts as a decorator for component KeyGenerator, which is inherited by.

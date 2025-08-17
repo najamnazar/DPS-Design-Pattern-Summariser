@@ -1,0 +1,1 @@
+TestNGSpringContextWebTests acts as a publisher for observer ApplicationContext, which foos, which sets ServletContext parameter of servletContext Servlet Context, which basices Wac Features, which foos Enigma Autowired.

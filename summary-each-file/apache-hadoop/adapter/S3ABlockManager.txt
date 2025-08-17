@@ -1,0 +1,1 @@
+S3ABlockManager acts as an adapter, which adapts to BlockManager, which adapts to BlockManager.

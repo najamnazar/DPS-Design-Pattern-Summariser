@@ -1,0 +1,2 @@
+SpringOnExceptionSubRouteTest acts as a caretaker for memento Context, which tests Order Ok, which tests Order Error, which tests Order Error With No Exception Clause, which creates Camel Context.
+SpringOnExceptionSubRouteTest acts as a caretaker for memento Producer, which tests Order Ok, which tests Order Error, which tests Order Error With No Exception Clause, which creates Camel Context.

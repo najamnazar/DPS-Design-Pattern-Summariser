@@ -1,0 +1,5 @@
+OptaplannerSolverManagerTest acts as a publisher for observer Service, which tests Synchronous Problem Solving, which creates Route Builder.
+OptaplannerSolverManagerTest acts as a publisher for observer CamelContext, which tests Synchronous Problem Solving, which creates Route Builder.
+OptaplannerSolverManagerTest acts as a publisher for observer ProducerTemplate, which tests Synchronous Problem Solving, which creates Route Builder.
+OptaplannerSolverManagerTest acts as a publisher for observer FluentProducerTemplate, which tests Synchronous Problem Solving, which creates Route Builder.
+OptaplannerSolverManagerTest acts as a publisher for observer ConsumerTemplate, which tests Synchronous Problem Solving, which creates Route Builder.

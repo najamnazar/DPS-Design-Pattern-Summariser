@@ -1,0 +1,2 @@
+RawFileStatus acts as a product for FSWrapper, which overrides hashCode method of FileStatus, equals method of FileStatus.
+RawFileStatus acts as a product for HdfsFileStatus, which overrides hashCode method of FileStatus, equals method of FileStatus.

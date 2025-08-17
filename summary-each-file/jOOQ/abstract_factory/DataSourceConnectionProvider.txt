@@ -1,0 +1,1 @@
+DataSourceConnectionProvider acts as a product for Configuration, which overrides acquire method of ConnectionProvider, release method of ConnectionProvider.

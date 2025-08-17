@@ -1,0 +1,1 @@
+AutowireCandidateQualifier acts as an observer for publisher AbstractBeanDefinition, GenericBeanDefinition, RootBeanDefinition, ChildBeanDefinition, which is inherited by, which gets Type Name.

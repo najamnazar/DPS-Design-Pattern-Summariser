@@ -1,0 +1,1 @@
+DataOutputStream acts as an abstract product for DataOutputStream, which is inherited by ResponseBuffer, ResponseBuffer, SyncableDataOutputStream, SyncableDataOutputStream, FSDataOutputStream, FSDataOutputStream, ByteBufferDataWriter, ByteBufferDataWriter, DataOutputBuffer, DataOutputBuffer.

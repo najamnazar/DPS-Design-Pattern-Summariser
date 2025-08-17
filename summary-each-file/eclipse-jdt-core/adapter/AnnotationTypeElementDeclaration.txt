@@ -1,0 +1,2 @@
+AnnotationTypeElementDeclaration acts as an adaptee for adapter AnnotationElementDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl.
+AnnotationTypeElementDeclaration acts as an adaptee for adapter ASTBasedAnnotationElementDeclarationImpl, which adapts to ASTBasedMethodDeclarationImpl, which adapts to ASTBasedMethodDeclarationImpl.

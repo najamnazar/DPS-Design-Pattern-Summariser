@@ -1,0 +1,1 @@
+CallbackPreferringPlatformTransactionManager acts as an observer, which executes @Nullable parameter of TransactionDefinition, TransactionCallback<T> parameter of callback.

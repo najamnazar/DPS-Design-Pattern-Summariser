@@ -1,0 +1,2 @@
+BetweenAndStepN acts as an abstract factory for Condition, which is inherited by RowBetweenCondition.
+BetweenAndStepN acts as an abstract product for BetweenAndStepN, which is inherited by RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition, RowBetweenCondition.

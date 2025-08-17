@@ -1,0 +1,1 @@
+LocalizerTokenIdentifier acts as an observer, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which gets Kind, which gets User.

@@ -1,0 +1,3 @@
+AuditManagerS3A acts as an adaptee for adapter NoopAuditManagerS3A, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+AuditManagerS3A acts as an adaptee for adapter ActiveAuditManagerS3A, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+AuditManagerS3A acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

@@ -1,0 +1,2 @@
+SplitterStopOnExceptionTest acts as a caretaker for memento Context, which tests Split Stop On Exception Ok, which tests Split Stop On Exception Stop, which creates Route Builder, which processes Exchange parameter of exchange.
+SplitterStopOnExceptionTest acts as a caretaker for memento Producer, which tests Split Stop On Exception Ok, which tests Split Stop On Exception Stop, which creates Route Builder, which processes Exchange parameter of exchange.

@@ -1,0 +1,1 @@
+AnnotationMetadataReadingVisitor acts as a product for ConfigurationClassBeanDefinitionReader, which overrides getAnnotationTypes method of AnnotationMetadata, getMetaAnnotationTypes method of AnnotationMetadata, hasAnnotation method of AnnotationMetadata, hasAnnotatedMethods method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.

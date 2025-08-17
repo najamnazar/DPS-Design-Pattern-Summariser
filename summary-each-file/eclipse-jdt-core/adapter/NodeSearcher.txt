@@ -1,0 +1,1 @@
+NodeSearcher acts as an adapter, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor.

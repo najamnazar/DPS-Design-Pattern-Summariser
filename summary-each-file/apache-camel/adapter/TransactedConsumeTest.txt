@@ -1,0 +1,1 @@
+TransactedConsumeTest acts as an adapter, which adapts to ActiveMQSpringTestSupport, which adapts sendJMSMessageToKickOffRoute method of ActiveMQEmbeddedService to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.

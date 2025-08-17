@@ -1,0 +1,4 @@
+ASTConverter_GuardedPattern_Test acts as a caretaker for memento List, which sets Up Suite, which suites, which gets AST21, which tears Down, which tests Guarded Pattern001.
+ASTConverter_GuardedPattern_Test acts as a caretaker for memento S, which sets Up Suite, which suites, which gets AST21, which tears Down, which tests Guarded Pattern001.
+ASTConverter_GuardedPattern_Test acts as a caretaker for memento C, which sets Up Suite, which suites, which gets AST21, which tears Down, which tests Guarded Pattern001.
+ASTConverter_GuardedPattern_Test acts as a caretaker for memento ICompilationUnit, which sets Up Suite, which suites, which gets AST21, which tears Down, which tests Guarded Pattern001.

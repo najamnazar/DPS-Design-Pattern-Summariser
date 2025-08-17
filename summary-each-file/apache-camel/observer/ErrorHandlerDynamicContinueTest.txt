@@ -1,0 +1,2 @@
+ErrorHandlerDynamicContinueTest acts as a publisher for observer Service, which tests Continued, which tests Not Continued, which creates Route Builder.
+ErrorHandlerDynamicContinueTest acts as a publisher for observer CamelContext, which tests Continued, which tests Not Continued, which creates Route Builder.

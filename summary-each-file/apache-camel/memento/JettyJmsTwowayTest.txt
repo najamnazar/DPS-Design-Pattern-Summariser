@@ -1,0 +1,1 @@
+JettyJmsTwowayTest acts as a caretaker for memento Context, which tests Sending Request.

@@ -1,0 +1,2 @@
+MySQLDataType acts as a caretaker for memento B.
+MySQLDataType acts as a caretaker for memento SQL.

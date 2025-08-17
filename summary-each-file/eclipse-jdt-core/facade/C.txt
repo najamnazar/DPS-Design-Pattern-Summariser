@@ -1,0 +1,3 @@
+C acts as a facade for subsystem S, which foo calls getReader method of C, out method of S, in method of M.
+C acts as a subsystem for facade Try.
+C acts as a subsystem for facade AsMemberOf.

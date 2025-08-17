@@ -1,0 +1,1 @@
+PointcutAdvisor acts as an observer, which gets Pointcut.

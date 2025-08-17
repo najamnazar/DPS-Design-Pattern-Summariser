@@ -1,0 +1,2 @@
+ProcessorFactory acts as an adaptee for adapter DefaultServiceCallProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ProcessorFactory acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService.

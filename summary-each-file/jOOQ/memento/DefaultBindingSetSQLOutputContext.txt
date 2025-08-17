@@ -1,0 +1,1 @@
+DefaultBindingSetSQLOutputContext acts as a caretaker for memento SQL, which outputs, which values, which converts Converter<? parameter of extends, which tos String.

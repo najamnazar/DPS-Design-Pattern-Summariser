@@ -1,0 +1,1 @@
+RecordDelegate acts as a publisher for observer Configuration, which is inherited by, which delegates Configuration parameter of configuration, R parameter of record, RecordLifecycleType parameter of type, which operates ThrowingFunction<R, parameter of R, which executes Type.

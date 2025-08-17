@@ -1,0 +1,2 @@
+WireTapUsingMulticastTest acts as a publisher for observer Service, which tests Send, which sets Up, which creates Route Builder.
+WireTapUsingMulticastTest acts as a publisher for observer CamelContext, which tests Send, which sets Up, which creates Route Builder.

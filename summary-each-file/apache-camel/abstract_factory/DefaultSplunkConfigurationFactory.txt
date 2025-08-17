@@ -1,0 +1,1 @@
+DefaultSplunkConfigurationFactory acts as a factory for SplunkConfigurationFactory, which overrides parseMap method of SplunkConfigurationFactory.

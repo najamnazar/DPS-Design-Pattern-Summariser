@@ -1,0 +1,1 @@
+ITestSelectUnsupported acts as a publisher for observer AuditSpanSource, which tests Select Open File Must Failure, which tests Select Open File May Is Ignored, which tests Path Capability Not Available, which tests S3Guard Tool Fails.

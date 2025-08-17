@@ -1,0 +1,1 @@
+ManifestCommitterConfig acts as a factory for IOStatisticsSource, which overrides.

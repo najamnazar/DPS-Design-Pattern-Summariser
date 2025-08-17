@@ -1,0 +1,1 @@
+HttpHeadResponseDecorator acts as a decorator for decorator ServerHttpResponseDecorator, which overrides writeWith method of ServerHttpResponseDecorator, writeAndFlushWith method of ServerHttpResponseDecorator.

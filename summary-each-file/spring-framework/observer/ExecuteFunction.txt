@@ -1,0 +1,1 @@
+ExecuteFunction acts as an observer for publisher DefaultDatabaseClientBuilder, which is inherited by, which executes Statement parameter of statement.

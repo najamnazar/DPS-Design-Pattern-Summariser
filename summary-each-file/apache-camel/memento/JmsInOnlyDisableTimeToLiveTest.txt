@@ -1,0 +1,1 @@
+JmsInOnlyDisableTimeToLiveTest acts as a caretaker for memento Producer, which tests In Only Expired, which tests In Only Disabled Time To Live, which gets Component Name, which creates Route Builder, which sets ConsumerTemplate parameter of consumer Consumer, which sets ProducerTemplate parameter of producer Producer, which somes Business Logic.

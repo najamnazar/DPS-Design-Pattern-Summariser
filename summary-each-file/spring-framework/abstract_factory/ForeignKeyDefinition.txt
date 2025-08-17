@@ -1,0 +1,1 @@
+ForeignKeyDefinition acts as an abstract factory for UniqueKeyDefinition, TableDefinition, which is inherited by DefaultForeignKeyDefinition.

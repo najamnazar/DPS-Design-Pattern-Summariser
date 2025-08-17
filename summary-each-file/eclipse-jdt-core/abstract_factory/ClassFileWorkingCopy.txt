@@ -1,0 +1,3 @@
+ClassFileWorkingCopy acts as a product for IJavaElementDelta, which overrides.
+ClassFileWorkingCopy acts as a product for ICompilationUnitResolver, which overrides.
+ClassFileWorkingCopy acts as a product for EclipseAnnotationProcessorEnvironment, which overrides.

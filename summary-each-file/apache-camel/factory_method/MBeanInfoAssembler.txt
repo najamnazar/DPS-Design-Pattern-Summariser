@@ -1,0 +1,1 @@
+MBeanInfoAssembler acts as a product for SplunkEndpoint, which overrides start method of Service, stop method of Service.

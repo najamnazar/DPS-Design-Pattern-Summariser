@@ -1,0 +1,1 @@
+Tag acts as an adaptee for adapter MicroProfileMetricsExchangeRecorderTest.

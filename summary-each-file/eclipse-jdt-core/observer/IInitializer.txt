@@ -1,0 +1,1 @@
+IInitializer acts as an observer for publisher IJavaElementRequestor, JavaElementRequestor, which is inherited by.

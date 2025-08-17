@@ -1,0 +1,1 @@
+TableElementDefinition acts as an abstract factory for TableDefinition, which is inherited by.

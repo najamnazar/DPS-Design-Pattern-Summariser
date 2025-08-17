@@ -1,0 +1,1 @@
+ChannelInterceptor acts as an abstract product for ChannelInterceptor, which is inherited by ChannelInterceptorAdapter, HandlersBeanDefinitionParserTests, ImmutableMessageChannelInterceptor, ExecutorChannelInterceptor.

@@ -1,0 +1,1 @@
+ITestS3AContentEncoding acts as a publisher for observer AuditSpanSource, which creates Configuration, which tests Created Objects Have Encoding, which asserts Path parameter of path Object Has Encoding, which gets Path parameter of path Encoding.

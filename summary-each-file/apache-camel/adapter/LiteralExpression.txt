@@ -1,0 +1,1 @@
+LiteralExpression acts as an adapter, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts getText method of LiteralNode, getText method of LiteralNode to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.

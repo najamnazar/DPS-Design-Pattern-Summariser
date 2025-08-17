@@ -1,0 +1,2 @@
+NamedParameterJdbcOperations acts as a factory for JdbcOperations, which overrides.
+NamedParameterJdbcOperations acts as a factory for NamedParameterJdbcTemplate, which overrides.

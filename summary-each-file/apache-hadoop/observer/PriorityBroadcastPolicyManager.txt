@@ -1,0 +1,2 @@
+PriorityBroadcastPolicyManager acts as a publisher for observer WeightedPolicyInfo, which serializes Conf, which gets Weighted Policy Info, which sets WeightedPolicyInfo parameter of weightedPolicyInfo Weighted Policy Info, which is Support Weighted Policy Info.
+PriorityBroadcastPolicyManager acts as a publisher for observer WeightedPolicyInfo, which is inherited by, which serializes Conf, which gets Weighted Policy Info, which sets WeightedPolicyInfo parameter of weightedPolicyInfo Weighted Policy Info, which is Support Weighted Policy Info.

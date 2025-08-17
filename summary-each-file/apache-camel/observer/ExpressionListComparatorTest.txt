@@ -1,0 +1,2 @@
+ExpressionListComparatorTest acts as a publisher for observer Service, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tests Expression List Comparator.
+ExpressionListComparatorTest acts as a publisher for observer CamelContext, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tests Expression List Comparator.

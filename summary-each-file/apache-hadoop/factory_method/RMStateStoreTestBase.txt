@@ -1,0 +1,2 @@
+RMStateStoreTestBase acts as a factory for RMAppAttemptBlock, which overrides.
+RMStateStoreTestBase acts as a factory for TestCapacitySchedulerApps, which overrides.

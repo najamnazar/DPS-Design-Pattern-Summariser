@@ -1,0 +1,1 @@
+PluggableSchemaResolver acts as a caretaker for memento C, which resolves @Nullable parameter of String, @Nullable parameter of String Entity, which gets Schema Mappings, which tos String.

@@ -1,0 +1,7 @@
+MyAbstractRouteBuilder acts as a publisher for observer RestsDefinition.
+MyAbstractRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition.
+MyAbstractRouteBuilder acts as a publisher for observer Resource.
+MyAbstractRouteBuilder acts as a publisher for observer RouteTemplatesDefinition.
+MyAbstractRouteBuilder acts as an observer.
+MyAbstractRouteBuilder acts as a publisher for observer RoutesDefinition.
+MyAbstractRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy.

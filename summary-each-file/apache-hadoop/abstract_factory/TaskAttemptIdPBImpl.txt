@@ -1,0 +1,9 @@
+TaskAttemptIdPBImpl acts as a product for AMPreemptionPolicy, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for KillTaskAttemptRequest, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for GetTaskAttemptReportRequest, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for TaskAttemptCompletionEvent, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for FailTaskAttemptRequest, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for GetDiagnosticsRequest, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for TaskAttemptReport, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for TaskReport, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.
+TaskAttemptIdPBImpl acts as a product for TaskAttempt, which overrides getId method of TaskAttemptId, setId method of TaskAttemptId, getTaskId method of TaskAttemptId, setTaskId method of TaskAttemptId.

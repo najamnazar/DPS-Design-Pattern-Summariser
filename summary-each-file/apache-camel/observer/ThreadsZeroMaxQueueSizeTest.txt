@@ -1,0 +1,2 @@
+ThreadsZeroMaxQueueSizeTest acts as a publisher for observer CamelContext, which tests Threads Max Queue Size, which tests Threads Max Queue Size Builder, which creates Route Builder.
+ThreadsZeroMaxQueueSizeTest acts as a publisher for observer Service, which tests Threads Max Queue Size, which tests Threads Max Queue Size Builder, which creates Route Builder.

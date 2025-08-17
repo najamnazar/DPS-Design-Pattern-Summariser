@@ -1,0 +1,2 @@
+NettyHttpGetWithInvalidMessageTest acts as a caretaker for memento Context, which adds Encoders, which adds Decoders, which tests Netty Http Server, which tests Jetty Http Server, which invokes int parameter of port Service, which creates Route Builder.
+NettyHttpGetWithInvalidMessageTest acts as a caretaker for memento Producer, which adds Encoders, which adds Decoders, which tests Netty Http Server, which tests Jetty Http Server, which invokes int parameter of port Service, which creates Route Builder.

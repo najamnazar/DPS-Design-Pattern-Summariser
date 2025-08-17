@@ -1,0 +1,2 @@
+RecipientListFunctionalTest acts as a publisher for observer Service, which tests Recipient List, which creates Route Builder.
+RecipientListFunctionalTest acts as a publisher for observer CamelContext, which tests Recipient List, which creates Route Builder.

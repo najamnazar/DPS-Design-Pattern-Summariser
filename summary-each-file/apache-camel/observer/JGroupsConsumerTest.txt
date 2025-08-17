@@ -1,0 +1,5 @@
+JGroupsConsumerTest acts as a publisher for observer ProducerTemplate, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.
+JGroupsConsumerTest acts as a publisher for observer CamelContext, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.
+JGroupsConsumerTest acts as a publisher for observer ConsumerTemplate, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.
+JGroupsConsumerTest acts as a publisher for observer FluentProducerTemplate, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.
+JGroupsConsumerTest acts as a publisher for observer Service, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.

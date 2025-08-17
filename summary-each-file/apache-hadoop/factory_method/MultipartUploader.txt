@@ -1,0 +1,1 @@
+MultipartUploader acts as an abstract product for AbstractContractMultipartUploaderTest, which is inherited by AbstractMultipartUploader.

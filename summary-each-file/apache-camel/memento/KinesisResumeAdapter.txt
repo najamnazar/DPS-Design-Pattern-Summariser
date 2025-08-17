@@ -1,0 +1,1 @@
+KinesisResumeAdapter acts as a memento, which sets String parameter of streamName Stream Name, which sets String parameter of streamName Stream Name.

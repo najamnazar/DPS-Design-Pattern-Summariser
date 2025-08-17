@@ -1,0 +1,1 @@
+BulkApiV2IngestJobIntegrationTest acts as a caretaker for memento Component, which tests Lifecycle, which tests Abort, which tests Delete, which tests Get All, which creates Job parameter of job Job.

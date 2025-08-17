@@ -1,0 +1,2 @@
+ResourceConverterTest acts as a publisher for observer Service, which tests Mem, which tests Base64, which tests Classpath, which tests File, which tests Ref.
+ResourceConverterTest acts as a publisher for observer CamelContext, which tests Mem, which tests Base64, which tests Classpath, which tests File, which tests Ref.

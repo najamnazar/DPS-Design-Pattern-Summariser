@@ -1,0 +1,2 @@
+ChoiceTest acts as a publisher for observer CamelContext, which tests Send To First When, which tests Send To Second When, which tests Send To Otherwise Clause, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.
+ChoiceTest acts as a publisher for observer Service, which tests Send To First When, which tests Send To Second When, which tests Send To Otherwise Clause, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.

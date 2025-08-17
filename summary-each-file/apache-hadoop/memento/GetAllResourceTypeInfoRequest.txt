@@ -1,0 +1,2 @@
+GetAllResourceTypeInfoRequest acts as an originator for memento GetAllResourceTypeInfoRequest, which is inherited by, which news a GetAllResourceTypeInfoRequest Instance to.
+GetAllResourceTypeInfoRequest acts as a memento, which is inherited by GetAllResourceTypeInfoRequestPBImpl, which news Instance.

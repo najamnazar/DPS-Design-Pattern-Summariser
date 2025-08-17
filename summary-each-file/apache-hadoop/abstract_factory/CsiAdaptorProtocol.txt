@@ -1,0 +1,2 @@
+CsiAdaptorProtocol acts as an abstract product for CsiAdaptorProtocol, which is inherited by CsiAdaptorPlugin, CsiAdaptorProtocolPBClientImpl, CsiAdaptorProtocolService.
+CsiAdaptorProtocol acts as an abstract factory for GetPluginInfoResponse, ValidateVolumeCapabilitiesResponse, NodeUnpublishVolumeResponse, NodePublishVolumeResponse, which is inherited by CsiAdaptorProtocolPBClientImpl, CsiAdaptorProtocolService.

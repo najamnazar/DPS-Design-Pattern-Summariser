@@ -1,0 +1,1 @@
+GetDiagnosticsRequest acts as a publisher for observer TaskAttemptId, which is inherited by GetDiagnosticsRequestPBImpl, which gets Task Attempt Id, which sets TaskAttemptId parameter of taskAttemptId Task Attempt Id.

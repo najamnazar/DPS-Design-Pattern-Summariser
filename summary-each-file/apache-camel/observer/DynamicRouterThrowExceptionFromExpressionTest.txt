@@ -1,0 +1,2 @@
+DynamicRouterThrowExceptionFromExpressionTest acts as a publisher for observer Service, which tests Dynamic Router And Verify Exception, which creates Route Builder, which routes Exchange parameter of exchange To.
+DynamicRouterThrowExceptionFromExpressionTest acts as a publisher for observer CamelContext, which tests Dynamic Router And Verify Exception, which creates Route Builder, which routes Exchange parameter of exchange To.

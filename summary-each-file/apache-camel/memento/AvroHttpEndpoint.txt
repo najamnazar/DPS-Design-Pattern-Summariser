@@ -1,0 +1,1 @@
+AvroHttpEndpoint acts as a caretaker for memento Configuration, which creates Producer.

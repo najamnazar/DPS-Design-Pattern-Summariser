@@ -1,0 +1,1 @@
+TimeoutDeferredResultProcessingInterceptor acts as an observer, which handles NativeWebRequest parameter of request, DeferredResult<T> parameter of result Timeout.

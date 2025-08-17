@@ -1,0 +1,2 @@
+FairSchedulerLeafQueueInfo acts as an observer, which gets Num Active Applications, which gets Num Pending Applications.
+FairSchedulerLeafQueueInfo acts as a publisher for observer FairScheduler, which gets Num Active Applications, which gets Num Pending Applications.

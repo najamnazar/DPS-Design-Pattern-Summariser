@@ -1,0 +1,2 @@
+OnCompletionAndInterceptAndOnExceptionGlobalTest acts as a publisher for observer Service, which tests Synchronize Complete, which tests Synchronize Failure, which creates Route Builder, which processes Exchange parameter of exchange.
+OnCompletionAndInterceptAndOnExceptionGlobalTest acts as a publisher for observer CamelContext, which tests Synchronize Complete, which tests Synchronize Failure, which creates Route Builder, which processes Exchange parameter of exchange.

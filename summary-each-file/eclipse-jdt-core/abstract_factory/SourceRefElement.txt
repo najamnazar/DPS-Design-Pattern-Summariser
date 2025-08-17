@@ -1,0 +1,1 @@
+SourceRefElement acts as a factory for ISourceReference, which overrides getSource method of ISourceReference, getSourceRange method of ISourceReference.

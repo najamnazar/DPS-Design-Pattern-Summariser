@@ -1,0 +1,1 @@
+Constant acts as an abstract product for Constant, which is inherited by CharConstant, BooleanConstant, DoubleConstant, IntConstant, FloatConstant, ByteConstant, StringConstant, ShortConstant, LongConstant.

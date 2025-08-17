@@ -1,0 +1,2 @@
+ITestBean acts as a factory for CglibProxyTests, which overrides.
+ITestBean acts as an abstract product for CglibProxyTests, which is inherited by OtherTestBean.

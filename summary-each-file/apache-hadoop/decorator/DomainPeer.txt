@@ -1,0 +1,1 @@
+DomainPeer acts as a component for decorator EncryptedPeer, which overrides getInputStreamChannelPeer, setReadTimeoutPeer, getReceiveBufferSizePeer, getTcpNoDelayPeer, setWriteTimeoutPeer, isClosedPeer, closePeer, getRemoteAddressStringPeer, getLocalAddressStringPeer, getInputStreamPeer, getOutputStreamPeer, isLocalPeer, toStringPeer, getDomainSocketPeer, hasSecureChannelPeer.

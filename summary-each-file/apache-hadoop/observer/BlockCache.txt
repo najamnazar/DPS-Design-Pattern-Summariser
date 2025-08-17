@@ -1,0 +1,1 @@
+BlockCache acts as an observer, which contains int parameter of blockNumber Block, which blocks, which sizes, which gets int parameter of blockNumber, ByteBuffer parameter of buffer, which puts int parameter of blockNumber, ByteBuffer parameter of buffer, Configuration parameter of conf, LocalDirAllocator parameter of localDirAllocator.

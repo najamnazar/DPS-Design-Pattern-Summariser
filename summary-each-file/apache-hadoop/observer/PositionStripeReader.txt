@@ -1,0 +1,2 @@
+PositionStripeReader acts as a publisher for observer DatanodeInfo, which prepares Decode Inputs, which prepares int parameter of index Parity Chunk, which decodes, which inits AlignedStripe parameter of alignedStripe Decode Inputs, which closes.
+PositionStripeReader acts as a publisher for observer BlockReader, which prepares Decode Inputs, which prepares int parameter of index Parity Chunk, which decodes, which inits AlignedStripe parameter of alignedStripe Decode Inputs, which closes.

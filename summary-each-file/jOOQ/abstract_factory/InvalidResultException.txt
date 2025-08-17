@@ -1,0 +1,2 @@
+InvalidResultException acts as a product for LoaderError, which overrides.
+InvalidResultException acts as a product for ResultOrRows, which overrides.

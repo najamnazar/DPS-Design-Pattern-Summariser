@@ -1,0 +1,2 @@
+K_out acts as a caretaker for memento S, which foos.
+K_out acts as a caretaker for memento String, which foos.

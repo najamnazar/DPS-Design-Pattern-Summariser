@@ -1,0 +1,1 @@
+BlockPlacementStatusDefault acts as a component for decorator BlockPlacementStatusWithNodeGroup, which overrides isPlacementPolicySatisfiedBlockPlacementStatus, getErrorDescriptionBlockPlacementStatus, getAdditionalReplicasRequiredBlockPlacementStatus.

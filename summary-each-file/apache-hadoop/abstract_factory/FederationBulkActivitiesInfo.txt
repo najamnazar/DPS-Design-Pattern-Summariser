@@ -1,0 +1,1 @@
+FederationBulkActivitiesInfo acts as a product for RMWebServiceProtocol, which overrides.

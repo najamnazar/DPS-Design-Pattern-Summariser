@@ -1,0 +1,6 @@
+ContainerManager acts as an originator for memento CommitResponse.
+ContainerManager acts as an originator for memento SignalContainerResponse.
+ContainerManager acts as an originator for memento RollbackResponse.
+ContainerManager acts as an originator for memento RestartContainerResponse.
+ContainerManager acts as an originator for memento ReInitializeContainerResponse.
+ContainerManager acts as an originator for memento ResourceLocalizationResponse.

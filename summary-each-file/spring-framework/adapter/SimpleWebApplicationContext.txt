@@ -1,0 +1,1 @@
+SimpleWebApplicationContext acts as an adapter, which adapts to StaticWebApplicationContext, which adapts to StaticWebApplicationContext, which adapts to StaticWebApplicationContext, which adapts to StaticWebApplicationContext.

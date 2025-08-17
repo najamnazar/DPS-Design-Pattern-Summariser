@@ -1,0 +1,1 @@
+SimpleInstrumentableClassLoader acts as an adapter, which adapts to OverridingClassLoader, which adapts to OverridingClassLoader.

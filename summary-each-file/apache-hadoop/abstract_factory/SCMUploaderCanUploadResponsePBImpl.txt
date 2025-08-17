@@ -1,0 +1,1 @@
+SCMUploaderCanUploadResponsePBImpl acts as a product for SCMUploaderProtocol, which overrides getUploadable method of SCMUploaderCanUploadResponse, setUploadable method of SCMUploaderCanUploadResponse.

@@ -1,0 +1,3 @@
+CamelInternalTask acts as a product for Consumer, which overrides.
+CamelInternalTask acts as a product for ExtendedExchange, which overrides.
+CamelInternalTask acts as a product for UnitOfWork, which overrides.

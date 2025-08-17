@@ -1,0 +1,1 @@
+RedisConnectionTest acts as a caretaker for memento Producer, which shoulds Execute ECHO, which shoulds Execute PING, which shoulds Execute QUIT, which shoulds Execute PUBLISH.

@@ -1,0 +1,1 @@
+PrioritizedFilterProcessor acts as a caretaker for memento Context, which gets Priority, which compares final parameter of PrioritizedFilterProcessor To, which tos String, which gets final parameter of String, final parameter of int, final parameter of CamelContext, final parameter of Predicate, final parameter of Processor Instance.

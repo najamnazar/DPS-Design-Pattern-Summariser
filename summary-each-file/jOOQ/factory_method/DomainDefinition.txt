@@ -1,0 +1,2 @@
+DomainDefinition acts as an abstract product for AbstractDatabase, which is inherited by DefaultDomainDefinition.
+DomainDefinition acts as a factory for ArrayDefinition, which overrides.

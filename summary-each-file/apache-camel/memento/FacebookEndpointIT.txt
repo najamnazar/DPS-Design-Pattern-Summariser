@@ -1,0 +1,1 @@
+FacebookEndpointIT acts as a caretaker for memento Configuration, which tests No Args Endpoint, which creates Camel Context, which creates Route Builder.

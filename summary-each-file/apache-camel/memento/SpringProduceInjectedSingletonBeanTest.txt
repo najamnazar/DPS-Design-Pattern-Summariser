@@ -1,0 +1,1 @@
+SpringProduceInjectedSingletonBeanTest acts as a caretaker for memento Context, which creates Application Context, which tests Produce Injected Once, which tests Produce Injected Twice.

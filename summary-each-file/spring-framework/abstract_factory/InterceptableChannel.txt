@@ -1,0 +1,1 @@
+InterceptableChannel acts as an abstract factory for ChannelInterceptor, which is inherited by AbstractMessageChannel.

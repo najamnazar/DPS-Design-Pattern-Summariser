@@ -1,0 +1,1 @@
+DefaultVersionManager acts as a product for CamelCatalog, which overrides setClassLoader method of VersionManager, getLoadedVersion method of VersionManager, loadVersion method of VersionManager, getRuntimeProviderLoadedVersion method of VersionManager, loadRuntimeProviderVersion method of VersionManager, getResourceAsStream method of VersionManager.

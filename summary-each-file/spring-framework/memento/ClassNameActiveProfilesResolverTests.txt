@@ -1,0 +1,3 @@
+ClassNameActiveProfilesResolverTests acts as a caretaker for memento C, which tests.
+ClassNameActiveProfilesResolverTests acts as a caretaker for memento ApplicationContext, which tests.
+ClassNameActiveProfilesResolverTests acts as a caretaker for memento A, which tests.

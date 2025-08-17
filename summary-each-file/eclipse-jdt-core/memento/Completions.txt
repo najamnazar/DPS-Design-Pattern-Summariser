@@ -1,0 +1,2 @@
+Completions acts as a caretaker for memento S, which gets Value, which gets Message, which tos String, which ofs String parameter of value, String parameter of message, which ofs String parameter of value.
+Completions acts as a caretaker for memento String, which gets Value, which gets Message, which tos String, which ofs String parameter of value, String parameter of message, which ofs String parameter of value.

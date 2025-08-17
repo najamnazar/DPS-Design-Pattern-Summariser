@@ -1,0 +1,1 @@
+JpaNonTXRollbackTest acts as a caretaker for memento Context, which tests Non TXRollback, which creates Route Builder, which routes Xml, which selects All String.

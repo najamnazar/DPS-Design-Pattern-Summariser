@@ -1,0 +1,2 @@
+FileConsumeTemplateTest acts as a publisher for observer Service, which tests Consume File With Template.
+FileConsumeTemplateTest acts as a publisher for observer CamelContext, which tests Consume File With Template.

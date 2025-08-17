@@ -1,0 +1,2 @@
+RuntimeProvider acts as an abstract factory for CamelCatalog, which is inherited by DefaultRuntimeProvider.
+RuntimeProvider acts as an abstract product for RuntimeProvider, which is inherited by DefaultRuntimeProvider.

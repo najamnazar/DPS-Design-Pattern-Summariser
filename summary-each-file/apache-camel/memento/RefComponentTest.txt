@@ -1,0 +1,2 @@
+RefComponentTest acts as a caretaker for memento Context, which setups Component, which tests Ref.
+RefComponentTest acts as a caretaker for memento Producer, which setups Component, which tests Ref.

@@ -1,0 +1,1 @@
+FifoComparator acts as an adaptee for adapter FifoPolicy, which adapts to SchedulingPolicy.

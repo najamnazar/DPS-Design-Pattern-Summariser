@@ -1,0 +1,1 @@
+GlobbedCopyListing acts as a publisher for observer Credentials, which validates DistCpContext parameter of context Paths, which does Path parameter of pathToListingFile, DistCpContext parameter of context Build Listing, which gets Bytes To Copy, which gets Number Of Paths.

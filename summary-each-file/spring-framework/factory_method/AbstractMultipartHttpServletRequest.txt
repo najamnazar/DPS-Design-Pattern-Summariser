@@ -1,0 +1,2 @@
+AbstractMultipartHttpServletRequest acts as a factory for MockMultipartHttpServletRequest, which overrides.
+AbstractMultipartHttpServletRequest acts as a product for ComplexWebApplicationContext, which overrides getRequestMethod method of MultipartHttpServletRequest, getRequestHeaders method of MultipartHttpServletRequest.

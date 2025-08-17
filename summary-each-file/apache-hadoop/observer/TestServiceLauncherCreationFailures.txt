@@ -1,0 +1,1 @@
+TestServiceLauncherCreationFailures acts as a publisher for observer Service, which tests No Args, which tests Unknown Class, which tests Not AService, which tests No Simple Constructor, which tests Fail In Constructor, which tests Fail In Init, which tests Fail In Start, which tests Fail In Stop Is Ignored.

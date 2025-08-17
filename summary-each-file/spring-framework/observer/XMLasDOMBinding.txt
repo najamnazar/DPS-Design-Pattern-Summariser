@@ -1,0 +1,1 @@
+XMLasDOMBinding acts as a publisher for observer Node, which is inherited by, which converters, which tos Node parameter of node String, which froms String parameter of name String, which builders, which creates Document parameter of doc, String parameter of text Content.

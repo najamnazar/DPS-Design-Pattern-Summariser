@@ -1,0 +1,1 @@
+BeanWrapper acts as an abstract product for AbstractAutowireCapableBeanFactory, which is inherited by BeanWrapperImpl.

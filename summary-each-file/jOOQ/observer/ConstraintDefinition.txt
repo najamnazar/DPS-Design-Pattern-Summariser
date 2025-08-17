@@ -1,0 +1,1 @@
+ConstraintDefinition acts as an observer, which gets Table, which enforces.

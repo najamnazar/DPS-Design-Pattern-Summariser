@@ -1,0 +1,3 @@
+PathOutputCommitter acts as a target for adapter BindingPathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter.
+PathOutputCommitter acts as a target for adapter AbstractS3ACommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter.
+PathOutputCommitter acts as a target for adapter ManifestCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter.

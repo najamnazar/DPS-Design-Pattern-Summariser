@@ -1,0 +1,1 @@
+ConstantSchemaVersionProvider acts as a product for AbstractDatabase, which overrides version method of SchemaVersionProvider.

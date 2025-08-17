@@ -1,0 +1,1 @@
+InterceptEndpointFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultInterceptEndpointFactory, which creates CamelContext parameter of camelContext, Endpoint parameter of endpoint, boolean parameter of skip, Processor parameter of before, Processor parameter of after Intercept Send To Endpoint.

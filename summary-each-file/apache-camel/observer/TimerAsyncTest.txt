@@ -1,0 +1,2 @@
+TimerAsyncTest acts as a publisher for observer CamelContext, which tests Async Routing, which is Use Route Builder.
+TimerAsyncTest acts as a publisher for observer Service, which tests Async Routing, which is Use Route Builder.

@@ -1,0 +1,1 @@
+SerializationFactory acts as a publisher for observer Configuration, which adds Configuration parameter of conf, String parameter of serializationName, which gets Class<T> parameter of c Serializer, which gets Class<T> parameter of c Deserializer, which gets Class<T> parameter of c Serialization.

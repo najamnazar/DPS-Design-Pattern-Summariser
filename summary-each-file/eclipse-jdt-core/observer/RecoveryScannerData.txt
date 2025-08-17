@@ -1,0 +1,1 @@
+RecoveryScannerData acts as an observer for publisher RecoveryScanner, which is inherited by, which removes Unused.

@@ -1,0 +1,1 @@
+MimeMarshaller acts as an observer, which marshals Object parameter of graph, Result parameter of result, @Nullable parameter of MimeContainer.

@@ -1,0 +1,1 @@
+AspectJAroundAdvice acts as an adapter, which adapts to AbstractAspectJAdvice, which adapts to AbstractAspectJAdvice, which adapts to AbstractAspectJAdvice, which adapts to AbstractAspectJAdvice, which adapts to AbstractAspectJAdvice.

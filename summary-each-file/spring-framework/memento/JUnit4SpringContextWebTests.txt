@@ -1,0 +1,3 @@
+JUnit4SpringContextWebTests acts as a caretaker for memento ApplicationContext, which foos, which sets ServletContext parameter of servletContext Servlet Context, which basices Wac Features, which foos Enigma Autowired.
+JUnit4SpringContextWebTests acts as a caretaker for memento A, which foos, which sets ServletContext parameter of servletContext Servlet Context, which basices Wac Features, which foos Enigma Autowired.
+JUnit4SpringContextWebTests acts as a caretaker for memento C, which foos, which sets ServletContext parameter of servletContext Servlet Context, which basices Wac Features, which foos Enigma Autowired.

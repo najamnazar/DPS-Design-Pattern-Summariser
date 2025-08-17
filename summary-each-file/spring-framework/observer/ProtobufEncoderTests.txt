@@ -1,0 +1,1 @@
+ProtobufEncoderTests acts as a publisher for observer Msg, which is inherited by, which cans Encode, which encodes, which encodes Stream, which expects Msg parameter of msg.

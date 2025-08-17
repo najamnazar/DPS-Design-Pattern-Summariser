@@ -1,0 +1,1 @@
+BinaryPredicateSupport acts as a factory for BinaryPredicate, which overrides matchesReturningFailureMessage method of BinaryPredicate, getLeft method of BinaryPredicate, getRight method of BinaryPredicate, getOperator method of BinaryPredicate.

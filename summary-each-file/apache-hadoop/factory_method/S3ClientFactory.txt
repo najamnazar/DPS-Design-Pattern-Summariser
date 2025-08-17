@@ -1,0 +1,1 @@
+S3ClientFactory acts as an abstract product for CSES3AFileSystemOperations, which is inherited by StubS3ClientFactory, MockS3ClientFactory, DefaultS3ClientFactory.

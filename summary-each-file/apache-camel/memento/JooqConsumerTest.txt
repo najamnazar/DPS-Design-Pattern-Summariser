@@ -1,0 +1,1 @@
+JooqConsumerTest acts as a caretaker for memento Context, which tests Consumer Config, which tests Consumer No Delete, which tests Consumer Delete, which creates Route Builder.

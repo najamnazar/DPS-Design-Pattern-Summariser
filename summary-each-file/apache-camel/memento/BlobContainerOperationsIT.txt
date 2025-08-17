@@ -1,0 +1,1 @@
+BlobContainerOperationsIT acts as a caretaker for memento Configuration, which setups, which tests Create And Delete Container, which cleans Up.

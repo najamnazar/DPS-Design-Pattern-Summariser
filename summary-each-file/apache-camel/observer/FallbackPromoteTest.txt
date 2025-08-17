@@ -1,0 +1,2 @@
+FallbackPromoteTest acts as a publisher for observer CamelContext, which is Load Type Converters, which tests Fallback Promote.
+FallbackPromoteTest acts as a publisher for observer Service, which is Load Type Converters, which tests Fallback Promote.

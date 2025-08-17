@@ -1,0 +1,1 @@
+VariableElementImpl acts as a factory for VariableElement, which overrides getConstantValue method of VariableElement, getEnclosingElement method of VariableElement, getSimpleName method of VariableElement.

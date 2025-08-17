@@ -1,0 +1,1 @@
+Person acts as a target for adapter PersonEntity, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person.

@@ -1,0 +1,1 @@
+JmsInOutParallelTest acts as a publisher for observer ArtemisService, which tests In Out Parallel, which gets Component Name, which creates Route Builder.

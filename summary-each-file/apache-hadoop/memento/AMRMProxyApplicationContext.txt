@@ -1,0 +1,1 @@
+AMRMProxyApplicationContext acts as a memento, which is inherited by AMRMProxyApplicationContextImpl, which gets Registry Client, which gets Registry Client, which gets Registry Client, which gets Registry Client, which gets Registry Client, which gets Registry Client, which gets Registry Client, which gets Registry Client.

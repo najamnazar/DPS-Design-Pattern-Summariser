@@ -1,0 +1,1 @@
+ServiceNowProducerSupplier acts as an abstract factory for ServiceNowProducer, which is inherited by.

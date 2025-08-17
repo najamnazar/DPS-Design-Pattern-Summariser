@@ -1,0 +1,1 @@
+DateGranularityEnum acts as an observer for publisher GroupingInfo, which is inherited by, which values, which froms String parameter of value Value.

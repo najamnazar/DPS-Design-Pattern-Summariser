@@ -1,0 +1,1 @@
+RMDelegatedNodeLabelsUpdater acts as an adapter, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

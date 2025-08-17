@@ -1,0 +1,1 @@
+DefaultSslInfo acts as a product for AbstractServerHttpRequest, which overrides getSessionId method of SslInfo, getPeerCertificates method of SslInfo.

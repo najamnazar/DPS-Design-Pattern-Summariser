@@ -1,0 +1,1 @@
+PGPPublicKeyAccessor acts as an observer for publisher PGPKeyAccessDataFormat, which is inherited by DefaultPGPPublicKeyAccessor, which gets Exchange parameter of exchange, List<String> parameter of useridParts Encryption Keys, which gets Exchange parameter of exchange, long parameter of keyId, List<String> parameter of useridParts Public Key.

@@ -1,0 +1,2 @@
+RequestExpectation acts as a product for RequestExpectationManager, which overrides.
+RequestExpectation acts as a product for ResponseActions, which overrides.

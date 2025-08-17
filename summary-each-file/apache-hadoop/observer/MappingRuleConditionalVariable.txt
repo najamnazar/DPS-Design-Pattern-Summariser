@@ -1,0 +1,1 @@
+MappingRuleConditionalVariable acts as an observer for publisher VariableContext, which is inherited by, which evaluates String[] parameter of parts, int parameter of currentIndex In Path.

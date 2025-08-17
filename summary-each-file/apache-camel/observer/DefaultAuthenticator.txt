@@ -1,0 +1,1 @@
+DefaultAuthenticator acts as an observer, which gets Password Authentication.

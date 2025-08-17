@@ -1,0 +1,1 @@
+RouteFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultRouteFactory, which creates CamelContext parameter of camelContext, NamedNode parameter of routeDefinition, String parameter of routeId, String parameter of routeDescription, Endpoint parameter of endpoint, Resource parameter of resource Route.

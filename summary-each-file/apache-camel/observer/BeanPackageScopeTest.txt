@@ -1,0 +1,2 @@
+BeanPackageScopeTest acts as a publisher for observer Service, which tests Package Scope, which creates Route Builder, which does String parameter of body Something, which does String parameter of foo Something Else.
+BeanPackageScopeTest acts as a publisher for observer CamelContext, which tests Package Scope, which creates Route Builder, which does String parameter of body Something, which does String parameter of foo Something Else.

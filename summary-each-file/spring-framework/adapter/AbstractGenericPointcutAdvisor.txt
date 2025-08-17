@@ -1,0 +1,2 @@
+AbstractGenericPointcutAdvisor acts as a target for adapter DefaultPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor.
+AbstractGenericPointcutAdvisor acts as a target for adapter RegexpMethodPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor.

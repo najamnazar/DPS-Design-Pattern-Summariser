@@ -1,0 +1,4 @@
+DestinationCreationStrategy acts as an adaptee for adapter SjmsEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+DestinationCreationStrategy acts as an adaptee for adapter QueueProducerQoSTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+DestinationCreationStrategy acts as an adaptee for adapter Jms2TestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+DestinationCreationStrategy acts as an adaptee for adapter JmsTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

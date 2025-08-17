@@ -1,0 +1,1 @@
+BlockPlacementPolicyAlwaysSatisfied acts as a caretaker for memento BlockPlacementStatus, which is Placement Policy Satisfied, which gets Error Description, which gets Additional Replicas Required, which verifies DatanodeInfo[] parameter of locs, int parameter of numberOfReplicas Block Placement.

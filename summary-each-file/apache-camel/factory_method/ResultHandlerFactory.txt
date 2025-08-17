@@ -1,0 +1,2 @@
+ResultHandlerFactory acts as a factory for StreamResultHandlerFactory, which overrides.
+ResultHandlerFactory acts as an abstract product for XsltBuilder, which is inherited by StreamResultHandlerFactory, StringResultHandlerFactory, DomResultHandlerFactory, FileResultHandlerFactory, JsonFileResultHandlerFactory, JsonStringResultHandlerFactory, JsonStreamResultHandlerFactory.

@@ -1,0 +1,3 @@
+DefaultDevConsoleResolver acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultDevConsoleResolver acts as a product for ExtendedCamelContext, which overrides resolveDevConsole method of DevConsoleResolver, lookupDevConsole method of DevConsoleResolver.
+DefaultDevConsoleResolver acts as a factory for DevConsoleResolver, which overrides resolveDevConsole method of DevConsoleResolver, lookupDevConsole method of DevConsoleResolver.

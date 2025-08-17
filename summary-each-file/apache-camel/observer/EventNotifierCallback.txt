@@ -1,0 +1,1 @@
+EventNotifierCallback acts as an observer, which does boolean parameter of doneSync.

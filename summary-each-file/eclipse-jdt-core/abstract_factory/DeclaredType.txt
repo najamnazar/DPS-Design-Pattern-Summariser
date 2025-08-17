@@ -1,0 +1,3 @@
+DeclaredType acts as an abstract product for DeclaredType, which is inherited by ClassType, InterfaceType, TypeDeclarationImpl, ErrorType, DeclaredTypeImpl.
+DeclaredType acts as an abstract factory for TypeDeclaration, DeclaredType, which is inherited by TypeDeclarationImpl, ErrorType, DeclaredTypeImpl.
+DeclaredType acts as an abstract product for DeclaredType, which is inherited by ClassType, ClassType, InterfaceType, InterfaceType, TypeDeclarationImpl, TypeDeclarationImpl, ErrorType, ErrorType, DeclaredTypeImpl, DeclaredTypeImpl.

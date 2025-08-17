@@ -1,0 +1,1 @@
+WebSocketHandlerDecoratorFactory acts as an observer for publisher WebSocketTransportRegistration, which is inherited by MessageBrokerBeanDefinitionParserTests, which decorates WebSocketHandler parameter of handler.

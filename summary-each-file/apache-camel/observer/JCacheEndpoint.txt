@@ -1,0 +1,5 @@
+JCacheEndpoint acts as a publisher for observer Exchange, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.
+JCacheEndpoint acts as a publisher for observer ExceptionHandler, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.
+JCacheEndpoint acts as a publisher for observer ExchangePattern, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.
+JCacheEndpoint acts as a publisher for observer Component, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.
+JCacheEndpoint acts as a publisher for observer CamelContext, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Manager.

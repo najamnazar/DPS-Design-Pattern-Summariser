@@ -1,0 +1,1 @@
+EclipseCompiler acts as a factory for JavaCompiler, which overrides getStandardFileManager method of JavaCompiler, getTask method of JavaCompiler.

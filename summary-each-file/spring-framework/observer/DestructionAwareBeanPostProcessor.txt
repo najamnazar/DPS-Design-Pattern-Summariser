@@ -1,0 +1,1 @@
+DestructionAwareBeanPostProcessor acts as an observer, which posts Object parameter of bean, String parameter of beanName Process Before Destruction, which requires Object parameter of bean Destruction.

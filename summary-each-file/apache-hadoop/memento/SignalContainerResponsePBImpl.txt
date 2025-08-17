@@ -1,0 +1,2 @@
+SignalContainerResponsePBImpl acts as a memento, which gets Proto.
+SignalContainerResponsePBImpl acts as a caretaker for memento SignalContainerResponse, which gets Proto.

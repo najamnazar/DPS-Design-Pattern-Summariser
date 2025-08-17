@@ -1,0 +1,1 @@
+Producer acts as a memento, which is inherited by DefaultProducer, DeferProducer, SynchronousDelegateProducer, AsyncProducer, ServiceNowProducer.

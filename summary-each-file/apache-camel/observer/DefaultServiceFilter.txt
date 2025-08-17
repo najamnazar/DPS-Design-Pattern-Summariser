@@ -1,0 +1,1 @@
+DefaultServiceFilter acts as an observer, which applies Exchange parameter of exchange, List<ServiceDefinition> parameter of services.

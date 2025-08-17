@@ -1,0 +1,2 @@
+ResponseActions acts as an abstract product for ResponseActions, which is inherited by RequestExpectation.
+ResponseActions acts as an abstract factory for ResponseActions, which is inherited by.

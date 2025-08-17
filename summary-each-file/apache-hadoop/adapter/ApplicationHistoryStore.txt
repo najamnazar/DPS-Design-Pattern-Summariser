@@ -1,0 +1,1 @@
+ApplicationHistoryStore acts as an adaptee for adapter ApplicationHistoryManagerImpl.

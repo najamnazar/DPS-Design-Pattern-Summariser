@@ -1,0 +1,3 @@
+CompletionOnModuleDeclaration acts as a caretaker for memento List.
+CompletionOnModuleDeclaration acts as a caretaker for memento C.
+CompletionOnModuleDeclaration acts as a caretaker for memento S.

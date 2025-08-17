@@ -1,0 +1,1 @@
+InfinispanEmbeddedQueryConsumerTest acts as a publisher for observer User, which continuouses Query, which befores Each, which creates Route Builder.

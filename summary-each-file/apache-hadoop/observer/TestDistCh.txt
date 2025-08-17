@@ -1,0 +1,1 @@
+TestDistCh acts as a publisher for observer Path, which is inherited by, which creates Path parameter of dir Small File, which mkdirs Path parameter of dir, which tests Dist Ch, which checks ChPermissionStatus parameter of expected, FileStatus parameter of actual File Status, which runs final parameter of FsShell, String parameter of root, int parameter of returnvalue Lsr.

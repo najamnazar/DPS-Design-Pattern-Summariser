@@ -1,0 +1,3 @@
+FactoryPathPreferencePage acts as a caretaker for memento String, which creates Composite parameter of parent Control, which gets Preference Page ID, which gets Property Page ID, which gets Context Help Id.
+FactoryPathPreferencePage acts as a caretaker for memento C, which creates Composite parameter of parent Control, which gets Preference Page ID, which gets Property Page ID, which gets Context Help Id.
+FactoryPathPreferencePage acts as a caretaker for memento S, which creates Composite parameter of parent Control, which gets Preference Page ID, which gets Property Page ID, which gets Context Help Id.

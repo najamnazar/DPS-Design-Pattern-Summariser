@@ -1,0 +1,6 @@
+RootWacEarTests acts as a caretaker for memento C, which is inherited by, which roots, which verifies Ear Config, which verifies Root Wac Config.
+RootWacEarTests acts as a caretaker for memento C, which roots, which verifies Ear Config, which verifies Root Wac Config.
+RootWacEarTests acts as a caretaker for memento A, which roots, which verifies Ear Config, which verifies Root Wac Config.
+RootWacEarTests acts as a caretaker for memento ApplicationContext, which roots, which verifies Ear Config, which verifies Root Wac Config.
+RootWacEarTests acts as a caretaker for memento A, which is inherited by, which roots, which verifies Ear Config, which verifies Root Wac Config.
+RootWacEarTests acts as a caretaker for memento ApplicationContext, which is inherited by, which roots, which verifies Ear Config, which verifies Root Wac Config.

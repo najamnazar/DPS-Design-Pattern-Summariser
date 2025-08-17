@@ -1,0 +1,1 @@
+PredicateValidationException acts as a publisher for observer Predicate, which is inherited by, which builds Predicate parameter of predicate, Exchange parameter of exchange Message, which gets Predicate.

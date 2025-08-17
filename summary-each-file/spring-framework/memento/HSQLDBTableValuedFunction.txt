@@ -1,0 +1,4 @@
+HSQLDBTableValuedFunction acts as a caretaker for memento SQL, which gets Elements0, which gets Parameters0.
+HSQLDBTableValuedFunction acts as a caretaker for memento Parameter, which gets Elements0, which gets Parameters0.
+HSQLDBTableValuedFunction acts as a caretaker for memento ParameterDefinition, which gets Elements0, which gets Parameters0.
+HSQLDBTableValuedFunction acts as a caretaker for memento B, which gets Elements0, which gets Parameters0.

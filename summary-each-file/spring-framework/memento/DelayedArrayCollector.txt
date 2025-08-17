@@ -1,0 +1,1 @@
+DelayedArrayCollector acts as a caretaker for memento C, which patches Collector<?, parameter of ?, F parameter of fields, which suppliers, which accumulators, which combiners, which finishers, which characteristicses.

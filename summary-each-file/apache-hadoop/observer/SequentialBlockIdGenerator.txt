@@ -1,0 +1,1 @@
+SequentialBlockIdGenerator acts as a publisher for observer Block, which is inherited by, which nexts Value, which is Block parameter of b Valid Block.

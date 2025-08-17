@@ -1,0 +1,1 @@
+ViewResolver acts as an abstract factory for View, which is inherited by BeanNameViewResolver, ContentNegotiatingViewResolver, ViewResolverComposite, AbstractCachingViewResolver.

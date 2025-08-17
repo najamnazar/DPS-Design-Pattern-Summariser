@@ -1,0 +1,1 @@
+StaticApplicationContextMulticasterTests acts as a publisher for observer TestApplicationListener, which creates Context, which counts, which eventses, which multicasts ApplicationEvent parameter of event, @Nullable parameter of ResolvableType Event.

@@ -1,0 +1,2 @@
+MQ2ClientStandardImpl acts as a memento, which gets Mq Client.
+MQ2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Mq Client.

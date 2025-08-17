@@ -1,0 +1,1 @@
+IDOMMember acts as a publisher for observer String, which is inherited by DOMMember, which gets Comment, which gets Flags, which sets String parameter of comment Comment, which sets int parameter of flags Flags.

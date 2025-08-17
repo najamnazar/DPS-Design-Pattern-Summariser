@@ -1,0 +1,1 @@
+PersistenceAnnotationBeanPostProcessor acts as a factory for InstantiationAwareBeanPostProcessor, which overrides postProcessProperties method of InstantiationAwareBeanPostProcessor, postProcessPropertyValues method of InstantiationAwareBeanPostProcessor.

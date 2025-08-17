@@ -1,0 +1,1 @@
+UserNamePermission acts as a publisher for observer Text, which is inherited by, which maps LongWritable parameter of key, Text parameter of value, Context parameter of context, which reduces Text parameter of key, Iterator<Text> parameter of values, Context parameter of context, which mains String[] parameter of args.

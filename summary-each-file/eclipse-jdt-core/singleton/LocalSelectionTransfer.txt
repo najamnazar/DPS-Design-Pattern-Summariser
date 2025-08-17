@@ -1,0 +1,1 @@
+LocalSelectionTransfer acts as a singleton, which gets a LocalSelectionTransfer Instance to.

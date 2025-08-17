@@ -1,0 +1,1 @@
+ClassNameBeanWiringInfoResolver acts as a factory for BeanWiringInfoResolver, which overrides resolveWiringInfo method of BeanWiringInfoResolver.

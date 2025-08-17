@@ -1,0 +1,1 @@
+ExecuteContext acts as an abstract product for AbstractExecuteScope, which is inherited by SimpleExecuteContext, DefaultExecuteContext.

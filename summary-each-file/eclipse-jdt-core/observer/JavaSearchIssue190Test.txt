@@ -1,0 +1,4 @@
+JavaSearchIssue190Test acts as a publisher for observer IJavaProject, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a publisher for observer String, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a publisher for observer SearchMatch, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a publisher for observer StringBuilder, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.

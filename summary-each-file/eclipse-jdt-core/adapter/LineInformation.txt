@@ -1,0 +1,1 @@
+LineInformation acts as an adaptee for adapter ASTRewriteAnalyzer, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor.

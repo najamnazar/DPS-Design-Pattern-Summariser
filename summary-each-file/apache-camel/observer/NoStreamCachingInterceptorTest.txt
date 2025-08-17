@@ -1,0 +1,2 @@
+NoStreamCachingInterceptorTest acts as a publisher for observer Service, which tests No Stream Caching Interceptor Enabled, which creates Camel Context.
+NoStreamCachingInterceptorTest acts as a publisher for observer CamelContext, which tests No Stream Caching Interceptor Enabled, which creates Camel Context.

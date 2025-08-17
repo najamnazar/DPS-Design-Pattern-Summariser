@@ -1,0 +1,5 @@
+SWebHdfsFileSystem acts as a publisher for observer URL, which gets Scheme, which gets Transport Scheme, which gets Token Kind, which gets Default Port.
+SWebHdfsFileSystem acts as a publisher for observer KeyProvider, which gets Scheme, which gets Transport Scheme, which gets Token Kind, which gets Default Port.
+SWebHdfsFileSystem acts as a publisher for observer Path, which gets Scheme, which gets Transport Scheme, which gets Token Kind, which gets Default Port.
+SWebHdfsFileSystem acts as a publisher for observer RetryPolicy, which gets Scheme, which gets Transport Scheme, which gets Token Kind, which gets Default Port.
+SWebHdfsFileSystem acts as an observer, which gets Scheme, which gets Transport Scheme, which gets Token Kind, which gets Default Port.

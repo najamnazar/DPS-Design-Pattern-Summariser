@@ -1,0 +1,1 @@
+DeprecatedBeanWarnerTests acts as a caretaker for memento B, which posts Process, which logs String parameter of beanName, Class<?> parameter of beanType, BeanDefinition parameter of beanDefinition Deprecated Bean.

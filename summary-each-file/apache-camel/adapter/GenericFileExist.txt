@@ -1,0 +1,1 @@
+GenericFileExist acts as an adaptee for adapter GenericFileEndpoint.

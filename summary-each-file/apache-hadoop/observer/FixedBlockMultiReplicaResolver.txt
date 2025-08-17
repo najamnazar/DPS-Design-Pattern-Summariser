@@ -1,0 +1,1 @@
+FixedBlockMultiReplicaResolver acts as a publisher for observer Configuration, which sets Configuration parameter of conf Conf, which gets FileStatus parameter of s Replication.

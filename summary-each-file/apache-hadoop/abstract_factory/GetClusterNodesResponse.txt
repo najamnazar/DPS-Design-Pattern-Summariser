@@ -1,0 +1,1 @@
+GetClusterNodesResponse acts as an abstract product for GetClusterNodesResponse, which is inherited by GetClusterNodesResponsePBImpl.

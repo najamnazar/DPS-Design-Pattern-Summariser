@@ -1,0 +1,6 @@
+ISourceModule acts as a product for IModule, which overrides.
+ISourceModule acts as an abstract factory for ICompilationUnit, which is inherited by ModuleDescriptionInfo, BasicModule.
+ISourceModule acts as a product for IMultiModuleEntry, which overrides.
+ISourceModule acts as a product for IModulePathEntry, which overrides.
+ISourceModule acts as a product for AbstractModule, which overrides.
+ISourceModule acts as a product for IModuleAwareNameEnvironment, which overrides.

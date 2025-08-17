@@ -1,0 +1,1 @@
+ParamFilter acts as an observer, which inits FilterConfig parameter of filterConfig, which does ServletRequest parameter of request, ServletResponse parameter of response, FilterChain parameter of chain Filter, which destroys, which gets String parameter of name Parameter, which gets Parameter Map, which gets Parameter Names, which gets String parameter of name Parameter Values.

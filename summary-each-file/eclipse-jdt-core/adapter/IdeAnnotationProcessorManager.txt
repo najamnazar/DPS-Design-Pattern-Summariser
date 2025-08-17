@@ -1,0 +1,2 @@
+IdeAnnotationProcessorManager acts as an adapter, which adapts to BaseAnnotationProcessorManager, which adapts to BaseAnnotationProcessorManager, which adapts to BaseAnnotationProcessorManager, which adapts to BaseAnnotationProcessorManager, which adapts to BaseAnnotationProcessorManager.
+IdeAnnotationProcessorManager acts as an adaptee for adapter IdeProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl.

@@ -1,0 +1,1 @@
+DefaultMailUidGenerator acts as an observer, which generates MailEndpoint parameter of mailEndpoint, Message parameter of message Uuid, which generates Message parameter of message Message Id Header, which generates Message parameter of message Message Hash.

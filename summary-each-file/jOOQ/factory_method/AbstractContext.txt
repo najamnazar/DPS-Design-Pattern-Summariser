@@ -1,0 +1,1 @@
+AbstractContext acts as a factory method for BindContext, which is inherited by DSLContext, AbstractBindContext, DefaultDSLContext, AbstractBindContext, DSLContext.

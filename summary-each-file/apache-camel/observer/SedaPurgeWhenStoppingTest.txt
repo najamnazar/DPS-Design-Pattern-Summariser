@@ -1,0 +1,2 @@
+SedaPurgeWhenStoppingTest acts as a publisher for observer Service, which tests Purge When Stopping, which creates Route Builder.
+SedaPurgeWhenStoppingTest acts as a publisher for observer CamelContext, which tests Purge When Stopping, which creates Route Builder.

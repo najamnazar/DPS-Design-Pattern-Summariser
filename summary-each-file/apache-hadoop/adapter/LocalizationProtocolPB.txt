@@ -1,0 +1,1 @@
+LocalizationProtocolPB acts as an adaptee for adapter LocalizationProtocolPBClientImpl.

@@ -1,0 +1,1 @@
+ServiceLoadBalancer acts as an adaptee for adapter DefaultServiceCallProcessor, which adapts to AsyncProcessorSupport.

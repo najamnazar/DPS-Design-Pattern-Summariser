@@ -1,0 +1,1 @@
+Subclass1AppCtxRuleTests acts as a caretaker for memento C, which bars, which bars.

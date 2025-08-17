@@ -1,0 +1,1 @@
+StopWatch acts as an observer, which is Running, which starts, which stops, which resets, which nows TimeUnit parameter of timeUnit, which nows, which tos String, which closes.

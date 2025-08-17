@@ -1,0 +1,1 @@
+MessageCreator acts as an observer for publisher JmsMessagingTemplateTests, which is inherited by, which creates Session parameter of session Message.

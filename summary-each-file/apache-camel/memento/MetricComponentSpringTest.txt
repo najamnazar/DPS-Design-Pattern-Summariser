@@ -1,0 +1,2 @@
+MetricComponentSpringTest acts as a caretaker for memento Producer, which creates Application Context, which creates Camel Context, which creates Route Builder, which tests Metrics Registry From Camel Registry.
+MetricComponentSpringTest acts as a caretaker for memento Context, which creates Application Context, which creates Camel Context, which creates Route Builder, which tests Metrics Registry From Camel Registry.

@@ -1,0 +1,2 @@
+SpringContextScopeOnExceptionTest acts as a publisher for observer CamelContext, which tests Order Ok, which tests Order Error, which creates Camel Context.
+SpringContextScopeOnExceptionTest acts as a publisher for observer Service, which tests Order Ok, which tests Order Error, which creates Camel Context.

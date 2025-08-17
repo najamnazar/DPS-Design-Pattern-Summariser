@@ -1,0 +1,1 @@
+LuceneIndexProducer acts as a caretaker for memento Configuration, which does Stop, which processes Exchange parameter of exchange, which gets Config, which sets LuceneConfiguration parameter of config Config, which gets Indexer, which sets LuceneIndexer parameter of indexer Indexer.

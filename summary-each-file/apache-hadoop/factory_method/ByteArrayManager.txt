@@ -1,0 +1,1 @@
+ByteArrayManager acts as a factory method for Counter, which is inherited by CounterGroup, Counters, TaskAttemptContextImpl.

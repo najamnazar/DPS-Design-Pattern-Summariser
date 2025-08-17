@@ -1,0 +1,1 @@
+MapTaskStatus acts as a product for ShuffleConsumerPlugin, which overrides.

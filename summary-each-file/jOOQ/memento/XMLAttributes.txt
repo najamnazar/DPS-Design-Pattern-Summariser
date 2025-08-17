@@ -1,0 +1,1 @@
+XMLAttributes acts as a memento, which is inherited by XMLAttributesImpl, which $attributeses.

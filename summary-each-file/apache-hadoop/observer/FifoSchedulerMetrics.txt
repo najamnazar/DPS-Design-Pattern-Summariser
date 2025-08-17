@@ -1,0 +1,4 @@
+FifoSchedulerMetrics acts as a publisher for observer Resource, which registers String parameter of queueName Queue Metrics.
+FifoSchedulerMetrics acts as a publisher for observer SchedulerEventType, which registers String parameter of queueName Queue Metrics.
+FifoSchedulerMetrics acts as a publisher for observer Configuration, which registers String parameter of queueName Queue Metrics.
+FifoSchedulerMetrics acts as a publisher for observer ResourceScheduler, which registers String parameter of queueName Queue Metrics.

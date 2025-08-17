@@ -1,0 +1,2 @@
+RecipientListInvalidEndpointIgnoreInvalidEndpointsTest acts as a caretaker for memento Context, which tests Recipient List Invalid Endpoint Ignore Invalid Endpoints, which creates Route Builder.
+RecipientListInvalidEndpointIgnoreInvalidEndpointsTest acts as a caretaker for memento Producer, which tests Recipient List Invalid Endpoint Ignore Invalid Endpoints, which creates Route Builder.

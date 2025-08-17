@@ -1,0 +1,1 @@
+FacebookConstants acts as an adaptee for adapter FacebookEndpoint.

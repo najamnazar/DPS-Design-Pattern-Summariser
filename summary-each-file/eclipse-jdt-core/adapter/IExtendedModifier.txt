@@ -1,0 +1,2 @@
+IExtendedModifier acts as a target for adapter Modifier, which adapts to IExtendedModifier, which adapts to IExtendedModifier.
+IExtendedModifier acts as an adaptee for adapter Modifier, which adapts to ASTNode, IExtendedModifier, which adapts to ASTNode, IExtendedModifier.

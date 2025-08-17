@@ -1,0 +1,1 @@
+EndpointStrategy acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by InterceptSendToEndpointCallback, InterceptSendToMockEndpointStrategy, which registers String parameter of uri, Endpoint parameter of endpoint Endpoint.

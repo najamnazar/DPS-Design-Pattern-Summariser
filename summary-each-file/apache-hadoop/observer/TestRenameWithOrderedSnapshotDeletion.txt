@@ -1,0 +1,1 @@
+TestRenameWithOrderedSnapshotDeletion acts as a publisher for observer Path, which is inherited by, which sets Up, which tears Down, which tests Rename, which validates Path parameter of src, Path parameter of dest Rename.

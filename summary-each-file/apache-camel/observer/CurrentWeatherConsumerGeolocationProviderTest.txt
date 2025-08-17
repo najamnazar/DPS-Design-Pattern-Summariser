@@ -1,0 +1,5 @@
+CurrentWeatherConsumerGeolocationProviderTest acts as a publisher for observer FluentProducerTemplate, which checks Geolocation Provider Config.
+CurrentWeatherConsumerGeolocationProviderTest acts as a publisher for observer Service, which checks Geolocation Provider Config.
+CurrentWeatherConsumerGeolocationProviderTest acts as a publisher for observer ConsumerTemplate, which checks Geolocation Provider Config.
+CurrentWeatherConsumerGeolocationProviderTest acts as a publisher for observer ProducerTemplate, which checks Geolocation Provider Config.
+CurrentWeatherConsumerGeolocationProviderTest acts as a publisher for observer CamelContext, which checks Geolocation Provider Config.

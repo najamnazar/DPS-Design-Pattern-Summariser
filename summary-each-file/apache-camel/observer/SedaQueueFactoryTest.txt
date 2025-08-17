@@ -1,0 +1,2 @@
+SedaQueueFactoryTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Array Blocking Queue Factory, which tests Array Blocking Queue Factory And Size, which tests Default Blocking Queue Factory.
+SedaQueueFactoryTest acts as a publisher for observer Service, which creates Camel Context, which tests Array Blocking Queue Factory, which tests Array Blocking Queue Factory And Size, which tests Default Blocking Queue Factory.

@@ -1,0 +1,1 @@
+Scheduler acts as an adaptee for adapter SchedulerService, which adapts to BaseService, which adapts to BaseService.

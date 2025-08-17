@@ -1,0 +1,3 @@
+RouterWebApp acts as an observer, which setups, which resources Config, which configures, which gets Web App Filter Class.
+RouterWebApp acts as a publisher for observer HttpServer2, which setups, which resources Config, which configures, which gets Web App Filter Class.
+RouterWebApp acts as a publisher for observer Configuration, which setups, which resources Config, which configures, which gets Web App Filter Class.

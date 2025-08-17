@@ -1,0 +1,1 @@
+IRecordAttribute acts as an abstract product for IRecordAttribute, which is inherited by RecordAttribute.

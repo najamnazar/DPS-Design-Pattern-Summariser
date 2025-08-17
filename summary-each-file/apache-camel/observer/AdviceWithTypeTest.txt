@@ -1,0 +1,2 @@
+AdviceWithTypeTest acts as a publisher for observer CamelContext, which tests Unknown Type, which tests Replace, which tests Remove, which tests Before, which tests After, which creates Route Builder.
+AdviceWithTypeTest acts as a publisher for observer Service, which tests Unknown Type, which tests Replace, which tests Remove, which tests Before, which tests After, which creates Route Builder.

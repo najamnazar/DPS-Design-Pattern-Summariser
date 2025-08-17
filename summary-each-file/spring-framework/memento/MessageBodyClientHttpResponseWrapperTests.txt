@@ -1,0 +1,4 @@
+MessageBodyClientHttpResponseWrapperTests acts as a caretaker for memento B, which messages Body Does Not Exist, which messages Body Exists.
+MessageBodyClientHttpResponseWrapperTests acts as a caretaker for memento C, which messages Body Does Not Exist, which messages Body Exists.
+MessageBodyClientHttpResponseWrapperTests acts as a caretaker for memento ClientHttpResponse, which messages Body Does Not Exist, which messages Body Exists.
+MessageBodyClientHttpResponseWrapperTests acts as a caretaker for memento Message, which messages Body Does Not Exist, which messages Body Exists.

@@ -1,0 +1,2 @@
+RoutingSlipThrowExceptionFromExpressionTest acts as a publisher for observer Service, which tests Routing Slip And Verify Exception, which creates Route Builder, which slips Exchange parameter of exchange To.
+RoutingSlipThrowExceptionFromExpressionTest acts as a publisher for observer CamelContext, which tests Routing Slip And Verify Exception, which creates Route Builder, which slips Exchange parameter of exchange To.

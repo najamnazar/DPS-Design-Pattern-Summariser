@@ -1,0 +1,2 @@
+Name acts as an adapter, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression.
+Name acts as an adaptee for adapter RegistryDNS, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

@@ -1,0 +1,1 @@
+EhcacheManager acts as an observer, which starts, which stops, which gets String parameter of name, Class<K> parameter of keyType, Class<V> parameter of valueType Cache, which gets Cache Manager, which gets Reference Count.

@@ -1,0 +1,5 @@
+DisruptorWaitForTaskCompleteOnCompletionTest acts as a publisher for observer ConsumerTemplate, which tests Always, which creates Route Builder.
+DisruptorWaitForTaskCompleteOnCompletionTest acts as a publisher for observer FluentProducerTemplate, which tests Always, which creates Route Builder.
+DisruptorWaitForTaskCompleteOnCompletionTest acts as a publisher for observer ProducerTemplate, which tests Always, which creates Route Builder.
+DisruptorWaitForTaskCompleteOnCompletionTest acts as a publisher for observer Service, which tests Always, which creates Route Builder.
+DisruptorWaitForTaskCompleteOnCompletionTest acts as a publisher for observer CamelContext, which tests Always, which creates Route Builder.

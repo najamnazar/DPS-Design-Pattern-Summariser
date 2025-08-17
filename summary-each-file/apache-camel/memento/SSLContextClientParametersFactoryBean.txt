@@ -1,0 +1,1 @@
+SSLContextClientParametersFactoryBean acts as a caretaker for memento Context, which gets String parameter of camelContextId Camel Context With Id, which sets ApplicationContext parameter of applicationContext Application Context.

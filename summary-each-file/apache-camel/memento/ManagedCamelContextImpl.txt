@@ -1,0 +1,3 @@
+ManagedCamelContextImpl acts as an originator for memento ManagedProcessorMBean.
+ManagedCamelContextImpl acts as a caretaker for memento Context, which gets Management Strategy, which gets String parameter of id, Class<T> parameter of type Managed Processor, which gets String parameter of id Managed Step, which gets String parameter of routeId, Class<T> parameter of type Managed Route, which gets Managed Camel Context.
+ManagedCamelContextImpl acts as an originator for memento ManagedStepMBean, which gets a ManagedStepMBean Managed Step to.

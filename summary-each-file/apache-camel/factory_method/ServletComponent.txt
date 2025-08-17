@@ -1,0 +1,2 @@
+ServletComponent acts as a factory for ServletComponent, which overrides.
+ServletComponent acts as a factory method for HttpRegistry, which is inherited by ServletComponent.

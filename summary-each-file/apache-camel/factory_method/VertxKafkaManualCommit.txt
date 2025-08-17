@@ -1,0 +1,1 @@
+VertxKafkaManualCommit acts as an abstract product for VertxKafkaConsumer, which is inherited by DefaultVertxKafkaManualCommit.

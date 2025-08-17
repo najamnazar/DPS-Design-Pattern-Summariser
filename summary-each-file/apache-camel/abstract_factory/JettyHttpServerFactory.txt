@@ -1,0 +1,1 @@
+JettyHttpServerFactory acts as a factory for AvroRpcHttpServerFactory, which overrides create method of AvroRpcHttpServerFactory.

@@ -1,0 +1,1 @@
+AbfsManifestStoreOperations acts as a publisher for observer FileSystem, which gets File System, which binds FileSystem parameter of filesystem, Path parameter of path To File System, which stores final parameter of Path Preserves Etags Through Renames, which stores Supports Resilient Commit, which commits final parameter of FileEntry File.

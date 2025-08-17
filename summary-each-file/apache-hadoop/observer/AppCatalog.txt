@@ -1,0 +1,6 @@
+AppCatalog acts as a publisher for observer ResourceRequest, which gets Classes, which adds final parameter of Set<Class<?>> Rest Resource Classes.
+AppCatalog acts as a publisher for observer Resource, which gets Classes, which adds final parameter of Set<Class<?>> Rest Resource Classes.
+AppCatalog acts as a publisher for observer Task, which gets Classes, which adds final parameter of Set<Class<?>> Rest Resource Classes.
+AppCatalog acts as an observer, which gets Classes, which adds final parameter of Set<Class<?>> Rest Resource Classes.
+AppCatalog acts as a publisher for observer SchedulerRequestKey, which gets Classes, which adds final parameter of Set<Class<?>> Rest Resource Classes.
+AppCatalog acts as a publisher for observer NodeManager, which gets Classes, which adds final parameter of Set<Class<?>> Rest Resource Classes.

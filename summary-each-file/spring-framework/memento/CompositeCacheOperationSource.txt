@@ -1,0 +1,1 @@
+CompositeCacheOperationSource acts as a caretaker for memento C, which gets Cache Operation Sources, which is Class<?> parameter of targetClass Candidate Class, which gets Method parameter of method, @Nullable parameter of Class<?> Cache Operations.

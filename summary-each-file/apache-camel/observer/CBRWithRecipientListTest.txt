@@ -1,0 +1,2 @@
+CBRWithRecipientListTest acts as a publisher for observer CamelContext, which tests CBRWith Recipient List Foo, which tests CBRWith Recipient List Bar, which tests CBRWith Recipient List Result, which creates Route Builder.
+CBRWithRecipientListTest acts as a publisher for observer Service, which tests CBRWith Recipient List Foo, which tests CBRWith Recipient List Bar, which tests CBRWith Recipient List Result, which creates Route Builder.

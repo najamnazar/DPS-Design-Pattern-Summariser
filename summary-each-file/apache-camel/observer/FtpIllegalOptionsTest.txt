@@ -1,0 +1,5 @@
+FtpIllegalOptionsTest acts as a publisher for observer ProducerTemplate, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.
+FtpIllegalOptionsTest acts as a publisher for observer ConsumerTemplate, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.
+FtpIllegalOptionsTest acts as a publisher for observer Service, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.
+FtpIllegalOptionsTest acts as a publisher for observer CamelContext, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.
+FtpIllegalOptionsTest acts as a publisher for observer FluentProducerTemplate, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.

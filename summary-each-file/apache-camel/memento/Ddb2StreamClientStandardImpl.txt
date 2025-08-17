@@ -1,0 +1,2 @@
+Ddb2StreamClientStandardImpl acts as a caretaker for memento Configuration, which gets Dynamo DBStream Client.
+Ddb2StreamClientStandardImpl acts as a memento, which gets Dynamo DBStream Client.

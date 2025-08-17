@@ -1,0 +1,1 @@
+KillJobResponse acts as an abstract product for KillJobResponse, which is inherited by KillJobResponsePBImpl.

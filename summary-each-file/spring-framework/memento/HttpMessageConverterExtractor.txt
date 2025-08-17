@@ -1,0 +1,2 @@
+HttpMessageConverterExtractor acts as a caretaker for memento C, which extracts ClientHttpResponse parameter of response Data, which gets ClientHttpResponse parameter of response Content Type, which gets ClientHttpResponse parameter of response Response Body.
+HttpMessageConverterExtractor acts as a caretaker for memento Message, which extracts ClientHttpResponse parameter of response Data, which gets ClientHttpResponse parameter of response Content Type, which gets ClientHttpResponse parameter of response Response Body.

@@ -1,0 +1,3 @@
+HdfsCompatStoragePolicy acts as an observer, which sets Up, which prepares, which cleanups, which sets Storage Policy, which unsets Storage Policy, which satisfies Storage Policy, which gets Storage Policy.
+HdfsCompatStoragePolicy acts as a publisher for observer Path, which sets Up, which prepares, which cleanups, which sets Storage Policy, which unsets Storage Policy, which satisfies Storage Policy, which gets Storage Policy.
+HdfsCompatStoragePolicy acts as a publisher for observer HdfsCompatEnvironment, which sets Up, which prepares, which cleanups, which sets Storage Policy, which unsets Storage Policy, which satisfies Storage Policy, which gets Storage Policy.

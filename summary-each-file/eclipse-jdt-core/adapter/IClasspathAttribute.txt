@@ -1,0 +1,3 @@
+IClasspathAttribute acts as an adaptee for adapter JarPackageFragmentRoot, which adapts to PackageFragmentRoot, which adapts to PackageFragmentRoot.
+IClasspathAttribute acts as an adaptee for adapter ErrorsTests, which adapts to BuilderTests, which adapts to BuilderTests.
+IClasspathAttribute acts as an adaptee for adapter ClasspathTests, which adapts to ModifyingResourceTests, which adapts to ModifyingResourceTests.

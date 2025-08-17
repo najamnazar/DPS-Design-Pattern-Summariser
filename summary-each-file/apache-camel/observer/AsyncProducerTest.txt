@@ -1,0 +1,2 @@
+AsyncProducerTest acts as a publisher for observer CamelContext, which tests Async Producer, which creates Route Builder.
+AsyncProducerTest acts as a publisher for observer Service, which tests Async Producer, which creates Route Builder.

@@ -1,0 +1,1 @@
+ArrayType acts as an abstract product for ArrayType, which is inherited by ArrayTypeImpl.

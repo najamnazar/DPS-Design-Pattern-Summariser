@@ -1,0 +1,1 @@
+PooledTaskFactory acts as a factory for PooledExchangeTaskFactory, which overrides release method of PooledExchangeTaskFactory.

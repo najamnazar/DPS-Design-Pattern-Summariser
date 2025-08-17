@@ -1,0 +1,2 @@
+CachingBlockManager acts as a factory for CachingBlockManager, which overrides.
+CachingBlockManager acts as a factory method for BlockCache, which is inherited by CachingBlockManager.

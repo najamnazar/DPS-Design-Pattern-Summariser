@@ -1,0 +1,2 @@
+Condition acts as an abstract product for ConstraintImpl, which is inherited by AbstractCondition, ConditionProviderImpl.
+Condition acts as a factory for ConstraintImpl, which overrides.

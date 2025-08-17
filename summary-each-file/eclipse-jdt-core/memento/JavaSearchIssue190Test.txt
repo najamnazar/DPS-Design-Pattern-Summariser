@@ -1,0 +1,5 @@
+JavaSearchIssue190Test acts as a caretaker for memento R, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a caretaker for memento String, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a caretaker for memento C, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a caretaker for memento S, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.
+JavaSearchIssue190Test acts as a caretaker for memento List, which gets Project Name, which suites, which sets Up Suite, which gets Java Search Scope, which tests Issue190, which tears Down Suite.

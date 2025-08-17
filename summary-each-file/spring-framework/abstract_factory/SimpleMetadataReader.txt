@@ -1,0 +1,2 @@
+SimpleMetadataReader acts as a product for MetadataReaderFactory, which overrides getResource method of MetadataReader, getClassMetadata method of MetadataReader, getAnnotationMetadata method of MetadataReader.
+SimpleMetadataReader acts as a factory for MetadataReader, which overrides getResource method of MetadataReader, getClassMetadata method of MetadataReader, getAnnotationMetadata method of MetadataReader.

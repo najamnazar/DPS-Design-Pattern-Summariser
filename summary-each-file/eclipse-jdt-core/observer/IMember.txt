@@ -1,0 +1,1 @@
+IMember acts as an observer, which gets Categories, which gets Class File, which gets Compilation Unit, which gets Declaring Type, which gets Flags, which gets Javadoc Range, which gets Occurrence Count, which gets Type Root, which gets String parameter of name, int parameter of occurrenceCount Type, which is Binary.

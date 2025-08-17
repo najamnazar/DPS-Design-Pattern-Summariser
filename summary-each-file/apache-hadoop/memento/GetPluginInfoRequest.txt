@@ -1,0 +1,2 @@
+GetPluginInfoRequest acts as an originator for memento GetPluginInfoRequest, which is inherited by, which news a GetPluginInfoRequest Instance to.
+GetPluginInfoRequest acts as a memento, which is inherited by GetPluginInfoRequestPBImpl, which news Instance.

@@ -1,0 +1,2 @@
+DynamicMethodMatcherPointcut acts as a caretaker for memento Pointcut, which gets Class Filter, which gets Method Matcher.
+DynamicMethodMatcherPointcut acts as a memento, which gets Method Matcher, which gets Method Matcher.

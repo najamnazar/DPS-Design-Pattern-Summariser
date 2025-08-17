@@ -1,0 +1,1 @@
+MetadataNamingStrategy acts as a caretaker for memento A, which sets JmxAttributeSource parameter of attributeSource Attribute Source, which sets String parameter of defaultDomain Default Domain, which afters Properties Set, which gets Object parameter of managedBean, @Nullable parameter of String Object Name.

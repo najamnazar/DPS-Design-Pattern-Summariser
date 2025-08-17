@@ -1,0 +1,2 @@
+JaxbRestBindingJaxbDataFormatFactory acts as a visitor for element ModelineParser, which overrides, which setups a Jaxb to, which sets a Additional Configuration to, which is a Key Known Prefix to.
+JaxbRestBindingJaxbDataFormatFactory acts as a visitor for element ExtendedCamelContext, which overrides, which setups a Jaxb to, which sets a Additional Configuration to, which is a Key Known Prefix to.

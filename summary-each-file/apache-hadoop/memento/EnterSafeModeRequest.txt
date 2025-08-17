@@ -1,0 +1,2 @@
+EnterSafeModeRequest acts as an originator for memento EnterSafeModeRequest, which is inherited by, which news an EnterSafeModeRequest Instance to.
+EnterSafeModeRequest acts as a memento, which is inherited by EnterSafeModeRequestPBImpl, which news Instance.

@@ -1,0 +1,2 @@
+SimpleRouteExpressionAsPredicateTest acts as a publisher for observer Service, which tests Simple Route Expression As Predicate Test, which creates Route Builder.
+SimpleRouteExpressionAsPredicateTest acts as a publisher for observer CamelContext, which tests Simple Route Expression As Predicate Test, which creates Route Builder.

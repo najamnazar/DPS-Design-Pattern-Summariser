@@ -1,0 +1,2 @@
+Comparable acts as an adaptee for adapter FieldInfo.
+Comparable acts as an adaptee for adapter MethodInfo.

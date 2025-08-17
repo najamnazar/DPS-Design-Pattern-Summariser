@@ -1,0 +1,4 @@
+JobContext acts as an adaptee for adapter AbstractS3ACommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter.
+JobContext acts as an adaptee for adapter TestManifestCommitProtocol, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest.
+JobContext acts as a target for adapter JobContextImpl, which adapts to JobContext, which adapts to JobContext.
+JobContext acts as an adaptee for adapter AbstractITCommitProtocol, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest.

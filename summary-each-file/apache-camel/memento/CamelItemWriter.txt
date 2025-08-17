@@ -1,0 +1,1 @@
+CamelItemWriter acts as a caretaker for memento Producer, which writes List<? parameter of extends.

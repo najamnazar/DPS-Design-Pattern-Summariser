@@ -1,0 +1,1 @@
+RemoteAppChecker acts as a caretaker for memento YarnApplicationState, which services Configuration parameter of conf Init, which is ApplicationId parameter of id Application Active, which gets Active Applications.

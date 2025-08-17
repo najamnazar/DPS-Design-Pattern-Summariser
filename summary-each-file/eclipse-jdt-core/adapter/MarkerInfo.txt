@@ -1,0 +1,1 @@
+MarkerInfo acts as an adaptee for adapter BatchASTCreationTests, which adapts to AbstractASTTests, which adapts to AbstractASTTests, which adapts to AbstractASTTests.

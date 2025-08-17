@@ -1,0 +1,4 @@
+DeadLetterChannelConfiguration acts as a publisher for observer CamelLogger, which gets CamelContext parameter of context Retry While Policy.
+DeadLetterChannelConfiguration acts as a publisher for observer Processor, which gets CamelContext parameter of context Retry While Policy.
+DeadLetterChannelConfiguration acts as a publisher for observer Predicate, which gets CamelContext parameter of context Retry While Policy.
+DeadLetterChannelConfiguration acts as a publisher for observer RedeliveryPolicy, which gets CamelContext parameter of context Retry While Policy.

@@ -1,0 +1,2 @@
+ShutdownStrategy acts as an abstract product for ShutdownStrategy, which is inherited by DefaultShutdownStrategy.
+ShutdownStrategy acts as an abstract factory for, which is inherited by DefaultShutdownStrategy.

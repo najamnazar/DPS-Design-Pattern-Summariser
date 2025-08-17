@@ -1,0 +1,2 @@
+CompletionOnKeyword3 acts as a publisher for observer TypeBinding, which gets Token, which gets Possible Keywords, which afters Try Or Catch, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+CompletionOnKeyword3 acts as a publisher for observer MethodBinding, which gets Token, which gets Possible Keywords, which afters Try Or Catch, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

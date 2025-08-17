@@ -1,0 +1,1 @@
+ManagedChoice acts as a caretaker for memento Context, which gets Definition, which resets, which gets Support Extended Information, which choices Statistics.

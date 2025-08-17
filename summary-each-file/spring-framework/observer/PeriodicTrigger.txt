@@ -1,0 +1,1 @@
+PeriodicTrigger acts as an observer, which gets Period, which gets Time Unit, which sets long parameter of initialDelay Initial Delay, which gets Initial Delay, which sets boolean parameter of fixedRate Fixed Rate, which is Fixed Rate, which nexts TriggerContext parameter of triggerContext Execution Time, which equals @Nullable parameter of Object, which hashes Code.

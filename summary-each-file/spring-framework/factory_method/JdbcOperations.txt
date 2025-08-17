@@ -1,0 +1,3 @@
+JdbcOperations acts as an abstract product for NamedParameterJdbcTemplate, which is inherited by JdbcTemplate.
+JdbcOperations acts as a factory method for SqlRowSet, which is inherited by NamedParameterJdbcOperations, JdbcOperations.
+JdbcOperations acts as a factory for JdbcOperations, which overrides.

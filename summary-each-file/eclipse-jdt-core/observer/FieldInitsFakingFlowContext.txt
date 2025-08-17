@@ -1,0 +1,3 @@
+FieldInitsFakingFlowContext acts as a publisher for observer UnconditionalFlowInfo.
+FieldInitsFakingFlowContext acts as a publisher for observer FlowInfo.
+FieldInitsFakingFlowContext acts as a publisher for observer ReferenceBinding.

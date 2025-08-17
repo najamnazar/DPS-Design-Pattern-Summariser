@@ -1,0 +1,4 @@
+IField acts as an abstract product for IField, which is inherited by BinaryField, BinaryField, BinaryField, SourceField, SourceField, SourceField.
+IField acts as a product for ILocalVariable, which overrides.
+IField acts as an abstract factory for Object, which is inherited by BinaryField, SourceField.
+IField acts as a product for ITypeParameter, which overrides.

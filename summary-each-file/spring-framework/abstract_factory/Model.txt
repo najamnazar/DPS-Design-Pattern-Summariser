@@ -1,0 +1,2 @@
+Model acts as an abstract product for Model, which is inherited by ConcurrentModel, ConcurrentModel, ConcurrentModel, ConcurrentModel, ConcurrentModel, RedirectAttributes, RedirectAttributes, RedirectAttributes, RedirectAttributes, RedirectAttributes, ExtendedModelMap, ExtendedModelMap, ExtendedModelMap, ExtendedModelMap, ExtendedModelMap.
+Model acts as an abstract factory for Model, which is inherited by ConcurrentModel, ExtendedModelMap.

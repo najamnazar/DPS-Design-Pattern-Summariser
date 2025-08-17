@@ -1,0 +1,1 @@
+WebSpherePackageScanClassResolver acts as a publisher for observer PackageScanFilter, which is ClassLoader parameter of loader Web Sphere Class Loader, which gets ClassLoader parameter of loader, String parameter of packageName Resources.

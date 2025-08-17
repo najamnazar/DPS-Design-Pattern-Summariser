@@ -1,0 +1,1 @@
+SharedCacheClient acts as a publisher for observer Configuration, which creates Shared Cache Client, which uses ApplicationId parameter of applicationId, String parameter of resourceKey, which releases ApplicationId parameter of applicationId, String parameter of resourceKey, which gets Path parameter of sourceFile File Checksum.

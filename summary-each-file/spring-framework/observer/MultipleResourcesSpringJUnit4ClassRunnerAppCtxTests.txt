@@ -1,0 +1,2 @@
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer Employee.
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer ApplicationContext.

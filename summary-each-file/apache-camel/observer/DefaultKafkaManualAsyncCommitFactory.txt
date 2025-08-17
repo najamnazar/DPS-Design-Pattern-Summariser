@@ -1,0 +1,1 @@
+DefaultKafkaManualAsyncCommitFactory acts as an observer, which news CamelExchangePayload parameter of camelExchangePayload, KafkaRecordPayload parameter of kafkaRecordPayload, CommitManager parameter of commitManager Instance.

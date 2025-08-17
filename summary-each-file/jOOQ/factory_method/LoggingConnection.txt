@@ -1,0 +1,1 @@
+LoggingConnection acts as a factory method for Statement, which is inherited by DefaultStatement, DefaultConnection, DefaultResultSet, DefaultConnection, DefaultStatement, DefaultStatement, DefaultConnection, DefaultConnection, Parser, DefaultStatement, DefaultConnection, DefaultConnection.

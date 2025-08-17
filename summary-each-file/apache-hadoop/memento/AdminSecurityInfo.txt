@@ -1,0 +1,2 @@
+AdminSecurityInfo acts as an originator for memento TokenInfo, which gets a TokenInfo Token Info to.
+AdminSecurityInfo acts as an originator for memento KerberosInfo, which gets a KerberosInfo Kerberos Info to.

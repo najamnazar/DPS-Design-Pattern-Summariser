@@ -1,0 +1,2 @@
+AdviceWithRecipientListMockEndpointsTest acts as a publisher for observer CamelContext, which tests Advised Mock Endpoints, which creates Route Builder.
+AdviceWithRecipientListMockEndpointsTest acts as a publisher for observer Service, which tests Advised Mock Endpoints, which creates Route Builder.

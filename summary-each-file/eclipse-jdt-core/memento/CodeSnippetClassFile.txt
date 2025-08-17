@@ -1,0 +1,5 @@
+CodeSnippetClassFile acts as a caretaker for memento C, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.
+CodeSnippetClassFile acts as a caretaker for memento R, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.
+CodeSnippetClassFile acts as a caretaker for memento S, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.
+CodeSnippetClassFile acts as a caretaker for memento Binding, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.
+CodeSnippetClassFile acts as a caretaker for memento Class, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.

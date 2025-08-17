@@ -1,0 +1,1 @@
+SockJsSession acts as a memento, which is inherited by AbstractSockJsSession, which disables Heartbeat, which disables Heartbeat.

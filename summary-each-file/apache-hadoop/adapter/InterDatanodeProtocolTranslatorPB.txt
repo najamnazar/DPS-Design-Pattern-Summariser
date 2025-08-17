@@ -1,0 +1,1 @@
+InterDatanodeProtocolTranslatorPB acts as an adapter, which adapts to ProtocolMetaInterface, which adapts to ProtocolMetaInterface, which adapts to ProtocolMetaInterface, which adapts to ProtocolMetaInterface.

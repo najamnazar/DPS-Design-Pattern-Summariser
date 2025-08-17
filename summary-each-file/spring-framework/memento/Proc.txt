@@ -1,0 +1,2 @@
+Proc acts as a caretaker for memento A, which gets Record Type, which gets Schema, which gets Primary Key, which gets Keys, which ases String parameter of alias, which ases Name parameter of alias, which renames String parameter of name, which renames Name parameter of name.
+Proc acts as a caretaker for memento Language, which gets Record Type, which gets Schema, which gets Primary Key, which gets Keys, which ases String parameter of alias, which ases Name parameter of alias, which renames String parameter of name, which renames Name parameter of name.

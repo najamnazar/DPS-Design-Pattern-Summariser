@@ -1,0 +1,2 @@
+CamelItemProcessorTest acts as a caretaker for memento Context, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.
+CamelItemProcessorTest acts as a caretaker for memento Producer, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.

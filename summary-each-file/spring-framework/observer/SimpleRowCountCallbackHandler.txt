@@ -1,0 +1,1 @@
+SimpleRowCountCallbackHandler acts as an observer, which processes ResultSet parameter of rs Row, which gets Count.

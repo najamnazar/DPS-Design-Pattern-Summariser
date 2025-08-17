@@ -1,0 +1,2 @@
+IsNotDocument acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx, which $arg1s, which $arg1s Field<?> parameter of newValue, which $constructors, which equals Object parameter of that.
+IsNotDocument acts as a caretaker for memento C, which accepts Context<?> parameter of ctx, which $arg1s, which $arg1s Field<?> parameter of newValue, which $constructors, which equals Object parameter of that.

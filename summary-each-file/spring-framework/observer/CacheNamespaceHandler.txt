@@ -1,0 +1,2 @@
+CacheNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which extracts Element parameter of element Cache Manager, which parses Element parameter of element, BeanDefinition parameter of def Key Generator, which inits.
+CacheNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which extracts Element parameter of element Cache Manager, which parses Element parameter of element, BeanDefinition parameter of def Key Generator, which inits.

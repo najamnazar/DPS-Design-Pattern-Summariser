@@ -1,0 +1,1 @@
+RollbackResponse acts as an abstract product for RollbackResponse, which is inherited by RollbackResponsePBImpl.

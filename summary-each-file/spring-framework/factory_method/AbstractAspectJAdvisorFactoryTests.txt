@@ -1,0 +1,2 @@
+AbstractAspectJAdvisorFactoryTests acts as a factory for AbstractAspectJAdvisorFactoryTests, which overrides.
+AbstractAspectJAdvisorFactoryTests acts as a factory method for AspectJAdvisorFactory, which is inherited by AbstractAspectJAdvisorFactoryTests.

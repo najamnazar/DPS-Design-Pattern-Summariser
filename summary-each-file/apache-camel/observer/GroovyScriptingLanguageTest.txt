@@ -1,0 +1,5 @@
+GroovyScriptingLanguageTest acts as a publisher for observer CamelContext, which tests Scripting, which tests External Scripting.
+GroovyScriptingLanguageTest acts as a publisher for observer FluentProducerTemplate, which tests Scripting, which tests External Scripting.
+GroovyScriptingLanguageTest acts as a publisher for observer ConsumerTemplate, which tests Scripting, which tests External Scripting.
+GroovyScriptingLanguageTest acts as a publisher for observer Service, which tests Scripting, which tests External Scripting.
+GroovyScriptingLanguageTest acts as a publisher for observer ProducerTemplate, which tests Scripting, which tests External Scripting.

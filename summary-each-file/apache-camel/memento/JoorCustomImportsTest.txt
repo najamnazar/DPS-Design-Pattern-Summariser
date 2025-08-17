@@ -1,0 +1,2 @@
+JoorCustomImportsTest acts as a caretaker for memento Producer, which creates Camel Context, which creates Route Builder, which tests Import, which echoes String parameter of s.
+JoorCustomImportsTest acts as a caretaker for memento Context, which creates Camel Context, which creates Route Builder, which tests Import, which echoes String parameter of s.

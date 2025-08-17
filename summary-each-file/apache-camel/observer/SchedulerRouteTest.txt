@@ -1,0 +1,2 @@
+SchedulerRouteTest acts as a publisher for observer CamelContext, which tests Scheduler Invokes Bean Method, which creates Route Builder, which creates Registry, which somes Method.
+SchedulerRouteTest acts as a publisher for observer Service, which tests Scheduler Invokes Bean Method, which creates Route Builder, which creates Registry, which somes Method.

@@ -1,0 +1,2 @@
+MixedStreamCachingInterceptorTest acts as a publisher for observer CamelContext, which tests Stream Caching, which tests No Stream Caching, which creates Camel Context.
+MixedStreamCachingInterceptorTest acts as a publisher for observer Service, which tests Stream Caching, which tests No Stream Caching, which creates Camel Context.

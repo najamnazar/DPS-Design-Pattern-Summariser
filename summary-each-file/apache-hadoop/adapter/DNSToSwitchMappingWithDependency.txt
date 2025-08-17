@@ -1,0 +1,2 @@
+DNSToSwitchMappingWithDependency acts as an adaptee for adapter ScriptBasedMappingWithDependency, which adapts to ScriptBasedMapping, DNSToSwitchMappingWithDependency.
+DNSToSwitchMappingWithDependency acts as a target for adapter ScriptBasedMappingWithDependency, which adapts to DNSToSwitchMappingWithDependency.

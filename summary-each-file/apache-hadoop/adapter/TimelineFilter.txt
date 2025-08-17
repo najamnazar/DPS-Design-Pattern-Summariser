@@ -1,0 +1,4 @@
+TimelineFilter acts as a target for adapter TimelineExistsFilter, which adapts to TimelineFilter, which adapts to TimelineFilter.
+TimelineFilter acts as a target for adapter TimelinePrefixFilter, which adapts to TimelineFilter, which adapts to TimelineFilter.
+TimelineFilter acts as a target for adapter TimelineKeyValuesFilter, which adapts to TimelineFilter, which adapts to TimelineFilter.
+TimelineFilter acts as a target for adapter TimelineCompareFilter, which adapts to TimelineFilter, which adapts to TimelineFilter.

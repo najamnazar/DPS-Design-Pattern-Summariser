@@ -1,0 +1,1 @@
+RestProducerFactory acts as an abstract factory for Producer, which is inherited by NettyHttpComponent, VertxHttpComponent, UndertowComponent, OpenApiRestProducerFactory, DummyRestProducerFactory, HttpComponent.

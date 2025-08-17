@@ -1,0 +1,2 @@
+MockRouter acts as a publisher for observer RouterServiceState, which inits Test Federation Sub Cluster.
+MockRouter acts as a publisher for observer Configuration, which inits Test Federation Sub Cluster.

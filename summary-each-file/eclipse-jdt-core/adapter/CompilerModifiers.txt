@@ -1,0 +1,4 @@
+CompilerModifiers acts as an adaptee for adapter RecoveredType.
+CompilerModifiers acts as an adaptee for adapter RecoveredBlock.
+CompilerModifiers acts as an adaptee for adapter RecoveredMethod.
+CompilerModifiers acts as an adaptee for adapter RecoveredInitializer.

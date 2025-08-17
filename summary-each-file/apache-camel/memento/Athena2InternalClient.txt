@@ -1,0 +1,1 @@
+Athena2InternalClient acts as a memento, which is inherited by Athena2ClientIAMOptimizedImpl, Athena2ClientStandardImpl, which gets Athena Client.

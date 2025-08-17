@@ -1,0 +1,2 @@
+CxfConsumerStreamCacheTest acts as a caretaker for memento Context, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri, which is Synchronous.
+CxfConsumerStreamCacheTest acts as a caretaker for memento Producer, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri, which is Synchronous.

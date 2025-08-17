@@ -1,0 +1,2 @@
+Volume acts as an abstract product for Volume, which is inherited by VolumeImpl.
+Volume acts as an abstract factory for CsiAdaptorProtocol, which is inherited by VolumeImpl.

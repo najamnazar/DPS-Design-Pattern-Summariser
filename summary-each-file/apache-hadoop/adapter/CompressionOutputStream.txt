@@ -1,0 +1,1 @@
+CompressionOutputStream acts as a target for adapter CompressorStream, which adapts to CompressionOutputStream, which adapts to CompressionOutputStream, which adapts to CompressionOutputStream, which adapts to CompressionOutputStream, which adapts to CompressionOutputStream, which adapts to CompressionOutputStream, which adapts to CompressionOutputStream.

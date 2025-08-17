@@ -1,0 +1,1 @@
+QuartzScheduledPollConsumerScheduler acts as a product for ScheduledPollConsumer, which overrides onInit method of ScheduledPollConsumerScheduler, unscheduleTask method of ScheduledPollConsumerScheduler, startScheduler method of ScheduledPollConsumerScheduler, isSchedulerStarted method of ScheduledPollConsumerScheduler.

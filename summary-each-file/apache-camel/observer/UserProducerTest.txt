@@ -1,0 +1,1 @@
+UserProducerTest acts as a publisher for observer User, which is inherited by, which sets Up, which creates Test, which gets Test, which gets All Test, which updates Test, which deletes Test, which asserts User parameter of old, User parameter of newUser Equals User, which creates User.

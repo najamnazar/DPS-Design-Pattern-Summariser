@@ -1,0 +1,1 @@
+AccessRestriction acts as an observer for publisher Engine, SelectionEngine, which is inherited by, which gets Problem Id, which ignores If Better.

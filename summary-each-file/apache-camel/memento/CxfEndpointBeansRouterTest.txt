@@ -1,0 +1,1 @@
+CxfEndpointBeansRouterTest acts as a caretaker for memento Context, which gets Application Context Files, which tests Cxf Endpoint Bean Definition Parser, which tests Create Cxf Endpoint From URI, which tests Cxf Bus Configuration, which tests Cxf Bean With Camel Properties Holder.

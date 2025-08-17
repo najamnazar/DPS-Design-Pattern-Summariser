@@ -1,0 +1,2 @@
+SignerManager acts as a publisher for observer Configuration, which is inherited by, which inits Custom Signers, which maybes String parameter of signerName, String parameter of signerClassName, Configuration parameter of conf Register Signer, which closes.
+SignerManager acts as an observer, which inits Custom Signers, which maybes String parameter of signerName, String parameter of signerClassName, Configuration parameter of conf Register Signer, which closes.

@@ -1,0 +1,2 @@
+ContextScopedOnExceptionCorrectRouteContextTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Context Scoped On Exception Log Route Bar Fail, which tests Context Scoped On Exception Log Route Foo Fail.
+ContextScopedOnExceptionCorrectRouteContextTest acts as a publisher for observer Service, which is Use Route Builder, which tests Context Scoped On Exception Log Route Bar Fail, which tests Context Scoped On Exception Log Route Foo Fail.

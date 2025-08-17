@@ -1,0 +1,3 @@
+AnnotationValueImpl acts as a product for AnnotationTypeElementDeclaration, which overrides getValue method of AnnotationValue, toString method of AnnotationValue.
+AnnotationValueImpl acts as a product for ExecutableElement, which overrides getValue method of AnnotationValue, toString method of AnnotationValue.
+AnnotationValueImpl acts as a factory for AnnotationValue, which overrides getValue method of AnnotationValue, toString method of AnnotationValue.

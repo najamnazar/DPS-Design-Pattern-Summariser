@@ -1,0 +1,1 @@
+DebugJobProducer acts as a factory for JobStoryProducer, which overrides getNextJob method of JobStoryProducer.

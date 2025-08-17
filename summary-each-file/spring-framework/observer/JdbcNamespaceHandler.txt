@@ -1,0 +1,2 @@
+JdbcNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.
+JdbcNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.

@@ -1,0 +1,1 @@
+JsonataInputOutputType acts as an observer for publisher JsonataEndpoint, which is inherited by.

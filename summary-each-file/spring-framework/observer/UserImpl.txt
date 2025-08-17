@@ -1,0 +1,1 @@
+UserImpl acts as a publisher for observer Name, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

@@ -1,0 +1,1 @@
+StaticScriptSource acts as an observer, which sets String parameter of script Script, which gets Script As String, which is Modified, which suggests Class Name, which tos String.

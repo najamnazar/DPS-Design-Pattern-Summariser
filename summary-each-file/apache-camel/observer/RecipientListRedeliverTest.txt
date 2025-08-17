@@ -1,0 +1,2 @@
+RecipientListRedeliverTest acts as a publisher for observer CamelContext, which tests Ok, which tests Throw Exception At A, which tests Throw Exception At B, which creates Route Builder.
+RecipientListRedeliverTest acts as a publisher for observer Service, which tests Ok, which tests Throw Exception At A, which tests Throw Exception At B, which creates Route Builder.

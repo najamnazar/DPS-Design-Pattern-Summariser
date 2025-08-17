@@ -1,0 +1,2 @@
+TypeParameterDeclaration acts as a factory for TypeParameterDeclarationImpl, which overrides.
+TypeParameterDeclaration acts as an abstract product for TypeVariable, which is inherited by TypeParameterDeclarationImpl.

@@ -1,0 +1,2 @@
+RefreshQueuesResponse acts as an originator for memento RefreshQueuesResponse, which is inherited by, which news a RefreshQueuesResponse Instance to.
+RefreshQueuesResponse acts as a memento, which is inherited by RefreshQueuesResponsePBImpl, which news Instance.

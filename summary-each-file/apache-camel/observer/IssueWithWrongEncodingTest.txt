@@ -1,0 +1,5 @@
+IssueWithWrongEncodingTest acts as a publisher for observer ProducerTemplate, which tests Ok Encoding, which tests Invalid Encoding, which creates Route Builder.
+IssueWithWrongEncodingTest acts as a publisher for observer ConsumerTemplate, which tests Ok Encoding, which tests Invalid Encoding, which creates Route Builder.
+IssueWithWrongEncodingTest acts as a publisher for observer FluentProducerTemplate, which tests Ok Encoding, which tests Invalid Encoding, which creates Route Builder.
+IssueWithWrongEncodingTest acts as a publisher for observer Service, which tests Ok Encoding, which tests Invalid Encoding, which creates Route Builder.
+IssueWithWrongEncodingTest acts as a publisher for observer CamelContext, which tests Ok Encoding, which tests Invalid Encoding, which creates Route Builder.

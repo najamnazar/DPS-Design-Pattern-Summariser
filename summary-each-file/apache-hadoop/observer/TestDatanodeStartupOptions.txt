@@ -1,0 +1,1 @@
+TestDatanodeStartupOptions acts as a publisher for observer Configuration, which is inherited by, which checks boolean parameter of expectSuccess, StartupOption parameter of expectedOption, Configuration parameter of conf, String... parameter of arg Expected, which inits Configuration, which tests Startup Success, which tests Startup Failure.

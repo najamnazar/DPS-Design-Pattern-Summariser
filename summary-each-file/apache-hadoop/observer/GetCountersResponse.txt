@@ -1,0 +1,1 @@
+GetCountersResponse acts as a publisher for observer Counters, which is inherited by GetCountersResponsePBImpl, which gets Counters, which sets Counters parameter of counters Counters.

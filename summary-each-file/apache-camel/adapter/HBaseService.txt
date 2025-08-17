@@ -1,0 +1,1 @@
+HBaseService acts as an adaptee for adapter CamelHBaseTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,1 @@
+SpringZooKeeperServiceCallRouteIT acts as a caretaker for memento Context, which creates Camel Context, which does Pre Setup, which does Post Tear Down, which tests Service Call, which creates Application Context.

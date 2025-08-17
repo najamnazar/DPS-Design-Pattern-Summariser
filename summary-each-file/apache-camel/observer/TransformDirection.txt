@@ -1,0 +1,1 @@
+TransformDirection acts as an observer for publisher XJEndpoint, which is inherited by.

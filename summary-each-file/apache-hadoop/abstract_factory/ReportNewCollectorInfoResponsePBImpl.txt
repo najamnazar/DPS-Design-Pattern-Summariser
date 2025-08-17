@@ -1,0 +1,1 @@
+ReportNewCollectorInfoResponsePBImpl acts as a product for CollectorNodemanagerProtocol, which overrides.

@@ -1,0 +1,1 @@
+FairSchedulerMetrics acts as a product for SchedulerWrapper, which overrides registerQueueMetrics method of SchedulerMetrics.

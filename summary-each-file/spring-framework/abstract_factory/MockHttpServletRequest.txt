@@ -1,0 +1,1 @@
+MockHttpServletRequest acts as an abstract product for MockHttpServletRequest, which is inherited by MockMultipartHttpServletRequest.

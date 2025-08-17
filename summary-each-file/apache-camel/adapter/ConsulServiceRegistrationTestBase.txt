@@ -1,0 +1,1 @@
+ConsulServiceRegistrationTestBase acts as a target for adapter ConsulServiceRegistrationWithServiceComponentIT, which adapts to ConsulServiceRegistrationTestBase, which adapts to ConsulServiceRegistrationTestBase, which adapts to ConsulServiceRegistrationTestBase.

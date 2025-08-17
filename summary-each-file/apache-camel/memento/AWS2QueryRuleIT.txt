@@ -1,0 +1,1 @@
+AWS2QueryRuleIT acts as a caretaker for memento Producer, which cleanups Resources, which setups Resources, which queries Items, which puts String parameter of value1, String parameter of value2 Item, which creates Route Builder.

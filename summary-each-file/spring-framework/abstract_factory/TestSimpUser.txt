@@ -1,0 +1,3 @@
+TestSimpUser acts as a factory for SimpUser, which overrides getName method of SimpUser, getPrincipal method of SimpUser, getSessions method of SimpUser, hasSessions method of SimpUser, getSession method of SimpUser.
+TestSimpUser acts as a product for SimpSession, which overrides getName method of SimpUser, getPrincipal method of SimpUser, getSessions method of SimpUser, hasSessions method of SimpUser, getSession method of SimpUser.
+TestSimpUser acts as a product for SimpUserRegistry, which overrides getName method of SimpUser, getPrincipal method of SimpUser, getSessions method of SimpUser, hasSessions method of SimpUser, getSession method of SimpUser.

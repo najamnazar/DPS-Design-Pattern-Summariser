@@ -1,0 +1,1 @@
+ImportSelector acts as a publisher for observer AnnotationMetadata, which is inherited by DeferredImportSelector, which selects AnnotationMetadata parameter of importingClassMetadata Imports, which gets Exclusion Filter.

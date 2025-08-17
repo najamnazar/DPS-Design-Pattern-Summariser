@@ -1,0 +1,5 @@
+CBORObjectListSplitTest acts as a publisher for observer FluentProducerTemplate, which tests CBOR, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+CBORObjectListSplitTest acts as a publisher for observer ProducerTemplate, which tests CBOR, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+CBORObjectListSplitTest acts as a publisher for observer Service, which tests CBOR, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+CBORObjectListSplitTest acts as a publisher for observer CamelContext, which tests CBOR, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+CBORObjectListSplitTest acts as a publisher for observer ConsumerTemplate, which tests CBOR, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.

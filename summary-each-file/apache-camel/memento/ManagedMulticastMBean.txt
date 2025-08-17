@@ -1,0 +1,1 @@
+ManagedMulticastMBean acts as a memento, which gets Timeout, which gets Timeout, which gets Timeout, which gets Timeout, which gets Timeout, which gets Timeout.

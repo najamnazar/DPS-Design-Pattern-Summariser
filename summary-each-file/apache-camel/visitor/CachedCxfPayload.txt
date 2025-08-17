@@ -1,0 +1,1 @@
+CachedCxfPayload acts as a visitor for element ExtendedCamelContext, which overrides, which tos a Result to, which resets, which writes a To to, which ins a Memory to, which lengthes, which copies Exchange parameter of exchange.

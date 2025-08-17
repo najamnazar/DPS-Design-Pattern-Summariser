@@ -1,0 +1,3 @@
+DeleteDefinition acts as an observer, which ases Verb.
+DeleteDefinition acts as a publisher for observer ToDefinition, which ases Verb.
+DeleteDefinition acts as a publisher for observer RestDefinition, which ases Verb.

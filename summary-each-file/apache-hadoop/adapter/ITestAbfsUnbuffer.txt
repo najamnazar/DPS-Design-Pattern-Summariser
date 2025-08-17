@@ -1,0 +1,1 @@
+ITestAbfsUnbuffer acts as an adapter, which adapts to AbstractAbfsIntegrationTest, which adapts to AbstractAbfsIntegrationTest, which adapts to AbstractAbfsIntegrationTest, which adapts to AbstractAbfsIntegrationTest.

@@ -1,0 +1,3 @@
+RSocketRequester acts as a factory method for RSocketRequester, which is inherited by RSocketRequester.
+RSocketRequester acts as an abstract product for RSocketRequester, which is inherited by DefaultRSocketRequester.
+RSocketRequester acts as a factory for RSocketRequester, which overrides dispose method of RSocketRequester, isDisposed method of RSocketRequester.

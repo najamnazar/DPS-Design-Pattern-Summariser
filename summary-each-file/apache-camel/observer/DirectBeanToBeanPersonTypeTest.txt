@@ -1,0 +1,5 @@
+DirectBeanToBeanPersonTypeTest acts as a publisher for observer ConsumerTemplate, which tests Bean To Bean, which creates Route Builder.
+DirectBeanToBeanPersonTypeTest acts as a publisher for observer ProducerTemplate, which tests Bean To Bean, which creates Route Builder.
+DirectBeanToBeanPersonTypeTest acts as a publisher for observer FluentProducerTemplate, which tests Bean To Bean, which creates Route Builder.
+DirectBeanToBeanPersonTypeTest acts as a publisher for observer Service, which tests Bean To Bean, which creates Route Builder.
+DirectBeanToBeanPersonTypeTest acts as a publisher for observer CamelContext, which tests Bean To Bean, which creates Route Builder.

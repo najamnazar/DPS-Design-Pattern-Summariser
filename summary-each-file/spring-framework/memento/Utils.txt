@@ -1,0 +1,1 @@
+Utils acts as a caretaker for memento C, which is inherited by, which starts, which ends, which runs, which asserts Class<?> parameter of throwable, ThrowableRunnable parameter of runnable Throws, which asserts Class<?> parameter of throwable, ThrowableRunnable parameter of runnable, Consumer<Throwable> parameter of exceptionConsumer Throws.

@@ -1,0 +1,2 @@
+InternalProcessorFactory acts as an abstract product for InternalProcessorFactory, which is inherited by DefaultInternalProcessorFactory.
+InternalProcessorFactory acts as an abstract factory for SharedInternalProcessor, AsyncProcessor, Channel, AsyncProducer, InternalProcessor, which is inherited by DefaultInternalProcessorFactory.

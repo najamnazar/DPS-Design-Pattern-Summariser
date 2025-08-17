@@ -1,0 +1,2 @@
+ManagedCamelContext acts as an originator for memento ManagedStepMBean, which is inherited by, which gets a ManagedStepMBean Managed Step to.
+ManagedCamelContext acts as an originator for memento ManagedProcessorMBean, which is inherited by, which gets a ManagedProcessorMBean Managed Processor to.

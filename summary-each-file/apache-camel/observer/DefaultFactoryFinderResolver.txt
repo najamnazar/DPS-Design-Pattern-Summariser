@@ -1,0 +1,1 @@
+DefaultFactoryFinderResolver acts as an observer, which resolves ClassResolver parameter of classResolver, String parameter of resourcePath Factory Finder, which resolves ClassResolver parameter of classResolver, String parameter of resourcePath Bootstrap Factory Finder.

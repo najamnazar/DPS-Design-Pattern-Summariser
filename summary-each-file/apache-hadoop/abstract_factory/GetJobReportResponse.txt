@@ -1,0 +1,2 @@
+GetJobReportResponse acts as an abstract factory for JobReport, which is inherited by GetJobReportResponsePBImpl.
+GetJobReportResponse acts as an abstract product for GetJobReportResponse, which is inherited by GetJobReportResponsePBImpl.

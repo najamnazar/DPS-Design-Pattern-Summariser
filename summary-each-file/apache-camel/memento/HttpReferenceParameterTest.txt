@@ -1,0 +1,2 @@
+HttpReferenceParameterTest acts as a caretaker for memento Context, which sets Up, which tests Http Binding, which tests Http Client Configurer, which tests Http Context, which creates Route Builder, which configures HttpClientBuilder parameter of clientBuilder Http Client.
+HttpReferenceParameterTest acts as a caretaker for memento Producer, which sets Up, which tests Http Binding, which tests Http Client Configurer, which tests Http Context, which creates Route Builder, which configures HttpClientBuilder parameter of clientBuilder Http Client.

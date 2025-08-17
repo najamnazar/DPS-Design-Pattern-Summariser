@@ -1,0 +1,1 @@
+HttpHeadResponseDecorator acts as a publisher for observer ServerHttpResponse, which writes Publisher<? parameter of extends With, which shoulds Set Content Length, which writes Publisher<? parameter of extends And Flush With.

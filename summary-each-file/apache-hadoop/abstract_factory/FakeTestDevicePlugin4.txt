@@ -1,0 +1,1 @@
+FakeTestDevicePlugin4 acts as a factory for DevicePlugin, which overrides getDevices method of DevicePlugin, onDevicesAllocated method of DevicePlugin, onDevicesReleased method of DevicePlugin.

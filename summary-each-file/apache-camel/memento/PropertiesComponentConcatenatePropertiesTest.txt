@@ -1,0 +1,2 @@
+PropertiesComponentConcatenatePropertiesTest acts as a caretaker for memento Context, which creates Camel Context, which sets Up, which tears Down, which tests Concat Properties Component Default, which tests Without Concat Properties Component Default.
+PropertiesComponentConcatenatePropertiesTest acts as a caretaker for memento Producer, which creates Camel Context, which sets Up, which tears Down, which tests Concat Properties Component Default, which tests Without Concat Properties Component Default.

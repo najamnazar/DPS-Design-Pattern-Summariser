@@ -1,0 +1,2 @@
+MutableGauge acts as a factory for MutableGauge, which overrides.
+MutableGauge acts as a factory method for MetricsInfo, which is inherited by AbstractMetric, MutableCounter, MutableGauge, AbstractMetric, MutableGauge, AbstractMetric, AbstractMetric, AbstractMetric, AbstractMetric, MutableCounter, MutableGauge.

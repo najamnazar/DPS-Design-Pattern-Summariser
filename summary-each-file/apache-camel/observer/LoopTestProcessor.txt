@@ -1,0 +1,1 @@
+LoopTestProcessor acts as an observer, which sets int parameter of count Count, which resets, which processes Exchange parameter of exchange.

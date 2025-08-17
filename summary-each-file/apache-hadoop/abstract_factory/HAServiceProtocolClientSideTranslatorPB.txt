@@ -1,0 +1,1 @@
+HAServiceProtocolClientSideTranslatorPB acts as a factory for HAServiceProtocol, which overrides monitorHealth method of HAServiceProtocol, transitionToActive method of HAServiceProtocol, transitionToStandby method of HAServiceProtocol, transitionToObserver method of HAServiceProtocol, getServiceStatus method of HAServiceProtocol.

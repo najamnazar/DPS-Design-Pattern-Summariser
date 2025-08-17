@@ -1,0 +1,2 @@
+AdminACLsManager acts as an adaptee for adapter TimelineReaderManager, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+AdminACLsManager acts as an adaptee for adapter TestTimelineWebServices, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.

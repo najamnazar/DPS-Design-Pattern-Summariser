@@ -1,0 +1,1 @@
+NodeAttributeInfo acts as an observer for publisher NodeAttributesInfo, which is inherited by NodeAttributeInfoPBImpl, which gets Prefix, which gets Name, which gets Type, which gets Value.

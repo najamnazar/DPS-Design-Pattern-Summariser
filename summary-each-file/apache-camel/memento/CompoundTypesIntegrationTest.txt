@@ -1,0 +1,1 @@
+CompoundTypesIntegrationTest acts as a caretaker for memento Component, which tests Types, which does String parameter of suffix Test Types, which does Create Route Builder.

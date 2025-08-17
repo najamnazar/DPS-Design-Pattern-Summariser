@@ -1,0 +1,3 @@
+SiblingEnumeration acts as a product for IDOMNode, which overrides hasMoreElements method of Enumeration, nextElement method of Enumeration.
+SiblingEnumeration acts as a product for TestCollector, which overrides hasMoreElements method of Enumeration, nextElement method of Enumeration.
+SiblingEnumeration acts as a factory for Enumeration, which overrides hasMoreElements method of Enumeration, nextElement method of Enumeration.

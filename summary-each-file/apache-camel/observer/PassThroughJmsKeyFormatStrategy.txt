@@ -1,0 +1,1 @@
+PassThroughJmsKeyFormatStrategy acts as an observer, which encodes String parameter of key Key, which decodes String parameter of key Key.

@@ -1,0 +1,1 @@
+ApplicationContextBeanRepository acts as a caretaker for memento Context, which lookups String parameter of name, Class<T> parameter of type By Name And Type, which lookups String parameter of name By Name, which finds Class<T> parameter of type By Type, which finds Class<T> parameter of type By Type With Name.

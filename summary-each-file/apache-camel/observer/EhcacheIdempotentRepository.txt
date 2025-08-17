@@ -1,0 +1,1 @@
+EhcacheIdempotentRepository acts as an observer, which gets Cache Name, which adds String parameter of key, which confirms String parameter of key, which contains String parameter of key, which removes String parameter of key, which clears, which does Start, which does Stop.

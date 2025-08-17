@@ -1,0 +1,2 @@
+OnExceptionNotHandledNoFailureProcessorTest acts as a publisher for observer CamelContext, which tests On Exception, which creates Route Builder.
+OnExceptionNotHandledNoFailureProcessorTest acts as a publisher for observer Service, which tests On Exception, which creates Route Builder.

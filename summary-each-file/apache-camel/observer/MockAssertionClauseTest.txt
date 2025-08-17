@@ -1,0 +1,2 @@
+MockAssertionClauseTest acts as a publisher for observer Service, which tests Assertion Clause All, which tests Assertion Clause Per, which creates Route Builder.
+MockAssertionClauseTest acts as a publisher for observer CamelContext, which tests Assertion Clause All, which tests Assertion Clause Per, which creates Route Builder.

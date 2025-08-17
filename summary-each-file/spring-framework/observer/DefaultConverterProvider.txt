@@ -1,0 +1,1 @@
+DefaultConverterProvider acts as an observer, which provides final parameter of Class<T>, final parameter of Class<U>, which is Class<?> parameter of type JSON, which is Class<?> parameter of type XML, which is Class<?> parameter of type UUID, which is Class<?> parameter of type Enum, which is Class<?> parameter of type Date, which is Class<?> parameter of type Collection.

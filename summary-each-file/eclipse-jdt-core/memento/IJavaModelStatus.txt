@@ -1,0 +1,1 @@
+IJavaModelStatus acts as a memento, which is inherited by JavaModelStatus, which is Does Not Exist, which is Does Not Exist, which is Does Not Exist, which is Does Not Exist.

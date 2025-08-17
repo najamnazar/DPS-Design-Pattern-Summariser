@@ -1,0 +1,1 @@
+KafkaManualCommit acts as a memento, which is inherited by KafkaAsyncManualCommit, DefaultKafkaManualSyncCommit, DefaultKafkaManualCommit, which commits.

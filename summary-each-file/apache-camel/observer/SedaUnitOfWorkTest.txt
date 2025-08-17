@@ -1,0 +1,2 @@
+SedaUnitOfWorkTest acts as a publisher for observer CamelContext, which tests Seda UOW, which tests Seda UOWWith Exception, which creates Route Builder, which processes Exchange parameter of exchange.
+SedaUnitOfWorkTest acts as a publisher for observer Service, which tests Seda UOW, which tests Seda UOWWith Exception, which creates Route Builder, which processes Exchange parameter of exchange.

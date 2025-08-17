@@ -1,0 +1,1 @@
+GlassFishRequestUpgradeStrategy acts as a caretaker for memento C, which handles HttpServletRequest parameter of request, HttpServletResponse parameter of response, UpgradeInfo parameter of upgradeInfo, TyrusUpgradeResponse parameter of upgradeResponse Success, which news TyrusHttpUpgradeHandler parameter of handler Servlet Writer.

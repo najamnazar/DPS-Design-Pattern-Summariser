@@ -1,0 +1,7 @@
+TaskAttemptContext acts as a target for adapter TaskAttemptContextImpl, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext.
+TaskAttemptContext acts as an adaptee for adapter AbstractCommitITest, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase.
+TaskAttemptContext acts as an adaptee for adapter TestManifestCommitProtocol, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest.
+TaskAttemptContext acts as an adaptee for adapter CopyCommitter, which adapts to FileOutputCommitter, which adapts to FileOutputCommitter, which adapts to FileOutputCommitter.
+TaskAttemptContext acts as an adaptee for adapter ITestS3ACommitterFactory, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest.
+TaskAttemptContext acts as an adaptee for adapter LoadJob, which adapts to GridmixJob, which adapts to GridmixJob, which adapts to GridmixJob.
+TaskAttemptContext acts as an adaptee for adapter AbstractITCommitProtocol, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest.

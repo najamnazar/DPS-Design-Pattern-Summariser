@@ -1,0 +1,2 @@
+DependencyDownloaderPropertiesFunctionResolver acts as a publisher for observer PropertiesFunction, which resolves String parameter of name Properties Function.
+DependencyDownloaderPropertiesFunctionResolver acts as a publisher for observer CamelContext, which resolves String parameter of name Properties Function.

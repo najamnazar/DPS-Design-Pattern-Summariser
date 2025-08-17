@@ -1,0 +1,2 @@
+ConcurrentModel acts as a product for Model, which overrides containsAttribute method of Model, getAttribute method of Model, asMap method of Model.
+ConcurrentModel acts as a factory for Model, which overrides containsAttribute method of Model, getAttribute method of Model, asMap method of Model.

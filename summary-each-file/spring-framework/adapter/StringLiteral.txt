@@ -1,0 +1,1 @@
+StringLiteral acts as an adapter, which adapts getLiteralValue method of TypedValue to Literal, which adapts to Literal, which adapts to Literal, which adapts to Literal.

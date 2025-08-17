@@ -1,0 +1,1 @@
+ExceptionDiagnostic acts as a caretaker for memento E, which gets Code, which gets Column Number, which gets End Position, which gets Kind, which gets Line Number, which gets Locale parameter of arg0 Message, which gets Position, which gets Source, which gets Start Position.

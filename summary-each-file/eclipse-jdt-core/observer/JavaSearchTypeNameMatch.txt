@@ -1,0 +1,1 @@
+JavaSearchTypeNameMatch acts as a publisher for observer IType, which is inherited by, which equals Object parameter of obj, which gets Accessibility, which gets Modifiers, which gets Type, which hashes Code, which sets int parameter of accessibility Accessibility, which sets int parameter of modifiers Modifiers, which sets IType parameter of type Type, which tos String.

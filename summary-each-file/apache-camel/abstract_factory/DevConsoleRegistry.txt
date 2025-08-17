@@ -1,0 +1,2 @@
+DevConsoleRegistry acts as an abstract factory for DevConsoleRegistry, DevConsole, which is inherited by DefaultDevConsoleRegistry.
+DevConsoleRegistry acts as an abstract product for DevConsoleRegistry, which is inherited by DefaultDevConsoleRegistry.

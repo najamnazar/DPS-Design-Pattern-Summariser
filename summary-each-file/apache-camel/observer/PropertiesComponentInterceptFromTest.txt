@@ -1,0 +1,2 @@
+PropertiesComponentInterceptFromTest acts as a publisher for observer Service, which tests Properties Component Intercept From, which creates Camel Context, which creates Route Builder.
+PropertiesComponentInterceptFromTest acts as a publisher for observer CamelContext, which tests Properties Component Intercept From, which creates Camel Context, which creates Route Builder.

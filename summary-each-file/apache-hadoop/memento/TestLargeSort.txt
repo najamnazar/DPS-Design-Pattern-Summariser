@@ -1,0 +1,1 @@
+TestLargeSort acts as a caretaker for memento MiniMRClientCluster, which setups, which cleanups, which tests Large Sort.

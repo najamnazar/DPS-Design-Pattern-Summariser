@@ -1,0 +1,1 @@
+ClasspathMultiReleaseJar acts as an adapter, which adapts to ClasspathJar, which adapts to ClasspathJar, which adapts supportedVersions method of String to ClasspathJar, which adapts to ClasspathJar, which adapts to ClasspathJar.

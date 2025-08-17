@@ -1,0 +1,5 @@
+FhirDataFormat acts as a product for DataFormatFactory, which overrides.
+FhirDataFormat acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+FhirDataFormat acts as a product for DataFormatResolver, which overrides.
+FhirDataFormat acts as a product for CamelContext, which overrides.
+FhirDataFormat acts as a product for ModelReifierFactory, which overrides.

@@ -1,0 +1,1 @@
+Manufacturer acts as an observer for publisher Gizmo, which is inherited by, which gets Manufacturer Name, which sets String parameter of manufacturerName Manufacturer Name, which gets Manufacturer Code, which sets String parameter of manufacturerCode Manufacturer Code, which tos String, which equals Object parameter of o, which hashes Code.

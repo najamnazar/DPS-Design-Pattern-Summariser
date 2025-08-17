@@ -1,0 +1,2 @@
+AbstractOperationAuditor acts as a factory for TestIOStatisticsSetters, which overrides.
+AbstractOperationAuditor acts as a product for ActiveAuditManagerS3A, which overrides getAuditorId method of OperationAuditor.

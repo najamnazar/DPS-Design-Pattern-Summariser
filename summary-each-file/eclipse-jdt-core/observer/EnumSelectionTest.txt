@@ -1,0 +1,1 @@
+EnumSelectionTest acts as a publisher for observer String, which test0001s.

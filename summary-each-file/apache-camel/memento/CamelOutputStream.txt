@@ -1,0 +1,1 @@
+CamelOutputStream acts as a caretaker for memento Producer, which does Flush, which does Close, which ons Write, which commits Output Message, which synces org.apache.camel.Exchange parameter of exchange Invoke, which asynces final parameter of org.apache.camel.Exchange Invoke From Work Queue, which handles org.apache.camel.Exchange parameter of exchange Response Internal.

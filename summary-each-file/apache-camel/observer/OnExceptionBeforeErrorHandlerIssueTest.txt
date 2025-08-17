@@ -1,0 +1,2 @@
+OnExceptionBeforeErrorHandlerIssueTest acts as a publisher for observer CamelContext, which tests Ok, which tests Kaboom, which tests Illegal, which creates Route Builder.
+OnExceptionBeforeErrorHandlerIssueTest acts as a publisher for observer Service, which tests Ok, which tests Kaboom, which tests Illegal, which creates Route Builder.

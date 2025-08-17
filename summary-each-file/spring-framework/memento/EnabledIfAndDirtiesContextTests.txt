@@ -1,0 +1,2 @@
+EnabledIfAndDirtiesContextTests acts as a caretaker for memento B, which resets, which contexts Should Be Closed For Enabled Test Class, which contexts Should Be Closed For Disabled Test Class, which tests, which tests, which disposables Bean.
+EnabledIfAndDirtiesContextTests acts as a caretaker for memento A, which resets, which contexts Should Be Closed For Enabled Test Class, which contexts Should Be Closed For Disabled Test Class, which tests, which tests, which disposables Bean.

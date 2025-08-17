@@ -1,0 +1,1 @@
+SSLConnectionConfigurator acts as a component for decorator OAuth2ConnectionConfigurator, which overrides configureConnectionConfigurator.

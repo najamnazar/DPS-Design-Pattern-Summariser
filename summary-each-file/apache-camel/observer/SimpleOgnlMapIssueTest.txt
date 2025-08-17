@@ -1,0 +1,2 @@
+SimpleOgnlMapIssueTest acts as a publisher for observer Service, which tests Simple Ognl Issue King, which tests Simple Ognl Issue Other, which creates Route Builder, which gets Property.
+SimpleOgnlMapIssueTest acts as a publisher for observer CamelContext, which tests Simple Ognl Issue King, which tests Simple Ognl Issue Other, which creates Route Builder, which gets Property.

@@ -1,0 +1,1 @@
+MirrorTestAnnotationProcessor acts as a caretaker for memento E, which processes, which tests TypeDeclaration parameter of typeDecl Type Decl, which tests Package Impl, which tests TypeDeclaration parameter of typeDecl Declarations Util.

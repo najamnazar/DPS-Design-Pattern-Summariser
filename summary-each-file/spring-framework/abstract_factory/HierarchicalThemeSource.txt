@@ -1,0 +1,2 @@
+HierarchicalThemeSource acts as a product for HierarchicalThemeSource, which overrides.
+HierarchicalThemeSource acts as an abstract factory for ThemeSource, which is inherited by ResourceBundleThemeSource, DelegatingThemeSource.

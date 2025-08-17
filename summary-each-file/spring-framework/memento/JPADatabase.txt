@@ -1,0 +1,1 @@
+JPADatabase acts as a caretaker for memento C, which exports, which connections Provider, which loads Collection<? parameter of extends Attribute Converters.

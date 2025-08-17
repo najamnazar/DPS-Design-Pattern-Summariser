@@ -1,0 +1,2 @@
+ConvertBodyProcessor acts as a product for InternalProcessorFactory, which overrides processAsync method of AsyncProcessor, process method of AsyncProcessor.
+ConvertBodyProcessor acts as a product for AnnotationBasedProcessorFactory, which overrides processAsync method of AsyncProcessor, process method of AsyncProcessor.

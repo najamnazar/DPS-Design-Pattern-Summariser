@@ -1,0 +1,2 @@
+ProblemFieldBinding acts as a caretaker for memento Binding, which problems Id.
+ProblemFieldBinding acts as a caretaker for memento R, which problems Id.

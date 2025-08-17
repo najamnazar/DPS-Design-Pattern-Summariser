@@ -1,0 +1,2 @@
+GracefulShutdownNoAutoStartOrderClashTest acts as a publisher for observer Service, which is Use Route Builder, which tests Startup Order Clash.
+GracefulShutdownNoAutoStartOrderClashTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Startup Order Clash.

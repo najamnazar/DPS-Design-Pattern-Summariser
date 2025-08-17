@@ -1,0 +1,2 @@
+JsonDataFormat acts as a product for DataFormatDefinitionAware, which overrides getDataFormatName method of DataFormatDefinition.
+JsonDataFormat acts as a product for Model, which overrides getDataFormatName method of DataFormatDefinition.

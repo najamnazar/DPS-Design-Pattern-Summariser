@@ -1,0 +1,1 @@
+InputSplit acts as an adaptee for adapter ZombieJob, which adapts to JobStory, which adapts to JobStory.

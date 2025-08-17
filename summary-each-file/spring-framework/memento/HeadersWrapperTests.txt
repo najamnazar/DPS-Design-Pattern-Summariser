@@ -1,0 +1,1 @@
+HeadersWrapperTests acts as a caretaker for memento Headers, which creates Wrapper, which accepts, which accepts Charset, which contents Length, which contents Type, which hosts, which ranges, which headers, which ases Http Headers.

@@ -1,0 +1,1 @@
+HttpServerTests acts as a caretaker for memento C, which starts, which stops, which tests.

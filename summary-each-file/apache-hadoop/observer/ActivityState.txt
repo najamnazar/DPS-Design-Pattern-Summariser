@@ -1,0 +1,1 @@
+ActivityState acts as an observer for publisher AppAllocation, which is inherited by.

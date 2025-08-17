@@ -1,0 +1,2 @@
+FilterPojoIssueTest acts as a publisher for observer CamelContext, which does String parameter of body Something, which tests Filter Pojo, which tests Filter Pojo Null, which creates Route Builder.
+FilterPojoIssueTest acts as a publisher for observer Service, which does String parameter of body Something, which tests Filter Pojo, which tests Filter Pojo Null, which creates Route Builder.

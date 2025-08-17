@@ -1,0 +1,5 @@
+NatsConsumerStopTest acts as a publisher for observer ConsumerTemplate, which tests Consumer Stop.
+NatsConsumerStopTest acts as a publisher for observer ProducerTemplate, which tests Consumer Stop.
+NatsConsumerStopTest acts as a publisher for observer CamelContext, which tests Consumer Stop.
+NatsConsumerStopTest acts as a publisher for observer FluentProducerTemplate, which tests Consumer Stop.
+NatsConsumerStopTest acts as a publisher for observer Service, which tests Consumer Stop.

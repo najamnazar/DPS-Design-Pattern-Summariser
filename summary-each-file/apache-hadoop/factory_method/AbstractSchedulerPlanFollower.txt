@@ -1,0 +1,2 @@
+AbstractSchedulerPlanFollower acts as a product for AbstractReservationSystem, which overrides init method of PlanFollower, setPlans method of PlanFollower, synchronizePlan method of PlanFollower.
+AbstractSchedulerPlanFollower acts as a factory for SchedulerApplicationAttempt, which overrides.

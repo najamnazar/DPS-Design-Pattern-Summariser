@@ -1,0 +1,2 @@
+ValidatorEndpointClearCachedSchemaTest acts as a publisher for observer Service, which tests Clear Cached Schema, which creates Camel Context, which creates Route Builder, which runs, which runs, which clears Cached Schema.
+ValidatorEndpointClearCachedSchemaTest acts as a publisher for observer CamelContext, which tests Clear Cached Schema, which creates Camel Context, which creates Route Builder, which runs, which runs, which clears Cached Schema.

@@ -1,0 +1,1 @@
+KnativeHttpProducer acts as a publisher for observer KnativeResource, which is inherited by, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which does Init, which does Stop, which gets KnativeResource parameter of definition Url, which gets KnativeResource parameter of definition Host.

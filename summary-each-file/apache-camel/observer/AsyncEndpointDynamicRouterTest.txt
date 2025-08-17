@@ -1,0 +1,2 @@
+AsyncEndpointDynamicRouterTest acts as a publisher for observer CamelContext, which tests Async Endpoint, which creates Route Builder, which slips String parameter of body.
+AsyncEndpointDynamicRouterTest acts as a publisher for observer Service, which tests Async Endpoint, which creates Route Builder, which slips String parameter of body.

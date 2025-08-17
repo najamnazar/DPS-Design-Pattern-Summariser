@@ -1,0 +1,2 @@
+SpringBeanAutowiringSupportTests acts as a caretaker for memento ITestBean, which tests Process Injection Based On Servlet Context.
+SpringBeanAutowiringSupportTests acts as a caretaker for memento B, which tests Process Injection Based On Servlet Context.

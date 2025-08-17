@@ -1,0 +1,4 @@
+ASTHolderCUInfo acts as a caretaker for memento C.
+ASTHolderCUInfo acts as a caretaker for memento S.
+ASTHolderCUInfo acts as a caretaker for memento String.
+ASTHolderCUInfo acts as a caretaker for memento Map.

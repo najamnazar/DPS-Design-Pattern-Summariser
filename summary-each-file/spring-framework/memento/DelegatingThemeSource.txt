@@ -1,0 +1,1 @@
+DelegatingThemeSource acts as a caretaker for memento Theme, which sets @Nullable parameter of ThemeSource Parent Theme Source, which gets Parent Theme Source, which gets String parameter of themeName Theme.

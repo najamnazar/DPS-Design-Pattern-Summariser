@@ -1,0 +1,1 @@
+ProcessorValidator acts as a caretaker for memento Context, which validates Message parameter of message, DataType parameter of type, which sets Processor parameter of processor Processor, which tos String, which does Build, which does Init, which does Start, which does Stop.

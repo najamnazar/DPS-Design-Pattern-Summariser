@@ -1,0 +1,1 @@
+Test acts as a memento, which is inherited by TestSuite, TestCase, TestDecorator.

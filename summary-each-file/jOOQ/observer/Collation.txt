@@ -1,0 +1,2 @@
+Collation acts as an observer, which gets Name.
+Collation acts as an observer for publisher DataTypeProxy, which is inherited by CollationImpl, which gets Name.

@@ -1,0 +1,1 @@
+ContextEncryptionAdapter acts as an observer for publisher AbfsInputStreamContext, which is inherited by NoContextEncryptionAdapter, ContextProviderEncryptionAdapter, which gets Encoded Key, which gets Encoded Key SHA, which gets Encoded Context, which destroys.

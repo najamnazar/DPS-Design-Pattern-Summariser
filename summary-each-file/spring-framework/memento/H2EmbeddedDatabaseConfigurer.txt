@@ -1,0 +1,2 @@
+H2EmbeddedDatabaseConfigurer acts as a caretaker for memento C, which gets Instance, which configures ConnectionProperties parameter of properties, String parameter of databaseName Connection Properties.
+H2EmbeddedDatabaseConfigurer acts as a caretaker for memento Database, which gets Instance, which configures ConnectionProperties parameter of properties, String parameter of databaseName Connection Properties.

@@ -1,0 +1,1 @@
+OptaplannerSolutionEventListener acts as an observer for publisher OptaPlannerEndpoint, which is inherited by, which bests OptaplannerSolutionEvent parameter of event Solution Changed.

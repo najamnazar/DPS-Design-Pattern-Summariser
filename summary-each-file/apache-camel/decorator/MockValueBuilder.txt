@@ -1,0 +1,2 @@
+MockValueBuilder acts as a decorator for component Expression, which is inherited by.
+MockValueBuilder acts as a component for decorator ExpressionDefinition, which overrides initPredicate, evaluatePredicate, matchesPredicate, toStringPredicate.

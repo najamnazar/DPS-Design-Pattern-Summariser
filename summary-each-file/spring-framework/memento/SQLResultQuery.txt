@@ -1,0 +1,1 @@
+SQLResultQuery acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which gets Record Type0, which gets ThrowingSupplier<? parameter of extends Fields, which gets Fields.

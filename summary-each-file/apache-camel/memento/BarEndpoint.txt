@@ -1,0 +1,2 @@
+BarEndpoint acts as a caretaker for memento Context, which gets Name, which sets String parameter of name Name, which gets Drink, which sets String parameter of drink Drink, which creates Producer, which creates Processor parameter of processor Consumer, which is Singleton.
+BarEndpoint acts as a caretaker for memento Component, which gets Name, which sets String parameter of name Name, which gets Drink, which sets String parameter of drink Drink, which creates Producer, which creates Processor parameter of processor Consumer, which is Singleton.

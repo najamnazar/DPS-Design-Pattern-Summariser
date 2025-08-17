@@ -1,0 +1,1 @@
+TestMultipleArchiveFiles acts as an adapter, which adapts to TestStreaming, which adapts to TestStreaming, which adapts to TestStreaming, which adapts to TestStreaming.

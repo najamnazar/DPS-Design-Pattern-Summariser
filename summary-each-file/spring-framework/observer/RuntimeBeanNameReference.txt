@@ -1,0 +1,1 @@
+RuntimeBeanNameReference acts as an observer, which gets Bean Name, which sets @Nullable parameter of Object Source, which gets Source, which equals @Nullable parameter of Object, which hashes Code, which tos String.

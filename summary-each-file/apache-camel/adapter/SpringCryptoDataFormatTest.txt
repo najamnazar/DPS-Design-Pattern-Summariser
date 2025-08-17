@@ -1,0 +1,1 @@
+SpringCryptoDataFormatTest acts as an adapter, which adapts to CryptoDataFormatTest, which adapts to CryptoDataFormatTest, which adapts to CryptoDataFormatTest, which adapts to CryptoDataFormatTest, which adapts to CryptoDataFormatTest, which adapts to CryptoDataFormatTest, which adapts to CryptoDataFormatTest.

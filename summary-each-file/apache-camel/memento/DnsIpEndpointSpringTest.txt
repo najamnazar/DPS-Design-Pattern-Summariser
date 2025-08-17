@@ -1,0 +1,2 @@
+DnsIpEndpointSpringTest acts as a caretaker for memento Context, which tests Null IPRequests, which tests Empty IPRequests, which tests Valid IPRequests, which creates Application Context.
+DnsIpEndpointSpringTest acts as a caretaker for memento Producer, which tests Null IPRequests, which tests Empty IPRequests, which tests Valid IPRequests, which creates Application Context.

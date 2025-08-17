@@ -1,0 +1,1 @@
+PeriodicService acts as a publisher for observer Configuration, which sets long parameter of interval Interval Ms, which gets Interval Ms, which gets Error Count, which gets Run Count, which gets Last Update, which services Start, which services Stop, which stops Periodic, which starts Periodic, which periodices Invoke.

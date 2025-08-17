@@ -1,0 +1,1 @@
+MetricsBuffer acts as an observer for publisher MetricsSinkAdapter, which is inherited by, which iterators, which names, which records.

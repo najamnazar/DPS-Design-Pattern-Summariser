@@ -1,0 +1,2 @@
+SplitterOnCompletionTest acts as a publisher for observer Service, which tests Split Ok, which tests Split Exception, which creates Route Builder, which processes Exchange parameter of exchange.
+SplitterOnCompletionTest acts as a publisher for observer CamelContext, which tests Split Ok, which tests Split Exception, which creates Route Builder, which processes Exchange parameter of exchange.

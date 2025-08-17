@@ -1,0 +1,3 @@
+ContainerStatusPBImpl acts as an originator for memento ExecutionType, which gets an ExecutionType Execution Type to, which sets ExecutionType parameter of executionType Execution Type, which converts an ExecutionType From Proto Format to, which converts ExecutionType parameter of e To Proto Format.
+ContainerStatusPBImpl acts as an originator for memento ContainerState, which gets a ContainerState State to, which sets ContainerState parameter of state State, which converts ContainerState parameter of e To Proto Format, which converts a ContainerState From Proto Format to.
+ContainerStatusPBImpl acts as an originator for memento ContainerSubState, which gets a ContainerSubState Container Sub State to, which sets ContainerSubState parameter of subState Container Sub State.

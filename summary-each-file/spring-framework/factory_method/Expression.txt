@@ -1,0 +1,2 @@
+Expression acts as a factory for Expression, which overrides.
+Expression acts as a factory method for Interval, which is inherited by Expression, Expression, Interval, Interval, Interval, Expression.

@@ -1,0 +1,2 @@
+BuildJarIndex acts as a caretaker for memento S, which executes, which sets String parameter of path Jar Path, which sets String parameter of path Index Path.
+BuildJarIndex acts as a caretaker for memento String, which executes, which sets String parameter of path Jar Path, which sets String parameter of path Index Path.

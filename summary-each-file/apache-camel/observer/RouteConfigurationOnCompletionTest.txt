@@ -1,0 +1,2 @@
+RouteConfigurationOnCompletionTest acts as a publisher for observer Service, which creates Camel Context, which tests Ok, which tests Fail, which tests Ok And Fail, which creates Route Builder.
+RouteConfigurationOnCompletionTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Ok, which tests Fail, which tests Ok And Fail, which creates Route Builder.

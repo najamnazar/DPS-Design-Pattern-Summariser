@@ -1,0 +1,5 @@
+BlobOperationsTest acts as a publisher for observer CamelContext, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.
+BlobOperationsTest acts as a publisher for observer ConsumerTemplate, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.
+BlobOperationsTest acts as a publisher for observer ProducerTemplate, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.
+BlobOperationsTest acts as a publisher for observer Service, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.
+BlobOperationsTest acts as a publisher for observer FluentProducerTemplate, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.

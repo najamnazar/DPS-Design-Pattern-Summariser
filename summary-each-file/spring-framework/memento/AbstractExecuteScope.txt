@@ -1,0 +1,3 @@
+AbstractExecuteScope acts as a caretaker for memento Configuration, which executes Context.
+AbstractExecuteScope acts as a caretaker for memento C, which is inherited by, which executes Context.
+AbstractExecuteScope acts as a caretaker for memento C, which executes Context.

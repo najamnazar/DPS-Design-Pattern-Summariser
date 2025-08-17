@@ -1,0 +1,2 @@
+CronTask acts as an observer, which gets Expression.
+CronTask acts as an observer for publisher ScheduledTaskRegistrar, ContextLifecycleScheduledTaskRegistrar, which is inherited by, which gets Expression.

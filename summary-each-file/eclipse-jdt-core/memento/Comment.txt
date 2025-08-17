@@ -1,0 +1,2 @@
+Comment acts as a caretaker for memento C, which is Block Comment, which is Line Comment, which is Doc Comment, which gets Alternate Root, which sets ASTNode parameter of root Alternate Root, which mems Size.
+Comment acts as a caretaker for memento S, which is inherited by, which is Block Comment, which is Line Comment, which is Doc Comment, which gets Alternate Root, which sets ASTNode parameter of root Alternate Root, which mems Size.

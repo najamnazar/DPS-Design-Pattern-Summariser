@@ -1,0 +1,1 @@
+AMRMProxyService acts as a product for TestAMRMTokens, which overrides registerApplicationMaster method of ApplicationMasterProtocol, finishApplicationMaster method of ApplicationMasterProtocol, allocate method of ApplicationMasterProtocol.

@@ -1,0 +1,1 @@
+BreakpointSupport acts as a product for CamelSpringRunnerProvidesBreakpointTest, which overrides getState method of Breakpoint, suspend method of Breakpoint, activate method of Breakpoint, beforeProcess method of Breakpoint, afterProcess method of Breakpoint, onEvent method of Breakpoint.

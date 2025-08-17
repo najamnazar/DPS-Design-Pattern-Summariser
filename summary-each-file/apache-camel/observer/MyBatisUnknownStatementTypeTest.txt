@@ -1,0 +1,5 @@
+MyBatisUnknownStatementTypeTest acts as a publisher for observer ConsumerTemplate, which is Use Route Builder, which tests Statement Type Not Set.
+MyBatisUnknownStatementTypeTest acts as a publisher for observer ProducerTemplate, which is Use Route Builder, which tests Statement Type Not Set.
+MyBatisUnknownStatementTypeTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Statement Type Not Set.
+MyBatisUnknownStatementTypeTest acts as a publisher for observer FluentProducerTemplate, which is Use Route Builder, which tests Statement Type Not Set.
+MyBatisUnknownStatementTypeTest acts as a publisher for observer Service, which is Use Route Builder, which tests Statement Type Not Set.

@@ -1,0 +1,7 @@
+MyJavaDslRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyJavaDslRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyJavaDslRouteBuilder acts as a publisher for observer Resource, which configures.
+MyJavaDslRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyJavaDslRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyJavaDslRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyJavaDslRouteBuilder acts as an observer, which configures.

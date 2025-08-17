@@ -1,0 +1,1 @@
+ResultQueryTrait acts as an abstract factory for Results, Row, which is inherited by.

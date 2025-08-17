@@ -1,0 +1,2 @@
+FileConsumeMaxMessagesPerPollTest acts as a publisher for observer CamelContext, which tests Max Messages Per Poll, which creates Route Builder.
+FileConsumeMaxMessagesPerPollTest acts as a publisher for observer Service, which tests Max Messages Per Poll, which creates Route Builder.

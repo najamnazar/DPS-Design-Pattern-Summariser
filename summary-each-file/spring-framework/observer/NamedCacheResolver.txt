@@ -1,0 +1,1 @@
+NamedCacheResolver acts as a publisher for observer CacheManager, which sets Collection<String> parameter of cacheNames Cache Names, which gets CacheOperationInvocationContext<?> parameter of context Cache Names.

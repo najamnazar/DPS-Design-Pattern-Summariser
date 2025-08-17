@@ -1,0 +1,4 @@
+Language acts as an adaptee for adapter LanguageEndpoint.
+Language acts as an adaptee for adapter SubscribeMethodProcessor.
+Language acts as an adaptee for adapter BeanLanguage.
+Language acts as an adaptee for adapter ControlBusEndpoint.

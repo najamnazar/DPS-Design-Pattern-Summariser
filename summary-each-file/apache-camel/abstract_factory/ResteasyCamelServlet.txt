@@ -1,0 +1,1 @@
+ResteasyCamelServlet acts as a product for HttpRegistry, which overrides getServletName method of HttpRegistryProvider.

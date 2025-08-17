@@ -1,0 +1,1 @@
+LangNamespaceHandler acts as a caretaker for memento B, which inits, which registers String parameter of key, String parameter of scriptFactoryClassName Script Bean Definition Parser.

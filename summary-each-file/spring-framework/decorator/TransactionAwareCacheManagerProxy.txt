@@ -1,0 +1,1 @@
+TransactionAwareCacheManagerProxy acts as a decorator for component CacheManager, which is inherited by.

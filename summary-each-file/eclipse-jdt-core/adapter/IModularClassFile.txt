@@ -1,0 +1,1 @@
+IModularClassFile acts as an adaptee for adapter ModularClassFile, which adapts to AbstractClassFile.

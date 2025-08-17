@@ -1,0 +1,1 @@
+EKS2Operations acts as an observer for publisher EKS2Configuration, which is inherited by.

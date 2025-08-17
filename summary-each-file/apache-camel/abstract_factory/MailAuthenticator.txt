@@ -1,0 +1,1 @@
+MailAuthenticator acts as an abstract product for MailAuthenticator, which is inherited by DefaultAuthenticator, MicrosoftExchangeOnlineOAuth2MailAuthenticator.

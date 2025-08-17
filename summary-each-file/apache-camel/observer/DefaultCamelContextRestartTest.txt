@@ -1,0 +1,2 @@
+DefaultCamelContextRestartTest acts as a publisher for observer CamelContext, which tests Restart, which creates Route Builder.
+DefaultCamelContextRestartTest acts as a publisher for observer Service, which tests Restart, which creates Route Builder.

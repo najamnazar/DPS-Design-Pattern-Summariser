@@ -1,0 +1,1 @@
+SessionTokenIdentifier acts as an observer, which writes final parameter of DataOutput, which reads final parameter of DataInput Fields, which gets Expiry Time, which gets Marshalled Credentials, which tos String.

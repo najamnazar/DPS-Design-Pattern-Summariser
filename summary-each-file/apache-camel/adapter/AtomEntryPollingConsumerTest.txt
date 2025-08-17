@@ -1,0 +1,1 @@
+AtomEntryPollingConsumerTest acts as a target for adapter AtomEntryPollingConsumerWithBasicAuthTest, which adapts to AtomEntryPollingConsumerTest, which adapts to AtomEntryPollingConsumerTest.

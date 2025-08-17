@@ -1,0 +1,4 @@
+CharacterSet acts as an abstract product for CharacterSet, which is inherited by CharacterSetImpl.
+CharacterSet acts as a product for VisitContext, which overrides.
+CharacterSet acts as a product for Context, which overrides.
+CharacterSet acts as a product for DiagnosticsContext, which overrides.

@@ -1,0 +1,5 @@
+JettyRestRedirectTest acts as a publisher for observer CamelContext, which tests Redirect Invocation, which creates Route Builder.
+JettyRestRedirectTest acts as a publisher for observer ProducerTemplate, which tests Redirect Invocation, which creates Route Builder.
+JettyRestRedirectTest acts as a publisher for observer FluentProducerTemplate, which tests Redirect Invocation, which creates Route Builder.
+JettyRestRedirectTest acts as a publisher for observer Service, which tests Redirect Invocation, which creates Route Builder.
+JettyRestRedirectTest acts as a publisher for observer ConsumerTemplate, which tests Redirect Invocation, which creates Route Builder.

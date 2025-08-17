@@ -1,0 +1,1 @@
+MockCallMethod acts as an adaptee for adapter CallClientTest, which adapts to AbstractMiloServerTest, which adapts to AbstractMiloServerTest, which adapts to AbstractMiloServerTest, which adapts to AbstractMiloServerTest.

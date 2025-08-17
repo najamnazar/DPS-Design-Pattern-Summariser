@@ -1,0 +1,1 @@
+NoErrorHandlerDefinition acts as a memento, which is inherited by NoErrorHandlerBuilder, which clones Builder, which clones Builder.

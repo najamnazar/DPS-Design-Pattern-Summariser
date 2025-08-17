@@ -1,0 +1,1 @@
+JobContext acts as an abstract factory for Progressable, which is inherited by JobContextImpl.

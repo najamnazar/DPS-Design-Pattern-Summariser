@@ -1,0 +1,1 @@
+CamelJGroupsReceiver acts as an adaptee for adapter JGroupsConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

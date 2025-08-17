@@ -1,0 +1,1 @@
+UserRegistryMessageHandler acts as a product for MessageHandlingRunnable, which overrides handleMessage method of MessageHandler.

@@ -1,0 +1,1 @@
+DisruptorComponentBuilderFactory acts as an abstract factory for DisruptorComponent, which is inherited by.

@@ -1,0 +1,1 @@
+MultipartSignedEntity acts as a publisher for observer MimeEntity, which is Valid, which gets Signed Data Entity, which gets Signature Entity.

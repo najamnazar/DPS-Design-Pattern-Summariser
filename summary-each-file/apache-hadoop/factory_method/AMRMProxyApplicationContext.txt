@@ -1,0 +1,3 @@
+AMRMProxyApplicationContext acts as a factory for TestDockerContainerRuntime, which overrides.
+AMRMProxyApplicationContext acts as a factory for AMRMProxyApplicationContextImpl, which overrides.
+AMRMProxyApplicationContext acts as an abstract product for AbstractRequestInterceptor, which is inherited by AMRMProxyApplicationContextImpl.

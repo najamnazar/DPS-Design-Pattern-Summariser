@@ -1,0 +1,2 @@
+DrainDispatcher acts as an adaptee for adapter TestJobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler.
+DrainDispatcher acts as an adaptee for adapter TestLogAggregationService, which adapts to BaseContainerManagerTest, which adapts to BaseContainerManagerTest, which adapts to BaseContainerManagerTest, which adapts to BaseContainerManagerTest, which adapts to BaseContainerManagerTest.

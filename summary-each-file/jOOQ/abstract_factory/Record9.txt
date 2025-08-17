@@ -1,0 +1,5 @@
+Record9 acts as a product for DSLContext, which overrides.
+Record9 acts as a product for Record, which overrides.
+Record9 acts as a product for UpdatableRecord, which overrides.
+Record9 acts as a product for ExecuteContext, which overrides.
+Record9 acts as a product for RecordContext, which overrides.

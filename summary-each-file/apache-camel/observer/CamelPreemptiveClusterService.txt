@@ -1,0 +1,2 @@
+CamelPreemptiveClusterService acts as an observer, which gets String parameter of namespace View.
+CamelPreemptiveClusterService acts as an observer for publisher RebalancingCamelClusterService, which is inherited by RebalancingCamelClusterService, KubernetesClusterService, which gets String parameter of namespace View.

@@ -1,0 +1,2 @@
+AnnotationConfigSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer ApplicationContext.
+AnnotationConfigSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer Employee.

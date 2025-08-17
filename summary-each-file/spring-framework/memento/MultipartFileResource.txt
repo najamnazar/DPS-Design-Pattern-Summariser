@@ -1,0 +1,1 @@
+MultipartFileResource acts as a caretaker for memento File, which exists, which is Open, which contents Length, which gets Filename, which gets Input Stream, which gets Description, which equals @Nullable parameter of Object, which hashes Code.

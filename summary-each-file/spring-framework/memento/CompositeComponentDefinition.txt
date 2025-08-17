@@ -1,0 +1,1 @@
+CompositeComponentDefinition acts as a caretaker for memento C, which is inherited by, which gets Name, which gets Source, which adds ComponentDefinition parameter of component Nested Component, which gets Nested Components.

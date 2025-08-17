@@ -1,0 +1,2 @@
+MethodDeclarationImpl acts as an adapter, which adapts to ExecutableDeclarationImpl, which adapts to ExecutableDeclarationImpl, which adapts to ExecutableDeclarationImpl, which adapts to ExecutableDeclarationImpl.
+MethodDeclarationImpl acts as a target for adapter AnnotationElementDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl.

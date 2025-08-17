@@ -1,0 +1,2 @@
+PollEnricherRefTest acts as a caretaker for memento Context, which creates Registry, which creates Camel Context, which tests Poll Enrich Ref, which creates Route Builder.
+PollEnricherRefTest acts as a caretaker for memento Producer, which creates Registry, which creates Camel Context, which tests Poll Enrich Ref, which creates Route Builder.

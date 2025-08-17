@@ -1,0 +1,1 @@
+PackagesAnnotationFilter acts as a caretaker for memento A, which matches String parameter of annotationType, which equals @Nullable parameter of Object, which hashes Code, which tos String.

@@ -1,0 +1,2 @@
+NodesToAttributesMappingResponse acts as a memento, which is inherited by NodesToAttributesMappingResponsePBImpl, which news Instance.
+NodesToAttributesMappingResponse acts as an originator for memento NodesToAttributesMappingResponse, which is inherited by, which news a NodesToAttributesMappingResponse Instance to.

@@ -1,0 +1,10 @@
+EvaluationConstants acts as an adaptee for adapter CodeSnippetFieldReference.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetSingleNameReference.
+EvaluationConstants acts as an adaptee for adapter VariablesEvaluator.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetEvaluator.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetParser.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetThisReference.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetSuperReference.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetQualifiedNameReference.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetAllocationExpression.
+EvaluationConstants acts as an adaptee for adapter CodeSnippetReturnStatement.

@@ -1,0 +1,1 @@
+JsonObjectMapperParser acts as an observer, which gets Next, which closes.

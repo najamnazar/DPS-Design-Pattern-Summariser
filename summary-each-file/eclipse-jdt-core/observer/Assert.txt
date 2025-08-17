@@ -1,0 +1,1 @@
+Assert acts as a publisher for observer String, which is inherited by TestCase, which nots Object parameter of ref, String parameter of message Null, which methods String parameter of param1, String parameter of param2, String parameter of param3.

@@ -1,0 +1,1 @@
+TomcatWebSocketClient acts as a publisher for observer HttpHeaders, which creates Session parameter of session, HandshakeInfo parameter of info, Sinks.Empty<Void> parameter of completionSink Web Socket Session.

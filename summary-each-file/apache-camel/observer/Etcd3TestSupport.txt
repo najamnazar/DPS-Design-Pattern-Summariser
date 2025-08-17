@@ -1,0 +1,5 @@
+Etcd3TestSupport acts as a publisher for observer ProducerTemplate, which gets Client, which creates Camel Context.
+Etcd3TestSupport acts as a publisher for observer ConsumerTemplate, which gets Client, which creates Camel Context.
+Etcd3TestSupport acts as a publisher for observer FluentProducerTemplate, which gets Client, which creates Camel Context.
+Etcd3TestSupport acts as a publisher for observer CamelContext, which gets Client, which creates Camel Context.
+Etcd3TestSupport acts as a publisher for observer Service, which gets Client, which creates Camel Context.

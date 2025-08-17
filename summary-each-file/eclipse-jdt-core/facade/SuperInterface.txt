@@ -1,0 +1,1 @@
+SuperInterface acts as a subsystem for facade ResolveAbstractMethod.

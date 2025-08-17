@@ -1,0 +1,1 @@
+InterceptingHttpAccessor acts as an adapter, which adapts to HttpAccessor, which adapts getInterceptors method of ClientHttpRequestFactory to HttpAccessor, which adapts to HttpAccessor, which adapts to HttpAccessor.

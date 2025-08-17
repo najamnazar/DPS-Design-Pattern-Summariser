@@ -1,0 +1,1 @@
+RefreshMountTableEntriesResponsePBImpl acts as a product for MountTableManager, which overrides getResult method of RefreshMountTableEntriesResponse, setResult method of RefreshMountTableEntriesResponse.

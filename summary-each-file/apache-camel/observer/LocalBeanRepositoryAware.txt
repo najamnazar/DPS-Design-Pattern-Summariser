@@ -1,0 +1,1 @@
+LocalBeanRepositoryAware acts as a publisher for observer BeanRepository, which is inherited by DefaultRegistry, which sets BeanRepository parameter of repository Local Bean Repository, which gets Local Bean Repository.

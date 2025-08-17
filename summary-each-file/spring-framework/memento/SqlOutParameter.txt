@@ -1,0 +1,2 @@
+SqlOutParameter acts as a caretaker for memento C, which gets Sql Return Type, which is Return Type Supported.
+SqlOutParameter acts as a caretaker for memento Row, which gets Sql Return Type, which is Return Type Supported.

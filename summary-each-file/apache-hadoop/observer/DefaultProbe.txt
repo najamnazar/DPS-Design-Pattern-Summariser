@@ -1,0 +1,1 @@
+DefaultProbe acts as an observer, which creates, which creates Map<String, parameter of String>, which pings ComponentInstance parameter of instance, which is Dns Check Enabled.

@@ -1,0 +1,2 @@
+SmppMessage acts as a memento, which gets Command, which gets Command, which gets Command, which gets Command, which gets Command, which gets Command, which gets Command, which gets Command.
+SmppMessage acts as a caretaker for memento Configuration, which news Instance, which is Alert Notification, which is Data Sm, which is Deliver Sm, which is Delivery Receipt, which creates Body, which tos String, which gets Command.

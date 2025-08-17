@@ -1,0 +1,1 @@
+MultiSchemeDelegationTokenAuthenticationHandler acts as a publisher for observer Token, which gets Token Types, which inits Properties parameter of config, which authenticates HttpServletRequest parameter of request, HttpServletResponse parameter of response.

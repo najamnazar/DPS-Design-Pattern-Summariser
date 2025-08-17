@@ -1,0 +1,1 @@
+BuiltInZlibInflater acts as a product for CompressionCodec, which overrides decompress method of Decompressor.

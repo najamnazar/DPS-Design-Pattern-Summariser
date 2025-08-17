@@ -1,0 +1,2 @@
+PollEnrichFileCustomAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Poll Enrich Custom Aggregation Strategy Body, which creates Route Builder, which aggregates Exchange parameter of original, Exchange parameter of resource.
+PollEnrichFileCustomAggregationStrategyTest acts as a publisher for observer Service, which tests Poll Enrich Custom Aggregation Strategy Body, which creates Route Builder, which aggregates Exchange parameter of original, Exchange parameter of resource.

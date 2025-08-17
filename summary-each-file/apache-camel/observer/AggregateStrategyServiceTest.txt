@@ -1,0 +1,2 @@
+AggregateStrategyServiceTest acts as a publisher for observer Service, which tests Aggregate, which creates Route Builder.
+AggregateStrategyServiceTest acts as a publisher for observer CamelContext, which tests Aggregate, which creates Route Builder.

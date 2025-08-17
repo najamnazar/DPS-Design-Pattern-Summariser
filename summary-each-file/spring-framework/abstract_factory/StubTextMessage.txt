@@ -1,0 +1,1 @@
+StubTextMessage acts as a product for ResponsiveJmsTextMessageReturningMessageDelegate, which overrides.

@@ -1,0 +1,1 @@
+ExpressionToPredicateAdapter acts as a component for decorator ExpressionDefinition, which overrides matchesPredicate, toStringPredicate, initPredicate.

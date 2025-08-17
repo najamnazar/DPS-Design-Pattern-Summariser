@@ -1,0 +1,2 @@
+MethodParametersAttribute acts as a caretaker for memento C, which gets Method Parameter Length, which gets int parameter of i Parameter Name, which gets int parameter of i Access Flags.
+MethodParametersAttribute acts as a caretaker for memento Class, which gets Method Parameter Length, which gets int parameter of i Parameter Name, which gets int parameter of i Access Flags.

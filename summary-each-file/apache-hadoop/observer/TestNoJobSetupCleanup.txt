@@ -1,0 +1,1 @@
+TestNoJobSetupCleanup acts as a publisher for observer Path, which is inherited by, which submits Configuration parameter of conf, int parameter of numMaps, int parameter of numReds And Validate Job, which tests No Job Setup Cleanup, which checks JobContext parameter of job Output Specs, which accepts Path parameter of path.

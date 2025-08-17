@@ -1,0 +1,5 @@
+EvaluationSetup acts as an adapter, which adapts to CompilerTestSetup, which adapts startReader method of EvaluationContext, startReader method of EvaluationContext to CompilerTestSetup, which adapts to CompilerTestSetup.
+EvaluationSetup acts as an adapter, which adapts to CompilerTestSetup, which adapts startReader method of TargetInterface, startReader method of TargetInterface to CompilerTestSetup, which adapts to CompilerTestSetup.
+EvaluationSetup acts as an adapter, which adapts to CompilerTestSetup, which adapts startReader method of INameEnvironment, startReader method of INameEnvironment to CompilerTestSetup, which adapts to CompilerTestSetup.
+EvaluationSetup acts as an adapter, which adapts to CompilerTestSetup, which adapts startReader method of LocalVirtualMachine, startReader method of LocalVirtualMachine to CompilerTestSetup, which adapts to CompilerTestSetup.
+EvaluationSetup acts as an adapter, which adapts to CompilerTestSetup, which adapts startReader method of String, startReader method of String to CompilerTestSetup, which adapts to CompilerTestSetup.

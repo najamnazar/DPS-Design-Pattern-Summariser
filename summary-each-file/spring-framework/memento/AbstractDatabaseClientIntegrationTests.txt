@@ -1,0 +1,1 @@
+AbstractDatabaseClientIntegrationTests acts as a caretaker for memento C, which is inherited by, which befores, which creates Connection Factory, which gets Create Table Statement, which executes Insert, which shoulds Translate Duplicate Key Exception, which executes Deferred, which shoulds Emit Generated Key.

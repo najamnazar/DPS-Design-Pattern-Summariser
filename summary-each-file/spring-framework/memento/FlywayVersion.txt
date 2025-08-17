@@ -1,0 +1,1 @@
+FlywayVersion acts as a caretaker for memento B, which froms String parameter of version Version, which equals Object parameter of o, which hashes Code, which compares FlywayVersion parameter of o To, which gets List<BigInteger> parameter of elements, int parameter of i Or Zero, which tokenizes String parameter of versionStr.

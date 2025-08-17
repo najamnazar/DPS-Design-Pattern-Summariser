@@ -1,0 +1,1 @@
+FieldError acts as a product for Errors, which overrides equals method of ObjectError, hashCode method of ObjectError, toString method of ObjectError.

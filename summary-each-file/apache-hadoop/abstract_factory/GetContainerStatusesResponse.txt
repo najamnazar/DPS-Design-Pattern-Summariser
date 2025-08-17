@@ -1,0 +1,1 @@
+GetContainerStatusesResponse acts as an abstract product for GetContainerStatusesResponse, which is inherited by GetContainerStatusesResponsePBImpl.

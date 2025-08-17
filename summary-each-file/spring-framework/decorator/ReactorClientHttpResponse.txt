@@ -1,0 +1,2 @@
+ReactorClientHttpResponse acts as a component for decorator MessageBodyClientHttpResponseWrapper, which overrides getHeadersClientHttpResponse, getStatusCodeClientHttpResponse, getRawStatusCodeClientHttpResponse.
+ReactorClientHttpResponse acts as a component for decorator ClientHttpResponseDecorator, which overrides getIdClientHttpResponse, getBodyClientHttpResponse, getHeadersClientHttpResponse, getStatusCodeClientHttpResponse, getRawStatusCodeClientHttpResponse, getCookiesClientHttpResponse, toStringClientHttpResponse.

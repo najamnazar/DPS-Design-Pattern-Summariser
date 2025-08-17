@@ -1,0 +1,1 @@
+AWSS3NamingStrategyEnum acts as an observer for publisher AWS2S3Configuration, which is inherited by.

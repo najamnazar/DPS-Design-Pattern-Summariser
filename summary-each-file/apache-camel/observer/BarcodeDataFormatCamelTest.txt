@@ -1,0 +1,1 @@
+BarcodeDataFormatCamelTest acts as a publisher for observer MockEndpoint, which tests Default QRCode, which tests QRCode With Modified Size, which tests QRCode With JPEGType, which tests PDF417Code Width Modified Size And Image Type, which tests AZTECWidth Modified Size And Image Type, which creates Route Builder.

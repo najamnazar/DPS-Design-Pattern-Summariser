@@ -1,0 +1,1 @@
+ITestS3AAnalyticsAcceleratorStreamReading acts as a publisher for observer AuditSpanSource, which sets Up, which creates Configuration, which tests Connector Frame Work Integration, which tests Malformed Parquet Footer, which tests Multi Row Group Parquet, which tests Invalid Configuration Throws.

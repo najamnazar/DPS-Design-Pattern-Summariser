@@ -1,0 +1,1 @@
+CombinedResourceCalculator acts as an observer, which initializes, which updates Process Tree, which gets Process Tree Dump, which checks Pid Pgrpid For Match, which gets int parameter of olderThanAge Virtual Memory Size, which gets int parameter of olderThanAge Rss Memory Size, which gets Cumulative Cpu Time, which gets Cpu Usage Percent.

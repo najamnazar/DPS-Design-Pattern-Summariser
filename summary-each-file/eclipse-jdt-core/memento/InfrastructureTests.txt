@@ -1,0 +1,2 @@
+InfrastructureTests acts as a caretaker for memento String, which suites, which tests Plugin Loaded, which tests Project Build, which tests Factory Path Contents.
+InfrastructureTests acts as a caretaker for memento S, which suites, which tests Plugin Loaded, which tests Project Build, which tests Factory Path Contents.

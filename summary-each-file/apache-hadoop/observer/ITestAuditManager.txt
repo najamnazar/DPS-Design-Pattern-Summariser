@@ -1,0 +1,1 @@
+ITestAuditManager acts as a publisher for observer OperationCost, which creates Configuration, which iostatses, which tests Invoke Out Of Span Rejected, which tests Execution Interceptor Binding.

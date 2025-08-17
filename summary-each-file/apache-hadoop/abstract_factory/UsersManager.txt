@@ -1,0 +1,2 @@
+UsersManager acts as a product for CSQueue, which overrides activateApplication method of AbstractUsersManager, deactivateApplication method of AbstractUsersManager, getNumActiveUsers method of AbstractUsersManager.
+UsersManager acts as a product for Queue, which overrides activateApplication method of AbstractUsersManager, deactivateApplication method of AbstractUsersManager, getNumActiveUsers method of AbstractUsersManager.

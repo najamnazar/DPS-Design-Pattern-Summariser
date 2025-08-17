@@ -1,0 +1,1 @@
+ServiceFilter acts as an adaptee for adapter CustomServiceCallServiceFilterConfiguration, which adapts to ServiceCallServiceFilterConfiguration.

@@ -1,0 +1,2 @@
+EventWriter acts as an adaptee for adapter TestJobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler.
+EventWriter acts as an adaptee for adapter JobHistoryEventHandler, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

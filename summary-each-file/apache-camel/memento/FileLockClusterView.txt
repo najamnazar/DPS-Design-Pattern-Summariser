@@ -1,0 +1,1 @@
+FileLockClusterView acts as a caretaker for memento Context, which gets Leader, which gets Local Member, which gets Members, which does Start, which does Stop, which closes Internal, which closes Lock File, which tries Lock, which is Leader, which is Local, which gets Id.

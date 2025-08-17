@@ -1,0 +1,1 @@
+PojoProduceInterceptEndpointTest acts as a caretaker for memento Producer, which tests Pojo Produce Intercept Already Started, which tests Pojo Produce Intercept Not Started, which does String parameter of body Something.

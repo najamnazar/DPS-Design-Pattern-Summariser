@@ -1,0 +1,1 @@
+SpringGrokDataFormatTest acts as a caretaker for memento Context, which tests Multiple Ip Custom Ref, which tests Multiple Ip, which tests Custom Pattern, which creates Application Context.

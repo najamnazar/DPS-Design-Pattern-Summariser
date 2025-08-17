@@ -1,0 +1,1 @@
+StubProducer acts as an observer, which gets Endpoint, which processes Exchange parameter of exchange, AsyncCallback parameter of callback.

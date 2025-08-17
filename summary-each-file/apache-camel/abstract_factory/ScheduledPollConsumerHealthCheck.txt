@@ -1,0 +1,2 @@
+ScheduledPollConsumerHealthCheck acts as a product for HealthCheckResolver, which overrides.
+ScheduledPollConsumerHealthCheck acts as a product for HealthCheckAware, which overrides.

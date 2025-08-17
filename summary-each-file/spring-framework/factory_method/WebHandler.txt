@@ -1,0 +1,1 @@
+WebHandler acts as an abstract product for DefaultWebFilterChain, which is inherited by DispatcherHandler, WebHandlerDecorator, ResourceWebHandler.

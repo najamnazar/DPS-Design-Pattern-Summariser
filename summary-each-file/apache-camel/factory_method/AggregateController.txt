@@ -1,0 +1,1 @@
+AggregateController acts as an abstract product for SpringAggregateControllerTest, which is inherited by DefaultAggregateController.

@@ -1,0 +1,2 @@
+OnCompletionWhenTest acts as a publisher for observer CamelContext, which tests Synchronize Complete When, which tests Synchronize Complete No When, which creates Route Builder.
+OnCompletionWhenTest acts as a publisher for observer Service, which tests Synchronize Complete When, which tests Synchronize Complete No When, which creates Route Builder.

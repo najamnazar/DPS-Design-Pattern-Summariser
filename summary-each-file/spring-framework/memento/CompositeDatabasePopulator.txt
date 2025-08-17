@@ -1,0 +1,1 @@
+CompositeDatabasePopulator acts as a caretaker for memento Database, which sets DatabasePopulator... parameter of populators Populators, which adds DatabasePopulator... parameter of populators Populators, which populates Connection parameter of connection.

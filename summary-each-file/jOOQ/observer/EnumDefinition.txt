@@ -1,0 +1,1 @@
+EnumDefinition acts as an observer, which gets Literals, which is Synthetic.

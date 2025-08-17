@@ -1,0 +1,3 @@
+Types acts as an originator for memento VoidType, which is inherited by, which gets a VoidType Void Type to.
+Types acts as an originator for memento DeclaredType, which is inherited by, which gets a DeclaredType Declared Type to, which gets DeclaredType parameter of containing, TypeDeclaration parameter of decl, TypeMirror... parameter of typeArgs Declared Type, which gets DeclaredType parameter of containing, TypeDeclaration parameter of decl, TypeMirror... parameter of typeArgs Declared Type.
+Types acts as an originator for memento TypeVariable, which is inherited by, which gets a TypeVariable Type Variable to.

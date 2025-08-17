@@ -1,0 +1,1 @@
+SiblingEnumeration acts as a memento, which nexts Element, which nexts Element.

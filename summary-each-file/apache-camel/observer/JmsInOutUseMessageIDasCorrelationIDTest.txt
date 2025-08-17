@@ -1,0 +1,1 @@
+JmsInOutUseMessageIDasCorrelationIDTest acts as a publisher for observer ArtemisService, which waits For Connections, which tests In Out With Msg Id As Corr Id, which tests In Out Fixed Reply To And With Msg Id As Corr Id, which gets Component Name, which creates Route Builder.

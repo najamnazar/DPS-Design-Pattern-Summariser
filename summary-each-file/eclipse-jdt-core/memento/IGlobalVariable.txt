@@ -1,0 +1,2 @@
+IGlobalVariable acts as an originator for memento String, which is inherited by, which gets a String Initializer to, which gets a String Name to, which gets a String Type Name to.
+IGlobalVariable acts as a memento, which is inherited by GlobalVariableWrapper, which gets Type Name, which gets Type Name, which gets Type Name.

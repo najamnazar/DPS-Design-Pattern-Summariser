@@ -1,0 +1,1 @@
+ChangeTrackerStatistics acts as a memento, which is inherited by CountingChangeTracker, which gets Version Mismatches, which gets Version Mismatches.

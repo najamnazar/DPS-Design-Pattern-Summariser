@@ -1,0 +1,2 @@
+TrackedNodePosition acts as a caretaker for memento E, which gets Start Position, which gets Length.
+TrackedNodePosition acts as a caretaker for memento S, which gets Start Position, which gets Length.

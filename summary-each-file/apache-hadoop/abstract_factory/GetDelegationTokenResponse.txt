@@ -1,0 +1,1 @@
+GetDelegationTokenResponse acts as an abstract product for GetDelegationTokenResponse, which is inherited by GetDelegationTokenResponsePBImpl.

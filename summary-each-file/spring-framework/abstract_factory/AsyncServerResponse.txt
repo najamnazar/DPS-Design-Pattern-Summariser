@@ -1,0 +1,4 @@
+AsyncServerResponse acts as an abstract product for AsyncServerResponse, which is inherited by DefaultAsyncServerResponse, DefaultAsyncServerResponse.
+AsyncServerResponse acts as a product for ServerResponse, which overrides.
+AsyncServerResponse acts as an abstract factory for ServerResponse, AsyncServerResponse, which is inherited by DefaultAsyncServerResponse.
+AsyncServerResponse acts as a product for AsyncServerResponse, which overrides.

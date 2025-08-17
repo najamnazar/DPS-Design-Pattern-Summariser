@@ -1,0 +1,3 @@
+TestDSSleepingAppMaster acts as a publisher for observer ContainerId, which mains String[] parameter of args.
+TestDSSleepingAppMaster acts as a publisher for observer Resource, which mains String[] parameter of args.
+TestDSSleepingAppMaster acts as a publisher for observer Options, which mains String[] parameter of args.

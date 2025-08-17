@@ -1,0 +1,2 @@
+ITestAzureBlobFileSystemBackCompat acts as a publisher for observer Configuration, which tests Blob Back Compat, which gets Blob Connection String.
+ITestAzureBlobFileSystemBackCompat acts as a publisher for observer AzureBlobFileSystem, which tests Blob Back Compat, which gets Blob Connection String.

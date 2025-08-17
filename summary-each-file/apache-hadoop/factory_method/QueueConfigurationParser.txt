@@ -1,0 +1,1 @@
+QueueConfigurationParser acts as a factory for SchedulerApplicationAttempt, which overrides.

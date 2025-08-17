@@ -1,0 +1,2 @@
+AggregateExpressionTimeoutTest acts as a publisher for observer Service, which tests Aggregate Expression Timeout, which creates Route Builder.
+AggregateExpressionTimeoutTest acts as a publisher for observer CamelContext, which tests Aggregate Expression Timeout, which creates Route Builder.

@@ -1,0 +1,1 @@
+BeanFactoryConnectionFactoryLookup acts as a caretaker for memento B, which sets BeanFactory parameter of beanFactory Bean Factory, which gets String parameter of connectionFactoryName Connection Factory.

@@ -1,0 +1,3 @@
+MessageHistory acts as a factory for JBPMProducer, which overrides.
+MessageHistory acts as a factory for NamedRoute, which overrides.
+MessageHistory acts as an abstract product for MetricsMessageHistoryFactory, which is inherited by DefaultMessageHistory.

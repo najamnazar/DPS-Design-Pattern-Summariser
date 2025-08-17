@@ -1,0 +1,2 @@
+MockFileDatabaseException acts as a product for ResultOrRows, which overrides.
+MockFileDatabaseException acts as a product for LoaderError, which overrides.

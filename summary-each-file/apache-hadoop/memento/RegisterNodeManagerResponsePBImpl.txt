@@ -1,0 +1,1 @@
+RegisterNodeManagerResponsePBImpl acts as an originator for memento NodeAction, which gets a NodeAction Node Action to, which sets NodeAction parameter of nodeAction Node Action, which converts a NodeAction From Proto Format to, which converts NodeAction parameter of t To Proto Format.

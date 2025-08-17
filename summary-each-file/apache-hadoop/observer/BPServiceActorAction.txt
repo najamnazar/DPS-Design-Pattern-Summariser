@@ -1,0 +1,1 @@
+BPServiceActorAction acts as an observer for publisher BPServiceActor, which is inherited by ErrorReportAction, ReportBadBlockAction, which reports DatanodeProtocolClientSideTranslatorPB parameter of bpNamenode, DatanodeRegistration parameter of bpRegistration To.

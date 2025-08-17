@@ -1,0 +1,2 @@
+PayloadArgumentResolver acts as a caretaker for memento Message.
+PayloadArgumentResolver acts as a caretaker for memento C.

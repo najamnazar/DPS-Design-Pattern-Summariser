@@ -1,0 +1,5 @@
+ArrayTypeImpl acts as a caretaker for memento C, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a caretaker for memento List, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a caretaker for memento E, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a caretaker for memento Binding, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a caretaker for memento S, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.

@@ -1,0 +1,1 @@
+AbstractCXFGreeterRouterTest acts as a target for adapter CxfPayloadProviderRouterTest, which adapts to AbstractCXFGreeterRouterTest, which adapts to AbstractCXFGreeterRouterTest, which adapts to AbstractCXFGreeterRouterTest, which adapts to AbstractCXFGreeterRouterTest, which adapts to AbstractCXFGreeterRouterTest, which adapts to AbstractCXFGreeterRouterTest.

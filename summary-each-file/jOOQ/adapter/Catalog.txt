@@ -1,0 +1,3 @@
+Catalog acts as an adaptee for adapter FilteredMeta, which adapts to AbstractMeta, which adapts to AbstractMeta, which adapts to AbstractMeta, which adapts to AbstractMeta.
+Catalog acts as an adaptee for adapter SchemaImpl, which adapts to Schema, AbstractNamed, which adapts to Schema, AbstractNamed, which adapts to Schema, AbstractNamed, which adapts to Schema, AbstractNamed.
+Catalog acts as an adaptee for adapter CatalogImpl, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed, which adapts to AbstractNamed.

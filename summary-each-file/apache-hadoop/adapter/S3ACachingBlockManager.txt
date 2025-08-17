@@ -1,0 +1,1 @@
+S3ACachingBlockManager acts as an adapter, which adapts to CachingBlockManager, which adapts to CachingBlockManager, which adapts to CachingBlockManager.

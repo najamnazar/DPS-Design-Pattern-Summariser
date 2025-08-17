@@ -1,0 +1,1 @@
+HistoryStorage acts as an adaptee for adapter JobHistory, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

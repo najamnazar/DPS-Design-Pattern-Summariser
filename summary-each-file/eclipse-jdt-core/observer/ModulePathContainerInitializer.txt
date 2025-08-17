@@ -1,0 +1,1 @@
+ModulePathContainerInitializer acts as an observer, which initializes IPath parameter of containerPath, IJavaProject parameter of project, which is IPath parameter of path Module Path Container, which verbose_not_a_module_projects IJavaProject parameter of project, IPath parameter of containerPath.

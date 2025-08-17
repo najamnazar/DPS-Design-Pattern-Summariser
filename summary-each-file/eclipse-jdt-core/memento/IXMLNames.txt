@@ -1,0 +1,2 @@
+IXMLNames acts as a caretaker for memento String, which is inherited by.
+IXMLNames acts as a caretaker for memento S, which is inherited by.

@@ -1,0 +1,1 @@
+TwoColumnLayout acts as a target for adapter SCMOverviewPage, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout, which adapts to TwoColumnLayout.

@@ -1,0 +1,1 @@
+EvaluationResult acts as a caretaker for memento C, which adds CategorizedProblem parameter of problem Problem, which gets Evaluation ID, which gets Evaluation Type, which gets Problems, which gets Value, which gets Value Display String, which gets Value Type Name, which has Errors, which has Problems, which has Value, which has Warnings, which tos String.

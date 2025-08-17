@@ -1,0 +1,1 @@
+PathHandle acts as an abstract product for FileSystem, which is inherited by RawPathHandle, HdfsPathHandle, LocalFileSystemPathHandle.

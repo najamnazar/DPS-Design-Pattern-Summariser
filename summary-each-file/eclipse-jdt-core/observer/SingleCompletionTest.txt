@@ -1,0 +1,1 @@
+SingleCompletionTest acts as a publisher for observer String, which runs Class parameter of testClass, String parameter of methodName, which tests.

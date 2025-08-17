@@ -1,0 +1,1 @@
+SftpDefaultMoveExistingFileStrategy acts as an observer, which moves GenericFileEndpoint parameter of endpoint, GenericFileOperations parameter of operations, String parameter of fileName Existing File.

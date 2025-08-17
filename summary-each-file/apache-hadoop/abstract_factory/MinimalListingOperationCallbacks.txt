@@ -1,0 +1,1 @@
+MinimalListingOperationCallbacks acts as a factory for ListingOperationCallbacks, which overrides toLocatedFileStatus method of ListingOperationCallbacks, createListObjectsRequest method of ListingOperationCallbacks, getDefaultBlockSize method of ListingOperationCallbacks, getObjectSize method of ListingOperationCallbacks, getMaxKeys method of ListingOperationCallbacks.

@@ -1,0 +1,1 @@
+HBaseIdempotentRepository acts as a caretaker for memento Configuration, which adds String parameter of o, which contains String parameter of o, which removes String parameter of o, which confirms String parameter of o, which clears, which does Start, which does Stop.

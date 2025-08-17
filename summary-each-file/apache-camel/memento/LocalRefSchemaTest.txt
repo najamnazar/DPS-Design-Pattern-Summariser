@@ -1,0 +1,2 @@
+LocalRefSchemaTest acts as a caretaker for memento Context, which tests Valid Message, which creates Route Builder.
+LocalRefSchemaTest acts as a caretaker for memento Producer, which tests Valid Message, which creates Route Builder.

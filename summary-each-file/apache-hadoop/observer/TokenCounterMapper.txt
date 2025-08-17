@@ -1,0 +1,1 @@
+TokenCounterMapper acts as a publisher for observer Text, which is inherited by, which maps Object parameter of key, Text parameter of value, Context parameter of context.

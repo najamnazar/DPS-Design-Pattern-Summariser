@@ -1,0 +1,5 @@
+TableDefinition acts as a factory for AbstractIndexDefinition, which overrides.
+TableDefinition acts as a factory for AbstractTableDefinition, which overrides.
+TableDefinition acts as a factory for DefaultColumnDefinition, which overrides.
+TableDefinition acts as an abstract product for AbstractIndexDefinition, which is inherited by AbstractTableDefinition.
+TableDefinition acts as a factory for IndexColumnDefinition, which overrides.

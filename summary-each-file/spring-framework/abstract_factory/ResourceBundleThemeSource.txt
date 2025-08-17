@@ -1,0 +1,1 @@
+ResourceBundleThemeSource acts as a factory for HierarchicalThemeSource, which overrides setParentThemeSource method of HierarchicalThemeSource, getParentThemeSource method of HierarchicalThemeSource.

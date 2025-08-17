@@ -1,0 +1,1 @@
+PgEventConsumer acts as a caretaker for memento HealthCheck, which does Start, which notifications int parameter of processId, String parameter of channel, String parameter of payload, which does Stop.

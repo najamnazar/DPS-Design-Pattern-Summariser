@@ -1,0 +1,1 @@
+Person acts as an observer for publisher PojoProxyHelperRequestReplyTest, which is inherited by PersonImpl, PersonImplWithWsdl, which gets Name.

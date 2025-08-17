@@ -1,0 +1,1 @@
+StompTextMessageBuilder acts as a publisher for observer StompCommand, which is inherited by, which creates StompCommand parameter of command, which headerses String... parameter of headerLines, which bodies String parameter of body, which builds.

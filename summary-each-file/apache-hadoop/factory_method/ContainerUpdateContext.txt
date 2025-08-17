@@ -1,0 +1,1 @@
+ContainerUpdateContext acts as a factory method for RMContainer, which is inherited by SchedulerApplicationAttempt, SchedulerNode, FiCaSchedulerApp, SchedulerNode, SchedulerApplicationAttempt, YarnScheduler.

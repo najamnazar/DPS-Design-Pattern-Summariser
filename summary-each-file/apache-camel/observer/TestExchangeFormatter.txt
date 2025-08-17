@@ -1,0 +1,1 @@
+TestExchangeFormatter acts as an observer, which formats Exchange parameter of exchange, which gets Test Property, which sets String parameter of testProperty Test Property.

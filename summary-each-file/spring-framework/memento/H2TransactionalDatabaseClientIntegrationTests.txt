@@ -1,0 +1,6 @@
+H2TransactionalDatabaseClientIntegrationTests acts as a caretaker for memento C, which creates Connection Factory, which gets Create Table Statement.
+H2TransactionalDatabaseClientIntegrationTests acts as a caretaker for memento ApplicationContext, which creates Connection Factory, which gets Create Table Statement.
+H2TransactionalDatabaseClientIntegrationTests acts as a caretaker for memento Database, which creates Connection Factory, which gets Create Table Statement.
+H2TransactionalDatabaseClientIntegrationTests acts as a caretaker for memento TransactionManager, which creates Connection Factory, which gets Create Table Statement.
+H2TransactionalDatabaseClientIntegrationTests acts as a caretaker for memento A, which creates Connection Factory, which gets Create Table Statement.
+H2TransactionalDatabaseClientIntegrationTests acts as a caretaker for memento Transaction, which creates Connection Factory, which gets Create Table Statement.

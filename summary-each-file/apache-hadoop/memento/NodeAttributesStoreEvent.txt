@@ -1,0 +1,2 @@
+NodeAttributesStoreEvent acts as a caretaker for memento AttributeMappingOperationType, which gets Node Attribute Mapping List, which gets Operation.
+NodeAttributesStoreEvent acts as a caretaker for memento Attribute, which gets Node Attribute Mapping List, which gets Operation.

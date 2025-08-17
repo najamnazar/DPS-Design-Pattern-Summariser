@@ -1,0 +1,1 @@
+Ddb2Operations acts as an observer for publisher Ddb2Configuration, which is inherited by.

@@ -1,0 +1,1 @@
+HealthCheckTest acts as a caretaker for memento HealthCheck, which tests Check, which sets State parameter of state State, which gets State, which does HealthCheckResultBuilder parameter of builder, Map<String, parameter of Object> Call.

@@ -1,0 +1,2 @@
+AggregatorExceptionInPredicateTest acts as a publisher for observer Service, which tests Exception In Aggregation Strategy, which tests Exception In Predicate, which tests String parameter of startUri Exception In Flow, which creates Route Builder.
+AggregatorExceptionInPredicateTest acts as a publisher for observer CamelContext, which tests Exception In Aggregation Strategy, which tests Exception In Predicate, which tests String parameter of startUri Exception In Flow, which creates Route Builder.

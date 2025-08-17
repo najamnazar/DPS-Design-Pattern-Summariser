@@ -1,0 +1,1 @@
+HttpConsumer acts as an abstract product for HttpConsumer, which is inherited by ServletConsumer, JettyHttpConsumer, ResteasyConsumer.

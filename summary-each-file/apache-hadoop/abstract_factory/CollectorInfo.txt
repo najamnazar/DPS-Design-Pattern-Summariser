@@ -1,0 +1,1 @@
+CollectorInfo acts as an abstract product for CollectorInfo, which is inherited by CollectorInfoPBImpl.

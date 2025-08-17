@@ -1,0 +1,1 @@
+AbstractWordpressProducer acts as a caretaker for memento Configuration, which gets Configuration, which gets Endpoint, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange Insert, which processes Exchange parameter of exchange Update, which processes Exchange parameter of exchange Delete.

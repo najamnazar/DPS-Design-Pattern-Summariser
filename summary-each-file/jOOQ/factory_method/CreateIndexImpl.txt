@@ -1,0 +1,4 @@
+CreateIndexImpl acts as a product for CreateIndexStep, which overrides.
+CreateIndexImpl acts as a factory method for Index, which is inherited by DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL.
+CreateIndexImpl acts as a product for CreateIndexIncludeStep, which overrides.
+CreateIndexImpl acts as a product for CreateIndexWhereStep, which overrides.

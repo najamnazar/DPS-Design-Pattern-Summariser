@@ -1,0 +1,1 @@
+AbstractContainersLauncher acts as an abstract product for ContainerManagerImpl, which is inherited by ContainersLauncher.

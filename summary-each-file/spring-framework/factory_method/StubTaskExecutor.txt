@@ -1,0 +1,1 @@
+StubTaskExecutor acts as a product for AbstractMessageBrokerConfiguration, which overrides execute method of TaskExecutor.

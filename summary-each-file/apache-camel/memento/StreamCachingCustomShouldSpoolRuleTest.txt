@@ -1,0 +1,2 @@
+StreamCachingCustomShouldSpoolRuleTest acts as a caretaker for memento Context, which tests Byte Array Input Stream, which creates Route Builder, which shoulds long parameter of length Spool Cache, which is Spool, which sets boolean parameter of spool Spool, which tos String.
+StreamCachingCustomShouldSpoolRuleTest acts as a caretaker for memento Producer, which tests Byte Array Input Stream, which creates Route Builder, which shoulds long parameter of length Spool Cache, which is Spool, which sets boolean parameter of spool Spool, which tos String.

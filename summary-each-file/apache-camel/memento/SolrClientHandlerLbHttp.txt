@@ -1,0 +1,1 @@
+SolrClientHandlerLbHttp acts as a caretaker for memento Configuration, which gets Solr Client.

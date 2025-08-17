@@ -1,0 +1,1 @@
+JavaJoorClassLoader acts as an observer, which finds String parameter of name Class, which posts CamelContext parameter of camelContext, String parameter of name, Class<?> parameter of clazz, byte[] parameter of byteCode, Object parameter of instance Compile.

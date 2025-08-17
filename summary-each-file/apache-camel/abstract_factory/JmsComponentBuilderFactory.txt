@@ -1,0 +1,1 @@
+JmsComponentBuilderFactory acts as an abstract factory for JmsComponent, which is inherited by.

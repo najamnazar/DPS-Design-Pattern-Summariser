@@ -1,0 +1,1 @@
+LevelDBSpringAggregateTest acts as a caretaker for memento Context, which sets Up, which creates Application Context, which tests Level DBAggregate, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

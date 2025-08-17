@@ -1,0 +1,1 @@
+JmsCustomJMSReplyToIssueTest acts as a caretaker for memento Component, which tests Custom JMSReply To, which gets Component Name, which builds ConnectionFactory parameter of connectionFactory Component, which creates Route Builder.

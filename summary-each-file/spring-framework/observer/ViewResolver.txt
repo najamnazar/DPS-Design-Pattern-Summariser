@@ -1,0 +1,1 @@
+ViewResolver acts as an observer for publisher ViewResolverRegistry, which is inherited by ViewResolverComposite, BeanNameViewResolver, ContentNegotiatingViewResolver, AbstractCachingViewResolver, which resolves String parameter of viewName, Locale parameter of locale View Name.

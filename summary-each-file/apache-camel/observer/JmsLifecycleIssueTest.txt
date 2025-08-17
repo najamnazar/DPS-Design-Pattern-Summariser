@@ -1,0 +1,1 @@
+JmsLifecycleIssueTest acts as a publisher for observer ArtemisService, which routes That Is Stopped And Then Resumed Accepts Message, which routes That Is Stopped Suspended And Then Resumed Accepts Message, which asserts ServiceStatus parameter of expectedStatus That Route Is, which asserts Route Works, which gets Component Name, which creates Route Builder.

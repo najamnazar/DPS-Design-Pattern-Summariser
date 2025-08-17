@@ -1,0 +1,3 @@
+RecordDelegate acts as a caretaker for memento B, which delegates Configuration parameter of configuration, R parameter of record, RecordLifecycleType parameter of type, which operates ThrowingFunction<R, parameter of R, which executes Type.
+RecordDelegate acts as a caretaker for memento C, which delegates Configuration parameter of configuration, R parameter of record, RecordLifecycleType parameter of type, which operates ThrowingFunction<R, parameter of R, which executes Type.
+RecordDelegate acts as a caretaker for memento Configuration, which delegates Configuration parameter of configuration, R parameter of record, RecordLifecycleType parameter of type, which operates ThrowingFunction<R, parameter of R, which executes Type.

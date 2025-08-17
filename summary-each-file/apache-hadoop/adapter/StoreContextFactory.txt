@@ -1,0 +1,2 @@
+StoreContextFactory acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem.
+StoreContextFactory acts as an adaptee for adapter S3AStoreImpl, which adapts to CompositeService.

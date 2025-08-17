@@ -1,0 +1,1 @@
+HttpRequest acts as a component for HttpRequestWrapper, which is inherited by MockClientHttpRequest, MockClientHttpRequest, MockClientHttpRequest.

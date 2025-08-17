@@ -1,0 +1,2 @@
+SimpleProcessorTest acts as a publisher for observer CamelContext, which tests Process, which creates Route Builder.
+SimpleProcessorTest acts as a publisher for observer Service, which tests Process, which creates Route Builder.

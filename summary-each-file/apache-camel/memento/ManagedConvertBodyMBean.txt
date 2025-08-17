@@ -1,0 +1,1 @@
+ManagedConvertBodyMBean acts as a memento, which gets Charset, which gets Charset.

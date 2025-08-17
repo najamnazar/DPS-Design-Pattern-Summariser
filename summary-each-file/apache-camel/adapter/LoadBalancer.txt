@@ -1,0 +1,4 @@
+LoadBalancer acts as an adaptee for adapter LoadBalancerSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+LoadBalancer acts as an adaptee for adapter CustomLoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition.
+LoadBalancer acts as an adaptee for adapter FlatpackEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint.
+LoadBalancer acts as an adaptee for adapter LoadBalancerConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

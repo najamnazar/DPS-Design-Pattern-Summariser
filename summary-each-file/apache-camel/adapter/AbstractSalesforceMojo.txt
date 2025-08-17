@@ -1,0 +1,1 @@
+AbstractSalesforceMojo acts as a target for adapter SchemaMojo, which adapts to AbstractSalesforceMojo, which adapts to AbstractSalesforceMojo, which adapts to AbstractSalesforceMojo.

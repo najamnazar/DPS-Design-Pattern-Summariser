@@ -1,0 +1,1 @@
+CSConfigurationProvider acts as a publisher for observer Configuration, which is inherited by MutableCSConfigurationProvider, which inits Configuration parameter of conf, which loads Configuration parameter of conf Configuration.

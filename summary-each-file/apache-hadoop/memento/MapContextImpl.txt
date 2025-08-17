@@ -1,0 +1,1 @@
+MapContextImpl acts as a caretaker for memento InputSplit, which gets Input Split, which gets Current Key, which gets Current Value, which nexts Key Value.

@@ -1,0 +1,2 @@
+InterceptFromUriRegexTest acts as a publisher for observer Service, which tests No Intercept, which tests Intercept Foo, which tests Intercept Bar, which tests Intercept Cheese, which creates Route Builder.
+InterceptFromUriRegexTest acts as a publisher for observer CamelContext, which tests No Intercept, which tests Intercept Foo, which tests Intercept Bar, which tests Intercept Cheese, which creates Route Builder.

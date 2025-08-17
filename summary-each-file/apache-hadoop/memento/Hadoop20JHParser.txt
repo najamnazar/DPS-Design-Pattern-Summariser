@@ -1,0 +1,1 @@
+Hadoop20JHParser acts as a memento, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line, which closes Full Line.

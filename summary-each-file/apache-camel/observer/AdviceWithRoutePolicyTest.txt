@@ -1,0 +1,2 @@
+AdviceWithRoutePolicyTest acts as a publisher for observer CamelContext, which tests Ok, which tests Advice Route Policy Removed, which creates Route Builder, which ons Route parameter of route, Exchange parameter of exchange Exchange Begin.
+AdviceWithRoutePolicyTest acts as a publisher for observer Service, which tests Ok, which tests Advice Route Policy Removed, which creates Route Builder, which ons Route parameter of route, Exchange parameter of exchange Exchange Begin.

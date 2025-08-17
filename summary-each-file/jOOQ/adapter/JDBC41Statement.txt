@@ -1,0 +1,1 @@
+JDBC41Statement acts as a target for adapter DefaultStatement, which adapts to JDBC41Statement, which adapts to JDBC41Statement, which adapts to JDBC41Statement, which adapts to JDBC41Statement.

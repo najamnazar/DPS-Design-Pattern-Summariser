@@ -1,0 +1,1 @@
+DebeziumDb2Endpoint acts as a caretaker for memento Configuration, which gets Configuration, which sets final parameter of Db2ConnectorEmbeddedDebeziumConfiguration Configuration.

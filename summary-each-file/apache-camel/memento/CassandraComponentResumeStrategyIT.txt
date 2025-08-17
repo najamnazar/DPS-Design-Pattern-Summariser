@@ -1,0 +1,1 @@
+CassandraComponentResumeStrategyIT acts as a caretaker for memento ResumeAdapter, which sets ResumeAction parameter of action Resume Action, which resumes, which tests Consume All, which creates Route Builder.

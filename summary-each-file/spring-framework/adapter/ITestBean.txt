@@ -1,0 +1,1 @@
+ITestBean acts as an adaptee for adapter XmlBeanFactoryTestTypes, which adapts to ConstructorDependenciesBean, which adapts to ConstructorDependenciesBean, which adapts to ConstructorDependenciesBean.

@@ -1,0 +1,3 @@
+Asterisk acts as a factory for Asterisk, which overrides.
+Asterisk acts as an abstract product for Asterisk, which is inherited by AsteriskImpl.
+Asterisk acts as a factory method for Asterisk, which is inherited by DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL, Asterisk.

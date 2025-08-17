@@ -1,0 +1,1 @@
+EmbeddedDatabaseType acts as a memento.

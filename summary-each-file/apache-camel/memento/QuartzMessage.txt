@@ -1,0 +1,1 @@
+QuartzMessage acts as a caretaker for memento Context, which gets Job Execution Context, which populates Map<String, parameter of Object> Initial Headers, which news Instance.

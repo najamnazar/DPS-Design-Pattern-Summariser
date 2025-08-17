@@ -1,0 +1,7 @@
+PrimitiveTypeImpl acts as a caretaker for memento String, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a caretaker for memento C, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a caretaker for memento List, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a caretaker for memento Map, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a caretaker for memento S, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a caretaker for memento Binding, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a caretaker for memento E, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.

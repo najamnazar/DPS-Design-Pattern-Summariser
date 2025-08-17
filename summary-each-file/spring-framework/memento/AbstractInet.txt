@@ -1,0 +1,1 @@
+AbstractInet acts as a caretaker for memento A, which is inherited by, which addresses, which prefixes, which hashes Code, which equals Object parameter of obj, which tos String.

@@ -1,0 +1,2 @@
+ThrowsAdviceInterceptor acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+ThrowsAdviceInterceptor acts as a product for AdvisorAdapter, which overrides.

@@ -1,0 +1,1 @@
+GetTaskReportsRequest acts as a publisher for observer JobId, which is inherited by GetTaskReportsRequestPBImpl, which gets Job Id, which gets Task Type, which sets JobId parameter of jobId Job Id, which sets TaskType parameter of taskType Task Type.

@@ -1,0 +1,1 @@
+SignalContainerResponse acts as an abstract product for SignalContainerResponse, which is inherited by SignalContainerResponsePBImpl.

@@ -1,0 +1,1 @@
+ErrorHandlerRedeliveryCustomizer acts as a publisher for observer Processor, which is inherited by RedeliveryErrorHandler, which determines If Redelivery Is Enabled, which gets Output, which changes Processor parameter of output Output.

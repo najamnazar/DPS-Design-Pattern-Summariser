@@ -1,0 +1,1 @@
+RegexCopyFilter acts as an observer, which initializes, which sets List<Pattern> parameter of filtersList Filters, which shoulds Path parameter of path Copy.

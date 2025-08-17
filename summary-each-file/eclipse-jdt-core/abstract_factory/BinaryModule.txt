@@ -1,0 +1,1 @@
+BinaryModule acts as a factory for AbstractModule, which overrides getModuleInfo method of AbstractModule, getChildren method of AbstractModule, getFlags method of AbstractModule, getHandleMementoDelimiter method of AbstractModule, toString method of AbstractModule.

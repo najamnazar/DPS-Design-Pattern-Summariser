@@ -1,0 +1,5 @@
+ChatScriptComponentIT acts as a publisher for observer Service, which tests Chat Script, which creates Route Builder.
+ChatScriptComponentIT acts as a publisher for observer ProducerTemplate, which tests Chat Script, which creates Route Builder.
+ChatScriptComponentIT acts as a publisher for observer CamelContext, which tests Chat Script, which creates Route Builder.
+ChatScriptComponentIT acts as a publisher for observer FluentProducerTemplate, which tests Chat Script, which creates Route Builder.
+ChatScriptComponentIT acts as a publisher for observer ConsumerTemplate, which tests Chat Script, which creates Route Builder.

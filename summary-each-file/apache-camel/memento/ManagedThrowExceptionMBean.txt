@@ -1,0 +1,1 @@
+ManagedThrowExceptionMBean acts as a memento, which gets Exception Type, which gets Exception Type.

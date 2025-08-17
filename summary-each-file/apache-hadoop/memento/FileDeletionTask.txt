@@ -1,0 +1,1 @@
+FileDeletionTask acts as a caretaker for memento TaskType, which gets Lfs, which gets Sub Dir, which gets Base Dirs, which runs, which tos String, which converts Deletion Task To Proto.

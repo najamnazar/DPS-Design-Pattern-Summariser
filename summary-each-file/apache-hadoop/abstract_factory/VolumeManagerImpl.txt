@@ -1,0 +1,2 @@
+VolumeManagerImpl acts as a factory for VolumeManager, which overrides registerCsiDriverAdaptor method of VolumeManager, getVolumeStates method of VolumeManager, addOrGetVolume method of VolumeManager, schedule method of VolumeManager.
+VolumeManagerImpl acts as a product for RMContext, which overrides registerCsiDriverAdaptor method of VolumeManager, getVolumeStates method of VolumeManager, addOrGetVolume method of VolumeManager, schedule method of VolumeManager.

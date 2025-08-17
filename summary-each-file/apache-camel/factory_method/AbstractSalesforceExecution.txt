@@ -1,0 +1,1 @@
+AbstractSalesforceExecution acts as a factory for SalesforceClientTemplate, which overrides.

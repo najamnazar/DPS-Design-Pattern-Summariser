@@ -1,0 +1,2 @@
+Node acts as an abstract product for Node, which is inherited by MachineNode, RackNode, InnerNode, DatanodeInfo, NodeBase.
+Node acts as an abstract product for Node, which is inherited by MachineNode, MachineNode, RackNode, RackNode, InnerNode, InnerNode, DatanodeInfo, DatanodeInfo, NodeBase, NodeBase.

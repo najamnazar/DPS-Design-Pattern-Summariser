@@ -1,0 +1,1 @@
+ConnectorDelegate acts as a caretaker for memento C, which connects @Nullable parameter of JMXServiceURL, @Nullable parameter of Map<String, @Nullable parameter of String, which closes.

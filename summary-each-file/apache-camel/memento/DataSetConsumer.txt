@@ -1,0 +1,2 @@
+DataSetConsumer acts as a caretaker for memento Context, which does Start, which does Stop, which creates long parameter of messageIndex Exchange, which sends long parameter of startIndex, long parameter of endIndex Messages, which creates Reporter.
+DataSetConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which creates long parameter of messageIndex Exchange, which sends long parameter of startIndex, long parameter of endIndex Messages, which creates Reporter.

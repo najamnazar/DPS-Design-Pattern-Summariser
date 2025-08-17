@@ -1,0 +1,1 @@
+BlockPlacementStatus acts as a memento, which is inherited by BlockPlacementStatusWithUpgradeDomain, BlockPlacementStatusDefault, BlockPlacementStatusWithNodeGroup, which gets Additional Replicas Required, which gets Additional Replicas Required, which gets Additional Replicas Required.

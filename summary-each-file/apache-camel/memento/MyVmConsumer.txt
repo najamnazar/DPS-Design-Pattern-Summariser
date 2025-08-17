@@ -1,0 +1,1 @@
+MyVmConsumer acts as a caretaker for memento Producer, which does String parameter of body, Exchange parameter of exchange Something, which gets Destination, which sets ProducerTemplate parameter of destination Destination.

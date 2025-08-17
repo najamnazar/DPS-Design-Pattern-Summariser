@@ -1,0 +1,2 @@
+AMQPJmsBinding acts as an observer, which extracts Message parameter of jmsMessage, Exchange parameter of exchange Headers From Jms, which gets Message parameter of message Message Facade.
+AMQPJmsBinding acts as a publisher for observer Message, which extracts Message parameter of jmsMessage, Exchange parameter of exchange Headers From Jms, which gets Message parameter of message Message Facade.

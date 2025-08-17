@@ -1,0 +1,3 @@
+AbstractCamelClusterView acts as a factory method for CamelClusterService, which is inherited by CamelClusterView, AbstractCamelClusterView, AbstractCamelClusterView, AbstractCamelClusterView, CamelClusterView, AbstractCamelClusterView, AbstractCamelClusterView, AbstractCamelClusterView, AbstractCamelClusterView.
+AbstractCamelClusterView acts as a factory for AbstractCamelClusterView, which overrides.
+AbstractCamelClusterView acts as a product for CamelClusterService, which overrides getClusterService method of CamelClusterView, getNamespace method of CamelClusterView, addEventListener method of CamelClusterView, removeEventListener method of CamelClusterView.

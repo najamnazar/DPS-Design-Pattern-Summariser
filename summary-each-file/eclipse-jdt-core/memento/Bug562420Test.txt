@@ -1,0 +1,4 @@
+Bug562420Test acts as a caretaker for memento Test, which suites, which tests Builder Regression.
+Bug562420Test acts as a caretaker for memento E, which suites, which tests Builder Regression.
+Bug562420Test acts as a caretaker for memento C, which suites, which tests Builder Regression.
+Bug562420Test acts as a caretaker for memento R, which suites, which tests Builder Regression.

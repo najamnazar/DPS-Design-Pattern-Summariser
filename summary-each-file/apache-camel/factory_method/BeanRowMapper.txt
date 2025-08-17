@@ -1,0 +1,1 @@
+BeanRowMapper acts as an abstract product for JdbcEndpoint, which is inherited by DefaultBeanRowMapper.

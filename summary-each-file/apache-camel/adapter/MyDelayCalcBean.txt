@@ -1,0 +1,1 @@
+MyDelayCalcBean acts as an adaptee for adapter DelayerTest, which adapts to ContextTestSupport.

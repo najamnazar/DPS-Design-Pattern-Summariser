@@ -1,0 +1,1 @@
+JmsMessageTimestampTest acts as a publisher for observer ArtemisService, which tests Message Timestamp, which gets Component Name, which creates Route Builder.

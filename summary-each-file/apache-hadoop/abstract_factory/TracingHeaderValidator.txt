@@ -1,0 +1,2 @@
+TracingHeaderValidator acts as a factory for Listener, which overrides setOperation method of Listener, updateIngressHandler method of Listener, updatePosition method of Listener.
+TracingHeaderValidator acts as a product for Listener, which overrides setOperation method of Listener, updateIngressHandler method of Listener, updatePosition method of Listener.

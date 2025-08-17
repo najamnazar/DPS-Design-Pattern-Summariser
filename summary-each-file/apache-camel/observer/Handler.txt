@@ -1,0 +1,2 @@
+Handler acts as a publisher for observer CamelContext, which creates String parameter of location, String parameter of remaining Resource.
+Handler acts as an observer for publisher JettyConfigurationBuilder, which is inherited by BraintreeLogHandler, which creates String parameter of location, String parameter of remaining Resource.

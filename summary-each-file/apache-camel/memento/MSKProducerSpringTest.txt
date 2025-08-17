@@ -1,0 +1,1 @@
+MSKProducerSpringTest acts as a caretaker for memento Context, which msks List Keys Test, which msks List Keys Pojo Test, which msks Create Cluster Test, which msks Delete Cluster Test, which msks Describe Cluster Test, which creates Application Context.

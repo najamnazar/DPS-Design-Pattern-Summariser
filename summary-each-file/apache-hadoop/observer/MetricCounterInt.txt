@@ -1,0 +1,1 @@
+MetricCounterInt acts as an observer, which values, which types, which visits MetricsVisitor parameter of visitor.

@@ -1,0 +1,1 @@
+FailoverProxyProvider acts as an observer, which proxies Name, which gets String parameter of methodName String, which tos String, which gets Proxy, which performs T parameter of currentProxy Failover, which gets Interface.

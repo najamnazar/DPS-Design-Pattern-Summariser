@@ -1,0 +1,1 @@
+JobContext acts as an observer for publisher AbstractCommitITest, AbstractITCommitProtocol, which is inherited by JobContextImpl, which gets Job Conf, which gets Progressible.

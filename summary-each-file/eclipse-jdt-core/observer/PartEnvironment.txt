@@ -1,0 +1,2 @@
+PartEnvironment acts as a publisher for observer String, which is inherited by, which has String parameter of value Category, which gets Resource File Name.
+PartEnvironment acts as a publisher for observer String, which has String parameter of value Category, which gets Resource File Name.

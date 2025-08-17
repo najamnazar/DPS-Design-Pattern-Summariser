@@ -1,0 +1,1 @@
+VersionsImpl acts as a publisher for observer Version, which is inherited by, which adds Version parameter of version, which adds Collection<? parameter of extends All, which removes Version parameter of version, which roots, which gets String parameter of id, which iterators.

@@ -1,0 +1,1 @@
+MongoDbTailableCursorConsumer acts as a caretaker for memento HealthCheck, which does Stop, which does Start, which inits Tail Tracking.

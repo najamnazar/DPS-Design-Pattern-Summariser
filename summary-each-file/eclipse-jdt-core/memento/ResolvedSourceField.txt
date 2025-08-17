@@ -1,0 +1,2 @@
+ResolvedSourceField acts as a caretaker for memento String, which is inherited by, which gets Key, which is Resolved, which tos int parameter of tab, StringBuilder parameter of buffer, Object parameter of info, boolean parameter of showResolvedInfo String Info, which unresolveds.
+ResolvedSourceField acts as a caretaker for memento S, which is inherited by, which gets Key, which is Resolved, which tos int parameter of tab, StringBuilder parameter of buffer, Object parameter of info, boolean parameter of showResolvedInfo String Info, which unresolveds.

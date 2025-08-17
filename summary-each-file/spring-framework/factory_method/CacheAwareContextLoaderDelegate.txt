@@ -1,0 +1,1 @@
+CacheAwareContextLoaderDelegate acts as an abstract product for BootstrapUtils, which is inherited by DefaultCacheAwareContextLoaderDelegate.

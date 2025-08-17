@@ -1,0 +1,1 @@
+FreemarkerLetterTest acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.

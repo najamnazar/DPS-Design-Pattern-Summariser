@@ -1,0 +1,2 @@
+AbstractTransportHandler acts as a publisher for observer SockJsServiceConfig, which initializes SockJsServiceConfig parameter of serviceConfig, which gets Service Config.
+AbstractTransportHandler acts as a publisher for observer SockJsServiceConfig, which is inherited by AbstractHttpReceivingTransportHandler, AbstractHttpSendingTransportHandler, WebSocketTransportHandler, which initializes SockJsServiceConfig parameter of serviceConfig, which gets Service Config.

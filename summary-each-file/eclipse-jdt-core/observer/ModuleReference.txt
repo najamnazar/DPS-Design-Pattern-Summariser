@@ -1,0 +1,2 @@
+ModuleReference acts as an observer, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.
+ModuleReference acts as an observer for publisher RecoveredExport, which is inherited by CompletionOnModuleReference, CompletionOnKeywordModule2, SelectionOnModuleReference, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.

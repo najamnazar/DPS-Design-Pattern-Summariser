@@ -1,0 +1,2 @@
+FileMarkerFileDeleteOldLockFilesTest acts as a publisher for observer CamelContext, which tests Delete Old Lock On Startup, which creates Route Builder.
+FileMarkerFileDeleteOldLockFilesTest acts as a publisher for observer Service, which tests Delete Old Lock On Startup, which creates Route Builder.

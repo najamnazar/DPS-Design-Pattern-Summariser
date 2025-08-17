@@ -1,0 +1,1 @@
+LoggedLocation acts as an adaptee for adapter LoggedTaskAttempt, which adapts to DeepCompare, which adapts to DeepCompare, which adapts to DeepCompare, which adapts to DeepCompare, which adapts to DeepCompare.

@@ -1,0 +1,1 @@
+AbstractMetricsRecord acts as an observer, which equals Object parameter of obj, which hashes Code, which tos String.

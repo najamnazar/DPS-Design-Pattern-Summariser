@@ -1,0 +1,1 @@
+ClassFileTransformerAdapter acts as a caretaker for memento C, which transforms ClassLoader parameter of loader, String parameter of className, Class<?> parameter of classBeingRedefined, ProtectionDomain parameter of protectionDomain, byte[] parameter of classfileBuffer, which tos String.

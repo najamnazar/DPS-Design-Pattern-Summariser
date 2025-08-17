@@ -1,0 +1,1 @@
+SplunkConfigurationFactory acts as an observer for publisher SplunkComponent, which is inherited by DefaultSplunkConfigurationFactory, which parses Map<String, parameter of Object> Map.

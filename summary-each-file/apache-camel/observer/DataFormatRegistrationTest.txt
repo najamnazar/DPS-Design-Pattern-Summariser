@@ -1,0 +1,2 @@
+DataFormatRegistrationTest acts as a publisher for observer Service, which shoulds Register Dataformat In Cache Test, which misses Dataformat Test.
+DataFormatRegistrationTest acts as a publisher for observer CamelContext, which shoulds Register Dataformat In Cache Test, which misses Dataformat Test.

@@ -1,0 +1,1 @@
+StandardOperatorOverloader acts as a product for EvaluationContext, which overrides overridesOperation method of OperatorOverloader, operate method of OperatorOverloader.

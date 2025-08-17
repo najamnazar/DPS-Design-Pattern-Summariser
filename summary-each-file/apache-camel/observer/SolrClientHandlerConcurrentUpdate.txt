@@ -1,0 +1,1 @@
+SolrClientHandlerConcurrentUpdate acts as a publisher for observer SolrConfiguration, which gets Solr Client.

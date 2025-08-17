@@ -1,0 +1,1 @@
+Plc4XConsumer acts as a caretaker for memento HealthCheck, which tos String, which gets Endpoint, which does Start, which starts Un Triggered, which starts Triggered, which validates Tags, which gets Map<String, parameter of String> Scraper Config, which does Stop.

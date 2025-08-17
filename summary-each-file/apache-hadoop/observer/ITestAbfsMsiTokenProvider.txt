@@ -1,0 +1,2 @@
+ITestAbfsMsiTokenProvider acts as a publisher for observer AzureBlobFileSystem, which tests, which gets AbfsConfiguration parameter of conf, String parameter of key, String parameter of defaultValue Trimmed Password String.
+ITestAbfsMsiTokenProvider acts as a publisher for observer Configuration, which tests, which gets AbfsConfiguration parameter of conf, String parameter of key, String parameter of defaultValue Trimmed Password String.

@@ -1,0 +1,2 @@
+SedaDefaultDiscardWhenFullTest acts as a publisher for observer CamelContext, which tests Discard When Full, which creates Route Builder.
+SedaDefaultDiscardWhenFullTest acts as a publisher for observer Service, which tests Discard When Full, which creates Route Builder.

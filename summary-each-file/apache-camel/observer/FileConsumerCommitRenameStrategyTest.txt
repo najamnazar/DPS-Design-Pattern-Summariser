@@ -1,0 +1,2 @@
+FileConsumerCommitRenameStrategyTest acts as a publisher for observer CamelContext, which tests Rename Success, which tests Rename File Exists, which creates Route Builder.
+FileConsumerCommitRenameStrategyTest acts as a publisher for observer Service, which tests Rename Success, which tests Rename File Exists, which creates Route Builder.

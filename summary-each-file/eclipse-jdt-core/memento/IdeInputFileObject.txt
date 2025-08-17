@@ -1,0 +1,3 @@
+IdeInputFileObject acts as an originator for memento CharSequence, which gets a CharSequence Char Content to.
+IdeInputFileObject acts as an originator for memento Reader, which opens a Reader Reader to.
+IdeInputFileObject acts as an originator for memento String, which gets a String Name to.

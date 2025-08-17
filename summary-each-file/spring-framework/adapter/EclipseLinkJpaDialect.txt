@@ -1,0 +1,1 @@
+EclipseLinkJpaDialect acts as an adaptee for adapter EclipseLinkJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter.

@@ -1,0 +1,2 @@
+AnnotationClassFilter acts as a product for IntroductionAdvisor, which overrides matches method of ClassFilter.
+AnnotationClassFilter acts as a product for Pointcut, which overrides matches method of ClassFilter.

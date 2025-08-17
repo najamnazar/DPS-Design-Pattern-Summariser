@@ -1,0 +1,3 @@
+ExecuteContext acts as an abstract factory for Query, Record, which is inherited by SimpleExecuteContext, DefaultExecuteContext.
+ExecuteContext acts as a product for ConfigurableBeanFactory, which overrides.
+ExecuteContext acts as an abstract product for ExecuteContext, which is inherited by SimpleExecuteContext, DefaultExecuteContext.

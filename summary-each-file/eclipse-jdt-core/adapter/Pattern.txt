@@ -1,0 +1,2 @@
+Pattern acts as an adaptee for adapter TypeDeclarationPattern, which adapts to JavaSearchPattern.
+Pattern acts as an adaptee for adapter CommentsPreparator, which adapts to ASTVisitor.

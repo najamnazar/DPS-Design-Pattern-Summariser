@@ -1,0 +1,5 @@
+ImageClassificationTest acts as a publisher for observer FluentProducerTemplate, which tests DJL, which creates Route Builder.
+ImageClassificationTest acts as a publisher for observer ProducerTemplate, which tests DJL, which creates Route Builder.
+ImageClassificationTest acts as a publisher for observer CamelContext, which tests DJL, which creates Route Builder.
+ImageClassificationTest acts as a publisher for observer ConsumerTemplate, which tests DJL, which creates Route Builder.
+ImageClassificationTest acts as a publisher for observer Service, which tests DJL, which creates Route Builder.

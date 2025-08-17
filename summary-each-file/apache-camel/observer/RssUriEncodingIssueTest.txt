@@ -1,0 +1,5 @@
+RssUriEncodingIssueTest acts as a publisher for observer ConsumerTemplate, which tests Uri Issue.
+RssUriEncodingIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Uri Issue.
+RssUriEncodingIssueTest acts as a publisher for observer Service, which tests Uri Issue.
+RssUriEncodingIssueTest acts as a publisher for observer CamelContext, which tests Uri Issue.
+RssUriEncodingIssueTest acts as a publisher for observer ProducerTemplate, which tests Uri Issue.

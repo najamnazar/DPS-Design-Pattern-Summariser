@@ -1,0 +1,1 @@
+IErrorHandlingPolicy acts as a memento, which stops On First Error, which stops On First Error.

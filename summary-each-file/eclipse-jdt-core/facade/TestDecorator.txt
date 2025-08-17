@@ -1,0 +1,1 @@
+TestDecorator acts as a facade for subsystem Test, which basicRun calls run method of Test, which countTestCases calls countTestCases method of Test, which run calls basicRun method of TestDecorator.

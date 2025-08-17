@@ -1,0 +1,2 @@
+PropertiesRouteIdTest acts as a publisher for observer Service, which tests Properties Route Id, which creates Route Builder, which creates Camel Context.
+PropertiesRouteIdTest acts as a publisher for observer CamelContext, which tests Properties Route Id, which creates Route Builder, which creates Camel Context.

@@ -1,0 +1,1 @@
+DefaultKafkaHeaderSerializer acts as a caretaker for memento Context, which serializes final parameter of String, final parameter of Object, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.

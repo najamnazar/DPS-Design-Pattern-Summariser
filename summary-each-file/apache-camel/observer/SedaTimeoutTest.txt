@@ -1,0 +1,2 @@
+SedaTimeoutTest acts as a publisher for observer CamelContext, which tests Seda No Timeout, which tests Seda Timeout, which tests Seda Timeout With Stopped Route, which creates Route Builder.
+SedaTimeoutTest acts as a publisher for observer Service, which tests Seda No Timeout, which tests Seda Timeout, which tests Seda Timeout With Stopped Route, which creates Route Builder.

@@ -1,0 +1,1 @@
+CamelJobExecutionListener acts as an adaptee for adapter CamelJobExecutionListenerTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

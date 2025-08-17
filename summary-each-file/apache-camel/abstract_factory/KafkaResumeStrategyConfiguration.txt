@@ -1,0 +1,1 @@
+KafkaResumeStrategyConfiguration acts as a product for ResumeStrategy, which overrides resumeStrategyService method of ResumeStrategyConfiguration.

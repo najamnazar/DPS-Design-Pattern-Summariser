@@ -1,0 +1,1 @@
+HttpSendingTransportHandlerTests acts as an adapter, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests.

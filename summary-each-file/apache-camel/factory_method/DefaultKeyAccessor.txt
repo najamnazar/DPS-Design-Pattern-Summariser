@@ -1,0 +1,1 @@
+DefaultKeyAccessor acts as a product for ECDSASignatureTest, which overrides getKeySelector method of KeyAccessor.

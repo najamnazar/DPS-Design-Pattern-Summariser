@@ -1,0 +1,2 @@
+BlockImpl acts as a product for Queries, which overrides $statements method of Block.
+BlockImpl acts as a product for DSLContext, which overrides $statements method of Block.

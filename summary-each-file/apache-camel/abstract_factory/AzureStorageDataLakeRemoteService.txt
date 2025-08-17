@@ -1,0 +1,1 @@
+AzureStorageDataLakeRemoteService acts as a factory for AzureService, which overrides azureCredentials method of AzureService.

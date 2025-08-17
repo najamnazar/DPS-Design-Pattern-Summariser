@@ -1,0 +1,1 @@
+Zot acts as an observer, which sets String parameter of value Other Value, which gets Other Value.

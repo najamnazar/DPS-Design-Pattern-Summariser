@@ -1,0 +1,2 @@
+ExposedInvocationTestBean acts as a publisher for observer BeanSource, which gets Name, which absquatulates, which assertionses MethodInvocation parameter of invocation.
+ExposedInvocationTestBean acts as an observer, which gets Name, which absquatulates, which assertionses MethodInvocation parameter of invocation.

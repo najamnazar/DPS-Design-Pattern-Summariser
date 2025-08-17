@@ -1,0 +1,1 @@
+NodeUpdateSchedulerEvent acts as an observer, which gets RMNode.

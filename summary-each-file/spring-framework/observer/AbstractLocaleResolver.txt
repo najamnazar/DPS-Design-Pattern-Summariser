@@ -1,0 +1,1 @@
+AbstractLocaleResolver acts as an observer, which sets @Nullable parameter of Locale Default Locale, which gets Default Locale.

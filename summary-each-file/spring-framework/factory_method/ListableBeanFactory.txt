@@ -1,0 +1,1 @@
+ListableBeanFactory acts as an abstract product for AbstractListableBeanFactoryTests, which is inherited by StaticListableBeanFactory.

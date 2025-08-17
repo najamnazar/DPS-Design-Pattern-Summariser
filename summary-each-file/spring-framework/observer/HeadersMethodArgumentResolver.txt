@@ -1,0 +1,1 @@
+HeadersMethodArgumentResolver acts as an observer, which supports MethodParameter parameter of parameter Parameter, which resolves MethodParameter parameter of parameter, Message<?> parameter of message Argument.

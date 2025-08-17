@@ -1,0 +1,1 @@
+MyDummyConfiguration acts as an observer for publisher MyDummyComponent, which is inherited by, which is Log, which sets boolean parameter of log Log, which gets Nested, which sets NestedConfig parameter of nested Nested, which gets Value, which sets String parameter of value Value.

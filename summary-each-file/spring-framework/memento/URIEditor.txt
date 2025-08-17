@@ -1,0 +1,1 @@
+URIEditor acts as a caretaker for memento C, which sets String parameter of text As Text, which creates String parameter of value URI, which gets As Text.

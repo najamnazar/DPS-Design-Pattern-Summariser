@@ -1,0 +1,7 @@
+CloseableQuery acts as an abstract product for CloseableQuery, which is inherited by AbstractQuery, AbstractDelegatingQuery, CloseableResultQuery.
+CloseableQuery acts as an abstract factory for CloseableQuery, which is inherited by AbstractQuery, AbstractDelegatingQuery.
+CloseableQuery acts as a product for ExecuteContext, which overrides keepStatement method of Query.
+CloseableQuery acts as a product for MigrationContext, which overrides keepStatement method of Query.
+CloseableQuery acts as a product for Query, which overrides keepStatement method of Query.
+CloseableQuery acts as a product for LoaderError, which overrides keepStatement method of Query.
+CloseableQuery acts as an abstract product for CloseableQuery, which is inherited by AbstractQuery, AbstractQuery, AbstractQuery, AbstractQuery, AbstractQuery, AbstractDelegatingQuery, AbstractDelegatingQuery, AbstractDelegatingQuery, AbstractDelegatingQuery, AbstractDelegatingQuery, CloseableResultQuery, CloseableResultQuery, CloseableResultQuery, CloseableResultQuery, CloseableResultQuery.

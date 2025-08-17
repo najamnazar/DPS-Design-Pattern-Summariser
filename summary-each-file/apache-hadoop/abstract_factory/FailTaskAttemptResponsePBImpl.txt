@@ -1,0 +1,1 @@
+FailTaskAttemptResponsePBImpl acts as a product for MRClientProtocol, which overrides.

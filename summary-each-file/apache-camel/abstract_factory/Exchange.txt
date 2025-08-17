@@ -1,0 +1,6 @@
+Exchange acts as an abstract product for Exchange, which is inherited by ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, XChange, XChange, XChange, XChange, XChange, XChange, XChange, XChange, XChange, XChange, XChange.
+Exchange acts as an abstract product for Exchange, which is inherited by ExtendedExchange, XChange.
+Exchange acts as an abstract factory for CamelContext, Exchange, UnitOfWork, Endpoint, Message, which is inherited by XChange.
+Exchange acts as an abstract product for Exchange, which is inherited by ExtendedExchange, ExtendedExchange, ExtendedExchange, XChange, XChange, XChange.
+Exchange acts as an abstract product for Exchange, which is inherited by ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, ExtendedExchange, XChange, XChange, XChange, XChange, XChange, XChange.
+Exchange acts as an abstract product for Exchange, which is inherited by ExtendedExchange, ExtendedExchange, XChange, XChange.

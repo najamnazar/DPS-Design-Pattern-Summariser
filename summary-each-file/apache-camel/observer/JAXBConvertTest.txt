@@ -1,0 +1,1 @@
+JAXBConvertTest acts as a publisher for observer Exchange, which tests Converter, which tests Converter Twice, which tests Stream Should Be Closed, which tests Stream Should Be Closed Even For Exception, which tests No Conversion For Stream Cache.

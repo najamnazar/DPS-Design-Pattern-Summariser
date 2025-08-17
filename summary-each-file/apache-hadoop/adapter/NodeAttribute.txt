@@ -1,0 +1,1 @@
+NodeAttribute acts as an adaptee for adapter RMNodeAttribute, which adapts to AbstractLabel, which adapts to AbstractLabel, which adapts to AbstractLabel, which adapts to AbstractLabel, which adapts to AbstractLabel, which adapts to AbstractLabel, which adapts to AbstractLabel, which adapts to AbstractLabel.

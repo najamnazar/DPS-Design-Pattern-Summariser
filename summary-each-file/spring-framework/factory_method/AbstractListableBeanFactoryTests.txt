@@ -1,0 +1,2 @@
+AbstractListableBeanFactoryTests acts as a factory for AbstractListableBeanFactoryTests, which overrides.
+AbstractListableBeanFactoryTests acts as a factory method for ListableBeanFactory, which is inherited by AbstractListableBeanFactoryTests, AbstractListableBeanFactoryTests.

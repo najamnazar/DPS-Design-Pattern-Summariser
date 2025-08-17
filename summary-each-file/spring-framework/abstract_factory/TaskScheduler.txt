@@ -1,0 +1,1 @@
+TaskScheduler acts as an abstract product for TaskScheduler, which is inherited by ConcurrentTaskScheduler, ThreadPoolTaskScheduler, HandlersBeanDefinitionParserTests.

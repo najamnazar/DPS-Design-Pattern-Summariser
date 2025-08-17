@@ -1,0 +1,1 @@
+ContentAssertionTests acts as a caretaker for memento C, which tests Content Type, which tests Content As String, which tests Content As Bytes, which tests Content String Matcher, which tests Character Encoding, which handles, which handles With Charset.

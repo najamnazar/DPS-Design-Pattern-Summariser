@@ -1,0 +1,1 @@
+XMLRoutineDefinition acts as a caretaker for memento ParameterDefinition, which overloads InformationSchema parameter of info, Routine parameter of routine, which init0s.

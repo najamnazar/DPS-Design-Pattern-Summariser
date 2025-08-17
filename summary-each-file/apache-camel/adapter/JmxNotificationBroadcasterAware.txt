@@ -1,0 +1,1 @@
+JmxNotificationBroadcasterAware acts as an adaptee for adapter JmxNotificationEventNotifier, which adapts to EventNotifierSupport.

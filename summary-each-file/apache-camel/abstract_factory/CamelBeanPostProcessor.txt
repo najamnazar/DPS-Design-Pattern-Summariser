@@ -1,0 +1,1 @@
+CamelBeanPostProcessor acts as an abstract product for CamelBeanPostProcessor, which is inherited by DefaultCamelBeanPostProcessor.

@@ -1,0 +1,1 @@
+JmsSimpleRequestCustomReplyToTest acts as a publisher for observer ArtemisService, which tests Requet Custom Reply To, which runs, which gets Component Name, which setups CamelContext parameter of camelContext, ArtemisService parameter of service, String parameter of componentName Component, which creates Route Builder.

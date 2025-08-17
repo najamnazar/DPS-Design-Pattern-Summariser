@@ -1,0 +1,3 @@
+EnumConstant acts as a product for AnnotationProcessorEnvironment, which overrides.
+EnumConstant acts as a product for MemberDeclaration, which overrides.
+EnumConstant acts as a product for DeclaredType, which overrides.

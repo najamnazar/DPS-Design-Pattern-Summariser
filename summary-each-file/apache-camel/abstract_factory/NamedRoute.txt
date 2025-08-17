@@ -1,0 +1,1 @@
+NamedRoute acts as an abstract factory for NamedNode, which is inherited by RouteDefinition.

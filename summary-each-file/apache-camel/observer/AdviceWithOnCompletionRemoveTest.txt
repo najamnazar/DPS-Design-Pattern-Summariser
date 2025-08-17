@@ -1,0 +1,2 @@
+AdviceWithOnCompletionRemoveTest acts as a publisher for observer Service, which is Use Route Builder, which tests Advice On Completion Remove, which tests Advice On Completion Replace, which creates Route Builder.
+AdviceWithOnCompletionRemoveTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Advice On Completion Remove, which tests Advice On Completion Replace, which creates Route Builder.

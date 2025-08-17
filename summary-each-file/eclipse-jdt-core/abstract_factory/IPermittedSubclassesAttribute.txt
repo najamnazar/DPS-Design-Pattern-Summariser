@@ -1,0 +1,1 @@
+IPermittedSubclassesAttribute acts as an abstract product for IPermittedSubclassesAttribute, which is inherited by PermittedSubclassesAttribute.

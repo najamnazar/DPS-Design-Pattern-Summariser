@@ -1,0 +1,2 @@
+FileConsumerExcludeNameTest acts as a publisher for observer CamelContext, which tests Exclude Pre And Postfixes, which prepares Files, which creates Route Builder.
+FileConsumerExcludeNameTest acts as a publisher for observer Service, which tests Exclude Pre And Postfixes, which prepares Files, which creates Route Builder.

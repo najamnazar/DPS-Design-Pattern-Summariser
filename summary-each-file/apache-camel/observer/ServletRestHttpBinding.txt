@@ -1,0 +1,1 @@
+ServletRestHttpBinding acts as a publisher for observer HeaderFilterStrategy, which populates HttpServletRequest parameter of request, HttpMessage parameter of message Request Parameters, which uses String parameter of path Rest Matching.

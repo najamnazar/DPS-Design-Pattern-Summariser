@@ -1,0 +1,1 @@
+QualifiedNameable acts as an observer, which gets Qualified Name.

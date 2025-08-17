@@ -1,0 +1,3 @@
+TestCleanupAfterKill acts as a publisher for observer YarnConfiguration, which setups, which tears Down, which tests Registry Cleaned On Lifetime Exceeded.
+TestCleanupAfterKill acts as a publisher for observer Configuration, which setups, which tears Down, which tests Registry Cleaned On Lifetime Exceeded.
+TestCleanupAfterKill acts as a publisher for observer Service, which setups, which tears Down, which tests Registry Cleaned On Lifetime Exceeded.

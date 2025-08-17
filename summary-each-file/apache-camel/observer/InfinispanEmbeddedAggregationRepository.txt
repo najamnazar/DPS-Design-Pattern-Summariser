@@ -1,0 +1,2 @@
+InfinispanEmbeddedAggregationRepository acts as a publisher for observer CamelContext, which does Start, which does Stop, which gets Cache, which gets Configuration, which sets InfinispanEmbeddedConfiguration parameter of configuration Configuration.
+InfinispanEmbeddedAggregationRepository acts as a publisher for observer InfinispanEmbeddedConfiguration, which is inherited by, which does Start, which does Stop, which gets Cache, which gets Configuration, which sets InfinispanEmbeddedConfiguration parameter of configuration Configuration.

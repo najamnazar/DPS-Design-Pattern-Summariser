@@ -1,0 +1,4 @@
+TimelineCompareOp acts as an adaptee for adapter TimelinePrefixFilter.
+TimelineCompareOp acts as an adaptee for adapter TimelineExistsFilter.
+TimelineCompareOp acts as an adaptee for adapter TimelineKeyValuesFilter.
+TimelineCompareOp acts as an adaptee for adapter TimelineCompareFilter.

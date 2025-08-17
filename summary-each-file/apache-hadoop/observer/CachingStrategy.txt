@@ -1,0 +1,1 @@
+CachingStrategy acts as an observer for publisher BlockReaderFactory, which is inherited by, which news Default Strategy, which news Drop Behind, which sets Boolean parameter of dropBehind Drop Behind, which sets Long parameter of readahead Readahead, which builds, which gets Drop Behind, which gets Readahead, which tos String.

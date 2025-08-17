@@ -1,0 +1,2 @@
+CancelCommand acts as an observer, which executes CommandLine parameter of cmd, which cancels String parameter of planData Plan, which cancels String parameter of nodeAddress, String parameter of hash Plan Using Hash, which prints Help.
+CancelCommand acts as a publisher for observer DiskBalancerCluster, which executes CommandLine parameter of cmd, which cancels String parameter of planData Plan, which cancels String parameter of nodeAddress, String parameter of hash Plan Using Hash, which prints Help.

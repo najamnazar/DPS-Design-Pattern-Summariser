@@ -1,0 +1,2 @@
+SplitSubUnitOfWorkStopOnExceptionTest acts as a caretaker for memento Context, which tests OK, which tests Error, which creates Route Builder, which processes Exchange parameter of exchange.
+SplitSubUnitOfWorkStopOnExceptionTest acts as a caretaker for memento Producer, which tests OK, which tests Error, which creates Route Builder, which processes Exchange parameter of exchange.

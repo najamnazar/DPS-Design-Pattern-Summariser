@@ -1,0 +1,2 @@
+DefaultContentTypeResolverTests acts as a caretaker for memento C, which setups, which resolves, which resolves String Content Type, which resolves Invalid String Content Type, which resolves Unknown Header Type, which resolves No Content Type Header, which resolves Default Mime Type.
+DefaultContentTypeResolverTests acts as a caretaker for memento ContentType, which setups, which resolves, which resolves String Content Type, which resolves Invalid String Content Type, which resolves Unknown Header Type, which resolves No Content Type Header, which resolves Default Mime Type.

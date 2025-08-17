@@ -1,0 +1,1 @@
+FlashMapManager acts as an observer for publisher StandaloneMockMvcBuilder, which is inherited by AbstractFlashMapManager, which retrieves HttpServletRequest parameter of request, HttpServletResponse parameter of response And Update, which saves FlashMap parameter of flashMap, HttpServletRequest parameter of request, HttpServletResponse parameter of response Output Flash Map.

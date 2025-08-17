@@ -1,0 +1,2 @@
+ThreadsZeroInCoreAndMaxPoolTest acts as a publisher for observer CamelContext, which xtests Threads Core And Max Pool, which tests Threads Core Be Zero, which tests Threads Core And Max Pool Builder, which creates Route Builder.
+ThreadsZeroInCoreAndMaxPoolTest acts as a publisher for observer Service, which xtests Threads Core And Max Pool, which tests Threads Core Be Zero, which tests Threads Core And Max Pool Builder, which creates Route Builder.

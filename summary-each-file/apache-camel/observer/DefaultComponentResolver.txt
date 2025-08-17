@@ -1,0 +1,2 @@
+DefaultComponentResolver acts as a publisher for observer CamelContext, which is inherited by DependencyDownloaderComponentResolver, which resolves String parameter of name, CamelContext parameter of context Component, which finds String parameter of name, CamelContext parameter of context Component, which gets Log.
+DefaultComponentResolver acts as an observer, which resolves String parameter of name, CamelContext parameter of context Component, which finds String parameter of name, CamelContext parameter of context Component, which gets Log.

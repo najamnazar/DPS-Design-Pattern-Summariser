@@ -1,0 +1,1 @@
+DefaultContainerIdFactory acts as an observer, which news Container Id.

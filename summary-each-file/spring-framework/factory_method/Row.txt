@@ -1,0 +1,2 @@
+Row acts as a factory for ConstraintImpl, which overrides.
+Row acts as an abstract product for ResultQueryTrait, which is inherited by AbstractRow.

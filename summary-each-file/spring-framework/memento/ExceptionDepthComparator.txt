@@ -1,0 +1,1 @@
+ExceptionDepthComparator acts as a caretaker for memento C, which compares Class<? parameter of extends, Class<? parameter of extends, which gets Class<?> parameter of declaredException, Class<?> parameter of exceptionToMatch, int parameter of depth Depth, which finds Collection<Class<? parameter of extends, Throwable parameter of targetException Closest Match.

@@ -1,0 +1,1 @@
+RoutesHealthCheckRepository acts as a product for DefaultHealthCheckRegistry, which overrides isEnabled method of HealthCheckRepository, setEnabled method of HealthCheckRepository.

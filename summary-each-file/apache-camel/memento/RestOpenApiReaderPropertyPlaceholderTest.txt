@@ -1,0 +1,2 @@
+RestOpenApiReaderPropertyPlaceholderTest acts as a caretaker for memento Context, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.
+RestOpenApiReaderPropertyPlaceholderTest acts as a caretaker for memento Producer, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.

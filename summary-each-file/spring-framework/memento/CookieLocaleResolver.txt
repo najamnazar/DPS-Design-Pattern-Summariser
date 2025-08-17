@@ -1,0 +1,1 @@
+CookieLocaleResolver acts as an originator for memento LocaleContext, which resolves a LocaleContext Locale Context to.

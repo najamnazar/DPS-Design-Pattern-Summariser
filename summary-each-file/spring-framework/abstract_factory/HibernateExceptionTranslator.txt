@@ -1,0 +1,1 @@
+HibernateExceptionTranslator acts as a factory for PersistenceExceptionTranslator, which overrides translateExceptionIfPossible method of PersistenceExceptionTranslator.

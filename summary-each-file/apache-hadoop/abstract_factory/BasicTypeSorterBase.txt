@@ -1,0 +1,5 @@
+BasicTypeSorterBase acts as a product for BufferSorter, which overrides.
+BasicTypeSorterBase acts as a factory for RawKeyValueIterator, which overrides.
+BasicTypeSorterBase acts as a product for ShuffleConsumerPlugin, which overrides.
+BasicTypeSorterBase acts as a product for MergeManager, which overrides.
+BasicTypeSorterBase acts as a factory for BufferSorter, which overrides.

@@ -1,0 +1,1 @@
+DefaultKafkaManualCommit acts as a product for KafkaManualCommitFactory, which overrides.

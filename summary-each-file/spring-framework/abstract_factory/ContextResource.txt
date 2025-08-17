@@ -1,0 +1,9 @@
+ContextResource acts as a product for ResourceResolver, which overrides.
+ContextResource acts as a product for ProtocolResolver, which overrides.
+ContextResource acts as a product for MultipartFile, which overrides.
+ContextResource acts as a product for ResourceLoader, which overrides.
+ContextResource acts as a product for ResourceTransformerChain, which overrides.
+ContextResource acts as a product for ResourceResolverChain, which overrides.
+ContextResource acts as a product for MetadataReader, which overrides.
+ContextResource acts as a product for ResourceTransformer, which overrides.
+ContextResource acts as a product for Resource, which overrides.

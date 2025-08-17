@@ -1,0 +1,1 @@
+ITestConnectionTimeouts acts as an adapter, which adapts to AbstractS3ATestBase, which adapts timingOutConfiguration method of Duration to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase.

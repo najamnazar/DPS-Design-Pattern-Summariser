@@ -1,0 +1,1 @@
+MemoryMappedBlock acts as a memento, which closes Key, which closes Key, which closes Key, which closes Key.

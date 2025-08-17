@@ -1,0 +1,1 @@
+Jt400ConfigurationSecureConnectionTest acts as an adapter, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport.

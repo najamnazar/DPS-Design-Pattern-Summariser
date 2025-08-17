@@ -1,0 +1,1 @@
+IPolyExpression acts as an abstract factory for Expression, TypeBinding, which is inherited by ReferenceExpression.

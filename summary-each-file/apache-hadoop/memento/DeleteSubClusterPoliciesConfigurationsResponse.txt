@@ -1,0 +1,2 @@
+DeleteSubClusterPoliciesConfigurationsResponse acts as an originator for memento DeleteSubClusterPoliciesConfigurationsResponse, which is inherited by, which news a DeleteSubClusterPoliciesConfigurationsResponse Instance to.
+DeleteSubClusterPoliciesConfigurationsResponse acts as a memento, which is inherited by DeleteSubClusterPoliciesConfigurationsResponsePBImpl, which news Instance.

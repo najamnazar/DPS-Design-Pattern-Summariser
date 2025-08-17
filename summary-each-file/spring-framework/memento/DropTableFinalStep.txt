@@ -1,0 +1,1 @@
+DropTableFinalStep acts as a memento, which is inherited by DropTableStep, DropTableImpl.

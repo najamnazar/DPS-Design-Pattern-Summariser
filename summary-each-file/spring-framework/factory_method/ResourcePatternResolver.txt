@@ -1,0 +1,1 @@
+ResourcePatternResolver acts as an abstract product for GenericWebApplicationContext, which is inherited by PathMatchingResourcePatternResolver.

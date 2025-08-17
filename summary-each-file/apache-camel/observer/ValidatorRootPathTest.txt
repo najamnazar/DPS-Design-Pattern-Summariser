@@ -1,0 +1,2 @@
+ValidatorRootPathTest acts as a publisher for observer CamelContext, which tests Root Path, which sets Up, which creates Route Builder.
+ValidatorRootPathTest acts as a publisher for observer Service, which tests Root Path, which sets Up, which creates Route Builder.

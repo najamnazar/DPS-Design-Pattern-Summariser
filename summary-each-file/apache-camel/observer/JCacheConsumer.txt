@@ -1,0 +1,4 @@
+JCacheConsumer acts as a publisher for observer HealthCheck, which does Start, which does Stop, which gets JCache Endpoint, which gets Cache, which creates Entry Listener Configuration.
+JCacheConsumer acts as a publisher for observer Exchange, which does Start, which does Stop, which gets JCache Endpoint, which gets Cache, which creates Entry Listener Configuration.
+JCacheConsumer acts as a publisher for observer ExceptionHandler, which does Start, which does Stop, which gets JCache Endpoint, which gets Cache, which creates Entry Listener Configuration.
+JCacheConsumer acts as a publisher for observer Route, which does Start, which does Stop, which gets JCache Endpoint, which gets Cache, which creates Entry Listener Configuration.

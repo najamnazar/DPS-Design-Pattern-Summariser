@@ -1,0 +1,2 @@
+CallableStatementWrapperTest acts as a caretaker for memento Producer, which sets Up, which starts Camel Context, which shoulds Execute Stored Procedure, which shoulds Execute Stored Function, which shoulds Execute Nilacid Procedure, which tears Down.
+CallableStatementWrapperTest acts as a caretaker for memento Context, which sets Up, which starts Camel Context, which shoulds Execute Stored Procedure, which shoulds Execute Stored Function, which shoulds Execute Nilacid Procedure, which tears Down.

@@ -1,0 +1,2 @@
+SourceModule acts as a caretaker for memento String, which gets Flags, which gets Handle Memento Delimiter, which gets Categories, which tos String parameter of lineDelimiter String.
+SourceModule acts as a caretaker for memento S, which gets Flags, which gets Handle Memento Delimiter, which gets Categories, which tos String parameter of lineDelimiter String.

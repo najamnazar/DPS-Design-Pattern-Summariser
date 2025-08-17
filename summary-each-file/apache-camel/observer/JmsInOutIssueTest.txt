@@ -1,0 +1,1 @@
+JmsInOutIssueTest acts as a publisher for observer ArtemisService, which tests In Out With Request Body, which tests In Out Two Times, which tests In Out With Async Request Body, which tests In Out With Send Exchange, which tests In Out With Async Send Exchange, which gets Component Name, which creates Route Builder.

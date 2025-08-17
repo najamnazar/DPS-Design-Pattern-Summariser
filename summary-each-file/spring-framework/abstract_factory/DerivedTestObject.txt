@@ -1,0 +1,1 @@
+DerivedTestObject acts as a product for ITestObject, which overrides.

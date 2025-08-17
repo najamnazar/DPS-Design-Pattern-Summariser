@@ -1,0 +1,1 @@
+SourcePositionImpl acts as a product for BinaryParameterDeclarationImpl, which overrides line method of SourcePosition, column method of SourcePosition, file method of SourcePosition.

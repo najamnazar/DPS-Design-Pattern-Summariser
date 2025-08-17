@@ -1,0 +1,4 @@
+TypedValue acts as an adaptee for adapter PropertyOrFieldReference, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl.
+TypedValue acts as an adaptee for adapter StringLiteral, which adapts to Literal, which adapts to Literal, which adapts to Literal, which adapts to Literal, which adapts to Literal.
+TypedValue acts as an adaptee for adapter VariableReference, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl.
+TypedValue acts as an adaptee for adapter InlineList, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl.

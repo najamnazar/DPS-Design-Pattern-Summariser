@@ -1,0 +1,2 @@
+FileRecursiveNoopTest acts as a publisher for observer Service, which tests Recursive Noop, which creates Route Builder.
+FileRecursiveNoopTest acts as a publisher for observer CamelContext, which tests Recursive Noop, which creates Route Builder.

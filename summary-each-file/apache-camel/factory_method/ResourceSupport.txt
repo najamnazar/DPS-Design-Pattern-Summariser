@@ -1,0 +1,1 @@
+ResourceSupport acts as a product for CamelCoapResource, which overrides getScheme method of Resource, getLocation method of Resource.

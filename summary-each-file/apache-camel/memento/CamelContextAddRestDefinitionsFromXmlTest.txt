@@ -1,0 +1,2 @@
+CamelContextAddRestDefinitionsFromXmlTest acts as a caretaker for memento Producer, which creates Registry, which sets Up, which parses String parameter of uri Uri, which loads String parameter of uri Rest, which tests Add Rest Definitions From Xml, which creates Route Builder.
+CamelContextAddRestDefinitionsFromXmlTest acts as a caretaker for memento Context, which creates Registry, which sets Up, which parses String parameter of uri Uri, which loads String parameter of uri Rest, which tests Add Rest Definitions From Xml, which creates Route Builder.

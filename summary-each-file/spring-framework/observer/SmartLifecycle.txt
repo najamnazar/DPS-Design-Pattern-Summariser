@@ -1,0 +1,1 @@
+SmartLifecycle acts as an observer, which is Auto Startup, which stops Runnable parameter of callback, which gets Phase.

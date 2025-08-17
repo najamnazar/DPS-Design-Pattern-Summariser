@@ -1,0 +1,1 @@
+JsseParameters acts as a caretaker for memento Context, which is inherited by, which gets Camel Context, which sets CamelContext parameter of context Camel Context, which parses String parameter of value Property Value, which parses List<String> parameter of values Property Values, which resolves String parameter of resource Resource.

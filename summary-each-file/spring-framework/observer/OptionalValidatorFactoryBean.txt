@@ -1,0 +1,2 @@
+OptionalValidatorFactoryBean acts as a publisher for observer ParameterNameDiscoverer, which afters Properties Set.
+OptionalValidatorFactoryBean acts as a publisher for observer ApplicationContext, which afters Properties Set.

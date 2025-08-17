@@ -1,0 +1,1 @@
+TestSimpSubscription acts as a factory for SimpSubscription, which overrides getId method of SimpSubscription, getDestination method of SimpSubscription.

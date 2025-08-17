@@ -1,0 +1,1 @@
+AbstractGitConsumer acts as an adapter, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts getLocalRepository method of GitEndpoint to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

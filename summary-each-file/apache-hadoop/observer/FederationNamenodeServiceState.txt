@@ -1,0 +1,1 @@
+FederationNamenodeServiceState acts as an observer for publisher MockResolver, which is inherited by, which gets HAServiceState parameter of state State.

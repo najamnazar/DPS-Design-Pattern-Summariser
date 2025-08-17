@@ -1,0 +1,1 @@
+BaseTypes acts as a caretaker for memento Binding, which is inherited by.

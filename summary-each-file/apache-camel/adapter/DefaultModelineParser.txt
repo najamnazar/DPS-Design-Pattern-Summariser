@@ -1,0 +1,1 @@
+DefaultModelineParser acts as a target for adapter DownloadModelineParser, which adapts to DefaultModelineParser, which adapts to DefaultModelineParser, which adapts to DefaultModelineParser, which adapts to DefaultModelineParser, which adapts to DefaultModelineParser, which adapts to DefaultModelineParser.

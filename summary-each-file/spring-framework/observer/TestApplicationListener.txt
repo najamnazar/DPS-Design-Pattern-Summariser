@@ -1,0 +1,1 @@
+TestApplicationListener acts as an observer for publisher AbstractApplicationContextTests, StaticMessageSourceTests, StaticApplicationContextMulticasterTests, XmlWebApplicationContextTests, StaticApplicationContextTests, which is inherited by, which gets Event Count, which zeros Counter, which ons ApplicationEvent parameter of e Application Event.

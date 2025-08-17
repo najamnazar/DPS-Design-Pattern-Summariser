@@ -1,0 +1,2 @@
+ExternalSPSFaultInjector acts as a publisher for observer ExternalSPSFaultInjector, which is inherited by, which gets Instance, which sets ExternalSPSFaultInjector parameter of instance Instance, which mocks int parameter of retry An Exception.
+ExternalSPSFaultInjector acts as an observer for publisher ExternalSPSFaultInjector, which is inherited by, which gets Instance, which sets ExternalSPSFaultInjector parameter of instance Instance, which mocks int parameter of retry An Exception.

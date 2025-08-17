@@ -1,0 +1,3 @@
+IDOMCompilationUnit acts as an abstract product for IDOMCompilationUnit, which is inherited by DOMCompilationUnit, DOMCompilationUnit, DOMCompilationUnit.
+IDOMCompilationUnit acts as an abstract factory for, which is inherited by DOMCompilationUnit.
+IDOMCompilationUnit acts as a product for IDOMNode, which overrides getName method of IDOMNode, setName method of IDOMNode.

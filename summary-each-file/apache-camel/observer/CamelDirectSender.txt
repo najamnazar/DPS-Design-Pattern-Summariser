@@ -1,0 +1,1 @@
+CamelDirectSender acts as a publisher for observer CamelContext, which is inherited by, which creates URI parameter of uri Connection, which supports URI parameter of uri, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.

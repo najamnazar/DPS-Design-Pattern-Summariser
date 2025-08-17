@@ -1,0 +1,2 @@
+AlterDatabaseStep acts as an abstract product for AlterDatabaseStep, which is inherited by AlterDatabaseImpl, AlterDatabaseImpl, AlterDatabaseImpl, AlterDatabaseImpl, AlterDatabaseImpl, AlterDatabaseImpl.
+AlterDatabaseStep acts as an abstract factory for AlterDatabaseFinalStep, which is inherited by AlterDatabaseImpl.

@@ -1,0 +1,2 @@
+AggregatePreCompleteAwareStrategyTest acts as a caretaker for memento Producer, which tests Aggregate Pre Complete, which creates Route Builder.
+AggregatePreCompleteAwareStrategyTest acts as a caretaker for memento Context, which tests Aggregate Pre Complete, which creates Route Builder.

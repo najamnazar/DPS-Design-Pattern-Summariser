@@ -1,0 +1,1 @@
+KMS2ClientFactory acts as an originator for memento KMS2InternalClient, which gets a KMS2InternalClient Kms Client to.

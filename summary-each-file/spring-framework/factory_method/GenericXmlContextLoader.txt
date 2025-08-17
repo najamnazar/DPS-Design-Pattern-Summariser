@@ -1,0 +1,1 @@
+GenericXmlContextLoader acts as a factory for GenericPropertiesContextLoader, which overrides.

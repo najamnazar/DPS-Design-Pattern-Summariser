@@ -1,0 +1,2 @@
+EventbridgeClientStandardImpl acts as a caretaker for memento Configuration, which gets Eventbridge Client.
+EventbridgeClientStandardImpl acts as a memento, which gets Eventbridge Client.

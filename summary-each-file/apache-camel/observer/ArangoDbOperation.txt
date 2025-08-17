@@ -1,0 +1,1 @@
+ArangoDbOperation acts as an observer for publisher ArangoDbConfiguration, which is inherited by.

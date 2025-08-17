@@ -1,0 +1,1 @@
+Level acts as an observer for publisher BufferedLog, which is inherited by.

@@ -1,0 +1,1 @@
+DefaultIndexColumnDefinition acts as a factory for IndexColumnDefinition, which overrides getSortOrder method of IndexColumnDefinition, getColumn method of IndexColumnDefinition.

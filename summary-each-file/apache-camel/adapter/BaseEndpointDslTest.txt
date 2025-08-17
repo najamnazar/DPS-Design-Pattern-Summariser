@@ -1,0 +1,1 @@
+BaseEndpointDslTest acts as a target for adapter NormalizedUriPropertyPlaceholderTest, which adapts to BaseEndpointDslTest, which adapts to BaseEndpointDslTest.

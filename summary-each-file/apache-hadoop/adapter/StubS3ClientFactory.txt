@@ -1,0 +1,1 @@
+StubS3ClientFactory acts as an adapter, which adapts to S3ClientFactory, which adapts to S3ClientFactory, which adapts to S3ClientFactory, which adapts to S3ClientFactory, which adapts to S3ClientFactory, which adapts to S3ClientFactory, which adapts to S3ClientFactory.

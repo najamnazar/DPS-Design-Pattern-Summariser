@@ -1,0 +1,1 @@
+SelectionNodeFound acts as a caretaker for memento Binding.

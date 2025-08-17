@@ -1,0 +1,3 @@
+DropTableStep acts as an abstract product for DropTableStep, which is inherited by DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl, DropTableImpl.
+DropTableStep acts as a product for DropTableStep, which overrides.
+DropTableStep acts as an abstract factory for DropTableFinalStep, which is inherited by DropTableImpl.

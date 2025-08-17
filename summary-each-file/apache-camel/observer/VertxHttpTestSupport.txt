@@ -1,0 +1,5 @@
+VertxHttpTestSupport acts as a publisher for observer Service, which gets Test Server Url, which gets Test Server Uri, which gets Producer Uri, which gets Port.
+VertxHttpTestSupport acts as a publisher for observer FluentProducerTemplate, which gets Test Server Url, which gets Test Server Uri, which gets Producer Uri, which gets Port.
+VertxHttpTestSupport acts as a publisher for observer ConsumerTemplate, which gets Test Server Url, which gets Test Server Uri, which gets Producer Uri, which gets Port.
+VertxHttpTestSupport acts as a publisher for observer ProducerTemplate, which gets Test Server Url, which gets Test Server Uri, which gets Producer Uri, which gets Port.
+VertxHttpTestSupport acts as a publisher for observer CamelContext, which gets Test Server Url, which gets Test Server Uri, which gets Producer Uri, which gets Port.

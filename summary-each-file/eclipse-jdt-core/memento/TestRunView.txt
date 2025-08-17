@@ -1,0 +1,1 @@
+TestRunView acts as an originator for memento Test, which is inherited by, which gets a Test Selected Test to, which reveals Test parameter of failure Failure, which abouts Test parameter of suite, TestResult parameter of result To Start, which runs Test parameter of suite, TestResult parameter of result Finished.

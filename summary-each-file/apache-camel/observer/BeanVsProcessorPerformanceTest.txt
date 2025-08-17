@@ -1,0 +1,2 @@
+BeanVsProcessorPerformanceTest acts as a publisher for observer CamelContext, which creates Registry, which tests Processor, which tests Bean, which creates Route Builder.
+BeanVsProcessorPerformanceTest acts as a publisher for observer Service, which creates Registry, which tests Processor, which tests Bean, which creates Route Builder.

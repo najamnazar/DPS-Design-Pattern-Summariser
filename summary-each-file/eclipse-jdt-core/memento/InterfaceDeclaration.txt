@@ -1,0 +1,7 @@
+InterfaceDeclaration acts as a caretaker for memento E.
+InterfaceDeclaration acts as a caretaker for memento C.
+InterfaceDeclaration acts as a caretaker for memento S.
+InterfaceDeclaration acts as a caretaker for memento Class.
+InterfaceDeclaration acts as a caretaker for memento R.
+InterfaceDeclaration acts as a caretaker for memento Binding.
+InterfaceDeclaration acts as a memento, which is inherited by InterfaceDeclarationImpl.

@@ -1,0 +1,1 @@
+IJavadocContents acts as an adaptee for adapter BinaryType, which adapts to BinaryMember, IType, which adapts to BinaryMember, IType, which adapts to BinaryMember, IType, which adapts to BinaryMember, IType, which adapts to BinaryMember, IType.

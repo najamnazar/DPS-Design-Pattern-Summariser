@@ -1,0 +1,2 @@
+InstanceFallbackConverterTest acts as a publisher for observer CamelContext, which is Load Type Converters, which tests Instance Fallback Converter, which tests Instance Fallback Mandatory Converter, which tests Instance Fallback Mandatory Failed, which tests Instance Fallback Failed.
+InstanceFallbackConverterTest acts as a publisher for observer Service, which is Load Type Converters, which tests Instance Fallback Converter, which tests Instance Fallback Mandatory Converter, which tests Instance Fallback Mandatory Failed, which tests Instance Fallback Failed.

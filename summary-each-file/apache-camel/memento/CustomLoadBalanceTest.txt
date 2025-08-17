@@ -1,0 +1,2 @@
+CustomLoadBalanceTest acts as a caretaker for memento Context, which sets Up, which creates Route Builder, which tests Custom Load Balancer, which processes Exchange parameter of exchange, AsyncCallback parameter of callback.
+CustomLoadBalanceTest acts as a caretaker for memento Producer, which sets Up, which creates Route Builder, which tests Custom Load Balancer, which processes Exchange parameter of exchange, AsyncCallback parameter of callback.

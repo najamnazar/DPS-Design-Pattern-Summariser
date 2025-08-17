@@ -1,0 +1,1 @@
+JMSTransactionIsTransactedRedeliveredTest acts as a caretaker for memento Context, which creates Application Context, which is Use Advice With, which tests Transaction Success, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

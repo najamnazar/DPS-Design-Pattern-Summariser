@@ -1,0 +1,2 @@
+GenericWritable acts as a factory for Configurable, which overrides getConf method of Configurable, setConf method of Configurable.
+GenericWritable acts as a product for WritableFactory, which overrides readFields method of Writable, write method of Writable.

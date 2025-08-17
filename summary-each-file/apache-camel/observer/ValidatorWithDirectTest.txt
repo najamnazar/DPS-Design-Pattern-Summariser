@@ -1,0 +1,2 @@
+ValidatorWithDirectTest acts as a publisher for observer CamelContext, which tests Validator With Direct, which creates Route Builder.
+ValidatorWithDirectTest acts as a publisher for observer Service, which tests Validator With Direct, which creates Route Builder.

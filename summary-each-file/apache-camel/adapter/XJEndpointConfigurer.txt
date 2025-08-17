@@ -1,0 +1,1 @@
+XJEndpointConfigurer acts as an adapter, which adapts to XsltSaxonEndpointConfigurer, which adapts to XsltSaxonEndpointConfigurer, which adapts to XsltSaxonEndpointConfigurer.

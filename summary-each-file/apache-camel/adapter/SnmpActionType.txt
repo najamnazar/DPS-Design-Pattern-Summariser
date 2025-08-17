@@ -1,0 +1,2 @@
+SnmpActionType acts as an adaptee for adapter SnmpEndpoint.
+SnmpActionType acts as an adaptee for adapter SnmpProducer.

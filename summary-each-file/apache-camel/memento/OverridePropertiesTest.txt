@@ -1,0 +1,1 @@
+OverridePropertiesTest acts as a caretaker for memento Producer, which configures MainConfigurationProperties parameter of configuration, which shoulds Override Default Properties, which shoulds Support Nested Test, which shoulds Support Nested Test.

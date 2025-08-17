@@ -1,0 +1,1 @@
+GetSubClusterPolicyConfigurationResponse acts as a publisher for observer SubClusterPolicyConfiguration, which is inherited by GetSubClusterPolicyConfigurationResponsePBImpl, which news SubClusterPolicyConfiguration parameter of policy Instance, which gets Policy Configuration, which sets SubClusterPolicyConfiguration parameter of policyConfiguration Policy Configuration.

@@ -1,0 +1,1 @@
+TaskAttemptsInfo acts as a publisher for observer TaskAttemptInfo, which is inherited by, which adds TaskAttemptInfo parameter of taskattemptInfo, which gets Task Attempts.

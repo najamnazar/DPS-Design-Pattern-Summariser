@@ -1,0 +1,1 @@
+BinaryParameterDeclarationImpl acts as a factory method for SourcePosition, which is inherited by Declaration, MemberDeclarationImpl, Declaration, AnnotationMirror, ASTBasedDeclarationImpl, MemberDeclarationImpl, AnnotationValue, ASTBasedDeclarationImpl, MemberDeclarationImpl, Declaration, Declaration.

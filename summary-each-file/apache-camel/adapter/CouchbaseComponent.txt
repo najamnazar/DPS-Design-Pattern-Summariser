@@ -1,0 +1,1 @@
+CouchbaseComponent acts as an adaptee for adapter CouchbaseComponentTest, which adapts to CamelTestSupport.

@@ -1,0 +1,1 @@
+AlterSchemaImpl acts as a product for AlterSchemaStep, which overrides.

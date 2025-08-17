@@ -1,0 +1,1 @@
+File acts as an abstract product for VfsResource, which is inherited by FileImpl.

@@ -1,0 +1,2 @@
+PerformanceCounter acts as an adaptee for adapter ManagedPerformanceCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter.
+PerformanceCounter acts as an adaptee for adapter DefaultInstrumentationProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.

@@ -1,0 +1,1 @@
+AlterTableAddStep acts as a memento, which afters Field<?> parameter of columnName, which afters Field<?> parameter of columnName, which afters Field<?> parameter of columnName, which afters Field<?> parameter of columnName, which afters Field<?> parameter of columnName, which afters Field<?> parameter of columnName, which afters Field<?> parameter of columnName.

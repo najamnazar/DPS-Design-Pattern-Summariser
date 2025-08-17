@@ -1,0 +1,2 @@
+FileSorterRefTest acts as a publisher for observer CamelContext, which creates Registry, which tests Sort Files, which compares GenericFile<T> parameter of o1, GenericFile<T> parameter of o2.
+FileSorterRefTest acts as a publisher for observer Service, which creates Registry, which tests Sort Files, which compares GenericFile<T> parameter of o1, GenericFile<T> parameter of o2.

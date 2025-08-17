@@ -1,0 +1,1 @@
+MissingMatrixVariableException acts as a caretaker for memento Parameter, which gets Message, which gets Variable Name, which gets Parameter.

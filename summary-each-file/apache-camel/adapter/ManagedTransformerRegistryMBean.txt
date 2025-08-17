@@ -1,0 +1,1 @@
+ManagedTransformerRegistryMBean acts as an adaptee for adapter ManagedTransformerRegistry, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService.

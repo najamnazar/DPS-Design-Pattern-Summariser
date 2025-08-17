@@ -1,0 +1,1 @@
+ResourceCompilationUnit acts as an observer, which gets Contents, which gets File Name, which gets Main Type Name, which gets Package Name, which ignores Optional Problems, which gets Module Name.

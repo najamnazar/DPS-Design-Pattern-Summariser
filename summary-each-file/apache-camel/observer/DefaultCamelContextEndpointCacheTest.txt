@@ -1,0 +1,2 @@
+DefaultCamelContextEndpointCacheTest acts as a publisher for observer Service, which tests Cache Endpoints.
+DefaultCamelContextEndpointCacheTest acts as a publisher for observer CamelContext, which tests Cache Endpoints.

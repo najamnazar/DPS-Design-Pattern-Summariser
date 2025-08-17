@@ -1,0 +1,1 @@
+KeyManager acts as a factory for DataEncryptionKeyFactory, which overrides newDataEncryptionKey method of DataEncryptionKeyFactory.

@@ -1,0 +1,1 @@
+QualifiedThisReference acts as an adapter, which adapts to ThisReference, which adapts to ThisReference, which adapts to ThisReference, which adapts to ThisReference, which adapts to ThisReference, which adapts to ThisReference.

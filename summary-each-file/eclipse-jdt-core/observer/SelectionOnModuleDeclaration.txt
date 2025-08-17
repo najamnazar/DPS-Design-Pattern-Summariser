@@ -1,0 +1,8 @@
+SelectionOnModuleDeclaration acts as a publisher for observer ASTNode, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a publisher for observer Name, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a publisher for observer ChildPropertyDescriptor, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a publisher for observer AST, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a publisher for observer ChildListPropertyDescriptor, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a publisher for observer Javadoc, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as an observer, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a publisher for observer SimplePropertyDescriptor, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.

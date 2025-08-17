@@ -1,0 +1,2 @@
+ManagedJmsSelectorTest acts as a caretaker for memento Context, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.
+ManagedJmsSelectorTest acts as a caretaker for memento Producer, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.

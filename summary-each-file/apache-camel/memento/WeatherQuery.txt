@@ -1,0 +1,1 @@
+WeatherQuery acts as a caretaker for memento Configuration, which gets Query, which gets String parameter of location Query, which creates Context, which is Geo Location, which creates Lat Lon Query String, which is Boxed Query, which gets Current Geo Location.

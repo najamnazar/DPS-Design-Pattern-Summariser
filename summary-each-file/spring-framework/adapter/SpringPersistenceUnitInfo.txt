@@ -1,0 +1,1 @@
+SpringPersistenceUnitInfo acts as an adapter, which adapts to MutablePersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo.

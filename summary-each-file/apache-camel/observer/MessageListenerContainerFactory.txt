@@ -1,0 +1,1 @@
+MessageListenerContainerFactory acts as an observer for publisher JmsConfiguration, ActiveMQConfiguration, AMQPConfiguration, which is inherited by, which creates JmsEndpoint parameter of endpoint Message Listener Container.

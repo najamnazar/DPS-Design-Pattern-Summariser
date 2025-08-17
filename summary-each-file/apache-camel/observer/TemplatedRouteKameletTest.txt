@@ -1,0 +1,5 @@
+TemplatedRouteKameletTest acts as a publisher for observer ConsumerTemplate, which tests Kamelet, which creates Route Builder.
+TemplatedRouteKameletTest acts as a publisher for observer Service, which tests Kamelet, which creates Route Builder.
+TemplatedRouteKameletTest acts as a publisher for observer CamelContext, which tests Kamelet, which creates Route Builder.
+TemplatedRouteKameletTest acts as a publisher for observer ProducerTemplate, which tests Kamelet, which creates Route Builder.
+TemplatedRouteKameletTest acts as a publisher for observer FluentProducerTemplate, which tests Kamelet, which creates Route Builder.

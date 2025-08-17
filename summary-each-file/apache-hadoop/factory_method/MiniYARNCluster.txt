@@ -1,0 +1,1 @@
+MiniYARNCluster acts as a factory for ContainerManager, which overrides.

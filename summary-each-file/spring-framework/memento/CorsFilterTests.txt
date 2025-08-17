@@ -1,0 +1,2 @@
+CorsFilterTests acts as a caretaker for memento Configuration, which setups, which nons Cors Request, which sames Origin Request, which valids Actual Request, which invalids Actual Request, which valids Pre Flight Request, which invalids Pre Flight Request.
+CorsFilterTests acts as a caretaker for memento C, which setups, which nons Cors Request, which sames Origin Request, which valids Actual Request, which invalids Actual Request, which valids Pre Flight Request, which invalids Pre Flight Request.

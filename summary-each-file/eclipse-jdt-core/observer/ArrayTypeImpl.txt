@@ -1,0 +1,6 @@
+ArrayTypeImpl acts as a publisher for observer AST, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a publisher for observer ChildListPropertyDescriptor, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as an observer, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a publisher for observer ChildPropertyDescriptor, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a publisher for observer ASTNode, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.
+ArrayTypeImpl acts as a publisher for observer Type, which gets Component Type, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Annotation Bindings, which gets Kind.

@@ -1,0 +1,5 @@
+IntersectionTypeImpl acts as a caretaker for memento C, which gets Kind, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Bounds.
+IntersectionTypeImpl acts as a caretaker for memento E, which gets Kind, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Bounds.
+IntersectionTypeImpl acts as a caretaker for memento S, which gets Kind, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Bounds.
+IntersectionTypeImpl acts as a caretaker for memento Binding, which gets Kind, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Bounds.
+IntersectionTypeImpl acts as a caretaker for memento List, which gets Kind, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Bounds.

@@ -1,0 +1,2 @@
+AdviceWithInvalidConfiguredTest acts as a publisher for observer CamelContext, which tests No Error Handler, which tests No Extra Routes, which creates Route Builder.
+AdviceWithInvalidConfiguredTest acts as a publisher for observer Service, which tests No Error Handler, which tests No Extra Routes, which creates Route Builder.

@@ -1,0 +1,3 @@
+IPackageDeclaration acts as an originator for memento IAnnotation.
+IPackageDeclaration acts as an originator for memento String, which gets a String Element Name to.
+IPackageDeclaration acts as an originator for memento ISourceRange.

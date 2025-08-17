@@ -1,0 +1,1 @@
+ManagementStrategy acts as a factory for DefaultManagementStrategy, which overrides.

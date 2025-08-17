@@ -1,0 +1,1 @@
+CompressedReader acts as an adaptee for adapter CompressedWriterTest, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests, which adapts to BuilderTests.

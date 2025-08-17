@@ -1,0 +1,2 @@
+BeanNoTypeConvertionPossibleTest acts as a publisher for observer CamelContext, which tests Bean No Type Convertion Possible Fail, which tests Bean No Type Convertion Possible OK, which tests Bean No Type Convertion Possible OKNull Body, which creates Route Builder.
+BeanNoTypeConvertionPossibleTest acts as a publisher for observer Service, which tests Bean No Type Convertion Possible Fail, which tests Bean No Type Convertion Possible OK, which tests Bean No Type Convertion Possible OKNull Body, which creates Route Builder.

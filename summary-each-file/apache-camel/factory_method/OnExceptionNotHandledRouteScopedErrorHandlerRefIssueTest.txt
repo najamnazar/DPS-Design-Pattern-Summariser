@@ -1,0 +1,1 @@
+OnExceptionNotHandledRouteScopedErrorHandlerRefIssueTest acts as a factory for FromRestConfigurationTest, which overrides.

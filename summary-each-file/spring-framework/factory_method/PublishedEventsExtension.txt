@@ -1,0 +1,1 @@
+PublishedEventsExtension acts as a factory method for PublishedEvents, which is inherited by PublishedEvents.

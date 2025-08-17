@@ -1,0 +1,1 @@
+MailIdempotentRepositoryTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts prepareMailbox method of MemoryIdempotentRepository to CamelTestSupport, which adapts to CamelTestSupport.

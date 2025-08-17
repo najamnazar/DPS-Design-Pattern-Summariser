@@ -1,0 +1,1 @@
+WindowsResourceCalculatorPlugin acts as an observer.

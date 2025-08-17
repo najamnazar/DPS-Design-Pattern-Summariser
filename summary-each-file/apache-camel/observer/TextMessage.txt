@@ -1,0 +1,1 @@
+TextMessage acts as an observer for publisher TextMessageRequest, which is inherited by, which is Preview Url, which sets boolean parameter of previewUrl Preview Url, which gets Body, which sets String parameter of body Body.

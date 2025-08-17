@@ -1,0 +1,2 @@
+QuickfixjEventListener acts as an observer for publisher QuickfixjEngine, which is inherited by MessageCorrelator, QuickfixjEndpoint, which ons QuickfixjEventCategory parameter of eventCategory, SessionID parameter of sessionID, Message parameter of message Event.
+QuickfixjEventListener acts as a publisher for observer Message, which is inherited by MessageCorrelator, which ons QuickfixjEventCategory parameter of eventCategory, SessionID parameter of sessionID, Message parameter of message Event.

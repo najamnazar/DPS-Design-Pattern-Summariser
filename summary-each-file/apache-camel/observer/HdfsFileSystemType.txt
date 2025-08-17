@@ -1,0 +1,1 @@
+HdfsFileSystemType acts as an observer for publisher HdfsConfiguration, which is inherited by, which gets HdfsConfiguration parameter of config Hdfs Path, which gets HdfsConfiguration parameter of config Hdfs Path, which gets HdfsConfiguration parameter of conf Hdfs Path.

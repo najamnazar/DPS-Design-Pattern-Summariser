@@ -1,0 +1,1 @@
+BeanHolder acts as a component for RequestBeanHolder, which is inherited by RegistryBean, RegistryBean, RegistryBean, RegistryBean, RegistryBean, RegistryBean, RegistryBean, RegistryBean, ConstantBeanHolder, ConstantBeanHolder, ConstantBeanHolder, ConstantBeanHolder, ConstantBeanHolder, ConstantBeanHolder, ConstantBeanHolder, ConstantBeanHolder.

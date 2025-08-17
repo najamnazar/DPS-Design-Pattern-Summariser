@@ -1,0 +1,1 @@
+Cache acts as an abstract product for Cache, which is inherited by AbstractValueAdaptingCache, TransactionAwareCacheDecorator, NoOpCache.

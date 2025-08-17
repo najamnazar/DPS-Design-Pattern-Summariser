@@ -1,0 +1,3 @@
+TestSnsConfiguration acts as a publisher for observer MessageDeduplicationIdStrategy, which sets SnsClient parameter of amazonSNSClient Amazon SNSClient, which gets Amazon SNSClient.
+TestSnsConfiguration acts as a publisher for observer MessageGroupIdStrategy, which sets SnsClient parameter of amazonSNSClient Amazon SNSClient, which gets Amazon SNSClient.
+TestSnsConfiguration acts as an observer, which sets SnsClient parameter of amazonSNSClient Amazon SNSClient, which gets Amazon SNSClient.

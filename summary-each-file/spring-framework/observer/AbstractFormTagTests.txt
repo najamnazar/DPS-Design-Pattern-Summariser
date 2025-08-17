@@ -1,0 +1,1 @@
+AbstractFormTagTests acts as a publisher for observer MockPageContext, which extends MockHttpServletRequest parameter of request Request, which creates Test Bean, which extends MockPageContext parameter of pageContext Page Context, which gets Form Tag.

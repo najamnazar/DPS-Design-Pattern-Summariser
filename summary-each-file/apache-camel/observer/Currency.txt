@@ -1,0 +1,1 @@
+Currency acts as an observer for publisher XChangeConfiguration, which is inherited by, which gets Fallback Value, which sets String parameter of fallbackValue Fallback Value, which gets Code, which sets String parameter of code Code, which gets Amount1000, which sets String parameter of amount1000 Amount1000.

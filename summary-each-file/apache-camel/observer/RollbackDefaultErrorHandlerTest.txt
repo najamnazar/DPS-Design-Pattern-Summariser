@@ -1,0 +1,2 @@
+RollbackDefaultErrorHandlerTest acts as a publisher for observer CamelContext, which tests Ok, which tests Rollback, which tests Rollback With Exchange, which creates Route Builder.
+RollbackDefaultErrorHandlerTest acts as a publisher for observer Service, which tests Ok, which tests Rollback, which tests Rollback With Exchange, which creates Route Builder.

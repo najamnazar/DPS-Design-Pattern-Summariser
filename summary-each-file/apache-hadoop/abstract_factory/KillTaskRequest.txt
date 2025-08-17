@@ -1,0 +1,1 @@
+KillTaskRequest acts as an abstract factory for TaskId, which is inherited by KillTaskRequestPBImpl.

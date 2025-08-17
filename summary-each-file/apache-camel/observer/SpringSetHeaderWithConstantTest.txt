@@ -1,0 +1,2 @@
+SpringSetHeaderWithConstantTest acts as a publisher for observer Service, which tests Set Header With Expression, which creates Camel Context.
+SpringSetHeaderWithConstantTest acts as a publisher for observer CamelContext, which tests Set Header With Expression, which creates Camel Context.

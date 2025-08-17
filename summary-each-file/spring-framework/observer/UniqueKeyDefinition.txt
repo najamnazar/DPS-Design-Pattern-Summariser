@@ -1,0 +1,1 @@
+UniqueKeyDefinition acts as an observer for publisher DefaultRelations, which is inherited by DefaultUniqueKeyDefinition, which is Primary Key, which gets Key Columns, which gets Foreign Keys, which resolves Referenced Key.

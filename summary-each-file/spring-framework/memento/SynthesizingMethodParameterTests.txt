@@ -1,0 +1,1 @@
+SynthesizingMethodParameterTests acts as a caretaker for memento Parameter, which sets Up, which equals, which tests Hash Code, which factories Methods, which indexes Validation, which methods String parameter of p1, long parameter of p2.

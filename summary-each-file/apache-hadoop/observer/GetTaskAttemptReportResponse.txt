@@ -1,0 +1,1 @@
+GetTaskAttemptReportResponse acts as a publisher for observer TaskAttemptReport, which is inherited by GetTaskAttemptReportResponsePBImpl, which gets Task Attempt Report, which sets TaskAttemptReport parameter of taskAttemptReport Task Attempt Report.

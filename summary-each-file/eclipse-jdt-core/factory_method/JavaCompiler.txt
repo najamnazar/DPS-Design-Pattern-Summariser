@@ -1,0 +1,2 @@
+JavaCompiler acts as a factory method for StandardJavaFileManager, which is inherited by JavaCompiler.
+JavaCompiler acts as a factory for JavaCompiler, which overrides.

@@ -1,0 +1,2 @@
+DisruptorWaitStrategy acts as an adaptee for adapter DisruptorEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+DisruptorWaitStrategy acts as an adaptee for adapter DisruptorComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

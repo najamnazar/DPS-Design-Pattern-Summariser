@@ -1,0 +1,1 @@
+ReschedulingRunnable acts as a caretaker for memento C, which schedules, which obtains Current Future, which runs, which cancels boolean parameter of mayInterruptIfRunning, which is Cancelled, which is Done, which gets, which gets long parameter of timeout, TimeUnit parameter of unit, which gets TimeUnit parameter of unit Delay, which compares Delayed parameter of other To.

@@ -1,0 +1,4 @@
+ConversionService acts as an adaptee for adapter AbstractPropertyBindingResult, which adapts to AbstractBindingResult, which adapts to AbstractBindingResult, which adapts to AbstractBindingResult, which adapts to AbstractBindingResult.
+ConversionService acts as an adaptee for adapter GenericMessageConverter, which adapts to SimpleMessageConverter, which adapts to SimpleMessageConverter, which adapts to SimpleMessageConverter, which adapts to SimpleMessageConverter.
+ConversionService acts as an adaptee for adapter FormattingConversionService, which adapts to GenericConversionService, which adapts to GenericConversionService, which adapts to GenericConversionService, which adapts to GenericConversionService.
+ConversionService acts as an adaptee for adapter AbstractBeanFactory, which adapts to FactoryBeanRegistrySupport, which adapts to FactoryBeanRegistrySupport, which adapts to FactoryBeanRegistrySupport, which adapts to FactoryBeanRegistrySupport.

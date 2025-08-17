@@ -1,0 +1,1 @@
+PulsarConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

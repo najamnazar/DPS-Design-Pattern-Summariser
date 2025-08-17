@@ -1,0 +1,1 @@
+AlterTableRenameIndexToStep acts as an originator for memento AlterTableFinalStep, which is inherited by, which tos AlterTableFinalStep, which tos AlterTableFinalStep, which tos AlterTableFinalStep.

@@ -1,0 +1,2 @@
+InterceptSendToEndpointWithStopTest acts as a publisher for observer CamelContext, which tests Intercept Send To Endpoint With Stop, which tests Intercept Send To Endpoint With No Stop, which creates Route Builder.
+InterceptSendToEndpointWithStopTest acts as a publisher for observer Service, which tests Intercept Send To Endpoint With Stop, which tests Intercept Send To Endpoint With No Stop, which creates Route Builder.

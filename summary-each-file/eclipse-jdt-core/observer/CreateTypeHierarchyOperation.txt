@@ -1,0 +1,2 @@
+CreateTypeHierarchyOperation acts as a publisher for observer String, which executes Operation, which gets Result, which is Read Only, which verifies.
+CreateTypeHierarchyOperation acts as a publisher for observer IJavaElement, which executes Operation, which gets Result, which is Read Only, which verifies.

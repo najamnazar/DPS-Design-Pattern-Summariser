@@ -1,0 +1,1 @@
+SubApplicationTableRW acts as an adaptee for adapter SubApplicationEntityReader, which adapts to GenericEntityReader, which adapts to GenericEntityReader.

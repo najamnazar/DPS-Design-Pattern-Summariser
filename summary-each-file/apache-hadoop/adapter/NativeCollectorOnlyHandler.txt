@@ -1,0 +1,1 @@
+NativeCollectorOnlyHandler acts as an adapter, which adapts to CommandDispatcher, which adapts to CommandDispatcher, which adapts to CommandDispatcher, which adapts to CommandDispatcher, which adapts to CommandDispatcher.

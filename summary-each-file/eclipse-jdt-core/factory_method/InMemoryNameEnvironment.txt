@@ -1,0 +1,1 @@
+InMemoryNameEnvironment acts as a product for CodeSnippetEvaluator, which overrides.

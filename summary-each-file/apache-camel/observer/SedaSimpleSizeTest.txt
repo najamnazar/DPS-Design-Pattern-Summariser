@@ -1,0 +1,2 @@
+SedaSimpleSizeTest acts as a publisher for observer Service, which tests Seda Size, which creates Route Builder.
+SedaSimpleSizeTest acts as a publisher for observer CamelContext, which tests Seda Size, which creates Route Builder.

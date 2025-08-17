@@ -1,0 +1,1 @@
+ManagedThrottlerMBean acts as a product for ManagedCamelContext, which overrides.

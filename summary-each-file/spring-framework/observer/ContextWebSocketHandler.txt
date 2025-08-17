@@ -1,0 +1,2 @@
+ContextWebSocketHandler acts as a publisher for observer WebSocketHandler, which is inherited by, which gets Sub Protocols, which handles WebSocketSession parameter of session, which decorates WebSocketHandler parameter of handler, ContextView parameter of contextView.
+ContextWebSocketHandler acts as an observer, which gets Sub Protocols, which handles WebSocketSession parameter of session, which decorates WebSocketHandler parameter of handler, ContextView parameter of contextView.

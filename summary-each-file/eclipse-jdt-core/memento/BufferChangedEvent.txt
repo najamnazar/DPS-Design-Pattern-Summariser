@@ -1,0 +1,2 @@
+BufferChangedEvent acts as a caretaker for memento S, which gets Buffer, which gets Length, which gets Offset, which gets Text.
+BufferChangedEvent acts as a caretaker for memento String, which gets Buffer, which gets Length, which gets Offset, which gets Text.

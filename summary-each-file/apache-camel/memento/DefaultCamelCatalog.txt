@@ -1,0 +1,1 @@
+DefaultCamelCatalog acts as an originator for memento OtherModel, which others an OtherModel Model to.

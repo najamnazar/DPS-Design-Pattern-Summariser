@@ -1,0 +1,1 @@
+MarshalDefinition acts as a factory for DataFormatDefinitionAware, which overrides getDataFormatType method of DataFormatDefinitionAware, setDataFormatType method of DataFormatDefinitionAware.

@@ -1,0 +1,5 @@
+MailDefaultDelayForMailConsumeTest acts as a publisher for observer ProducerTemplate, which tests Consuming, which creates Route Builder.
+MailDefaultDelayForMailConsumeTest acts as a publisher for observer ConsumerTemplate, which tests Consuming, which creates Route Builder.
+MailDefaultDelayForMailConsumeTest acts as a publisher for observer CamelContext, which tests Consuming, which creates Route Builder.
+MailDefaultDelayForMailConsumeTest acts as a publisher for observer FluentProducerTemplate, which tests Consuming, which creates Route Builder.
+MailDefaultDelayForMailConsumeTest acts as a publisher for observer Service, which tests Consuming, which creates Route Builder.

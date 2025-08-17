@@ -1,0 +1,1 @@
+TestRMAppLogAggregationStatus acts as a publisher for observer SchedulerEvent, which is inherited by, which handles SchedulerEvent parameter of event, which sets Up, which tears Down, which tests Log Aggregation Status, which tests Get Log Aggregation Status For App Report, which creates Configuration parameter of conf RMApp.

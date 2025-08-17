@@ -1,0 +1,1 @@
+AlterDatabaseFinalStep acts as an abstract product for AlterDatabaseFinalStep, which is inherited by AlterDatabaseImpl, AlterDatabaseImpl, AlterDatabaseImpl.

@@ -1,0 +1,2 @@
+RawComparator acts as an adaptee for adapter BasicTypeSorterBase, which adapts to BufferSorter.
+RawComparator acts as a target for adapter WritableComparator, which adapts to RawComparator.

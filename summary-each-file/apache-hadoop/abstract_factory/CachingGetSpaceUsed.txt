@@ -1,0 +1,2 @@
+CachingGetSpaceUsed acts as a product for GetSpaceUsed, which overrides getUsed method of GetSpaceUsed.
+CachingGetSpaceUsed acts as a factory for GetSpaceUsed, which overrides getUsed method of GetSpaceUsed.

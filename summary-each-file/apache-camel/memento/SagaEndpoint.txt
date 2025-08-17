@@ -1,0 +1,2 @@
+SagaEndpoint acts as a caretaker for memento Component, which creates Producer, which creates Processor parameter of processor Consumer.
+SagaEndpoint acts as a caretaker for memento Context, which creates Producer, which creates Processor parameter of processor Consumer.

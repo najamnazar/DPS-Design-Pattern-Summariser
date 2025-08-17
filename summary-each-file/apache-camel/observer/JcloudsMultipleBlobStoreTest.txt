@@ -1,0 +1,5 @@
+JcloudsMultipleBlobStoreTest acts as a publisher for observer FluentProducerTemplate, which tests With Multiple Services, which creates Route Builder.
+JcloudsMultipleBlobStoreTest acts as a publisher for observer Service, which tests With Multiple Services, which creates Route Builder.
+JcloudsMultipleBlobStoreTest acts as a publisher for observer ProducerTemplate, which tests With Multiple Services, which creates Route Builder.
+JcloudsMultipleBlobStoreTest acts as a publisher for observer ConsumerTemplate, which tests With Multiple Services, which creates Route Builder.
+JcloudsMultipleBlobStoreTest acts as a publisher for observer CamelContext, which tests With Multiple Services, which creates Route Builder.

@@ -1,0 +1,1 @@
+MemoryWebsocketStore acts as a factory for WebsocketStore, which overrides add method of WebsocketStore, remove method of WebsocketStore, remove method of WebsocketStore, get method of WebsocketStore, getAll method of WebsocketStore.

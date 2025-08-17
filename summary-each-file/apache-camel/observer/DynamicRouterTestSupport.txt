@@ -1,0 +1,5 @@
+DynamicRouterTestSupport acts as a publisher for observer Service, which setups.
+DynamicRouterTestSupport acts as a publisher for observer CamelContext, which setups.
+DynamicRouterTestSupport acts as a publisher for observer ConsumerTemplate, which setups.
+DynamicRouterTestSupport acts as a publisher for observer FluentProducerTemplate, which setups.
+DynamicRouterTestSupport acts as a publisher for observer ProducerTemplate, which setups.

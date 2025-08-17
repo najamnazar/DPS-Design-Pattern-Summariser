@@ -1,0 +1,2 @@
+SimpleJavaFileObject acts as a factory for JavaFileObject, which overrides.
+SimpleJavaFileObject acts as a product for JavaFileManager, which overrides.

@@ -1,0 +1,1 @@
+ScopedProxyTests acts as a caretaker for memento C, which tests Proxy Assignable, which tests Simple Proxy, which tests Scoped Override, which tests Jdk Scoped Proxy, which tests Cglib Scoped Proxy.

@@ -1,0 +1,2 @@
+RuntimeCamelCatalog acts as an abstract factory for, which is inherited by DefaultRuntimeCamelCatalog.
+RuntimeCamelCatalog acts as an abstract product for RuntimeCamelCatalog, which is inherited by DefaultRuntimeCamelCatalog.

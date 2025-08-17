@@ -1,0 +1,2 @@
+OffsetRange acts as an observer for publisher OffsetRange, which is inherited by, which compares OffsetRange parameter of o1, OffsetRange parameter of o2, which gets Min, which gets Max, which hashes Code, which equals Object parameter of o, which tos String.
+OffsetRange acts as a publisher for observer OffsetRange, which is inherited by, which compares OffsetRange parameter of o1, OffsetRange parameter of o2, which gets Min, which gets Max, which hashes Code, which equals Object parameter of o, which tos String.

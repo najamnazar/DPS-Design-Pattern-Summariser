@@ -1,0 +1,4 @@
+ChildPropertyDescriptor acts as a caretaker for memento String, which gets Child Type, which is Mandatory, which cycles Risk.
+ChildPropertyDescriptor acts as a caretaker for memento C, which gets Child Type, which is Mandatory, which cycles Risk.
+ChildPropertyDescriptor acts as a caretaker for memento S, which gets Child Type, which is Mandatory, which cycles Risk.
+ChildPropertyDescriptor acts as a caretaker for memento Class, which gets Child Type, which is Mandatory, which cycles Risk.

@@ -1,0 +1,1 @@
+IProblemRequestor acts as an adaptee for adapter BecomeWorkingCopyOperation, which adapts to JavaModelOperation, which adapts to JavaModelOperation, which adapts to JavaModelOperation, which adapts to JavaModelOperation.

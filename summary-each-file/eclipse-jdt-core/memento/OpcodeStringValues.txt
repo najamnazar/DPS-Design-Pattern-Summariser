@@ -1,0 +1,2 @@
+OpcodeStringValues acts as a caretaker for memento String.
+OpcodeStringValues acts as a caretaker for memento S.

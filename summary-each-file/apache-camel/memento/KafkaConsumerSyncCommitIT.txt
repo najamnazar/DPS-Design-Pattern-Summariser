@@ -1,0 +1,1 @@
+KafkaConsumerSyncCommitIT acts as a caretaker for memento Producer, which afters, which creates Route Builder, which kafkas Manual Commit.

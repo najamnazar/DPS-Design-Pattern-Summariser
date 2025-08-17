@@ -1,0 +1,3 @@
+RouterRpcServer acts as a product for RouterWebHdfsMethods, which overrides getBatchedListing method of ClientProtocol, getECTopologyResultForPolicies method of ClientProtocol.
+RouterRpcServer acts as a product for GetGroups, which overrides getGroupsForUser method of GetUserMappingsProtocol.
+RouterRpcServer acts as a factory method for FileSubclusterResolver, which is inherited by Router, RouterClientProtocol.

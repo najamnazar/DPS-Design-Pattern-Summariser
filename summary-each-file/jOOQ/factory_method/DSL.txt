@@ -1,0 +1,16 @@
+DSL acts as a factory method for Privilege, which is inherited by DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL.
+DSL acts as a factory for DSLContext, which overrides.
+DSL acts as a factory for ConvertedDataType, which overrides.
+DSL acts as a factory for ConstraintImpl, which overrides.
+DSL acts as a factory for RevokeImpl, which overrides.
+DSL acts as a factory for CommentOnImpl, which overrides.
+DSL acts as a factory for WindowDefinitionImpl, which overrides.
+DSL acts as a factory for Diff, which overrides.
+DSL acts as a factory for Xmlpi, which overrides.
+DSL acts as a factory for SequenceImpl, which overrides.
+DSL acts as a factory for CreateIndexImpl, which overrides.
+DSL acts as a factory for Asterisk, which overrides.
+DSL acts as a factory for ConstraintTypeStep, which overrides.
+DSL acts as a factory for XMLElement, which overrides.
+DSL acts as a factory for SortOrder, which overrides.
+DSL acts as a factory for DSL, which overrides.

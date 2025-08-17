@@ -1,0 +1,2 @@
+XPathLanguageSingleNodeListTest acts as a publisher for observer CamelContext, which tests Single Node List, which tests Multiple Node List, which creates Route Builder.
+XPathLanguageSingleNodeListTest acts as a publisher for observer Service, which tests Single Node List, which tests Multiple Node List, which creates Route Builder.

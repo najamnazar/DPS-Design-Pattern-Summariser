@@ -1,0 +1,2 @@
+RouteMEPOptionalOutTest acts as a publisher for observer Service, which tests Has Out, which tests Has Not Out For In Optional Out, which tests Has Not Out For In Out, which tests Has Not Out For In Only, which tests In Only, which creates Route Builder.
+RouteMEPOptionalOutTest acts as a publisher for observer CamelContext, which tests Has Out, which tests Has Not Out For In Optional Out, which tests Has Not Out For In Out, which tests Has Not Out For In Only, which tests In Only, which creates Route Builder.

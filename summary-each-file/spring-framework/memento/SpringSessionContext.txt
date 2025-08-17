@@ -1,0 +1,3 @@
+SpringSessionContext acts as a caretaker for memento TransactionManager, which currents Session.
+SpringSessionContext acts as a caretaker for memento C, which currents Session.
+SpringSessionContext acts as a caretaker for memento Transaction, which currents Session.

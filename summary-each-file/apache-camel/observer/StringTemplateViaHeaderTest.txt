@@ -1,0 +1,5 @@
+StringTemplateViaHeaderTest acts as a publisher for observer ProducerTemplate, which tests By Header Template, which tests By Header Uri, which creates Route Builder.
+StringTemplateViaHeaderTest acts as a publisher for observer Service, which tests By Header Template, which tests By Header Uri, which creates Route Builder.
+StringTemplateViaHeaderTest acts as a publisher for observer CamelContext, which tests By Header Template, which tests By Header Uri, which creates Route Builder.
+StringTemplateViaHeaderTest acts as a publisher for observer ConsumerTemplate, which tests By Header Template, which tests By Header Uri, which creates Route Builder.
+StringTemplateViaHeaderTest acts as a publisher for observer FluentProducerTemplate, which tests By Header Template, which tests By Header Uri, which creates Route Builder.

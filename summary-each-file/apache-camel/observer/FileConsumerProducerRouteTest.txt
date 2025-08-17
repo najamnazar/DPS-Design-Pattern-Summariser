@@ -1,0 +1,2 @@
+FileConsumerProducerRouteTest acts as a publisher for observer CamelContext, which tests File Route, which creates Route Builder.
+FileConsumerProducerRouteTest acts as a publisher for observer Service, which tests File Route, which creates Route Builder.

@@ -1,0 +1,2 @@
+AdlFileStatus acts as a product for FSWrapper, which overrides hasAcl method of FileStatus, equals method of FileStatus, hashCode method of FileStatus.
+AdlFileStatus acts as a product for HdfsFileStatus, which overrides hasAcl method of FileStatus, equals method of FileStatus, hashCode method of FileStatus.

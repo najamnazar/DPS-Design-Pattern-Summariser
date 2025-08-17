@@ -1,0 +1,5 @@
+DebugEvaluationSetup acts as a caretaker for memento E, which sets Up.
+DebugEvaluationSetup acts as a caretaker for memento C, which sets Up.
+DebugEvaluationSetup acts as a caretaker for memento LocalVirtualMachine, which sets Up.
+DebugEvaluationSetup acts as a caretaker for memento S, which sets Up.
+DebugEvaluationSetup acts as a caretaker for memento String, which sets Up.

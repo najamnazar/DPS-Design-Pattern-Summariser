@@ -1,0 +1,1 @@
+ThemeResolver acts as an adaptee for adapter DispatcherServlet, which adapts to FrameworkServlet, which adapts to FrameworkServlet.

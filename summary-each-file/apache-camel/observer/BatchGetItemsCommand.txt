@@ -1,0 +1,1 @@
+BatchGetItemsCommand acts as a publisher for observer Exchange, which executes, which determines Batch Items.

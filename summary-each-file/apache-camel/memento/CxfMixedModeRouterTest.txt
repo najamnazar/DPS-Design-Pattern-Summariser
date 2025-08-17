@@ -1,0 +1,2 @@
+CxfMixedModeRouterTest acts as a caretaker for memento Context, which starts Service, which shutdowns Service, which creates Route Builder, which creates Camel Context, which gets CXFClient, which tests Invoking Service From CXFClient.
+CxfMixedModeRouterTest acts as a caretaker for memento Producer, which starts Service, which shutdowns Service, which creates Route Builder, which creates Camel Context, which gets CXFClient, which tests Invoking Service From CXFClient.

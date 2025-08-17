@@ -1,0 +1,3 @@
+LocalizationProtocol acts as a target for adapter ResourceLocalizationService, which adapts to LocalizationProtocol.
+LocalizationProtocol acts as a target for adapter LocalizationProtocolPBClientImpl, which adapts to LocalizationProtocol.
+LocalizationProtocol acts as an adaptee for adapter ResourceLocalizationService, which adapts to LocalizationProtocol, CompositeService.

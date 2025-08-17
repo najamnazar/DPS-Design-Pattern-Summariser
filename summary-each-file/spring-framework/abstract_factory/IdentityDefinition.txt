@@ -1,0 +1,2 @@
+IdentityDefinition acts as an abstract product for IdentityDefinition, which is inherited by DefaultIdentityDefinition.
+IdentityDefinition acts as an abstract factory for TableDefinition, ColumnDefinition, which is inherited by DefaultIdentityDefinition.

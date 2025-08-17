@@ -1,0 +1,1 @@
+AttachedJavadocTests21 acts as a publisher for observer String, which suites, which sets Up Suite, which tests Java21javadoc, which inspects IClassFile parameter of classFile Javadoc, which inspects IJavaElement parameter of child Javadoc, which asserts IJavaElement parameter of elt Attachedjavadoc, which tears Down Suite.

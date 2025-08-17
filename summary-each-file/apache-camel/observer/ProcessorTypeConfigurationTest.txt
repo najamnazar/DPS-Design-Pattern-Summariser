@@ -1,0 +1,2 @@
+ProcessorTypeConfigurationTest acts as a publisher for observer CamelContext, which tests Processor Ref Miss Configured.
+ProcessorTypeConfigurationTest acts as a publisher for observer Service, which tests Processor Ref Miss Configured.

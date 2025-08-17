@@ -1,0 +1,1 @@
+DebugEvaluationSetup acts as a publisher for observer String, which sets Up.

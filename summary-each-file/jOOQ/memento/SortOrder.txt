@@ -1,0 +1,1 @@
+SortOrder acts as a caretaker for memento Keyword, which tos SQL, which tos Keyword.

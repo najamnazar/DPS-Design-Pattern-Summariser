@@ -1,0 +1,1 @@
+TaskReportPBImpl acts as an originator for memento TaskState, which gets a TaskState Task State to, which sets TaskState parameter of taskState Task State, which converts TaskState parameter of e To Proto Format, which converts a TaskState From Proto Format to.

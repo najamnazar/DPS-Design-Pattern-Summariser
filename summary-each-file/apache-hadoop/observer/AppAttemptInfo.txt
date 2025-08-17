@@ -1,0 +1,1 @@
+AppAttemptInfo acts as an observer for publisher AppAttemptsInfo, which is inherited by, which gets App Attempt Id, which gets Host, which gets Rpc Port, which gets Tracking Url, which gets Original Tracking Url, which gets Diagnostics Info, which gets App Attempt State, which gets Am Container Id, which gets Started Time, which gets Finished Time.

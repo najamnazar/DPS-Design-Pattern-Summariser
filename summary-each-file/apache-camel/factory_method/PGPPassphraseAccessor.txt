@@ -1,0 +1,1 @@
+PGPPassphraseAccessor acts as an abstract product for PGPDataFormatTest, which is inherited by DefaultPGPPassphraseAccessor.

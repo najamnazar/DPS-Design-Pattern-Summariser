@@ -1,0 +1,2 @@
+WebTestClient acts as a factory for DefaultWebTestClient, which overrides.
+WebTestClient acts as an abstract product for DefaultWebTestClient, which is inherited by DefaultWebTestClient.

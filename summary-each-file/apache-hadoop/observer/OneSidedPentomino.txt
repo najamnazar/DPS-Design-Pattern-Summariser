@@ -1,0 +1,2 @@
+OneSidedPentomino acts as a publisher for observer DancingLinks, which initializes Pieces, which mains String[] parameter of args.
+OneSidedPentomino acts as an observer, which initializes Pieces, which mains String[] parameter of args.

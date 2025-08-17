@@ -1,0 +1,1 @@
+AzureFileSystemThreadTask acts as an observer for publisher AzureFileSystemThreadPoolExecutor, which is inherited by, which executes FileMetadata parameter of file.

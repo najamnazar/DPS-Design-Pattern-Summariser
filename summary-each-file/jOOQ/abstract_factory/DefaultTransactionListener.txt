@@ -1,0 +1,2 @@
+DefaultTransactionListener acts as a product for TransactionListenerProvider, which overrides.
+DefaultTransactionListener acts as a factory for TransactionListener, which overrides.

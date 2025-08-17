@@ -1,0 +1,2 @@
+MacVMLauncher acts as a caretaker for memento S, which gets Command Line, which builds Boot Class Path.
+MacVMLauncher acts as a caretaker for memento String, which gets Command Line, which builds Boot Class Path.

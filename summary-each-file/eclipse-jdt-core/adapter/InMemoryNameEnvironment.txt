@@ -1,0 +1,1 @@
+InMemoryNameEnvironment acts as a target for adapter InMemoryNameEnvironment9, which adapts to InMemoryNameEnvironment, which adapts to InMemoryNameEnvironment, which adapts to InMemoryNameEnvironment, which adapts to InMemoryNameEnvironment, which adapts to InMemoryNameEnvironment, which adapts to InMemoryNameEnvironment.

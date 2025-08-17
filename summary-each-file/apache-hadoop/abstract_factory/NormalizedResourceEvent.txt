@@ -1,0 +1,2 @@
+NormalizedResourceEvent acts as a product for JobHistoryParser, which overrides getEventType method of HistoryEvent, getDatum method of HistoryEvent, setDatum method of HistoryEvent, toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.
+NormalizedResourceEvent acts as a factory for HistoryEvent, which overrides getEventType method of HistoryEvent, getDatum method of HistoryEvent, setDatum method of HistoryEvent, toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.

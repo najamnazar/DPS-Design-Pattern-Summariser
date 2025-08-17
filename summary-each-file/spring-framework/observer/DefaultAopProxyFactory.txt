@@ -1,0 +1,1 @@
+DefaultAopProxyFactory acts as an observer, which creates AdvisedSupport parameter of config Aop Proxy, which has AdvisedSupport parameter of config No User Supplied Proxy Interfaces.

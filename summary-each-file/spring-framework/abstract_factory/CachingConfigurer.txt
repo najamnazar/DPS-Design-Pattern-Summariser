@@ -1,0 +1,1 @@
+CachingConfigurer acts as an abstract factory for CacheErrorHandler, CacheManager, CacheResolver, KeyGenerator, which is inherited by CachingConfigurerSupport.

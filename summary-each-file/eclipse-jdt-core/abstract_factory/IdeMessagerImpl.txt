@@ -1,0 +1,2 @@
+IdeMessagerImpl acts as a product for ProcessingEnvironment, which overrides.
+IdeMessagerImpl acts as a product for AnnotationProcessorEnvironment, which overrides.

@@ -1,0 +1,2 @@
+DefaultArrayDefinition acts as a caretaker for memento Package, which gets Element Type, which gets JavaTypeResolver parameter of resolver Element Type, which gets Index Type, which gets JavaTypeResolver parameter of resolver Index Type.
+DefaultArrayDefinition acts as a caretaker for memento PackageDefinition, which gets Element Type, which gets JavaTypeResolver parameter of resolver Element Type, which gets Index Type, which gets JavaTypeResolver parameter of resolver Index Type.

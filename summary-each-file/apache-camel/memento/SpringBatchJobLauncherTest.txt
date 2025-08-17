@@ -1,0 +1,1 @@
+SpringBatchJobLauncherTest acts as a caretaker for memento Context, which sets Up, which tests Job Launcher, which tests Job Launcher Ref, which creates Application Context.

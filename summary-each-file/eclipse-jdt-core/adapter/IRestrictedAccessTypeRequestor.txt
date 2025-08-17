@@ -1,0 +1,2 @@
+IRestrictedAccessTypeRequestor acts as a target for adapter TypeNameMatchRequestorWrapper, which adapts to IRestrictedAccessTypeRequestor.
+IRestrictedAccessTypeRequestor acts as a target for adapter TypeNameRequestorWrapper, which adapts to IRestrictedAccessTypeRequestor.

@@ -1,0 +1,1 @@
+BuildFilerImpl acts as an adaptee for adapter BuildEnv, which adapts to AbstractCompilationEnv, which adapts hasGeneratedClassFile method of BuildFilerImpl to AbstractCompilationEnv, which adapts to AbstractCompilationEnv, which adapts to AbstractCompilationEnv, which adapts to AbstractCompilationEnv, which adapts to AbstractCompilationEnv.

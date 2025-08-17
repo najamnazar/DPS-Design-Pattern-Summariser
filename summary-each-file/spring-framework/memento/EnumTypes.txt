@@ -1,0 +1,1 @@
+EnumTypes acts as a caretaker for memento C, which lookups Class<E> parameter of enumType, String parameter of literal Literal.

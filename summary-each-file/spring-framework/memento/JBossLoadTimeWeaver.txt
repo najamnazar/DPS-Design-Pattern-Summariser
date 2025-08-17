@@ -1,0 +1,1 @@
+JBossLoadTimeWeaver acts as a caretaker for memento C, which adds ClassFileTransformer parameter of transformer Transformer, which gets Instrumentable Class Loader, which gets Throwaway Class Loader.

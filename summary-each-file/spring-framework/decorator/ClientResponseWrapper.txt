@@ -1,0 +1,1 @@
+ClientResponseWrapper acts as a decorator for component ClientResponse, which is inherited by.

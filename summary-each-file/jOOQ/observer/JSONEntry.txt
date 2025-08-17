@@ -1,0 +1,1 @@
+JSONEntry acts as an observer, which keys, which values, which $keys, which $values.

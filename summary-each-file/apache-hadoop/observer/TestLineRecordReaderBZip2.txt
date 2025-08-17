@@ -1,0 +1,1 @@
+TestLineRecordReaderBZip2 acts as a publisher for observer Path, which news Path parameter of file Reader.

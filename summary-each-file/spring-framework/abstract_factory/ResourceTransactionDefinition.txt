@@ -1,0 +1,1 @@
+ResourceTransactionDefinition acts as a product for TransactionDefinition, which overrides.

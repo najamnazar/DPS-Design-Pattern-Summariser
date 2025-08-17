@@ -1,0 +1,2 @@
+DefaultRecordMapperProvider acts as a caretaker for memento Configuration, which provides final parameter of RecordType<R>, final parameter of Class<?
+DefaultRecordMapperProvider acts as a caretaker for memento C, which provides final parameter of RecordType<R>, final parameter of Class<?

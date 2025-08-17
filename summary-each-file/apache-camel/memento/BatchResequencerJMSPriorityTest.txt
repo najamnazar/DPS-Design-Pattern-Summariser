@@ -1,0 +1,2 @@
+BatchResequencerJMSPriorityTest acts as a caretaker for memento Context, which tests Batch Resequencer JMSPriority, which creates Route Builder.
+BatchResequencerJMSPriorityTest acts as a caretaker for memento Producer, which tests Batch Resequencer JMSPriority, which creates Route Builder.

@@ -1,0 +1,1 @@
+EclipseBatchRequestor acts as a caretaker for memento List, which accepts CompilationResult parameter of compilationResult Result, which reports CompilationResult parameter of result Problems.

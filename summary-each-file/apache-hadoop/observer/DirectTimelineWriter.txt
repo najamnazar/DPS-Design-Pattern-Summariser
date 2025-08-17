@@ -1,0 +1,1 @@
+DirectTimelineWriter acts as an observer, which puts ApplicationAttemptId parameter of appAttemptId, TimelineEntityGroupId parameter of groupId, TimelineEntity... parameter of entities Entities, which puts ApplicationAttemptId parameter of appAttemptId, TimelineDomain parameter of domain Domain.

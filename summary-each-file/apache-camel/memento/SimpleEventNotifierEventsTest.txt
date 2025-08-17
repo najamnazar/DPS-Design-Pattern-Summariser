@@ -1,0 +1,2 @@
+SimpleEventNotifierEventsTest acts as a caretaker for memento Context, which sets Up, which tears Down, which creates Camel Context, which tests Exchange Done, which tests Exchange Failed, which tests Suspend Resume, which creates Route Builder.
+SimpleEventNotifierEventsTest acts as a caretaker for memento Producer, which sets Up, which tears Down, which creates Camel Context, which tests Exchange Done, which tests Exchange Failed, which tests Suspend Resume, which creates Route Builder.

@@ -1,0 +1,4 @@
+MethodInterceptor acts as an adaptee for adapter AspectJAroundAdvice, which adapts to AbstractAspectJAdvice.
+MethodInterceptor acts as an adaptee for adapter JCacheInterceptor, which adapts to JCacheAspectSupport.
+MethodInterceptor acts as an adaptee for adapter AspectJAfterThrowingAdvice, which adapts to AbstractAspectJAdvice.
+MethodInterceptor acts as an adaptee for adapter AsyncExecutionInterceptor, which adapts to AsyncExecutionAspectSupport.

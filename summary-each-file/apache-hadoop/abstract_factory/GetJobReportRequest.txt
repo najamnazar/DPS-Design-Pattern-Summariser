@@ -1,0 +1,1 @@
+GetJobReportRequest acts as an abstract factory for JobId, which is inherited by GetJobReportRequestPBImpl.

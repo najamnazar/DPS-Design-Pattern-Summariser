@@ -1,0 +1,2 @@
+StepTest acts as a publisher for observer CamelContext, which tests Step, which creates Route Builder.
+StepTest acts as a publisher for observer Service, which tests Step, which creates Route Builder.

@@ -1,0 +1,1 @@
+TestLazyPersistReplicaPlacement acts as a publisher for observer StorageType, which tests Placement On Ram Disk, which tests Placement On Size Limited Ram Disk, which tests Fallback To Disk, which tests Synchronous Eviction, which tests Fallback To Disk Full, which tests Fallback To Disk Partial, which tests Ram Disk Not Chosen By Default.

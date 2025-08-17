@@ -1,0 +1,1 @@
+MockPart acts as a caretaker for memento Headers, which gets Name, which gets Submitted File Name, which gets Content Type, which gets Size, which gets Input Stream, which writes String parameter of fileName, which deletes, which gets String parameter of name Header, which gets String parameter of name Headers, which gets Header Names, which gets Headers.

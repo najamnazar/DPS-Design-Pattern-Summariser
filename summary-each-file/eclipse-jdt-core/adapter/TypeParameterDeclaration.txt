@@ -1,0 +1,1 @@
+TypeParameterDeclaration acts as an adaptee for adapter TypeParameterDeclarationImpl, which adapts to EclipseMirrorType, DeclarationImpl, which adapts to EclipseMirrorType, DeclarationImpl.

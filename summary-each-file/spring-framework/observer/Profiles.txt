@@ -1,0 +1,1 @@
+Profiles acts as an observer for publisher ProfilesParser, which is inherited by, which matches Predicate<String> parameter of activeProfiles, which ofs String... parameter of profiles.

@@ -1,0 +1,2 @@
+BenchmarkTests acts as a product for AdvisorAdapter, which overrides.
+BenchmarkTests acts as a product for AdvisorAdapterRegistrationTests, which overrides.

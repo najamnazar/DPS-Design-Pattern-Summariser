@@ -1,0 +1,2 @@
+RouteTemplateCustomSourceTest acts as a caretaker for memento Context, which creates Camel Context, which tests Create Route From Route Template Missing Parameter, which creates Route Builder, which parameterses String parameter of routeId, which routes Ids.
+RouteTemplateCustomSourceTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Create Route From Route Template Missing Parameter, which creates Route Builder, which parameterses String parameter of routeId, which routes Ids.

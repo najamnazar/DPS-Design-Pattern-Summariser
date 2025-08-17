@@ -1,0 +1,4 @@
+YugabyteDBDatabase acts as a caretaker for memento C, which create0s.
+YugabyteDBDatabase acts as a caretaker for memento ColumnDefinition, which create0s.
+YugabyteDBDatabase acts as a caretaker for memento B, which create0s.
+YugabyteDBDatabase acts as a caretaker for memento Index, which create0s.

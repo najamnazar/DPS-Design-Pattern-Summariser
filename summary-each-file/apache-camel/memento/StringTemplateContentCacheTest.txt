@@ -1,0 +1,2 @@
+StringTemplateContentCacheTest acts as a caretaker for memento Context, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.
+StringTemplateContentCacheTest acts as a caretaker for memento Producer, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Clear Cache Via Jmx, which creates Route Builder.

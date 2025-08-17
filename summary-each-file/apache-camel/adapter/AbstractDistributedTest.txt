@@ -1,0 +1,3 @@
+AbstractDistributedTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts createRouteBuilder2 method of CamelContext to ContextTestSupport.
+AbstractDistributedTest acts as a target for adapter DistributedCompletionIntervalTest, which adapts to AbstractDistributedTest, which adapts to AbstractDistributedTest, which adapts to AbstractDistributedTest, which adapts to AbstractDistributedTest.
+AbstractDistributedTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts createRouteBuilder2 method of ProducerTemplate to ContextTestSupport.

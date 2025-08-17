@@ -1,0 +1,1 @@
+Syncable acts as an adaptee for adapter DFSOutputStream, which adapts to FSOutputSummer, which adapts to FSOutputSummer.

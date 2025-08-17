@@ -1,0 +1,2 @@
+MongoDBMetaExtension acts as a caretaker for memento Context, which metas Map<String, parameter of Object>.
+MongoDBMetaExtension acts as a caretaker for memento Component, which metas Map<String, parameter of Object>.

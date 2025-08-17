@@ -1,0 +1,1 @@
+BridgeExceptionHandlerToErrorHandler acts as an observer, which handles Throwable parameter of exception Exception, which handles String parameter of message, Throwable parameter of exception Exception, which handles String parameter of message, Exchange parameter of exchange, Throwable parameter of exception Exception.

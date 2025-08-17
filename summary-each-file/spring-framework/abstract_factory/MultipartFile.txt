@@ -1,0 +1,2 @@
+MultipartFile acts as an abstract product for MultipartFile, which is inherited by MockMultipartFile.
+MultipartFile acts as an abstract factory for Resource, which is inherited by MockMultipartFile.

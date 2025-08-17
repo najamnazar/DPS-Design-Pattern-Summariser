@@ -1,0 +1,1 @@
+AbstractNativeRawDecoder acts as a product for RawErasureCoderFactory, which overrides doDecode method of RawErasureDecoder, doDecode method of RawErasureDecoder, preferDirectBuffer method of RawErasureDecoder.

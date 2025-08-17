@@ -1,0 +1,1 @@
+DerivedTable acts as a caretaker for memento SQL, which queries, which ases Name parameter of alias, which ases Name parameter of alias, Name... parameter of fieldAliases, which fields0s, which gets Record Type, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which $constructors, which $arg1s.

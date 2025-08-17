@@ -1,0 +1,2 @@
+CamelCustomDefaultThreadPoolProfileTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Camel Custom Default Thread Pool Profile, which creates Route Builder.
+CamelCustomDefaultThreadPoolProfileTest acts as a publisher for observer Service, which creates Camel Context, which tests Camel Custom Default Thread Pool Profile, which creates Route Builder.

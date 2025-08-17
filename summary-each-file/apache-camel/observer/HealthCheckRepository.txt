@@ -1,0 +1,1 @@
+HealthCheckRepository acts as an observer for publisher CamelMicroProfileHealthCheckRegistry, which is inherited by ConsumersHealthCheckRepository, RoutesHealthCheckRepository, HealthCheckRegistryRepository, WritableHealthCheckRepository, which is Enabled, which sets boolean parameter of enabled Enabled, which gets String parameter of id Check.

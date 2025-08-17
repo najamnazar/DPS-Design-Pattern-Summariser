@@ -1,0 +1,3 @@
+AggregatedLogDeletionServiceForTest acts as a publisher for observer Configuration, which creates RMClient, which creates Conf, which gets Mock RMClient.
+AggregatedLogDeletionServiceForTest acts as a publisher for observer Path, which creates RMClient, which creates Conf, which gets Mock RMClient.
+AggregatedLogDeletionServiceForTest acts as a publisher for observer ApplicationClientProtocol, which creates RMClient, which creates Conf, which gets Mock RMClient.

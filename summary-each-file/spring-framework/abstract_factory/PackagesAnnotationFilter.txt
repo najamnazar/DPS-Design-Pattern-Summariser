@@ -1,0 +1,2 @@
+PackagesAnnotationFilter acts as a product for AnnotationFilter, which overrides toString method of AnnotationFilter, toString method of AnnotationFilter.
+PackagesAnnotationFilter acts as a factory for AnnotationFilter, which overrides toString method of AnnotationFilter, toString method of AnnotationFilter.

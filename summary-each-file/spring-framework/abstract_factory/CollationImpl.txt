@@ -1,0 +1,1 @@
+CollationImpl acts as a product for DataType, which overrides getName method of Collation.

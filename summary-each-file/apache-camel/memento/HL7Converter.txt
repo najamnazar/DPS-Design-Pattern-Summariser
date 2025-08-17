@@ -1,0 +1,1 @@
+HL7Converter acts as a caretaker for memento Context, which tos Message parameter of message String, which tos Message parameter of message, Exchange parameter of exchange Byte Array, which tos String parameter of body Message, which tos byte[] parameter of body, Exchange parameter of exchange Message.

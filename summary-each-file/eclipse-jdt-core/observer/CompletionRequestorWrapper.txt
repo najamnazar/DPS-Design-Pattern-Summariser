@@ -1,0 +1,1 @@
+CompletionRequestorWrapper acts as an observer, which accepts CompletionProposal parameter of proposal, which completions IProblem parameter of problem Failure, which gets char[] parameter of methodSignature Parameter Packages, which gets char[] parameter of methodSignature Parameter Types.

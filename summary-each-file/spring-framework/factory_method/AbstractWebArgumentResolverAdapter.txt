@@ -1,0 +1,2 @@
+AbstractWebArgumentResolverAdapter acts as a product for SessionAttributeMethodArgumentResolverTests, which overrides supportsParameter method of HandlerMethodArgumentResolver, resolveArgument method of HandlerMethodArgumentResolver.
+AbstractWebArgumentResolverAdapter acts as a factory for ServletWebArgumentResolverAdapter, which overrides.

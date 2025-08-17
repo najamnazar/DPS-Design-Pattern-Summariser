@@ -1,0 +1,1 @@
+FSCheckpointService acts as an originator for memento CheckpointID, which opens CheckpointID parameter of id, which commits CheckpointID, which deletes CheckpointID parameter of id.

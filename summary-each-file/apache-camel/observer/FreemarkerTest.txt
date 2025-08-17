@@ -1,0 +1,5 @@
+FreemarkerTest acts as a publisher for observer ProducerTemplate, which tests Freemarker Letter, which tests Freemarker Data Model, which creates Route Builder.
+FreemarkerTest acts as a publisher for observer CamelContext, which tests Freemarker Letter, which tests Freemarker Data Model, which creates Route Builder.
+FreemarkerTest acts as a publisher for observer Service, which tests Freemarker Letter, which tests Freemarker Data Model, which creates Route Builder.
+FreemarkerTest acts as a publisher for observer ConsumerTemplate, which tests Freemarker Letter, which tests Freemarker Data Model, which creates Route Builder.
+FreemarkerTest acts as a publisher for observer FluentProducerTemplate, which tests Freemarker Letter, which tests Freemarker Data Model, which creates Route Builder.

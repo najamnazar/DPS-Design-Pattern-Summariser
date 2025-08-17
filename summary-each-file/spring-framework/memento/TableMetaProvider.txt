@@ -1,0 +1,2 @@
+TableMetaProvider acts as a caretaker for memento Configuration, which provides.
+TableMetaProvider acts as a caretaker for memento C, which provides.

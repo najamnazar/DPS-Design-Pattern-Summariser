@@ -1,0 +1,2 @@
+ITestApacheClientConnectionPool acts as a publisher for observer AzureBlobFileSystem, which tests Kac Is Closed, which tests Non Connected Connection Logging, which tests Connected Connection Logging, which gets Test Connection.
+ITestApacheClientConnectionPool acts as a publisher for observer Configuration, which tests Kac Is Closed, which tests Non Connected Connection Logging, which tests Connected Connection Logging, which gets Test Connection.

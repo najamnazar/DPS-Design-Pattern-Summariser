@@ -1,0 +1,2 @@
+AlterTableStep acts as a factory for AlterTableStep, which overrides.
+AlterTableStep acts as a factory method for AlterTableAddStep, which is inherited by AlterTableStep.

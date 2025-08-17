@@ -1,0 +1,1 @@
+MutableRate acts as an observer for publisher AbstractDelegationTokenSecretManager, which is inherited by.

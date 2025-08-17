@@ -1,0 +1,3 @@
+JdtCorePerformanceMeterPlugin acts as a caretaker for memento String, which gets Default, which logs IStatus parameter of status, which logs Throwable parameter of e.
+JdtCorePerformanceMeterPlugin acts as a caretaker for memento C, which gets Default, which logs IStatus parameter of status, which logs Throwable parameter of e.
+JdtCorePerformanceMeterPlugin acts as a caretaker for memento S, which gets Default, which logs IStatus parameter of status, which logs Throwable parameter of e.

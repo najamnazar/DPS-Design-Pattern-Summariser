@@ -1,0 +1,1 @@
+Olingo2ApiName acts as an observer for publisher Olingo2Configuration, Olingo2AppEndpointConfiguration, which is inherited by, which gets Name.

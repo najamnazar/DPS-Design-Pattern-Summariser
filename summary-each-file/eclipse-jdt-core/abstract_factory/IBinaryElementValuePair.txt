@@ -1,0 +1,1 @@
+IBinaryElementValuePair acts as an abstract factory for Object, which is inherited by.

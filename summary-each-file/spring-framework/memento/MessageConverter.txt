@@ -1,0 +1,1 @@
+MessageConverter acts as an originator for memento Message, which is inherited by, which tos a Message Message to, which froms Message parameter of message Message.

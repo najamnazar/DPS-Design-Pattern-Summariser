@@ -1,0 +1,5 @@
+HandlersBeanDefinitionParserTests acts as a product for WebSocketHandlerDecoratorFactory, which overrides afterConnectionEstablished method of WebSocketHandler, handleMessage method of WebSocketHandler, handleTransportError method of WebSocketHandler, afterConnectionClosed method of WebSocketHandler, supportsPartialMessages method of WebSocketHandler.
+HandlersBeanDefinitionParserTests acts as a product for InterceptableChannel, which overrides.
+HandlersBeanDefinitionParserTests acts as a product for SockJsServiceConfig, which overrides.
+HandlersBeanDefinitionParserTests acts as a product for SockJsServiceConfig, which overrides encode method of SockJsMessageCodec, decode method of SockJsMessageCodec, decodeInputStream method of SockJsMessageCodec.
+HandlersBeanDefinitionParserTests acts as a product for TransportRequest, which overrides encode method of SockJsMessageCodec, decode method of SockJsMessageCodec, decodeInputStream method of SockJsMessageCodec.

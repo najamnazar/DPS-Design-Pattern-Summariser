@@ -1,0 +1,1 @@
+ViewNameAssertionTests acts as a caretaker for memento C, which tests Equal To, which tests Hamcrest Matcher, which performs Request, which handles.

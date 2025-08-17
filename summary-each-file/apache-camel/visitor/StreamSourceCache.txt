@@ -1,0 +1,1 @@
+StreamSourceCache acts as a visitor for element ExtendedCamelContext, which overrides, which resets, which writes a To to, which copies Exchange parameter of exchange, which ins a Memory to, which lengthes.

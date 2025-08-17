@@ -1,0 +1,1 @@
+ManagedCounter acts as a target for adapter ManagedPerformanceCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter, which adapts to ManagedCounter.

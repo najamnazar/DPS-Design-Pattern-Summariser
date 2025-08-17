@@ -1,0 +1,2 @@
+DeclaredType acts as a factory for Bug510118Processor, which overrides.
+DeclaredType acts as an abstract product for Bug510118Processor, which is inherited by TypeDeclarationImpl, ErrorType, DeclaredTypeImpl.

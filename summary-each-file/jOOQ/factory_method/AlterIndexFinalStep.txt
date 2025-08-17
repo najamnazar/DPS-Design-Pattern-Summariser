@@ -1,0 +1,1 @@
+AlterIndexFinalStep acts as an abstract product for AlterIndexStep, which is inherited by AlterIndexImpl.

@@ -1,0 +1,1 @@
+BeanFactory acts as an abstract product for ControllerAdviceBean, which is inherited by SimpleJndiBeanFactory.

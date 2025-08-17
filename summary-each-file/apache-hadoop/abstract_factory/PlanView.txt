@@ -1,0 +1,1 @@
+PlanView acts as an abstract factory for RLESparseResourceAllocation, Resource, ReservationAllocation, which is inherited by.

@@ -1,0 +1,1 @@
+ResourceLocalizationSpec acts as an abstract factory for URL, LocalResource, which is inherited by ResourceLocalizationSpecPBImpl.

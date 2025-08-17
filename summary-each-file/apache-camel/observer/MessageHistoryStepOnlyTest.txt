@@ -1,0 +1,2 @@
+MessageHistoryStepOnlyTest acts as a publisher for observer Service, which tests Step Only, which creates Route Builder.
+MessageHistoryStepOnlyTest acts as a publisher for observer CamelContext, which tests Step Only, which creates Route Builder.

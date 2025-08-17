@@ -1,0 +1,1 @@
+BeanNotOfRequiredTypeException acts as a caretaker for memento C, which is inherited by, which gets Bean Name, which gets Required Type, which gets Actual Type.

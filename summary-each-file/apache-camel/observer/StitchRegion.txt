@@ -1,0 +1,1 @@
+StitchRegion acts as an observer for publisher StitchClientBuilder, which is inherited by, which gets Url, which froms final parameter of String String.

@@ -1,0 +1,1 @@
+FederationStateStoreClientMetrics acts as a product for MetricsSystemImpl, which overrides getMetrics method of MetricsSource.

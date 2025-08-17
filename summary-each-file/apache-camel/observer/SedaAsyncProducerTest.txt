@@ -1,0 +1,2 @@
+SedaAsyncProducerTest acts as a publisher for observer Service, which tests Async Producer, which tests Async Producer Wait, which creates Route Builder.
+SedaAsyncProducerTest acts as a publisher for observer CamelContext, which tests Async Producer, which tests Async Producer Wait, which creates Route Builder.

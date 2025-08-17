@@ -1,0 +1,1 @@
+CamelRoleChangeListener acts as an adaptee for adapter JGroupsRaftConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

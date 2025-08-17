@@ -1,0 +1,1 @@
+PredicateExceptionFactory acts as an observer for publisher ValidateDefinition, which is inherited by, which news Exchange parameter of exchange, Predicate parameter of predicate, String parameter of nodeId Predicate Exception.

@@ -1,0 +1,2 @@
+ValidatorDtdAccessAbstractTest acts as a publisher for observer CamelContext, which gets String parameter of bodyValue Payloud Part, which sets Up, which creates Route Builder.
+ValidatorDtdAccessAbstractTest acts as a publisher for observer Service, which gets String parameter of bodyValue Payloud Part, which sets Up, which creates Route Builder.

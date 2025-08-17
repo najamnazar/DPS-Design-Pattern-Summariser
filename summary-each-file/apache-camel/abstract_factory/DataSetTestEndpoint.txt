@@ -1,0 +1,2 @@
+DataSetTestEndpoint acts as a product for InfinispanConsumerTestSupport, which overrides.
+DataSetTestEndpoint acts as a product for InfinispanIdempotentRepositoryTestSupport, which overrides.

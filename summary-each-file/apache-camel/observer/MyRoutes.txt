@@ -1,0 +1,7 @@
+MyRoutes acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyRoutes acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRoutes acts as an observer, which configures.
+MyRoutes acts as a publisher for observer RoutesDefinition, which configures.
+MyRoutes acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRoutes acts as a publisher for observer RestsDefinition, which configures.
+MyRoutes acts as a publisher for observer Resource, which configures.

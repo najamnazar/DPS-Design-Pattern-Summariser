@@ -1,0 +1,2 @@
+BeanInvokeStaticTest acts as a caretaker for memento Context, which tests A, which tests B, which is Use Route Builder.
+BeanInvokeStaticTest acts as a caretaker for memento Producer, which tests A, which tests B, which is Use Route Builder.

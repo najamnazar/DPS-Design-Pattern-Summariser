@@ -1,0 +1,1 @@
+ITestS3ADeleteOnExit acts as a publisher for observer AuditSpanSource, which tests Delete On Exit.

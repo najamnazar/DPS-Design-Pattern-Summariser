@@ -1,0 +1,2 @@
+UseLatestAggregationStrategy acts as a product for EnrichDefinition, which overrides aggregate method of AggregationStrategy.
+UseLatestAggregationStrategy acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.

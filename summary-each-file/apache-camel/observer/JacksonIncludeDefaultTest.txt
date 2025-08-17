@@ -1,0 +1,5 @@
+JacksonIncludeDefaultTest acts as a publisher for observer FluentProducerTemplate, which tests Mmarshal Pojo, which creates Route Builder.
+JacksonIncludeDefaultTest acts as a publisher for observer Service, which tests Mmarshal Pojo, which creates Route Builder.
+JacksonIncludeDefaultTest acts as a publisher for observer ConsumerTemplate, which tests Mmarshal Pojo, which creates Route Builder.
+JacksonIncludeDefaultTest acts as a publisher for observer ProducerTemplate, which tests Mmarshal Pojo, which creates Route Builder.
+JacksonIncludeDefaultTest acts as a publisher for observer CamelContext, which tests Mmarshal Pojo, which creates Route Builder.

@@ -1,0 +1,2 @@
+ServerHttpRequest acts as a factory method for ServerHttpAsyncRequestControl, which is inherited by ServerHttpRequest, ServerHttpRequest, ServletServerHttpRequest, ServerHttpRequest.
+ServerHttpRequest acts as a factory for ServerHttpRequest, which overrides.

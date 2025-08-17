@@ -1,0 +1,1 @@
+DefaultHttpRegistry acts as a product for ServletComponent, which overrides register method of HttpRegistry, unregister method of HttpRegistry, register method of HttpRegistry, unregister method of HttpRegistry, getCamelServlet method of HttpRegistry.

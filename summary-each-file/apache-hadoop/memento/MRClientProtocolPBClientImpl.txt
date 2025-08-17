@@ -1,0 +1,5 @@
+MRClientProtocolPBClientImpl acts as an originator for memento KillTaskResponse, which kills a KillTaskResponse Task to.
+MRClientProtocolPBClientImpl acts as an originator for memento KillTaskAttemptResponse, which kills a KillTaskAttemptResponse Task Attempt to.
+MRClientProtocolPBClientImpl acts as an originator for memento KillJobResponse, which kills a KillJobResponse Job to.
+MRClientProtocolPBClientImpl acts as an originator for memento FailTaskAttemptResponse, which fails a FailTaskAttemptResponse Task Attempt to.
+MRClientProtocolPBClientImpl acts as an originator for memento CancelDelegationTokenResponse, which cancels a CancelDelegationTokenResponse Delegation Token to.

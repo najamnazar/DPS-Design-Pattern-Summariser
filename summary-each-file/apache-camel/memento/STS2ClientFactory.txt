@@ -1,0 +1,1 @@
+STS2ClientFactory acts as an originator for memento STS2InternalClient, which gets a STS2InternalClient Sts Client to.

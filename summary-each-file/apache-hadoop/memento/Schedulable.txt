@@ -1,0 +1,1 @@
+Schedulable acts as a memento, which is inherited by FSAppAttempt, FSQueue, FakeSchedulable, which gets Priority Level, which gets Priority Level, which gets Priority Level.

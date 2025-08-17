@@ -1,0 +1,1 @@
+SchemaImpl acts as a factory for SequenceImpl, which overrides.

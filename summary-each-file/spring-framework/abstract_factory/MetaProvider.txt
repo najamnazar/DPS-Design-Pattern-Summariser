@@ -1,0 +1,1 @@
+MetaProvider acts as an abstract factory for Meta, which is inherited by SchemaMetaProvider, TableMetaProvider, CatalogMetaProvider, InformationSchemaMetaProvider, InterpreterMetaProvider, SourceMetaProvider, TranslatingMetaProvider, DefaultMetaProvider.

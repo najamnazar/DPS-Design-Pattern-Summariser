@@ -1,0 +1,1 @@
+EmbeddableTableField acts as a caretaker for memento C, which accepts Context<?> parameter of ctx, which accepts Context<?> parameter of ctx Default, which gets Table, which projections Size.

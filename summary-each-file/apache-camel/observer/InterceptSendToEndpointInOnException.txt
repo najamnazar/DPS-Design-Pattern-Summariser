@@ -1,0 +1,2 @@
+InterceptSendToEndpointInOnException acts as a publisher for observer CamelContext, which creates Route Builder, which tests Ok, which tests Another Error, which tests IOError.
+InterceptSendToEndpointInOnException acts as a publisher for observer Service, which creates Route Builder, which tests Ok, which tests Another Error, which tests IOError.

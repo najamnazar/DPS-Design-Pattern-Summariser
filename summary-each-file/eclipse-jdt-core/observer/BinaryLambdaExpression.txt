@@ -1,0 +1,5 @@
+BinaryLambdaExpression acts as a publisher for observer SimplePropertyDescriptor, which gets boolean parameter of checkOwner Primary Element, which is Binary.
+BinaryLambdaExpression acts as a publisher for observer ChildPropertyDescriptor, which gets boolean parameter of checkOwner Primary Element, which is Binary.
+BinaryLambdaExpression acts as a publisher for observer ASTNode, which gets boolean parameter of checkOwner Primary Element, which is Binary.
+BinaryLambdaExpression acts as a publisher for observer AST, which gets boolean parameter of checkOwner Primary Element, which is Binary.
+BinaryLambdaExpression acts as a publisher for observer ChildListPropertyDescriptor, which gets boolean parameter of checkOwner Primary Element, which is Binary.

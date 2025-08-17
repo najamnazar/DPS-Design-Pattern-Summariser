@@ -1,0 +1,3 @@
+ExpressionSubElementDefinition acts as an observer for publisher StickyLoadBalancerDefinition, which is inherited by, which gets Expression Type, which sets ExpressionDefinition parameter of expressionType Expression Type, which tos String.
+ExpressionSubElementDefinition acts as a publisher for observer ExpressionDefinition, which gets Expression Type, which sets ExpressionDefinition parameter of expressionType Expression Type, which tos String.
+ExpressionSubElementDefinition acts as a publisher for observer ExpressionDefinition, which is inherited by, which gets Expression Type, which sets ExpressionDefinition parameter of expressionType Expression Type, which tos String.

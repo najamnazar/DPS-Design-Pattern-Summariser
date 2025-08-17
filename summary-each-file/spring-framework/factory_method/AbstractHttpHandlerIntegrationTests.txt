@@ -1,0 +1,1 @@
+AbstractHttpHandlerIntegrationTests acts as a factory for AbstractRequestMappingIntegrationTests, which overrides.

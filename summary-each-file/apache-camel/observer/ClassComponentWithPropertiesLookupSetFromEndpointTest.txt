@@ -1,0 +1,2 @@
+ClassComponentWithPropertiesLookupSetFromEndpointTest acts as a publisher for observer CamelContext, which creates Registry, which tests Class Component, which creates Route Builder.
+ClassComponentWithPropertiesLookupSetFromEndpointTest acts as a publisher for observer Service, which creates Registry, which tests Class Component, which creates Route Builder.

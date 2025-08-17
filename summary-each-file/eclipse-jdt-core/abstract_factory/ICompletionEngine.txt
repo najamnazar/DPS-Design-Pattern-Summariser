@@ -1,0 +1,1 @@
+ICompletionEngine acts as an abstract product for ICompletionEngine, which is inherited by CompletionEngine.

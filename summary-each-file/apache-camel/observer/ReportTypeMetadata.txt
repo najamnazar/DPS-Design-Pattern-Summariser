@@ -1,0 +1,1 @@
+ReportTypeMetadata acts as an observer for publisher ReportDescription, which is inherited by, which gets Categories, which sets ReportTypeColumnCategory[] parameter of categories Categories, which gets Data Type Filter Operator Map, which sets Map<String, parameter of List<FilterOperator>> Data Type Filter Operator Map.

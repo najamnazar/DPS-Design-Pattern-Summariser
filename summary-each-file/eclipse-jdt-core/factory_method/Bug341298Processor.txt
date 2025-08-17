@@ -1,0 +1,1 @@
+Bug341298Processor acts as a factory method for JavaFileObject, which is inherited by JavaFileManager, JavaFileManager.

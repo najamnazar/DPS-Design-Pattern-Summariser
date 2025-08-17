@@ -1,0 +1,2 @@
+DerbyDataType acts as a caretaker for memento SQL.
+DerbyDataType acts as a caretaker for memento B.

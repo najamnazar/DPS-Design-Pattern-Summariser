@@ -1,0 +1,1 @@
+DefaultStartupStep acts as an observer, which gets Type, which gets Name, which gets Description, which gets Id, which gets Parent Id, which gets Level, which gets Begin Time, which ends Step.

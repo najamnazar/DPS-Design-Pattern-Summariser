@@ -1,0 +1,2 @@
+ContainerPBImpl acts as a product for RMContainer, which overrides getResource method of Container, getPriority method of Container.
+ContainerPBImpl acts as a product for RMAppAttempt, which overrides getResource method of Container, getPriority method of Container.

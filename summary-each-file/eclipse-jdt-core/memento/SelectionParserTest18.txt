@@ -1,0 +1,2 @@
+SelectionParserTest18 acts as a caretaker for memento String, which suites, which test424110s, which test424110as, which test430572s, which test476693s, which test495912s, which test495912as, which test495912bs, which tests Bug486264_selection On Lambda_expect Lambda Method.
+SelectionParserTest18 acts as a caretaker for memento S, which suites, which test424110s, which test424110as, which test430572s, which test476693s, which test495912s, which test495912as, which test495912bs, which tests Bug486264_selection On Lambda_expect Lambda Method.

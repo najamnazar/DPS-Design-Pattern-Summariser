@@ -1,0 +1,2 @@
+TokenPairIteratorSplitChoicePerformanceManualTest acts as a caretaker for memento Context, which sets Up, which tests Token Pair Performance Route, which creates Route Builder, which creates Logger parameter of log, int parameter of size Data File.
+TokenPairIteratorSplitChoicePerformanceManualTest acts as a caretaker for memento Producer, which sets Up, which tests Token Pair Performance Route, which creates Route Builder, which creates Logger parameter of log, int parameter of size Data File.

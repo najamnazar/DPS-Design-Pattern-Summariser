@@ -1,0 +1,1 @@
+RandomServiceChooser acts as an observer, which chooses List<ServiceDefinition> parameter of definitions, which tos String.

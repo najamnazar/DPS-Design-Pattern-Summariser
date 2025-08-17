@@ -1,0 +1,1 @@
+JavaUtilLoggingConfigurer acts as an observer, which tests TestPlan parameter of testPlan Plan Execution Started.

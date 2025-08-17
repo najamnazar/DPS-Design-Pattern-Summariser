@@ -1,0 +1,2 @@
+HazelcastSedaEndpoint acts as a publisher for observer HazelcastOperation, which creates Producer, which creates final parameter of Processor Consumer, which gets Queue, which gets Configuration.
+HazelcastSedaEndpoint acts as a publisher for observer HazelcastCommand, which creates Producer, which creates final parameter of Processor Consumer, which gets Queue, which gets Configuration.

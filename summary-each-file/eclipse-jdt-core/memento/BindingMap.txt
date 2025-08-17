@@ -1,0 +1,3 @@
+BindingMap acts as a caretaker for memento Binding, which puts TypeBinding parameter of key, V parameter of value, which gets TypeBinding parameter of key, which inserts int parameter of targetId, V parameter of value Into Id Map, which clears.
+BindingMap acts as a caretaker for memento Map, which puts TypeBinding parameter of key, V parameter of value, which gets TypeBinding parameter of key, which inserts int parameter of targetId, V parameter of value Into Id Map, which clears.
+BindingMap acts as a caretaker for memento S, which puts TypeBinding parameter of key, V parameter of value, which gets TypeBinding parameter of key, which inserts int parameter of targetId, V parameter of value Into Id Map, which clears.

@@ -1,0 +1,2 @@
+ThrottlerAsyncDelayedTest acts as a publisher for observer CamelContext, which tests Send Lots Of Messages, which tests Send Lots Of Messages Simultaneously, which creates Route Builder.
+ThrottlerAsyncDelayedTest acts as a publisher for observer Service, which tests Send Lots Of Messages, which tests Send Lots Of Messages Simultaneously, which creates Route Builder.

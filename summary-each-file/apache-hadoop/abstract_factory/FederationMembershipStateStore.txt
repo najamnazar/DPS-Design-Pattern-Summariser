@@ -1,0 +1,1 @@
+FederationMembershipStateStore acts as an abstract factory for SubClusterHeartbeatResponse, SubClusterDeregisterResponse, GetSubClustersInfoResponse, GetSubClusterInfoResponse, SubClusterRegisterResponse, which is inherited by.

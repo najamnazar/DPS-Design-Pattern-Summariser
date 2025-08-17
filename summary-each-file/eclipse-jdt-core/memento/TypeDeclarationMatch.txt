@@ -1,0 +1,2 @@
+TypeDeclarationMatch acts as a caretaker for memento S.
+TypeDeclarationMatch acts as a caretaker for memento R.

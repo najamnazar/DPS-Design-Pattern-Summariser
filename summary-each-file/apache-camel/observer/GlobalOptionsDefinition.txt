@@ -1,0 +1,1 @@
+GlobalOptionsDefinition acts as an observer for publisher CamelContextFactoryBean, which is inherited by, which sets List<GlobalOptionDefinition> parameter of globalOptions Global Options, which gets Global Options, which ases Map.

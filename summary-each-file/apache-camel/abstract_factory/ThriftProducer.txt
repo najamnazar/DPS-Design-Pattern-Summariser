@@ -1,0 +1,3 @@
+ThriftProducer acts as a product for ProducerCache, which overrides.
+ThriftProducer acts as a product for InternalProcessorFactory, which overrides.
+ThriftProducer acts as a product for Endpoint, which overrides.

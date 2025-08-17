@@ -1,0 +1,1 @@
+MetricsTag acts as a decorator for component MetricsInfo, which is inherited by.

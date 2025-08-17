@@ -1,0 +1,1 @@
+SubscriptionGatewayIT acts as a publisher for observer AuthenticationType, which tests Cancel, which tests Create, which tests Delete, which tests Find, which tests Retry Charge, which tests Retry Charge With Amount, which tests Search, which tests Update, which creates Route Builder.

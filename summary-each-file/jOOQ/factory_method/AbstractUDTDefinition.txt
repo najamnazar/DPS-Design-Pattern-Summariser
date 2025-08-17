@@ -1,0 +1,2 @@
+AbstractUDTDefinition acts as a factory method for AttributeDefinition, which is inherited by UDTDefinition, AbstractUDTDefinition.
+AbstractUDTDefinition acts as a factory for AbstractUDTDefinition, which overrides.

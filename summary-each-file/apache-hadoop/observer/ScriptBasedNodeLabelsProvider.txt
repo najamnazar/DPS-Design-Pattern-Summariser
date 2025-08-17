@@ -1,0 +1,2 @@
+ScriptBasedNodeLabelsProvider acts as an observer, which services Configuration parameter of conf Init, which cleans Up, which parses String parameter of scriptOutput Output, which creates Timer Task.
+ScriptBasedNodeLabelsProvider acts as an observer for publisher TestScriptBasedNodeLabelsProvider, which is inherited by, which services Configuration parameter of conf Init, which cleans Up, which parses String parameter of scriptOutput Output, which creates Timer Task.

@@ -1,0 +1,1 @@
+CamelNodeState acts as an observer for publisher ZookeeperGroupListenerSupport, which is inherited by, which gets Consumer, which sets String parameter of consumer Consumer, which is Started, which sets boolean parameter of started Started.

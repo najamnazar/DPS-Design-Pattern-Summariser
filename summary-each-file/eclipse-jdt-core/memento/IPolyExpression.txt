@@ -1,0 +1,1 @@
+IPolyExpression acts as an originator for memento ExpressionContext, which is inherited by, which sets ExpressionContext parameter of context Expression Context, which gets an ExpressionContext Expression Context to.

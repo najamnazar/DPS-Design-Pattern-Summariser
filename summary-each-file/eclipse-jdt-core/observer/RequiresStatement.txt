@@ -1,0 +1,1 @@
+RequiresStatement acts as an observer for publisher RecoveredModule, which is inherited by, which is Transitive, which is Static, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.

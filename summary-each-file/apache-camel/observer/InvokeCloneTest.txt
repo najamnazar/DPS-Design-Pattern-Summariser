@@ -1,0 +1,2 @@
+InvokeCloneTest acts as a publisher for observer CamelContext, which invokes Clone, which invokes Deep Copy, which creates Route Builder.
+InvokeCloneTest acts as a publisher for observer Service, which invokes Clone, which invokes Deep Copy, which creates Route Builder.

@@ -1,0 +1,1 @@
+DockerOperation acts as an observer for publisher DockerConfiguration, which is inherited by, which tos String, which cans Consume, which cans Produce, which is Async, which gets Parameters, which gets String parameter of name Docker Operation.

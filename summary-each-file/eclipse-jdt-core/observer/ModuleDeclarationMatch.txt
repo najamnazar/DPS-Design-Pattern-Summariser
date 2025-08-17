@@ -1,0 +1,3 @@
+ModuleDeclarationMatch acts as a publisher for observer Object.
+ModuleDeclarationMatch acts as a publisher for observer SearchParticipant.
+ModuleDeclarationMatch acts as an observer.

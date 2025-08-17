@@ -1,0 +1,1 @@
+SockJsSessionFactory acts as an abstract factory for SockJsSession, which is inherited by AbstractHttpSendingTransportHandler, WebSocketTransportHandler.

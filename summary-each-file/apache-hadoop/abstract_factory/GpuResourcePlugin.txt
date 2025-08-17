@@ -1,0 +1,1 @@
+GpuResourcePlugin acts as a factory for ResourcePlugin, which overrides initialize method of ResourcePlugin, getNodeResourceHandlerInstance method of ResourcePlugin, cleanup method of ResourcePlugin, getNMResourceInfo method of ResourcePlugin.

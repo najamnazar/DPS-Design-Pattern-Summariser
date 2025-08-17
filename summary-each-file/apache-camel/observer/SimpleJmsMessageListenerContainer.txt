@@ -1,0 +1,4 @@
+SimpleJmsMessageListenerContainer acts as a publisher for observer Message, which runs Allowed.
+SimpleJmsMessageListenerContainer acts as a publisher for observer SjmsEndpoint, which runs Allowed.
+SimpleJmsMessageListenerContainer acts as a publisher for observer DestinationCreationStrategy, which runs Allowed.
+SimpleJmsMessageListenerContainer acts as a publisher for observer SessionMessageListener, which runs Allowed.

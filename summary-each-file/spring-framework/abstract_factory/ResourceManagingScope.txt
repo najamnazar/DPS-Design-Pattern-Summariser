@@ -1,0 +1,2 @@
+ResourceManagingScope acts as an abstract factory for Array, which is inherited by.
+ResourceManagingScope acts as a product for ConfigurableBeanFactory, which overrides.

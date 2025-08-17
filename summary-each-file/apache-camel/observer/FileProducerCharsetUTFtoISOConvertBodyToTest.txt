@@ -1,0 +1,2 @@
+FileProducerCharsetUTFtoISOConvertBodyToTest acts as a publisher for observer CamelContext, which tests File Producer Charset UTFto ISOConvert Body To, which creates Route Builder.
+FileProducerCharsetUTFtoISOConvertBodyToTest acts as a publisher for observer Service, which tests File Producer Charset UTFto ISOConvert Body To, which creates Route Builder.

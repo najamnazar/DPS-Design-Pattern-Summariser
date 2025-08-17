@@ -1,0 +1,1 @@
+ArtemisEmbeddedServiceBuilder acts as a caretaker for memento Configuration, which withes boolean parameter of persistent Persistent, which withes Consumer<Configuration> parameter of configuration Custom Configuration, which builds.

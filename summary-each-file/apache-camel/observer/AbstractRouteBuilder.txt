@@ -1,0 +1,7 @@
+AbstractRouteBuilder acts as an observer, which gets Result, which configures.
+AbstractRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which gets Result, which configures.
+AbstractRouteBuilder acts as a publisher for observer RestsDefinition, which gets Result, which configures.
+AbstractRouteBuilder acts as a publisher for observer Resource, which gets Result, which configures.
+AbstractRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which gets Result, which configures.
+AbstractRouteBuilder acts as a publisher for observer RoutesDefinition, which gets Result, which configures.
+AbstractRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which gets Result, which configures.

@@ -1,0 +1,2 @@
+DerbyTableDefinition acts as a caretaker for memento Parameter, which gets Elements0.
+DerbyTableDefinition acts as a caretaker for memento ParameterDefinition, which gets Elements0.

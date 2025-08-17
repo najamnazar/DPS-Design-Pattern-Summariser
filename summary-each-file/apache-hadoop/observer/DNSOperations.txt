@@ -1,0 +1,1 @@
+DNSOperations acts as an observer, which registers String parameter of path, ServiceRecord parameter of record, which deletes String parameter of path, ServiceRecord parameter of record.

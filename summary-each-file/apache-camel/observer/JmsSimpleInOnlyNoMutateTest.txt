@@ -1,0 +1,1 @@
+JmsSimpleInOnlyNoMutateTest acts as a publisher for observer ArtemisService, which tests Request Reply No Mutate, which gets Component Name, which creates Route Builder.

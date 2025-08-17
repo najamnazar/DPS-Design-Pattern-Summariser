@@ -1,0 +1,1 @@
+PseudoDelegationTokenAuthenticationHandler acts as a decorator for decorator DelegationTokenAuthenticationHandler.

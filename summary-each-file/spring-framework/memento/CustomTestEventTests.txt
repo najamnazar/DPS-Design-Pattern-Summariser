@@ -1,0 +1,1 @@
+CustomTestEventTests acts as a caretaker for memento C, which clears Events, which customs Test Event Published, which processes CustomEvent parameter of event Custom Event, which gets Test Name, which befores TestContext parameter of testContext Test Execution.

@@ -1,0 +1,1 @@
+ScriptSource acts as an observer for publisher ScriptFactoryPostProcessor, which is inherited by StaticScriptSource, ResourceScriptSource, which gets Script As String, which is Modified, which suggests Class Name.

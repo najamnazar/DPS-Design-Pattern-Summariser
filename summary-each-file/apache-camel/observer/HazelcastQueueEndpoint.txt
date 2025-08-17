@@ -1,0 +1,2 @@
+HazelcastQueueEndpoint acts as a publisher for observer HazelcastOperation, which gets Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which creates Executor.
+HazelcastQueueEndpoint acts as a publisher for observer HazelcastCommand, which gets Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which creates Executor.

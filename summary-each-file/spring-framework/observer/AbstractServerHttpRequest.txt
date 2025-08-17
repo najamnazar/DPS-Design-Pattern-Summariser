@@ -1,0 +1,1 @@
+AbstractServerHttpRequest acts as an observer, which gets Id, which inits Id, which gets URI, which gets Path, which gets Headers, which gets Query Params, which inits Query Params, which decodes String parameter of value Query Param, which gets Cookies, which inits Cookies, which gets Ssl Info, which inits Ssl Info, which gets Native Request, which gets Log Prefix.

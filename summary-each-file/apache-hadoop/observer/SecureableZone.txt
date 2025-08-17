@@ -1,0 +1,1 @@
+SecureableZone acts as a publisher for observer Record, which is inherited by, which adds Record parameter of r Record, which removes Record parameter of r Record, which gets Record parameter of queryRecord, Zone parameter of zone NXTRecord.

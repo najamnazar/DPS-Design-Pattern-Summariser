@@ -1,0 +1,3 @@
+TestBuffer acts as a factory for IBuffer, which overrides.
+TestBuffer acts as a product for IOpenable, which overrides.
+TestBuffer acts as a product for IBufferFactory, which overrides.

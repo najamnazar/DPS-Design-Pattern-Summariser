@@ -1,0 +1,3 @@
+TestBeanWithRealCountry acts as an observer, which sets Country parameter of realCountry Real Country, which gets Real Country.
+TestBeanWithRealCountry acts as a publisher for observer BeanSource, which sets Country parameter of realCountry Real Country, which gets Real Country.
+TestBeanWithRealCountry acts as a publisher for observer Country, which is inherited by, which sets Country parameter of realCountry Real Country, which gets Real Country.

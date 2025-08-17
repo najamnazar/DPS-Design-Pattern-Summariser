@@ -1,0 +1,1 @@
+PermittedSubclassesAttribute acts as a product for IClassFileReader, which overrides getNumberOfPermittedSubclasses method of IPermittedSubclassesAttribute, getPermittedSubclassAttributesEntries method of IPermittedSubclassesAttribute.

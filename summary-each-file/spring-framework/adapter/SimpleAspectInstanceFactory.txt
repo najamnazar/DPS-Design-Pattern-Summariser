@@ -1,0 +1,1 @@
+SimpleAspectInstanceFactory acts as a target for adapter SimpleMetadataAwareAspectInstanceFactory, which adapts to SimpleAspectInstanceFactory, which adapts to SimpleAspectInstanceFactory, which adapts to SimpleAspectInstanceFactory, which adapts to SimpleAspectInstanceFactory, which adapts to SimpleAspectInstanceFactory.

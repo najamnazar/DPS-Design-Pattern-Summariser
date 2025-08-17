@@ -1,0 +1,1 @@
+WithErasureCoding acts as an adaptee for adapter DistributedFileSystem, which adapts to SafeMode, FileSystem, which adapts to SafeMode, FileSystem.

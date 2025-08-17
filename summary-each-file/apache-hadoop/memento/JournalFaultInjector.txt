@@ -1,0 +1,3 @@
+JournalFaultInjector acts as a caretaker for memento JournalFaultInjector, which gets, which befores Persist Paxos Data, which afters Persist Paxos Data.
+JournalFaultInjector acts as an originator for memento JournalFaultInjector, which gets JournalFaultInjector.
+JournalFaultInjector acts as a memento, which afters Persist Paxos Data, which afters Persist Paxos Data, which afters Persist Paxos Data.

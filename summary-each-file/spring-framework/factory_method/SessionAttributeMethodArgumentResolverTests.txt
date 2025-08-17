@@ -1,0 +1,1 @@
+SessionAttributeMethodArgumentResolverTests acts as a factory method for HandlerMethodArgumentResolver, which is inherited by AbstractRequestAttributesArgumentResolverTests, AbstractRequestAttributesArgumentResolverTests.

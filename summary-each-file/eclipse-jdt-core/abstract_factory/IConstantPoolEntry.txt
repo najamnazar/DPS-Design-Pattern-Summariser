@@ -1,0 +1,3 @@
+IConstantPoolEntry acts as an abstract factory for, which is inherited by ConstantPoolEntry.
+IConstantPoolEntry acts as an abstract product for IConstantPoolEntry, which is inherited by ConstantPoolEntry, ConstantPoolEntry, IConstantPoolEntry2, IConstantPoolEntry2.
+IConstantPoolEntry acts as an abstract product for IConstantPoolEntry, which is inherited by ConstantPoolEntry, IConstantPoolEntry2.

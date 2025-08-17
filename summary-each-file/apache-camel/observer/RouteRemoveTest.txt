@@ -1,0 +1,2 @@
+RouteRemoveTest acts as a publisher for observer CamelContext, which tests Stop Route On Context, which tests Remove, which creates Route Builder.
+RouteRemoveTest acts as a publisher for observer Service, which tests Stop Route On Context, which tests Remove, which creates Route Builder.

@@ -1,0 +1,1 @@
+LocalConnectionFactoryBean acts as a caretaker for memento C, which sets ManagedConnectionFactory parameter of managedConnectionFactory Managed Connection Factory, which sets ConnectionManager parameter of connectionManager Connection Manager, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.

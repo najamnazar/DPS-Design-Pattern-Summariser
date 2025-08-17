@@ -1,0 +1,1 @@
+MixedCollectionBean acts as a caretaker for memento C, which sets Collection<?> parameter of jumble Jumble, which gets Jumble.

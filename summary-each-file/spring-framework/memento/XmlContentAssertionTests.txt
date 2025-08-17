@@ -1,0 +1,1 @@
+XmlContentAssertionTests acts as a caretaker for memento C, which tests Xml Equal To, which tests Node Hamcrest Matcher, which gets People, which gets Composers.

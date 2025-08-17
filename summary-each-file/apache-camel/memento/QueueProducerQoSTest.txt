@@ -1,0 +1,2 @@
+QueueProducerQoSTest acts as a caretaker for memento Context, which creates Camel Context, which tests In Out Queue Producer TTL, which tests In Only Queue Producer TTL, which configures Configuration parameter of configuration Artemis, which creates Route Builder.
+QueueProducerQoSTest acts as a caretaker for memento Producer, which creates Camel Context, which tests In Out Queue Producer TTL, which tests In Only Queue Producer TTL, which configures Configuration parameter of configuration Artemis, which creates Route Builder.

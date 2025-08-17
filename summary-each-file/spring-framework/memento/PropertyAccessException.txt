@@ -1,0 +1,1 @@
+PropertyAccessException acts as a caretaker for memento C, which is inherited by, which gets Property Change Event, which gets Property Name, which gets Value, which gets Error Code.

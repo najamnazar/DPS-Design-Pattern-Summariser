@@ -1,0 +1,2 @@
+RequestFactory acts as an abstract product for RequestFactory, which is inherited by RequestFactoryImpl.
+RequestFactory acts as an abstract factory for, which is inherited by RequestFactoryImpl.

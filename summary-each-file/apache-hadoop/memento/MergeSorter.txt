@@ -1,0 +1,1 @@
+MergeSorter acts as a caretaker for memento Progressable, which sorts, which compares IntWritable parameter of i, IntWritable parameter of j, which gets Memory Utilized.

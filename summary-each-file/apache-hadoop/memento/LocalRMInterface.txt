@@ -1,0 +1,1 @@
+LocalRMInterface acts as an originator for memento UnRegisterNodeManagerResponse, which uns an UnRegisterNodeManagerResponse Register Node Manager to.

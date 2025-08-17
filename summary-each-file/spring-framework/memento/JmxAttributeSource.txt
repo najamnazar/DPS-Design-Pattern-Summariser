@@ -1,0 +1,1 @@
+JmxAttributeSource acts as an originator for memento ManagedOperation, which is inherited by, which gets a ManagedOperation Managed Operation to.

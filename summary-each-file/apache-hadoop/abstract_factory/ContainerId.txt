@@ -1,0 +1,1 @@
+ContainerId acts as an abstract product for ContainerId, which is inherited by ContainerIdPBImpl.

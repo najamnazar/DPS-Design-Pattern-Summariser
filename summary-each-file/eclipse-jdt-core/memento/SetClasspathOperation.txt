@@ -1,0 +1,3 @@
+SetClasspathOperation acts as a caretaker for memento C, which executes Operation, which gets Scheduling Rule, which tos String, which verifies.
+SetClasspathOperation acts as a caretaker for memento E, which executes Operation, which gets Scheduling Rule, which tos String, which verifies.
+SetClasspathOperation acts as a caretaker for memento Class, which executes Operation, which gets Scheduling Rule, which tos String, which verifies.

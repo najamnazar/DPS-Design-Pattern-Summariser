@@ -1,0 +1,2 @@
+DeclarationImpl acts as a caretaker for memento Binding, which is inherited by, which equals Object parameter of obj, which hashes Code, which gets Declaration Binding, which gets Modifiers, which is Binding Based, which gets Ast Node, which gets Compilation Unit, which gets Resource.
+DeclarationImpl acts as a caretaker for memento E, which equals Object parameter of obj, which hashes Code, which gets Declaration Binding, which gets Modifiers, which is Binding Based, which gets Ast Node, which gets Compilation Unit, which gets Resource.

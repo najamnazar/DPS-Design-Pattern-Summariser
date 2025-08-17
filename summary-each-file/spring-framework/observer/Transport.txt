@@ -1,0 +1,2 @@
+Transport acts as a publisher for observer TransportRequest, which is inherited by TestTransport, which gets Transport Types, which connects TransportRequest parameter of request, WebSocketHandler parameter of webSocketHandler.
+Transport acts as an observer for publisher DefaultTransportRequestTests, which is inherited by XhrTransport, TestTransport, WebSocketTransport, which gets Transport Types, which connects TransportRequest parameter of request, WebSocketHandler parameter of webSocketHandler.

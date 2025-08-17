@@ -1,0 +1,1 @@
+SharedEntityManagerBean acts as a caretaker for memento C, which sets Class<? parameter of extends Entity Manager Interface, which sets boolean parameter of synchronizedWithTransaction Synchronized With Transaction, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.

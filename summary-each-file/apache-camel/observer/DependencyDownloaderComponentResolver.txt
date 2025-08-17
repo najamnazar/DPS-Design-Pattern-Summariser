@@ -1,0 +1,2 @@
+DependencyDownloaderComponentResolver acts as a publisher for observer CamelContext, which is inherited by, which resolves String parameter of name, CamelContext parameter of context Component, which accepts String parameter of name.
+DependencyDownloaderComponentResolver acts as a publisher for observer CamelContext, which resolves String parameter of name, CamelContext parameter of context Component, which accepts String parameter of name.

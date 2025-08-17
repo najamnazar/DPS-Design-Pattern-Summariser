@@ -1,0 +1,2 @@
+NvidiaDockerV2CommandPlugin acts as a product for ResourcePlugin, which overrides updateDockerRunCommand method of DockerCommandPlugin, getCreateDockerVolumeCommand method of DockerCommandPlugin, getCleanupDockerVolumesCommand method of DockerCommandPlugin.
+NvidiaDockerV2CommandPlugin acts as a factory for DockerCommandPlugin, which overrides updateDockerRunCommand method of DockerCommandPlugin, getCreateDockerVolumeCommand method of DockerCommandPlugin, getCleanupDockerVolumesCommand method of DockerCommandPlugin.

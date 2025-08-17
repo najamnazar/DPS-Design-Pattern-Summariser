@@ -1,0 +1,2 @@
+ThrottlingExceptionRoutePolicyTest acts as a publisher for observer Service, which sets Up, which tests Throttling Route Policy Closed, which tests Open Circuit To Prevent Message Three, which creates Route Builder, which is Ready To Be Closed.
+ThrottlingExceptionRoutePolicyTest acts as a publisher for observer CamelContext, which sets Up, which tests Throttling Route Policy Closed, which tests Open Circuit To Prevent Message Three, which creates Route Builder, which is Ready To Be Closed.

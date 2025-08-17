@@ -1,0 +1,2 @@
+AsyncProcessorAwaitManagerInterruptTest acts as a publisher for observer CamelContext, which tests Async Await Interrupt, which creates Route Builder.
+AsyncProcessorAwaitManagerInterruptTest acts as a publisher for observer Service, which tests Async Await Interrupt, which creates Route Builder.

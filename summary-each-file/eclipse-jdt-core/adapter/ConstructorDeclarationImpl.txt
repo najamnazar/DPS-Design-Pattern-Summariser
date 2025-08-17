@@ -1,0 +1,1 @@
+ConstructorDeclarationImpl acts as an adapter, which adapts to ExecutableDeclarationImpl, which adapts to ExecutableDeclarationImpl, which adapts to ExecutableDeclarationImpl.

@@ -1,0 +1,1 @@
+SpringHttpsRouteTest acts as a caretaker for memento Producer, which sets Up, which tears Down, which sets String parameter of key, String parameter of value System Prop, which restores System Properties, which tests Endpoint, which tests Endpoint Without Https, which sets AvailablePortFinder.Port parameter of port Port.

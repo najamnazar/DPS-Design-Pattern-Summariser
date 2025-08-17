@@ -1,0 +1,1 @@
+SpelParserConfiguration acts as a caretaker for memento C, which gets Compiler Mode, which gets Compiler Class Loader, which is Auto Grow Null References, which is Auto Grow Collections, which gets Maximum Auto Grow Size.

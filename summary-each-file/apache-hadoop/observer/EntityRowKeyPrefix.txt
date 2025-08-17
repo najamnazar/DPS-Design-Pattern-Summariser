@@ -1,0 +1,2 @@
+EntityRowKeyPrefix acts as a publisher for observer EntityRowKey, which gets Row Key Prefix.
+EntityRowKeyPrefix acts as an observer, which gets Row Key Prefix.

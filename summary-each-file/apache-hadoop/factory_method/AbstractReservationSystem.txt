@@ -1,0 +1,5 @@
+AbstractReservationSystem acts as a factory for PlannerFactory, which overrides.
+AbstractReservationSystem acts as a factory for FairReservationSystem, which overrides.
+AbstractReservationSystem acts as a factory for TestCapacityOverTimePolicy, which overrides.
+AbstractReservationSystem acts as a factory for AbstractReservationSystem, which overrides.
+AbstractReservationSystem acts as a factory method for PlanFollower, which is inherited by AbstractReservationSystem, AbstractReservationSystem.

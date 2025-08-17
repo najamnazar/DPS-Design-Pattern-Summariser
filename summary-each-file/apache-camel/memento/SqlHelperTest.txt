@@ -1,0 +1,1 @@
+SqlHelperTest acts as a caretaker for memento Context, which tests Resolve Query, which tests Resolve Classpath Query, which tests Translate Query, which tests Translate Query Properties, which tests Translate Query Without Param, which tests Extract Parameter Names.

@@ -1,0 +1,2 @@
+ITypeRoot acts as an observer, which finds Primary Type, which gets Module, which gets int parameter of position Element At, which gets WorkingCopyOwner parameter of owner, IProgressMonitor parameter of monitor Working Copy.
+ITypeRoot acts as an observer for publisher CompletionEngine, which is inherited by IClassFile, which finds Primary Type, which gets Module, which gets int parameter of position Element At, which gets WorkingCopyOwner parameter of owner, IProgressMonitor parameter of monitor Working Copy.

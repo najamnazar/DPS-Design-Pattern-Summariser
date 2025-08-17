@@ -1,0 +1,1 @@
+DefaultServerEndpointDeploymentStrategy acts as an observer, which deploys ServerContainer parameter of container, Builder parameter of configBuilder.

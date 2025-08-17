@@ -1,0 +1,2 @@
+TransactionContextHolder acts as a caretaker for memento C, which sets TransactionContext parameter of transactionContext Current Transaction Context, which gets Current Transaction Context, which removes Current Transaction Context.
+TransactionContextHolder acts as a caretaker for memento Transaction, which sets TransactionContext parameter of transactionContext Current Transaction Context, which gets Current Transaction Context, which removes Current Transaction Context.

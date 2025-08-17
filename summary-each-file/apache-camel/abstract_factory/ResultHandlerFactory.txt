@@ -1,0 +1,1 @@
+ResultHandlerFactory acts as an abstract factory for ResultHandler, which is inherited by StreamResultHandlerFactory, StringResultHandlerFactory, DomResultHandlerFactory, FileResultHandlerFactory, JsonFileResultHandlerFactory, JsonStringResultHandlerFactory, JsonStreamResultHandlerFactory.

@@ -1,0 +1,6 @@
+AbstractMessageBrokerConfiguration acts as a factory for UserDestinationMessageHandler, which overrides.
+AbstractMessageBrokerConfiguration acts as a factory for MessageBrokerRegistry, which overrides.
+AbstractMessageBrokerConfiguration acts as a factory for MessageBrokerConfigurationTests, which overrides.
+AbstractMessageBrokerConfiguration acts as a factory method for TaskExecutor, which is inherited by AbstractMessageBrokerConfiguration.
+AbstractMessageBrokerConfiguration acts as a factory for ExecutorSubscribableChannel, which overrides.
+AbstractMessageBrokerConfiguration acts as a factory for AbstractMessageBrokerConfiguration, which overrides.

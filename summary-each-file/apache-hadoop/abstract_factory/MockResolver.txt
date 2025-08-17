@@ -1,0 +1,1 @@
+MockResolver acts as a factory for FileSubclusterResolver, which overrides getDestinationForPath method of FileSubclusterResolver, getMountPoints method of FileSubclusterResolver, getDefaultNamespace method of FileSubclusterResolver.

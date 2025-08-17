@@ -1,0 +1,2 @@
+TransactionContext acts as an abstract factory for Transaction, TransactionContext, which is inherited by DefaultTransactionContext.
+TransactionContext acts as an abstract product for TransactionContext, which is inherited by DefaultTransactionContext, DefaultTransactionContext, DefaultTransactionContext.

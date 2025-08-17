@@ -1,0 +1,2 @@
+CountingProgressListener acts as a product for TaskAttemptContext, which overrides progress method of Progressable.
+CountingProgressListener acts as a product for JobContext, which overrides progress method of Progressable.

@@ -1,0 +1,2 @@
+DefaultSyntheticDaoDefinition acts as a caretaker for memento Package, which gets Dao.
+DefaultSyntheticDaoDefinition acts as a caretaker for memento PackageDefinition, which gets Dao.

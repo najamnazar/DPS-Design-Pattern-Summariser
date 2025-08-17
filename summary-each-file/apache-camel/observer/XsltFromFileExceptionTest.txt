@@ -1,0 +1,2 @@
+XsltFromFileExceptionTest acts as a publisher for observer CamelContext, which tests Xslt From File Exception Ok, which tests Xslt From File Exception Fail, which creates Route Builder.
+XsltFromFileExceptionTest acts as a publisher for observer Service, which tests Xslt From File Exception Ok, which tests Xslt From File Exception Fail, which creates Route Builder.

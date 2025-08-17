@@ -1,0 +1,1 @@
+HazelcastInstanceConsumer acts as a caretaker for memento HealthCheck, which members MembershipEvent parameter of event Added, which members MembershipEvent parameter of event Removed, which sends MembershipEvent parameter of event, String parameter of action Exchange.

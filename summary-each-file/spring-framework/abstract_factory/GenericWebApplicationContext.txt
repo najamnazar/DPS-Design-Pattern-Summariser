@@ -1,0 +1,2 @@
+GenericWebApplicationContext acts as a factory for ThemeSource, which overrides getTheme method of ThemeSource.
+GenericWebApplicationContext acts as a product for HierarchicalThemeSource, which overrides getTheme method of ThemeSource.

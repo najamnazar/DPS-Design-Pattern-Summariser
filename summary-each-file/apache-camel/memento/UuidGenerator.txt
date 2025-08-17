@@ -1,0 +1,1 @@
+UuidGenerator acts as a memento, which is inherited by ClassicUuidGenerator, ShortUuidGenerator, SimpleUuidGenerator, VanillaUuidGenerator, DefaultUuidGenerator, which generates Exchange Uuid, which generates Exchange Uuid.

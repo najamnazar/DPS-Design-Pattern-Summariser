@@ -1,0 +1,1 @@
+DefaultListenerContainerFactory acts as an observer, which creates SpringRabbitMQEndpoint parameter of endpoint Listener Container.

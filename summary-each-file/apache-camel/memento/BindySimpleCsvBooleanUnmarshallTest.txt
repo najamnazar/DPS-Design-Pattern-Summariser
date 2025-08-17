@@ -1,0 +1,1 @@
+BindySimpleCsvBooleanUnmarshallTest acts as a caretaker for memento Producer, which tests Un Marshall Message With Boolean, which tests Un Marshall Message With Boolean Missing Fields, which configures.

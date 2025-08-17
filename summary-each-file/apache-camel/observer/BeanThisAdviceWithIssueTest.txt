@@ -1,0 +1,2 @@
+BeanThisAdviceWithIssueTest acts as a publisher for observer CamelContext, which is Use Route Builder, which shoulds Fire.
+BeanThisAdviceWithIssueTest acts as a publisher for observer Service, which is Use Route Builder, which shoulds Fire.

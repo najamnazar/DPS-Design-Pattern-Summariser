@@ -1,0 +1,1 @@
+HdfsInfoFactory acts as an adaptee for adapter HdfsConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

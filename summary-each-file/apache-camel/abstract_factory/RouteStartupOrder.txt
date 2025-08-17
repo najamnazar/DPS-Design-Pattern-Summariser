@@ -1,0 +1,1 @@
+RouteStartupOrder acts as an abstract factory for Consumer, Route, which is inherited by DefaultRouteStartupOrder.

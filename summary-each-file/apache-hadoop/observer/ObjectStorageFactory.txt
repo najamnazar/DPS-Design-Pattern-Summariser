@@ -1,0 +1,1 @@
+ObjectStorageFactory acts as a publisher for observer Configuration, which is inherited by, which creates String parameter of prefix, String parameter of scheme, String parameter of bucket, Configuration parameter of conf With Prefix, which creates String parameter of scheme, String parameter of bucket, Configuration parameter of conf.

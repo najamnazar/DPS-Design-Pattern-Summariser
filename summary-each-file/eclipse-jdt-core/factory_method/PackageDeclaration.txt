@@ -1,0 +1,1 @@
+PackageDeclaration acts as a factory for RecoveredTypeBinding, which overrides.

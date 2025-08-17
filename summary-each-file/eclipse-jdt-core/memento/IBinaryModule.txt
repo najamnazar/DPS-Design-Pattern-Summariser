@@ -1,0 +1,5 @@
+IBinaryModule acts as a caretaker for memento S, which gets Annotations, which gets Tag Bits, which gets URI.
+IBinaryModule acts as a caretaker for memento String, which gets Annotations, which gets Tag Bits, which gets URI.
+IBinaryModule acts as a caretaker for memento R, which gets Annotations, which gets Tag Bits, which gets URI.
+IBinaryModule acts as a memento, which is inherited by ModuleInfo, which gets URI, which gets URI, which gets URI.
+IBinaryModule acts as a caretaker for memento E, which gets Annotations, which gets Tag Bits, which gets URI.

@@ -1,0 +1,1 @@
+ComponentFactoryBean acts as a publisher for observer Component, which is inherited by, which sets Component parameter of parent Parent, which sets List<Component> parameter of children Children, which gets Object, which gets Object Type, which is Singleton.

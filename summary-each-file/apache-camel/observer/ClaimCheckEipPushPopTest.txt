@@ -1,0 +1,2 @@
+ClaimCheckEipPushPopTest acts as a publisher for observer CamelContext, which tests Push Pop, which creates Route Builder.
+ClaimCheckEipPushPopTest acts as a publisher for observer Service, which tests Push Pop, which creates Route Builder.

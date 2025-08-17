@@ -1,0 +1,1 @@
+ZKFCProtocolClientSideTranslatorPB acts as a product for ZKFailoverController, which overrides cedeActive method of ZKFCProtocol, gracefulFailover method of ZKFCProtocol.

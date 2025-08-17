@@ -1,0 +1,2 @@
+StopAndFailRouteTest acts as a publisher for observer CamelContext, which stops Route, which fails Route, which creates Route Builder.
+StopAndFailRouteTest acts as a publisher for observer Service, which stops Route, which fails Route, which creates Route Builder.

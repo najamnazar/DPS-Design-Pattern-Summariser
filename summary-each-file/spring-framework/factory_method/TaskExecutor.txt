@@ -1,0 +1,1 @@
+TaskExecutor acts as an abstract product for AbstractMessageBrokerConfiguration, which is inherited by StubTaskExecutor, SyncTaskExecutor.

@@ -1,0 +1,1 @@
+CandidateComponentsIndex acts as a caretaker for memento A, which parses List<Properties> parameter of content Index, which gets String parameter of basePackage, String parameter of stereotype Candidate Types, which matches String parameter of basePackage.

@@ -1,0 +1,1 @@
+HashtableOfObjectTest acts as a publisher for observer String, which tests Calculate New Size, which tests Create New Table.

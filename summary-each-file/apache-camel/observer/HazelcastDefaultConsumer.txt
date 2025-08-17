@@ -1,0 +1,4 @@
+HazelcastDefaultConsumer acts as a publisher for observer HealthCheck.
+HazelcastDefaultConsumer acts as a publisher for observer Route.
+HazelcastDefaultConsumer acts as a publisher for observer Exchange.
+HazelcastDefaultConsumer acts as a publisher for observer ExceptionHandler.

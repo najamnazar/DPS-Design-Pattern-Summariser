@@ -1,0 +1,1 @@
+AnnotationType acts as an abstract product for AnnotationMirror, which is inherited by AnnotationDeclarationImpl.

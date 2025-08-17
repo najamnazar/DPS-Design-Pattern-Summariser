@@ -1,0 +1,1 @@
+ServiceNowParams acts as a caretaker for memento Configuration, which gets Id, which gets Header, which gets Type, which gets ServiceNowConfiguration parameter of configuration Default Value, which gets Message parameter of message Header Value, which gets Message parameter of message, ServiceNowConfiguration parameter of configuration Header Value.

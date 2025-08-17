@@ -1,0 +1,1 @@
+PulsarProducerUndefinedProducerNameInIT acts as a caretaker for memento Producer, which creates Route Builder, which creates Camel Registry, which registers Registry parameter of registry Pulsar Beans, which gives Pulsar Client, which tests AMessage To Route Is Sent From Both Producers And Then Consumed.

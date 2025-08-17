@@ -1,0 +1,2 @@
+FileConsumeSimpleAbsoluteMoveToRelativeTest acts as a publisher for observer CamelContext, which tests Move To Sub Dir, which creates Route Builder.
+FileConsumeSimpleAbsoluteMoveToRelativeTest acts as a publisher for observer Service, which tests Move To Sub Dir, which creates Route Builder.

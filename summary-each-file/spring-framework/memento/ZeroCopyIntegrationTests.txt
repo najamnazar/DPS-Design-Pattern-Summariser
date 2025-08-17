@@ -1,0 +1,1 @@
+ZeroCopyIntegrationTests acts as a caretaker for memento C, which creates Http Handler, which zeros HttpServer parameter of httpServer Copy, which handles ServerHttpRequest parameter of request, ServerHttpResponse parameter of response.

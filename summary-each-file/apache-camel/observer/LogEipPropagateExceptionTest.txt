@@ -1,0 +1,2 @@
+LogEipPropagateExceptionTest acts as a publisher for observer CamelContext, which tests Failure, which tests Success, which creates Route Builder.
+LogEipPropagateExceptionTest acts as a publisher for observer Service, which tests Failure, which tests Success, which creates Route Builder.

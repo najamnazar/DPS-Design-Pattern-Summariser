@@ -1,0 +1,1 @@
+AlterViewStep acts as a publisher for observer Comment, which is inherited by AlterViewImpl, which comments @Stringly.Comment parameter of String, which comments Comment parameter of comment, which renames @Stringly.Name parameter of String To, which renames Name parameter of renameTo To, which renames Table<?> parameter of renameTo To.

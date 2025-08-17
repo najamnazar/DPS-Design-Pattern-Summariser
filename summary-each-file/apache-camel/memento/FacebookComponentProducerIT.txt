@@ -1,0 +1,1 @@
+FacebookComponentProducerIT acts as a caretaker for memento Configuration, which tests Producers, which tests Json Store Enabled, which creates Route Builder, which matches Exchange parameter of exchange.

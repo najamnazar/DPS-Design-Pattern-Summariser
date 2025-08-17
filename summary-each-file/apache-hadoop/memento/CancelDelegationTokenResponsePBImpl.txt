@@ -1,0 +1,3 @@
+CancelDelegationTokenResponsePBImpl acts as an originator for memento CancelDelegationTokenResponse.
+CancelDelegationTokenResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+CancelDelegationTokenResponsePBImpl acts as a caretaker for memento CancelDelegationTokenResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.

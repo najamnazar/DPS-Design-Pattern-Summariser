@@ -1,0 +1,4 @@
+AbstractUniVocityDataFormat acts as a product for DataFormatResolver, which overrides unmarshal method of DataFormat.
+AbstractUniVocityDataFormat acts as a product for DataFormatFactory, which overrides unmarshal method of DataFormat.
+AbstractUniVocityDataFormat acts as a product for CamelContext, which overrides unmarshal method of DataFormat.
+AbstractUniVocityDataFormat acts as a product for ModelReifierFactory, which overrides unmarshal method of DataFormat.

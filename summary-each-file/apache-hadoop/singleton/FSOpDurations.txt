@@ -1,0 +1,1 @@
+FSOpDurations acts as a singleton, which gets a FSOpDurations Instance to.

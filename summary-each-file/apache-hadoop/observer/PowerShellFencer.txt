@@ -1,0 +1,1 @@
+PowerShellFencer acts as a publisher for observer Configuration, which checks String parameter of argStr Args, which tries HAServiceTarget parameter of target, String parameter of argsStr Fence, which builds final parameter of String, final parameter of String PSScript.

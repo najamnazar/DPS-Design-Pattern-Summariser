@@ -1,0 +1,5 @@
+KameletDiscoveryTest acts as a publisher for observer CamelContext, which kamelets Can Be Discovered, which kamelets Not Found.
+KameletDiscoveryTest acts as a publisher for observer ConsumerTemplate, which kamelets Can Be Discovered, which kamelets Not Found.
+KameletDiscoveryTest acts as a publisher for observer Service, which kamelets Can Be Discovered, which kamelets Not Found.
+KameletDiscoveryTest acts as a publisher for observer FluentProducerTemplate, which kamelets Can Be Discovered, which kamelets Not Found.
+KameletDiscoveryTest acts as a publisher for observer ProducerTemplate, which kamelets Can Be Discovered, which kamelets Not Found.

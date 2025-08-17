@@ -1,0 +1,1 @@
+SourceMethodInfo acts as a target for adapter SourceAnnotationMethodInfo, which adapts to SourceMethodInfo, which adapts to SourceMethodInfo, which adapts to SourceMethodInfo, which adapts to SourceMethodInfo.

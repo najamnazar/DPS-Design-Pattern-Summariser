@@ -1,0 +1,1 @@
+BeanPostProcessor acts as an abstract product for AbstractBeanFactory, which is inherited by AbstractAdvisingBeanPostProcessor, ServletContextAwareProcessor, BeanValidationPostProcessor, ApplicationContextAwareProcessor, LoadTimeWeaverAwareProcessor, AdvisorAdapterRegistrationManager.

@@ -1,0 +1,1 @@
+HashicorpVaultConfigurationProperties acts as an observer, which ends, which closes, which withes String parameter of token Token, which withes String parameter of engine Engine, which withes String parameter of host Host, which withes String parameter of port Port, which withes String parameter of scheme Scheme.

@@ -1,0 +1,1 @@
+AsyncUncaughtExceptionHandler acts as an observer for publisher AsyncAnnotationBeanPostProcessor, which is inherited by TestableAsyncUncaughtExceptionHandler, SimpleAsyncUncaughtExceptionHandler, which handles Throwable parameter of ex, Method parameter of method, Object... parameter of params Uncaught Exception.

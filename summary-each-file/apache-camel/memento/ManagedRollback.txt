@@ -1,0 +1,1 @@
+ManagedRollback acts as a caretaker for memento Context, which gets Message, which is Mark Rollback Only, which is Mark Rollback Only Last.

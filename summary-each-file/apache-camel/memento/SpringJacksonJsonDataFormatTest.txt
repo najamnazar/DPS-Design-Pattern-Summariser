@@ -1,0 +1,1 @@
+SpringJacksonJsonDataFormatTest acts as a caretaker for memento Context, which tests Marshal And Unmarshal Map, which tests Marshal And Unmarshal Map With Pretty Print, which tests Marshal And Unmarshal Pojo, which tests Marshal And Unmarshal Age View, which creates Application Context.

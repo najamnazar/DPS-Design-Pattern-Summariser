@@ -1,0 +1,1 @@
+RMAppAttemptContainerFinishedEvent acts as an observer, which gets Container Status, which gets Node Id.

@@ -1,0 +1,1 @@
+FlowActivityEntity acts as a product for TimelineReader, which overrides getId method of TimelineEntity, getId method of TimelineEntity, equals method of TimelineEntity, equals method of TimelineEntity, hashCode method of TimelineEntity, hashCode method of TimelineEntity.

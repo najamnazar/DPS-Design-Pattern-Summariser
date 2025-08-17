@@ -1,0 +1,2 @@
+ModelineParser acts as a factory for ModelineParser, which overrides.
+ModelineParser acts as a factory method for Trait, which is inherited by DefaultModelineParser, ModelineParser.

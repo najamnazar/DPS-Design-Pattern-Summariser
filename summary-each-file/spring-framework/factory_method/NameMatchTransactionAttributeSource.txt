@@ -1,0 +1,1 @@
+NameMatchTransactionAttributeSource acts as a product for TransactionAttributeSourceAdvisor, which overrides getTransactionAttribute method of TransactionAttributeSource.

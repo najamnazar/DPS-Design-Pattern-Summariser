@@ -1,0 +1,1 @@
+LogFactory acts as a factory for LogDelegateFactory, which overrides.

@@ -1,0 +1,1 @@
+BlobContainerOperations acts as a caretaker for memento Configuration, which lists final parameter of Exchange Blobs, which creates final parameter of Exchange Container, which deletes final parameter of Exchange Container.

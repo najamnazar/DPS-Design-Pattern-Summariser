@@ -1,0 +1,1 @@
+LocalizerStatus acts as an abstract factory for LocalResourceStatus, which is inherited by LocalizerStatusPBImpl, MockLocalizerStatus.

@@ -1,0 +1,2 @@
+PropertiesComponentConcatenatePropertiesTest acts as a publisher for observer CamelContext, which creates Camel Context, which sets Up, which tears Down, which tests Concat Properties Component Default, which tests Without Concat Properties Component Default.
+PropertiesComponentConcatenatePropertiesTest acts as a publisher for observer Service, which creates Camel Context, which sets Up, which tears Down, which tests Concat Properties Component Default, which tests Without Concat Properties Component Default.

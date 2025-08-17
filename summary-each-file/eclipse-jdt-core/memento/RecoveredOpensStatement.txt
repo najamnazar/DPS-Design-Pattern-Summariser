@@ -1,0 +1,1 @@
+RecoveredOpensStatement acts as a caretaker for memento R, which tos int parameter of tab String.

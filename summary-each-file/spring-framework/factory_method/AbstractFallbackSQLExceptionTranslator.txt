@@ -1,0 +1,2 @@
+AbstractFallbackSQLExceptionTranslator acts as a product for JdbcTransactionManager, which overrides translate method of SQLExceptionTranslator.
+AbstractFallbackSQLExceptionTranslator acts as a factory for JdbcTransactionManager, which overrides translate method of JdbcTransactionManager.

@@ -1,0 +1,1 @@
+DigitalOceanSnapshotsProducer acts as a caretaker for memento Configuration, which processes Exchange parameter of exchange, which gets Exchange parameter of exchange Snapshots, which gets Exchange parameter of exchange Snapshot, which deletes Exchange parameter of exchange Snapshot.

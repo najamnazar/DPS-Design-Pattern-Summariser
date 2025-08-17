@@ -1,0 +1,1 @@
+TestLdapGroupsMappingWithPosixGroup acts as a caretaker for memento Attribute, which setups Mocks, which tests Get Groups, which does List<String> parameter of expectedGroups, int parameter of searchTimes Test Get Groups.

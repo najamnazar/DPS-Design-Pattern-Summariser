@@ -1,0 +1,1 @@
+CamelDebuggerFactory acts as a factory for DebuggerFactory, which overrides createDebugger method of DebuggerFactory.

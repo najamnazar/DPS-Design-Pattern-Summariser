@@ -1,0 +1,3 @@
+BooleanComparator acts as a caretaker for memento C, which compares Boolean parameter of v1, Boolean parameter of v2, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+BooleanComparator acts as a caretaker for memento Comparator, which compares Boolean parameter of v1, Boolean parameter of v2, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+BooleanComparator acts as a caretaker for memento B, which compares Boolean parameter of v1, Boolean parameter of v2, which equals @Nullable parameter of Object, which hashes Code, which tos String.

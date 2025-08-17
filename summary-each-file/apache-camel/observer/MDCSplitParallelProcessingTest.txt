@@ -1,0 +1,2 @@
+MDCSplitParallelProcessingTest acts as a publisher for observer CamelContext, which tests Mdc Preserved After Async Endpoint, which creates Route Builder, which processes Exchange parameter of exchange.
+MDCSplitParallelProcessingTest acts as a publisher for observer Service, which tests Mdc Preserved After Async Endpoint, which creates Route Builder, which processes Exchange parameter of exchange.

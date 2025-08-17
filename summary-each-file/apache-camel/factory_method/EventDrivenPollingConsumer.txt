@@ -1,0 +1,4 @@
+EventDrivenPollingConsumer acts as a product for FaultToleranceProcessorFactory, which overrides process method of Processor.
+EventDrivenPollingConsumer acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+EventDrivenPollingConsumer acts as a factory for FaultToleranceProcessorFactory, which overrides process method of FaultToleranceProcessorFactory.
+EventDrivenPollingConsumer acts as a factory for DefaultEndpoint, which overrides.

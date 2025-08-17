@@ -1,0 +1,5 @@
+InfinispanTestSupport acts as a publisher for observer FluentProducerTemplate, which gets Cache, which gets Cache Name, which gets String parameter of name Cache.
+InfinispanTestSupport acts as a publisher for observer Service, which gets Cache, which gets Cache Name, which gets String parameter of name Cache.
+InfinispanTestSupport acts as a publisher for observer ProducerTemplate, which gets Cache, which gets Cache Name, which gets String parameter of name Cache.
+InfinispanTestSupport acts as a publisher for observer ConsumerTemplate, which gets Cache, which gets Cache Name, which gets String parameter of name Cache.
+InfinispanTestSupport acts as a publisher for observer CamelContext, which gets Cache, which gets Cache Name, which gets String parameter of name Cache.

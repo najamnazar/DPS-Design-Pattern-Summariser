@@ -1,0 +1,1 @@
+AsyncProducer acts as an observer.

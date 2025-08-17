@@ -1,0 +1,2 @@
+LoopDoWhileTaskCountTest acts as a publisher for observer Service, which tests Loop Do While Simple, which creates Route Builder.
+LoopDoWhileTaskCountTest acts as a publisher for observer CamelContext, which tests Loop Do While Simple, which creates Route Builder.

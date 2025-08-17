@@ -1,0 +1,4 @@
+XmlBeanFactory acts as a publisher for observer BeanDefinition.
+XmlBeanFactory acts as a publisher for observer AutowireCandidateResolver.
+XmlBeanFactory acts as an observer.
+XmlBeanFactory acts as a publisher for observer DependencyDescriptor.

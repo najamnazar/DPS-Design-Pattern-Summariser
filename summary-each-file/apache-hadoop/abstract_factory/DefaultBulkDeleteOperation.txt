@@ -1,0 +1,2 @@
+DefaultBulkDeleteOperation acts as a factory for BulkDelete, which overrides pageSize method of BulkDelete, basePath method of BulkDelete, bulkDelete method of BulkDelete.
+DefaultBulkDeleteOperation acts as a product for BulkDeleteSource, which overrides pageSize method of BulkDelete, basePath method of BulkDelete, bulkDelete method of BulkDelete.

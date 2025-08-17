@@ -1,0 +1,2 @@
+ExchangeTestSupport acts as a target for adapter CxfPayloadConverterTest, which adapts to ExchangeTestSupport, which adapts to ExchangeTestSupport, which adapts to ExchangeTestSupport.
+ExchangeTestSupport acts as an adapter, which adapts createExchange method of Exchange, createExchange method of Exchange, createExchange method of Exchange to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,1 @@
+GenericRefreshProtocolPB acts as an adaptee for adapter GenericRefreshProtocolClientSideTranslatorPB.

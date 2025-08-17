@@ -1,0 +1,1 @@
+AbstractLazyCreationTargetSource acts as an observer, which is Initialized, which gets Target Class, which is Static, which gets Target, which releases Object parameter of target Target, which creates Object.

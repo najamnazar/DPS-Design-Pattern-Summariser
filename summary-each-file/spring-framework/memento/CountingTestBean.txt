@@ -1,0 +1,4 @@
+CountingTestBean acts as a caretaker for memento B.
+CountingTestBean acts as a caretaker for memento C.
+CountingTestBean acts as a caretaker for memento A.
+CountingTestBean acts as a caretaker for memento ApplicationContext.

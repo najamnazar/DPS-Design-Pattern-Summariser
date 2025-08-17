@@ -1,0 +1,2 @@
+GenericBridgeMethodMatchingClassProxyTests acts as a caretaker for memento A, which tests Generic Derived Interface Method Through Class, which tests Generic Base Interface Method Through Class.
+GenericBridgeMethodMatchingClassProxyTests acts as a caretaker for memento C, which tests Generic Derived Interface Method Through Class, which tests Generic Base Interface Method Through Class.

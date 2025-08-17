@@ -1,0 +1,1 @@
+XQueryNullHeaderTest acts as a caretaker for memento Context, which tests Header, which tests Header With Null, which creates Application Context.

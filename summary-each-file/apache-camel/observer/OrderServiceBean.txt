@@ -1,0 +1,1 @@
+OrderServiceBean acts as a publisher for observer TypeConverter, which is inherited by, which sets TypeConverter parameter of converter Converter, which handles GenericFile<?> parameter of file Custom, which handles Document parameter of doc XML.

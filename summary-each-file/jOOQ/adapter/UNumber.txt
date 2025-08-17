@@ -1,0 +1,3 @@
+UNumber acts as a target for adapter UByte, which adapts to UNumber.
+UNumber acts as a target for adapter UInteger, which adapts to UNumber.
+UNumber acts as a target for adapter UShort, which adapts to UNumber.

@@ -1,0 +1,5 @@
+AsyncQueueProducerTest acts as a publisher for observer ConsumerTemplate, which tests Async Jms Producer Endpoint, which creates Camel Context, which creates Route Builder.
+AsyncQueueProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Async Jms Producer Endpoint, which creates Camel Context, which creates Route Builder.
+AsyncQueueProducerTest acts as a publisher for observer Service, which tests Async Jms Producer Endpoint, which creates Camel Context, which creates Route Builder.
+AsyncQueueProducerTest acts as a publisher for observer CamelContext, which tests Async Jms Producer Endpoint, which creates Camel Context, which creates Route Builder.
+AsyncQueueProducerTest acts as a publisher for observer ProducerTemplate, which tests Async Jms Producer Endpoint, which creates Camel Context, which creates Route Builder.

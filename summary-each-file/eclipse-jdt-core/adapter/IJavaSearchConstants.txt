@@ -1,0 +1,3 @@
+IJavaSearchConstants acts as an adaptee for adapter FullSourceWorkspaceModelTests.
+IJavaSearchConstants acts as an adaptee for adapter FullSourceWorkspaceSearchTests.
+IJavaSearchConstants acts as an adaptee for adapter FullSourceWorkspaceTypeHierarchyTests.

@@ -1,0 +1,1 @@
+InvalidPropertyException acts as a caretaker for memento C, which is inherited by, which gets Bean Class, which gets Property Name.

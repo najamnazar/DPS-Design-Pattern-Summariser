@@ -1,0 +1,2 @@
+PseudoAuthenticator acts as a publisher for observer ConnectionConfigurator, which is inherited by, which sets ConnectionConfigurator parameter of configurator Connection Configurator, which authenticates URL parameter of url, AuthenticatedURL.Token parameter of token, which gets User Name.
+PseudoAuthenticator acts as a publisher for observer ConnectionConfigurator, which sets ConnectionConfigurator parameter of configurator Connection Configurator, which authenticates URL parameter of url, AuthenticatedURL.Token parameter of token, which gets User Name.

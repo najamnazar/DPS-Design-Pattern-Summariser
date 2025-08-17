@@ -1,0 +1,2 @@
+FromFileMulticastToFilesTest acts as a publisher for observer CamelContext, which tests From File Multicast To Files, which tests From File Multicast Parallel To Files, which is Use Route Builder.
+FromFileMulticastToFilesTest acts as a publisher for observer Service, which tests From File Multicast To Files, which tests From File Multicast Parallel To Files, which is Use Route Builder.

@@ -1,0 +1,2 @@
+AbstractDirectVmTestSupport acts as a publisher for observer CamelContext, which sets Up, which does Post Setup, which tears Down, which creates Route Builder For Second Context.
+AbstractDirectVmTestSupport acts as a publisher for observer Service, which sets Up, which does Post Setup, which tears Down, which creates Route Builder For Second Context.

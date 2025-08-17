@@ -1,0 +1,2 @@
+EntityResponse acts as a product for ServerResponse, which overrides.
+EntityResponse acts as a product for AsyncServerResponse, which overrides.

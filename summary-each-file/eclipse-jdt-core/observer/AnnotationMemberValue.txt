@@ -1,0 +1,1 @@
+AnnotationMemberValue acts as a publisher for observer Object, which gets Method Binding.

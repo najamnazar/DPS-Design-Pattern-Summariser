@@ -1,0 +1,2 @@
+PriorityPBImpl acts as a publisher for observer Priority, which gets Proto, which maybes Init Builder, which gets Priority, which sets int parameter of priority Priority, which tos String.
+PriorityPBImpl acts as an observer, which gets Proto, which maybes Init Builder, which gets Priority, which sets int parameter of priority Priority, which tos String.

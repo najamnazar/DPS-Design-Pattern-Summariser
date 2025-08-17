@@ -1,0 +1,1 @@
+JmsPollingConsumer acts as a publisher for observer ExceptionHandler, which gets Endpoint, which receives No Wait, which receives, which receives long parameter of timeout, which does Start, which does Stop, which sets long parameter of timeout Receive Timeout.

@@ -1,0 +1,2 @@
+PathContainer acts as an abstract product for DefaultRequestPath, which is inherited by DefaultPathContainer.
+PathContainer acts as a factory for DefaultRequestPath, which overrides.

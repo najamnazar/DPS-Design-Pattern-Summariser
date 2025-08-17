@@ -1,0 +1,1 @@
+LifecycleStrategy acts as an abstract product for JmxManagementStrategyFactory, which is inherited by JmxManagementLifecycleStrategy, LifecycleStrategySupport.

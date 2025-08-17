@@ -1,0 +1,1 @@
+OperationAuditorOptions acts as an adaptee for adapter AbstractOperationAuditor, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

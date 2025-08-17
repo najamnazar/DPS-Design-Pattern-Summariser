@@ -1,0 +1,1 @@
+ContextPathCompositeHandler acts as a product for AbstractRequestMappingIntegrationTests, which overrides handle method of HttpHandler.

@@ -1,0 +1,2 @@
+SubmitApplicationResponse acts as a memento, which is inherited by SubmitApplicationResponsePBImpl, which news Instance.
+SubmitApplicationResponse acts as an originator for memento SubmitApplicationResponse, which is inherited by, which news a SubmitApplicationResponse Instance to.

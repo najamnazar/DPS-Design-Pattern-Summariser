@@ -1,0 +1,2 @@
+OnCompletionModeTest acts as a publisher for observer CamelContext, which tests On Completion Scope Before, which tests On Completion Scope After, which creates Route Builder.
+OnCompletionModeTest acts as a publisher for observer Service, which tests On Completion Scope Before, which tests On Completion Scope After, which creates Route Builder.

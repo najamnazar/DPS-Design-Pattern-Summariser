@@ -1,0 +1,1 @@
+PartHandle acts as an abstract product for BBPartHandle, which is inherited by BBPartHandle.

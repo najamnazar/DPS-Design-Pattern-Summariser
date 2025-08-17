@@ -1,0 +1,2 @@
+MockExpectedBodiesAsListTest acts as a publisher for observer CamelContext, which tests Using Varargs, which tests Using List String, which tests Using List, which creates Route Builder.
+MockExpectedBodiesAsListTest acts as a publisher for observer Service, which tests Using Varargs, which tests Using List String, which tests Using List, which creates Route Builder.

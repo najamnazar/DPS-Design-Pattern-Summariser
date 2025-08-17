@@ -1,0 +1,1 @@
+ContainerContext acts as a caretaker for memento ExecutionType, which is inherited by, which gets User, which gets Container Id, which gets Resource, which gets Container Type, which gets Execution Type.

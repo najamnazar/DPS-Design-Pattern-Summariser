@@ -1,0 +1,1 @@
+ReplaceBeanWithMockTest acts as an adapter, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport.

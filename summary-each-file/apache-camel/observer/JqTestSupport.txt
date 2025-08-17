@@ -1,0 +1,5 @@
+JqTestSupport acts as a publisher for observer ProducerTemplate, which nodes String parameter of key, String parameter of value, String... parameter of keyVals.
+JqTestSupport acts as a publisher for observer CamelContext, which nodes String parameter of key, String parameter of value, String... parameter of keyVals.
+JqTestSupport acts as a publisher for observer FluentProducerTemplate, which nodes String parameter of key, String parameter of value, String... parameter of keyVals.
+JqTestSupport acts as a publisher for observer Service, which nodes String parameter of key, String parameter of value, String... parameter of keyVals.
+JqTestSupport acts as a publisher for observer ConsumerTemplate, which nodes String parameter of key, String parameter of value, String... parameter of keyVals.

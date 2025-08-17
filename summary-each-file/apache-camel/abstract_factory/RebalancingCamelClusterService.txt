@@ -1,0 +1,1 @@
+RebalancingCamelClusterService acts as a factory for CamelPreemptiveClusterService, which overrides getView method of CamelPreemptiveClusterService.

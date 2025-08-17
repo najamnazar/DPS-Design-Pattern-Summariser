@@ -1,0 +1,1 @@
+SetCommand acts as a publisher for observer Name, which is inherited by, which accepts Context<?> parameter of ctx, which $names, which $values, which $locals, which $names Name parameter of newValue, which $values Param<?> parameter of newValue, which $locals boolean parameter of newValue, which $constructors.

@@ -1,0 +1,4 @@
+AMQPEndpoint acts as a publisher for observer HeaderFilterStrategy.
+AMQPEndpoint acts as an observer.
+AMQPEndpoint acts as a publisher for observer JmsConfiguration.
+AMQPEndpoint acts as a publisher for observer JmsBinding.

@@ -1,0 +1,13 @@
+PollingConsumer acts as a product for RestApiConsumerFactory, which overrides.
+PollingConsumer acts as a product for KnativeConsumerFactory, which overrides.
+PollingConsumer acts as a product for Endpoint, which overrides.
+PollingConsumer acts as a product for RouteStartupOrder, which overrides.
+PollingConsumer acts as a product for PlatformHttpEngine, which overrides.
+PollingConsumer acts as a product for Route, which overrides.
+PollingConsumer acts as a product for KafkaClientFactory, which overrides.
+PollingConsumer acts as a product for ExchangeFactory, which overrides.
+PollingConsumer acts as a product for RestRegistry, which overrides.
+PollingConsumer acts as a product for RestConsumerFactory, which overrides.
+PollingConsumer acts as an abstract product for PollingConsumer, which is inherited by PollingConsumerSupport.
+PollingConsumer acts as a product for ConsulFactories, which overrides.
+PollingConsumer acts as an abstract factory for Exchange, which is inherited by PollingConsumerSupport.

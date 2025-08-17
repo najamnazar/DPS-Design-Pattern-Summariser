@@ -1,0 +1,1 @@
+RabbitMQITSupport acts as an adapter, which adapts createConnectionFactory method of RabbitMQService to CamelTestSupport, which adapts to CamelTestSupport.

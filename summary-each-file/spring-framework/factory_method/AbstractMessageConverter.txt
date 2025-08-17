@@ -1,0 +1,2 @@
+AbstractMessageConverter acts as a factory for AbstractMessageConverter, which overrides.
+AbstractMessageConverter acts as a factory method for ContentTypeResolver, which is inherited by AbstractMessageConverter, AbstractMessageConverter, AbstractMessageConverter, AbstractMessageConverter.

@@ -1,0 +1,1 @@
+RetriableDirectoryCreateCommand acts as a publisher for observer RetryPolicy, which does Object... parameter of arguments Execute.

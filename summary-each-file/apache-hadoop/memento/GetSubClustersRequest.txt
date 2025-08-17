@@ -1,0 +1,2 @@
+GetSubClustersRequest acts as an originator for memento GetSubClustersRequest, which is inherited by, which news a GetSubClustersRequest Instance to.
+GetSubClustersRequest acts as a memento, which is inherited by GetSubClustersRequestPBImpl, which news Instance.

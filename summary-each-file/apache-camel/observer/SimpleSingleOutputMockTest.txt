@@ -1,0 +1,2 @@
+SimpleSingleOutputMockTest acts as a publisher for observer CamelContext, which tests Simple, which creates Route Builder.
+SimpleSingleOutputMockTest acts as a publisher for observer Service, which tests Simple, which creates Route Builder.

@@ -1,0 +1,7 @@
+Context acts as an adaptee for adapter JndiTest.
+Context acts as an adaptee for adapter ValidatorResourceResolverFactoryTest.
+Context acts as an adaptee for adapter MicroProfileMetricsMessageHistory.
+Context acts as an adaptee for adapter BeanCachedProcessorTest.
+Context acts as an adaptee for adapter BeanSingletonTest.
+Context acts as an adaptee for adapter XsltUriResolverFactoryTest.
+Context acts as an adaptee for adapter BeanCachedTest.

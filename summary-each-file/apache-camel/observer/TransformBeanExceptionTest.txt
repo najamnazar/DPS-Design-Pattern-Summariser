@@ -1,0 +1,2 @@
+TransformBeanExceptionTest acts as a publisher for observer Service, which tests Transform Bean Exception, which creates Route Builder, which throws String parameter of body Up.
+TransformBeanExceptionTest acts as a publisher for observer CamelContext, which tests Transform Bean Exception, which creates Route Builder, which throws String parameter of body Up.

@@ -1,0 +1,2 @@
+UnRegisterNodeManagerResponse acts as a memento, which is inherited by UnRegisterNodeManagerResponsePBImpl, which news Instance.
+UnRegisterNodeManagerResponse acts as an originator for memento UnRegisterNodeManagerResponse, which is inherited by, which news an UnRegisterNodeManagerResponse Instance to.

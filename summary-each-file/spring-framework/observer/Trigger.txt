@@ -1,0 +1,1 @@
+Trigger acts as an observer for publisher SchedulerAccessor, SchedulerFactoryBean, SchedulerAccessorBean, which is inherited by CronTrigger, PeriodicTrigger, which nexts TriggerContext parameter of triggerContext Execution Time.

@@ -1,0 +1,1 @@
+TaskExecutor acts as an observer for publisher WebSocketMessageBrokerStats, which is inherited by StubTaskExecutor, SyncTaskExecutor, AsyncTaskExecutor, which executes Runnable parameter of task.

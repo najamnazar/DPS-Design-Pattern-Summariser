@@ -1,0 +1,1 @@
+SingleCounterBlock acts as a publisher for observer Block, which renders Block parameter of html, which populates AppContext parameter of ctx Members.

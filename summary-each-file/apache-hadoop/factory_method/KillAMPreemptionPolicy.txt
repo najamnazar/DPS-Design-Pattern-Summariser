@@ -1,0 +1,1 @@
+KillAMPreemptionPolicy acts as a product for MRAppMaster, which overrides init method of AMPreemptionPolicy, handleFailedContainer method of AMPreemptionPolicy, getCheckpointID method of AMPreemptionPolicy, setCheckpointID method of AMPreemptionPolicy, handleCompletedContainer method of AMPreemptionPolicy.

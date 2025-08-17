@@ -1,0 +1,1 @@
+JpaUsePersistTest acts as a caretaker for memento Customer, which uses Persist, which produces Existing Entity Should Throw An Exception, which sets String parameter of endpointUri Up.

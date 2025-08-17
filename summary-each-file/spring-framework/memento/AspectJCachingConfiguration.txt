@@ -1,0 +1,2 @@
+AspectJCachingConfiguration acts as a caretaker for memento C, which caches Aspect.
+AspectJCachingConfiguration acts as a caretaker for memento A, which caches Aspect.

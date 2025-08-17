@@ -1,0 +1,7 @@
+DefaultSerializer acts as a target for adapter FloatWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.
+DefaultSerializer acts as a target for adapter LongWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.
+DefaultSerializer acts as a target for adapter BoolWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.
+DefaultSerializer acts as a target for adapter NullWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.
+DefaultSerializer acts as a target for adapter DoubleWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.
+DefaultSerializer acts as a target for adapter IntWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.
+DefaultSerializer acts as a target for adapter ByteWritableSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer, which adapts to DefaultSerializer.

@@ -1,0 +1,1 @@
+ErrorsTag acts as a publisher for observer TagWriter, which sets String parameter of element Element, which gets Element, which sets String parameter of delimiter Delimiter, which gets Delimiter, which autogenerates Id, which gets Name, which shoulds Render, which renders TagWriter parameter of tagWriter Default Content, which exposes Attributes, which removes Attributes.

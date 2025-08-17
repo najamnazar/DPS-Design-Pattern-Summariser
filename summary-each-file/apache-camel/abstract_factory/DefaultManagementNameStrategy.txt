@@ -1,0 +1,1 @@
+DefaultManagementNameStrategy acts as a product for CamelContext, which overrides getNamePattern method of ManagementNameStrategy, getName method of ManagementNameStrategy, getNextName method of ManagementNameStrategy, isFixedName method of ManagementNameStrategy, resolveManagementName method of ManagementNameStrategy.

@@ -1,0 +1,2 @@
+AbstractMultipartHttpServletRequest acts as a product for MultipartResolver, which overrides getRequestMethod method of MultipartHttpServletRequest, getRequestHeaders method of MultipartHttpServletRequest.
+AbstractMultipartHttpServletRequest acts as a factory for MultipartHttpServletRequest, which overrides getRequestMethod method of MultipartHttpServletRequest, getRequestHeaders method of MultipartHttpServletRequest.

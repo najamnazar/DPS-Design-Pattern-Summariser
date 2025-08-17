@@ -1,0 +1,1 @@
+ValidateVolumeEvent acts as an observer.

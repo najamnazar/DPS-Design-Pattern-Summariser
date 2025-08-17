@@ -1,0 +1,1 @@
+WebConnectionHtmlUnitDriver acts as a factory method for WebClient, which is inherited by WebClient.

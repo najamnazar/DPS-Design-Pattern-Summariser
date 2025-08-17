@@ -1,0 +1,1 @@
+OpOr acts as a caretaker for memento Keyword, which gets ExpressionState parameter of state Value Internal, which gets ExpressionState parameter of state, SpelNodeImpl parameter of operand Boolean Value, which asserts @Nullable parameter of Boolean Value Not Null, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code.

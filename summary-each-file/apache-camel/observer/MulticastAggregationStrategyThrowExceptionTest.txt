@@ -1,0 +1,2 @@
+MulticastAggregationStrategyThrowExceptionTest acts as a publisher for observer Service, which tests Throw Exception, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+MulticastAggregationStrategyThrowExceptionTest acts as a publisher for observer CamelContext, which tests Throw Exception, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

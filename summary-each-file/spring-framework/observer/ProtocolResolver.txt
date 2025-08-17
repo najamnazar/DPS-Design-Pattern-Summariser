@@ -1,0 +1,1 @@
+ProtocolResolver acts as an observer for publisher DefaultResourceLoader, ClassRelativeResourceLoader, AbstractApplicationContext, FileSystemResourceLoader, ServletContextResourceLoader, which is inherited by, which resolves String parameter of location, ResourceLoader parameter of resourceLoader.

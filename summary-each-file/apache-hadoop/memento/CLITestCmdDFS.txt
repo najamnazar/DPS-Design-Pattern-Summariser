@@ -1,0 +1,1 @@
+CLITestCmdDFS acts as a caretaker for memento CLICommandTypes, which gets String parameter of tag, Configuration parameter of conf Executor.

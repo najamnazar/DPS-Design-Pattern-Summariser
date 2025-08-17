@@ -1,0 +1,1 @@
+SuperTypeReferenceLocator acts as an adapter, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator.

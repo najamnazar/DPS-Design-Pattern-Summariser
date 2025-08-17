@@ -1,0 +1,1 @@
+PartialFileOutputCommitter acts as an adapter, which adapts to PartialOutputCommitter, which adapts to PartialOutputCommitter, which adapts to PartialOutputCommitter.

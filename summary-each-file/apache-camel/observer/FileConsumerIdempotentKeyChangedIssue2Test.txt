@@ -1,0 +1,2 @@
+FileConsumerIdempotentKeyChangedIssue2Test acts as a publisher for observer CamelContext, which tests File, which creates Route Builder.
+FileConsumerIdempotentKeyChangedIssue2Test acts as a publisher for observer Service, which tests File, which creates Route Builder.

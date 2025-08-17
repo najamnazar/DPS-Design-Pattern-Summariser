@@ -1,0 +1,1 @@
+MongoDbTailTrackingManager acts as a publisher for observer Document, which is inherited by, which initializes, which persists To Store, which recovers From Store, which sets Document parameter of dbObj Last Val, which gets Increasing Field Name.

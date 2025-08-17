@@ -1,0 +1,1 @@
+TryManyReservationAgents acts as a product for PlanContext, which overrides createReservation method of ReservationAgent, updateReservation method of ReservationAgent, deleteReservation method of ReservationAgent, init method of ReservationAgent.

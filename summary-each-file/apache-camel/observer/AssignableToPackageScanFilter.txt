@@ -1,0 +1,1 @@
+AssignableToPackageScanFilter acts as an observer, which adds Class<?> parameter of parentType Parent Type, which is Include Abstract, which sets boolean parameter of includeAbstract Include Abstract, which matches Class<?> parameter of type, which tos String.

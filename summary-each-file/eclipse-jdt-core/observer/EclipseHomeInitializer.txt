@@ -1,0 +1,2 @@
+EclipseHomeInitializer acts as a publisher for observer String, which is inherited by, which initializes String parameter of variable, which resets Eclipse Home Variable, which gets Default Location.
+EclipseHomeInitializer acts as a publisher for observer String, which initializes String parameter of variable, which resets Eclipse Home Variable, which gets Default Location.

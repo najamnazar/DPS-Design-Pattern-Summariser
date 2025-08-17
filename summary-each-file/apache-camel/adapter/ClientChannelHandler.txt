@@ -1,0 +1,1 @@
+ClientChannelHandler acts as a target for adapter HttpClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler, which adapts to ClientChannelHandler.

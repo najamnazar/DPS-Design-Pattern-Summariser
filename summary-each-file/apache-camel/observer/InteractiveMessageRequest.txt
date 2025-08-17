@@ -1,0 +1,1 @@
+InteractiveMessageRequest acts as a publisher for observer InteractiveMessage, which is inherited by, which gets Interactive, which sets InteractiveMessage parameter of interactive Interactive.

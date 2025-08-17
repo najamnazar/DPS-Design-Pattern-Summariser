@@ -1,0 +1,1 @@
+DropboxOperation acts as an observer for publisher DropboxConfiguration, which is inherited by, which tos String.

@@ -1,0 +1,2 @@
+MRClientService acts as a factory method for GetDiagnosticsResponse, which is inherited by MRClientProtocol, MRClientProtocol, MRClientProtocol, MRClientProtocolPBClientImpl.
+MRClientService acts as a product for MRApp, which overrides getBindAddress method of ClientService, getHttpPort method of ClientService.

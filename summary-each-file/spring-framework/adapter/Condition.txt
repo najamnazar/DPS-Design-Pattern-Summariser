@@ -1,0 +1,2 @@
+Condition acts as an adaptee for adapter CheckImpl, which adapts to AbstractNamed.
+Condition acts as an adaptee for adapter Not, which adapts to AbstractCondition.

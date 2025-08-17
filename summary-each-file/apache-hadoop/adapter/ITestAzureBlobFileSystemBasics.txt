@@ -1,0 +1,1 @@
+ITestAzureBlobFileSystemBasics acts as an adapter, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.

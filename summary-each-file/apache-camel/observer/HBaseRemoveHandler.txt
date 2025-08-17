@@ -1,0 +1,1 @@
+HBaseRemoveHandler acts as an observer for publisher HBaseEndpoint, which is inherited by HBaseDeleteHandler, which removes Table parameter of table, byte[] parameter of row.

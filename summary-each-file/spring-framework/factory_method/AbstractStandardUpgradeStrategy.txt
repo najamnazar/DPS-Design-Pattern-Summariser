@@ -1,0 +1,1 @@
+AbstractStandardUpgradeStrategy acts as a product for JettySockJsIntegrationTests, which overrides getSupportedExtensions method of RequestUpgradeStrategy, upgrade method of RequestUpgradeStrategy.

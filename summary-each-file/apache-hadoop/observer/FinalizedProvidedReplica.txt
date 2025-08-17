@@ -1,0 +1,1 @@
+FinalizedProvidedReplica acts as a publisher for observer PathHandle, which gets State, which gets Bytes On Disk, which gets Visible Length, which equals Object parameter of o, which hashes Code, which tos String, which gets Original Replica, which gets Recovery ID, which sets long parameter of recoveryId Recovery ID, which creates Info.

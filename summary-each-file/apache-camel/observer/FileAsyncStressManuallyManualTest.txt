@@ -1,0 +1,2 @@
+FileAsyncStressManuallyManualTest acts as a publisher for observer CamelContext, which tests Async Stress, which creates Route Builder.
+FileAsyncStressManuallyManualTest acts as a publisher for observer Service, which tests Async Stress, which creates Route Builder.

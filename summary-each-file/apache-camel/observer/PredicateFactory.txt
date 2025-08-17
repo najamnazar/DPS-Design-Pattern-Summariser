@@ -1,0 +1,1 @@
+PredicateFactory acts as an observer for publisher ExpressionClauseSupport, which is inherited by ExpressionDefinition, which creates CamelContext parameter of camelContext Predicate.

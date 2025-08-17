@@ -1,0 +1,1 @@
+MBeanInfoAssembler acts as an observer for publisher MBeanExporter, AnnotationMBeanExporter, which is inherited by AutodetectCapableMBeanInfoAssembler, AbstractMBeanInfoAssembler, which gets Object parameter of managedBean, String parameter of beanKey MBean Info.

@@ -1,0 +1,2 @@
+AggregateCompletedByBatchConsumerSendEmptyMessageWhenIdleTest acts as a caretaker for memento Context, which tests Batch Consumer Send Empty Message When Idle, which creates Route Builder.
+AggregateCompletedByBatchConsumerSendEmptyMessageWhenIdleTest acts as a caretaker for memento Producer, which tests Batch Consumer Send Empty Message When Idle, which creates Route Builder.

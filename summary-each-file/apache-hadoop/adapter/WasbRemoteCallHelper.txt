@@ -1,0 +1,2 @@
+WasbRemoteCallHelper acts as an adaptee for adapter RemoteWasbAuthorizerImpl, which adapts to WasbAuthorizerInterface, which adapts to WasbAuthorizerInterface, which adapts to WasbAuthorizerInterface, which adapts to WasbAuthorizerInterface, which adapts to WasbAuthorizerInterface.
+WasbRemoteCallHelper acts as a target for adapter SecureWasbRemoteCallHelper, which adapts to WasbRemoteCallHelper, which adapts to WasbRemoteCallHelper, which adapts to WasbRemoteCallHelper, which adapts to WasbRemoteCallHelper, which adapts to WasbRemoteCallHelper.

@@ -1,0 +1,1 @@
+ThreadPoolTaskScheduler acts as a product for SockJsServiceConfig, which overrides getClock method of TaskScheduler, schedule method of TaskScheduler, schedule method of TaskScheduler, scheduleAtFixedRate method of TaskScheduler, scheduleAtFixedRate method of TaskScheduler, scheduleWithFixedDelay method of TaskScheduler, scheduleWithFixedDelay method of TaskScheduler.

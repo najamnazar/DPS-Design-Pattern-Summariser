@@ -1,0 +1,2 @@
+StreamCache acts as an abstract factory for StreamCache, which is inherited by SourceCache, CachedCxfPayload, NettyChannelBufferStreamCache, StreamSourceCache, InputStreamCache, ByteArrayInputStreamCache, ReaderCache, FileInputStreamCache.
+StreamCache acts as an abstract product for StreamCache, which is inherited by SourceCache, CachedCxfPayload, NettyChannelBufferStreamCache, StreamSourceCache, InputStreamCache, ByteArrayInputStreamCache, ReaderCache, FileInputStreamCache.

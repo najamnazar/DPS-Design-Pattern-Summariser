@@ -1,0 +1,2 @@
+CamelSpringPlainTest acts as a caretaker for memento Producer, which is inherited by, which tests Positive, which tests Jmx, which tests Shutdown Timeout, which tests Stopwatch, which tests Excluded Route, which tests Provides Breakpoint, which tests Route Coverage.
+CamelSpringPlainTest acts as a caretaker for memento Context, which is inherited by, which tests Positive, which tests Jmx, which tests Shutdown Timeout, which tests Stopwatch, which tests Excluded Route, which tests Provides Breakpoint, which tests Route Coverage.

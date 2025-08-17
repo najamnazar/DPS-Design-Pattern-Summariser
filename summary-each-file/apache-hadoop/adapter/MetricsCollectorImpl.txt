@@ -1,0 +1,1 @@
+MetricsCollectorImpl acts as an adaptee for adapter MetricsInvariantChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker.

@@ -1,0 +1,1 @@
+RollbackOverrideDefaultRollbackFalseTransactionalTests acts as an adapter, which adapts to DefaultRollbackFalseRollbackAnnotationTransactionalTests, which adapts to DefaultRollbackFalseRollbackAnnotationTransactionalTests, which adapts to DefaultRollbackFalseRollbackAnnotationTransactionalTests, which adapts to DefaultRollbackFalseRollbackAnnotationTransactionalTests.

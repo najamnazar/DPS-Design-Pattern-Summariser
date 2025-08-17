@@ -1,0 +1,2 @@
+RssEntryPollingConsumerTest acts as a caretaker for memento Producer, which tests List Of Entries Is Split Into Pieces, which creates Route Builder.
+RssEntryPollingConsumerTest acts as a caretaker for memento Context, which tests List Of Entries Is Split Into Pieces, which creates Route Builder.

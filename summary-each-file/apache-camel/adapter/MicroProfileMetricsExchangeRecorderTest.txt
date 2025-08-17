@@ -1,0 +1,1 @@
+MicroProfileMetricsExchangeRecorderTest acts as an adapter, which adapts to MicroProfileMetricsTestSupport, which adapts to MicroProfileMetricsTestSupport, which adapts to MicroProfileMetricsTestSupport, which adapts to MicroProfileMetricsTestSupport, which adapts to MicroProfileMetricsTestSupport.

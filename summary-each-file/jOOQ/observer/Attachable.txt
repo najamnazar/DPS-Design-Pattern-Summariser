@@ -1,0 +1,1 @@
+Attachable acts as a publisher for observer Configuration, which is inherited by AbstractFormattable, which attaches Configuration parameter of configuration, which detaches, which configurations.

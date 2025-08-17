@@ -1,0 +1,2 @@
+SimpleLanguageTransformRandomTest acts as a publisher for observer Service, which tests Simple Transform, which creates Route Builder.
+SimpleLanguageTransformRandomTest acts as a publisher for observer CamelContext, which tests Simple Transform, which creates Route Builder.

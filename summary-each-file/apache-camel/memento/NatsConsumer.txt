@@ -1,0 +1,2 @@
+NatsConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which is Active, which sets boolean parameter of active Active, which runs, which ons Message parameter of msg Message.
+NatsConsumer acts as a caretaker for memento Configuration, which gets Endpoint, which does Start, which does Stop, which is Active, which sets boolean parameter of active Active, which runs, which ons Message parameter of msg Message.

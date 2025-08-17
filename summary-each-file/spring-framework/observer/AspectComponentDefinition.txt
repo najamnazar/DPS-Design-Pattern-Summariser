@@ -1,0 +1,2 @@
+AspectComponentDefinition acts as an observer, which gets Bean Definitions, which gets Bean References.
+AspectComponentDefinition acts as a publisher for observer ComponentDefinition, which gets Bean Definitions, which gets Bean References.

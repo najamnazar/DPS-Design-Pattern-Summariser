@@ -1,0 +1,1 @@
+RecoveredStatement acts as an observer for publisher RecoveredBlock, which is inherited by RecoveredLocalVariable, RecoveredBlock, RecoveredType, which parses Tree, which sources End, which tos int parameter of tab String, which updates Statement, which updates Parse Tree, which updates int parameter of bodyStart, int parameter of bodyEnd Source End If Necessary.

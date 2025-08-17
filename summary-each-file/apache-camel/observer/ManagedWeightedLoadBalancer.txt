@@ -1,0 +1,1 @@
+ManagedWeightedLoadBalancer acts as a publisher for observer Route, which gets Size, which gets Definition, which gets Round Robin, which gets Distribution Ratio, which gets Distribution Ratio Delimiter, which gets Last Chosen Processor Id.

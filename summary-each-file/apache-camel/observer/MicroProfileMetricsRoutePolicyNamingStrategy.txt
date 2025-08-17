@@ -1,0 +1,2 @@
+MicroProfileMetricsRoutePolicyNamingStrategy acts as an observer for publisher MicroProfileMetricsRoutePolicy, which is inherited by, which gets Route parameter of route Name, which gets Route parameter of route Tags.
+MicroProfileMetricsRoutePolicyNamingStrategy acts as a publisher for observer Route, which is inherited by, which gets Route parameter of route Name, which gets Route parameter of route Tags.

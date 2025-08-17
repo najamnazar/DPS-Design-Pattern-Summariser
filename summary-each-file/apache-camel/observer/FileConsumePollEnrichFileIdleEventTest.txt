@@ -1,0 +1,2 @@
+FileConsumePollEnrichFileIdleEventTest acts as a publisher for observer Service, which tests Non Empty After Empty, which tests Poll Empty Enrich, which creates Route Builder.
+FileConsumePollEnrichFileIdleEventTest acts as a publisher for observer CamelContext, which tests Non Empty After Empty, which tests Poll Empty Enrich, which creates Route Builder.

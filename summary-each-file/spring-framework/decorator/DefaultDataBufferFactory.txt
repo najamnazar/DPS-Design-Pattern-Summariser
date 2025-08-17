@@ -1,0 +1,1 @@
+DefaultDataBufferFactory acts as a component for decorator LeakAwareDataBufferFactory.

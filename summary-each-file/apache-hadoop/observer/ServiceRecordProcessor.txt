@@ -1,0 +1,1 @@
+ServiceRecordProcessor acts as a publisher for observer ServiceRecord, which is inherited by BaseServiceRecordProcessor, which inits ServiceRecord parameter of serviceRecord Type To Info Mapping, which gets Record Types, which manages RegistryDNS.RegistryCommand parameter of command DNSRecords.

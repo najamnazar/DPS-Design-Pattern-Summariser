@@ -1,0 +1,1 @@
+JMXHandbackTest acts as a caretaker for memento Context, which sets Up, which tests, which builds From URI, which inits Registry.

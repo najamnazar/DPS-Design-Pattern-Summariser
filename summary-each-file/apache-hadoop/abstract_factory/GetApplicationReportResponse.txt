@@ -1,0 +1,1 @@
+GetApplicationReportResponse acts as an abstract product for GetApplicationReportResponse, which is inherited by GetApplicationReportResponsePBImpl.

@@ -1,0 +1,1 @@
+TransactionAttributeSource acts as an adaptee for adapter TransactionalTestExecutionListener, which adapts to AbstractTestExecutionListener, which adapts to AbstractTestExecutionListener.

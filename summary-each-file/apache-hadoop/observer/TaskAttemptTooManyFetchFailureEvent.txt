@@ -1,0 +1,1 @@
+TaskAttemptTooManyFetchFailureEvent acts as an observer, which gets Reduce Id, which gets Reduce Host.

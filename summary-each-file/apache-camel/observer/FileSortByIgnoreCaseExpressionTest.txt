@@ -1,0 +1,2 @@
+FileSortByIgnoreCaseExpressionTest acts as a publisher for observer Service, which prepares String parameter of folder Folder, which tests Sort Files By Name With Case, which tests Sort Files By Name No Case, which tests Sort Files By Name No Case Reverse.
+FileSortByIgnoreCaseExpressionTest acts as a publisher for observer CamelContext, which prepares String parameter of folder Folder, which tests Sort Files By Name With Case, which tests Sort Files By Name No Case, which tests Sort Files By Name No Case Reverse.

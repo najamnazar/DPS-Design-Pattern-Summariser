@@ -1,0 +1,3 @@
+HandshakeInfo acts as a caretaker for memento Headers, which gets Uri, which gets Headers, which gets Cookies, which gets Principal, which gets Sub Protocol, which gets Remote Address, which gets Attributes, which gets Log Prefix, which tos String.
+HandshakeInfo acts as a caretaker for memento A, which gets Uri, which gets Headers, which gets Cookies, which gets Principal, which gets Sub Protocol, which gets Remote Address, which gets Attributes, which gets Log Prefix, which tos String.
+HandshakeInfo acts as a caretaker for memento C, which gets Uri, which gets Headers, which gets Cookies, which gets Principal, which gets Sub Protocol, which gets Remote Address, which gets Attributes, which gets Log Prefix, which tos String.

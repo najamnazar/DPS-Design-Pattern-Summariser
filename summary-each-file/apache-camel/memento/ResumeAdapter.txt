@@ -1,0 +1,1 @@
+ResumeAdapter acts as a memento, which is inherited by EntryFilter, FileResumeAdapter, ResumeActionAware, KinesisResumeAdapter, KafkaResumeAdapter, which resumes.

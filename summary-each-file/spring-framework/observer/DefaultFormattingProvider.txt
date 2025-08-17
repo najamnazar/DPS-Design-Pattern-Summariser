@@ -1,0 +1,1 @@
+DefaultFormattingProvider acts as an observer, which txts Format, which csvs Format, which jsons Format For Results, which jsons Format For Records, which xmls Format For Results, which xmls Format For Records, which charts Format, which widthes String parameter of string.

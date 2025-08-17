@@ -1,0 +1,1 @@
+NettyHttpComponent acts as a factory method for HttpServerConsumerChannelFactory, which is inherited by NettySharedHttpServer.

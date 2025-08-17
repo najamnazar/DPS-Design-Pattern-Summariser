@@ -1,0 +1,2 @@
+AggregatorAndOnExceptionTest acts as a caretaker for memento Context, which tests Aggregate And On Exception, which creates Route Builder.
+AggregatorAndOnExceptionTest acts as a caretaker for memento Producer, which tests Aggregate And On Exception, which creates Route Builder.

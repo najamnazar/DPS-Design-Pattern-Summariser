@@ -1,0 +1,2 @@
+AWS2EC2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Ec2Client.
+AWS2EC2ClientStandardImpl acts as a memento, which gets Ec2Client.

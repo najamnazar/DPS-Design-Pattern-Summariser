@@ -1,0 +1,1 @@
+JsonSchemaLoader acts as an observer for publisher JsonValidatorEndpoint, which is inherited by DefaultJsonSchemaLoader, which creates CamelContext parameter of camelContext, InputStream parameter of inputStream Schema.

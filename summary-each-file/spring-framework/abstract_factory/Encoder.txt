@@ -1,0 +1,1 @@
+Encoder acts as an abstract factory for DataBuffer, which is inherited by.

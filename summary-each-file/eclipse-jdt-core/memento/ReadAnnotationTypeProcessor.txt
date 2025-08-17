@@ -1,0 +1,2 @@
+ReadAnnotationTypeProcessor acts as a caretaker for memento AnnotationType, which processes.
+ReadAnnotationTypeProcessor acts as a caretaker for memento E, which processes.

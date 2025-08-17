@@ -1,0 +1,1 @@
+ASTStructuralPropertyTest acts as a caretaker for memento S, which suites, which sets Up, which tears Down, which gets Name, which tests Location In Parent, which tests Structural Properties, which tests Protect, which tests Delete, which tests Create Instance, which tests Node Class For Type.

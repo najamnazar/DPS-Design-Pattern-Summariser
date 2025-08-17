@@ -1,0 +1,1 @@
+EhcacheAggregationRepositoryRoutesTest acts as a caretaker for memento Producer, which checks Aggregation From One Route, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which creates Route Builder.

@@ -1,0 +1,1 @@
+ServiceDiscoveryAware acts as a publisher for observer ServiceDiscovery, which is inherited by DefaultServiceLoadBalancer, which sets ServiceDiscovery parameter of serviceDiscovery Service Discovery, which gets Service Discovery.

@@ -1,0 +1,1 @@
+TestProfileServlet acts as a publisher for observer URL, which setups, which cleanups, which tests Query.

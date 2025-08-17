@@ -1,0 +1,2 @@
+RouteTemplateDuplicateIdIssueTest acts as a publisher for observer CamelContext, which is Use Route Builder, which shoulds Not Fail Due To Duplicated Node Id.
+RouteTemplateDuplicateIdIssueTest acts as a publisher for observer Service, which is Use Route Builder, which shoulds Not Fail Due To Duplicated Node Id.

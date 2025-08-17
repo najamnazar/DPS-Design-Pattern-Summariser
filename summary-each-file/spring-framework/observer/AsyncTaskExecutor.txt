@@ -1,0 +1,2 @@
+AsyncTaskExecutor acts as an observer, which executes Runnable parameter of task, long parameter of startTimeout, which submits Runnable parameter of task, which submits Callable<T> parameter of task.
+AsyncTaskExecutor acts as an observer for publisher RequestMappingHandlerAdapter, which is inherited by AsyncListenableTaskExecutor, SchedulingTaskExecutor, which executes Runnable parameter of task, long parameter of startTimeout, which submits Runnable parameter of task, which submits Callable<T> parameter of task.

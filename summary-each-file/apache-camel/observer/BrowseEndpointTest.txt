@@ -1,0 +1,2 @@
+BrowseEndpointTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Browse Endpoint Default Constructor, which tests Browse Endpoint Uri Constructor.
+BrowseEndpointTest acts as a publisher for observer Service, which is Use Route Builder, which tests Browse Endpoint Default Constructor, which tests Browse Endpoint Uri Constructor.

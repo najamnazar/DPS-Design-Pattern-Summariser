@@ -1,0 +1,2 @@
+TaskAttemptContext acts as an abstract product for MapReduceTestUtil, which is inherited by TaskAttemptContextImpl.
+TaskAttemptContext acts as a factory for Options, which overrides.

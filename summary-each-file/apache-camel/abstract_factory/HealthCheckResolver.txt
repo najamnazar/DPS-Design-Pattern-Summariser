@@ -1,0 +1,2 @@
+HealthCheckResolver acts as an abstract factory for HealthCheckRepository, HealthCheck, which is inherited by DefaultHealthCheckResolver.
+HealthCheckResolver acts as an abstract product for HealthCheckResolver, which is inherited by DefaultHealthCheckResolver.

@@ -1,0 +1,15 @@
+JmsServiceExtension acts as an adaptee for adapter JmsPollEnrichTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsHttpJmsTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsIntegrationTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter HttpAsyncDslTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter NettyAsyncRequestReplyTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsJettyAsyncTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsHttpPostIssueTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter RemoveEndpointsTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsHttpPostIssueWithMockTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsValidatorTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsResequencerTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsJaxbTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter JmsPerformanceTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter ShiroOverJmsTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+JmsServiceExtension acts as an adaptee for adapter DynamicRouteTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

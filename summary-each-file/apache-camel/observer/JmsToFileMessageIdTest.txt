@@ -1,0 +1,1 @@
+JmsToFileMessageIdTest acts as a publisher for observer ArtemisService, which tests From Jms To File And Message Id, which gets Component Name, which creates Route Builder.

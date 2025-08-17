@@ -1,0 +1,1 @@
+CustomizableThreadFactory acts as a target for adapter DefaultManagedAwareThreadFactory, which adapts to CustomizableThreadFactory.

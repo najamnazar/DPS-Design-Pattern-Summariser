@@ -1,0 +1,1 @@
+MockS3ClientFactory acts as a product for CSES3AFileSystemOperations, which overrides createS3TransferManager method of S3ClientFactory.

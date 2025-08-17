@@ -1,0 +1,1 @@
+TransactionContext acts as an observer for publisher TransactionContextHolder, which is inherited by DefaultTransactionContext, which gets Transaction Status, which is Flagged For Rollback, which sets boolean parameter of flaggedForRollback Flagged For Rollback, which starts Transaction, which ends Transaction.

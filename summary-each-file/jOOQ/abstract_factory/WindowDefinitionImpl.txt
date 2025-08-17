@@ -1,0 +1,3 @@
+WindowDefinitionImpl acts as a product for Name, which overrides $name method of WindowDefinition, $windowSpecification method of WindowDefinition.
+WindowDefinitionImpl acts as a product for WindowSpecification, which overrides $name method of WindowDefinition, $windowSpecification method of WindowDefinition.
+WindowDefinitionImpl acts as a factory for WindowDefinition, which overrides $name method of WindowDefinition, $windowSpecification method of WindowDefinition.

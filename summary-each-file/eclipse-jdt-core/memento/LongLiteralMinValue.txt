@@ -1,0 +1,1 @@
+LongLiteralMinValue acts as a caretaker for memento C, which computes Constant.

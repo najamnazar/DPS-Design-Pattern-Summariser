@@ -1,0 +1,1 @@
+DefaultPeriodTaskResolver acts as an observer, which news String parameter of key Instance, which news String parameter of key, Class<T> parameter of type Instance.

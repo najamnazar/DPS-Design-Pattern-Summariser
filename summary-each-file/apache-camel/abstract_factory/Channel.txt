@@ -1,0 +1,4 @@
+Channel acts as an abstract product for Channel, which is inherited by DefaultChannel.
+Channel acts as a product for InternalProcessorFactory, which overrides.
+Channel acts as a product for AnnotationBasedProcessorFactory, which overrides.
+Channel acts as an abstract factory for Processor, Route, which is inherited by DefaultChannel.

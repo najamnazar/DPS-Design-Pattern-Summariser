@@ -1,0 +1,2 @@
+RouterCLI acts as a product for TestGetGroupsWithHA, which overrides run method of Tool.
+RouterCLI acts as a factory method for ResourceManagerAdministrationProtocol, which is inherited by FederationRMAdminInterceptor.

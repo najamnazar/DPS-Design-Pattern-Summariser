@@ -1,0 +1,1 @@
+GetTaskAttemptReportRequestPBImpl acts as a factory for GetTaskAttemptReportRequest, which overrides getTaskAttemptId method of GetTaskAttemptReportRequest, setTaskAttemptId method of GetTaskAttemptReportRequest.

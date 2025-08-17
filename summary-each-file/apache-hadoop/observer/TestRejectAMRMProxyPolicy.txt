@@ -1,0 +1,6 @@
+TestRejectAMRMProxyPolicy acts as a publisher for observer ReservationSubmissionRequest, which sets Up, which tests Split Allocate Request.
+TestRejectAMRMProxyPolicy acts as a publisher for observer SubClusterId, which sets Up, which tests Split Allocate Request.
+TestRejectAMRMProxyPolicy acts as a publisher for observer FederationPolicyInitializationContext, which sets Up, which tests Split Allocate Request.
+TestRejectAMRMProxyPolicy acts as a publisher for observer ConfigurableFederationPolicy, which sets Up, which tests Split Allocate Request.
+TestRejectAMRMProxyPolicy acts as a publisher for observer ApplicationSubmissionContext, which sets Up, which tests Split Allocate Request.
+TestRejectAMRMProxyPolicy acts as a publisher for observer WeightedPolicyInfo, which sets Up, which tests Split Allocate Request.

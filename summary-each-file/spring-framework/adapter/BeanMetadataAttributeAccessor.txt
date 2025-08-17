@@ -1,0 +1,1 @@
+BeanMetadataAttributeAccessor acts as an adapter, which adapts to AttributeAccessorSupport, which adapts to AttributeAccessorSupport, which adapts to AttributeAccessorSupport, which adapts to AttributeAccessorSupport, which adapts to AttributeAccessorSupport, which adapts to AttributeAccessorSupport, which adapts to AttributeAccessorSupport.

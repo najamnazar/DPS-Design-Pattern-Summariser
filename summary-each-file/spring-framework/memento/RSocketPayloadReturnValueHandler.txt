@@ -1,0 +1,1 @@
+RSocketPayloadReturnValueHandler acts as a caretaker for memento A, which handles Flux<DataBuffer> parameter of encodedContent, MethodParameter parameter of returnType, Message<?> parameter of message Encoded Content, which handles MethodParameter parameter of returnType, Message<?> parameter of message No Content, which gets Message<?> parameter of message Response Reference.

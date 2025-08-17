@@ -1,0 +1,2 @@
+AggregatorExceptionTest acts as a publisher for observer CamelContext, which tests Aggregate And On Exception, which creates Route Builder.
+AggregatorExceptionTest acts as a publisher for observer Service, which tests Aggregate And On Exception, which creates Route Builder.

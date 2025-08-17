@@ -1,0 +1,1 @@
+ResultInterceptor acts as an adaptee for adapter AbstractApiConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

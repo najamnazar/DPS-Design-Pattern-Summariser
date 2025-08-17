@@ -1,0 +1,1 @@
+ClientAMProtocol acts as an adaptee for adapter ClientAMService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

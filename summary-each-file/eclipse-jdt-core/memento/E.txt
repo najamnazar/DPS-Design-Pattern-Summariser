@@ -1,0 +1,1 @@
+E acts as a memento, which foos.

@@ -1,0 +1,1 @@
+JSONTableColumnsFirstStep acts as an abstract factory for JSONTableColumnPathStep, JSONTableColumnForOrdinalityStep, which is inherited by.

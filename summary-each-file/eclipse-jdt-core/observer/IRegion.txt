@@ -1,0 +1,2 @@
+IRegion acts as an observer for publisher JavaEditor, which is inherited by Region, which adds IJavaElement parameter of element, which contains IJavaElement parameter of element, which gets Elements, which removes IJavaElement parameter of element.
+IRegion acts as a publisher for observer IJavaElement, which is inherited by Region, which adds IJavaElement parameter of element, which contains IJavaElement parameter of element, which gets Elements, which removes IJavaElement parameter of element.

@@ -1,0 +1,2 @@
+FilterBeanLanguageNonRegistryTest acts as a publisher for observer CamelContext, which tests Bean Language Exp, which creates Route Builder, which is String parameter of name Gold Customer.
+FilterBeanLanguageNonRegistryTest acts as a publisher for observer Service, which tests Bean Language Exp, which creates Route Builder, which is String parameter of name Gold Customer.

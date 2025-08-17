@@ -1,0 +1,2 @@
+RouteTemplateModelLifecycleTest acts as a publisher for observer Service, which is Use Route Builder, which tests Model Lifecycle, which tests Model Lifecycle Via Handler.
+RouteTemplateModelLifecycleTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Model Lifecycle, which tests Model Lifecycle Via Handler.

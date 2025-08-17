@@ -1,0 +1,5 @@
+IJavaProject acts as a factory for ClasspathEntry, which overrides.
+IJavaProject acts as a factory for CreateTypeHierarchyOperation, which overrides.
+IJavaProject acts as a factory for FullSourceWorkspaceTests, which overrides.
+IJavaProject acts as an abstract product for ASTRewritingTest, which is inherited by JavaProject.
+IJavaProject acts as a factory for JavaProject, which overrides.

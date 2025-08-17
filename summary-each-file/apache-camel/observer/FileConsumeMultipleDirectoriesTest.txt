@@ -1,0 +1,2 @@
+FileConsumeMultipleDirectoriesTest acts as a publisher for observer CamelContext, which tests Multi Dir, which creates Route Builder.
+FileConsumeMultipleDirectoriesTest acts as a publisher for observer Service, which tests Multi Dir, which creates Route Builder.

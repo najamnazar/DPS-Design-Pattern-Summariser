@@ -1,0 +1,2 @@
+JPAConverter acts as a caretaker for memento C, which froms Class<? parameter of extends Type, which tos Class<? parameter of extends Type, which froms T parameter of t, which tos U parameter of u.
+JPAConverter acts as a caretaker for memento A, which froms Class<? parameter of extends Type, which tos Class<? parameter of extends Type, which froms T parameter of t, which tos U parameter of u.

@@ -1,0 +1,4 @@
+Requestor acts as a caretaker for memento R, which accepts CompilationResult parameter of compilationResult Result, which outputs CompilationResult parameter of unitResult Class Files.
+Requestor acts as a caretaker for memento String, which accepts CompilationResult parameter of compilationResult Result, which outputs CompilationResult parameter of unitResult Class Files.
+Requestor acts as a caretaker for memento S, which accepts CompilationResult parameter of compilationResult Result, which outputs CompilationResult parameter of unitResult Class Files.
+Requestor acts as a caretaker for memento C, which accepts CompilationResult parameter of compilationResult Result, which outputs CompilationResult parameter of unitResult Class Files.

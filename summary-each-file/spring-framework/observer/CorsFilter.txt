@@ -1,0 +1,1 @@
+CorsFilter acts as a publisher for observer CorsProcessor, which is inherited by, which sets CorsProcessor parameter of processor Cors Processor, which does HttpServletRequest parameter of request, HttpServletResponse parameter of response, FilterChain parameter of filterChain Filter Internal.

@@ -1,0 +1,1 @@
+IElementChangedListener acts as an observer for publisher DeltaProcessingState, which is inherited by WorkingCopyCleanupListener, TypeHierarchy, which elements ElementChangedEvent parameter of event Changed.

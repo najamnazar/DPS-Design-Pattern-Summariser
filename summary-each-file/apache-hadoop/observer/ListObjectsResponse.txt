@@ -1,0 +1,1 @@
+ListObjectsResponse acts as an observer for publisher S3ListResult, which is inherited by, which objects, which commons Prefixes.

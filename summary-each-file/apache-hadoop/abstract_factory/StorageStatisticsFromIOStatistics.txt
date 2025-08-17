@@ -1,0 +1,1 @@
+StorageStatisticsFromIOStatistics acts as a product for GlobalStorageStatistics, which overrides getLongStatistics method of StorageStatistics, reset method of StorageStatistics, getScheme method of StorageStatistics.

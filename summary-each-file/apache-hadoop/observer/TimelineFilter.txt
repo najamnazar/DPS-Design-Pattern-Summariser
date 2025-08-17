@@ -1,0 +1,1 @@
+TimelineFilter acts as an observer for publisher TimelineFilterList, which is inherited by TimelineKeyValuesFilter, TimelineFilterList, TimelineCompareFilter, TimelinePrefixFilter, TimelineExistsFilter, which gets Filter Type, which tos String.

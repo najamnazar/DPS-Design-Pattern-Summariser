@@ -1,0 +1,1 @@
+TypeKind acts as a memento, which is Primitive.

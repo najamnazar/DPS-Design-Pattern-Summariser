@@ -1,0 +1,2 @@
+ThrowExceptionMessageTest acts as a publisher for observer CamelContext, which tests Throw Exception Message, which creates Route Builder.
+ThrowExceptionMessageTest acts as a publisher for observer Service, which tests Throw Exception Message, which creates Route Builder.

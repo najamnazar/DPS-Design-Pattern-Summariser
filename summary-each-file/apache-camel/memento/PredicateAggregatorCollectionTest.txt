@@ -1,0 +1,2 @@
+PredicateAggregatorCollectionTest acts as a caretaker for memento Context, which tests Predicate Aggregate Collection, which creates Route Builder.
+PredicateAggregatorCollectionTest acts as a caretaker for memento Producer, which tests Predicate Aggregate Collection, which creates Route Builder.

@@ -1,0 +1,10 @@
+HttpResource acts as a product for Resource, which overrides.
+HttpResource acts as a product for ResourceLoader, which overrides.
+HttpResource acts as an abstract factory for HttpHeaders, which is inherited by.
+HttpResource acts as a product for ResourceResolverChain, which overrides.
+HttpResource acts as a product for MultipartFile, which overrides.
+HttpResource acts as a product for ResourceTransformer, which overrides.
+HttpResource acts as a product for ResourceResolver, which overrides.
+HttpResource acts as a product for ProtocolResolver, which overrides.
+HttpResource acts as a product for ResourceTransformerChain, which overrides.
+HttpResource acts as a product for MetadataReader, which overrides.

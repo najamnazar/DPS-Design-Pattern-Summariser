@@ -1,0 +1,1 @@
+LifecycleTestBean acts as an observer, which gets Start Order, which gets Stop Order, which is Running, which starts, which stops.

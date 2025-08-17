@@ -1,0 +1,1 @@
+MultipartUploader acts as an adaptee for adapter AbstractContractMultipartUploaderTest, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase.

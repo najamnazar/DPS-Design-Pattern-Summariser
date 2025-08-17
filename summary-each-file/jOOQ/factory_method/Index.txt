@@ -1,0 +1,2 @@
+Index acts as a factory for ConstraintImpl, which overrides.
+Index acts as an abstract product for CreateIndexImpl, which is inherited by IndexImpl.

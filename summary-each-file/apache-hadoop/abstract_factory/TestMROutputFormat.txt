@@ -1,0 +1,4 @@
+TestMROutputFormat acts as a product for Reporter, which overrides getLength method of InputSplit, getLocations method of InputSplit.
+TestMROutputFormat acts as a product for MapContext, which overrides getLength method of InputSplit, getLocations method of InputSplit.
+TestMROutputFormat acts as a factory for Configurable, which overrides getConf method of Configurable, setConf method of Configurable.
+TestMROutputFormat acts as a product for WritableFactory, which overrides readFields method of Writable, write method of Writable.

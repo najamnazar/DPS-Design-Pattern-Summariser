@@ -1,0 +1,1 @@
+BeanFactoryDestinationResolver acts as a caretaker for memento B, which sets BeanFactory parameter of beanFactory Bean Factory, which resolves @Nullable parameter of Session, String parameter of destinationName, boolean parameter of pubSubDomain Destination Name.

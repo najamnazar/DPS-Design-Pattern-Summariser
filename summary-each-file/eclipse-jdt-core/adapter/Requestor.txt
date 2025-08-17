@@ -1,0 +1,2 @@
+Requestor acts as an adapter, which adapts to ICompilerRequestor, which adapts outputClassFiles method of Hashtable to ICompilerRequestor.
+Requestor acts as an adapter, which adapts to ICompilerRequestor, which adapts outputClassFiles method of String to ICompilerRequestor.

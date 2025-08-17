@@ -1,0 +1,1 @@
+WordList acts as a product for StagingPart, which overrides getName method of State, isUpdated method of State, setName method of State.

@@ -1,0 +1,2 @@
+RefreshSuperUserGroupsConfigurationRequest acts as an originator for memento RefreshSuperUserGroupsConfigurationRequest, which is inherited by, which news a RefreshSuperUserGroupsConfigurationRequest Instance to.
+RefreshSuperUserGroupsConfigurationRequest acts as a memento, which is inherited by RefreshSuperUserGroupsConfigurationRequestPBImpl, which news Instance.

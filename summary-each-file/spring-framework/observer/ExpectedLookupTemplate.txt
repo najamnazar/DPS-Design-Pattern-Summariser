@@ -1,0 +1,1 @@
+ExpectedLookupTemplate acts as an observer, which adds String parameter of name, Object parameter of object Object, which lookups String parameter of name.

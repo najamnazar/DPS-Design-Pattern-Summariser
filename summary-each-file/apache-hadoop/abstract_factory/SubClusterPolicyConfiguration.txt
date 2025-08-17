@@ -1,0 +1,1 @@
+SubClusterPolicyConfiguration acts as an abstract product for SubClusterPolicyConfiguration, which is inherited by SubClusterPolicyConfigurationPBImpl.

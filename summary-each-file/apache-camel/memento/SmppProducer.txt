@@ -1,0 +1,1 @@
+SmppProducer acts as a caretaker for memento Configuration, which does Start, which creates Session, which creates SMPPSession, which processes Exchange parameter of exchange, which does Stop, which closes Session, which reconnects final parameter of long, which does Reconnect, which tries Create Session, which gets Endpoint, which gets Configuration, which tos String.

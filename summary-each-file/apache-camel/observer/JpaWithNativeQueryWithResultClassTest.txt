@@ -1,0 +1,1 @@
+JpaWithNativeQueryWithResultClassTest acts as a publisher for observer Exchange, which asserts Exchange parameter of exchange Received Result, which gets Updated Step Value, which asserts JpaConsumer parameter of jpaConsumer URIQuery Option, which gets Endpoint Uri.

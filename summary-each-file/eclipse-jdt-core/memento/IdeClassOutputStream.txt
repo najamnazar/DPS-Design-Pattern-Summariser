@@ -1,0 +1,1 @@
+IdeClassOutputStream acts as a caretaker for memento E, which closes.

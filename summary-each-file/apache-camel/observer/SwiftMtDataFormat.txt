@@ -1,0 +1,2 @@
+SwiftMtDataFormat acts as a publisher for observer DataFormat, which gets Write In Json, which sets String parameter of writeInJson Write In Json, which writes String parameter of writeInJson In Json, which writes boolean parameter of writeInJson In Json, which ends.
+SwiftMtDataFormat acts as an observer, which gets Write In Json, which sets String parameter of writeInJson Write In Json, which writes String parameter of writeInJson In Json, which writes boolean parameter of writeInJson In Json, which ends.

@@ -1,0 +1,3 @@
+NullSafeComparator acts as a caretaker for memento Null, which compares @Nullable parameter of T, @Nullable parameter of T, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+NullSafeComparator acts as a caretaker for memento Comparator, which compares @Nullable parameter of T, @Nullable parameter of T, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+NullSafeComparator acts as a caretaker for memento C, which compares @Nullable parameter of T, @Nullable parameter of T, which equals @Nullable parameter of Object, which hashes Code, which tos String.

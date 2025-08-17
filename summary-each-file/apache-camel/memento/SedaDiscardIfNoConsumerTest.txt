@@ -1,0 +1,2 @@
+SedaDiscardIfNoConsumerTest acts as a caretaker for memento Context, which tests Discard, which tests Discard Uo W, which creates Route Builder, which ons Exchange parameter of exchange Done, which is Called.
+SedaDiscardIfNoConsumerTest acts as a caretaker for memento Producer, which tests Discard, which tests Discard Uo W, which creates Route Builder, which ons Exchange parameter of exchange Done, which is Called.

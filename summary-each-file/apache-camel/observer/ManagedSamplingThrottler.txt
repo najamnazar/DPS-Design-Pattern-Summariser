@@ -1,0 +1,1 @@
+ManagedSamplingThrottler acts as a publisher for observer Route, which gets Sample Period, which gets Message Frequency, which gets Time Unit.

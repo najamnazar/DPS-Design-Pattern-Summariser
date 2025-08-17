@@ -1,0 +1,1 @@
+AS2SignatureAlgorithm acts as an observer for publisher AS2Configuration, AS2ServerManagerEndpointConfiguration, AS2ClientManagerEndpointConfiguration, which is inherited by, which gets Signature Algorithm, which gets Signature Algorithm Name, which gets Digest Algorithm Name, which gets Encryption Algorithm Name.

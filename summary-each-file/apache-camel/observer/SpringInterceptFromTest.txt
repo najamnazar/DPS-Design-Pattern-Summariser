@@ -1,0 +1,2 @@
+SpringInterceptFromTest acts as a publisher for observer CamelContext, which tests Set Interceptor, which creates Camel Context.
+SpringInterceptFromTest acts as a publisher for observer Service, which tests Set Interceptor, which creates Camel Context.

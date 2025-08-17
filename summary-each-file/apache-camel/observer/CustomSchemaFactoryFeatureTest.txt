@@ -1,0 +1,2 @@
+CustomSchemaFactoryFeatureTest acts as a publisher for observer Service, which creates Registry, which tests Custom Schema Factory.
+CustomSchemaFactoryFeatureTest acts as a publisher for observer CamelContext, which creates Registry, which tests Custom Schema Factory.

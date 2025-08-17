@@ -1,0 +1,1 @@
+BinaryFileOutputStream acts as a target for adapter EncodedFileOutputStream, which adapts close method of String to BinaryFileOutputStream.

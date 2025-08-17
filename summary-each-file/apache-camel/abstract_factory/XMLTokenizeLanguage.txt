@@ -1,0 +1,2 @@
+XMLTokenizeLanguage acts as a product for ConfigurerResolver, which overrides configure method of PropertyConfigurer.
+XMLTokenizeLanguage acts as a product for PropertyConfigurerAware, which overrides configure method of PropertyConfigurer.

@@ -1,0 +1,2 @@
+FtpsOperations acts as a publisher for observer RemoteFileConfiguration, which connects RemoteFileConfiguration parameter of configuration, Exchange parameter of exchange, which gets Ftp Client.
+FtpsOperations acts as a publisher for observer FtpClientActivityListener, which connects RemoteFileConfiguration parameter of configuration, Exchange parameter of exchange, which gets Ftp Client.

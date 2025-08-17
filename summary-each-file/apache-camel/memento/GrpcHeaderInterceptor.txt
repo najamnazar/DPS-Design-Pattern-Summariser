@@ -1,0 +1,1 @@
+GrpcHeaderInterceptor acts as a caretaker for memento Context, which intercepts ServerCall<ReqT, parameter of RespT>, Metadata parameter of requestHeaders, ServerCallHandler<ReqT, parameter of RespT> Call.

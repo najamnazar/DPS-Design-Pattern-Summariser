@@ -1,0 +1,1 @@
+CommitResponse acts as an abstract product for CommitResponse, which is inherited by CommitResponsePBImpl.

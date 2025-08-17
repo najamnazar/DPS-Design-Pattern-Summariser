@@ -1,0 +1,1 @@
+ManagedChoiceMBean acts as an adaptee for adapter ManagedChoice, which adapts to ManagedProcessor.

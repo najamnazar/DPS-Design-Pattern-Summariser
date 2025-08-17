@@ -1,0 +1,1 @@
+SimpleTheme acts as an observer, which gets Name, which gets Message Source.

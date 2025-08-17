@@ -1,0 +1,1 @@
+SplitCompressionInputStream acts as a product for CompressionCodec, which overrides.

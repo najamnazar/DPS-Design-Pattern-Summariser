@@ -1,0 +1,2 @@
+TestContext acts as an abstract product for TestContext, which is inherited by DefaultTestContext.
+TestContext acts as an abstract factory for ApplicationContext, which is inherited by DefaultTestContext.

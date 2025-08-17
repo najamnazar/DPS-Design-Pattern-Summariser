@@ -1,0 +1,2 @@
+AbstractITCommitProtocol acts as a factory for StagingTestBase, which overrides.
+AbstractITCommitProtocol acts as a factory for MapReduceTestUtil, which overrides.

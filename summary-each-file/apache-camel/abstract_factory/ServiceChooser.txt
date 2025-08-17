@@ -1,0 +1,2 @@
+ServiceChooser acts as an abstract factory for ServiceDefinition, which is inherited by RandomServiceChooser, RoundRobinServiceChooser.
+ServiceChooser acts as an abstract product for ServiceChooser, which is inherited by RandomServiceChooser, RoundRobinServiceChooser.

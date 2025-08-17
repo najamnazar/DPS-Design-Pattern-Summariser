@@ -1,0 +1,2 @@
+File acts as an originator for memento ContentType, which is inherited by, which types ContentType.
+File acts as a memento, which is inherited by FileImpl, which types, which types, which types, which types.

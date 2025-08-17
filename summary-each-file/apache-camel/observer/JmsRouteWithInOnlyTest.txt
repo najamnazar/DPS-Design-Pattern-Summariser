@@ -1,0 +1,1 @@
+JmsRouteWithInOnlyTest acts as a publisher for observer ArtemisService, which tests Send Order, which gets Component Name, which creates Route Builder, which handles String parameter of body Order.

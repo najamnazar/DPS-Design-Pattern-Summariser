@@ -1,0 +1,1 @@
+FieldReferenceMatch acts as a publisher for observer IJavaElement, which is Read Access, which is Write Access.

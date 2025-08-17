@@ -1,0 +1,2 @@
+FutureDataInputStreamBuilder acts as an abstract product for FutureDataInputStreamBuilder, which is inherited by FutureDataInputStreamBuilderImpl.
+FutureDataInputStreamBuilder acts as an abstract factory for FutureDataInputStreamBuilder, which is inherited by FutureDataInputStreamBuilderImpl.

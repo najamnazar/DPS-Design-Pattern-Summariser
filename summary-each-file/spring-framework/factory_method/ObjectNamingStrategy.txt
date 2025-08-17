@@ -1,0 +1,1 @@
+ObjectNamingStrategy acts as an abstract product for PropertiesFileNamingStrategyTests, which is inherited by KeyNamingStrategy, MetadataNamingStrategy, IdentityNamingStrategy.

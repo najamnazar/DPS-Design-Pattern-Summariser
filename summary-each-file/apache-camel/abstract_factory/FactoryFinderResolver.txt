@@ -1,0 +1,2 @@
+FactoryFinderResolver acts as an abstract product for FactoryFinderResolver, which is inherited by DefaultFactoryFinderResolver.
+FactoryFinderResolver acts as an abstract factory for FactoryFinder, which is inherited by DefaultFactoryFinderResolver.

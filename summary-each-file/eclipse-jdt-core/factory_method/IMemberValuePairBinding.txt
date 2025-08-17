@@ -1,0 +1,1 @@
+IMemberValuePairBinding acts as an abstract product for DefaultBindingResolver, which is inherited by MemberValuePairBinding.

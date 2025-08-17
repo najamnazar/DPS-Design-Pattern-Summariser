@@ -1,0 +1,11 @@
+ExecutableType acts as a product for TypeElement, which overrides.
+ExecutableType acts as a product for ExecutableElement, which overrides.
+ExecutableType acts as a product for ModuleElement, which overrides.
+ExecutableType acts as a product for ExecutableType, which overrides.
+ExecutableType acts as a product for ParameterDeclaration, which overrides.
+ExecutableType acts as a product for Types, which overrides.
+ExecutableType acts as a product for PackageElement, which overrides.
+ExecutableType acts as a product for VariableElement, which overrides.
+ExecutableType acts as a product for TypeParameterElement, which overrides.
+ExecutableType acts as a product for Element, which overrides.
+ExecutableType acts as an abstract factory for TypeMirror, which is inherited by ExecutableTypeImpl.

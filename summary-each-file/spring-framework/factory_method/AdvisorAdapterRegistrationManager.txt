@@ -1,0 +1,1 @@
+AdvisorAdapterRegistrationManager acts as a product for AbstractBeanFactory, which overrides postProcessBeforeInitialization method of BeanPostProcessor, postProcessAfterInitialization method of BeanPostProcessor.

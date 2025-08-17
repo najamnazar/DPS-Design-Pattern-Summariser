@@ -1,0 +1,1 @@
+TestErasureCodingPoliciesWithRandomECPolicy acts as a publisher for observer ErasureCodingPolicy, which gets Ec Policy.

@@ -1,0 +1,1 @@
+Spr7167Tests acts as an observer, which tests, which somes Dependency, which thes Post Processor, which posts ConfigurableListableBeanFactory parameter of beanFactory Process Bean Factory.

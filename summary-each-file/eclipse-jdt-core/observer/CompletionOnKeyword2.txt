@@ -1,0 +1,1 @@
+CompletionOnKeyword2 acts as an observer, which gets Token, which gets Possible Keywords, which prints int parameter of indent, StringBuilder parameter of output, boolean parameter of withOnDemand.

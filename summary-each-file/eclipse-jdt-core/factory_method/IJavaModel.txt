@@ -1,0 +1,1 @@
+IJavaModel acts as a factory for ASTRewritingTest, which overrides.

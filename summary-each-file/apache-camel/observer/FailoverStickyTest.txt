@@ -1,0 +1,2 @@
+FailoverStickyTest acts as a publisher for observer CamelContext, which tests Failover Sticky, which creates Route Builder.
+FailoverStickyTest acts as a publisher for observer Service, which tests Failover Sticky, which creates Route Builder.

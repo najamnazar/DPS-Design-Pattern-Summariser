@@ -1,0 +1,1 @@
+WrapProcessor acts as a factory for WrapAwareProcessor, which overrides getWrapped method of WrapAwareProcessor.

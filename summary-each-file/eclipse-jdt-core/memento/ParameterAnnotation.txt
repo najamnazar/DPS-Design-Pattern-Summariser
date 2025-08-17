@@ -1,0 +1,1 @@
+ParameterAnnotation acts as a caretaker for memento IAnnotation, which sizes In Bytes, which gets Annotations, which gets Annotations Number.

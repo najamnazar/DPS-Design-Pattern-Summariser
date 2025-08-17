@@ -1,0 +1,1 @@
+IOStatisticsAggregator acts as an abstract product for IOStatisticsAggregator, which is inherited by IOStatisticsStore, IOStatisticsSnapshot.

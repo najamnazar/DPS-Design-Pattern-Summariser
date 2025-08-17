@@ -1,0 +1,1 @@
+FirebirdRoutineDefinition acts as an adaptee for adapter FirebirdTableValuedFunction, which adapts to AbstractTableDefinition.

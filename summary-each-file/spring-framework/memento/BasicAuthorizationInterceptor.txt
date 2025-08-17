@@ -1,0 +1,1 @@
+BasicAuthorizationInterceptor acts as an originator for memento ClientHttpResponse, which intercepts ClientHttpResponse.

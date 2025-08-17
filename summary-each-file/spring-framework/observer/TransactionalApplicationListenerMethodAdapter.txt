@@ -1,0 +1,2 @@
+TransactionalApplicationListenerMethodAdapter acts as a publisher for observer ApplicationContext, which gets Transaction Phase, which adds SynchronizationCallback parameter of callback Callback, which ons ApplicationEvent parameter of event Application Event.
+TransactionalApplicationListenerMethodAdapter acts as a publisher for observer ResolvableType, which gets Transaction Phase, which adds SynchronizationCallback parameter of callback Callback, which ons ApplicationEvent parameter of event Application Event.

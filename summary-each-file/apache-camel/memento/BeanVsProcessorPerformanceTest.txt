@@ -1,0 +1,2 @@
+BeanVsProcessorPerformanceTest acts as a caretaker for memento Context, which creates Registry, which tests Processor, which tests Bean, which creates Route Builder.
+BeanVsProcessorPerformanceTest acts as a caretaker for memento Producer, which creates Registry, which tests Processor, which tests Bean, which creates Route Builder.

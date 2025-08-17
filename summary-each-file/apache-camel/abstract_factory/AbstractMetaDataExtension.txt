@@ -1,0 +1,2 @@
+AbstractMetaDataExtension acts as a factory for ComponentAware, which overrides setComponent method of ComponentAware, getComponent method of ComponentAware.
+AbstractMetaDataExtension acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.

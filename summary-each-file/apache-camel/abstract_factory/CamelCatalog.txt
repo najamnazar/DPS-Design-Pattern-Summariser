@@ -1,0 +1,2 @@
+CamelCatalog acts as an abstract factory for RuntimeProvider, JSonSchemaResolver, VersionManager, SuggestionStrategy, which is inherited by DefaultCamelCatalog.
+CamelCatalog acts as an abstract product for CamelCatalog, which is inherited by DefaultCamelCatalog.

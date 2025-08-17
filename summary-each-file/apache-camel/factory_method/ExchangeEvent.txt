@@ -1,0 +1,2 @@
+ExchangeEvent acts as a factory for ExchangeEvent, which overrides.
+ExchangeEvent acts as a factory method for SynchronizedExchange, which is inherited by ExchangeEvent.

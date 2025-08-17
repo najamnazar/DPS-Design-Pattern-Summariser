@@ -1,0 +1,1 @@
+UpdateApplicationPriorityResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getApplicationPriority method of UpdateApplicationPriorityResponse, setApplicationPriority method of UpdateApplicationPriorityResponse.

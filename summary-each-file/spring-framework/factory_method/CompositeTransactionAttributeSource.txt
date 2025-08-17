@@ -1,0 +1,1 @@
+CompositeTransactionAttributeSource acts as a product for TransactionAttributeSourceAdvisor, which overrides isCandidateClass method of TransactionAttributeSource, getTransactionAttribute method of TransactionAttributeSource.

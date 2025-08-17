@@ -1,0 +1,2 @@
+ModuleCore acts as a caretaker for memento S.
+ModuleCore acts as a caretaker for memento String.

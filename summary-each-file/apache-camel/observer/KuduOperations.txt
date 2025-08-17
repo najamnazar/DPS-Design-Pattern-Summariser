@@ -1,0 +1,1 @@
+KuduOperations acts as an observer for publisher KuduEndpoint, which is inherited by.

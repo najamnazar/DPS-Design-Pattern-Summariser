@@ -1,0 +1,1 @@
+PageOrderBy acts as an observer for publisher PageSearchCriteria, which is inherited by.

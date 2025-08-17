@@ -1,0 +1,1 @@
+RabbitMQSupendResumeIT acts as a caretaker for memento Producer, which is inherited by, which creates Route Builder, which tests Suspended Resume.

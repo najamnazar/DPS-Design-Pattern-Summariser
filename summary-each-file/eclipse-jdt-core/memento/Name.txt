@@ -1,0 +1,2 @@
+Name acts as a caretaker for memento C, which is Simple Name, which is Qualified Name, which resolves Binding, which gets Fully Qualified Name, which appends StringBuilder parameter of buffer Name.
+Name acts as a caretaker for memento Binding, which is Simple Name, which is Qualified Name, which resolves Binding, which gets Fully Qualified Name, which appends StringBuilder parameter of buffer Name.

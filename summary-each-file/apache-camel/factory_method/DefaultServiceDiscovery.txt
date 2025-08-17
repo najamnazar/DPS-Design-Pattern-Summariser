@@ -1,0 +1,1 @@
+DefaultServiceDiscovery acts as a product for DefaultServiceLoadBalancer, which overrides getServices method of ServiceDiscovery.

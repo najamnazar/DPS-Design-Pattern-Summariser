@@ -1,0 +1,1 @@
+FileRouteJmsPreMoveTest acts as a publisher for observer ArtemisService, which sets Up, which tests Pre Move, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,1 @@
+JdbcBeanDefinitionReader acts as a publisher for observer JdbcTemplate, which is inherited by, which sets DataSource parameter of dataSource Data Source, which sets JdbcTemplate parameter of jdbcTemplate Jdbc Template, which loads String parameter of sql Bean Definitions.

@@ -1,0 +1,1 @@
+RequestMatchResult acts as a caretaker for memento C, which extracts Uri Template Variables.

@@ -1,0 +1,1 @@
+PrimitiveType acts as an abstract product for PrimitiveType, which is inherited by PrimitiveTypeImpl.

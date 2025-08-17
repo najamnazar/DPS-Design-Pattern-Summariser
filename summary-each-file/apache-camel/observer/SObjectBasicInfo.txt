@@ -1,0 +1,1 @@
+SObjectBasicInfo acts as a publisher for observer SObject, which is inherited by, which gets Object Describe, which sets SObject parameter of objectDescribe Object Describe, which gets Recent Items, which sets List<RecentItem> parameter of recentItems Recent Items.

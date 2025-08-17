@@ -1,0 +1,2 @@
+IJavadocContents acts as an abstract product for IJavadocContents, which is inherited by JavadocContents.
+IJavadocContents acts as an abstract factory for, which is inherited by JavadocContents.

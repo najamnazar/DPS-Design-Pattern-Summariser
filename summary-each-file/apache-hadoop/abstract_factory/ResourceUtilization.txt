@@ -1,0 +1,2 @@
+ResourceUtilization acts as an abstract product for ResourceUtilization, which is inherited by ResourceUtilizationPBImpl, ResourceUtilizationPBImpl.
+ResourceUtilization acts as an abstract product for ResourceUtilization, which is inherited by ResourceUtilizationPBImpl.

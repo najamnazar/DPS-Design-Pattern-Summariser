@@ -1,0 +1,1 @@
+AbstractConverter acts as a caretaker for memento C, which froms Type, which tos Type, which tos String.

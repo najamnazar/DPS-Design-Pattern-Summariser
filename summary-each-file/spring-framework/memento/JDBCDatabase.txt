@@ -1,0 +1,3 @@
+JDBCDatabase acts as a caretaker for memento Comparator, which gets Meta0.
+JDBCDatabase acts as a caretaker for memento Cat, which gets Meta0.
+JDBCDatabase acts as a caretaker for memento C, which gets Meta0.

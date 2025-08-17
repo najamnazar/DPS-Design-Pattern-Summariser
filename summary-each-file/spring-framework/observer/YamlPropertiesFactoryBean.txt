@@ -1,0 +1,1 @@
+YamlPropertiesFactoryBean acts as a publisher for observer Resource, which sets boolean parameter of singleton Singleton, which is Singleton, which afters Properties Set, which gets Object, which gets Object Type, which creates Properties.

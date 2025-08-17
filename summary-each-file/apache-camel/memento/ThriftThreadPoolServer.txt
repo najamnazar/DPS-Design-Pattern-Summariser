@@ -1,0 +1,1 @@
+ThriftThreadPoolServer acts as a caretaker for memento Context, which starts ExecutorService parameter of startThreadPool Thread Pool, which contexts CamelContext parameter of context, which serves, which stops.

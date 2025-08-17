@@ -1,0 +1,2 @@
+TestSolver acts as a factory for TestSolver, which overrides.
+TestSolver acts as a factory method for Solver, which is inherited by TestSolver.

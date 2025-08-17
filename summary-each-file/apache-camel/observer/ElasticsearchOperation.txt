@@ -1,0 +1,1 @@
+ElasticsearchOperation acts as an observer for publisher ElasticsearchConfiguration, which is inherited by, which tos String.

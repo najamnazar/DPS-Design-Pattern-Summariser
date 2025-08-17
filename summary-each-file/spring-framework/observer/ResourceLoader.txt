@@ -1,0 +1,1 @@
+ResourceLoader acts as an observer for publisher ResourceWebHandler, which is inherited by ResourcePatternResolver, DefaultResourceLoader, which gets String parameter of location Resource, which gets Class Loader.

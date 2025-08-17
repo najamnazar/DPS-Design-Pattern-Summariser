@@ -1,0 +1,2 @@
+JpaEndpointTest acts as a caretaker for memento Context, which tests Jpa Endpoint Ctr, which tests Jpa Endpoint Ctr Url, which tests Jpa Endpoint Ctr Url EMF, which tests Jpa Endpoint Ctr Url EMFand TM, which tests Jpa Endpoint Custom EMFand TM.
+JpaEndpointTest acts as a caretaker for memento Producer, which tests Jpa Endpoint Ctr, which tests Jpa Endpoint Ctr Url, which tests Jpa Endpoint Ctr Url EMF, which tests Jpa Endpoint Ctr Url EMFand TM, which tests Jpa Endpoint Custom EMFand TM.

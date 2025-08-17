@@ -1,0 +1,2 @@
+RefreshFairnessPolicyControllerHandler acts as a visitor for element SchedulableEntity, which overrides, which handles a Refresh to.
+RefreshFairnessPolicyControllerHandler acts as a visitor for element RMContext, which overrides, which handles a Refresh to.

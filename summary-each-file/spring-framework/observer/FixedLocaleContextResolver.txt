@@ -1,0 +1,1 @@
+FixedLocaleContextResolver acts as an observer, which resolves ServerWebExchange parameter of exchange Locale Context, which sets ServerWebExchange parameter of exchange, @Nullable parameter of LocaleContext Locale Context.

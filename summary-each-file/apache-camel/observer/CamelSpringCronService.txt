@@ -1,0 +1,2 @@
+CamelSpringCronService acts as a publisher for observer CamelContext, which is inherited by, which creates CamelCronConfiguration parameter of configuration Endpoint, which gets Id, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context.
+CamelSpringCronService acts as a publisher for observer CamelContext, which creates CamelCronConfiguration parameter of configuration Endpoint, which gets Id, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context.

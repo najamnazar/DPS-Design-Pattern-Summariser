@@ -1,0 +1,4 @@
+SchemaImpl acts as a product for Catalog, which overrides equals method of Schema.
+SchemaImpl acts as a product for Qualified, which overrides equals method of Schema.
+SchemaImpl acts as a product for DSLContext, which overrides equals method of Schema.
+SchemaImpl acts as a product for EnumType, which overrides equals method of Schema.

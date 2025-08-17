@@ -1,0 +1,1 @@
+Athena2Operations acts as an observer for publisher Athena2Configuration, which is inherited by.

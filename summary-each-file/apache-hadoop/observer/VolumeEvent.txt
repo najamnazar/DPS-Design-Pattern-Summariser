@@ -1,0 +1,1 @@
+VolumeEvent acts as an observer for publisher VolumeImpl, which is inherited by ValidateVolumeEvent, ControllerPublishVolumeEvent, which gets Volume, which gets Volume Id.

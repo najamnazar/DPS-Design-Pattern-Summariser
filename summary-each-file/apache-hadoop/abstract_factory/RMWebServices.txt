@@ -1,0 +1,1 @@
+RMWebServices acts as a factory for RMWebServiceProtocol, which overrides get method of RMWebServiceProtocol, getClusterInfo method of RMWebServiceProtocol, getClusterMetricsInfo method of RMWebServiceProtocol, getSchedulerInfo method of RMWebServiceProtocol.

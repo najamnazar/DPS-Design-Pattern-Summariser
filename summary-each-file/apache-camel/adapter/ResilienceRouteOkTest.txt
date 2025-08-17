@@ -1,0 +1,1 @@
+ResilienceRouteOkTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts test method of BeanIntrospection, test method of BeanIntrospection to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,2 @@
+BeanInPipelineTest acts as a publisher for observer CamelContext, which tests Bean In Pipeline, which creates Registry, which creates Route Builder, which does String parameter of body Something.
+BeanInPipelineTest acts as a publisher for observer Service, which tests Bean In Pipeline, which creates Registry, which creates Route Builder, which does String parameter of body Something.

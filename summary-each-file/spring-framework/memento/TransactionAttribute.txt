@@ -1,0 +1,2 @@
+TransactionAttribute acts as a memento, which rollbacks Throwable parameter of ex On, which rollbacks Throwable parameter of ex On, which rollbacks Throwable parameter of ex On.
+TransactionAttribute acts as an originator for memento TransactionDefinition.

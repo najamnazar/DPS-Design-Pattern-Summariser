@@ -1,0 +1,1 @@
+IgniteSetOperation acts as an observer for publisher IgniteSetEndpoint, which is inherited by.

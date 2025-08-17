@@ -1,0 +1,1 @@
+ByteArrayOutputStream acts as an adaptee for adapter AbstractJavaModelTests.

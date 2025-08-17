@@ -1,0 +1,1 @@
+BeanFactory acts as an abstract product for BeanFactory, which is inherited by AutowireCapableBeanFactory, ListableBeanFactory, SimpleJndiBeanFactory, HierarchicalBeanFactory.

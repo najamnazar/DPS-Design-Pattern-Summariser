@@ -1,0 +1,1 @@
+ConsumerCache acts as an abstract factory for Exchange, PollingConsumer, EndpointUtilizationStatistics, which is inherited by DefaultConsumerCache.

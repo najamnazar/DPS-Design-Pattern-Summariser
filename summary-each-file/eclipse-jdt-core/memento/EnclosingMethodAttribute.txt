@@ -1,0 +1,2 @@
+EnclosingMethodAttribute acts as a caretaker for memento C, which gets Enclosing Class, which gets Enclosing Class Index, which gets Method Descriptor, which gets Method Descriptor Index, which gets Method Name, which gets Method Name Index, which gets Method Name And Type Index.
+EnclosingMethodAttribute acts as a caretaker for memento Class, which gets Enclosing Class, which gets Enclosing Class Index, which gets Method Descriptor, which gets Method Descriptor Index, which gets Method Name, which gets Method Name Index, which gets Method Name And Type Index.

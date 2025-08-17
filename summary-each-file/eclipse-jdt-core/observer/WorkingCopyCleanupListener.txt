@@ -1,0 +1,1 @@
+WorkingCopyCleanupListener acts as an observer, which elements ElementChangedEvent parameter of event Changed, which processes IJavaElementDelta parameter of delta Element Delta.

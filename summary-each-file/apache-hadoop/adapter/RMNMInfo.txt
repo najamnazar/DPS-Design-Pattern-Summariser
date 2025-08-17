@@ -1,0 +1,2 @@
+RMNMInfo acts as an adapter, which adapts to RMNMInfoBeans, which adapts to RMNMInfoBeans.
+RMNMInfo acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable.

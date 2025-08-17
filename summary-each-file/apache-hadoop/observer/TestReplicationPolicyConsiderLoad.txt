@@ -1,0 +1,2 @@
+TestReplicationPolicyConsiderLoad acts as a publisher for observer DatanodeStorageInfo, which datas, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Target With Decom Nodes, which tests Consider Load Factor.
+TestReplicationPolicyConsiderLoad acts as a publisher for observer DatanodeDescriptor, which datas, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Target With Decom Nodes, which tests Consider Load Factor.

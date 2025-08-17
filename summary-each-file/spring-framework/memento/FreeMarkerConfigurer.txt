@@ -1,0 +1,3 @@
+FreeMarkerConfigurer acts as a caretaker for memento Configuration, which sets Configuration parameter of configuration Configuration, which afters Properties Set, which posts List<TemplateLoader> parameter of templateLoaders Process Template Loaders, which gets Configuration.
+FreeMarkerConfigurer acts as an originator for memento Configuration, which sets Configuration parameter of configuration Configuration, which gets a Configuration Configuration to.
+FreeMarkerConfigurer acts as a caretaker for memento C, which sets Configuration parameter of configuration Configuration, which afters Properties Set, which posts List<TemplateLoader> parameter of templateLoaders Process Template Loaders, which gets Configuration.

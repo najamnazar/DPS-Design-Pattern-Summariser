@@ -1,0 +1,2 @@
+BeanInfoWithBridgedMethodTest acts as a publisher for observer CamelContext, which tests Bridged Method, which tests Package Private, which processes R parameter of request, which processes Request parameter of request, which processes Request parameter of request.
+BeanInfoWithBridgedMethodTest acts as a publisher for observer Service, which tests Bridged Method, which tests Package Private, which processes R parameter of request, which processes Request parameter of request, which processes Request parameter of request.

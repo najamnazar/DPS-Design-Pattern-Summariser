@@ -1,0 +1,1 @@
+MapReduceTestUtil acts as a factory method for TaskAttemptContext, which is inherited by AbstractITCommitProtocol, AbstractITCommitProtocol, AbstractCommitITest, AbstractCommitITest, AbstractCommitITest, AbstractCommitITest.

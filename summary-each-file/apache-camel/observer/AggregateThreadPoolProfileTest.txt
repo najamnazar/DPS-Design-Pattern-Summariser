@@ -1,0 +1,2 @@
+AggregateThreadPoolProfileTest acts as a publisher for observer Service, which tests Aggregate Thread Pool Profile, which creates Route Builder.
+AggregateThreadPoolProfileTest acts as a publisher for observer CamelContext, which tests Aggregate Thread Pool Profile, which creates Route Builder.

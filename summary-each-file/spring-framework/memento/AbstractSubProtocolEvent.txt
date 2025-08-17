@@ -1,0 +1,1 @@
+AbstractSubProtocolEvent acts as a caretaker for memento Message, which is inherited by, which gets Message, which gets User, which tos String.

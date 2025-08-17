@@ -1,0 +1,2 @@
+WebhookRoutePolicyFactory acts as a publisher for observer WebhookAction, which is inherited by, which gets Action, which sets WebhookAction parameter of action Action, which creates CamelContext parameter of camelContext, String parameter of routeId, NamedNode parameter of route Route Policy.
+WebhookRoutePolicyFactory acts as an observer, which gets Action, which sets WebhookAction parameter of action Action, which creates CamelContext parameter of camelContext, String parameter of routeId, NamedNode parameter of route Route Policy.

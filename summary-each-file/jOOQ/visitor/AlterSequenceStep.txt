@@ -1,0 +1,13 @@
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by DefaultExecutorProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as an element for visitor AlterSequenceStep, which is inherited by, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by CallbackExecuteListener, FetchServerOutputListener, ExecuteListeners, StopWatchListener, ExceptionTranslator, LoggerListener, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by WithImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by Like, NotSimilarTo, QuantifiedComparisonCondition, SimilarTo, NotLike, NotLikeIgnoreCase, LikeIgnoreCase, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by XMLQuery, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by VersionsImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by DefaultDataTypeDefinition, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by AbstractName, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by AlterTableImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by Geography, Geometry, which renames a To to, which renames a To to, which renames a To to.
+AlterSequenceStep acts as a visitor for element AlterSequenceStep, which is inherited by CaseImpl, which renames a To to, which renames a To to, which renames a To to.

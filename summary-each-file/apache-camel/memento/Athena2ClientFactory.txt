@@ -1,0 +1,1 @@
+Athena2ClientFactory acts as an originator for memento Athena2InternalClient, which gets an Athena2InternalClient AWSAthena Client to.

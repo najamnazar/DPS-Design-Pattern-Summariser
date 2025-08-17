@@ -1,0 +1,1 @@
+SmppCancelSmCommand acts as a caretaker for memento Configuration, which executes Exchange parameter of exchange, which creates Exchange parameter of exchange Cancel Sm.

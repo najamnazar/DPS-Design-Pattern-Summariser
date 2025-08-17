@@ -1,0 +1,1 @@
+CamelMessagingHeadersExtractAdapter acts as a product for SpanDecorator, which overrides iterator method of ExtractAdapter, get method of ExtractAdapter, keys method of ExtractAdapter.

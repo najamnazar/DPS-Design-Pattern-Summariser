@@ -1,0 +1,4 @@
+IgniteMessagingConsumer acts as a publisher for observer Route, which applies UUID parameter of uuid, Object parameter of payload, which does Start, which does Stop.
+IgniteMessagingConsumer acts as a publisher for observer ExceptionHandler, which applies UUID parameter of uuid, Object parameter of payload, which does Start, which does Stop.
+IgniteMessagingConsumer acts as a publisher for observer Exchange, which applies UUID parameter of uuid, Object parameter of payload, which does Start, which does Stop.
+IgniteMessagingConsumer acts as a publisher for observer HealthCheck, which applies UUID parameter of uuid, Object parameter of payload, which does Start, which does Stop.

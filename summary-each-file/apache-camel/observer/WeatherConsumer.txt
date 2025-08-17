@@ -1,0 +1,3 @@
+WeatherConsumer acts as a publisher for observer PollingConsumerPollStrategy, which gets Endpoint, which does Start, which polls.
+WeatherConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which gets Endpoint, which does Start, which polls.
+WeatherConsumer acts as a publisher for observer LoggingLevel, which gets Endpoint, which does Start, which polls.

@@ -1,0 +1,5 @@
+JettyFreemarkerTest acts as a publisher for observer ProducerTemplate, which tests Classpath, which tests Classpath Invalid Parameter, which tests Http, which creates Route Builder.
+JettyFreemarkerTest acts as a publisher for observer CamelContext, which tests Classpath, which tests Classpath Invalid Parameter, which tests Http, which creates Route Builder.
+JettyFreemarkerTest acts as a publisher for observer Service, which tests Classpath, which tests Classpath Invalid Parameter, which tests Http, which creates Route Builder.
+JettyFreemarkerTest acts as a publisher for observer FluentProducerTemplate, which tests Classpath, which tests Classpath Invalid Parameter, which tests Http, which creates Route Builder.
+JettyFreemarkerTest acts as a publisher for observer ConsumerTemplate, which tests Classpath, which tests Classpath Invalid Parameter, which tests Http, which creates Route Builder.

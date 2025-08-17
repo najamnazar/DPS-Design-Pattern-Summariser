@@ -1,0 +1,1 @@
+HSAdminRefreshProtocolPB acts as an adaptee for adapter HSAdminRefreshProtocolClientSideTranslatorPB.

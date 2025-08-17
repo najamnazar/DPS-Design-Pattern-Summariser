@@ -1,0 +1,1 @@
+MultiCatchExceptionLabel acts as an observer, which initializes UnionTypeReference parameter of typeReference, Annotation[] parameter of annotations, which places, which places End, which places Start, which gets Count.

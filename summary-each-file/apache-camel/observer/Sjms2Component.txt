@@ -1,0 +1,3 @@
+Sjms2Component acts as a publisher for observer DestinationCreationStrategy, which creates String parameter of uri, String parameter of remaining Sjms Endpoint.
+Sjms2Component acts as a publisher for observer JmsKeyFormatStrategy, which creates String parameter of uri, String parameter of remaining Sjms Endpoint.
+Sjms2Component acts as a publisher for observer MessageCreatedStrategy, which creates String parameter of uri, String parameter of remaining Sjms Endpoint.

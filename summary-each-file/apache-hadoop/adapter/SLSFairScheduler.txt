@@ -1,0 +1,1 @@
+SLSFairScheduler acts as an adapter, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler, which adapts to FairScheduler.

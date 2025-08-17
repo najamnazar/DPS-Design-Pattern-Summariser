@@ -1,0 +1,1 @@
+FopOutputType acts as an observer for publisher FopEndpoint, which is inherited by, which gets Format Extended, which ases String parameter of outputFormatExtended Foo Output Type.

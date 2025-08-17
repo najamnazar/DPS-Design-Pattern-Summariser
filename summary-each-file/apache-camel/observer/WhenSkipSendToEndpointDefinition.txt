@@ -1,0 +1,1 @@
+WhenSkipSendToEndpointDefinition acts as an observer, which gets Short Name, which sets ExpressionDefinition parameter of expression Expression.

@@ -1,0 +1,1 @@
+Decryptor acts as an observer for publisher CryptoInputStream, which is inherited by, which inits byte[] parameter of key, byte[] parameter of iv, which is Context Reset, which decrypts ByteBuffer parameter of inBuffer, ByteBuffer parameter of outBuffer.

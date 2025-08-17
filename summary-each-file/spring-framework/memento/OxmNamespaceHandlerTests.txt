@@ -1,0 +1,3 @@
+OxmNamespaceHandlerTests acts as a caretaker for memento A, which jaxb2Contexts Path Marshaller, which jaxb2Classeses To Be Bound Marshaller.
+OxmNamespaceHandlerTests acts as a caretaker for memento C, which jaxb2Contexts Path Marshaller, which jaxb2Classeses To Be Bound Marshaller.
+OxmNamespaceHandlerTests acts as a caretaker for memento ApplicationContext, which jaxb2Contexts Path Marshaller, which jaxb2Classeses To Be Bound Marshaller.

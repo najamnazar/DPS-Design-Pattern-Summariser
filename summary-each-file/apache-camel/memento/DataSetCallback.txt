@@ -1,0 +1,1 @@
+DataSetCallback acts as a memento.

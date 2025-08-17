@@ -1,0 +1,2 @@
+EventNotifierExchangeSentTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Exchange Sent, which creates Route Builder.
+EventNotifierExchangeSentTest acts as a publisher for observer Service, which creates Camel Context, which tests Exchange Sent, which creates Route Builder.

@@ -1,0 +1,5 @@
+HttpEndpointURLTest acts as a publisher for observer CamelContext, which tests Http Endpoint URLWith IPv6, which tests Http Endpoint Http Uri, which tests Connection Manager From Http Uri, which tests Raw With Unsafe Characters.
+HttpEndpointURLTest acts as a publisher for observer FluentProducerTemplate, which tests Http Endpoint URLWith IPv6, which tests Http Endpoint Http Uri, which tests Connection Manager From Http Uri, which tests Raw With Unsafe Characters.
+HttpEndpointURLTest acts as a publisher for observer Service, which tests Http Endpoint URLWith IPv6, which tests Http Endpoint Http Uri, which tests Connection Manager From Http Uri, which tests Raw With Unsafe Characters.
+HttpEndpointURLTest acts as a publisher for observer ConsumerTemplate, which tests Http Endpoint URLWith IPv6, which tests Http Endpoint Http Uri, which tests Connection Manager From Http Uri, which tests Raw With Unsafe Characters.
+HttpEndpointURLTest acts as a publisher for observer ProducerTemplate, which tests Http Endpoint URLWith IPv6, which tests Http Endpoint Http Uri, which tests Connection Manager From Http Uri, which tests Raw With Unsafe Characters.

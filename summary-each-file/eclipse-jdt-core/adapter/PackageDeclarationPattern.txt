@@ -1,0 +1,2 @@
+PackageDeclarationPattern acts as an adaptee for adapter PackageDeclarationLocator, which adapts to PatternLocator, which adapts to PatternLocator.
+PackageDeclarationPattern acts as an adaptee for adapter QualifiedTypeDeclarationPattern, which adapts to TypeDeclarationPattern, which adapts to TypeDeclarationPattern.

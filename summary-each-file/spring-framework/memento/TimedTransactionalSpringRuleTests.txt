@@ -1,0 +1,1 @@
+TimedTransactionalSpringRuleTests acts as a caretaker for memento C, which transactionals With JUnit Timeout, which transactionals With JUnit Rule Based Timeout.

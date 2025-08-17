@@ -1,0 +1,1 @@
+InstantiationStrategy acts as an adaptee for adapter AbstractAutowireCapableBeanFactory, which adapts to AbstractBeanFactory, which adapts to AbstractBeanFactory, which adapts to AbstractBeanFactory.

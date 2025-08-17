@@ -1,0 +1,1 @@
+VertxWebsocketConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which gets Endpoint, which gets Component, which ons String parameter of connectionKey, Object parameter of message, SocketAddress parameter of remote Message, which ons String parameter of connectionKey, Throwable parameter of cause, SocketAddress parameter of remote Exception.

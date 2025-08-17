@@ -1,0 +1,2 @@
+UnknownHttpStatusCodeException acts as a caretaker for memento C.
+UnknownHttpStatusCodeException acts as a caretaker for memento Headers.

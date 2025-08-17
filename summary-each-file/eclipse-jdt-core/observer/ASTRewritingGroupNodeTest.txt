@@ -1,0 +1,1 @@
+ASTRewritingGroupNodeTest acts as a publisher for observer String, which suites, which tests Collapsed Target Nodes, which tests Collapsed Target Nodes2.

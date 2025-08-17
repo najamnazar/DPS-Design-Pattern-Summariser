@@ -1,0 +1,2 @@
+DefaultCliConnectorFactory acts as a product for AbstractCamelContext, which overrides isEnabled method of CliConnectorFactory, setEnabled method of CliConnectorFactory, getRuntime method of CliConnectorFactory, setRuntime method of CliConnectorFactory, getRuntimeStartClass method of CliConnectorFactory, createConnector method of CliConnectorFactory.
+DefaultCliConnectorFactory acts as a factory method for CliConnector, which is inherited by CliConnectorFactory.

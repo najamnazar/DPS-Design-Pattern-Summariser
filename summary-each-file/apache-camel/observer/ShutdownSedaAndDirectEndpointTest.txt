@@ -1,0 +1,2 @@
+ShutdownSedaAndDirectEndpointTest acts as a publisher for observer Service, which tests Shutdown Seda And Direct Endpoint, which creates Route Builder.
+ShutdownSedaAndDirectEndpointTest acts as a publisher for observer CamelContext, which tests Shutdown Seda And Direct Endpoint, which creates Route Builder.

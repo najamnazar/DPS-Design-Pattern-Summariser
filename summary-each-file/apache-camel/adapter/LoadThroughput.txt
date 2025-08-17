@@ -1,0 +1,1 @@
+LoadThroughput acts as an adaptee for adapter ManagedRoute, which adapts to ManagedPerformanceCounter, which adapts to ManagedPerformanceCounter, which adapts to ManagedPerformanceCounter, which adapts to ManagedPerformanceCounter.

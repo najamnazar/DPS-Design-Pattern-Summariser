@@ -1,0 +1,1 @@
+WebMvcStompEndpointRegistry acts as a factory for StompEndpointRegistry, which overrides addEndpoint method of StompEndpointRegistry, setOrder method of StompEndpointRegistry, setErrorHandler method of StompEndpointRegistry.

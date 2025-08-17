@@ -1,0 +1,1 @@
+ManagedGroupFactory acts as an abstract product for ManagedGroupFactory, which is inherited by DefaultManagedGroupFactory.

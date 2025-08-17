@@ -1,0 +1,2 @@
+FilterBeforeSplitTest acts as a publisher for observer Service, which tests Filter Before Split, which tests Filtered, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+FilterBeforeSplitTest acts as a publisher for observer CamelContext, which tests Filter Before Split, which tests Filtered, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

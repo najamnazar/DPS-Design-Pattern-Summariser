@@ -1,0 +1,1 @@
+XQueryExampleTest acts as a caretaker for memento Context, which tests Example, which creates Application Context.

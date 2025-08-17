@@ -1,0 +1,4 @@
+UriComponentsBuilder acts as a product for UriBuilderFactory, which overrides build method of UriBuilder, build method of UriBuilder.
+UriComponentsBuilder acts as a factory for UriBuilder, which overrides build method of UriBuilder, build method of UriBuilder.
+UriComponentsBuilder acts as a product for ServerRequest, which overrides build method of UriBuilder, build method of UriBuilder.
+UriComponentsBuilder acts as a product for UriBuilder, which overrides build method of UriBuilder, build method of UriBuilder.

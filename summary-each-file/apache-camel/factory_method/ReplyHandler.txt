@@ -1,0 +1,1 @@
+ReplyHandler acts as an abstract product for ReplyManagerSupport, which is inherited by TemporaryQueueReplyHandler, RocketMQReplyHandler.

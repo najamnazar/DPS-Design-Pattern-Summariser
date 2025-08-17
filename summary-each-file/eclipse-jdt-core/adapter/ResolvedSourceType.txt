@@ -1,0 +1,2 @@
+ResolvedSourceType acts as an adapter, which adapts to SourceType, which adapts getKey method of String to SourceType, which adapts to SourceType, which adapts to SourceType, which adapts to SourceType.
+ResolvedSourceType acts as a target for adapter AssistSourceType, which adapts to ResolvedSourceType, which adapts to ResolvedSourceType, which adapts to ResolvedSourceType, which adapts to ResolvedSourceType, which adapts to ResolvedSourceType.

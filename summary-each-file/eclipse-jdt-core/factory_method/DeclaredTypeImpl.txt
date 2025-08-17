@@ -1,0 +1,2 @@
+DeclaredTypeImpl acts as a factory for TypesUtil, which overrides toString method of TypesUtil.
+DeclaredTypeImpl acts as a product for Bug510118Processor, which overrides.

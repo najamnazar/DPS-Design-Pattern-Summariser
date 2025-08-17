@@ -1,0 +1,2 @@
+IsMockEndpointsTest acts as a caretaker for memento Context, which is Mock Endpoints, which tests Mock All Endpoints, which creates Route Builder.
+IsMockEndpointsTest acts as a caretaker for memento Producer, which is Mock Endpoints, which tests Mock All Endpoints, which creates Route Builder.

@@ -1,0 +1,2 @@
+ManagedStep acts as a caretaker for memento Context.
+ManagedStep acts as a memento.

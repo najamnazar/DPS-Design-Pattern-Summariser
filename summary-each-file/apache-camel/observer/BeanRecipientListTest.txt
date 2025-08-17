@@ -1,0 +1,2 @@
+BeanRecipientListTest acts as a publisher for observer Service, which tests Send Message, which sets Up, which checks Bean, which creates Registry, which creates Route Builder, which tos String, which routes String parameter of body.
+BeanRecipientListTest acts as a publisher for observer CamelContext, which tests Send Message, which sets Up, which checks Bean, which creates Registry, which creates Route Builder, which tos String, which routes String parameter of body.

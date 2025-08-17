@@ -1,0 +1,5 @@
+AbstractRow acts as a product for ResultQueryTrait, which overrides size method of Row, isNull method of Row, isNotNull method of Row, $fields method of Row.
+AbstractRow acts as a factory for Row, which overrides size method of Row, isNull method of Row, isNotNull method of Row, $fields method of Row.
+AbstractRow acts as a product for Fields, which overrides size method of Row, isNull method of Row, isNotNull method of Row, $fields method of Row.
+AbstractRow acts as a product for DataType, which overrides size method of Row, isNull method of Row, isNotNull method of Row, $fields method of Row.
+AbstractRow acts as a product for Record, which overrides size method of Row, isNull method of Row, isNotNull method of Row, $fields method of Row.

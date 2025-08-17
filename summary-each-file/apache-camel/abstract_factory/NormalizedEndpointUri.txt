@@ -1,0 +1,1 @@
+NormalizedEndpointUri acts as an abstract product for NormalizedEndpointUri, which is inherited by NormalizedUri.

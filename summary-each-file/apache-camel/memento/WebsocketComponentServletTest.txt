@@ -1,0 +1,1 @@
+WebsocketComponentServletTest acts as a caretaker for memento Component, which sets Up, which tests Get Consumer, which tests Set Consumer, which tests Do Web Socket Connect, which tests Do Web Socket Connect Consumer Is Null.

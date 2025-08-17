@@ -1,0 +1,5 @@
+FaultToleranceRouteFallbackTest acts as a publisher for observer Service, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceRouteFallbackTest acts as a publisher for observer ProducerTemplate, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceRouteFallbackTest acts as a publisher for observer CamelContext, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceRouteFallbackTest acts as a publisher for observer ConsumerTemplate, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceRouteFallbackTest acts as a publisher for observer FluentProducerTemplate, which tests Fault Tolerance, which creates Route Builder.

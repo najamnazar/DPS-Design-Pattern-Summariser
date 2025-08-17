@@ -1,0 +1,1 @@
+JstlView acts as an adapter, which adapts to InternalResourceView, which adapts to InternalResourceView.

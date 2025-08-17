@@ -1,0 +1,1 @@
+RMContainerState acts as a memento.

@@ -1,0 +1,1 @@
+Callback acts as a component for DelegatingCallback, which is inherited by KafkaProducerCallBack, KafkaProducerMetadataCallBack.

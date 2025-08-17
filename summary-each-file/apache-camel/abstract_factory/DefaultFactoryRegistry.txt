@@ -1,0 +1,2 @@
+DefaultFactoryRegistry acts as a product for FactoryRegistry, which overrides unregister method of FactoryRegistry, findForFormattingOptions method of FactoryRegistry.
+DefaultFactoryRegistry acts as a factory for FactoryRegistry, which overrides unregister method of FactoryRegistry, findForFormattingOptions method of FactoryRegistry.

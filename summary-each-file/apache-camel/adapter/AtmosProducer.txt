@@ -1,0 +1,1 @@
+AtmosProducer acts as an adapter, which adapts to DefaultProducer, which adapts to DefaultProducer.

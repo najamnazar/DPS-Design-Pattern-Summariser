@@ -1,0 +1,1 @@
+MainSupportCommandLineTest acts as a caretaker for memento Context, which finds Or Create Camel Template, which creates Camel Context, which gets Camel Context, which tests Main Support, which tests Main Support Max Messages, which tests Main Support Help.

@@ -1,0 +1,1 @@
+AbstractTransportHandler acts as a factory for TransportHandler, which overrides initialize method of TransportHandler.

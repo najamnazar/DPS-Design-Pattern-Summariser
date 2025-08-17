@@ -1,0 +1,1 @@
+HazelcastAggregationRepositoryRoutesTest acts as a caretaker for memento Producer, which checks Aggregation From Two Routes, which checks Aggregation From Two Routes No Recovery.

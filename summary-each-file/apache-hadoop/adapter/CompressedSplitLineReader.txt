@@ -1,0 +1,1 @@
+CompressedSplitLineReader acts as an adapter, which adapts to SplitLineReader, which adapts to SplitLineReader, which adapts to SplitLineReader, which adapts to SplitLineReader, which adapts didReadAfterSplit method of SplitCompressionInputStream, didReadAfterSplit method of SplitCompressionInputStream to SplitLineReader.

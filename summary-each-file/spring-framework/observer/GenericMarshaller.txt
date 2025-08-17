@@ -1,0 +1,1 @@
+GenericMarshaller acts as an observer, which supports Type parameter of genericType.

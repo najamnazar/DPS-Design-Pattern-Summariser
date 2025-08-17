@@ -1,0 +1,1 @@
+ReflectiveAspectJAdvisorFactoryTests acts as a publisher for observer Lockable, which gets Fixture.

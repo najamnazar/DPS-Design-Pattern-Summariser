@@ -1,0 +1,5 @@
+AbstractGenericProcessor acts as a caretaker for memento AnnotationProcessor, which sets AnnotationProcessorEnvironment parameter of env Env, which _processes, which processes.
+AbstractGenericProcessor acts as a caretaker for memento C, which sets AnnotationProcessorEnvironment parameter of env Env, which _processes, which processes.
+AbstractGenericProcessor acts as a memento, which processes Env, which processes Env, which processes Env.
+AbstractGenericProcessor acts as a caretaker for memento AnnotationType, which sets AnnotationProcessorEnvironment parameter of env Env, which _processes, which processes.
+AbstractGenericProcessor acts as a caretaker for memento E, which sets AnnotationProcessorEnvironment parameter of env Env, which _processes, which processes.

@@ -1,0 +1,5 @@
+ConcurrentJaxbDataFormatSchemaValidationTest acts as a publisher for observer CamelContext, which concurrents Marshall Success, which concurrents Unmarshall, which creates Route Builder.
+ConcurrentJaxbDataFormatSchemaValidationTest acts as a publisher for observer ConsumerTemplate, which concurrents Marshall Success, which concurrents Unmarshall, which creates Route Builder.
+ConcurrentJaxbDataFormatSchemaValidationTest acts as a publisher for observer FluentProducerTemplate, which concurrents Marshall Success, which concurrents Unmarshall, which creates Route Builder.
+ConcurrentJaxbDataFormatSchemaValidationTest acts as a publisher for observer Service, which concurrents Marshall Success, which concurrents Unmarshall, which creates Route Builder.
+ConcurrentJaxbDataFormatSchemaValidationTest acts as a publisher for observer ProducerTemplate, which concurrents Marshall Success, which concurrents Unmarshall, which creates Route Builder.

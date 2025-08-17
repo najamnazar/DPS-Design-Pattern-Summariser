@@ -1,0 +1,1 @@
+DerivedColumnList14 acts as an observer, which ases ResultQuery<R> parameter of query, which ases ResultQuery<R> parameter of query Materialized, which ases ResultQuery<R> parameter of query Not Materialized.

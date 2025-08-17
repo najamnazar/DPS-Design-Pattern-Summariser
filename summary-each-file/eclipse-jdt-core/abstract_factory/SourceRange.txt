@@ -1,0 +1,3 @@
+SourceRange acts as a product for ISourceReference, which overrides getLength method of ISourceRange, getOffset method of ISourceRange.
+SourceRange acts as a product for IMember, which overrides getLength method of ISourceRange, getOffset method of ISourceRange.
+SourceRange acts as a product for ILocalVariable, which overrides getLength method of ISourceRange, getOffset method of ISourceRange.

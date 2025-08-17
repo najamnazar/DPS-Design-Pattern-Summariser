@@ -1,0 +1,2 @@
+ExecutorServiceManager acts as a factory method for ThreadPoolFactory, which is inherited by BaseExecutorServiceManager, ExecutorServiceManager, BaseExecutorServiceManager.
+ExecutorServiceManager acts as a factory for ExecutorServiceManager, which overrides.

@@ -1,0 +1,2 @@
+AlterSchemaStep acts as an abstract product for AlterSchemaStep, which is inherited by AlterSchemaImpl, AlterSchemaImpl, AlterSchemaImpl, AlterSchemaImpl, AlterSchemaImpl, AlterSchemaImpl.
+AlterSchemaStep acts as an abstract factory for AlterSchemaFinalStep, which is inherited by AlterSchemaImpl.

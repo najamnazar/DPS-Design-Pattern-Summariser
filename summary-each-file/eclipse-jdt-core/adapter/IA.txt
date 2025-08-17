@@ -1,0 +1,2 @@
+IA acts as a target for adapter AB, which adapts to IA.
+IA acts as a target for adapter AC, which adapts to IA.

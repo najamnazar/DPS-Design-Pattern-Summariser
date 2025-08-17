@@ -1,0 +1,2 @@
+ByteArrayInputStreamCacheTest acts as a publisher for observer CamelContext, which tests Byte Array Input Stream.
+ByteArrayInputStreamCacheTest acts as a publisher for observer Service, which tests Byte Array Input Stream.

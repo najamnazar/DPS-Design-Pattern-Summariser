@@ -1,0 +1,1 @@
+EntryFilter acts as an observer, which is E parameter of entry Valid Entry, which resumes.

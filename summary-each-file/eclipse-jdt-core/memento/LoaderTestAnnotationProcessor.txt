@@ -1,0 +1,5 @@
+LoaderTestAnnotationProcessor acts as a caretaker for memento String, which gets Class Name, which is Loaded, which clears Loaded, which processes, which gets Environment, which gets Code, which gets Package Name, which gets Type Name.
+LoaderTestAnnotationProcessor acts as a caretaker for memento AnnotationProcessor, which gets Class Name, which is Loaded, which clears Loaded, which processes, which gets Environment, which gets Code, which gets Package Name, which gets Type Name.
+LoaderTestAnnotationProcessor acts as a memento, which gets Type Name, which gets Type Name, which gets Type Name, which gets Type Name, which gets Type Name, which gets Type Name, which gets Type Name, which gets Type Name.
+LoaderTestAnnotationProcessor acts as a caretaker for memento E, which gets Class Name, which is Loaded, which clears Loaded, which processes, which gets Environment, which gets Code, which gets Package Name, which gets Type Name.
+LoaderTestAnnotationProcessor acts as a caretaker for memento S, which gets Class Name, which is Loaded, which clears Loaded, which processes, which gets Environment, which gets Code, which gets Package Name, which gets Type Name.

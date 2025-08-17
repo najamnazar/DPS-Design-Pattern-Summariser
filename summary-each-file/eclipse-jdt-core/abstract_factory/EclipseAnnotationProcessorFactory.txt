@@ -1,0 +1,1 @@
+EclipseAnnotationProcessorFactory acts as an abstract factory for AnnotationProcessor, which is inherited by.

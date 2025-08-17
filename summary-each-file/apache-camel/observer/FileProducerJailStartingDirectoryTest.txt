@@ -1,0 +1,2 @@
+FileProducerJailStartingDirectoryTest acts as a publisher for observer Service, which tests Write Outside Starting Directory, which tests Write Inside Starting Directory, which creates Route Builder.
+FileProducerJailStartingDirectoryTest acts as a publisher for observer CamelContext, which tests Write Outside Starting Directory, which tests Write Inside Starting Directory, which creates Route Builder.

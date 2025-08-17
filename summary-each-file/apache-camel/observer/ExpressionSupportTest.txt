@@ -1,0 +1,2 @@
+ExpressionSupportTest acts as a publisher for observer CamelContext, which assertions Exchange parameter of exchange Failure Message, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tests Expression Support, which tests Expression Support Fail.
+ExpressionSupportTest acts as a publisher for observer Service, which assertions Exchange parameter of exchange Failure Message, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tests Expression Support, which tests Expression Support Fail.

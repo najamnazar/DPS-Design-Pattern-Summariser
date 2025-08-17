@@ -1,0 +1,3 @@
+DefaultWorkingCopyOwner acts as an originator for memento String, which tos a String String to.
+DefaultWorkingCopyOwner acts as a caretaker for memento C, which creates ICompilationUnit parameter of workingCopy Buffer, which tos String.
+DefaultWorkingCopyOwner acts as an originator for memento ICompilationUnit, which creates ICompilationUnit parameter of workingCopy Buffer.

@@ -1,0 +1,1 @@
+WebsocketEndpoint acts as a publisher for observer HttpBinding, which creates Producer, which creates Processor parameter of processor Consumer, which is Send To All, which sets boolean parameter of sendToAll Send To All, which is Use Streaming, which sets boolean parameter of useStreaming Use Streaming, which gets Web Socket Store, which gets Websocket Consumer.

@@ -1,0 +1,2 @@
+JmsTestConnectionOnStartupTest acts as a caretaker for memento Context, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.
+JmsTestConnectionOnStartupTest acts as a caretaker for memento Producer, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.

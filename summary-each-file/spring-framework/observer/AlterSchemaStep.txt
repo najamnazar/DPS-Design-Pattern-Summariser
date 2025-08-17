@@ -1,0 +1,1 @@
+AlterSchemaStep acts as a publisher for observer Schema, which is inherited by AlterSchemaImpl, which renames @Stringly.Name parameter of String To, which renames Name parameter of renameTo To, which renames Schema parameter of renameTo To.

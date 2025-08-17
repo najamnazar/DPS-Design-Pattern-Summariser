@@ -1,0 +1,2 @@
+CamelMicroProfileHealthCheck acts as a product for HealthCheckAware, which overrides.
+CamelMicroProfileHealthCheck acts as a product for HealthCheckResolver, which overrides.

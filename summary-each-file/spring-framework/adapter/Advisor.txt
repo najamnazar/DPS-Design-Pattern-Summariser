@@ -1,0 +1,1 @@
+Advisor acts as an adaptee for adapter AspectJAwareAdvisorAutoProxyCreator, which adapts to AbstractAdvisorAutoProxyCreator, which adapts to AbstractAdvisorAutoProxyCreator.

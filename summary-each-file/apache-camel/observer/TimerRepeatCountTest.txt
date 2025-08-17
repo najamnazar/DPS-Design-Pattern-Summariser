@@ -1,0 +1,2 @@
+TimerRepeatCountTest acts as a publisher for observer CamelContext, which tests Repeat Count, which creates Route Builder.
+TimerRepeatCountTest acts as a publisher for observer Service, which tests Repeat Count, which creates Route Builder.

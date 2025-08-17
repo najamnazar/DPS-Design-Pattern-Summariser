@@ -1,0 +1,1 @@
+DefaultWebFilterChain acts as an adaptee for adapter FilteringWebHandler, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator.

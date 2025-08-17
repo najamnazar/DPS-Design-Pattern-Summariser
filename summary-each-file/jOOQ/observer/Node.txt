@@ -1,0 +1,1 @@
+Node acts as an observer for publisher XMLasDOMBinding, which is inherited by, which ids, which messages, which roots, which parentses.

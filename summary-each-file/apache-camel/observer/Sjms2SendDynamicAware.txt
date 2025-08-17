@@ -1,0 +1,1 @@
+Sjms2SendDynamicAware acts as a publisher for observer CamelContext.

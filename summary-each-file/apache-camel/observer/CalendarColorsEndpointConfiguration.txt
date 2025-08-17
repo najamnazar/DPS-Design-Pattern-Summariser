@@ -1,0 +1,2 @@
+CalendarColorsEndpointConfiguration acts as an observer.
+CalendarColorsEndpointConfiguration acts as a publisher for observer GoogleCalendarApiName.

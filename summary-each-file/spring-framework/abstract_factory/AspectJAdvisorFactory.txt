@@ -1,0 +1,2 @@
+AspectJAdvisorFactory acts as an abstract factory for Advisor, Advice, which is inherited by AbstractAspectJAdvisorFactory.
+AspectJAdvisorFactory acts as an abstract product for AspectJAdvisorFactory, which is inherited by AbstractAspectJAdvisorFactory.

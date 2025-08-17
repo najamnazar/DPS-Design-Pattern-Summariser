@@ -1,0 +1,1 @@
+HHXORErasureEncoder acts as a factory method for ErasureCodingStep, which is inherited by ErasureEncoder, ErasureCoder, ErasureDecoder, ErasureEncoder, ErasureEncoder, ErasureEncoder, ErasureCoder, ErasureDecoder, ErasureDecoder, ErasureDecoder.

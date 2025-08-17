@@ -1,0 +1,1 @@
+JmsRequestReplyTemporaryCacheNoneTest acts as a publisher for observer ArtemisService, which gets Component Name, which is Use Route Builder, which tests Not Allowed.

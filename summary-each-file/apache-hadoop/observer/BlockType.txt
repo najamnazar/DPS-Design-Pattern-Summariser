@@ -1,0 +1,1 @@
+BlockType acts as an observer for publisher FSDirWriteFileOp, which is inherited by, which froms long parameter of blockId Block Id.

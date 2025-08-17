@@ -1,0 +1,1 @@
+ShortConstant acts as a caretaker for memento C, which bytes Value, which chars Value, which doubles Value, which floats Value, which ints Value, which longs Value, which shorts Value, which strings Value, which tos String, which types ID.

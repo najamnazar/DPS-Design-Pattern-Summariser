@@ -1,0 +1,1 @@
+SpringJdbcComponent acts as a product for JdbcComponentBuilderFactory, which overrides createEndpoint method of JdbcComponent.

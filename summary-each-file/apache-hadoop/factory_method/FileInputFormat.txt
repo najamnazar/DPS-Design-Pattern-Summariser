@@ -1,0 +1,2 @@
+FileInputFormat acts as a factory for FileInputFormat, which overrides.
+FileInputFormat acts as a factory method for PathFilter, which is inherited by FileInputFormat.

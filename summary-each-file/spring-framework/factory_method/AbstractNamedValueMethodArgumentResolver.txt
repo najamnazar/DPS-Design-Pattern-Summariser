@@ -1,0 +1,1 @@
+AbstractNamedValueMethodArgumentResolver acts as a product for SessionAttributeMethodArgumentResolverTests, which overrides resolveArgument method of HandlerMethodArgumentResolver.

@@ -1,0 +1,5 @@
+AtomEntryPollingConsumerTest acts as a publisher for observer ConsumerTemplate, which tests Can Consume, which creates Route Builder.
+AtomEntryPollingConsumerTest acts as a publisher for observer Service, which tests Can Consume, which creates Route Builder.
+AtomEntryPollingConsumerTest acts as a publisher for observer ProducerTemplate, which tests Can Consume, which creates Route Builder.
+AtomEntryPollingConsumerTest acts as a publisher for observer FluentProducerTemplate, which tests Can Consume, which creates Route Builder.
+AtomEntryPollingConsumerTest acts as a publisher for observer CamelContext, which tests Can Consume, which creates Route Builder.

@@ -1,0 +1,1 @@
+SpringConfigurator acts as a caretaker for memento C, which gets Class<T> parameter of endpointClass Endpoint Instance, which gets WebApplicationContext parameter of wac, Class<?> parameter of endpointClass Bean Name By Type.

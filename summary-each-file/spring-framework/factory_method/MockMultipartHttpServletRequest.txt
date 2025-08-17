@@ -1,0 +1,2 @@
+MockMultipartHttpServletRequest acts as a factory method for MultipartFile, which is inherited by AbstractMultipartHttpServletRequest, AbstractMultipartHttpServletRequest, MultipartRequest.
+MockMultipartHttpServletRequest acts as a product for ComplexWebApplicationContext, which overrides getRequestMethod method of MultipartHttpServletRequest, getRequestHeaders method of MultipartHttpServletRequest, getMultipartHeaders method of MultipartHttpServletRequest.

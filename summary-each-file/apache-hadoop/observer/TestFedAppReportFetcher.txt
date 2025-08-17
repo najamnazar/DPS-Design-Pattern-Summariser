@@ -1,0 +1,1 @@
+TestFedAppReportFetcher acts as a publisher for observer Configuration, which is inherited by, which cleans Up, which tests boolean parameter of isAHSEnabled Helper, which tests Fetch Report AHSEnabled, which tests Fetch Report AHSDisabled, which tests Get Rm App Page Url Base, which gets Configuration parameter of conf AHSProxy.

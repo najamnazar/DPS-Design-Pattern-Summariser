@@ -1,0 +1,3 @@
+InnerClassesAttribute acts as a caretaker for memento Class, which gets Inner Class Attributes Entries, which gets Number Of Classes.
+InnerClassesAttribute acts as a caretaker for memento E, which gets Inner Class Attributes Entries, which gets Number Of Classes.
+InnerClassesAttribute acts as a caretaker for memento C, which gets Inner Class Attributes Entries, which gets Number Of Classes.

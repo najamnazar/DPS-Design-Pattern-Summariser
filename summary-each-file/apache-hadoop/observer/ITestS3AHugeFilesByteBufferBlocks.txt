@@ -1,0 +1,1 @@
+ITestS3AHugeFilesByteBufferBlocks acts as a publisher for observer Path, which gets Block Output Buffer Name, which renames final parameter of Path, final parameter of Path File.

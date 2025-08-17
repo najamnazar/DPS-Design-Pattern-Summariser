@@ -1,0 +1,1 @@
+ConditionalExceptionProcessor acts as an observer, which processes Exchange parameter of exchange, which sets int parameter of count Count, which gets Count, which gets Error Message.

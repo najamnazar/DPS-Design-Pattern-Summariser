@@ -1,0 +1,1 @@
+MacVMLauncher acts as a publisher for observer String, which gets Command Line, which builds Boot Class Path.

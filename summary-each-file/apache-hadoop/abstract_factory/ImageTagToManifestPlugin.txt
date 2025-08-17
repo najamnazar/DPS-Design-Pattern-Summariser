@@ -1,0 +1,1 @@
+ImageTagToManifestPlugin acts as a factory for RuncImageTagToManifestPlugin, which overrides getManifestFromImageTag method of RuncImageTagToManifestPlugin, getHashFromImageTag method of RuncImageTagToManifestPlugin.

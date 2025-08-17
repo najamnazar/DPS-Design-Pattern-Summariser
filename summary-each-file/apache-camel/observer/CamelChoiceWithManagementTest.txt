@@ -1,0 +1,2 @@
+CamelChoiceWithManagementTest acts as a publisher for observer Service, which uses Jmx, which sets Up, which tests First Choice Route, which tests Otherwise, which creates Route Builder.
+CamelChoiceWithManagementTest acts as a publisher for observer CamelContext, which uses Jmx, which sets Up, which tests First Choice Route, which tests Otherwise, which creates Route Builder.

@@ -1,0 +1,1 @@
+RefreshHandler acts as an observer for publisher RefreshRegistry, which is inherited by RefreshFairnessPolicyControllerHandler, which handles String parameter of identifier, String[] parameter of args Refresh.

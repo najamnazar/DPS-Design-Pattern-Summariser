@@ -1,0 +1,1 @@
+MediaTypeFileExtensionResolver acts as a publisher for observer MediaType, which is inherited by ContentNegotiationManager, MappingMediaTypeFileExtensionResolver, which resolves MediaType parameter of mediaType File Extensions, which gets All File Extensions.

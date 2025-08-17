@@ -1,0 +1,4 @@
+AsteriskConsumer acts as a publisher for observer Exchange, which does Start, which does Stop, which ons ManagerEvent parameter of event Manager Event.
+AsteriskConsumer acts as a publisher for observer HealthCheck, which does Start, which does Stop, which ons ManagerEvent parameter of event Manager Event.
+AsteriskConsumer acts as a publisher for observer Route, which does Start, which does Stop, which ons ManagerEvent parameter of event Manager Event.
+AsteriskConsumer acts as a publisher for observer ExceptionHandler, which does Start, which does Stop, which ons ManagerEvent parameter of event Manager Event.

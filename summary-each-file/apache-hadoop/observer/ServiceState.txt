@@ -1,0 +1,1 @@
+ServiceState acts as an observer for publisher ServiceStatus, which is inherited by, which is ServiceState parameter of state Upgrading.

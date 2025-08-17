@@ -1,0 +1,1 @@
+CellMappingStrategyFactory acts as an adaptee for adapter HBaseEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

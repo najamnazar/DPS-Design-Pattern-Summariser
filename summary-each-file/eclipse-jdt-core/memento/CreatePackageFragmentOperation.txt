@@ -1,0 +1,4 @@
+CreatePackageFragmentOperation acts as a caretaker for memento S, which executes Operation, which gets Scheduling Rule, which verifies.
+CreatePackageFragmentOperation acts as a caretaker for memento String, which executes Operation, which gets Scheduling Rule, which verifies.
+CreatePackageFragmentOperation acts as a caretaker for memento E, which executes Operation, which gets Scheduling Rule, which verifies.
+CreatePackageFragmentOperation acts as a caretaker for memento Map, which executes Operation, which gets Scheduling Rule, which verifies.

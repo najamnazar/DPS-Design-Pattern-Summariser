@@ -1,0 +1,1 @@
+RestartContainerResponse acts as an abstract product for RestartContainerResponse, which is inherited by RestartContainerResponsePBImpl.

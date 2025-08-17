@@ -1,0 +1,1 @@
+CamelMainTest acts as an observer for publisher CamelMainContext, which is inherited by.

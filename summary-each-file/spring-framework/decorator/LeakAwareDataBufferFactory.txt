@@ -1,0 +1,1 @@
+LeakAwareDataBufferFactory acts as a decorator for component DataBufferFactory, which is inherited by.

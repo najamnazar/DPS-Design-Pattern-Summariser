@@ -1,0 +1,2 @@
+MockExpectedHeaderNoMessageSentTest acts as a publisher for observer CamelContext, which tests Header Expected No Message Sent, which creates Route Builder.
+MockExpectedHeaderNoMessageSentTest acts as a publisher for observer Service, which tests Header Expected No Message Sent, which creates Route Builder.

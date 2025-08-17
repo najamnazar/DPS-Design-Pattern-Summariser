@@ -1,0 +1,2 @@
+CamelContextLogExhaustedMessageBodyTest acts as a publisher for observer Service, which tests Log Exhausted Message History With Message Body, which creates Camel Context, which creates Route Builder.
+CamelContextLogExhaustedMessageBodyTest acts as a publisher for observer CamelContext, which tests Log Exhausted Message History With Message Body, which creates Camel Context, which creates Route Builder.

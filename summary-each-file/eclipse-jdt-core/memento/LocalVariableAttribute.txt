@@ -1,0 +1,4 @@
+LocalVariableAttribute acts as a caretaker for memento E, which gets Local Variable Table, which gets Local Variable Table Length.
+LocalVariableAttribute acts as a memento, which gets Local Variable Table Length, which gets Local Variable Table Length.
+LocalVariableAttribute acts as a caretaker for memento C, which gets Local Variable Table, which gets Local Variable Table Length.
+LocalVariableAttribute acts as a caretaker for memento Class, which gets Local Variable Table, which gets Local Variable Table Length.

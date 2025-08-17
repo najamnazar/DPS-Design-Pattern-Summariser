@@ -1,0 +1,1 @@
+ModelMBeanNotificationPublisher acts as an observer, which sends Notification parameter of notification Notification, which replaces Notification parameter of notification Notification Source If Necessary.

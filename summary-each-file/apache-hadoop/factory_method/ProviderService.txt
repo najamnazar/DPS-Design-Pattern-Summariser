@@ -1,0 +1,1 @@
+ProviderService acts as an abstract product for DefaultProviderFactory, which is inherited by AbstractProviderService.

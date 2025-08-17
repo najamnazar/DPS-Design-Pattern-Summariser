@@ -1,0 +1,1 @@
+ComponentResolver acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultComponentResolver, which resolves String parameter of name, CamelContext parameter of context Component.

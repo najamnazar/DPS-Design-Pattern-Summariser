@@ -1,0 +1,2 @@
+SqsComponentTest acts as a caretaker for memento Context, which sends In Only, which sends In Out, which creates Route Builder.
+SqsComponentTest acts as a caretaker for memento Producer, which sends In Only, which sends In Out, which creates Route Builder.

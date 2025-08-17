@@ -1,0 +1,1 @@
+SafeMode acts as a memento, which is inherited by Namesystem, DistributedFileSystem, which is In Startup Safe Mode, which is In Startup Safe Mode.

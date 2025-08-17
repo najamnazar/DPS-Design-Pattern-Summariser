@@ -1,0 +1,1 @@
+AbstractEncoder acts as a publisher for observer Log, which is inherited by, which sets Log parameter of logger Logger, which gets Logger, which gets Encodable Mime Types, which cans ResolvableType parameter of elementType, @Nullable parameter of MimeType Encode.

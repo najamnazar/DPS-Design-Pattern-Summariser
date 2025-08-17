@@ -1,0 +1,1 @@
+ProxyJCacheConfiguration acts as a caretaker for memento C, which caches JCacheOperationSource parameter of jCacheOperationSource, JCacheInterceptor parameter of jCacheInterceptor Advisor, which caches JCacheOperationSource parameter of jCacheOperationSource Interceptor.

@@ -1,0 +1,1 @@
+HttpClientChannelHandler acts as a caretaker for memento Producer, which gets Exchange parameter of exchange, ChannelHandlerContext parameter of ctx, Object parameter of message Response Message.

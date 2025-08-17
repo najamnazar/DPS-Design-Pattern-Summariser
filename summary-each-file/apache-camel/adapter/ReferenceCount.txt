@@ -1,0 +1,2 @@
+ReferenceCount acts as an adaptee for adapter AbstractCamelClusterService, which adapts to CamelClusterService, which adapts to CamelClusterService, which adapts to CamelClusterService, which adapts to CamelClusterService, which adapts to CamelClusterService.
+ReferenceCount acts as an adaptee for adapter ClusteredRoutePolicy, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport.

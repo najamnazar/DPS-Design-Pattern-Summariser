@@ -1,0 +1,2 @@
+TestRMHAForNodeLabels acts as a publisher for observer Configuration, which setups, which tests RMHARecover Node Labels.
+TestRMHAForNodeLabels acts as a publisher for observer MockRM, which setups, which tests RMHARecover Node Labels.

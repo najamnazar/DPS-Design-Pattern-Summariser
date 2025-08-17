@@ -1,0 +1,3 @@
+InternalProcessor acts as a product for AnnotationBasedProcessorFactory, which overrides.
+InternalProcessor acts as an abstract product for InternalProcessor, which is inherited by CamelInternalProcessor, CamelInternalProcessor.
+InternalProcessor acts as a product for InternalProcessorFactory, which overrides.

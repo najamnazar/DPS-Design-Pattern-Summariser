@@ -1,0 +1,1 @@
+SimpleMapScope acts as an observer, which gets Map, which gets String parameter of name, ObjectFactory<?> parameter of objectFactory, which removes String parameter of name, which registers String parameter of name, Runnable parameter of callback Destruction Callback, which resolves String parameter of key Contextual Object, which closes, which gets Conversation Id.

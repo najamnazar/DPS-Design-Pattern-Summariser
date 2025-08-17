@@ -1,0 +1,1 @@
+RabbitMQSpringExceptionHandlerTest acts as a caretaker for memento Context, which gets Config Location, which checks Exception Handler Was Injected, which checks Component Sets Exception Handler, which checks Component Ignores Exception Handler, which creates Application Context.

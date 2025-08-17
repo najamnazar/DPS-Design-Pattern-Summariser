@@ -1,0 +1,1 @@
+ResourceReload acts as an observer for publisher ResourceReloadStrategy, ResourceReloadStrategySupport, which is inherited by, which ons String parameter of name, Resource parameter of resource Reload.

@@ -1,0 +1,1 @@
+ReferenceContext acts as an observer for publisher ProblemReporter, which is inherited by CompilationUnitDeclaration, AbstractMethodDeclaration, TypeDeclaration, which aborts int parameter of abortLevel, IProblem parameter of problem, which compilations Result, which tags As Having Errors, which has Errors.

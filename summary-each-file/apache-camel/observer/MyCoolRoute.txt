@@ -1,0 +1,7 @@
+MyCoolRoute acts as a publisher for observer RoutesDefinition, which configures.
+MyCoolRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyCoolRoute acts as an observer, which configures.
+MyCoolRoute acts as a publisher for observer Resource, which configures.
+MyCoolRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyCoolRoute acts as a publisher for observer RestsDefinition, which configures.
+MyCoolRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.

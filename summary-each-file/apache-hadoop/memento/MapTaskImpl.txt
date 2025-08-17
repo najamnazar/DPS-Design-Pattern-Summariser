@@ -1,0 +1,3 @@
+MapTaskImpl acts as a caretaker for memento TaskState, which gets Max Attempts, which creates Attempt, which gets Type, which gets Task Split Meta Info, which gets Splits As String.
+MapTaskImpl acts as a caretaker for memento Clock, which gets Max Attempts, which creates Attempt, which gets Type, which gets Task Split Meta Info, which gets Splits As String.
+MapTaskImpl acts as a caretaker for memento TaskAttemptCompletionEventStatus, which gets Max Attempts, which creates Attempt, which gets Type, which gets Task Split Meta Info, which gets Splits As String.

@@ -1,0 +1,2 @@
+BeanInvokeSingleMethodNoBodyTest acts as a publisher for observer CamelContext, which tests Bean Invoke Single Method No Body, which creates Route Builder.
+BeanInvokeSingleMethodNoBodyTest acts as a publisher for observer Service, which tests Bean Invoke Single Method No Body, which creates Route Builder.

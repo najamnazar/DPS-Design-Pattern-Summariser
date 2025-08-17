@@ -1,0 +1,3 @@
+NodeUnpublishVolumeResponsePBImpl acts as an originator for memento NodeUnpublishVolumeResponse.
+NodeUnpublishVolumeResponsePBImpl acts as a memento, which equals Object parameter of other Code, which equals Object parameter of other Code, which equals Object parameter of other Code.
+NodeUnpublishVolumeResponsePBImpl acts as a caretaker for memento NodeUnpublishVolumeResponse, which gets Proto, which hashes Code, which equals Object parameter of other.

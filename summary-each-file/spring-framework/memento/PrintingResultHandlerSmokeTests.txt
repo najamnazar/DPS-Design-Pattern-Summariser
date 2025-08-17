@@ -1,0 +1,1 @@
+PrintingResultHandlerSmokeTests acts as a caretaker for memento C, which prints Via Consumer, which returns Result And Print, which hellos HttpServletResponse parameter of response.

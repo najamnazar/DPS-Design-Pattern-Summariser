@@ -1,0 +1,3 @@
+SCMAdminProtocol acts as a target for adapter SCMAdminProtocolService, which adapts to SCMAdminProtocol.
+SCMAdminProtocol acts as a target for adapter SCMAdminProtocolPBClientImpl, which adapts to SCMAdminProtocol.
+SCMAdminProtocol acts as an adaptee for adapter SCMAdminProtocolService, which adapts to SCMAdminProtocol, AbstractService.

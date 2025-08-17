@@ -1,0 +1,2 @@
+InvertibleComparator acts as a caretaker for memento Comparator, which sets boolean parameter of ascending Ascending, which is Ascending, which inverts Order, which compares T parameter of o1, T parameter of o2, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+InvertibleComparator acts as a caretaker for memento C, which sets boolean parameter of ascending Ascending, which is Ascending, which inverts Order, which compares T parameter of o1, T parameter of o2, which equals @Nullable parameter of Object, which hashes Code, which tos String.

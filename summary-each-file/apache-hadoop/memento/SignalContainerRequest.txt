@@ -1,0 +1,1 @@
+SignalContainerRequest acts as an originator for memento SignalContainerCommand, which is inherited by, which news ContainerId parameter of containerId, SignalContainerCommand parameter of signalContainerCommand Instance, which gets a SignalContainerCommand Command to, which sets SignalContainerCommand parameter of command Command.

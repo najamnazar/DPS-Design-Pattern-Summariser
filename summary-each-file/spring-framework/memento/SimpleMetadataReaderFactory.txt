@@ -1,0 +1,1 @@
+SimpleMetadataReaderFactory acts as an originator for memento MetadataReader, which gets a MetadataReader Metadata Reader to, which gets a MetadataReader Metadata Reader to.

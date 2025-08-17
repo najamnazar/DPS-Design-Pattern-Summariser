@@ -1,0 +1,2 @@
+AbstractRouterPolicy acts as a product for FederationPolicyManager, which overrides getReservationHomeSubcluster method of FederationRouterPolicy.
+AbstractRouterPolicy acts as a factory for FederationRouterPolicy, which overrides getReservationHomeSubcluster method of FederationRouterPolicy.

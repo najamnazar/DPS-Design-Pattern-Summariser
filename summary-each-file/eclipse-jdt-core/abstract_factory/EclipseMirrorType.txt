@@ -1,0 +1,11 @@
+EclipseMirrorType acts as a product for VariableElement, which overrides.
+EclipseMirrorType acts as a product for TypeParameterElement, which overrides.
+EclipseMirrorType acts as a product for PackageElement, which overrides.
+EclipseMirrorType acts as a product for ParameterDeclaration, which overrides.
+EclipseMirrorType acts as a product for ExecutableType, which overrides.
+EclipseMirrorType acts as a product for ExecutableElement, which overrides.
+EclipseMirrorType acts as a product for Types, which overrides.
+EclipseMirrorType acts as a product for Element, which overrides.
+EclipseMirrorType acts as a product for TypeElement, which overrides.
+EclipseMirrorType acts as an abstract factory for ITypeBinding, which is inherited by TypeParameterDeclarationImpl, VoidTypeImpl, TypeDeclarationImpl, ErrorType.
+EclipseMirrorType acts as a product for ModuleElement, which overrides.

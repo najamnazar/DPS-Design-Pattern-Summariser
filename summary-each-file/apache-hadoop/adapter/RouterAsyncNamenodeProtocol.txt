@@ -1,0 +1,1 @@
+RouterAsyncNamenodeProtocol acts as an adapter, which adapts to RouterNamenodeProtocol, which adapts to RouterNamenodeProtocol, which adapts to RouterNamenodeProtocol, which adapts to RouterNamenodeProtocol, which adapts to RouterNamenodeProtocol, which adapts to RouterNamenodeProtocol.

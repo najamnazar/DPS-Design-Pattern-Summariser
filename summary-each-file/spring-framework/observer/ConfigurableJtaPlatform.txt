@@ -1,0 +1,1 @@
+ConfigurableJtaPlatform acts as a publisher for observer Transaction, which is inherited by, which retrieves Transaction Manager, which retrieves User Transaction, which gets Transaction parameter of transaction Transaction Identifier, which cans Register Synchronization, which registers Synchronization parameter of synchronization Synchronization, which gets Current Status.

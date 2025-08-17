@@ -1,0 +1,2 @@
+BeanCreatingHandlerProvider acts as a publisher for observer BeanFactory, which sets BeanFactory parameter of beanFactory Bean Factory, which destroys T parameter of handler, which gets Handler Type, which gets Handler, which tos String.
+BeanCreatingHandlerProvider acts as a publisher for observer BeanFactory, which is inherited by, which sets BeanFactory parameter of beanFactory Bean Factory, which destroys T parameter of handler, which gets Handler Type, which gets Handler, which tos String.

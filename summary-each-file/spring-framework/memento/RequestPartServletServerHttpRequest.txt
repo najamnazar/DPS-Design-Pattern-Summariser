@@ -1,0 +1,3 @@
+RequestPartServletServerHttpRequest acts as a caretaker for memento A, which gets Headers, which gets Body, which retrieves Servlet Part, which determines Charset.
+RequestPartServletServerHttpRequest acts as a caretaker for memento C, which gets Headers, which gets Body, which retrieves Servlet Part, which determines Charset.
+RequestPartServletServerHttpRequest acts as a caretaker for memento Headers, which gets Headers, which gets Body, which retrieves Servlet Part, which determines Charset.

@@ -1,0 +1,2 @@
+ASTBasedConstructorDeclarationImpl acts as a caretaker for memento C, which accepts DeclarationVisitor parameter of visitor, which kinds.
+ASTBasedConstructorDeclarationImpl acts as a caretaker for memento E, which accepts DeclarationVisitor parameter of visitor, which kinds.

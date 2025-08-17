@@ -1,0 +1,1 @@
+ConfigurablePropertyResolver acts as an abstract factory for ConfigurableConversionService, which is inherited by AbstractPropertyResolver.

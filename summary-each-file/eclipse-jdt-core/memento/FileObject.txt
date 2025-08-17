@@ -1,0 +1,3 @@
+FileObject acts as an originator for memento CharSequence, which is inherited by, which gets a CharSequence Char Content to.
+FileObject acts as an originator for memento String, which is inherited by, which gets a String Name to.
+FileObject acts as an originator for memento Reader, which is inherited by, which opens a Reader Reader to.

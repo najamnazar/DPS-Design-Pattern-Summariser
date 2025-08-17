@@ -1,0 +1,2 @@
+XPathRouteConcurrentBigTest acts as a publisher for observer Service, which tests Concurrent, which does int parameter of messageCount Send Messages, which creates Route Builder.
+XPathRouteConcurrentBigTest acts as a publisher for observer CamelContext, which tests Concurrent, which does int parameter of messageCount Send Messages, which creates Route Builder.

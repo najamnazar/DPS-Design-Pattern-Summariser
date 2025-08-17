@@ -1,0 +1,2 @@
+NoStreamCachingTest acts as a publisher for observer Service, which is Use Route Builder, which sets Up, which tests No Stream Cache, which tests Stream Cache Is Default, which tests Mixed.
+NoStreamCachingTest acts as a publisher for observer CamelContext, which is Use Route Builder, which sets Up, which tests No Stream Cache, which tests Stream Cache Is Default, which tests Mixed.

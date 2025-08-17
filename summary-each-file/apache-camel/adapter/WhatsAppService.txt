@@ -1,0 +1,1 @@
+WhatsAppService acts as an adaptee for adapter WhatsAppEndpoint, which adapts to ScheduledPollEndpoint.

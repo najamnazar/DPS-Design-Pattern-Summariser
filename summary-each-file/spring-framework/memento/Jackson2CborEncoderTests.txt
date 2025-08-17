@@ -1,0 +1,3 @@
+Jackson2CborEncoderTests acts as a caretaker for memento A, which pojos Pojo parameter of expected Consumer, which cans Encode, which cans Not Encode, which encodes, which encodes Stream.
+Jackson2CborEncoderTests acts as a caretaker for memento B, which pojos Pojo parameter of expected Consumer, which cans Encode, which cans Not Encode, which encodes, which encodes Stream.
+Jackson2CborEncoderTests acts as a caretaker for memento C, which pojos Pojo parameter of expected Consumer, which cans Encode, which cans Not Encode, which encodes, which encodes Stream.

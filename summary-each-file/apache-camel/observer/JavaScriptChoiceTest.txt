@@ -1,0 +1,5 @@
+JavaScriptChoiceTest acts as a publisher for observer ProducerTemplate, which tests Java Script Choice, which creates Route Builder.
+JavaScriptChoiceTest acts as a publisher for observer CamelContext, which tests Java Script Choice, which creates Route Builder.
+JavaScriptChoiceTest acts as a publisher for observer FluentProducerTemplate, which tests Java Script Choice, which creates Route Builder.
+JavaScriptChoiceTest acts as a publisher for observer Service, which tests Java Script Choice, which creates Route Builder.
+JavaScriptChoiceTest acts as a publisher for observer ConsumerTemplate, which tests Java Script Choice, which creates Route Builder.

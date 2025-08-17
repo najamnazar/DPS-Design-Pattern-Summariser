@@ -1,0 +1,1 @@
+OutputNode acts as an adaptee for adapter OutputExpressionNode.

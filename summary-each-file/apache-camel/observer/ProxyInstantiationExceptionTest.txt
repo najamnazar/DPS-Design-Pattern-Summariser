@@ -1,0 +1,2 @@
+ProxyInstantiationExceptionTest acts as a publisher for observer CamelContext, which tests Proxy Exception.
+ProxyInstantiationExceptionTest acts as a publisher for observer Service, which tests Proxy Exception.

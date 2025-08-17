@@ -1,0 +1,1 @@
+SchemaVersionProvider acts as an abstract product for AbstractDatabase, which is inherited by SQLSchemaVersionProvider, ConstantSchemaVersionProvider.

@@ -1,0 +1,3 @@
+PackageFragment acts as a factory for IMember, which overrides.
+PackageFragment acts as a factory for ResolveTests, which overrides.
+PackageFragment acts as a factory for IPackageFragment, which overrides.

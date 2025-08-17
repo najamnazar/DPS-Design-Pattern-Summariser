@@ -1,0 +1,2 @@
+MinioIntegrationTestSupport acts as a caretaker for memento Producer.
+MinioIntegrationTestSupport acts as a caretaker for memento Context.

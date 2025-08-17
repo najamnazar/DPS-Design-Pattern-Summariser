@@ -1,0 +1,2 @@
+UnitOfWorkFactory acts as an abstract product for UnitOfWorkFactory, which is inherited by DefaultUnitOfWorkFactory.
+UnitOfWorkFactory acts as an abstract factory for UnitOfWork, which is inherited by DefaultUnitOfWorkFactory.

@@ -1,0 +1,1 @@
+JmsTransferExceptionTest acts as a publisher for observer ArtemisService, which gets Uri, which sets Up, which tests Ok, which tests Transfer Exception, which gets Component Name, which creates Route Builder.

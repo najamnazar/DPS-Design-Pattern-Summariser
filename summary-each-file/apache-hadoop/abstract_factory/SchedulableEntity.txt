@@ -1,0 +1,1 @@
+SchedulableEntity acts as an abstract factory for Priority, which is inherited by SchedulerApplicationAttempt, MockSchedulableEntity.

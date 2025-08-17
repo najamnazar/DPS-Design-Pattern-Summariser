@@ -1,0 +1,1 @@
+TimelineCollectorContext acts as an adaptee for adapter AppLevelTimelineCollector, which adapts to TimelineCollector, which adapts to TimelineCollector, which adapts to TimelineCollector, which adapts to TimelineCollector.

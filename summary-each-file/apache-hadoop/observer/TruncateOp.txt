@@ -1,0 +1,1 @@
+TruncateOp acts as an observer, which gets Truncate File, which runs FileSystem parameter of fs, which waits FileSystem parameter of fs, Path parameter of fn, long parameter of newLength For Recovery.

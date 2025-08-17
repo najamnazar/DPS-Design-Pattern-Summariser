@@ -1,0 +1,2 @@
+AdvisorAdapter acts as a factory for AdvisorAdapter, which overrides.
+AdvisorAdapter acts as a factory method for MethodInterceptor, which is inherited by AdvisorAdapter, AdvisorAdapter, AdvisorAdapter, AdvisorAdapter.

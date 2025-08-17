@@ -1,0 +1,1 @@
+LineNumberAware acts as an adaptee for adapter LogEndpoint, which adapts to ProcessorEndpoint, which adapts to ProcessorEndpoint, which adapts to ProcessorEndpoint, which adapts to ProcessorEndpoint, which adapts to ProcessorEndpoint.

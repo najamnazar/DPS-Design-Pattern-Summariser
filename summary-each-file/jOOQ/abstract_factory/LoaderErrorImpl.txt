@@ -1,0 +1,1 @@
+LoaderErrorImpl acts as a factory for LoaderError, which overrides exception method of LoaderError, rowIndex method of LoaderError, row method of LoaderError, query method of LoaderError.

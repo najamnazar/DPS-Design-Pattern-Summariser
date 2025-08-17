@@ -1,0 +1,2 @@
+MultiErrorHandlerInRouteNotHandledTest acts as a publisher for observer CamelContext, which tests No Errors, which tests Outer Error, which tests Inner Error, which creates Route Builder, which processes Exchange parameter of exchange, which sets String parameter of name Name.
+MultiErrorHandlerInRouteNotHandledTest acts as a publisher for observer Service, which tests No Errors, which tests Outer Error, which tests Inner Error, which creates Route Builder, which processes Exchange parameter of exchange, which sets String parameter of name Name.

@@ -1,0 +1,1 @@
+KerberosAuthenticationHandler acts as a component for decorator DelegationTokenAuthenticationHandler, which overrides initAuthenticationHandler, destroyAuthenticationHandler, getTypeAuthenticationHandler, managementOperationAuthenticationHandler.

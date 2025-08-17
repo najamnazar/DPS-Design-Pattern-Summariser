@@ -1,0 +1,1 @@
+CacheManager acts as an observer for publisher TransactionAwareCacheManagerProxy, which is inherited by CaffeineCacheManager, CompositeCacheManager, ConcurrentMapCacheManager, TransactionAwareCacheManagerProxy, NoOpCacheManager, AbstractCacheManager, which gets String parameter of name Cache, which gets Cache Names.

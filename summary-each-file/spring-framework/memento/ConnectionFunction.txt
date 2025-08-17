@@ -1,0 +1,1 @@
+ConnectionFunction acts as a caretaker for memento C, which applies Connection parameter of t, which gets Sql.

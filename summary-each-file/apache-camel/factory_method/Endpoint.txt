@@ -1,0 +1,4 @@
+Endpoint acts as a factory for EmptyProducerCache, which overrides.
+Endpoint acts as a factory for CamelPostProcessorHelperTest, which overrides.
+Endpoint acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+Endpoint acts as a factory for TransformerRouteTest, which overrides.

@@ -1,0 +1,1 @@
+ITestBean acts as an observer for publisher XmlBeanFactoryTests, which is inherited by AspectJAutoProxyCreatorTests, OtherTestBean, which is Initialized, which is Destroyed, which gets Other Bean.

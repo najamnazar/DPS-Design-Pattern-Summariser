@@ -1,0 +1,1 @@
+ConcurrentMapCacheFactoryBean acts as a caretaker for memento C, which sets String parameter of name Name, which sets ConcurrentMap<Object, parameter of Object> Store, which sets boolean parameter of allowNullValues Allow Null Values, which sets String parameter of beanName Bean Name, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.

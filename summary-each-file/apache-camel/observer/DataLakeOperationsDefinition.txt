@@ -1,0 +1,1 @@
+DataLakeOperationsDefinition acts as an observer for publisher DataLakeConfiguration, which is inherited by.

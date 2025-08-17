@@ -1,0 +1,1 @@
+AWS2DeleteTableRuleIT acts as a caretaker for memento Producer, which deletes Table, which creates Route Builder.

@@ -1,0 +1,1 @@
+ZoneSelector acts as a publisher for observer Name, which is inherited by RegistryDNS, which finds Name parameter of name Best Zone.

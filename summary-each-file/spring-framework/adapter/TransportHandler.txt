@@ -1,0 +1,1 @@
+TransportHandler acts as an adaptee for adapter DefaultSockJsServiceTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests.

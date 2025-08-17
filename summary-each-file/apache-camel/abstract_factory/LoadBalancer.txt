@@ -1,0 +1,2 @@
+LoadBalancer acts as a product for AnnotationBasedProcessorFactory, which overrides.
+LoadBalancer acts as a product for InternalProcessorFactory, which overrides.

@@ -1,0 +1,1 @@
+MatchableHandlerMapping acts as a component for PathPatternMatchableHandlerMapping, which is inherited by RequestMappingHandlerMapping, AbstractUrlHandlerMapping.

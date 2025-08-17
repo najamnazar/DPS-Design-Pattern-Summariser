@@ -1,0 +1,1 @@
+InvariantsChecker acts as a target for adapter MetricsInvariantChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts to InvariantsChecker.

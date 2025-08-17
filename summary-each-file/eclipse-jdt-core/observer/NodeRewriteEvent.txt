@@ -1,0 +1,2 @@
+NodeRewriteEvent acts as a publisher for observer Object, which is inherited by, which gets New Value, which gets Original Value, which gets Change Kind, which is List Rewrite, which sets Object parameter of newValue New Value, which gets Children, which tos String.
+NodeRewriteEvent acts as an observer, which gets New Value, which gets Original Value, which gets Change Kind, which is List Rewrite, which sets Object parameter of newValue New Value, which gets Children, which tos String.

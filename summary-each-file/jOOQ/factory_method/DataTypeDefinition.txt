@@ -1,0 +1,2 @@
+DataTypeDefinition acts as an abstract product for ArrayDefinition, which is inherited by DefaultDataTypeDefinition.
+DataTypeDefinition acts as a factory for Xmlpi, which overrides.

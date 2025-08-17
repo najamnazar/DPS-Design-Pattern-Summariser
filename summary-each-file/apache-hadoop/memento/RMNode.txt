@@ -1,0 +1,1 @@
+RMNode acts as an originator for memento NodeState, which is inherited by, which gets a NodeState State to.

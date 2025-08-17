@@ -1,0 +1,2 @@
+BBPartHandle acts as a product for BBPartHandle, which overrides bytes method of PartHandle, equals method of PartHandle.
+BBPartHandle acts as a factory method for PartHandle, which is inherited by AbstractContractMultipartUploaderTest, AbstractContractMultipartUploaderTest.

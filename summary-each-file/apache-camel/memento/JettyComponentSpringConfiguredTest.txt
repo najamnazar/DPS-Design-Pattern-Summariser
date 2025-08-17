@@ -1,0 +1,1 @@
+JettyComponentSpringConfiguredTest acts as a caretaker for memento Context, which uses Jmx, which creates Application Context, which gets Translation Properties, which tests Jetty2.

@@ -1,0 +1,2 @@
+X34 acts as a caretaker for memento S.
+X34 acts as a caretaker for memento String.

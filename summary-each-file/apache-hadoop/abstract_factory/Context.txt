@@ -1,0 +1,2 @@
+Context acts as an abstract factory for HdfsFileStatus, NetworkTopology, which is inherited by ExternalSPSContext.
+Context acts as an abstract product for Context, which is inherited by ExternalSPSContext.

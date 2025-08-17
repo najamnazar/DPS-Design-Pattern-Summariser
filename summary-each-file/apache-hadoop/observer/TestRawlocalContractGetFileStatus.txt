@@ -1,0 +1,2 @@
+TestRawlocalContractGetFileStatus acts as a publisher for observer Path, which creates Configuration parameter of conf Contract.
+TestRawlocalContractGetFileStatus acts as a publisher for observer PathFilter, which creates Configuration parameter of conf Contract.

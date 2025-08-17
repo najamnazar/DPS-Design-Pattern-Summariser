@@ -1,0 +1,1 @@
+BZip2TextFileWriter acts as an observer, which writes int parameter of totalSize, int parameter of numRecords, byte[] parameter of delimiter Many Records, which writes int parameter of totalSize, byte[] parameter of delimiter Record, which writes String parameter of bytes, which writes byte[] parameter of bytes, which closes.

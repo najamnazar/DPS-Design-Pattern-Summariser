@@ -1,0 +1,2 @@
+TokenXMLPairNamespaceSplitChildNamespaceTest acts as a publisher for observer CamelContext, which tests Token XMLPair, which tests Token XMLPair2, which creates Body, which creates Route Builder.
+TokenXMLPairNamespaceSplitChildNamespaceTest acts as a publisher for observer Service, which tests Token XMLPair, which tests Token XMLPair2, which creates Body, which creates Route Builder.

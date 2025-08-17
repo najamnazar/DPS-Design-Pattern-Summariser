@@ -1,0 +1,5 @@
+JettyHttpTest acts as a publisher for observer Service, which tests Get Root Path, which tests Get With Relative Path, which creates Route Builder.
+JettyHttpTest acts as a publisher for observer ProducerTemplate, which tests Get Root Path, which tests Get With Relative Path, which creates Route Builder.
+JettyHttpTest acts as a publisher for observer ConsumerTemplate, which tests Get Root Path, which tests Get With Relative Path, which creates Route Builder.
+JettyHttpTest acts as a publisher for observer FluentProducerTemplate, which tests Get Root Path, which tests Get With Relative Path, which creates Route Builder.
+JettyHttpTest acts as a publisher for observer CamelContext, which tests Get Root Path, which tests Get With Relative Path, which creates Route Builder.

@@ -1,0 +1,5 @@
+JmsEndpoint acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+JmsEndpoint acts as a factory for TransformerRouteTest, which overrides.
+JmsEndpoint acts as a product for SplunkEndpoint, which overrides stop method of Service.
+JmsEndpoint acts as a factory for JmsConfiguration, which overrides.
+JmsEndpoint acts as a factory for CamelPostProcessorHelperTest, which overrides.

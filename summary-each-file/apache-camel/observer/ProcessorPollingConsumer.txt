@@ -1,0 +1,1 @@
+ProcessorPollingConsumer acts as a publisher for observer ExceptionHandler, which gets Processor, which does Build, which does Init, which does Start, which does Stop, which receives, which receives No Wait, which receives long parameter of timeout, which is Singleton.

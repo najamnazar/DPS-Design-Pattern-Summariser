@@ -1,0 +1,1 @@
+TimelinePrefixFilter acts as a memento, which equals Object parameter of obj Code, which equals Object parameter of obj Code, which equals Object parameter of obj Code, which equals Object parameter of obj Code, which equals Object parameter of obj Code, which equals Object parameter of obj Code.

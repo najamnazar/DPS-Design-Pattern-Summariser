@@ -1,0 +1,2 @@
+DefaultFactoryRegistry acts as a product for DefaultFactoryRegistry, which overrides unregister method of FactoryRegistry, findForFormattingOptions method of FactoryRegistry.
+DefaultFactoryRegistry acts as a factory method for FactoryRegistry, which is inherited by BindyAbstractDataFormat, FactoryRegistry, BindyAbstractDataFormat, BindyAbstractDataFormat.

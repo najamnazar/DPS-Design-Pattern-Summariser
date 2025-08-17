@@ -1,0 +1,4 @@
+AbstractSalesforceTestBase acts as a target for adapter ChangeEventsConsumerIntegrationTest, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase.
+AbstractSalesforceTestBase acts as a target for adapter SalesforceComponentIntegrationTest, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase.
+AbstractSalesforceTestBase acts as a target for adapter HttpProxyIntegrationTest, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase.
+AbstractSalesforceTestBase acts as a target for adapter RestApiIntegrationTest, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase, which adapts to AbstractSalesforceTestBase.

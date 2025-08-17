@@ -1,0 +1,1 @@
+DefaultBindingResolver acts as a factory method for IMemberValuePairBinding, which is inherited by BindingResolver.

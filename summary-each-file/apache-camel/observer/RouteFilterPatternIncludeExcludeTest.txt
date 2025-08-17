@@ -1,0 +1,5 @@
+RouteFilterPatternIncludeExcludeTest acts as a publisher for observer CamelContext, which gets Route Filter Include Pattern, which gets Route Filter Exclude Pattern, which tests Route Filter, which creates Route Builder.
+RouteFilterPatternIncludeExcludeTest acts as a publisher for observer ProducerTemplate, which gets Route Filter Include Pattern, which gets Route Filter Exclude Pattern, which tests Route Filter, which creates Route Builder.
+RouteFilterPatternIncludeExcludeTest acts as a publisher for observer ConsumerTemplate, which gets Route Filter Include Pattern, which gets Route Filter Exclude Pattern, which tests Route Filter, which creates Route Builder.
+RouteFilterPatternIncludeExcludeTest acts as a publisher for observer FluentProducerTemplate, which gets Route Filter Include Pattern, which gets Route Filter Exclude Pattern, which tests Route Filter, which creates Route Builder.
+RouteFilterPatternIncludeExcludeTest acts as a publisher for observer Service, which gets Route Filter Include Pattern, which gets Route Filter Exclude Pattern, which tests Route Filter, which creates Route Builder.

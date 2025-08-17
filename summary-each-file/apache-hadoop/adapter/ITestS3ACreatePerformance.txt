@@ -1,0 +1,1 @@
+ITestS3ACreatePerformance acts as an adapter, which adapts to S3AScaleTestBase, which adapts to S3AScaleTestBase, which adapts getPathIteration method of Path to S3AScaleTestBase.

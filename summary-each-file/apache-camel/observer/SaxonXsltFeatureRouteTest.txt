@@ -1,0 +1,5 @@
+SaxonXsltFeatureRouteTest acts as a publisher for observer ConsumerTemplate, which tests Send Message, which sends String parameter of uri, String parameter of message Xml Message, which creates Route Builder.
+SaxonXsltFeatureRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Send Message, which sends String parameter of uri, String parameter of message Xml Message, which creates Route Builder.
+SaxonXsltFeatureRouteTest acts as a publisher for observer Service, which tests Send Message, which sends String parameter of uri, String parameter of message Xml Message, which creates Route Builder.
+SaxonXsltFeatureRouteTest acts as a publisher for observer ProducerTemplate, which tests Send Message, which sends String parameter of uri, String parameter of message Xml Message, which creates Route Builder.
+SaxonXsltFeatureRouteTest acts as a publisher for observer CamelContext, which tests Send Message, which sends String parameter of uri, String parameter of message Xml Message, which creates Route Builder.

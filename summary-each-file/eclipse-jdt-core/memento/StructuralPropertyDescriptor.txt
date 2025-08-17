@@ -1,0 +1,4 @@
+StructuralPropertyDescriptor acts as a caretaker for memento String, which is inherited by, which gets Id, which gets Node Class, which is Simple Property, which is Child Property, which is Child List Property, which tos String.
+StructuralPropertyDescriptor acts as a caretaker for memento Class, which is inherited by, which gets Id, which gets Node Class, which is Simple Property, which is Child Property, which is Child List Property, which tos String.
+StructuralPropertyDescriptor acts as a caretaker for memento C, which is inherited by, which gets Id, which gets Node Class, which is Simple Property, which is Child Property, which is Child List Property, which tos String.
+StructuralPropertyDescriptor acts as a caretaker for memento S, which is inherited by, which gets Id, which gets Node Class, which is Simple Property, which is Child Property, which is Child List Property, which tos String.

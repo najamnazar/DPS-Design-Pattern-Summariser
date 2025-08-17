@@ -1,0 +1,1 @@
+MetricsMessageHistoryFactory acts as a factory method for MessageHistory, which is inherited by MessageHistoryFactory, CamelInternalProcessor, MessageHistoryFactory, MessageHistoryFactory, MessageHistoryFactory.

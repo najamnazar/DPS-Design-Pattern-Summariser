@@ -1,0 +1,5 @@
+BindyMarshalWithQuoteTest acts as a publisher for observer Service, which tests Bindy Marshal With Quote, which creates Route Builder.
+BindyMarshalWithQuoteTest acts as a publisher for observer ProducerTemplate, which tests Bindy Marshal With Quote, which creates Route Builder.
+BindyMarshalWithQuoteTest acts as a publisher for observer CamelContext, which tests Bindy Marshal With Quote, which creates Route Builder.
+BindyMarshalWithQuoteTest acts as a publisher for observer ConsumerTemplate, which tests Bindy Marshal With Quote, which creates Route Builder.
+BindyMarshalWithQuoteTest acts as a publisher for observer FluentProducerTemplate, which tests Bindy Marshal With Quote, which creates Route Builder.

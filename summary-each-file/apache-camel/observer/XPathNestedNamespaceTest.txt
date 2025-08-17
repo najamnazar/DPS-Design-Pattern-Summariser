@@ -1,0 +1,2 @@
+XPathNestedNamespaceTest acts as a publisher for observer CamelContext, which tests XPath Namespace, which creates Route Builder.
+XPathNestedNamespaceTest acts as a publisher for observer Service, which tests XPath Namespace, which creates Route Builder.

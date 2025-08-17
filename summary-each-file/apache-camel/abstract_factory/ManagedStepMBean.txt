@@ -1,0 +1,2 @@
+ManagedStepMBean acts as an abstract product for ManagedStepMBean, which is inherited by ManagedStep.
+ManagedStepMBean acts as a product for ManagedCamelContext, which overrides.

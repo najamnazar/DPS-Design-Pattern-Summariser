@@ -1,0 +1,2 @@
+PropertiesComponentDefaultFunctionsTest acts as a publisher for observer Service, which is Use Route Builder, which anies Non Empty Environment Variable, which tests Function, which tests Function Get Or Else.
+PropertiesComponentDefaultFunctionsTest acts as a publisher for observer CamelContext, which is Use Route Builder, which anies Non Empty Environment Variable, which tests Function, which tests Function Get Or Else.

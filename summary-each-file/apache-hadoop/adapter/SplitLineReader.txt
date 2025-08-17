@@ -1,0 +1,1 @@
+SplitLineReader acts as a target for adapter CompressedSplitLineReader, which adapts to SplitLineReader.

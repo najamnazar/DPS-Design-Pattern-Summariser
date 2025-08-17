@@ -1,0 +1,1 @@
+SslInfo acts as an abstract product for AbstractServerHttpRequest, which is inherited by DefaultSslInfo.

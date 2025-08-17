@@ -1,0 +1,3 @@
+NodeBase acts as a product for InnerNode, which overrides getName method of Node, hashCode method of Node, toString method of Node, getParent method of Node, getLevel method of Node.
+NodeBase acts as a product for ClusterStory, which overrides getName method of Node, hashCode method of Node, toString method of Node, getParent method of Node, getLevel method of Node.
+NodeBase acts as a product for RMNode, which overrides getName method of Node, hashCode method of Node, toString method of Node, getParent method of Node, getLevel method of Node.

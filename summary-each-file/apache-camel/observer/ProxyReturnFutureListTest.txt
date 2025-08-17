@@ -1,0 +1,2 @@
+ProxyReturnFutureListTest acts as a publisher for observer CamelContext, which tests Future List, which tests Future List Call Two Times, which creates Route Builder, which gets boolean parameter of gold Users.
+ProxyReturnFutureListTest acts as a publisher for observer Service, which tests Future List, which tests Future List Call Two Times, which creates Route Builder, which gets boolean parameter of gold Users.

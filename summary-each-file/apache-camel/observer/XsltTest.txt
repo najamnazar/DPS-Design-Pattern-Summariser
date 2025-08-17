@@ -1,0 +1,2 @@
+XsltTest acts as a publisher for observer CamelContext, which tests Xslt, which creates Route Builder.
+XsltTest acts as a publisher for observer Service, which tests Xslt, which creates Route Builder.

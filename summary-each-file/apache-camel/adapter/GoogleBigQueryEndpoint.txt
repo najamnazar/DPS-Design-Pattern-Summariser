@@ -1,0 +1,1 @@
+GoogleBigQueryEndpoint acts as an adapter, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

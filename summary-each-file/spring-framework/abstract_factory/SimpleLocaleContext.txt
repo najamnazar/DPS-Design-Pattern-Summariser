@@ -1,0 +1,2 @@
+SimpleLocaleContext acts as a product for LocaleContextResolver, which overrides getLocale method of LocaleContext.
+SimpleLocaleContext acts as a product for ServerWebExchange, which overrides getLocale method of LocaleContext.

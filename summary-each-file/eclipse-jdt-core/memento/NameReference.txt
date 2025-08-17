@@ -1,0 +1,1 @@
+NameReference acts as a caretaker for memento Binding, which is inherited by, which fields Binding, which is Super Access, which is Type Access, which is Type Reference, which sets ReferenceBinding parameter of receiverType Actual Receiver Type, which sets int parameter of depth Depth, which sets int parameter of index Field Index, which unbounds Reference Error Name.

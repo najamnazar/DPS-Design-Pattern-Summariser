@@ -1,0 +1,1 @@
+GistResource acts as a caretaker for memento Context, which exists, which gets Input Stream.

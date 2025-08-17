@@ -1,0 +1,2 @@
+PublishEventNotifierToRouteTest acts as a publisher for observer Service, which uses Jmx, which creates Camel Context, which tests Exchange Done, which tests Exchange Failed, which creates Route Builder.
+PublishEventNotifierToRouteTest acts as a publisher for observer CamelContext, which uses Jmx, which creates Camel Context, which tests Exchange Done, which tests Exchange Failed, which creates Route Builder.

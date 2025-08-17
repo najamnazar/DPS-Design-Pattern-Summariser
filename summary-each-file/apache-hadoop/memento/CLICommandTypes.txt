@@ -1,0 +1,1 @@
+CLICommandTypes acts as a memento, which is inherited by CLICommandCacheAdmin, CLICommandArchive, CLICommandFS, CLICommandDFSAdmin, CLICommandMRAdmin, CLICommandErasureCodingCli, CLICommandCryptoAdmin.

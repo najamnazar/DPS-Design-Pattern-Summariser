@@ -1,0 +1,2 @@
+Counters acts as an abstract factory for Counter, CounterGroup, which is inherited by CountersPBImpl.
+Counters acts as an abstract product for Counters, which is inherited by CountersPBImpl.

@@ -1,0 +1,1 @@
+SampleTaggedMapOutput acts as a publisher for observer Text, which gets Data, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields.

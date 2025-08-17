@@ -1,0 +1,1 @@
+TestHdfsCryptoStreams acts as an adapter, which adapts to CryptoStreamsTestBase, which adapts to CryptoStreamsTestBase, which adapts to CryptoStreamsTestBase, which adapts to CryptoStreamsTestBase, which adapts to CryptoStreamsTestBase, which adapts to CryptoStreamsTestBase.

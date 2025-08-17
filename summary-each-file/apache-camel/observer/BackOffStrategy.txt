@@ -1,0 +1,1 @@
+BackOffStrategy acts as an observer for publisher IterationBoundedBudgetBuilder, which is inherited by FixedBackOffStrategy, which calculates int parameter of iteration Interval.

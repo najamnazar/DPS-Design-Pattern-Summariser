@@ -1,0 +1,2 @@
+SimpleQueryPart acts as an adaptee for adapter QueryPartCollectionView, which adapts to AbstractQueryPart.
+SimpleQueryPart acts as an adaptee for adapter AbstractName, which adapts to AbstractQueryPart.

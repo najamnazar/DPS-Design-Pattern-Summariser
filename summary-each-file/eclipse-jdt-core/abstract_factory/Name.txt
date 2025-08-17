@@ -1,0 +1,3 @@
+Name acts as an abstract product for Name, which is inherited by NameImpl, QualifiedName, SimpleName, ModuleQualifiedName.
+Name acts as an abstract product for Name, which is inherited by NameImpl, NameImpl, QualifiedName, QualifiedName, SimpleName, SimpleName, ModuleQualifiedName, ModuleQualifiedName.
+Name acts as a product for IPolyExpression, which overrides.

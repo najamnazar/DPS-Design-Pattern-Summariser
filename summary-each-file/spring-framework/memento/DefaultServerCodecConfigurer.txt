@@ -1,0 +1,4 @@
+DefaultServerCodecConfigurer acts as a memento, which clones Default Codecs, which clones Default Codecs, which clones Default Codecs.
+DefaultServerCodecConfigurer acts as a caretaker for memento C, which defaults Codecs, which clones, which clones Default Codecs.
+DefaultServerCodecConfigurer acts as a caretaker for memento Message, which defaults Codecs, which clones, which clones Default Codecs.
+DefaultServerCodecConfigurer acts as a caretaker for memento B, which defaults Codecs, which clones, which clones Default Codecs.

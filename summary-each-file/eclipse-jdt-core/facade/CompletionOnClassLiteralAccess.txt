@@ -1,0 +1,1 @@
+CompletionOnClassLiteralAccess acts as a facade for subsystem ClassLiteralAccess, which printExpression calls print method of Expression, which resolveType calls resolveType method of ClassLiteralAccess.

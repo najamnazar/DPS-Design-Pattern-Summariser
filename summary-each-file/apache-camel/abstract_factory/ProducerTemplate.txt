@@ -1,0 +1,3 @@
+ProducerTemplate acts as an abstract factory for CamelContext, Exchange, Endpoint, which is inherited by DefaultProducerTemplate.
+ProducerTemplate acts as an abstract product for ProducerTemplate, which is inherited by DefaultProducerTemplate.
+ProducerTemplate acts as an abstract product for ProducerTemplate, which is inherited by DefaultProducerTemplate, DefaultProducerTemplate.

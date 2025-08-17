@@ -1,0 +1,3 @@
+AbstractRequestExpectationManager acts as a factory for AbstractRequestExpectationManager, which overrides.
+AbstractRequestExpectationManager acts as a factory for ClientHttpRequest, which overrides.
+AbstractRequestExpectationManager acts as a factory method for RequestExpectation, which is inherited by AbstractRequestExpectationManager, AbstractRequestExpectationManager.

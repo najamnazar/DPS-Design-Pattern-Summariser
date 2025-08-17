@@ -1,0 +1,1 @@
+ImportConflictBinding acts as an observer, which readables Name, which tos String.

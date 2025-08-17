@@ -1,0 +1,1 @@
+CacheResolverAdapterTests acts as a caretaker for memento C, which resolves Simple Cache, which resolves Unknown Cache, which gets CacheInvocationContext<? parameter of extends, String parameter of cacheName Cache Resolver, which creates Dummy Context, which gets String parameter of id.

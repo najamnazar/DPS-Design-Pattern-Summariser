@@ -1,0 +1,2 @@
+InlineMap acts as an observer, which checks If Constant, which gets ExpressionState parameter of expressionState Value Internal, which tos String AST, which is Constant, which gets Constant Value.
+InlineMap acts as a publisher for observer SpelNodeImpl, which checks If Constant, which gets ExpressionState parameter of expressionState Value Internal, which tos String AST, which is Constant, which gets Constant Value.

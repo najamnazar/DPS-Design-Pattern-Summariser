@@ -1,0 +1,1 @@
+LoadingTestCollector acts as a publisher for observer Class, which is inherited by, which is String parameter of classFileName Test Class, which classes String parameter of classFileName From File, which is Class parameter of testClass Test Class, which has Class parameter of testClass Suite Method, which has Class parameter of testClass Public Constructor.

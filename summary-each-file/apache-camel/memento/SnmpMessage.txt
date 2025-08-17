@@ -1,0 +1,1 @@
+SnmpMessage acts as a memento, which creates Body, which creates Body, which creates Body, which creates Body.

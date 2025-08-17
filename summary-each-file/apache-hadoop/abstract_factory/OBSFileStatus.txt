@@ -1,0 +1,2 @@
+OBSFileStatus acts as a product for FSWrapper, which overrides.
+OBSFileStatus acts as a product for HdfsFileStatus, which overrides.

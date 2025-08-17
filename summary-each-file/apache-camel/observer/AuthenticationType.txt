@@ -1,0 +1,1 @@
+AuthenticationType acts as an observer for publisher SalesforceComponent, which is inherited by.

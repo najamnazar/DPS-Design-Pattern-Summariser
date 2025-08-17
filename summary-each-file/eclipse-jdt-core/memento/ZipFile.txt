@@ -1,0 +1,1 @@
+ZipFile acts as an originator for memento ZipEntry, which gets a ZipEntry Entry to, which gets ZipEntry parameter of zipEntry Input Stream.

@@ -1,0 +1,1 @@
+ModuleVisitor acts as a target for adapter ModuleWriter, which adapts to ModuleVisitor, which adapts to ModuleVisitor, which adapts to ModuleVisitor, which adapts to ModuleVisitor, which adapts to ModuleVisitor, which adapts to ModuleVisitor, which adapts to ModuleVisitor, which adapts to ModuleVisitor.

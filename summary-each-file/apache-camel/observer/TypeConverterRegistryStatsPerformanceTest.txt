@@ -1,0 +1,2 @@
+TypeConverterRegistryStatsPerformanceTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Transform, which creates Route Builder, which transforms String parameter of in Me, which transforms String parameter of in Me Also.
+TypeConverterRegistryStatsPerformanceTest acts as a publisher for observer Service, which creates Camel Context, which tests Transform, which creates Route Builder, which transforms String parameter of in Me, which transforms String parameter of in Me Also.

@@ -1,0 +1,1 @@
+DebeziumMySqlComponent acts as a caretaker for memento Configuration, which gets Configuration, which sets MySqlConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, MySqlConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

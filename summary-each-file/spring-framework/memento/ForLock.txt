@@ -1,0 +1,2 @@
+ForLock acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which tos Keyword, which tos Keyword.
+ForLock acts as a caretaker for memento Keyword, which accepts Context<?> parameter of ctx, which tos Keyword, which tos Keyword.

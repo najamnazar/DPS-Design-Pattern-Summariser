@@ -1,0 +1,1 @@
+S3ARetryPolicy acts as an adapter, which adapts to RetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy.

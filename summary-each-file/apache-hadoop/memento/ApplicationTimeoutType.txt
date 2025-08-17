@@ -1,0 +1,1 @@
+ApplicationTimeoutType acts as a memento.

@@ -1,0 +1,2 @@
+RemoveFromClusterNodeLabelsResponse acts as an originator for memento RemoveFromClusterNodeLabelsResponse, which is inherited by, which news a RemoveFromClusterNodeLabelsResponse Instance to.
+RemoveFromClusterNodeLabelsResponse acts as a memento, which is inherited by RemoveFromClusterNodeLabelsResponsePBImpl, which news Instance.

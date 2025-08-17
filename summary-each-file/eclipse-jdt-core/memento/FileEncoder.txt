@@ -1,0 +1,2 @@
+FileEncoder acts as a caretaker for memento String, which gets int parameter of i Bit Index, which encodes Integer[] parameter of codePoints, Environment parameter of environment, String parameter of exportDirectory Resource Files.
+FileEncoder acts as a caretaker for memento S, which gets int parameter of i Bit Index, which encodes Integer[] parameter of codePoints, Environment parameter of environment, String parameter of exportDirectory Resource Files.

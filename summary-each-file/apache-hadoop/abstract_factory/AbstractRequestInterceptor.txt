@@ -1,0 +1,2 @@
+AbstractRequestInterceptor acts as a product for RequestInterceptor, which overrides setNextInterceptor method of RequestInterceptor, recover method of RequestInterceptor, shutdown method of RequestInterceptor, getNextInterceptor method of RequestInterceptor.
+AbstractRequestInterceptor acts as a factory for RequestInterceptor, which overrides setNextInterceptor method of RequestInterceptor, recover method of RequestInterceptor, shutdown method of RequestInterceptor, getNextInterceptor method of RequestInterceptor.

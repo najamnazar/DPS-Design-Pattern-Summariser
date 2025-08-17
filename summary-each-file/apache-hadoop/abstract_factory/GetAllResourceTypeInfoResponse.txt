@@ -1,0 +1,1 @@
+GetAllResourceTypeInfoResponse acts as an abstract product for GetAllResourceTypeInfoResponse, which is inherited by GetAllResourceTypeInfoResponsePBImpl.

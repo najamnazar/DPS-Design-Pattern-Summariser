@@ -1,0 +1,3 @@
+ReservationInvariantsChecker acts as a publisher for observer RMContext, which edits Schedule.
+ReservationInvariantsChecker acts as a publisher for observer Configuration, which edits Schedule.
+ReservationInvariantsChecker acts as a publisher for observer ResourceScheduler, which edits Schedule.

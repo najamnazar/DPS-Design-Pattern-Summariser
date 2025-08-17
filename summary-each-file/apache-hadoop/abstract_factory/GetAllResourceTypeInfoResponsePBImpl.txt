@@ -1,0 +1,1 @@
+GetAllResourceTypeInfoResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides hashCode method of GetAllResourceTypeInfoResponse, setResourceTypeInfo method of GetAllResourceTypeInfoResponse, getResourceTypeInfo method of GetAllResourceTypeInfoResponse, equals method of GetAllResourceTypeInfoResponse.

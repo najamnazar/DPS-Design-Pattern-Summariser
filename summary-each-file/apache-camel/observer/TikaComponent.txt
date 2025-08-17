@@ -1,0 +1,2 @@
+TikaComponent acts as a publisher for observer ComponentExtension, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which creates String parameter of uri, TikaConfiguration parameter of tikaConfiguration Endpoint.
+TikaComponent acts as a publisher for observer CamelContext, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which creates String parameter of uri, TikaConfiguration parameter of tikaConfiguration Endpoint.

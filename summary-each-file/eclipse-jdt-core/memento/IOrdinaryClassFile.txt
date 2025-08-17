@@ -1,0 +1,1 @@
+IOrdinaryClassFile acts as a memento, which gets Type.

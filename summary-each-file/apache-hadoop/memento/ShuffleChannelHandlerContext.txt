@@ -1,0 +1,1 @@
+ShuffleChannelHandlerContext acts as a caretaker for memento Index, which sets int parameter of port Port.

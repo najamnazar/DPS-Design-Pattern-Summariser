@@ -1,0 +1,1 @@
+IConstantPool acts as an originator for memento IConstantPoolEntry, which decodes an IConstantPoolEntry Entry to.

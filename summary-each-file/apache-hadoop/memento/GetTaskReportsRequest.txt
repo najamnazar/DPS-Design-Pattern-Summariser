@@ -1,0 +1,1 @@
+GetTaskReportsRequest acts as an originator for memento TaskType, which is inherited by, which gets a TaskType Task Type to, which sets TaskType parameter of taskType Task Type.

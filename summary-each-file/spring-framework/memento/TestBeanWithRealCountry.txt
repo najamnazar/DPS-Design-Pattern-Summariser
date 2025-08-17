@@ -1,0 +1,4 @@
+TestBeanWithRealCountry acts as a caretaker for memento ApplicationContext, which sets Country parameter of realCountry Real Country, which gets Real Country.
+TestBeanWithRealCountry acts as a caretaker for memento B, which sets Country parameter of realCountry Real Country, which gets Real Country.
+TestBeanWithRealCountry acts as a caretaker for memento A, which sets Country parameter of realCountry Real Country, which gets Real Country.
+TestBeanWithRealCountry acts as a caretaker for memento C, which sets Country parameter of realCountry Real Country, which gets Real Country.

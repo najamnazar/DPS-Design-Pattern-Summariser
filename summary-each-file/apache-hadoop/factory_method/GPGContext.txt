@@ -1,0 +1,1 @@
+GPGContext acts as an abstract product for ApplicationCleaner, which is inherited by GPGContextImpl.

@@ -1,0 +1,2 @@
+FailTaskAttemptResponsePBImpl acts as a memento, which maybes Init Builder, which maybes Init Builder.
+FailTaskAttemptResponsePBImpl acts as a caretaker for memento FailTaskAttemptResponse, which gets Proto, which maybes Init Builder.

@@ -1,0 +1,1 @@
+DefaultDevConsoleResolver acts as a caretaker for memento Context, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which resolves String parameter of id Dev Console, which finds String parameter of name, CamelContext parameter of context Dev Console, which lookups String parameter of id Dev Console.

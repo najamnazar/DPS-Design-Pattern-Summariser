@@ -1,0 +1,2 @@
+AdlPermission acts as an observer, which gets Acl Bit, which equals Object parameter of obj, which hashes Code.
+AdlPermission acts as a publisher for observer FsAction, which gets Acl Bit, which equals Object parameter of obj, which hashes Code.

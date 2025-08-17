@@ -1,0 +1,2 @@
+ChoiceWithTranfromTest acts as a publisher for observer Service, which creates Route Builder, which processes @Body parameter of String Rejected Message, which processes @Body parameter of String Message, which tests Route.
+ChoiceWithTranfromTest acts as a publisher for observer CamelContext, which creates Route Builder, which processes @Body parameter of String Rejected Message, which processes @Body parameter of String Message, which tests Route.

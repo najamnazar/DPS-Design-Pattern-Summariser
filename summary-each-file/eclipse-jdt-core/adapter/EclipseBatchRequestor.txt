@@ -1,0 +1,2 @@
+EclipseBatchRequestor acts as an adapter, which adapts to ICompilerRequestor, which adapts reportProblems method of DefaultProblemFactory to ICompilerRequestor.
+EclipseBatchRequestor acts as an adapter, which adapts to ICompilerRequestor, which adapts reportProblems method of Main to ICompilerRequestor.

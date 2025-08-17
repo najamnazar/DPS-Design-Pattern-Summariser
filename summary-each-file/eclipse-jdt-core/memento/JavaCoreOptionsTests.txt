@@ -1,0 +1,5 @@
+JavaCoreOptionsTests acts as a caretaker for memento String, which suites, which test1s, which test2s, which test3s, which test4s, which test5s.
+JavaCoreOptionsTests acts as a caretaker for memento E, which suites, which test1s, which test2s, which test3s, which test4s, which test5s.
+JavaCoreOptionsTests acts as a caretaker for memento S, which suites, which test1s, which test2s, which test3s, which test4s, which test5s.
+JavaCoreOptionsTests acts as a caretaker for memento C, which suites, which test1s, which test2s, which test3s, which test4s, which test5s.
+JavaCoreOptionsTests acts as a caretaker for memento Class, which suites, which test1s, which test2s, which test3s, which test4s, which test5s.

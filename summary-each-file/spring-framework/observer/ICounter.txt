@@ -1,0 +1,1 @@
+ICounter acts as an observer for publisher PropertyDependentAspectTests, which is inherited by Counter, which increments, which decrements, which gets Count, which sets int parameter of counter Count, which resets.

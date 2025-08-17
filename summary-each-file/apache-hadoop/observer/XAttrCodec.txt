@@ -1,0 +1,1 @@
+XAttrCodec acts as an observer for publisher FSOperations, which is inherited by, which decodes String parameter of value Value, which encodes byte[] parameter of value, XAttrCodec parameter of encoding Value.

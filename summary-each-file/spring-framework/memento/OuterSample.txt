@@ -1,0 +1,3 @@
+OuterSample acts as a caretaker for memento A, which registers com.google.protobuf.ExtensionRegistry parameter of registry All Extensions, which gets Descriptor, which assigns com.google.protobuf.Descriptors.FileDescriptor parameter of root Descriptors.
+OuterSample acts as a caretaker for memento File, which registers com.google.protobuf.ExtensionRegistry parameter of registry All Extensions, which gets Descriptor, which assigns com.google.protobuf.Descriptors.FileDescriptor parameter of root Descriptors.
+OuterSample acts as a caretaker for memento Message, which registers com.google.protobuf.ExtensionRegistry parameter of registry All Extensions, which gets Descriptor, which assigns com.google.protobuf.Descriptors.FileDescriptor parameter of root Descriptors.

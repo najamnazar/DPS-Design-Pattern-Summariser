@@ -1,0 +1,1 @@
+XMLAttributes acts as an observer, which $attributeses.

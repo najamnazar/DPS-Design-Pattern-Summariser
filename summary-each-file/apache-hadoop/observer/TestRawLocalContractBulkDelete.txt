@@ -1,0 +1,1 @@
+TestRawLocalContractBulkDelete acts as a publisher for observer Path, which creates Configuration parameter of conf Contract.

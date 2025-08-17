@@ -1,0 +1,2 @@
+SoapCxfServerTest acts as a caretaker for memento Customer, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as a caretaker for memento Configuration, which tests Success, which tests Fault, which configures.

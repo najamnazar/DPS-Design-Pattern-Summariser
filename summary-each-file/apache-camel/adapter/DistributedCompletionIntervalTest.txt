@@ -1,0 +1,1 @@
+DistributedCompletionIntervalTest acts as an adapter, which adapts to AbstractDistributedTest, which adapts to AbstractDistributedTest, which adapts sendMessages method of MemoryAggregationRepository, sendMessages method of MemoryAggregationRepository to AbstractDistributedTest, which adapts to AbstractDistributedTest, which adapts to AbstractDistributedTest.

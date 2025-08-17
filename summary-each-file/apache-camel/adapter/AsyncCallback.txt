@@ -1,0 +1,16 @@
+AsyncCallback acts as an adaptee for adapter ThreadsProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncCallback acts as an adaptee for adapter FinallyProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+AsyncCallback acts as an adaptee for adapter DelayProcessorSupport, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+AsyncCallback acts as an adaptee for adapter AsyncEndpointRoutingSlipBeanNonBlockingTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+AsyncCallback acts as an adaptee for adapter NettyHttpProducer, which adapts to NettyProducer, which adapts to NettyProducer.
+AsyncCallback acts as an adaptee for adapter Pipeline, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncCallback acts as an adaptee for adapter TryProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncCallback acts as an adaptee for adapter FailOverLoadBalancer, which adapts to LoadBalancerSupport, which adapts to LoadBalancerSupport.
+AsyncCallback acts as an adaptee for adapter RestProducerBindingProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+AsyncCallback acts as an adaptee for adapter WireTapProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncCallback acts as an adaptee for adapter LoopProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+AsyncCallback acts as an adaptee for adapter CamelInternalProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+AsyncCallback acts as an adaptee for adapter IdempotentConsumer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncCallback acts as an adaptee for adapter CxfRsProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+AsyncCallback acts as an adaptee for adapter MulticastProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncCallback acts as an adaptee for adapter MDCUnitOfWork, which adapts to DefaultUnitOfWork, which adapts to DefaultUnitOfWork.

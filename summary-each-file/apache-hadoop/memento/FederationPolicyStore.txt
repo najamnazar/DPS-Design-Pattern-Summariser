@@ -1,0 +1,3 @@
+FederationPolicyStore acts as an originator for memento SetSubClusterPolicyConfigurationResponse, which is inherited by, which sets a SetSubClusterPolicyConfigurationResponse Policy Configuration to.
+FederationPolicyStore acts as an originator for memento DeletePoliciesConfigurationsResponse, which is inherited by, which deletes a DeletePoliciesConfigurationsResponse All Policies Configurations to.
+FederationPolicyStore acts as an originator for memento DeleteSubClusterPoliciesConfigurationsResponse, which is inherited by, which deletes a DeleteSubClusterPoliciesConfigurationsResponse Policies Configurations to.

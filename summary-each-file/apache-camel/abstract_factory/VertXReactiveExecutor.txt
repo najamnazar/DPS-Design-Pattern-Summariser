@@ -1,0 +1,2 @@
+VertXReactiveExecutor acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+VertXReactiveExecutor acts as a product for ExtendedCamelContext, which overrides schedule method of ReactiveExecutor, scheduleMain method of ReactiveExecutor, scheduleSync method of ReactiveExecutor, scheduleQueue method of ReactiveExecutor, executeFromQueue method of ReactiveExecutor, setStatisticsEnabled method of ReactiveExecutor, isStatisticsEnabled method of ReactiveExecutor.

@@ -1,0 +1,1 @@
+KafkaConsumerAuthInvalidIT acts as a publisher for observer KafkaService, which befores, which afters, which creates Route Builder, which kafkas Message Is Consumed By Camel.

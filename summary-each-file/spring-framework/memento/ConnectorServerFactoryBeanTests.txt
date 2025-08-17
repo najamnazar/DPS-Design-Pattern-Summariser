@@ -1,0 +1,1 @@
+ConnectorServerFactoryBeanTests acts as a caretaker for memento B, which startups With Located Server, which startups With Supplied Server, which registers With MBean Server, which nos Register With MBean Server, which checks MBeanServer parameter of hostedServer Server Connection.

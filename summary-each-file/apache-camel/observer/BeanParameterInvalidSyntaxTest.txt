@@ -1,0 +1,2 @@
+BeanParameterInvalidSyntaxTest acts as a publisher for observer CamelContext, which tests Bean Parameter Invalid Syntax, which creates Registry, which creates Route Builder, which echoes String parameter of body, int parameter of times.
+BeanParameterInvalidSyntaxTest acts as a publisher for observer Service, which tests Bean Parameter Invalid Syntax, which creates Registry, which creates Route Builder, which echoes String parameter of body, int parameter of times.

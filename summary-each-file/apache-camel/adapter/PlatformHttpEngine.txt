@@ -1,0 +1,1 @@
+PlatformHttpEngine acts as an adaptee for adapter PlatformHttpComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

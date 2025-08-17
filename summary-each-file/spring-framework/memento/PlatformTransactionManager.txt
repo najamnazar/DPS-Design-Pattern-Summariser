@@ -1,0 +1,1 @@
+PlatformTransactionManager acts as a memento, which rollbacks TransactionStatus parameter of status Transaction, which rollbacks TransactionStatus parameter of status Transaction, which rollbacks TransactionStatus parameter of status Transaction.

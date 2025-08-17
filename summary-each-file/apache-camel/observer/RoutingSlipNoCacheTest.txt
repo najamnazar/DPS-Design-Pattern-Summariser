@@ -1,0 +1,2 @@
+RoutingSlipNoCacheTest acts as a publisher for observer CamelContext, which tests No Cache, which sends String parameter of body Body, which creates Route Builder.
+RoutingSlipNoCacheTest acts as a publisher for observer Service, which tests No Cache, which sends String parameter of body Body, which creates Route Builder.

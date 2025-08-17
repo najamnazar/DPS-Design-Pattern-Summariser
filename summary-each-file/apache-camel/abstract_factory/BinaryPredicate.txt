@@ -1,0 +1,6 @@
+BinaryPredicate acts as a product for DefaultErrorHandlerProperties, which overrides.
+BinaryPredicate acts as a product for ModelCamelContext, which overrides.
+BinaryPredicate acts as an abstract factory for Expression, which is inherited by BinaryPredicateSupport, TimeClause.
+BinaryPredicate acts as a product for DeadLetterChannelProperties, which overrides.
+BinaryPredicate acts as a product for PredicateFactory, which overrides.
+BinaryPredicate acts as a product for ModelReifierFactory, which overrides.

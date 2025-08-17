@@ -1,0 +1,1 @@
+WindowSpecificationRowsStep acts as a factory for WindowDefinitionImpl, which overrides.

@@ -1,0 +1,1 @@
+MicrometerRouteEventNotifier acts as a publisher for observer MicrometerRouteEventNotifierNamingStrategy, which is inherited by, which gets Naming Strategy, which sets MicrometerRouteEventNotifierNamingStrategy parameter of namingStrategy Naming Strategy, which does Start, which notifies CamelEvent parameter of eventObject.

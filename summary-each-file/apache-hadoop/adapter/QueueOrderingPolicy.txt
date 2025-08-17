@@ -1,0 +1,1 @@
+QueueOrderingPolicy acts as an adaptee for adapter AbstractParentQueue, which adapts to AbstractCSQueue, which adapts to AbstractCSQueue, which adapts to AbstractCSQueue.

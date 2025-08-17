@@ -1,0 +1,1 @@
+MDCSupportTest acts as a publisher for observer SpanTestData, which creates Camel Context, which tests Route, which creates Route Builder.

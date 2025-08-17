@@ -1,0 +1,2 @@
+CollectorNodemanagerProtocol acts as an adaptee for adapter NMCollectorService, which adapts to CompositeService, which adapts to CompositeService.
+CollectorNodemanagerProtocol acts as an adaptee for adapter NodeTimelineCollectorManager, which adapts to TimelineCollectorManager, which adapts to TimelineCollectorManager.

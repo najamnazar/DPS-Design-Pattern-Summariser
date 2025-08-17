@@ -1,0 +1,1 @@
+TypeWithManyElements acts as a publisher for observer String, which is inherited by, which foos long parameter of l, which bars, which foobars Float parameter of b, String parameter of st.

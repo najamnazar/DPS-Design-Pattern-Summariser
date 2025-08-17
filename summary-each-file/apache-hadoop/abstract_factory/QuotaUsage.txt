@@ -1,0 +1,1 @@
+QuotaUsage acts as an abstract product for QuotaUsage, which is inherited by RouterQuotaUsage, ContentSummary.

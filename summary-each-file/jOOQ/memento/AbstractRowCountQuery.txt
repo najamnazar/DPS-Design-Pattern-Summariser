@@ -1,0 +1,1 @@
+AbstractRowCountQuery acts as a memento, which subscribes Subscriber<? parameter of super.

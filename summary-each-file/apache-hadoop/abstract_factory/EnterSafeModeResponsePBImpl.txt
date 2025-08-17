@@ -1,0 +1,1 @@
+EnterSafeModeResponsePBImpl acts as a product for RouterStateManager, which overrides getStatus method of EnterSafeModeResponse, setStatus method of EnterSafeModeResponse.

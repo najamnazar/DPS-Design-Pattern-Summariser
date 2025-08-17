@@ -1,0 +1,10 @@
+FederationStateStore acts as an originator for memento DeletePoliciesConfigurationsResponse.
+FederationStateStore acts as an originator for memento SetSubClusterPolicyConfigurationResponse.
+FederationStateStore acts as an originator for memento UpdateApplicationHomeSubClusterResponse.
+FederationStateStore acts as an originator for memento SubClusterRegisterResponse.
+FederationStateStore acts as an originator for memento UpdateReservationHomeSubClusterResponse.
+FederationStateStore acts as an originator for memento SubClusterDeregisterResponse.
+FederationStateStore acts as an originator for memento DeleteSubClusterPoliciesConfigurationsResponse.
+FederationStateStore acts as an originator for memento DeleteApplicationHomeSubClusterResponse.
+FederationStateStore acts as an originator for memento SubClusterHeartbeatResponse.
+FederationStateStore acts as an originator for memento DeleteReservationHomeSubClusterResponse.

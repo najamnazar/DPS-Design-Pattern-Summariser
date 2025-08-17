@@ -1,0 +1,2 @@
+TestReplicationPolicyExcludeSlowNodes acts as a publisher for observer DatanodeDescriptor, which datas, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Target Exclude Slow Nodes, which tests Slow Peer Tracker Enabled Clear Slow Nodes.
+TestReplicationPolicyExcludeSlowNodes acts as a publisher for observer DatanodeStorageInfo, which datas, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Target Exclude Slow Nodes, which tests Slow Peer Tracker Enabled Clear Slow Nodes.

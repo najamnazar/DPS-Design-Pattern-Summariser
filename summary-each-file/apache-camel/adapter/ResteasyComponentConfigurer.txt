@@ -1,0 +1,1 @@
+ResteasyComponentConfigurer acts as an adapter, which adapts to HttpComponentConfigurer, which adapts to HttpComponentConfigurer, which adapts to HttpComponentConfigurer.

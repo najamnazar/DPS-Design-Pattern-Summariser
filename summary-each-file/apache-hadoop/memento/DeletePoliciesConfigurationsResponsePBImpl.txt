@@ -1,0 +1,3 @@
+DeletePoliciesConfigurationsResponsePBImpl acts as a caretaker for memento DeletePoliciesConfigurationsResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+DeletePoliciesConfigurationsResponsePBImpl acts as an originator for memento DeletePoliciesConfigurationsResponse.
+DeletePoliciesConfigurationsResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.

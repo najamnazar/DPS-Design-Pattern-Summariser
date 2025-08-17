@@ -1,0 +1,2 @@
+JGroupsConsumerTest acts as a caretaker for memento Context, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.
+JGroupsConsumerTest acts as a caretaker for memento Producer, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Consume Multicasted Message, which shoulds Keep Original Message.

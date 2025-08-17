@@ -1,0 +1,5 @@
+DataTypeDefinition acts as an abstract product for DataTypeDefinition, which is inherited by DefaultDataTypeDefinition.
+DataTypeDefinition acts as an abstract product for DataTypeDefinition, which is inherited by DefaultDataTypeDefinition, DefaultDataTypeDefinition.
+DataTypeDefinition acts as an abstract factory for Database, Name, which is inherited by DefaultDataTypeDefinition.
+DataTypeDefinition acts as an abstract product for DataTypeDefinition, which is inherited by DefaultDataTypeDefinition, DefaultDataTypeDefinition, DefaultDataTypeDefinition.
+DataTypeDefinition acts as an abstract product for DataTypeDefinition, which is inherited by DefaultDataTypeDefinition, DefaultDataTypeDefinition, DefaultDataTypeDefinition, DefaultDataTypeDefinition.

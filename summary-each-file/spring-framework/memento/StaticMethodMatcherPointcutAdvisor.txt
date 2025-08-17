@@ -1,0 +1,3 @@
+StaticMethodMatcherPointcutAdvisor acts as a caretaker for memento A, which is inherited by, which sets int parameter of order Order, which gets Order, which sets Advice parameter of advice Advice, which gets Advice, which is Per Instance, which gets Pointcut.
+StaticMethodMatcherPointcutAdvisor acts as a caretaker for memento C, which sets int parameter of order Order, which gets Order, which sets Advice parameter of advice Advice, which gets Advice, which is Per Instance, which gets Pointcut.
+StaticMethodMatcherPointcutAdvisor acts as a caretaker for memento Advice, which is inherited by, which sets int parameter of order Order, which gets Order, which sets Advice parameter of advice Advice, which gets Advice, which is Per Instance, which gets Pointcut.

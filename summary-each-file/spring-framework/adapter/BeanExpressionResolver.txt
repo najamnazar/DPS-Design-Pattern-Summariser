@@ -1,0 +1,1 @@
+BeanExpressionResolver acts as an adaptee for adapter AbstractBeanFactory, which adapts to FactoryBeanRegistrySupport.

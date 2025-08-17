@@ -1,0 +1,1 @@
+ApplicationStartupAware acts as a publisher for observer ApplicationStartup, which is inherited by ConfigurationClassPostProcessor, which sets ApplicationStartup parameter of applicationStartup Application Startup.

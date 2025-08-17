@@ -1,0 +1,1 @@
+JobFactory acts as a factory method for JobStory, which is inherited by JobStoryProducer, GridmixJob, JobStoryProducer, GridmixJob, JobStoryProducer, GridmixJob, GridmixJob.

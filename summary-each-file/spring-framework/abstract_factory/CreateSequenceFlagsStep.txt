@@ -1,0 +1,3 @@
+CreateSequenceFlagsStep acts as an abstract product for CreateSequenceFlagsStep, which is inherited by CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl.
+CreateSequenceFlagsStep acts as an abstract product for CreateSequenceFlagsStep, which is inherited by CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl, CreateSequenceImpl.
+CreateSequenceFlagsStep acts as an abstract factory for CreateSequenceFlagsStep, which is inherited by CreateSequenceImpl.

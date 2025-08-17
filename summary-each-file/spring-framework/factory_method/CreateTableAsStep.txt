@@ -1,0 +1,2 @@
+CreateTableAsStep acts as a factory for CreateTableAsStep, which overrides.
+CreateTableAsStep acts as a factory method for CreateTableWithDataStep, which is inherited by CreateTableAsStep, CreateTableAsStep.

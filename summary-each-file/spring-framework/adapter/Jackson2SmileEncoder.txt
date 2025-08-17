@@ -1,0 +1,1 @@
+Jackson2SmileEncoder acts as an adapter, which adapts to AbstractJackson2Encoder.

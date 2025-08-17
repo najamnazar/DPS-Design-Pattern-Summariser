@@ -1,0 +1,1 @@
+ArtifactDownloadListener acts as an observer for publisher MavenDependencyDownloader, which is inherited by BasePackageScanDownloadListener, TypeConverterLoaderDownloadListener, which ons File parameter of file Downloaded File.

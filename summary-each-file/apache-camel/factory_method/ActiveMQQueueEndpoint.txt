@@ -1,0 +1,1 @@
+ActiveMQQueueEndpoint acts as a factory method for QueueBrowseStrategy, which is inherited by JmsComponent, JmsQueueEndpoint, JmsComponent.

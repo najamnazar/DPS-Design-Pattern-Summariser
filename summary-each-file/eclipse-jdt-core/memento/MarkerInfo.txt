@@ -1,0 +1,2 @@
+MarkerInfo acts as a caretaker for memento String, which gets Severity, which is Error, which copies IMarker parameter of marker Into Marker.
+MarkerInfo acts as a caretaker for memento S, which gets Severity, which is Error, which copies IMarker parameter of marker Into Marker.

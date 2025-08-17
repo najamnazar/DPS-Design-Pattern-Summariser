@@ -1,0 +1,1 @@
+AppContext acts as an originator for memento Clock, which is inherited by, which gets a Clock Clock to.

@@ -1,0 +1,13 @@
+Catalog acts as a visitor for element Catalog, which is inherited by CallbackExecuteListener, FetchServerOutputListener, ExecuteListeners, StopWatchListener, ExceptionTranslator, LoggerListener, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by AbstractName, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by DefaultDataTypeDefinition, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by Geography, Geometry, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by AlterTableImpl, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by WithImpl, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by CaseImpl, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by XMLQuery, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by DefaultExecutorProvider, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by VersionsImpl, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as an element for visitor Catalog, which is inherited by CatalogImpl, LazyCatalog, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.
+Catalog acts as a visitor for element Catalog, which is inherited by Like, NotSimilarTo, QuantifiedComparisonCondition, SimilarTo, NotLike, NotLikeIgnoreCase, LikeIgnoreCase, which gets a Schemas to, which gets a Schema to, which gets a Schema to, which schemas a Stream to.

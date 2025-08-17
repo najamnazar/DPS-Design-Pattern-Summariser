@@ -1,0 +1,2 @@
+AbstractApplicationEventMulticaster acts as a factory method for ConfigurableBeanFactory, which is inherited by AbstractApplicationEventMulticaster.
+AbstractApplicationEventMulticaster acts as a factory for AbstractApplicationEventMulticaster, which overrides.

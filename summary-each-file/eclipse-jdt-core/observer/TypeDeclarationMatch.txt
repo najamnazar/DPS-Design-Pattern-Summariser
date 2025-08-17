@@ -1,0 +1,3 @@
+TypeDeclarationMatch acts as a publisher for observer Object.
+TypeDeclarationMatch acts as a publisher for observer SearchParticipant.
+TypeDeclarationMatch acts as an observer.

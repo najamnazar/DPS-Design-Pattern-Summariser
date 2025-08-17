@@ -1,0 +1,2 @@
+TypedBytesWritable acts as an observer, which sets Object parameter of obj Value, which gets Value, which gets Type, which tos String.
+TypedBytesWritable acts as an observer for publisher TypedBytesWritableOutput, which is inherited by, which sets Object parameter of obj Value, which gets Value, which gets Type, which tos String.

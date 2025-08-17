@@ -1,0 +1,1 @@
+CLICommand acts as an abstract factory for CLICommandTypes, CommandExecutor, which is inherited by CLITestCmd.

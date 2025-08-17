@@ -1,0 +1,1 @@
+FunctionalExpression acts as a product for IPolyExpression, which overrides setExpectedType method of Expression.

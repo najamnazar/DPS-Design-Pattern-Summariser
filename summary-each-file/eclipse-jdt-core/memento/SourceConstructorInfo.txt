@@ -1,0 +1,1 @@
+SourceConstructorInfo acts as a caretaker for memento ITypeParameter, which is Annotation Method, which is Constructor, which gets Return Type Name, which sets char[] parameter of type Return Type.

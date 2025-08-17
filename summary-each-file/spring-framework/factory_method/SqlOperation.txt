@@ -1,0 +1,2 @@
+SqlOperation acts as a factory for SqlOperation, which overrides.
+SqlOperation acts as a factory method for PreparedStatementSetter, which is inherited by SqlOperation, SqlOperation.

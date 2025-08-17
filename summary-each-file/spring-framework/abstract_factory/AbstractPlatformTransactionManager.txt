@@ -1,0 +1,1 @@
+AbstractPlatformTransactionManager acts as a factory for PlatformTransactionManager, which overrides getTransaction method of PlatformTransactionManager, commit method of PlatformTransactionManager, rollback method of PlatformTransactionManager.

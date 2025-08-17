@@ -1,0 +1,2 @@
+BaseProcessor acts as a caretaker for memento E, which is inherited by, which reports String parameter of value Error, which reports Success, which reports Failure, which inits ProcessingEnvironment parameter of processingEnv.
+BaseProcessor acts as a caretaker for memento E, which reports String parameter of value Error, which reports Success, which reports Failure, which inits ProcessingEnvironment parameter of processingEnv.

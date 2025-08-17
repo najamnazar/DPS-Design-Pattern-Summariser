@@ -1,0 +1,2 @@
+ITestAbfsDurationTrackers acts as a publisher for observer AzureBlobFileSystem, which tests Abfs Http Calls Durations, which asserts IOStatistics parameter of ioStatistics Duration Tracker.
+ITestAbfsDurationTrackers acts as a publisher for observer Configuration, which tests Abfs Http Calls Durations, which asserts IOStatistics parameter of ioStatistics Duration Tracker.

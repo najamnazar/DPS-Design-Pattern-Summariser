@@ -1,0 +1,2 @@
+IConstantPoolEntry2 acts as an originator for memento String.
+IConstantPoolEntry2 acts as a memento, which gets Bootstrap Method Attribute Index, which gets Bootstrap Method Attribute Index, which gets Bootstrap Method Attribute Index, which gets Bootstrap Method Attribute Index.

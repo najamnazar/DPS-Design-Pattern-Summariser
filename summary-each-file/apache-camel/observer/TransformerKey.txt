@@ -1,0 +1,2 @@
+TransformerKey acts as a publisher for observer DataType, which is inherited by, which creates DataType parameter of from, DataType parameter of to Key String, which gets Scheme, which gets From, which gets To, which tos String.
+TransformerKey acts as an observer for publisher DefaultTransformerRegistry, which is inherited by, which creates DataType parameter of from, DataType parameter of to Key String, which gets Scheme, which gets From, which gets To, which tos String.

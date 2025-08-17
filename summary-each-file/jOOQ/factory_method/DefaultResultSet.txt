@@ -1,0 +1,2 @@
+DefaultResultSet acts as a factory for LoggingConnection, which overrides.
+DefaultResultSet acts as a factory for MockResultSet, which overrides.

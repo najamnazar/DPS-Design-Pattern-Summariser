@@ -1,0 +1,1 @@
+RabbitMQRequeueQpidIT acts as a caretaker for memento Producer, which tests No Requeue Header Causes Reject, which tests Non Boolean Requeue Header Causes Reject, which tests False Requeue Header Causes Reject.

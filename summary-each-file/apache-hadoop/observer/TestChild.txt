@@ -1,0 +1,1 @@
+TestChild acts as a publisher for observer Path, which is inherited by, which setups Context parameter of context, which setups Context parameter of context, which submits JobConf parameter of conf, int parameter of numMaps, int parameter of numReds, boolean parameter of oldConfigs And Validate Job, which tests Child, which accepts Path parameter of path.

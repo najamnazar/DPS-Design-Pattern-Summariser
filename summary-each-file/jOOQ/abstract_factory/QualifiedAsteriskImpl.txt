@@ -1,0 +1,2 @@
+QualifiedAsteriskImpl acts as a product for QualifiedAsterisk, which overrides qualifier method of QualifiedAsterisk, except method of QualifiedAsterisk, except method of QualifiedAsterisk, $table method of QualifiedAsterisk, $except method of QualifiedAsterisk.
+QualifiedAsteriskImpl acts as a factory for QualifiedAsterisk, which overrides qualifier method of QualifiedAsterisk, except method of QualifiedAsterisk, except method of QualifiedAsterisk, $table method of QualifiedAsterisk, $except method of QualifiedAsterisk.

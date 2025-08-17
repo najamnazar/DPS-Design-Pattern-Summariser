@@ -1,0 +1,2 @@
+AdviceWithOnExceptionMultipleIssueTest acts as a publisher for observer CamelContext, which is Use Route Builder, which creates Route Builder, which tests Simple Multiple Advice, which tests Multiple Advice With Exception Thrown, which tests Multiple Advice.
+AdviceWithOnExceptionMultipleIssueTest acts as a publisher for observer Service, which is Use Route Builder, which creates Route Builder, which tests Simple Multiple Advice, which tests Multiple Advice With Exception Thrown, which tests Multiple Advice.

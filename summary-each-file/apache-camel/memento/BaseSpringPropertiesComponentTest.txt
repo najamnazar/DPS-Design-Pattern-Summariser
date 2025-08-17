@@ -1,0 +1,1 @@
+BaseSpringPropertiesComponentTest acts as a caretaker for memento Context, which creates Application Context, which tests Spring Properties Component Start, which tests Spring Properties Component Bar, which tests Spring Properties Component Start2, which tests Spring Properties Component Bar2.

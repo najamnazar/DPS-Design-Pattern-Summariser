@@ -1,0 +1,1 @@
+InnerNodeImpl acts as a factory for InnerNode, which overrides getChildren method of InnerNode, getNumOfChildren method of InnerNode, add method of InnerNode, remove method of InnerNode, getLoc method of InnerNode, getLeaf method of InnerNode, getNumOfLeaves method of InnerNode.

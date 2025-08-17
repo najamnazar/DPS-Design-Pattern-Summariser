@@ -1,0 +1,2 @@
+MarkerFileExclusiveReadLockStrategyTest acts as a publisher for observer Service, which tests Multithreaded Locking, which writes Files, which creates Route Builder, which waits Until Completed, which asserts Path parameter of file File Does Not Exists.
+MarkerFileExclusiveReadLockStrategyTest acts as a publisher for observer CamelContext, which tests Multithreaded Locking, which writes Files, which creates Route Builder, which waits Until Completed, which asserts Path parameter of file File Does Not Exists.

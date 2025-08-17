@@ -1,0 +1,2 @@
+ThreadsCoreAndMaxPoolInvalidTest acts as a publisher for observer CamelContext, which tests Invalid Syntax.
+ThreadsCoreAndMaxPoolInvalidTest acts as a publisher for observer Service, which tests Invalid Syntax.

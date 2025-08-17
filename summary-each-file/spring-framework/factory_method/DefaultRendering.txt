@@ -1,0 +1,1 @@
+DefaultRendering acts as a product for DefaultRenderingBuilder, which overrides view method of Rendering, modelAttributes method of Rendering, status method of Rendering, headers method of Rendering.

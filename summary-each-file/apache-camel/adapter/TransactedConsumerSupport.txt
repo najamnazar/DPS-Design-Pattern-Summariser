@@ -1,0 +1,1 @@
+TransactedConsumerSupport acts as an adapter, which adapts getBrokerUri method of ArtemisService to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts addRoute method of ArtemisService to CamelTestSupport.

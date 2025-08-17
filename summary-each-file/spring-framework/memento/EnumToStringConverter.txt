@@ -1,0 +1,1 @@
+EnumToStringConverter acts as a caretaker for memento C, which converts Enum<?> parameter of source.

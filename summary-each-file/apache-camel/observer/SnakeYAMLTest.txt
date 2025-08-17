@@ -1,0 +1,5 @@
+SnakeYAMLTest acts as a publisher for observer ProducerTemplate, which yamls Cases, which tests Marshal And Unmarshal, which creates Route Builder.
+SnakeYAMLTest acts as a publisher for observer CamelContext, which yamls Cases, which tests Marshal And Unmarshal, which creates Route Builder.
+SnakeYAMLTest acts as a publisher for observer FluentProducerTemplate, which yamls Cases, which tests Marshal And Unmarshal, which creates Route Builder.
+SnakeYAMLTest acts as a publisher for observer ConsumerTemplate, which yamls Cases, which tests Marshal And Unmarshal, which creates Route Builder.
+SnakeYAMLTest acts as a publisher for observer Service, which yamls Cases, which tests Marshal And Unmarshal, which creates Route Builder.

@@ -1,0 +1,5 @@
+DataBinder acts as a factory method for BindingErrorProcessor, which is inherited by DataBinder.
+DataBinder acts as a factory for DirectFieldBindingResult, which overrides.
+DataBinder acts as a product for BindingResult, which overrides registerCustomEditor method of PropertyEditorRegistry, registerCustomEditor method of PropertyEditorRegistry, findCustomEditor method of PropertyEditorRegistry.
+DataBinder acts as a factory for BindingResult, which overrides registerCustomEditor method of BindingResult, registerCustomEditor method of BindingResult, findCustomEditor method of BindingResult.
+DataBinder acts as a factory for DataBinder, which overrides.

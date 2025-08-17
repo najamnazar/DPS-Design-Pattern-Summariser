@@ -1,0 +1,1 @@
+ApplicationState acts as an observer for publisher MockApp, which is inherited by.

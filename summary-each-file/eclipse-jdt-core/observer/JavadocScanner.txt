@@ -1,0 +1,2 @@
+JavadocScanner acts as a publisher for observer NLSLine, which scans For String Literal, which processes boolean parameter of checkIfUnicode Single Quotes, which scans For Single Quote String Literal, which scans Regex Character.
+JavadocScanner acts as an observer, which scans For String Literal, which processes boolean parameter of checkIfUnicode Single Quotes, which scans For Single Quote String Literal, which scans Regex Character.

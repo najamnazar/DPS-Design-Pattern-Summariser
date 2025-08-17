@@ -1,0 +1,1 @@
+QualifiedTypeDeclarationPattern acts as an adapter, which adapts to TypeDeclarationPattern, which adapts to TypeDeclarationPattern, which adapts to TypeDeclarationPattern, which adapts to TypeDeclarationPattern.

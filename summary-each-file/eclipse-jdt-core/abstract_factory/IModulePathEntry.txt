@@ -1,0 +1,1 @@
+IModulePathEntry acts as an abstract factory for IModule, which is inherited by ProjectEntry, ClasspathSourceDirectory, ModulePathEntry, JrtPackageFragmentRoot.

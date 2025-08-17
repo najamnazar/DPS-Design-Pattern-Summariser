@@ -1,0 +1,1 @@
+ResultsImpl acts as a product for ResultQuery, which overrides resultsOrRows method of Results, detach method of Results.

@@ -1,0 +1,1 @@
+FieldCondition acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx, which $fields, which $fields Field<Boolean> parameter of newValue, which $constructors, which equals Object parameter of that.

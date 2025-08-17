@@ -1,0 +1,2 @@
+AddToClusterNodeLabelsResponse acts as an originator for memento AddToClusterNodeLabelsResponse, which is inherited by, which news an AddToClusterNodeLabelsResponse Instance to.
+AddToClusterNodeLabelsResponse acts as a memento, which is inherited by AddToClusterNodeLabelsResponsePBImpl, which news Instance.

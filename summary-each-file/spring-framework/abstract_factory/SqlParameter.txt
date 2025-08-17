@@ -1,0 +1,1 @@
+SqlParameter acts as an abstract product for SqlParameter, which is inherited by SqlReturnUpdateCount, SqlReturnUpdateCount, SqlReturnUpdateCount, ResultSetSupportingSqlParameter, ResultSetSupportingSqlParameter, ResultSetSupportingSqlParameter, SqlParameterValue, SqlParameterValue, SqlParameterValue.

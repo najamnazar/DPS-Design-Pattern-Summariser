@@ -1,0 +1,2 @@
+ExpressionAdapter acts as an adapter, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport.
+ExpressionAdapter acts as a target for adapter TokenPairExpressionIterator, which adapts to ExpressionAdapter, which adapts to ExpressionAdapter, which adapts to ExpressionAdapter.

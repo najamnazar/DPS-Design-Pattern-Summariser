@@ -1,0 +1,1 @@
+DevConsoleResolver acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultDevConsoleResolver, which resolves String parameter of id Dev Console, which lookups String parameter of id Dev Console.

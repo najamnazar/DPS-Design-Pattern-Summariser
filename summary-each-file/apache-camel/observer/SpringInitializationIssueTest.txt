@@ -1,0 +1,2 @@
+SpringInitializationIssueTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Temp, which gets String parameter of beanName Names List.
+SpringInitializationIssueTest acts as a publisher for observer Service, which creates Camel Context, which tests Temp, which gets String parameter of beanName Names List.

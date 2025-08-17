@@ -1,0 +1,2 @@
+ReplicaInfo acts as a product for BlockSender, which overrides getStorageUuid method of Replica, isOnTransientStorage method of Replica.
+ReplicaInfo acts as a factory for FsVolumeReference, which overrides.

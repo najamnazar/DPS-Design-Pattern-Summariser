@@ -1,0 +1,2 @@
+NamedNode acts as a factory for NamedRoute, which overrides.
+NamedNode acts as an abstract product for NamedRoute, which is inherited by OptionalIdentifiedDefinition.

@@ -1,0 +1,1 @@
+FieldAccessBean acts as a caretaker for memento B, which gets Name, which gets Age, which gets Spouse.

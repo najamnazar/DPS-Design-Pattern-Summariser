@@ -1,0 +1,1 @@
+Translate2ClientFactory acts as an originator for memento Translate2InternalClient, which gets a Translate2InternalClient Translate Client to.

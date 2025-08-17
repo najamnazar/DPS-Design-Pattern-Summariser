@@ -1,0 +1,1 @@
+ResourceManagerAdministrationProtocol acts as an abstract product for RouterCLI, which is inherited by RouterRMAdminService, AdminService, MockResourceManagerFacade, ResourceManagerAdministrationProtocolPBClientImpl.

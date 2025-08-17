@@ -1,0 +1,2 @@
+SplitStopOnExceptionIssueTest acts as a publisher for observer CamelContext, which tests Split, which creates Route Builder.
+SplitStopOnExceptionIssueTest acts as a publisher for observer Service, which tests Split, which creates Route Builder.

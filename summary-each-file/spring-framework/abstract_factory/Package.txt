@@ -1,0 +1,1 @@
+Package acts as an abstract product for Package, which is inherited by PackageImpl.

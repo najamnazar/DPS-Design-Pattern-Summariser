@@ -1,0 +1,1 @@
+MethodNameRequestor acts as an adaptee for adapter MethodNameRequestorWrapper, which adapts to IRestrictedAccessMethodRequestor.

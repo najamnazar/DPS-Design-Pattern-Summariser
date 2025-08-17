@@ -1,0 +1,2 @@
+ExceptionBuilderWithHandledExceptionTest acts as a publisher for observer CamelContext, which tests Handled Exception, which tests Handled Exception With Expression, which tests Unhandled Exception, which creates Route Builder.
+ExceptionBuilderWithHandledExceptionTest acts as a publisher for observer Service, which tests Handled Exception, which tests Handled Exception With Expression, which tests Unhandled Exception, which creates Route Builder.

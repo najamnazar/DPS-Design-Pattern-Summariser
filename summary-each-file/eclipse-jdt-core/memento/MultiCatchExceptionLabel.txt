@@ -1,0 +1,2 @@
+MultiCatchExceptionLabel acts as a caretaker for memento Binding, which initializes UnionTypeReference parameter of typeReference, Annotation[] parameter of annotations, which places, which places End, which places Start, which gets Count.
+MultiCatchExceptionLabel acts as a caretaker for memento E, which initializes UnionTypeReference parameter of typeReference, Annotation[] parameter of annotations, which places, which places End, which places Start, which gets Count.

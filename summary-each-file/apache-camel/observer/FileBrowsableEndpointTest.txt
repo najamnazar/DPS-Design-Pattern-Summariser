@@ -1,0 +1,2 @@
+FileBrowsableEndpointTest acts as a publisher for observer CamelContext, which tests Browsable No Files, which tests Browsable One File, which tests Browsable Two Files, which tests Browsable Three Files Recursive.
+FileBrowsableEndpointTest acts as a publisher for observer Service, which tests Browsable No Files, which tests Browsable One File, which tests Browsable Two Files, which tests Browsable Three Files Recursive.

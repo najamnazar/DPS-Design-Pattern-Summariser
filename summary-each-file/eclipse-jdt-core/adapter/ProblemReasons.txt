@@ -1,0 +1,7 @@
+ProblemReasons acts as an adaptee for adapter CodeSnippetAllocationExpression.
+ProblemReasons acts as an adaptee for adapter NegativeVariableTest.
+ProblemReasons acts as an adaptee for adapter CodeSnippetQualifiedNameReference.
+ProblemReasons acts as an adaptee for adapter CodeSnippetSingleNameReference.
+ProblemReasons acts as an adaptee for adapter NegativeCodeSnippetTest.
+ProblemReasons acts as an adaptee for adapter ProblemReporter.
+ProblemReasons acts as an adaptee for adapter CodeSnippetFieldReference.

@@ -1,0 +1,1 @@
+MockNodeStatusUpdater acts as a caretaker for memento Attribute, which creates Resource Tracker, which gets RMClient, which stops RMProxy, which registers RegisterNodeManagerRequest parameter of request Node Manager, which nodes NodeHeartbeatRequest parameter of request Heartbeat, which uns UnRegisterNodeManagerRequest parameter of request Register Node Manager.

@@ -1,0 +1,1 @@
+CosmosDbOperationsDefinition acts as an observer for publisher CosmosDbConfiguration, which is inherited by.

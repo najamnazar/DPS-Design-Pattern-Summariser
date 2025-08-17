@@ -1,0 +1,1 @@
+PublishableStatus acts as an observer for publisher PublishableSearchCriteria, PageSearchCriteria, PostSearchCriteria, which is inherited by, which froms String parameter of arg String.

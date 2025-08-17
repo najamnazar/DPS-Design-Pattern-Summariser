@@ -1,0 +1,2 @@
+TypeDeclarationImpl acts as a factory for Bug510118Processor, which overrides getActualTypeArguments method of Bug510118Processor, getContainingType method of Bug510118Processor, getDeclaration method of Bug510118Processor, getSuperinterfaces method of Bug510118Processor.
+TypeDeclarationImpl acts as a product for Bug510118Processor, which overrides getActualTypeArguments method of DeclaredType, getContainingType method of DeclaredType, getDeclaration method of DeclaredType, getSuperinterfaces method of DeclaredType.

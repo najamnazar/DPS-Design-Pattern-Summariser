@@ -1,0 +1,2 @@
+KameletLocalBeanLanguageTest acts as a caretaker for memento Producer, which tests One, which tests Two, which creates Route Builder, which creates RouteTemplateContext parameter of rtc My Bar, which wheres String parameter of name.
+KameletLocalBeanLanguageTest acts as a caretaker for memento Context, which tests One, which tests Two, which creates Route Builder, which creates RouteTemplateContext parameter of rtc My Bar, which wheres String parameter of name.

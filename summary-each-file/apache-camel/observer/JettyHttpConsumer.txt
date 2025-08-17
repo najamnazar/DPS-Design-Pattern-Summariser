@@ -1,0 +1,1 @@
+JettyHttpConsumer acts as an observer, which does Start.

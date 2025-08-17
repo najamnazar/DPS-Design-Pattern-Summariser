@@ -1,0 +1,1 @@
+MethodReferenceMatch acts as a publisher for observer IJavaElement, which is Constructor, which is Synthetic, which is Super Invocation.

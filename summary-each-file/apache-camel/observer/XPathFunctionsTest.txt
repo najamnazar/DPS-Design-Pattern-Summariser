@@ -1,0 +1,2 @@
+XPathFunctionsTest acts as a publisher for observer Service, which tests Choice With Header And Properties Select Camel, which tests Choice With No Header And Properties Select Donkey, which tests Choice With No Header And Properties Select Other, which creates Route Builder.
+XPathFunctionsTest acts as a publisher for observer CamelContext, which tests Choice With Header And Properties Select Camel, which tests Choice With No Header And Properties Select Donkey, which tests Choice With No Header And Properties Select Other, which creates Route Builder.

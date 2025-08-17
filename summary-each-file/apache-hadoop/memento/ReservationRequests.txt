@@ -1,0 +1,1 @@
+ReservationRequests acts as an originator for memento ReservationRequestInterpreter, which is inherited by, which news List<ReservationRequest> parameter of reservationResources, ReservationRequestInterpreter parameter of type Instance, which gets a ReservationRequestInterpreter Interpreter to, which sets ReservationRequestInterpreter parameter of interpreter Interpreter.

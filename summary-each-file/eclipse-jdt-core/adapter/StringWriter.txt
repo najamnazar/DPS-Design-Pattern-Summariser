@@ -1,0 +1,2 @@
+StringWriter acts as an adaptee for adapter JavaSourceFilePrintWriter, which adapts to PrintWriter, which adapts to PrintWriter, which adapts to PrintWriter.
+StringWriter acts as an adaptee for adapter CompilerToolJava9Tests, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase.

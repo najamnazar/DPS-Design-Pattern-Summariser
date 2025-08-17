@@ -1,0 +1,2 @@
+MetadataReaderFactory acts as an observer for publisher ConfigurationClassPostProcessor, which is inherited by SimpleMetadataReaderFactory, which gets String parameter of className Metadata Reader, which gets Resource parameter of resource Metadata Reader.
+MetadataReaderFactory acts as a publisher for observer Resource, which is inherited by SimpleMetadataReaderFactory, which gets String parameter of className Metadata Reader, which gets Resource parameter of resource Metadata Reader.

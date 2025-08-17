@@ -1,0 +1,1 @@
+ContainerRequest acts as an observer for publisher RMContainerAllocator, which is inherited by, which gets Resource Requests, which gets Scheduling Request.

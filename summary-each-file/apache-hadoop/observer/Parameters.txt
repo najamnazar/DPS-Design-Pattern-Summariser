@@ -1,0 +1,1 @@
+Parameters acts as an observer for publisher DistSum, which is inherited by, which gets String parameter of name, Class<T> parameter of klass, which gets String parameter of name, Class<T> parameter of klass Values.

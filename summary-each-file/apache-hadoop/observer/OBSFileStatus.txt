@@ -1,0 +1,2 @@
+OBSFileStatus acts as an observer.
+OBSFileStatus acts as a publisher for observer FsPermission.

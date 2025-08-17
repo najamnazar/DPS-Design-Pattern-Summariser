@@ -1,0 +1,2 @@
+ICompletionEngineProvider acts as a factory for ICompletionEngineProvider, which overrides.
+ICompletionEngineProvider acts as a factory method for ICompletionEngine, which is inherited by ICompletionEngineProvider.

@@ -1,0 +1,1 @@
+GenericFactory acts as a publisher for observer AbstractGenericProcessor, which is inherited by, which sets AbstractGenericProcessor parameter of p Processor, which gets Set<AnnotationTypeDeclaration> parameter of arg0, AnnotationProcessorEnvironment parameter of env Processor For.

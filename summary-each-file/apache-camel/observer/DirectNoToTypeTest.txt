@@ -1,0 +1,2 @@
+DirectNoToTypeTest acts as a publisher for observer CamelContext, which tests No To Type, which creates Route Builder.
+DirectNoToTypeTest acts as a publisher for observer Service, which tests No To Type, which creates Route Builder.

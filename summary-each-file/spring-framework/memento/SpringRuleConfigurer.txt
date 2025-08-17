@@ -1,0 +1,1 @@
+SpringRuleConfigurer acts as a caretaker for memento C, which is inherited by.

@@ -1,0 +1,2 @@
+DefaultInterceptEndpointFactory acts as a product for ExtendedCamelContext, which overrides createInterceptSendToEndpoint method of InterceptEndpointFactory.
+DefaultInterceptEndpointFactory acts as a factory for InterceptEndpointFactory, which overrides createInterceptSendToEndpoint method of InterceptEndpointFactory.

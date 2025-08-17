@@ -1,0 +1,4 @@
+BrowsableEndpoint acts as an adaptee for adapter SedaEndpoint, which adapts to DefaultEndpoint.
+BrowsableEndpoint acts as an adaptee for adapter BrowseEndpoint, which adapts to DefaultEndpoint.
+BrowsableEndpoint acts as an adaptee for adapter MockEndpoint, which adapts to DefaultEndpoint.
+BrowsableEndpoint acts as an adaptee for adapter GenericFileEndpoint, which adapts to ScheduledPollEndpoint.

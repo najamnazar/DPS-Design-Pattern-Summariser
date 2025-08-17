@@ -1,0 +1,1 @@
+PropertyAccessor acts as an abstract product for ReflectivePropertyAccessor, which is inherited by ReflectivePropertyAccessor, BeanExpressionContextAccessor, BeanFactoryAccessor, EnvironmentAccessor.

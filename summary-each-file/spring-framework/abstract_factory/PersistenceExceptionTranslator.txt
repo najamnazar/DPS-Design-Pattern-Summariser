@@ -1,0 +1,1 @@
+PersistenceExceptionTranslator acts as an abstract factory for DataAccessException, which is inherited by AbstractEntityManagerFactoryBean, HibernateExceptionTranslator, ChainedPersistenceExceptionTranslator.

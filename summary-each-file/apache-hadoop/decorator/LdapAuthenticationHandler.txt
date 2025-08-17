@@ -1,0 +1,1 @@
+LdapAuthenticationHandler acts as a component for decorator DelegationTokenAuthenticationHandler, which overrides getTypeAuthenticationHandler, initAuthenticationHandler, destroyAuthenticationHandler, managementOperationAuthenticationHandler, authenticateAuthenticationHandler.

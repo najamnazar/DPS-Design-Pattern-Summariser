@@ -1,0 +1,1 @@
+ManagedIdempotentConsumer acts as a caretaker for memento Context, which gets Definition, which gets Expression Language, which gets Expression, which gets Processor, which is Eager, which is Completion Eager, which is Skip Duplicate, which is Remove On Failure, which gets Duplicate Message Count, which resets Duplicate Message Count, which clears.

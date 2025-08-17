@@ -1,0 +1,1 @@
+DefaultResponseCreator acts as a factory for ResponseCreator, which overrides createResponse method of ResponseCreator.

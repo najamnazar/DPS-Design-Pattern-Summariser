@@ -1,0 +1,1 @@
+EndpointAware acts as an adaptee for adapter SendProcessor, which adapts to AsyncProcessorSupport.

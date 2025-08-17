@@ -1,0 +1,1 @@
+IntervalTask acts as an observer for publisher ScheduledTaskRegistrar, ContextLifecycleScheduledTaskRegistrar, which is inherited by FixedRateTask, FixedDelayTask, which gets Interval, which gets Initial Delay.

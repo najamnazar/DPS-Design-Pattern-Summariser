@@ -1,0 +1,1 @@
+Syssequences acts as an adaptee for adapter Sys, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl.

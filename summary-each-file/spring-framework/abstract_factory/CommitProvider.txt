@@ -1,0 +1,1 @@
+CommitProvider acts as an abstract factory for Commits, which is inherited by GitCommitProvider, DefaultCommitProvider.

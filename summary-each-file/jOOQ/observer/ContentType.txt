@@ -1,0 +1,1 @@
+ContentType acts as an observer for publisher FileType, which is inherited by.

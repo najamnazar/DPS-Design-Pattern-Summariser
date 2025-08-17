@@ -1,0 +1,1 @@
+GetApplicationsResponse acts as an abstract product for GetApplicationsResponse, which is inherited by GetApplicationsResponsePBImpl.

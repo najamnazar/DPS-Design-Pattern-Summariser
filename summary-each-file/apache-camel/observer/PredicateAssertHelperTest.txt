@@ -1,0 +1,2 @@
+PredicateAssertHelperTest acts as a publisher for observer CamelContext, which tests Predicate Assert Helper, which tests Predicate Assert Helper Failed.
+PredicateAssertHelperTest acts as a publisher for observer Service, which tests Predicate Assert Helper, which tests Predicate Assert Helper Failed.

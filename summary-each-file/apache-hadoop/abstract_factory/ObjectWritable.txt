@@ -1,0 +1,2 @@
+ObjectWritable acts as a factory for Configurable, which overrides setConf method of Configurable, getConf method of Configurable.
+ObjectWritable acts as a product for WritableFactory, which overrides readFields method of Writable, write method of Writable, readFields method of Writable, write method of Writable.

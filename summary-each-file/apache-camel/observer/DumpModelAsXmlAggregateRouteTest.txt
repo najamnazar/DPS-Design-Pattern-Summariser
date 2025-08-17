@@ -1,0 +1,2 @@
+DumpModelAsXmlAggregateRouteTest acts as a publisher for observer CamelContext, which tests Dump Model As Xml, which creates Route Builder.
+DumpModelAsXmlAggregateRouteTest acts as a publisher for observer Service, which tests Dump Model As Xml, which creates Route Builder.

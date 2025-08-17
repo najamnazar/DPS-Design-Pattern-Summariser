@@ -1,0 +1,1 @@
+FsAction acts as a singleton, which gets a FsAction Fs Action to.

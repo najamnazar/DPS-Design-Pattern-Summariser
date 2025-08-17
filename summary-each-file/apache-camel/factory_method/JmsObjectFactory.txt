@@ -1,0 +1,1 @@
+JmsObjectFactory acts as an abstract product for SjmsEndpoint, which is inherited by Jms2ObjectFactory, Jms11ObjectFactory.

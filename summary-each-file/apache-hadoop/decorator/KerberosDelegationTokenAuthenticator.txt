@@ -1,0 +1,1 @@
+KerberosDelegationTokenAuthenticator acts as a decorator for decorator DelegationTokenAuthenticator.

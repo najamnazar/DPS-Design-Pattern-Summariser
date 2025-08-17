@@ -1,0 +1,2 @@
+RedeliveryPolicyPerExceptionTest acts as a publisher for observer CamelContext, which tests Using Custom Exception Handler And One Redelivery, which tests Using Custom Exception Handler With No Redeliveries, which sets Up, which creates Route Builder.
+RedeliveryPolicyPerExceptionTest acts as a publisher for observer Service, which tests Using Custom Exception Handler And One Redelivery, which tests Using Custom Exception Handler With No Redeliveries, which sets Up, which creates Route Builder.

@@ -1,0 +1,1 @@
+CloseableQuery acts as an observer, which binds String parameter of param, Object parameter of value, which binds int parameter of index, Object parameter of value, which poolables boolean parameter of poolable, which queries int parameter of seconds Timeout, which keeps boolean parameter of keepStatement Statement, which closes.

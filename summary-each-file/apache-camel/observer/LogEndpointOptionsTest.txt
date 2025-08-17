@@ -1,0 +1,2 @@
+LogEndpointOptionsTest acts as a publisher for observer CamelContext, which tests Log Endpoint Options, which creates Route Builder.
+LogEndpointOptionsTest acts as a publisher for observer Service, which tests Log Endpoint Options, which creates Route Builder.

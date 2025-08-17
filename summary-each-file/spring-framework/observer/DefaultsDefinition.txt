@@ -1,0 +1,1 @@
+DefaultsDefinition acts as an observer for publisher ReaderEventListener, CollectingReaderEventListener, which is inherited by DocumentDefaultsDefinition.

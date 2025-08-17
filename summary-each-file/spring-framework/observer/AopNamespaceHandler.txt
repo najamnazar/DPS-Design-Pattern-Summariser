@@ -1,0 +1,2 @@
+AopNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.
+AopNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.

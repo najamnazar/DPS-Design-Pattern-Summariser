@@ -1,0 +1,2 @@
+AbstractContainersLauncher acts as an adaptee for adapter ContainerManagerImpl, which adapts to CompositeService.
+AbstractContainersLauncher acts as an adaptee for adapter ContainersLauncher, which adapts to AbstractService.

@@ -1,0 +1,1 @@
+ThreadPoolFactory acts as a component for InstrumentedThreadPoolFactory, which is inherited by DefaultThreadPoolFactory, DefaultThreadPoolFactory, DefaultThreadPoolFactory, DefaultThreadPoolFactory, VertXThreadPoolFactory, VertXThreadPoolFactory.

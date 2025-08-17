@@ -1,0 +1,1 @@
+HdfsPathHandle acts as a product for FileSystem, which overrides bytes method of PathHandle, equals method of PathHandle.

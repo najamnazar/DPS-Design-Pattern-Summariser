@@ -1,0 +1,1 @@
+ITypeRequestor acts as an adaptee for adapter SourceIndexer, which adapts to AbstractIndexer, which adapts to AbstractIndexer, which adapts to AbstractIndexer.

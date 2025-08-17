@@ -1,0 +1,1 @@
+EnableNameserviceResponsePBImpl acts as a product for NameserviceManager, which overrides getStatus method of EnableNameserviceResponse.

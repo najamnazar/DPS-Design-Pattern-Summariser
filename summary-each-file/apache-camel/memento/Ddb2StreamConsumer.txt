@@ -1,0 +1,2 @@
+Ddb2StreamConsumer acts as a caretaker for memento HealthCheck, which polls, which processes Queue<Object> parameter of exchanges Batch, which does Start, which creates Record parameter of record Exchange, which gets Endpoint.
+Ddb2StreamConsumer acts as a caretaker for memento ShutdownRunningTask, which polls, which processes Queue<Object> parameter of exchanges Batch, which does Start, which creates Record parameter of record Exchange, which gets Endpoint.

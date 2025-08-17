@@ -1,0 +1,1 @@
+ModelJAXBContextFactory acts as an abstract product for ModelJAXBContextFactory, which is inherited by DefaultModelJAXBContextFactory.

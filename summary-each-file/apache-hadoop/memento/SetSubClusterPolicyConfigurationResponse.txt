@@ -1,0 +1,2 @@
+SetSubClusterPolicyConfigurationResponse acts as an originator for memento SetSubClusterPolicyConfigurationResponse, which is inherited by, which news a SetSubClusterPolicyConfigurationResponse Instance to.
+SetSubClusterPolicyConfigurationResponse acts as a memento, which is inherited by SetSubClusterPolicyConfigurationResponsePBImpl, which news Instance.

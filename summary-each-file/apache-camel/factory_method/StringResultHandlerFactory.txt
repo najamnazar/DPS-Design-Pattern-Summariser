@@ -1,0 +1,1 @@
+StringResultHandlerFactory acts as a product for XsltBuilder, which overrides createResult method of ResultHandlerFactory.

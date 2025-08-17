@@ -1,0 +1,2 @@
+CacheAwareContextLoaderDelegate acts as an abstract product for CacheAwareContextLoaderDelegate, which is inherited by DefaultCacheAwareContextLoaderDelegate.
+CacheAwareContextLoaderDelegate acts as an abstract factory for ApplicationContext, which is inherited by DefaultCacheAwareContextLoaderDelegate.

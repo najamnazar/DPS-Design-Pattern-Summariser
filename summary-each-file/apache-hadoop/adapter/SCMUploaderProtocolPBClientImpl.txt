@@ -1,0 +1,1 @@
+SCMUploaderProtocolPBClientImpl acts as an adapter, which adapts to SCMUploaderProtocol, which adapts to SCMUploaderProtocol, which adapts to SCMUploaderProtocol.

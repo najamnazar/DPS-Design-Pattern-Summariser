@@ -1,0 +1,4 @@
+WindowSpecification acts as an abstract factory for WindowDefinition, which is inherited by.
+WindowSpecification acts as a product for VisitContext, which overrides.
+WindowSpecification acts as a product for DiagnosticsContext, which overrides.
+WindowSpecification acts as an abstract product for WindowSpecification, which is inherited by WindowSpecificationFinalStep.

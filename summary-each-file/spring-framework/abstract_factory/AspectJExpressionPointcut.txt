@@ -1,0 +1,2 @@
+AspectJExpressionPointcut acts as a product for Pointcut, which overrides.
+AspectJExpressionPointcut acts as a product for IntroductionAdvisor, which overrides.

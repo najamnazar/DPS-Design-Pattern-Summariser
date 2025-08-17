@@ -1,0 +1,1 @@
+JdbcBeanDefinitionReader acts as a caretaker for memento B, which sets DataSource parameter of dataSource Data Source, which sets JdbcTemplate parameter of jdbcTemplate Jdbc Template, which loads String parameter of sql Bean Definitions.

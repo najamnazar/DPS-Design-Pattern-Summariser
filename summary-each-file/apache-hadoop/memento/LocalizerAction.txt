@@ -1,0 +1,1 @@
+LocalizerAction acts as a memento.

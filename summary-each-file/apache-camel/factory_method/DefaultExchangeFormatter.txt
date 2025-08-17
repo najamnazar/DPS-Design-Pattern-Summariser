@@ -1,0 +1,1 @@
+DefaultExchangeFormatter acts as a product for LogComponent, which overrides format method of ExchangeFormatter.

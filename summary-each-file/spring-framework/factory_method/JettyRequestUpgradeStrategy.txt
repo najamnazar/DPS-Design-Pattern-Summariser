@@ -1,0 +1,1 @@
+JettyRequestUpgradeStrategy acts as a product for JettySockJsIntegrationTests, which overrides getSupportedVersions method of RequestUpgradeStrategy, getSupportedExtensions method of RequestUpgradeStrategy.

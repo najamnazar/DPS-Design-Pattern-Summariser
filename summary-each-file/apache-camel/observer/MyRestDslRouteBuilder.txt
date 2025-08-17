@@ -1,0 +1,7 @@
+MyRestDslRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyRestDslRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyRestDslRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRestDslRouteBuilder acts as a publisher for observer Resource, which configures.
+MyRestDslRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRestDslRouteBuilder acts as an observer, which configures.
+MyRestDslRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

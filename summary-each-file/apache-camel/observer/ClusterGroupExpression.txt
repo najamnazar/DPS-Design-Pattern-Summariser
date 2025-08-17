@@ -1,0 +1,1 @@
+ClusterGroupExpression acts as an observer for publisher IgniteEventsEndpoint, which is inherited by, which gets Ignite parameter of ignite Cluster Group.

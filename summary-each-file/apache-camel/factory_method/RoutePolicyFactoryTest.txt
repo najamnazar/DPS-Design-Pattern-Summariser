@@ -1,0 +1,1 @@
+RoutePolicyFactoryTest acts as a factory for MicrometerRoutePolicyFactory, which overrides onExchangeBegin method of MicrometerRoutePolicyFactory.

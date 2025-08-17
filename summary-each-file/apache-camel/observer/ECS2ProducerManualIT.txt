@@ -1,0 +1,5 @@
+ECS2ProducerManualIT acts as a publisher for observer CamelContext, which translates Text Test, which creates Route Builder.
+ECS2ProducerManualIT acts as a publisher for observer FluentProducerTemplate, which translates Text Test, which creates Route Builder.
+ECS2ProducerManualIT acts as a publisher for observer Service, which translates Text Test, which creates Route Builder.
+ECS2ProducerManualIT acts as a publisher for observer ProducerTemplate, which translates Text Test, which creates Route Builder.
+ECS2ProducerManualIT acts as a publisher for observer ConsumerTemplate, which translates Text Test, which creates Route Builder.

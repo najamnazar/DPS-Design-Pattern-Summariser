@@ -1,0 +1,2 @@
+AspectJExpressionPointcutTests acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+AspectJExpressionPointcutTests acts as a product for AdvisorAdapter, which overrides.

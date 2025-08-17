@@ -1,0 +1,2 @@
+Types acts as an abstract product for Types, which is inherited by TypesUtil, TypesImpl.
+Types acts as an abstract factory for VoidType, ArrayType, WildcardType, TypeMirror, TypeVariable, PrimitiveType, DeclaredType, which is inherited by TypesUtil, TypesImpl.

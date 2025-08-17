@@ -1,0 +1,1 @@
+DisruptorVmComponent acts as a product for DisruptorComponentBuilderFactory, which overrides getDisruptors method of DisruptorComponent, doStop method of DisruptorComponent.

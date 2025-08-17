@@ -1,0 +1,5 @@
+PahoMqtt5SendDynamicAwareTest acts as a publisher for observer CamelContext, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.
+PahoMqtt5SendDynamicAwareTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.
+PahoMqtt5SendDynamicAwareTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.
+PahoMqtt5SendDynamicAwareTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.
+PahoMqtt5SendDynamicAwareTest acts as a publisher for observer Service, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.

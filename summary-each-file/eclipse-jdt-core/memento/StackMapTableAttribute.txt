@@ -1,0 +1,4 @@
+StackMapTableAttribute acts as a caretaker for memento Map, which gets Number Of Entries, which gets Stack Map Frame, which gets Bytes.
+StackMapTableAttribute acts as a caretaker for memento C, which gets Number Of Entries, which gets Stack Map Frame, which gets Bytes.
+StackMapTableAttribute acts as a caretaker for memento S, which gets Number Of Entries, which gets Stack Map Frame, which gets Bytes.
+StackMapTableAttribute acts as a caretaker for memento Class, which gets Number Of Entries, which gets Stack Map Frame, which gets Bytes.

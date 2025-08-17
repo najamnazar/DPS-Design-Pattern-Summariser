@@ -1,0 +1,1 @@
+CreateTableStorageStep acts as a memento, which storages @Stringly.SQL parameter of String, which storages @Stringly.SQL parameter of String, which storages @Stringly.SQL parameter of String, which storages @Stringly.SQL parameter of String.

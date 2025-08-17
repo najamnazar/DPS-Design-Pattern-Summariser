@@ -1,0 +1,1 @@
+JarEntryResource acts as a factory for IJarEntryResource, which overrides getFullPath method of IJarEntryResource, getParent method of IJarEntryResource, getPackageFragmentRoot method of IJarEntryResource.

@@ -1,0 +1,1 @@
+MockMvcConfigurer acts as an abstract factory for RequestPostProcessor, which is inherited by MockMvcConfigurerAdapter, SharedHttpSessionConfigurer.

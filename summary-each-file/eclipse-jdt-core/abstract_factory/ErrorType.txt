@@ -1,0 +1,4 @@
+ErrorType acts as a product for DeclaredType, which overrides getActualTypeArguments method of DeclaredType, getContainingType method of DeclaredType, getSuperinterfaces method of DeclaredType, getDeclaration method of DeclaredType.
+ErrorType acts as a factory for DeclaredType, which overrides getActualTypeArguments method of DeclaredType, getContainingType method of DeclaredType, getSuperinterfaces method of DeclaredType, getDeclaration method of DeclaredType.
+ErrorType acts as a product for Types, which overrides getActualTypeArguments method of DeclaredType, getContainingType method of DeclaredType, getSuperinterfaces method of DeclaredType, getDeclaration method of DeclaredType.
+ErrorType acts as a factory for EclipseMirrorType, which overrides getTypeBinding method of EclipseMirrorType, isAssignmentCompatible method of EclipseMirrorType, isSubTypeCompatible method of EclipseMirrorType.

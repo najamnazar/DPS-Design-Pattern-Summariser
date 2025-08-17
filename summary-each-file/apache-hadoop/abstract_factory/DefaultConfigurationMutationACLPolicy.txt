@@ -1,0 +1,1 @@
+DefaultConfigurationMutationACLPolicy acts as a product for MutableConfigurationProvider, which overrides init method of ConfigurationMutationACLPolicy, isMutationAllowed method of ConfigurationMutationACLPolicy.

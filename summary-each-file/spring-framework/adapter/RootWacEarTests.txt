@@ -1,0 +1,2 @@
+RootWacEarTests acts as an adapter, which adapts to EarTests, which adapts to EarTests, which adapts to EarTests.
+RootWacEarTests acts as a target for adapter DispatcherWacRootWacEarTests, which adapts to RootWacEarTests, which adapts to RootWacEarTests, which adapts to RootWacEarTests.

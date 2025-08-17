@@ -1,0 +1,2 @@
+TrustedChannelResolver acts as a target for adapter WhitelistBasedTrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver.
+TrustedChannelResolver acts as a target for adapter BlackListBasedTrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver.

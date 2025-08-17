@@ -1,0 +1,2 @@
+FileConsumerRelativeFileNameTest acts as a publisher for observer CamelContext, which tests Valid Filename On Exchange, which creates Route Builder.
+FileConsumerRelativeFileNameTest acts as a publisher for observer Service, which tests Valid Filename On Exchange, which creates Route Builder.

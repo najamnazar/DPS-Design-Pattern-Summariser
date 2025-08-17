@@ -1,0 +1,2 @@
+HttpMessageNotReadableException acts as a caretaker for memento Message, which gets Http Input Message.
+HttpMessageNotReadableException acts as a caretaker for memento HttpInputMessage, which gets Http Input Message.

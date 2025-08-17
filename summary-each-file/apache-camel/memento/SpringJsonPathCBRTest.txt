@@ -1,0 +1,1 @@
+SpringJsonPathCBRTest acts as a caretaker for memento Context, which creates Application Context, which tests Cheap, which tests Average, which tests Expensive.

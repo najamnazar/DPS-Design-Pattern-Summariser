@@ -1,0 +1,1 @@
+ITestS3AHugeFilesDiskBlocks acts as a publisher for observer Path, which gets Block Output Buffer Name, which is Direct Vector Buffer.

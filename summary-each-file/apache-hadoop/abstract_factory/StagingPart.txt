@@ -1,0 +1,1 @@
+StagingPart acts as an abstract factory for State, which is inherited by FileStagingPart.

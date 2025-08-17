@@ -1,0 +1,2 @@
+FileConsumeRootDirManualTest acts as a publisher for observer CamelContext, which tests Poll Root Directory, which creates Route Builder.
+FileConsumeRootDirManualTest acts as a publisher for observer Service, which tests Poll Root Directory, which creates Route Builder.

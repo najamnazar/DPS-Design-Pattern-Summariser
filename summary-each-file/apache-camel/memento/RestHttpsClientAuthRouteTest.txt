@@ -1,0 +1,2 @@
+RestHttpsClientAuthRouteTest acts as a caretaker for memento Producer, which tests GETClient Route, which gets Client URI, which decorates RestConfigurationDefinition parameter of restConfig Rest Configuration, which creates Route Builder.
+RestHttpsClientAuthRouteTest acts as a caretaker for memento Context, which tests GETClient Route, which gets Client URI, which decorates RestConfigurationDefinition parameter of restConfig Rest Configuration, which creates Route Builder.

@@ -1,0 +1,1 @@
+TestEntityNameGenerator acts as an adaptee for adapter AbstractIgniteTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

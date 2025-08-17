@@ -1,0 +1,5 @@
+X2JInputStreamTest acts as a publisher for observer ConsumerTemplate, which tests Output, which creates Route Builder.
+X2JInputStreamTest acts as a publisher for observer FluentProducerTemplate, which tests Output, which creates Route Builder.
+X2JInputStreamTest acts as a publisher for observer ProducerTemplate, which tests Output, which creates Route Builder.
+X2JInputStreamTest acts as a publisher for observer CamelContext, which tests Output, which creates Route Builder.
+X2JInputStreamTest acts as a publisher for observer Service, which tests Output, which creates Route Builder.

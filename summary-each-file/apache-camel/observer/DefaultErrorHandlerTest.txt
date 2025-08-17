@@ -1,0 +1,2 @@
+DefaultErrorHandlerTest acts as a publisher for observer CamelContext, which tests Route, which tests Ok, which tests With Error, which creates Route Builder.
+DefaultErrorHandlerTest acts as a publisher for observer Service, which tests Route, which tests Ok, which tests With Error, which creates Route Builder.

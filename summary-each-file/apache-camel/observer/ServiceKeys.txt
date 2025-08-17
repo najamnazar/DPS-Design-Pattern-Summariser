@@ -1,0 +1,1 @@
+ServiceKeys acts as an observer for publisher FunctionGraphEndpoint, which is inherited by, which gets Access Key, which sets String parameter of accessKey Access Key, which gets Secret Key, which sets String parameter of secretKey Secret Key.

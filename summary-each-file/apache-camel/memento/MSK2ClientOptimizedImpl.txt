@@ -1,0 +1,2 @@
+MSK2ClientOptimizedImpl acts as a caretaker for memento Configuration, which gets Kafka Client.
+MSK2ClientOptimizedImpl acts as a memento, which gets Kafka Client.

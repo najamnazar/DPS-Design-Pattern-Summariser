@@ -1,0 +1,2 @@
+LZFDataFormatTest acts as a caretaker for memento Producer, which tests Marshal Text To Lzf, which tests Un Marshal Text To Lzf, which tests Parallel Un Marshal Text To Lzf, which creates Route Builder, which sends String parameter of destination Text.
+LZFDataFormatTest acts as a caretaker for memento Context, which tests Marshal Text To Lzf, which tests Un Marshal Text To Lzf, which tests Parallel Un Marshal Text To Lzf, which creates Route Builder, which sends String parameter of destination Text.

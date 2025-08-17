@@ -1,0 +1,2 @@
+BeanDefinitionRegistry acts as an abstract product for AnnotatedBeanDefinitionReader, which is inherited by SimpleBeanDefinitionRegistry, GenericApplicationContext, DefaultListableBeanFactory.
+BeanDefinitionRegistry acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.

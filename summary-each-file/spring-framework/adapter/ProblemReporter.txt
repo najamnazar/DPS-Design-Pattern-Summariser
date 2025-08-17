@@ -1,0 +1,1 @@
+ProblemReporter acts as an adaptee for adapter XmlBeanDefinitionReader, which adapts to AbstractBeanDefinitionReader, which adapts to AbstractBeanDefinitionReader, which adapts to AbstractBeanDefinitionReader.

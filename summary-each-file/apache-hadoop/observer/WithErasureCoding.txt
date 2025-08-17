@@ -1,0 +1,1 @@
+WithErasureCoding acts as a publisher for observer Path, which is inherited by DistributedFileSystem, which gets FileStatus parameter of fileStatus Erasure Coding Policy Name, which sets Path parameter of path, String parameter of ecPolicyName Erasure Coding Policy.

@@ -1,0 +1,2 @@
+InterceptEndpointFactory acts as an abstract product for InterceptEndpointFactory, which is inherited by DefaultInterceptEndpointFactory.
+InterceptEndpointFactory acts as an abstract factory for Endpoint, which is inherited by DefaultInterceptEndpointFactory.

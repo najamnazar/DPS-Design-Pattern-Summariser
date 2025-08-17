@@ -1,0 +1,2 @@
+FromFileDoNotMoveFileIfProcessFailsTest acts as a publisher for observer CamelContext, which tests Poll File And Should Not Be Moved, which creates Route Builder.
+FromFileDoNotMoveFileIfProcessFailsTest acts as a publisher for observer Service, which tests Poll File And Should Not Be Moved, which creates Route Builder.

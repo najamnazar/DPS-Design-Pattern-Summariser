@@ -1,0 +1,1 @@
+IntegrationKuduConfiguration acts as an adaptee for adapter AbstractKuduTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,1 @@
+ContainerBlock acts as a target for adapter RMContainerBlock, which adapts to ContainerBlock, which adapts to ContainerBlock, which adapts to ContainerBlock, which adapts to ContainerBlock.

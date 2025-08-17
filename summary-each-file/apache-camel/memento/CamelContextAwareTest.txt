@@ -1,0 +1,1 @@
+CamelContextAwareTest acts as a caretaker for memento Context, which tests Injection Points, which tests Camel Templates, which sets Up, which creates Application Context.

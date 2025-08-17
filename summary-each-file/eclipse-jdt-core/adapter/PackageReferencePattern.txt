@@ -1,0 +1,1 @@
+PackageReferencePattern acts as an adaptee for adapter PackageReferenceLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator.

@@ -1,0 +1,2 @@
+Injector acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService.
+Injector acts as an adaptee for adapter BaseTypeConverterRegistry, which adapts to CoreTypeConverterRegistry, which adapts to CoreTypeConverterRegistry, which adapts to CoreTypeConverterRegistry, which adapts to CoreTypeConverterRegistry.

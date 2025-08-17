@@ -1,0 +1,1 @@
+ResultQueryDatabase acts as an observer, which primaries List<String> parameter of schemas Keys, which uniques List<String> parameter of schemas Keys, which sequenceses List<String> parameter of schemas.

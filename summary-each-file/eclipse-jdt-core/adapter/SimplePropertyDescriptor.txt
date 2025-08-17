@@ -1,0 +1,13 @@
+SimplePropertyDescriptor acts as an adaptee for adapter JavaDocRegion, which adapts to AbstractTagElement, which adapts to AbstractTagElement.
+SimplePropertyDescriptor acts as an adaptee for adapter Modifier, which adapts to ASTNode, IExtendedModifier, which adapts to ASTNode, IExtendedModifier.
+SimplePropertyDescriptor acts as an adaptee for adapter ImplicitTypeDeclaration, which adapts to AbstractTypeDeclaration, which adapts to AbstractTypeDeclaration.
+SimplePropertyDescriptor acts as an adaptee for adapter TagElement, which adapts to AbstractTagElement, which adapts to AbstractTagElement.
+SimplePropertyDescriptor acts as an adaptee for adapter ASTRewritingMethodDeclTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest.
+SimplePropertyDescriptor acts as an adaptee for adapter JavaDocTextElement, which adapts to AbstractTextElement, which adapts to AbstractTextElement.
+SimplePropertyDescriptor acts as an adaptee for adapter ASTRewriteFlattener, which adapts to ASTVisitor, which adapts to ASTVisitor.
+SimplePropertyDescriptor acts as an adaptee for adapter ASTRewritingTypeDeclTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest.
+SimplePropertyDescriptor acts as an adaptee for adapter ASTRewritingTrackingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest.
+SimplePropertyDescriptor acts as an adaptee for adapter ASTRewriteAnalyzer, which adapts to ASTVisitor, which adapts to ASTVisitor.
+SimplePropertyDescriptor acts as an adaptee for adapter TextElement, which adapts to AbstractTextElement, which adapts to AbstractTextElement.
+SimplePropertyDescriptor acts as an adaptee for adapter ModuleModifier, which adapts to ASTNode, which adapts to ASTNode.
+SimplePropertyDescriptor acts as an adaptee for adapter ASTRewritingStatementsTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest.

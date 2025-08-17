@@ -1,0 +1,2 @@
+SetHeaderInDoCatchIssueTest acts as a publisher for observer Service, which tests Success, which tests Exchange Timed Out Exception, which tests Exception, which creates Registry, which creates Route Builder.
+SetHeaderInDoCatchIssueTest acts as a publisher for observer CamelContext, which tests Success, which tests Exchange Timed Out Exception, which tests Exception, which creates Registry, which creates Route Builder.

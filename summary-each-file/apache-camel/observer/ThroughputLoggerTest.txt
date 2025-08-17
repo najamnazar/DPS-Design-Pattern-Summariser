@@ -1,0 +1,2 @@
+ThroughputLoggerTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Send Message To Log Using Group Size, which tests Send Message To Log Using Group Interval.
+ThroughputLoggerTest acts as a publisher for observer Service, which is Use Route Builder, which tests Send Message To Log Using Group Size, which tests Send Message To Log Using Group Interval.

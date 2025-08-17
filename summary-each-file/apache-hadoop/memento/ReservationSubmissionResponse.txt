@@ -1,0 +1,2 @@
+ReservationSubmissionResponse acts as an originator for memento ReservationSubmissionResponse, which is inherited by, which news a ReservationSubmissionResponse Instance to.
+ReservationSubmissionResponse acts as a memento, which is inherited by ReservationSubmissionResponsePBImpl, which news Instance.

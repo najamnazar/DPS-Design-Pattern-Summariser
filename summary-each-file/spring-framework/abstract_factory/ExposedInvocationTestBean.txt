@@ -1,0 +1,3 @@
+ExposedInvocationTestBean acts as a product for TestBeanAwareMessenger, which overrides getName method of TestBean.
+ExposedInvocationTestBean acts as a product for XmlBeanFactoryTestTypes, which overrides getName method of TestBean.
+ExposedInvocationTestBean acts as a product for ContextScriptBean, which overrides getName method of TestBean.

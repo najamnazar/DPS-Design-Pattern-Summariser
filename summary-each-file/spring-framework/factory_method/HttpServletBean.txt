@@ -1,0 +1,2 @@
+HttpServletBean acts as a factory method for ConfigurableEnvironment, which is inherited by StaticWebApplicationContext, ConfigurableApplicationContext, AbstractApplicationContext, AbstractRefreshableWebApplicationContext, ConfigurableApplicationContext, StaticWebApplicationContext, AbstractApplicationContext, HttpServletBean, AbstractRefreshableWebApplicationContext, AbstractRefreshableWebApplicationContext.
+HttpServletBean acts as a factory for HttpServletBean, which overrides.

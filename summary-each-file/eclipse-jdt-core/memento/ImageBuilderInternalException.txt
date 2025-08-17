@@ -1,0 +1,2 @@
+ImageBuilderInternalException acts as a caretaker for memento E, which gets Throwable, which prints Stack Trace.
+ImageBuilderInternalException acts as a caretaker for memento C, which gets Throwable, which prints Stack Trace.

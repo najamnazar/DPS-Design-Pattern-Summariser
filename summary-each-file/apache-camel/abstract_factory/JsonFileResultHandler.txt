@@ -1,0 +1,2 @@
+JsonFileResultHandler acts as a product for ResultHandlerFactory, which overrides getResult method of ResultHandler, setBody method of ResultHandler.
+JsonFileResultHandler acts as a factory for ResultHandler, which overrides getResult method of ResultHandler, setBody method of ResultHandler.

@@ -1,0 +1,2 @@
+UnitOfWorkTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts sendMessage method of Synchronization, sendMessage method of Synchronization to ContextTestSupport, which adapts to ContextTestSupport.
+UnitOfWorkTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts sendMessage method of Exchange, sendMessage method of Exchange to ContextTestSupport, which adapts to ContextTestSupport.

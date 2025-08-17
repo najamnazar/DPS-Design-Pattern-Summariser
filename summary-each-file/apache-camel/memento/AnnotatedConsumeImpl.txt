@@ -1,0 +1,1 @@
+AnnotatedConsumeImpl acts as a caretaker for memento Producer, which handles String parameter of title Title.

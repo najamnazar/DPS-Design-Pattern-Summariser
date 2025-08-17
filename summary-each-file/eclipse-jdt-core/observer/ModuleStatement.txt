@@ -1,0 +1,1 @@
+ModuleStatement acts as an observer.

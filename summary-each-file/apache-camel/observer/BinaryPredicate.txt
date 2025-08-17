@@ -1,0 +1,1 @@
+BinaryPredicate acts as an observer, which gets Operator, which gets Left, which gets Right, which matches Exchange parameter of exchange Returning Failure Message.

@@ -1,0 +1,1 @@
+JettyCustomPlatformHttpConsumer acts as a caretaker for memento HealthCheck, which does Start, which creates PlatformHttpEndpoint parameter of endpoint, String parameter of path Handler, which tos Request parameter of request, String parameter of body Exchange, which gets Endpoint, which tos InputStream parameter of input String.

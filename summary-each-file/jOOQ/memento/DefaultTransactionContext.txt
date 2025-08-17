@@ -1,0 +1,1 @@
+DefaultTransactionContext acts as a caretaker for memento Transaction, which transactions, which transactions Transaction parameter of t, which causes, which causes Exception parameter of c, which causes Throwable, which causes Throwable parameter of c Throwable.

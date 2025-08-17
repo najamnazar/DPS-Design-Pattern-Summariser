@@ -1,0 +1,2 @@
+ServiceNowProducer acts as a memento, which gets Release.
+ServiceNowProducer acts as a memento, which is inherited by AbstractServiceNowProducer, which gets Release.

@@ -1,0 +1,1 @@
+KameletProducer acts as a caretaker for memento Component, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which gets Key.

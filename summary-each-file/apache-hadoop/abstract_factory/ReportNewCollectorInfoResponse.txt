@@ -1,0 +1,1 @@
+ReportNewCollectorInfoResponse acts as an abstract product for ReportNewCollectorInfoResponse, which is inherited by ReportNewCollectorInfoResponsePBImpl.

@@ -1,0 +1,4 @@
+InterfaceDeclaration acts as a product for DeclaredType, which overrides.
+InterfaceDeclaration acts as a product for AnnotationProcessorEnvironment, which overrides.
+InterfaceDeclaration acts as an abstract product for InterfaceDeclaration, which is inherited by InterfaceDeclarationImpl.
+InterfaceDeclaration acts as a product for MemberDeclaration, which overrides.

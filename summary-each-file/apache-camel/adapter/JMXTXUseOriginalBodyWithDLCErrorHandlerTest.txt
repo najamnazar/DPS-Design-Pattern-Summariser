@@ -1,0 +1,1 @@
+JMXTXUseOriginalBodyWithDLCErrorHandlerTest acts as an adapter, which adapts to JMXTXUseOriginalBodyTest, which adapts to JMXTXUseOriginalBodyTest, which adapts to JMXTXUseOriginalBodyTest, which adapts to JMXTXUseOriginalBodyTest, which adapts to JMXTXUseOriginalBodyTest, which adapts to JMXTXUseOriginalBodyTest.

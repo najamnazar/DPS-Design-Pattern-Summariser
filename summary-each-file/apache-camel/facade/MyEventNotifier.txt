@@ -1,0 +1,1 @@
+MyEventNotifier acts as a subsystem for facade StepEventNotifierTest, which testStepEventNotifier method of StepEventNotifierTest calls getEvents.

@@ -1,0 +1,1 @@
+AsyncExecutionInterceptor acts as an adapter, which adapts to AsyncExecutionAspectSupport, which adapts to AsyncExecutionAspectSupport, which adapts to AsyncExecutionAspectSupport, which adapts to AsyncExecutionAspectSupport.

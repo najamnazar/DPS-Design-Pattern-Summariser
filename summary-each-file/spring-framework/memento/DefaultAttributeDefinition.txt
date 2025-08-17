@@ -1,0 +1,1 @@
+DefaultAttributeDefinition acts as a memento, which gets Position.

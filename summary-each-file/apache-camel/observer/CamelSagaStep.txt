@@ -1,0 +1,1 @@
+CamelSagaStep acts as an observer for publisher InMemorySagaCoordinator, which is inherited by, which gets Compensation, which gets Completion, which gets Options, which gets Timeout In Milliseconds, which is Empty.

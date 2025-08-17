@@ -1,0 +1,1 @@
+SubProtocolWebSocketHandler acts as a component for decorator WebSocketHandlerDecorator, which overrides afterConnectionEstablishedWebSocketHandler, handleMessageWebSocketHandler, handleTransportErrorWebSocketHandler, afterConnectionClosedWebSocketHandler, supportsPartialMessagesWebSocketHandler, toStringWebSocketHandler, toStringWebSocketHandler, toStringWebSocketHandler.

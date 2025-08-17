@@ -1,0 +1,1 @@
+ReactiveTransaction acts as an observer for publisher TransactionalOperatorImpl, which is inherited by GenericReactiveTransaction.

@@ -1,0 +1,2 @@
+MethodExecutor acts as an abstract product for MethodExecutor, which is inherited by ReflectiveMethodExecutor.
+MethodExecutor acts as an abstract factory for TypedValue, which is inherited by ReflectiveMethodExecutor.

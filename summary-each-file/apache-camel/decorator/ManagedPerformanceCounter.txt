@@ -1,0 +1,1 @@
+ManagedPerformanceCounter acts as a component for decorator CompositePerformanceCounter, which overrides isStatisticsEnabledPerformanceCounter, setStatisticsEnabledPerformanceCounter, processExchangePerformanceCounter, completedExchangePerformanceCounter, failedExchangePerformanceCounter.

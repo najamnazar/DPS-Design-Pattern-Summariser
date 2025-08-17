@@ -1,0 +1,2 @@
+SimpleCapacityReplanner acts as a factory for Planner, which overrides.
+SimpleCapacityReplanner acts as a product for PlanContext, which overrides.

@@ -1,0 +1,2 @@
+CategorizedProblem acts as an observer for publisher EvaluationResult, which is inherited by APTProblem, which gets Category ID, which gets Marker Type, which gets Extra Marker Attribute Names, which gets Extra Marker Attribute Values, which is Info.
+CategorizedProblem acts as an observer, which gets Category ID, which gets Marker Type, which gets Extra Marker Attribute Names, which gets Extra Marker Attribute Values, which is Info.

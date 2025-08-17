@@ -1,0 +1,1 @@
+IntegerToEnumConverterFactoryTests acts as a caretaker for memento C, which converts int parameter of index, Color parameter of color Integer To Enum, which throws Array Index Out Of Bounds Exception If Invalid Enum Integer.

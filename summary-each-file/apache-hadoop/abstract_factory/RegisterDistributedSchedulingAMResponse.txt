@@ -1,0 +1,1 @@
+RegisterDistributedSchedulingAMResponse acts as an abstract product for RegisterDistributedSchedulingAMResponse, which is inherited by RegisterDistributedSchedulingAMResponsePBImpl.

@@ -1,0 +1,2 @@
+IDOMMember acts as a target for adapter DOMMember, which adapts to IDOMMember, which adapts to IDOMMember, which adapts to IDOMMember, which adapts to IDOMMember.
+IDOMMember acts as an adaptee for adapter DOMMember, which adapts to IDOMMember, DOMNode, which adapts to IDOMMember, DOMNode, which adapts to IDOMMember, DOMNode, which adapts to IDOMMember, DOMNode.

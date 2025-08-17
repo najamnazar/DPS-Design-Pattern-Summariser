@@ -1,0 +1,1 @@
+AMAttemptInfo acts as an observer for publisher AMAttemptsInfo, which is inherited by, which gets Node Http Address, which gets Node Id, which gets Attempt Id, which gets Start Time, which gets Container Id, which gets Logs Link.

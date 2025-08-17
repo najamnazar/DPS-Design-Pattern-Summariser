@@ -1,0 +1,1 @@
+FileSystemAccessService acts as a product for FileSystemReleaseFilter, which overrides releaseFileSystem method of FileSystemAccess, getFileSystemConfiguration method of FileSystemAccess.

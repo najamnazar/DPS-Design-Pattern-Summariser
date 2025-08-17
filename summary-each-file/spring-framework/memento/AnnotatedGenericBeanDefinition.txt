@@ -1,0 +1,2 @@
+AnnotatedGenericBeanDefinition acts as a caretaker for memento MethodMetadata, which gets Metadata, which gets Factory Method Metadata.
+AnnotatedGenericBeanDefinition acts as a caretaker for memento A, which gets Metadata, which gets Factory Method Metadata.

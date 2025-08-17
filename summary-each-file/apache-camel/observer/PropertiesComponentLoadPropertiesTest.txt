@@ -1,0 +1,2 @@
+PropertiesComponentLoadPropertiesTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Load Properties, which creates Camel Context.
+PropertiesComponentLoadPropertiesTest acts as a publisher for observer Service, which is Use Route Builder, which tests Load Properties, which creates Camel Context.

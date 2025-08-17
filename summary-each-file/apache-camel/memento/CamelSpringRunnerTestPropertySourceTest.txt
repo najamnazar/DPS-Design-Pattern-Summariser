@@ -1,0 +1,1 @@
+CamelSpringRunnerTestPropertySourceTest acts as a caretaker for memento Producer, which reads File And Inlined Properties From Annotation.

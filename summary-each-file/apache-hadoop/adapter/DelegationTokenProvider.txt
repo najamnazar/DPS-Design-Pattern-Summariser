@@ -1,0 +1,2 @@
+DelegationTokenProvider acts as an adaptee for adapter ITestCustomSigner, which adapts to AbstractS3ATestBase.
+DelegationTokenProvider acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem.

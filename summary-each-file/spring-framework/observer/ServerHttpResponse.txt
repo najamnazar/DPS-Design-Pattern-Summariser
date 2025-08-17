@@ -1,0 +1,1 @@
+ServerHttpResponse acts as an observer for publisher ServerHttpResponseDecorator, HttpHeadResponseDecorator, which is inherited by ZeroDemandResponse, DelegatingServerHttpResponse, AbstractServerHttpResponse, ServletServerHttpResponse, ServerHttpResponseDecorator, which sets HttpStatus parameter of status Status Code, which flushes, which closes.

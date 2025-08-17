@@ -1,0 +1,1 @@
+AssistTypeParameter acts as an observer, which gets IProgressMonitor parameter of monitor Element Info.

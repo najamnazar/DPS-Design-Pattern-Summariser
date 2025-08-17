@@ -1,0 +1,2 @@
+SimpleMessageHistoryNotDetailedTest acts as a publisher for observer CamelContext, which tests Message History, which creates Route Builder.
+SimpleMessageHistoryNotDetailedTest acts as a publisher for observer Service, which tests Message History, which creates Route Builder.

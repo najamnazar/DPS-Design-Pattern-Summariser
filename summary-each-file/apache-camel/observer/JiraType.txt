@@ -1,0 +1,1 @@
+JiraType acts as an observer for publisher JiraEndpoint, which is inherited by.

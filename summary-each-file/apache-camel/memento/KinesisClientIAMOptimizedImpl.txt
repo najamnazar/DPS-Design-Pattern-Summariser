@@ -1,0 +1,2 @@
+KinesisClientIAMOptimizedImpl acts as a caretaker for memento Configuration, which gets Kinesis Client.
+KinesisClientIAMOptimizedImpl acts as a memento, which gets Kinesis Client.

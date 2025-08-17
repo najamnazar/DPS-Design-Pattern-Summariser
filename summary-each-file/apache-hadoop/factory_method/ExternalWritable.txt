@@ -1,0 +1,1 @@
+ExternalWritable acts as a product for MapFile, which overrides.

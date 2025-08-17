@@ -1,0 +1,1 @@
+SequenceImpl acts as a factory method for Catalog, which is inherited by DSL, AbstractMeta, SchemaImpl, Meta, DSL, AbstractMeta, SchemaImpl, DSL, DSL, AbstractMeta, SchemaImpl, SchemaImpl, AbstractMeta, DSL, DSL, Qualified, Qualified, SchemaImpl, DSL, AbstractMeta, AbstractMeta, SchemaImpl, DSL, Qualified, DSL, SchemaImpl, Qualified.

@@ -1,0 +1,1 @@
+TransactionProvider acts as an observer for publisher DefaultConfiguration, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which begins TransactionContext parameter of ctx, which commits TransactionContext parameter of ctx, which rollbacks TransactionContext parameter of ctx.

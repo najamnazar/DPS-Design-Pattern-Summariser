@@ -1,0 +1,1 @@
+ClasspathAttribute acts as a factory for IClasspathAttribute, which overrides getName method of IClasspathAttribute, getValue method of IClasspathAttribute.

@@ -1,0 +1,2 @@
+Pointcut acts as a caretaker for memento Pointcut, which is inherited by, which gets Class Filter, which gets Method Matcher.
+Pointcut acts as a memento, which is inherited by AnnotationMatchingPointcut, ControlFlowPointcut, StaticMethodMatcherPointcut, TruePointcut, DynamicMethodMatcherPointcut, ExpressionPointcut, ComposablePointcut, which gets Method Matcher, which gets Method Matcher.

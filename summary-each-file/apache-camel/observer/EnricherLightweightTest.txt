@@ -1,0 +1,2 @@
+EnricherLightweightTest acts as a publisher for observer CamelContext, which sets Up, which tests Enrich, which creates Route Builder.
+EnricherLightweightTest acts as a publisher for observer Service, which sets Up, which tests Enrich, which creates Route Builder.

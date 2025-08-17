@@ -1,0 +1,5 @@
+JmsHttpJmsTest acts as a publisher for observer ProducerTemplate, which tests Jms Http Jms, which tests Result Reply Jms, which creates Route Builder, which binds Registry parameter of registry To Registry.
+JmsHttpJmsTest acts as a publisher for observer CamelContext, which tests Jms Http Jms, which tests Result Reply Jms, which creates Route Builder, which binds Registry parameter of registry To Registry.
+JmsHttpJmsTest acts as a publisher for observer ConsumerTemplate, which tests Jms Http Jms, which tests Result Reply Jms, which creates Route Builder, which binds Registry parameter of registry To Registry.
+JmsHttpJmsTest acts as a publisher for observer FluentProducerTemplate, which tests Jms Http Jms, which tests Result Reply Jms, which creates Route Builder, which binds Registry parameter of registry To Registry.
+JmsHttpJmsTest acts as a publisher for observer Service, which tests Jms Http Jms, which tests Result Reply Jms, which creates Route Builder, which binds Registry parameter of registry To Registry.

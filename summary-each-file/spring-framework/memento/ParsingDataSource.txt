@@ -1,0 +1,2 @@
+ParsingDataSource acts as a caretaker for memento Configuration, which gets Connection, which gets String parameter of username, String parameter of password Connection.
+ParsingDataSource acts as a caretaker for memento C, which gets Connection, which gets String parameter of username, String parameter of password Connection.

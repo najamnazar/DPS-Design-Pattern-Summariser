@@ -1,0 +1,1 @@
+PackageReferenceMatch acts as a caretaker for memento E.

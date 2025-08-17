@@ -1,0 +1,1 @@
+ExpressionOperator acts as an observer for publisher Expression, which is inherited by, which tos SQL, which tos Name, which associatives, which commutatives.

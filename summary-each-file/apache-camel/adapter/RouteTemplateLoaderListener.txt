@@ -1,0 +1,1 @@
+RouteTemplateLoaderListener acts as an adaptee for adapter KameletComponent, which adapts to DefaultComponent.

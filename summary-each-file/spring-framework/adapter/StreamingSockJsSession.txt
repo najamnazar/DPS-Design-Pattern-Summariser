@@ -1,0 +1,1 @@
+StreamingSockJsSession acts as a target for adapter TestHttpSockJsSession, which adapts to StreamingSockJsSession, which adapts to StreamingSockJsSession, which adapts to StreamingSockJsSession.

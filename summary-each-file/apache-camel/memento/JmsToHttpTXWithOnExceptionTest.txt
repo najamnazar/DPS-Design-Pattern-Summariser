@@ -1,0 +1,1 @@
+JmsToHttpTXWithOnExceptionTest acts as a caretaker for memento Producer, which test404s, which tests Rollback, which tests OK.

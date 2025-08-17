@@ -1,0 +1,1 @@
+HdfsInfo acts as a caretaker for memento Configuration, which gets Configuration, which gets File System, which gets Path.

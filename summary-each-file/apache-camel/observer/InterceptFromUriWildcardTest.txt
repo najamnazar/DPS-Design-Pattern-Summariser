@@ -1,0 +1,2 @@
+InterceptFromUriWildcardTest acts as a publisher for observer Service, which tests No Intercept, which tests Intercept Foo, which tests Intercept Bar, which creates Route Builder.
+InterceptFromUriWildcardTest acts as a publisher for observer CamelContext, which tests No Intercept, which tests Intercept Foo, which tests Intercept Bar, which creates Route Builder.

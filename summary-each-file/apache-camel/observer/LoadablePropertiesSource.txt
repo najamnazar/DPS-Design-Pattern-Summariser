@@ -1,0 +1,1 @@
+LoadablePropertiesSource acts as an observer, which loads Properties, which loads Predicate<String> parameter of filter Properties, which reloads String parameter of location Properties.

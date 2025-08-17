@@ -1,0 +1,2 @@
+RedeliveryPolicyOnExceptionWhileRedeliveringIssueTest acts as a publisher for observer Service, which processes Exchange parameter of exchange, which tests Message Should Go To Error, which creates Route Builder.
+RedeliveryPolicyOnExceptionWhileRedeliveringIssueTest acts as a publisher for observer CamelContext, which processes Exchange parameter of exchange, which tests Message Should Go To Error, which creates Route Builder.

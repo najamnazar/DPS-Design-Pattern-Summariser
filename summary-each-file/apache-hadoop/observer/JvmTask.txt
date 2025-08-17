@@ -1,0 +1,1 @@
+JvmTask acts as an observer, which gets Task, which shoulds Die, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields.

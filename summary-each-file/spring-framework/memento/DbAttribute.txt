@@ -1,0 +1,1 @@
+DbAttribute acts as a caretaker for memento A, which gets Record Type, which ases java.lang.String parameter of alias, which renames java.lang.String parameter of name.

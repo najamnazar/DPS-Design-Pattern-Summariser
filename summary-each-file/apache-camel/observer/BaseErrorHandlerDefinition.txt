@@ -1,0 +1,1 @@
+BaseErrorHandlerDefinition acts as an observer.

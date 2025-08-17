@@ -1,0 +1,1 @@
+Initializer acts as an adapter, which adapts to FieldDeclaration, which adapts to FieldDeclaration, which adapts to FieldDeclaration, which adapts isStatic method of Block, isStatic method of Block to FieldDeclaration, which adapts to FieldDeclaration, which adapts to FieldDeclaration, which adapts to FieldDeclaration, which adapts to FieldDeclaration.

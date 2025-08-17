@@ -1,0 +1,1 @@
+ValidatorResourceResolverFactory acts as an observer for publisher ValidatorEndpoint, which is inherited by DefaultValidatorResourceResolverFactory, which creates CamelContext parameter of camelContext, String parameter of rootResourceUri Resource Resolver.

@@ -1,0 +1,1 @@
+CustomSqlExceptionTranslator acts as an observer, which translates String parameter of task, @Nullable parameter of String, SQLException parameter of ex.

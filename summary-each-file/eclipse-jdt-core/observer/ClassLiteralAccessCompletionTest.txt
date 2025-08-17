@@ -1,0 +1,1 @@
+ClassLiteralAccessCompletionTest acts as a publisher for observer String, which suites, which tests Array Type, which tests Array Type With Non Empty Identifier, which tests Primitive Array Type, which tests Primitive Array Type With Non Empty Identifier, which tests Primitive Type, which tests Primitive Type With Non Empty Identifier.

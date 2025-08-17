@@ -1,0 +1,1 @@
+ConfigMapPropertiesFunction acts as a caretaker for memento Context, which gets Name, which gets Mount Path, which lookups String parameter of name, String parameter of key, String parameter of defaultValue.

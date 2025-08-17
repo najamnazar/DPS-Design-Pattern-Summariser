@@ -1,0 +1,2 @@
+BeanImplicitMethodTest acts as a caretaker for memento Context, which tests Route, which creates Route Builder, which creates Registry, which ints Integer parameter of request Request, which strings String parameter of request Request.
+BeanImplicitMethodTest acts as a caretaker for memento Producer, which tests Route, which creates Route Builder, which creates Registry, which ints Integer parameter of request Request, which strings String parameter of request Request.

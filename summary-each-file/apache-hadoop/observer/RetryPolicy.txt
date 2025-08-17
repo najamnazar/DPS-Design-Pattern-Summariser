@@ -1,0 +1,1 @@
+RetryPolicy acts as an observer for publisher RetryInvocationHandler, which is inherited by S3ARetryPolicy, which tos String, which shoulds Exception parameter of e, int parameter of retries, int parameter of failovers, boolean parameter of isIdempotentOrAtMostOnce Retry.

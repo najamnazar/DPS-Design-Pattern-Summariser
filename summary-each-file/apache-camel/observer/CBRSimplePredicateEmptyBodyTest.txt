@@ -1,0 +1,2 @@
+CBRSimplePredicateEmptyBodyTest acts as a publisher for observer CamelContext, which tests CBR, which creates Route Builder.
+CBRSimplePredicateEmptyBodyTest acts as a publisher for observer Service, which tests CBR, which creates Route Builder.

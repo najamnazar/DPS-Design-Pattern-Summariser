@@ -1,0 +1,1 @@
+ResourceAllocationInfo acts as a publisher for observer ResourceInfo, which is inherited by, which gets Start Time, which sets long parameter of newStartTime Start Time, which gets End Time, which sets long parameter of newEndTime End Time, which gets Resource, which sets ResourceInfo parameter of newResource Resource.

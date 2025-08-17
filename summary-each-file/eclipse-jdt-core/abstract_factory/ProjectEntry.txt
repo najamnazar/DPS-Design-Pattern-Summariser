@@ -1,0 +1,1 @@
+ProjectEntry acts as a factory for IModulePathEntry, which overrides getModule method of IModulePathEntry, isAutomaticModule method of IModulePathEntry, hasCompilationUnit method of IModulePathEntry.

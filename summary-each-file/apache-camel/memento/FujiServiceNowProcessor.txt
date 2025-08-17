@@ -1,0 +1,1 @@
+FujiServiceNowProcessor acts as a caretaker for memento Configuration, which processes Exchange parameter of exchange, which does Exchange parameter of exchange, Class<?> parameter of requestModel, Class<?> parameter of responseModel, String parameter of apiVersion, String parameter of action, String parameter of tableName, String parameter of sysId Process.

@@ -1,0 +1,1 @@
+SingleMemberAnnotation acts as an adapter, which adapts to Annotation, which adapts to Annotation, which adapts to Annotation, which adapts to Annotation.

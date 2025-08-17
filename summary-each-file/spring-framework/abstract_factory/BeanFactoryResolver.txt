@@ -1,0 +1,1 @@
+BeanFactoryResolver acts as a product for EvaluationContext, which overrides resolve method of BeanResolver.

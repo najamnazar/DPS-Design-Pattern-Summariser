@@ -1,0 +1,1 @@
+MetricsRecordFiltered acts as a caretaker for memento MetricsRecord, which timestamps, which names, which descriptions, which contexts, which tagses, which metricses.

@@ -1,0 +1,2 @@
+MutableInverseQuantiles acts as a publisher for observer QuantileEstimator, which sets String parameter of ucName, String parameter of uvName, String parameter of desc, String parameter of lvName, DecimalFormat parameter of df Quantiles, which gets Quantiles.
+MutableInverseQuantiles acts as a publisher for observer MetricsInfo, which sets String parameter of ucName, String parameter of uvName, String parameter of desc, String parameter of lvName, DecimalFormat parameter of df Quantiles, which gets Quantiles.

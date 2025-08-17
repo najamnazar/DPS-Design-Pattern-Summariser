@@ -1,0 +1,1 @@
+JtaAfterCompletionSynchronization acts as a caretaker for memento Transaction, which befores Completion, which afters int parameter of status Completion.

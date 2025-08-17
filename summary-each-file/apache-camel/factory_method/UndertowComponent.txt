@@ -1,0 +1,1 @@
+UndertowComponent acts as a factory method for ComponentVerifierExtension, which is inherited by AbstractTwitterComponent, AbstractTwitterComponent, AbstractTwitterComponent, HttpComponent.

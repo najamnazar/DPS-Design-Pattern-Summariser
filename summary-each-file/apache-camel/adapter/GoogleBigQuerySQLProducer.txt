@@ -1,0 +1,1 @@
+GoogleBigQuerySQLProducer acts as an adapter, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts getEndpoint method of GoogleBigQuerySQLConfiguration to DefaultProducer, which adapts to DefaultProducer.

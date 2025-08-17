@@ -1,0 +1,4 @@
+JarEntryDirectory acts as a caretaker for memento String, which clones Object parameter of newParent, which gets Children, which gets Contents, which is File, which sets IJarEntryResource[] parameter of children Children, which tos String.
+JarEntryDirectory acts as a caretaker for memento R, which clones Object parameter of newParent, which gets Children, which gets Contents, which is File, which sets IJarEntryResource[] parameter of children Children, which tos String.
+JarEntryDirectory acts as a caretaker for memento S, which clones Object parameter of newParent, which gets Children, which gets Contents, which is File, which sets IJarEntryResource[] parameter of children Children, which tos String.
+JarEntryDirectory acts as a caretaker for memento E, which clones Object parameter of newParent, which gets Children, which gets Contents, which is File, which sets IJarEntryResource[] parameter of children Children, which tos String.

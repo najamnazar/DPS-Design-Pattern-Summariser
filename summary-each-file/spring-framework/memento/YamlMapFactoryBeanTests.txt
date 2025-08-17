@@ -1,0 +1,1 @@
+YamlMapFactoryBeanTests acts as a caretaker for memento B, which tests Set Ignore Resource Not Found, which tests Set Barf On Resource Not Found, which tests Get Object, which tests Override And Remove Defaults, which tests First Found, which tests Map With Periods In Key, which tests Map With Integer Value, which tests Duplicate Key.

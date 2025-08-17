@@ -1,0 +1,1 @@
+UnsharableCodecsConflictsTest acts as a caretaker for memento ChannelHandlerFactory, which cans Supply Multiple Codecs To Endpoint Pipeline, which creates Route Builder, which gets String parameter of host, int parameter of port Socket, which sends byte[] parameter of buf, Socket parameter of server Sop Buffer, which processes Exchange parameter of exchange.

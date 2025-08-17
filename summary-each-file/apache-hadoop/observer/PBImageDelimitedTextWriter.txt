@@ -1,0 +1,1 @@
+PBImageDelimitedTextWriter acts as a publisher for observer Path, which is inherited by, which sets Path parameter of path Path, which builds, which gets String parameter of parent, INode parameter of inode Entry, which gets Header, which afters Output.

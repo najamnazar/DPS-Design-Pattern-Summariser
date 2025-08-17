@@ -1,0 +1,5 @@
+PulsarEndpointTest acts as a publisher for observer CamelContext, which tests Invalid Pulsar Name Structure.
+PulsarEndpointTest acts as a publisher for observer ConsumerTemplate, which tests Invalid Pulsar Name Structure.
+PulsarEndpointTest acts as a publisher for observer Service, which tests Invalid Pulsar Name Structure.
+PulsarEndpointTest acts as a publisher for observer FluentProducerTemplate, which tests Invalid Pulsar Name Structure.
+PulsarEndpointTest acts as a publisher for observer ProducerTemplate, which tests Invalid Pulsar Name Structure.

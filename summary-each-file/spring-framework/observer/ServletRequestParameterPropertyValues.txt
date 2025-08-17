@@ -1,0 +1,2 @@
+ServletRequestParameterPropertyValues acts as a publisher for observer PropertyValue.
+ServletRequestParameterPropertyValues acts as an observer.

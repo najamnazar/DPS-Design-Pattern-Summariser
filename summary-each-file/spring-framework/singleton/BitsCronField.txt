@@ -1,0 +1,1 @@
+BitsCronField acts as a singleton, which zeros a BitsCronField Nanos to, which parses a BitsCronField Seconds to, which parses a BitsCronField Minutes to, which parses a BitsCronField Hours to, which parses a BitsCronField Days Of Month to, which parses a BitsCronField Month to, which parses a BitsCronField Days Of Week to.

@@ -1,0 +1,2 @@
+AppChecker acts as an adaptee for adapter SCMStore, which adapts to CompositeService, which adapts to CompositeService.
+AppChecker acts as an adaptee for adapter InMemorySCMStore, which adapts to SCMStore, which adapts to SCMStore.

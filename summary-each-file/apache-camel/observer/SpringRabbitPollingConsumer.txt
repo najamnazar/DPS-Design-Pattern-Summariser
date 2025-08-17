@@ -1,0 +1,1 @@
+SpringRabbitPollingConsumer acts as a publisher for observer ExceptionHandler, which gets Endpoint, which receives No Wait, which receives, which receives long parameter of timeout, which does Init, which does Start, which does Stop.

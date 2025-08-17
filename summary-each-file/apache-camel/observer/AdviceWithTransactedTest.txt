@@ -1,0 +1,2 @@
+AdviceWithTransactedTest acts as a publisher for observer CamelContext, which tests Advice Transacted, which creates Route Builder, which befores Route parameter of route, NamedNode parameter of definition Wrap, which wraps Route parameter of route, Processor parameter of processor.
+AdviceWithTransactedTest acts as a publisher for observer Service, which tests Advice Transacted, which creates Route Builder, which befores Route parameter of route, NamedNode parameter of definition Wrap, which wraps Route parameter of route, Processor parameter of processor.

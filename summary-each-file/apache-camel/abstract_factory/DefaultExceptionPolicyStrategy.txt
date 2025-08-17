@@ -1,0 +1,1 @@
+DefaultExceptionPolicyStrategy acts as a factory for ExceptionPolicyStrategy, which overrides getExceptionPolicy method of ExceptionPolicyStrategy.

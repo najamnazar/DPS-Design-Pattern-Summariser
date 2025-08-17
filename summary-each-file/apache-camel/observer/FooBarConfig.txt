@@ -1,0 +1,1 @@
+FooBarConfig acts as an observer for publisher CamelPostProcessorHelperTest, which is inherited by, which gets Age, which sets int parameter of age Age, which gets Name, which sets String parameter of name Name.

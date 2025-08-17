@@ -1,0 +1,1 @@
+LoadTimeWeaverAwareProcessor acts as a caretaker for memento B, which sets BeanFactory parameter of beanFactory Bean Factory, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which posts Object parameter of bean, String parameter of name Process After Initialization.

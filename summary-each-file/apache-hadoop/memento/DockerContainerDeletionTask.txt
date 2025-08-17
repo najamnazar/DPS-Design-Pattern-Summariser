@@ -1,0 +1,1 @@
+DockerContainerDeletionTask acts as a caretaker for memento TaskType, which gets Container Id, which runs, which tos String, which converts Deletion Task To Proto.

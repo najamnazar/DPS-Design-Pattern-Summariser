@@ -1,0 +1,1 @@
+MockComponentConfigurer acts as a target for adapter DataSetComponentConfigurer, which adapts to MockComponentConfigurer, which adapts to MockComponentConfigurer, which adapts to MockComponentConfigurer, which adapts to MockComponentConfigurer.

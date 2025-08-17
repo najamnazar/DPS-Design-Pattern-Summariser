@@ -1,0 +1,2 @@
+FileExclusiveReadManuelTest acts as a publisher for observer Service, which tests Manually, which creates Route Builder.
+FileExclusiveReadManuelTest acts as a publisher for observer CamelContext, which tests Manually, which creates Route Builder.

@@ -1,0 +1,4 @@
+SourcePositionImpl acts as a product for AnnotationValue, which overrides line method of SourcePosition, column method of SourcePosition, file method of SourcePosition.
+SourcePositionImpl acts as a factory for SourcePosition, which overrides line method of SourcePosition, column method of SourcePosition, file method of SourcePosition.
+SourcePositionImpl acts as a product for AnnotationMirror, which overrides line method of SourcePosition, column method of SourcePosition, file method of SourcePosition.
+SourcePositionImpl acts as a product for Declaration, which overrides line method of SourcePosition, column method of SourcePosition, file method of SourcePosition.

@@ -1,0 +1,1 @@
+NativeWebRequest acts as an adaptee for adapter ServletWebRequest, which adapts to ServletRequestAttributes, which adapts to ServletRequestAttributes, which adapts to ServletRequestAttributes, which adapts to ServletRequestAttributes.

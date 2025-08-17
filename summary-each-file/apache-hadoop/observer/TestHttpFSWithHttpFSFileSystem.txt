@@ -1,0 +1,1 @@
+TestHttpFSWithHttpFSFileSystem acts as a publisher for observer Operation, which gets File System Class, which gets Proxied FSTest Dir, which gets Proxied FSURI, which gets Proxied FSConf.

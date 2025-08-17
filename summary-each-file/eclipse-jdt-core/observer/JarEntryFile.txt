@@ -1,0 +1,1 @@
+JarEntryFile acts as a publisher for observer Object, which clones Object parameter of newParent, which gets Contents, which gets Children, which is File, which tos String.

@@ -1,0 +1,1 @@
+AdvisedSupportListener acts as an observer for publisher ProxyCreatorSupport, ProxyFactory, AspectJProxyFactory, which is inherited by, which activates AdvisedSupport parameter of advised, which advices AdvisedSupport parameter of advised Changed.

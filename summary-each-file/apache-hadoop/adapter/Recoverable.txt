@@ -1,0 +1,8 @@
+Recoverable acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable.
+Recoverable acts as a target for adapter ProxyCAManager, which adapts to Recoverable.
+Recoverable acts as a target for adapter RMAppAttemptImpl, which adapts to Recoverable.
+Recoverable acts as a target for adapter ResourceManager, which adapts to Recoverable.
+Recoverable acts as an adaptee for adapter ProxyCAManager, which adapts to AbstractService, Recoverable.
+Recoverable acts as a target for adapter RMAppManager, which adapts to Recoverable.
+Recoverable acts as a target for adapter RMAppImpl, which adapts to Recoverable.
+Recoverable acts as a target for adapter RMDelegationTokenSecretManager, which adapts to Recoverable.

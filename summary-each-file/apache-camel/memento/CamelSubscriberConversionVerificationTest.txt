@@ -1,0 +1,1 @@
+CamelSubscriberConversionVerificationTest acts as a caretaker for memento Context, which creates Subscriber, which creates int parameter of element Element, which inits, which tears Down.

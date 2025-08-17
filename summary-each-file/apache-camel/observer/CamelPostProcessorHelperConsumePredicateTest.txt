@@ -1,0 +1,2 @@
+CamelPostProcessorHelperConsumePredicateTest acts as a publisher for observer Service, which tests Consume Predicate, which tests Consume Predicate Drop, which lows String parameter of body, which highes String parameter of body.
+CamelPostProcessorHelperConsumePredicateTest acts as a publisher for observer CamelContext, which tests Consume Predicate, which tests Consume Predicate Drop, which lows String parameter of body, which highes String parameter of body.

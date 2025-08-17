@@ -1,0 +1,1 @@
+SpringBusFactoryBeanTest acts as a caretaker for memento Context, which gets Application Context Files, which gets The Bus Instance.

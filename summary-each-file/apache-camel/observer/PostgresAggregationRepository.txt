@@ -1,0 +1,2 @@
+PostgresAggregationRepository acts as a publisher for observer JdbcOptimisticLockingExceptionMapper, which inserts final parameter of CamelContext, final parameter of String, final parameter of Exchange, String parameter of repositoryName, final parameter of Long.
+PostgresAggregationRepository acts as a publisher for observer JdbcCamelCodec, which inserts final parameter of CamelContext, final parameter of String, final parameter of Exchange, String parameter of repositoryName, final parameter of Long.

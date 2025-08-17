@@ -1,0 +1,1 @@
+ProfileCondition acts as a product for ConstraintImpl, which overrides matches method of Condition.

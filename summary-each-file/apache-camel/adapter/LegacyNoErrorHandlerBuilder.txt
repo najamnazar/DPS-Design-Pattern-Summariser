@@ -1,0 +1,1 @@
+LegacyNoErrorHandlerBuilder acts as an adapter, which adapts to LegacyErrorHandlerBuilderSupport, which adapts to LegacyErrorHandlerBuilderSupport.

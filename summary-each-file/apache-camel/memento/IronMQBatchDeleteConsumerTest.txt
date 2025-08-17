@@ -1,0 +1,2 @@
+IronMQBatchDeleteConsumerTest acts as a caretaker for memento Context, which tests Consume Batch, which creates Camel Context, which creates Route Builder.
+IronMQBatchDeleteConsumerTest acts as a caretaker for memento Producer, which tests Consume Batch, which creates Camel Context, which creates Route Builder.

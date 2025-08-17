@@ -1,0 +1,2 @@
+AsyncEndpointRoutingSlipBeanTest acts as a publisher for observer CamelContext, which creates Registry, which tests Async Endpoint, which creates Route Builder, which does Something.
+AsyncEndpointRoutingSlipBeanTest acts as a publisher for observer Service, which creates Registry, which tests Async Endpoint, which creates Route Builder, which does Something.

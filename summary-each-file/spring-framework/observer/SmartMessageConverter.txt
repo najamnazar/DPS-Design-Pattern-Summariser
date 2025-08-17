@@ -1,0 +1,1 @@
+SmartMessageConverter acts as an observer, which tos Object parameter of object, Session parameter of session, @Nullable parameter of Object Message.

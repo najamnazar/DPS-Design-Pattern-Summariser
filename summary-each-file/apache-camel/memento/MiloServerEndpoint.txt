@@ -1,0 +1,2 @@
+MiloServerEndpoint acts as a caretaker for memento Component, which gets Component, which does Start, which does Stop, which creates Producer, which creates final parameter of Processor Consumer, which gets Item, which sets final parameter of String Item Id, which gets Item Id.
+MiloServerEndpoint acts as a caretaker for memento Context, which gets Component, which does Start, which does Stop, which creates Producer, which creates final parameter of Processor Consumer, which gets Item, which sets final parameter of String Item Id, which gets Item Id.

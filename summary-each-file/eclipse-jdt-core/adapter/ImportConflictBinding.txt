@@ -1,0 +1,1 @@
+ImportConflictBinding acts as an adapter, which adapts readableName method of ReferenceBinding to ImportBinding, which adapts to ImportBinding.

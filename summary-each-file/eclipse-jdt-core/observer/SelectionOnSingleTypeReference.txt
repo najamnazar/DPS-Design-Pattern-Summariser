@@ -1,0 +1,1 @@
+SelectionOnSingleTypeReference acts as an observer, which abouts Scope parameter of scope To Resolve, which gets Scope parameter of scope Type Binding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope, ReferenceBinding parameter of enclosingType Type Enclosing.

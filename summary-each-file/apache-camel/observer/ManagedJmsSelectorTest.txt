@@ -1,0 +1,5 @@
+ManagedJmsSelectorTest acts as a publisher for observer FluentProducerTemplate, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.
+ManagedJmsSelectorTest acts as a publisher for observer ConsumerTemplate, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.
+ManagedJmsSelectorTest acts as a publisher for observer ProducerTemplate, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.
+ManagedJmsSelectorTest acts as a publisher for observer CamelContext, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.
+ManagedJmsSelectorTest acts as a publisher for observer Service, which uses Jmx, which creates Camel Context, which gets MBean Server, which tests Jms Selector Change Via Jmx, which creates Route Builder.

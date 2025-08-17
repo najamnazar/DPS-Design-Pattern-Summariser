@@ -1,0 +1,1 @@
+DefaultCloseableDSLContext acts as a memento, which closes.

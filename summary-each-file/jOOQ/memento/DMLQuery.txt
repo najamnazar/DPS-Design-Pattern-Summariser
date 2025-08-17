@@ -1,0 +1,1 @@
+DMLQuery acts as a memento.

@@ -1,0 +1,4 @@
+TestContainerSchedulerBehaviorCompatibility acts as a publisher for observer ContainerManagerImpl, which setups, which tests Force Start Guaranteed Containers When Opp Container Disabled.
+TestContainerSchedulerBehaviorCompatibility acts as a publisher for observer DeletionService, which setups, which tests Force Start Guaranteed Containers When Opp Container Disabled.
+TestContainerSchedulerBehaviorCompatibility acts as a publisher for observer NodeStatusUpdater, which setups, which tests Force Start Guaranteed Containers When Opp Container Disabled.
+TestContainerSchedulerBehaviorCompatibility acts as a publisher for observer Resource, which setups, which tests Force Start Guaranteed Containers When Opp Container Disabled.

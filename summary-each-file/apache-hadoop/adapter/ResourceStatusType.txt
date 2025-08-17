@@ -1,0 +1,1 @@
+ResourceStatusType acts as an adaptee for adapter MockLocalResourceStatus.

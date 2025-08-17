@@ -1,0 +1,2 @@
+CallableStatementWrapperFactory acts as an adaptee for adapter SqlStoredEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+CallableStatementWrapperFactory acts as an adaptee for adapter CallableStatementWrapperTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

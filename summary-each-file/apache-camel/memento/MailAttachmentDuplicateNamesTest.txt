@@ -1,0 +1,2 @@
+MailAttachmentDuplicateNamesTest acts as a caretaker for memento Producer, which tests Send And Receive Mail With Attachments With Duplicate Names, which creates Route Builder.
+MailAttachmentDuplicateNamesTest acts as a caretaker for memento Context, which tests Send And Receive Mail With Attachments With Duplicate Names, which creates Route Builder.

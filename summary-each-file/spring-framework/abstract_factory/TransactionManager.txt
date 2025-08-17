@@ -1,0 +1,1 @@
+TransactionManager acts as an abstract product for TransactionManager, which is inherited by PlatformTransactionManager, ReactiveTransactionManager.

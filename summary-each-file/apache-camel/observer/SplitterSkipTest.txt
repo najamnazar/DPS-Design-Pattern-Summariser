@@ -1,0 +1,2 @@
+SplitterSkipTest acts as a publisher for observer Service, which tests Splitter Skip, which tests Splitter Empty, which tests Splitter Empty Again, which creates Route Builder.
+SplitterSkipTest acts as a publisher for observer CamelContext, which tests Splitter Skip, which tests Splitter Empty, which tests Splitter Empty Again, which creates Route Builder.

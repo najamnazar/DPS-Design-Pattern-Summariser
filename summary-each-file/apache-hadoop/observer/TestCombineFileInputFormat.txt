@@ -1,0 +1,2 @@
+TestCombineFileInputFormat acts as a publisher for observer Path, which is inherited by, which writes FileSystem parameter of fs, Path parameter of name, String parameter of contents File, which tests Splits.
+TestCombineFileInputFormat acts as a publisher for observer FileSystem, which is inherited by, which writes FileSystem parameter of fs, Path parameter of name, String parameter of contents File, which tests Splits.

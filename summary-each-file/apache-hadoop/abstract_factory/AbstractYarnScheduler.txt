@@ -1,0 +1,1 @@
+AbstractYarnScheduler acts as a product for RMContext, which overrides getNodeIds method of ResourceScheduler, reinitialize method of ResourceScheduler, attemptAllocationOnNode method of ResourceScheduler, resetSchedulerMetrics method of ResourceScheduler.

@@ -1,0 +1,1 @@
+CachingResourceTransformer acts as a factory for ResourceTransformer, which overrides transform method of ResourceTransformer.

@@ -1,0 +1,1 @@
+DefaultCxfMessageMapper acts as a factory for CxfMessageMapper, which overrides createCxfMessageFromCamelExchange method of CxfMessageMapper.

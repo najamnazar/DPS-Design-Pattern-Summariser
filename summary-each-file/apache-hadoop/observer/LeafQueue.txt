@@ -1,0 +1,10 @@
+LeafQueue acts as a publisher for observer User.
+LeafQueue acts as a publisher for observer ResourceLimits.
+LeafQueue acts as an observer for publisher TestCapacitySchedulerMaxParallelApps, which is inherited by.
+LeafQueue acts as a publisher for observer Priority.
+LeafQueue acts as a publisher for observer Resource.
+LeafQueue acts as a publisher for observer SchedulingMode.
+LeafQueue acts as a publisher for observer ApplicationAttemptId.
+LeafQueue acts as a publisher for observer FiCaSchedulerApp.
+LeafQueue acts as an observer.
+LeafQueue acts as a publisher for observer RMContainer.

@@ -1,0 +1,1 @@
+IndexRequest acts as a product for JobManager, which overrides cancel method of IJob, ensureReadyToRun method of IJob, getJobFamily method of IJob, waitNeeded method of IJob.

@@ -1,0 +1,2 @@
+SampleDataJoinMapper acts as a publisher for observer Reporter, which generates String parameter of inputFile Input Tag, which generates TaggedMapOutput parameter of aRecord Group Key, which generates Object parameter of value Tagged Map Output.
+SampleDataJoinMapper acts as a publisher for observer JobConf, which generates String parameter of inputFile Input Tag, which generates TaggedMapOutput parameter of aRecord Group Key, which generates Object parameter of value Tagged Map Output.

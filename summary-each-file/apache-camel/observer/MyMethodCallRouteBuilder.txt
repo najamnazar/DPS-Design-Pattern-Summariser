@@ -1,0 +1,7 @@
+MyMethodCallRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which whats To Do When Exists, which configures.
+MyMethodCallRouteBuilder acts as a publisher for observer RestsDefinition, which whats To Do When Exists, which configures.
+MyMethodCallRouteBuilder acts as an observer, which whats To Do When Exists, which configures.
+MyMethodCallRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which whats To Do When Exists, which configures.
+MyMethodCallRouteBuilder acts as a publisher for observer RoutesDefinition, which whats To Do When Exists, which configures.
+MyMethodCallRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which whats To Do When Exists, which configures.
+MyMethodCallRouteBuilder acts as a publisher for observer Resource, which whats To Do When Exists, which configures.

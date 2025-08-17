@@ -1,0 +1,1 @@
+HierarchyBinaryType acts as a factory method for ITypeAnnotationWalker, which is inherited by ITypeAnnotationWalker, TypeAnnotationWalker.

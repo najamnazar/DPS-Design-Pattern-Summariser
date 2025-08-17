@@ -1,0 +1,5 @@
+BaseEmbeddedKafkaTest acts as a publisher for observer CamelContext, which befores Class, which sets Kafka Admin Client, which gets Default Properties, which creates Camel Context, which creates Admin Client.
+BaseEmbeddedKafkaTest acts as a publisher for observer FluentProducerTemplate, which befores Class, which sets Kafka Admin Client, which gets Default Properties, which creates Camel Context, which creates Admin Client.
+BaseEmbeddedKafkaTest acts as a publisher for observer ConsumerTemplate, which befores Class, which sets Kafka Admin Client, which gets Default Properties, which creates Camel Context, which creates Admin Client.
+BaseEmbeddedKafkaTest acts as a publisher for observer ProducerTemplate, which befores Class, which sets Kafka Admin Client, which gets Default Properties, which creates Camel Context, which creates Admin Client.
+BaseEmbeddedKafkaTest acts as a publisher for observer Service, which befores Class, which sets Kafka Admin Client, which gets Default Properties, which creates Camel Context, which creates Admin Client.

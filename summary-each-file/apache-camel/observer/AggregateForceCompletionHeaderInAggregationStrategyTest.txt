@@ -1,0 +1,2 @@
+AggregateForceCompletionHeaderInAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Complete Previous On New Group, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+AggregateForceCompletionHeaderInAggregationStrategyTest acts as a publisher for observer Service, which tests Complete Previous On New Group, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

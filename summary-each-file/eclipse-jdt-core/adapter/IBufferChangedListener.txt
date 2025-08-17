@@ -1,0 +1,3 @@
+IBufferChangedListener acts as a target for adapter BufferTests, which adapts to IBufferChangedListener.
+IBufferChangedListener acts as an adaptee for adapter Openable, which adapts to JavaElement, IOpenable, IBufferChangedListener.
+IBufferChangedListener acts as a target for adapter Openable, which adapts to IBufferChangedListener.

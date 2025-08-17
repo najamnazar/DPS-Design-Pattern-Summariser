@@ -1,0 +1,1 @@
+RequestUpgradeStrategy acts as an abstract product for JettySockJsIntegrationTests, which is inherited by AbstractStandardUpgradeStrategy, JettyRequestUpgradeStrategy, ReactorNettyRequestUpgradeStrategy.

@@ -1,0 +1,1 @@
+SpringDataFormatPartialTest acts as a caretaker for memento Context, which tests Partial Marshal, which tests Partial Unmarshal, which creates Application Context.

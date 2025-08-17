@@ -1,0 +1,1 @@
+AbstractCGroupsResourceCalculator acts as a factory for DefaultOOMHandler, which overrides.

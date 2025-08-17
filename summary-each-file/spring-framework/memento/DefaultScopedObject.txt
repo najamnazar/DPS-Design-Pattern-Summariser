@@ -1,0 +1,2 @@
+DefaultScopedObject acts as a caretaker for memento B, which gets Target Object, which removes From Scope.
+DefaultScopedObject acts as a caretaker for memento C, which gets Target Object, which removes From Scope.

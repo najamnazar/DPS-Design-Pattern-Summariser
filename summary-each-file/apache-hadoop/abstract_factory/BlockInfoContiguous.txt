@@ -1,0 +1,1 @@
+BlockInfoContiguous acts as a product for BlockCollection, which overrides addStorage method of BlockInfo, removeStorage method of BlockInfo, isProvided method of BlockInfo, numNodes method of BlockInfo, isStriped method of BlockInfo, getBlockType method of BlockInfo, hasNoStorage method of BlockInfo.

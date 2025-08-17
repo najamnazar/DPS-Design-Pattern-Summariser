@@ -1,0 +1,1 @@
+ExceptionTestCase acts as a publisher for observer String, which runs Test.

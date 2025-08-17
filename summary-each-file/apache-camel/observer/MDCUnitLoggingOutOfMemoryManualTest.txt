@@ -1,0 +1,2 @@
+MDCUnitLoggingOutOfMemoryManualTest acts as a publisher for observer Service, which creates Route Builder, which tests MDCLogging.
+MDCUnitLoggingOutOfMemoryManualTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests MDCLogging.

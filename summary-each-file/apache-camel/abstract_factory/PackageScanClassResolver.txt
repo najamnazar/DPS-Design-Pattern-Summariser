@@ -1,0 +1,1 @@
+PackageScanClassResolver acts as an abstract product for PackageScanClassResolver, which is inherited by DefaultPackageScanClassResolver, TypeConvertersPackageScanClassResolver.

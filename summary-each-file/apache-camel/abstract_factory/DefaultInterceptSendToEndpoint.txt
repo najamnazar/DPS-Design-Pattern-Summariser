@@ -1,0 +1,1 @@
+DefaultInterceptSendToEndpoint acts as a factory for InterceptSendToEndpoint, which overrides getBefore method of InterceptSendToEndpoint, getAfter method of InterceptSendToEndpoint, getOriginalEndpoint method of InterceptSendToEndpoint, isSkip method of InterceptSendToEndpoint.

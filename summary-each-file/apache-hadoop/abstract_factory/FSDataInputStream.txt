@@ -1,0 +1,2 @@
+FSDataInputStream acts as an abstract product for FSDataInputStream, which is inherited by CryptoFSDataInputStream, HdfsDataInputStream.
+FSDataInputStream acts as a factory for IOStatisticsSource, which overrides getIOStatistics method of IOStatisticsSource.

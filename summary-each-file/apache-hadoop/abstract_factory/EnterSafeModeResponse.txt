@@ -1,0 +1,1 @@
+EnterSafeModeResponse acts as an abstract product for EnterSafeModeResponse, which is inherited by EnterSafeModeResponsePBImpl.

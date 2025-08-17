@@ -1,0 +1,2 @@
+SedaConfigureTest acts as a caretaker for memento Context, which tests Blocking Queue Configured, which tests Concurrent Consumers Configured, which tests Block When Full, which tests Defaults.
+SedaConfigureTest acts as a caretaker for memento Producer, which tests Blocking Queue Configured, which tests Concurrent Consumers Configured, which tests Block When Full, which tests Defaults.

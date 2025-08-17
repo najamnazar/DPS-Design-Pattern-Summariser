@@ -1,0 +1,1 @@
+SynchronousDelegateProducer acts as an observer, which gets Endpoint, which processes Exchange parameter of exchange, which does Build, which does Init, which does Start, which does Stop, which does Suspend, which does Resume, which does Shutdown, which is Singleton, which tos String.

@@ -1,0 +1,1 @@
+TypedElementDefinition acts as an abstract factory for DomainDefinition, DataTypeDefinition, which is inherited by.

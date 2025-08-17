@@ -1,0 +1,1 @@
+ResequenceDefinition acts as a factory for HasExpressionType, which overrides getExpressionType method of HasExpressionType, setExpressionType method of HasExpressionType.

@@ -1,0 +1,2 @@
+CompletionOnPackageVisibilityReference acts as a caretaker for memento S, which prints int parameter of indent, StringBuilder parameter of output.
+CompletionOnPackageVisibilityReference acts as a caretaker for memento String, which prints int parameter of indent, StringBuilder parameter of output.

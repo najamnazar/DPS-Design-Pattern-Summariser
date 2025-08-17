@@ -1,0 +1,1 @@
+CloudtrailConsumer acts as a caretaker for memento ShutdownRunningTask, which polls, which processes Queue<Object> parameter of exchanges Batch, which gets Client, which gets Endpoint, which creates List<Event> parameter of events Exchanges, which creates Event parameter of event Exchange.

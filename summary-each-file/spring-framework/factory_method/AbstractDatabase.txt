@@ -1,0 +1,3 @@
+AbstractDatabase acts as a factory for ArrayDefinition, which overrides getUDTs method of ArrayDefinition.
+AbstractDatabase acts as a factory method for SchemaVersionProvider, which is inherited by AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase.
+AbstractDatabase acts as a factory for AbstractDatabase, which overrides.

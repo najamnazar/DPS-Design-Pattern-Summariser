@@ -1,0 +1,4 @@
+TimelineWriter acts as an adaptee for adapter TimelineCollectorManager, which adapts to CompositeService, which adapts to CompositeService.
+TimelineWriter acts as an adaptee for adapter HBaseTimelineWriterImpl, which adapts to AbstractService, which adapts to AbstractService.
+TimelineWriter acts as an adaptee for adapter TimelineCollector, which adapts to CompositeService, which adapts to CompositeService.
+TimelineWriter acts as an adaptee for adapter DocumentStoreTimelineWriterImpl, which adapts to AbstractService, which adapts to AbstractService.

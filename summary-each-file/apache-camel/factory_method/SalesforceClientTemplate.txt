@@ -1,0 +1,1 @@
+SalesforceClientTemplate acts as a factory method for RestClient, which is inherited by ElasticsearchTestSupport, ElasticsearchTestSupport, ElasticsearchTestSupport, ElasticsearchTestSupport, ElasticsearchTestSupport, AbstractSalesforceExecution, AbstractSalesforceExecution, ElasticsearchTestSupport, ElasticsearchTestSupport.

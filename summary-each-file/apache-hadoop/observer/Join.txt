@@ -1,0 +1,1 @@
+Join acts as a publisher for observer Configuration, which prints Usage, which runs String[] parameter of args, which mains String[] parameter of args.

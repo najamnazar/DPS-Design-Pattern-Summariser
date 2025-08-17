@@ -1,0 +1,1 @@
+NoOverCommitPolicy acts as a target for adapter CapacityOverTimePolicy, which adapts to NoOverCommitPolicy, which adapts to NoOverCommitPolicy, which adapts to NoOverCommitPolicy, which adapts to NoOverCommitPolicy.

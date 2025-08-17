@@ -1,0 +1,2 @@
+PersistenceExceptionTranslationInterceptor acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+PersistenceExceptionTranslationInterceptor acts as a product for AdvisorAdapter, which overrides.

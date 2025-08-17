@@ -1,0 +1,4 @@
+JdbcEndpoint acts as a factory for TransformerRouteTest, which overrides.
+JdbcEndpoint acts as a factory for JdbcEndpoint, which overrides.
+JdbcEndpoint acts as a factory method for BeanRowMapper, which is inherited by JdbcEndpoint.
+JdbcEndpoint acts as a factory for JdbcComponent, which overrides.

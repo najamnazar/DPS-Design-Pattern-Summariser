@@ -1,0 +1,1 @@
+HashResolver acts as an observer, which gets final parameter of String, final parameter of PathLocation First Namespace, which gets final parameter of Set<String> Hash Resolver, which extracts final parameter of String Temp File Name.

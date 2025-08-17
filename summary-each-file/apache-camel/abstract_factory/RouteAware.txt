@@ -1,0 +1,1 @@
+RouteAware acts as an abstract factory for Route, which is inherited by DefaultConsumer.

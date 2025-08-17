@@ -1,0 +1,2 @@
+InterceptSimpleRouteWhenTest acts as a publisher for observer CamelContext, which tests Intercept When, which creates Route Builder.
+InterceptSimpleRouteWhenTest acts as a publisher for observer Service, which tests Intercept When, which creates Route Builder.

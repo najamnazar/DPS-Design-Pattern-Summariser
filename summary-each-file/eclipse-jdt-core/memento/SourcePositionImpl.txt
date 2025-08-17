@@ -1,0 +1,2 @@
+SourcePositionImpl acts as a caretaker for memento E, which lines, which columns, which files, which gets Starting Offset, which gets Ending Offset, which gets Length, which gets Resource, which tos String.
+SourcePositionImpl acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.

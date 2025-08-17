@@ -1,0 +1,3 @@
+EnumType acts as a product for ClassType, which overrides.
+EnumType acts as a product for ClassDeclaration, which overrides.
+EnumType acts as an abstract factory for EnumDeclaration, which is inherited by EnumDeclarationImpl.

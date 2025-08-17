@@ -1,0 +1,3 @@
+AbsolutePathGroovySpringContextTests acts as a caretaker for memento C.
+AbsolutePathGroovySpringContextTests acts as a caretaker for memento A.
+AbsolutePathGroovySpringContextTests acts as a caretaker for memento ApplicationContext.

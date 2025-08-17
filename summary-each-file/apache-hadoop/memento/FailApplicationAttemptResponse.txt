@@ -1,0 +1,2 @@
+FailApplicationAttemptResponse acts as a memento, which is inherited by FailApplicationAttemptResponsePBImpl, which news Instance.
+FailApplicationAttemptResponse acts as an originator for memento FailApplicationAttemptResponse, which is inherited by, which news a FailApplicationAttemptResponse Instance to.

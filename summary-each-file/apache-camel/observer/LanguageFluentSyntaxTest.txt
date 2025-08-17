@@ -1,0 +1,2 @@
+LanguageFluentSyntaxTest acts as a publisher for observer Service, which tests As Split Expression, which tests As Outer Expression, which tests As Inner Expression, which tests As Filer, which creates Route Builder.
+LanguageFluentSyntaxTest acts as a publisher for observer CamelContext, which tests As Split Expression, which tests As Outer Expression, which tests As Inner Expression, which tests As Filer, which creates Route Builder.

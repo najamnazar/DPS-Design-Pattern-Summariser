@@ -1,0 +1,1 @@
+CandidateComponentsIndex acts as an observer for publisher ClassPathScanningCandidateComponentProvider, ClassPathBeanDefinitionScanner, which is inherited by, which parses List<Properties> parameter of content Index, which gets String parameter of basePackage, String parameter of stereotype Candidate Types, which matches String parameter of basePackage.

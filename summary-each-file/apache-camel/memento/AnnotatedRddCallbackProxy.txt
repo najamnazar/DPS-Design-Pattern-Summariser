@@ -1,0 +1,2 @@
+AnnotatedRddCallbackProxy acts as a memento, which ons JavaRDDLike parameter of rdd, Object... parameter of payloads Rdd.
+AnnotatedRddCallbackProxy acts as a caretaker for memento Context, which ons JavaRDDLike parameter of rdd, Object... parameter of payloads Rdd.

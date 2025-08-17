@@ -1,0 +1,2 @@
+InputStreamCacheTest acts as a publisher for observer CamelContext, which tests Input Stream Cache.
+InputStreamCacheTest acts as a publisher for observer Service, which tests Input Stream Cache.

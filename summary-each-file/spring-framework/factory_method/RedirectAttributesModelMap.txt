@@ -1,0 +1,1 @@
+RedirectAttributesModelMap acts as a product for RedirectAttributes, which overrides getFlashAttributes method of RedirectAttributes, addFlashAttribute method of RedirectAttributes, addFlashAttribute method of RedirectAttributes.

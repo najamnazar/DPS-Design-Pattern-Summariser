@@ -1,0 +1,1 @@
+SmartRequestBuilder acts as an observer, which posts MockHttpServletRequest parameter of request Process Request.

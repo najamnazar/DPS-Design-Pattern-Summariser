@@ -1,0 +1,5 @@
+KameletLocalBeanClassFourTest acts as a publisher for observer CamelContext, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.
+KameletLocalBeanClassFourTest acts as a publisher for observer ConsumerTemplate, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.
+KameletLocalBeanClassFourTest acts as a publisher for observer Service, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.
+KameletLocalBeanClassFourTest acts as a publisher for observer ProducerTemplate, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.
+KameletLocalBeanClassFourTest acts as a publisher for observer FluentProducerTemplate, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.

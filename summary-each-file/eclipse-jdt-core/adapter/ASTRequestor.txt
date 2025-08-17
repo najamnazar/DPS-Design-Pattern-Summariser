@@ -1,0 +1,1 @@
+ASTRequestor acts as an adaptee for adapter AbstractCompilationEnv, which adapts to BaseProcessorEnv, which adapts to BaseProcessorEnv, which adapts to BaseProcessorEnv.

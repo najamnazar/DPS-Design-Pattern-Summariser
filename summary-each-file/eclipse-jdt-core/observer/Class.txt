@@ -1,0 +1,1 @@
+Class acts as an observer for publisher LoadingTestCollector, which is inherited by.

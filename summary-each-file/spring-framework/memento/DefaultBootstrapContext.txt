@@ -1,0 +1,3 @@
+DefaultBootstrapContext acts as a caretaker for memento C, which gets Test Class, which gets Cache Aware Context Loader Delegate, which tos String.
+DefaultBootstrapContext acts as a memento, which tos String, which tos String, which tos String.
+DefaultBootstrapContext acts as a caretaker for memento A, which gets Test Class, which gets Cache Aware Context Loader Delegate, which tos String.

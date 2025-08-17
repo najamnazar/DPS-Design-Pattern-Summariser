@@ -1,0 +1,1 @@
+OpenldapService acts as an adaptee for adapter LdifTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

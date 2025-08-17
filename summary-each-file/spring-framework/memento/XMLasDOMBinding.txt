@@ -1,0 +1,1 @@
+XMLasDOMBinding acts as a caretaker for memento C, which converters, which tos Node parameter of node String, which froms String parameter of name String, which builders, which creates Document parameter of doc, String parameter of text Content.

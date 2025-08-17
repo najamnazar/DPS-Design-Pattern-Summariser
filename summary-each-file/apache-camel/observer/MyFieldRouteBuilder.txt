@@ -1,0 +1,7 @@
+MyFieldRouteBuilder acts as a publisher for observer Resource, which configures.
+MyFieldRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyFieldRouteBuilder acts as an observer, which configures.
+MyFieldRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyFieldRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyFieldRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyFieldRouteBuilder acts as a publisher for observer RestsDefinition, which configures.

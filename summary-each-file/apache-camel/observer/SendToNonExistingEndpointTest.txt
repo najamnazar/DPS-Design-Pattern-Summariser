@@ -1,0 +1,2 @@
+SendToNonExistingEndpointTest acts as a publisher for observer CamelContext, which tests Send To Non Existing Endpoint.
+SendToNonExistingEndpointTest acts as a publisher for observer Service, which tests Send To Non Existing Endpoint.

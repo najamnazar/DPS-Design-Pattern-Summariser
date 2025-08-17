@@ -1,0 +1,2 @@
+TestAbfsInputStreamStatistics acts as a publisher for observer Configuration, which tests Bytes Read From Buffer Statistic.
+TestAbfsInputStreamStatistics acts as a publisher for observer AzureBlobFileSystem, which tests Bytes Read From Buffer Statistic.

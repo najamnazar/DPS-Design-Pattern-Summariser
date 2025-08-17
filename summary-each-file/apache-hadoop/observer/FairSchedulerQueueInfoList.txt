@@ -1,0 +1,1 @@
+FairSchedulerQueueInfoList acts as a publisher for observer FairSchedulerQueueInfo, which is inherited by, which gets Queue Info List, which adds FairSchedulerQueueInfo parameter of e To Queue Info List, which gets int parameter of i Queue Info.

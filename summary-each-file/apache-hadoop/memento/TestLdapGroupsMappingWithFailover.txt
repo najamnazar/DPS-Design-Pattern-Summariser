@@ -1,0 +1,1 @@
+TestLdapGroupsMappingWithFailover acts as a caretaker for memento Attribute, which tests Does Not Failover When Disabled, which tests Failover.

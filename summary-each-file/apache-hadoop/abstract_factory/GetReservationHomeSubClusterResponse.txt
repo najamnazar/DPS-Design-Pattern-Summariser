@@ -1,0 +1,1 @@
+GetReservationHomeSubClusterResponse acts as an abstract product for GetReservationHomeSubClusterResponse, which is inherited by GetReservationHomeSubClusterResponsePBImpl.

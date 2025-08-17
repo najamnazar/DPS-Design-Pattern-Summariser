@@ -1,0 +1,1 @@
+PolyParameterizedGenericMethodBinding acts as a caretaker for memento Binding, which equals Object parameter of other, which hashes Code.

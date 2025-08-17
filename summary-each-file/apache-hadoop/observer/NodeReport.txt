@@ -1,0 +1,1 @@
+NodeReport acts as an observer for publisher GetClusterNodesResponsePBImpl, which is inherited by NodeReportPBImpl, which gets Used Resources, which gets Num Containers.

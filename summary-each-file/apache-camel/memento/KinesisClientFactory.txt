@@ -1,0 +1,1 @@
+KinesisClientFactory acts as an originator for memento KinesisInternalClient, which gets a KinesisInternalClient Kinesis Client to.

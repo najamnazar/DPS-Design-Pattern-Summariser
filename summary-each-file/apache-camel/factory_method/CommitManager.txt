@@ -1,0 +1,1 @@
+CommitManager acts as a factory for KafkaManualCommitFactory, which overrides.

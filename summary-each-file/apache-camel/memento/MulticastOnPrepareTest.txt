@@ -1,0 +1,2 @@
+MulticastOnPrepareTest acts as a caretaker for memento Context, which tests Multicast On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.
+MulticastOnPrepareTest acts as a caretaker for memento Producer, which tests Multicast On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

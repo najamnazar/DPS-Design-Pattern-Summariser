@@ -1,0 +1,1 @@
+GpuDevice acts as an observer for publisher GpuResourceAllocator, which is inherited by AssignedGpuDevice, which gets Index, which gets Minor Number, which equals Object parameter of obj, which compares Object parameter of obj To, which hashes Code, which tos String.

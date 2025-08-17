@@ -1,0 +1,2 @@
+LanguageResolver acts as an abstract product for LanguageResolver, which is inherited by DefaultLanguageResolver.
+LanguageResolver acts as an abstract factory for Language, which is inherited by DefaultLanguageResolver.

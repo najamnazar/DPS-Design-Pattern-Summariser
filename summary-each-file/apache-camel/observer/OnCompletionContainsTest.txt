@@ -1,0 +1,2 @@
+OnCompletionContainsTest acts as a publisher for observer CamelContext, which ons Exchange parameter of exchange Done, which tos String, which tests On Completion Contains Test, which creates Route Builder.
+OnCompletionContainsTest acts as a publisher for observer Service, which ons Exchange parameter of exchange Done, which tos String, which tests On Completion Contains Test, which creates Route Builder.

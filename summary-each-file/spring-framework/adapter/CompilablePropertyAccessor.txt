@@ -1,0 +1,1 @@
+CompilablePropertyAccessor acts as an adapter, which adapts to PropertyAccessor, which adapts to PropertyAccessor, which adapts to PropertyAccessor.

@@ -1,0 +1,2 @@
+JmsHttpPostIssueWithMockTest acts as a caretaker for memento Producer, which tests Jms In Only Http Post Issue, which tests Jms In Out Http Post Issue, which creates Route Builder, which binds Registry parameter of registry To Registry.
+JmsHttpPostIssueWithMockTest acts as a caretaker for memento Context, which tests Jms In Only Http Post Issue, which tests Jms In Out Http Post Issue, which creates Route Builder, which binds Registry parameter of registry To Registry.

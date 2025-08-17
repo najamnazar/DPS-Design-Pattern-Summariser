@@ -1,0 +1,1 @@
+ResilientCommitByRename acts as an adaptee for adapter AbfsManifestStoreOperations, which adapts to ManifestStoreOperationsThroughFileSystem.

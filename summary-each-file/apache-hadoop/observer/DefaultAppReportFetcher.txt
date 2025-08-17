@@ -1,0 +1,2 @@
+DefaultAppReportFetcher acts as a publisher for observer ApplicationHistoryProtocol, which gets ApplicationId parameter of appId Application Report, which gets ApplicationId parameter of appId Rm App Page Url Base, which stops.
+DefaultAppReportFetcher acts as a publisher for observer Configuration, which gets ApplicationId parameter of appId Application Report, which gets ApplicationId parameter of appId Rm App Page Url Base, which stops.

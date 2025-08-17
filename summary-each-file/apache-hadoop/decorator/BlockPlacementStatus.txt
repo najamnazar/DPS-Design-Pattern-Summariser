@@ -1,0 +1,1 @@
+BlockPlacementStatus acts as a component for BlockPlacementStatusWithNodeGroup, which is inherited by BlockPlacementStatusDefault, BlockPlacementStatusDefault, BlockPlacementStatusDefault.

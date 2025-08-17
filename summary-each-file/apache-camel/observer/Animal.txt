@@ -1,0 +1,1 @@
+Animal acts as an observer for publisher SimpleTest, which is inherited by, which gets Name, which is Dangerous, which sets boolean parameter of dangerous Dangerous.

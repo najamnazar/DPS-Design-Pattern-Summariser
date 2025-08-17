@@ -1,0 +1,1 @@
+PartitionInfo acts as an observer for publisher NodeLabelInfo, which is inherited by, which gets Resource Available, which adds PartitionInfo parameter of left, PartitionInfo parameter of right To.

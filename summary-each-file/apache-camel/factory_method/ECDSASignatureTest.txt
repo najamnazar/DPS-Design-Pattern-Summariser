@@ -1,0 +1,1 @@
+ECDSASignatureTest acts as a factory method for KeyAccessor, which is inherited by XmlSignatureTest.

@@ -1,0 +1,2 @@
+IdentityDefinition acts as a memento, which is inherited by DefaultIdentityDefinition, which gets Column, which gets Column.
+IdentityDefinition acts as an originator for memento PackageDefinition.

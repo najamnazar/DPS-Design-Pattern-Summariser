@@ -1,0 +1,1 @@
+JmsOnCompletionTest acts as a publisher for observer ArtemisService, which tests Synchronize Complete, which tests Synchronize Failure, which creates Route Builder, which processes Exchange parameter of exchange, which gets Component Name.

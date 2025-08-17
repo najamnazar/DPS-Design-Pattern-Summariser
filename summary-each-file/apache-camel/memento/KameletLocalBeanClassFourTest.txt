@@ -1,0 +1,2 @@
+KameletLocalBeanClassFourTest acts as a caretaker for memento Context, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.
+KameletLocalBeanClassFourTest acts as a caretaker for memento Producer, which tests One, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar, which wheres String parameter of name.

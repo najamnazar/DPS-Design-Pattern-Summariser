@@ -1,0 +1,1 @@
+AggregationStrategyClause acts as a product for EnrichDefinition, which overrides aggregate method of AggregationStrategy, aggregate method of AggregationStrategy.

@@ -1,0 +1,1 @@
+BeanAnnotationHelper acts as a caretaker for memento B, which is Method parameter of method Bean Annotated, which determines Method parameter of beanMethod Bean Name For, which is Method parameter of beanMethod Scoped Proxy.

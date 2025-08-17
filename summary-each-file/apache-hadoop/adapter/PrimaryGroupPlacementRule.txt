@@ -1,0 +1,1 @@
+PrimaryGroupPlacementRule acts as an adapter, which adapts to FSPlacementRule, which adapts to FSPlacementRule.

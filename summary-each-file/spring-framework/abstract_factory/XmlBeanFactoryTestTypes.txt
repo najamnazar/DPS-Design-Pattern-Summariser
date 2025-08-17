@@ -1,0 +1,1 @@
+XmlBeanFactoryTestTypes acts as an abstract factory for ITestBean, DummyFactory, TestBean, which is inherited by.

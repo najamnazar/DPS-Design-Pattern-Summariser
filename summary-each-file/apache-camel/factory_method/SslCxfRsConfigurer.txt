@@ -1,0 +1,2 @@
+SslCxfRsConfigurer acts as a product for SslCxfRsConfigurer, which overrides configure method of CxfRsConfigurer, configureClient method of CxfRsConfigurer, configureServer method of CxfRsConfigurer.
+SslCxfRsConfigurer acts as a factory method for CxfRsConfigurer, which is inherited by CxfRsEndpoint.

@@ -1,0 +1,2 @@
+CMComponent acts as a publisher for observer CamelContext, which creates final parameter of String, final parameter of String, final parameter of Map<String, Endpoint, which gets Validator, which does Init.
+CMComponent acts as a publisher for observer ComponentExtension, which creates final parameter of String, final parameter of String, final parameter of Map<String, Endpoint, which gets Validator, which does Init.

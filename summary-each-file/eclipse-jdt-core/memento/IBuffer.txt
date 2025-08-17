@@ -1,0 +1,1 @@
+IBuffer acts as an originator for memento String, which is inherited by, which appends String parameter of text, which gets a String Contents to, which gets a String Text to, which replaces int parameter of position, int parameter of length, String parameter of text, which sets String parameter of contents Contents.

@@ -1,0 +1,2 @@
+FileConsumerBeginAndCommitExpressionRenameStrategyTest acts as a publisher for observer Service, which tests Rename Success, which tests Illegal Options, which creates Route Builder.
+FileConsumerBeginAndCommitExpressionRenameStrategyTest acts as a publisher for observer CamelContext, which tests Rename Success, which tests Illegal Options, which creates Route Builder.

@@ -1,0 +1,1 @@
+DataReceiver acts as an observer for publisher NativeBatchProcessor, which is inherited by BufferPuller, which receives Data.

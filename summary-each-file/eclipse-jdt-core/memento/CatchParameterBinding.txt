@@ -1,0 +1,2 @@
+CatchParameterBinding acts as a caretaker for memento S, which gets Precise Types, which sets TypeBinding parameter of raisedException Precise Type, which is Catch Parameter.
+CatchParameterBinding acts as a caretaker for memento Binding, which gets Precise Types, which sets TypeBinding parameter of raisedException Precise Type, which is Catch Parameter.

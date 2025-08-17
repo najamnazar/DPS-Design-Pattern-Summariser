@@ -1,0 +1,1 @@
+InfinispanProducerTestSupport acts as an abstract factory for ProducerTemplate, FluentProducerTemplate, which is inherited by InfinispanEmbeddedProducerTest, InfinispanRemoteProducerIT.

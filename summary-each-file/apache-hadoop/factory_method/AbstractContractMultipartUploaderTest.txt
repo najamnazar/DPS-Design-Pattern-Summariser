@@ -1,0 +1,5 @@
+AbstractContractMultipartUploaderTest acts as a factory method for MultipartUploader, which is inherited by AbstractContractMultipartUploaderTest, AbstractContractMultipartUploaderTest.
+AbstractContractMultipartUploaderTest acts as a factory for BBUploadHandle, which overrides.
+AbstractContractMultipartUploaderTest acts as a factory for BBPartHandle, which overrides.
+AbstractContractMultipartUploaderTest acts as a factory for AbstractContractMultipartUploaderTest, which overrides.
+AbstractContractMultipartUploaderTest acts as a factory for FileSystem, which overrides.

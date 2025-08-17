@@ -1,0 +1,1 @@
+OperatorMatches acts as an observer, which gets ExpressionState parameter of state Value Internal, which checks, which chars int parameter of index At, which subs int parameter of start, int parameter of end Sequence, which lengthes, which tos String.

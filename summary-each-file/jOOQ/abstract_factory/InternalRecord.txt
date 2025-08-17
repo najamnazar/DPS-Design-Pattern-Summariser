@@ -1,0 +1,5 @@
+InternalRecord acts as a product for RecordContext, which overrides.
+InternalRecord acts as a product for UpdatableRecord, which overrides.
+InternalRecord acts as a product for DSLContext, which overrides.
+InternalRecord acts as a product for Record, which overrides.
+InternalRecord acts as a product for ExecuteContext, which overrides.

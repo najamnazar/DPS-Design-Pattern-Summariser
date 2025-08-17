@@ -1,0 +1,1 @@
+Type acts as an adaptee for adapter DatanodeDescriptor.

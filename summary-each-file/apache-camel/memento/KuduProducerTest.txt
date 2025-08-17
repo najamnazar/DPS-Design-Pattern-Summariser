@@ -1,0 +1,1 @@
+KuduProducerTest acts as a caretaker for memento Configuration, which creates Route Builder, which resets Endpoints, which creates Table, which inserts Row, which inserts Row Different Data, which inserts And Delete, which inserts And Update, which inserts And Upsert.

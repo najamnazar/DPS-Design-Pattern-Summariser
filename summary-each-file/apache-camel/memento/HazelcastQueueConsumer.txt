@@ -1,0 +1,1 @@
+HazelcastQueueConsumer acts as a caretaker for memento Configuration, which does Start, which does Stop, which runs.

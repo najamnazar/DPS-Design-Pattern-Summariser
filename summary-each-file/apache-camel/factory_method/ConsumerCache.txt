@@ -1,0 +1,3 @@
+ConsumerCache acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+ConsumerCache acts as a factory for CamelPostProcessorHelperTest, which overrides.
+ConsumerCache acts as a factory for WireTapProcessor, which overrides.

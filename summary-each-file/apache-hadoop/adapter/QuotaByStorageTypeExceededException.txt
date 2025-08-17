@@ -1,0 +1,1 @@
+QuotaByStorageTypeExceededException acts as an adapter, which adapts to QuotaExceededException.

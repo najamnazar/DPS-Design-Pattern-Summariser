@@ -1,0 +1,1 @@
+MockMvcWebConnectionTests acts as a caretaker for memento C, which contexts Path Null, which contexts Path Explicit, which contexts Path Empty, which forwards, which contexts Path Does Not Start With Slash, which contexts Path Ends With Slash.

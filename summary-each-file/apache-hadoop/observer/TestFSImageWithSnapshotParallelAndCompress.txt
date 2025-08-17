@@ -1,0 +1,1 @@
+TestFSImageWithSnapshotParallelAndCompress acts as a publisher for observer Path, which creates Cluster.

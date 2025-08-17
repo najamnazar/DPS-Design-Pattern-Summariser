@@ -1,0 +1,3 @@
+NumberFormat acts as an adaptee for adapter FullSourceWorkspaceTests, which adapts to TestCase, which adapts to TestCase.
+NumberFormat acts as an adaptee for adapter FullSourceWorkspaceSearchTests, which adapts to FullSourceWorkspaceTests, which adapts to FullSourceWorkspaceTests.
+NumberFormat acts as an adaptee for adapter FullSourceWorkspaceTypeHierarchyTests, which adapts to FullSourceWorkspaceTests, which adapts to FullSourceWorkspaceTests.

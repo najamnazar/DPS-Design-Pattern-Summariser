@@ -1,0 +1,2 @@
+Athena2ClientIAMOptimizedImpl acts as a caretaker for memento Configuration, which gets Athena Client.
+Athena2ClientIAMOptimizedImpl acts as a memento, which gets Athena Client.

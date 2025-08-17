@@ -1,0 +1,2 @@
+TestFailure acts as an adapter, which adapts to Object, which adapts thrownException method of Test, thrownException method of Test, thrownException method of Test to Object, which adapts to Object, which adapts to Object, which adapts to Object, which adapts to Object.
+TestFailure acts as an adapter, which adapts to Object, which adapts thrownException method of Throwable, thrownException method of Throwable, thrownException method of Throwable to Object, which adapts to Object, which adapts to Object, which adapts to Object, which adapts to Object.

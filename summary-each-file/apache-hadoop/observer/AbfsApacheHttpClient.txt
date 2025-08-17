@@ -1,0 +1,1 @@
+AbfsApacheHttpClient acts as an observer, which registers Fallback, which usables, which closes, which executes HttpRequestBase parameter of httpRequest, final parameter of AbfsManagedHttpClientContext, final parameter of int, final parameter of int, which creates ConnectionSocketFactory parameter of sslSocketFactory Socket Factory Registry.

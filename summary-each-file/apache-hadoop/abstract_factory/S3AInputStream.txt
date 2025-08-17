@@ -1,0 +1,2 @@
+S3AInputStream acts as a factory for IOStatisticsSource, which overrides.
+S3AInputStream acts as a product for ObjectInputStreamFactory, which overrides isStreamOpen method of ObjectInputStream, abortInFinalizer method of ObjectInputStream, close method of ObjectInputStream, toString method of ObjectInputStream, hasCapability method of ObjectInputStream.

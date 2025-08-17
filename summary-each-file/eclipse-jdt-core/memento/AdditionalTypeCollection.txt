@@ -1,0 +1,1 @@
+AdditionalTypeCollection acts as a caretaker for memento S.

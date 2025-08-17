@@ -1,0 +1,1 @@
+PrototypeTargetSourceTests acts as a caretaker for memento B, which setups, which tests Prototype And Singleton Behave Differently.

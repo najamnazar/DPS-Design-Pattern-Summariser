@@ -1,0 +1,1 @@
+TransactionContextHolder acts as a publisher for observer TransactionContext, which is inherited by, which sets TransactionContext parameter of transactionContext Current Transaction Context, which gets Current Transaction Context, which removes Current Transaction Context.

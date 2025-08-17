@@ -1,0 +1,2 @@
+XPathLanguage acts as a product for ConfigurerResolver, which overrides configure method of PropertyConfigurer.
+XPathLanguage acts as a product for PropertyConfigurerAware, which overrides configure method of PropertyConfigurer.

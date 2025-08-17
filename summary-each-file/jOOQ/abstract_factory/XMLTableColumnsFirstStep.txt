@@ -1,0 +1,2 @@
+XMLTableColumnsFirstStep acts as an abstract product for XMLTableColumnsFirstStep, which is inherited by XMLTableColumnsStep, XMLTableColumnsStep, XMLTableColumnsStep, XMLTableColumnsStep, XMLTableColumnsStep, XMLTableColumnsStep, XMLTablePassingStep, XMLTablePassingStep, XMLTablePassingStep, XMLTablePassingStep, XMLTablePassingStep, XMLTablePassingStep.
+XMLTableColumnsFirstStep acts as an abstract factory for XMLTableColumnForOrdinalityStep, XMLTableColumnPathStep, which is inherited by.

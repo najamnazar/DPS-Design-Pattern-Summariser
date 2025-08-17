@@ -1,0 +1,1 @@
+FederationStateStoreFacade acts as a singleton, which gets a FederationStateStoreFacade Instance to, which gets a FederationStateStoreFacade Instance to.

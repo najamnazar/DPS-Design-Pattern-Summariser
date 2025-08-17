@@ -1,0 +1,2 @@
+SplitTokenizerRegexpGroupTest acts as a publisher for observer CamelContext, which tests Split Tokenizer, which creates Route Builder.
+SplitTokenizerRegexpGroupTest acts as a publisher for observer Service, which tests Split Tokenizer, which creates Route Builder.

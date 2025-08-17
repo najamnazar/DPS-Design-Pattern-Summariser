@@ -1,0 +1,1 @@
+HeaderContentNegotiationStrategyTests acts as a caretaker for memento C, which resolves Media Types, which resolves Media Types From Multiple Header Values, which resolves Media Types Parse Error.

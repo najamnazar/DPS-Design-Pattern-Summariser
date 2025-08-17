@@ -1,0 +1,1 @@
+CommitterFactory acts as an observer for publisher AbstractITCommitProtocol, ITestMagicCommitProtocol, ITestStagingCommitProtocol, which is inherited by, which creates Path parameter of outputPath, TaskAttemptContext parameter of context Output Committer.

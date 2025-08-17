@@ -1,0 +1,2 @@
+StreamCachingStrategy acts as an abstract factory for StreamCache, which is inherited by DefaultStreamCachingStrategy.
+StreamCachingStrategy acts as an abstract product for StreamCachingStrategy, which is inherited by DefaultStreamCachingStrategy.

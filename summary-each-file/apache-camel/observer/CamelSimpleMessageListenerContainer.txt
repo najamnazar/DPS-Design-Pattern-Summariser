@@ -1,0 +1,4 @@
+CamelSimpleMessageListenerContainer acts as a publisher for observer DestinationCreationStrategy, which gets Amqp Admin.
+CamelSimpleMessageListenerContainer acts as a publisher for observer SessionMessageListener, which gets Amqp Admin.
+CamelSimpleMessageListenerContainer acts as a publisher for observer Message, which gets Amqp Admin.
+CamelSimpleMessageListenerContainer acts as a publisher for observer SjmsEndpoint, which gets Amqp Admin.

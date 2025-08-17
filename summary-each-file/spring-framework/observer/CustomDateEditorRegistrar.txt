@@ -1,0 +1,1 @@
+CustomDateEditorRegistrar acts as an observer, which registers PropertyEditorRegistry parameter of registry Custom Editors.

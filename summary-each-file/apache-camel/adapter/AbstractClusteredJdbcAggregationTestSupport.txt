@@ -1,0 +1,1 @@
+AbstractClusteredJdbcAggregationTestSupport acts as an adapter, which adapts to CamelSpringTestSupport, which adapts configureJdbcAggregationRepository method of ClusteredJdbcAggregationRepository to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.

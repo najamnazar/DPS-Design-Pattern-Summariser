@@ -1,0 +1,1 @@
+IClassFile acts as an observer, which becomes IProblemRequestor parameter of problemRequestor, WorkingCopyOwner parameter of owner, IProgressMonitor parameter of monitor Working Copy, which gets Bytes, which gets Type, which gets IProgressMonitor parameter of monitor, IBufferFactory parameter of factory Working Copy, which is Class, which is Interface.

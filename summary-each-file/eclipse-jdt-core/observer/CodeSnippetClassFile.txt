@@ -1,0 +1,2 @@
+CodeSnippetClassFile acts as an observer, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.
+CodeSnippetClassFile acts as a publisher for observer ReferenceBinding, which creates TypeDeclaration parameter of typeDeclaration, CompilationResult parameter of unitResult Problem Type.

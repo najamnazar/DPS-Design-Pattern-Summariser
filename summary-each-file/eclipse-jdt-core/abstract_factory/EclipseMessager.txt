@@ -1,0 +1,3 @@
+EclipseMessager acts as an abstract product for EclipseMessager, which is inherited by MessagerImpl.
+EclipseMessager acts as a product for AnnotationProcessorEnvironment, which overrides.
+EclipseMessager acts as a product for ProcessingEnvironment, which overrides.

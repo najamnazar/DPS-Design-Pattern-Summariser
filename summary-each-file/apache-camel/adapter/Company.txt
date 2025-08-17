@@ -1,0 +1,5 @@
+Company acts as an adaptee for adapter PropertyBindingSupportConfigurerTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Company acts as an adaptee for adapter PropertyBindingSupportArrayTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Company acts as an adaptee for adapter PropertyBindingSupportFlattenTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Company acts as an adaptee for adapter PropertyBindingSupportTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Company acts as an adaptee for adapter PropertyBindingSupportAutowireNestedTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

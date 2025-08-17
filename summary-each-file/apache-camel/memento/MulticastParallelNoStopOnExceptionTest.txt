@@ -1,0 +1,2 @@
+MulticastParallelNoStopOnExceptionTest acts as a caretaker for memento Producer, which sets Up, which tears Down, which tests Multicast Parallel No Stop On Exception Ok, which tests Multicast Paralllel No Stop On Exception Stop, which creates Route Builder.
+MulticastParallelNoStopOnExceptionTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests Multicast Parallel No Stop On Exception Ok, which tests Multicast Paralllel No Stop On Exception Stop, which creates Route Builder.

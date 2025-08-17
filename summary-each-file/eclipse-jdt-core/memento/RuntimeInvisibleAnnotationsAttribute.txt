@@ -1,0 +1,3 @@
+RuntimeInvisibleAnnotationsAttribute acts as a caretaker for memento IAnnotation, which gets Annotations, which gets Annotations Number.
+RuntimeInvisibleAnnotationsAttribute acts as a caretaker for memento C, which gets Annotations, which gets Annotations Number.
+RuntimeInvisibleAnnotationsAttribute acts as a caretaker for memento Class, which gets Annotations, which gets Annotations Number.

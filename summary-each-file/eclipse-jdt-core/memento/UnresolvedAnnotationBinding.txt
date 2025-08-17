@@ -1,0 +1,5 @@
+UnresolvedAnnotationBinding acts as a caretaker for memento String, which resolves, which gets Annotation Type, which gets Element Value Pairs.
+UnresolvedAnnotationBinding acts as a caretaker for memento E, which resolves, which gets Annotation Type, which gets Element Value Pairs.
+UnresolvedAnnotationBinding acts as a caretaker for memento R, which resolves, which gets Annotation Type, which gets Element Value Pairs.
+UnresolvedAnnotationBinding acts as a caretaker for memento Binding, which resolves, which gets Annotation Type, which gets Element Value Pairs.
+UnresolvedAnnotationBinding acts as a caretaker for memento S, which resolves, which gets Annotation Type, which gets Element Value Pairs.

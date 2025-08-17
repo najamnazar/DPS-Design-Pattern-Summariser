@@ -1,0 +1,2 @@
+RouteStartupOrderTest acts as a publisher for observer Service, which tests Route Startup Order, which creates Route Builder.
+RouteStartupOrderTest acts as a publisher for observer CamelContext, which tests Route Startup Order, which creates Route Builder.

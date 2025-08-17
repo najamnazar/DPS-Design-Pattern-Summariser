@@ -1,0 +1,1 @@
+QuantileEstimator acts as an abstract product for MutableQuantiles, which is inherited by SampleQuantiles.

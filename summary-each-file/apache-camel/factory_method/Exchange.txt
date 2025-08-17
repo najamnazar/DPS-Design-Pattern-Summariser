@@ -1,0 +1,3 @@
+Exchange acts as an abstract product for AggregateCompletionOnlyTwoTest, which is inherited by XChange.
+Exchange acts as a factory for JBPMProducer, which overrides.
+Exchange acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.

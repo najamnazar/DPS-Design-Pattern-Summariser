@@ -1,0 +1,1 @@
+InMemoryNameEnvironment acts as a factory for INameEnvironment, which overrides.

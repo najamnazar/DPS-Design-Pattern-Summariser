@@ -1,0 +1,1 @@
+JdbcTransactionManager acts as a factory method for SQLExceptionTranslator, which is inherited by AbstractFallbackSQLExceptionTranslator, AbstractFallbackSQLExceptionTranslator, AbstractFallbackSQLExceptionTranslator, JdbcDaoSupport, JdbcAccessor.

@@ -1,0 +1,5 @@
+ColorAnnotationProcessor acts as a caretaker for memento String, which processes, which is Successful.
+ColorAnnotationProcessor acts as a caretaker for memento E, which processes, which is Successful.
+ColorAnnotationProcessor acts as a caretaker for memento S, which processes, which is Successful.
+ColorAnnotationProcessor acts as a memento, which is Successful, which is Successful.
+ColorAnnotationProcessor acts as a caretaker for memento AnnotationProcessor, which processes, which is Successful.

@@ -1,0 +1,1 @@
+DefaultVertxKafkaManualCommit acts as a memento, which gets Record Offset, which gets Record Offset, which gets Record Offset, which gets Record Offset, which gets Record Offset, which gets Record Offset.

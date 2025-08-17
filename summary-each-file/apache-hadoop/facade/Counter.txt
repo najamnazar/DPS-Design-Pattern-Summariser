@@ -1,0 +1,1 @@
+Counter acts as a subsystem for facade Counters.

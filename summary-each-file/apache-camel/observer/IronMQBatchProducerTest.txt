@@ -1,0 +1,5 @@
+IronMQBatchProducerTest acts as a publisher for observer CamelContext, which tests Produce Batch, which tests Produce Batch With Illegal Payload, which creates Camel Context, which creates Route Builder.
+IronMQBatchProducerTest acts as a publisher for observer Service, which tests Produce Batch, which tests Produce Batch With Illegal Payload, which creates Camel Context, which creates Route Builder.
+IronMQBatchProducerTest acts as a publisher for observer ProducerTemplate, which tests Produce Batch, which tests Produce Batch With Illegal Payload, which creates Camel Context, which creates Route Builder.
+IronMQBatchProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Produce Batch, which tests Produce Batch With Illegal Payload, which creates Camel Context, which creates Route Builder.
+IronMQBatchProducerTest acts as a publisher for observer ConsumerTemplate, which tests Produce Batch, which tests Produce Batch With Illegal Payload, which creates Camel Context, which creates Route Builder.

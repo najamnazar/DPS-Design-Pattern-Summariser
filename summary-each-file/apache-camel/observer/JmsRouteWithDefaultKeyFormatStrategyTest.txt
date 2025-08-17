@@ -1,0 +1,1 @@
+JmsRouteWithDefaultKeyFormatStrategyTest acts as a publisher for observer ArtemisService, which gets Uri, which tests Illegal Option, which tests No Header, which tests With Plain Header, which tests With Mixed Header, which gets Component Name, which creates Route Builder.

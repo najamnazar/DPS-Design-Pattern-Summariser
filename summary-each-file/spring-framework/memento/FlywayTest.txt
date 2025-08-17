@@ -1,0 +1,1 @@
+FlywayTest acts as a caretaker for memento C, which setups, which teardowns, which tests.

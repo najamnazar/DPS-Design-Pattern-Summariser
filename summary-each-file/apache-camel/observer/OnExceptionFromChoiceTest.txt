@@ -1,0 +1,2 @@
+OnExceptionFromChoiceTest acts as a publisher for observer CamelContext, which tests No Error When, which tests Functional Error, which tests Technical Error, which sets Up, which creates Registry, which creates Route Builder.
+OnExceptionFromChoiceTest acts as a publisher for observer Service, which tests No Error When, which tests Functional Error, which tests Technical Error, which sets Up, which creates Registry, which creates Route Builder.

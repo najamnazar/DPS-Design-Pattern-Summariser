@@ -1,0 +1,2 @@
+TaskAttemptReport acts as an abstract product for TaskAttemptReport, which is inherited by TaskAttemptReportPBImpl.
+TaskAttemptReport acts as an abstract factory for ContainerId, TaskAttemptId, Counters, which is inherited by TaskAttemptReportPBImpl.

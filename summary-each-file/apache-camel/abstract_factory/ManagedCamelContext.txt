@@ -1,0 +1,1 @@
+ManagedCamelContext acts as an abstract factory for ManagedStepMBean, ManagedRouteMBean, ManagedProcessorMBean, which is inherited by ManagedCamelContextImpl.

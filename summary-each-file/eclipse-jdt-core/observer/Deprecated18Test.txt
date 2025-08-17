@@ -1,0 +1,9 @@
+Deprecated18Test acts as a publisher for observer ASTVisitor, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer Compiler, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer StringBuilder, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer Requestor, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer ICompilerRequestor, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer File, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer String, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer Map, which suites, which test412555s, which tests GH1370, which tests Class.
+Deprecated18Test acts as a publisher for observer Processor, which suites, which test412555s, which tests GH1370, which tests Class.

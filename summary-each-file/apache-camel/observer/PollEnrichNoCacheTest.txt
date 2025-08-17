@@ -1,0 +1,2 @@
+PollEnrichNoCacheTest acts as a publisher for observer CamelContext, which tests No Cache, which sends String parameter of body, String parameter of uri Body, which creates Route Builder.
+PollEnrichNoCacheTest acts as a publisher for observer Service, which tests No Cache, which sends String parameter of body, String parameter of uri Body, which creates Route Builder.

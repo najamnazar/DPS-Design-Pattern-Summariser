@@ -1,0 +1,1 @@
+Xmlpi acts as a publisher for observer Name, which is inherited by, which accepts Context<?> parameter of ctx, which $targets, which $contents, which $targets Name parameter of newValue, which $contents Field<?> parameter of newValue, which $constructors, which equals Object parameter of that.

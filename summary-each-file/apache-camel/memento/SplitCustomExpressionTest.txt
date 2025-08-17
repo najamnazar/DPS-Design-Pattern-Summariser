@@ -1,0 +1,2 @@
+SplitCustomExpressionTest acts as a caretaker for memento Producer, which tests Split Custom Expression, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.
+SplitCustomExpressionTest acts as a caretaker for memento Context, which tests Split Custom Expression, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.

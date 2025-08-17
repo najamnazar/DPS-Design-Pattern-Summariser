@@ -1,0 +1,2 @@
+EKS2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Eks Client.
+EKS2ClientStandardImpl acts as a memento, which gets Eks Client.

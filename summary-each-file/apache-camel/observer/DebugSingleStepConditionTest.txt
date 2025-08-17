@@ -1,0 +1,2 @@
+DebugSingleStepConditionTest acts as a publisher for observer Service, which sets Up, which tests Debug, which creates Route Builder.
+DebugSingleStepConditionTest acts as a publisher for observer CamelContext, which sets Up, which tests Debug, which creates Route Builder.

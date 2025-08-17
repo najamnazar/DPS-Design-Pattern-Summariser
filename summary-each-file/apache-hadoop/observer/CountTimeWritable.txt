@@ -1,0 +1,1 @@
+CountTimeWritable acts as an observer, which gets Count, which gets Time, which sets long parameter of count Count, which sets long parameter of time Time, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which tos String.

@@ -1,0 +1,5 @@
+DisruptorFromRouteIdTest acts as a publisher for observer ConsumerTemplate, which tests Disruptor From Route Id, which creates Route Builder.
+DisruptorFromRouteIdTest acts as a publisher for observer Service, which tests Disruptor From Route Id, which creates Route Builder.
+DisruptorFromRouteIdTest acts as a publisher for observer CamelContext, which tests Disruptor From Route Id, which creates Route Builder.
+DisruptorFromRouteIdTest acts as a publisher for observer ProducerTemplate, which tests Disruptor From Route Id, which creates Route Builder.
+DisruptorFromRouteIdTest acts as a publisher for observer FluentProducerTemplate, which tests Disruptor From Route Id, which creates Route Builder.

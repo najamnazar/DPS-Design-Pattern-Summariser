@@ -1,0 +1,1 @@
+AllocateResponse acts as an abstract product for AllocateResponse, which is inherited by AllocateResponsePBImpl.

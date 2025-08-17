@@ -1,0 +1,2 @@
+CosmosDbEndpointTest acts as a caretaker for memento Context, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.
+CosmosDbEndpointTest acts as a caretaker for memento Producer, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.

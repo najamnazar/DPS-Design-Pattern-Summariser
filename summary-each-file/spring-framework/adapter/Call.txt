@@ -1,0 +1,1 @@
+Call acts as an adaptee for adapter OkHttp3AsyncClientHttpRequest.

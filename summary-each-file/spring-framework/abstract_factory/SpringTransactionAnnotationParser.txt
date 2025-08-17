@@ -1,0 +1,1 @@
+SpringTransactionAnnotationParser acts as a factory for TransactionAnnotationParser, which overrides isCandidateClass method of TransactionAnnotationParser, parseTransactionAnnotation method of TransactionAnnotationParser.

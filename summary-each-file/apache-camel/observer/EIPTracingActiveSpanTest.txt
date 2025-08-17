@@ -1,0 +1,1 @@
+EIPTracingActiveSpanTest acts as a publisher for observer SpanTestData, which does Pre Setup, which tests Route, which gets Tracing Strategy, which creates Route Builder.

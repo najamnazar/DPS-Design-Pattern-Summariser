@@ -1,0 +1,1 @@
+SpringAggregationStrategyBeanAdapterAllowNullTest acts as a publisher for observer User, which creates Camel Context.

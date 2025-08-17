@@ -1,0 +1,2 @@
+OnCompletionCompleteAndFailureTest acts as a publisher for observer Service, which is Use Route Builder, which tests Multiple Route On Complete.
+OnCompletionCompleteAndFailureTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Multiple Route On Complete.

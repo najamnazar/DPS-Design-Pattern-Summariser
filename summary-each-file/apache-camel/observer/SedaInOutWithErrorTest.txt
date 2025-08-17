@@ -1,0 +1,2 @@
+SedaInOutWithErrorTest acts as a publisher for observer Service, which tests In Out With Error, which creates Route Builder.
+SedaInOutWithErrorTest acts as a publisher for observer CamelContext, which tests In Out With Error, which creates Route Builder.

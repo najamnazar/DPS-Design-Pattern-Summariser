@@ -1,0 +1,2 @@
+SedaInOnlyMEPTest acts as a publisher for observer Service, which tests In Only MEP, which creates Route Builder.
+SedaInOnlyMEPTest acts as a publisher for observer CamelContext, which tests In Only MEP, which creates Route Builder.

@@ -1,0 +1,2 @@
+MemberDeclaration acts as an abstract factory for TypeDeclaration, which is inherited by MemberDeclarationImpl, ASTBasedMemberDeclarationImpl.
+MemberDeclaration acts as a product for TypeParameterDeclaration, which overrides.

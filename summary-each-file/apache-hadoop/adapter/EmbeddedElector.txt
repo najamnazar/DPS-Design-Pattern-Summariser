@@ -1,0 +1,2 @@
+EmbeddedElector acts as an adaptee for adapter ActiveStandbyElectorBasedElectorService, which adapts to AbstractService, which adapts to AbstractService.
+EmbeddedElector acts as an adaptee for adapter CuratorBasedElectorService, which adapts to AbstractService, which adapts to AbstractService.

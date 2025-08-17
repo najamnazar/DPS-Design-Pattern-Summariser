@@ -1,0 +1,1 @@
+SoftAssertionTests acts as a caretaker for memento C, which expects All, which expects All With Multiple Failures, which handles.

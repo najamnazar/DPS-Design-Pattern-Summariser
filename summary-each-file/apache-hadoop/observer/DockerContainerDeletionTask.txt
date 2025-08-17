@@ -1,0 +1,2 @@
+DockerContainerDeletionTask acts as a publisher for observer DeletionTask, which gets Container Id, which runs, which tos String, which converts Deletion Task To Proto.
+DockerContainerDeletionTask acts as an observer, which gets Container Id, which runs, which tos String, which converts Deletion Task To Proto.

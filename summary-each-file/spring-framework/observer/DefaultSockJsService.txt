@@ -1,0 +1,1 @@
+DefaultSockJsService acts as a publisher for observer SockJsMessageCodec, which gets @Nullable parameter of Collection<TransportHandler> Default Transport Handlers, which sets ServletContext parameter of servletContext Servlet Context.

@@ -1,0 +1,1 @@
+ApplicationContextTestSupport acts as a caretaker for memento Context, which is inherited by, which creates Application Context, which sets Up, which tears Down, which gets Class<T> parameter of type, String parameter of name Mandatory Bean.

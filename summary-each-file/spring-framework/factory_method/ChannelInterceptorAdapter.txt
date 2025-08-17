@@ -1,0 +1,1 @@
+ChannelInterceptorAdapter acts as a product for InterceptableChannel, which overrides preSend method of ChannelInterceptor, postSend method of ChannelInterceptor, afterSendCompletion method of ChannelInterceptor, preReceive method of ChannelInterceptor, postReceive method of ChannelInterceptor, afterReceiveCompletion method of ChannelInterceptor.

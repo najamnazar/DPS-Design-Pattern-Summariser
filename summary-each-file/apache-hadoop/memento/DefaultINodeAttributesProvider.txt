@@ -1,0 +1,1 @@
+DefaultINodeAttributesProvider acts as a caretaker for memento Attribute, which starts, which stops, which gets String[] parameter of pathElements, INodeAttributes parameter of inode Attributes.

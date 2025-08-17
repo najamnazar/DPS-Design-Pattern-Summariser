@@ -1,0 +1,1 @@
+ValidationContextPredicate acts as a component for decorator ExpressionDefinition, which overrides matchesPredicate.

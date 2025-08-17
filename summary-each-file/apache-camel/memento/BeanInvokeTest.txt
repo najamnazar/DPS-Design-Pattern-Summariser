@@ -1,0 +1,2 @@
+BeanInvokeTest acts as a caretaker for memento Producer, which tests A, which tests B, which tests C, which creates Route Builder, which does String parameter of s Something, which changes String parameter of s Something, which does String parameter of s Nothing.
+BeanInvokeTest acts as a caretaker for memento Context, which tests A, which tests B, which tests C, which creates Route Builder, which does String parameter of s Something, which changes String parameter of s Something, which does String parameter of s Nothing.

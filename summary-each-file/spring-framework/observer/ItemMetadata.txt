@@ -1,0 +1,1 @@
+ItemMetadata acts as an observer for publisher MetadataCollector, which is inherited by, which gets Type, which gets Stereotypes.

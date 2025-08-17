@@ -1,0 +1,1 @@
+ITestAbfsCustomEncryption acts as a factory method for EncryptionContextProvider, which is inherited by AbfsClient, AbfsClient.

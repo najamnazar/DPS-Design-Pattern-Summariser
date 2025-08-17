@@ -1,0 +1,8 @@
+BaseSimpleNode acts as a target for adapter UnaryExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter LiteralExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter DoubleQuoteStart, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter LogicalExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter NullExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter BinaryExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter SimpleFunctionStart, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+BaseSimpleNode acts as a target for adapter SingleQuoteStart, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.

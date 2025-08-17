@@ -1,0 +1,1 @@
+CountersAndGauges acts as an originator for memento DurationTracker.

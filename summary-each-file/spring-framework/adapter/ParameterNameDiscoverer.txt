@@ -1,0 +1,4 @@
+ParameterNameDiscoverer acts as an adaptee for adapter MethodBasedEvaluationContext, which adapts to StandardEvaluationContext, which adapts to StandardEvaluationContext.
+ParameterNameDiscoverer acts as an adaptee for adapter LocalValidatorFactoryBean, which adapts to SpringValidatorAdapter, which adapts to SpringValidatorAdapter.
+ParameterNameDiscoverer acts as an adaptee for adapter AbstractReflectiveMBeanInfoAssembler, which adapts to AbstractMBeanInfoAssembler, which adapts to AbstractMBeanInfoAssembler.
+ParameterNameDiscoverer acts as an adaptee for adapter AbstractAutowireCapableBeanFactory, which adapts to AbstractBeanFactory, which adapts to AbstractBeanFactory.

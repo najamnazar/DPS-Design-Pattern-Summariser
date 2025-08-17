@@ -1,0 +1,2 @@
+TestAdlContractGetFileStatusLive acts as a publisher for observer PathFilter, which creates Configuration parameter of configuration Contract.
+TestAdlContractGetFileStatusLive acts as a publisher for observer Path, which creates Configuration parameter of configuration Contract.

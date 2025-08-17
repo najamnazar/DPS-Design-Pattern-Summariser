@@ -1,0 +1,3 @@
+PollingConsumerSupport acts as a factory for PollingConsumer, which overrides.
+PollingConsumerSupport acts as a product for Endpoint, which overrides.
+PollingConsumerSupport acts as a product for ConsumerCache, which overrides.

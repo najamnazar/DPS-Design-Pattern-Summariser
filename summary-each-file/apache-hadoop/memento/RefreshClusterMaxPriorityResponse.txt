@@ -1,0 +1,2 @@
+RefreshClusterMaxPriorityResponse acts as an originator for memento RefreshClusterMaxPriorityResponse, which is inherited by, which news a RefreshClusterMaxPriorityResponse Instance to.
+RefreshClusterMaxPriorityResponse acts as a memento, which is inherited by RefreshClusterMaxPriorityResponsePBImpl, which news Instance.

@@ -1,0 +1,1 @@
+ThrottlingExceptionHalfOpenHandler acts as an observer for publisher ThrottlingExceptionRoutePolicy, which is inherited by, which is Ready To Be Closed.

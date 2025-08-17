@@ -1,0 +1,7 @@
+ShutdownAware acts as an adaptee for adapter AggregateProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ShutdownAware acts as an adaptee for adapter DirectConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+ShutdownAware acts as an adaptee for adapter ScheduledBatchPollingConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.
+ShutdownAware acts as an adaptee for adapter SedaConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+ShutdownAware acts as an adaptee for adapter KameletConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+ShutdownAware acts as an adaptee for adapter WireTapProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ShutdownAware acts as an adaptee for adapter LoopProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.

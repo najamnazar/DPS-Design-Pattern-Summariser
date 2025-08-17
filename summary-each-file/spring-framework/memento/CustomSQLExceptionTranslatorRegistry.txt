@@ -1,0 +1,2 @@
+CustomSQLExceptionTranslatorRegistry acts as a caretaker for memento SQL, which gets Instance, which registers String parameter of dbName, SQLExceptionTranslator parameter of translator Translator, which finds String parameter of dbName Translator For Database.
+CustomSQLExceptionTranslatorRegistry acts as a caretaker for memento C, which gets Instance, which registers String parameter of dbName, SQLExceptionTranslator parameter of translator Translator, which finds String parameter of dbName Translator For Database.

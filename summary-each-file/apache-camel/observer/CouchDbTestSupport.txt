@@ -1,0 +1,5 @@
+CouchDbTestSupport acts as a publisher for observer ConsumerTemplate.
+CouchDbTestSupport acts as a publisher for observer FluentProducerTemplate.
+CouchDbTestSupport acts as a publisher for observer CamelContext.
+CouchDbTestSupport acts as a publisher for observer Service.
+CouchDbTestSupport acts as a publisher for observer ProducerTemplate.

@@ -1,0 +1,1 @@
+IExceptionAttribute acts as an abstract product for IExceptionAttribute, which is inherited by ExceptionAttribute.

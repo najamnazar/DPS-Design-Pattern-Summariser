@@ -1,0 +1,1 @@
+ConnectionHandle acts as an abstract product for ConnectionHandle, which is inherited by SimpleConnectionHandle.

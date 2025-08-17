@@ -1,0 +1,3 @@
+CombinerHandler acts as a publisher for observer Command, which is inherited by, which creates TaskContext parameter of context, which ons Command parameter of command, ReadWriteBuffer parameter of parameter Call, which combines, which gets Id, which closes.
+CombinerHandler acts as a publisher for observer Command, which creates TaskContext parameter of context, which ons Command parameter of command, ReadWriteBuffer parameter of parameter Call, which combines, which gets Id, which closes.
+CombinerHandler acts as an observer, which creates TaskContext parameter of context, which ons Command parameter of command, ReadWriteBuffer parameter of parameter Call, which combines, which gets Id, which closes.

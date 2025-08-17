@@ -1,0 +1,1 @@
+AbstractRequestExpectationManager acts as a factory for RequestExpectationManager, which overrides validateRequest method of RequestExpectationManager, verify method of RequestExpectationManager, verify method of RequestExpectationManager, reset method of RequestExpectationManager.

@@ -1,0 +1,1 @@
+ClassMetadata acts as an abstract product for StandardClassMetadataMemberClassTests, which is inherited by ClassMetadataReadingVisitor, StandardClassMetadata.

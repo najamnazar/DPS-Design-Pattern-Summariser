@@ -1,0 +1,3 @@
+DefaultEnumDefinition acts as a caretaker for memento Database, which gets Definition Path, which adds String parameter of literal Literal, which adds String... parameter of literal Literals, which gets Literals, which is Synthetic.
+DefaultEnumDefinition acts as a caretaker for memento PackageDefinition, which gets Definition Path, which adds String parameter of literal Literal, which adds String... parameter of literal Literals, which gets Literals, which is Synthetic.
+DefaultEnumDefinition acts as a caretaker for memento Package, which gets Definition Path, which adds String parameter of literal Literal, which adds String... parameter of literal Literals, which gets Literals, which is Synthetic.

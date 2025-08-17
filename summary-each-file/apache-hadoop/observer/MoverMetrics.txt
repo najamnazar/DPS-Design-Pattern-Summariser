@@ -1,0 +1,1 @@
+MoverMetrics acts as a publisher for observer Mover, which is inherited by, which creates Mover parameter of mover, which gets Name, which gets Bytes Moved, which gets Blocks Moved, which gets Blocks Failed, which sets boolean parameter of processingNamespace Processing Namespace, which incrs Blocks Scheduled, which incrs Files Processed.

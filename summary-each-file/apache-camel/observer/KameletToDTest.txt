@@ -1,0 +1,5 @@
+KameletToDTest acts as a publisher for observer CamelContext, which tests To D, which creates Route Builder.
+KameletToDTest acts as a publisher for observer ProducerTemplate, which tests To D, which creates Route Builder.
+KameletToDTest acts as a publisher for observer ConsumerTemplate, which tests To D, which creates Route Builder.
+KameletToDTest acts as a publisher for observer FluentProducerTemplate, which tests To D, which creates Route Builder.
+KameletToDTest acts as a publisher for observer Service, which tests To D, which creates Route Builder.

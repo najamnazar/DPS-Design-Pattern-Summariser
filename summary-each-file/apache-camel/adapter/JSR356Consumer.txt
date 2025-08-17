@@ -1,0 +1,1 @@
+JSR356Consumer acts as an adapter, which adapts getEndpoint method of ClientSessions, getEndpoint method of ClientSessions, getEndpoint method of ClientSessions to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

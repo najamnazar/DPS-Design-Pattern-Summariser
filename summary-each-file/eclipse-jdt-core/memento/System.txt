@@ -1,0 +1,1 @@
+System acts as a caretaker for memento S, which arraycopies Object parameter of src, int parameter of srcPos, Object parameter of dest, int parameter of destPos, int parameter of length, which gets String parameter of s Property.

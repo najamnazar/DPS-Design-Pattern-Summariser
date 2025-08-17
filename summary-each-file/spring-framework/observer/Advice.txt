@@ -1,0 +1,1 @@
+Advice acts as an observer for publisher AdvisorAdapterRegistrationTests, which is inherited by BeforeAdvice, AfterAdvice, AbstractAspectJAdvice, DynamicIntroductionAdvice, Interceptor.

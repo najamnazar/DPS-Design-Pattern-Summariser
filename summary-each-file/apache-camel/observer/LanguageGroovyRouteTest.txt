@@ -1,0 +1,5 @@
+LanguageGroovyRouteTest acts as a publisher for observer ConsumerTemplate, which tests Language, which creates Route Builder.
+LanguageGroovyRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Language, which creates Route Builder.
+LanguageGroovyRouteTest acts as a publisher for observer CamelContext, which tests Language, which creates Route Builder.
+LanguageGroovyRouteTest acts as a publisher for observer Service, which tests Language, which creates Route Builder.
+LanguageGroovyRouteTest acts as a publisher for observer ProducerTemplate, which tests Language, which creates Route Builder.

@@ -1,0 +1,5 @@
+Commit acts as an abstract factory for Meta, Commit, Version, Files, which is inherited by CommitImpl.
+Commit acts as an abstract product for Commit, which is inherited by CommitImpl.
+Commit acts as an abstract product for Commit, which is inherited by CommitImpl, CommitImpl.
+Commit acts as an abstract product for Commit, which is inherited by CommitImpl, CommitImpl, CommitImpl, CommitImpl, CommitImpl, CommitImpl, CommitImpl, CommitImpl.
+Commit acts as an abstract product for Commit, which is inherited by CommitImpl, CommitImpl, CommitImpl, CommitImpl.

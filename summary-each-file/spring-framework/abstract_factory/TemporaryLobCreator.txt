@@ -1,0 +1,1 @@
+TemporaryLobCreator acts as a product for LobHandler, which overrides setBlobAsBytes method of LobCreator, setBlobAsBinaryStream method of LobCreator, setClobAsString method of LobCreator, setClobAsAsciiStream method of LobCreator, setClobAsCharacterStream method of LobCreator, close method of LobCreator.

@@ -1,0 +1,1 @@
+AsyncConfigurerSupport acts as a factory for AsyncConfigurer, which overrides getAsyncExecutor method of AsyncConfigurer, getAsyncUncaughtExceptionHandler method of AsyncConfigurer.

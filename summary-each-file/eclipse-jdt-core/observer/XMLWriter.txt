@@ -1,0 +1,1 @@
+XMLWriter acts as a publisher for observer String.

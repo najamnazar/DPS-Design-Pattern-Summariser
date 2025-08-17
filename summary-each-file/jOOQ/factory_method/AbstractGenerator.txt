@@ -1,0 +1,2 @@
+AbstractGenerator acts as a factory for AbstractGenerator, which overrides setTargetDirectory method of AbstractGenerator, getTargetDirectory method of AbstractGenerator, setTargetPackage method of AbstractGenerator, getTargetPackage method of AbstractGenerator, getTargetLocale method of AbstractGenerator, setTargetLocale method of AbstractGenerator.
+AbstractGenerator acts as a factory method for GeneratorStrategy, which is inherited by AbstractGenerator, AbstractGenerator.

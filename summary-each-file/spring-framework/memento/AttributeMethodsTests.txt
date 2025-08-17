@@ -1,0 +1,1 @@
+AttributeMethodsTests acts as an originator for memento A, which mocks an A Annotation to.

@@ -1,0 +1,2 @@
+ProxyMethodInvocation acts as an abstract factory for MethodInvocation, which is inherited by ReflectiveMethodInvocation.
+ProxyMethodInvocation acts as a product for ProxyMethodInvocation, which overrides.

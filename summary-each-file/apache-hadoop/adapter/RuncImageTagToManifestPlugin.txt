@@ -1,0 +1,2 @@
+RuncImageTagToManifestPlugin acts as an adaptee for adapter RuncContainerRuntime, which adapts to OCIContainerRuntime, which adapts to OCIContainerRuntime.
+RuncImageTagToManifestPlugin acts as an adaptee for adapter ImageTagToManifestPlugin, which adapts to AbstractService, which adapts to AbstractService.

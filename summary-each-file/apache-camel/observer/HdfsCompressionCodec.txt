@@ -1,0 +1,1 @@
+HdfsCompressionCodec acts as an observer for publisher HdfsConfiguration, which is inherited by, which gets Codec, which gets Codec, which gets Codec, which gets Codec, which gets Codec, which gets Codec, which gets Codec.

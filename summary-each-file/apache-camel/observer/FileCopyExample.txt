@@ -1,0 +1,5 @@
+FileCopyExample acts as a publisher for observer ProducerTemplate, which cleans, which tests Copy File Over Iron MQ, which creates Route Builder.
+FileCopyExample acts as a publisher for observer FluentProducerTemplate, which cleans, which tests Copy File Over Iron MQ, which creates Route Builder.
+FileCopyExample acts as a publisher for observer Service, which cleans, which tests Copy File Over Iron MQ, which creates Route Builder.
+FileCopyExample acts as a publisher for observer ConsumerTemplate, which cleans, which tests Copy File Over Iron MQ, which creates Route Builder.
+FileCopyExample acts as a publisher for observer CamelContext, which cleans, which tests Copy File Over Iron MQ, which creates Route Builder.

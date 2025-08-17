@@ -1,0 +1,1 @@
+ASTRewritingWithStatementsRecoveryTest acts as a publisher for observer String, which suites, which tests Bug272711_01_since_3, which tests Bug272711_02_since_3, which tests Bug272711_03_since_3.

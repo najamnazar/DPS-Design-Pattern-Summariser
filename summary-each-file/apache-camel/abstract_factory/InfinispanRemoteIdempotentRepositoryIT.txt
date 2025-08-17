@@ -1,0 +1,1 @@
+InfinispanRemoteIdempotentRepositoryIT acts as a factory for InfinispanIdempotentRepositoryTestSupport, which overrides getIdempotentRepository method of InfinispanIdempotentRepositoryTestSupport, getCache method of InfinispanIdempotentRepositoryTestSupport, getMockEndpoint method of InfinispanIdempotentRepositoryTestSupport.

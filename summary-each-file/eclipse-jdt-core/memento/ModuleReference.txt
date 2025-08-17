@@ -1,0 +1,2 @@
+ModuleReference acts as a caretaker for memento C, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.
+ModuleReference acts as a caretaker for memento Binding, which is inherited by, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.

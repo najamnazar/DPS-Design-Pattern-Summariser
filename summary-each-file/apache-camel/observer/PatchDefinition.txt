@@ -1,0 +1,3 @@
+PatchDefinition acts as a publisher for observer RestDefinition, which ases Verb.
+PatchDefinition acts as a publisher for observer ToDefinition, which ases Verb.
+PatchDefinition acts as an observer, which ases Verb.

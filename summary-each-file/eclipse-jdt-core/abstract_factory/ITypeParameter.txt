@@ -1,0 +1,9 @@
+ITypeParameter acts as a product for IBinding, which overrides.
+ITypeParameter acts as a product for IJavaProject, which overrides.
+ITypeParameter acts as an abstract factory for ITypeRoot, IMember, which is inherited by.
+ITypeParameter acts as a product for IWorkingCopy, which overrides.
+ITypeParameter acts as a product for IDOMNode, which overrides.
+ITypeParameter acts as a product for IClassFile, which overrides.
+ITypeParameter acts as a product for IJavaElementDelta, which overrides.
+ITypeParameter acts as a product for IJavaElement, which overrides.
+ITypeParameter acts as a product for ITypeRoot, which overrides.

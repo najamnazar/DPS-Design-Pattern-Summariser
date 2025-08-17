@@ -1,0 +1,2 @@
+DiagnosticCollector acts as a caretaker for memento S, which reports Diagnostic<? parameter of extends, which gets Diagnostics.
+DiagnosticCollector acts as a caretaker for memento List, which reports Diagnostic<? parameter of extends, which gets Diagnostics.

@@ -1,0 +1,1 @@
+MultiServerUserRegistry acts as a product for MessageBrokerConfigurationTests, which overrides getUser method of SimpUserRegistry, getUsers method of SimpUserRegistry, getUserCount method of SimpUserRegistry, findSubscriptions method of SimpUserRegistry.

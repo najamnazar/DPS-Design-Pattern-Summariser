@@ -1,0 +1,1 @@
+FileBasedCSConfigurationProvider acts as a factory for CSConfigurationProvider, which overrides init method of CSConfigurationProvider, loadConfiguration method of CSConfigurationProvider.

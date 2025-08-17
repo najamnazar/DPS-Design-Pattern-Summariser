@@ -1,0 +1,1 @@
+INestedTestBean acts as an observer for publisher CommonAnnotationBeanPostProcessorTests, which is inherited by NestedTestBean, which gets Company.

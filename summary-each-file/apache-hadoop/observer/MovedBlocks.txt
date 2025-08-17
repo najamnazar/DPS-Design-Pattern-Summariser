@@ -1,0 +1,1 @@
+MovedBlocks acts as a publisher for observer Block, which is inherited by, which clears Locations, which adds L parameter of loc Location, which is L parameter of loc Located On, which gets Locations, which gets Block, which gets Num Bytes, which tos String, which news Map, which puts Locations<L> parameter of block, which contains Block parameter of block, which cleanups.

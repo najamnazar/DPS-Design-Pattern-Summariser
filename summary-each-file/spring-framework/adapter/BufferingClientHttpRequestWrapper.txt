@@ -1,0 +1,1 @@
+BufferingClientHttpRequestWrapper acts as an adapter, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest.

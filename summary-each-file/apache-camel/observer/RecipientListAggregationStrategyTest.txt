@@ -1,0 +1,2 @@
+RecipientListAggregationStrategyTest acts as a publisher for observer Service, which tests Recipient List Aggregation Strategy, which creates Route Builder.
+RecipientListAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Recipient List Aggregation Strategy, which creates Route Builder.

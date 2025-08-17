@@ -1,0 +1,2 @@
+TypeConverterRegistryStatisticsEnabledTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Type Converter Registry, which creates Route Builder.
+TypeConverterRegistryStatisticsEnabledTest acts as a publisher for observer Service, which creates Camel Context, which tests Type Converter Registry, which creates Route Builder.

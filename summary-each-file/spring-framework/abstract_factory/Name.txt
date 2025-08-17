@@ -1,0 +1,7 @@
+Name acts as an abstract product for Name, which is inherited by AbstractName, AbstractName, AbstractName.
+Name acts as an abstract product for Name, which is inherited by AbstractName, AbstractName, AbstractName, AbstractName, AbstractName, AbstractName.
+Name acts as an abstract factory for DerivedColumnList2, DerivedColumnList1, DerivedColumnList4, DerivedColumnList3, DerivedColumnList6, DerivedColumnList5, DerivedColumnList8, DerivedColumnList7, DerivedColumnList, DerivedColumnList9, Name, DerivedColumnList10, DerivedColumnList11, DerivedColumnList12, DerivedColumnList13, DerivedColumnList14, DerivedColumnList15, DerivedColumnList16, DerivedColumnList17, DerivedColumnList18, DerivedColumnList19, DerivedColumnList20, DerivedColumnList21, DerivedColumnList22, WindowDefinition, which is inherited by AbstractName.
+Name acts as a product for DiagnosticsContext, which overrides.
+Name acts as an abstract product for Name, which is inherited by AbstractName, AbstractName, AbstractName, AbstractName.
+Name acts as an abstract product for Name, which is inherited by AbstractName.
+Name acts as a product for VisitContext, which overrides.

@@ -1,0 +1,4 @@
+ClassHierarchyWithMergedConfigLevelTwoTests acts as a caretaker for memento ApplicationContext, which orders, which loads Context Hierarchy.
+ClassHierarchyWithMergedConfigLevelTwoTests acts as a caretaker for memento A, which orders, which loads Context Hierarchy.
+ClassHierarchyWithMergedConfigLevelTwoTests acts as a caretaker for memento C, which orders, which loads Context Hierarchy.
+ClassHierarchyWithMergedConfigLevelTwoTests acts as a caretaker for memento User, which orders, which loads Context Hierarchy.

@@ -1,0 +1,1 @@
+AbstractListAggregationStrategy acts as a product for EnrichDefinition, which overrides onCompletion method of AggregationStrategy, aggregate method of AggregationStrategy.

@@ -1,0 +1,1 @@
+PutObjectOptions acts as a publisher for observer WriteObjectFlags, which is inherited by, which is No Object Overwrite, which is Etag Overwrite, which has WriteObjectFlags parameter of flag Flag, which gets Etag Overwrite, which gets Headers, which gets Write Object Flags, which tos String, which defaults Options.

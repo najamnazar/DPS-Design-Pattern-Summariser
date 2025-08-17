@@ -1,0 +1,5 @@
+AtomPollingConsumerTest acts as a publisher for observer ProducerTemplate, which tests No Split Entries, which tests Using Atom Uri Parameter, which tests No Camel Parameters In Feed Uri, which creates Route Builder.
+AtomPollingConsumerTest acts as a publisher for observer CamelContext, which tests No Split Entries, which tests Using Atom Uri Parameter, which tests No Camel Parameters In Feed Uri, which creates Route Builder.
+AtomPollingConsumerTest acts as a publisher for observer FluentProducerTemplate, which tests No Split Entries, which tests Using Atom Uri Parameter, which tests No Camel Parameters In Feed Uri, which creates Route Builder.
+AtomPollingConsumerTest acts as a publisher for observer ConsumerTemplate, which tests No Split Entries, which tests Using Atom Uri Parameter, which tests No Camel Parameters In Feed Uri, which creates Route Builder.
+AtomPollingConsumerTest acts as a publisher for observer Service, which tests No Split Entries, which tests Using Atom Uri Parameter, which tests No Camel Parameters In Feed Uri, which creates Route Builder.

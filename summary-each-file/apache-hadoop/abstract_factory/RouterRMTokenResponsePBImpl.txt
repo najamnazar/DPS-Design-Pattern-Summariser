@@ -1,0 +1,1 @@
+RouterRMTokenResponsePBImpl acts as a product for FederationDelegationTokenStateStore, which overrides getRouterStoreToken method of RouterRMTokenResponse.

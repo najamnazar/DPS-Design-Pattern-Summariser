@@ -1,0 +1,1 @@
+SoapResponseAttachmentTest acts as a caretaker for memento Producer, which consumes Stock Quote Webservice With Soap Response Attachment.

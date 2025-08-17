@@ -1,0 +1,2 @@
+DefaultComponentNameResolverTest acts as a publisher for observer Service, which is Use Route Builder, which tests Default Component Name Resolver.
+DefaultComponentNameResolverTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Default Component Name Resolver.

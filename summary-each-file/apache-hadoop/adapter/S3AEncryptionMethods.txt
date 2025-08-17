@@ -1,0 +1,1 @@
+S3AEncryptionMethods acts as an adaptee for adapter ITestS3AEncryptionSSEKMSWithEncryptionContext, which adapts to AbstractTestS3AEncryption, which adapts to AbstractTestS3AEncryption, which adapts to AbstractTestS3AEncryption, which adapts to AbstractTestS3AEncryption.

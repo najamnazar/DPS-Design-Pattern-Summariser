@@ -1,0 +1,1 @@
+VMInputStream acts as an observer, which availables, which closes, which is Running, which marks int parameter of readlimit, which marks Supported, which reads, which reads byte[] parameter of b, which reads byte[] parameter of b, int parameter of off, int parameter of len, which resets, which skips long parameter of n.

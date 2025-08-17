@@ -1,0 +1,1 @@
+AWS2BatchGetItemsRuleIT acts as a caretaker for memento Producer, which cleanups Resources, which setups Resources, which batches Get Items, which puts String parameter of value1, String parameter of value2 Item, which creates Route Builder.

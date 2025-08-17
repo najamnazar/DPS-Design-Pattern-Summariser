@@ -1,0 +1,1 @@
+UriUtilsTests acts as a caretaker for memento C, which encodes Scheme, which encodes User Info, which encodes Host, which encodes Port, which encodes Path, which encodes Path Segment, which encodes Query, which encodes Query Param, which encodes Fragment, which encodes, which decodes, which decodes Invalid Sequence, which extracts File Extension.

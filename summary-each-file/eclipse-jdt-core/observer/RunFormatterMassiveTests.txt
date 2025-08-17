@@ -1,0 +1,2 @@
+RunFormatterMassiveTests acts as a publisher for observer String, which is inherited by, which suites, which adds TestSuite parameter of ts, File parameter of inputDir, String parameter of profile, Map parameter of workspaces Class.
+RunFormatterMassiveTests acts as a publisher for observer File, which is inherited by, which suites, which adds TestSuite parameter of ts, File parameter of inputDir, String parameter of profile, Map parameter of workspaces Class.

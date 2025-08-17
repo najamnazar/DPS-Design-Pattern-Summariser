@@ -1,0 +1,2 @@
+Etcd3TestSupport acts as a caretaker for memento Producer, which gets Client, which creates Camel Context.
+Etcd3TestSupport acts as a caretaker for memento Context, which gets Client, which creates Camel Context.

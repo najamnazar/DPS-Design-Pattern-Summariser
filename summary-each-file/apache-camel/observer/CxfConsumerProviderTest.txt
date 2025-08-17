@@ -1,0 +1,5 @@
+CxfConsumerProviderTest acts as a publisher for observer Service, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri.
+CxfConsumerProviderTest acts as a publisher for observer ConsumerTemplate, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri.
+CxfConsumerProviderTest acts as a publisher for observer ProducerTemplate, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri.
+CxfConsumerProviderTest acts as a publisher for observer FluentProducerTemplate, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri.
+CxfConsumerProviderTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Invoking Service From Http Compnent, which gets From Endpoint Uri.

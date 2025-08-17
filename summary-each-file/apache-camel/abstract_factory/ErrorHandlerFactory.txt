@@ -1,0 +1,2 @@
+ErrorHandlerFactory acts as an abstract factory for ErrorHandlerFactory, which is inherited by BaseErrorHandlerDefinition.
+ErrorHandlerFactory acts as an abstract product for ErrorHandlerFactory, which is inherited by DefaultErrorHandlerProperties, BaseErrorHandlerDefinition, ErrorHandlerRefProperties, NoErrorHandlerProperties, LegacyErrorHandlerBuilder.

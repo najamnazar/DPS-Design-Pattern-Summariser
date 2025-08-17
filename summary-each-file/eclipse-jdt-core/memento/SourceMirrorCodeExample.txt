@@ -1,0 +1,2 @@
+SourceMirrorCodeExample acts as a caretaker for memento String.
+SourceMirrorCodeExample acts as a caretaker for memento S.

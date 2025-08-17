@@ -1,0 +1,1 @@
+TransactionManager acts as an observer for publisher JtaTransactionManager, which is inherited by ReactiveTransactionManager, PlatformTransactionManager.

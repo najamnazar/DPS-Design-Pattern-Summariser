@@ -1,0 +1,2 @@
+Sqs2ClientIAMOptimized acts as a caretaker for memento Configuration, which gets SQSClient.
+Sqs2ClientIAMOptimized acts as a memento, which gets SQSClient.

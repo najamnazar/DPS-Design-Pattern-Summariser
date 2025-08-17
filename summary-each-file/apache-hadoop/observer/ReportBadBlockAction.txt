@@ -1,0 +1,1 @@
+ReportBadBlockAction acts as an observer, which reports DatanodeProtocolClientSideTranslatorPB parameter of bpNamenode, DatanodeRegistration parameter of bpRegistration To, which hashes Code, which equals Object parameter of obj, which tos String.

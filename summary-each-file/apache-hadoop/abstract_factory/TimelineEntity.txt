@@ -1,0 +1,1 @@
+TimelineEntity acts as an abstract product for TimelineEntity, which is inherited by HierarchicalTimelineEntity, FlowActivityEntity, UserEntity.

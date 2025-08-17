@@ -1,0 +1,2 @@
+GenerateXmFromCamelContextTest acts as a publisher for observer Service, which tests Create Route From Camel Context, which dumps Object parameter of object, which creates Route Builder.
+GenerateXmFromCamelContextTest acts as a publisher for observer CamelContext, which tests Create Route From Camel Context, which dumps Object parameter of object, which creates Route Builder.

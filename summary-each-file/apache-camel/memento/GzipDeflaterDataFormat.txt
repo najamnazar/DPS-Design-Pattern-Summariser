@@ -1,0 +1,1 @@
+GzipDeflaterDataFormat acts as a memento, which ends.

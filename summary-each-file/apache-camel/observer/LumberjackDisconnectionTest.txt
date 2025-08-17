@@ -1,0 +1,5 @@
+LumberjackDisconnectionTest acts as a publisher for observer ConsumerTemplate, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.
+LumberjackDisconnectionTest acts as a publisher for observer Service, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.
+LumberjackDisconnectionTest acts as a publisher for observer ProducerTemplate, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.
+LumberjackDisconnectionTest acts as a publisher for observer FluentProducerTemplate, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.
+LumberjackDisconnectionTest acts as a publisher for observer CamelContext, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.

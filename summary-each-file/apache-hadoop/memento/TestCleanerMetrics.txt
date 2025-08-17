@@ -1,0 +1,1 @@
+TestCleanerMetrics acts as a caretaker for memento CleanerMetrics, which inits, which tests Metrics Over Multiple Periods, which simulates ACleaner Run, which asserts int parameter of proc, int parameter of totalProc, int parameter of del, int parameter of totalDel Metrics.

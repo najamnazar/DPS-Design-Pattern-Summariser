@@ -1,0 +1,2 @@
+KerberosDelegationTokenAuthenticator acts as a publisher for observer ConnectionConfigurator, which gets Fall Back Authenticator.
+KerberosDelegationTokenAuthenticator acts as an observer, which gets Fall Back Authenticator.

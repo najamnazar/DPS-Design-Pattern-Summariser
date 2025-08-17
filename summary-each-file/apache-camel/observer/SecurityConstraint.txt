@@ -1,0 +1,1 @@
+SecurityConstraint acts as an observer for publisher NettyHttpSecurityConfiguration, which is inherited by SecurityConstraintMapping, which restricts String parameter of url.

@@ -1,0 +1,1 @@
+BeanNameViewResolver acts as a product for WebMvcConfigurationSupportTests, which overrides resolveViewName method of ViewResolver.

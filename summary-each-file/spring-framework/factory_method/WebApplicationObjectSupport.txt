@@ -1,0 +1,2 @@
+WebApplicationObjectSupport acts as a factory for VfsResource, which overrides.
+WebApplicationObjectSupport acts as a factory for AbstractAnnotationConfigDispatcherServletInitializer, which overrides.

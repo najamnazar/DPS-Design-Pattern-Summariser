@@ -1,0 +1,1 @@
+ParameterContentTypeResolver acts as a product for WebFluxConfigurationSupport, which overrides resolveMediaTypes method of RequestedContentTypeResolver.

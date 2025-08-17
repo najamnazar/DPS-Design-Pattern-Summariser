@@ -1,0 +1,5 @@
+TypeParameterDeclarationImpl acts as a product for TypeVariable, which overrides getBounds method of TypeParameterDeclaration, getOwner method of TypeParameterDeclaration.
+TypeParameterDeclarationImpl acts as a factory for EclipseMirrorType, which overrides getTypeBinding method of EclipseMirrorType, isAssignmentCompatible method of EclipseMirrorType, isSubTypeCompatible method of EclipseMirrorType.
+TypeParameterDeclarationImpl acts as a factory for TypeVariable, which overrides getDeclaration method of TypeVariable.
+TypeParameterDeclarationImpl acts as a product for Types, which overrides getDeclaration method of TypeVariable.
+TypeParameterDeclarationImpl acts as a factory for TypeParameterDeclaration, which overrides getBounds method of TypeParameterDeclaration, getOwner method of TypeParameterDeclaration.

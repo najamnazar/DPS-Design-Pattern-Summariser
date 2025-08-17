@@ -1,0 +1,2 @@
+DefaultPackageScanClassResolver acts as a factory for DefaultPackageScanClassResolver, which overrides.
+DefaultPackageScanClassResolver acts as a factory method for PackageScanFilter, which is inherited by DefaultPackageScanClassResolver, DefaultPackageScanClassResolver.

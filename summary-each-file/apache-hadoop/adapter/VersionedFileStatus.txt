@@ -1,0 +1,1 @@
+VersionedFileStatus acts as an adapter, which adapts to FileStatus, which adapts to FileStatus, which adapts getVersion method of EtagSource to FileStatus, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus.

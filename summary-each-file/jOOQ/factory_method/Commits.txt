@@ -1,0 +1,2 @@
+Commits acts as a factory for CommitsImpl, which overrides.
+Commits acts as an abstract product for CommitsImpl, which is inherited by CommitsImpl.

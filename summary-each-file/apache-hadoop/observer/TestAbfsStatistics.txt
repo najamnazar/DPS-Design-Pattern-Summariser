@@ -1,0 +1,2 @@
+TestAbfsStatistics acts as a publisher for observer Configuration, which tests Initialize Stats.
+TestAbfsStatistics acts as a publisher for observer AzureBlobFileSystem, which tests Initialize Stats.

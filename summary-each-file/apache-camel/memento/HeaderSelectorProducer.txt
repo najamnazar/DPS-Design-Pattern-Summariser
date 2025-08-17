@@ -1,0 +1,1 @@
+HeaderSelectorProducer acts as a caretaker for memento Context, which is inherited by, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which does Build, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange, Object parameter of result Result.

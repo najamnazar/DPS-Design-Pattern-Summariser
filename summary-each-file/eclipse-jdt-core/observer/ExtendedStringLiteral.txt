@@ -1,0 +1,1 @@
+ExtendedStringLiteral acts as an observer, which extends CharLiteral parameter of lit With, which extends StringLiteral parameter of lit With, which prints int parameter of indent, StringBuffer parameter of output Expression, which traverses ASTVisitor parameter of visitor, BlockScope parameter of scope.

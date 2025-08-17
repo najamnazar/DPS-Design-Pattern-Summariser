@@ -1,0 +1,1 @@
+AsyncClientHttpRequestFactory acts as an originator for memento AsyncClientHttpRequest, which is inherited by, which creates an AsyncClientHttpRequest Async Request to.

@@ -1,0 +1,1 @@
+JmsRequestReplyFixedReplyToInEndpointTest acts as a publisher for observer ArtemisService, which tests Jms Request Reply Temp Reply To, which tests Jms Request Reply Fixed Reply To In Endpoint, which tests Jms Request Reply Fixed Reply To In Endpoint Two Messages, which gets Component Name, which creates Route Builder.

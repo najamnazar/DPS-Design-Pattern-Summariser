@@ -1,0 +1,1 @@
+RequestPartIntegrationTests acts as a factory method for MultipartResolver, which is inherited by DispatcherServlet.

@@ -1,0 +1,3 @@
+BeanCreatingHandlerProvider acts as a caretaker for memento A, which sets BeanFactory parameter of beanFactory Bean Factory, which destroys T parameter of handler, which gets Handler Type, which gets Handler, which tos String.
+BeanCreatingHandlerProvider acts as a caretaker for memento C, which sets BeanFactory parameter of beanFactory Bean Factory, which destroys T parameter of handler, which gets Handler Type, which gets Handler, which tos String.
+BeanCreatingHandlerProvider acts as a caretaker for memento B, which sets BeanFactory parameter of beanFactory Bean Factory, which destroys T parameter of handler, which gets Handler Type, which gets Handler, which tos String.

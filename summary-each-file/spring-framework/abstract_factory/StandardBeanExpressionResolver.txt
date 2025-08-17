@@ -1,0 +1,1 @@
+StandardBeanExpressionResolver acts as a product for ConfigurableBeanFactory, which overrides evaluate method of BeanExpressionResolver.

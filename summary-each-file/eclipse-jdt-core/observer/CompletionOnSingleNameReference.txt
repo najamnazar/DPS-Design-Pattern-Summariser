@@ -1,0 +1,2 @@
+CompletionOnSingleNameReference acts as a publisher for observer MethodBinding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+CompletionOnSingleNameReference acts as a publisher for observer TypeBinding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

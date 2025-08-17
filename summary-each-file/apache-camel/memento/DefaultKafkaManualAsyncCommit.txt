@@ -1,0 +1,1 @@
+DefaultKafkaManualAsyncCommit acts as a caretaker for memento KafkaManualCommit, which commits.

@@ -1,0 +1,2 @@
+NoClassDefFoundErrorWrapExceptionTest acts as a publisher for observer Service, which tests No Class Def, which creates Route Builder.
+NoClassDefFoundErrorWrapExceptionTest acts as a publisher for observer CamelContext, which tests No Class Def, which creates Route Builder.

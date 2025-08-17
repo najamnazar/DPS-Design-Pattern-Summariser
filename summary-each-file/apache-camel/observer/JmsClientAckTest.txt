@@ -1,0 +1,1 @@
+JmsClientAckTest acts as a publisher for observer ArtemisService, which tests Jms Client Ack, which builds ConnectionFactory parameter of connectionFactory Component, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,1 @@
+TimelineCompareOp acts as an observer for publisher TimelineExistsFilter, which is inherited by.

@@ -1,0 +1,1 @@
+FederationClientMethod acts as a caretaker for memento Clock, which gets Params, which gets Method Name, which gets Types, which invokes.

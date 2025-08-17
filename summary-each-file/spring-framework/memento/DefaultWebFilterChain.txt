@@ -1,0 +1,1 @@
+DefaultWebFilterChain acts as a caretaker for memento C, which inits List<WebFilter> parameter of filters, WebHandler parameter of handler Chain, which gets Filters, which gets Handler, which filters ServerWebExchange parameter of exchange, which invokes WebFilter parameter of current, DefaultWebFilterChain parameter of chain, ServerWebExchange parameter of exchange Filter.

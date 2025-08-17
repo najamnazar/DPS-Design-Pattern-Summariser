@@ -1,0 +1,1 @@
+JmsComponentTransactedCacheLevelNameTest acts as a publisher for observer ArtemisService, which setups CamelContext parameter of camelContext, ConnectionFactory parameter of connectionFactory, String parameter of componentName Component, which tests Jms Cache Level Name, which gets Component Name, which creates Route Builder.

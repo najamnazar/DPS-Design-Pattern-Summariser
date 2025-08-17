@@ -1,0 +1,1 @@
+GroupProducerTest acts as a publisher for observer Group, which is inherited by, which sets Up, which creates Test, which gets Test, which gets All Test, which updates Test, which deletes Test, which asserts Group parameter of old, Group parameter of newGroup Equals Group, which creates Group.

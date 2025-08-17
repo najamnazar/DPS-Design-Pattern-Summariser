@@ -1,0 +1,2 @@
+Enumeration acts as an abstract product for Enumeration, which is inherited by SiblingEnumeration.
+Enumeration acts as an abstract factory for Object, which is inherited by SiblingEnumeration.

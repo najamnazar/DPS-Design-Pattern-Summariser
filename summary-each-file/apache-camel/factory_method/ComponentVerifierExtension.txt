@@ -1,0 +1,1 @@
+ComponentVerifierExtension acts as an abstract product for UndertowComponent, which is inherited by DefaultComponentVerifierExtension.

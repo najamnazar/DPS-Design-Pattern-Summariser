@@ -1,0 +1,1 @@
+ASTBasedDeclarationImpl acts as a factory for BinaryParameterDeclarationImpl, which overrides.

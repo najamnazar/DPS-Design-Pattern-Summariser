@@ -1,0 +1,1 @@
+SpringConsumerTemplateTest acts as a caretaker for memento Producer, which is inherited by, which tests Consume Template.

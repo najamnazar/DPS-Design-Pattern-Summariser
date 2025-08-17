@@ -1,0 +1,2 @@
+ServerInitializerFactory acts as an observer for publisher NettyServerBootstrapConfiguration, NettyConfiguration, NettySharedHttpServerBootstrapConfiguration, which is inherited by HttpServerInitializerFactory, DefaultServerInitializerFactory, which creates NettyConsumer parameter of consumer Pipeline Factory.
+ServerInitializerFactory acts as a publisher for observer NettyConsumer, which is inherited by DefaultServerInitializerFactory, which creates NettyConsumer parameter of consumer Pipeline Factory.

@@ -1,0 +1,4 @@
+Bug531382Test acts as a caretaker for memento C, which suites, which sets Up, which tears Down, which tests Bug531382, which creates IFile parameter of generatedFile, String parameter of contents File.
+Bug531382Test acts as a caretaker for memento Test, which suites, which sets Up, which tears Down, which tests Bug531382, which creates IFile parameter of generatedFile, String parameter of contents File.
+Bug531382Test acts as a caretaker for memento R, which suites, which sets Up, which tears Down, which tests Bug531382, which creates IFile parameter of generatedFile, String parameter of contents File.
+Bug531382Test acts as a caretaker for memento E, which suites, which sets Up, which tears Down, which tests Bug531382, which creates IFile parameter of generatedFile, String parameter of contents File.

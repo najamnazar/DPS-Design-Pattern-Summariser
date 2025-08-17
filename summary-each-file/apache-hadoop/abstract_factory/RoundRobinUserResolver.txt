@@ -1,0 +1,1 @@
+RoundRobinUserResolver acts as a factory for UserResolver, which overrides getTargetUgi method of UserResolver.

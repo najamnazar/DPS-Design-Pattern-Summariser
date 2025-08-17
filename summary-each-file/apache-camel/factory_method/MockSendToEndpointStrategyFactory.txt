@@ -1,0 +1,2 @@
+MockSendToEndpointStrategyFactory acts as a factory for MockSendToEndpointStrategyFactory, which overrides.
+MockSendToEndpointStrategyFactory acts as a factory method for EndpointStrategy, which is inherited by MockSendToEndpointStrategyFactory.

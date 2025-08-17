@@ -1,0 +1,2 @@
+AB acts as an originator for memento String, which methods a String IAString to.
+AB acts as a caretaker for memento List, which methods int parameter of int1 IAString.

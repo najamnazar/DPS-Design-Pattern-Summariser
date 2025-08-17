@@ -1,0 +1,1 @@
+BeanFactoryAdvisorRetrievalHelper acts as an adaptee for adapter AbstractAdvisorAutoProxyCreator, which adapts to AbstractAutoProxyCreator, which adapts to AbstractAutoProxyCreator.

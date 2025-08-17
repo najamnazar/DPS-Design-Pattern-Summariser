@@ -1,0 +1,2 @@
+ThrottlerAsyncDelayedCallerRunsTest acts as a publisher for observer CamelContext, which tests Throttler, which creates Route Builder.
+ThrottlerAsyncDelayedCallerRunsTest acts as a publisher for observer Service, which tests Throttler, which creates Route Builder.

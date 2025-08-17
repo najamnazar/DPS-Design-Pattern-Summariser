@@ -1,0 +1,1 @@
+OtherTestBean acts as an observer, which gets Other Bean, which is Initialized, which is Destroyed.

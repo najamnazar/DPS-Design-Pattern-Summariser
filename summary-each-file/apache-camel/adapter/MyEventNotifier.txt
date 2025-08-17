@@ -1,0 +1,6 @@
+MyEventNotifier acts as an adaptee for adapter StepEventNotifierTest, which adapts to ContextTestSupport, which adapts getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier, getEvents method of MyEventNotifier to ContextTestSupport.
+MyEventNotifier acts as an adaptee for adapter RoutingSlipEventNotifierTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyEventNotifier acts as an adaptee for adapter SplitterUseOriginalNotPropagateExceptionTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyEventNotifier acts as an adaptee for adapter RecipientListEventNotifierTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyEventNotifier acts as an adaptee for adapter EnricherSendEventTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyEventNotifier acts as an adaptee for adapter DynamicRouterEventNotifierTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

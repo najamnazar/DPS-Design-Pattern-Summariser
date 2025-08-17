@@ -1,0 +1,1 @@
+MyCoolBeanTest acts as a caretaker for memento Context, which tests Producer Template.

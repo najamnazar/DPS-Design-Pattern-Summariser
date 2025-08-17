@@ -1,0 +1,11 @@
+AlterTableImpl acts as a product for AlterTableStep, which overrides cascade method of AlterTableDropStep, restrict method of AlterTableDropStep.
+AlterTableImpl acts as a factory for AlterTableAlterStep, which overrides.
+AlterTableImpl acts as a product for AlterTableStep, which overrides.
+AlterTableImpl acts as a factory for AlterTableRenameIndexToStep, which overrides.
+AlterTableImpl acts as a factory for AlterTableRenameConstraintToStep, which overrides.
+AlterTableImpl acts as a product for DSLContext, which overrides.
+AlterTableImpl acts as a factory for AlterTableAddStep, which overrides.
+AlterTableImpl acts as a factory for AlterTableStep, which overrides.
+AlterTableImpl acts as a factory for AlterTableRenameColumnToStep, which overrides.
+AlterTableImpl acts as a factory for AlterTableAlterConstraintStep, which overrides.
+AlterTableImpl acts as a factory for AlterTableDropStep, which overrides cascade method of AlterTableDropStep, restrict method of AlterTableDropStep.

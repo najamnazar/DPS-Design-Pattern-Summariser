@@ -1,0 +1,3 @@
+LegacyErrorHandlerBuilder acts as a memento.
+LegacyErrorHandlerBuilder acts as a memento, which is inherited by LegacyErrorHandlerBuilderSupport.
+LegacyErrorHandlerBuilder acts as an originator for memento ErrorHandlerFactory.

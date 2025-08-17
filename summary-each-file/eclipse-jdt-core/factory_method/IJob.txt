@@ -1,0 +1,1 @@
+IJob acts as an abstract product for JobManager, which is inherited by IndexRequest, PatternSearchJob.

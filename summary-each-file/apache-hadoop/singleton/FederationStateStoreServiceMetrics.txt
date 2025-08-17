@@ -1,0 +1,1 @@
+FederationStateStoreServiceMetrics acts as a singleton, which gets a FederationStateStoreServiceMetrics Metrics to.

@@ -1,0 +1,5 @@
+XQueryPropogateHeadersTest acts as a publisher for observer Service, which tests Propogate Headers Test, which tests Propogate Headers Using Transform, which tests Propogate Headers Using Set Body, which creates Route Builder.
+XQueryPropogateHeadersTest acts as a publisher for observer ProducerTemplate, which tests Propogate Headers Test, which tests Propogate Headers Using Transform, which tests Propogate Headers Using Set Body, which creates Route Builder.
+XQueryPropogateHeadersTest acts as a publisher for observer CamelContext, which tests Propogate Headers Test, which tests Propogate Headers Using Transform, which tests Propogate Headers Using Set Body, which creates Route Builder.
+XQueryPropogateHeadersTest acts as a publisher for observer ConsumerTemplate, which tests Propogate Headers Test, which tests Propogate Headers Using Transform, which tests Propogate Headers Using Set Body, which creates Route Builder.
+XQueryPropogateHeadersTest acts as a publisher for observer FluentProducerTemplate, which tests Propogate Headers Test, which tests Propogate Headers Using Transform, which tests Propogate Headers Using Set Body, which creates Route Builder.

@@ -1,0 +1,1 @@
+MyRecord acts as an originator for memento String, which ones String.

@@ -1,0 +1,3 @@
+CodeSnippetCompiler acts as a caretaker for memento C, which initializes Parser.
+CodeSnippetCompiler acts as a caretaker for memento E, which initializes Parser.
+CodeSnippetCompiler acts as a caretaker for memento R, which initializes Parser.

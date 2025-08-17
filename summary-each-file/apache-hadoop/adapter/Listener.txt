@@ -1,0 +1,2 @@
+Listener acts as an adaptee for adapter AzureBlobFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.
+Listener acts as an adaptee for adapter AbfsInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

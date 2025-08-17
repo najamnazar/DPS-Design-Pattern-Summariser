@@ -1,0 +1,1 @@
+CsvMarshalPipeDelimiterSpringTest acts as a caretaker for memento Context, which tests Csv Marshal, which creates Body, which creates Application Context.

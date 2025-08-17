@@ -1,0 +1,3 @@
+TagRecognitionWithImageUrlAndMockClientTest acts as a caretaker for memento Configuration, which creates Route Builder, which tests Tag Recognition.
+TagRecognitionWithImageUrlAndMockClientTest acts as a caretaker for memento Producer, which creates Route Builder, which tests Tag Recognition.
+TagRecognitionWithImageUrlAndMockClientTest acts as a caretaker for memento Context, which creates Route Builder, which tests Tag Recognition.

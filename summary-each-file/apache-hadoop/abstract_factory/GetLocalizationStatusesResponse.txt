@@ -1,0 +1,1 @@
+GetLocalizationStatusesResponse acts as an abstract product for GetLocalizationStatusesResponse, which is inherited by GetLocalizationStatusesResponsePBImpl.

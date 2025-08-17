@@ -1,0 +1,2 @@
+CompressionOutputStream acts as an abstract product for CompressionOutputStream, which is inherited by CompressorStream, CompressorStream, CompressorStream.
+CompressionOutputStream acts as a factory for IOStatisticsSource, which overrides getIOStatistics method of IOStatisticsSource.

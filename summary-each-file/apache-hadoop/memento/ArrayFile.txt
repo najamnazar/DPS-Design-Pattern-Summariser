@@ -1,0 +1,1 @@
+ArrayFile acts as a caretaker for memento WritableComparable, which appends Writable parameter of value, which seeks long parameter of n, which nexts Writable parameter of value, which keys, which gets long parameter of n, Writable parameter of value.

@@ -1,0 +1,2 @@
+GenericMessage acts as a caretaker for memento Message, which gets Payload, which gets Headers, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+GenericMessage acts as a caretaker for memento Headers, which gets Payload, which gets Headers, which equals @Nullable parameter of Object, which hashes Code, which tos String.

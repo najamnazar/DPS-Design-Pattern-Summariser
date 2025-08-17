@@ -1,0 +1,1 @@
+FactoryBeanLookupTests acts as a caretaker for memento B, which sets Up, which factories Bean Lookup By Name Dereferencing, which factories Bean Lookup By Type, which factories Bean Lookup By Type And Name Dereference, which factories Bean Object Lookup By Name, which factories Bean Object Lookup By Name And Type, which creates Instance, which gets Object Type.

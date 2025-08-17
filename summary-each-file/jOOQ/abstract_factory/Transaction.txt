@@ -1,0 +1,1 @@
+Transaction acts as an abstract product for Transaction, which is inherited by SpringTransaction.

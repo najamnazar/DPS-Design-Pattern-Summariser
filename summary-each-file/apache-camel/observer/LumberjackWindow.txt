@@ -1,0 +1,1 @@
+LumberjackWindow acts as a publisher for observer LumberjackMessage, which is inherited by, which iterators, which adds LumberjackMessage parameter of message Message, which gets Version, which is Complete, which gets Size.

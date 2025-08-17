@@ -1,0 +1,2 @@
+WorkingCopyOwner acts as a factory for ResolveTests, which overrides.
+WorkingCopyOwner acts as a factory for BufferFactoryWrapper, which overrides.

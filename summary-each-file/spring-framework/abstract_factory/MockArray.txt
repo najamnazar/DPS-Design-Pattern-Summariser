@@ -1,0 +1,2 @@
+MockArray acts as a product for ResourceManagingScope, which overrides.
+MockArray acts as a product for ResourceManagingScopeTrait, which overrides.

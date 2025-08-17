@@ -1,0 +1,2 @@
+StaticMethodMatcherPointcut acts as a factory for AnnotationMatchingPointcut, which overrides.
+StaticMethodMatcherPointcut acts as a product for AspectJExpressionPointcutAdvisor, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.

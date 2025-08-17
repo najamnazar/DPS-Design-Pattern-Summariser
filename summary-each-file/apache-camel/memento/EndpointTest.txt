@@ -1,0 +1,2 @@
+EndpointTest acts as a caretaker for memento Context, which tests ZKJdbc URL.
+EndpointTest acts as a caretaker for memento Producer, which tests ZKJdbc URL.

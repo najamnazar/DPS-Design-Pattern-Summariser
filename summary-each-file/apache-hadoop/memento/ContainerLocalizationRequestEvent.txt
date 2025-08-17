@@ -1,0 +1,1 @@
+ContainerLocalizationRequestEvent acts as a caretaker for memento LocalResourceVisibility, which gets Requested Resources.

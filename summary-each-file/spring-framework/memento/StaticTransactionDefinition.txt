@@ -1,0 +1,4 @@
+StaticTransactionDefinition acts as a caretaker for memento Transaction.
+StaticTransactionDefinition acts as a memento.
+StaticTransactionDefinition acts as a caretaker for memento TransactionDefinition.
+StaticTransactionDefinition acts as an originator for memento TransactionDefinition.

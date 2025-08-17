@@ -1,0 +1,1 @@
+SpringTransactionErrorHandlerBuilder acts as a memento.

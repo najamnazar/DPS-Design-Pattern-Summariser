@@ -1,0 +1,2 @@
+TestHDFSContractDistCp acts as a publisher for observer FileSystem, which creates Cluster, which teardowns Cluster, which creates Configuration parameter of conf Contract, which gets Default Dist CPSize Kb.
+TestHDFSContractDistCp acts as a publisher for observer Path, which creates Cluster, which teardowns Cluster, which creates Configuration parameter of conf Contract, which gets Default Dist CPSize Kb.

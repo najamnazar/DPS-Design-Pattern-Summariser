@@ -1,0 +1,3 @@
+LuceneEndpoint acts as a caretaker for memento Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config, which sets LuceneConfiguration parameter of config Config.
+LuceneEndpoint acts as a caretaker for memento Context, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config, which sets LuceneConfiguration parameter of config Config.
+LuceneEndpoint acts as a caretaker for memento Component, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config, which sets LuceneConfiguration parameter of config Config.

@@ -1,0 +1,1 @@
+TypeKind acts as an adaptee for adapter NoTypeImpl, which adapts to TypeMirrorImpl.

@@ -1,0 +1,2 @@
+MetadataReader acts as an abstract product for MetadataReader, which is inherited by SimpleMetadataReader, SimpleMetadataReader.
+MetadataReader acts as an abstract factory for ClassMetadata, Resource, AnnotationMetadata, which is inherited by SimpleMetadataReader.

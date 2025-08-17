@@ -1,0 +1,1 @@
+DistributedSchedulingAllocateRequest acts as a publisher for observer AllocateRequest, which is inherited by DistributedSchedulingAllocateRequestPBImpl, which gets Allocate Request, which sets AllocateRequest parameter of allocateRequest Allocate Request, which gets Allocated Containers, which sets List<Container> parameter of containers Allocated Containers.

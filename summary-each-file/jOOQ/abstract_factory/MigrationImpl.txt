@@ -1,0 +1,2 @@
+MigrationImpl acts as a factory for Migration, which overrides from method of Migration, to method of Migration, queries method of Migration, validate method of Migration, execute method of Migration.
+MigrationImpl acts as a product for DSLContext, which overrides from method of Migration, to method of Migration, queries method of Migration, validate method of Migration, execute method of Migration.

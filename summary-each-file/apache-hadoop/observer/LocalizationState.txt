@@ -1,0 +1,1 @@
+LocalizationState acts as an observer for publisher LocalizationStatus, LocalizationStatusPBImpl, which is inherited by.

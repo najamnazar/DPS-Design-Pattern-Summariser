@@ -1,0 +1,1 @@
+SelectIsNotNull acts as a caretaker for memento Clause, which is Nullable, which accepts Context<?> parameter of ctx, which accepts Context<?> parameter of ctx Standard, which clauseses Context<?> parameter of ctx, which $arg1s, which $constructors.

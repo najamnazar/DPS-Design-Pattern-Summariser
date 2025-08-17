@@ -1,0 +1,1 @@
+MessageBrokerBeanDefinitionParserTests acts as a decorator for decorator WebSocketHandlerDecorator, which overrides afterConnectionEstablished method of WebSocketHandlerDecorator.

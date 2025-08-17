@@ -1,0 +1,1 @@
+DefaultUriBuilderFactory acts as a factory for UriBuilderFactory, which overrides uriString method of UriBuilderFactory, builder method of UriBuilderFactory.

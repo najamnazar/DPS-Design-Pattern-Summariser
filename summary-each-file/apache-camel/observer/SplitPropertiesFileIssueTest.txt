@@ -1,0 +1,2 @@
+SplitPropertiesFileIssueTest acts as a publisher for observer CamelContext, which tests Split Properties File And Route, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.
+SplitPropertiesFileIssueTest acts as a publisher for observer Service, which tests Split Properties File And Route, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.

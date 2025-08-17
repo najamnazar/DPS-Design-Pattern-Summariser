@@ -1,0 +1,1 @@
+DefaultExecCommandExecutor acts as an observer, which executes ExecCommand parameter of command, which prepares ExecCommand parameter of execCommand Default Executor, which tos ExecCommand parameter of execCommand Command Line.

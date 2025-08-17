@@ -1,0 +1,2 @@
+TestAMRMProxyMetrics acts as a publisher for observer Configuration, which inits, which tests Allocate Request With Null Values, which tests Finish One Application Master With Failure.
+TestAMRMProxyMetrics acts as a publisher for observer ApplicationAttemptId, which inits, which tests Allocate Request With Null Values, which tests Finish One Application Master With Failure.

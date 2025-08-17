@@ -1,0 +1,1 @@
+JdbcDaoSupport acts as a factory for JdbcTransactionManager, which overrides.

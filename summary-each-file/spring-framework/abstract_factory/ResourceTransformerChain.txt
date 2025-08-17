@@ -1,0 +1,1 @@
+ResourceTransformerChain acts as an abstract factory for Resource, ResourceResolverChain, which is inherited by DefaultResourceTransformerChain.

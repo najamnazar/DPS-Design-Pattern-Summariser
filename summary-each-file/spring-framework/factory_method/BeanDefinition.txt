@@ -1,0 +1,2 @@
+BeanDefinition acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.
+BeanDefinition acts as an abstract product for MessageBrokerBeanDefinitionParser, which is inherited by AbstractBeanDefinition.

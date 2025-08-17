@@ -1,0 +1,1 @@
+HSClientProtocol acts as an adaptee for adapter HistoryClientService.

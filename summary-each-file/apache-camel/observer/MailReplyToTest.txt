@@ -1,0 +1,5 @@
+MailReplyToTest acts as a publisher for observer ProducerTemplate, which tests Mail Reply To, which tests Mail Reply To2, which creates Route Builder.
+MailReplyToTest acts as a publisher for observer ConsumerTemplate, which tests Mail Reply To, which tests Mail Reply To2, which creates Route Builder.
+MailReplyToTest acts as a publisher for observer FluentProducerTemplate, which tests Mail Reply To, which tests Mail Reply To2, which creates Route Builder.
+MailReplyToTest acts as a publisher for observer CamelContext, which tests Mail Reply To, which tests Mail Reply To2, which creates Route Builder.
+MailReplyToTest acts as a publisher for observer Service, which tests Mail Reply To, which tests Mail Reply To2, which creates Route Builder.

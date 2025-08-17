@@ -1,0 +1,3 @@
+ConfigurableConversionService acts as an abstract product for ConfigurableConversionService, which is inherited by GenericConversionService.
+ConfigurableConversionService acts as a product for ConfigurableBeanFactory, which overrides.
+ConfigurableConversionService acts as a product for ConfigurablePropertyAccessor, which overrides.

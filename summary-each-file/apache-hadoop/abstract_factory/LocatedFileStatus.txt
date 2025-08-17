@@ -1,0 +1,2 @@
+LocatedFileStatus acts as a product for HdfsFileStatus, which overrides compareTo method of FileStatus, equals method of FileStatus, hashCode method of FileStatus.
+LocatedFileStatus acts as a product for FSWrapper, which overrides compareTo method of FileStatus, equals method of FileStatus, hashCode method of FileStatus.

@@ -1,0 +1,1 @@
+Ddb2StreamInternalClient acts as a memento, which is inherited by Ddb2StreamClientStandardImpl, Ddb2StreamClientIAMOptimizedImpl, which gets Dynamo DBStream Client.

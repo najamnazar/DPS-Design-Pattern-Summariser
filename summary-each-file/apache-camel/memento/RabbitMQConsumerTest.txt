@@ -1,0 +1,1 @@
+RabbitMQConsumerTest acts as a caretaker for memento Context, which tests Stopping Consumer Shutdown Executor, which tests Stopping Consumer Shutdown Connection, which tests Stopping Consumer Shutdown Connection When Server Has Closed Channel.

@@ -1,0 +1,2 @@
+ClaimCheckEipPushPopRemoveHeaderTest acts as a publisher for observer CamelContext, which tests Push Pop Body Remove Header, which creates Route Builder.
+ClaimCheckEipPushPopRemoveHeaderTest acts as a publisher for observer Service, which tests Push Pop Body Remove Header, which creates Route Builder.

@@ -1,0 +1,2 @@
+DynamicRouter4Test acts as a caretaker for memento Producer, which tests Dynamic Router, which creates Route Builder, which slips Exchange parameter of exchange.
+DynamicRouter4Test acts as a caretaker for memento Context, which tests Dynamic Router, which creates Route Builder, which slips Exchange parameter of exchange.

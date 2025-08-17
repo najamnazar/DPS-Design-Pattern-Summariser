@@ -1,0 +1,2 @@
+ChoiceNoActionTest acts as a publisher for observer Service, which tests When, which tests No Action, which creates Route Builder.
+ChoiceNoActionTest acts as a publisher for observer CamelContext, which tests When, which tests No Action, which creates Route Builder.

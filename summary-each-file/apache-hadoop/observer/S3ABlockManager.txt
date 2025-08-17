@@ -1,0 +1,4 @@
+S3ABlockManager acts as an observer, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.
+S3ABlockManager acts as a publisher for observer BlockInfo, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.
+S3ABlockManager acts as a publisher for observer Block, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.
+S3ABlockManager acts as a publisher for observer Node, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.

@@ -1,0 +1,1 @@
+RMStateStoreRMDTMasterKeyEvent acts as an observer, which gets Delegation Key.

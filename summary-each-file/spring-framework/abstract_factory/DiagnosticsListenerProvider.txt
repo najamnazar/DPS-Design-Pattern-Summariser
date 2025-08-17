@@ -1,0 +1,1 @@
+DiagnosticsListenerProvider acts as an abstract factory for DiagnosticsListener, which is inherited by DefaultDiagnosticsListenerProvider.

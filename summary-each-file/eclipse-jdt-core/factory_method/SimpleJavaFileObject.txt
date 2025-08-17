@@ -1,0 +1,2 @@
+SimpleJavaFileObject acts as a product for Bug341298Processor, which overrides.
+SimpleJavaFileObject acts as a factory for IdeInputFileObject, which overrides.

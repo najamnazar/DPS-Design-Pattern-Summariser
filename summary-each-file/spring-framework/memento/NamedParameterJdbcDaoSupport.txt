@@ -1,0 +1,1 @@
+NamedParameterJdbcDaoSupport acts as a caretaker for memento Parameter, which inits Template Config, which gets Named Parameter Jdbc Template.

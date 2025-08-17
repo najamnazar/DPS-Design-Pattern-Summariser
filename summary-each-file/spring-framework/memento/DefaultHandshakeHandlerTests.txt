@@ -1,0 +1,2 @@
+DefaultHandshakeHandlerTests acts as a caretaker for memento A, which supports Sub Protocols, which supports Extensions, which subs Protocol Capable Handler, which subs Protocol Capable Handler No Match, which inits HttpHeaders parameter of httpHeaders Headers, which gets Sub Protocols.
+DefaultHandshakeHandlerTests acts as a caretaker for memento C, which supports Sub Protocols, which supports Extensions, which subs Protocol Capable Handler, which subs Protocol Capable Handler No Match, which inits HttpHeaders parameter of httpHeaders Headers, which gets Sub Protocols.

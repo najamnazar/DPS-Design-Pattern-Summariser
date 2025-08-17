@@ -1,0 +1,1 @@
+EventProcessorIT acts as a caretaker for memento Configuration, which prepares, which tests Event Processing With Blob Checkpoint Store, which tears Down.

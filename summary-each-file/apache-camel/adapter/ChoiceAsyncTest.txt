@@ -1,0 +1,1 @@
+ChoiceAsyncTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts sendMessage method of MockEndpoint, sendMessage method of MockEndpoint, sendMessage method of MockEndpoint to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,2 @@
+WebsocketComponentRouteExampleTest acts as a caretaker for memento Context, which sets Up, which tests WSHttp Call, which creates Route Builder.
+WebsocketComponentRouteExampleTest acts as a caretaker for memento Producer, which sets Up, which tests WSHttp Call, which creates Route Builder.

@@ -1,0 +1,1 @@
+PseudoAuthenticator acts as a product for KerberosUgiAuthenticator, which overrides setConnectionConfigurator method of Authenticator, authenticate method of Authenticator.

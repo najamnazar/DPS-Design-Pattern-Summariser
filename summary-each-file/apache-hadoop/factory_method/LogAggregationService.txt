@@ -1,0 +1,1 @@
+LogAggregationService acts as a product for DummyContainerManager, which overrides handle method of LogHandler, getInvalidTokenApps method of LogHandler.

@@ -1,0 +1,1 @@
+RMStateStoreProxyCAEvent acts as an observer, which gets Ca Cert, which gets Ca Private Key.

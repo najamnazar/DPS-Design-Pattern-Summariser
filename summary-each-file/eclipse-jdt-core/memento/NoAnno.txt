@@ -1,0 +1,2 @@
+NoAnno acts as a caretaker for memento Class.
+NoAnno acts as a caretaker for memento C.

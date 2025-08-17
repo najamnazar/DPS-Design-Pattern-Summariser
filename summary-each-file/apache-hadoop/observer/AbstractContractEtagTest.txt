@@ -1,0 +1,1 @@
+AbstractContractEtagTest acts as a publisher for observer Path, which tests Etag Consistency Across List And Head, which etags FileStatus parameter of st From Status, which tests Etags Of Different Data Different, which tests Etag Consistency Across Rename, which tests Located Status Also Has Etag.

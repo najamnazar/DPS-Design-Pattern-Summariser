@@ -1,0 +1,1 @@
+QueueServiceClientWrapper acts as an adaptee for adapter QueueOperationsIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

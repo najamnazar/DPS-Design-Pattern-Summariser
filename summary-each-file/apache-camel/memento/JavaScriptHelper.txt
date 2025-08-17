@@ -1,0 +1,1 @@
+JavaScriptHelper acts as an originator for memento Context, which news a Context Context to.

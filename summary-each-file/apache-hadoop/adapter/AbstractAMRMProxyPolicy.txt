@@ -1,0 +1,2 @@
+AbstractAMRMProxyPolicy acts as an adapter, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy.
+AbstractAMRMProxyPolicy acts as a target for adapter LocalityMulticastAMRMProxyPolicy, which adapts to AbstractAMRMProxyPolicy, which adapts to AbstractAMRMProxyPolicy.

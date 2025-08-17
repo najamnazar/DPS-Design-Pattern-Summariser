@@ -1,0 +1,1 @@
+SourceMetaProvider acts as a memento, which provides.

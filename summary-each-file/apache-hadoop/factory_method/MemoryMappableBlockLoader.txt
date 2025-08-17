@@ -1,0 +1,1 @@
+MemoryMappableBlockLoader acts as a factory method for MappableBlock, which is inherited by MappableBlockLoader, MappableBlockLoader, PmemMappableBlockLoader.

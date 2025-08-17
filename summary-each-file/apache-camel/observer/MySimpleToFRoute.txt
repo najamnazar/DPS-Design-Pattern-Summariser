@@ -1,0 +1,7 @@
+MySimpleToFRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MySimpleToFRoute acts as a publisher for observer Resource, which configures.
+MySimpleToFRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MySimpleToFRoute acts as a publisher for observer RestsDefinition, which configures.
+MySimpleToFRoute acts as an observer, which configures.
+MySimpleToFRoute acts as a publisher for observer RoutesDefinition, which configures.
+MySimpleToFRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

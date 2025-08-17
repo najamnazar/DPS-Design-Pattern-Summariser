@@ -1,0 +1,1 @@
+DefaultServerCodecConfigurer acts as a product for HttpWebHandlerAdapter, which overrides defaultCodecs method of ServerCodecConfigurer.

@@ -1,0 +1,1 @@
+JobHistoryParserFactory acts as an originator for memento JobHistoryParser, which gets a JobHistoryParser Parser to, which news a JobHistoryParser Instance to, which news a JobHistoryParser Instance to, which news a JobHistoryParser Instance to.

@@ -1,0 +1,1 @@
+AnnotationFormatterFactory acts as an adaptee for adapter FormattingConversionService, which adapts to GenericConversionService, which adapts to GenericConversionService, which adapts to GenericConversionService.

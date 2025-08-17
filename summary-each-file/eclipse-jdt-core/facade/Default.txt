@@ -1,0 +1,1 @@
+Default acts as a subsystem for facade CompletionDefaultPackage, which foo method of CompletionDefaultPackage calls foo.

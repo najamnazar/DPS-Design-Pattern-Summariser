@@ -1,0 +1,1 @@
+LegacyErrorHandlerBuilder acts as an abstract product for LegacyErrorHandlerBuilderRef, which is inherited by LegacyErrorHandlerBuilderSupport.

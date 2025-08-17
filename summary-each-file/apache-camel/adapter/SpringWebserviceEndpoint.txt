@@ -1,0 +1,1 @@
+SpringWebserviceEndpoint acts as an adaptee for adapter SpringWebserviceConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

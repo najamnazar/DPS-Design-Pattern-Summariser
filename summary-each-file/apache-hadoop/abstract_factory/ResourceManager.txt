@@ -1,0 +1,1 @@
+ResourceManager acts as an abstract product for ResourceManager, which is inherited by MockRM.

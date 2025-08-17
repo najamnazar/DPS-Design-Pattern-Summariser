@@ -1,0 +1,1 @@
+ServletContextResourceLoader acts as a publisher for observer ProtocolResolver, which gets String parameter of path Resource By Path.

@@ -1,0 +1,2 @@
+RouteAwareRouteTest acts as a caretaker for memento Context, which tests Route Aware, which creates Route Builder, which processes Exchange parameter of exchange, which sets Route parameter of route Route, which gets Route, which does Start, which does Stop.
+RouteAwareRouteTest acts as a caretaker for memento Producer, which tests Route Aware, which creates Route Builder, which processes Exchange parameter of exchange, which sets Route parameter of route Route, which gets Route, which does Start, which does Stop.

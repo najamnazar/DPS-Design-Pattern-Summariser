@@ -1,0 +1,1 @@
+DelegateEndpoint acts as an observer, which gets Endpoint.

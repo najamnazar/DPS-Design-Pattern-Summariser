@@ -1,0 +1,2 @@
+FileConsumerDirectoryMustExistBridgeErrorHandlerTest acts as a publisher for observer CamelContext, which tests Bridge Error Handler, which creates Route Builder.
+FileConsumerDirectoryMustExistBridgeErrorHandlerTest acts as a publisher for observer Service, which tests Bridge Error Handler, which creates Route Builder.

@@ -1,0 +1,1 @@
+HttpServletBean acts as a caretaker for memento C, which is inherited by, which adds String parameter of property Required Property, which sets Environment parameter of environment Environment, which gets Environment, which creates Environment, which inits, which inits BeanWrapper parameter of bw Bean Wrapper, which inits Servlet Bean, which gets Servlet Name.

@@ -1,0 +1,1 @@
+FhirXmlDataFormat acts as a memento, which ends.

@@ -1,0 +1,2 @@
+FsCreateModes acts as a product for HdfsFileStatus, which overrides getMasked method of FsPermission, getUnmasked method of FsPermission, toString method of FsPermission, hashCode method of FsPermission.
+FsCreateModes acts as a product for INodeAttributes, which overrides getMasked method of FsPermission, getUnmasked method of FsPermission, toString method of FsPermission, hashCode method of FsPermission.

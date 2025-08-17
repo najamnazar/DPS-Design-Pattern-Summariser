@@ -1,0 +1,1 @@
+ITestS3AHugeFilesNoMultipart acts as a publisher for observer Path, which gets Block Output Buffer Name, which expects Multipart Upload, which is Multipart Copy Enabled, which creates Scale Configuration, which test_030_posts Creation Assertions.

@@ -1,0 +1,1 @@
+PropertyConfigurer acts as an abstract product for PropertyConfigurer, which is inherited by BeanLanguage, XQueryLanguage, TokenizeLanguage, XPathLanguage, JsonPathLanguage, DatasonnetLanguage, GeneratedPropertyConfigurer, XMLTokenizeLanguage.

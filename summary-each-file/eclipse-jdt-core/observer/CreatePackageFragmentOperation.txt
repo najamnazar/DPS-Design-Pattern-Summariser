@@ -1,0 +1,2 @@
+CreatePackageFragmentOperation acts as a publisher for observer IJavaElement, which executes Operation, which gets Scheduling Rule, which verifies.
+CreatePackageFragmentOperation acts as a publisher for observer String, which executes Operation, which gets Scheduling Rule, which verifies.

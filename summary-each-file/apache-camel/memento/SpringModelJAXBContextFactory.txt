@@ -1,0 +1,1 @@
+SpringModelJAXBContextFactory acts as a caretaker for memento Context, which gets Packages.

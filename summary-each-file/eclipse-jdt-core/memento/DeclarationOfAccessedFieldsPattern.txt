@@ -1,0 +1,2 @@
+DeclarationOfAccessedFieldsPattern acts as a caretaker for memento E.
+DeclarationOfAccessedFieldsPattern acts as a caretaker for memento S.

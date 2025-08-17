@@ -1,0 +1,1 @@
+ThreadPoolFactory acts as an abstract product for ThreadPoolFactory, which is inherited by InstrumentedThreadPoolFactory, DefaultThreadPoolFactory, VertXThreadPoolFactory.

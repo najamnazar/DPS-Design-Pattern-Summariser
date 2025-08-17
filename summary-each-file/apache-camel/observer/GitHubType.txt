@@ -1,0 +1,1 @@
+GitHubType acts as an observer for publisher GitHubEndpoint, which is inherited by.

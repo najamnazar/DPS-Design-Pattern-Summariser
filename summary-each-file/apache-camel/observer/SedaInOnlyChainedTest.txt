@@ -1,0 +1,2 @@
+SedaInOnlyChainedTest acts as a publisher for observer Service, which tests In Only Seda Chained, which creates Route Builder.
+SedaInOnlyChainedTest acts as a publisher for observer CamelContext, which tests In Only Seda Chained, which creates Route Builder.

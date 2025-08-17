@@ -1,0 +1,3 @@
+WebAppConfigurationBootstrapWithTests acts as a caretaker for memento A, which webs Application Context Is Loaded, which processes MergedContextConfiguration parameter of mergedConfig Merged Context Configuration.
+WebAppConfigurationBootstrapWithTests acts as a caretaker for memento ApplicationContext, which webs Application Context Is Loaded, which processes MergedContextConfiguration parameter of mergedConfig Merged Context Configuration.
+WebAppConfigurationBootstrapWithTests acts as a caretaker for memento C, which webs Application Context Is Loaded, which processes MergedContextConfiguration parameter of mergedConfig Merged Context Configuration.

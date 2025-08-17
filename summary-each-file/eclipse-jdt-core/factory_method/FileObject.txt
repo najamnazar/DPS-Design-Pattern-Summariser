@@ -1,0 +1,2 @@
+FileObject acts as an abstract product for CompilerInvocationTests, which is inherited by IdeInputFileObject, ForwardingFileObject, IdeOutputFileObject.
+FileObject acts as a factory for IdeInputFileObject, which overrides.

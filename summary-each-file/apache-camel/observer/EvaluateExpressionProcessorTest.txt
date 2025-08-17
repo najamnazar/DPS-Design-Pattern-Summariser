@@ -1,0 +1,2 @@
+EvaluateExpressionProcessorTest acts as a publisher for observer CamelContext, which tests Ok, which tests Fail, which creates Route Builder.
+EvaluateExpressionProcessorTest acts as a publisher for observer Service, which tests Ok, which tests Fail, which creates Route Builder.

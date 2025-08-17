@@ -1,0 +1,2 @@
+JcrRouteTestSupport acts as a target for adapter JcrNodePathCreationTest, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport.
+JcrRouteTestSupport acts as a target for adapter JcrGetNodeByIdTest, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport.

@@ -1,0 +1,1 @@
+TableMetaImpl acts as a publisher for observer Name, which gets Catalogs0, which gets Schemas0, which gets Tables0, which gets Primary Keys0, which ddls DDLExportConfiguration parameter of exportConfiguration, which informations Schema.

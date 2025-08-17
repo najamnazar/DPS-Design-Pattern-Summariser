@@ -1,0 +1,1 @@
+StateRepository acts as an observer, which sets K parameter of key, V parameter of value State, which gets K parameter of key State.

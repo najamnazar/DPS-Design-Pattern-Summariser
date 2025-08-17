@@ -1,0 +1,1 @@
+EclipseAnnotationProcessorEnvironment acts as an abstract factory for CompilationUnit, IJavaProject, EclipseMessager, which is inherited by AbstractCompilationEnv.

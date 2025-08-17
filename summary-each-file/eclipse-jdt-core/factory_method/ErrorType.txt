@@ -1,0 +1,5 @@
+ErrorType acts as a factory for ClassType, which overrides getSuperclass method of ClassType.
+ErrorType acts as a factory for TypesUtil, which overrides toString method of TypesUtil, toString method of TypesUtil.
+ErrorType acts as a product for Bug510118Processor, which overrides getActualTypeArguments method of DeclaredType, getContainingType method of DeclaredType, getSuperinterfaces method of DeclaredType, getDeclaration method of DeclaredType.
+ErrorType acts as a factory for Bug510118Processor, which overrides getActualTypeArguments method of Bug510118Processor, getContainingType method of Bug510118Processor, getSuperinterfaces method of Bug510118Processor, getDeclaration method of Bug510118Processor.
+ErrorType acts as a factory for InterfaceType, which overrides.

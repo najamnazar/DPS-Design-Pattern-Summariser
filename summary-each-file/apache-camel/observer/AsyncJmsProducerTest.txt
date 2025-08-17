@@ -1,0 +1,1 @@
+AsyncJmsProducerTest acts as a publisher for observer ArtemisService, which tests Async Endpoint, which gets Component Name, which creates Route Builder.

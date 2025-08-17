@@ -1,0 +1,4 @@
+XmlBeanFactory acts as a caretaker for memento A.
+XmlBeanFactory acts as a caretaker for memento Comparator.
+XmlBeanFactory acts as a caretaker for memento B.
+XmlBeanFactory acts as a caretaker for memento C.

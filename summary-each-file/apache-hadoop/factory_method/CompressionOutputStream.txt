@@ -1,0 +1,1 @@
+CompressionOutputStream acts as a factory for IOStatisticAssertions, which overrides.

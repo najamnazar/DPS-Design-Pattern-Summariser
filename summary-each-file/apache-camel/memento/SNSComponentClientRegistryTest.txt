@@ -1,0 +1,2 @@
+SNSComponentClientRegistryTest acts as a caretaker for memento Producer, which creates Endpoint With Minimal SNSClient Configuration, which creates Endpoint With Minimal SNSClient Misconfiguration, which creates Endpoint With Autowire.
+SNSComponentClientRegistryTest acts as a caretaker for memento Context, which creates Endpoint With Minimal SNSClient Configuration, which creates Endpoint With Minimal SNSClient Misconfiguration, which creates Endpoint With Autowire.

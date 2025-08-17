@@ -1,0 +1,1 @@
+IgniteCacheOperation acts as an observer for publisher IgniteCacheEndpoint, which is inherited by.

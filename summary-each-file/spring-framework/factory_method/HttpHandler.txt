@@ -1,0 +1,1 @@
+HttpHandler acts as an abstract product for AbstractRequestMappingIntegrationTests, which is inherited by HttpWebHandlerAdapter, ContextPathCompositeHandler.

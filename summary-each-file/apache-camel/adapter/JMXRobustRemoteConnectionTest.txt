@@ -1,0 +1,1 @@
+JMXRobustRemoteConnectionTest acts as an adapter, which adapts to SimpleBeanFixture, which adapts to SimpleBeanFixture, which adapts initServer method of Registry, initServer method of Registry to SimpleBeanFixture, which adapts to SimpleBeanFixture, which adapts to SimpleBeanFixture.

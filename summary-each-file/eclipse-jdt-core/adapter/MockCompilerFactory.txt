@@ -1,0 +1,1 @@
+MockCompilerFactory acts as an adapter, which adapts to ICompilerFactory, which adapts to ICompilerFactory, which adapts to ICompilerFactory, which adapts to ICompilerFactory.

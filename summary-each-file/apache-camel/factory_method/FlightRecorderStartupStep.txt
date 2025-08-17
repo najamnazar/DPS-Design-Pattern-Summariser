@@ -1,0 +1,1 @@
+FlightRecorderStartupStep acts as a product for DefaultStartupStepRecorder, which overrides getName method of StartupStep, getId method of StartupStep, getParentId method of StartupStep, getLevel method of StartupStep, getBeginTime method of StartupStep, getType method of StartupStep, getDescription method of StartupStep, endStep method of StartupStep.

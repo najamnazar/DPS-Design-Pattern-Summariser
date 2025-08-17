@@ -1,0 +1,2 @@
+HealthCheckRegistry acts as an abstract product for HealthCheckRegistry, which is inherited by DefaultHealthCheckRegistry.
+HealthCheckRegistry acts as an abstract factory for HealthCheckRegistry, which is inherited by DefaultHealthCheckRegistry.

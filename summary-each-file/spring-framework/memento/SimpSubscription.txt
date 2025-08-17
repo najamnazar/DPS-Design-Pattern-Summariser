@@ -1,0 +1,1 @@
+SimpSubscription acts as an originator for memento SimpSession, which is inherited by, which gets a SimpSession Session to.

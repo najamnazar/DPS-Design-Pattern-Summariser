@@ -1,0 +1,5 @@
+AlterIndexImpl acts as a factory for AlterIndexOnStep, which overrides.
+AlterIndexImpl acts as a product for AlterIndexStep, which overrides.
+AlterIndexImpl acts as a product for DSLContext, which overrides.
+AlterIndexImpl acts as a factory for AlterIndexStep, which overrides.
+AlterIndexImpl acts as a product for AlterIndexOnStep, which overrides.

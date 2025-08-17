@@ -1,0 +1,1 @@
+ECS2InternalClient acts as a memento, which is inherited by ECS2ClientStandardImpl, ECS2ClientIAMOptimizedImpl, which gets Ecs Client.

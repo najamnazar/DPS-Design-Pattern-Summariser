@@ -1,0 +1,1 @@
+XAttrCodec acts as an adaptee for adapter XAttrCommands, which adapts to FsCommand, which adapts to FsCommand.

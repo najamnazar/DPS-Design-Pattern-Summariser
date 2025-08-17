@@ -1,0 +1,2 @@
+AbstractContractLeaseRecoveryTest acts as a factory for AbstractContractLeaseRecoveryTest, which overrides.
+AbstractContractLeaseRecoveryTest acts as a factory method for LeaseRecoverable, which is inherited by AbstractContractLeaseRecoveryTest.

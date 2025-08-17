@@ -1,0 +1,1 @@
+IDependent acts as an adaptee for adapter ReferenceBinding, which adapts to TypeBinding.

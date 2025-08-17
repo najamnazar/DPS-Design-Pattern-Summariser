@@ -1,0 +1,2 @@
+ValidatorXmlSchemaTest acts as a publisher for observer Service, which shoulds Pass, which shoulds Throw Exception, which creates Route Builder.
+ValidatorXmlSchemaTest acts as a publisher for observer CamelContext, which shoulds Pass, which shoulds Throw Exception, which creates Route Builder.

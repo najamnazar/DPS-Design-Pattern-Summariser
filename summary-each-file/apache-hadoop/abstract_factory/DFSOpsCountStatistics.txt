@@ -1,0 +1,1 @@
+DFSOpsCountStatistics acts as a product for GlobalStorageStatistics, which overrides getScheme method of StorageStatistics, getLongStatistics method of StorageStatistics, getLong method of StorageStatistics, isTracked method of StorageStatistics, reset method of StorageStatistics.

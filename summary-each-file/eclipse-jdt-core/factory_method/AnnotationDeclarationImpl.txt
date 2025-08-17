@@ -1,0 +1,1 @@
+AnnotationDeclarationImpl acts as a product for AnnotationMirror, which overrides getDeclaration method of AnnotationType.

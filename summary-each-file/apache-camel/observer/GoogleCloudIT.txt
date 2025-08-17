@@ -1,0 +1,5 @@
+GoogleCloudIT acts as a publisher for observer CamelContext, which creates Route Builder, which sends In, which creates Random Function Name.
+GoogleCloudIT acts as a publisher for observer ConsumerTemplate, which creates Route Builder, which sends In, which creates Random Function Name.
+GoogleCloudIT acts as a publisher for observer Service, which creates Route Builder, which sends In, which creates Random Function Name.
+GoogleCloudIT acts as a publisher for observer FluentProducerTemplate, which creates Route Builder, which sends In, which creates Random Function Name.
+GoogleCloudIT acts as a publisher for observer ProducerTemplate, which creates Route Builder, which sends In, which creates Random Function Name.

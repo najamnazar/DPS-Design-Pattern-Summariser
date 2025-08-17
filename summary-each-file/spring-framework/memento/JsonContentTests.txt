@@ -1,0 +1,1 @@
+JsonContentTests acts as a caretaker for memento C, which jsons Content, which jsons Path Is Equal To, which jsons Path Matches, which posts Json Content, which gets Persons, which gets @PathVariable parameter of String Person, which saves @RequestBody parameter of Person Person.

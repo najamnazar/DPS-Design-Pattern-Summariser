@@ -1,0 +1,1 @@
+ActiveMQQueueEndpoint acts as a factory for JmsBrowsableEndpoint, which overrides.

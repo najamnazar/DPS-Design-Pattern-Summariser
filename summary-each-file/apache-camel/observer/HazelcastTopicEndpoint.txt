@@ -1,0 +1,2 @@
+HazelcastTopicEndpoint acts as a publisher for observer HazelcastCommand, which gets Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which is Multiple Consumers Supported.
+HazelcastTopicEndpoint acts as a publisher for observer HazelcastOperation, which gets Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which is Multiple Consumers Supported.

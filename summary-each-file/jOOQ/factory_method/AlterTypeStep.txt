@@ -1,0 +1,2 @@
+AlterTypeStep acts as a factory for AlterTypeStep, which overrides.
+AlterTypeStep acts as a factory method for AlterTypeRenameValueToStep, which is inherited by AlterTypeStep.

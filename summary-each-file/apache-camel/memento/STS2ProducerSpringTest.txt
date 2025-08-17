@@ -1,0 +1,1 @@
+STS2ProducerSpringTest acts as a caretaker for memento Context, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Application Context.

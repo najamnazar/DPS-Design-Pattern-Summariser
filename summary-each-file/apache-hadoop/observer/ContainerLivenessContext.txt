@@ -1,0 +1,1 @@
+ContainerLivenessContext acts as a publisher for observer Container, which is inherited by, which sets Container parameter of container Container, which sets String parameter of user User, which sets String parameter of pid Pid, which builds, which gets Container, which gets User, which gets Pid.

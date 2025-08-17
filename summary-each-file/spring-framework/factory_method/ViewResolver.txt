@@ -1,0 +1,1 @@
+ViewResolver acts as an abstract product for WebMvcConfigurationSupportTests, which is inherited by BeanNameViewResolver, ContentNegotiatingViewResolver, ViewResolverComposite, AbstractCachingViewResolver.

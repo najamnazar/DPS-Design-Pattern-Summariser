@@ -1,0 +1,1 @@
+ListFactoryBean acts as a caretaker for memento C, which sets List<?> parameter of sourceList Source List, which sets @Nullable parameter of Class<? Target List Class, which gets Object Type, which creates Instance.

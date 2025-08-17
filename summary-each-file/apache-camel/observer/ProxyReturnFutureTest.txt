@@ -1,0 +1,2 @@
+ProxyReturnFutureTest acts as a publisher for observer Service, which tests Future Echo, which tests Future Echo Call Two Times, which creates Route Builder, which ases int parameter of number Text.
+ProxyReturnFutureTest acts as a publisher for observer CamelContext, which tests Future Echo, which tests Future Echo Call Two Times, which creates Route Builder, which ases int parameter of number Text.

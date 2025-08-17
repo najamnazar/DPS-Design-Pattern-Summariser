@@ -1,0 +1,1 @@
+AlterDatabaseImpl acts as a product for AlterDatabaseStep, which overrides.

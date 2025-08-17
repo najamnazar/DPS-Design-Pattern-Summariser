@@ -1,0 +1,2 @@
+BeanNoCacheTest acts as a caretaker for memento Context, which tests Bean Ref No Cache, which creates Route Builder, which gets Count, which does String parameter of s Something.
+BeanNoCacheTest acts as a caretaker for memento Producer, which tests Bean Ref No Cache, which creates Route Builder, which gets Count, which does String parameter of s Something.

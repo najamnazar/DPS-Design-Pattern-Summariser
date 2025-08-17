@@ -1,0 +1,2 @@
+NamedRoute acts as a factory for NamedRoute, which overrides.
+NamedRoute acts as a factory method for NamedNode, which is inherited by OptionalIdentifiedDefinition, MessageHistory, DefaultMessageHistory, DefaultMessageHistory, NamedNode, NamedNode, DefaultMessageHistory, NamedRoute, Route.

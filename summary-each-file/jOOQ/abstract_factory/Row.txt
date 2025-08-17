@@ -1,0 +1,3 @@
+Row acts as an abstract product for Row, which is inherited by Row1, Row8, Row9, Row6, Row7, Row4, Row5, Row2, Row3, Row22, Row21, Row20, Row19, Row18, Row17, Row16, Row15, Row14, Row13, Row12, Row11, Row10, RowN, AbstractRow.
+Row acts as an abstract product for Row, which is inherited by Row1, Row1, Row8, Row8, Row9, Row9, Row6, Row6, Row7, Row7, Row4, Row4, Row5, Row5, Row2, Row2, Row3, Row3, Row22, Row22, Row21, Row21, Row20, Row20, Row19, Row19, Row18, Row18, Row17, Row17, Row16, Row16, Row15, Row15, Row14, Row14, Row13, Row13, Row12, Row12, Row11, Row11, Row10, Row10, RowN, RowN, AbstractRow, AbstractRow.
+Row acts as an abstract factory for Condition, which is inherited by AbstractRow.

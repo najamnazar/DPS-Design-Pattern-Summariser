@@ -1,0 +1,1 @@
+ServletContextResourcePatternResolver acts as an adapter, which adapts to PathMatchingResourcePatternResolver, which adapts to PathMatchingResourcePatternResolver, which adapts to PathMatchingResourcePatternResolver.

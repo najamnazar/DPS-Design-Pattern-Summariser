@@ -1,0 +1,1 @@
+AnalyticsStream acts as a product for ObjectInputStreamFactory, which overrides isStreamOpen method of ObjectInputStream, abortInFinalizer method of ObjectInputStream, close method of ObjectInputStream.

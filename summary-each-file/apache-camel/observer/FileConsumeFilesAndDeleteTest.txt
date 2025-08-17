@@ -1,0 +1,2 @@
+FileConsumeFilesAndDeleteTest acts as a publisher for observer CamelContext, which tests Consume And Delete, which creates Route Builder.
+FileConsumeFilesAndDeleteTest acts as a publisher for observer Service, which tests Consume And Delete, which creates Route Builder.

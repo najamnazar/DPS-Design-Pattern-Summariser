@@ -1,0 +1,1 @@
+AssistSourceField acts as an adapter, which adapts to ResolvedSourceField, which adapts getKey method of String to ResolvedSourceField, which adapts isResolved method of String to ResolvedSourceField, which adapts to ResolvedSourceField, which adapts to ResolvedSourceField, which adapts to ResolvedSourceField.

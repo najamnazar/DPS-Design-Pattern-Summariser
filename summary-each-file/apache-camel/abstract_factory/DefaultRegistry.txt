@@ -1,0 +1,3 @@
+DefaultRegistry acts as a product for CamelContext, which overrides bind method of Registry, bind method of Registry, bindAsPrototype method of Registry, unbind method of Registry.
+DefaultRegistry acts as a factory for LocalBeanRepositoryAware, which overrides getLocalBeanRepository method of LocalBeanRepositoryAware.
+DefaultRegistry acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

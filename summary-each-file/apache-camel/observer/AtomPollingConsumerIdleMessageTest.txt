@@ -1,0 +1,5 @@
+AtomPollingConsumerIdleMessageTest acts as a publisher for observer Service, which tests Consume Idle Messages, which creates Route Builder.
+AtomPollingConsumerIdleMessageTest acts as a publisher for observer ConsumerTemplate, which tests Consume Idle Messages, which creates Route Builder.
+AtomPollingConsumerIdleMessageTest acts as a publisher for observer ProducerTemplate, which tests Consume Idle Messages, which creates Route Builder.
+AtomPollingConsumerIdleMessageTest acts as a publisher for observer FluentProducerTemplate, which tests Consume Idle Messages, which creates Route Builder.
+AtomPollingConsumerIdleMessageTest acts as a publisher for observer CamelContext, which tests Consume Idle Messages, which creates Route Builder.

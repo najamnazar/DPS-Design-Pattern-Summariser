@@ -1,0 +1,1 @@
+IdeReconcileProcessingEnvImpl acts as a caretaker for memento AnnotationProcessor, which gets Phase.

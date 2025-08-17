@@ -1,0 +1,2 @@
+AdviceWithWeaveByTypeOnExceptionTest acts as a publisher for observer CamelContext, which tests Weave On Exception, which creates Route Builder.
+AdviceWithWeaveByTypeOnExceptionTest acts as a publisher for observer Service, which tests Weave On Exception, which creates Route Builder.

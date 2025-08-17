@@ -1,0 +1,12 @@
+AsyncEndpoint acts as an adaptee for adapter Sjms2Endpoint.
+AsyncEndpoint acts as an adaptee for adapter NettyEndpoint.
+AsyncEndpoint acts as an adaptee for adapter SedaEndpoint.
+AsyncEndpoint acts as an adaptee for adapter DisruptorEndpoint.
+AsyncEndpoint acts as an adaptee for adapter SjmsEndpoint.
+AsyncEndpoint acts as an adaptee for adapter NettyHttpEndpoint.
+AsyncEndpoint acts as an adaptee for adapter StompEndpoint.
+AsyncEndpoint acts as an adaptee for adapter CxfEndpoint.
+AsyncEndpoint acts as an adaptee for adapter AvroEndpoint.
+AsyncEndpoint acts as an adaptee for adapter JmsEndpoint.
+AsyncEndpoint acts as an adaptee for adapter UndertowEndpoint.
+AsyncEndpoint acts as an adaptee for adapter SpringRabbitMQEndpoint.

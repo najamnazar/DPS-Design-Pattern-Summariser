@@ -1,0 +1,1 @@
+CsiClient acts as an abstract factory for GetPluginInfoResponse, which is inherited by CsiClientImpl.

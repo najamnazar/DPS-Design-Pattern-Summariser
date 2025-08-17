@@ -1,0 +1,2 @@
+VersionedFileStatus acts as a publisher for observer FsPermission, which equals Object parameter of obj, which hashes Code, which gets Version, which gets Etag, which gets Encryption Context, which tos String.
+VersionedFileStatus acts as an observer, which equals Object parameter of obj, which hashes Code, which gets Version, which gets Etag, which gets Encryption Context, which tos String.

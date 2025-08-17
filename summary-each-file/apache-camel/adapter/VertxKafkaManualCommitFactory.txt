@@ -1,0 +1,2 @@
+VertxKafkaManualCommitFactory acts as an adaptee for adapter VertxKafkaAutowireTest, which adapts to CamelTestSupport.
+VertxKafkaManualCommitFactory acts as an adaptee for adapter VertxKafkaComponent, which adapts to DefaultComponent.

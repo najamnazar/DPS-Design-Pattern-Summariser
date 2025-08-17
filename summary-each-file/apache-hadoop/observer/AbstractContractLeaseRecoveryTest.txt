@@ -1,0 +1,1 @@
+AbstractContractLeaseRecoveryTest acts as a publisher for observer Path, which tests Lease Recovery, which tests Lease Recovery File Not Exist, which tests Lease Recovery File On Directory, which verifies FileSystem parameter of fs, Path parameter of path And Get Lease Recoverable Instance.

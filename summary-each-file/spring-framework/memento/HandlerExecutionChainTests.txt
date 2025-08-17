@@ -1,0 +1,2 @@
+HandlerExecutionChainTests acts as a caretaker for memento C, which setups, which successes Scenario, which successes Async Scenario, which earlies Exit In Pre Handle, which exceptions Before Pre Handle, which exceptions During Pre Handle, which exceptions After Pre Handle.
+HandlerExecutionChainTests acts as a caretaker for memento A, which setups, which successes Scenario, which successes Async Scenario, which earlies Exit In Pre Handle, which exceptions Before Pre Handle, which exceptions During Pre Handle, which exceptions After Pre Handle.

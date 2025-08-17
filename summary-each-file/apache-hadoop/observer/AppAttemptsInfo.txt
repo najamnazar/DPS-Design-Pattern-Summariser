@@ -1,0 +1,1 @@
+AppAttemptsInfo acts as a publisher for observer AppAttemptInfo, which is inherited by, which adds AppAttemptInfo parameter of info, which gets Attempts.

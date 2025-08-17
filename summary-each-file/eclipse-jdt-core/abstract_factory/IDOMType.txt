@@ -1,0 +1,2 @@
+IDOMType acts as an abstract product for IDOMType, which is inherited by DOMType, DOMType, DOMType, DOMType.
+IDOMType acts as an abstract factory for, which is inherited by DOMType.

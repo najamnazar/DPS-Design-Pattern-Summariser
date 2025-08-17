@@ -1,0 +1,1 @@
+NamedParameterJdbcDaoSupport acts as an adapter, which adapts to JdbcDaoSupport, which adapts to JdbcDaoSupport.

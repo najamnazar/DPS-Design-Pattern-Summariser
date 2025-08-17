@@ -1,0 +1,1 @@
+ReactorHttpServer acts as a caretaker for memento A, which inits Server, which creates Http Handler Adapter, which starts Internal, which stops Internal, which resets Internal.

@@ -1,0 +1,1 @@
+RegistryOperationsFactory acts as an originator for memento RegistryOperationsClient, which creates a RegistryOperationsClient Client to.

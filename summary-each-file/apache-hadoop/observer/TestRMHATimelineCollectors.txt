@@ -1,0 +1,2 @@
+TestRMHATimelineCollectors acts as a publisher for observer Configuration, which setups, which tests Rebuild Collector Data On Failover.
+TestRMHATimelineCollectors acts as a publisher for observer MockRM, which setups, which tests Rebuild Collector Data On Failover.

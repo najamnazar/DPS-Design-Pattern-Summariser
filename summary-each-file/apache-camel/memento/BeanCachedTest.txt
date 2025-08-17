@@ -1,0 +1,2 @@
+BeanCachedTest acts as a caretaker for memento Context, which creates Route Builder, which creates Registry, which tests Fresh Bean In Context, which tests Bean With Cached, which does Exchange parameter of exchange Something.
+BeanCachedTest acts as a caretaker for memento Producer, which creates Route Builder, which creates Registry, which tests Fresh Bean In Context, which tests Bean With Cached, which does Exchange parameter of exchange Something.

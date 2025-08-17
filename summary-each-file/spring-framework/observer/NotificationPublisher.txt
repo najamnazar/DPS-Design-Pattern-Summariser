@@ -1,0 +1,1 @@
+NotificationPublisher acts as an observer for publisher NotificationPublisherTests, which is inherited by ModelMBeanNotificationPublisher, which sends Notification parameter of notification Notification.

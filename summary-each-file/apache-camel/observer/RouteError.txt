@@ -1,0 +1,1 @@
+RouteError acts as an observer for publisher Route, DefaultRoute, which is inherited by DefaultRouteError, which gets Phase, which gets Exception, which is Unhealthy.

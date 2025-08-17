@@ -1,0 +1,1 @@
+JCacheManagerFactoryBean acts as a factory method for CacheManager, which is inherited by AbstractCacheResolver, AbstractJCacheTests, AbstractJCacheTests, AbstractCacheResolver, CachingConfigurer, CachingConfigurer, AbstractJCacheTests, CachingConfigurerSupport, AbstractCacheResolver.

@@ -1,0 +1,1 @@
+ResourceLocalizationSpecPBImpl acts as a factory for ResourceLocalizationSpec, which overrides getResource method of ResourceLocalizationSpec, setResource method of ResourceLocalizationSpec, getDestinationDirectory method of ResourceLocalizationSpec, setDestinationDirectory method of ResourceLocalizationSpec.

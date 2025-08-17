@@ -1,0 +1,2 @@
+RoutePolicySupport acts as a product for MicrometerRoutePolicyFactory, which overrides onInit method of RoutePolicy, onRemove method of RoutePolicy, onStart method of RoutePolicy, onStop method of RoutePolicy, onSuspend method of RoutePolicy, onResume method of RoutePolicy, onExchangeBegin method of RoutePolicy, onExchangeDone method of RoutePolicy.
+RoutePolicySupport acts as a factory for DefaultEndpoint, which overrides.

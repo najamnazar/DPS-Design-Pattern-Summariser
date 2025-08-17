@@ -1,0 +1,5 @@
+NestedMimeMessageConsumeTest acts as a publisher for observer CamelContext, which tests Nested Multipart, which prepares String parameter of user Mailbox, which creates Route Builder.
+NestedMimeMessageConsumeTest acts as a publisher for observer ConsumerTemplate, which tests Nested Multipart, which prepares String parameter of user Mailbox, which creates Route Builder.
+NestedMimeMessageConsumeTest acts as a publisher for observer ProducerTemplate, which tests Nested Multipart, which prepares String parameter of user Mailbox, which creates Route Builder.
+NestedMimeMessageConsumeTest acts as a publisher for observer FluentProducerTemplate, which tests Nested Multipart, which prepares String parameter of user Mailbox, which creates Route Builder.
+NestedMimeMessageConsumeTest acts as a publisher for observer Service, which tests Nested Multipart, which prepares String parameter of user Mailbox, which creates Route Builder.

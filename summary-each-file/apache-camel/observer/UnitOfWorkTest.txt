@@ -1,0 +1,2 @@
+UnitOfWorkTest acts as a publisher for observer Service, which tests Success, which tests Exception, which sets Up, which sends Message, which creates Route Builder.
+UnitOfWorkTest acts as a publisher for observer CamelContext, which tests Success, which tests Exception, which sets Up, which sends Message, which creates Route Builder.

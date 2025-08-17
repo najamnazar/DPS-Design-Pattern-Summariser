@@ -1,0 +1,1 @@
+AspectJAutoProxyBeanDefinitionParser acts as an observer, which parses Element parameter of element, ParserContext parameter of parserContext, which extends Element parameter of element, ParserContext parameter of parserContext Bean Definition, which adds Element parameter of element, ParserContext parameter of parserContext, BeanDefinition parameter of beanDef Include Patterns.

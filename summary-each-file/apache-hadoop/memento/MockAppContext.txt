@@ -1,0 +1,1 @@
+MockAppContext acts as an originator for memento Clock, which gets a Clock Clock to.

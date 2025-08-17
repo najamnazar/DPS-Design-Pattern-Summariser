@@ -1,0 +1,1 @@
+IgniteIdGenOperation acts as an observer for publisher IgniteIdGenEndpoint, which is inherited by.

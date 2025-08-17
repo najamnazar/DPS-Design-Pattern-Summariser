@@ -1,0 +1,2 @@
+ImpersonationProvider acts as a target for adapter DefaultImpersonationProvider, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider.
+ImpersonationProvider acts as a target for adapter AllowAllImpersonationProvider, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider.

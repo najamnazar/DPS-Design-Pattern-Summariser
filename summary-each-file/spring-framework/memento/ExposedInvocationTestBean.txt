@@ -1,0 +1,4 @@
+ExposedInvocationTestBean acts as a caretaker for memento A, which gets Name, which absquatulates, which assertionses MethodInvocation parameter of invocation.
+ExposedInvocationTestBean acts as a caretaker for memento ApplicationContext, which gets Name, which absquatulates, which assertionses MethodInvocation parameter of invocation.
+ExposedInvocationTestBean acts as a caretaker for memento C, which gets Name, which absquatulates, which assertionses MethodInvocation parameter of invocation.
+ExposedInvocationTestBean acts as a caretaker for memento B, which gets Name, which absquatulates, which assertionses MethodInvocation parameter of invocation.

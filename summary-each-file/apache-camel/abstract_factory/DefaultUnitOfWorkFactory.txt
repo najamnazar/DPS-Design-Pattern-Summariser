@@ -1,0 +1,2 @@
+DefaultUnitOfWorkFactory acts as a factory for UnitOfWorkFactory, which overrides createUnitOfWork method of UnitOfWorkFactory, afterPropertiesConfigured method of UnitOfWorkFactory.
+DefaultUnitOfWorkFactory acts as a product for ExtendedCamelContext, which overrides createUnitOfWork method of UnitOfWorkFactory, afterPropertiesConfigured method of UnitOfWorkFactory.

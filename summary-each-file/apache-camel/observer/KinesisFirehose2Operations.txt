@@ -1,0 +1,1 @@
+KinesisFirehose2Operations acts as an observer for publisher KinesisFirehose2Configuration, which is inherited by.

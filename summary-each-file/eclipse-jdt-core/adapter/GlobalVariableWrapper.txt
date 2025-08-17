@@ -1,0 +1,1 @@
+GlobalVariableWrapper acts as an adapter, which adapts to IGlobalVariable, which adapts to IGlobalVariable, which adapts to IGlobalVariable.

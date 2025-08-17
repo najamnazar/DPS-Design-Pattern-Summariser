@@ -1,0 +1,3 @@
+PauseAnnotationProcessorFactory acts as a caretaker for memento String, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For.
+PauseAnnotationProcessorFactory acts as a caretaker for memento C, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For.
+PauseAnnotationProcessorFactory acts as a caretaker for memento S, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For.

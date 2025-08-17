@@ -1,0 +1,1 @@
+CurrentJHParser acts as a memento, which closes Event, which closes Event, which closes Event, which closes Event.

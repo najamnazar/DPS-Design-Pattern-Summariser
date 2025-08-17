@@ -1,0 +1,1 @@
+DefaultContentTypeResolver acts as a factory for ContentTypeResolver, which overrides resolve method of ContentTypeResolver.

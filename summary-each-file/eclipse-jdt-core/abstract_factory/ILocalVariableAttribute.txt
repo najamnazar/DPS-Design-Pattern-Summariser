@@ -1,0 +1,1 @@
+ILocalVariableAttribute acts as an abstract product for ILocalVariableAttribute, which is inherited by LocalVariableAttribute.

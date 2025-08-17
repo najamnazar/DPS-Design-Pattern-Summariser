@@ -1,0 +1,1 @@
+VolumeFailureSummary acts as an observer for publisher DatanodeDescriptor, which is inherited by, which gets Failed Storage Locations, which gets Last Volume Failure Date, which gets Estimated Capacity Lost Total.

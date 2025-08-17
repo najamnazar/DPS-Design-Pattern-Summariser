@@ -1,0 +1,2 @@
+AbstractGeneratorStrategy acts as an originator for memento File, which gets a File File Root to, which gets a File Global References File to, which gets a File File to, which gets a File File to, which gets a File File to.
+AbstractGeneratorStrategy acts as an originator for memento Language.

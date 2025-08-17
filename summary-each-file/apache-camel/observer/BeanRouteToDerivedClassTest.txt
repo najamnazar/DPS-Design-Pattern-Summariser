@@ -1,0 +1,2 @@
+BeanRouteToDerivedClassTest acts as a publisher for observer Service, which is Use Route Builder, which tests Derived Class Called, which tests Derived Class Called With No Custom Processor, which tests Derived Class Called With Custom Processor, which creates Registry.
+BeanRouteToDerivedClassTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Derived Class Called, which tests Derived Class Called With No Custom Processor, which tests Derived Class Called With Custom Processor, which creates Registry.

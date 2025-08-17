@@ -1,0 +1,1 @@
+ReactiveStreamsProducer acts as an observer for publisher RxJavaCamelProcessor, which is inherited by, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which does Start, which does Stop, which gets Endpoint.

@@ -1,0 +1,1 @@
+BaseSimpleNode acts as an observer, which gets Token, which tos String.

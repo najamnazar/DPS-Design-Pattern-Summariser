@@ -1,0 +1,1 @@
+Counters acts as a facade for subsystem Counter, which incrCounter calls increment method of Counter, findCounter method of Counters.

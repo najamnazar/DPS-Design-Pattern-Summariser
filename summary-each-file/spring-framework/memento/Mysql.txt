@@ -1,0 +1,3 @@
+Mysql acts as a caretaker for memento C, which gets Catalog, which gets Tables.
+Mysql acts as a caretaker for memento Clause, which gets Catalog, which gets Tables.
+Mysql acts as a caretaker for memento Cat, which gets Catalog, which gets Tables.

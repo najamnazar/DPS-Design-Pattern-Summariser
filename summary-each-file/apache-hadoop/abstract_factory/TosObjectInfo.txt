@@ -1,0 +1,1 @@
+TosObjectInfo acts as a product for ObjectStorage, which overrides equals method of ObjectInfo, hashCode method of ObjectInfo, toString method of ObjectInfo.

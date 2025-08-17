@@ -1,0 +1,1 @@
+BuildJarIndex acts as a publisher for observer String, which is inherited by, which executes, which sets String parameter of path Jar Path, which sets String parameter of path Index Path.

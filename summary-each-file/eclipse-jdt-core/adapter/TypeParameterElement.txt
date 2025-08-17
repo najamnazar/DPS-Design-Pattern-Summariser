@@ -1,0 +1,1 @@
+TypeParameterElement acts as an adaptee for adapter TypeParameterElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl.

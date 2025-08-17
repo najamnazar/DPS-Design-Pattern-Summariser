@@ -1,0 +1,4 @@
+SwitchFlowContext acts as a publisher for observer FlowInfo, which is inherited by LabelFlowContext, LoopingFlowContext, which breaks Label, which individuals To String, which is Breakable, which records FlowInfo parameter of flowInfo Break From.
+SwitchFlowContext acts as an observer, which breaks Label, which individuals To String, which is Breakable, which records FlowInfo parameter of flowInfo Break From.
+SwitchFlowContext acts as a publisher for observer FlowInfo, which breaks Label, which individuals To String, which is Breakable, which records FlowInfo parameter of flowInfo Break From.
+SwitchFlowContext acts as a publisher for observer ASTNode, which breaks Label, which individuals To String, which is Breakable, which records FlowInfo parameter of flowInfo Break From.

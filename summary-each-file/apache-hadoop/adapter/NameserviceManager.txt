@@ -1,0 +1,1 @@
+NameserviceManager acts as an adaptee for adapter RouterAdminProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator, which adapts to ProtocolMetaInterface, ProtocolTranslator, which adapts to ProtocolMetaInterface, ProtocolTranslator.

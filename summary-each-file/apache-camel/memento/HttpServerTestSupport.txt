@@ -1,0 +1,2 @@
+HttpServerTestSupport acts as a caretaker for memento Producer, which gets Basic Http Processor, which gets Connection Reuse Strategy, which gets Http Response Factory, which gets Http Expectation Verifier, which gets SSLContext.
+HttpServerTestSupport acts as a caretaker for memento Context, which gets Basic Http Processor, which gets Connection Reuse Strategy, which gets Http Response Factory, which gets Http Expectation Verifier, which gets SSLContext.

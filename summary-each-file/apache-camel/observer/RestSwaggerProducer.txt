@@ -1,0 +1,2 @@
+RestSwaggerProducer acts as a publisher for observer AsyncProcessor, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange Async, which gets Endpoint, which is Singleton.
+RestSwaggerProducer acts as a publisher for observer Processor, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange Async, which gets Endpoint, which is Singleton.

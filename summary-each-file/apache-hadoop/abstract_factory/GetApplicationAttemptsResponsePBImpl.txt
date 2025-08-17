@@ -1,0 +1,1 @@
+GetApplicationAttemptsResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides getApplicationAttemptList method of GetApplicationAttemptsResponse, setApplicationAttemptList method of GetApplicationAttemptsResponse.

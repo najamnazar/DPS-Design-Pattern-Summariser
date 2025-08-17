@@ -1,0 +1,3 @@
+DockerStatsConsumerTest acts as a caretaker for memento Context, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.
+DockerStatsConsumerTest acts as a caretaker for memento Configuration, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.
+DockerStatsConsumerTest acts as a caretaker for memento Producer, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.

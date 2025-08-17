@@ -1,0 +1,2 @@
+BeanCachedProcessorTest acts as a publisher for observer CamelContext, which creates Route Builder, which creates Registry, which tests Fresh Bean In Context, which tests Bean With Cached, which processes Exchange parameter of exchange.
+BeanCachedProcessorTest acts as a publisher for observer Service, which creates Route Builder, which creates Registry, which tests Fresh Bean In Context, which tests Bean With Cached, which processes Exchange parameter of exchange.

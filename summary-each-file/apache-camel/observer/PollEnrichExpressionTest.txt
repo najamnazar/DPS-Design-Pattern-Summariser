@@ -1,0 +1,2 @@
+PollEnrichExpressionTest acts as a publisher for observer Service, which tests Poll Enrich Expression, which creates Route Builder.
+PollEnrichExpressionTest acts as a publisher for observer CamelContext, which tests Poll Enrich Expression, which creates Route Builder.

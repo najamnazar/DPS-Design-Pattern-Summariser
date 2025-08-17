@@ -1,0 +1,1 @@
+VolumeFailureSummary acts as an adaptee for adapter DatanodeDescriptor, which adapts to DatanodeInfo, which adapts to DatanodeInfo, which adapts to DatanodeInfo.

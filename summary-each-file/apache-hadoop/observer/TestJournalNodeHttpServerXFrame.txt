@@ -1,0 +1,1 @@
+TestJournalNodeHttpServerXFrame acts as a publisher for observer MiniJournalCluster, which is inherited by, which tests Journal Node XFrame Options Enabled, which tests Journal Node XFrame Options Disabled, which cleanups, which creates boolean parameter of enabled Cluster, which gets MiniJournalCluster parameter of journalCluster Conn.

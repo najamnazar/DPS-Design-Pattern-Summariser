@@ -1,0 +1,1 @@
+EmbeddableDefinition acts as an abstract factory for EmbeddableColumnDefinition, TableDefinition, which is inherited by DefaultEmbeddableDefinition.

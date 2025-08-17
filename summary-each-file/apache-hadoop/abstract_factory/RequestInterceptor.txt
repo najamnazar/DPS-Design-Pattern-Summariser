@@ -1,0 +1,2 @@
+RequestInterceptor acts as an abstract product for RequestInterceptor, which is inherited by AbstractRequestInterceptor.
+RequestInterceptor acts as an abstract factory for AMRMProxyApplicationContext, RequestInterceptor, which is inherited by AbstractRequestInterceptor.

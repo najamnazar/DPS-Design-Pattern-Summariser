@@ -1,0 +1,3 @@
+StringValueResolver acts as an adaptee for adapter CommonAnnotationBeanPostProcessor, which adapts to InitDestroyAnnotationBeanPostProcessor.
+StringValueResolver acts as an adaptee for adapter MethodJmsListenerEndpoint, which adapts to AbstractJmsListenerEndpoint.
+StringValueResolver acts as an adaptee for adapter FormattingConversionService, which adapts to GenericConversionService.

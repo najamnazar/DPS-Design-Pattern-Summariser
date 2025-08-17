@@ -1,0 +1,4 @@
+IPackageBinding acts as an abstract product for IPackageBinding, which is inherited by RecoveredPackageBinding.
+IPackageBinding acts as a product for IMethodBinding, which overrides getName method of IBinding.
+IPackageBinding acts as a product for ITypeBinding, which overrides getName method of IBinding.
+IPackageBinding acts as an abstract factory for IModuleBinding, which is inherited by RecoveredPackageBinding.

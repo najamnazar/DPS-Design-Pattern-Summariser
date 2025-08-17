@@ -1,0 +1,4 @@
+Meta acts as an abstract product for CatalogMetaProvider, which is inherited by AbstractMeta.
+Meta acts as a factory for Diff, which overrides.
+Meta acts as a factory for CatalogMetaProvider, which overrides.
+Meta acts as a factory for SequenceImpl, which overrides.

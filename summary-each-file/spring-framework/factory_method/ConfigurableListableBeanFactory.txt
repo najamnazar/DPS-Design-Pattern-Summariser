@@ -1,0 +1,2 @@
+ConfigurableListableBeanFactory acts as an abstract product for AutowiredAnnotationBeanPostProcessorTests, which is inherited by DefaultListableBeanFactory.
+ConfigurableListableBeanFactory acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.

@@ -1,0 +1,1 @@
+ActiveMQPropagateHeadersTest acts as a publisher for observer ArtemisService, which tests Forwarding AMessage Across JMSKeeping Custom JMSHeaders, which gets Component Name, which creates Route Builder.

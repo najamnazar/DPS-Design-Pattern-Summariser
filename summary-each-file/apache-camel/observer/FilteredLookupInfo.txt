@@ -1,0 +1,1 @@
+FilteredLookupInfo acts as an observer for publisher SObjectField, which is inherited by, which gets Controlling Fields, which sets List<String> parameter of controllingFields Controlling Fields, which gets Dependent, which sets Boolean parameter of dependent Dependent, which gets Optional Filter, which sets Boolean parameter of optionalFilter Optional Filter.

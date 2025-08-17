@@ -1,0 +1,1 @@
+SSLConnectionConfigurator acts as an adapter, which adapts to ConnectionConfigurator, which adapts to ConnectionConfigurator.

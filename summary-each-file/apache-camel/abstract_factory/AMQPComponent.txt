@@ -1,0 +1,1 @@
+AMQPComponent acts as a product for JmsComponentBuilderFactory, which overrides doInit method of JmsComponent, createEndpoint method of JmsComponent, createConfiguration method of JmsComponent.

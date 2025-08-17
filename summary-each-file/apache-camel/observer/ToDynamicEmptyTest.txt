@@ -1,0 +1,2 @@
+ToDynamicEmptyTest acts as a publisher for observer Service, which tests To Dynamic, which tests To Dynamic Empty, which creates Route Builder.
+ToDynamicEmptyTest acts as a publisher for observer CamelContext, which tests To Dynamic, which tests To Dynamic Empty, which creates Route Builder.

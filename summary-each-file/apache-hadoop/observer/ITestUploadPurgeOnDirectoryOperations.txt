@@ -1,0 +1,1 @@
+ITestUploadPurgeOnDirectoryOperations acts as a publisher for observer OperationCost, which creates Configuration, which setups, which tests Delete With Pending Upload, which tests Rename With Pending Upload, which asserts final parameter of Path, final parameter of int Upload Count, which lists Path parameter of dir Uploads.

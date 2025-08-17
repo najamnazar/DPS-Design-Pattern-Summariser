@@ -1,0 +1,1 @@
+ECSchema acts as an observer for publisher ErasureCodingPolicy, which is inherited by, which extracts String parameter of optionKey, Map<String, parameter of String> Int Option, which gets Codec Name, which gets Extra Options, which gets Num Data Units, which gets Num Parity Units, which tos String, which equals Object parameter of o, which hashes Code.

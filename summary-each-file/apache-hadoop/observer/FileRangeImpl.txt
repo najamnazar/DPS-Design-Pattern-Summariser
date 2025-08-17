@@ -1,0 +1,1 @@
+FileRangeImpl acts as an observer, which tos String, which gets Offset, which gets Length, which sets long parameter of offset Offset, which sets int parameter of length Length, which sets CompletableFuture<ByteBuffer> parameter of pReader Data, which gets Data, which gets Reference.

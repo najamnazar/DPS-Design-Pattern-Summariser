@@ -1,0 +1,2 @@
+PersistenceExceptionTranslationAdvisor acts as a caretaker for memento A, which gets Advice, which gets Pointcut.
+PersistenceExceptionTranslationAdvisor acts as a caretaker for memento Pointcut, which gets Advice, which gets Pointcut.

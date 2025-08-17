@@ -1,0 +1,2 @@
+NamespaceHandler acts as an abstract product for NamespaceHandlerResolver, which is inherited by NamespaceHandlerSupport, SimplePropertyNamespaceHandler, SimpleConstructorNamespaceHandler.
+NamespaceHandler acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.

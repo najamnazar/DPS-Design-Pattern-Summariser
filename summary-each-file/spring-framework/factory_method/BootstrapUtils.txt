@@ -1,0 +1,1 @@
+BootstrapUtils acts as a factory method for CacheAwareContextLoaderDelegate, which is inherited by BootstrapContext, AbstractTestContextBootstrapper, BootstrapContext.

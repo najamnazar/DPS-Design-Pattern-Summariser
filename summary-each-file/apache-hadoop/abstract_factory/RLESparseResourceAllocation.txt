@@ -1,0 +1,3 @@
+RLESparseResourceAllocation acts as an abstract product for RLESparseResourceAllocation, which is inherited by PeriodicRLESparseResourceAllocation, PeriodicRLESparseResourceAllocation, PeriodicRLESparseResourceAllocation, PeriodicRLESparseResourceAllocation.
+RLESparseResourceAllocation acts as an abstract product for RLESparseResourceAllocation, which is inherited by PeriodicRLESparseResourceAllocation.
+RLESparseResourceAllocation acts as an abstract product for RLESparseResourceAllocation, which is inherited by PeriodicRLESparseResourceAllocation, PeriodicRLESparseResourceAllocation.

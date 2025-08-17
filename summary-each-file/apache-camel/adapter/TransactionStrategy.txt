@@ -1,0 +1,2 @@
+TransactionStrategy acts as an adaptee for adapter JpaEndpoint, which adapts to ScheduledPollEndpoint.
+TransactionStrategy acts as an adaptee for adapter JpaComponent, which adapts to DefaultComponent.

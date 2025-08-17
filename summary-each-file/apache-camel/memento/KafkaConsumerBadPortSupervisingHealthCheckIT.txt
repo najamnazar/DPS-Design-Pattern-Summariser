@@ -1,0 +1,2 @@
+KafkaConsumerBadPortSupervisingHealthCheckIT acts as a caretaker for memento Context, which befores, which befores Class, which sets Kafka Admin Client, which afters, which creates Camel Context, which creates Route Builder, which kafkas Consumer Health Check.
+KafkaConsumerBadPortSupervisingHealthCheckIT acts as a caretaker for memento Producer, which befores, which befores Class, which sets Kafka Admin Client, which afters, which creates Camel Context, which creates Route Builder, which kafkas Consumer Health Check.

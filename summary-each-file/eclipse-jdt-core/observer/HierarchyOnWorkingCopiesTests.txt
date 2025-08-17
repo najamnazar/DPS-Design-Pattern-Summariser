@@ -1,0 +1,1 @@
+HierarchyOnWorkingCopiesTests acts as a publisher for observer ICompilationUnit, which suites, which sets Up, which tests Simple Sub Type Hierarchy, which tests Simple Super Type Hierarchy, which test228845s, which test228845bs, which test400905s, which test400905as, which test400905bs, which test429435s, which test429537s, which test442534s, which test450442s.

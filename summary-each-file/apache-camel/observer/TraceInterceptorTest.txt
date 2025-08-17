@@ -1,0 +1,2 @@
+TraceInterceptorTest acts as a publisher for observer CamelContext, which tests Sending Some Messages, which creates Route Builder.
+TraceInterceptorTest acts as a publisher for observer Service, which tests Sending Some Messages, which creates Route Builder.

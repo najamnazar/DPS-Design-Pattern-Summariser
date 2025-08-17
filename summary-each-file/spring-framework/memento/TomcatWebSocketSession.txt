@@ -1,0 +1,2 @@
+TomcatWebSocketSession acts as a caretaker for memento A, which cans Suspend Receiving, which suspends Receiving, which resumes Receiving.
+TomcatWebSocketSession acts as a caretaker for memento Headers, which cans Suspend Receiving, which suspends Receiving, which resumes Receiving.

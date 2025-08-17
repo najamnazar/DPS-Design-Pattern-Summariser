@@ -1,0 +1,1 @@
+CompletionOnExportReference acts as an observer, which prints int parameter of indent, StringBuilder parameter of output.

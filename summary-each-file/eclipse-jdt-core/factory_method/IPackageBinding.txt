@@ -1,0 +1,2 @@
+IPackageBinding acts as a factory for ModuleDeclaration, which overrides.
+IPackageBinding acts as an abstract product for RecoveredTypeBinding, which is inherited by RecoveredPackageBinding.

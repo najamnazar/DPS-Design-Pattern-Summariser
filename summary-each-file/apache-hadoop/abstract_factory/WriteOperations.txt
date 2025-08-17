@@ -1,0 +1,1 @@
+WriteOperations acts as an abstract factory for Configuration, which is inherited by WriteOperationHelper.

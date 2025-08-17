@@ -1,0 +1,1 @@
+ConsulService acts as an adaptee for adapter SpringConsulServiceCallRouteTest, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.

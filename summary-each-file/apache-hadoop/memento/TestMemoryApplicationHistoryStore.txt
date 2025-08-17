@@ -1,0 +1,1 @@
+TestMemoryApplicationHistoryStore acts as a caretaker for memento ApplicationHistoryStore, which setups, which tests Read Write Application History, which tests Read Write Application Attempt History, which tests Read Write Container History, which tests Massive Write Container History.

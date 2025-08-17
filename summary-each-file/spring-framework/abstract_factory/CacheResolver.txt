@@ -1,0 +1,1 @@
+CacheResolver acts as an abstract product for CacheResolver, which is inherited by TestableCacheResolver, CacheResolverAdapter, AbstractCacheResolver.

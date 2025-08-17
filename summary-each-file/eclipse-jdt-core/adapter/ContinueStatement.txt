@@ -1,0 +1,1 @@
+ContinueStatement acts as a target for adapter CompletionOnContinueStatement, which adapts to ContinueStatement, which adapts to ContinueStatement, which adapts to ContinueStatement.

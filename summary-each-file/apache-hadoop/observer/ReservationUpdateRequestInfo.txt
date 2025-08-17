@@ -1,0 +1,1 @@
+ReservationUpdateRequestInfo acts as a publisher for observer ReservationDefinitionInfo, which is inherited by, which gets Reservation Id, which sets String parameter of reservationId Reservation Id, which gets Reservation Definition, which sets ReservationDefinitionInfo parameter of reservationDefinition Reservation Definition.

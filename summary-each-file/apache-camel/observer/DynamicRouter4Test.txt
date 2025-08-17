@@ -1,0 +1,2 @@
+DynamicRouter4Test acts as a publisher for observer CamelContext, which tests Dynamic Router, which creates Route Builder, which slips Exchange parameter of exchange.
+DynamicRouter4Test acts as a publisher for observer Service, which tests Dynamic Router, which creates Route Builder, which slips Exchange parameter of exchange.

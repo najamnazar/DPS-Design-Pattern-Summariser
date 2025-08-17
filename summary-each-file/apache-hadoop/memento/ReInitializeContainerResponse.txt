@@ -1,0 +1,2 @@
+ReInitializeContainerResponse acts as a memento, which is inherited by ReInitializeContainerResponsePBImpl, which news Instance.
+ReInitializeContainerResponse acts as an originator for memento ReInitializeContainerResponse, which is inherited by, which news a ReInitializeContainerResponse Instance to.

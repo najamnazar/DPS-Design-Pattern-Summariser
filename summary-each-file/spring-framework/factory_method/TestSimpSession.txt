@@ -1,0 +1,1 @@
+TestSimpSession acts as a product for SimpSubscription, which overrides getId method of SimpSession, getSubscriptions method of SimpSession.

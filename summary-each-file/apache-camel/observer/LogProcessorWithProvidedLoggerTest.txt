@@ -1,0 +1,2 @@
+LogProcessorWithProvidedLoggerTest acts as a publisher for observer Service, which sets Up, which tests Log Processor With Registry Logger, which tests Log Processor With Provided Logger, which creates Camel Context, which creates Route Builder.
+LogProcessorWithProvidedLoggerTest acts as a publisher for observer CamelContext, which sets Up, which tests Log Processor With Registry Logger, which tests Log Processor With Provided Logger, which creates Camel Context, which creates Route Builder.

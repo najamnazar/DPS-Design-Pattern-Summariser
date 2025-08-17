@@ -1,0 +1,1 @@
+AnnotationProcessorFactory acts as an originator for memento AnnotationProcessor, which is inherited by, which gets an AnnotationProcessor Processor For to.

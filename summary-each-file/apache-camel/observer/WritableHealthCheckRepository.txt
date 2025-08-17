@@ -1,0 +1,2 @@
+WritableHealthCheckRepository acts as an observer, which adds HealthCheck parameter of healthCheck Health Check, which removes HealthCheck parameter of healthCheck Health Check.
+WritableHealthCheckRepository acts as a publisher for observer HealthCheck, which is inherited by ComponentsHealthCheckRepository, which adds HealthCheck parameter of healthCheck Health Check, which removes HealthCheck parameter of healthCheck Health Check.

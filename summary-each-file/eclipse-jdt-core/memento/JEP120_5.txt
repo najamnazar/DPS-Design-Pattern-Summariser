@@ -1,0 +1,2 @@
+JEP120_5 acts as a caretaker for memento String.
+JEP120_5 acts as a caretaker for memento S.

@@ -1,0 +1,1 @@
+DefaultProducer acts as a component for decorator SynchronousDelegateProducer, which overrides toStringProducer, getEndpointProducer, isSingletonProducer, doStartProducer, doStopProducer.

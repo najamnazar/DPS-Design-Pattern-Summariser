@@ -1,0 +1,1 @@
+KillApplicationRequest acts as a publisher for observer ApplicationId, which is inherited by KillApplicationRequestPBImpl, which news ApplicationId parameter of applicationId Instance, which gets Application Id, which sets ApplicationId parameter of applicationId Application Id, which gets Diagnostics, which sets String parameter of diagnostics Diagnostics.

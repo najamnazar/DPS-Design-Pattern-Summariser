@@ -1,0 +1,1 @@
+IField acts as an observer for publisher IJavaElementRequestor, JavaElementRequestor, which is inherited by BinaryField, SourceField, which gets Constant, which gets Element Name, which gets Key, which gets Type Signature, which is Enum Constant, which is Resolved, which is Record Component.

@@ -1,0 +1,3 @@
+GetNewReservationRequestPBImpl acts as an originator for memento GetNewReservationRequest.
+GetNewReservationRequestPBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+GetNewReservationRequestPBImpl acts as a caretaker for memento GetNewReservationRequest, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.

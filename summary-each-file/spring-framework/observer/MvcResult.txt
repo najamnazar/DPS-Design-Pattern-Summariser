@@ -1,0 +1,1 @@
+MvcResult acts as an observer for publisher MockMvcHttpConnector, which is inherited by StubMvcResult, DefaultMvcResult, which gets Request, which gets Response, which gets Handler, which gets Interceptors, which gets Model And View, which gets Resolved Exception, which gets Flash Map, which gets Async Result, which gets long parameter of timeToWait Async Result.

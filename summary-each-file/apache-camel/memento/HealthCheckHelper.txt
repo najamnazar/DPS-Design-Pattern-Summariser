@@ -1,0 +1,1 @@
+HealthCheckHelper acts as an originator for memento HealthCheck, which gets a HealthCheck Health Check to, which gets HealthCheck parameter of check Group.

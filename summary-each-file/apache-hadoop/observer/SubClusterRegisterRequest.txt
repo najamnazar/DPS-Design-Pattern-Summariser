@@ -1,0 +1,1 @@
+SubClusterRegisterRequest acts as a publisher for observer SubClusterInfo, which is inherited by SubClusterRegisterRequestPBImpl, which news SubClusterInfo parameter of subClusterInfo Instance, which gets Sub Cluster Info, which sets SubClusterInfo parameter of subClusterInfo Sub Cluster Info.

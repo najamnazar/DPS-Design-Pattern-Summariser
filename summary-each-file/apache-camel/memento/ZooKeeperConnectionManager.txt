@@ -1,0 +1,1 @@
+ZooKeeperConnectionManager acts as a caretaker for memento Configuration, which gets Connection, which gets Connection, which shutdowns, which gets Connection, which shutdowns, which shutdowns.

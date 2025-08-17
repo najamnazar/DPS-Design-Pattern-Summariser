@@ -1,0 +1,2 @@
+OperatorInstanceof acts as a caretaker for memento C, which gets ExpressionState parameter of state Value Internal, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code.
+OperatorInstanceof acts as a caretaker for memento Keyword, which gets ExpressionState parameter of state Value Internal, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code.

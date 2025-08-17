@@ -1,0 +1,2 @@
+InterceptSendToMockEndpointStrategyTest acts as a publisher for observer CamelContext, which tests Advised Mock Endpoints, which tests Advised Mock Endpoints With Pattern, which is Use Route Builder.
+InterceptSendToMockEndpointStrategyTest acts as a publisher for observer Service, which tests Advised Mock Endpoints, which tests Advised Mock Endpoints With Pattern, which is Use Route Builder.

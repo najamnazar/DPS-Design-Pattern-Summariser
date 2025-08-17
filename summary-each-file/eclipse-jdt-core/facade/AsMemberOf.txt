@@ -1,0 +1,1 @@
+AsMemberOf acts as a facade for subsystem C, D, which publicize calls m method of AsMemberOf, x method of D, x method of C.

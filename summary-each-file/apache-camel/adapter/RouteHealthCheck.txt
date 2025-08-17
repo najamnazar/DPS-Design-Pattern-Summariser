@@ -1,0 +1,1 @@
+RouteHealthCheck acts as a target for adapter ConsumerHealthCheck, which adapts to RouteHealthCheck, which adapts to RouteHealthCheck, which adapts to RouteHealthCheck.

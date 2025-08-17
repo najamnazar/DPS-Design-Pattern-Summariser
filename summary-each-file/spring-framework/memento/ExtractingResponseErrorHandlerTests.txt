@@ -1,0 +1,2 @@
+ExtractingResponseErrorHandlerTests acts as a caretaker for memento C, which setups, which has Error, which has Error Override, which handles Error Status Match, which handles Error Series Match, which handles No Match, which handles No Match Override, which gets Foo.
+ExtractingResponseErrorHandlerTests acts as a caretaker for memento ClientHttpResponse, which setups, which has Error, which has Error Override, which handles Error Status Match, which handles Error Series Match, which handles No Match, which handles No Match Override, which gets Foo.

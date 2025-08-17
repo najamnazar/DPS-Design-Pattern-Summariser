@@ -1,0 +1,1 @@
+ITestS3AEncryptionAlgorithmValidation acts as a publisher for observer AuditSpanSource, which tests Encryption Algorithm Set To DES, which tests Encryption Algorithm SSECWith No Encryption Key, which tests Encryption Algorithm SSECWith Blank Encryption Key, which tests Encryption Algorithm SSES3With Encryption Key, which mkdirses Path parameter of path.

@@ -1,0 +1,1 @@
+StatisticsItemInfo acts as an observer for publisher ApplicationStatisticsInfo, which is inherited by, which gets State, which gets Type, which gets Count, which sets long parameter of count Count.

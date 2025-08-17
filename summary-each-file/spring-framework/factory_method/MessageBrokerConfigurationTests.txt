@@ -1,0 +1,1 @@
+MessageBrokerConfigurationTests acts as a factory method for SimpUserRegistry, which is inherited by AbstractMessageBrokerConfiguration, WebSocketMessageBrokerConfigurationSupport.

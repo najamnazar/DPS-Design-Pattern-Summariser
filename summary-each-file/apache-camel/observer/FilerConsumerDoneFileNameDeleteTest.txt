@@ -1,0 +1,2 @@
+FilerConsumerDoneFileNameDeleteTest acts as a publisher for observer CamelContext, which tests Done File, which creates Route Builder.
+FilerConsumerDoneFileNameDeleteTest acts as a publisher for observer Service, which tests Done File, which creates Route Builder.

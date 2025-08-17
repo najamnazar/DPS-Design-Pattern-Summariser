@@ -1,0 +1,1 @@
+ManagedUnmarshal acts as a publisher for observer Route, which gets Definition, which gets Data Format Name.

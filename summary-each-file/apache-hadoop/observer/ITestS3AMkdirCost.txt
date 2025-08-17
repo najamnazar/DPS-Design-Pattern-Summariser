@@ -1,0 +1,1 @@
+ITestS3AMkdirCost acts as a publisher for observer OperationCost, which tests Mkdir Over Dir, which tests Mkdir With Parent, which tests Mkdir With Grandparent, which tests Mkdir Over File.

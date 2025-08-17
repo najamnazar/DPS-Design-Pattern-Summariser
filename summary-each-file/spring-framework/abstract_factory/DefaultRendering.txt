@@ -1,0 +1,2 @@
+DefaultRendering acts as a product for Rendering, which overrides view method of Rendering, modelAttributes method of Rendering, status method of Rendering, headers method of Rendering.
+DefaultRendering acts as a factory for Rendering, which overrides view method of Rendering, modelAttributes method of Rendering, status method of Rendering, headers method of Rendering.

@@ -1,0 +1,2 @@
+PathFilter acts as a publisher for observer Path, which is inherited by OutputLogFilter, which accepts Path parameter of path.
+PathFilter acts as an observer for publisher FileInputFormat, AutoInputFormat, which is inherited by OutputLogFilter, which accepts Path parameter of path.

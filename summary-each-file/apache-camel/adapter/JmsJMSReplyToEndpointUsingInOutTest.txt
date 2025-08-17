@@ -1,0 +1,1 @@
+JmsJMSReplyToEndpointUsingInOutTest acts as an adapter, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest.

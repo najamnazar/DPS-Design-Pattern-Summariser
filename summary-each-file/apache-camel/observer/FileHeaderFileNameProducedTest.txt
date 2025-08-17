@@ -1,0 +1,2 @@
+FileHeaderFileNameProducedTest acts as a publisher for observer Service, which tests Header File Name Produced, which creates Route Builder.
+FileHeaderFileNameProducedTest acts as a publisher for observer CamelContext, which tests Header File Name Produced, which creates Route Builder.

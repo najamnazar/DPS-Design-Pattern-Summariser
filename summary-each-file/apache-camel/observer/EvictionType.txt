@@ -1,0 +1,1 @@
+EvictionType acts as an observer for publisher CaffeineConfiguration, which is inherited by, which gets String parameter of name Eviction Type, which tos String.

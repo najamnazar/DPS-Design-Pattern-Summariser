@@ -1,0 +1,2 @@
+FileMulticastDeleteTest acts as a publisher for observer CamelContext, which tests File Multicast Delete, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+FileMulticastDeleteTest acts as a publisher for observer Service, which tests File Multicast Delete, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

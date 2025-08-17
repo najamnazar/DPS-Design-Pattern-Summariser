@@ -1,0 +1,1 @@
+TestCompilationParticipant acts as a caretaker for memento C, which is IJavaProject parameter of project Active, which reconciles ReconcileContext parameter of context.

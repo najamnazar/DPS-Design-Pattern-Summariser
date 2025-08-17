@@ -1,0 +1,2 @@
+SplitTokenizerGroupTest acts as a publisher for observer CamelContext, which tests Split Tokenizer A, which tests Split Tokenizer B, which creates Route Builder.
+SplitTokenizerGroupTest acts as a publisher for observer Service, which tests Split Tokenizer A, which tests Split Tokenizer B, which creates Route Builder.

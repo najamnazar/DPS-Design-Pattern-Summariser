@@ -1,0 +1,1 @@
+JmsInOutSynchronousFalseTest acts as a publisher for observer ArtemisService, which sends Message, which tests Synchronous, which gets Component Name, which creates Route Builder.

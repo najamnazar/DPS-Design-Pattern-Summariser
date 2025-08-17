@@ -1,0 +1,1 @@
+ZoneSelector acts as an adaptee for adapter RegistryDNS, which adapts to AbstractService.

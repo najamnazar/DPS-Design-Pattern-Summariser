@@ -1,0 +1,1 @@
+PersistenceExceptionTranslator acts as an observer for publisher PersistenceExceptionTranslationInterceptor, which is inherited by AbstractEntityManagerFactoryBean, JpaDialect, HibernateExceptionTranslator, ChainedPersistenceExceptionTranslator, which translates RuntimeException parameter of ex Exception If Possible.

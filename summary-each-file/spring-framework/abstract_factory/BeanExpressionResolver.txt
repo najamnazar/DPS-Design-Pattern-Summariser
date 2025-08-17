@@ -1,0 +1,1 @@
+BeanExpressionResolver acts as an abstract product for BeanExpressionResolver, which is inherited by StandardBeanExpressionResolver.

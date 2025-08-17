@@ -1,0 +1,11 @@
+SuffixConstants acts as an adaptee for adapter PackageFragment.
+SuffixConstants acts as an adaptee for adapter SourceIndexer.
+SuffixConstants acts as an adaptee for adapter IndexBasedHierarchyBuilder.
+SuffixConstants acts as an adaptee for adapter BinaryType.
+SuffixConstants acts as an adaptee for adapter CompletionEngine.
+SuffixConstants acts as an adaptee for adapter BinaryIndexer.
+SuffixConstants acts as an adaptee for adapter JavaProject.
+SuffixConstants acts as an adaptee for adapter CopyResourceElementsOperation.
+SuffixConstants acts as an adaptee for adapter HierarchyScope.
+SuffixConstants acts as an adaptee for adapter DOMCompilationUnit.
+SuffixConstants acts as an adaptee for adapter AbstractClassFile.

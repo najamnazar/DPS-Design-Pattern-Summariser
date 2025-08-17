@@ -1,0 +1,1 @@
+ContentNegotiationStrategy acts as an observer for publisher ContentNegotiationManagerFactoryBean, which is inherited by ContentNegotiationManager, AbstractMappingContentNegotiationStrategy, FixedContentNegotiationStrategy, HeaderContentNegotiationStrategy, which resolves NativeWebRequest parameter of webRequest Media Types.

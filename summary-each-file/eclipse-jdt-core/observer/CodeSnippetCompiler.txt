@@ -1,0 +1,2 @@
+CodeSnippetCompiler acts as an observer, which initializes Parser.
+CodeSnippetCompiler acts as a publisher for observer CompilationUnitDeclaration, which initializes Parser.

@@ -1,0 +1,1 @@
+AppState acts as an observer for publisher EntityGroupFSTimelineStore, which is inherited by, which sets String parameter of state State, which gets State, which gets Diagnostics, which sets String parameter of diagnostics Diagnostics.

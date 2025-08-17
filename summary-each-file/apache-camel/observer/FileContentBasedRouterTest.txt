@@ -1,0 +1,2 @@
+FileContentBasedRouterTest acts as a publisher for observer Service, which sends Files, which tests Route London, which tests Route Paris, which tests Route Other, which creates Route Builder.
+FileContentBasedRouterTest acts as a publisher for observer CamelContext, which sends Files, which tests Route London, which tests Route Paris, which tests Route Other, which creates Route Builder.

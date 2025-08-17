@@ -1,0 +1,1 @@
+ContainerLogsPage acts as an adapter, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView.

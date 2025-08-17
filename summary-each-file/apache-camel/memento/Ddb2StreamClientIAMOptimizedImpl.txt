@@ -1,0 +1,2 @@
+Ddb2StreamClientIAMOptimizedImpl acts as a memento, which gets Dynamo DBStream Client.
+Ddb2StreamClientIAMOptimizedImpl acts as a caretaker for memento Configuration, which gets Dynamo DBStream Client.

@@ -1,0 +1,1 @@
+AbstractProcessor acts as a factory for Processor, which overrides getSupportedOptions method of Processor, getSupportedAnnotationTypes method of Processor, getSupportedSourceVersion method of Processor, process method of Processor, getCompletions method of Processor.

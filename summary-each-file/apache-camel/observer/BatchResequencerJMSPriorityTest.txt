@@ -1,0 +1,2 @@
+BatchResequencerJMSPriorityTest acts as a publisher for observer CamelContext, which tests Batch Resequencer JMSPriority, which creates Route Builder.
+BatchResequencerJMSPriorityTest acts as a publisher for observer Service, which tests Batch Resequencer JMSPriority, which creates Route Builder.

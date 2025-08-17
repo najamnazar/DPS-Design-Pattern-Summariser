@@ -1,0 +1,1 @@
+AnnotationValue acts as an adaptee for adapter MessagerProc, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts to AbstractProcessor.

@@ -1,0 +1,1 @@
+S3AInternals acts as an abstract factory for S3AStore, which is inherited by.

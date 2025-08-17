@@ -1,0 +1,2 @@
+LongConstant acts as a publisher for observer Constant, which bytes Value, which chars Value, which doubles Value, which floats Value, which ints Value, which longs Value, which shorts Value, which strings Value, which tos String, which types ID.
+LongConstant acts as an observer, which bytes Value, which chars Value, which doubles Value, which floats Value, which ints Value, which longs Value, which shorts Value, which strings Value, which tos String, which types ID.

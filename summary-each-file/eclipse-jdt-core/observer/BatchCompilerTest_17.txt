@@ -1,0 +1,1 @@
+BatchCompilerTest_17 acts as a publisher for observer String, which suites, which tests Class, which tests Parallel Compilation, which compiles String[] parameter of sources Parallel, which compiles String[] parameter of sources, CountDownLatch parameter of startLatch, which tests GHI1774_Expression.

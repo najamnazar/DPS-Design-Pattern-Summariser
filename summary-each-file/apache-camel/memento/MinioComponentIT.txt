@@ -1,0 +1,1 @@
+MinioComponentIT acts as a caretaker for memento Producer, which sends In Only, which sends In Out, which asserts Exchange parameter of resultExchange Result Exchange, which asserts Message parameter of message Response Message, which creates Route Builder.

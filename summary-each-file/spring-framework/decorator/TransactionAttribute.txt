@@ -1,0 +1,1 @@
+TransactionAttribute acts as a component for DelegatingTransactionAttribute, which is inherited by DefaultTransactionAttribute, DefaultTransactionAttribute, DefaultTransactionAttribute.

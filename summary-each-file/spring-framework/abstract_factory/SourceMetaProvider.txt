@@ -1,0 +1,1 @@
+SourceMetaProvider acts as a factory for MetaProvider, which overrides provide method of MetaProvider.

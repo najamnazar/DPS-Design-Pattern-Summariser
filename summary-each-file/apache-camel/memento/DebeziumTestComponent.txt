@@ -1,0 +1,1 @@
+DebeziumTestComponent acts as a caretaker for memento Configuration, which gets Configuration, which sets FileConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, FileConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

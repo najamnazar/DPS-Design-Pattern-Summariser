@@ -1,0 +1,1 @@
+SplitCompressionInputStream acts as an adaptee for adapter CompressedSplitLineReader, which adapts to SplitLineReader, which adapts to SplitLineReader, which adapts to SplitLineReader, which adapts to SplitLineReader.

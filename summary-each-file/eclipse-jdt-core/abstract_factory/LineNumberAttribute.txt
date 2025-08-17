@@ -1,0 +1,1 @@
+LineNumberAttribute acts as a product for ICodeAttribute, which overrides getLineNumberTable method of ILineNumberAttribute, getLineNumberTableLength method of ILineNumberAttribute.

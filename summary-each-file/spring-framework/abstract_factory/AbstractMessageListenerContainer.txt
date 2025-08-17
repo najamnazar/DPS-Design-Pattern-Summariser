@@ -1,0 +1,1 @@
+AbstractMessageListenerContainer acts as a factory for MessageListenerContainer, which overrides isReplyPubSubDomain method of MessageListenerContainer, getReplyQosSettings method of MessageListenerContainer, getMessageConverter method of MessageListenerContainer, setupMessageListener method of MessageListenerContainer.

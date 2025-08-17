@@ -1,0 +1,2 @@
+PropertiesComponentAdviceWithInterceptSendToEndpointTest acts as a publisher for observer CamelContext, which tests Advice With Intercept Send To Endpoint, which creates Route Builder, which creates Camel Context.
+PropertiesComponentAdviceWithInterceptSendToEndpointTest acts as a publisher for observer Service, which tests Advice With Intercept Send To Endpoint, which creates Route Builder, which creates Camel Context.

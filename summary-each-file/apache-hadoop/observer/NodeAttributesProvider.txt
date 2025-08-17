@@ -1,0 +1,1 @@
+NodeAttributesProvider acts as an observer for publisher NodeStatusUpdater, NodeStatusUpdaterImpl, which is inherited by ScriptBasedNodeAttributesProvider, ConfigurationNodeAttributesProvider.

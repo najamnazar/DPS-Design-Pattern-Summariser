@@ -1,0 +1,2 @@
+CustomDataFormat acts as an observer, which gets Ref, which sets String parameter of ref Ref, which tos String, which refs String parameter of ref, which ends.
+CustomDataFormat acts as a publisher for observer DataFormat, which gets Ref, which sets String parameter of ref Ref, which tos String, which refs String parameter of ref, which ends.

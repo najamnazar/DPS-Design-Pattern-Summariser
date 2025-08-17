@@ -1,0 +1,3 @@
+ReflectiveConstructorResolver acts as a caretaker for memento A, which resolves EvaluationContext parameter of context, String parameter of typeName, List<TypeDescriptor> parameter of argumentTypes.
+ReflectiveConstructorResolver acts as a caretaker for memento B, which resolves EvaluationContext parameter of context, String parameter of typeName, List<TypeDescriptor> parameter of argumentTypes.
+ReflectiveConstructorResolver acts as a caretaker for memento C, which resolves EvaluationContext parameter of context, String parameter of typeName, List<TypeDescriptor> parameter of argumentTypes.

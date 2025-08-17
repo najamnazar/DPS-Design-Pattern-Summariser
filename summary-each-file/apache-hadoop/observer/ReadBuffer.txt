@@ -1,0 +1,1 @@
+ReadBuffer acts as an observer for publisher ReadBufferManager, ReadBufferManagerV2, ReadBufferManagerV1, which is inherited by, which locks, which unlocks, which awaits STATUS parameter of waitStatus, which signals All, which gets Buffer, which gets Status, which sets STATUS parameter of status Status, which gets Byte Start, which gets Byte End.

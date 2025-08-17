@@ -1,0 +1,2 @@
+SimpSubscription acts as a factory for SimpSubscription, which overrides.
+SimpSubscription acts as a factory method for SimpSession, which is inherited by SimpSubscription, SimpUser.

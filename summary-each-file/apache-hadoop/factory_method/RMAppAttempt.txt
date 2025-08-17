@@ -1,0 +1,2 @@
+RMAppAttempt acts as a factory for RMAppAttemptImpl, which overrides.
+RMAppAttempt acts as an abstract product for RMAppAttemptBlock, which is inherited by RMAppAttemptImpl.

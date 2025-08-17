@@ -1,0 +1,1 @@
+AbstractValueAdaptingCache acts as a component for decorator TransactionAwareCacheDecorator, which overrides getCache, getCache.

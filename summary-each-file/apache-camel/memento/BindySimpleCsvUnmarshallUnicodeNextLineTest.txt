@@ -1,0 +1,1 @@
+BindySimpleCsvUnmarshallUnicodeNextLineTest acts as a caretaker for memento Producer, which tests Unicode Next Line Character Parsing, which configures.

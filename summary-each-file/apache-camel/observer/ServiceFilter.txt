@@ -1,0 +1,1 @@
+ServiceFilter acts as an observer for publisher ServiceCallConfigurationDefinition, which is inherited by PassThroughServiceFilter, DefaultServiceFilter, HealthyServiceFilter, CombinedServiceFilter, BlacklistServiceFilter, which applies Exchange parameter of exchange, List<ServiceDefinition> parameter of services.

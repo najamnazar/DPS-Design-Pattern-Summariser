@@ -1,0 +1,1 @@
+DefaultXAdESSignatureProperties acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware.

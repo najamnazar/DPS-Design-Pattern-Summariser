@@ -1,0 +1,1 @@
+UniqueKeyDefinition acts as a memento, which is inherited by DefaultUniqueKeyDefinition, which resolves Referenced Key, which resolves Referenced Key, which resolves Referenced Key, which resolves Referenced Key.

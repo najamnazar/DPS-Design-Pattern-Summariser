@@ -1,0 +1,1 @@
+FpgaDevice acts as an observer for publisher FpgaResourceAllocator, which is inherited by, which gets Type, which gets Major, which gets Minor, which gets IPID, which gets Aocx Hash, which sets String parameter of hash Aocx Hash, which sets String parameter of IPID IPID, which gets Alias Dev Name, which equals Object parameter of obj, which hashes Code, which tos String.

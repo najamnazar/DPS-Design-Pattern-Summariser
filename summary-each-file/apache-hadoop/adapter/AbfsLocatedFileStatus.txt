@@ -1,0 +1,1 @@
+AbfsLocatedFileStatus acts as an adapter, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus.

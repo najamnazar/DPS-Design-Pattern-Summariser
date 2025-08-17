@@ -1,0 +1,2 @@
+OnExceptionRouteIdTest acts as a publisher for observer Service, which tests On Exception Route Id, which creates Route Builder.
+OnExceptionRouteIdTest acts as a publisher for observer CamelContext, which tests On Exception Route Id, which creates Route Builder.

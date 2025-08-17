@@ -1,0 +1,3 @@
+RedirectAttributes acts as an abstract product for RedirectAttributes, which is inherited by RedirectAttributesModelMap, RedirectAttributesModelMap, RedirectAttributesModelMap, RedirectAttributesModelMap, RedirectAttributesModelMap, RedirectAttributesModelMap.
+RedirectAttributes acts as an abstract factory for RedirectAttributes, which is inherited by RedirectAttributesModelMap.
+RedirectAttributes acts as a product for Model, which overrides.

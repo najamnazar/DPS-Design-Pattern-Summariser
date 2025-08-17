@@ -1,0 +1,2 @@
+RouteConfigurationPreconditionTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Route Configuration Included, which tests Route Configuration Excluded, which creates Route Builder.
+RouteConfigurationPreconditionTest acts as a publisher for observer Service, which is Use Route Builder, which tests Route Configuration Included, which tests Route Configuration Excluded, which creates Route Builder.

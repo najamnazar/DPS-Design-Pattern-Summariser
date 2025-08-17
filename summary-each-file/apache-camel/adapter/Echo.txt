@@ -1,0 +1,1 @@
+Echo acts as an adaptee for adapter CamelProduceInterfaceTest, which adapts to ContextTestSupport.

@@ -1,0 +1,1 @@
+AMQ2611Test acts as a caretaker for memento Context, which consumes @Body parameter of String, which creates Camel Context, which destroys Camel Context, which tests Connections.

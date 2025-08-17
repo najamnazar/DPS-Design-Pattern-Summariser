@@ -1,0 +1,1 @@
+AttachmentHttpBinding acts as a publisher for observer HeaderFilterStrategy, which populates HttpServletRequest parameter of request, HttpMessage parameter of message Attachments, which gets Submitted File Name, which gets Output Stream, which gets Name, which gets Input Stream, which gets Content Type.

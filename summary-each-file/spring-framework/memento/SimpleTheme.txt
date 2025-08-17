@@ -1,0 +1,2 @@
+SimpleTheme acts as a memento, which gets Message Source, which gets Message Source.
+SimpleTheme acts as a caretaker for memento Message, which gets Name, which gets Message Source.

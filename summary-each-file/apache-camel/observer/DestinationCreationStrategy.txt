@@ -1,0 +1,1 @@
+DestinationCreationStrategy acts as an observer for publisher SjmsEndpoint, Sjms2Endpoint, which is inherited by DefaultDestinationCreationStrategy, which creates Session parameter of session, String parameter of name, boolean parameter of topic Destination, which creates Session parameter of session, boolean parameter of topic Temporary Destination.

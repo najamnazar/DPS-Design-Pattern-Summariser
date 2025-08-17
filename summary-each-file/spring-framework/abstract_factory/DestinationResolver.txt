@@ -1,0 +1,1 @@
+DestinationResolver acts as an abstract product for DestinationResolver, which is inherited by CachingDestinationResolver, DynamicDestinationResolver, BeanFactoryDestinationResolver.

@@ -1,0 +1,1 @@
+HealthCheckResolver acts as a factory for DefaultHealthCheckRegistry, which overrides.

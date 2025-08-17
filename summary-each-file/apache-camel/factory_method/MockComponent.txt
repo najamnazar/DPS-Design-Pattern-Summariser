@@ -1,0 +1,1 @@
+MockComponent acts as a factory for LogComponent, which overrides.

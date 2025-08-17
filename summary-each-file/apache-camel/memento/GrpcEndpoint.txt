@@ -1,0 +1,3 @@
+GrpcEndpoint acts as a caretaker for memento Configuration, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Init, which gets Service Name, which gets Service Package.
+GrpcEndpoint acts as a caretaker for memento Context, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Init, which gets Service Name, which gets Service Package.
+GrpcEndpoint acts as a caretaker for memento Component, which gets Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Init, which gets Service Name, which gets Service Package.

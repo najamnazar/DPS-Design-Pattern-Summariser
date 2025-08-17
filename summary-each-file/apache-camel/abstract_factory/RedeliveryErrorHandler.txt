@@ -1,0 +1,3 @@
+RedeliveryErrorHandler acts as a factory for ErrorHandlerRedeliveryCustomizer, which overrides changeOutput method of ErrorHandlerRedeliveryCustomizer, getOutput method of ErrorHandlerRedeliveryCustomizer, determineIfRedeliveryIsEnabled method of ErrorHandlerRedeliveryCustomizer.
+RedeliveryErrorHandler acts as a product for InternalProcessorFactory, which overrides processAsync method of AsyncProcessor.
+RedeliveryErrorHandler acts as a product for AnnotationBasedProcessorFactory, which overrides processAsync method of AsyncProcessor.

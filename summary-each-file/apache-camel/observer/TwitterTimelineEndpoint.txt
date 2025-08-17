@@ -1,0 +1,1 @@
+TwitterTimelineEndpoint acts as a publisher for observer TwitterConfiguration, which gets User, which sets String parameter of user User, which gets List, which sets String parameter of list List, which creates Producer, which creates Processor parameter of processor Consumer, which gets Timeline Type.

@@ -1,0 +1,1 @@
+RuleBasedLdapGroupsMapping acts as a publisher for observer Configuration, which sets Configuration parameter of conf Conf, which gets String parameter of user Groups, which gets String parameter of user Groups Set.

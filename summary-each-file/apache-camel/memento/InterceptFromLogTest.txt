@@ -1,0 +1,2 @@
+InterceptFromLogTest acts as a caretaker for memento Producer, which tests Interceptor, which creates Route Builder.
+InterceptFromLogTest acts as a caretaker for memento Context, which tests Interceptor, which creates Route Builder.

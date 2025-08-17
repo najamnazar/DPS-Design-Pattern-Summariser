@@ -1,0 +1,2 @@
+CaseLabel acts as a caretaker for memento S, which branches, which branches Wide, which is Standard Label, which places, which places Instruction.
+CaseLabel acts as a caretaker for memento C, which branches, which branches Wide, which is Standard Label, which places, which places Instruction.

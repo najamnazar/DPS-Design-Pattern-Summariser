@@ -1,0 +1,1 @@
+AppContext acts as an abstract product for TestJobHistoryEventHandler, which is inherited by MockAppContext.

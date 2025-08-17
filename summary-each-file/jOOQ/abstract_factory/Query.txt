@@ -1,0 +1,5 @@
+Query acts as an abstract product for Query, which is inherited by ResultQuery, ResultQuery, CloseableQuery, CloseableQuery, RowCountQuery, RowCountQuery.
+Query acts as an abstract product for Query, which is inherited by ResultQuery, CloseableQuery, RowCountQuery.
+Query acts as a product for Parser, which overrides.
+Query acts as an abstract product for Query, which is inherited by ResultQuery, ResultQuery, ResultQuery, ResultQuery, CloseableQuery, CloseableQuery, CloseableQuery, CloseableQuery, RowCountQuery, RowCountQuery, RowCountQuery, RowCountQuery.
+Query acts as an abstract factory for CloseableQuery, Query, which is inherited by.

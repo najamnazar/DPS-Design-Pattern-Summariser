@@ -1,0 +1,2 @@
+Cloneable acts as an adaptee for adapter AbstractSearchScope.
+Cloneable acts as an adaptee for adapter OrPattern.

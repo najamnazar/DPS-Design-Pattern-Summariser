@@ -1,0 +1,3 @@
+TransactionalOperator acts as a factory for TransactionalOperator, which overrides.
+TransactionalOperator acts as a factory method for TransactionalOperator, which is inherited by AbstractTransactionalDatabaseClientIntegrationTests, TransactionalOperator.
+TransactionalOperator acts as an abstract product for TransactionalOperator, which is inherited by TransactionalOperatorImpl.

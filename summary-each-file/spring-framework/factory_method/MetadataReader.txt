@@ -1,0 +1,3 @@
+MetadataReader acts as a factory for StandardClassMetadataMemberClassTests, which overrides.
+MetadataReader acts as a factory for ConfigurationClassBeanDefinitionReader, which overrides.
+MetadataReader acts as an abstract product for MetadataReaderFactory, which is inherited by SimpleMetadataReader.

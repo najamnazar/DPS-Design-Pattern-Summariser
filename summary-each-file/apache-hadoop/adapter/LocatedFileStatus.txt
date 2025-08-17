@@ -1,0 +1,6 @@
+LocatedFileStatus acts as a target for adapter ViewFsLocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus.
+LocatedFileStatus acts as an adapter, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus.
+LocatedFileStatus acts as a target for adapter AbfsLocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus.
+LocatedFileStatus acts as a target for adapter HdfsLocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus.
+LocatedFileStatus acts as a target for adapter S3ALocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus.
+LocatedFileStatus acts as an adaptee for adapter ChecksumFs, which adapts to FilterFs, which adapts to FilterFs, which adapts to FilterFs, which adapts to FilterFs, which adapts to FilterFs.

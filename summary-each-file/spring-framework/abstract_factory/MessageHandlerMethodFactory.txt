@@ -1,0 +1,1 @@
+MessageHandlerMethodFactory acts as an abstract factory for InvocableHandlerMethod, which is inherited by DefaultMessageHandlerMethodFactory.

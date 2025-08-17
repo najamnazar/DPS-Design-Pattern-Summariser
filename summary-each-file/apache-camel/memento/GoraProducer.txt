@@ -1,0 +1,1 @@
+GoraProducer acts as a caretaker for memento Configuration, which processes final parameter of Exchange.

@@ -1,0 +1,1 @@
+CreateOp acts as an observer, which determines Block Size, which determines Replication, which gets Buffer Size, which gets Create File, which runs FileSystem parameter of fs.

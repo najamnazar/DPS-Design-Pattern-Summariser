@@ -1,0 +1,2 @@
+JavaModel acts as a factory for IJavaModel, which overrides contains method of IJavaModel, delete method of IJavaModel, getJavaProjects method of IJavaModel, getNonJavaResources method of IJavaModel, getWorkspace method of IJavaModel, refreshExternalArchives method of IJavaModel.
+JavaModel acts as a product for IJavaElement, which overrides contains method of IJavaModel, delete method of IJavaModel, getJavaProjects method of IJavaModel, getNonJavaResources method of IJavaModel, getWorkspace method of IJavaModel, refreshExternalArchives method of IJavaModel.

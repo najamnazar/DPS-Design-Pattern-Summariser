@@ -1,0 +1,1 @@
+CompressionCodec acts as an adaptee for adapter HadoopLogsAnalyzer, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool, which adapts to Tool.

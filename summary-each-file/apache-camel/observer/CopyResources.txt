@@ -1,0 +1,1 @@
+CopyResources acts as a publisher for observer Resource, which is inherited by, which executes, which processes Path parameter of output, char[] parameter of buf, StringBuilder parameter of sb, Resource parameter of resource, Path parameter of dir Resource, which is Resource parameter of resource, Path parameter of file Filtering.

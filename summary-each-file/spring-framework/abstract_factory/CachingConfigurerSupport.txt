@@ -1,0 +1,1 @@
+CachingConfigurerSupport acts as a factory for CachingConfigurer, which overrides cacheManager method of CachingConfigurer, cacheResolver method of CachingConfigurer, keyGenerator method of CachingConfigurer, errorHandler method of CachingConfigurer.

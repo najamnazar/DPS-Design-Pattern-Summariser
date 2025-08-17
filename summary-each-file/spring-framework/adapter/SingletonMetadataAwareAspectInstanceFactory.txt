@@ -1,0 +1,1 @@
+SingletonMetadataAwareAspectInstanceFactory acts as an adapter, which adapts to SingletonAspectInstanceFactory, which adapts to SingletonAspectInstanceFactory, which adapts to SingletonAspectInstanceFactory.

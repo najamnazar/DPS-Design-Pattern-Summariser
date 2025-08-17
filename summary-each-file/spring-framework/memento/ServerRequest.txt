@@ -1,0 +1,1 @@
+ServerRequest acts as an originator for memento Headers, which is inherited by, which headerses Headers.

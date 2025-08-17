@@ -1,0 +1,2 @@
+IdempotentConsumerCompletionEagerTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Completion Eager, which tests Not Completion Eager, which sends final parameter of Object, final parameter of Object Message, which sets Up.
+IdempotentConsumerCompletionEagerTest acts as a publisher for observer Service, which is Use Route Builder, which tests Completion Eager, which tests Not Completion Eager, which sends final parameter of Object, final parameter of Object Message, which sets Up.

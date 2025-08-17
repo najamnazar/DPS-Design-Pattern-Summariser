@@ -1,0 +1,1 @@
+BeanDefinitionResource acts as a caretaker for memento B, which gets Bean Definition, which exists, which is Readable, which gets Input Stream, which gets Description, which equals @Nullable parameter of Object, which hashes Code.

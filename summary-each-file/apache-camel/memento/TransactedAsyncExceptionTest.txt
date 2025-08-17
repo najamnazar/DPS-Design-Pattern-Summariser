@@ -1,0 +1,2 @@
+TransactedAsyncExceptionTest acts as a caretaker for memento Producer, which tests Route With Thread, which dumps Threads, which creates Camel Context, which gets Shutdown Timeout.
+TransactedAsyncExceptionTest acts as a caretaker for memento Context, which tests Route With Thread, which dumps Threads, which creates Camel Context, which gets Shutdown Timeout.

@@ -1,0 +1,1 @@
+DefaultCamelContextNameStrategy acts as an observer, which gets Name, which gets Next Name, which is Fixed Name, which gets Next Counter, which sets int parameter of value Counter.

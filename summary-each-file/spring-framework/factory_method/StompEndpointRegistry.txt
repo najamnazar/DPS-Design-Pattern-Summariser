@@ -1,0 +1,1 @@
+StompEndpointRegistry acts as a factory for StompWebSocketEndpointRegistration, which overrides.

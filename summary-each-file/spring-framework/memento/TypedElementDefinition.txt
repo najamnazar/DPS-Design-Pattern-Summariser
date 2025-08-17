@@ -1,0 +1,2 @@
+TypedElementDefinition acts as an originator for memento Database.
+TypedElementDefinition acts as an originator for memento PackageDefinition.

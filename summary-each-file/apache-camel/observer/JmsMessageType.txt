@@ -1,0 +1,1 @@
+JmsMessageType acts as an observer for publisher JmsConfiguration, ActiveMQConfiguration, AMQPConfiguration, which is inherited by.

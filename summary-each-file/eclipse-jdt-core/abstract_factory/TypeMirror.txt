@@ -1,0 +1,4 @@
+TypeMirror acts as an abstract product for TypeMirror, which is inherited by VoidType, VoidType, ExecutableType, ExecutableType, TypeMirrorImpl, TypeMirrorImpl, EclipseMirrorType, EclipseMirrorType, ReferenceType, ReferenceType, NoType, NoType.
+TypeMirror acts as an abstract product for TypeMirror, which is inherited by VoidType, ExecutableType, TypeMirrorImpl, EclipseMirrorType, ReferenceType, NoType.
+TypeMirror acts as an abstract factory for, which is inherited by TypeMirrorImpl.
+TypeMirror acts as an abstract product for TypeMirror, which is inherited by VoidType, VoidType, VoidType, ExecutableType, ExecutableType, ExecutableType, TypeMirrorImpl, TypeMirrorImpl, TypeMirrorImpl, EclipseMirrorType, EclipseMirrorType, EclipseMirrorType, ReferenceType, ReferenceType, ReferenceType, NoType, NoType, NoType.

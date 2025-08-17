@@ -1,0 +1,1 @@
+HandlerExceptionResolver acts as an abstract product for WebMvcConfigurationSupport, which is inherited by HandlerExceptionResolverComposite, AbstractHandlerExceptionResolver.

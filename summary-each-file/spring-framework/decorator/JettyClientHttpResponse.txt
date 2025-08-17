@@ -1,0 +1,2 @@
+JettyClientHttpResponse acts as a component for decorator ClientHttpResponseDecorator, which overrides getStatusCodeClientHttpResponse, getRawStatusCodeClientHttpResponse, getCookiesClientHttpResponse, getBodyClientHttpResponse, getHeadersClientHttpResponse.
+JettyClientHttpResponse acts as a component for decorator MessageBodyClientHttpResponseWrapper, which overrides getStatusCodeClientHttpResponse, getRawStatusCodeClientHttpResponse, getHeadersClientHttpResponse.

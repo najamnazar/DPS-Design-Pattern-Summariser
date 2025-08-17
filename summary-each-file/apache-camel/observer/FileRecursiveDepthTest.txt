@@ -1,0 +1,2 @@
+FileRecursiveDepthTest acts as a publisher for observer CamelContext, which tests Depth, which tests Depth Min2Max99, which tests Min1Max1, which creates Route Builder.
+FileRecursiveDepthTest acts as a publisher for observer Service, which tests Depth, which tests Depth Min2Max99, which tests Min1Max1, which creates Route Builder.

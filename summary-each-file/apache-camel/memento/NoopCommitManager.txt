@@ -1,0 +1,1 @@
+NoopCommitManager acts as a caretaker for memento Configuration, which commits, which commits TopicPartition parameter of partition, which records TopicPartition parameter of partition, long parameter of partitionLastOffset Offset.

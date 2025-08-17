@@ -1,0 +1,1 @@
+GetGroupsTestBase acts as a factory for TestGetGroupsWithHA, which overrides.

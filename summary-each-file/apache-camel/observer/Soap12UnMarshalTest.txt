@@ -1,0 +1,5 @@
+Soap12UnMarshalTest acts as a publisher for observer FluentProducerTemplate, which tests Un Marshal Soap, which tests Un Marshal Soap Fault Without Detail, which creates Route Builder.
+Soap12UnMarshalTest acts as a publisher for observer Service, which tests Un Marshal Soap, which tests Un Marshal Soap Fault Without Detail, which creates Route Builder.
+Soap12UnMarshalTest acts as a publisher for observer ProducerTemplate, which tests Un Marshal Soap, which tests Un Marshal Soap Fault Without Detail, which creates Route Builder.
+Soap12UnMarshalTest acts as a publisher for observer ConsumerTemplate, which tests Un Marshal Soap, which tests Un Marshal Soap Fault Without Detail, which creates Route Builder.
+Soap12UnMarshalTest acts as a publisher for observer CamelContext, which tests Un Marshal Soap, which tests Un Marshal Soap Fault Without Detail, which creates Route Builder.

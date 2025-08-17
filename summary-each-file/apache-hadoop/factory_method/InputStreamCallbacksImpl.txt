@@ -1,0 +1,1 @@
+InputStreamCallbacksImpl acts as a product for ObjectReadParameters, which overrides getObject method of ObjectInputStreamCallbacks.

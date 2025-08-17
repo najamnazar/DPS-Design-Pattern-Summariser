@@ -1,0 +1,1 @@
+PulsarConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which does Suspend, which does Resume, which creates final parameter of PulsarEndpoint, final parameter of ConsumerCreationStrategyFactory Consumers, which subscribes Collection<Consumer<byte[]>> parameter of consumers, PulsarEndpoint parameter of endpoint With Thread Pool, which runs.

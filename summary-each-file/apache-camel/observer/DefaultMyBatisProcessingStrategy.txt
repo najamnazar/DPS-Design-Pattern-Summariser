@@ -1,0 +1,1 @@
+DefaultMyBatisProcessingStrategy acts as an observer, which commits MyBatisEndpoint parameter of endpoint, Exchange parameter of exchange, Object parameter of data, String parameter of consumeStatements, which polls MyBatisConsumer parameter of consumer, MyBatisEndpoint parameter of endpoint.

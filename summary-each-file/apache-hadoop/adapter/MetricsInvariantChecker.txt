@@ -1,0 +1,4 @@
+MetricsInvariantChecker acts as an adapter, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts extractMatchingBindings method of JvmMetrics to InvariantsChecker.
+MetricsInvariantChecker acts as an adapter, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts extractMatchingBindings method of MetricsCollectorImpl to InvariantsChecker.
+MetricsInvariantChecker acts as an adapter, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts extractMatchingBindings method of QueueMetrics to InvariantsChecker.
+MetricsInvariantChecker acts as an adapter, which adapts to InvariantsChecker, which adapts to InvariantsChecker, which adapts extractMatchingBindings method of MetricsSystem to InvariantsChecker.

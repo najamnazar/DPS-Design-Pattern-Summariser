@@ -1,0 +1,2 @@
+GetUserMappingsProtocolPB acts as an adaptee for adapter RouterGetUserMappingsProtocolTranslatorPB.
+GetUserMappingsProtocolPB acts as an adaptee for adapter GetUserMappingsProtocolClientSideTranslatorPB.

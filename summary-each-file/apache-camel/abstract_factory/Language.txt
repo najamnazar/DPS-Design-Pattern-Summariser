@@ -1,0 +1,1 @@
+Language acts as an abstract product for Language, which is inherited by LanguageSupport, ExchangePropertyLanguage, HeaderLanguage.

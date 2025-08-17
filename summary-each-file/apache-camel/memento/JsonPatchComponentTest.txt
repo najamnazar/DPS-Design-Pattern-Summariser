@@ -1,0 +1,2 @@
+JsonPatchComponentTest acts as a caretaker for memento Producer, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.
+JsonPatchComponentTest acts as a caretaker for memento Context, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.

@@ -1,0 +1,1 @@
+SharedNameGenerator acts as an observer for publisher SharedNameRegistry, which is inherited by TestEntityNameGenerator, which gets Name.

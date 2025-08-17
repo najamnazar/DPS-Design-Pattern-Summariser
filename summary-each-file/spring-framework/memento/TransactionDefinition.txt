@@ -1,0 +1,2 @@
+TransactionDefinition acts as an originator for memento TransactionDefinition, which is inherited by, which withes a TransactionDefinition Defaults to.
+TransactionDefinition acts as a memento, which is inherited by DelegatingTransactionDefinition, DefaultTransactionDefinition, TransactionAttribute, StaticTransactionDefinition, ResourceTransactionDefinition, which withes Defaults, which withes Defaults, which withes Defaults, which withes Defaults, which withes Defaults, which withes Defaults.

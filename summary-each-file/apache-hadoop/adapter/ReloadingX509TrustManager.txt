@@ -1,0 +1,1 @@
+ReloadingX509TrustManager acts as an adaptee for adapter FileBasedKeyStoresFactory, which adapts to KeyStoresFactory, which adapts to KeyStoresFactory, which adapts to KeyStoresFactory, which adapts to KeyStoresFactory, which adapts to KeyStoresFactory.

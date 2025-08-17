@@ -1,0 +1,1 @@
+PropertyExpressionDefinition acts as a publisher for observer ExpressionDefinition, which is inherited by, which sets String parameter of key Key, which gets Key, which gets Expression, which sets ExpressionDefinition parameter of expression Expression.

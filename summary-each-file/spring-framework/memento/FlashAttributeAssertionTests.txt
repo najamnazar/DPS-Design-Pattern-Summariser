@@ -1,0 +1,1 @@
+FlashAttributeAssertionTests acts as a caretaker for memento C, which attributes Count With Wrong Count, which attributes Exists, which attributes Equal To, which attributes Matchers, which performs Request, which saves RedirectAttributes parameter of redirectAttrs.

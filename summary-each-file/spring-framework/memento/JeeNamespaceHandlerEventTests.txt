@@ -1,0 +1,2 @@
+JeeNamespaceHandlerEventTests acts as a caretaker for memento B, which setups, which tests Jndi Lookup Component Event Received, which tests Local Slsb Component Event Received, which tests Remote Slsb Component Event Received.
+JeeNamespaceHandlerEventTests acts as a caretaker for memento C, which setups, which tests Jndi Lookup Component Event Received, which tests Local Slsb Component Event Received, which tests Remote Slsb Component Event Received.

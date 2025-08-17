@@ -1,0 +1,1 @@
+AsteriskConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which ons ManagerEvent parameter of event Manager Event.

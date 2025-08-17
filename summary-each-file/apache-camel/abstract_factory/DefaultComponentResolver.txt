@@ -1,0 +1,2 @@
+DefaultComponentResolver acts as a product for ExtendedCamelContext, which overrides resolveComponent method of ComponentResolver.
+DefaultComponentResolver acts as a factory for ComponentResolver, which overrides resolveComponent method of ComponentResolver.

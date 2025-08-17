@@ -1,0 +1,1 @@
+StopContainersResponsePBImpl acts as a product for ContainerManagementProtocol, which overrides getSuccessfullyStoppedContainers method of StopContainersResponse, setSuccessfullyStoppedContainers method of StopContainersResponse, getFailedRequests method of StopContainersResponse, setFailedRequests method of StopContainersResponse.

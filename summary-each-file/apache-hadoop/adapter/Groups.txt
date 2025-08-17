@@ -1,0 +1,4 @@
+Groups acts as an adaptee for adapter PrimaryGroupPlacementRule, which adapts to FSPlacementRule, which adapts to FSPlacementRule.
+Groups acts as a target for adapter GroupsService, which adapts to Groups, which adapts to Groups.
+Groups acts as an adaptee for adapter CSMappingPlacementRule, which adapts to PlacementRule, which adapts to PlacementRule.
+Groups acts as an adaptee for adapter SecondaryGroupExistingPlacementRule, which adapts to FSPlacementRule, which adapts to FSPlacementRule.

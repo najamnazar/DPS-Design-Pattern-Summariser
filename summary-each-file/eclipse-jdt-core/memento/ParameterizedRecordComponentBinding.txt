@@ -1,0 +1,3 @@
+ParameterizedRecordComponentBinding acts as a caretaker for memento R, which constants, which originals, which sets Constant parameter of constant Constant.
+ParameterizedRecordComponentBinding acts as a caretaker for memento Binding, which constants, which originals, which sets Constant parameter of constant Constant.
+ParameterizedRecordComponentBinding acts as a caretaker for memento C, which constants, which originals, which sets Constant parameter of constant Constant.

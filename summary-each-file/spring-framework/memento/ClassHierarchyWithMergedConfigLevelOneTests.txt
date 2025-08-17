@@ -1,0 +1,3 @@
+ClassHierarchyWithMergedConfigLevelOneTests acts as a caretaker for memento ApplicationContext, which is inherited by, which parents, which users, which beans From User Config, which loads Context Hierarchy.
+ClassHierarchyWithMergedConfigLevelOneTests acts as a caretaker for memento C, which is inherited by, which parents, which users, which beans From User Config, which loads Context Hierarchy.
+ClassHierarchyWithMergedConfigLevelOneTests acts as a caretaker for memento A, which is inherited by, which parents, which users, which beans From User Config, which loads Context Hierarchy.

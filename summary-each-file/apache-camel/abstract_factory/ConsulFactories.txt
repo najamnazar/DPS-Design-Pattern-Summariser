@@ -1,0 +1,1 @@
+ConsulFactories acts as an abstract factory for Producer, Consumer, which is inherited by.

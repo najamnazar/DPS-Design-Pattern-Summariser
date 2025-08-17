@@ -1,0 +1,2 @@
+ExpressionSupportTest acts as a caretaker for memento Context, which assertions Exchange parameter of exchange Failure Message, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tests Expression Support, which tests Expression Support Fail.
+ExpressionSupportTest acts as a caretaker for memento Producer, which assertions Exchange parameter of exchange Failure Message, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tests Expression Support, which tests Expression Support Fail.

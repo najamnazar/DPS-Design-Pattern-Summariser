@@ -1,0 +1,1 @@
+JmsMessageEndpointFactory acts as an adaptee for adapter JmsMessageEndpointManager, which adapts to GenericMessageEndpointManager, which adapts to GenericMessageEndpointManager, which adapts to GenericMessageEndpointManager, which adapts to GenericMessageEndpointManager, which adapts to GenericMessageEndpointManager.

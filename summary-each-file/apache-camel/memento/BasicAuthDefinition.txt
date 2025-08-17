@@ -1,0 +1,1 @@
+BasicAuthDefinition acts as a memento.

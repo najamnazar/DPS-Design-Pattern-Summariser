@@ -1,0 +1,1 @@
+ConversionServiceFactoryBean acts as a caretaker for memento C, which sets Set<?> parameter of converters Converters, which afters Properties Set, which creates Conversion Service, which gets Object, which gets Object Type, which is Singleton.

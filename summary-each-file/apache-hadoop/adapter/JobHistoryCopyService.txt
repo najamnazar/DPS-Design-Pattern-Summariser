@@ -1,0 +1,3 @@
+JobHistoryCopyService acts as an adapter, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts parse method of HistoryEventHandler to CompositeService, which adapts to CompositeService.
+JobHistoryCopyService acts as an adapter, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts parse method of ApplicationAttemptId to CompositeService, which adapts to CompositeService.
+JobHistoryCopyService acts as an adapter, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts parse method of JobId to CompositeService, which adapts to CompositeService.

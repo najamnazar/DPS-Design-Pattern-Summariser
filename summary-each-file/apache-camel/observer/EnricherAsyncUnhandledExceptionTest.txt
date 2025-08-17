@@ -1,0 +1,2 @@
+EnricherAsyncUnhandledExceptionTest acts as a publisher for observer CamelContext, which tests In Out With Request Body, which creates Camel Context, which creates Route Builder.
+EnricherAsyncUnhandledExceptionTest acts as a publisher for observer Service, which tests In Out With Request Body, which creates Camel Context, which creates Route Builder.

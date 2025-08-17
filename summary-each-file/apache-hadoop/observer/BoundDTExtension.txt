@@ -1,0 +1,1 @@
+BoundDTExtension acts as an observer, which binds URI parameter of fsURI, Configuration parameter of conf, which gets Canonical Service Name, which gets User Agent Suffix.

@@ -1,0 +1,1 @@
+MethodMatcher acts as an abstract product for MethodMatcher, which is inherited by IntroductionAwareMethodMatcher, DynamicMethodMatcher, ControlFlowPointcut, StaticMethodMatcher, TrueMethodMatcher.

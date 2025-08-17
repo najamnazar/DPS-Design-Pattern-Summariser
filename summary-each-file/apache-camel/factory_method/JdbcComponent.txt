@@ -1,0 +1,2 @@
+JdbcComponent acts as a factory for JdbcComponent, which overrides.
+JdbcComponent acts as a factory method for ConnectionStrategy, which is inherited by JdbcComponent, JdbcEndpoint.

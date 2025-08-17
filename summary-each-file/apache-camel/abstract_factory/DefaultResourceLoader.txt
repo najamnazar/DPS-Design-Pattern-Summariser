@@ -1,0 +1,2 @@
+DefaultResourceLoader acts as a factory for ResourceLoader, which overrides.
+DefaultResourceLoader acts as a product for ExtendedCamelContext, which overrides.

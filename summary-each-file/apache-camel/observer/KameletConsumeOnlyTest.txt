@@ -1,0 +1,5 @@
+KameletConsumeOnlyTest acts as a publisher for observer ProducerTemplate, which cans Consume From Kamelet, which creates Route Builder.
+KameletConsumeOnlyTest acts as a publisher for observer Service, which cans Consume From Kamelet, which creates Route Builder.
+KameletConsumeOnlyTest acts as a publisher for observer CamelContext, which cans Consume From Kamelet, which creates Route Builder.
+KameletConsumeOnlyTest acts as a publisher for observer ConsumerTemplate, which cans Consume From Kamelet, which creates Route Builder.
+KameletConsumeOnlyTest acts as a publisher for observer FluentProducerTemplate, which cans Consume From Kamelet, which creates Route Builder.

@@ -1,0 +1,1 @@
+MockClientRequestInterceptor acts as an adapter, which adapts to DefaultClientRequestInterceptor, which adapts to DefaultClientRequestInterceptor.

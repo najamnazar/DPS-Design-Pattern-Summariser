@@ -1,0 +1,1 @@
+CamelTargetAdapter acts as a publisher for observer CamelContext, which sets MessageChannel parameter of channel Reply Channel, which gets Reply Channel, which gets Camel Template, which sends Message<?> parameter of message, which handles Message<?> parameter of message Message.

@@ -1,0 +1,1 @@
+RefreshAuthorizationPolicyProtocolClientSideTranslatorPB acts as an observer, which closes, which refreshes Service Acl, which is String parameter of methodName Method Supported.

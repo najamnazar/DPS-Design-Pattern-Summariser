@@ -1,0 +1,1 @@
+AbstractProviderService acts as a product for DefaultProviderFactory, which overrides.

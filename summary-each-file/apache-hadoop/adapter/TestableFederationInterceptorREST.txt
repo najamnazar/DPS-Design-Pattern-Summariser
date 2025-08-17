@@ -1,0 +1,3 @@
+TestableFederationInterceptorREST acts as an adapter, which adapts to FederationInterceptorREST, which adapts to FederationInterceptorREST, which adapts to FederationInterceptorREST, which adapts to FederationInterceptorREST.
+TestableFederationInterceptorREST acts as an adaptee for adapter TestFederationInterceptorRESTRetry, which adapts to BaseRouterWebServicesTest, which adapts to BaseRouterWebServicesTest, which adapts to BaseRouterWebServicesTest, which adapts to BaseRouterWebServicesTest.
+TestableFederationInterceptorREST acts as an adaptee for adapter TestFederationInterceptorREST, which adapts to BaseRouterWebServicesTest, which adapts to BaseRouterWebServicesTest, which adapts to BaseRouterWebServicesTest, which adapts to BaseRouterWebServicesTest.

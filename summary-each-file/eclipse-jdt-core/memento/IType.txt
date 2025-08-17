@@ -1,0 +1,1 @@
+IType acts as an originator for memento IAnnotation.

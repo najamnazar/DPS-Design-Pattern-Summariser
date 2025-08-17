@@ -1,0 +1,1 @@
+DefaultInjector acts as a component for decorator KameletMainInjector, which overrides newInstanceInjector, newInstanceInjector, newInstanceInjector, supportsAutoWiringInjector.

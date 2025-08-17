@@ -1,0 +1,1 @@
+DataFormatsDefinition acts as an observer for publisher CamelContextFactoryBean, which is inherited by, which sets List<DataFormatDefinition> parameter of dataFormats Data Formats, which gets Data Formats, which ases Map.

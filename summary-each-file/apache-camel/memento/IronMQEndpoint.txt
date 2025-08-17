@@ -1,0 +1,1 @@
+IronMQEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Client, which sets Client parameter of client Client, which creates Client, which gets Configuration.

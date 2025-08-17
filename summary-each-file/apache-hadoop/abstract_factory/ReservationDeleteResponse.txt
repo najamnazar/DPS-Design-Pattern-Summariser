@@ -1,0 +1,1 @@
+ReservationDeleteResponse acts as an abstract product for ReservationDeleteResponse, which is inherited by ReservationDeleteResponsePBImpl.

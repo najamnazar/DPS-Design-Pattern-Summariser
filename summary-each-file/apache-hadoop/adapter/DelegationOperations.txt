@@ -1,0 +1,1 @@
+DelegationOperations acts as an adaptee for adapter AbstractDTService.

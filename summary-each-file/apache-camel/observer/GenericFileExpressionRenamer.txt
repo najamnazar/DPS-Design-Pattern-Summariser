@@ -1,0 +1,1 @@
+GenericFileExpressionRenamer acts as a publisher for observer Expression, which is inherited by, which renames GenericFileOperations<T> parameter of operations, Exchange parameter of exchange, GenericFile<T> parameter of file File, which gets Expression, which sets Expression parameter of expression Expression.

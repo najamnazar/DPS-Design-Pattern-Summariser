@@ -1,0 +1,2 @@
+Results acts as an abstract product for Results, which is inherited by ResultsImpl, ResultsImpl, ResultsImpl, ResultsImpl, ResultsImpl.
+Results acts as an abstract product for Results, which is inherited by ResultsImpl.

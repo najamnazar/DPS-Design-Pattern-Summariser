@@ -1,0 +1,5 @@
+StreamSystemOutNewLineOffTest acts as a publisher for observer FluentProducerTemplate, which tests String Content, which tests Binary Content, which shoulds Skip Null Body, which creates Route Builder.
+StreamSystemOutNewLineOffTest acts as a publisher for observer ProducerTemplate, which tests String Content, which tests Binary Content, which shoulds Skip Null Body, which creates Route Builder.
+StreamSystemOutNewLineOffTest acts as a publisher for observer ConsumerTemplate, which tests String Content, which tests Binary Content, which shoulds Skip Null Body, which creates Route Builder.
+StreamSystemOutNewLineOffTest acts as a publisher for observer Service, which tests String Content, which tests Binary Content, which shoulds Skip Null Body, which creates Route Builder.
+StreamSystemOutNewLineOffTest acts as a publisher for observer CamelContext, which tests String Content, which tests Binary Content, which shoulds Skip Null Body, which creates Route Builder.

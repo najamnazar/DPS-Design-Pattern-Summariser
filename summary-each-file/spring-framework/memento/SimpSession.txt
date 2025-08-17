@@ -1,0 +1,1 @@
+SimpSession acts as a memento, which is inherited by TestSimpSession, which gets Subscriptions, which gets Subscriptions, which gets Subscriptions.

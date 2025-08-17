@@ -1,0 +1,2 @@
+DefaultRouteFactory acts as a product for ExtendedCamelContext, which overrides createRoute method of RouteFactory.
+DefaultRouteFactory acts as a factory for RouteFactory, which overrides createRoute method of RouteFactory.

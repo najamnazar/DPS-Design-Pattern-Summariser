@@ -1,0 +1,2 @@
+DefaultTransactionContext acts as a product for TransactionContext, which overrides transaction method of TransactionContext, cause method of TransactionContext, causeThrowable method of TransactionContext.
+DefaultTransactionContext acts as a factory for TransactionContext, which overrides transaction method of TransactionContext, cause method of TransactionContext, causeThrowable method of TransactionContext.

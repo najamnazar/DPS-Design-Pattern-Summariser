@@ -1,0 +1,2 @@
+OutputExpressionNode acts as a publisher for observer ExpressionDefinition, which gets Outputs, which sets List<ProcessorDefinition<?>> parameter of outputs Outputs.
+OutputExpressionNode acts as a publisher for observer Expression, which gets Outputs, which sets List<ProcessorDefinition<?>> parameter of outputs Outputs.

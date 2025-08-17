@@ -1,0 +1,1 @@
+DependencyDownloaderPropertyBindingListener acts as an observer, which binds Object parameter of target, String parameter of key, Object parameter of value Property.

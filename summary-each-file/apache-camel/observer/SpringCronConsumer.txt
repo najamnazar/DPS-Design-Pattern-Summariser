@@ -1,0 +1,3 @@
+SpringCronConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which polls, which initials Health Check State.
+SpringCronConsumer acts as a publisher for observer LoggingLevel, which polls, which initials Health Check State.
+SpringCronConsumer acts as a publisher for observer PollingConsumerPollStrategy, which polls, which initials Health Check State.

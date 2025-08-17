@@ -1,0 +1,2 @@
+ControlBusLanguageSimpleStartRouteTest acts as a publisher for observer CamelContext, which tests Control Bus Start Stop, which tests Control Bus Status, which creates Route Builder.
+ControlBusLanguageSimpleStartRouteTest acts as a publisher for observer Service, which tests Control Bus Start Stop, which tests Control Bus Status, which creates Route Builder.

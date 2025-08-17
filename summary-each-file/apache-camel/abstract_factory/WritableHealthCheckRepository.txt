@@ -1,0 +1,1 @@
+WritableHealthCheckRepository acts as a product for HealthCheckResolver, which overrides.

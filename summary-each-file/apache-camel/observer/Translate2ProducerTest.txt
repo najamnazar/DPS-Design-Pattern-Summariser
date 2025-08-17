@@ -1,0 +1,5 @@
+Translate2ProducerTest acts as a publisher for observer ConsumerTemplate, which translates Text Test, which translates Text Pojo Test, which translates Text Test Options, which creates Route Builder.
+Translate2ProducerTest acts as a publisher for observer FluentProducerTemplate, which translates Text Test, which translates Text Pojo Test, which translates Text Test Options, which creates Route Builder.
+Translate2ProducerTest acts as a publisher for observer Service, which translates Text Test, which translates Text Pojo Test, which translates Text Test Options, which creates Route Builder.
+Translate2ProducerTest acts as a publisher for observer CamelContext, which translates Text Test, which translates Text Pojo Test, which translates Text Test Options, which creates Route Builder.
+Translate2ProducerTest acts as a publisher for observer ProducerTemplate, which translates Text Test, which translates Text Pojo Test, which translates Text Test Options, which creates Route Builder.

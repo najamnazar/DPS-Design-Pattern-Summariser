@@ -1,0 +1,2 @@
+MethodArgumentResolutionException acts as a caretaker for memento Parameter, which gets Method Parameter, which gets MethodParameter parameter of parameter Method Parameter Message.
+MethodArgumentResolutionException acts as a caretaker for memento Message, which gets Method Parameter, which gets MethodParameter parameter of parameter Method Parameter Message.

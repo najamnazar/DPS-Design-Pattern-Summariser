@@ -1,0 +1,2 @@
+RSocketFrameTypeMessageConditionTests acts as a caretaker for memento C, which gets Matching Condition, which gets Matching Condition Empty, which combines, which compares To, which messages @Nullable parameter of FrameType, which conditions FrameType... parameter of frameType.
+RSocketFrameTypeMessageConditionTests acts as a caretaker for memento Message, which gets Matching Condition, which gets Matching Condition Empty, which combines, which compares To, which messages @Nullable parameter of FrameType, which conditions FrameType... parameter of frameType.

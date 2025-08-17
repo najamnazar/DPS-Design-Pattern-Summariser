@@ -1,0 +1,2 @@
+ClassFileAttribute acts as a caretaker for memento C, which is inherited by, which gets Attribute Name Index, which gets Attribute Name, which gets Attribute Length.
+ClassFileAttribute acts as a caretaker for memento Class, which is inherited by, which gets Attribute Name Index, which gets Attribute Name, which gets Attribute Length.

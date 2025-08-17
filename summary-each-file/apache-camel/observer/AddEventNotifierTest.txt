@@ -1,0 +1,2 @@
+AddEventNotifierTest acts as a publisher for observer CamelContext, which sets Up, which tests Add And Remove, which creates Route Builder.
+AddEventNotifierTest acts as a publisher for observer Service, which sets Up, which tests Add And Remove, which creates Route Builder.

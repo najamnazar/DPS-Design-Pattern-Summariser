@@ -1,0 +1,1 @@
+InOnlyCamelWorkItemHandler acts as a publisher for observer ProducerTemplate, which handles Exchange parameter of responseExchange, WorkItem parameter of workItem, WorkItemManager parameter of manager Response, which builds ProducerTemplate parameter of template, WorkItem parameter of workItem Exchange.

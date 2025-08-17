@@ -1,0 +1,1 @@
+ParamMode acts as a memento.

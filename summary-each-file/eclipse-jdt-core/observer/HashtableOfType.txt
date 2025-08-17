@@ -1,0 +1,1 @@
+HashtableOfType acts as a publisher for observer ReferenceBinding, which is inherited by, which contains char[] parameter of key Key, which gets char[] parameter of key, which puts char[] parameter of key, ReferenceBinding parameter of value, which rehashes, which sizes, which tos String.

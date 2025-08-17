@@ -1,0 +1,2 @@
+JCacheInterceptor acts as a publisher for observer CacheOperationInvoker, which invokes final parameter of MethodInvocation.
+JCacheInterceptor acts as a publisher for observer JCacheOperationSource, which invokes final parameter of MethodInvocation.

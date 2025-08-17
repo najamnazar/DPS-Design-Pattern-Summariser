@@ -1,0 +1,1 @@
+FSNamesystem acts as a factory method for HdfsFileStatus, which is inherited by ClientProtocol, ClientProtocol, Context, ClientProtocol, ClientProtocol, WebHdfsFileSystem, ClientProtocol, HdfsFileStatus, ClientProtocol, ClientNamenodeProtocolTranslatorPB, RouterClientProtocol, HdfsFileStatus, ClientProtocol.

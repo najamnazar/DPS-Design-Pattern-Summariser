@@ -1,0 +1,1 @@
+AMRMProxyService acts as a factory for ApplicationMasterProtocol, which overrides registerApplicationMaster method of ApplicationMasterProtocol, finishApplicationMaster method of ApplicationMasterProtocol, allocate method of ApplicationMasterProtocol.

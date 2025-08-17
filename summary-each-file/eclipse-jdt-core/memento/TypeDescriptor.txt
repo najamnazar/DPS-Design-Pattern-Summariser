@@ -1,0 +1,1 @@
+TypeDescriptor acts as an originator for memento String, which descriptors a String String to.

@@ -1,0 +1,1 @@
+IProblemFactory acts as an abstract factory for IProblem, which is inherited by DefaultProblemFactory.

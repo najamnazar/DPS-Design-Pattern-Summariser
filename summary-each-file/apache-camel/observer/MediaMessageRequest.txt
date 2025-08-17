@@ -1,0 +1,1 @@
+MediaMessageRequest acts as a publisher for observer MediaMessage, which is inherited by, which anies, which gets Object Name, which sets String parameter of objectName Object Name, which gets Media Message, which sets MediaMessage parameter of mediaMessage Media Message.

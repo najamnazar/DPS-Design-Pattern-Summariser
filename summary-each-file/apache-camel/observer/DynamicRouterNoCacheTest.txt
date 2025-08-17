@@ -1,0 +1,2 @@
+DynamicRouterNoCacheTest acts as a publisher for observer CamelContext, which tests No Cache, which sends String parameter of body Body, which slips @Headers parameter of Map, which creates Route Builder.
+DynamicRouterNoCacheTest acts as a publisher for observer Service, which tests No Cache, which sends String parameter of body Body, which slips @Headers parameter of Map, which creates Route Builder.

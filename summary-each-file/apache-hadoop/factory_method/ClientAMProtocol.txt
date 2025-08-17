@@ -1,0 +1,1 @@
+ClientAMProtocol acts as an abstract product for ServiceClient, which is inherited by ClientAMProtocolPBClientImpl, ClientAMService.

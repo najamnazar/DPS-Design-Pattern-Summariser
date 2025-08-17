@@ -1,0 +1,5 @@
+CouchbaseIntegrationTestBase acts as a publisher for observer FluentProducerTemplate, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.
+CouchbaseIntegrationTestBase acts as a publisher for observer ProducerTemplate, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.
+CouchbaseIntegrationTestBase acts as a publisher for observer Service, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.
+CouchbaseIntegrationTestBase acts as a publisher for observer ConsumerTemplate, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.
+CouchbaseIntegrationTestBase acts as a publisher for observer CamelContext, which sets Up Couchbase, which waits For Started, which tears Down Couchbase, which gets Connection Uri.

@@ -1,0 +1,1 @@
+MyVendor acts as a caretaker for memento Producer, which gets @XPath("/quote_request/@item") parameter of String, Exchange parameter of exchange Quote.

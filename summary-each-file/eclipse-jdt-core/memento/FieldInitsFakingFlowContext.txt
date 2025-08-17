@@ -1,0 +1,4 @@
+FieldInitsFakingFlowContext acts as a caretaker for memento Binding.
+FieldInitsFakingFlowContext acts as a caretaker for memento C.
+FieldInitsFakingFlowContext acts as a caretaker for memento R.
+FieldInitsFakingFlowContext acts as a caretaker for memento List.

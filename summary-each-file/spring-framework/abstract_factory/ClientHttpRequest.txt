@@ -1,0 +1,2 @@
+ClientHttpRequest acts as an abstract factory for ClientHttpResponse, which is inherited by AbstractClientHttpRequest, Netty4ClientHttpRequest, ClientHttpRequestDecorator.
+ClientHttpRequest acts as an abstract product for ClientHttpRequest, which is inherited by AbstractClientHttpRequest, Netty4ClientHttpRequest, ClientHttpRequestDecorator.

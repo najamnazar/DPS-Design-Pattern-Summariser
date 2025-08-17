@@ -1,0 +1,2 @@
+SpanContext acts as an observer, which closes.
+SpanContext acts as an observer for publisher DFSPacket, which is inherited by, which closes.

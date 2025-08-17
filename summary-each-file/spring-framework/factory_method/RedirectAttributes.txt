@@ -1,0 +1,3 @@
+RedirectAttributes acts as a factory for RedirectAttributes, which overrides addAttribute method of RedirectAttributes, addAttribute method of RedirectAttributes, addAllAttributes method of RedirectAttributes, mergeAttributes method of RedirectAttributes.
+RedirectAttributes acts as an abstract product for RedirectAttributes, which is inherited by RedirectAttributesModelMap.
+RedirectAttributes acts as a factory method for RedirectAttributes, which is inherited by RedirectAttributes.

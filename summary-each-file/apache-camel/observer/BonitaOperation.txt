@@ -1,0 +1,1 @@
+BonitaOperation acts as an observer for publisher BonitaConfiguration, which is inherited by, which tos String.

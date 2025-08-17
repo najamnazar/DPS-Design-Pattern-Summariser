@@ -1,0 +1,1 @@
+SalesforceMultipleChoicesException acts as an observer, which gets Choices.

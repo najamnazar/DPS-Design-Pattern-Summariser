@@ -1,0 +1,3 @@
+RMContext acts as a factory method for ResourceScheduler, which is inherited by InvariantsChecker, RMContext, InvariantsChecker, ResourceManager.
+RMContext acts as an abstract product for DefaultAMSProcessor, which is inherited by RMContextImpl.
+RMContext acts as a factory for RMContext, which overrides.

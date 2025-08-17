@@ -1,0 +1,1 @@
+Definition acts as an originator for memento PackageDefinition, which is inherited by, which gets a PackageDefinition Package to.

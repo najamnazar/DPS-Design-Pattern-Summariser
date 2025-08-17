@@ -1,0 +1,1 @@
+MergedBeanDefinitionPostProcessor acts as an observer, which posts RootBeanDefinition parameter of beanDefinition, Class<?> parameter of beanType, String parameter of beanName Process Merged Bean Definition, which resets String parameter of beanName Bean Definition.

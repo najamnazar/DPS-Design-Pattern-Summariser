@@ -1,0 +1,2 @@
+StreamCachingInterceptorTest acts as a caretaker for memento Context, which tests Stream Caching Interceptor Enabled, which creates Camel Context.
+StreamCachingInterceptorTest acts as a caretaker for memento Producer, which tests Stream Caching Interceptor Enabled, which creates Camel Context.

@@ -1,0 +1,2 @@
+PathCollector acts as a caretaker for memento S, which accepts String parameter of documentPath, SearchPattern parameter of indexRecord, SearchParticipant parameter of participant, AccessRuleSet parameter of access Index Match, which gets Paths.
+PathCollector acts as a caretaker for memento String, which accepts String parameter of documentPath, SearchPattern parameter of indexRecord, SearchParticipant parameter of participant, AccessRuleSet parameter of access Index Match, which gets Paths.

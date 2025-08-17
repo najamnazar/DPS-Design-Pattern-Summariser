@@ -1,0 +1,1 @@
+ColumnDefinition acts as an observer for publisher Relations, DefaultRelations, which is inherited by DefaultColumnDefinition, which gets Primary Key, which gets Unique Keys, which gets Keys, which gets Foreign Keys, which is Identity, which is Readonly.

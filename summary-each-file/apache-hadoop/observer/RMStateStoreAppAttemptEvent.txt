@@ -1,0 +1,1 @@
+RMStateStoreAppAttemptEvent acts as an observer, which gets App Attempt State.

@@ -1,0 +1,1 @@
+Resource acts as an abstract product for CamelCoapResource, which is inherited by ResourceSupport.

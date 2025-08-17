@@ -1,0 +1,3 @@
+FileMetadata acts as an observer, which gets Path, which gets Key, which gets Blob Materialization, which removes Key.
+FileMetadata acts as a publisher for observer FsPermission, which gets Path, which gets Key, which gets Blob Materialization, which removes Key.
+FileMetadata acts as an observer for publisher NativeAzureFileSystem, which is inherited by, which gets Path, which gets Key, which gets Blob Materialization, which removes Key.

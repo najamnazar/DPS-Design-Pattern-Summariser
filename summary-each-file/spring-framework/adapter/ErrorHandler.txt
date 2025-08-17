@@ -1,0 +1,3 @@
+ErrorHandler acts as an adaptee for adapter AbstractMessageListenerContainer, which adapts to AbstractJmsListeningContainer.
+ErrorHandler acts as an adaptee for adapter XmlBeanDefinitionReader, which adapts to AbstractBeanDefinitionReader.
+ErrorHandler acts as an adaptee for adapter ThreadPoolTaskScheduler, which adapts to ExecutorConfigurationSupport.

@@ -1,0 +1,1 @@
+TelegramProxyType acts as an observer for publisher TelegramConfiguration, which is inherited by.

@@ -1,0 +1,1 @@
+JmsInOutRepeatedInvocationsTest acts as a publisher for observer ArtemisService, which tests In Out Repeat Sequential Invocations, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,2 @@
+DeadLetterChannelRedeliveryTest acts as a publisher for observer CamelContext, which tests Two Redelivery Test, which tests No Redeliveries Test, which tests One Redeliveries Test, which creates Route Builder.
+DeadLetterChannelRedeliveryTest acts as a publisher for observer Service, which tests Two Redelivery Test, which tests No Redeliveries Test, which tests One Redeliveries Test, which creates Route Builder.

@@ -1,0 +1,2 @@
+PopulateInitialHeadersFailedIssueTest acts as a publisher for observer CamelContext, which tests Populate Initial Headers Failed, which creates Route Builder, which populates Map<String, parameter of Object> Initial Headers.
+PopulateInitialHeadersFailedIssueTest acts as a publisher for observer Service, which tests Populate Initial Headers Failed, which creates Route Builder, which populates Map<String, parameter of Object> Initial Headers.

@@ -1,0 +1,1 @@
+IMethodInfo acts as an abstract factory for IExceptionAttribute, ICodeAttribute, which is inherited by.

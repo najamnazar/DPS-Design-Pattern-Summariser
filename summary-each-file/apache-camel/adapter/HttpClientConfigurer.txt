@@ -1,0 +1,2 @@
+HttpClientConfigurer acts as an adaptee for adapter HttpComponent, which adapts to HttpCommonComponent.
+HttpClientConfigurer acts as an adaptee for adapter HttpEndpoint, which adapts to HttpCommonEndpoint.

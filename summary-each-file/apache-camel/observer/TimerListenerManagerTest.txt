@@ -1,0 +1,2 @@
+TimerListenerManagerTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Timer Listener Manager, which ons Timer, which awaits.
+TimerListenerManagerTest acts as a publisher for observer Service, which is Use Route Builder, which tests Timer Listener Manager, which ons Timer, which awaits.

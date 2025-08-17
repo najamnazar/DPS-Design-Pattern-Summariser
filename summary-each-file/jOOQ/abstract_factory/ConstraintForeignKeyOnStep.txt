@@ -1,0 +1,5 @@
+ConstraintForeignKeyOnStep acts as an abstract product for ConstraintForeignKeyOnStep, which is inherited by ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl.
+ConstraintForeignKeyOnStep acts as an abstract product for ConstraintForeignKeyOnStep, which is inherited by ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl.
+ConstraintForeignKeyOnStep acts as an abstract factory for ConstraintForeignKeyOnStep, which is inherited by ConstraintImpl.
+ConstraintForeignKeyOnStep acts as a product for ConstraintTypeStep, which overrides.
+ConstraintForeignKeyOnStep acts as an abstract product for ConstraintForeignKeyOnStep, which is inherited by ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl, ConstraintImpl.

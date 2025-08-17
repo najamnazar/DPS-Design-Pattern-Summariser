@@ -1,0 +1,2 @@
+ThrottlingExceptionRoutePolicyOpenViaConfigTest acts as a publisher for observer CamelContext, which sets Up, which creates Policy, which tests Throttling Route Policy Start With Always Open Off Then Toggle, which creates Route Builder.
+ThrottlingExceptionRoutePolicyOpenViaConfigTest acts as a publisher for observer Service, which sets Up, which creates Policy, which tests Throttling Route Policy Start With Always Open Off Then Toggle, which creates Route Builder.

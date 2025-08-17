@@ -1,0 +1,2 @@
+ShutdownDeferTest acts as a publisher for observer CamelContext, which tests Shutdown Deferred, which creates Route Builder, which news Processor parameter of processor, GenericFileOperations<File> parameter of operations File Consumer.
+ShutdownDeferTest acts as a publisher for observer Service, which tests Shutdown Deferred, which creates Route Builder, which news Processor parameter of processor, GenericFileOperations<File> parameter of operations File Consumer.

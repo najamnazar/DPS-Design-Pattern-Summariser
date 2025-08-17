@@ -1,0 +1,1 @@
+DummyContainerManager acts as a factory method for LogHandler, which is inherited by ContainerManagerImpl.

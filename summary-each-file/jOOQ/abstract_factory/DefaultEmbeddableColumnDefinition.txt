@@ -1,0 +1,2 @@
+DefaultEmbeddableColumnDefinition acts as a factory for EmbeddableColumnDefinition, which overrides getReferencingColumn method of EmbeddableColumnDefinition, getReferencingColumnPosition method of EmbeddableColumnDefinition.
+DefaultEmbeddableColumnDefinition acts as a product for EmbeddableDefinition, which overrides getReferencingColumn method of EmbeddableColumnDefinition, getReferencingColumnPosition method of EmbeddableColumnDefinition.

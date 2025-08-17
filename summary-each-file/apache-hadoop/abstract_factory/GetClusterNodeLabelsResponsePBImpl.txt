@@ -1,0 +1,1 @@
+GetClusterNodeLabelsResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getNodeLabels method of GetClusterNodeLabelsResponse, setNodeLabels method of GetClusterNodeLabelsResponse, getNodeLabelList method of GetClusterNodeLabelsResponse.

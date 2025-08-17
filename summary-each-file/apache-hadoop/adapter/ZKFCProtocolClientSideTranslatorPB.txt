@@ -1,0 +1,1 @@
+ZKFCProtocolClientSideTranslatorPB acts as an adapter, which adapts to ZKFCProtocol, ProtocolTranslator, which adapts to ZKFCProtocol, ProtocolTranslator, which adapts to ZKFCProtocol, ProtocolTranslator, which adapts to ZKFCProtocol, ProtocolTranslator.

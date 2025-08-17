@@ -1,0 +1,1 @@
+TypeNameMatchRequestor acts as an adaptee for adapter TypeNameMatchRequestorWrapper, which adapts to IRestrictedAccessTypeRequestor.

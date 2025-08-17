@@ -1,0 +1,1 @@
+BeanDefinitionOverrideException acts as a caretaker for memento B, which gets Resource Description, which gets Bean Name, which gets Bean Definition, which gets Existing Definition.

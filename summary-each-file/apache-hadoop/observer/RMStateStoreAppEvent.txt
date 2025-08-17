@@ -1,0 +1,1 @@
+RMStateStoreAppEvent acts as an observer, which gets App State.

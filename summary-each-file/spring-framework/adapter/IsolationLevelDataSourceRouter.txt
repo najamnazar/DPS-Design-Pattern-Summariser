@@ -1,0 +1,1 @@
+IsolationLevelDataSourceRouter acts as an adapter, which adapts to AbstractRoutingDataSource, which adapts to AbstractRoutingDataSource.

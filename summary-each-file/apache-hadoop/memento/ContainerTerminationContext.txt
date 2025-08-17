@@ -1,0 +1,1 @@
+ContainerTerminationContext acts as a caretaker for memento ExecutionType.

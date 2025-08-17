@@ -1,0 +1,5 @@
+XMLTokenizeLanguageStreamingFileTest acts as a publisher for observer Service, which tests From File, which creates Route Builder.
+XMLTokenizeLanguageStreamingFileTest acts as a publisher for observer ProducerTemplate, which tests From File, which creates Route Builder.
+XMLTokenizeLanguageStreamingFileTest acts as a publisher for observer ConsumerTemplate, which tests From File, which creates Route Builder.
+XMLTokenizeLanguageStreamingFileTest acts as a publisher for observer CamelContext, which tests From File, which creates Route Builder.
+XMLTokenizeLanguageStreamingFileTest acts as a publisher for observer FluentProducerTemplate, which tests From File, which creates Route Builder.

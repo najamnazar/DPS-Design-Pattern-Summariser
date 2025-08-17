@@ -1,0 +1,1 @@
+ManagedSendDynamicProcessorMBean acts as a memento, which extends Information, which extends Information, which extends Information, which extends Information, which extends Information, which extends Information, which extends Information.

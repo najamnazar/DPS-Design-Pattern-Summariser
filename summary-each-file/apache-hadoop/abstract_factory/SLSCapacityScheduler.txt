@@ -1,0 +1,3 @@
+SLSCapacityScheduler acts as a factory for Configurable, which overrides setConf method of Configurable, getConf method of Configurable.
+SLSCapacityScheduler acts as a product for CapacitySchedulerPreemptionContext, which overrides setConf method of CapacityScheduler, tryCommit method of CapacityScheduler, serviceStop method of CapacityScheduler, getConf method of CapacityScheduler.
+SLSCapacityScheduler acts as a factory for SchedulerWrapper, which overrides allocatePropagated method of SchedulerWrapper, propagatedHandle method of SchedulerWrapper, setSLSRunner method of SchedulerWrapper, getSLSRunner method of SchedulerWrapper.

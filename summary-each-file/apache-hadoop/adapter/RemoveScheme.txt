@@ -1,0 +1,1 @@
+RemoveScheme acts as an adaptee for adapter RetouchedBloomFilter.

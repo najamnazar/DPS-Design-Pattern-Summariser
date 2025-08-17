@@ -1,0 +1,3 @@
+WebAppConfigurationInterfaceTests acts as a caretaker for memento ApplicationContext, which waces Loaded.
+WebAppConfigurationInterfaceTests acts as a caretaker for memento C, which waces Loaded.
+WebAppConfigurationInterfaceTests acts as a caretaker for memento A, which waces Loaded.

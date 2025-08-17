@@ -1,0 +1,11 @@
+Class acts as an adaptee for adapter ASTRewritingModifyingRemoveTest.
+Class acts as an adaptee for adapter ImportRewriteTest.
+Class acts as an adaptee for adapter ImportRewrite_RecordTest.
+Class acts as an adaptee for adapter ExceptionTestCase.
+Class acts as an adaptee for adapter ASTRewritingModifyingInsertTest.
+Class acts as an adaptee for adapter ASTRewritingExpressionsTest.
+Class acts as an adaptee for adapter ASTRewritingModifyingCopyTest.
+Class acts as an adaptee for adapter ASTRewritingModifyingReplaceTest.
+Class acts as an adaptee for adapter ImportRewrite18Test.
+Class acts as an adaptee for adapter ASTRewritingModifyingOtherTest.
+Class acts as an adaptee for adapter ASTRewritingModifyingMoveTest.

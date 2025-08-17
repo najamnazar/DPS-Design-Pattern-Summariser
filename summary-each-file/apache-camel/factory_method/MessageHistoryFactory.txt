@@ -1,0 +1,1 @@
+MessageHistoryFactory acts as a factory for MetricsMessageHistoryFactory, which overrides.

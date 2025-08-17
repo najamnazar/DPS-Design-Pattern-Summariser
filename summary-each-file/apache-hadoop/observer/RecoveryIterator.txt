@@ -1,0 +1,1 @@
+RecoveryIterator acts as an observer, which has Next, which nexts.

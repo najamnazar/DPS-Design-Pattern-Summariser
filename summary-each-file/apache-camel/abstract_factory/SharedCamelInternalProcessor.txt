@@ -1,0 +1,1 @@
+SharedCamelInternalProcessor acts as a product for InternalProcessorFactory, which overrides.

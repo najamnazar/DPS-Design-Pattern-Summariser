@@ -1,0 +1,2 @@
+RegExRouteTest acts as a publisher for observer CamelContext, which tests Sending Message, which creates Route Builder.
+RegExRouteTest acts as a publisher for observer Service, which tests Sending Message, which creates Route Builder.

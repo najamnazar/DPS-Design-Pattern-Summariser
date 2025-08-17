@@ -1,0 +1,5 @@
+BaseWeatherConsumerIT acts as a publisher for observer CamelContext, which checks String parameter of weather Weather Content, which tests Grabbing List Of Entries.
+BaseWeatherConsumerIT acts as a publisher for observer ConsumerTemplate, which checks String parameter of weather Weather Content, which tests Grabbing List Of Entries.
+BaseWeatherConsumerIT acts as a publisher for observer Service, which checks String parameter of weather Weather Content, which tests Grabbing List Of Entries.
+BaseWeatherConsumerIT acts as a publisher for observer ProducerTemplate, which checks String parameter of weather Weather Content, which tests Grabbing List Of Entries.
+BaseWeatherConsumerIT acts as a publisher for observer FluentProducerTemplate, which checks String parameter of weather Weather Content, which tests Grabbing List Of Entries.

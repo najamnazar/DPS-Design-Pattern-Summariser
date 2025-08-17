@@ -1,0 +1,1 @@
+DataSetEndpoint acts as a product for SplunkEndpoint, which overrides.

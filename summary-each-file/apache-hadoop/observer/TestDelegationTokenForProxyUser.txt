@@ -1,0 +1,1 @@
+TestDelegationTokenForProxyUser acts as a publisher for observer Configuration, which is inherited by, which configures Configuration parameter of conf, String parameter of superUserShortName Super User IPAddresses, which sets Up, which tears Down, which tests Delegation Token With Real User, which tests Web Hdfs Do As.

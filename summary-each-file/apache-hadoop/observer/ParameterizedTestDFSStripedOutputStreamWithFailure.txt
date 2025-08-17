@@ -1,0 +1,1 @@
+ParameterizedTestDFSStripedOutputStreamWithFailure acts as a publisher for observer MiniDFSCluster, which datas, which inits int parameter of pBase Parameterized Test DFSStriped Output Stream With Failure, which runs int parameter of pBase Test With Single Failure.

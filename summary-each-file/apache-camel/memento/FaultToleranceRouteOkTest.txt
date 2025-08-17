@@ -1,0 +1,2 @@
+FaultToleranceRouteOkTest acts as a caretaker for memento Producer, which uses Jmx, which creates Camel Context, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceRouteOkTest acts as a caretaker for memento Context, which uses Jmx, which creates Camel Context, which tests Fault Tolerance, which creates Route Builder.

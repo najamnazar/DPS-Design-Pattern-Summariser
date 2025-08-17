@@ -1,0 +1,1 @@
+GpuNodeResourceUpdateHandler acts as a product for ResourcePlugin, which overrides updateConfiguredResource method of NodeResourceUpdaterPlugin.

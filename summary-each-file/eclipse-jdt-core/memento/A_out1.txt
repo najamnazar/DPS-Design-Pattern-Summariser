@@ -1,0 +1,1 @@
+A_out1 acts as a caretaker for memento S, which gets M parameter of key, N parameter of value Map, which gets M parameter of key, N parameter of value Map, which gets String parameter of key, String parameter of value Map, which creates String parameter of param1, String parameter of param2 AMap.

@@ -1,0 +1,1 @@
+AbstractDataSource acts as a target for adapter AbstractRoutingDataSource, which adapts to AbstractDataSource, which adapts to AbstractDataSource, which adapts to AbstractDataSource, which adapts to AbstractDataSource, which adapts to AbstractDataSource, which adapts to AbstractDataSource, which adapts to AbstractDataSource.

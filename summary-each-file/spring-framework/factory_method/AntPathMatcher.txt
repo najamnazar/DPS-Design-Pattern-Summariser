@@ -1,0 +1,1 @@
+AntPathMatcher acts as a product for MessageBrokerRegistry, which overrides match method of PathMatcher, matchStart method of PathMatcher, extractPathWithinPattern method of PathMatcher, extractUriTemplateVariables method of PathMatcher, combine method of PathMatcher, getPatternComparator method of PathMatcher.

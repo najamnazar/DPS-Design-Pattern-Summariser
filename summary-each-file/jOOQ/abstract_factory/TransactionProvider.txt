@@ -1,0 +1,1 @@
+TransactionProvider acts as an abstract product for TransactionProvider, which is inherited by NoTransactionProvider, ThreadLocalTransactionProvider, SpringTransactionProvider, DefaultTransactionProvider.

@@ -1,0 +1,2 @@
+SplunkTest acts as a caretaker for memento Producer, which inits.
+SplunkTest acts as a caretaker for memento Context, which inits.

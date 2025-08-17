@@ -1,0 +1,1 @@
+DefaultRestRegistryFactory acts as a factory for RestRegistryFactory, which overrides createRegistry method of RestRegistryFactory.

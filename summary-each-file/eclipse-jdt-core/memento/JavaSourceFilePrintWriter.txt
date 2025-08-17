@@ -1,0 +1,4 @@
+JavaSourceFilePrintWriter acts as a caretaker for memento E, which closes.
+JavaSourceFilePrintWriter acts as a caretaker for memento S, which closes.
+JavaSourceFilePrintWriter acts as a caretaker for memento String, which closes.
+JavaSourceFilePrintWriter acts as a caretaker for memento C, which closes.

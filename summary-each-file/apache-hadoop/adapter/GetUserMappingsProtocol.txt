@@ -1,0 +1,6 @@
+GetUserMappingsProtocol acts as a target for adapter RouterUserProtocol, which adapts to GetUserMappingsProtocol.
+GetUserMappingsProtocol acts as a target for adapter GetUserMappingsProtocolClientSideTranslatorPB, which adapts to GetUserMappingsProtocol.
+GetUserMappingsProtocol acts as an adaptee for adapter RouterRpcServer, which adapts to GetUserMappingsProtocol, RefreshUserMappingsProtocol, AbstractService, NamenodeProtocol.
+GetUserMappingsProtocol acts as an adaptee for adapter RouterUserProtocol, which adapts to GetUserMappingsProtocol, RefreshUserMappingsProtocol.
+GetUserMappingsProtocol acts as a target for adapter RouterRpcServer, which adapts to GetUserMappingsProtocol.
+GetUserMappingsProtocol acts as an adaptee for adapter GetUserMappingsProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface, GetUserMappingsProtocol.

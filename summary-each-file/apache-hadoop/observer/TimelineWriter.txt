@@ -1,0 +1,1 @@
+TimelineWriter acts as an observer for publisher TestTimelineClient, which is inherited by NoOpTimelineWriterImpl, FileSystemTimelineWriter, FileSystemTimelineWriterImpl, TimelineStore, DocumentStoreTimelineWriterImpl, DirectTimelineWriter, HBaseTimelineWriterImpl, which puts TimelineEntities parameter of data, which puts TimelineDomain parameter of domain.

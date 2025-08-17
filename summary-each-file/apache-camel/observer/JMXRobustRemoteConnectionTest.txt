@@ -1,0 +1,2 @@
+JMXRobustRemoteConnectionTest acts as a publisher for observer SimpleRegistry, which sets Up, which tears Down, which inits Server, which builds From URI, which tests Robust Connection.
+JMXRobustRemoteConnectionTest acts as a publisher for observer DefaultCamelContext, which sets Up, which tears Down, which inits Server, which builds From URI, which tests Robust Connection.

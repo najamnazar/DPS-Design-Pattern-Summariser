@@ -1,0 +1,1 @@
+LoadTimeWeavingConfiguration acts as a publisher for observer LoadTimeWeavingConfigurer, which is inherited by, which sets AnnotationMetadata parameter of importMetadata Import Metadata, which sets LoadTimeWeavingConfigurer parameter of ltwConfigurer Load Time Weaving Configurer, which sets ClassLoader parameter of beanClassLoader Bean Class Loader, which loads Time Weaver.

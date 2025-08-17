@@ -1,0 +1,2 @@
+DynamicRouter acts as a publisher for observer AsyncProcessor, which creates Exchange parameter of exchange, Expression parameter of expression Routing Slip Iterator, which has Exchange parameter of exchange Next, which nexts Exchange parameter of exchange.
+DynamicRouter acts as a publisher for observer Expression, which is inherited by, which creates Exchange parameter of exchange, Expression parameter of expression Routing Slip Iterator, which has Exchange parameter of exchange Next, which nexts Exchange parameter of exchange.

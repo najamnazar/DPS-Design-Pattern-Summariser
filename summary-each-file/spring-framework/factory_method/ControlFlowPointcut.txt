@@ -1,0 +1,2 @@
+ControlFlowPointcut acts as a product for AspectJExpressionPointcutAdvisor, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.
+ControlFlowPointcut acts as a product for AnnotationMatchingPointcut, which overrides matches method of MethodMatcher, isRuntime method of MethodMatcher, matches method of MethodMatcher.

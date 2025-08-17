@@ -1,0 +1,1 @@
+ApplicationLocalizationEvent acts as an observer, which gets Application.

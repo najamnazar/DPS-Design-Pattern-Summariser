@@ -1,0 +1,1 @@
+CachedCxfPayloadTest acts as a publisher for observer Exchange, which tests Cached Cxf Payload SAXSource, which tests Cached Cxf Payload St AXSource, which tests Cached Cxf Payload Stax Source, which tests Cached Cxf Payload DOMSource, which tests Cached Cxf Payload Stream Source, which does Object parameter of source, String parameter of payload Test.

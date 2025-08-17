@@ -1,0 +1,1 @@
+ElasticsearchClusterIndexIT acts as a caretaker for memento Context, which indexes With Ip And Port, which indexes With Sniffer Enable, which creates Route Builder.

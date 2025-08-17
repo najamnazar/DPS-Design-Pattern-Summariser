@@ -1,0 +1,2 @@
+SpringValidatorAdapter acts as a factory for SpringValidatorAdapter, which overrides getCodes method of SpringValidatorAdapter, getArguments method of SpringValidatorAdapter, getDefaultMessage method of SpringValidatorAdapter.
+SpringValidatorAdapter acts as a factory method for MessageSourceResolvable, which is inherited by SpringValidatorAdapter, SpringValidatorAdapter.

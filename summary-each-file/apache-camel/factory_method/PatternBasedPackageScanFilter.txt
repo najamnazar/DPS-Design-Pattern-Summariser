@@ -1,0 +1,1 @@
+PatternBasedPackageScanFilter acts as a product for DefaultPackageScanClassResolver, which overrides.

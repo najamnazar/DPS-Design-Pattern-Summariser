@@ -1,0 +1,2 @@
+SimpleResultTypeRouteTest acts as a publisher for observer Service, which tests Simple Result Type Foo, which tests Simple Result Type Bar, which creates Route Builder.
+SimpleResultTypeRouteTest acts as a publisher for observer CamelContext, which tests Simple Result Type Foo, which tests Simple Result Type Bar, which creates Route Builder.

@@ -1,0 +1,1 @@
+SoftClassCache acts as an adaptee for adapter JRTUtil, which adapts clear method of SoftClassCache to JrtFileSystem, which adapts to JrtFileSystem, which adapts to JrtFileSystem, which adapts to JrtFileSystem, which adapts to JrtFileSystem.

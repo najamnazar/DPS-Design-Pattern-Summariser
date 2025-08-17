@@ -1,0 +1,1 @@
+InputDemuxer acts as an observer, which binds Path parameter of path, Configuration parameter of conf To, which gets Next.

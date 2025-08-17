@@ -1,0 +1,2 @@
+ZipDeflaterDataFormat acts as a product for DataFormatDefinitionAware, which overrides.
+ZipDeflaterDataFormat acts as a product for Model, which overrides.

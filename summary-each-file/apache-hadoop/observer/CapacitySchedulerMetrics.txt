@@ -1,0 +1,4 @@
+CapacitySchedulerMetrics acts as a publisher for observer SchedulerEventType.
+CapacitySchedulerMetrics acts as a publisher for observer Resource.
+CapacitySchedulerMetrics acts as a publisher for observer ResourceScheduler.
+CapacitySchedulerMetrics acts as a publisher for observer Configuration.

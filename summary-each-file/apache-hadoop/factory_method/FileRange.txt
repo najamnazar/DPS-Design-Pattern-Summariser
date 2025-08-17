@@ -1,0 +1,2 @@
+FileRange acts as an abstract product for TestVectoredReadUtils, which is inherited by FileRangeImpl.
+FileRange acts as a factory for TestVectoredReadUtils, which overrides.

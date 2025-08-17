@@ -1,0 +1,2 @@
+SplitGroupSkipFirstTest acts as a publisher for observer CamelContext, which tests Split Skip First, which tests Split Skip First Only Header, which creates Route Builder.
+SplitGroupSkipFirstTest acts as a publisher for observer Service, which tests Split Skip First, which tests Split Skip First Only Header, which creates Route Builder.

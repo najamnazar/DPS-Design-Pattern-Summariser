@@ -1,0 +1,2 @@
+STS2ComponentVerifierExtension acts as a caretaker for memento Context, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.
+STS2ComponentVerifierExtension acts as a caretaker for memento Component, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.

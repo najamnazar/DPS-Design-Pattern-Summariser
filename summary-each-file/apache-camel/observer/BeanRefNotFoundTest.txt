@@ -1,0 +1,2 @@
+BeanRefNotFoundTest acts as a publisher for observer CamelContext, which creates Registry, which tests Bean Ref Not Found, which is Use Route Builder.
+BeanRefNotFoundTest acts as a publisher for observer Service, which creates Registry, which tests Bean Ref Not Found, which is Use Route Builder.

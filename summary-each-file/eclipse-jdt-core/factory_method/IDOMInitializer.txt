@@ -1,0 +1,1 @@
+IDOMInitializer acts as an abstract product for DOMBuilder, which is inherited by DOMInitializer.

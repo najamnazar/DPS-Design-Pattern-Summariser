@@ -1,0 +1,1 @@
+TestProgressMonitor acts as a singleton, which gets a TestProgressMonitor Instance to testMoveMethodsWithCancel method of CopyMoveElementsTests, testRenameFieldsWithCancel method of RenameTests, testCancel method of TypeHierarchyTests, testDeleteField2 method of DeleteTests, testMoveMethodsWithCancelInDifferentProject method of CopyMoveElementsTests.

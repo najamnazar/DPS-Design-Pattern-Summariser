@@ -1,0 +1,2 @@
+FileMetadata acts as an adapter, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus.
+FileMetadata acts as an adaptee for adapter NativeAzureFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

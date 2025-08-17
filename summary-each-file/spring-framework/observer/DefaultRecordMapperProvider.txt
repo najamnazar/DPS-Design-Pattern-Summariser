@@ -1,0 +1,1 @@
+DefaultRecordMapperProvider acts as an observer, which provides final parameter of RecordType<R>, final parameter of Class<?

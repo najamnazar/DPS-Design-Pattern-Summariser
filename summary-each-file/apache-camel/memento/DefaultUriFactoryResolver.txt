@@ -1,0 +1,1 @@
+DefaultUriFactoryResolver acts as a caretaker for memento Context, which is inherited by, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which resolves final parameter of String, CamelContext parameter of context Factory, which finds String parameter of name, CamelContext parameter of context Factory.

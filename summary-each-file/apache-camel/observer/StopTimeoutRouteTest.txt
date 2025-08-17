@@ -1,0 +1,2 @@
+StopTimeoutRouteTest acts as a publisher for observer CamelContext, which tests Stop Timeout, which creates Route Builder.
+StopTimeoutRouteTest acts as a publisher for observer Service, which tests Stop Timeout, which creates Route Builder.

@@ -1,0 +1,1 @@
+InjectAdapter acts as an abstract product for InjectAdapter, which is inherited by CamelHeadersInjectAdapter, CamelMessagingHeadersInjectAdapter.

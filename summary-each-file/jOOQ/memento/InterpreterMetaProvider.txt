@@ -1,0 +1,1 @@
+InterpreterMetaProvider acts as a memento, which loads DSLContext parameter of ctx, Source parameter of source, Interpreter parameter of interpreter Source, which loads DSLContext parameter of ctx, Source parameter of source, Interpreter parameter of interpreter Source.

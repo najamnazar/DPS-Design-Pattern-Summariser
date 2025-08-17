@@ -1,0 +1,1 @@
+FSCheckpointService acts as a factory for CheckpointService, which overrides open method of CheckpointService, commit method of CheckpointService, abort method of CheckpointService, delete method of CheckpointService.

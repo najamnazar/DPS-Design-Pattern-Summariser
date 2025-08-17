@@ -1,0 +1,1 @@
+CuratorService acts as a decorator for component RegistryBindingSource, which is inherited by RegistryOperationsService.

@@ -1,0 +1,1 @@
+JdtApt acts as a publisher for observer File, which is inherited by, which sets File parameter of file Workspace, which sets File parameter of file Eclipse Home, which executes.

@@ -1,0 +1,5 @@
+JGroupsSharedChannelTest acts as a publisher for observer ConsumerTemplate, which tests Stop Start Producer, which tests Stop Start Consumer, which tests Send Receive, which creates Route Builder.
+JGroupsSharedChannelTest acts as a publisher for observer Service, which tests Stop Start Producer, which tests Stop Start Consumer, which tests Send Receive, which creates Route Builder.
+JGroupsSharedChannelTest acts as a publisher for observer CamelContext, which tests Stop Start Producer, which tests Stop Start Consumer, which tests Send Receive, which creates Route Builder.
+JGroupsSharedChannelTest acts as a publisher for observer FluentProducerTemplate, which tests Stop Start Producer, which tests Stop Start Consumer, which tests Send Receive, which creates Route Builder.
+JGroupsSharedChannelTest acts as a publisher for observer ProducerTemplate, which tests Stop Start Producer, which tests Stop Start Consumer, which tests Send Receive, which creates Route Builder.

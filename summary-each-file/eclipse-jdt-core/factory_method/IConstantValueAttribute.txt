@@ -1,0 +1,2 @@
+IConstantValueAttribute acts as a factory for IConstantValueAttribute, which overrides.
+IConstantValueAttribute acts as a factory method for IConstantPoolEntry, which is inherited by IConstantValueAttribute, IAnnotationComponentValue.

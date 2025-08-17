@@ -1,0 +1,1 @@
+LocalVariableAttribute acts as a product for CodeAttribute, which overrides getLocalVariableTable method of ILocalVariableAttribute, getLocalVariableTableLength method of ILocalVariableAttribute.

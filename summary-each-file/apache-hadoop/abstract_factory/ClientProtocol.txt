@@ -1,0 +1,1 @@
+ClientProtocol acts as an abstract factory for HdfsFileStatus, LocatedBlock, QuotaUsage, which is inherited by RouterRpcServer, RouterClientProtocol, ClientNamenodeProtocolTranslatorPB, YARNRunner, LocalJobRunner.

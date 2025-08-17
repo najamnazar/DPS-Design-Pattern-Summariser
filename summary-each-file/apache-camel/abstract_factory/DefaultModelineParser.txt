@@ -1,0 +1,1 @@
+DefaultModelineParser acts as a factory for ModelineParser, which overrides addTrait method of ModelineParser, parse method of ModelineParser, parseModeline method of ModelineParser, isModeline method of ModelineParser.

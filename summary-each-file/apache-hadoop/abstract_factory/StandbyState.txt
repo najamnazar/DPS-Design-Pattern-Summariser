@@ -1,0 +1,1 @@
+StandbyState acts as a product for HAContext, which overrides setState method of HAState, shouldPopulateReplQueues method of HAState, toString method of HAState.

@@ -1,0 +1,2 @@
+JpaProducerWithQueryTest acts as a caretaker for memento Producer, which tests Producer With Named Query, which tests Producer With Query, which tests Producer With Native Query, which tests Producer With Native Query And Result Class, which sets Up, which tears Down.
+JpaProducerWithQueryTest acts as a caretaker for memento Context, which tests Producer With Named Query, which tests Producer With Query, which tests Producer With Native Query, which tests Producer With Native Query And Result Class, which sets Up, which tears Down.

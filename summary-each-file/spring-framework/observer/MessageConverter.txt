@@ -1,0 +1,2 @@
+MessageConverter acts as an observer for publisher AbstractMessageSendingTemplate, which is inherited by SmartMessageConverter, MarshallingMessageConverter, SimpleMessageConverter, MessagingMessageConverter, which tos Object parameter of object, Session parameter of session Message, which froms Message parameter of message Message.
+MessageConverter acts as a publisher for observer Message, which is inherited by MarshallingMessageConverter, which tos Object parameter of object, Session parameter of session Message, which froms Message parameter of message Message.

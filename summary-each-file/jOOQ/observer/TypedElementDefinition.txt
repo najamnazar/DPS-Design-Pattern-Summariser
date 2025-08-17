@@ -1,0 +1,1 @@
+TypedElementDefinition acts as an observer, which gets Type, which gets JavaTypeResolver parameter of resolver Type, which gets Defined Type, which gets Container, which gets Domain.

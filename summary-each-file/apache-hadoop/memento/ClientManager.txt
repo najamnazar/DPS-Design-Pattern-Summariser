@@ -1,0 +1,1 @@
+ClientManager acts as a memento, which is inherited by S3AStore, ClientManagerImpl, which gets Or Create Async S3Client Unchecked, which gets Or Create Async S3Client Unchecked, which gets Or Create Async S3Client Unchecked, which gets Or Create Async S3Client Unchecked, which gets Or Create Async S3Client Unchecked, which gets Or Create Async S3Client Unchecked.

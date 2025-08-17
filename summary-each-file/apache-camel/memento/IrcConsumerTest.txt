@@ -1,0 +1,2 @@
+IrcConsumerTest acts as a caretaker for memento Configuration, which does Setup, which does Stop Test, which does Start Test.
+IrcConsumerTest acts as a caretaker for memento Context, which does Setup, which does Stop Test, which does Start Test.

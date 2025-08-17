@@ -1,0 +1,1 @@
+ResourceLoaderAware acts as a publisher for observer ResourceLoader, which is inherited by ScriptFactoryPostProcessor, SchedulerAccessor, ConfigurationClassPostProcessor, which sets ResourceLoader parameter of resourceLoader Resource Loader.

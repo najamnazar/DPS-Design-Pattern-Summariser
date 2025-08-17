@@ -1,0 +1,1 @@
+CachingMetadataReaderLeakTests acts as a caretaker for memento MetadataReader, which significants Load.

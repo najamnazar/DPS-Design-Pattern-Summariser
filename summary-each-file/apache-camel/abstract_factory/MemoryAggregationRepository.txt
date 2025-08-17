@@ -1,0 +1,1 @@
+MemoryAggregationRepository acts as a factory for OptimisticLockingAggregationRepository, which overrides add method of OptimisticLockingAggregationRepository, remove method of OptimisticLockingAggregationRepository.

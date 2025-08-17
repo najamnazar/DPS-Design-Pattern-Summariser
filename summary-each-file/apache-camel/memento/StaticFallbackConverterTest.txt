@@ -1,0 +1,2 @@
+StaticFallbackConverterTest acts as a caretaker for memento Context, which is Load Type Converters, which tests Static Fallback Converter, which tests Static Fallback Mandatory Converter, which tests Static Fallback Mandatory Failed, which tests Static Fallback Failed.
+StaticFallbackConverterTest acts as a caretaker for memento Producer, which is Load Type Converters, which tests Static Fallback Converter, which tests Static Fallback Mandatory Converter, which tests Static Fallback Mandatory Failed, which tests Static Fallback Failed.

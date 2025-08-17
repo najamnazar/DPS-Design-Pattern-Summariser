@@ -1,0 +1,1 @@
+CuratorService acts as a factory for RegistryBindingSource, which overrides supplyBindingInformation method of RegistryBindingSource.

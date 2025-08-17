@@ -1,0 +1,1 @@
+BatchGetItemsCommand acts as a caretaker for memento Configuration, which executes, which determines Batch Items.

@@ -1,0 +1,1 @@
+MigrationListener acts as an abstract product for DefaultMigrationListenerProvider, which is inherited by MigrationListeners, DefaultMigrationListener.

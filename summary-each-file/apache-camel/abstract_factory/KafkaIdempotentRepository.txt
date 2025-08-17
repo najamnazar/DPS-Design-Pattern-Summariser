@@ -1,0 +1,2 @@
+KafkaIdempotentRepository acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.
+KafkaIdempotentRepository acts as a product for InfinispanIdempotentRepositoryTestSupport, which overrides add method of IdempotentRepository, contains method of IdempotentRepository, remove method of IdempotentRepository, confirm method of IdempotentRepository, clear method of IdempotentRepository.

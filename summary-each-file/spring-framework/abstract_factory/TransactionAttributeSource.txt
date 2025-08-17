@@ -1,0 +1,1 @@
+TransactionAttributeSource acts as an abstract factory for TransactionAttribute, which is inherited by MatchAlwaysTransactionAttributeSource, CompositeTransactionAttributeSource, NameMatchTransactionAttributeSource, MethodMapTransactionAttributeSource, AbstractFallbackTransactionAttributeSource.

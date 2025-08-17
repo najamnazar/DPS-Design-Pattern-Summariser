@@ -1,0 +1,1 @@
+InternalProcessor acts as an adaptee for adapter CamelInternalProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.

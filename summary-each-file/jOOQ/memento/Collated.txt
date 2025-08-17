@@ -1,0 +1,1 @@
+Collated acts as a caretaker for memento Collation, which binds Field<?> parameter of field, which types Field<?> parameter of field, which accepts Context<?> parameter of ctx, which $fields, which $collations.

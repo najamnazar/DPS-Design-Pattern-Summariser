@@ -1,0 +1,1 @@
+NamenodeRegistration acts as an observer for publisher BackupJournalManager, which is inherited by, which gets Address, which gets Http Address, which gets Registration ID, which gets Version, which tos String, which gets Role, which is NamenodeRole parameter of that Role.

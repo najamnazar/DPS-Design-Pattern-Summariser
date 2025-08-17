@@ -1,0 +1,1 @@
+InfinispanEventListener acts as a publisher for observer InfinispanEventProcessor, which is inherited by, which gets Cache Name, which sets String parameter of cacheName Cache Name, which gets Event Processor, which sets InfinispanEventProcessor parameter of eventProcessor Event Processor, which gets Events, which is T parameter of eventType Accepted.

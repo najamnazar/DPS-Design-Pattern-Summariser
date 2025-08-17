@@ -1,0 +1,5 @@
+MailDoNotDeleteIfProcessFailsTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.
+MailDoNotDeleteIfProcessFailsTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.
+MailDoNotDeleteIfProcessFailsTest acts as a publisher for observer Service, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.
+MailDoNotDeleteIfProcessFailsTest acts as a publisher for observer CamelContext, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.
+MailDoNotDeleteIfProcessFailsTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.

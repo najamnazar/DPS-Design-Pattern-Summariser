@@ -1,0 +1,1 @@
+StreamLimiter acts as an observer for publisher FSEditLogOp, which is inherited by, which sets long parameter of limit Limit, which clears Limit.

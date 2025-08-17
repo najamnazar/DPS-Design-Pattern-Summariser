@@ -1,0 +1,5 @@
+MvelComponentTest acts as a publisher for observer ProducerTemplate, which tests Mvel, which tests Mvel Template, which tests Mvel Uri, which creates Route Builder.
+MvelComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Mvel, which tests Mvel Template, which tests Mvel Uri, which creates Route Builder.
+MvelComponentTest acts as a publisher for observer ConsumerTemplate, which tests Mvel, which tests Mvel Template, which tests Mvel Uri, which creates Route Builder.
+MvelComponentTest acts as a publisher for observer Service, which tests Mvel, which tests Mvel Template, which tests Mvel Uri, which creates Route Builder.
+MvelComponentTest acts as a publisher for observer CamelContext, which tests Mvel, which tests Mvel Template, which tests Mvel Uri, which creates Route Builder.

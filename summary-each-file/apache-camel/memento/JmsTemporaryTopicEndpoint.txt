@@ -1,0 +1,1 @@
+JmsTemporaryTopicEndpoint acts as a caretaker for memento Configuration, which is Singleton, which gets Session parameter of session Jms Destination, which creates Session parameter of session Jms Destination.

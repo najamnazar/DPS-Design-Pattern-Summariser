@@ -1,0 +1,1 @@
+CMSender acts as an adaptee for adapter CMProducer, which adapts to DefaultProducer.

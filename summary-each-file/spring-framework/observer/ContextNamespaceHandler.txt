@@ -1,0 +1,2 @@
+ContextNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.
+ContextNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.

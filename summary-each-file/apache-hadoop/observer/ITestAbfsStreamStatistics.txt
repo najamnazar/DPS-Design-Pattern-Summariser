@@ -1,0 +1,2 @@
+ITestAbfsStreamStatistics acts as a publisher for observer AzureBlobFileSystem, which tests Abfs Stream Ops, which asserts String parameter of operation, long parameter of expectedValue, long parameter of actualValue Read Write Ops.
+ITestAbfsStreamStatistics acts as a publisher for observer Configuration, which tests Abfs Stream Ops, which asserts String parameter of operation, long parameter of expectedValue, long parameter of actualValue Read Write Ops.

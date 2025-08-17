@@ -1,0 +1,3 @@
+SchedulerConsumer acts as a publisher for observer PollingConsumerPollStrategy, which initials Health Check State, which gets Endpoint, which polls, which sends Timer Exchange, which does Start, which does Stop.
+SchedulerConsumer acts as a publisher for observer LoggingLevel, which initials Health Check State, which gets Endpoint, which polls, which sends Timer Exchange, which does Start, which does Stop.
+SchedulerConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which initials Health Check State, which gets Endpoint, which polls, which sends Timer Exchange, which does Start, which does Stop.

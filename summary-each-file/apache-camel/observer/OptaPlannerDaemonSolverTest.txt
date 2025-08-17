@@ -1,0 +1,5 @@
+OptaPlannerDaemonSolverTest acts as a publisher for observer ProducerTemplate, which tests Asynchronous Problem Solving, which creates Route Builder, which does ScoreDirector<Object> parameter of scoreDirector Change.
+OptaPlannerDaemonSolverTest acts as a publisher for observer CamelContext, which tests Asynchronous Problem Solving, which creates Route Builder, which does ScoreDirector<Object> parameter of scoreDirector Change.
+OptaPlannerDaemonSolverTest acts as a publisher for observer ConsumerTemplate, which tests Asynchronous Problem Solving, which creates Route Builder, which does ScoreDirector<Object> parameter of scoreDirector Change.
+OptaPlannerDaemonSolverTest acts as a publisher for observer FluentProducerTemplate, which tests Asynchronous Problem Solving, which creates Route Builder, which does ScoreDirector<Object> parameter of scoreDirector Change.
+OptaPlannerDaemonSolverTest acts as a publisher for observer Service, which tests Asynchronous Problem Solving, which creates Route Builder, which does ScoreDirector<Object> parameter of scoreDirector Change.

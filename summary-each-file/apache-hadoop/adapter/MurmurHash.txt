@@ -1,0 +1,2 @@
+MurmurHash acts as an adapter, which adapts to Hash, which adapts hash method of MurmurHash, hash method of MurmurHash to Hash, which adapts hash method of MurmurHash, hash method of MurmurHash to Hash.
+MurmurHash acts as an adaptee for adapter MurmurHash, which adapts to Hash, which adapts hash method of MurmurHash, hash method of MurmurHash to Hash, which adapts hash method of MurmurHash, hash method of MurmurHash to Hash.

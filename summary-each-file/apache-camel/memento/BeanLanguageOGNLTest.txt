@@ -1,0 +1,2 @@
+BeanLanguageOGNLTest acts as a caretaker for memento Context, which tests Bean Language OGNL, which creates Route Builder, which gets Other, which greets String parameter of name.
+BeanLanguageOGNLTest acts as a caretaker for memento Producer, which tests Bean Language OGNL, which creates Route Builder, which gets Other, which greets String parameter of name.

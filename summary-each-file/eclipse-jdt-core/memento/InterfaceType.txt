@@ -1,0 +1,1 @@
+InterfaceType acts as a memento, which gets Declaration.

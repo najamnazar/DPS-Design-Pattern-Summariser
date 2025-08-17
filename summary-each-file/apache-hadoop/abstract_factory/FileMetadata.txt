@@ -1,0 +1,2 @@
+FileMetadata acts as a product for FSWrapper, which overrides getPath method of FileStatus.
+FileMetadata acts as a product for HdfsFileStatus, which overrides getPath method of FileStatus.

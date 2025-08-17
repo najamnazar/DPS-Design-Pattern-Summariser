@@ -1,0 +1,1 @@
+XJEndpoint acts as an adapter, which adapts to XsltSaxonEndpoint, which adapts to XsltSaxonEndpoint, which adapts to XsltSaxonEndpoint, which adapts to XsltSaxonEndpoint, which adapts to XsltSaxonEndpoint, which adapts to XsltSaxonEndpoint, which adapts to XsltSaxonEndpoint.

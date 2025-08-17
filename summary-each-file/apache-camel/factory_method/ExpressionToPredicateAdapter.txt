@@ -1,0 +1,1 @@
+ExpressionToPredicateAdapter acts as a product for ErrorHandlerReifier, which overrides matches method of Predicate, init method of Predicate.

@@ -1,0 +1,1 @@
+HAState acts as an abstract product for HAState, which is inherited by ActiveState, BackupState, StandbyState.

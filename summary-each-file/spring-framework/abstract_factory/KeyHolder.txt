@@ -1,0 +1,1 @@
+KeyHolder acts as an abstract product for KeyHolder, which is inherited by GeneratedKeyHolder, GeneratedKeyHolder.

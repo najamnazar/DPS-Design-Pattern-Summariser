@@ -1,0 +1,1 @@
+Etcd3RemoteService acts as a visitor for element ExtendedCamelContext, which overrides, which registers a Properties to, which initializes, which shutdowns, which gets a Service Address to.

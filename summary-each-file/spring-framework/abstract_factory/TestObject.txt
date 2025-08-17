@@ -1,0 +1,2 @@
+TestObject acts as a factory for ITestObject, which overrides getName method of ITestObject, setName method of ITestObject, getAge method of ITestObject, setAge method of ITestObject, getSpouse method of ITestObject, setSpouse method of ITestObject.
+TestObject acts as an abstract product for TestObject, which is inherited by DerivedTestObject.

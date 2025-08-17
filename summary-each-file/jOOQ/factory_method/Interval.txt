@@ -1,0 +1,2 @@
+Interval acts as an abstract product for Expression, which is inherited by YearToSecond, DayToSecond, YearToMonth.
+Interval acts as a factory for Expression, which overrides.

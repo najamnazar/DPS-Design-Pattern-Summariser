@@ -1,0 +1,1 @@
+QJournalProtocolPB acts as an adaptee for adapter QJournalProtocolTranslatorPB.

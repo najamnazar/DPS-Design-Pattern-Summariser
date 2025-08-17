@@ -1,0 +1,2 @@
+OnCompletionShutdownProcessorTest acts as a publisher for observer CamelContext, which tests Synchronize Complete, which creates Route Builder, which processes Exchange parameter of exchange, which does Start, which does Stop.
+OnCompletionShutdownProcessorTest acts as a publisher for observer Service, which tests Synchronize Complete, which creates Route Builder, which processes Exchange parameter of exchange, which does Start, which does Stop.

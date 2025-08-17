@@ -1,0 +1,2 @@
+PropagatedHeadersProvider acts as a publisher for observer Exchange, which is inherited by, which gets Default Headers, which gets Exchange parameter of childExchange, Message parameter of childMessage Headers.
+PropagatedHeadersProvider acts as a publisher for observer Message, which is inherited by, which gets Default Headers, which gets Exchange parameter of childExchange, Message parameter of childMessage Headers.

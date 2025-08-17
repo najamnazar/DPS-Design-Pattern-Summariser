@@ -1,0 +1,1 @@
+NotFoundIntegrationTest acts as a caretaker for memento Component, which shoulds Not Report Not Found Exception From Rest Api If Configured Not To, which shoulds Report Not Found Exception From Rest Api.

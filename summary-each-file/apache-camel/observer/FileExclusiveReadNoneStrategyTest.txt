@@ -1,0 +1,2 @@
+FileExclusiveReadNoneStrategyTest acts as a publisher for observer Service, which creates Route Builder, which tests Poll File While Slow File Is Being Written, which processes Exchange parameter of exchange.
+FileExclusiveReadNoneStrategyTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Poll File While Slow File Is Being Written, which processes Exchange parameter of exchange.

@@ -1,0 +1,2 @@
+JmsComponent acts as a factory for ActiveMQQueueEndpoint, which overrides.
+JmsComponent acts as a factory for JmsConfiguration, which overrides.

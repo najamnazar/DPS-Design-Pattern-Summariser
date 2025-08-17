@@ -1,0 +1,1 @@
+Coerce acts as a caretaker for memento A, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which is Possibly Nullable, which ases Name parameter of alias, which renders Context<?> parameter of ctx Content, which declares Fields, which declares Tables, which declares Windows, which declares CTE, which generates Cast, which $fields.

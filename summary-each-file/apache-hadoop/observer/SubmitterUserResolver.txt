@@ -1,0 +1,3 @@
+SubmitterUserResolver acts as an observer, which sets URI parameter of userdesc, Configuration parameter of conf Target Users, which gets UserGroupInformation parameter of ugi Target Ugi, which needs Target Users List.
+SubmitterUserResolver acts as a publisher for observer UserGroupInformation, which is inherited by, which sets URI parameter of userdesc, Configuration parameter of conf Target Users, which gets UserGroupInformation parameter of ugi Target Ugi, which needs Target Users List.
+SubmitterUserResolver acts as a publisher for observer UserGroupInformation, which sets URI parameter of userdesc, Configuration parameter of conf Target Users, which gets UserGroupInformation parameter of ugi Target Ugi, which needs Target Users List.

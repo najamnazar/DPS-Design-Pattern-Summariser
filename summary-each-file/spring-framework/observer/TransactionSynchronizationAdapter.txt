@@ -1,0 +1,1 @@
+TransactionSynchronizationAdapter acts as an observer, which gets Order, which suspends, which resumes, which flushes, which befores boolean parameter of readOnly Commit, which befores Completion, which afters Commit, which afters int parameter of status Completion.

@@ -1,0 +1,5 @@
+PubNubTestBase acts as a publisher for observer ProducerTemplate, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.
+PubNubTestBase acts as a publisher for observer ConsumerTemplate, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.
+PubNubTestBase acts as a publisher for observer Service, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.
+PubNubTestBase acts as a publisher for observer CamelContext, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.
+PubNubTestBase acts as a publisher for observer FluentProducerTemplate, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.

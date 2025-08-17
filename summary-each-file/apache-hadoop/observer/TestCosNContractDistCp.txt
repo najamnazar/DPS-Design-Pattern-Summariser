@@ -1,0 +1,2 @@
+TestCosNContractDistCp acts as a publisher for observer Path, which creates Configuration parameter of conf Contract, which creates Configuration.
+TestCosNContractDistCp acts as a publisher for observer FileSystem, which creates Configuration parameter of conf Contract, which creates Configuration.

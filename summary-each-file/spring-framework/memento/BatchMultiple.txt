@@ -1,0 +1,2 @@
+BatchMultiple acts as a caretaker for memento C, which sizes, which subscribes Subscriber<? parameter of super, which executes, which executes final parameter of Configuration, final parameter of Query[].
+BatchMultiple acts as a caretaker for memento Configuration, which sizes, which subscribes Subscriber<? parameter of super, which executes, which executes final parameter of Configuration, final parameter of Query[].

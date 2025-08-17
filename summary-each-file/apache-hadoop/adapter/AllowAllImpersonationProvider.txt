@@ -1,0 +1,1 @@
+AllowAllImpersonationProvider acts as an adapter, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider.

@@ -1,0 +1,2 @@
+MailMessageTest acts as a caretaker for memento Producer, which tests Mail Message Handles Multiple Headers, which tests Mail Message Handles Single Header, which sets Up, which resolves String parameter of uri Mandatory Endpoint.
+MailMessageTest acts as a caretaker for memento Context, which tests Mail Message Handles Multiple Headers, which tests Mail Message Handles Single Header, which sets Up, which resolves String parameter of uri Mandatory Endpoint.

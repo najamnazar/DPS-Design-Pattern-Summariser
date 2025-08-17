@@ -1,0 +1,1 @@
+EditMessageDelete acts as an observer, which gets Message Id, which tos String.

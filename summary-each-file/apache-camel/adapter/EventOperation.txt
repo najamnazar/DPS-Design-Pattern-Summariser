@@ -1,0 +1,1 @@
+EventOperation acts as an adapter, which adapts to Operation, which adapts to Operation.

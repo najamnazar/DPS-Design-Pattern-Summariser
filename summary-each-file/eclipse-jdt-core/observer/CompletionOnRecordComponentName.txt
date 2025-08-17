@@ -1,0 +1,1 @@
+CompletionOnRecordComponentName acts as a publisher for observer Binding, which prints int parameter of tab, StringBuilder parameter of output Statement, which resolves BlockScope parameter of scope.

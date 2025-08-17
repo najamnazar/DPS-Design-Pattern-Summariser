@@ -1,0 +1,2 @@
+TypeMirrorProc acts as a caretaker for memento E, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which collects Elements, which examines Get Enclosing Type, which examines Get Type Arguments.
+TypeMirrorProc acts as a caretaker for memento TypeElement, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which collects Elements, which examines Get Enclosing Type, which examines Get Type Arguments.

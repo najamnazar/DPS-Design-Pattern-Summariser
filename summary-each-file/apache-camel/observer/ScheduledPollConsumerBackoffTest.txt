@@ -1,0 +1,2 @@
+ScheduledPollConsumerBackoffTest acts as a publisher for observer CamelContext, which tests Backoff Idle, which tests Backoff Error.
+ScheduledPollConsumerBackoffTest acts as a publisher for observer Service, which tests Backoff Idle, which tests Backoff Error.

@@ -1,0 +1,1 @@
+ReservationDefinition acts as an abstract product for ReservationDefinition, which is inherited by ReservationDefinitionPBImpl.

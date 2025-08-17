@@ -1,0 +1,1 @@
+MSK2InternalClient acts as a memento, which is inherited by MSK2ClientStandardImpl, MSK2ClientOptimizedImpl, which gets Kafka Client.

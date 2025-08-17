@@ -1,0 +1,2 @@
+StringConstant acts as a product for IBinaryField, which overrides.
+StringConstant acts as a product for NullReferenceImplTests, which overrides.

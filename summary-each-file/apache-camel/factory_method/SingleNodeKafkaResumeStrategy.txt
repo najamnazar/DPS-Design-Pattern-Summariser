@@ -1,0 +1,1 @@
+SingleNodeKafkaResumeStrategy acts as a factory method for ResumeAdapter, which is inherited by ResumeStrategy, ResumeStrategy, ResumeStrategy.

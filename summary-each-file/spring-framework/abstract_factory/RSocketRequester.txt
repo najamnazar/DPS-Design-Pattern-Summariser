@@ -1,0 +1,2 @@
+RSocketRequester acts as an abstract factory for RSocketRequester, MimeType, which is inherited by DefaultRSocketRequester.
+RSocketRequester acts as an abstract product for RSocketRequester, which is inherited by DefaultRSocketRequester, DefaultRSocketRequester, DefaultRSocketRequester, DefaultRSocketRequester, DefaultRSocketRequester.

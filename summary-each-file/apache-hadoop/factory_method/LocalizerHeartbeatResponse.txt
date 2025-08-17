@@ -1,0 +1,1 @@
+LocalizerHeartbeatResponse acts as an abstract product for LocalizationProtocol, which is inherited by MockLocalizerHeartbeatResponse, LocalizerHeartbeatResponsePBImpl.

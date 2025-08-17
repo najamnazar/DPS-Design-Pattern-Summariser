@@ -1,0 +1,5 @@
+GistResourceResolverTest acts as a publisher for observer ConsumerTemplate, which tests Gist.
+GistResourceResolverTest acts as a publisher for observer FluentProducerTemplate, which tests Gist.
+GistResourceResolverTest acts as a publisher for observer Service, which tests Gist.
+GistResourceResolverTest acts as a publisher for observer CamelContext, which tests Gist.
+GistResourceResolverTest acts as a publisher for observer ProducerTemplate, which tests Gist.

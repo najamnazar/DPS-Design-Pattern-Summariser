@@ -1,0 +1,1 @@
+XsltAggregationStrategy acts as a component for decorator ShareUnitOfWorkAggregationStrategy, which overrides getCamelContextAggregationStrategy, setCamelContextAggregationStrategy, aggregateAggregationStrategy, doInitAggregationStrategy, doStartAggregationStrategy, doStopAggregationStrategy.

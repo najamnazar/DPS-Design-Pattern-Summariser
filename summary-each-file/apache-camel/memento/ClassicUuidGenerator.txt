@@ -1,0 +1,1 @@
+ClassicUuidGenerator acts as a memento, which generates String parameter of id Sanitized Id, which generates String parameter of id Sanitized Id, which generates String parameter of id Sanitized Id, which generates String parameter of id Sanitized Id, which generates String parameter of id Sanitized Id.

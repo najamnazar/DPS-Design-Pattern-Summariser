@@ -1,0 +1,1 @@
+ComponentAware acts as a publisher for observer Component, which is inherited by DefaultComponentVerifierExtension, AbstractMetaDataExtension, which sets Component parameter of component Component, which gets Component, which gets Class<T> parameter of type Component.

@@ -1,0 +1,2 @@
+MulticastSingleAggregateIssueTest acts as a publisher for observer CamelContext, which tests Multicast Single Aggregate Issue, which creates Route Builder, which adds int parameter of num One, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+MulticastSingleAggregateIssueTest acts as a publisher for observer Service, which tests Multicast Single Aggregate Issue, which creates Route Builder, which adds int parameter of num One, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

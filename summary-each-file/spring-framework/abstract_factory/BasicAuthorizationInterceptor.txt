@@ -1,0 +1,1 @@
+BasicAuthorizationInterceptor acts as a factory for ClientHttpRequestInterceptor, which overrides intercept method of ClientHttpRequestInterceptor.

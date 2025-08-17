@@ -1,0 +1,1 @@
+State acts as an observer for publisher XMLParser, which is inherited by WordList, which is Updated, which gets Name, which sets String parameter of name Name.

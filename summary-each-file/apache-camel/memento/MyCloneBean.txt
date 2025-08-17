@@ -1,0 +1,1 @@
+MyCloneBean acts as a memento, which deeps Copy, which deeps Copy, which deeps Copy.

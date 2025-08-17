@@ -1,0 +1,1 @@
+RefreshMountTableEntriesResponse acts as an abstract product for RefreshMountTableEntriesResponse, which is inherited by RefreshMountTableEntriesResponsePBImpl.

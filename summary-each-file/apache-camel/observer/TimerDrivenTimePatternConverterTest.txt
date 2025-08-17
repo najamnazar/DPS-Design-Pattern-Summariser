@@ -1,0 +1,2 @@
+TimerDrivenTimePatternConverterTest acts as a publisher for observer CamelContext, which tests Timer Invocation, which tests Timer Using Stop Watch, which creates Route Builder.
+TimerDrivenTimePatternConverterTest acts as a publisher for observer Service, which tests Timer Invocation, which tests Timer Using Stop Watch, which creates Route Builder.

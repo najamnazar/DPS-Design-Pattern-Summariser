@@ -1,0 +1,2 @@
+QueryCommand acts as an observer, which executes CommandLine parameter of cmd, which prints Help.
+QueryCommand acts as a publisher for observer DiskBalancerCluster, which executes CommandLine parameter of cmd, which prints Help.

@@ -1,0 +1,1 @@
+FSStarvedApps acts as a publisher for observer FSAppAttempt, which is inherited by, which adds FSAppAttempt parameter of app Starved App, which takes, which compares FSAppAttempt parameter of app1, FSAppAttempt parameter of app2.

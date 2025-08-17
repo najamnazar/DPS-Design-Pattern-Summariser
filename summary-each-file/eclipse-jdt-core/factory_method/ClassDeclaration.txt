@@ -1,0 +1,1 @@
+ClassDeclaration acts as an abstract product for ClassType, which is inherited by ClassDeclarationImpl.

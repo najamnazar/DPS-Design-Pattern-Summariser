@@ -1,0 +1,1 @@
+PollExceptionStrategy acts as an observer for publisher KafkaComponent, which is inherited by BridgeErrorStrategy, ReconnectErrorStrategy, RetryErrorStrategy, DiscardErrorStrategy, StopErrorStrategy, which resets, which cans Continue, which handles long parameter of partitionLastOffset, Exception parameter of exception.

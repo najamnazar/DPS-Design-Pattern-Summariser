@@ -1,0 +1,1 @@
+TelegramServiceRestBotAPIAdapter acts as a factory for TelegramService, which overrides getUpdates method of TelegramService, setWebhook method of TelegramService, removeWebhook method of TelegramService, sendMessage method of TelegramService.

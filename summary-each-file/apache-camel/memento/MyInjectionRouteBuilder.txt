@@ -1,0 +1,1 @@
+MyInjectionRouteBuilder acts as a caretaker for memento Configuration, which sets String parameter of startUri Start Endpoint Uri, which gets Start Endpoint Uri, which sets Processor parameter of processor My Processor, which gets My Processor, which configures.

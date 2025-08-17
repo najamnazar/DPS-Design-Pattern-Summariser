@@ -1,0 +1,2 @@
+PollingConsumer acts as an observer for publisher ConsumerCache, DefaultConsumerCache, which is inherited by PollingConsumerSupport, which receives, which receives No Wait, which receives long parameter of timeout.
+PollingConsumer acts as an observer, which receives, which receives No Wait, which receives long parameter of timeout.

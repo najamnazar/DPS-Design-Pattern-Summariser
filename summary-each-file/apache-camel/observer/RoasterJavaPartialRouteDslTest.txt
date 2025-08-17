@@ -1,0 +1,5 @@
+RoasterJavaPartialRouteDslTest acts as a publisher for observer Service, which parses Tree.
+RoasterJavaPartialRouteDslTest acts as a publisher for observer ProducerTemplate, which parses Tree.
+RoasterJavaPartialRouteDslTest acts as a publisher for observer ConsumerTemplate, which parses Tree.
+RoasterJavaPartialRouteDslTest acts as a publisher for observer CamelContext, which parses Tree.
+RoasterJavaPartialRouteDslTest acts as a publisher for observer FluentProducerTemplate, which parses Tree.

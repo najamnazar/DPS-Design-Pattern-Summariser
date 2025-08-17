@@ -1,0 +1,1 @@
+RestOpenApiProducer acts as an adapter, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.

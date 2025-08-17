@@ -1,0 +1,2 @@
+MarshallingMessageConverterTests acts as a caretaker for memento Message, which setups, which tos Bytes Message, which froms Bytes Message, which tos Text Message, which froms Text Message.
+MarshallingMessageConverterTests acts as a caretaker for memento C, which setups, which tos Bytes Message, which froms Bytes Message, which tos Text Message, which froms Text Message.

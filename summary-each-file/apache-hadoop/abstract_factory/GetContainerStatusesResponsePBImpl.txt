@@ -1,0 +1,1 @@
+GetContainerStatusesResponsePBImpl acts as a product for ContainerManagementProtocol, which overrides getContainerStatuses method of GetContainerStatusesResponse, setContainerStatuses method of GetContainerStatusesResponse, getFailedRequests method of GetContainerStatusesResponse, setFailedRequests method of GetContainerStatusesResponse.

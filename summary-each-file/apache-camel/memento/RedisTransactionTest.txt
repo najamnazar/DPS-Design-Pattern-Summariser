@@ -1,0 +1,1 @@
+RedisTransactionTest acts as a caretaker for memento Producer, which shoulds Execute MULTI, which shoulds Execute DISCARD, which shoulds Execute EXEC, which shoulds Execute UNWATCH, which shoulds Execute WATCH.

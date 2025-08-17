@@ -1,0 +1,2 @@
+BodyOriginalMessageTest acts as a caretaker for memento Context, which creates Camel Context, which tests Original Body, which creates Route Builder.
+BodyOriginalMessageTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Original Body, which creates Route Builder.

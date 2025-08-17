@@ -1,0 +1,1 @@
+WritableFactories acts as a publisher for observer WritableFactory, which is inherited by, which sets Class parameter of c, WritableFactory parameter of factory Factory, which gets Class parameter of c Factory, which news Class<? parameter of extends, Configuration parameter of conf Instance, which news Class<? parameter of extends Instance.

@@ -1,0 +1,1 @@
+AbstractApprovalIntegrationTest acts as a caretaker for memento Component, which creates Accounts, which deletes Accounts, which setups User Id.

@@ -1,0 +1,2 @@
+SyntheticArgumentBinding acts as a caretaker for memento Binding.
+SyntheticArgumentBinding acts as a caretaker for memento S.

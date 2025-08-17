@@ -1,0 +1,1 @@
+ClientHttpResponse acts as an abstract product for ClientHttpRequest, which is inherited by HttpComponentsClientHttpResponse, BufferingClientHttpResponseWrapper, MockClientHttpResponse, AbstractClientHttpResponse, ReactorClientHttpResponse, MessageBodyClientHttpResponseWrapper, ClientHttpResponseDecorator, JettyClientHttpResponse.

@@ -1,0 +1,2 @@
+LongBitFormat acts as an adaptee for adapter INodeFile, which adapts to INodeFileAttributes, INodeWithAdditionalFields, which adapts to INodeFileAttributes, INodeWithAdditionalFields, which adapts to INodeFileAttributes, INodeWithAdditionalFields, which adapts to INodeFileAttributes, INodeWithAdditionalFields, which adapts to INodeFileAttributes, INodeWithAdditionalFields.
+LongBitFormat acts as an adaptee for adapter INodeWithAdditionalFields, which adapts to INode, which adapts to INode, which adapts to INode, which adapts to INode, which adapts to INode.

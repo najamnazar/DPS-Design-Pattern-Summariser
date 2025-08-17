@@ -1,0 +1,1 @@
+EventReader acts as an observer, which gets Next Event, which closes, which froms JhCounters parameter of counters Avro.

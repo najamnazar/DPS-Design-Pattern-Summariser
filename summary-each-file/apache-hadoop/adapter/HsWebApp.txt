@@ -1,0 +1,5 @@
+HsWebApp acts as an adaptee for adapter TestHsWebServicesJobs, which adapts to JerseyTestBase.
+HsWebApp acts as an adaptee for adapter TestHsWebServicesAttempts, which adapts to JerseyTestBase.
+HsWebApp acts as an adaptee for adapter TestHsWebServicesJobsQuery, which adapts to JerseyTestBase.
+HsWebApp acts as an adaptee for adapter TestHsWebServicesJobConf, which adapts to JerseyTestBase.
+HsWebApp acts as an adaptee for adapter TestHsWebServicesTasks, which adapts to JerseyTestBase.

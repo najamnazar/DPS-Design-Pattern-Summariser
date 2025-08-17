@@ -1,0 +1,1 @@
+SpringSimplePropertyPlaceholderClashTest acts as a caretaker for memento Context, which creates Application Context, which creates Route Builder, which tests Replace Simple Expression.

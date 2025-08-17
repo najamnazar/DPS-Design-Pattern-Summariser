@@ -1,0 +1,1 @@
+RoutePojo acts as a caretaker for memento Producer, which listens Exchange parameter of exchange.

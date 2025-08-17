@@ -1,0 +1,2 @@
+RecipientListNoErrorHandlerTest acts as a publisher for observer CamelContext, which tests Recipient List No Error Handler, which creates Route Builder.
+RecipientListNoErrorHandlerTest acts as a publisher for observer Service, which tests Recipient List No Error Handler, which creates Route Builder.

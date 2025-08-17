@@ -1,0 +1,1 @@
+BeanDefinitionOverrideException acts as an adapter, which adapts to BeanDefinitionStoreException, which adapts to BeanDefinitionStoreException, which adapts to BeanDefinitionStoreException, which adapts to BeanDefinitionStoreException.

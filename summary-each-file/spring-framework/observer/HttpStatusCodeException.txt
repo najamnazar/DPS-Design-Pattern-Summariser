@@ -1,0 +1,1 @@
+HttpStatusCodeException acts as a publisher for observer HttpStatus, which is inherited by HttpClientErrorException, HttpServerErrorException, which gets HttpStatus parameter of statusCode, String parameter of statusText Message, which gets Status Code.

@@ -1,0 +1,2 @@
+FixedLocaleContextResolver acts as a product for HandlerStrategies, which overrides resolveLocaleContext method of LocaleContextResolver, setLocaleContext method of LocaleContextResolver.
+FixedLocaleContextResolver acts as a factory for LocaleContextResolver, which overrides resolveLocaleContext method of LocaleContextResolver, setLocaleContext method of LocaleContextResolver.

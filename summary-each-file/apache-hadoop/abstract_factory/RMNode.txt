@@ -1,0 +1,1 @@
+RMNode acts as an abstract factory for RMContext, OpportunisticContainersStatus, NodeHeartbeatResponse, Node, NodeId, Resource, ResourceUtilization, which is inherited by RMNodeImpl, RMNodeWrapper.

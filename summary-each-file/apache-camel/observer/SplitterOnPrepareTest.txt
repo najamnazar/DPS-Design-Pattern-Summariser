@@ -1,0 +1,2 @@
+SplitterOnPrepareTest acts as a publisher for observer CamelContext, which tests Splitter On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.
+SplitterOnPrepareTest acts as a publisher for observer Service, which tests Splitter On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

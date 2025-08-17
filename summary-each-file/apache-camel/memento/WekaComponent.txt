@@ -1,0 +1,2 @@
+WekaComponent acts as a caretaker for memento Component, which creates String parameter of urispec, String parameter of remaining, Map<String, parameter of Object> Endpoint.
+WekaComponent acts as a caretaker for memento Context, which creates String parameter of urispec, String parameter of remaining, Map<String, parameter of Object> Endpoint.

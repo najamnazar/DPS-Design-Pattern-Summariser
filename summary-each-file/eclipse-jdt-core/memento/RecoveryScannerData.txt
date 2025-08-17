@@ -1,0 +1,2 @@
+RecoveryScannerData acts as a memento, which removes Unused.
+RecoveryScannerData acts as an originator for memento RecoveryScannerData, which removes a RecoveryScannerData Unused to.

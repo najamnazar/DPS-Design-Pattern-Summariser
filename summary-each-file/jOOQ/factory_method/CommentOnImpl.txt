@@ -1,0 +1,2 @@
+CommentOnImpl acts as a factory method for Comment, which is inherited by AbstractNamed, DSL, DSL, AbstractNamed, AbstractNamed, AbstractNamed, AbstractNamed, DSL, Named, DSL, Named, Named, Named, AbstractNamed, Named, AbstractNamed, DSL, AbstractNamed, AbstractNamed, DSL, Named, AbstractNamed, AbstractNamed, AbstractNamed, AbstractNamed, Named, AbstractNamed, AbstractNamed, Named, DSL, DSL, Named, DSL, AbstractNamed, AbstractNamed, Named, Named.
+CommentOnImpl acts as a product for CommentOnIsStep, which overrides.

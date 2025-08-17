@@ -1,0 +1,5 @@
+S3UploadWithSSES3IT acts as a publisher for observer CamelContext, which sends In With User Metadata, which creates Route Builder.
+S3UploadWithSSES3IT acts as a publisher for observer ConsumerTemplate, which sends In With User Metadata, which creates Route Builder.
+S3UploadWithSSES3IT acts as a publisher for observer FluentProducerTemplate, which sends In With User Metadata, which creates Route Builder.
+S3UploadWithSSES3IT acts as a publisher for observer ProducerTemplate, which sends In With User Metadata, which creates Route Builder.
+S3UploadWithSSES3IT acts as a publisher for observer Service, which sends In With User Metadata, which creates Route Builder.

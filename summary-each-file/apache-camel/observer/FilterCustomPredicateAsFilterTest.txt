@@ -1,0 +1,2 @@
+FilterCustomPredicateAsFilterTest acts as a publisher for observer CamelContext, which matches Exchange parameter of exchange, which gets Bodies, which tests Filter Custom Predicate As Filter, which creates Route Builder.
+FilterCustomPredicateAsFilterTest acts as a publisher for observer Service, which matches Exchange parameter of exchange, which gets Bodies, which tests Filter Custom Predicate As Filter, which creates Route Builder.

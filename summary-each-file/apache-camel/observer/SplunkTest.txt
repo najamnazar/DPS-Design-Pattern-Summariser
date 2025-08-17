@@ -1,0 +1,5 @@
+SplunkTest acts as a publisher for observer ConsumerTemplate, which inits.
+SplunkTest acts as a publisher for observer CamelContext, which inits.
+SplunkTest acts as a publisher for observer FluentProducerTemplate, which inits.
+SplunkTest acts as a publisher for observer Service, which inits.
+SplunkTest acts as a publisher for observer ProducerTemplate, which inits.

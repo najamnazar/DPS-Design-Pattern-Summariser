@@ -1,0 +1,3 @@
+TypeVariableImpl acts as a caretaker for memento Binding, which ases Element, which gets Lower Bound, which gets Upper Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind.
+TypeVariableImpl acts as a caretaker for memento E, which ases Element, which gets Lower Bound, which gets Upper Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind.
+TypeVariableImpl acts as a memento, which gets Kind, which gets Kind, which gets Kind, which gets Kind, which gets Kind.

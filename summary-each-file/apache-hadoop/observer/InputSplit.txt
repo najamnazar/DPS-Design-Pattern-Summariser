@@ -1,0 +1,2 @@
+InputSplit acts as an observer for publisher TeraInputFormat, which is inherited by InputSplitWithLocationInfo, CompositeInputSplit, TaggedInputSplit, CombineFileSplit, TestMROutputFormat, VirtualInputSplit, which gets Length, which gets Locations.
+InputSplit acts as an observer, which gets Length, which gets Locations.

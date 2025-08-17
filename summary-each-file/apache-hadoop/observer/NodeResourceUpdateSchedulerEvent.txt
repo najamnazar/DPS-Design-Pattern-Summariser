@@ -1,0 +1,1 @@
+NodeResourceUpdateSchedulerEvent acts as an observer, which gets RMNode, which gets Resource Option.

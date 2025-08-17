@@ -1,0 +1,2 @@
+ResumeActionAware acts as a publisher for observer ResumeAction, which is inherited by ResumeActionAwareAdapter, which sets ResumeAction parameter of resumeAction Resume Action.
+ResumeActionAware acts as an observer, which sets ResumeAction parameter of resumeAction Resume Action.

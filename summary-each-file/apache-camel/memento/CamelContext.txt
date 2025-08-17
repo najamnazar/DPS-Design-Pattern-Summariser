@@ -1,0 +1,2 @@
+CamelContext acts as an originator for memento ShutdownRunningTask.
+CamelContext acts as an originator for memento ShutdownRoute.

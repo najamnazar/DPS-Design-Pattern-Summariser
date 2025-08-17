@@ -1,0 +1,1 @@
+DeadLetterChannelConfiguration acts as a factory for DeadLetterChannelProperties, which overrides getRetryWhilePolicy method of DeadLetterChannelProperties.

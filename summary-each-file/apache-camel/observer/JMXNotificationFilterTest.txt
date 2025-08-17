@@ -1,0 +1,2 @@
+JMXNotificationFilterTest acts as a publisher for observer DefaultCamelContext, which tests Notification Filter, which builds From URI, which inits Registry.
+JMXNotificationFilterTest acts as a publisher for observer SimpleRegistry, which tests Notification Filter, which builds From URI, which inits Registry.

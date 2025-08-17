@@ -1,0 +1,1 @@
+SimpleHandlerAdapter acts as a factory for HandlerAdapter, which overrides supports method of HandlerAdapter.

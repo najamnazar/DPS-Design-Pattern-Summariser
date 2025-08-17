@@ -1,0 +1,1 @@
+JdbcOutputType acts as an observer for publisher JdbcEndpoint, SpringJdbcEndpoint, which is inherited by.

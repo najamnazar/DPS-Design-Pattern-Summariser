@@ -1,0 +1,2 @@
+AMQPTestSupport acts as a caretaker for memento Context, which befores All.
+AMQPTestSupport acts as a caretaker for memento Producer, which befores All.

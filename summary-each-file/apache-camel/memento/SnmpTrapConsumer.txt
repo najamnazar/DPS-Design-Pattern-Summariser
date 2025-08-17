@@ -1,0 +1,1 @@
+SnmpTrapConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which processes CommandResponderEvent parameter of event Pdu, which processes PDU parameter of pdu, CommandResponderEvent parameter of event PDU, which creates PDU parameter of pdu, CommandResponderEvent parameter of event Exchange.

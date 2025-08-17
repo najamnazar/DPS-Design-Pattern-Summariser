@@ -1,0 +1,1 @@
+ILocalVariableAttribute acts as a memento, which is inherited by LocalVariableAttribute, which gets Local Variable Table, which gets Local Variable Table.

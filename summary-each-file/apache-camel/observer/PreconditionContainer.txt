@@ -1,0 +1,1 @@
+PreconditionContainer acts as an observer, which gets Precondition, which sets String parameter of precondition Precondition.

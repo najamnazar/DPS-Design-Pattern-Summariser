@@ -1,0 +1,1 @@
+FlatpackType acts as an observer for publisher FlatpackEndpoint, which is inherited by.

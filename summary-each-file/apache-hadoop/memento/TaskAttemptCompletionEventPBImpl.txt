@@ -1,0 +1,1 @@
+TaskAttemptCompletionEventPBImpl acts as an originator for memento TaskAttemptCompletionEventStatus, which gets a TaskAttemptCompletionEventStatus Status to, which sets TaskAttemptCompletionEventStatus parameter of status Status, which converts TaskAttemptCompletionEventStatus parameter of e To Proto Format, which converts a TaskAttemptCompletionEventStatus From Proto Format to.

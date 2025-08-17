@@ -1,0 +1,2 @@
+RouteTemplateDefaultValueTest acts as a publisher for observer Service, which tests Define Route Template, which tests Create Route From Route Template, which tests Create Route From Route Template Missing Parameter, which creates Route Builder.
+RouteTemplateDefaultValueTest acts as a publisher for observer CamelContext, which tests Define Route Template, which tests Create Route From Route Template, which tests Create Route From Route Template Missing Parameter, which creates Route Builder.

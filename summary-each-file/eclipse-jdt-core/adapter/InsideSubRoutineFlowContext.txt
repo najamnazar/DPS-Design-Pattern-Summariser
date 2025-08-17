@@ -1,0 +1,1 @@
+InsideSubRoutineFlowContext acts as an adapter, which adapts to FlowContext, which adapts to FlowContext, which adapts to FlowContext, which adapts subRoutine method of UnconditionalFlowInfo to FlowContext, which adapts to FlowContext.

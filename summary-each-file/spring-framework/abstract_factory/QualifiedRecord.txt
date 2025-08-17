@@ -1,0 +1,5 @@
+QualifiedRecord acts as a product for UpdatableRecord, which overrides.
+QualifiedRecord acts as a product for ExecuteContext, which overrides.
+QualifiedRecord acts as a product for Record, which overrides.
+QualifiedRecord acts as a product for DSLContext, which overrides.
+QualifiedRecord acts as a product for RecordContext, which overrides.

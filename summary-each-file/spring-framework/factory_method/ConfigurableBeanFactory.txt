@@ -1,0 +1,3 @@
+ConfigurableBeanFactory acts as a factory for AbstractApplicationContext, which overrides.
+ConfigurableBeanFactory acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.
+ConfigurableBeanFactory acts as an abstract product for AbstractApplicationEventMulticaster, which is inherited by AbstractBeanFactory.

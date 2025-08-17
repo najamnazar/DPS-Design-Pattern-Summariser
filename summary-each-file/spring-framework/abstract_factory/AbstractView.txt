@@ -1,0 +1,1 @@
+AbstractView acts as a product for ViewResolver, which overrides toString method of View.

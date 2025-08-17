@@ -1,0 +1,1 @@
+LocalizerContext acts as an observer for publisher ResourceLocalizationService, which is inherited by, which gets User, which gets Container Id, which gets Credentials, which gets Stat Cache.

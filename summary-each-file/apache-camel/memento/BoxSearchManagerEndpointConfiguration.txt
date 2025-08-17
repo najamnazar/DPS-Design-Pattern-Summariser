@@ -1,0 +1,1 @@
+BoxSearchManagerEndpointConfiguration acts as a caretaker for memento Context, which gets Folder Id, which sets String parameter of folderId Folder Id, which gets Query, which sets String parameter of query Query.

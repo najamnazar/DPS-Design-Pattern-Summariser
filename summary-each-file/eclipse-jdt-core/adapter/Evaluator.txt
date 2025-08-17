@@ -1,0 +1,2 @@
+Evaluator acts as a target for adapter CodeSnippetEvaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator.
+Evaluator acts as a target for adapter VariablesEvaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator.

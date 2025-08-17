@@ -1,0 +1,1 @@
+PackageDefinition acts as an abstract product for PackageDefinition, which is inherited by UDTDefinition, AbstractPackageDefinition.

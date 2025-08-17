@@ -1,0 +1,1 @@
+XMLTable acts as a product for XMLTableColumnsFirstStep, which overrides.

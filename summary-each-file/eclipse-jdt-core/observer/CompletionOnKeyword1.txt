@@ -1,0 +1,1 @@
+CompletionOnKeyword1 acts as an observer, which gets Token, which gets Possible Keywords, which abouts Scope parameter of scope To Resolve, which gets Scope parameter of scope Type Binding, which prints int parameter of indent, StringBuilder parameter of output Expression.

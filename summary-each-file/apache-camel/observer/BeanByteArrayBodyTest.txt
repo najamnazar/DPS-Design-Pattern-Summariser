@@ -1,0 +1,2 @@
+BeanByteArrayBodyTest acts as a publisher for observer CamelContext, which tests Byte Array, which creates Route Builder.
+BeanByteArrayBodyTest acts as a publisher for observer Service, which tests Byte Array, which creates Route Builder.

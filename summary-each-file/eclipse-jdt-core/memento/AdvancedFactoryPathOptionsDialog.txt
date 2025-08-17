@@ -1,0 +1,3 @@
+AdvancedFactoryPathOptionsDialog acts as a caretaker for memento C, which dialogs DialogField parameter of field Field Changed, which configures Shell parameter of shell Shell, which creates Composite parameter of parent Dialog Area, which gets Result.
+AdvancedFactoryPathOptionsDialog acts as a caretaker for memento S, which dialogs DialogField parameter of field Field Changed, which configures Shell parameter of shell Shell, which creates Composite parameter of parent Dialog Area, which gets Result.
+AdvancedFactoryPathOptionsDialog acts as a caretaker for memento List, which dialogs DialogField parameter of field Field Changed, which configures Shell parameter of shell Shell, which creates Composite parameter of parent Dialog Area, which gets Result.

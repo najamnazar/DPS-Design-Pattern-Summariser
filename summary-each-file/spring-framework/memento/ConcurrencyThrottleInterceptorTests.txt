@@ -1,0 +1,2 @@
+ConcurrencyThrottleInterceptorTests acts as a caretaker for memento B, which tests Serializable, which tests Multiple Threads With Limit1, which tests Multiple Threads With Limit10, which tests int parameter of concurrencyLimit Multiple Threads, which runs.
+ConcurrencyThrottleInterceptorTests acts as a caretaker for memento ITestBean, which tests Serializable, which tests Multiple Threads With Limit1, which tests Multiple Threads With Limit10, which tests int parameter of concurrencyLimit Multiple Threads, which runs.

@@ -1,0 +1,1 @@
+JrtPackageFragmentRoot acts as a factory for IModulePathEntry, which overrides getModule method of IModulePathEntry.

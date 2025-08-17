@@ -1,0 +1,2 @@
+SpringTransformTest acts as a publisher for observer Service, which tests Send AMessage Which Is Transformed, which creates Camel Context.
+SpringTransformTest acts as a publisher for observer CamelContext, which tests Send AMessage Which Is Transformed, which creates Camel Context.

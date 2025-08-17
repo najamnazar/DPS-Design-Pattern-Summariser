@@ -1,0 +1,3 @@
+TextWriterImageVisitor acts as a target for adapter IndentedImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor.
+TextWriterImageVisitor acts as a target for adapter FileDistributionVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor.
+TextWriterImageVisitor acts as a target for adapter LsImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor.

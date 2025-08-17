@@ -1,0 +1,1 @@
+InfinispanIdempotentRepositoryTestSupport acts as an abstract factory for ProducerTemplate, MockEndpoint, IdempotentRepository, which is inherited by InfinispanEmbeddedIdempotentRepositoryTest, InfinispanRemoteIdempotentRepositoryIT.

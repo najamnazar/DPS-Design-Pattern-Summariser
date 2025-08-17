@@ -1,0 +1,1 @@
+Array acts as a caretaker for memento SQL, which is inherited by, which types Collection<? parameter of extends, which accepts Context<?> parameter of ctx, which $elementses.

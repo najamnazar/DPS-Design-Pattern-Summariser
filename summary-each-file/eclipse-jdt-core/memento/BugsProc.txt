@@ -1,0 +1,4 @@
+BugsProc acts as a caretaker for memento E, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which gets Num Rounds, which gets Unprocessed Elements.
+BugsProc acts as a caretaker for memento S, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which gets Num Rounds, which gets Unprocessed Elements.
+BugsProc acts as a caretaker for memento R, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which gets Num Rounds, which gets Unprocessed Elements.
+BugsProc acts as a caretaker for memento String, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which gets Num Rounds, which gets Unprocessed Elements.

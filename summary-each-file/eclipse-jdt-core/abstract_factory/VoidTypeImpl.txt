@@ -1,0 +1,2 @@
+VoidTypeImpl acts as a product for Types, which overrides.
+VoidTypeImpl acts as a factory for EclipseMirrorType, which overrides getTypeBinding method of EclipseMirrorType, isAssignmentCompatible method of EclipseMirrorType, isSubTypeCompatible method of EclipseMirrorType.

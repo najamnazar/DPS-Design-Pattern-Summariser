@@ -1,0 +1,1 @@
+AzureStorageService acts as a factory for AzureService, which overrides.

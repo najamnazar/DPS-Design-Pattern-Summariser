@@ -1,0 +1,2 @@
+GitHubResourceResolverTest acts as a caretaker for memento Context, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.
+GitHubResourceResolverTest acts as a caretaker for memento Producer, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.

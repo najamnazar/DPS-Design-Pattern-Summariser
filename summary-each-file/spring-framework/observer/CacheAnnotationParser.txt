@@ -1,0 +1,1 @@
+CacheAnnotationParser acts as an observer for publisher AnnotationCacheOperationSource, which is inherited by SpringCacheAnnotationParser, which is Class<?> parameter of targetClass Candidate Class, which parses Class<?> parameter of type Cache Annotations, which parses Method parameter of method Cache Annotations.

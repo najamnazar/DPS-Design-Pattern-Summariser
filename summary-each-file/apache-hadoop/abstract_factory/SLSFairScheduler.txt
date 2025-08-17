@@ -1,0 +1,2 @@
+SLSFairScheduler acts as a factory for Configurable, which overrides setConf method of Configurable.
+SLSFairScheduler acts as a factory for SchedulerWrapper, which overrides propagatedHandle method of SchedulerWrapper, allocatePropagated method of SchedulerWrapper, setSLSRunner method of SchedulerWrapper, getSLSRunner method of SchedulerWrapper.

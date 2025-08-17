@@ -1,0 +1,2 @@
+DOMImport acts as a factory for IDOMImport, which overrides isOnDemand method of IDOMImport, setName method of IDOMImport, getFlags method of IDOMImport, setFlags method of IDOMImport.
+DOMImport acts as a product for IDOMFactory, which overrides isOnDemand method of IDOMImport, setName method of IDOMImport, getFlags method of IDOMImport, setFlags method of IDOMImport.

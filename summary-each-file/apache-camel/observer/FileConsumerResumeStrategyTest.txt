@@ -1,0 +1,2 @@
+FileConsumerResumeStrategyTest acts as a publisher for observer CamelContext, which resumes, which resumes File parameter of file, which headers int parameter of num For, which tests Resume, which sets Exchange parameter of exchange Offset, which creates Route Builder.
+FileConsumerResumeStrategyTest acts as a publisher for observer Service, which resumes, which resumes File parameter of file, which headers int parameter of num For, which tests Resume, which sets Exchange parameter of exchange Offset, which creates Route Builder.

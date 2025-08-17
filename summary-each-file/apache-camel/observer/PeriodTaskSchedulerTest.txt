@@ -1,0 +1,2 @@
+PeriodTaskSchedulerTest acts as a publisher for observer Service, which is Use Route Builder, which tests Scheduler, which tests Scheduler Lifecycle, which gets Event, which does Start, which does Stop, which runs.
+PeriodTaskSchedulerTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Scheduler, which tests Scheduler Lifecycle, which gets Event, which does Start, which does Stop, which runs.

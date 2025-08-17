@@ -1,0 +1,1 @@
+AnnotationScanTypeConverters acts as an adaptee for adapter DefaultTypeConverter, which adapts to BaseTypeConverterRegistry.

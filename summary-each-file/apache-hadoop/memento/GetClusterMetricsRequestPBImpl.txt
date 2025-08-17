@@ -1,0 +1,3 @@
+GetClusterMetricsRequestPBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+GetClusterMetricsRequestPBImpl acts as a caretaker for memento GetClusterMetricsRequest, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+GetClusterMetricsRequestPBImpl acts as an originator for memento GetClusterMetricsRequest.

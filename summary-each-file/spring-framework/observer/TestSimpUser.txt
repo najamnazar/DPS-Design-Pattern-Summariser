@@ -1,0 +1,1 @@
+TestSimpUser acts as an observer for publisher TestSimpSession, which is inherited by, which gets Name, which gets Principal, which gets Sessions, which has Sessions, which gets String parameter of sessionId Session, which adds TestSimpSession... parameter of sessions Sessions, which equals Object parameter of other, which hashes Code, which tos String.

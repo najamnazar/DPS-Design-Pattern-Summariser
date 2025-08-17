@@ -1,0 +1,1 @@
+GetDiagnosticsRequestPBImpl acts as a factory for GetDiagnosticsRequest, which overrides getTaskAttemptId method of GetDiagnosticsRequest, setTaskAttemptId method of GetDiagnosticsRequest.

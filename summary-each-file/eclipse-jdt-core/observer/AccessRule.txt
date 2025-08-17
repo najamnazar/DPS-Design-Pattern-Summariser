@@ -1,0 +1,1 @@
+AccessRule acts as an observer for publisher ClasspathEntry, which is inherited by ClasspathAccessRule, which hashes Code, which equals Object parameter of obj, which gets Problem Id, which ignores If Better, which tos String.

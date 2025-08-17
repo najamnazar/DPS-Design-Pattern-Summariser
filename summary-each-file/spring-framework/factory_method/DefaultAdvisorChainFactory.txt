@@ -1,0 +1,1 @@
+DefaultAdvisorChainFactory acts as a product for AdvisedSupport, which overrides getInterceptorsAndDynamicInterceptionAdvice method of AdvisorChainFactory.

@@ -1,0 +1,3 @@
+AnnotationMBeanExporter acts as a caretaker for memento A, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.
+AnnotationMBeanExporter acts as a caretaker for memento B, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.
+AnnotationMBeanExporter acts as a caretaker for memento C, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.

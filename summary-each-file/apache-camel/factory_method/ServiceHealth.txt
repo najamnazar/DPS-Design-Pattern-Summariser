@@ -1,0 +1,1 @@
+ServiceHealth acts as an abstract product for DefaultServiceDefinition, which is inherited by DefaultServiceHealth.

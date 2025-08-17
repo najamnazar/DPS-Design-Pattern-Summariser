@@ -1,0 +1,1 @@
+AsyncProducer acts as an abstract product for EmptyProducerCache, which is inherited by DefaultAsyncProducer, ThriftProducer, RestOpenApiProducer, RestSwaggerProducer.

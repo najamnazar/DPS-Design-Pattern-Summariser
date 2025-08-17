@@ -1,0 +1,2 @@
+Constants acts as a caretaker for memento S.
+Constants acts as a caretaker for memento String.

@@ -1,0 +1,1 @@
+AbstractMessageChannel acts as a factory for InterceptableChannel, which overrides setInterceptors method of InterceptableChannel, addInterceptor method of InterceptableChannel, addInterceptor method of InterceptableChannel, getInterceptors method of InterceptableChannel, removeInterceptor method of InterceptableChannel, removeInterceptor method of InterceptableChannel.

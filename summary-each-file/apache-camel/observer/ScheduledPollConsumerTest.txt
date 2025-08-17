@@ -1,0 +1,2 @@
+ScheduledPollConsumerTest acts as a publisher for observer Service, which tests Exception On Poll And Can Start Again, which tests Retry At Most Three Times, which tests No Exception On Poll.
+ScheduledPollConsumerTest acts as a publisher for observer CamelContext, which tests Exception On Poll And Can Start Again, which tests Retry At Most Three Times, which tests No Exception On Poll.

@@ -1,0 +1,2 @@
+WebsocketConsumerRouteTest acts as a caretaker for memento Producer, which sets Up, which tests WSHttp Call, which tests WSBytes Http Call, which creates Route Builder.
+WebsocketConsumerRouteTest acts as a caretaker for memento Context, which sets Up, which tests WSHttp Call, which tests WSBytes Http Call, which creates Route Builder.

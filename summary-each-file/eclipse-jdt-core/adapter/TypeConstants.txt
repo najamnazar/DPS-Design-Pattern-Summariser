@@ -1,0 +1,2 @@
+TypeConstants acts as an adaptee for adapter CompletionEngine.
+TypeConstants acts as an adaptee for adapter MethodBinding.

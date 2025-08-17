@@ -1,0 +1,2 @@
+LogBodyWithNewLineTest acts as a publisher for observer CamelContext, which sets Up, which tests No Skip, which tests Skip, which creates Route Builder.
+LogBodyWithNewLineTest acts as a publisher for observer Service, which sets Up, which tests No Skip, which tests Skip, which creates Route Builder.

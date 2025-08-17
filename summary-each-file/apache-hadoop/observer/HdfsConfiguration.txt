@@ -1,0 +1,4 @@
+HdfsConfiguration acts as an observer for publisher TestMultipleNNPortQOP, which is inherited by NfsConfiguration, which inits, which adds Deprecated Keys, which mains String[] parameter of args.
+HdfsConfiguration acts as a publisher for observer Configuration, which inits, which adds Deprecated Keys, which mains String[] parameter of args.
+HdfsConfiguration acts as an observer, which inits, which adds Deprecated Keys, which mains String[] parameter of args.
+HdfsConfiguration acts as a publisher for observer Resource, which inits, which adds Deprecated Keys, which mains String[] parameter of args.

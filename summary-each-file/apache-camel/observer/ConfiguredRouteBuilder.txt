@@ -1,0 +1,7 @@
+ConfiguredRouteBuilder acts as an observer, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.
+ConfiguredRouteBuilder acts as a publisher for observer RestsDefinition, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.
+ConfiguredRouteBuilder acts as a publisher for observer RoutesDefinition, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.
+ConfiguredRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.
+ConfiguredRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.
+ConfiguredRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.
+ConfiguredRouteBuilder acts as a publisher for observer Resource, which configures, which gets From Uri, which sets String parameter of fromUri From Uri, which gets To Uri, which sets String parameter of toUri To Uri.

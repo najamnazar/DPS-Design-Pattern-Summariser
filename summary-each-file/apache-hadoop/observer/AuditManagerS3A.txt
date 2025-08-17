@@ -1,0 +1,1 @@
+AuditManagerS3A acts as an observer, which gets Auditor, which creates Execution Interceptors, which creates Transfer Listener, which checks Path parameter of path, S3AFileStatus parameter of status, FsAction parameter of mode Access, which sets EnumSet<AuditorFlags> parameter of flags Audit Flags.

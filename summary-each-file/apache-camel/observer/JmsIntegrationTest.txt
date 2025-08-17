@@ -1,0 +1,5 @@
+JmsIntegrationTest acts as a publisher for observer ProducerTemplate, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.
+JmsIntegrationTest acts as a publisher for observer FluentProducerTemplate, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.
+JmsIntegrationTest acts as a publisher for observer ConsumerTemplate, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.
+JmsIntegrationTest acts as a publisher for observer CamelContext, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.
+JmsIntegrationTest acts as a publisher for observer Service, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.

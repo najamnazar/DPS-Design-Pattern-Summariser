@@ -1,0 +1,25 @@
+ExtendedExchange acts as a product for ProducerCache, which overrides.
+ExtendedExchange acts as a product for OptimisticLockingAggregationRepository, which overrides.
+ExtendedExchange acts as a product for ConsumerTemplate, which overrides.
+ExtendedExchange acts as a product for ProcessorExchangePair, which overrides.
+ExtendedExchange acts as a product for SynchronizedExchange, which overrides.
+ExtendedExchange acts as a product for InflightRepository, which overrides.
+ExtendedExchange acts as a product for AggregationStrategy, which overrides.
+ExtendedExchange acts as an abstract factory for AsyncCallback, which is inherited by AbstractExchange.
+ExtendedExchange acts as a product for ExchangeFactory, which overrides.
+ExtendedExchange acts as a product for ProcessorExchangeFactory, which overrides.
+ExtendedExchange acts as a product for ConsumerCache, which overrides.
+ExtendedExchange acts as a product for Exchange, which overrides.
+ExtendedExchange acts as a product for Message, which overrides.
+ExtendedExchange acts as a product for Consumer, which overrides.
+ExtendedExchange acts as a product for Endpoint, which overrides.
+ExtendedExchange acts as a product for JmsBrowsableEndpoint, which overrides.
+ExtendedExchange acts as a product for PollingConsumer, which overrides.
+ExtendedExchange acts as a product for CamelEvent, which overrides.
+ExtendedExchange acts as a product for FluentProducerTemplate, which overrides.
+ExtendedExchange acts as a product for ProducerTemplate, which overrides.
+ExtendedExchange acts as a product for LevelDBSerializer, which overrides.
+ExtendedExchange acts as a product for RecoverableAggregationRepository, which overrides.
+ExtendedExchange acts as a product for ClaimCheckRepository, which overrides.
+ExtendedExchange acts as a product for AsyncProcessorAwaitManager, which overrides.
+ExtendedExchange acts as a product for AggregationRepository, which overrides.

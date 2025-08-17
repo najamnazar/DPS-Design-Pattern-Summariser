@@ -1,0 +1,1 @@
+ResourceHttpRequestHandler acts as a factory for CorsConfigurationSource, which overrides.

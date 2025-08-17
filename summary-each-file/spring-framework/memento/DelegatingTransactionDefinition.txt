@@ -1,0 +1,4 @@
+DelegatingTransactionDefinition acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.
+DelegatingTransactionDefinition acts as a caretaker for memento TransactionDefinition, which is inherited by, which gets Propagation Behavior, which gets Isolation Level, which gets Timeout, which is Read Only, which gets Name, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+DelegatingTransactionDefinition acts as an originator for memento TransactionDefinition.
+DelegatingTransactionDefinition acts as a caretaker for memento Transaction, which is inherited by, which gets Propagation Behavior, which gets Isolation Level, which gets Timeout, which is Read Only, which gets Name, which equals @Nullable parameter of Object, which hashes Code, which tos String.

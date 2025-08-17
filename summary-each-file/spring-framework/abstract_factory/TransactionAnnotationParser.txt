@@ -1,0 +1,1 @@
+TransactionAnnotationParser acts as an abstract factory for TransactionAttribute, which is inherited by SpringTransactionAnnotationParser, JtaTransactionAnnotationParser, Ejb3TransactionAnnotationParser.

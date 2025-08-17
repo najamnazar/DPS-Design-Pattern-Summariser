@@ -1,0 +1,2 @@
+Queries acts as a factory for Diff, which overrides.
+Queries acts as an abstract product for Diff, which is inherited by QueriesImpl.

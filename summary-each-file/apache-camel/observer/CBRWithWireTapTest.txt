@@ -1,0 +1,2 @@
+CBRWithWireTapTest acts as a publisher for observer CamelContext, which tests CBRWith Wire Tap Camel, which tests CBRWith Wire Tap Donkey, which tests CBRWith Wire Tap Other, which creates Route Builder.
+CBRWithWireTapTest acts as a publisher for observer Service, which tests CBRWith Wire Tap Camel, which tests CBRWith Wire Tap Donkey, which tests CBRWith Wire Tap Other, which creates Route Builder.

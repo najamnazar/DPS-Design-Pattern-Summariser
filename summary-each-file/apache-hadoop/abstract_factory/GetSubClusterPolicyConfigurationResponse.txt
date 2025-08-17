@@ -1,0 +1,1 @@
+GetSubClusterPolicyConfigurationResponse acts as an abstract product for GetSubClusterPolicyConfigurationResponse, which is inherited by GetSubClusterPolicyConfigurationResponsePBImpl.

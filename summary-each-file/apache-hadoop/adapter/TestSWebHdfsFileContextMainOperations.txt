@@ -1,0 +1,1 @@
+TestSWebHdfsFileContextMainOperations acts as an adapter, which adapts to TestWebHdfsFileContextMainOperations, which adapts to TestWebHdfsFileContextMainOperations, which adapts to TestWebHdfsFileContextMainOperations, which adapts to TestWebHdfsFileContextMainOperations.

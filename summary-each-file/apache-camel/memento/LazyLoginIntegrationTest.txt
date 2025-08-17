@@ -1,0 +1,1 @@
+LazyLoginIntegrationTest acts as a caretaker for memento Component, which lazies Login Does Not Throw Exceptions, which creates Component.

@@ -1,0 +1,5 @@
+JBPMComponentIT acts as a publisher for observer FluentProducerTemplate, which interactses Over Rest, which creates Route Builder.
+JBPMComponentIT acts as a publisher for observer ProducerTemplate, which interactses Over Rest, which creates Route Builder.
+JBPMComponentIT acts as a publisher for observer Service, which interactses Over Rest, which creates Route Builder.
+JBPMComponentIT acts as a publisher for observer ConsumerTemplate, which interactses Over Rest, which creates Route Builder.
+JBPMComponentIT acts as a publisher for observer CamelContext, which interactses Over Rest, which creates Route Builder.

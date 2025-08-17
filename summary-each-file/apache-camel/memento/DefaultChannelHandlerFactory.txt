@@ -1,0 +1,1 @@
+DefaultChannelHandlerFactory acts as a memento, which exceptions ChannelHandlerContext parameter of ctx, Throwable parameter of cause Caught, which exceptions ChannelHandlerContext parameter of ctx, Throwable parameter of cause Caught, which exceptions ChannelHandlerContext parameter of ctx, Throwable parameter of cause Caught.

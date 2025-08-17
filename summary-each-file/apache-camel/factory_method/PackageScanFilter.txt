@@ -1,0 +1,1 @@
+PackageScanFilter acts as an abstract product for DefaultPackageScanClassResolver, which is inherited by PatternBasedPackageScanFilter, CompositePackageScanFilter, AssignableToPackageScanFilter, AnnotatedWithAnyPackageScanFilter, AnnotatedWithPackageScanFilter, InvertingPackageScanFilter.

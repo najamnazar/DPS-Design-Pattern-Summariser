@@ -1,0 +1,4 @@
+WebMergedContextConfiguration acts as a caretaker for memento Configuration, which gets Resource Base Path, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+WebMergedContextConfiguration acts as a caretaker for memento C, which gets Resource Base Path, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+WebMergedContextConfiguration acts as a caretaker for memento A, which gets Resource Base Path, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+WebMergedContextConfiguration acts as a caretaker for memento ApplicationContext, which gets Resource Base Path, which equals @Nullable parameter of Object, which hashes Code, which tos String.

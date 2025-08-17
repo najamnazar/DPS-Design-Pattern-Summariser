@@ -1,0 +1,2 @@
+InterceptFromSimplePredicateWithStopTest acts as a publisher for observer CamelContext, which tests Intercept, which creates Route Builder.
+InterceptFromSimplePredicateWithStopTest acts as a publisher for observer Service, which tests Intercept, which creates Route Builder.

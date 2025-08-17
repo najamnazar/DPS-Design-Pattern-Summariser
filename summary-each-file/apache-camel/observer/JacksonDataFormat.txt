@@ -1,0 +1,2 @@
+JacksonDataFormat acts as a publisher for observer SchemaResolver, which gets Data Format Name, which creates New Object Mapper, which gets Object Mapper Class, which gets Default Content Type.
+JacksonDataFormat acts as a publisher for observer CamelContext, which gets Data Format Name, which creates New Object Mapper, which gets Object Mapper Class, which gets Default Content Type.

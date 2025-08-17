@@ -1,0 +1,2 @@
+MulticastOnPrepareTest acts as a publisher for observer CamelContext, which tests Multicast On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.
+MulticastOnPrepareTest acts as a publisher for observer Service, which tests Multicast On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

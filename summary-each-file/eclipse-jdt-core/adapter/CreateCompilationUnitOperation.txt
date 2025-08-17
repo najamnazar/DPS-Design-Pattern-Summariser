@@ -1,0 +1,1 @@
+CreateCompilationUnitOperation acts as an adapter, which adapts to JavaModelOperation, which adapts getCompilationUnit method of String, getCompilationUnit method of String to JavaModelOperation, which adapts to JavaModelOperation, which adapts to JavaModelOperation.

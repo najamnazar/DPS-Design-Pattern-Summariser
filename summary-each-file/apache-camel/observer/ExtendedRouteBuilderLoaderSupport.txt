@@ -1,0 +1,1 @@
+ExtendedRouteBuilderLoaderSupport acts as a publisher for observer CompilePostProcessor, which does Resource parameter of resource Load Route Builder, which loads Collection<Resource> parameter of resources Routes Builders, which does Collection<Resource> parameter of resources Load Routes Builders.

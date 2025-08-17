@@ -1,0 +1,1 @@
+ResultSetConversionStrategy acts as an adaptee for adapter CassandraEndpoint, which adapts to ScheduledPollEndpoint.

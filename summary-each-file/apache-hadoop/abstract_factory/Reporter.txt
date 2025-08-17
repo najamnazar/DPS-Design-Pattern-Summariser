@@ -1,0 +1,3 @@
+Reporter acts as a product for JobContext, which overrides.
+Reporter acts as a product for TaskAttemptContext, which overrides.
+Reporter acts as an abstract factory for Counter, InputSplit, which is inherited by.

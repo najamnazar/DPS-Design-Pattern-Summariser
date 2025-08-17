@@ -1,0 +1,1 @@
+InstrumentationInterceptStrategy acts as a caretaker for memento NamedNode, which creates String parameter of type Processor, which creates NamedNode parameter of definition, Processor parameter of target Processor.

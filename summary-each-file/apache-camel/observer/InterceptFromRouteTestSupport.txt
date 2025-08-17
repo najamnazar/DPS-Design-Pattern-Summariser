@@ -1,0 +1,2 @@
+InterceptFromRouteTestSupport acts as a publisher for observer Service, which tests Send Matching Message, which tests Send Non Matching Message, which sets Up Mocks, which prepares Matching Test, which prepares Non Matching Test.
+InterceptFromRouteTestSupport acts as a publisher for observer CamelContext, which tests Send Matching Message, which tests Send Non Matching Message, which sets Up Mocks, which prepares Matching Test, which prepares Non Matching Test.

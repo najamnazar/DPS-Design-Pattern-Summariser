@@ -1,0 +1,1 @@
+ApplicationReport acts as an abstract product for ApplicationReport, which is inherited by ApplicationReportPBImpl.

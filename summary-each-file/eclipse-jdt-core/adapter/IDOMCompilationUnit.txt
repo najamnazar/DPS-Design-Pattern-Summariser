@@ -1,0 +1,2 @@
+IDOMCompilationUnit acts as a target for adapter DOMCompilationUnit, which adapts to IDOMCompilationUnit, which adapts to IDOMCompilationUnit, which adapts to IDOMCompilationUnit, which adapts to IDOMCompilationUnit.
+IDOMCompilationUnit acts as an adaptee for adapter DOMCompilationUnit, which adapts to IDOMCompilationUnit, DOMNode, which adapts to IDOMCompilationUnit, DOMNode, which adapts to IDOMCompilationUnit, DOMNode, which adapts to IDOMCompilationUnit, DOMNode.

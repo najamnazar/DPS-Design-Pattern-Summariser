@@ -1,0 +1,1 @@
+Replica acts as an observer for publisher BlockListAsLongs, which is inherited by ReplicaInfo, ExternalReplica, ReplicaInPipeline, which gets Block Id, which gets Generation Stamp, which gets State, which gets Num Bytes, which gets Bytes On Disk, which gets Visible Length, which gets Storage Uuid, which is On Transient Storage, which gets Volume.

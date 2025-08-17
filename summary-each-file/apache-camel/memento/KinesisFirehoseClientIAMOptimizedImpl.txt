@@ -1,0 +1,2 @@
+KinesisFirehoseClientIAMOptimizedImpl acts as a caretaker for memento Configuration, which gets Kinesis Firehose Client.
+KinesisFirehoseClientIAMOptimizedImpl acts as a memento, which gets Kinesis Firehose Client.

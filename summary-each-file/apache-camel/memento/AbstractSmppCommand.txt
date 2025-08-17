@@ -1,0 +1,1 @@
+AbstractSmppCommand acts as a caretaker for memento Configuration, which is inherited by, which creates Map<Short, parameter of Object> Optional Parameters By Code, which creates Map<String, parameter of String> Optional Parameters By Name, which determines Tag parameter of tag Type Class.

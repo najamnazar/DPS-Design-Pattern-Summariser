@@ -1,0 +1,2 @@
+ContainersMonitorImpl acts as a product for ContainerManager, which overrides getContainersUtilization method of ContainersMonitor, subtractNodeResourcesFromResourceUtilization method of ContainersMonitor, getVmemRatio method of ContainersMonitor.
+ContainersMonitorImpl acts as a factory for ContainersMonitor, which overrides getContainersUtilization method of ContainersMonitor, subtractNodeResourcesFromResourceUtilization method of ContainersMonitor, getVmemRatio method of ContainersMonitor.

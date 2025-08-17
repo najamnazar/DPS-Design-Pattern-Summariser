@@ -1,0 +1,2 @@
+CordaITSupport acts as a target for adapter CordaProducerManualIT, which adapts to CordaITSupport, which adapts to CordaITSupport, which adapts to CordaITSupport, which adapts to CordaITSupport, which adapts to CordaITSupport, which adapts to CordaITSupport.
+CordaITSupport acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

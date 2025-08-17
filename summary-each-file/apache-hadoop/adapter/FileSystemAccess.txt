@@ -1,0 +1,2 @@
+FileSystemAccess acts as a target for adapter FileSystemAccessService, which adapts to FileSystemAccess, which adapts to FileSystemAccess, which adapts to FileSystemAccess, which adapts to FileSystemAccess, which adapts to FileSystemAccess.
+FileSystemAccess acts as an adaptee for adapter FileSystemAccessService, which adapts to FileSystemAccess, BaseService, which adapts to FileSystemAccess, BaseService, which adapts to FileSystemAccess, BaseService, which adapts to FileSystemAccess, BaseService, which adapts to FileSystemAccess, BaseService.

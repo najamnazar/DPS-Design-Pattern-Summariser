@@ -1,0 +1,2 @@
+KnativeTransportNoop acts as a factory for KnativeConsumerFactory, which overrides createConsumer method of KnativeConsumerFactory.
+KnativeTransportNoop acts as a factory for KnativeProducerFactory, which overrides createProducer method of KnativeProducerFactory.

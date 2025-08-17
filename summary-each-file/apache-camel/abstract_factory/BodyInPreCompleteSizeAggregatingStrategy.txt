@@ -1,0 +1,2 @@
+BodyInPreCompleteSizeAggregatingStrategy acts as a product for AggregationStrategyAwareDefinition, which overrides aggregate method of AggregationStrategy, canPreComplete method of AggregationStrategy, preComplete method of AggregationStrategy.
+BodyInPreCompleteSizeAggregatingStrategy acts as a factory for AggregationStrategy, which overrides aggregate method of AggregationStrategy, canPreComplete method of AggregationStrategy, preComplete method of AggregationStrategy.

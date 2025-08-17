@@ -1,0 +1,1 @@
+NativeCollectorOnlyHandler acts as a factory for CommandDispatcher, which overrides onCall method of CommandDispatcher.

@@ -1,0 +1,2 @@
+DriveChangesEndpointConfiguration acts as a publisher for observer GoogleDriveApiName, which gets Change Id, which sets String parameter of changeId Change Id, which gets Content Channel, which sets com.google.api.services.drive.model.Channel parameter of contentChannel Content Channel.
+DriveChangesEndpointConfiguration acts as an observer, which gets Change Id, which sets String parameter of changeId Change Id, which gets Content Channel, which sets com.google.api.services.drive.model.Channel parameter of contentChannel Content Channel.

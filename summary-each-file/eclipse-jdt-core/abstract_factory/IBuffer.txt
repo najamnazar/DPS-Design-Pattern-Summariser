@@ -1,0 +1,2 @@
+IBuffer acts as an abstract factory for IOpenable, which is inherited by TestBuffer, Buffer.
+IBuffer acts as an abstract product for IBuffer, which is inherited by TestBuffer, Buffer.

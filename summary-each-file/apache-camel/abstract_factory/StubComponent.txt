@@ -1,0 +1,1 @@
+StubComponent acts as a product for VmComponentBuilderFactory, which overrides.

@@ -1,0 +1,1 @@
+AbstractNamed acts as a factory for Named, which overrides getName method of Named, getQualifiedName method of Named, getUnqualifiedName method of Named, getComment method of Named, getCommentPart method of Named, $name method of Named.

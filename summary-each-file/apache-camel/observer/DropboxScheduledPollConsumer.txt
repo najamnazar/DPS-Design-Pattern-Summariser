@@ -1,0 +1,3 @@
+DropboxScheduledPollConsumer acts as a publisher for observer PollingConsumerPollStrategy, which polls, which does Start, which does Stop.
+DropboxScheduledPollConsumer acts as a publisher for observer LoggingLevel, which polls, which does Start, which does Stop.
+DropboxScheduledPollConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which polls, which does Start, which does Stop.

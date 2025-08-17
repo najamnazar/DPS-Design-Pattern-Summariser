@@ -1,0 +1,2 @@
+FieldOrRowOrSelect acts as a product for VisitContext, which overrides.
+FieldOrRowOrSelect acts as a product for DiagnosticsContext, which overrides.

@@ -1,0 +1,1 @@
+FormatterCommentsClearBlankLinesTests acts as a caretaker for memento List, which suites, which sets Up, which codes Formatter, which gets Output Folder.

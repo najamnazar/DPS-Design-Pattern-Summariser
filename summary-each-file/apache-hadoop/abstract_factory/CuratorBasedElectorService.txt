@@ -1,0 +1,1 @@
+CuratorBasedElectorService acts as a product for RMContext, which overrides rejoinElection method of EmbeddedElector, getZookeeperConnectionState method of EmbeddedElector.

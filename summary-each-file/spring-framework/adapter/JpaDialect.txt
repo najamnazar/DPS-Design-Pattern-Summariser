@@ -1,0 +1,1 @@
+JpaDialect acts as an adaptee for adapter JpaTransactionManager, which adapts to AbstractPlatformTransactionManager, which adapts to AbstractPlatformTransactionManager, which adapts to AbstractPlatformTransactionManager, which adapts to AbstractPlatformTransactionManager, which adapts to AbstractPlatformTransactionManager.

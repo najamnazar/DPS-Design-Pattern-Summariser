@@ -1,0 +1,1 @@
+TwitterSearchEndpoint acts as a publisher for observer TwitterConfiguration, which creates Producer, which creates Processor parameter of processor Consumer, which gets Keywords.

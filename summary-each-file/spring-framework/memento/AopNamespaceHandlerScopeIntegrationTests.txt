@@ -1,0 +1,2 @@
+AopNamespaceHandlerScopeIntegrationTests acts as a caretaker for memento B, which tests Singleton Scoping, which tests Request Scoping, which tests Session Scoping.
+AopNamespaceHandlerScopeIntegrationTests acts as a caretaker for memento ITestBean, which tests Singleton Scoping, which tests Request Scoping, which tests Session Scoping.

@@ -1,0 +1,1 @@
+CxfMtomDisabledProducerPayloadModeTest acts as a caretaker for memento Context, which is Mtom Enabled, which gets Service Impl, which tests Producer, which details Holder<byte[]> parameter of photo, Holder<Image> parameter of image.

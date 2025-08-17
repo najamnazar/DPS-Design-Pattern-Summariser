@@ -1,0 +1,2 @@
+AspectJAfterThrowingAdvice acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+AspectJAfterThrowingAdvice acts as a product for AdvisorAdapter, which overrides.

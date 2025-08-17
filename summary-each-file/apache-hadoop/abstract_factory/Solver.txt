@@ -1,0 +1,1 @@
+Solver acts as an abstract factory for RLESparseResourceAllocation, which is inherited by LpSolver.

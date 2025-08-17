@@ -1,0 +1,1 @@
+DomFinder acts as a caretaker for memento XPath, which finds Elements And Types, which finds String parameter of name Attributes Elements, which finds String parameter of name Elements Elements, which finds String parameter of name Base Type.

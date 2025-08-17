@@ -1,0 +1,2 @@
+JMXMonitorTypeGaugeTest acts as a publisher for observer DefaultCamelContext, which gauges, which builds From URI.
+JMXMonitorTypeGaugeTest acts as a publisher for observer SimpleRegistry, which gauges, which builds From URI.

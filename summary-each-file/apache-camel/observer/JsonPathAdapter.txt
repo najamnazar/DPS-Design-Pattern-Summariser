@@ -1,0 +1,1 @@
+JsonPathAdapter acts as a publisher for observer CamelContext, which is inherited by JacksonJsonAdapter, which inits CamelContext parameter of camelContext, which reads Object parameter of body, Exchange parameter of exchange Value, which writes Object parameter of value, Exchange parameter of exchange As String.

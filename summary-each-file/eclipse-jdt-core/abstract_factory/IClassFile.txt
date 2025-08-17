@@ -1,0 +1,6 @@
+IClassFile acts as a product for ITypeParameter, which overrides.
+IClassFile acts as an abstract factory for IJavaElement, ICompilationUnit, IType, which is inherited by AbstractClassFile.
+IClassFile acts as a product for ILocalVariable, which overrides.
+IClassFile acts as a product for AbstractModule, which overrides.
+IClassFile acts as a product for IMember, which overrides.
+IClassFile acts as an abstract product for IClassFile, which is inherited by AbstractClassFile, IModularClassFile, IOrdinaryClassFile.

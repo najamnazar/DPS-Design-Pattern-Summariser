@@ -1,0 +1,2 @@
+TransactionListener acts as an abstract factory for, which is inherited by TransactionListeners, CallbackTransactionListener, DefaultTransactionListener.
+TransactionListener acts as an abstract product for TransactionListener, which is inherited by TransactionListeners, CallbackTransactionListener, DefaultTransactionListener.

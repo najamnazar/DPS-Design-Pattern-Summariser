@@ -1,0 +1,1 @@
+LegacyErrorHandlerBuilder acts as an observer.

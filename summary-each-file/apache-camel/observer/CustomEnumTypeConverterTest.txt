@@ -1,0 +1,2 @@
+CustomEnumTypeConverterTest acts as a publisher for observer Service, which tests Custom Enum Type Converter Gets Called, which tos int parameter of i Status Code Enum, which froms int parameter of statusCode Code.
+CustomEnumTypeConverterTest acts as a publisher for observer CamelContext, which tests Custom Enum Type Converter Gets Called, which tos int parameter of i Status Code Enum, which froms int parameter of statusCode Code.

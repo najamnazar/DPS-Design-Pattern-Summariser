@@ -1,0 +1,2 @@
+RMNode acts as a factory for DefaultAMSProcessor, which overrides.
+RMNode acts as an abstract product for TestNodeQueueLoadMonitor, which is inherited by RMNodeImpl, RMNodeWrapper.

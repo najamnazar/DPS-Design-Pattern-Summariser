@@ -1,0 +1,1 @@
+CometdProducerConsumerInOutInteractiveManualTest acts as a caretaker for memento Context, which mains String[] parameter of args, which tests Cometd Producer Consumer Interactive, which creates Route Builder.

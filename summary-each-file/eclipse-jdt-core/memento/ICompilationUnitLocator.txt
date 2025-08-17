@@ -1,0 +1,1 @@
+ICompilationUnitLocator acts as an originator for memento ICompilationUnit, which is inherited by, which froms an ICompilationUnit IFile to.

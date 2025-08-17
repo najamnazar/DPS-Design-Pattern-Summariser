@@ -1,0 +1,1 @@
+KeyVaultOperation acts as an observer for publisher KeyVaultConfiguration, which is inherited by.

@@ -1,0 +1,2 @@
+MoveApplicationAcrossQueuesResponse acts as a memento, which is inherited by MoveApplicationAcrossQueuesResponsePBImpl, which news Instance.
+MoveApplicationAcrossQueuesResponse acts as an originator for memento MoveApplicationAcrossQueuesResponse, which is inherited by, which news a MoveApplicationAcrossQueuesResponse Instance to.

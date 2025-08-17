@@ -1,0 +1,2 @@
+FileSortByExpressionTest acts as a publisher for observer CamelContext, which prepares String parameter of folder Folder, which tests Sort Files, which tests Sort Files Reverse.
+FileSortByExpressionTest acts as a publisher for observer Service, which prepares String parameter of folder Folder, which tests Sort Files, which tests Sort Files Reverse.

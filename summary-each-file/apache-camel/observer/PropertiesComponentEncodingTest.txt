@@ -1,0 +1,2 @@
+PropertiesComponentEncodingTest acts as a publisher for observer Service, which tests Properties Component, which creates Route Builder, which creates Camel Context.
+PropertiesComponentEncodingTest acts as a publisher for observer CamelContext, which tests Properties Component, which creates Route Builder, which creates Camel Context.

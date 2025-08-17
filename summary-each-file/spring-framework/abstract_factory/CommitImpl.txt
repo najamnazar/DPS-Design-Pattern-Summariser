@@ -1,0 +1,4 @@
+CommitImpl acts as a product for MigrationContext, which overrides.
+CommitImpl acts as a product for DSLContext, which overrides.
+CommitImpl acts as a product for Commits, which overrides.
+CommitImpl acts as a product for Migration, which overrides.

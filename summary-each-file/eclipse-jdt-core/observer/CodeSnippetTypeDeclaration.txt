@@ -1,0 +1,2 @@
+CodeSnippetTypeDeclaration acts as a publisher for observer ClassScope, which generates ClassFile parameter of enclosingClassFile Code.
+CodeSnippetTypeDeclaration acts as an observer, which generates ClassFile parameter of enclosingClassFile Code.

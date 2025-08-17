@@ -1,0 +1,1 @@
+JavadocSingleNameReference acts as a caretaker for memento Binding, which resolves BlockScope parameter of scope, which resolves BlockScope parameter of scope, boolean parameter of warn, which traverses ASTVisitor parameter of visitor, BlockScope parameter of scope.

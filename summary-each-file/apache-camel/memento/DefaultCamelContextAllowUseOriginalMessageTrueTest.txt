@@ -1,0 +1,2 @@
+DefaultCamelContextAllowUseOriginalMessageTrueTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Use Original Message True, which creates Route Builder.
+DefaultCamelContextAllowUseOriginalMessageTrueTest acts as a caretaker for memento Context, which creates Camel Context, which tests Use Original Message True, which creates Route Builder.

@@ -1,0 +1,2 @@
+Etcd3ServiceDiscovery acts as a target for adapter Etcd3WatchServiceDiscovery, which adapts to Etcd3ServiceDiscovery, which adapts to Etcd3ServiceDiscovery, which adapts to Etcd3ServiceDiscovery, which adapts to Etcd3ServiceDiscovery.
+Etcd3ServiceDiscovery acts as an adapter, which adapts to DefaultServiceDiscovery, which adapts to DefaultServiceDiscovery, which adapts to DefaultServiceDiscovery, which adapts to DefaultServiceDiscovery.

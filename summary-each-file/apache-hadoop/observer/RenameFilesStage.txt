@@ -1,0 +1,1 @@
+RenameFilesStage acts as a publisher for observer FileEntry, which is inherited by, which gets Files Committed, which gets Total File Size, which executes Triple<LoadedManifestData, parameter of Set<Path>, Stage, which commits FileEntry parameter of entry One File.

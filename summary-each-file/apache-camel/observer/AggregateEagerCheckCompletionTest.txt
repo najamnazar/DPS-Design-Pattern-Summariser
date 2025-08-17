@@ -1,0 +1,2 @@
+AggregateEagerCheckCompletionTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Aggregate Eager Check Completion, which tests Aggregate Not Eager Check Completion.
+AggregateEagerCheckCompletionTest acts as a publisher for observer Service, which is Use Route Builder, which tests Aggregate Eager Check Completion, which tests Aggregate Not Eager Check Completion.

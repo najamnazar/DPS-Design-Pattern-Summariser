@@ -1,0 +1,2 @@
+CLITestHelperDFS acts as a publisher for observer ComparatorData, which gets Config Parser, which ends String parameter of uri, String parameter of localName, String parameter of qName Element.
+CLITestHelperDFS acts as a publisher for observer CLICommand, which gets Config Parser, which ends String parameter of uri, String parameter of localName, String parameter of qName Element.

@@ -1,0 +1,2 @@
+SQLExceptionTranslator acts as an adaptee for adapter JdbcTransactionManager, which adapts to DataSourceTransactionManager.
+SQLExceptionTranslator acts as an adaptee for adapter HibernateJpaDialect, which adapts to DefaultJpaDialect.

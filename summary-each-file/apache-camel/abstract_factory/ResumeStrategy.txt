@@ -1,0 +1,1 @@
+ResumeStrategy acts as an abstract factory for ResumeStrategyConfiguration, ResumeAdapter, which is inherited by TransientResumeStrategy, WriteAheadResumeStrategy.

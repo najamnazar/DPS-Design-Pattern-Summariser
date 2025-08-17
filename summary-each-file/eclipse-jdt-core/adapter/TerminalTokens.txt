@@ -1,0 +1,4 @@
+TerminalTokens acts as an adaptee for adapter RecoveredMethod.
+TerminalTokens acts as an adaptee for adapter RecoveredType.
+TerminalTokens acts as an adaptee for adapter RecoveredInitializer.
+TerminalTokens acts as an adaptee for adapter RecoveredBlock.

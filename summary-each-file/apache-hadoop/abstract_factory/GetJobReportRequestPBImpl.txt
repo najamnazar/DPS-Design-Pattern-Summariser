@@ -1,0 +1,1 @@
+GetJobReportRequestPBImpl acts as a factory for GetJobReportRequest, which overrides getJobId method of GetJobReportRequest, setJobId method of GetJobReportRequest.

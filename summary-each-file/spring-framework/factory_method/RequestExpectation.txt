@@ -1,0 +1,1 @@
+RequestExpectation acts as an abstract product for AbstractRequestExpectationManager, which is inherited by DefaultRequestExpectation.

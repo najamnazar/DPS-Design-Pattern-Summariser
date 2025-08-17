@@ -1,0 +1,2 @@
+DumpModelAsXmlDanishCharactersTest acts as a publisher for observer CamelContext, which creates Registry, which tests Dump Model As Xml, which creates Route Builder.
+DumpModelAsXmlDanishCharactersTest acts as a publisher for observer Service, which creates Registry, which tests Dump Model As Xml, which creates Route Builder.

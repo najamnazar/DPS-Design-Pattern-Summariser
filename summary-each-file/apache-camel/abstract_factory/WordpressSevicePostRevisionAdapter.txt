@@ -1,0 +1,1 @@
+WordpressSevicePostRevisionAdapter acts as a factory for WordpressServicePostRevision, which overrides delete method of WordpressServicePostRevision, retrieve method of WordpressServicePostRevision, list method of WordpressServicePostRevision.

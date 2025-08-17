@@ -1,0 +1,1 @@
+AsyncClientHttpRequestFactory acts as a component for InterceptingAsyncClientHttpRequestFactory, which is inherited by SimpleClientHttpRequestFactory, OkHttp3ClientHttpRequestFactory, Netty4ClientHttpRequestFactory, HttpComponentsAsyncClientHttpRequestFactory.

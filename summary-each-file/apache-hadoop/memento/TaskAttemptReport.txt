@@ -1,0 +1,1 @@
+TaskAttemptReport acts as an originator for memento TaskAttemptState, which is inherited by, which gets a TaskAttemptState Task Attempt State to, which sets TaskAttemptState parameter of taskAttemptState Task Attempt State.

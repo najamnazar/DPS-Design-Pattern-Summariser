@@ -1,0 +1,1 @@
+AlternativeJdkIdGenerator acts as an observer, which generates Id.

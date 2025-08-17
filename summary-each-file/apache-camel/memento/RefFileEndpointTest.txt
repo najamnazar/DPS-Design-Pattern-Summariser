@@ -1,0 +1,2 @@
+RefFileEndpointTest acts as a caretaker for memento Context, which tests Ref File Endpoint, which creates Camel Context, which creates Route Builder.
+RefFileEndpointTest acts as a caretaker for memento Producer, which tests Ref File Endpoint, which creates Camel Context, which creates Route Builder.

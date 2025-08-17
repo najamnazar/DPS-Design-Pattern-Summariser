@@ -1,0 +1,2 @@
+BeanWithHeaderTest acts as a publisher for observer CamelContext, which tests Bean With Header, which creates Registry, which creates Route Builder, which does Exchange parameter of exchange Something.
+BeanWithHeaderTest acts as a publisher for observer Service, which tests Bean With Header, which creates Registry, which creates Route Builder, which does Exchange parameter of exchange Something.

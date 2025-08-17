@@ -1,0 +1,1 @@
+NoCondition acts as a caretaker for memento Clause, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

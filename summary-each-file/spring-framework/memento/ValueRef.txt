@@ -1,0 +1,1 @@
+ValueRef acts as a caretaker for memento Null, which gets Value, which sets @Nullable parameter of Object Value, which is Writable, which gets Value, which sets @Nullable parameter of Object Value, which is Writable, which gets Value, which sets @Nullable parameter of Object Value, which is Writable.

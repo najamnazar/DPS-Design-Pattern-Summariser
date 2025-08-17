@@ -1,0 +1,10 @@
+DefaultQueueResourceRoundingStrategy acts as a visitor for element SchedulableEntity, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element ConfigurationMutationACLPolicy, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element GetJobReportResponse, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element SystemMetricsPublisher, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element RMAdminRequestInterceptor, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element ConstraintPlacementAlgorithm, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element ResourceScheduler, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element RMContext, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element SchedulingEditPolicy, which overrides, which gets a Rounded Resource to.
+DefaultQueueResourceRoundingStrategy acts as a visitor for element ReservationSystem, which overrides, which gets a Rounded Resource to.

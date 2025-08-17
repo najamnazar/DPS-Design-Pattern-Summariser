@@ -1,0 +1,2 @@
+AbstractLocaleContextResolver acts as a factory for LocaleContextResolver, which overrides.
+AbstractLocaleContextResolver acts as a product for HandlerStrategies, which overrides.

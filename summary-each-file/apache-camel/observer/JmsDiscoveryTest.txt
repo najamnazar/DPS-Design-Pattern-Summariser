@@ -1,0 +1,2 @@
+JmsDiscoveryTest acts as a publisher for observer Registry, which is inherited by, which tests Discovery, which gets Component Name, which binds Registry parameter of registry To Registry, which creates Route Builder.
+JmsDiscoveryTest acts as a publisher for observer ArtemisService, which tests Discovery, which gets Component Name, which binds Registry parameter of registry To Registry, which creates Route Builder.

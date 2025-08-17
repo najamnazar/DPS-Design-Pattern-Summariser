@@ -1,0 +1,1 @@
+ComponentInstanceId acts as a publisher for observer ContainerId, which is inherited by, which gets Id, which gets Comp Name, which gets Comp Instance Name, which sets ContainerId parameter of containerId Container Id, which tos String, which equals Object parameter of o, which hashes Code, which compares ComponentInstanceId parameter of to To.

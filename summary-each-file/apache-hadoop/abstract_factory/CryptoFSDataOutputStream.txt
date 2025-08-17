@@ -1,0 +1,1 @@
+CryptoFSDataOutputStream acts as a product for FSWrapper, which overrides getPos method of FSDataOutputStream, getPos method of FSDataOutputStream.

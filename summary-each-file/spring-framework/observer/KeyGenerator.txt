@@ -1,0 +1,1 @@
+KeyGenerator acts as an observer for publisher CacheAspectSupport, CacheInterceptor, which is inherited by KeyGeneratorAdapter, SomeCustomKeyGenerator, SimpleKeyGenerator, which generates Object parameter of target, Method parameter of method, Object... parameter of params.

@@ -1,0 +1,1 @@
+CompilationUnitResolver acts as a product for ICompilerFactory, which overrides initializeParser method of Compiler, process method of Compiler, handleInternalException method of Compiler, handleInternalException method of Compiler.

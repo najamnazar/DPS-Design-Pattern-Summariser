@@ -1,0 +1,5 @@
+SqsProducerPurgeTest acts as a publisher for observer Service, which purges Queue, which creates Route Builder.
+SqsProducerPurgeTest acts as a publisher for observer CamelContext, which purges Queue, which creates Route Builder.
+SqsProducerPurgeTest acts as a publisher for observer FluentProducerTemplate, which purges Queue, which creates Route Builder.
+SqsProducerPurgeTest acts as a publisher for observer ProducerTemplate, which purges Queue, which creates Route Builder.
+SqsProducerPurgeTest acts as a publisher for observer ConsumerTemplate, which purges Queue, which creates Route Builder.

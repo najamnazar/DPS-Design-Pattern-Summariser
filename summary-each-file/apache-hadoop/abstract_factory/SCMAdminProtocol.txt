@@ -1,0 +1,1 @@
+SCMAdminProtocol acts as an abstract factory for RunSharedCacheCleanerTaskResponse, which is inherited by SCMAdminProtocolService, SCMAdminProtocolPBClientImpl.

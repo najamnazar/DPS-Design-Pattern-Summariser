@@ -1,0 +1,5 @@
+CookieHandler acts as an adaptee for adapter UndertowEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+CookieHandler acts as an adaptee for adapter HttpCommonEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+CookieHandler acts as an adaptee for adapter CxfEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+CookieHandler acts as an adaptee for adapter NettyHttpEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint.
+CookieHandler acts as an adaptee for adapter CxfRsEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

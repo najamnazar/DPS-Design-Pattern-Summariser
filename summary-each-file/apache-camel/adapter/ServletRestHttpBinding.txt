@@ -1,0 +1,1 @@
+ServletRestHttpBinding acts as an adaptee for adapter RestServletNameTest, which adapts to ServletCamelRouterTestSupport, which adapts to ServletCamelRouterTestSupport.

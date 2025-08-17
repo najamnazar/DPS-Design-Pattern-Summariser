@@ -1,0 +1,3 @@
+Netty4ClientHttpResponse acts as a caretaker for memento B, which gets Raw Status Code, which gets Status Text, which gets Headers, which gets Body, which closes.
+Netty4ClientHttpResponse acts as a caretaker for memento Headers, which gets Raw Status Code, which gets Status Text, which gets Headers, which gets Body, which closes.
+Netty4ClientHttpResponse acts as a caretaker for memento C, which gets Raw Status Code, which gets Status Text, which gets Headers, which gets Body, which closes.

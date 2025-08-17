@@ -1,0 +1,13 @@
+Configured acts as an adaptee for adapter DebugAdmin, which adapts to Tool, which adapts to Tool.
+Configured acts as an adaptee for adapter AllowAllImpersonationProvider, which adapts to ImpersonationProvider, which adapts to ImpersonationProvider.
+Configured acts as an adaptee for adapter ShellCommandFencer, which adapts to FenceMethod, which adapts to FenceMethod.
+Configured acts as an adaptee for adapter ShellBasedUnixGroupsMapping, which adapts to Configured, GroupMappingServiceProvider, which adapts to Configured, GroupMappingServiceProvider.
+Configured acts as a target for adapter NodeAttributesCLI, which adapts to Configured, which adapts to Configured.
+Configured acts as a target for adapter ShellBasedUnixGroupsMapping, which adapts to Configured, which adapts to Configured.
+Configured acts as a target for adapter HSAdmin, which adapts to Configured, which adapts to Configured.
+Configured acts as an adaptee for adapter SshFenceByTcpPort, which adapts to FenceMethod, which adapts to FenceMethod.
+Configured acts as a target for adapter SLSRunner, which adapts to Configured, which adapts to Configured.
+Configured acts as an adaptee for adapter PowerShellFencer, which adapts to FenceMethod, which adapts to FenceMethod.
+Configured acts as a target for adapter HAAdmin, which adapts to Configured, which adapts to Configured.
+Configured acts as an adaptee for adapter HadoopLogsAnalyzer, which adapts to Tool, which adapts to Tool.
+Configured acts as a target for adapter TeraSort, which adapts to Configured, which adapts to Configured.

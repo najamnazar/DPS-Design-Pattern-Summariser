@@ -1,0 +1,1 @@
+CamelInternalProcessor acts as a product for InternalProcessorFactory, which overrides addAdvice method of InternalProcessor, getAdvice method of InternalProcessor, addRoutePolicyAdvice method of InternalProcessor, addRouteInflightRepositoryAdvice method of InternalProcessor, addRouteLifecycleAdvice method of InternalProcessor, setRouteOnAdvices method of InternalProcessor.

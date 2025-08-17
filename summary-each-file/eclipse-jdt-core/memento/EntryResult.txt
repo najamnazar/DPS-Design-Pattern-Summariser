@@ -1,0 +1,1 @@
+EntryResult acts as a caretaker for memento S, which adds String parameter of documentName Document Name, which adds Object parameter of table Document Table, which gets Word, which gets Index parameter of index Document Names, which is Empty.

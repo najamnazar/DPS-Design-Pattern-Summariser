@@ -1,0 +1,1 @@
+BeanDefinitionReader acts as an abstract factory for BeanNameGenerator, ResourceLoader, BeanDefinitionRegistry, which is inherited by AbstractBeanDefinitionReader.

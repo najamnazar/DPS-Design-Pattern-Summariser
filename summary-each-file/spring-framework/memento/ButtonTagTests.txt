@@ -1,0 +1,1 @@
+ButtonTagTests acts as a caretaker for memento B, which ons Set Up, which buttons Tag, which disableds, which creates Test Bean, which asserts String parameter of output Tag Closed, which asserts String parameter of output Tag Opened, which creates final parameter of Writer Tag.

@@ -1,0 +1,1 @@
+INodeFile acts as a product for BlockManager, which overrides getPreferredBlockSize method of BlockCollection, getStoragePolicyID method of BlockCollection, isStriped method of BlockCollection, getName method of BlockCollection, getLastBlock method of BlockCollection, numBlocks method of BlockCollection.

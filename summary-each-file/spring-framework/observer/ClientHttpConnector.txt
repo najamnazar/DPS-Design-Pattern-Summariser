@@ -1,0 +1,2 @@
+ClientHttpConnector acts as an observer for publisher ExchangeFunctions, which is inherited by MockMvcHttpConnector, WiretapConnector, JettyClientHttpConnector, HttpComponentsClientHttpConnector, HttpHandlerConnector, ReactorClientHttpConnector, which connects HttpMethod parameter of method, URI parameter of uri, Function<? parameter of super.
+ClientHttpConnector acts as a publisher for observer HttpMethod, which is inherited by HttpComponentsClientHttpConnector, which connects HttpMethod parameter of method, URI parameter of uri, Function<? parameter of super.

@@ -1,0 +1,3 @@
+FileComparator acts as a caretaker for memento Comparator, which compares File parameter of o1, File parameter of o2.
+FileComparator acts as a caretaker for memento File, which compares File parameter of o1, File parameter of o2.
+FileComparator acts as a caretaker for memento C, which compares File parameter of o1, File parameter of o2.

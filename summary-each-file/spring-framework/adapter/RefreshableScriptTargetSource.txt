@@ -1,0 +1,1 @@
+RefreshableScriptTargetSource acts as an adapter, which adapts to BeanFactoryRefreshableTargetSource, which adapts to BeanFactoryRefreshableTargetSource.

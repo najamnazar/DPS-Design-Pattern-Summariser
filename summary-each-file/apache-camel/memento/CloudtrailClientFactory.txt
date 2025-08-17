@@ -1,0 +1,1 @@
+CloudtrailClientFactory acts as an originator for memento CloudtrailInternalClient, which gets a CloudtrailInternalClient Cloudtrail Client to.

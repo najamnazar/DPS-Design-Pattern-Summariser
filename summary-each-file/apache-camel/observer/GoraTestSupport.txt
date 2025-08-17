@@ -1,0 +1,5 @@
+GoraTestSupport acts as a publisher for observer ConsumerTemplate.
+GoraTestSupport acts as a publisher for observer ProducerTemplate.
+GoraTestSupport acts as a publisher for observer CamelContext.
+GoraTestSupport acts as a publisher for observer FluentProducerTemplate.
+GoraTestSupport acts as a publisher for observer Service.

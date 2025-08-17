@@ -1,0 +1,2 @@
+RunFormatterMassiveTests acts as a caretaker for memento String, which suites, which adds TestSuite parameter of ts, File parameter of inputDir, String parameter of profile, Map parameter of workspaces Class.
+RunFormatterMassiveTests acts as a caretaker for memento S, which suites, which adds TestSuite parameter of ts, File parameter of inputDir, String parameter of profile, Map parameter of workspaces Class.

@@ -1,0 +1,2 @@
+SelectionOnQualifiedNameReference acts as a caretaker for memento S, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+SelectionOnQualifiedNameReference acts as a caretaker for memento Binding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

@@ -1,0 +1,1 @@
+SupplierRegistry acts as an observer, which lookups String parameter of name, Class<T> parameter of type By Name And Type, which finds Class<T> parameter of type By Type, which finds Class<T> parameter of type By Type With Name, which binds String parameter of id, Class<?> parameter of type, Supplier<Object> parameter of bean.

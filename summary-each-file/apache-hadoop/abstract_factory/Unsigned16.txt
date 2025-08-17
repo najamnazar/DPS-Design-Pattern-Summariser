@@ -1,0 +1,1 @@
+Unsigned16 acts as a product for WritableFactory, which overrides readFields method of Writable, write method of Writable.

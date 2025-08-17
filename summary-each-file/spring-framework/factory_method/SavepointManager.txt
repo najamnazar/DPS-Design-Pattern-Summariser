@@ -1,0 +1,1 @@
+SavepointManager acts as an abstract product for EntityManagerHolder, which is inherited by JdbcTransactionObjectSupport.

@@ -1,0 +1,3 @@
+AspectJAfterAdvice acts as a caretaker for memento A, which invokes MethodInvocation parameter of mi, which is Before Advice, which is After Advice.
+AspectJAfterAdvice acts as a caretaker for memento C, which invokes MethodInvocation parameter of mi, which is Before Advice, which is After Advice.
+AspectJAfterAdvice acts as a caretaker for memento Pointcut, which invokes MethodInvocation parameter of mi, which is Before Advice, which is After Advice.

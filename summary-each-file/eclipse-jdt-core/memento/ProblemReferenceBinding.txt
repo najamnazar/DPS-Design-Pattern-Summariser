@@ -1,0 +1,2 @@
+ProblemReferenceBinding acts as a caretaker for memento Binding, which problems Id, which shorts Readable Name.
+ProblemReferenceBinding acts as a caretaker for memento R, which problems Id, which shorts Readable Name.

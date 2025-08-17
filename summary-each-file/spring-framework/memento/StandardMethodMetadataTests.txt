@@ -1,0 +1,1 @@
+StandardMethodMetadataTests acts as an originator for memento MethodMetadata.

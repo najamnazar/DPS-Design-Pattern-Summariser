@@ -1,0 +1,3 @@
+BlobOperationsTest acts as a caretaker for memento Configuration, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.
+BlobOperationsTest acts as a caretaker for memento Context, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.
+BlobOperationsTest acts as a caretaker for memento Producer, which setups, which tests Get Blob, which tests Upload Block Blob, which tests Stage Block Blob List, which creates Blob Properties.

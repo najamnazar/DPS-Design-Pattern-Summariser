@@ -1,0 +1,2 @@
+CustomFailveOverProcessor acts as a publisher for observer Service, which tests Fail Over, which creates Route Builder, which processes Exchange parameter of exchange.
+CustomFailveOverProcessor acts as a publisher for observer CamelContext, which tests Fail Over, which creates Route Builder, which processes Exchange parameter of exchange.

@@ -1,0 +1,2 @@
+RecordListener acts as an abstract product for RecordListener, which is inherited by DefaultRecordListener, CallbackRecordListener.
+RecordListener acts as an abstract factory for, which is inherited by DefaultRecordListener, CallbackRecordListener.

@@ -1,0 +1,1 @@
+PBImageCorruption acts as an observer for publisher PBImageCorruptionDetector, which is inherited by, which tos String, which adds Missing Child Corruption, which adds Corrupt Node Corruption, which sets int parameter of numOfCorruption Number Of Corruption, which gets Id, which gets Type, which gets Num Of Corrupt Children.

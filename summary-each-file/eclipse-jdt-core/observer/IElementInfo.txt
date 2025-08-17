@@ -1,0 +1,1 @@
+IElementInfo acts as an observer for publisher JavaModelCache, which is inherited by IBinaryInfo, JavaElementInfo, ElementImpl, which gets File Name.

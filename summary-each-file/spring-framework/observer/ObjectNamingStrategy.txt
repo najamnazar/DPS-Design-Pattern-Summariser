@@ -1,0 +1,1 @@
+ObjectNamingStrategy acts as an observer for publisher MBeanExporter, AnnotationMBeanExporter, which is inherited by IdentityNamingStrategy, KeyNamingStrategy, MetadataNamingStrategy, which gets Object parameter of managedBean, @Nullable parameter of String Object Name.

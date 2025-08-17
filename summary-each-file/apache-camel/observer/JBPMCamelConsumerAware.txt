@@ -1,0 +1,1 @@
+JBPMCamelConsumerAware acts as a publisher for observer JBPMConsumer, which is inherited by CamelProcessEventListener, CamelCaseEventListener, CamelTaskEventListener, which adds JBPMConsumer parameter of consumer Consumer, which removes JBPMConsumer parameter of consumer Consumer.

@@ -1,0 +1,1 @@
+HandshakeHandler acts as a component for WebSocketTransportHandler, which is inherited by AbstractHandshakeHandler, AbstractHandshakeHandler, AbstractHandshakeHandler, AbstractHandshakeHandler, HandlersBeanDefinitionParserTests.

@@ -1,0 +1,2 @@
+DynamicRouterOnExceptionTest acts as a publisher for observer CamelContext, which tests Ok, which tests Exception, which tests Exception Two, which creates Route Builder, which wheres Exchange parameter of exchange To.
+DynamicRouterOnExceptionTest acts as a publisher for observer Service, which tests Ok, which tests Exception, which tests Exception Two, which creates Route Builder, which wheres Exchange parameter of exchange To.

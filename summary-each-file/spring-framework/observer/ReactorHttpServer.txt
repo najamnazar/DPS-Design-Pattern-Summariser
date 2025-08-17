@@ -1,0 +1,1 @@
+ReactorHttpServer acts as a publisher for observer HttpHandler, which inits Server, which creates Http Handler Adapter, which starts Internal, which stops Internal, which resets Internal.

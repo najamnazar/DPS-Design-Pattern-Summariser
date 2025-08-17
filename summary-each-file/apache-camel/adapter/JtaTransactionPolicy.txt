@@ -1,0 +1,1 @@
+JtaTransactionPolicy acts as an adaptee for adapter JtaTransactionErrorHandler, which adapts to RedeliveryErrorHandler, which adapts to RedeliveryErrorHandler, which adapts to RedeliveryErrorHandler, which adapts to RedeliveryErrorHandler, which adapts to RedeliveryErrorHandler, which adapts to RedeliveryErrorHandler.

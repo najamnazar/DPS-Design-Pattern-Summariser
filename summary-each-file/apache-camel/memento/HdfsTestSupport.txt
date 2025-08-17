@@ -1,0 +1,2 @@
+HdfsTestSupport acts as a caretaker for memento Context, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.
+HdfsTestSupport acts as a caretaker for memento Producer, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.

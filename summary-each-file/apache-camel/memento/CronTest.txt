@@ -1,0 +1,1 @@
+CronTest acts as a caretaker for memento Context, which sets Up Cron With Endpoint DSL, which sets Up Cron With URI, which creates CamelCronConfiguration parameter of configuration Endpoint, which gets Id, which gets Camel Context.

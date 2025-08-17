@@ -1,0 +1,3 @@
+SecureAzureBlobFileSystem acts as an observer, which is Secure Scheme, which gets Scheme.
+SecureAzureBlobFileSystem acts as a publisher for observer Path, which is Secure Scheme, which gets Scheme.
+SecureAzureBlobFileSystem acts as a publisher for observer Listener, which is Secure Scheme, which gets Scheme.

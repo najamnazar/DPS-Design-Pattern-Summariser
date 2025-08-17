@@ -1,0 +1,3 @@
+LookUpTxMgrViaTransactionManagementConfigurerWithPrimaryTxMgrTests acts as a caretaker for memento C, which transactionals Test, which afters Transaction, which primaries, which annotations Driven Transaction Manager.
+LookUpTxMgrViaTransactionManagementConfigurerWithPrimaryTxMgrTests acts as a caretaker for memento Transaction, which transactionals Test, which afters Transaction, which primaries, which annotations Driven Transaction Manager.
+LookUpTxMgrViaTransactionManagementConfigurerWithPrimaryTxMgrTests acts as a caretaker for memento TransactionManager, which transactionals Test, which afters Transaction, which primaries, which annotations Driven Transaction Manager.

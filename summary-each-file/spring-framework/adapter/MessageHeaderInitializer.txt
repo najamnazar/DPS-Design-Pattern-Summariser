@@ -1,0 +1,2 @@
+MessageHeaderInitializer acts as an adaptee for adapter SimpleBrokerMessageHandler, which adapts to AbstractBrokerMessageHandler.
+MessageHeaderInitializer acts as an adaptee for adapter StompBrokerRelayMessageHandler, which adapts to AbstractBrokerMessageHandler.

@@ -1,0 +1,1 @@
+XJComponent acts as a publisher for observer Configuration, which creates String parameter of uri Xslt Endpoint.

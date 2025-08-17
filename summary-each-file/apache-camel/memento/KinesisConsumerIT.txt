@@ -1,0 +1,2 @@
+KinesisConsumerIT acts as a caretaker for memento Producer, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.
+KinesisConsumerIT acts as a caretaker for memento Context, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.

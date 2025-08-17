@@ -1,0 +1,2 @@
+OSSListRequest acts as a publisher for observer ListObjectsRequest, which is inherited by, which v1s ListObjectsRequest parameter of request, which v2s ListObjectsV2Request parameter of request, which is V1, which gets V1, which gets V2, which tos String.
+OSSListRequest acts as an observer for publisher AliyunOSSFileSystemStore, which is inherited by, which v1s ListObjectsRequest parameter of request, which v2s ListObjectsV2Request parameter of request, which is V1, which gets V1, which gets V2, which tos String.

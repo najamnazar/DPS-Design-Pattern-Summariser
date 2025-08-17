@@ -1,0 +1,15 @@
+TestResult acts as a product for VariableElement, which overrides.
+TestResult acts as a product for IBinaryElementValuePair, which overrides.
+TestResult acts as a product for IJarEntryResource, which overrides.
+TestResult acts as a product for IMethodBinding, which overrides.
+TestResult acts as a product for IMemberValuePairBinding, which overrides.
+TestResult acts as a product for AbstractModule, which overrides.
+TestResult acts as a product for X17b, which overrides.
+TestResult acts as a product for IMemberValuePair, which overrides.
+TestResult acts as a product for AnnotationValue, which overrides.
+TestResult acts as a product for X14, which overrides.
+TestResult acts as a product for IField, which overrides.
+TestResult acts as a product for IServiceFactory, which overrides.
+TestResult acts as a product for IVariableBinding, which overrides.
+TestResult acts as a product for Enumeration, which overrides.
+TestResult acts as a product for IDOMNode, which overrides.

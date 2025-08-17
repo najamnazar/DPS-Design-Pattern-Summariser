@@ -1,0 +1,5 @@
+VelocitySupplementalContextTest acts as a publisher for observer ProducerTemplate, which tests Camel Route, which creates Route Builder.
+VelocitySupplementalContextTest acts as a publisher for observer Service, which tests Camel Route, which creates Route Builder.
+VelocitySupplementalContextTest acts as a publisher for observer ConsumerTemplate, which tests Camel Route, which creates Route Builder.
+VelocitySupplementalContextTest acts as a publisher for observer FluentProducerTemplate, which tests Camel Route, which creates Route Builder.
+VelocitySupplementalContextTest acts as a publisher for observer CamelContext, which tests Camel Route, which creates Route Builder.

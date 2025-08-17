@@ -1,0 +1,1 @@
+MainForTest acts as a publisher for observer MainShutdownStrategy, which finds Or Create Camel Template, which creates Camel Context, which inits CamelContext parameter of camelContext.

@@ -1,0 +1,2 @@
+AdviceWithUrlIssueTest acts as a publisher for observer Service, which creates Route Builder, which tests Producer With Different Uri, which tests Producer With Same Uri, which configures.
+AdviceWithUrlIssueTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Producer With Different Uri, which tests Producer With Same Uri, which configures.

@@ -1,0 +1,1 @@
+SubscriptionNameProvider acts as an adaptee for adapter MessageListenerAdapter, which adapts to AbstractAdaptableMessageListener.

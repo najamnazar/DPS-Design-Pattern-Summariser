@@ -1,0 +1,1 @@
+SpelLanguage acts as an adapter, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts createSpelExpression method of StaticService, createSpelExpression method of StaticService to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.

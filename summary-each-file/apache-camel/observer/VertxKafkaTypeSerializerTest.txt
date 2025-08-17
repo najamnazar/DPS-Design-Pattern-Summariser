@@ -1,0 +1,5 @@
+VertxKafkaTypeSerializerTest acts as a publisher for observer ProducerTemplate, which tests Normal Types.
+VertxKafkaTypeSerializerTest acts as a publisher for observer CamelContext, which tests Normal Types.
+VertxKafkaTypeSerializerTest acts as a publisher for observer Service, which tests Normal Types.
+VertxKafkaTypeSerializerTest acts as a publisher for observer ConsumerTemplate, which tests Normal Types.
+VertxKafkaTypeSerializerTest acts as a publisher for observer FluentProducerTemplate, which tests Normal Types.

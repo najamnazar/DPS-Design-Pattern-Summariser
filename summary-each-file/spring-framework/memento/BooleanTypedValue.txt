@@ -1,0 +1,1 @@
+BooleanTypedValue acts as a caretaker for memento B, which fors boolean parameter of b Value.

@@ -1,0 +1,1 @@
+DecodingValidator acts as an adaptee for adapter TestDecodingValidator, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase, which adapts to TestRawCoderBase.

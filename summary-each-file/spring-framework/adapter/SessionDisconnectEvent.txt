@@ -1,0 +1,1 @@
+SessionDisconnectEvent acts as an adapter, which adapts to AbstractSubProtocolEvent, which adapts to AbstractSubProtocolEvent, which adapts to AbstractSubProtocolEvent.

@@ -1,0 +1,2 @@
+HtmlEscapingAwareTag acts as a caretaker for memento C, which sets boolean parameter of htmlEscape Html Escape, which is Html Escape, which is Default Html Escape, which is Response Encoded Html Escape, which htmls String parameter of content Escape.
+HtmlEscapingAwareTag acts as a caretaker for memento B, which is inherited by, which sets boolean parameter of htmlEscape Html Escape, which is Html Escape, which is Default Html Escape, which is Response Encoded Html Escape, which htmls String parameter of content Escape.

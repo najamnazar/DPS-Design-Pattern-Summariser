@@ -1,0 +1,3 @@
+PassthroughCodec acts as a factory for Configurable, which overrides getConf method of Configurable.
+PassthroughCodec acts as a factory for CompressionCodec, which overrides getDefaultExtension method of CompressionCodec, getCompressorType method of CompressionCodec, createCompressor method of CompressionCodec, getDecompressorType method of CompressionCodec, createDecompressor method of CompressionCodec.
+PassthroughCodec acts as a product for ShuffleConsumerPlugin, which overrides getDefaultExtension method of CompressionCodec, getCompressorType method of CompressionCodec, createCompressor method of CompressionCodec, getDecompressorType method of CompressionCodec, createDecompressor method of CompressionCodec.

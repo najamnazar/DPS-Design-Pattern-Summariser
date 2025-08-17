@@ -1,0 +1,1 @@
+JmsFilterTest acts as a caretaker for memento Producer, which tests Send Matching Message, which tests Send Not Matching Message, which gets Component Name, which creates Route Builder.

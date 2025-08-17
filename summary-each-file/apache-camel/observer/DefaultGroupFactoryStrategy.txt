@@ -1,0 +1,1 @@
+DefaultGroupFactoryStrategy acts as an observer, which creates CuratorFramework parameter of curator, ClassLoader parameter of loader, CamelContext parameter of camelContext, Callable<CuratorFramework> parameter of factory Group Factory.

@@ -1,0 +1,1 @@
+ServerWebExchangeDecorator acts as a factory method for LocaleContext, which is inherited by ServerWebExchange, ServerWebExchange, DefaultServerWebExchange, LocaleContextResolver, LocaleContextResolver, DispatcherServlet, LocaleContextResolver, LocaleContextResolver, FrameworkServlet.

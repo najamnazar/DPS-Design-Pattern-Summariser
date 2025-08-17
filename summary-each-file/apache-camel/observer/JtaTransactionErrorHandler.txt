@@ -1,0 +1,4 @@
+JtaTransactionErrorHandler acts as a publisher for observer Exchange, which clones Processor parameter of output, which processes final parameter of Exchange, final parameter of AsyncCallback.
+JtaTransactionErrorHandler acts as a publisher for observer Processor, which clones Processor parameter of output, which processes final parameter of Exchange, final parameter of AsyncCallback.
+JtaTransactionErrorHandler acts as a publisher for observer RedeliveryPolicy, which clones Processor parameter of output, which processes final parameter of Exchange, final parameter of AsyncCallback.
+JtaTransactionErrorHandler acts as a publisher for observer AsyncCallback, which clones Processor parameter of output, which processes final parameter of Exchange, final parameter of AsyncCallback.

@@ -1,0 +1,1 @@
+MongoDbOutputType acts as an observer for publisher MongoDbEndpoint, which is inherited by.

@@ -1,0 +1,2 @@
+DoubleConstant acts as a product for NullReferenceImplTests, which overrides.
+DoubleConstant acts as a product for IBinaryField, which overrides.

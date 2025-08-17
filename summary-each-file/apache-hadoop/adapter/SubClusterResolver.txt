@@ -1,0 +1,3 @@
+SubClusterResolver acts as an adaptee for adapter DefaultSubClusterResolverImpl, which adapts to AbstractSubClusterResolver, which adapts to AbstractSubClusterResolver, which adapts to AbstractSubClusterResolver.
+SubClusterResolver acts as an adaptee for adapter LocalityMulticastAMRMProxyPolicy, which adapts to AbstractAMRMProxyPolicy, which adapts to AbstractAMRMProxyPolicy, which adapts to AbstractAMRMProxyPolicy.
+SubClusterResolver acts as an adaptee for adapter FederationInterceptor, which adapts to AbstractRequestInterceptor, which adapts to AbstractRequestInterceptor, which adapts to AbstractRequestInterceptor.

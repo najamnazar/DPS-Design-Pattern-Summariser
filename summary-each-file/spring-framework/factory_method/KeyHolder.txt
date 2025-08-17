@@ -1,0 +1,1 @@
+KeyHolder acts as an abstract product for AbstractJdbcInsert, which is inherited by GeneratedKeyHolder.

@@ -1,0 +1,1 @@
+Errors acts as an abstract factory for ObjectError, which is inherited by AbstractErrors, EscapedErrors.

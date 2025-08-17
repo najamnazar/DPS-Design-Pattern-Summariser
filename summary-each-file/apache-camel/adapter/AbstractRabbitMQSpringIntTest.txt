@@ -1,0 +1,1 @@
+AbstractRabbitMQSpringIntTest acts as a target for adapter RabbitMQSpringIntTest, which adapts to AbstractRabbitMQSpringIntTest, which adapts to AbstractRabbitMQSpringIntTest.

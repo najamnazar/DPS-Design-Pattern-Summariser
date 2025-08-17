@@ -1,0 +1,1 @@
+HttpServerConsumerChannelFactory acts as an abstract product for HttpServerConsumerChannelFactory, which is inherited by HttpServerMultiplexChannelHandler.

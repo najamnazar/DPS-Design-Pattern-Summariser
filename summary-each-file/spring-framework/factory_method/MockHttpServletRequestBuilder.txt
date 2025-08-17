@@ -1,0 +1,2 @@
+MockHttpServletRequestBuilder acts as a factory for MockHttpServletRequestBuilder, which overrides.
+MockHttpServletRequestBuilder acts as a factory method for FlashMapManager, which is inherited by WebMvcConfigurationSupport, MockHttpServletRequestBuilder.

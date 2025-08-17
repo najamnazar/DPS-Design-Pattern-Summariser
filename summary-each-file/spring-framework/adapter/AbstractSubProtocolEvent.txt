@@ -1,0 +1,1 @@
+AbstractSubProtocolEvent acts as a target for adapter SessionDisconnectEvent, which adapts to AbstractSubProtocolEvent, which adapts to AbstractSubProtocolEvent, which adapts to AbstractSubProtocolEvent.

@@ -1,0 +1,3 @@
+TaskAttemptContextImpl acts as a factory for ByteArrayManager, which overrides.
+TaskAttemptContextImpl acts as a factory for Options, which overrides progress method of Options.
+TaskAttemptContextImpl acts as a product for MapReduceTestUtil, which overrides.

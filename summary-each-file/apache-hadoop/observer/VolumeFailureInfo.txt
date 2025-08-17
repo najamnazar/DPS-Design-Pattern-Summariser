@@ -1,0 +1,1 @@
+VolumeFailureInfo acts as an observer for publisher FsVolumeList, which is inherited by, which gets Failed Storage Location, which gets Failure Date, which gets Estimated Capacity Lost.

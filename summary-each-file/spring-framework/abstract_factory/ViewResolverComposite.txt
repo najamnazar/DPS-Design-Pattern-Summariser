@@ -1,0 +1,1 @@
+ViewResolverComposite acts as a factory for ViewResolver, which overrides resolveViewName method of ViewResolver.

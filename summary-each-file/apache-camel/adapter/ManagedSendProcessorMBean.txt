@@ -1,0 +1,2 @@
+ManagedSendProcessorMBean acts as an adapter, which adapts to ManagedExtendedInformation, which adapts to ManagedExtendedInformation, which adapts to ManagedExtendedInformation.
+ManagedSendProcessorMBean acts as an adaptee for adapter ManagedSendProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor.

@@ -1,0 +1,1 @@
+EhcacheManager acts as an adaptee for adapter EhcacheEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

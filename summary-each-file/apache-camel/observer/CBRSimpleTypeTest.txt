@@ -1,0 +1,2 @@
+CBRSimpleTypeTest acts as a publisher for observer CamelContext, which tests CBR, which creates Route Builder.
+CBRSimpleTypeTest acts as a publisher for observer Service, which tests CBR, which creates Route Builder.

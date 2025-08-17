@@ -1,0 +1,1 @@
+Account_IndustryEnum acts as an observer for publisher Account, which is inherited by, which values, which froms String parameter of value Value.

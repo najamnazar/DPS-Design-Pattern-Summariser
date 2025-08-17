@@ -1,0 +1,2 @@
+PlanGatewayEndpointConfiguration acts as a publisher for observer BraintreeApiName, which gets Id, which sets String parameter of id Id, which gets Request, which sets com.braintreegateway.PlanRequest parameter of request Request.
+PlanGatewayEndpointConfiguration acts as an observer, which gets Id, which sets String parameter of id Id, which gets Request, which sets com.braintreegateway.PlanRequest parameter of request Request.

@@ -1,0 +1,1 @@
+MappingRuleResult acts as a singleton, which creates a MappingRuleResult Placement Result to, which creates a MappingRuleResult Reject Result to, which creates a MappingRuleResult Skip Result to, which creates a MappingRuleResult Default Placement Result to.

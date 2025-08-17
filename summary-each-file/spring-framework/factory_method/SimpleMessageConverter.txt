@@ -1,0 +1,1 @@
+SimpleMessageConverter acts as a product for AbstractAdaptableMessageListener, which overrides toMessage method of MessageConverter, fromMessage method of MessageConverter.

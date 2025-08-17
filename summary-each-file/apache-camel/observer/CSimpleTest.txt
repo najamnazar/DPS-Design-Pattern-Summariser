@@ -1,0 +1,2 @@
+CSimpleTest acts as a publisher for observer CamelContext, which tests CSimple, which creates Route Builder.
+CSimpleTest acts as a publisher for observer Service, which tests CSimple, which creates Route Builder.

@@ -1,0 +1,2 @@
+DataFormatPropertyPlaceholderTest acts as a publisher for observer Service, which creates Camel Context, which creates Registry, which tests Marshal Ref, which tests Unmarshal Ref, which creates Route Builder.
+DataFormatPropertyPlaceholderTest acts as a publisher for observer CamelContext, which creates Camel Context, which creates Registry, which tests Marshal Ref, which tests Unmarshal Ref, which creates Route Builder.

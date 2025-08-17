@@ -1,0 +1,2 @@
+ProxyCAManager acts as a publisher for observer Configuration, which services Start, which services Stop, which gets Proxy CA, which recovers RMState parameter of state.
+ProxyCAManager acts as an observer for publisher RMActiveServiceContext, which is inherited by, which services Start, which services Stop, which gets Proxy CA, which recovers RMState parameter of state.

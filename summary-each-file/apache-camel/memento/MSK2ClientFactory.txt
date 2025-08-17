@@ -1,0 +1,1 @@
+MSK2ClientFactory acts as an originator for memento MSK2InternalClient, which gets a MSK2InternalClient Kafka Client to.

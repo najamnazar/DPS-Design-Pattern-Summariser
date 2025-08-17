@@ -1,0 +1,1 @@
+TestConfigurationNodeAttributesProvider acts as a caretaker for memento Attribute, which creates, which setups, which tears Down, which removes, which tests Node Attributes Fetch Interval, which tests Disable Fetch Node Attributes, which tests Fetch Attributes From Configuration, which tests Parse Configuration.

@@ -1,0 +1,1 @@
+HandlerMapping acts as an abstract product for WebSocketConfigurationSupport, which is inherited by AbstractHandlerMapping.

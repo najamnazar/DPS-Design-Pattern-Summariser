@@ -1,0 +1,1 @@
+RowCallbackHandler acts as an abstract product for ResultSetSupportingSqlParameter, which is inherited by RowCountCallbackHandler, SimpleRowCountCallbackHandler.

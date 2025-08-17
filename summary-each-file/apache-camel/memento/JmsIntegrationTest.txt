@@ -1,0 +1,2 @@
+JmsIntegrationTest acts as a caretaker for memento Context, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.
+JmsIntegrationTest acts as a caretaker for memento Producer, which tests One Way In Jms Out Pojo, which creates Route Builder, which binds Registry parameter of registry To Registry, which ons String parameter of body Message.

@@ -1,0 +1,3 @@
+GeneratorStrategy acts as an abstract product for AbstractGenerator, which is inherited by AbstractGeneratorStrategy.
+GeneratorStrategy acts as a factory for GeneratorStrategy, which overrides.
+GeneratorStrategy acts as a factory method for File, which is inherited by AbstractGeneratorStrategy, JavaGenerator, GeneratorStrategy, JavaGenerator, AbstractGeneratorStrategy.

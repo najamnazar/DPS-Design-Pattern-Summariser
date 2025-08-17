@@ -1,0 +1,2 @@
+FhirConfigurationIT acts as a caretaker for memento Context, which creates Camel Context, which tests Configuration, which cleans Fhir Server State, which creates Route Builder.
+FhirConfigurationIT acts as a caretaker for memento Configuration, which creates Camel Context, which tests Configuration, which cleans Fhir Server State, which creates Route Builder.

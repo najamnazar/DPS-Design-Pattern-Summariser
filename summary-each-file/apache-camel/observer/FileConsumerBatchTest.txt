@@ -1,0 +1,2 @@
+FileConsumerBatchTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Consume Batch.
+FileConsumerBatchTest acts as a publisher for observer Service, which creates Route Builder, which tests Consume Batch.

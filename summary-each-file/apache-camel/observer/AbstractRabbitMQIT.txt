@@ -1,0 +1,5 @@
+AbstractRabbitMQIT acts as a publisher for observer CamelContext, which connections.
+AbstractRabbitMQIT acts as a publisher for observer ProducerTemplate, which connections.
+AbstractRabbitMQIT acts as a publisher for observer ConsumerTemplate, which connections.
+AbstractRabbitMQIT acts as a publisher for observer FluentProducerTemplate, which connections.
+AbstractRabbitMQIT acts as a publisher for observer Service, which connections.

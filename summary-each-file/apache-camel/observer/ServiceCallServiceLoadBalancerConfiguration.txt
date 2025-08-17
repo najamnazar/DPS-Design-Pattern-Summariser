@@ -1,0 +1,1 @@
+ServiceCallServiceLoadBalancerConfiguration acts as an observer for publisher ServiceCallConfigurationDefinition, which is inherited by DefaultServiceCallServiceLoadBalancerConfiguration, which ends, which ends Parent, which properties String parameter of key, String parameter of value, which news CamelContext parameter of camelContext Instance.

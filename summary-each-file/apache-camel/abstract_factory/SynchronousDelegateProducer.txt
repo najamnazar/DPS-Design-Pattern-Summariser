@@ -1,0 +1,7 @@
+SynchronousDelegateProducer acts as a product for Endpoint, which overrides.
+SynchronousDelegateProducer acts as a product for DeferServiceFactory, which overrides.
+SynchronousDelegateProducer acts as a product for ConsulFactories, which overrides.
+SynchronousDelegateProducer acts as a product for KafkaClientFactory, which overrides.
+SynchronousDelegateProducer acts as a product for KnativeProducerFactory, which overrides.
+SynchronousDelegateProducer acts as a product for RestProducerFactory, which overrides.
+SynchronousDelegateProducer acts as a product for ProcessorExchangePair, which overrides.

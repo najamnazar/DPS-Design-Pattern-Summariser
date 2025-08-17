@@ -1,0 +1,1 @@
+SynchronizedExchange acts as an abstract factory for Exchange, which is inherited by AbstractSynchronizedExchange.

@@ -1,0 +1,1 @@
+Solver acts as a publisher for observer PredictionSkylineStore, which is inherited by LpSolver, which inits Configuration parameter of config, PredictionSkylineStore parameter of skylineStore, which solves Map<RecurrenceId, parameter of List<ResourceSkyline>>, which closes.

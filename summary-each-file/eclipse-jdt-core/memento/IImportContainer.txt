@@ -1,0 +1,2 @@
+IImportContainer acts as an originator for memento String, which gets String parameter of name Import.
+IImportContainer acts as an originator for memento ISourceRange.

@@ -1,0 +1,1 @@
+Sqs2HeaderFilterStrategy acts as a publisher for observer Pattern, which initializes.

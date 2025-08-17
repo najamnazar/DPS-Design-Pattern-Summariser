@@ -1,0 +1,6 @@
+AnnotationInfo acts as an adaptee for adapter TypeAnnotationInfo.
+AnnotationInfo acts as an adaptee for adapter MethodInfoWithParameterAnnotations.
+AnnotationInfo acts as an adaptee for adapter MethodInfoWithAnnotations.
+AnnotationInfo acts as an adaptee for adapter FieldInfoWithAnnotation.
+AnnotationInfo acts as an adaptee for adapter ModuleInfo.
+AnnotationInfo acts as an adaptee for adapter ComponentInfoWithAnnotation.

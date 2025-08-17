@@ -1,0 +1,2 @@
+IJavaElement acts as a factory for ASTRewritingTest, which overrides.
+IJavaElement acts as a factory for SourceRefElement, which overrides.

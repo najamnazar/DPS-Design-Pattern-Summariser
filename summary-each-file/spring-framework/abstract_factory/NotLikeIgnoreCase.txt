@@ -1,0 +1,2 @@
+NotLikeIgnoreCase acts as a factory for LikeEscapeStep, which overrides.
+NotLikeIgnoreCase acts as a product for Field, which overrides.

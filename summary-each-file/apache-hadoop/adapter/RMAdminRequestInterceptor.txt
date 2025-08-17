@@ -1,0 +1,1 @@
+RMAdminRequestInterceptor acts as an adaptee for adapter RouterRMAdminService, which adapts to ResourceManagerAdministrationProtocol, AbstractService, which adapts to ResourceManagerAdministrationProtocol, AbstractService, which adapts to ResourceManagerAdministrationProtocol, AbstractService, which adapts to ResourceManagerAdministrationProtocol, AbstractService.

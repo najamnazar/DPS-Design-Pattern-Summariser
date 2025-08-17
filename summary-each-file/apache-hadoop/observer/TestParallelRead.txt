@@ -1,0 +1,1 @@
+TestParallelRead acts as a publisher for observer DFSInputStream, which setups Cluster, which teardowns Cluster.

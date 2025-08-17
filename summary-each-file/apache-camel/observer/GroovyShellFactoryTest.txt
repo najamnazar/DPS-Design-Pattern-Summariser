@@ -1,0 +1,5 @@
+GroovyShellFactoryTest acts as a publisher for observer FluentProducerTemplate, which tests Groovy Shell Factory Without Filename, which tests Groovy Shell Factory Filename, which dummies.
+GroovyShellFactoryTest acts as a publisher for observer CamelContext, which tests Groovy Shell Factory Without Filename, which tests Groovy Shell Factory Filename, which dummies.
+GroovyShellFactoryTest acts as a publisher for observer Service, which tests Groovy Shell Factory Without Filename, which tests Groovy Shell Factory Filename, which dummies.
+GroovyShellFactoryTest acts as a publisher for observer ProducerTemplate, which tests Groovy Shell Factory Without Filename, which tests Groovy Shell Factory Filename, which dummies.
+GroovyShellFactoryTest acts as a publisher for observer ConsumerTemplate, which tests Groovy Shell Factory Without Filename, which tests Groovy Shell Factory Filename, which dummies.

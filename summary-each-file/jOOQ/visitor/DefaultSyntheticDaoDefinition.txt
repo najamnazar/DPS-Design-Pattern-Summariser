@@ -1,0 +1,3 @@
+DefaultSyntheticDaoDefinition acts as a visitor for element ExecuteContext, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element Configuration, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element CacheProvider, which overrides, which gets a Dao to.

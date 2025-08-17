@@ -1,0 +1,1 @@
+CompositeCronField acts as a caretaker for memento C, which composes CronField[] parameter of fields, Type parameter of type, String parameter of value, which nexts T parameter of temporal Or Same, which hashes Code, which equals Object parameter of o, which tos String.

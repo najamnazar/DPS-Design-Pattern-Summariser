@@ -1,0 +1,2 @@
+VisitListener acts as an abstract factory for, which is inherited by CallbackVisitListener, InternalVisitListener, DefaultVisitListener.
+VisitListener acts as an abstract product for VisitListener, which is inherited by CallbackVisitListener, InternalVisitListener, DefaultVisitListener.

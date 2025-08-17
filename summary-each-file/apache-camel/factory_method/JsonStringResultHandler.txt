@@ -1,0 +1,1 @@
+JsonStringResultHandler acts as a product for StreamResultHandlerFactory, which overrides getResult method of ResultHandler, setBody method of ResultHandler.

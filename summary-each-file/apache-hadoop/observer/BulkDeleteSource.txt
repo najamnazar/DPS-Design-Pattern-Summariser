@@ -1,0 +1,1 @@
+BulkDeleteSource acts as a publisher for observer Path, which is inherited by FileSystem, which creates Path parameter of path Bulk Delete.

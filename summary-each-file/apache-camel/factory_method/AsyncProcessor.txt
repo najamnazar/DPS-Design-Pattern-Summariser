@@ -1,0 +1,1 @@
+AsyncProcessor acts as an abstract product for RoundRobinLoadBalancer, which is inherited by TelegramWebhookProcessor, DeferProducer, NoErrorHandler, BeanProcessor, WhatsAppWebhookProcessor, RedeliveryErrorHandler, ConvertBodyProcessor, ThroughputLogger, Splitter, AsyncProcessorSupport, DelegateSyncProcessor.

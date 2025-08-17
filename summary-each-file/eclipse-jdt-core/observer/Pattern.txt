@@ -1,0 +1,4 @@
+Pattern acts as an observer for publisher GuardedPattern, which is inherited by EitherOrMultiPattern, NullPattern, RecordPattern, TypePattern, GuardedPattern, which internals Class parameter of nodeClass Pattern Property Factory.
+Pattern acts as a publisher for observer TypeBinding, which internals Class parameter of nodeClass Pattern Property Factory.
+Pattern acts as a publisher for observer Constant, which internals Class parameter of nodeClass Pattern Property Factory.
+Pattern acts as an observer, which internals Class parameter of nodeClass Pattern Property Factory.

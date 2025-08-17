@@ -1,0 +1,1 @@
+XmlSignerConfiguration acts as a factory method for XmlSignatureProperties, which is inherited by XmlSignatureTest.

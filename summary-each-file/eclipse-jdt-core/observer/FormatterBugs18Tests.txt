@@ -1,0 +1,3 @@
+FormatterBugs18Tests acts as a publisher for observer CodeFormatter, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.
+FormatterBugs18Tests acts as a publisher for observer String, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.
+FormatterBugs18Tests acts as a publisher for observer DefaultCodeFormatterOptions, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.

@@ -1,0 +1,1 @@
+RecoveredTypeReference acts as an adapter, which adapts to RecoveredElement, which adapts to RecoveredElement, which adapts to RecoveredElement, which adapts updatedImportReference method of TypeReference to RecoveredElement, which adapts to RecoveredElement.

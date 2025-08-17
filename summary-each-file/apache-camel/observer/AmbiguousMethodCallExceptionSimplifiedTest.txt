@@ -1,0 +1,2 @@
+AmbiguousMethodCallExceptionSimplifiedTest acts as a publisher for observer Service, which sizes, which sizes, which sizes, which creates Route Builder, which tests Ambiguous Method Call Exception.
+AmbiguousMethodCallExceptionSimplifiedTest acts as a publisher for observer CamelContext, which sizes, which sizes, which sizes, which creates Route Builder, which tests Ambiguous Method Call Exception.

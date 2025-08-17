@@ -1,0 +1,3 @@
+BasicGroovyWacTests acts as a caretaker for memento C, which groovies Foo Autowired.
+BasicGroovyWacTests acts as a caretaker for memento A, which groovies Foo Autowired.
+BasicGroovyWacTests acts as a caretaker for memento ApplicationContext, which groovies Foo Autowired.

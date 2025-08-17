@@ -1,0 +1,1 @@
+ManagementMBeanAssembler acts as an abstract product for ManagementMBeanAssembler, which is inherited by DefaultManagementMBeanAssembler.

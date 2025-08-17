@@ -1,0 +1,1 @@
+BaseWordpressAuthentication acts as an observer, which sets String parameter of pwd Password, which sets String parameter of user Username, which gets Password, which gets Username, which is Credentials Set.

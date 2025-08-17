@@ -1,0 +1,2 @@
+TranslatingMetaProvider acts as a publisher for observer Source, which is inherited by, which provides, which loads Source parameter of source Script, which closes.
+TranslatingMetaProvider acts as an observer, which provides, which loads Source parameter of source Script, which closes.

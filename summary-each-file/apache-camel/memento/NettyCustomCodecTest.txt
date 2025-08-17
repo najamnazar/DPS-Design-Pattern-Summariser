@@ -1,0 +1,1 @@
+NettyCustomCodecTest acts as a caretaker for memento ChannelHandlerFactory, which tests Custom Codec, which creates Route Builder.

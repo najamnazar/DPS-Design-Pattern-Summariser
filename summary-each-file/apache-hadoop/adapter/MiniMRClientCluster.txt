@@ -1,0 +1,1 @@
+MiniMRClientCluster acts as a target for adapter MiniMRYarnClusterAdapter, which adapts to MiniMRClientCluster, which adapts to MiniMRClientCluster, which adapts to MiniMRClientCluster, which adapts to MiniMRClientCluster.

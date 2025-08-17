@@ -1,0 +1,1 @@
+RunFormatterTests acts as a caretaker for memento List, which gets Test Classes, which suites.

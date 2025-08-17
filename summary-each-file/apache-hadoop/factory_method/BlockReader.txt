@@ -1,0 +1,1 @@
+BlockReader acts as an abstract product for BlockReaderFactory, which is inherited by BlockReaderRemote, BlockReaderLocalLegacy, ExternalBlockReader, BlockReaderLocal.

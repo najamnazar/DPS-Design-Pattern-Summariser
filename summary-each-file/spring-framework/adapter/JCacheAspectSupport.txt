@@ -1,0 +1,1 @@
+JCacheAspectSupport acts as a target for adapter JCacheInterceptor, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport, which adapts to JCacheAspectSupport.

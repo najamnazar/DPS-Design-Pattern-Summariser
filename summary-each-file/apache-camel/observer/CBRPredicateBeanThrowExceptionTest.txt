@@ -1,0 +1,2 @@
+CBRPredicateBeanThrowExceptionTest acts as a publisher for observer CamelContext, which creates Registry, which tests CBR, which tests CBRKaboom, which creates Route Builder, which checks Exchange parameter of exchange Header, which checks Exchange parameter of exchange Header2.
+CBRPredicateBeanThrowExceptionTest acts as a publisher for observer Service, which creates Registry, which tests CBR, which tests CBRKaboom, which creates Route Builder, which checks Exchange parameter of exchange Header, which checks Exchange parameter of exchange Header2.

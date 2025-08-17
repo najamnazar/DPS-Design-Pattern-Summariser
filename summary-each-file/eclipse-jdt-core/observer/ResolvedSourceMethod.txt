@@ -1,0 +1,1 @@
+ResolvedSourceMethod acts as a publisher for observer String, which gets Key, which is Resolved, which tos int parameter of tab, StringBuilder parameter of buffer, Object parameter of info, boolean parameter of showResolvedInfo String Info, which unresolveds.

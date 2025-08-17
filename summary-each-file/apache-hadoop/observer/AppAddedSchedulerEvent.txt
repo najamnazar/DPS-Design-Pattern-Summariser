@@ -1,0 +1,1 @@
+AppAddedSchedulerEvent acts as an observer, which gets Application Id, which gets Queue, which gets User, which gets Is App Recovering, which gets Reservation ID, which gets Applicaton Priority, which gets Placement Context, which is Unmanaged AM.

@@ -1,0 +1,2 @@
+ProblemPackageBinding acts as a caretaker for memento Binding, which problems Id.
+ProblemPackageBinding acts as a caretaker for memento E, which problems Id.

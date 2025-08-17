@@ -1,0 +1,3 @@
+MapTask acts as a product for WorkAssignmentProtocol, which overrides.
+MapTask acts as a product for Job, which overrides.
+MapTask acts as a product for ShuffleConsumerPlugin, which overrides.

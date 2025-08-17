@@ -1,0 +1,2 @@
+ModuleElement acts as a factory for TypesUtil, which overrides.
+ModuleElement acts as a factory for ModuleElementImpl, which overrides asType method of ModuleElementImpl, getQualifiedName method of ModuleElementImpl, getSimpleName method of ModuleElementImpl, getEnclosedElements method of ModuleElementImpl, getEnclosingElement method of ModuleElementImpl.

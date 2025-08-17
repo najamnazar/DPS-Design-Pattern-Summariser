@@ -1,0 +1,2 @@
+TwoManagedCamelContextTest acts as a publisher for observer CamelContext, which is inherited by, which creates String parameter of name Camel Context, which tests Two Managed Camel Context, which gets CamelContext parameter of context Context Object Name, which tears Down.
+TwoManagedCamelContextTest acts as a publisher for observer CamelContext, which creates String parameter of name Camel Context, which tests Two Managed Camel Context, which gets CamelContext parameter of context Context Object Name, which tears Down.

@@ -1,0 +1,1 @@
+HelsinkiServiceNowServiceCatalogItemsProcessor acts as a caretaker for memento Configuration, which retrieves Exchange parameter of exchange Items, which submits Exchange parameter of exchange Item Guide, which checkouts Exchange parameter of exchange Item Guide, which adds Exchange parameter of exchange Item To Cart, which submits Exchange parameter of exchange Item Producer.

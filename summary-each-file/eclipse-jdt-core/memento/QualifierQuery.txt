@@ -1,0 +1,1 @@
+QualifierQuery acts as a caretaker for memento C, which froms char[][] parameter of encoded Encoded, which froms char[] parameter of query Encoded Query, which encodes QueryCategory[] parameter of categories, char[] parameter of simpleKey, char[] parameter of qualifierKey Query, which gets Categories, which gets Qualified Key, which gets Simple Key.

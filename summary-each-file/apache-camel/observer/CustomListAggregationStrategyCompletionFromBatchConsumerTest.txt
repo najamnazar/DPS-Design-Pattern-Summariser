@@ -1,0 +1,2 @@
+CustomListAggregationStrategyCompletionFromBatchConsumerTest acts as a publisher for observer CamelContext, which tests Custom Aggregation Strategy, which creates Route Builder, which gets Exchange parameter of exchange Value.
+CustomListAggregationStrategyCompletionFromBatchConsumerTest acts as a publisher for observer Service, which tests Custom Aggregation Strategy, which creates Route Builder, which gets Exchange parameter of exchange Value.

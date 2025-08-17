@@ -1,0 +1,1 @@
+AbstractPropertyAccessor acts as a factory for ConfigurablePropertyAccessor, which overrides setExtractOldValueForEditor method of ConfigurablePropertyAccessor, isExtractOldValueForEditor method of ConfigurablePropertyAccessor, setAutoGrowNestedPaths method of ConfigurablePropertyAccessor, isAutoGrowNestedPaths method of ConfigurablePropertyAccessor.

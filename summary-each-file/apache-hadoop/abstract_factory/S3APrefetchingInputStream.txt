@@ -1,0 +1,2 @@
+S3APrefetchingInputStream acts as a product for ObjectInputStreamFactory, which overrides close method of ObjectInputStream, isStreamOpen method of ObjectInputStream, abortInFinalizer method of ObjectInputStream, hasCapability method of ObjectInputStream, getIOStatistics method of ObjectInputStream.
+S3APrefetchingInputStream acts as a factory for IOStatisticsSource, which overrides getIOStatistics method of IOStatisticsSource.

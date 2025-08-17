@@ -1,0 +1,1 @@
+MapConnectionFactoryLookup acts as a caretaker for memento C, which sets Map<String, parameter of ConnectionFactory> Connection Factories, which gets Connection Factories, which adds String parameter of connectionFactoryName, ConnectionFactory parameter of connectionFactory Connection Factory, which gets String parameter of connectionFactoryName Connection Factory.

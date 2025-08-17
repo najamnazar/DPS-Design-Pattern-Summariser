@@ -1,0 +1,1 @@
+TransactionAwareCacheDecorator acts as a decorator for component Cache, which is inherited by.

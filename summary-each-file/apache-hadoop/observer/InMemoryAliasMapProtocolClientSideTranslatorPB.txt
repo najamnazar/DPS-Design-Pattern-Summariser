@@ -1,0 +1,1 @@
+InMemoryAliasMapProtocolClientSideTranslatorPB acts as an observer, which inits Configuration parameter of conf, which lists Optional<Block> parameter of marker, which reads @Nonnull parameter of Block, which writes @Nonnull parameter of Block, @Nonnull parameter of ProvidedStorageLocation, which gets Block Pool Id, which closes.

@@ -1,0 +1,1 @@
+ServletComponentConfigurer acts as a target for adapter WebsocketComponentConfigurer, which adapts to ServletComponentConfigurer, which adapts to ServletComponentConfigurer, which adapts to ServletComponentConfigurer.

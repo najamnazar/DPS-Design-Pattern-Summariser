@@ -1,0 +1,2 @@
+CounterGroup acts as an abstract product for Counters, which is inherited by CounterGroupPBImpl.
+CounterGroup acts as a factory for ByteArrayManager, which overrides.

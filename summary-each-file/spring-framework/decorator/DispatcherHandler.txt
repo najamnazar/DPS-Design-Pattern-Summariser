@@ -1,0 +1,1 @@
+DispatcherHandler acts as a component for decorator WebHandlerDecorator, which overrides handleWebHandler.

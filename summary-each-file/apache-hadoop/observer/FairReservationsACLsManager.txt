@@ -1,0 +1,1 @@
+FairReservationsACLsManager acts as a publisher for observer ReservationACL.

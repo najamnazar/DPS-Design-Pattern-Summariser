@@ -1,0 +1,1 @@
+Base64PropertiesFunction acts as a product for PropertiesFunctionResolver, which overrides.

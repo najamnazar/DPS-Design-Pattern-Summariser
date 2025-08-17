@@ -1,0 +1,2 @@
+AsyncProcessorAwaitManagerInterruptWithRedeliveryTest acts as a publisher for observer Service, which sets Up, which tests Async Await Interrupt, which creates Thread To Interrupt, which creates Registry, which creates Route Builder, which calls Me.
+AsyncProcessorAwaitManagerInterruptWithRedeliveryTest acts as a publisher for observer CamelContext, which sets Up, which tests Async Await Interrupt, which creates Thread To Interrupt, which creates Registry, which creates Route Builder, which calls Me.

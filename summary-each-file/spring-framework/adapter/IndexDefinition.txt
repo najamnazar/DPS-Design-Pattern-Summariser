@@ -1,0 +1,1 @@
+IndexDefinition acts as an adaptee for adapter AbstractIndexDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition.

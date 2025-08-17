@@ -1,0 +1,1 @@
+TomcatHttpServer acts as a publisher for observer HttpHandler, which sets String parameter of contextPath Context Path, which sets String parameter of servletMapping Servlet Mapping, which inits Server, which inits Servlet Adapter, which starts Internal, which stops Internal, which resets Internal.

@@ -1,0 +1,1 @@
+DefaultThreadPoolFactory acts as a component for decorator InstrumentedThreadPoolFactory, which overrides newCachedThreadPoolThreadPoolFactory, newScheduledThreadPoolThreadPoolFactory.

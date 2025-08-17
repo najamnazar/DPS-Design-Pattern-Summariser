@@ -1,0 +1,2 @@
+PlainPackageBinding acts as a publisher for observer PackageBinding, which gets ModuleBinding parameter of moduleBinding Incarnation, which adds PackageBinding parameter of element, ModuleBinding parameter of module Package.
+PlainPackageBinding acts as an observer, which gets ModuleBinding parameter of moduleBinding Incarnation, which adds PackageBinding parameter of element, ModuleBinding parameter of module Package.

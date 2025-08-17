@@ -1,0 +1,2 @@
+BatchCompilerRequestor acts as an adapter, which adapts to ICompilerRequestor, which adapts reportProblems method of Main to ICompilerRequestor.
+BatchCompilerRequestor acts as a target for adapter EclipseCompilerRequestor, which adapts to BatchCompilerRequestor, which adapts to BatchCompilerRequestor.

@@ -1,0 +1,1 @@
+DebeziumTestEndpoint acts as a caretaker for memento Configuration, which gets Configuration, which sets final parameter of FileConnectorEmbeddedDebeziumConfiguration Configuration.

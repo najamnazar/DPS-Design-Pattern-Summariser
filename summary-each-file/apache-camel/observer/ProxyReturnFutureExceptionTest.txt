@@ -1,0 +1,2 @@
+ProxyReturnFutureExceptionTest acts as a publisher for observer Service, which tests Future Echo Exception, which creates Route Builder, which ases int parameter of number Text.
+ProxyReturnFutureExceptionTest acts as a publisher for observer CamelContext, which tests Future Echo Exception, which creates Route Builder, which ases int parameter of number Text.

@@ -1,0 +1,5 @@
+Record5 acts as a product for RecordContext, which overrides.
+Record5 acts as a product for ExecuteContext, which overrides.
+Record5 acts as a product for Record, which overrides.
+Record5 acts as a product for UpdatableRecord, which overrides.
+Record5 acts as a product for DSLContext, which overrides.

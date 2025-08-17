@@ -1,0 +1,1 @@
+TransactionAttributeSourceAdvisor acts as a publisher for observer TransactionInterceptor, which is inherited by, which gets Transaction Attribute Source, which sets TransactionInterceptor parameter of interceptor Transaction Interceptor, which sets ClassFilter parameter of classFilter Class Filter, which gets Advice, which gets Pointcut.

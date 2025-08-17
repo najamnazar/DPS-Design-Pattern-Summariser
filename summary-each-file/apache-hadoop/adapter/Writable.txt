@@ -1,0 +1,2 @@
+Writable acts as an adaptee for adapter ResourceUsageMetrics, which adapts to DeepCompare, which adapts to DeepCompare.
+Writable acts as an adaptee for adapter ContentSummary, which adapts to QuotaUsage, which adapts to QuotaUsage.

@@ -1,0 +1,2 @@
+RecipientListParallelTimeoutTest acts as a publisher for observer Service, which tests Recipient List Parallel Timeout, which creates Route Builder.
+RecipientListParallelTimeoutTest acts as a publisher for observer CamelContext, which tests Recipient List Parallel Timeout, which creates Route Builder.

@@ -1,0 +1,1 @@
+JdkRegexpMethodPointcutTests acts as a publisher for observer AbstractRegexpMethodPointcut, which gets Regexp Method Pointcut.

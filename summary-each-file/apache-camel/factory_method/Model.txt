@@ -1,0 +1,2 @@
+Model acts as a factory method for ModelReifierFactory, which is inherited by Model, Model, DefaultCamelContext.
+Model acts as a factory for Model, which overrides.

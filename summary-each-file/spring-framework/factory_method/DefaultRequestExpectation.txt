@@ -1,0 +1,1 @@
+DefaultRequestExpectation acts as a product for AbstractRequestExpectationManager, which overrides hasRemainingCount method of RequestExpectation, incrementAndValidate method of RequestExpectation, isSatisfied method of RequestExpectation.

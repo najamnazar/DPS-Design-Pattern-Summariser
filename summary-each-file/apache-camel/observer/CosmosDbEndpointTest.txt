@@ -1,0 +1,5 @@
+CosmosDbEndpointTest acts as a publisher for observer FluentProducerTemplate, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.
+CosmosDbEndpointTest acts as a publisher for observer Service, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.
+CosmosDbEndpointTest acts as a publisher for observer CamelContext, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.
+CosmosDbEndpointTest acts as a publisher for observer ProducerTemplate, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.
+CosmosDbEndpointTest acts as a publisher for observer ConsumerTemplate, which tests Create Endpoint With No Client Or Endpoint, which tests Create Endpoint With Config, which tests Create Consumer With Invalid Config.

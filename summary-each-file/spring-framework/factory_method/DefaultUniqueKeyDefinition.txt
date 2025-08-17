@@ -1,0 +1,1 @@
+DefaultUniqueKeyDefinition acts as a product for TableDefinition, which overrides isPrimaryKey method of UniqueKeyDefinition, getKeyColumns method of UniqueKeyDefinition, getForeignKeys method of UniqueKeyDefinition, resolveReferencedKey method of UniqueKeyDefinition.

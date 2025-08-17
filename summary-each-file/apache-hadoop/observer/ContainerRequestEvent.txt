@@ -1,0 +1,2 @@
+ContainerRequestEvent acts as a publisher for observer Resource, which is inherited by, which creates TaskAttemptId parameter of attemptID, Resource parameter of capability Container Request Event For Failed Container, which gets Capability, which gets Hosts, which gets Racks, which gets Earlier Attempt Failed.
+ContainerRequestEvent acts as an observer, which creates TaskAttemptId parameter of attemptID, Resource parameter of capability Container Request Event For Failed Container, which gets Capability, which gets Hosts, which gets Racks, which gets Earlier Attempt Failed.

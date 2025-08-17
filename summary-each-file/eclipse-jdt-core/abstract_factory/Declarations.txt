@@ -1,0 +1,1 @@
+Declarations acts as an abstract product for Declarations, which is inherited by DeclarationsUtil.

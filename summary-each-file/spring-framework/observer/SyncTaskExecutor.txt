@@ -1,0 +1,1 @@
+SyncTaskExecutor acts as an observer, which executes Runnable parameter of task.

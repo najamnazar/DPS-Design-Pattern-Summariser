@@ -1,0 +1,3 @@
+LocalVariableDeclarationMatch acts as an observer.
+LocalVariableDeclarationMatch acts as a publisher for observer Object.
+LocalVariableDeclarationMatch acts as a publisher for observer SearchParticipant.

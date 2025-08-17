@@ -1,0 +1,1 @@
+CheckpointCommand acts as a memento, which needs To Return Image, which needs To Return Image.

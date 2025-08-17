@@ -1,0 +1,1 @@
+RegistryBean acts as a factory for BeanHolder, which overrides setErrorHandler method of BeanHolder, getOptions method of BeanHolder, setOptions method of BeanHolder, getBean method of BeanHolder, getProcessor method of BeanHolder, supportProcessor method of BeanHolder, getBeanInfo method of BeanHolder, getBeanInfo method of BeanHolder.

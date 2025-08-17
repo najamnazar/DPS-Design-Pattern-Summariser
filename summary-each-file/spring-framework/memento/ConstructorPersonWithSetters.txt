@@ -1,0 +1,1 @@
+ConstructorPersonWithSetters acts as a caretaker for memento B, which sets String parameter of name Name, which sets long parameter of age Age, which sets Date parameter of birth_date Birth_date, which sets BigDecimal parameter of balance Balance, which names, which ages, which birth_dates, which balances.

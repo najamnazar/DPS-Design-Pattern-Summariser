@@ -1,0 +1,2 @@
+GertJBIIssueTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Simulate JBIEndpoint Fail, which tests Simulate JBIEndpoint Not Exist On Completion.
+GertJBIIssueTest acts as a publisher for observer Service, which is Use Route Builder, which tests Simulate JBIEndpoint Fail, which tests Simulate JBIEndpoint Not Exist On Completion.

@@ -1,0 +1,1 @@
+InstrumentedThreadPoolFactory acts as a product for ExecutorServiceManager, which overrides newCachedThreadPool method of ThreadPoolFactory, newThreadPool method of ThreadPoolFactory, newScheduledThreadPool method of ThreadPoolFactory.

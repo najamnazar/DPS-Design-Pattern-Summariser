@@ -1,0 +1,2 @@
+IDOMField acts as a target for adapter DOMField, which adapts to IDOMField, which adapts to IDOMField, which adapts to IDOMField, which adapts to IDOMField, which adapts to IDOMField, which adapts to IDOMField.
+IDOMField acts as an adaptee for adapter DOMField, which adapts to IDOMField, DOMMember, which adapts to IDOMField, DOMMember, which adapts to IDOMField, DOMMember, which adapts to IDOMField, DOMMember, which adapts to IDOMField, DOMMember, which adapts to IDOMField, DOMMember.

@@ -1,0 +1,2 @@
+InvertibleComparatorTests acts as a caretaker for memento C, which shoulds Need Comparator, which shoulds Need Comparator With Ascending, which shoulds Default To Ascending, which shoulds Invert, which shoulds Compare Ascending, which shoulds Compare Descending.
+InvertibleComparatorTests acts as a caretaker for memento Comparator, which shoulds Need Comparator, which shoulds Need Comparator With Ascending, which shoulds Default To Ascending, which shoulds Invert, which shoulds Compare Ascending, which shoulds Compare Descending.

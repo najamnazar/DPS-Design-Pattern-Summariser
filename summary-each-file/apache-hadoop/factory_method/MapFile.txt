@@ -1,0 +1,3 @@
+MapFile acts as a factory for MapFile, which overrides.
+MapFile acts as a factory for TestIPC, which overrides.
+MapFile acts as a factory method for WritableComparable, which is inherited by MapFile, MapFile, WritableComparator.

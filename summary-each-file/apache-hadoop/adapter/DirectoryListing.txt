@@ -1,0 +1,2 @@
+DirectoryListing acts as an adaptee for adapter Hdfs, which adapts to AbstractFileSystem, which adapts to AbstractFileSystem, which adapts to AbstractFileSystem, which adapts to AbstractFileSystem.
+DirectoryListing acts as an adaptee for adapter DistributedFileSystem, which adapts to SafeMode, FileSystem, which adapts to SafeMode, FileSystem, which adapts to SafeMode, FileSystem, which adapts to SafeMode, FileSystem.

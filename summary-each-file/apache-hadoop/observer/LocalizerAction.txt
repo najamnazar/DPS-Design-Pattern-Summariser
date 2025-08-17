@@ -1,0 +1,1 @@
+LocalizerAction acts as an observer for publisher LocalizerHeartbeatResponse, MockLocalizerHeartbeatResponse, which is inherited by.

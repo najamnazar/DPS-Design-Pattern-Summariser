@@ -1,0 +1,2 @@
+IBinding acts as an abstract product for IBinding, which is inherited by IAnnotationBinding, IVariableBinding, ITypeBinding, IPackageBinding, IMethodBinding, IModuleBinding, IMemberValuePairBinding.
+IBinding acts as an abstract factory for IJavaElement, which is inherited by.

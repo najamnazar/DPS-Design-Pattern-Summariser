@@ -1,0 +1,2 @@
+FileConsumerSpringSchedulerTest acts as a publisher for observer Service, which is Use Route Builder, which tests Spring.
+FileConsumerSpringSchedulerTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Spring.

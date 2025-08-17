@@ -1,0 +1,1 @@
+DefaultNodeIdFactory acts as an observer, which creates NamedNode parameter of definition Id, which gets String parameter of key Node Counter, which resets All Counters.

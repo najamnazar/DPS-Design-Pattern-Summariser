@@ -1,0 +1,1 @@
+LineComment acts as an adapter, which adapts propertyDescriptors method of List to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts memSize method of List to Comment, which adapts to Comment.

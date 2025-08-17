@@ -1,0 +1,3 @@
+TransportHandlingSockJsService acts as a factory for SockJsSessionFactory, which overrides.
+TransportHandlingSockJsService acts as a product for SockJsWebSocketHandler, which overrides getMessageCodec method of SockJsServiceConfig.
+TransportHandlingSockJsService acts as a factory for SockJsServiceConfig, which overrides.

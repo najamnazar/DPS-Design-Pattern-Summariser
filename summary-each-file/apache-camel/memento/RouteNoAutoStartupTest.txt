@@ -1,0 +1,2 @@
+RouteNoAutoStartupTest acts as a caretaker for memento Producer, which tests Route Not Auto Started, which tests Route Not Auto Started Then Started, which creates Route Builder.
+RouteNoAutoStartupTest acts as a caretaker for memento Context, which tests Route Not Auto Started, which tests Route Not Auto Started Then Started, which creates Route Builder.

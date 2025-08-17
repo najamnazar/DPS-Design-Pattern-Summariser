@@ -1,0 +1,1 @@
+Validator acts as an observer for publisher DefaultControllerSpec, which is inherited by SmartValidator, MessageBrokerBeanDefinitionParserTests, CustomValidatorBean, which supports Class<?> parameter of clazz, which validates Object parameter of target, Errors parameter of errors.

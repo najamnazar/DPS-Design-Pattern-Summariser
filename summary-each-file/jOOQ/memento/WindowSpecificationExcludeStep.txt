@@ -1,0 +1,2 @@
+WindowSpecificationExcludeStep acts as a memento, which is inherited by WindowSpecificationImpl, which excludes No Others, which excludes No Others, which excludes No Others, which excludes No Others.
+WindowSpecificationExcludeStep acts as a memento, which excludes No Others, which excludes No Others, which excludes No Others, which excludes No Others.

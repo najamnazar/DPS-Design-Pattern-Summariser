@@ -1,0 +1,2 @@
+HBaseConsumer acts as a publisher for observer ShutdownRunningTask, which polls, which processes Queue<Object> parameter of exchanges Batch, which removes byte[] parameter of row, which gets Row Model, which sets HBaseRow parameter of rowModel Row Model.
+HBaseConsumer acts as a publisher for observer HBaseRow, which is inherited by, which polls, which processes Queue<Object> parameter of exchanges Batch, which removes byte[] parameter of row, which gets Row Model, which sets HBaseRow parameter of rowModel Row Model.

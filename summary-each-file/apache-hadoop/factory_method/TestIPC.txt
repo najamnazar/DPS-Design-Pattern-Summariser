@@ -1,0 +1,1 @@
+TestIPC acts as a factory method for Writable, which is inherited by FsPermission, MapFile, Block, Block, FsPermission, Block, MapFile, TaggedMapOutput, Block, FsPermission, FsPermission.

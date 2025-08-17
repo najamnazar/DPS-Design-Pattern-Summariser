@@ -1,0 +1,1 @@
+SchemaMojo acts as a caretaker for memento Context, which gets Salesforce Execution, which setups.

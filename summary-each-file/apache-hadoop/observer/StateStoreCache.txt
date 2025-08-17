@@ -1,0 +1,1 @@
+StateStoreCache acts as an observer for publisher StateStoreService, which is inherited by MembershipStoreImpl, MembershipNamenodeResolver, CachedRecordStore, MountTableResolver, which loads boolean parameter of force Cache.

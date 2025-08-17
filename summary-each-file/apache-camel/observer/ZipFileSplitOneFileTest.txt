@@ -1,0 +1,5 @@
+ZipFileSplitOneFileTest acts as a publisher for observer Service, which sets Up, which tests Zip File Unmarshal, which creates Route Builder, which creates String parameter of content Zip File.
+ZipFileSplitOneFileTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Zip File Unmarshal, which creates Route Builder, which creates String parameter of content Zip File.
+ZipFileSplitOneFileTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Zip File Unmarshal, which creates Route Builder, which creates String parameter of content Zip File.
+ZipFileSplitOneFileTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Zip File Unmarshal, which creates Route Builder, which creates String parameter of content Zip File.
+ZipFileSplitOneFileTest acts as a publisher for observer CamelContext, which sets Up, which tests Zip File Unmarshal, which creates Route Builder, which creates String parameter of content Zip File.

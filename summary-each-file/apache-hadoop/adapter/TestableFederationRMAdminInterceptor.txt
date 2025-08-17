@@ -1,0 +1,1 @@
+TestableFederationRMAdminInterceptor acts as an adaptee for adapter TestFederationRMAdminInterceptor, which adapts to BaseRouterRMAdminTest, which adapts to BaseRouterRMAdminTest, which adapts to BaseRouterRMAdminTest.

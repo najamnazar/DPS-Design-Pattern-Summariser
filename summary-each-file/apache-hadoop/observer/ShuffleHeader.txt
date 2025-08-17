@@ -1,0 +1,1 @@
+ShuffleHeader acts as an observer, which reads DataInput parameter of in Fields, which writes DataOutput parameter of out.

@@ -1,0 +1,2 @@
+AbstractVmTestSupport acts as a publisher for observer Service, which sets Up, which tears Down, which creates Route Builder For Second Context, which starts Object... parameter of services Services, which stops Object... parameter of services Services.
+AbstractVmTestSupport acts as a publisher for observer CamelContext, which sets Up, which tears Down, which creates Route Builder For Second Context, which starts Object... parameter of services Services, which stops Object... parameter of services Services.

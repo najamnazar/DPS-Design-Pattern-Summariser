@@ -1,0 +1,1 @@
+MementoTokenizer acts as a publisher for observer String, which is inherited by, which has More Tokens, which escapes String parameter of mementoName, which escapes StringBuilder parameter of buffer, String parameter of mementoName, which nexts Token, which gets String parameter of delimiter String Delimited By.

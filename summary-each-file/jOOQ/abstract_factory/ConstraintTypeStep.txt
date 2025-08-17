@@ -1,0 +1,2 @@
+ConstraintTypeStep acts as an abstract factory for ConstraintEnforcementStep, ConstraintForeignKeyReferencesStepN, which is inherited by ConstraintImpl.
+ConstraintTypeStep acts as a product for ConstraintEnforcementStep, which overrides.

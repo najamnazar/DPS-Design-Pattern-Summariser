@@ -1,0 +1,2 @@
+IClasspathAttribute acts as a caretaker for memento S, which is inherited by, which gets Name, which gets Value.
+IClasspathAttribute acts as a caretaker for memento String, which is inherited by, which gets Name, which gets Value.

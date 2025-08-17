@@ -1,0 +1,2 @@
+RawClient acts as an adaptee for adapter DefaultRawClient, which adapts to AbstractClientBase, which adapts to AbstractClientBase.
+RawClient acts as an adaptee for adapter RawProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor.

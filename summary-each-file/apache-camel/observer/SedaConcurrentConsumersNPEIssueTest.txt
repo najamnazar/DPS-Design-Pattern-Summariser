@@ -1,0 +1,2 @@
+SedaConcurrentConsumersNPEIssueTest acts as a publisher for observer CamelContext, which tests Send To Seda, which tests Start Third, which creates Route Builder.
+SedaConcurrentConsumersNPEIssueTest acts as a publisher for observer Service, which tests Send To Seda, which tests Start Third, which creates Route Builder.

@@ -1,0 +1,1 @@
+OIDList acts as an adaptee for adapter SnmpEndpoint.

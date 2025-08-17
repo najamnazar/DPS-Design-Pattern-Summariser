@@ -1,0 +1,3 @@
+OfflineEditsLoader acts as a factory for OfflineEditsLoader, which overrides.
+OfflineEditsLoader acts as a factory method for OfflineEditsLoader, which is inherited by OfflineEditsLoader, OfflineEditsLoader.
+OfflineEditsLoader acts as an abstract product for OfflineEditsLoader, which is inherited by OfflineEditsXmlLoader, OfflineEditsBinaryLoader.

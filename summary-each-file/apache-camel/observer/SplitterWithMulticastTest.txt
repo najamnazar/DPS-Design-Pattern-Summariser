@@ -1,0 +1,2 @@
+SplitterWithMulticastTest acts as a publisher for observer CamelContext, which tests Splitter With Multicast, which creates Route Builder.
+SplitterWithMulticastTest acts as a publisher for observer Service, which tests Splitter With Multicast, which creates Route Builder.

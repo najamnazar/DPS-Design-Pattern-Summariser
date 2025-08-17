@@ -1,0 +1,2 @@
+ITestAzureBlobFileSystemMainOperation acts as a publisher for observer Path, which sets Up, which tears Down, which creates File System, which tests List Status Throws Exception For Unreadable Dir, which tests Glob Status Throws Exception For Unreadable Dir.
+ITestAzureBlobFileSystemMainOperation acts as a publisher for observer FileSystem, which sets Up, which tears Down, which creates File System, which tests List Status Throws Exception For Unreadable Dir, which tests Glob Status Throws Exception For Unreadable Dir.

@@ -1,0 +1,1 @@
+BatchProcessor acts as a product for ExceptionHandlingProcessorFactory, which overrides.

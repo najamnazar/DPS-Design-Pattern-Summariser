@@ -1,0 +1,5 @@
+BindyFixedLengthHeaderFooterSkipHeaderTest acts as a publisher for observer Service, which tests Unmarshall Message, which tests Marshall Message, which creates Header Row, which creates Footer Row, which creates Route Builder.
+BindyFixedLengthHeaderFooterSkipHeaderTest acts as a publisher for observer CamelContext, which tests Unmarshall Message, which tests Marshall Message, which creates Header Row, which creates Footer Row, which creates Route Builder.
+BindyFixedLengthHeaderFooterSkipHeaderTest acts as a publisher for observer ProducerTemplate, which tests Unmarshall Message, which tests Marshall Message, which creates Header Row, which creates Footer Row, which creates Route Builder.
+BindyFixedLengthHeaderFooterSkipHeaderTest acts as a publisher for observer ConsumerTemplate, which tests Unmarshall Message, which tests Marshall Message, which creates Header Row, which creates Footer Row, which creates Route Builder.
+BindyFixedLengthHeaderFooterSkipHeaderTest acts as a publisher for observer FluentProducerTemplate, which tests Unmarshall Message, which tests Marshall Message, which creates Header Row, which creates Footer Row, which creates Route Builder.

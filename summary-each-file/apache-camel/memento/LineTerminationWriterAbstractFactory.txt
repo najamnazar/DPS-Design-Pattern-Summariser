@@ -1,0 +1,1 @@
+LineTerminationWriterAbstractFactory acts as a caretaker for memento Configuration, which creates Write Strategy, which creates Split Strategy, which creates Line Builder Strategy.

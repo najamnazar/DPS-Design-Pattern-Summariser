@@ -1,0 +1,2 @@
+IDOMImport acts as a target for adapter DOMImport, which adapts to IDOMImport, which adapts to IDOMImport, which adapts to IDOMImport, which adapts to IDOMImport, which adapts to IDOMImport.
+IDOMImport acts as an adaptee for adapter DOMImport, which adapts to DOMNode, IDOMImport, which adapts to DOMNode, IDOMImport, which adapts to DOMNode, IDOMImport, which adapts to DOMNode, IDOMImport, which adapts to DOMNode, IDOMImport.

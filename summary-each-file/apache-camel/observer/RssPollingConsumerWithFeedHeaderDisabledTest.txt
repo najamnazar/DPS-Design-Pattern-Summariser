@@ -1,0 +1,5 @@
+RssPollingConsumerWithFeedHeaderDisabledTest acts as a publisher for observer ConsumerTemplate, which tests No Feed In Header, which creates Route Builder.
+RssPollingConsumerWithFeedHeaderDisabledTest acts as a publisher for observer CamelContext, which tests No Feed In Header, which creates Route Builder.
+RssPollingConsumerWithFeedHeaderDisabledTest acts as a publisher for observer ProducerTemplate, which tests No Feed In Header, which creates Route Builder.
+RssPollingConsumerWithFeedHeaderDisabledTest acts as a publisher for observer FluentProducerTemplate, which tests No Feed In Header, which creates Route Builder.
+RssPollingConsumerWithFeedHeaderDisabledTest acts as a publisher for observer Service, which tests No Feed In Header, which creates Route Builder.

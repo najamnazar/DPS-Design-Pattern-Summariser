@@ -1,0 +1,1 @@
+WeightedLoadBalancerDefinition acts as an observer, which gets Round Robin, which sets String parameter of roundRobin Round Robin, which gets Distribution Ratio, which sets String parameter of distributionRatio Distribution Ratio, which gets Distribution Ratio Delimiter, which sets String parameter of distributionRatioDelimiter Distribution Ratio Delimiter, which tos String.

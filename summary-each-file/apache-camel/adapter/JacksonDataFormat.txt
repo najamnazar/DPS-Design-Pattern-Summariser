@@ -1,0 +1,1 @@
+JacksonDataFormat acts as an adaptee for adapter JacksonNotUseDefaultObjectMapperTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

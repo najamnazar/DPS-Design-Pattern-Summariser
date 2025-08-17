@@ -1,0 +1,2 @@
+BeanPackageScopeOutsideTest acts as a publisher for observer Service, which tests Package Scope, which creates Route Builder.
+BeanPackageScopeOutsideTest acts as a publisher for observer CamelContext, which tests Package Scope, which creates Route Builder.

@@ -1,0 +1,1 @@
+InformationSchemaMetaProvider acts as a memento, which provides.

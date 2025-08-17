@@ -1,0 +1,2 @@
+Transformer acts as an abstract product for Transformer, which is inherited by DataFormatTransformer, ProcessorTransformer.
+Transformer acts as an abstract product for Transformer, which is inherited by DataFormatTransformer, DataFormatTransformer, ProcessorTransformer, ProcessorTransformer.

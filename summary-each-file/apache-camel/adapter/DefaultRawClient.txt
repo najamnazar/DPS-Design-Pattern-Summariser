@@ -1,0 +1,1 @@
+DefaultRawClient acts as an adapter, which adapts to AbstractClientBase, which adapts to AbstractClientBase, which adapts to AbstractClientBase, which adapts to AbstractClientBase.

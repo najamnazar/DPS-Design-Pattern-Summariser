@@ -1,0 +1,1 @@
+GetClusterMetricsResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getClusterMetrics method of GetClusterMetricsResponse.

@@ -1,0 +1,2 @@
+DriveAboutEndpointConfiguration acts as a publisher for observer GoogleDriveApiName.
+DriveAboutEndpointConfiguration acts as an observer.

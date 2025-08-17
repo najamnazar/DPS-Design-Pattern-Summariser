@@ -1,0 +1,1 @@
+JavaModelException acts as an adaptee for adapter JavaElementFinder, which adapts to BindingKeyParser, which adapts to BindingKeyParser, which adapts to BindingKeyParser, which adapts to BindingKeyParser, which adapts to BindingKeyParser, which adapts to BindingKeyParser.

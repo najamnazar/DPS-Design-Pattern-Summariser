@@ -1,0 +1,1 @@
+CamelOpenTracingTestSupport acts as a factory for CamelAwsXRayTestSupport, which overrides.

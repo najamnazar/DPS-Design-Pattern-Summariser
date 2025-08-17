@@ -1,0 +1,1 @@
+BooleanTestBean acts as a caretaker for memento B, which is Bool1, which sets boolean parameter of bool1 Bool1, which gets Bool2, which sets Boolean parameter of bool2 Bool2.

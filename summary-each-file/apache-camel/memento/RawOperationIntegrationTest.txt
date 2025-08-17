@@ -1,0 +1,1 @@
+RawOperationIntegrationTest acts as a caretaker for memento Component, which tests Create, which tests Create Xml, which tests Query, which does Create Route Builder.

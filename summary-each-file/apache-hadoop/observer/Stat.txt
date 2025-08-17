@@ -1,0 +1,1 @@
+Stat acts as an observer for publisher ActiveStandbyElector, which is inherited by, which gets File Status, which is Available, which gets File Status For Testing, which gets Exec String, which parses BufferedReader parameter of lines Exec Result.

@@ -1,0 +1,14 @@
+BaseProcessor acts as a target for adapter Java9ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts to AbstractProcessor.
+BaseProcessor acts as a target for adapter Java9ModuleProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java12ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter GenericsProc, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java8ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java11ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java23ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter FilerProc, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java22ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter BaseElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Bug530665Proc, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java8FilerProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.
+BaseProcessor acts as a target for adapter Java13ElementProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts to BaseProcessor.

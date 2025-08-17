@@ -1,0 +1,1 @@
+ServiceChooserAware acts as a publisher for observer ServiceChooser, which is inherited by DefaultServiceLoadBalancer, which sets ServiceChooser parameter of serviceChooser Service Chooser, which gets Service Chooser.

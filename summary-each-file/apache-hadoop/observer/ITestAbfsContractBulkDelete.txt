@@ -1,0 +1,1 @@
+ITestAbfsContractBulkDelete acts as a publisher for observer Path, which setups, which creates Configuration, which creates Configuration parameter of conf Contract.

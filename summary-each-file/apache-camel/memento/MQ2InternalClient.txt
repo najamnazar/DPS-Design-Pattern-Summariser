@@ -1,0 +1,1 @@
+MQ2InternalClient acts as a memento, which is inherited by MQ2ClientOptimizedImpl, MQ2ClientStandardImpl, which gets Mq Client.

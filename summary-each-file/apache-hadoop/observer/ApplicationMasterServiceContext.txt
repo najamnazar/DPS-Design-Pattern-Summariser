@@ -1,0 +1,1 @@
+ApplicationMasterServiceContext acts as an observer for publisher OpportunisticContainerAllocatorAMService, which is inherited by RMContext.

@@ -1,0 +1,1 @@
+WindowDefinition acts as a memento, which is inherited by WindowDefinitionImpl, which $windows Specification, which $windows Specification.

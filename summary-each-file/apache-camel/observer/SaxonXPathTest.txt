@@ -1,0 +1,5 @@
+SaxonXPathTest acts as a publisher for observer ProducerTemplate, which tests Saxon XPath, which creates Route Builder.
+SaxonXPathTest acts as a publisher for observer Service, which tests Saxon XPath, which creates Route Builder.
+SaxonXPathTest acts as a publisher for observer ConsumerTemplate, which tests Saxon XPath, which creates Route Builder.
+SaxonXPathTest acts as a publisher for observer FluentProducerTemplate, which tests Saxon XPath, which creates Route Builder.
+SaxonXPathTest acts as a publisher for observer CamelContext, which tests Saxon XPath, which creates Route Builder.

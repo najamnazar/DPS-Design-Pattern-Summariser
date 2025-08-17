@@ -1,0 +1,2 @@
+FileIdempotentReadLockTest acts as a publisher for observer CamelContext, which creates Registry, which tests Idempotent Read Lock, which creates Route Builder.
+FileIdempotentReadLockTest acts as a publisher for observer Service, which creates Registry, which tests Idempotent Read Lock, which creates Route Builder.

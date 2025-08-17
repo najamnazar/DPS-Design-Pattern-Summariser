@@ -1,0 +1,1 @@
+SagaCompletionMode acts as an observer for publisher SagaProcessorBuilder, which is inherited by, which defaults Completion Mode.

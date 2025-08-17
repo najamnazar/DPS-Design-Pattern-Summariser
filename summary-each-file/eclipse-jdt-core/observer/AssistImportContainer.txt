@@ -1,0 +1,1 @@
+AssistImportContainer acts as an observer, which gets IProgressMonitor parameter of monitor Element Info, which gets String parameter of importName, boolean parameter of isOnDemand Import.

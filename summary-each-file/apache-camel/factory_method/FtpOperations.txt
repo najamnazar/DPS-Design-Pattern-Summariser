@@ -1,0 +1,2 @@
+FtpOperations acts as a factory method for FtpClientActivityListener, which is inherited by FtpOperations.
+FtpOperations acts as a factory for FtpOperations, which overrides.

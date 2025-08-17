@@ -1,0 +1,5 @@
+JettyFailoverRoundRobinTest acts as a publisher for observer Service, which tests Jetty Failover Round Robin, which creates Route Builder.
+JettyFailoverRoundRobinTest acts as a publisher for observer CamelContext, which tests Jetty Failover Round Robin, which creates Route Builder.
+JettyFailoverRoundRobinTest acts as a publisher for observer FluentProducerTemplate, which tests Jetty Failover Round Robin, which creates Route Builder.
+JettyFailoverRoundRobinTest acts as a publisher for observer ProducerTemplate, which tests Jetty Failover Round Robin, which creates Route Builder.
+JettyFailoverRoundRobinTest acts as a publisher for observer ConsumerTemplate, which tests Jetty Failover Round Robin, which creates Route Builder.

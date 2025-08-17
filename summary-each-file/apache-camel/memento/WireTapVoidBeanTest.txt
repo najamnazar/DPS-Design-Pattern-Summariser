@@ -1,0 +1,2 @@
+WireTapVoidBeanTest acts as a caretaker for memento Context, which tests Wire Tap To Void Bean, which creates Registry, which creates Route Builder, which taps String parameter of body Something, which gets Tapped.
+WireTapVoidBeanTest acts as a caretaker for memento Producer, which tests Wire Tap To Void Bean, which creates Registry, which creates Route Builder, which taps String parameter of body Something, which gets Tapped.

@@ -1,0 +1,1 @@
+BodyMappingStrategy acts as a factory for CellMappingStrategy, which overrides resolveModel method of CellMappingStrategy, applyGetResults method of CellMappingStrategy, applyScanResults method of CellMappingStrategy.

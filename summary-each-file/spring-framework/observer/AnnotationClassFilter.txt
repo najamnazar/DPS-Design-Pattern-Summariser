@@ -1,0 +1,1 @@
+AnnotationClassFilter acts as an observer, which matches Class<?> parameter of clazz, which equals @Nullable parameter of Object, which hashes Code, which tos String.

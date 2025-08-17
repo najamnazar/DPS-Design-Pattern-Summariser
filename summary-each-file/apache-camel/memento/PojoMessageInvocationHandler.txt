@@ -1,0 +1,1 @@
+PojoMessageInvocationHandler acts as a caretaker for memento Producer, which does Object parameter of proxy, Method parameter of method, Object[] parameter of args Invoke Proxy.

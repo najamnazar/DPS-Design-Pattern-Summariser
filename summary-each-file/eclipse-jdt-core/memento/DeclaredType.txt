@@ -1,0 +1,1 @@
+DeclaredType acts as a memento, which is inherited by InterfaceType, ErrorType, DeclaredTypeImpl, TypeDeclarationImpl, ClassType, which gets Superinterfaces, which gets Superinterfaces, which gets Superinterfaces, which gets Superinterfaces.

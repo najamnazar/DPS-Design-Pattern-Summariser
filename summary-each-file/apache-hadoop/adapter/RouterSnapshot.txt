@@ -1,0 +1,1 @@
+RouterSnapshot acts as a target for adapter RouterAsyncSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot.

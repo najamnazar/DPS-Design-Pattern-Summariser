@@ -1,0 +1,1 @@
+AbstractOlingo2TestSupport acts as a target for adapter Olingo2ComponentConsumerTest, which adapts to AbstractOlingo2TestSupport, which adapts to AbstractOlingo2TestSupport, which adapts to AbstractOlingo2TestSupport, which adapts to AbstractOlingo2TestSupport, which adapts to AbstractOlingo2TestSupport.

@@ -1,0 +1,1 @@
+ReplicaInPipeline acts as an abstract product for FsDatasetSpi, which is inherited by ExternalReplicaInPipeline, LocalReplicaInPipeline.

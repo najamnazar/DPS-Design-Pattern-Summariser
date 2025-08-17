@@ -1,0 +1,1 @@
+DestinationVariableMethodArgumentResolverTests acts as a caretaker for memento A, which supports Parameter, which resolves Argument, which resolves Argument Not Found, which handles @DestinationVariable parameter of String, @DestinationVariable(value parameter of =, String parameter of param3 Message.

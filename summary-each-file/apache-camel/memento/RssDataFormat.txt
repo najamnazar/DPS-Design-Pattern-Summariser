@@ -1,0 +1,1 @@
+RssDataFormat acts as a memento, which ends.

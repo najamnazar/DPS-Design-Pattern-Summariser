@@ -1,0 +1,1 @@
+ArtemisMQTTService acts as a caretaker for memento Configuration, which gets Configuration parameter of configuration, int parameter of port Configuration, which services Address, which brokers Port.

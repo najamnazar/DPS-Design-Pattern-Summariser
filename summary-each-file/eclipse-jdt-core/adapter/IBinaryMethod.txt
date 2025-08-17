@@ -1,0 +1,1 @@
+IBinaryMethod acts as an adaptee for adapter MethodInfo, which adapts to ClassFileStruct, which adapts to ClassFileStruct, which adapts to ClassFileStruct, which adapts to ClassFileStruct.

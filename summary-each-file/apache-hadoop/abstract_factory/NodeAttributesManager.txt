@@ -1,0 +1,1 @@
+NodeAttributesManager acts as an abstract product for NodeAttributesManager, which is inherited by NodeAttributesManagerImpl.

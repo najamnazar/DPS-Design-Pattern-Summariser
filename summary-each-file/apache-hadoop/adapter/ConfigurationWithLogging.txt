@@ -1,0 +1,1 @@
+ConfigurationWithLogging acts as an adapter, which adapts to Configuration, which adapts to Configuration, which adapts to Configuration, which adapts to Configuration, which adapts to Configuration, which adapts to Configuration, which adapts to Configuration.

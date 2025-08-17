@@ -1,0 +1,1 @@
+Component acts as a memento, which is inherited by DefaultComponent.

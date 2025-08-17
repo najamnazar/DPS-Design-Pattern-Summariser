@@ -1,0 +1,1 @@
+CompositeFilterTests acts as a caretaker for memento C, which tests Composite Filter, which inits FilterConfig parameter of filterConfig, which does ServletRequest parameter of request, ServletResponse parameter of response, FilterChain parameter of filterChain Filter, which destroys.

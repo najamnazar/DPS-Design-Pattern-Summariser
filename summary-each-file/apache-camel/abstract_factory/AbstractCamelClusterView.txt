@@ -1,0 +1,2 @@
+AbstractCamelClusterView acts as a product for CamelClusterService, which overrides getClusterService method of CamelClusterView, getNamespace method of CamelClusterView, addEventListener method of CamelClusterView, removeEventListener method of CamelClusterView.
+AbstractCamelClusterView acts as a factory for CamelClusterView, which overrides getClusterService method of CamelClusterView, getNamespace method of CamelClusterView, addEventListener method of CamelClusterView, removeEventListener method of CamelClusterView.

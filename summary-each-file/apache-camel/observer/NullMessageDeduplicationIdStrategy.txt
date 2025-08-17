@@ -1,0 +1,1 @@
+NullMessageDeduplicationIdStrategy acts as an observer, which gets Exchange parameter of exchange Message Deduplication Id.

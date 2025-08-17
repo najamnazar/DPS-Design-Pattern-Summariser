@@ -1,0 +1,1 @@
+JdbcTransactionObjectSupport acts as a product for EntityManagerHolder, which overrides createSavepoint method of SavepointManager, rollbackToSavepoint method of SavepointManager, releaseSavepoint method of SavepointManager.

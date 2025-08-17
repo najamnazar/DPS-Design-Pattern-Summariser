@@ -1,0 +1,2 @@
+SecurityInfo acts as an originator for memento TokenInfo, which is inherited by, which gets a TokenInfo Token Info to.
+SecurityInfo acts as an originator for memento KerberosInfo, which is inherited by, which gets a KerberosInfo Kerberos Info to.

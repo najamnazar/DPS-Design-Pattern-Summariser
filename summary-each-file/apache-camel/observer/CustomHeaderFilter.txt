@@ -1,0 +1,1 @@
+CustomHeaderFilter acts as an observer, which gets Activation Namespaces, which filters Direction parameter of direction, List<Header> parameter of headers.

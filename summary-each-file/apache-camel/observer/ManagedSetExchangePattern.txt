@@ -1,0 +1,1 @@
+ManagedSetExchangePattern acts as a publisher for observer Route, which gets Pattern.

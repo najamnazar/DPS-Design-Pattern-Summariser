@@ -1,0 +1,2 @@
+MapOutputFile acts as an abstract product for MapOutputFile, which is inherited by MROutputFiles, YarnOutputFiles.
+MapOutputFile acts as a factory for Configurable, which overrides setConf method of Configurable, getConf method of Configurable.

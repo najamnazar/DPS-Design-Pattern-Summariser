@@ -1,0 +1,1 @@
+SyncResponseCallback acts as a publisher for observer SalesforceException, which is inherited by, which ons InputStream parameter of response, Map<String, parameter of String>, SalesforceException parameter of exception Response, which resets, which awaits long parameter of duration, TimeUnit parameter of unit, which gets Response, which gets Exception, which gets Headers.

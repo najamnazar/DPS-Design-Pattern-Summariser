@@ -1,0 +1,2 @@
+AsyncProcessorSupport acts as a product for AnnotationBasedProcessorFactory, which overrides processAsync method of AsyncProcessor.
+AsyncProcessorSupport acts as a product for InternalProcessorFactory, which overrides processAsync method of AsyncProcessor.

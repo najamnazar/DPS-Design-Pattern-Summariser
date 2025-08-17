@@ -1,0 +1,1 @@
+MappingJackson2XmlHttpMessageConverter acts as a publisher for observer Type, which sets ObjectMapper parameter of objectMapper Object Mapper.

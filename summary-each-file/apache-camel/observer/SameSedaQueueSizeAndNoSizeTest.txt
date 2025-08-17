@@ -1,0 +1,2 @@
+SameSedaQueueSizeAndNoSizeTest acts as a publisher for observer CamelContext, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.
+SameSedaQueueSizeAndNoSizeTest acts as a publisher for observer Service, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.

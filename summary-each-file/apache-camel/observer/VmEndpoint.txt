@@ -1,0 +1,5 @@
+VmEndpoint acts as a publisher for observer Processor, which creates Processor parameter of processor New Consumer.
+VmEndpoint acts as a publisher for observer WaitForTaskToComplete, which creates Processor parameter of processor New Consumer.
+VmEndpoint acts as a publisher for observer SedaProducer, which creates Processor parameter of processor New Consumer.
+VmEndpoint acts as an observer, which creates Processor parameter of processor New Consumer.
+VmEndpoint acts as a publisher for observer SedaConsumer, which creates Processor parameter of processor New Consumer.

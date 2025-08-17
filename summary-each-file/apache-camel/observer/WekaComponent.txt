@@ -1,0 +1,2 @@
+WekaComponent acts as a publisher for observer CamelContext, which creates String parameter of urispec, String parameter of remaining, Map<String, parameter of Object> Endpoint.
+WekaComponent acts as a publisher for observer ComponentExtension, which creates String parameter of urispec, String parameter of remaining, Map<String, parameter of Object> Endpoint.

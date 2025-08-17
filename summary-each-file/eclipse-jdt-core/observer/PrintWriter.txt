@@ -1,0 +1,2 @@
+PrintWriter acts as a publisher for observer String, which is inherited by GenericXMLWriter, which prints String parameter of s, which prints char[] parameter of tab, which flushes, which closes, which printlns String parameter of s.
+PrintWriter acts as an observer for publisher AbstractCompilerToolTest, CompilerInvocationTests, which is inherited by NoOpPrintWriter, NullPrintWriter, GenericXMLWriter, JavaSourceFilePrintWriter, which prints String parameter of s, which prints char[] parameter of tab, which flushes, which closes, which printlns String parameter of s.

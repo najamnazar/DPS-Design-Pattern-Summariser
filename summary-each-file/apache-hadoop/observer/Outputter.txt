@@ -1,0 +1,1 @@
+Outputter acts as an observer, which inits Path parameter of path, Configuration parameter of conf, which outputs T parameter of object.

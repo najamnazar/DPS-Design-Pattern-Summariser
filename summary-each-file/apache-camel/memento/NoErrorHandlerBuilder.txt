@@ -1,0 +1,1 @@
+NoErrorHandlerBuilder acts as a memento.

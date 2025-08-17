@@ -1,0 +1,1 @@
+TransactionPhase acts as an observer for publisher TransactionalApplicationListenerAdapter, which is inherited by.

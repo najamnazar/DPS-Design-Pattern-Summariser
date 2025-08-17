@@ -1,0 +1,1 @@
+ResourceTrackerPBClientImpl acts as a factory for ResourceTracker, which overrides registerNodeManager method of ResourceTracker, nodeHeartbeat method of ResourceTracker, unRegisterNodeManager method of ResourceTracker.

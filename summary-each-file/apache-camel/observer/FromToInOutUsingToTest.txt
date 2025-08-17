@@ -1,0 +1,2 @@
+FromToInOutUsingToTest acts as a publisher for observer CamelContext, which tests In Out, which creates Route Builder.
+FromToInOutUsingToTest acts as a publisher for observer Service, which tests In Out, which creates Route Builder.

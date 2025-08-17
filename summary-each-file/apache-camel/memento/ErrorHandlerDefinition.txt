@@ -1,0 +1,1 @@
+ErrorHandlerDefinition acts as a caretaker for memento ErrorHandlerFactory, which gets Error Handler Type, which sets ErrorHandlerFactory parameter of errorHandlerType Error Handler Type, which tos String, which descriptions.

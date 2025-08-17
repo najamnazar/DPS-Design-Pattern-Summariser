@@ -1,0 +1,1 @@
+PropertiesLookupListener acts as an observer for publisher PropertiesComponent, which is inherited by, which ons String parameter of name, String parameter of value, String parameter of defaultValue, String parameter of source Lookup.

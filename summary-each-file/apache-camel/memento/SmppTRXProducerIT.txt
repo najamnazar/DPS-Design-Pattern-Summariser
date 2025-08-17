@@ -1,0 +1,2 @@
+SmppTRXProducerIT acts as a caretaker for memento Producer, which runs SMPPServer Simulator, which stops SMPPServer Simulator, which sends Submit SMIn Only, which tests Typo In Message Receiver Route Id, which tests Find Route After Startup Too, which creates Route Builder.
+SmppTRXProducerIT acts as a caretaker for memento Context, which runs SMPPServer Simulator, which stops SMPPServer Simulator, which sends Submit SMIn Only, which tests Typo In Message Receiver Route Id, which tests Find Route After Startup Too, which creates Route Builder.

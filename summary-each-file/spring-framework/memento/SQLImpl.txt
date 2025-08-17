@@ -1,0 +1,3 @@
+SQLImpl acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which tos String.
+SQLImpl acts as a memento, which tos String, which tos String, which tos String.
+SQLImpl acts as a caretaker for memento C, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which tos String.

@@ -1,0 +1,2 @@
+VersionsImpl acts as a product for DSLContext, which overrides root method of Versions, get method of Versions.
+VersionsImpl acts as a factory for Versions, which overrides root method of Versions, get method of Versions.

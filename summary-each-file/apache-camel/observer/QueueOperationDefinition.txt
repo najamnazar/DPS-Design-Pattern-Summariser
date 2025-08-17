@@ -1,0 +1,1 @@
+QueueOperationDefinition acts as an observer for publisher QueueConfiguration, which is inherited by.

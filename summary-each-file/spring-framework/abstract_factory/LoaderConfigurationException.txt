@@ -1,0 +1,4 @@
+LoaderConfigurationException acts as a product for PersistenceExceptionTranslator, which overrides.
+LoaderConfigurationException acts as a product for LoaderError, which overrides.
+LoaderConfigurationException acts as a product for SQLExceptionTranslator, which overrides.
+LoaderConfigurationException acts as a product for ResultOrRows, which overrides.

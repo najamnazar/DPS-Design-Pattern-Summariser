@@ -1,0 +1,2 @@
+BootstrapContext acts as an abstract factory for CacheAwareContextLoaderDelegate, which is inherited by DefaultBootstrapContext, SimpleBootstrapContext.
+BootstrapContext acts as an abstract product for BootstrapContext, which is inherited by DefaultBootstrapContext, SimpleBootstrapContext.

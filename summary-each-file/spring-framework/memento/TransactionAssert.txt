@@ -1,0 +1,2 @@
+TransactionAssert acts as a caretaker for memento A, which is Active, which is Not Active, which is boolean parameter of expected In Transaction, which asserts That Transaction.
+TransactionAssert acts as a caretaker for memento Transaction, which is Active, which is Not Active, which is boolean parameter of expected In Transaction, which asserts That Transaction.

@@ -1,0 +1,1 @@
+Count2 acts as a caretaker for memento Parameter.

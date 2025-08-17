@@ -1,0 +1,1 @@
+AbstractContractGetEnclosingRoot acts as a publisher for observer Path, which tests Enclosing Root Equivalence, which tests Enclosing Root Path Exists, which tests Enclosing Root Path DNE, which tests Enclosing Root Wrapped.

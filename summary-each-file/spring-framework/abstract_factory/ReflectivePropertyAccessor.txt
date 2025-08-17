@@ -1,0 +1,1 @@
+ReflectivePropertyAccessor acts as a factory for PropertyAccessor, which overrides.

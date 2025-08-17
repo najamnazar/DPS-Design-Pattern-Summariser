@@ -1,0 +1,1 @@
+IDEInterface acts as a caretaker for memento S, which connects, which disconnects, which gets Next Classes, which gets Run Flag, which is Connected, which sends Class parameter of resultType, Object parameter of resultValue Result.

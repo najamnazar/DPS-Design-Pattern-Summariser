@@ -1,0 +1,5 @@
+JmsConcurrentConsumerInOnlyTest acts as a publisher for observer ConsumerTemplate, which tests Concurrent Consumers, which creates Camel Context, which creates Route Builder.
+JmsConcurrentConsumerInOnlyTest acts as a publisher for observer FluentProducerTemplate, which tests Concurrent Consumers, which creates Camel Context, which creates Route Builder.
+JmsConcurrentConsumerInOnlyTest acts as a publisher for observer ProducerTemplate, which tests Concurrent Consumers, which creates Camel Context, which creates Route Builder.
+JmsConcurrentConsumerInOnlyTest acts as a publisher for observer Service, which tests Concurrent Consumers, which creates Camel Context, which creates Route Builder.
+JmsConcurrentConsumerInOnlyTest acts as a publisher for observer CamelContext, which tests Concurrent Consumers, which creates Camel Context, which creates Route Builder.

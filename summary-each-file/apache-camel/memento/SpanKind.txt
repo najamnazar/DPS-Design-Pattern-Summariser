@@ -1,0 +1,1 @@
+SpanKind acts as a memento.

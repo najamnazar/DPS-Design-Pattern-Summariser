@@ -1,0 +1,1 @@
+CheckForDecommissioningNodesResponsePBImpl acts as a product for ResourceManagerAdministrationProtocol, which overrides setDecommissioningNodes method of CheckForDecommissioningNodesResponse, getDecommissioningNodes method of CheckForDecommissioningNodesResponse.

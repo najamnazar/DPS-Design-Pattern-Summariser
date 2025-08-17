@@ -1,0 +1,1 @@
+TableType acts as an adaptee for adapter H2Database, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.

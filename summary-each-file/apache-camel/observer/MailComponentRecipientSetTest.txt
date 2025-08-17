@@ -1,0 +1,5 @@
+MailComponentRecipientSetTest acts as a publisher for observer ProducerTemplate, which tests Multiple Endpoints, which creates Route Builder.
+MailComponentRecipientSetTest acts as a publisher for observer Service, which tests Multiple Endpoints, which creates Route Builder.
+MailComponentRecipientSetTest acts as a publisher for observer ConsumerTemplate, which tests Multiple Endpoints, which creates Route Builder.
+MailComponentRecipientSetTest acts as a publisher for observer CamelContext, which tests Multiple Endpoints, which creates Route Builder.
+MailComponentRecipientSetTest acts as a publisher for observer FluentProducerTemplate, which tests Multiple Endpoints, which creates Route Builder.

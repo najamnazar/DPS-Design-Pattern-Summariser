@@ -1,0 +1,2 @@
+CxfConsumerPayloadXPathClientServerTest acts as a caretaker for memento Context, which creates Route Builder, which builds int parameter of size Test Message, which tests Message With Increasing Size, which execes int parameter of size Test.
+CxfConsumerPayloadXPathClientServerTest acts as a caretaker for memento Producer, which creates Route Builder, which builds int parameter of size Test Message, which tests Message With Increasing Size, which execes int parameter of size Test.

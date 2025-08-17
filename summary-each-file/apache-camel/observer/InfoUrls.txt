@@ -1,0 +1,1 @@
+InfoUrls acts as an observer for publisher RecordTypeInfo, which is inherited by, which gets Layout, which sets String parameter of layout Layout.

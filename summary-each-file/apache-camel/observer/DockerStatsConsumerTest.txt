@@ -1,0 +1,5 @@
+DockerStatsConsumerTest acts as a publisher for observer CamelContext, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.
+DockerStatsConsumerTest acts as a publisher for observer ConsumerTemplate, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.
+DockerStatsConsumerTest acts as a publisher for observer ProducerTemplate, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.
+DockerStatsConsumerTest acts as a publisher for observer Service, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.
+DockerStatsConsumerTest acts as a publisher for observer FluentProducerTemplate, which setups Mocks, which tests Stats, which creates Route Builder, which creates Camel Context.

@@ -1,0 +1,1 @@
+BinaryFileOutputStream acts as a caretaker for memento E, which is inherited by, which closes.

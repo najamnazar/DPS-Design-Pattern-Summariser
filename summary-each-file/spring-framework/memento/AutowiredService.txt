@@ -1,0 +1,1 @@
+AutowiredService acts as a caretaker for memento Message, which sets MessageSource parameter of messageSource Message Source, which gets Message Source.

@@ -1,0 +1,1 @@
+WordSplitStrategy acts as a product for TextProcessingAbstractFactory, which overrides.

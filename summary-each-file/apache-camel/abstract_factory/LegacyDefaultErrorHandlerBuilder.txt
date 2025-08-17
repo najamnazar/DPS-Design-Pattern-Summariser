@@ -1,0 +1,1 @@
+LegacyDefaultErrorHandlerBuilder acts as a factory for DefaultErrorHandlerProperties, which overrides hasRedeliveryPolicy method of DefaultErrorHandlerProperties, getDefaultRedeliveryPolicy method of DefaultErrorHandlerProperties, hasLogger method of DefaultErrorHandlerProperties.

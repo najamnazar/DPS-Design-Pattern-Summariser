@@ -1,0 +1,2 @@
+GetClusterMetricsRequest acts as an originator for memento GetClusterMetricsRequest, which is inherited by, which news a GetClusterMetricsRequest Instance to.
+GetClusterMetricsRequest acts as a memento, which is inherited by GetClusterMetricsRequestPBImpl, which news Instance.

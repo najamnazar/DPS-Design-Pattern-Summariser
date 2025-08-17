@@ -1,0 +1,1 @@
+AuthenticationAdapter acts as an observer for publisher SpringSecurityAuthorizationPolicy, which is inherited by DefaultAuthenticationAdapter, which tos Subject parameter of subject Authentication.

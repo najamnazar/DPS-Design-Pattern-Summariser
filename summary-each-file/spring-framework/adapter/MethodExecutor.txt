@@ -1,0 +1,1 @@
+MethodExecutor acts as an adaptee for adapter MethodReference, which adapts to SpelNodeImpl.

@@ -1,0 +1,2 @@
+ThreadsDefaultTest acts as a publisher for observer CamelContext, which tests Threads Default, which creates Route Builder.
+ThreadsDefaultTest acts as a publisher for observer Service, which tests Threads Default, which creates Route Builder.

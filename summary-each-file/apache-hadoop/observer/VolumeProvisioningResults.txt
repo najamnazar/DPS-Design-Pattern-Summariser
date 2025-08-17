@@ -1,0 +1,2 @@
+VolumeProvisioningResults acts as a publisher for observer VolumeState, which is inherited by, which is Success, which gets Brief Message, which is Success, which gets Volume Id, which gets Volume State, which adds VolumeId parameter of volumeId, VolumeState parameter of state Result.
+VolumeProvisioningResults acts as a publisher for observer VolumeId, which is inherited by, which is Success, which gets Brief Message, which is Success, which gets Volume Id, which gets Volume State, which adds VolumeId parameter of volumeId, VolumeState parameter of state Result.

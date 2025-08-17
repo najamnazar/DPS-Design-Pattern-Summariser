@@ -1,0 +1,1 @@
+HttpSNIHostNameTest acts as a caretaker for memento Context, which tests Mnot Dot Net Does Not Return Status Code421, which tests Mnot Dot Net No Sni Does Return Status Code403, which tests Mnot Dot Net Wrong Sni Does Return Status Code421, which creates Application Context.

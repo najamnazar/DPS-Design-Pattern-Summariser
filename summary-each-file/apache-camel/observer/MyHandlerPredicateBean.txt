@@ -1,0 +1,1 @@
+MyHandlerPredicateBean acts as an observer, which matches Exchange parameter of exchange, which does String parameter of body Something, which does String parameter of body Something Else.

@@ -1,0 +1,1 @@
+LeaseRecoverable acts as an abstract product for AbstractContractLeaseRecoveryTest, which is inherited by DistributedFileSystem.

@@ -1,0 +1,9 @@
+QualifiedNameable acts as a product for ExecutableElement, which overrides.
+QualifiedNameable acts as a product for TypeParameterElement, which overrides.
+QualifiedNameable acts as an abstract factory for Name, which is inherited by.
+QualifiedNameable acts as a product for VariableElement, which overrides.
+QualifiedNameable acts as a product for RecordComponentElement, which overrides.
+QualifiedNameable acts as a product for PackageElement, which overrides.
+QualifiedNameable acts as a product for TypeElement, which overrides.
+QualifiedNameable acts as a product for ModuleElement, which overrides.
+QualifiedNameable acts as a product for Element, which overrides.

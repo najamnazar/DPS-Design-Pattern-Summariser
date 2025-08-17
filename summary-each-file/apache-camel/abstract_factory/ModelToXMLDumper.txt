@@ -1,0 +1,1 @@
+ModelToXMLDumper acts as an abstract product for ModelToXMLDumper, which is inherited by JaxbModelToXMLDumper.

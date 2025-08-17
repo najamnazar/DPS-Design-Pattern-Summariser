@@ -1,0 +1,1 @@
+RegistryOperations acts as an abstract product for AMRMProxyApplicationContextImpl, which is inherited by RegistryOperationsService, FSRegistryOperationsService.

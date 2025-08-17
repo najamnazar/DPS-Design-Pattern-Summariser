@@ -1,0 +1,1 @@
+PropertyEditorRegistry acts as an abstract product for PropertyEditorRegistry, which is inherited by DataBinder, PropertyEditorRegistrySupport, ConfigurablePropertyAccessor.

@@ -1,0 +1,1 @@
+MongoDbIdempotentRepository acts as a product for InfinispanIdempotentRepositoryTestSupport, which overrides add method of IdempotentRepository, contains method of IdempotentRepository, remove method of IdempotentRepository, confirm method of IdempotentRepository, clear method of IdempotentRepository.

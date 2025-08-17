@@ -1,0 +1,1 @@
+Clock acts as a component for ControlledClock, which is inherited by MonotonicClock, SystemClock, UTCClock.

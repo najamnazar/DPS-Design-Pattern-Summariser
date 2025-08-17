@@ -1,0 +1,1 @@
+MessageListenerContainer acts as an abstract factory for DestinationResolver, MessageConverter, which is inherited by AbstractMessageListenerContainer, JmsMessageEndpointManager, MessageListenerTestContainer.

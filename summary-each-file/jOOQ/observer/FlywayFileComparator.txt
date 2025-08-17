@@ -1,0 +1,1 @@
+FlywayFileComparator acts as a publisher for observer File, which is inherited by, which compares File parameter of o1, File parameter of o2.

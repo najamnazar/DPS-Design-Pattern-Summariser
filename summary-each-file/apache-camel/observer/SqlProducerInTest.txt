@@ -1,0 +1,5 @@
+SqlProducerInTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Query In Array, which tests Query In List, which tests Query In String, which creates Route Builder.
+SqlProducerInTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tears Down, which tests Query In Array, which tests Query In List, which tests Query In String, which creates Route Builder.
+SqlProducerInTest acts as a publisher for observer ProducerTemplate, which sets Up, which tears Down, which tests Query In Array, which tests Query In List, which tests Query In String, which creates Route Builder.
+SqlProducerInTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Query In Array, which tests Query In List, which tests Query In String, which creates Route Builder.
+SqlProducerInTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tears Down, which tests Query In Array, which tests Query In List, which tests Query In String, which creates Route Builder.

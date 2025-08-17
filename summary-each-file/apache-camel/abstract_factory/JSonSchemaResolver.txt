@@ -1,0 +1,1 @@
+JSonSchemaResolver acts as an abstract product for JSonSchemaResolver, which is inherited by CamelContextJSonSchemaResolver, CamelCatalogJSonSchemaResolver.

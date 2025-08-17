@@ -1,0 +1,2 @@
+FileProduceAppendCharsSingleMessageTest acts as a publisher for observer CamelContext, which tests Append Chars, which creates Route Builder.
+FileProduceAppendCharsSingleMessageTest acts as a publisher for observer Service, which tests Append Chars, which creates Route Builder.

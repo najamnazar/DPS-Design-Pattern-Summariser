@@ -1,0 +1,1 @@
+Block acts as an observer for publisher ProcessorDefinition, which is inherited by BlockStart, OutputAwareFromDefinition, ProcessorDefinition, which adds ProcessorDefinition<?> parameter of processorDefinition Output.

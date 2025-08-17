@@ -1,0 +1,2 @@
+NotAllowRedeliveryWhileStoppingTest acts as a publisher for observer CamelContext, which tests Redelivery, which creates Route Builder.
+NotAllowRedeliveryWhileStoppingTest acts as a publisher for observer Service, which tests Redelivery, which creates Route Builder.

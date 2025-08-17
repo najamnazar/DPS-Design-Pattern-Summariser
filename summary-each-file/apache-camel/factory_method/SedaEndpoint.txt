@@ -1,0 +1,3 @@
+SedaEndpoint acts as a factory for TransformerRouteTest, which overrides.
+SedaEndpoint acts as a factory for RoundRobinLoadBalancer, which overrides.
+SedaEndpoint acts as a factory for CamelPostProcessorHelperTest, which overrides.

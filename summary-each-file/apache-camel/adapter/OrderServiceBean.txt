@@ -1,0 +1,1 @@
+OrderServiceBean acts as an adaptee for adapter BeanChoseMethodWithMatchingTypeAndSkipSettersTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

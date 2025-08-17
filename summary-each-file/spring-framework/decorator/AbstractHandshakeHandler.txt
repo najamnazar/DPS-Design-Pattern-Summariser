@@ -1,0 +1,1 @@
+AbstractHandshakeHandler acts as a component for decorator WebSocketTransportHandler, which overrides startHandshakeHandler, stopHandshakeHandler, isRunningHandshakeHandler.

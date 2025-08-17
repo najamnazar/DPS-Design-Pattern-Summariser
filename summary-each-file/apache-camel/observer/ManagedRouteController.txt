@@ -1,0 +1,1 @@
+ManagedRouteController acts as a publisher for observer Route, which gets Route Controller, which inits ManagementStrategy parameter of strategy, which gets Controlled Routes, which gets Route Startup Logging Level.

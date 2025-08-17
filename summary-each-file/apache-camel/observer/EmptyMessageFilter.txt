@@ -1,0 +1,1 @@
+EmptyMessageFilter acts as an observer, which filters Exchange parameter of exchange, WebServiceMessage parameter of produceResponse Producer, which filters Exchange parameter of exchange, WebServiceMessage parameter of consumerResponse Consumer.

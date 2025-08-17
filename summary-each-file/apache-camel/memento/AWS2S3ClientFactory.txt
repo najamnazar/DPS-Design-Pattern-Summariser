@@ -1,0 +1,1 @@
+AWS2S3ClientFactory acts as an originator for memento AWS2CamelS3InternalClient, which gets an AWS2CamelS3InternalClient AWSS3Client to.

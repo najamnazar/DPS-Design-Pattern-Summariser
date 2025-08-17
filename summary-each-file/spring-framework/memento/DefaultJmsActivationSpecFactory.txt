@@ -1,0 +1,1 @@
+DefaultJmsActivationSpecFactory acts as a caretaker for memento C, which determines ResourceAdapter parameter of adapter Activation Spec Class, which populates BeanWrapper parameter of bw, JmsActivationSpecConfig parameter of config Activation Spec Properties, which applies BeanWrapper parameter of bw, int parameter of ackMode Acknowledge Mode.

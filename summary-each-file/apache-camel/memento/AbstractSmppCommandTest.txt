@@ -1,0 +1,1 @@
+AbstractSmppCommandTest acts as a caretaker for memento Configuration, which sets Up, which constructors, which gets Response Message, which determines Type Class.

@@ -1,0 +1,1 @@
+BasicAuthenticationHttpClientConfigurer acts as a product for HttpEndpoint, which overrides configureHttpClient method of HttpClientConfigurer.

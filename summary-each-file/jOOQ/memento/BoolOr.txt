@@ -1,0 +1,1 @@
+BoolOr acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx Function Name, which conditions, which accepts Context<?> parameter of ctx, which $conditions, which $conditions Condition parameter of newValue, which $constructors, which equals Object parameter of that.

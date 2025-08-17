@@ -1,0 +1,2 @@
+GoogleBigQuerySQLProducerWithPatternTest acts as a caretaker for memento Configuration, which inits, which sends Exchange With Properties, which sends Message With Headers.
+GoogleBigQuerySQLProducerWithPatternTest acts as a caretaker for memento Producer, which inits, which sends Exchange With Properties, which sends Message With Headers.

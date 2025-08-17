@@ -1,0 +1,1 @@
+CamelJavadocJar acts as a caretaker for memento Configuration, which does Execute, which copies Path parameter of in, Path parameter of out, which gets Path parameter of dir All Relative Files, which gets Classifier, which generates File parameter of javadocFiles, String parameter of jarFileName Archive.

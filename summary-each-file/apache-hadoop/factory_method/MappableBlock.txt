@@ -1,0 +1,1 @@
+MappableBlock acts as an abstract product for MemoryMappableBlockLoader, which is inherited by MemoryMappedBlock, NativePmemMappedBlock, PmemMappedBlock.

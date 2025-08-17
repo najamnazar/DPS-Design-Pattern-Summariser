@@ -1,0 +1,1 @@
+StaxStreamXMLReader acts as a caretaker for memento B, which parses Internal, which handles Start Document, which handles Start Element, which handles End Element, which handles Characters, which handles Comment, which handles Dtd, which handles Entity Reference, which handles End Document, which handles Processing Instruction, which gets Attributes.

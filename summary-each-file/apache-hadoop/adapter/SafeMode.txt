@@ -1,0 +1,2 @@
+SafeMode acts as a target for adapter DistributedFileSystem, which adapts to SafeMode, which adapts to SafeMode.
+SafeMode acts as an adaptee for adapter DistributedFileSystem, which adapts to SafeMode, FileSystem, which adapts to SafeMode, FileSystem.

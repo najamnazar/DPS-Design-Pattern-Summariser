@@ -1,0 +1,1 @@
+DependencyDownloaderDataFormatResolver acts as a caretaker for memento Context, which creates String parameter of name, CamelContext parameter of context Data Format.

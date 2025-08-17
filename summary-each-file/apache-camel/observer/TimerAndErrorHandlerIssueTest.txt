@@ -1,0 +1,2 @@
+TimerAndErrorHandlerIssueTest acts as a publisher for observer CamelContext, which tests Timer And Error Handler, which creates Route Builder.
+TimerAndErrorHandlerIssueTest acts as a publisher for observer Service, which tests Timer And Error Handler, which creates Route Builder.

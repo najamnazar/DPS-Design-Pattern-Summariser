@@ -1,0 +1,2 @@
+RssDataFormat acts as a publisher for observer DataFormat, which ends.
+RssDataFormat acts as an observer, which ends.

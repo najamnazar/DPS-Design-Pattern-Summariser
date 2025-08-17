@@ -1,0 +1,3 @@
+ResourceHttpMessageReaderTests acts as a caretaker for memento A, which reads Resource As Mono, which strings String parameter of value Buffer.
+ResourceHttpMessageReaderTests acts as a caretaker for memento B, which reads Resource As Mono, which strings String parameter of value Buffer.
+ResourceHttpMessageReaderTests acts as a caretaker for memento Message, which reads Resource As Mono, which strings String parameter of value Buffer.

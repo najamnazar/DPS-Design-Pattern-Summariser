@@ -1,0 +1,2 @@
+OnExceptionRouteTest acts as a publisher for observer CamelContext, which tests No Error, which tests Functional Error, which tests Technical Error, which tests Error While Handling Exception, which sets Up, which creates Registry, which creates Route Builder.
+OnExceptionRouteTest acts as a publisher for observer Service, which tests No Error, which tests Functional Error, which tests Technical Error, which tests Error While Handling Exception, which sets Up, which creates Registry, which creates Route Builder.

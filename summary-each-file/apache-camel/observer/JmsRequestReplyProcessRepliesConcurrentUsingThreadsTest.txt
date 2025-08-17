@@ -1,0 +1,1 @@
+JmsRequestReplyProcessRepliesConcurrentUsingThreadsTest acts as a publisher for observer ArtemisService, which waits For Connections, which tests Request Reply With Concurrent, which gets Component Name, which creates Route Builder.

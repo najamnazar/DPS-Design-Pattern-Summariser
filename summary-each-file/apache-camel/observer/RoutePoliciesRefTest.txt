@@ -1,0 +1,3 @@
+RoutePoliciesRefTest acts as a publisher for observer CamelContext, which creates Registry, which ons Route parameter of route, Exchange parameter of exchange Exchange Begin, which tests Custom Policies, which creates Route Builder.
+RoutePoliciesRefTest acts as a publisher for observer Service, which creates Registry, which ons Route parameter of route, Exchange parameter of exchange Exchange Begin, which tests Custom Policies, which creates Route Builder.
+RoutePoliciesRefTest acts as a publisher for observer Route, which is inherited by, which creates Registry, which ons Route parameter of route, Exchange parameter of exchange Exchange Begin, which tests Custom Policies, which creates Route Builder.

@@ -1,0 +1,1 @@
+DeadLetterChannelProperties acts as an abstract factory for Predicate, which is inherited by LegacyDeadLetterChannelBuilder, DeadLetterChannelConfiguration.

@@ -1,0 +1,7 @@
+JmsResequencerTestRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+JmsResequencerTestRouteBuilder acts as an observer, which configures.
+JmsResequencerTestRouteBuilder acts as a publisher for observer Resource, which configures.
+JmsResequencerTestRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+JmsResequencerTestRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+JmsResequencerTestRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+JmsResequencerTestRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

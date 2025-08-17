@@ -1,0 +1,2 @@
+SimpleJdbcInsertOperations acts as an abstract product for SimpleJdbcInsertOperations, which is inherited by SimpleJdbcInsert, SimpleJdbcInsert, SimpleJdbcInsert, SimpleJdbcInsert, SimpleJdbcInsert, SimpleJdbcInsert, SimpleJdbcInsert.
+SimpleJdbcInsertOperations acts as an abstract factory for SimpleJdbcInsertOperations, KeyHolder, which is inherited by SimpleJdbcInsert.

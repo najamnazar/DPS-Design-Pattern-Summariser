@@ -1,0 +1,1 @@
+Solver acts as an abstract product for TestSolver, which is inherited by LpSolver.

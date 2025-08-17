@@ -1,0 +1,1 @@
+ManagedRestRegistry acts as a caretaker for memento Context, which gets Registry, which gets Number Of Rest Services, which lists Rest Services, which apis Doc As Json.

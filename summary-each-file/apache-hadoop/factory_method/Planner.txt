@@ -1,0 +1,1 @@
+Planner acts as an abstract product for PlannerFactory, which is inherited by GreedyPlanner, SimpleCapacityReplanner.

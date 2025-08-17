@@ -1,0 +1,3 @@
+ReduceTask acts as a product for Job, which overrides.
+ReduceTask acts as a product for WorkAssignmentProtocol, which overrides.
+ReduceTask acts as a product for ShuffleConsumerPlugin, which overrides.

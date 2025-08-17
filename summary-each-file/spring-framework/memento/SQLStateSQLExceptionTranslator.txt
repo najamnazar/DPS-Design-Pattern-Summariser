@@ -1,0 +1,1 @@
+SQLStateSQLExceptionTranslator acts as a caretaker for memento SQL, which does String parameter of task, @Nullable parameter of String, SQLException parameter of ex Translate, which gets SQLException parameter of ex Sql State.

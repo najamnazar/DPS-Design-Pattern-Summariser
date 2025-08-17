@@ -1,0 +1,1 @@
+RMAppAttemptUnregistrationEvent acts as a caretaker for memento FinalApplicationStatus, which gets Final Tracking Url, which gets Final Application Status.

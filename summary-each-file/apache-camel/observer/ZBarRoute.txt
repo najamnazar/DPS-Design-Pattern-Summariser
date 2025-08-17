@@ -1,0 +1,7 @@
+ZBarRoute acts as a publisher for observer Resource, which configures.
+ZBarRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+ZBarRoute acts as a publisher for observer RestsDefinition, which configures.
+ZBarRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+ZBarRoute acts as an observer, which configures.
+ZBarRoute acts as a publisher for observer RoutesDefinition, which configures.
+ZBarRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.

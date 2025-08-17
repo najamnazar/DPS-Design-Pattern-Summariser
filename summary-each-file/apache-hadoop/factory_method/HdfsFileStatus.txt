@@ -1,0 +1,2 @@
+HdfsFileStatus acts as a factory for FSNamesystem, which overrides.
+HdfsFileStatus acts as an abstract product for FSNamesystem, which is inherited by HdfsLocatedFileStatus, HdfsNamedFileStatus.

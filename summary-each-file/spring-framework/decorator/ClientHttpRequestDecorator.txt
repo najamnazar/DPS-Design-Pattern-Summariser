@@ -1,0 +1,1 @@
+ClientHttpRequestDecorator acts as a decorator for component ClientHttpRequest, which is inherited by.

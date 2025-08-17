@@ -1,0 +1,3 @@
+Jt400Component acts as an adaptee for adapter Jt400ComponentDefaultSecureConnectionPoolTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400Component acts as an adaptee for adapter Jt400ComponentTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400Component acts as an adaptee for adapter Jt400ComponentDefaultConnectionPoolTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.

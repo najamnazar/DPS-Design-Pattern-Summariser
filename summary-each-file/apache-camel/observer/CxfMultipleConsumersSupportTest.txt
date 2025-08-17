@@ -1,0 +1,5 @@
+CxfMultipleConsumersSupportTest acts as a publisher for observer Service, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.
+CxfMultipleConsumersSupportTest acts as a publisher for observer ConsumerTemplate, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.
+CxfMultipleConsumersSupportTest acts as a publisher for observer CamelContext, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.
+CxfMultipleConsumersSupportTest acts as a publisher for observer FluentProducerTemplate, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.
+CxfMultipleConsumersSupportTest acts as a publisher for observer ProducerTemplate, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.

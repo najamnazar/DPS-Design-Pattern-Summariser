@@ -1,0 +1,4 @@
+Round2GenAnnotationFactory acts as a caretaker for memento S, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For, which supports Annotation Types, which supports Options.
+Round2GenAnnotationFactory acts as a caretaker for memento String, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For, which supports Annotation Types, which supports Options.
+Round2GenAnnotationFactory acts as an originator for memento AnnotationProcessor, which gets an AnnotationProcessor Processor For to.
+Round2GenAnnotationFactory acts as a caretaker for memento List, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For, which supports Annotation Types, which supports Options.

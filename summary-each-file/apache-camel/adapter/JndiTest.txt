@@ -1,0 +1,1 @@
+JndiTest acts as an adapter, which adapts createInitialContext method of Context to TestSupport, which adapts to TestSupport, which adapts assertLookup method of Context to TestSupport, which adapts to TestSupport.

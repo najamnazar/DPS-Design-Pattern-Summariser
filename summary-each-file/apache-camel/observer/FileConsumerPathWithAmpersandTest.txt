@@ -1,0 +1,2 @@
+FileConsumerPathWithAmpersandTest acts as a publisher for observer CamelContext, which tests Path With Ampersand, which creates Route Builder.
+FileConsumerPathWithAmpersandTest acts as a publisher for observer Service, which tests Path With Ampersand, which creates Route Builder.

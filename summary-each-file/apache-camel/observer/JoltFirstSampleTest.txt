@@ -1,0 +1,5 @@
+JoltFirstSampleTest acts as a publisher for observer ConsumerTemplate, which tests First Sample Jolt, which creates Route Builder.
+JoltFirstSampleTest acts as a publisher for observer CamelContext, which tests First Sample Jolt, which creates Route Builder.
+JoltFirstSampleTest acts as a publisher for observer ProducerTemplate, which tests First Sample Jolt, which creates Route Builder.
+JoltFirstSampleTest acts as a publisher for observer FluentProducerTemplate, which tests First Sample Jolt, which creates Route Builder.
+JoltFirstSampleTest acts as a publisher for observer Service, which tests First Sample Jolt, which creates Route Builder.

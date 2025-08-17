@@ -1,0 +1,2 @@
+XMLTableColumnsFirstStep acts as a factory for XMLTableColumnsFirstStep, which overrides.
+XMLTableColumnsFirstStep acts as a factory method for XMLTableColumnPathStep, which is inherited by XMLTableColumnsFirstStep, XMLTableColumnsFirstStep.

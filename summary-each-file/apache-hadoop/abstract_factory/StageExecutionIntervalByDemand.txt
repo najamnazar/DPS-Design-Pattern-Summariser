@@ -1,0 +1,1 @@
+StageExecutionIntervalByDemand acts as a factory for StageExecutionInterval, which overrides computeExecutionInterval method of StageExecutionInterval.

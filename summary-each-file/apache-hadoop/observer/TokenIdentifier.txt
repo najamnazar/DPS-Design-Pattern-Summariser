@@ -1,0 +1,2 @@
+TokenIdentifier acts as an observer for publisher SaslRpcServer, which is inherited by NMTokenIdentifier, AbstractDelegationTokenIdentifier, ClientToAMTokenIdentifier, BlockTokenIdentifier, AMRMTokenIdentifier, LocalizerTokenIdentifier, JobTokenIdentifier, ContainerTokenIdentifier, DockerCredentialTokenIdentifier, which gets Kind, which gets User, which gets Bytes, which gets Tracking Id.
+TokenIdentifier acts as an observer, which gets Kind, which gets User, which gets Bytes, which gets Tracking Id.

@@ -1,0 +1,1 @@
+NoSuchHeaderOrPropertyException acts as a publisher for observer Exchange, which gets Header Name, which gets Property Name, which gets Type, which headers Exchange parameter of exchange, String parameter of headerName, which properties Exchange parameter of exchange, String parameter of propertyName, which values Object parameter of value Description.

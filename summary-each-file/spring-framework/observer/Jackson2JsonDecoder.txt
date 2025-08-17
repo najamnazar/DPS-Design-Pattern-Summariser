@@ -1,0 +1,2 @@
+Jackson2JsonDecoder acts as a publisher for observer ResolvableType, which processes Publisher<DataBuffer> parameter of input, ResolvableType parameter of elementType, @Nullable parameter of MimeType, @Nullable parameter of Map<String, Input.
+Jackson2JsonDecoder acts as a publisher for observer ResolvableType, which is inherited by, which processes Publisher<DataBuffer> parameter of input, ResolvableType parameter of elementType, @Nullable parameter of MimeType, @Nullable parameter of Map<String, Input.

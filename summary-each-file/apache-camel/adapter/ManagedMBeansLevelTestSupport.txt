@@ -1,0 +1,1 @@
+ManagedMBeansLevelTestSupport acts as an adapter, which adapts assertResults method of ManagementMBeansLevel to ManagementTestSupport, which adapts to ManagementTestSupport, which adapts to ManagementTestSupport, which adapts assertMBeans method of ManagementMBeansLevel to ManagementTestSupport, which adapts to ManagementTestSupport.

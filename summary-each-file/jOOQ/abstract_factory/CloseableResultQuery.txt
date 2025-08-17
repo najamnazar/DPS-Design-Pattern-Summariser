@@ -1,0 +1,2 @@
+CloseableResultQuery acts as a product for CloseableQuery, which overrides.
+CloseableResultQuery acts as a product for Query, which overrides.

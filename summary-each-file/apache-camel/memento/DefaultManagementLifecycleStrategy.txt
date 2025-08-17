@@ -1,0 +1,3 @@
+DefaultManagementLifecycleStrategy acts as a caretaker for memento Context.
+DefaultManagementLifecycleStrategy acts as a caretaker for memento NamedNode.
+DefaultManagementLifecycleStrategy acts as a caretaker for memento Component.

@@ -1,0 +1,1 @@
+EndpointProducerResolver acts as an abstract factory for Endpoint, which is inherited by.

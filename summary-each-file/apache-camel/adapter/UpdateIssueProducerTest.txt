@@ -1,0 +1,2 @@
+UpdateIssueProducerTest acts as an adapter, which adapts to CamelTestSupport, which adapts setMocks method of ProducerTemplate to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+UpdateIssueProducerTest acts as an adapter, which adapts to CamelTestSupport, which adapts setMocks method of MockEndpoint to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

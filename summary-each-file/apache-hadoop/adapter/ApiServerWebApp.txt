@@ -1,0 +1,1 @@
+ApiServerWebApp acts as an adapter, which adapts to AbstractService, which adapts serviceStart method of HttpServer2 to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts startWebApp method of HttpServer2 to AbstractService.

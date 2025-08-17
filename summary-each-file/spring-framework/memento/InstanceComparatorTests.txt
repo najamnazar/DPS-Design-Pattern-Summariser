@@ -1,0 +1,1 @@
+InstanceComparatorTests acts as a caretaker for memento C, which shoulds Compare Classes, which shoulds Compare Interfaces, which shoulds Compare Mix.

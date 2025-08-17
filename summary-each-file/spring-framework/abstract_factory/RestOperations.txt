@@ -1,0 +1,2 @@
+RestOperations acts as an abstract factory for HttpHeaders, which is inherited by RestTemplate.
+RestOperations acts as an abstract product for RestOperations, which is inherited by RestTemplate.

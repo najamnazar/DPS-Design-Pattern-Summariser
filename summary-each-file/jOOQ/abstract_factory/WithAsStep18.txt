@@ -1,0 +1,3 @@
+WithAsStep18 acts as an abstract factory for WithStep, which is inherited by WithImpl.
+WithAsStep18 acts as an abstract product for WithAsStep18, which is inherited by WithImpl, WithImpl.
+WithAsStep18 acts as an abstract product for WithAsStep18, which is inherited by WithImpl, WithImpl, WithImpl, WithImpl.

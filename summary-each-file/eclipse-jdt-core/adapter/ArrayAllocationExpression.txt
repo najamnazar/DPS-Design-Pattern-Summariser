@@ -1,0 +1,1 @@
+ArrayAllocationExpression acts as an adapter, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression.

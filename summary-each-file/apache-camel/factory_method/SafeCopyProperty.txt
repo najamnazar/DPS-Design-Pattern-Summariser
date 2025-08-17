@@ -1,0 +1,3 @@
+SafeCopyProperty acts as a factory for SafeCopyProperty, which overrides.
+SafeCopyProperty acts as a factory method for SafeCopyProperty, which is inherited by SafeCopyProperty.
+SafeCopyProperty acts as an abstract product for SafeCopyProperty, which is inherited by AttachmentMap.

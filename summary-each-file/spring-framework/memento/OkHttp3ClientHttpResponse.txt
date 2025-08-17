@@ -1,0 +1,1 @@
+OkHttp3ClientHttpResponse acts as a caretaker for memento Headers, which gets Raw Status Code, which gets Status Text, which gets Body, which gets Headers, which closes.

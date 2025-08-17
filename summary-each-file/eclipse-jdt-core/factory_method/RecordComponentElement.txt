@@ -1,0 +1,3 @@
+RecordComponentElement acts as an abstract product for Elements, which is inherited by RecordComponentElementImpl.
+RecordComponentElement acts as a factory method for ExecutableElement, which is inherited by RecordComponentElement.
+RecordComponentElement acts as a factory for RecordComponentElement, which overrides getEnclosingElement method of RecordComponentElement, getSimpleName method of RecordComponentElement.

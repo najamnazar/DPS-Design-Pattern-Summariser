@@ -1,0 +1,1 @@
+CheckpointConf acts as an adaptee for adapter SecondaryNameNode, which adapts to SecondaryNameNodeInfoMXBean, which adapts to SecondaryNameNodeInfoMXBean, which adapts to SecondaryNameNodeInfoMXBean, which adapts to SecondaryNameNodeInfoMXBean, which adapts to SecondaryNameNodeInfoMXBean, which adapts to SecondaryNameNodeInfoMXBean, which adapts to SecondaryNameNodeInfoMXBean.

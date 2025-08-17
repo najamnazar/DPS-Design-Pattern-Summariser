@@ -1,0 +1,1 @@
+JmsComponentConfigurer acts as a target for adapter AMQPComponentConfigurer, which adapts to JmsComponentConfigurer, which adapts to JmsComponentConfigurer, which adapts to JmsComponentConfigurer, which adapts to JmsComponentConfigurer.

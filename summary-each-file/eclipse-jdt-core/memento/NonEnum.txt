@@ -1,0 +1,1 @@
+NonEnum acts as a caretaker for memento E, which foos.

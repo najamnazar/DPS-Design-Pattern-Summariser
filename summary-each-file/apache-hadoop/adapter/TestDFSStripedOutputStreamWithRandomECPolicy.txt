@@ -1,0 +1,1 @@
+TestDFSStripedOutputStreamWithRandomECPolicy acts as an adapter, which adapts to TestDFSStripedOutputStream.

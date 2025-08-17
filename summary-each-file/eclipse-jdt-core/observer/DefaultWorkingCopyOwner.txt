@@ -1,0 +1,1 @@
+DefaultWorkingCopyOwner acts as an observer, which creates ICompilationUnit parameter of workingCopy Buffer, which tos String.

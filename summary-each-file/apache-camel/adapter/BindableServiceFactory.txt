@@ -1,0 +1,1 @@
+BindableServiceFactory acts as an adaptee for adapter GrpcConsumer, which adapts to DefaultConsumer.

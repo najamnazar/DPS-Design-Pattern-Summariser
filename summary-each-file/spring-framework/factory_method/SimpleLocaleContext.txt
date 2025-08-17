@@ -1,0 +1,1 @@
+SimpleLocaleContext acts as a product for ServerWebExchangeDecorator, which overrides getLocale method of LocaleContext.

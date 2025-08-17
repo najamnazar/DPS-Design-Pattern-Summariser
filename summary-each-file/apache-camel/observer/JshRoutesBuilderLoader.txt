@@ -1,0 +1,1 @@
+JshRoutesBuilderLoader acts as a publisher for observer CamelContext, which gets Supported Extension, which loads Resource parameter of resource Routes Builder, which evals Reader parameter of reader, EndpointRouteBuilder parameter of builder.

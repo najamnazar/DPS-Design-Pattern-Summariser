@@ -1,0 +1,2 @@
+CommitResponse acts as a memento, which is inherited by CommitResponsePBImpl, which news Instance.
+CommitResponse acts as an originator for memento CommitResponse, which is inherited by, which news a CommitResponse Instance to.

@@ -1,0 +1,1 @@
+JdbcOptimisticLockingExceptionMapper acts as an observer for publisher JdbcAggregationRepository, PostgresAggregationRepository, ClusteredJdbcAggregationRepository, which is inherited by DefaultJdbcOptimisticLockingExceptionMapper, which is Exception parameter of cause Optimistic Locking.

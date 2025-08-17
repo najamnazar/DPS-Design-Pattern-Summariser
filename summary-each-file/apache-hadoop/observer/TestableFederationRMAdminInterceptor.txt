@@ -1,0 +1,3 @@
+TestableFederationRMAdminInterceptor acts as an observer, which gets SubClusterId parameter of subClusterId Admin RMProxy For Sub Cluster, which refreshes Queues, which shutdowns.
+TestableFederationRMAdminInterceptor acts as a publisher for observer SubClusterId, which is inherited by, which gets SubClusterId parameter of subClusterId Admin RMProxy For Sub Cluster, which refreshes Queues, which shutdowns.
+TestableFederationRMAdminInterceptor acts as a publisher for observer SubClusterId, which gets SubClusterId parameter of subClusterId Admin RMProxy For Sub Cluster, which refreshes Queues, which shutdowns.

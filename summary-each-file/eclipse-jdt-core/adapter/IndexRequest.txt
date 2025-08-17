@@ -1,0 +1,1 @@
+IndexRequest acts as an adapter, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts updatedIndexState method of IndexManager to IJob, which adapts to IJob.

@@ -1,0 +1,1 @@
+AbstractCommitManager acts as a factory for CommitManager, which overrides getManualCommit method of CommitManager, forceCommit method of CommitManager.

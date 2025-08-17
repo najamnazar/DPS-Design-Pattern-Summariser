@@ -1,0 +1,1 @@
+IAnnotatable acts as an abstract factory for IAnnotation, which is inherited by.

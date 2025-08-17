@@ -1,0 +1,2 @@
+ParameterDeclaration acts as an adaptee for adapter BinaryParameterDeclarationImpl, which adapts to DeclarationImpl.
+ParameterDeclaration acts as an adaptee for adapter SourceParameterDeclarationImpl, which adapts to ASTBasedDeclarationImpl.

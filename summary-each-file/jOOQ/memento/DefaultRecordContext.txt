@@ -1,0 +1,1 @@
+DefaultRecordContext acts as a caretaker for memento ExecuteType, which types, which records, which batches Records, which records Type, which exceptions, which tos String.

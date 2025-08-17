@@ -1,0 +1,2 @@
+DefaultWorkingCopyOwner acts as an adapter, which adapts to WorkingCopyOwner, which adapts to WorkingCopyOwner.
+DefaultWorkingCopyOwner acts as an adaptee for adapter DefaultWorkingCopyOwner, which adapts to WorkingCopyOwner, which adapts to WorkingCopyOwner.

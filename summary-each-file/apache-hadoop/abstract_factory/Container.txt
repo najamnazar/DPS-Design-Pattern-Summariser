@@ -1,0 +1,2 @@
+Container acts as an abstract factory for ContainerStatus, ContainerId, Priority, NMContainerStatus, Resource, ContainerLaunchContext, Credentials, ContainerTokenIdentifier, which is inherited by ContainerImpl.
+Container acts as an abstract product for Container, which is inherited by ContainerImpl, ContainerPBImpl.

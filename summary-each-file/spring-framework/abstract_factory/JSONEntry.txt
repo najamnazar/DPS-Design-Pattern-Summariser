@@ -1,0 +1,2 @@
+JSONEntry acts as a product for VisitContext, which overrides.
+JSONEntry acts as a product for DiagnosticsContext, which overrides.

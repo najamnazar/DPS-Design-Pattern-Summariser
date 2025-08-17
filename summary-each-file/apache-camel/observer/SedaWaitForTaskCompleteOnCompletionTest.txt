@@ -1,0 +1,2 @@
+SedaWaitForTaskCompleteOnCompletionTest acts as a publisher for observer CamelContext, which tests Always, which creates Route Builder.
+SedaWaitForTaskCompleteOnCompletionTest acts as a publisher for observer Service, which tests Always, which creates Route Builder.

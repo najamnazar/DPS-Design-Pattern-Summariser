@@ -1,0 +1,1 @@
+HelloServiceImpl acts as a product for CxfPayLoadMessageXmlBindingRouterTest, which overrides echo method of HelloService, ping method of HelloService, getInvocationCount method of HelloService, sayHello method of HelloService, echoBoolean method of HelloService, complexParameters method of HelloService.

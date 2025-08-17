@@ -1,0 +1,2 @@
+RouteScopedOnExceptionMultipleRouteBuildersTest acts as a publisher for observer CamelContext, which tests On Exception Error Handler Ref, which tests On Exception Error Handler Ref Foo, which creates Camel Context, which creates Route Builders.
+RouteScopedOnExceptionMultipleRouteBuildersTest acts as a publisher for observer Service, which tests On Exception Error Handler Ref, which tests On Exception Error Handler Ref Foo, which creates Camel Context, which creates Route Builders.

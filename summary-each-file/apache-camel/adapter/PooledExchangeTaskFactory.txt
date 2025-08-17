@@ -1,0 +1,4 @@
+PooledExchangeTaskFactory acts as an adaptee for adapter WireTapProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+PooledExchangeTaskFactory acts as an adaptee for adapter Pipeline, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+PooledExchangeTaskFactory acts as an adaptee for adapter ResilienceProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+PooledExchangeTaskFactory acts as an adaptee for adapter FaultToleranceProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.

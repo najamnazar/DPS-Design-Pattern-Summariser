@@ -1,0 +1,2 @@
+ITestS3AContractGetFileStatus acts as a publisher for observer Path, which creates Configuration parameter of conf Contract, which teardowns, which creates Configuration, which gets Test Timeout Millis.
+ITestS3AContractGetFileStatus acts as a publisher for observer PathFilter, which creates Configuration parameter of conf Contract, which teardowns, which creates Configuration, which gets Test Timeout Millis.

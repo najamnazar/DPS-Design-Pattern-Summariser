@@ -1,0 +1,3 @@
+TestNameNodeAcl acts as a publisher for observer Path, which inits.
+TestNameNodeAcl acts as a publisher for observer MiniDFSCluster, which inits.
+TestNameNodeAcl acts as a publisher for observer UserGroupInformation, which inits.

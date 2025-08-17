@@ -1,0 +1,1 @@
+AbstractAMRMProxyPolicy acts as a product for FederationPolicyManager, which overrides notifyOfResponse method of FederationAMRMProxyPolicy.

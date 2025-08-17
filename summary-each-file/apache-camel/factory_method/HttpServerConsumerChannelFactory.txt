@@ -1,0 +1,1 @@
+HttpServerConsumerChannelFactory acts as an abstract product for NettyHttpComponent, which is inherited by HttpServerMultiplexChannelHandler.

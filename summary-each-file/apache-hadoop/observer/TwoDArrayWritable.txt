@@ -1,0 +1,1 @@
+TwoDArrayWritable acts as an observer, which tos Array, which sets Writable[][] parameter of values, which gets, which reads DataInput parameter of in Fields, which writes DataOutput parameter of out.

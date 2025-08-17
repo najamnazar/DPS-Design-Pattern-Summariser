@@ -1,0 +1,1 @@
+RefreshSuperUserGroupsConfigurationResponsePBImpl acts as a product for ResourceManagerAdministrationProtocol, which overrides getStatus method of RefreshSuperUserGroupsConfigurationResponse, setStatus method of RefreshSuperUserGroupsConfigurationResponse.

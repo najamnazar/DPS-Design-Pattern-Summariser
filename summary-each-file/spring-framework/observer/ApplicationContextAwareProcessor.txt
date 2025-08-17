@@ -1,0 +1,1 @@
+ApplicationContextAwareProcessor acts as an observer, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which invokes Object parameter of bean Aware Interfaces.

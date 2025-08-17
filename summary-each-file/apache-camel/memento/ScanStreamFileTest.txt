@@ -1,0 +1,2 @@
+ScanStreamFileTest acts as a caretaker for memento Producer, which sets Up, which tests Scan File, which tests Scan Refreshed File, which tests Scan File Already Written, which refreshes FileOutputStream parameter of fos File, which creates Route Builder.
+ScanStreamFileTest acts as a caretaker for memento Context, which sets Up, which tests Scan File, which tests Scan Refreshed File, which tests Scan File Already Written, which refreshes FileOutputStream parameter of fos File, which creates Route Builder.

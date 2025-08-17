@@ -1,0 +1,1 @@
+AbstractSockJsMessageCodec acts as an observer, which encodes String... parameter of messages, which applies String parameter of content Json Quoting, which escapes char[] parameter of characters Sock Js Special Chars, which is char parameter of ch Sock Js Special Char.

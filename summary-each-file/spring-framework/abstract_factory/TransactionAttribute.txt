@@ -1,0 +1,2 @@
+TransactionAttribute acts as a product for TransactionDefinition, which overrides.
+TransactionAttribute acts as an abstract product for TransactionAttribute, which is inherited by DelegatingTransactionAttribute, DefaultTransactionAttribute.

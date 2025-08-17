@@ -1,0 +1,5 @@
+AbstractHandlerMapping acts as a factory for MessageBrokerRegistry, which overrides.
+AbstractHandlerMapping acts as a product for WebSocketConfigurationSupport, which overrides usesPathPatterns method of HandlerMapping, getHandler method of HandlerMapping.
+AbstractHandlerMapping acts as a factory for MappedInterceptor, which overrides preHandle method of MappedInterceptor.
+AbstractHandlerMapping acts as a factory for AbstractHandlerMapping, which overrides.
+AbstractHandlerMapping acts as a factory method for CorsProcessor, which is inherited by AbstractHandlerMapping, AbstractHandlerMapping, AbstractHandlerMapping.

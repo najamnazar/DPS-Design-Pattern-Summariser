@@ -1,0 +1,1 @@
+ASTNodeFinder acts as a caretaker for memento C, which finds IField parameter of fieldHandle Field, which finds IInitializer parameter of initializerHandle Initializer, which finds IMethod parameter of methodHandle Method, which finds IType parameter of typeHandle Type.

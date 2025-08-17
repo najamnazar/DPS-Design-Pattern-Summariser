@@ -1,0 +1,1 @@
+BackReference acts as an observer for publisher AzureBlobFileSystemStore, which is inherited by, which is Null, which tos String.

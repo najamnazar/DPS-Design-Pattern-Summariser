@@ -1,0 +1,1 @@
+JmsSendDynamicPostProcessor acts as an observer, which processes Exchange parameter of exchange.

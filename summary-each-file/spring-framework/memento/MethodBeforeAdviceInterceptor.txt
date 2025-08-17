@@ -1,0 +1,3 @@
+MethodBeforeAdviceInterceptor acts as a caretaker for memento Advice, which invokes MethodInvocation parameter of mi.
+MethodBeforeAdviceInterceptor acts as a caretaker for memento B, which invokes MethodInvocation parameter of mi.
+MethodBeforeAdviceInterceptor acts as a caretaker for memento A, which invokes MethodInvocation parameter of mi.

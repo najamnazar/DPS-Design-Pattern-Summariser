@@ -1,0 +1,1 @@
+DelegatingErrorHandlingRunnable acts as a target for adapter ReschedulingRunnable, which adapts to DelegatingErrorHandlingRunnable, which adapts to DelegatingErrorHandlingRunnable.

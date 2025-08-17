@@ -1,0 +1,1 @@
+RawProcessor acts as an adapter, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor.

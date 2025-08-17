@@ -1,0 +1,1 @@
+CodeSnippetToCuMapper acts as an adaptee for adapter CodeSnippetEvaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator, which adapts to Evaluator.

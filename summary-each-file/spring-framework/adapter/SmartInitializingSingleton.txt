@@ -1,0 +1,3 @@
+SmartInitializingSingleton acts as an adaptee for adapter ContextLifecycleScheduledTaskRegistrar, which adapts to ScheduledTaskRegistrar.
+SmartInitializingSingleton acts as an adaptee for adapter MBeanExporter, which adapts to MBeanRegistrationSupport.
+SmartInitializingSingleton acts as an adaptee for adapter ServerEndpointExporter, which adapts to WebApplicationObjectSupport.

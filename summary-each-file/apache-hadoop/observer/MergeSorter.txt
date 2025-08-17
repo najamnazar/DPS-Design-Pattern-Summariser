@@ -1,0 +1,2 @@
+MergeSorter acts as a publisher for observer Progressable, which sorts, which compares IntWritable parameter of i, IntWritable parameter of j, which gets Memory Utilized.
+MergeSorter acts as a publisher for observer OutputBuffer, which sorts, which compares IntWritable parameter of i, IntWritable parameter of j, which gets Memory Utilized.

@@ -1,0 +1,2 @@
+SimpleRequestExpectationManager acts as a publisher for observer RequestExpectation, which afters Expectations Declared, which matches ClientHttpRequest parameter of request Request, which resets.
+SimpleRequestExpectationManager acts as a publisher for observer ClientHttpRequest, which afters Expectations Declared, which matches ClientHttpRequest parameter of request Request, which resets.

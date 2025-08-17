@@ -1,0 +1,1 @@
+GenericFileConfiguration acts as an adaptee for adapter GenericFileEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint.

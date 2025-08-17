@@ -1,0 +1,2 @@
+ContainerLauncher acts as an adaptee for adapter ContainerLauncherImpl.
+ContainerLauncher acts as an adaptee for adapter MRAppMaster.

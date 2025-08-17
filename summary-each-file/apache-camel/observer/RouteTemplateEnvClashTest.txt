@@ -1,0 +1,2 @@
+RouteTemplateEnvClashTest acts as a publisher for observer CamelContext, which tests Env Clash, which creates Route Builder.
+RouteTemplateEnvClashTest acts as a publisher for observer Service, which tests Env Clash, which creates Route Builder.

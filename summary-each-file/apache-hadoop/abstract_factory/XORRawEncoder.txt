@@ -1,0 +1,1 @@
+XORRawEncoder acts as a product for RawErasureCoderFactory, which overrides doEncode method of RawErasureEncoder.

@@ -1,0 +1,1 @@
+UnknownContentTypeException acts as a caretaker for memento Headers, which gets Target Type, which gets Content Type, which gets Raw Status Code, which gets Status Text, which gets Response Headers, which gets Response Body, which gets Response Body As String.

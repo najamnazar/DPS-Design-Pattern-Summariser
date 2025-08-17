@@ -1,0 +1,1 @@
+OrderedMessageChannelDecorator acts as a decorator for component MessageChannel, which is inherited by.

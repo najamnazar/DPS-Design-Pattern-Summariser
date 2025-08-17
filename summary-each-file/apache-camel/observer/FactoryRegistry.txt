@@ -1,0 +1,1 @@
+FactoryRegistry acts as an observer for publisher FormatFactory, which is inherited by DefaultFactoryRegistry, which registers FormatFactoryInterface... parameter of formatFactory, which unregisters Class<? parameter of extends, which finds FormattingOptions parameter of formattingOptions For Formatting Options.

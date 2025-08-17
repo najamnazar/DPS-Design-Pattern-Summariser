@@ -1,0 +1,2 @@
+Policy acts as an abstract product for Policy, which is inherited by TransactedPolicy, TransactedPolicy, AuthorizationPolicy, AuthorizationPolicy, JCachePolicy, JCachePolicy.
+Policy acts as an abstract factory for Processor, which is inherited by JCachePolicy.

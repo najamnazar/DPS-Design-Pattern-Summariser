@@ -1,0 +1,1 @@
+IdempotentOnCompletion acts as an observer, which ons Exchange parameter of exchange Complete, which ons Exchange parameter of exchange Failure, which ons Exchange parameter of exchange, String parameter of messageId Completed Message, which ons Exchange parameter of exchange, String parameter of messageId Failed Message, which tos String.

@@ -1,0 +1,1 @@
+HandlerInterceptor acts as an abstract product for MappedInterceptor, which is inherited by LocaleChangeInterceptor, ResourceUrlProviderExposingInterceptor, MappedInterceptor, WebContentInterceptor, UserRoleAuthorizationInterceptor, ThemeChangeInterceptor, ConversionServiceExposingInterceptor.

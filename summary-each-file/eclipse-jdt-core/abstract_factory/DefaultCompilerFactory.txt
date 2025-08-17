@@ -1,0 +1,1 @@
+DefaultCompilerFactory acts as a factory for ICompilerFactory, which overrides newCompiler method of ICompilerFactory.

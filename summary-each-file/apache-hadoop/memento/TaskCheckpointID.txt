@@ -1,0 +1,2 @@
+TaskCheckpointID acts as a memento, which gets Counters, which gets Counters, which gets Counters, which gets Counters, which gets Counters, which gets Counters, which gets Counters, which gets Counters, which gets Counters.
+TaskCheckpointID acts as a caretaker for memento CheckpointID, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which equals Object parameter of other, which hashes Code, which gets Checkpoint Bytes, which gets Checkpoint Time, which tos String, which gets Partial Committed Output, which gets Counters.

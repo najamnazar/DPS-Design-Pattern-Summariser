@@ -1,0 +1,1 @@
+UpdateTableCommand acts as a caretaker for memento Configuration, which executes, which determines Read Capacity, which determines Write Capacity.

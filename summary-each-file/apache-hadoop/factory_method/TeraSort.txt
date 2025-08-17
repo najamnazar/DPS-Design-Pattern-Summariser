@@ -1,0 +1,1 @@
+TeraSort acts as a product for TestGetGroupsWithHA, which overrides.

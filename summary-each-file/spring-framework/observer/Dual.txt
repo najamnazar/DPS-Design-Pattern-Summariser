@@ -1,0 +1,1 @@
+Dual acts as a publisher for observer Name, which is inherited by, which gets Record Type, which ases Name parameter of alias, which ases Name parameter of alias, Name... parameter of fieldAliases, which declares Tables, which accepts Context<?> parameter of ctx, which fields0s.

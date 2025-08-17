@@ -1,0 +1,1 @@
+CsiAdaptorProtocolPBClientImpl acts as a product for VolumeManager, which overrides getPluginInfo method of CsiAdaptorProtocol, validateVolumeCapacity method of CsiAdaptorProtocol, nodePublishVolume method of CsiAdaptorProtocol, nodeUnpublishVolume method of CsiAdaptorProtocol.

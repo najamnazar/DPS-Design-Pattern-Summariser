@@ -1,0 +1,1 @@
+OneOfForm acts as an observer for publisher OneOfFormWrapper, which is inherited by XOfFormA, XOfFormB.

@@ -1,0 +1,1 @@
+Rendering acts as an originator for memento B, which is inherited by, which models a B Attribute to, which models a B Attribute to, which models a B Attributes to, which models B, which statuses B, which headers B, which headerses B.

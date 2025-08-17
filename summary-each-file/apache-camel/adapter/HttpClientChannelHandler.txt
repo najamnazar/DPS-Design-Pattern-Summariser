@@ -1,0 +1,1 @@
+HttpClientChannelHandler acts as an adapter, which adapts to ClientChannelHandler.

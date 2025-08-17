@@ -1,0 +1,5 @@
+VelocityOverridesPropertiesTest acts as a publisher for observer ProducerTemplate, which tests Overriding Properties, which creates Route Builder.
+VelocityOverridesPropertiesTest acts as a publisher for observer ConsumerTemplate, which tests Overriding Properties, which creates Route Builder.
+VelocityOverridesPropertiesTest acts as a publisher for observer CamelContext, which tests Overriding Properties, which creates Route Builder.
+VelocityOverridesPropertiesTest acts as a publisher for observer FluentProducerTemplate, which tests Overriding Properties, which creates Route Builder.
+VelocityOverridesPropertiesTest acts as a publisher for observer Service, which tests Overriding Properties, which creates Route Builder.

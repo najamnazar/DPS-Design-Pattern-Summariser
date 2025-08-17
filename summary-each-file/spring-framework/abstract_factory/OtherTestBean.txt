@@ -1,0 +1,3 @@
+OtherTestBean acts as a product for ITestBean, which overrides getOtherBean method of ITestBean, isInitialized method of ITestBean, isDestroyed method of ITestBean.
+OtherTestBean acts as a factory for ITestBean, which overrides getOtherBean method of ITestBean, isInitialized method of ITestBean, isDestroyed method of ITestBean.
+OtherTestBean acts as a product for XmlBeanFactoryTestTypes, which overrides getOtherBean method of ITestBean, isInitialized method of ITestBean, isDestroyed method of ITestBean.

@@ -1,0 +1,2 @@
+FileConsumeRunLoggingLevelTest acts as a publisher for observer Service, which tests Run Logging Level, which creates Route Builder.
+FileConsumeRunLoggingLevelTest acts as a publisher for observer CamelContext, which tests Run Logging Level, which creates Route Builder.

@@ -1,0 +1,1 @@
+PassThroughFilterChain acts as a caretaker for memento C, which does ServletRequest parameter of request, ServletResponse parameter of response Filter.

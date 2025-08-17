@@ -1,0 +1,1 @@
+RecordWriter acts as an adaptee for adapter AbstractCommitITest, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase.

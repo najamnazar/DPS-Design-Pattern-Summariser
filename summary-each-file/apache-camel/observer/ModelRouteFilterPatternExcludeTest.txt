@@ -1,0 +1,2 @@
+ModelRouteFilterPatternExcludeTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Route Filter, which creates Route Builder.
+ModelRouteFilterPatternExcludeTest acts as a publisher for observer Service, which creates Camel Context, which tests Route Filter, which creates Route Builder.

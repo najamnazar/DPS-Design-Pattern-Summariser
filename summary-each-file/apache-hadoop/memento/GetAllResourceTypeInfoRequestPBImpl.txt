@@ -1,0 +1,3 @@
+GetAllResourceTypeInfoRequestPBImpl acts as a memento, which equals Object parameter of other Code, which equals Object parameter of other Code, which equals Object parameter of other Code.
+GetAllResourceTypeInfoRequestPBImpl acts as a caretaker for memento GetAllResourceTypeInfoRequest, which gets Proto, which hashes Code, which equals Object parameter of other.
+GetAllResourceTypeInfoRequestPBImpl acts as an originator for memento GetAllResourceTypeInfoRequest.

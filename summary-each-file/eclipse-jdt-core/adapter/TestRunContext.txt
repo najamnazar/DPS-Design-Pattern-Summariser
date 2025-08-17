@@ -1,0 +1,4 @@
+TestRunContext acts as an adaptee for adapter FailureRunView, which adapts handleTestSelected method of TestRunContext to TestRunView, which adapts to TestRunView.
+TestRunContext acts as an adaptee for adapter TestHierarchyRunView, which adapts handleTestSelected method of TestRunContext to TestRunView, which adapts to TestRunView.
+TestRunContext acts as an adaptee for adapter TestRunner, which adapts to TestRunContext, BaseTestRunner, which adapts to TestRunContext, BaseTestRunner.
+TestRunContext acts as a target for adapter TestRunner, which adapts to TestRunContext, which adapts to TestRunContext.

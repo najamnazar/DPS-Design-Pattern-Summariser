@@ -1,0 +1,2 @@
+RoutePerformanceCountTest acts as a publisher for observer Service, which tests Send Messages, which cans Run On This Platform, which creates Route Builder, which processes Exchange parameter of exchange, which gets Counter.
+RoutePerformanceCountTest acts as a publisher for observer CamelContext, which tests Send Messages, which cans Run On This Platform, which creates Route Builder, which processes Exchange parameter of exchange, which gets Counter.

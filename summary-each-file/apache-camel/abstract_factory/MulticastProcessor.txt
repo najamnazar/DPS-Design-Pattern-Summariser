@@ -1,0 +1,1 @@
+MulticastProcessor acts as a factory for ErrorHandlerAware, which overrides setErrorHandler method of ErrorHandlerAware, getErrorHandler method of ErrorHandlerAware.

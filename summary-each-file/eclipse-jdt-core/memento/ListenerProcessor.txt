@@ -1,0 +1,1 @@
+ListenerProcessor acts as a caretaker for memento E, which rounds RoundCompleteEvent parameter of event Complete, which processes.

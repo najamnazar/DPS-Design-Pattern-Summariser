@@ -1,0 +1,2 @@
+CancelDelegationTokenResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides.
+CancelDelegationTokenResponsePBImpl acts as a product for MRClientProtocol, which overrides.

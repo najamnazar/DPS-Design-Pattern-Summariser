@@ -1,0 +1,2 @@
+FilterBeanNonRegistryTest acts as a caretaker for memento Context, which tests Bean Language Exp, which tests Method Call Exp, which is Use Route Builder, which is String parameter of name Gold Customer.
+FilterBeanNonRegistryTest acts as a caretaker for memento Producer, which tests Bean Language Exp, which tests Method Call Exp, which is Use Route Builder, which is String parameter of name Gold Customer.

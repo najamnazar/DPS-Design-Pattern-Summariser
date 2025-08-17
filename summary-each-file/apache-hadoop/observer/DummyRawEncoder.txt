@@ -1,0 +1,1 @@
+DummyRawEncoder acts as an observer, which does ByteArrayEncodingState parameter of encodingState Encode, which does ByteBufferEncodingState parameter of encodingState Encode.

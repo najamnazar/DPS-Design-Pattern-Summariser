@@ -1,0 +1,11 @@
+AsyncProducer acts as a product for KnativeProducerFactory, which overrides.
+AsyncProducer acts as a product for RestProducerFactory, which overrides.
+AsyncProducer acts as an abstract product for AsyncProducer, which is inherited by DefaultAsyncProducer, DefaultAsyncProducer, ThriftProducer, ThriftProducer, RestOpenApiProducer, RestOpenApiProducer, RestSwaggerProducer, RestSwaggerProducer.
+AsyncProducer acts as a product for ConsulFactories, which overrides.
+AsyncProducer acts as a product for Endpoint, which overrides.
+AsyncProducer acts as a product for ProcessorExchangePair, which overrides.
+AsyncProducer acts as a product for InternalProcessorFactory, which overrides.
+AsyncProducer acts as an abstract product for AsyncProducer, which is inherited by DefaultAsyncProducer, ThriftProducer, RestOpenApiProducer, RestSwaggerProducer.
+AsyncProducer acts as a product for AnnotationBasedProcessorFactory, which overrides.
+AsyncProducer acts as a product for KafkaClientFactory, which overrides.
+AsyncProducer acts as a product for DeferServiceFactory, which overrides.

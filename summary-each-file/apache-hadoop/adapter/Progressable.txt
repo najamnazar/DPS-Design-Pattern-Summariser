@@ -1,0 +1,4 @@
+Progressable acts as an adaptee for adapter JobContextImpl, which adapts to JobContext.
+Progressable acts as a target for adapter Reporter, which adapts to Progressable.
+Progressable acts as a target for adapter CountingProgressListener, which adapts to Progressable.
+Progressable acts as an adaptee for adapter BasicTypeSorterBase, which adapts to BufferSorter.

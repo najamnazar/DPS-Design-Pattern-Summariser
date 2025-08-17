@@ -1,0 +1,1 @@
+ReorderingImportAdder acts as a caretaker for memento C, which adds Collection<ImportName> parameter of existingImports, Collection<ImportName> parameter of importsToAdd Imports.

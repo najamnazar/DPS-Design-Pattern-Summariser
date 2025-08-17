@@ -1,0 +1,1 @@
+StandardTypeComparator acts as an observer, which cans @Nullable parameter of Object, @Nullable parameter of Object Compare, which compares @Nullable parameter of Object, @Nullable parameter of Object.

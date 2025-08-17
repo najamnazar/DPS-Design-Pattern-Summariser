@@ -1,0 +1,2 @@
+ExceptionReporter acts as an adaptee for adapter NodeHealthCheckerService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+ExceptionReporter acts as a target for adapter Shuffle, which adapts to ExceptionReporter, which adapts to ExceptionReporter, which adapts to ExceptionReporter, which adapts to ExceptionReporter.

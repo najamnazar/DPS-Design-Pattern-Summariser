@@ -1,0 +1,1 @@
+DomResultHandlerFactory acts as a factory for ResultHandlerFactory, which overrides createResult method of ResultHandlerFactory.

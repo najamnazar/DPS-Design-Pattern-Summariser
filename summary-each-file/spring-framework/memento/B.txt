@@ -1,0 +1,1 @@
+B acts as a memento.

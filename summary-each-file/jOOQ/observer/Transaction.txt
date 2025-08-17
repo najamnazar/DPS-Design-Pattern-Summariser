@@ -1,0 +1,1 @@
+Transaction acts as an observer for publisher DefaultTransactionContext, which is inherited by SpringTransaction.

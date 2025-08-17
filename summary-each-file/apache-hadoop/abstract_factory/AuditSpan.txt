@@ -1,0 +1,2 @@
+AuditSpan acts as an abstract factory for AuditSpan, which is inherited by.
+AuditSpan acts as an abstract product for AuditSpan, which is inherited by AuditSpanS3A.

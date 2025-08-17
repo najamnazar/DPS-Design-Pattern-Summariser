@@ -1,0 +1,1 @@
+SchedulerRequestKey acts as an abstract product for SchedulerRequestKey, which is inherited by ResourceRequestSetKey, ResourceRequestSetKey.

@@ -1,0 +1,2 @@
+TypeConverterRegistry acts as an abstract factory for TypeConverter, Injector, which is inherited by CoreTypeConverterRegistry.
+TypeConverterRegistry acts as an abstract product for TypeConverterRegistry, which is inherited by CoreTypeConverterRegistry.

@@ -1,0 +1,3 @@
+PartitionQueueMetrics acts as a product for YarnScheduler, which overrides getUserMetrics method of QueueMetrics.
+PartitionQueueMetrics acts as a product for PlanContext, which overrides getUserMetrics method of QueueMetrics.
+PartitionQueueMetrics acts as a product for Queue, which overrides getUserMetrics method of QueueMetrics.

@@ -1,0 +1,1 @@
+LocalDateTimeRangeConverter acts as a caretaker for memento C, which constructs String parameter of lower, boolean parameter of lowerIncluding, String parameter of upper, boolean parameter of upperIncluding, which empties.

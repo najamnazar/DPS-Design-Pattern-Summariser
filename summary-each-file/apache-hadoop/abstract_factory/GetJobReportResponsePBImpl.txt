@@ -1,0 +1,2 @@
+GetJobReportResponsePBImpl acts as a factory for GetJobReportResponse, which overrides getJobReport method of GetJobReportResponse, setJobReport method of GetJobReportResponse.
+GetJobReportResponsePBImpl acts as a product for MRClientProtocol, which overrides getJobReport method of GetJobReportResponse, setJobReport method of GetJobReportResponse.

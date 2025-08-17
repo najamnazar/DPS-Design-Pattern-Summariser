@@ -1,0 +1,2 @@
+KeyProviderTokenIssuer acts as an adaptee for adapter DistributedFileSystem, which adapts to SafeMode, FileSystem, which adapts to SafeMode, FileSystem.
+KeyProviderTokenIssuer acts as an adaptee for adapter WebHdfsFileSystem, which adapts to FileSystem, which adapts to FileSystem.

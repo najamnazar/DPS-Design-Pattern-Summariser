@@ -1,0 +1,1 @@
+BeanSource acts as an observer for publisher TestBean, CountingTestBean, ExposedInvocationTestBean, Employee, AspectJAutoProxyCreatorTests, TestBeanWithRealCountry, AspectJAutoProxyCreatorAndLazyInitTargetSourceTests, MultiplePrototypesInSpringContextTestBean, NoDefinitionInSpringContextTestBean, SinglePrototypeInSpringContextTestBean, DerivedTestBean, which is inherited by.

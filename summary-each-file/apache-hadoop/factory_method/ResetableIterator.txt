@@ -1,0 +1,1 @@
+ResetableIterator acts as an abstract product for DataJoinReducerBase, which is inherited by ArrayListBackedIterator.

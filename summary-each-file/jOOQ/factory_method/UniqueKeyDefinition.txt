@@ -1,0 +1,2 @@
+UniqueKeyDefinition acts as a factory for DefaultColumnDefinition, which overrides.
+UniqueKeyDefinition acts as an abstract product for DefaultColumnDefinition, which is inherited by DefaultUniqueKeyDefinition.

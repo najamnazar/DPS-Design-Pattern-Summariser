@@ -1,0 +1,1 @@
+ManagedRemovePropertyMBean acts as a memento, which gets Property Name.

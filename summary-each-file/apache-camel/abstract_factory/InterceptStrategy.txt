@@ -1,0 +1,1 @@
+InterceptStrategy acts as an abstract factory for Processor, which is inherited by TraceAnnotatedTracingStrategy, EIPTracingStrategy, NoopTracingStrategy, DummyInterceptor, ContainerWideInterceptor, OpenTracingTracingStrategy.

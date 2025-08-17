@@ -1,0 +1,1 @@
+MyDummyBean acts as an adaptee for adapter PropertiesComponentRegistryTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

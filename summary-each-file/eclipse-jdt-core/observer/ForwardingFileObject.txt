@@ -1,0 +1,1 @@
+ForwardingFileObject acts as an observer, which tos Uri, which gets Name, which opens Input Stream, which opens Output Stream, which opens boolean parameter of ignoreEncodingErrors Reader, which gets boolean parameter of ignoreEncodingErrors Char Content, which opens Writer, which gets Last Modified, which deletes.

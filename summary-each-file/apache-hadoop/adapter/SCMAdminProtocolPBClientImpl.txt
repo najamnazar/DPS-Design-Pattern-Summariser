@@ -1,0 +1,1 @@
+SCMAdminProtocolPBClientImpl acts as an adapter, which adapts to SCMAdminProtocol, which adapts to SCMAdminProtocol.

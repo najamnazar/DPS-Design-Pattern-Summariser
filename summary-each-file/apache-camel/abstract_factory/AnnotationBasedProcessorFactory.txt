@@ -1,0 +1,2 @@
+AnnotationBasedProcessorFactory acts as an abstract factory for AsyncProcessor, which is inherited by DefaultAnnotationBasedProcessorFactory.
+AnnotationBasedProcessorFactory acts as an abstract product for AnnotationBasedProcessorFactory, which is inherited by DefaultAnnotationBasedProcessorFactory.

@@ -1,0 +1,2 @@
+SourceField acts as a factory for IField, which overrides getConstant method of IField, getKey method of IField, getTypeSignature method of IField, isEnumConstant method of IField, isResolved method of IField, isRecordComponent method of IField.
+SourceField acts as a product for IType, which overrides getConstant method of IField, getKey method of IField, getTypeSignature method of IField, isEnumConstant method of IField, isResolved method of IField, isRecordComponent method of IField.

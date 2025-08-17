@@ -1,0 +1,1 @@
+BlockResolver acts as a target for adapter FixedBlockResolver, which adapts to BlockResolver, which adapts to BlockResolver, which adapts to BlockResolver, which adapts to BlockResolver, which adapts to BlockResolver, which adapts to BlockResolver, which adapts to BlockResolver, which adapts to BlockResolver.

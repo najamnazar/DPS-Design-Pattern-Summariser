@@ -1,0 +1,2 @@
+LocalizerHeartbeatResponse acts as an abstract product for LocalizerHeartbeatResponse, which is inherited by MockLocalizerHeartbeatResponse, LocalizerHeartbeatResponsePBImpl.
+LocalizerHeartbeatResponse acts as an abstract factory for, which is inherited by MockLocalizerHeartbeatResponse, LocalizerHeartbeatResponsePBImpl.

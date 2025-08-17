@@ -1,0 +1,1 @@
+OneTest acts as a publisher for observer String, which suites, which test1s.

@@ -1,0 +1,1 @@
+CamelVMTransportRoutingTest acts as a caretaker for memento Context, which tests Send Receive With Camel Route Intercepting, which sets Up, which tears Down, which creates Camel Context.

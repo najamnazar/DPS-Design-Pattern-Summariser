@@ -1,0 +1,1 @@
+JmsInOnlyIssueTest acts as a publisher for observer ArtemisService, which tests In Only With Send Body, which tests In Only With Async Send Body, which tests In Only With Send Exchange, which tests In Only With Async Send Exchange, which gets Component Name, which creates Route Builder.

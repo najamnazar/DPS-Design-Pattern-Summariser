@@ -1,0 +1,1 @@
+FsShellPermissions acts as an adapter, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.

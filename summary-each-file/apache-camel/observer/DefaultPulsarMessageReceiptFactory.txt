@@ -1,0 +1,1 @@
+DefaultPulsarMessageReceiptFactory acts as an observer, which news Exchange parameter of exchange, Message parameter of message, Consumer parameter of consumer Instance.

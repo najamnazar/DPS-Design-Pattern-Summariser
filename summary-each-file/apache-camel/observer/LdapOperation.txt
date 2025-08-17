@@ -1,0 +1,1 @@
+LdapOperation acts as an observer for publisher SpringLdapEndpoint, which is inherited by.

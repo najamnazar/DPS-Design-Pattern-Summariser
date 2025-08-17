@@ -1,0 +1,11 @@
+BatchConsumer acts as a product for PlatformHttpEngine, which overrides.
+BatchConsumer acts as a product for RestApiConsumerFactory, which overrides.
+BatchConsumer acts as a product for RouteStartupOrder, which overrides.
+BatchConsumer acts as a product for Endpoint, which overrides.
+BatchConsumer acts as a product for KafkaClientFactory, which overrides.
+BatchConsumer acts as a product for ExchangeFactory, which overrides.
+BatchConsumer acts as a product for KnativeConsumerFactory, which overrides.
+BatchConsumer acts as a product for RestConsumerFactory, which overrides.
+BatchConsumer acts as a product for Route, which overrides.
+BatchConsumer acts as a product for RestRegistry, which overrides.
+BatchConsumer acts as a product for ConsulFactories, which overrides.

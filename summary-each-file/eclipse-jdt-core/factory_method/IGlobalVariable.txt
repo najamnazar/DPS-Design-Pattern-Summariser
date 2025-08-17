@@ -1,0 +1,1 @@
+IGlobalVariable acts as an abstract product for EvaluationContextWrapper, which is inherited by GlobalVariableWrapper.

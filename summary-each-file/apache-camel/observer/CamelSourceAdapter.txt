@@ -1,0 +1,1 @@
+CamelSourceAdapter acts as a publisher for observer CamelContext, which sets MessageChannel parameter of channel Request Channel, which gets Channel, which sets DirectChannel parameter of channel Reply Channel, which processes final parameter of Exchange, which afters Properties Set, which destroys, which initializes.

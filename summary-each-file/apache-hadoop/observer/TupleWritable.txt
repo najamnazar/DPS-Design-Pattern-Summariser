@@ -1,0 +1,1 @@
+TupleWritable acts as an observer for publisher MultiFilterRecordReader, which is inherited by, which sets int parameter of i Written, which clears int parameter of i Written, which clears Written.

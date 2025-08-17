@@ -1,0 +1,2 @@
+RecipientListLeakTest acts as a publisher for observer CamelContext, which tests Recipient List Leak, which sends String parameter of body Body, which creates Route Builder.
+RecipientListLeakTest acts as a publisher for observer Service, which tests Recipient List Leak, which sends String parameter of body Body, which creates Route Builder.

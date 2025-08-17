@@ -1,0 +1,2 @@
+FailureDetailView acts as a target for adapter DefaultFailureDetailView, which adapts to FailureDetailView, which adapts to FailureDetailView, which adapts to FailureDetailView.
+FailureDetailView acts as an adaptee for adapter TestRunner, which adapts getComponent method of FailureDetailView to TestRunContext, BaseTestRunner, which adapts showFailure method of FailureDetailView to TestRunContext, BaseTestRunner, which adapts clear method of FailureDetailView, clear method of FailureDetailView to TestRunContext, BaseTestRunner.

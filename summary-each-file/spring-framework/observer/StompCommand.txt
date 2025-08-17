@@ -1,0 +1,1 @@
+StompCommand acts as an observer for publisher StompTextMessageBuilder, which is inherited by, which gets Message Type, which requires Destination, which requires Subscription Id, which requires Content Length, which is Body Allowed.

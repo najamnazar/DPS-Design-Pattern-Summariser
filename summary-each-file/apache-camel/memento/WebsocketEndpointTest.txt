@@ -1,0 +1,1 @@
+WebsocketEndpointTest acts as a caretaker for memento Component, which sets Up, which tests Create Consumer, which tests Create Producer, which tests Is Singleton.

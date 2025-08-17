@@ -1,0 +1,1 @@
+MetricsInfo acts as an observer for publisher Interns, which is inherited by AbstractMetric, MetricsTag, MetricsInfoImpl, which names, which descriptions.

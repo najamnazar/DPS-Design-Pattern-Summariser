@@ -1,0 +1,3 @@
+DeclaredType acts as an adaptee for adapter TypeDeclarationImpl, which adapts to EclipseMirrorType, MemberDeclarationImpl, which adapts to EclipseMirrorType, MemberDeclarationImpl, which adapts to EclipseMirrorType, MemberDeclarationImpl, which adapts to EclipseMirrorType, MemberDeclarationImpl.
+DeclaredType acts as an adaptee for adapter ErrorType, which adapts to EclipseMirrorType, which adapts to EclipseMirrorType, which adapts to EclipseMirrorType, which adapts to EclipseMirrorType.
+DeclaredType acts as an adaptee for adapter DeclaredTypeImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl.

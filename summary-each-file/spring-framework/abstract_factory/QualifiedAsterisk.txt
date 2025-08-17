@@ -1,0 +1,2 @@
+QualifiedAsterisk acts as an abstract product for QualifiedAsterisk, which is inherited by QualifiedAsteriskImpl, QualifiedAsteriskImpl, QualifiedAsteriskImpl.
+QualifiedAsterisk acts as an abstract factory for QualifiedAsterisk, which is inherited by QualifiedAsteriskImpl.

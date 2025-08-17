@@ -1,0 +1,4 @@
+SyncReportResults acts as a publisher for observer ReportExtendedMetadata, which gets Attributes, which sets SyncAttributes parameter of attributes Attributes.
+SyncReportResults acts as a publisher for observer SyncAttributes, which is inherited by, which gets Attributes, which sets SyncAttributes parameter of attributes Attributes.
+SyncReportResults acts as a publisher for observer Groupings, which gets Attributes, which sets SyncAttributes parameter of attributes Attributes.
+SyncReportResults acts as a publisher for observer ReportMetadata, which gets Attributes, which sets SyncAttributes parameter of attributes Attributes.

@@ -1,0 +1,1 @@
+BrokerAvailabilityEvent acts as an observer, which is Broker Available, which tos String.

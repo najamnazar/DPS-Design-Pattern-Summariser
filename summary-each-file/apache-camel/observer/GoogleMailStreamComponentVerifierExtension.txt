@@ -1,0 +1,2 @@
+GoogleMailStreamComponentVerifierExtension acts as a publisher for observer Component, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.
+GoogleMailStreamComponentVerifierExtension acts as a publisher for observer CamelContext, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.

@@ -1,0 +1,2 @@
+ExternalJavadocSupport acts as a caretaker for memento String, which fors BinaryType parameter of type, String parameter of javadoc Html, which guesses String parameter of javadocHtml Version.
+ExternalJavadocSupport acts as a caretaker for memento S, which fors BinaryType parameter of type, String parameter of javadoc Html, which guesses String parameter of javadocHtml Version.

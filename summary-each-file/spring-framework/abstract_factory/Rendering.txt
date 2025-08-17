@@ -1,0 +1,2 @@
+Rendering acts as an abstract product for Rendering, which is inherited by DefaultRendering.
+Rendering acts as an abstract factory for HttpHeaders, Rendering, which is inherited by DefaultRendering.

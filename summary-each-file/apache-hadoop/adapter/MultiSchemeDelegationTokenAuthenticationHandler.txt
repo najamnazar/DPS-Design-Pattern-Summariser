@@ -1,0 +1,1 @@
+MultiSchemeDelegationTokenAuthenticationHandler acts as an adapter, which adapts to DelegationTokenAuthenticationHandler, which adapts to DelegationTokenAuthenticationHandler, which adapts to DelegationTokenAuthenticationHandler.

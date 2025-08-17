@@ -1,0 +1,1 @@
+TypeFilter acts as an observer for publisher ClassPathScanningCandidateComponentProvider, ClassPathBeanDefinitionScanner, which is inherited by AspectJTypeFilter, AbstractTypeHierarchyTraversingFilter, AbstractClassTestingTypeFilter, which matches MetadataReader parameter of metadataReader, MetadataReaderFactory parameter of metadataReaderFactory.

@@ -1,0 +1,1 @@
+ProxyBuilder acts as a publisher for observer Endpoint, which is inherited by, which endpoints String parameter of url, which endpoints Endpoint parameter of endpoint, which builds Class<T> parameter of interfaceClass, which builds Class<T>... parameter of interfaceClasses.

@@ -1,0 +1,2 @@
+StartupStepRecorder acts as an abstract product for StartupStepRecorder, which is inherited by DefaultStartupStepRecorder.
+StartupStepRecorder acts as an abstract factory for StartupStep, which is inherited by DefaultStartupStepRecorder.

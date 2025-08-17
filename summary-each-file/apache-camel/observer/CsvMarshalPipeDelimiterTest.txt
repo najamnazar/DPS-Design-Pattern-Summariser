@@ -1,0 +1,5 @@
+CsvMarshalPipeDelimiterTest acts as a publisher for observer Service, which tests Csv Marshal, which creates Body, which creates Route Builder.
+CsvMarshalPipeDelimiterTest acts as a publisher for observer ConsumerTemplate, which tests Csv Marshal, which creates Body, which creates Route Builder.
+CsvMarshalPipeDelimiterTest acts as a publisher for observer FluentProducerTemplate, which tests Csv Marshal, which creates Body, which creates Route Builder.
+CsvMarshalPipeDelimiterTest acts as a publisher for observer CamelContext, which tests Csv Marshal, which creates Body, which creates Route Builder.
+CsvMarshalPipeDelimiterTest acts as a publisher for observer ProducerTemplate, which tests Csv Marshal, which creates Body, which creates Route Builder.

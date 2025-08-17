@@ -1,0 +1,1 @@
+ExpressionFactoryAware acts as an abstract factory for ExpressionFactory, which is inherited by ExpressionDefinition, ExpressionClauseSupport.

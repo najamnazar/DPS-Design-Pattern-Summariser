@@ -1,0 +1,1 @@
+RMAppRunningOnNodeEvent acts as an observer, which gets Node Id, which is Created From Acquired State.

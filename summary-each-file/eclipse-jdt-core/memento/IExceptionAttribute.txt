@@ -1,0 +1,1 @@
+IExceptionAttribute acts as a memento, which is inherited by ExceptionAttribute, which gets Exception Indexes, which gets Exception Indexes, which gets Exception Indexes.

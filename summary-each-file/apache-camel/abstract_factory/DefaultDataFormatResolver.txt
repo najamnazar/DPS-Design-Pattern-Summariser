@@ -1,0 +1,2 @@
+DefaultDataFormatResolver acts as a factory for DataFormatResolver, which overrides createDataFormat method of DataFormatResolver.
+DefaultDataFormatResolver acts as a product for ExtendedCamelContext, which overrides createDataFormat method of DataFormatResolver.

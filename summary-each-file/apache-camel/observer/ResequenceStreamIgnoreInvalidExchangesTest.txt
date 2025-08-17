@@ -1,0 +1,2 @@
+ResequenceStreamIgnoreInvalidExchangesTest acts as a publisher for observer CamelContext, which tests Bad First Message, which tests Bad Second Message, which tests Bad Third Message, which tests Bad Forth Message, which creates Route Builder.
+ResequenceStreamIgnoreInvalidExchangesTest acts as a publisher for observer Service, which tests Bad First Message, which tests Bad Second Message, which tests Bad Third Message, which tests Bad Forth Message, which creates Route Builder.

@@ -1,0 +1,2 @@
+Span acts as an observer for publisher DFSPacket, which is inherited by, which adds String parameter of key, String parameter of value KVAnnotation, which adds String parameter of msg Timeline Annotation, which gets Context, which finishes, which closes.
+Span acts as an observer, which adds String parameter of key, String parameter of value KVAnnotation, which adds String parameter of msg Timeline Annotation, which gets Context, which finishes, which closes.

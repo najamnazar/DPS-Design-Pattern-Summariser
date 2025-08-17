@@ -1,0 +1,1 @@
+YarnApplicationAttemptState acts as an observer for publisher ApplicationAttemptHistoryData, which is inherited by.

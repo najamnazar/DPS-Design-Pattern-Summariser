@@ -1,0 +1,2 @@
+SplitterUsingBeanReturningMessageTest acts as a publisher for observer Service, which creates Registry, which splits Exchange parameter of exchange, which tests Split With Message, which creates Route Builder.
+SplitterUsingBeanReturningMessageTest acts as a publisher for observer CamelContext, which creates Registry, which splits Exchange parameter of exchange, which tests Split With Message, which creates Route Builder.

@@ -1,0 +1,2 @@
+MockitoMockForInterfaceTest acts as a publisher for observer CamelContext, which tests Calling Mock, which creates Registry, which creates Route Builder, which does String parameter of body Something.
+MockitoMockForInterfaceTest acts as a publisher for observer Service, which tests Calling Mock, which creates Registry, which creates Route Builder, which does String parameter of body Something.

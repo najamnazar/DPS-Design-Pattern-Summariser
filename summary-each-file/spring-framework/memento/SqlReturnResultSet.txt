@@ -1,0 +1,2 @@
+SqlReturnResultSet acts as a caretaker for memento C, which is Results Parameter.
+SqlReturnResultSet acts as a caretaker for memento Row, which is Results Parameter.

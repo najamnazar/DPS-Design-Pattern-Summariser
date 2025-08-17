@@ -1,0 +1,6 @@
+Producer acts as an adaptee for adapter CamelPostProcessorHelperTest.
+Producer acts as an adaptee for adapter PublishEventNotifier.
+Producer acts as an adaptee for adapter KafkaProducer.
+Producer acts as an adaptee for adapter NetWeaverProducer.
+Producer acts as an adaptee for adapter RestOpenApiProducer.
+Producer acts as an adaptee for adapter RestSwaggerProducer.

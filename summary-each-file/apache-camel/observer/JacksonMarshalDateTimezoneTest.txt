@@ -1,0 +1,5 @@
+JacksonMarshalDateTimezoneTest acts as a publisher for observer ConsumerTemplate, which tests Marshal Date, which creates Route Builder.
+JacksonMarshalDateTimezoneTest acts as a publisher for observer Service, which tests Marshal Date, which creates Route Builder.
+JacksonMarshalDateTimezoneTest acts as a publisher for observer CamelContext, which tests Marshal Date, which creates Route Builder.
+JacksonMarshalDateTimezoneTest acts as a publisher for observer FluentProducerTemplate, which tests Marshal Date, which creates Route Builder.
+JacksonMarshalDateTimezoneTest acts as a publisher for observer ProducerTemplate, which tests Marshal Date, which creates Route Builder.

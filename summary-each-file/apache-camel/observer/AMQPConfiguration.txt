@@ -1,0 +1,11 @@
+AMQPConfiguration acts as a publisher for observer MessageCreatedStrategy, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer DefaultTaskExecutorType, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer MessageListenerContainerFactory, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as an observer, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer ErrorHandler, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer ReplyToType, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer Message, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer LoggingLevel, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer ConsumerType, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer JmsKeyFormatStrategy, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.
+AMQPConfiguration acts as a publisher for observer JmsMessageType, which is Include Amqp Annotations, which sets boolean parameter of includeAmqpAnnotations Include Amqp Annotations.

@@ -1,0 +1,1 @@
+BeanExpressionResolver acts as a publisher for observer BeanExpressionContext, which is inherited by StandardBeanExpressionResolver, which evaluates @Nullable parameter of String, BeanExpressionContext parameter of evalContext.

@@ -1,0 +1,1 @@
+CloseStatus acts as a caretaker for memento C, which gets Code, which gets Reason, which withes String parameter of reason Reason, which equals CloseStatus parameter of other Code, which equals @Nullable parameter of Object, which hashes Code, which tos String.

@@ -1,0 +1,1 @@
+AnnotatableInfo acts as an adapter, which adapts to MemberElementInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo.

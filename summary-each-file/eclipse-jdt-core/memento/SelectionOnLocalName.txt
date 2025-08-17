@@ -1,0 +1,1 @@
+SelectionOnLocalName acts as a caretaker for memento Binding, which resolves BlockScope parameter of scope, which prints int parameter of indent, StringBuilder parameter of output As Expression, which prints int parameter of indent, StringBuilder parameter of output Statement.

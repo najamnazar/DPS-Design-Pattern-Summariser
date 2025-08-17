@@ -1,0 +1,2 @@
+IdeOutputNonSourceFileObject acts as a caretaker for memento C, which gets Name, which opens Output Stream, which opens Writer, which tos Uri.
+IdeOutputNonSourceFileObject acts as a caretaker for memento E, which gets Name, which opens Output Stream, which opens Writer, which tos Uri.

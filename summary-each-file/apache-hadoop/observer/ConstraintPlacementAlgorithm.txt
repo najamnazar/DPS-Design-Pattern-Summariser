@@ -1,0 +1,1 @@
+ConstraintPlacementAlgorithm acts as an observer for publisher PlacementDispatcher, which is inherited by DefaultPlacementAlgorithm, which inits RMContext parameter of rmContext, which places ConstraintPlacementAlgorithmInput parameter of algorithmInput, ConstraintPlacementAlgorithmOutputCollector parameter of collector.

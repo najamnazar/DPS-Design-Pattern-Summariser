@@ -1,0 +1,2 @@
+JSONTableColumnForOrdinalityStep acts as an abstract product for JSONTableColumnForOrdinalityStep, which is inherited by JSONTableColumnPathStep, JSONTableColumnPathStep.
+JSONTableColumnForOrdinalityStep acts as an abstract factory for JSONTableColumnsStep, which is inherited by.

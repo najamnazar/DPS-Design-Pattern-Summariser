@@ -1,0 +1,2 @@
+ManifestIndexer acts as a caretaker for memento S, which indexes Document.
+ManifestIndexer acts as a caretaker for memento String, which indexes Document.

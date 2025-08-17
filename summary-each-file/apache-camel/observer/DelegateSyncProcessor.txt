@@ -1,0 +1,1 @@
+DelegateSyncProcessor acts as an observer, which tos String, which gets Processor, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange Async, which processes Exchange parameter of exchange, which has Next, which nexts, which does Build, which does Init, which does Start, which does Stop.

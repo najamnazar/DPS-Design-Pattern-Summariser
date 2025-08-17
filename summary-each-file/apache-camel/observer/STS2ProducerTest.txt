@@ -1,0 +1,5 @@
+STS2ProducerTest acts as a publisher for observer ConsumerTemplate, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.
+STS2ProducerTest acts as a publisher for observer CamelContext, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.
+STS2ProducerTest acts as a publisher for observer ProducerTemplate, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.
+STS2ProducerTest acts as a publisher for observer FluentProducerTemplate, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.
+STS2ProducerTest acts as a publisher for observer Service, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.

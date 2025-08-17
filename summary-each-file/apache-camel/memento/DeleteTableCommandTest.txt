@@ -1,0 +1,1 @@
+DeleteTableCommandTest acts as a caretaker for memento Configuration, which sets Up, which tests Execute.

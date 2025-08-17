@@ -1,0 +1,1 @@
+DefaultTransactionAttribute acts as a component for decorator DelegatingTransactionAttribute, which overrides getQualifierTransactionAttribute, getLabelsTransactionAttribute, rollbackOnTransactionAttribute.

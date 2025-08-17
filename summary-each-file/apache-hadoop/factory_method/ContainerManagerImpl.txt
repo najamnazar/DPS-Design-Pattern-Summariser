@@ -1,0 +1,7 @@
+ContainerManagerImpl acts as a factory for DummyContainerManager, which overrides.
+ContainerManagerImpl acts as a factory for ContainerManagerImpl, which overrides.
+ContainerManagerImpl acts as a factory for TestDockerContainerRuntime, which overrides.
+ContainerManagerImpl acts as a factory method for AbstractContainersLauncher, which is inherited by ContainerManagerImpl.
+ContainerManagerImpl acts as a factory for RMAppAttemptImpl, which overrides.
+ContainerManagerImpl acts as a factory for ContainerManager, which overrides.
+ContainerManagerImpl acts as a product for BaseAMRMProxyTest, which overrides getContainersMonitor method of ContainerManager, getOpportunisticContainersStatus method of ContainerManager, updateQueuingLimit method of ContainerManager, getContainerScheduler method of ContainerManager, handleCredentialUpdate method of ContainerManager.

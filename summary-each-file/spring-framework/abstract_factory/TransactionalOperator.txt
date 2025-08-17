@@ -1,0 +1,2 @@
+TransactionalOperator acts as an abstract factory for TransactionalOperator, which is inherited by TransactionalOperatorImpl.
+TransactionalOperator acts as an abstract product for TransactionalOperator, which is inherited by TransactionalOperatorImpl, TransactionalOperatorImpl.

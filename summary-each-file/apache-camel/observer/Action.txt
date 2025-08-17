@@ -1,0 +1,1 @@
+Action acts as an observer for publisher DeploymentConfigEvent, which is inherited by, which gets Button, which sets String parameter of button Button, which gets Buttons, which sets List<Button> parameter of buttons Buttons, which gets Sections, which sets List<Section> parameter of sections Sections.

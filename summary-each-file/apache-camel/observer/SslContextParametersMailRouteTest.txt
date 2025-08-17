@@ -1,0 +1,5 @@
+SslContextParametersMailRouteTest acts as a publisher for observer CamelContext, which tests Send And Receive Mails, which tests Send And Receive Mails With Custom Trust Store, which is Use Advice With.
+SslContextParametersMailRouteTest acts as a publisher for observer ConsumerTemplate, which tests Send And Receive Mails, which tests Send And Receive Mails With Custom Trust Store, which is Use Advice With.
+SslContextParametersMailRouteTest acts as a publisher for observer Service, which tests Send And Receive Mails, which tests Send And Receive Mails With Custom Trust Store, which is Use Advice With.
+SslContextParametersMailRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Send And Receive Mails, which tests Send And Receive Mails With Custom Trust Store, which is Use Advice With.
+SslContextParametersMailRouteTest acts as a publisher for observer ProducerTemplate, which tests Send And Receive Mails, which tests Send And Receive Mails With Custom Trust Store, which is Use Advice With.

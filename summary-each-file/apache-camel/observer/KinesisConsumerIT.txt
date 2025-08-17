@@ -1,0 +1,5 @@
+KinesisConsumerIT acts as a publisher for observer FluentProducerTemplate, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.
+KinesisConsumerIT acts as a publisher for observer CamelContext, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.
+KinesisConsumerIT acts as a publisher for observer ConsumerTemplate, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.
+KinesisConsumerIT acts as a publisher for observer Service, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.
+KinesisConsumerIT acts as a publisher for observer ProducerTemplate, which tos String, which creates Route Builder, which prepares Environment, which tests Produce Messages.

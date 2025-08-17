@@ -1,0 +1,1 @@
+FederationSchedulerTypeInfo acts as a product for RMWebServiceProtocol, which overrides.

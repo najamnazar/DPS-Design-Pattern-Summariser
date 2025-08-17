@@ -1,0 +1,1 @@
+AbstractCounter acts as an observer, which sets String parameter of name Display Name, which equals Object parameter of genericRight, which hashes Code.

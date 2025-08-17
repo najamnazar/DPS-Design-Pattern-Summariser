@@ -1,0 +1,2 @@
+DefaultComponentValidateURITest acts as a publisher for observer CamelContext, which tests No Parameters, which tests Unknown Parameter, which tests Double Ampersand, which tests Trailing Ampersand, which tests Scheduled Poll Consumer Options.
+DefaultComponentValidateURITest acts as a publisher for observer Service, which tests No Parameters, which tests Unknown Parameter, which tests Double Ampersand, which tests Trailing Ampersand, which tests Scheduled Poll Consumer Options.

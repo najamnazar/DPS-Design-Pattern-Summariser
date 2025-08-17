@@ -1,0 +1,1 @@
+RMNodeEvent acts as an observer for publisher RMNodeImpl, which is inherited by RMNodeSignalContainerEvent, RMNodeReconnectEvent, RMNodeStartedEvent, RMNodeDecommissioningEvent, RMNodeCleanAppEvent, RMNodeStatusEvent, RMNodeFinishedContainersPulledByAMEvent, RMNodeCleanContainerEvent, RMNodeUpdateContainerEvent, RMNodeResourceUpdateEvent, which gets Node Id.

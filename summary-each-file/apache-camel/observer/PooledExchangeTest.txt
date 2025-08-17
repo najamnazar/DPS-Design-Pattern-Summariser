@@ -1,0 +1,2 @@
+PooledExchangeTest acts as a publisher for observer Service, which creates Camel Context, which tests Same Exchange, which creates Route Builder.
+PooledExchangeTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Same Exchange, which creates Route Builder.

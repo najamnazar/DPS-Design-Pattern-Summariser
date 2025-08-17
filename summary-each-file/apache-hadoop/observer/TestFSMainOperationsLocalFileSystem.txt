@@ -1,0 +1,2 @@
+TestFSMainOperationsLocalFileSystem acts as a publisher for observer Path, which creates File System, which gets Default Working Directory.
+TestFSMainOperationsLocalFileSystem acts as a publisher for observer FileSystem, which creates File System, which gets Default Working Directory.

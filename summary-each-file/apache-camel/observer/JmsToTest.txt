@@ -1,0 +1,1 @@
+JmsToTest acts as a publisher for observer ArtemisService, which tests To, which gets Component Name, which creates Route Builder.

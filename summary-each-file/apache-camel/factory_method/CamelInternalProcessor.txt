@@ -1,0 +1,3 @@
+CamelInternalProcessor acts as a product for DefaultInternalProcessorFactory, which overrides addAdvice method of InternalProcessor, getAdvice method of InternalProcessor, addRoutePolicyAdvice method of InternalProcessor, addRouteInflightRepositoryAdvice method of InternalProcessor, addRouteLifecycleAdvice method of InternalProcessor, setRouteOnAdvices method of InternalProcessor.
+CamelInternalProcessor acts as a factory for MetricsMessageHistoryFactory, which overrides.
+CamelInternalProcessor acts as a factory for SourceCache, which overrides reset method of SourceCache.

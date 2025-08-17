@@ -1,0 +1,2 @@
+DomainDefinition acts as an abstract factory for DataTypeDefinition, which is inherited by DefaultDomainDefinition.
+DomainDefinition acts as an abstract product for DomainDefinition, which is inherited by DefaultDomainDefinition.

@@ -1,0 +1,1 @@
+PrivilegedEntity acts as an observer for publisher ConfiguredYarnAuthorizer, which is inherited by, which gets Type, which gets Name, which hashes Code, which equals Object parameter of obj.

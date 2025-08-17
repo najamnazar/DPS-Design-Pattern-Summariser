@@ -1,0 +1,1 @@
+SomeBackingService acts as a caretaker for memento Producer, which performs byte[] parameter of body, String parameter of state, String parameter of traceId Method.

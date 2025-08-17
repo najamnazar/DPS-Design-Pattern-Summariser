@@ -1,0 +1,1 @@
+IConstantPoolEntry3 acts as an adaptee for adapter ConstantPoolEntry2, which adapts to ConstantPoolEntry, which adapts to ConstantPoolEntry, which adapts to ConstantPoolEntry, which adapts to ConstantPoolEntry.

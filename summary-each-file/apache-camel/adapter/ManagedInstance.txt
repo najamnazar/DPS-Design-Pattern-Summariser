@@ -1,0 +1,1 @@
+ManagedInstance acts as an adaptee for adapter ManagedProcessor, which adapts to ManagedPerformanceCounter.

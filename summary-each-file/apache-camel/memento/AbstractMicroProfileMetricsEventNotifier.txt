@@ -1,0 +1,1 @@
+AbstractMicroProfileMetricsEventNotifier acts as a caretaker for memento Context, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context, which gets Metric Registry, which sets MetricRegistry parameter of metricRegistry Metric Registry, which is CamelEvent parameter of eventObject Enabled, which does Start.

@@ -1,0 +1,6 @@
+ResultQueryDatabase acts as an adaptee for adapter HSQLDBDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.
+ResultQueryDatabase acts as an adaptee for adapter DerbyDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.
+ResultQueryDatabase acts as an adaptee for adapter H2Database, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.
+ResultQueryDatabase acts as an adaptee for adapter MySQLDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.
+ResultQueryDatabase acts as an adaptee for adapter FirebirdDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.
+ResultQueryDatabase acts as an adaptee for adapter PostgresDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase, which adapts to AbstractDatabase.

@@ -1,0 +1,2 @@
+PollEnrichFileDefaultAggregationStrategyTest acts as a publisher for observer Service, which tests Poll Enrich Default Aggregation Strategy Body, which creates Route Builder.
+PollEnrichFileDefaultAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Poll Enrich Default Aggregation Strategy Body, which creates Route Builder.

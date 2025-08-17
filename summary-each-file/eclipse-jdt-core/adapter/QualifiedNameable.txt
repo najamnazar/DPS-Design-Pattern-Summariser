@@ -1,0 +1,6 @@
+QualifiedNameable acts as an adaptee for adapter TypeElement, which adapts to Element, Parameterizable, QualifiedNameable.
+QualifiedNameable acts as a target for adapter PackageElement, which adapts to QualifiedNameable.
+QualifiedNameable acts as a target for adapter TypeElement, which adapts to QualifiedNameable.
+QualifiedNameable acts as an adaptee for adapter ModuleElement, which adapts to Element, QualifiedNameable.
+QualifiedNameable acts as a target for adapter ModuleElement, which adapts to QualifiedNameable.
+QualifiedNameable acts as an adaptee for adapter PackageElement, which adapts to Element, QualifiedNameable.

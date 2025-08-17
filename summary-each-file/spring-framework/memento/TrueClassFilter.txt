@@ -1,0 +1,2 @@
+TrueClassFilter acts as a caretaker for memento C, which matches Class<?> parameter of clazz, which reads Resolve, which tos String.
+TrueClassFilter acts as a caretaker for memento True, which matches Class<?> parameter of clazz, which reads Resolve, which tos String.

@@ -1,0 +1,1 @@
+Progressive acts as an adaptee for adapter LoadJob, which adapts to GridmixJob.

@@ -1,0 +1,1 @@
+S3AInMemoryInputStream acts as a publisher for observer S3AInputPolicy, which ensures Current Buffer.

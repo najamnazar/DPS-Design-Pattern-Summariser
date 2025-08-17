@@ -1,0 +1,5 @@
+DefaultExecBindingTest acts as a publisher for observer CamelContext, which tests Read Input, which reads String parameter of execEndpointUri, Object parameter of args Input, which creates String parameter of uri Exec Endpoint.
+DefaultExecBindingTest acts as a publisher for observer ConsumerTemplate, which tests Read Input, which reads String parameter of execEndpointUri, Object parameter of args Input, which creates String parameter of uri Exec Endpoint.
+DefaultExecBindingTest acts as a publisher for observer Service, which tests Read Input, which reads String parameter of execEndpointUri, Object parameter of args Input, which creates String parameter of uri Exec Endpoint.
+DefaultExecBindingTest acts as a publisher for observer FluentProducerTemplate, which tests Read Input, which reads String parameter of execEndpointUri, Object parameter of args Input, which creates String parameter of uri Exec Endpoint.
+DefaultExecBindingTest acts as a publisher for observer ProducerTemplate, which tests Read Input, which reads String parameter of execEndpointUri, Object parameter of args Input, which creates String parameter of uri Exec Endpoint.

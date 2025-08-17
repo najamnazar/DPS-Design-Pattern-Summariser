@@ -1,0 +1,1 @@
+FtpEndpointConfigurer acts as a target for adapter FtpsEndpointConfigurer, which adapts to FtpEndpointConfigurer, which adapts to FtpEndpointConfigurer, which adapts to FtpEndpointConfigurer, which adapts to FtpEndpointConfigurer.

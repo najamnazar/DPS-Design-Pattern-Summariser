@@ -1,0 +1,1 @@
+CommitterTaskAbortEvent acts as an observer, which gets Attempt ID, which gets Attempt Context.

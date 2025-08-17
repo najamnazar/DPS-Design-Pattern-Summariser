@@ -1,0 +1,2 @@
+AggregationStrategyBeanAdapterStaticMethodTest acts as a publisher for observer Service, which tests Aggregate, which creates Route Builder, which appends String parameter of existing, String parameter of next.
+AggregationStrategyBeanAdapterStaticMethodTest acts as a publisher for observer CamelContext, which tests Aggregate, which creates Route Builder, which appends String parameter of existing, String parameter of next.

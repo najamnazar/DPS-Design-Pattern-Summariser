@@ -1,0 +1,2 @@
+ServerHttpRequestDecorator acts as a factory for ServerHttpRequest, which overrides getLocalAddress method of ServerHttpRequest, getRemoteAddress method of ServerHttpRequest.
+ServerHttpRequestDecorator acts as a product for ServerWebExchange, which overrides getLocalAddress method of ServerHttpRequest, getRemoteAddress method of ServerHttpRequest.

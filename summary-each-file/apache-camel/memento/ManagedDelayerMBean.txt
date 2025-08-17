@@ -1,0 +1,1 @@
+ManagedDelayerMBean acts as a memento, which is Caller Runs When Rejected, which is Caller Runs When Rejected, which is Caller Runs When Rejected, which is Caller Runs When Rejected, which is Caller Runs When Rejected.

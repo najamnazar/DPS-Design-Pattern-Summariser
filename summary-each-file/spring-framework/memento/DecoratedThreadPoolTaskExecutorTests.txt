@@ -1,0 +1,2 @@
+DecoratedThreadPoolTaskExecutorTests acts as a caretaker for memento C, which builds Executor.
+DecoratedThreadPoolTaskExecutorTests acts as a caretaker for memento A, which builds Executor.

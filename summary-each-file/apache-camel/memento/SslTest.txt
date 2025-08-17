@@ -1,0 +1,1 @@
+SslTest acts as a caretaker for memento Context, which cleans Up, which starts Service, which tests Invoking Trust Route, which tests Invoking No Trust Route, which tests Invoking Wrong Trust Route, which sends String parameter of endpointUri Jax Ws Message, which creates Application Context.

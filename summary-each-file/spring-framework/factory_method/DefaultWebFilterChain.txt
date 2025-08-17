@@ -1,0 +1,1 @@
+DefaultWebFilterChain acts as a factory method for WebHandler, which is inherited by WebHandlerDecorator, WebHandlerDecorator, WebHandlerDecorator.

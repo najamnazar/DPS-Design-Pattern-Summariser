@@ -1,0 +1,2 @@
+RecipientListExchangePropertyTest acts as a publisher for observer CamelContext, which tests Exchange Property, which creates Route Builder, which gets Name.
+RecipientListExchangePropertyTest acts as a publisher for observer Service, which tests Exchange Property, which creates Route Builder, which gets Name.

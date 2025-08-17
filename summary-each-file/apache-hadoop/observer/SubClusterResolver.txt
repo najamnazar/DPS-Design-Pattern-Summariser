@@ -1,0 +1,1 @@
+SubClusterResolver acts as an observer for publisher FederationPolicyInitializationContext, which is inherited by DefaultSubClusterResolverImpl, AbstractSubClusterResolver, which gets String parameter of nodename Sub Cluster For Node, which gets String parameter of rackname Sub Clusters For Rack, which loads.

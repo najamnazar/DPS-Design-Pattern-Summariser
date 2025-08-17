@@ -1,0 +1,1 @@
+AbstractServiceNowProducer acts as a publisher for observer CamelContext, which gets Release, which gets Configuration.

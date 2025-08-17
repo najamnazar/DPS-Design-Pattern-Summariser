@@ -1,0 +1,1 @@
+WindowSpecificationImpl acts as a product for WindowDefinitionImpl, which overrides andUnboundedPreceding method of WindowSpecificationRowsAndStep, andPreceding method of WindowSpecificationRowsAndStep, andCurrentRow method of WindowSpecificationRowsAndStep, andUnboundedFollowing method of WindowSpecificationRowsAndStep, andFollowing method of WindowSpecificationRowsAndStep.

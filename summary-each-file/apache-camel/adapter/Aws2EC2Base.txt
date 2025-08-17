@@ -1,0 +1,1 @@
+Aws2EC2Base acts as an adapter, which adapts to CamelTestSupport.

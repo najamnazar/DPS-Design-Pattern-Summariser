@@ -1,0 +1,2 @@
+CompletionOnAnnotationOfType acts as a publisher for observer ClassScope, which prints int parameter of indent, StringBuilder parameter of output.
+CompletionOnAnnotationOfType acts as an observer, which prints int parameter of indent, StringBuilder parameter of output.

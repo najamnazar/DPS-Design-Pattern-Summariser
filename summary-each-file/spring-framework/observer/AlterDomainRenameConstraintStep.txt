@@ -1,0 +1,1 @@
+AlterDomainRenameConstraintStep acts as a publisher for observer Constraint, which is inherited by AlterDomainImpl, which tos @Stringly.Name parameter of String, which tos Name parameter of renameConstraintTo, which tos Constraint parameter of renameConstraintTo.

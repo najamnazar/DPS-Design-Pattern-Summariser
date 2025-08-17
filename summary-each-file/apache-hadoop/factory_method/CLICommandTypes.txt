@@ -1,0 +1,1 @@
+CLICommandTypes acts as an abstract product for CLITestCmd, which is inherited by CLICommandFS, CLICommandArchive, CLICommandDFSAdmin, CLICommandCryptoAdmin, CLICommandCacheAdmin, CLICommandErasureCodingCli, CLICommandMRAdmin.

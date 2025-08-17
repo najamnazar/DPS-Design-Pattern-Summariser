@@ -1,0 +1,1 @@
+ToDefinition acts as an observer for publisher VerbDefinition, GetDefinition, HeadDefinition, DeleteDefinition, PostDefinition, PatchDefinition, PutDefinition, which is inherited by, which gets Short Name, which tos String, which gets Pattern, which sets String parameter of pattern Pattern.

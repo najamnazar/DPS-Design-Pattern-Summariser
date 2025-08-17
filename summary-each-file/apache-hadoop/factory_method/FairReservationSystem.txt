@@ -1,0 +1,1 @@
+FairReservationSystem acts as a factory method for Plan, which is inherited by AbstractReservationSystem, ReservationSystem, AbstractReservationSystem.

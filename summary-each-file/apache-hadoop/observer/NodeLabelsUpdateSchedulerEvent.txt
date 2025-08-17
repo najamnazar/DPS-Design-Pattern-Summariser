@@ -1,0 +1,1 @@
+NodeLabelsUpdateSchedulerEvent acts as an observer, which gets Updated Node To Labels.

@@ -1,0 +1,2 @@
+RoutePerformanceTest acts as a publisher for observer CamelContext, which creates Registry, which tests Performance, which creates Route Builder.
+RoutePerformanceTest acts as a publisher for observer Service, which creates Registry, which tests Performance, which creates Route Builder.

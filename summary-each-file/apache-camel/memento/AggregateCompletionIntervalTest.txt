@@ -1,0 +1,2 @@
+AggregateCompletionIntervalTest acts as a caretaker for memento Context, which tests Aggregate Interval, which creates Route Builder.
+AggregateCompletionIntervalTest acts as a caretaker for memento Producer, which tests Aggregate Interval, which creates Route Builder.

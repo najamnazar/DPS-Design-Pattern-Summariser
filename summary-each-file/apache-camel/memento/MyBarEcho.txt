@@ -1,0 +1,1 @@
+MyBarEcho acts as a caretaker for memento MyBar, which echoes String parameter of s.

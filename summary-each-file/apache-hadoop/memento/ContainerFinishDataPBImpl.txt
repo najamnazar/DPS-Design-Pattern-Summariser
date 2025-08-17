@@ -1,0 +1,1 @@
+ContainerFinishDataPBImpl acts as an originator for memento ContainerState, which gets a ContainerState Container State to, which sets ContainerState parameter of state Container State, which converts ContainerState parameter of state To Proto Format, which converts a ContainerState From Proto Format to.

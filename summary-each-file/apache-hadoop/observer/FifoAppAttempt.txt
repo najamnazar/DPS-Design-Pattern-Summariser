@@ -1,0 +1,7 @@
+FifoAppAttempt acts as a publisher for observer Container, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.
+FifoAppAttempt acts as a publisher for observer SchedContainerChangeRequest, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.
+FifoAppAttempt acts as an observer, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.
+FifoAppAttempt acts as a publisher for observer Resource, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.
+FifoAppAttempt acts as a publisher for observer ResourceCalculator, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.
+FifoAppAttempt acts as a publisher for observer ContainerId, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.
+FifoAppAttempt acts as a publisher for observer CapacityHeadroomProvider, which allocates NodeType parameter of type, FiCaSchedulerNode parameter of node, SchedulerRequestKey parameter of schedulerKey, Container parameter of container.

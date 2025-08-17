@@ -1,0 +1,1 @@
+MicrosoftExchangeOnlineOAuth2MailAuthenticator acts as an observer, which gets Password Authentication, which gets Client Credential, which gets Client Credential Parameters.

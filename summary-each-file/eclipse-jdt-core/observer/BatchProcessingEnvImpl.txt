@@ -1,0 +1,3 @@
+BatchProcessingEnvImpl acts as a publisher for observer ReferenceBinding, which parses String[] parameter of args Processor Options, which gets File Manager, which gets Locale, which shoulds char[] parameter of fileName Ignore Optional Problems.
+BatchProcessingEnvImpl acts as an observer, which parses String[] parameter of args Processor Options, which gets File Manager, which gets Locale, which shoulds char[] parameter of fileName Ignore Optional Problems.
+BatchProcessingEnvImpl acts as a publisher for observer ICompilationUnit, which parses String[] parameter of args Processor Options, which gets File Manager, which gets Locale, which shoulds char[] parameter of fileName Ignore Optional Problems.

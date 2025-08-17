@@ -1,0 +1,1 @@
+XmlContentTests acts as a caretaker for memento C, which xmls Content, which xpathes Is Equal To, which xpathes Matches, which xpathes Contains Substring Via Regex, which posts Xml Content, which getpersonses, which gets Persons, which gets @PathVariable parameter of String Person, which savepersonses @RequestBody parameter of Person.

@@ -1,0 +1,2 @@
+TestBlockPlacementPolicyDebugLoggingBuilder acts as a publisher for observer DatanodeStorageInfo, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Random Dynamically Change Logger.
+TestBlockPlacementPolicyDebugLoggingBuilder acts as a publisher for observer DatanodeDescriptor, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Random Dynamically Change Logger.

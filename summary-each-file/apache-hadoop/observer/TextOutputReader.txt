@@ -1,0 +1,1 @@
+TextOutputReader acts as a publisher for observer Text, which is inherited by, which initializes PipeMapRed parameter of pipeMapRed, which reads Key Value, which gets Current Key, which gets Current Value, which gets Last Output, which splits byte[] parameter of line, int parameter of length, Text parameter of key, Text parameter of val Key Val.

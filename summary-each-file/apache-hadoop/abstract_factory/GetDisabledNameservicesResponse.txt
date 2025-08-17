@@ -1,0 +1,1 @@
+GetDisabledNameservicesResponse acts as an abstract product for GetDisabledNameservicesResponse, which is inherited by GetDisabledNameservicesResponsePBImpl.

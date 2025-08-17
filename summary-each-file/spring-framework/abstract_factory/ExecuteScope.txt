@@ -1,0 +1,2 @@
+ExecuteScope acts as a product for ConfigurableBeanFactory, which overrides.
+ExecuteScope acts as an abstract factory for ExecuteContext, which is inherited by AbstractExecuteScope.

@@ -1,0 +1,5 @@
+OgnlInvokeMethodTest acts as a publisher for observer CamelContext, which tests Invoke Method, which creates Route Builder.
+OgnlInvokeMethodTest acts as a publisher for observer ProducerTemplate, which tests Invoke Method, which creates Route Builder.
+OgnlInvokeMethodTest acts as a publisher for observer ConsumerTemplate, which tests Invoke Method, which creates Route Builder.
+OgnlInvokeMethodTest acts as a publisher for observer FluentProducerTemplate, which tests Invoke Method, which creates Route Builder.
+OgnlInvokeMethodTest acts as a publisher for observer Service, which tests Invoke Method, which creates Route Builder.

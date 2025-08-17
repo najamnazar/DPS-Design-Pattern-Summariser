@@ -1,0 +1,4 @@
+ISourceModule acts as a caretaker for memento S, which gets Compilation Unit.
+ISourceModule acts as a caretaker for memento R, which gets Compilation Unit.
+ISourceModule acts as a caretaker for memento E, which gets Compilation Unit.
+ISourceModule acts as a caretaker for memento String, which gets Compilation Unit.

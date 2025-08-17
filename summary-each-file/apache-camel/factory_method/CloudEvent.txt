@@ -1,0 +1,1 @@
+CloudEvent acts as an abstract product for CloudEventProcessors, which is inherited by CloudEvents.

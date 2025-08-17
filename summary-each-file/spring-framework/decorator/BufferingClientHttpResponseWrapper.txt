@@ -1,0 +1,2 @@
+BufferingClientHttpResponseWrapper acts as a component for decorator ClientHttpResponseDecorator, which overrides getStatusCodeClientHttpResponse, getRawStatusCodeClientHttpResponse, getHeadersClientHttpResponse.
+BufferingClientHttpResponseWrapper acts as a component for decorator MessageBodyClientHttpResponseWrapper, which overrides getStatusCodeClientHttpResponse, getRawStatusCodeClientHttpResponse, getStatusTextClientHttpResponse, getHeadersClientHttpResponse, getBodyClientHttpResponse, closeClientHttpResponse.

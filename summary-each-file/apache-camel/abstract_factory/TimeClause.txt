@@ -1,0 +1,1 @@
+TimeClause acts as a factory for BinaryPredicate, which overrides getLeft method of BinaryPredicate, getRight method of BinaryPredicate, matchesReturningFailureMessage method of BinaryPredicate, getOperator method of BinaryPredicate.

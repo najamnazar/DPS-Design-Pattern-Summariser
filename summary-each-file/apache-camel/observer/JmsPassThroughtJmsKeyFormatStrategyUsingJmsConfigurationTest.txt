@@ -1,0 +1,1 @@
+JmsPassThroughtJmsKeyFormatStrategyUsingJmsConfigurationTest acts as a publisher for observer ArtemisService, which tests Send With Headers, which gets Component Name, which setups CamelContext parameter of camelContext, ArtemisService parameter of service, String parameter of componentName Component, which creates Route Builder.

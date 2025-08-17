@@ -1,0 +1,1 @@
+MockSchedulableEntity acts as a factory for SchedulableEntity, which overrides getSchedulingResourceUsage method of SchedulableEntity, compareInputOrderTo method of SchedulableEntity, getPriority method of SchedulableEntity, isRecovering method of SchedulableEntity, getPartition method of SchedulableEntity, getStartTime method of SchedulableEntity.

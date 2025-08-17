@@ -1,0 +1,3 @@
+MockScheduledPollConsumer acts as a publisher for observer PollingConsumerPollStrategy, which polls, which sets Exception parameter of exceptionToThrowOnPoll Exception To Throw On Poll, which tos String.
+MockScheduledPollConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which polls, which sets Exception parameter of exceptionToThrowOnPoll Exception To Throw On Poll, which tos String.
+MockScheduledPollConsumer acts as a publisher for observer LoggingLevel, which polls, which sets Exception parameter of exceptionToThrowOnPoll Exception To Throw On Poll, which tos String.

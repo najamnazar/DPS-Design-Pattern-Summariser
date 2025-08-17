@@ -1,0 +1,1 @@
+MockLocalizerHeartbeatResponse acts as an adapter, which adapts to LocalizerHeartbeatResponse, which adapts to LocalizerHeartbeatResponse, which adapts to LocalizerHeartbeatResponse, which adapts to LocalizerHeartbeatResponse.

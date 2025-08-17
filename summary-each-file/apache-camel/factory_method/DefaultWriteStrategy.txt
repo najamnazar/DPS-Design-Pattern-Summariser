@@ -1,0 +1,1 @@
+DefaultWriteStrategy acts as a product for LineTerminationWriterAbstractFactory, which overrides write method of WriteStrategy.

@@ -1,0 +1,2 @@
+DefaultJpaDialect acts as a factory for EclipseLinkJpaDialect, which overrides.
+DefaultJpaDialect acts as a product for AbstractEntityManagerFactoryBean, which overrides beginTransaction method of JpaDialect, prepareTransaction method of JpaDialect, cleanupTransaction method of JpaDialect, getJdbcConnection method of JpaDialect.

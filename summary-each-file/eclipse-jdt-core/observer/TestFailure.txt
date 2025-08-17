@@ -1,0 +1,1 @@
+TestFailure acts as an observer, which fails Test, which throws Exception, which tos String, which traces, which exceptions Message, which is Failure.

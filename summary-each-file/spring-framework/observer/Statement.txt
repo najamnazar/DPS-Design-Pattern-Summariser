@@ -1,0 +1,2 @@
+Statement acts as an observer for publisher SpringClassRule, which is inherited by Query, RunBeforeTestClassCallbacks, SpringRepeat, ProfileValueChecker, RunBeforeTestExecutionCallbacks, RunPrepareTestInstanceCallbacks, RunAfterTestExecutionCallbacks, RunBeforeTestMethodCallbacks, RunAfterTestClassCallbacks, SpringFailOnTimeout, RunAfterTestMethodCallbacks, DefaultStatement, AbstractStatement.
+Statement acts as an observer.

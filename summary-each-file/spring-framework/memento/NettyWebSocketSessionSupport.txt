@@ -1,0 +1,2 @@
+NettyWebSocketSessionSupport acts as a caretaker for memento C, which buffers Factory, which tos WebSocketFrame parameter of frame Message, which tos WebSocketMessage parameter of message Frame.
+NettyWebSocketSessionSupport acts as a caretaker for memento Message, which buffers Factory, which tos WebSocketFrame parameter of frame Message, which tos WebSocketMessage parameter of message Frame.

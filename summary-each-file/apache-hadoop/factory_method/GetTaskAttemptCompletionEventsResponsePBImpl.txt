@@ -1,0 +1,1 @@
+GetTaskAttemptCompletionEventsResponsePBImpl acts as a factory method for TaskAttemptCompletionEvent, which is inherited by GetTaskAttemptCompletionEventsResponse.

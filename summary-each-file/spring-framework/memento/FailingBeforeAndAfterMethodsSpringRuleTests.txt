@@ -1,0 +1,1 @@
+FailingBeforeAndAfterMethodsSpringRuleTests acts as a caretaker for memento C, which tests Data, which gets Runner Class, which tests Nothing, which tests Nothing, which befores Transaction, which tests Nothing, which afters Transaction.

@@ -1,0 +1,1 @@
+PostCommentStatus acts as an adaptee for adapter TextPublishable.

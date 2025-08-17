@@ -1,0 +1,4 @@
+ConsulEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Api Endpoint, which gets Consul.
+ConsulEndpoint acts as a caretaker for memento Context, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Api Endpoint, which gets Consul.
+ConsulEndpoint acts as a caretaker for memento Component, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Api Endpoint, which gets Consul.
+ConsulEndpoint acts as a caretaker for memento Producer, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Api Endpoint, which gets Consul.

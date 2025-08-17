@@ -1,0 +1,2 @@
+ICodeAttribute acts as an abstract product for ICodeAttribute, which is inherited by CodeAttribute.
+ICodeAttribute acts as an abstract factory for ILineNumberAttribute, ILocalVariableAttribute, which is inherited by CodeAttribute.

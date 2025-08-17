@@ -1,0 +1,1 @@
+StructuralPropertyDescriptor acts as an observer for publisher RewriteEventStore, which is inherited by ChildPropertyDescriptor, SimplePropertyDescriptor, ChildListPropertyDescriptor, which gets Id, which gets Node Class, which is Simple Property, which is Child Property, which is Child List Property, which tos String.

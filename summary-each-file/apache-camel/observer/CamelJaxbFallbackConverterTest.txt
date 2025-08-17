@@ -1,0 +1,1 @@
+CamelJaxbFallbackConverterTest acts as a publisher for observer Exchange, which tests Fallback Converter Without Object Factory, which tests Fallback Converter Unmarshal With Non JAXBComplaint Value, which tests Converter, which tests Filtering Converter.

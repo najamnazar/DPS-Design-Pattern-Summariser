@@ -1,0 +1,2 @@
+DefaultStatement acts as a factory for SpringClassRule, which overrides.
+DefaultStatement acts as a product for SpringClassRule, which overrides.

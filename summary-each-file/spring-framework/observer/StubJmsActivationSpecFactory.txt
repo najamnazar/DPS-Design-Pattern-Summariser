@@ -1,0 +1,1 @@
+StubJmsActivationSpecFactory acts as an observer, which creates ResourceAdapter parameter of adapter, JmsActivationSpecConfig parameter of config Activation Spec.

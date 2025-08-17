@@ -1,0 +1,1 @@
+AggregationOperation acts as an originator for memento Attribute, which gets an Attribute Attribute to.

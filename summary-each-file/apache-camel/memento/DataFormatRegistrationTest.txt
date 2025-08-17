@@ -1,0 +1,2 @@
+DataFormatRegistrationTest acts as a caretaker for memento Context, which shoulds Register Dataformat In Cache Test, which misses Dataformat Test.
+DataFormatRegistrationTest acts as a caretaker for memento Producer, which shoulds Register Dataformat In Cache Test, which misses Dataformat Test.

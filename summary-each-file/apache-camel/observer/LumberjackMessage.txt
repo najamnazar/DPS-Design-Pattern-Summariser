@@ -1,0 +1,1 @@
+LumberjackMessage acts as an observer for publisher LumberjackWindow, which is inherited by, which gets Sequence Number, which gets Payload.

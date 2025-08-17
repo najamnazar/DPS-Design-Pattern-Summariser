@@ -1,0 +1,1 @@
+RouterStoragePolicy acts as a target for adapter RouterAsyncStoragePolicy, which adapts to RouterStoragePolicy, which adapts to RouterStoragePolicy, which adapts to RouterStoragePolicy, which adapts to RouterStoragePolicy, which adapts to RouterStoragePolicy.

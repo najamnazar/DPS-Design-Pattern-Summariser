@@ -1,0 +1,5 @@
+IsMockEndpointsFileTest acts as a publisher for observer ConsumerTemplate, which sets Up, which is Mock Endpoints, which tests Mock File Endpoints, which creates Route Builder.
+IsMockEndpointsFileTest acts as a publisher for observer ProducerTemplate, which sets Up, which is Mock Endpoints, which tests Mock File Endpoints, which creates Route Builder.
+IsMockEndpointsFileTest acts as a publisher for observer CamelContext, which sets Up, which is Mock Endpoints, which tests Mock File Endpoints, which creates Route Builder.
+IsMockEndpointsFileTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which is Mock Endpoints, which tests Mock File Endpoints, which creates Route Builder.
+IsMockEndpointsFileTest acts as a publisher for observer Service, which sets Up, which is Mock Endpoints, which tests Mock File Endpoints, which creates Route Builder.

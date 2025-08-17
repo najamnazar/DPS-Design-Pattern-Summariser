@@ -1,0 +1,2 @@
+CreateTableAsStep acts as an abstract factory for CreateTableWithDataStep, which is inherited by CreateTableImpl.
+CreateTableAsStep acts as a product for CreateTableWithDataStep, which overrides.

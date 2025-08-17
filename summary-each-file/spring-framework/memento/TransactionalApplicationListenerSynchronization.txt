@@ -1,0 +1,3 @@
+TransactionalApplicationListenerSynchronization acts as a caretaker for memento C, which gets Order, which befores boolean parameter of readOnly Commit, which afters int parameter of status Completion, which processes Event With Callbacks.
+TransactionalApplicationListenerSynchronization acts as a caretaker for memento Transaction, which gets Order, which befores boolean parameter of readOnly Commit, which afters int parameter of status Completion, which processes Event With Callbacks.
+TransactionalApplicationListenerSynchronization acts as a caretaker for memento A, which gets Order, which befores boolean parameter of readOnly Commit, which afters int parameter of status Completion, which processes Event With Callbacks.

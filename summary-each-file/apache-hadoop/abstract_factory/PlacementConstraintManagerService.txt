@@ -1,0 +1,2 @@
+PlacementConstraintManagerService acts as a factory for PlacementConstraintManager, which overrides validateConstraint method of PlacementConstraintManager.
+PlacementConstraintManagerService acts as a product for RMContext, which overrides validateConstraint method of PlacementConstraintManager.

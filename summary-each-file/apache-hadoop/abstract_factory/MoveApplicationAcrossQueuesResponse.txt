@@ -1,0 +1,1 @@
+MoveApplicationAcrossQueuesResponse acts as an abstract product for MoveApplicationAcrossQueuesResponse, which is inherited by MoveApplicationAcrossQueuesResponsePBImpl.

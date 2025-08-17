@@ -1,0 +1,1 @@
+IAnnotation acts as an observer, which gets Element Name, which gets Member Value Pairs, which gets Occurrence Count.

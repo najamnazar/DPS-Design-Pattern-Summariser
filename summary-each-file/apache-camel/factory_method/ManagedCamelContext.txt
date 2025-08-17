@@ -1,0 +1,3 @@
+ManagedCamelContext acts as a factory for ManagedCamelContextImpl, which overrides.
+ManagedCamelContext acts as a factory for ManagedCamelContext, which overrides.
+ManagedCamelContext acts as a factory method for ManagedProcessorMBean, which is inherited by ManagedCamelContext.

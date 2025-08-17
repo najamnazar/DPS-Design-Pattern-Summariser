@@ -1,0 +1,1 @@
+SchedulerInitTask acts as an observer for publisher QuartzComponent, which is inherited by, which initializes Scheduler parameter of scheduler Task.

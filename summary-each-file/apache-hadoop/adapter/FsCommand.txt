@@ -1,0 +1,6 @@
+FsCommand acts as a target for adapter Display, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.
+FsCommand acts as a target for adapter Find, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.
+FsCommand acts as a target for adapter FsShellPermissions, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.
+FsCommand acts as a target for adapter AclCommands, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.
+FsCommand acts as a target for adapter XAttrCommands, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.
+FsCommand acts as a target for adapter Concat, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.

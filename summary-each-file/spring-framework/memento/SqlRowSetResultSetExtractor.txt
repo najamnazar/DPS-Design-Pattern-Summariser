@@ -1,0 +1,1 @@
+SqlRowSetResultSetExtractor acts as a caretaker for memento Row, which extracts ResultSet parameter of rs Data, which creates ResultSet parameter of rs Sql Row Set, which news Cached Row Set.

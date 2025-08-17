@@ -1,0 +1,2 @@
+FileMoveWithOutMessageTest acts as a publisher for observer CamelContext, which tests Move, which creates Route Builder, which processes Exchange parameter of exchange.
+FileMoveWithOutMessageTest acts as a publisher for observer Service, which tests Move, which creates Route Builder, which processes Exchange parameter of exchange.

@@ -1,0 +1,2 @@
+AbstractOperationAuditor acts as a factory for OperationAuditor, which overrides getAuditorId method of OperationAuditor.
+AbstractOperationAuditor acts as a product for AuditManagerS3A, which overrides getAuditorId method of OperationAuditor.

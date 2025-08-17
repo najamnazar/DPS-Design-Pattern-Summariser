@@ -1,0 +1,2 @@
+SpelExpressionParser acts as a caretaker for memento Configuration, which parses String parameter of expressionString Raw, which does String parameter of expressionString, @Nullable parameter of ParserContext Parse Expression.
+SpelExpressionParser acts as a caretaker for memento C, which parses String parameter of expressionString Raw, which does String parameter of expressionString, @Nullable parameter of ParserContext Parse Expression.

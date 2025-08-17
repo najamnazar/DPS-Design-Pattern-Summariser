@@ -1,0 +1,1 @@
+StoredProcedure acts as a caretaker for memento C, which allows Unused Parameters, which declares SqlParameter parameter of param Parameter, which executes Object... parameter of inParams, which executes Map<String, parameter of ?>, which executes ParameterMapper parameter of inParamMapper.

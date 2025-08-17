@@ -1,0 +1,1 @@
+ExtractAdapter acts as an abstract product for ExtractAdapter, which is inherited by CamelMessagingHeadersExtractAdapter, CamelHeadersExtractAdapter.

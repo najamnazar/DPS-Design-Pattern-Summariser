@@ -1,0 +1,2 @@
+DefaultCamelContextEndpointCacheLimitTest acts as a publisher for observer Service, which tests Cache Endpoints, which creates Camel Context.
+DefaultCamelContextEndpointCacheLimitTest acts as a publisher for observer CamelContext, which tests Cache Endpoints, which creates Camel Context.

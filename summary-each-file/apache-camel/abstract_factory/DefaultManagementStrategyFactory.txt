@@ -1,0 +1,1 @@
+DefaultManagementStrategyFactory acts as a factory for ManagementStrategyFactory, which overrides create method of ManagementStrategyFactory, createLifecycle method of ManagementStrategyFactory, setupManagement method of ManagementStrategyFactory.

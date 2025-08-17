@@ -1,0 +1,1 @@
+MessageHandler acts as an observer for publisher SubscribableChannel, AbstractSubscribableChannel, StubMessageChannel, which is inherited by UserRegistryMessageHandler, SubProtocolWebSocketHandler, UserDestinationMessageHandler, AbstractBrokerMessageHandler, which handles Message<?> parameter of message Message.

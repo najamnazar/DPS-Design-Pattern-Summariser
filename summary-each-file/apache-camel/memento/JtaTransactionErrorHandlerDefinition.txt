@@ -1,0 +1,1 @@
+JtaTransactionErrorHandlerDefinition acts as a memento, which is inherited by JtaTransactionErrorHandlerBuilder, which clones Builder.

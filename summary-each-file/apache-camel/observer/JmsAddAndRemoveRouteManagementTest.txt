@@ -1,0 +1,1 @@
+JmsAddAndRemoveRouteManagementTest acts as a publisher for observer ArtemisService, which uses Jmx, which gets MBean Server, which tests Add And Remove Route, which gets Component Name, which creates Route Builder.

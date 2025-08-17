@@ -1,0 +1,2 @@
+SlackProducerTest acts as a caretaker for memento Context, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.
+SlackProducerTest acts as a caretaker for memento Producer, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.

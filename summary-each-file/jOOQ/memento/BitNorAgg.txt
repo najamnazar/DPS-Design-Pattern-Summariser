@@ -1,0 +1,1 @@
+BitNorAgg acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which $values, which $values Field<T> parameter of newValue, which $constructors, which equals Object parameter of that.

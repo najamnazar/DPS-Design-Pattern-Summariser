@@ -1,0 +1,1 @@
+ResourceTransactionDefinition acts as an observer, which is Local Resource.

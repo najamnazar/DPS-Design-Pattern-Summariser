@@ -1,0 +1,2 @@
+UnicodeResourceGenerator acts as a caretaker for memento String, which generates.
+UnicodeResourceGenerator acts as a caretaker for memento S, which generates.

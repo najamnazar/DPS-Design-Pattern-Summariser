@@ -1,0 +1,1 @@
+EventDispatcher acts as a caretaker for memento Clock, which runs, which services Start, which services Stop, which handles T parameter of event, which disables Exit On Error, which sets EventTypeMetrics parameter of metrics Metrics, which gets Event Processor Id, which is Stopped, which gets Event Queue Size.

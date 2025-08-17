@@ -1,0 +1,2 @@
+PrototypeAspectInstanceFactory acts as a caretaker for memento B.
+PrototypeAspectInstanceFactory acts as a caretaker for memento A.

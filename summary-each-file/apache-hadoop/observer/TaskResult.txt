@@ -1,0 +1,1 @@
+TaskResult acts as an observer, which gets Element, which gets Duration, which compares TaskResult parameter of that To, which equals Object parameter of obj, which hashes Code, which combines TaskResult parameter of that, which reads DataInput parameter of in Fields, which writes DataOutput parameter of out, which tos String, which values String parameter of s Of.

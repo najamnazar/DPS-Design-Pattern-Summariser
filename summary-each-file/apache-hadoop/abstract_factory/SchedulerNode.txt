@@ -1,0 +1,1 @@
+SchedulerNode acts as an abstract product for SchedulerNode, which is inherited by FSSchedulerNode, FiCaSchedulerNode.

@@ -1,0 +1,2 @@
+TimerEndpointTest acts as a publisher for observer Service, which is Use Route Builder, which tests Timer Endpoint, which tests Timer Endpoint Yet Again, which tests Timer Endpoint No Producer.
+TimerEndpointTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Timer Endpoint, which tests Timer Endpoint Yet Again, which tests Timer Endpoint No Producer.

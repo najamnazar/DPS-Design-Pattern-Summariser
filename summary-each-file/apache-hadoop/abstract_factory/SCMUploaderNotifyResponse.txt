@@ -1,0 +1,1 @@
+SCMUploaderNotifyResponse acts as an abstract product for SCMUploaderNotifyResponse, which is inherited by SCMUploaderNotifyResponsePBImpl.

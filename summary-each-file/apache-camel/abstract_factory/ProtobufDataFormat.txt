@@ -1,0 +1,2 @@
+ProtobufDataFormat acts as a product for Model, which overrides getDataFormatName method of DataFormatDefinition.
+ProtobufDataFormat acts as a product for DataFormatDefinitionAware, which overrides getDataFormatName method of DataFormatDefinition.

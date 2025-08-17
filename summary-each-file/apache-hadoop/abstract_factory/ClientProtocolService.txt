@@ -1,0 +1,1 @@
+ClientProtocolService acts as a factory for ClientSCMProtocol, which overrides use method of ClientSCMProtocol, release method of ClientSCMProtocol.

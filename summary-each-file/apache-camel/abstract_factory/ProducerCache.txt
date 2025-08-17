@@ -1,0 +1,1 @@
+ProducerCache acts as an abstract factory for Exchange, AsyncProducer, EndpointUtilizationStatistics, which is inherited by DefaultProducerCache.

@@ -1,0 +1,2 @@
+MessageConverter acts as an abstract factory for, which is inherited by SimpleMessageConverter, MessagingMessageConverter, MarshallingMessageConverter.
+MessageConverter acts as an abstract product for MessageConverter, which is inherited by SmartMessageConverter, SimpleMessageConverter, MessagingMessageConverter, MarshallingMessageConverter.

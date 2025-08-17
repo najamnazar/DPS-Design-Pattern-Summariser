@@ -1,0 +1,1 @@
+CLICommand acts as a target for adapter CLITestCmd, which adapts to CLICommand, which adapts to CLICommand, which adapts to CLICommand, which adapts to CLICommand.

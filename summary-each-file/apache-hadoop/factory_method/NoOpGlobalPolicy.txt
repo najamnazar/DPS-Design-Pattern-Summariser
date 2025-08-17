@@ -1,0 +1,1 @@
+NoOpGlobalPolicy acts as a factory method for FederationPolicyManager, which is inherited by GlobalPolicy, GlobalPolicy, GlobalPolicy.

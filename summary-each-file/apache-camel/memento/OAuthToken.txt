@@ -1,0 +1,1 @@
+OAuthToken acts as a caretaker for memento Configuration, which gets Or Refresh Access Token, which gets Client Access, which gets Auth String.

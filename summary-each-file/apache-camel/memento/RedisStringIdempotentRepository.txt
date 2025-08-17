@@ -1,0 +1,1 @@
+RedisStringIdempotentRepository acts as a caretaker for memento Configuration, which contains String parameter of key, which adds String parameter of key, which removes String parameter of key, which clears, which creates String parameter of key Redis Key, which gets Expiry, which sets long parameter of expiry Expiry.

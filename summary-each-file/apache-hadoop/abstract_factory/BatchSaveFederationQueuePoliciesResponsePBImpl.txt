@@ -1,0 +1,1 @@
+BatchSaveFederationQueuePoliciesResponsePBImpl acts as a product for ResourceManagerAdministrationProtocol, which overrides getMessage method of BatchSaveFederationQueuePoliciesResponse, setMessage method of BatchSaveFederationQueuePoliciesResponse.

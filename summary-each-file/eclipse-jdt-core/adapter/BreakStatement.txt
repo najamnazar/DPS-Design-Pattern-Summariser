@@ -1,0 +1,1 @@
+BreakStatement acts as a target for adapter CompletionOnBreakStatement, which adapts to BreakStatement, which adapts to BreakStatement, which adapts to BreakStatement.

@@ -1,0 +1,1 @@
+HdfsBlockLocation acts as an adapter, which adapts to BlockLocation, which adapts to BlockLocation, which adapts to BlockLocation.

@@ -1,0 +1,3 @@
+ApplicationContextSpec acts as a caretaker for memento A, which inits Http Handler Builder.
+ApplicationContextSpec acts as a caretaker for memento C, which inits Http Handler Builder.
+ApplicationContextSpec acts as a caretaker for memento ApplicationContext, which inits Http Handler Builder.

@@ -1,0 +1,1 @@
+ManagedMBeansLevelTestSupport acts as a caretaker for memento ManagementMBeansLevel, which is inherited by, which asserts Set<ObjectName> parameter of contexts, Set<ObjectName> parameter of routes, Set<ObjectName> parameter of processors Results, which creates Camel Context, which tests, which asserts MBeanServer parameter of mbeanServer MBeans, which creates Route Builder.

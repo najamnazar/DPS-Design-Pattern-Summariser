@@ -1,0 +1,1 @@
+AsteriskAction acts as an observer for publisher AsteriskEndpoint, which is inherited by, which applies Exchange parameter of exchange, which applies Exchange parameter of exchange, which applies Exchange parameter of exchange.

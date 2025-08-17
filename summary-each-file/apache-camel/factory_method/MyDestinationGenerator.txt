@@ -1,0 +1,1 @@
+MyDestinationGenerator acts as a product for AbstractGenerateMojo, which overrides.

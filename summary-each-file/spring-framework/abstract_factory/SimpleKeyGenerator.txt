@@ -1,0 +1,1 @@
+SimpleKeyGenerator acts as a product for CachingConfigurer, which overrides generate method of KeyGenerator.

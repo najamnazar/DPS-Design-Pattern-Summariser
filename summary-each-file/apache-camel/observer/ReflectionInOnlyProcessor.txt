@@ -1,0 +1,2 @@
+ReflectionInOnlyProcessor acts as an observer, which processes Exchange parameter of exchange, which gets Test Reflection, which sets TestReflection parameter of testReflection Test Reflection.
+ReflectionInOnlyProcessor acts as a publisher for observer TestReflection, which is inherited by, which processes Exchange parameter of exchange, which gets Test Reflection, which sets TestReflection parameter of testReflection Test Reflection.

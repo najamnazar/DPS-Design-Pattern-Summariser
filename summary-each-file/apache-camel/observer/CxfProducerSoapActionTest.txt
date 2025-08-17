@@ -1,0 +1,5 @@
+CxfProducerSoapActionTest acts as a publisher for observer ProducerTemplate, which tests Send Soap Request Without Soap Action Set, which creates Route Builder.
+CxfProducerSoapActionTest acts as a publisher for observer ConsumerTemplate, which tests Send Soap Request Without Soap Action Set, which creates Route Builder.
+CxfProducerSoapActionTest acts as a publisher for observer Service, which tests Send Soap Request Without Soap Action Set, which creates Route Builder.
+CxfProducerSoapActionTest acts as a publisher for observer FluentProducerTemplate, which tests Send Soap Request Without Soap Action Set, which creates Route Builder.
+CxfProducerSoapActionTest acts as a publisher for observer CamelContext, which tests Send Soap Request Without Soap Action Set, which creates Route Builder.

@@ -1,0 +1,2 @@
+AdviceWithTest acts as a publisher for observer Service, which tests No Advised, which tests Advised, which tests Advised No New Routes Allowed, which tests Advised Throw Exception, which tests Advised Empty Routes, which creates Route Builder.
+AdviceWithTest acts as a publisher for observer CamelContext, which tests No Advised, which tests Advised, which tests Advised No New Routes Allowed, which tests Advised Throw Exception, which tests Advised Empty Routes, which creates Route Builder.

@@ -1,0 +1,1 @@
+DispatcherServletCustomizer acts as an observer for publisher AbstractMockMvcBuilder, which is inherited by, which customizes DispatcherServlet parameter of dispatcherServlet.

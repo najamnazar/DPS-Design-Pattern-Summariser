@@ -1,0 +1,1 @@
+IWorkingCopy acts as an abstract factory for IJavaElement, IType, which is inherited by.

@@ -1,0 +1,2 @@
+SplitterStreamingUoWIssueTest acts as a publisher for observer Service, which tests Splitter Streaming Uo WIssue, which tests Splitter Two Files Streaming Uo WIssue, which creates Route Builder.
+SplitterStreamingUoWIssueTest acts as a publisher for observer CamelContext, which tests Splitter Streaming Uo WIssue, which tests Splitter Two Files Streaming Uo WIssue, which creates Route Builder.

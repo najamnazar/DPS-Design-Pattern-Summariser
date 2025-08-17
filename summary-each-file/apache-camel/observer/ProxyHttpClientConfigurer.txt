@@ -1,0 +1,1 @@
+ProxyHttpClientConfigurer acts as an observer, which configures HttpClientBuilder parameter of clientBuilder Http Client.

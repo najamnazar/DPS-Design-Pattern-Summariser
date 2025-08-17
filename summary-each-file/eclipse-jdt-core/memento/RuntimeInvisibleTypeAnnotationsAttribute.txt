@@ -1,0 +1,3 @@
+RuntimeInvisibleTypeAnnotationsAttribute acts as a caretaker for memento C, which gets Extended Annotations, which gets Extended Annotations Number.
+RuntimeInvisibleTypeAnnotationsAttribute acts as a caretaker for memento Class, which gets Extended Annotations, which gets Extended Annotations Number.
+RuntimeInvisibleTypeAnnotationsAttribute acts as a caretaker for memento E, which gets Extended Annotations, which gets Extended Annotations Number.

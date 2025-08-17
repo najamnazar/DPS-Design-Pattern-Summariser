@@ -1,0 +1,1 @@
+RouterGenericManager acts as an adaptee for adapter RouterAdminProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.

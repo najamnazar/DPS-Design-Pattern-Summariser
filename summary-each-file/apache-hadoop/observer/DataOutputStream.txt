@@ -1,0 +1,1 @@
+DataOutputStream acts as an observer for publisher AggregatedLogFormat, which is inherited by ByteBufferDataWriter, ResponseBuffer, SyncableDataOutputStream, DataOutputBuffer, FSDataOutputStream, which shorts int parameter of length Of Space, which has Un Flushed Data.

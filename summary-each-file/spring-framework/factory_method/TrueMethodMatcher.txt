@@ -1,0 +1,1 @@
+TrueMethodMatcher acts as a product for AnnotationMatchingPointcut, which overrides isRuntime method of MethodMatcher, matches method of MethodMatcher, matches method of MethodMatcher.

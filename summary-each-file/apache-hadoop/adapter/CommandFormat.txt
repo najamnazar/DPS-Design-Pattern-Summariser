@@ -1,0 +1,1 @@
+CommandFormat acts as an adaptee for adapter AclCommands, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand, which adapts to FsCommand.

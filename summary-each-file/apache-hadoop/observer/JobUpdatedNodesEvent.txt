@@ -1,0 +1,1 @@
+JobUpdatedNodesEvent acts as an observer, which gets Updated Nodes.

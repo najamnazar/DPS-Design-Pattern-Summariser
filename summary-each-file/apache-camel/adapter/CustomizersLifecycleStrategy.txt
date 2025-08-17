@@ -1,0 +1,1 @@
+CustomizersLifecycleStrategy acts as an adapter, which adapts to LifecycleStrategySupport, which adapts to LifecycleStrategySupport, which adapts to LifecycleStrategySupport.

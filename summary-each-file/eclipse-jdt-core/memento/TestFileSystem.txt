@@ -1,0 +1,7 @@
+TestFileSystem acts as a caretaker for memento String, which gets URI parameter of uri Store.
+TestFileSystem acts as a caretaker for memento C, which gets URI parameter of uri Store.
+TestFileSystem acts as a caretaker for memento E, which gets URI parameter of uri Store.
+TestFileSystem acts as a caretaker for memento List, which gets URI parameter of uri Store.
+TestFileSystem acts as a caretaker for memento Class, which gets URI parameter of uri Store.
+TestFileSystem acts as a caretaker for memento S, which gets URI parameter of uri Store.
+TestFileSystem acts as a caretaker for memento Map, which gets URI parameter of uri Store.

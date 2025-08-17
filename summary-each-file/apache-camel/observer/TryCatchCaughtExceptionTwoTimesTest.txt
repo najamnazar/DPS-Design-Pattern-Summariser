@@ -1,0 +1,2 @@
+TryCatchCaughtExceptionTwoTimesTest acts as a publisher for observer CamelContext, which tests Try Catch Caught Exception, which creates Registry, which creates Route Builder, which does String parameter of body Something, which does String parameter of body Something Else.
+TryCatchCaughtExceptionTwoTimesTest acts as a publisher for observer Service, which tests Try Catch Caught Exception, which creates Registry, which creates Route Builder, which does String parameter of body Something, which does String parameter of body Something Else.

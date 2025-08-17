@@ -1,0 +1,1 @@
+QualifiedTypeDeclarationPattern acts as an observer, which decodes char[] parameter of key Index Key, which gets Blank Pattern, which matches SearchPattern parameter of decodedPattern Decoded Key, which prints StringBuilder parameter of output.

@@ -1,0 +1,1 @@
+Drinks acts as an observer for publisher DummyEndpoint, which is inherited by.

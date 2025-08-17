@@ -1,0 +1,1 @@
+TaskEvent acts as an observer for publisher TaskImpl, MapTaskImpl, ReduceTaskImpl, which is inherited by TaskTAttemptEvent, TaskRecoverEvent, which gets Task ID.

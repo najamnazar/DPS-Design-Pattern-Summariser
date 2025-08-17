@@ -1,0 +1,2 @@
+AsyncEndpointSedaInOnlyTest acts as a publisher for observer CamelContext, which sets Up, which tests Async Endpoint, which creates Route Builder.
+AsyncEndpointSedaInOnlyTest acts as a publisher for observer Service, which sets Up, which tests Async Endpoint, which creates Route Builder.

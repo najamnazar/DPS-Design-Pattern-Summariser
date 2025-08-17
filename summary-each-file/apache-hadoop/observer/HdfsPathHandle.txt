@@ -1,0 +1,1 @@
+HdfsPathHandle acts as an observer, which gets Path, which verifies HdfsLocatedFileStatus parameter of stat, which byteses, which equals Object parameter of other, which hashes Code, which tos String.

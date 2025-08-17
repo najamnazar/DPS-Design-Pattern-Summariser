@@ -1,0 +1,1 @@
+MemberValuePairBinding acts as a factory for IMemberValuePairBinding, which overrides getMethodBinding method of IMemberValuePairBinding, getName method of IMemberValuePairBinding, getValue method of IMemberValuePairBinding, isDefault method of IMemberValuePairBinding.

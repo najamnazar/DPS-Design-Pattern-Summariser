@@ -1,0 +1,1 @@
+CamelHeadersExtractAdapter acts as an observer, which iterators, which gets String parameter of key, which keyses.

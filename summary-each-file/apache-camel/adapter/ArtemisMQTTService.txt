@@ -1,0 +1,1 @@
+ArtemisMQTTService acts as an adaptee for adapter PahoReconnectAfterFailureTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

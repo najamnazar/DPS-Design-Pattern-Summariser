@@ -1,0 +1,1 @@
+PersistenceExceptionTranslationPostProcessor acts as a publisher for observer BeanFactory, which sets Class<? parameter of extends Repository Annotation Type, which sets BeanFactory parameter of beanFactory Bean Factory.

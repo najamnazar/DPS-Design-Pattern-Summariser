@@ -1,0 +1,1 @@
+MessageType acts as an observer for publisher MappingJackson2MessageConverter, which is inherited by.

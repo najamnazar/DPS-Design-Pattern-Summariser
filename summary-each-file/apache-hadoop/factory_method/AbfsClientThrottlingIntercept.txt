@@ -1,0 +1,1 @@
+AbfsClientThrottlingIntercept acts as a product for AbfsThrottlingInterceptFactory, which overrides sendingRequest method of AbfsThrottlingIntercept.

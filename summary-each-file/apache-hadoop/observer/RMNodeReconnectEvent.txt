@@ -1,0 +1,1 @@
+RMNodeReconnectEvent acts as an observer, which gets Reconnected Node, which gets Running Applications, which gets NMContainer Statuses.

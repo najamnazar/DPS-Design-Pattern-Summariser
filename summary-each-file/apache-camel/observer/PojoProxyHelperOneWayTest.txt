@@ -1,0 +1,3 @@
+PojoProxyHelperOneWayTest acts as a publisher for observer Person, which is inherited by, which tests One Way, which creates Route Builder, which ons Person parameter of person Person, which ons Person parameter of person Person.
+PojoProxyHelperOneWayTest acts as a publisher for observer CamelContext, which tests One Way, which creates Route Builder, which ons Person parameter of person Person, which ons Person parameter of person Person.
+PojoProxyHelperOneWayTest acts as a publisher for observer Service, which tests One Way, which creates Route Builder, which ons Person parameter of person Person, which ons Person parameter of person Person.

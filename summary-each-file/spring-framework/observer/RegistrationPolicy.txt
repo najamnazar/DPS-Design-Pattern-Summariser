@@ -1,0 +1,1 @@
+RegistrationPolicy acts as an observer for publisher MBeanRegistrationSupport, MBeanExporter, ConnectorServerFactoryBean, which is inherited by.

@@ -1,0 +1,2 @@
+TimerReferenceConfigurationTest acts as a publisher for observer CamelContext, which creates Registry, which creates Route Builder, which tests Reference Configuration, which tests Value Configuration.
+TimerReferenceConfigurationTest acts as a publisher for observer Service, which creates Registry, which creates Route Builder, which tests Reference Configuration, which tests Value Configuration.

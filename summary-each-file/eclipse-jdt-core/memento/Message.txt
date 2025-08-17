@@ -1,0 +1,2 @@
+Message acts as a caretaker for memento String, which gets Message, which gets Source Position, which gets Start Position, which gets Length.
+Message acts as a caretaker for memento S, which gets Message, which gets Source Position, which gets Start Position, which gets Length.

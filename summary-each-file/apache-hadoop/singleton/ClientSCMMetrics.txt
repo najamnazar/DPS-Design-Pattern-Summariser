@@ -1,0 +1,1 @@
+ClientSCMMetrics acts as a singleton, which gets a ClientSCMMetrics Instance to.

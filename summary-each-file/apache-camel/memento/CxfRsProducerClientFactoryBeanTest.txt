@@ -1,0 +1,1 @@
+CxfRsProducerClientFactoryBeanTest acts as a caretaker for memento Context, which tests Producer In Out Interceptors, which creates Application Context.

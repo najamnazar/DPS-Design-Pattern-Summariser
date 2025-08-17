@@ -1,0 +1,1 @@
+CxfMessageMapper acts as a factory for JBPMProducer, which overrides.

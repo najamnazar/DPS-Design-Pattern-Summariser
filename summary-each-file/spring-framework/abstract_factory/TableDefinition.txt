@@ -1,0 +1,3 @@
+TableDefinition acts as an abstract factory for UniqueKeyDefinition, IdentityDefinition, TableDefinition, ColumnDefinition, which is inherited by AbstractTableDefinition.
+TableDefinition acts as an abstract product for TableDefinition, which is inherited by AbstractTableDefinition.
+TableDefinition acts as an abstract product for TableDefinition, which is inherited by AbstractTableDefinition, AbstractTableDefinition.

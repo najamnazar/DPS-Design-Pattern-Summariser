@@ -1,0 +1,1 @@
+TagOrderBy acts as an observer for publisher TagSearchCriteria, which is inherited by.

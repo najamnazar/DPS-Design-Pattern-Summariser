@@ -1,0 +1,1 @@
+SimpleTraceInterceptor acts as a publisher for observer Log, which invokes MethodInvocation parameter of invocation, Log parameter of logger Under Trace, which gets MethodInvocation parameter of invocation Invocation Description.

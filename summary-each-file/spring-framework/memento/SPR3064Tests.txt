@@ -1,0 +1,4 @@
+SPR3064Tests acts as a caretaker for memento C, which tests Service Is Advised, which arounds ProceedingJoinPoint parameter of pjp, Transaction parameter of transaction, which serves Me, which serves Me.
+SPR3064Tests acts as a caretaker for memento ApplicationContext, which tests Service Is Advised, which arounds ProceedingJoinPoint parameter of pjp, Transaction parameter of transaction, which serves Me, which serves Me.
+SPR3064Tests acts as a caretaker for memento Message, which tests Service Is Advised, which arounds ProceedingJoinPoint parameter of pjp, Transaction parameter of transaction, which serves Me, which serves Me.
+SPR3064Tests acts as a caretaker for memento A, which tests Service Is Advised, which arounds ProceedingJoinPoint parameter of pjp, Transaction parameter of transaction, which serves Me, which serves Me.

@@ -1,0 +1,1 @@
+DefaultLanguageResolver acts as an originator for memento Language, which resolves a Language Language to, which nos a Language Specific Language Found to.

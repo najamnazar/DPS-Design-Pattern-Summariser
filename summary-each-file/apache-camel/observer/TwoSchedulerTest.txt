@@ -1,0 +1,2 @@
+TwoSchedulerTest acts as a publisher for observer CamelContext, which tests Two Scheduler, which creates Route Builder.
+TwoSchedulerTest acts as a publisher for observer Service, which tests Two Scheduler, which creates Route Builder.

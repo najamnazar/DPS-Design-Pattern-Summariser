@@ -1,0 +1,3 @@
+AnnotationDefaultAttribute acts as a caretaker for memento C, which gets Member Value.
+AnnotationDefaultAttribute acts as a caretaker for memento IAnnotation, which gets Member Value.
+AnnotationDefaultAttribute acts as a caretaker for memento Class, which gets Member Value.

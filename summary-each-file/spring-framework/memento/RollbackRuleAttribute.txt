@@ -1,0 +1,1 @@
+RollbackRuleAttribute acts as a caretaker for memento A, which is inherited by, which gets Exception Name, which gets Throwable parameter of ex Depth, which gets Class<?> parameter of exceptionClass, int parameter of depth Depth, which equals @Nullable parameter of Object, which hashes Code, which tos String.

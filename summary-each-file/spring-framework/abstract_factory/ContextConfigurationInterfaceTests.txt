@@ -1,0 +1,1 @@
+ContextConfigurationInterfaceTests acts as a factory for ContextConfigurationTestInterface, which overrides.

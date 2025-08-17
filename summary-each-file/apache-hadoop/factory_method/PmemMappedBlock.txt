@@ -1,0 +1,1 @@
+PmemMappedBlock acts as a product for MemoryMappableBlockLoader, which overrides getLength method of MappableBlock, getAddress method of MappableBlock, getKey method of MappableBlock.

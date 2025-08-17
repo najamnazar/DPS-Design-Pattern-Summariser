@@ -1,0 +1,4 @@
+JSR356Consumer acts as a publisher for observer Route, which gets Endpoint, which does Start, which adds final parameter of CamelServerEndpoint Observer, which does Stop.
+JSR356Consumer acts as a publisher for observer Exchange, which gets Endpoint, which does Start, which adds final parameter of CamelServerEndpoint Observer, which does Stop.
+JSR356Consumer acts as a publisher for observer ExceptionHandler, which gets Endpoint, which does Start, which adds final parameter of CamelServerEndpoint Observer, which does Stop.
+JSR356Consumer acts as a publisher for observer HealthCheck, which gets Endpoint, which does Start, which adds final parameter of CamelServerEndpoint Observer, which does Stop.

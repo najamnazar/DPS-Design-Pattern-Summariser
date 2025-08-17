@@ -1,0 +1,2 @@
+TypedProcessorFactory acts as a factory for ProcessorFactory, which overrides createChildProcessor method of ProcessorFactory, createProcessor method of ProcessorFactory, createProcessor method of ProcessorFactory.
+TypedProcessorFactory acts as a product for ExtendedCamelContext, which overrides createChildProcessor method of ProcessorFactory, createProcessor method of ProcessorFactory, createProcessor method of ProcessorFactory.

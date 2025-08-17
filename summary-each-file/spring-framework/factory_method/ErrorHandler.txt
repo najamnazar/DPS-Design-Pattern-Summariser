@@ -1,0 +1,1 @@
+ErrorHandler acts as an abstract product for JmsNamespaceHandlerTests, which is inherited by SimpleSaxErrorHandler.

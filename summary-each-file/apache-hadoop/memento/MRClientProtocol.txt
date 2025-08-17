@@ -1,0 +1,5 @@
+MRClientProtocol acts as an originator for memento FailTaskAttemptResponse, which is inherited by, which fails a FailTaskAttemptResponse Task Attempt to.
+MRClientProtocol acts as an originator for memento KillTaskAttemptResponse, which is inherited by, which kills a KillTaskAttemptResponse Task Attempt to.
+MRClientProtocol acts as an originator for memento CancelDelegationTokenResponse, which is inherited by, which cancels a CancelDelegationTokenResponse Delegation Token to.
+MRClientProtocol acts as an originator for memento KillTaskResponse, which is inherited by, which kills a KillTaskResponse Task to.
+MRClientProtocol acts as an originator for memento KillJobResponse, which is inherited by, which kills a KillJobResponse Job to.

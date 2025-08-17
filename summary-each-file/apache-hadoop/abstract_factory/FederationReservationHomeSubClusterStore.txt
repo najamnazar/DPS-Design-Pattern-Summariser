@@ -1,0 +1,1 @@
+FederationReservationHomeSubClusterStore acts as an abstract factory for DeleteReservationHomeSubClusterResponse, GetReservationHomeSubClusterResponse, UpdateReservationHomeSubClusterResponse, AddReservationHomeSubClusterResponse, GetReservationsHomeSubClusterResponse, which is inherited by.

@@ -1,0 +1,4 @@
+AnnotationConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento A.
+AnnotationConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento ApplicationContext.
+AnnotationConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento C.
+AnnotationConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento B.

@@ -1,0 +1,2 @@
+AdviceWithPropertyPlaceholderTest acts as a publisher for observer CamelContext, which tests Advice Property Placeholder, which creates Route Builder.
+AdviceWithPropertyPlaceholderTest acts as a publisher for observer Service, which tests Advice Property Placeholder, which creates Route Builder.

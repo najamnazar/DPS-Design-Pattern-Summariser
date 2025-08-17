@@ -1,0 +1,1 @@
+FailApplicationAttemptResponse acts as an abstract product for FailApplicationAttemptResponse, which is inherited by FailApplicationAttemptResponsePBImpl.

@@ -1,0 +1,2 @@
+FileConsumerSuspendAndResumeTest acts as a publisher for observer CamelContext, which tests Consume Suspend And Resume File, which creates Route Builder, which ons Route parameter of route, Exchange parameter of exchange Exchange Done, which resumes Consumer.
+FileConsumerSuspendAndResumeTest acts as a publisher for observer Service, which tests Consume Suspend And Resume File, which creates Route Builder, which ons Route parameter of route, Exchange parameter of exchange Exchange Done, which resumes Consumer.

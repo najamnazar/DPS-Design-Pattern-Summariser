@@ -1,0 +1,1 @@
+ListenableFutureTask acts as a caretaker for memento C, which adds ListenableFutureCallback<? parameter of super Callback, which adds SuccessCallback<? parameter of super, FailureCallback parameter of failureCallback Callback, which completables, which does.

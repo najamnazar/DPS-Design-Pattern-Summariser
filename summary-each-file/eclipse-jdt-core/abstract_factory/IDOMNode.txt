@@ -1,0 +1,2 @@
+IDOMNode acts as an abstract factory for IJavaElement, Enumeration, IDOMNode, Object, which is inherited by DOMNode.
+IDOMNode acts as an abstract product for IDOMNode, which is inherited by IDOMMember, IDOMMember, IDOMMember, IDOMMember, IDOMMember, IDOMImport, IDOMImport, IDOMImport, IDOMImport, IDOMImport, DOMNode, DOMNode, DOMNode, DOMNode, DOMNode, IDOMCompilationUnit, IDOMCompilationUnit, IDOMCompilationUnit, IDOMCompilationUnit, IDOMCompilationUnit, IDOMPackage, IDOMPackage, IDOMPackage, IDOMPackage, IDOMPackage.

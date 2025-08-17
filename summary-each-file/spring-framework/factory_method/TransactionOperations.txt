@@ -1,0 +1,3 @@
+TransactionOperations acts as an abstract product for TransactionOperations, which is inherited by TransactionTemplate, WithoutTransactionOperations.
+TransactionOperations acts as a factory for TransactionOperations, which overrides.
+TransactionOperations acts as a factory method for TransactionOperations, which is inherited by TransactionOperations, TransactionOperations.

@@ -1,0 +1,1 @@
+FactoryFinder acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultFactoryFinder, which gets Resource Path, which news String parameter of key Instance, which news String parameter of key, Class<T> parameter of type Instance, which finds String parameter of key Class, which finds String parameter of key Optional Class.

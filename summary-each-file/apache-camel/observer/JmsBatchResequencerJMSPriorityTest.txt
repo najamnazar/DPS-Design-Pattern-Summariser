@@ -1,0 +1,1 @@
+JmsBatchResequencerJMSPriorityTest acts as a publisher for observer ArtemisService, which sends Messages, which tests Batch Resequencer JMSPriority, which gets Component Name, which creates Route Builder.

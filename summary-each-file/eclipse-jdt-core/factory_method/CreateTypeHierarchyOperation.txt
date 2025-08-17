@@ -1,0 +1,1 @@
+CreateTypeHierarchyOperation acts as a factory method for ITypeHierarchy, which is inherited by IType, BinaryType, IJavaProject, JavaProject, SourceType, TypeHierarchy, IType.

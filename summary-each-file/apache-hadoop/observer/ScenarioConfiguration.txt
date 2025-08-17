@@ -1,0 +1,3 @@
+ScenarioConfiguration acts as an observer, which addcombiners Conf, which adds KVTest Conf, which adds Non Sort Test Conf, which adds Native Conf, which gets Normal Configuration, which gets Native Configuration.
+ScenarioConfiguration acts as a publisher for observer Resource, which addcombiners Conf, which adds KVTest Conf, which adds Non Sort Test Conf, which adds Native Conf, which gets Normal Configuration, which gets Native Configuration.
+ScenarioConfiguration acts as a publisher for observer Configuration, which addcombiners Conf, which adds KVTest Conf, which adds Non Sort Test Conf, which adds Native Conf, which gets Normal Configuration, which gets Native Configuration.

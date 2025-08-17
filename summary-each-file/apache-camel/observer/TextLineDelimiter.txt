@@ -1,0 +1,1 @@
+TextLineDelimiter acts as an observer for publisher NettyConfiguration, NettyHttpConfiguration, which is inherited by.

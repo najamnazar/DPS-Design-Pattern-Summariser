@@ -1,0 +1,1 @@
+CodecConfigurerTests acts as a factory method for CodecConfigurer, which is inherited by BaseCodecConfigurer, BaseCodecConfigurer, CodecConfigurer, CodecConfigurer, CodecConfigurer.

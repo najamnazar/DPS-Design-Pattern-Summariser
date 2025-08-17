@@ -1,0 +1,1 @@
+DocumentStoreTimelineReaderImpl acts as a factory for TimelineReader, which overrides.

@@ -1,0 +1,1 @@
+BeanTypeHolder acts as an observer, which gets Type.

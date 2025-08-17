@@ -1,0 +1,2 @@
+XsltIncludeRelativeNestedTest acts as a publisher for observer CamelContext, which tests Xslt Include Relative Nested, which creates Route Builder.
+XsltIncludeRelativeNestedTest acts as a publisher for observer Service, which tests Xslt Include Relative Nested, which creates Route Builder.

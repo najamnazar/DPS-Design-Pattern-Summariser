@@ -1,0 +1,4 @@
+DataFormat acts as an adaptee for adapter UnmarshalProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+DataFormat acts as an adaptee for adapter CxfEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+DataFormat acts as an adaptee for adapter DataFormatEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+DataFormat acts as an adaptee for adapter MarshalProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.

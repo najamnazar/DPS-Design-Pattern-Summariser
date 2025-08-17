@@ -1,0 +1,1 @@
+DefaultCacheContext acts as a factory for CacheContext, which overrides cacheType method of CacheContext.

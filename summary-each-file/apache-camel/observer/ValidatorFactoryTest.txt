@@ -1,0 +1,5 @@
+ValidatorFactoryTest acts as a publisher for observer Service, which configures Validator Factory.
+ValidatorFactoryTest acts as a publisher for observer ProducerTemplate, which configures Validator Factory.
+ValidatorFactoryTest acts as a publisher for observer ConsumerTemplate, which configures Validator Factory.
+ValidatorFactoryTest acts as a publisher for observer FluentProducerTemplate, which configures Validator Factory.
+ValidatorFactoryTest acts as a publisher for observer CamelContext, which configures Validator Factory.

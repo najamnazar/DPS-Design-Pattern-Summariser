@@ -1,0 +1,1 @@
+JavaFileObject acts as an abstract product for Bug341298Processor, which is inherited by IdeOutputClassFileObject, ArchiveFileObject, SimpleJavaFileObject, PathFileObject, IdeOutputJavaFileObject, ForwardingJavaFileObject.

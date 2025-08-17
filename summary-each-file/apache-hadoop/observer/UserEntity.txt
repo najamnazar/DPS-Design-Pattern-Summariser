@@ -1,0 +1,4 @@
+UserEntity acts as a publisher for observer TimelineEvent.
+UserEntity acts as a publisher for observer TimelineEntity.
+UserEntity acts as an observer.
+UserEntity acts as a publisher for observer TimelineMetric.

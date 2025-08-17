@@ -1,0 +1,4 @@
+RocketMQConsumer acts as a publisher for observer HealthCheck, which starts Consumer, which stops Consumer, which gets Endpoint, which does Suspend, which does Resume, which does Start, which does Stop.
+RocketMQConsumer acts as a publisher for observer Exchange, which starts Consumer, which stops Consumer, which gets Endpoint, which does Suspend, which does Resume, which does Start, which does Stop.
+RocketMQConsumer acts as a publisher for observer ExceptionHandler, which starts Consumer, which stops Consumer, which gets Endpoint, which does Suspend, which does Resume, which does Start, which does Stop.
+RocketMQConsumer acts as a publisher for observer Route, which starts Consumer, which stops Consumer, which gets Endpoint, which does Suspend, which does Resume, which does Start, which does Stop.

@@ -1,0 +1,2 @@
+RedeliveryPolicyOnExceptionWhileRedeliveringIssueTest acts as a caretaker for memento Context, which processes Exchange parameter of exchange, which tests Message Should Go To Error, which creates Route Builder.
+RedeliveryPolicyOnExceptionWhileRedeliveringIssueTest acts as a caretaker for memento Producer, which processes Exchange parameter of exchange, which tests Message Should Go To Error, which creates Route Builder.

@@ -1,0 +1,2 @@
+BlockPlacementStatusWithNodeGroup acts as a caretaker for memento BlockPlacementStatus, which is Placement Policy Satisfied, which is Node Group Policy Satisfied, which gets Error Description, which gets Additional Replicas Required.
+BlockPlacementStatusWithNodeGroup acts as a memento, which gets Additional Replicas Required, which gets Additional Replicas Required, which gets Additional Replicas Required, which gets Additional Replicas Required.

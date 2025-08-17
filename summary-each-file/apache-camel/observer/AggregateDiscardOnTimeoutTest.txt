@@ -1,0 +1,2 @@
+AggregateDiscardOnTimeoutTest acts as a publisher for observer Service, which tests Aggregate Discard On Timeout, which creates Route Builder.
+AggregateDiscardOnTimeoutTest acts as a publisher for observer CamelContext, which tests Aggregate Discard On Timeout, which creates Route Builder.

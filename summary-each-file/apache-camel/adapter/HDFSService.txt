@@ -1,0 +1,3 @@
+HDFSService acts as an adaptee for adapter HdfsConsumerIntegrationIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+HDFSService acts as an adaptee for adapter HdfsAppendIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+HDFSService acts as an adaptee for adapter HdfsProducerConsumerIntegrationIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

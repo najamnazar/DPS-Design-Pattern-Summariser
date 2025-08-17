@@ -1,0 +1,2 @@
+SimpleTheme acts as a factory for Theme, which overrides getName method of Theme, getMessageSource method of Theme.
+SimpleTheme acts as a product for ThemeSource, which overrides getName method of Theme, getMessageSource method of Theme.

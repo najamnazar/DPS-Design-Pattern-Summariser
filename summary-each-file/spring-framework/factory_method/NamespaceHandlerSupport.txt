@@ -1,0 +1,4 @@
+NamespaceHandlerSupport acts as a factory method for BeanDefinitionParser, which is inherited by NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport, NamespaceHandlerSupport.
+NamespaceHandlerSupport acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.
+NamespaceHandlerSupport acts as a factory for NamespaceHandlerSupport, which overrides parse method of NamespaceHandlerSupport.
+NamespaceHandlerSupport acts as a product for NamespaceHandlerResolver, which overrides parse method of NamespaceHandler.

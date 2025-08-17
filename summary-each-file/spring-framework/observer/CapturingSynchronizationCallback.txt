@@ -1,0 +1,1 @@
+CapturingSynchronizationCallback acts as a publisher for observer ApplicationEvent, which is inherited by, which pres ApplicationEvent parameter of event Process Event, which posts ApplicationEvent parameter of event, @Nullable parameter of Throwable Process Event.

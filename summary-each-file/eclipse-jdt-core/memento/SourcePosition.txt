@@ -1,0 +1,1 @@
+SourcePosition acts as a memento, which is inherited by SourcePositionImpl, which columns, which columns, which columns.

@@ -1,0 +1,1 @@
+CxfOneWayRouteTest acts as a caretaker for memento Context, which setups, which creates Application Context, which gets CXFClient, which tests Invoking One Way Service From CXFClient, which processes Exchange parameter of exchange, which populates Exchange parameter of camelExchange, org.apache.cxf.message.Exchange parameter of cxfExchange Cxf Response From Exchange.

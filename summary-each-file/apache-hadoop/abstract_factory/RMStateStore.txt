@@ -1,0 +1,1 @@
+RMStateStore acts as an abstract product for RMStateStore, which is inherited by LeveldbRMStateStore, NullRMStateStore, FileSystemRMStateStore, MemoryRMStateStore, ZKRMStateStore.

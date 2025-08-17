@@ -1,0 +1,1 @@
+AbstractStore acts as a publisher for observer Configuration, which creates, which defaults JSONFormat, which defaults XMLFormat, which sizes, which gets int parameter of index, which hashes Code, which equals Object parameter of obj.

@@ -1,0 +1,5 @@
+MyProcessor acts as an adaptee for adapter MultiErrorHandlerInRouteTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyProcessor acts as an adaptee for adapter RouteAwareProcessorTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyProcessor acts as an adaptee for adapter NewProcessorAndServiceTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyProcessor acts as an adaptee for adapter MultiErrorHandlerInRouteNotHandledTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyProcessor acts as an adaptee for adapter OnCompletionShutdownProcessorTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,3 @@
+IDOMImport acts as an abstract product for IDOMImport, which is inherited by DOMImport, DOMImport.
+IDOMImport acts as an abstract factory for, which is inherited by DOMImport.
+IDOMImport acts as a product for IDOMNode, which overrides getName method of IDOMNode, setName method of IDOMNode.

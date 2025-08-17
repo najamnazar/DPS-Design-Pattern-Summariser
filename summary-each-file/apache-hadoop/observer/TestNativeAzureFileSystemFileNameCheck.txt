@@ -1,0 +1,1 @@
+TestNativeAzureFileSystemFileNameCheck acts as a publisher for observer AzureBlobStorageTestAccount, which sets Up, which creates Test Account, which tests Create, which tests Rename, which tests Mkdirs, which tests Wasb Fsck, which runs Path parameter of p Wasb Fsck.

@@ -1,0 +1,1 @@
+ManagedFilter acts as a caretaker for memento Context, which gets Definition, which resets, which gets Predicate, which gets Predicate Language, which gets Filtered Count.

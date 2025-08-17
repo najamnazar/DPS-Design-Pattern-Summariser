@@ -1,0 +1,2 @@
+ChangeClasspathOperation acts as a publisher for observer String, which cans Modify Roots, which classpathes ClasspathChange parameter of change, boolean parameter of refreshExternalFolder Changed, which gets Scheduling Rule, which is Read Only.
+ChangeClasspathOperation acts as a publisher for observer IJavaElement, which cans Modify Roots, which classpathes ClasspathChange parameter of change, boolean parameter of refreshExternalFolder Changed, which gets Scheduling Rule, which is Read Only.

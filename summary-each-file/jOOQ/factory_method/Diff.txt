@@ -1,0 +1,1 @@
+Diff acts as a factory method for Queries, which is inherited by DSL, AbstractMeta, DSLContext, Meta, DSL, AbstractMeta, Version, DSL, DSL, AbstractMeta, AbstractMeta, MigrationContext, DSL, DSL, DefaultDSLContext, Migration, Queries, Parser, DSL, AbstractMeta, DSLContext, AbstractMeta, DSL, DSL.

@@ -1,0 +1,2 @@
+SubClusterRegisterResponse acts as an originator for memento SubClusterRegisterResponse, which is inherited by, which news a SubClusterRegisterResponse Instance to.
+SubClusterRegisterResponse acts as a memento, which is inherited by SubClusterRegisterResponsePBImpl, which news Instance.

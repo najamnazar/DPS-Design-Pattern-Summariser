@@ -1,0 +1,2 @@
+IProblem acts as an abstract product for IProblem, which is inherited by CategorizedProblem, DefaultProblem.
+IProblem acts as an abstract factory for, which is inherited by CategorizedProblem, DefaultProblem.

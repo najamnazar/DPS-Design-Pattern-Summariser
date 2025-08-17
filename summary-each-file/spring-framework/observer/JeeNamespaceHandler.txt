@@ -1,0 +1,2 @@
+JeeNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.
+JeeNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.

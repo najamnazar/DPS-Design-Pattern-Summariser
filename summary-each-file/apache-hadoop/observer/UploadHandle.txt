@@ -1,0 +1,1 @@
+UploadHandle acts as an observer for publisher AbstractContractMultipartUploaderTest, ITestS3AContractMultipartUploader, TestHDFSContractMultipartUploader, which is inherited by BBUploadHandle, which tos Byte Array, which byteses, which equals Object parameter of other.

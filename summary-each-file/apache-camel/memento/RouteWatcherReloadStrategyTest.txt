@@ -1,0 +1,2 @@
+RouteWatcherReloadStrategyTest acts as a caretaker for memento Context, which tests Base Path Exact, which tests Base Path Wildcard Extension, which tests Base Path Full Wildcard, which tests Null Pattern.
+RouteWatcherReloadStrategyTest acts as a caretaker for memento Producer, which tests Base Path Exact, which tests Base Path Wildcard Extension, which tests Base Path Full Wildcard, which tests Null Pattern.

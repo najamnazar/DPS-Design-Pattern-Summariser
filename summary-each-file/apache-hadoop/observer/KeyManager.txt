@@ -1,0 +1,1 @@
+KeyManager acts as an observer, which starts Block Key Updater, which gets ExtendedBlock parameter of eb, StorageType[] parameter of storageTypes, String[] parameter of storageIds Access Token, which news Data Encryption Key, which closes, which runs, which closes.

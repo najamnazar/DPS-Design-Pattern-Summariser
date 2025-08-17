@@ -1,0 +1,1 @@
+ManagedLog acts as a publisher for observer Route, which gets Message, which gets Logging Level, which gets Log Name, which gets Marker.

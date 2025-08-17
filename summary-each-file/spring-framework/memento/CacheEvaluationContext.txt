@@ -1,0 +1,1 @@
+CacheEvaluationContext acts as a caretaker for memento Parameter, which adds String parameter of name Unavailable Variable, which lookups String parameter of name Variable.

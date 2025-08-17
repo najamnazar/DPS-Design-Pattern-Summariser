@@ -1,0 +1,2 @@
+AsyncClientHttpRequestFactory acts as an adaptee for adapter InterceptingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest.
+AsyncClientHttpRequestFactory acts as an adaptee for adapter HttpComponentsAsyncClientHttpRequestFactory, which adapts to HttpComponentsClientHttpRequestFactory.

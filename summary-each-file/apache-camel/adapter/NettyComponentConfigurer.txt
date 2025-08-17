@@ -1,0 +1,1 @@
+NettyComponentConfigurer acts as a target for adapter NettyHttpComponentConfigurer, which adapts to NettyComponentConfigurer, which adapts to NettyComponentConfigurer, which adapts to NettyComponentConfigurer, which adapts to NettyComponentConfigurer, which adapts to NettyComponentConfigurer.

@@ -1,0 +1,1 @@
+Injector acts as a component for KameletMainInjector, which is inherited by SpringInjector, SpringInjector, SpringInjector, SpringInjector, ReflectionInjector, ReflectionInjector, ReflectionInjector, ReflectionInjector, DefaultInjector, DefaultInjector, DefaultInjector, DefaultInjector.

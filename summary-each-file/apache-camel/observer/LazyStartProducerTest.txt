@@ -1,0 +1,2 @@
+LazyStartProducerTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Lazy Start Producer, which lazies Start Producer Global, which lazies Start Producer Component.
+LazyStartProducerTest acts as a publisher for observer Service, which is Use Route Builder, which tests Lazy Start Producer, which lazies Start Producer Global, which lazies Start Producer Component.

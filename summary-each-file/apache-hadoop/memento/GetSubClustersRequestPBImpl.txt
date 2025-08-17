@@ -1,0 +1,3 @@
+GetSubClustersRequestPBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+GetSubClustersRequestPBImpl acts as a caretaker for memento GetSubClustersRequest, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+GetSubClustersRequestPBImpl acts as an originator for memento GetSubClustersRequest.

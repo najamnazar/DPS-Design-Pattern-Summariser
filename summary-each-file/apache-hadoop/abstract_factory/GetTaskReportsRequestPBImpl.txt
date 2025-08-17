@@ -1,0 +1,1 @@
+GetTaskReportsRequestPBImpl acts as a factory for GetTaskReportsRequest, which overrides getJobId method of GetTaskReportsRequest, setJobId method of GetTaskReportsRequest, getTaskType method of GetTaskReportsRequest, setTaskType method of GetTaskReportsRequest.

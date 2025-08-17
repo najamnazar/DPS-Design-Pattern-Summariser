@@ -1,0 +1,6 @@
+AsyncProducer acts as an adaptee for adapter ThriftProducer.
+AsyncProducer acts as an adaptee for adapter RestSwaggerProducer.
+AsyncProducer acts as an adaptee for adapter SendProcessor.
+AsyncProducer acts as an adaptee for adapter LazyStartProducer.
+AsyncProducer acts as an adaptee for adapter RestOpenApiProducer.
+AsyncProducer acts as an adaptee for adapter RecipientListProcessor.

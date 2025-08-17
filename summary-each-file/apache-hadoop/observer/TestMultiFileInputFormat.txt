@@ -1,0 +1,1 @@
+TestMultiFileInputFormat acts as a publisher for observer JobConf, which is inherited by, which gets InputSplit parameter of split, JobConf parameter of job, Reporter parameter of reporter Record Reader, which inits FileSystem parameter of fs, int parameter of numFiles, int parameter of numBytes Files, which tests Format, which tests Format With Less Paths Than Splits.

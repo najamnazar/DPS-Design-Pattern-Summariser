@@ -1,0 +1,1 @@
+LiteralNode acts as an observer, which adds String parameter of text Text, which gets Text, which quotes Embedded Nodes.

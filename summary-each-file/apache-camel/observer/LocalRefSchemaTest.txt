@@ -1,0 +1,5 @@
+LocalRefSchemaTest acts as a publisher for observer CamelContext, which tests Valid Message, which creates Route Builder.
+LocalRefSchemaTest acts as a publisher for observer FluentProducerTemplate, which tests Valid Message, which creates Route Builder.
+LocalRefSchemaTest acts as a publisher for observer Service, which tests Valid Message, which creates Route Builder.
+LocalRefSchemaTest acts as a publisher for observer ProducerTemplate, which tests Valid Message, which creates Route Builder.
+LocalRefSchemaTest acts as a publisher for observer ConsumerTemplate, which tests Valid Message, which creates Route Builder.

@@ -1,0 +1,1 @@
+SimpleBootstrapContext acts as an observer, which gets Work Manager, which gets XATerminator, which creates Timer, which is Class<? parameter of extends Context Supported, which gets Transaction Synchronization Registry.

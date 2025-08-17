@@ -1,0 +1,3 @@
+MoveResourceElementsOperation acts as a caretaker for memento S, which gets Main Task Name, which is Move.
+MoveResourceElementsOperation acts as a caretaker for memento List, which gets Main Task Name, which is Move.
+MoveResourceElementsOperation acts as a caretaker for memento Map, which gets Main Task Name, which is Move.

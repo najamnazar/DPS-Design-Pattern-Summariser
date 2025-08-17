@@ -1,0 +1,2 @@
+SimplePropertyDescriptor acts as an observer for publisher CharacterLiteral, which is inherited by, which gets Value Type, which is Mandatory.
+SimplePropertyDescriptor acts as an observer, which gets Value Type, which is Mandatory.

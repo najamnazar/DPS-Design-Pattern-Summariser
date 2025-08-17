@@ -1,0 +1,1 @@
+ILineStartFinder acts as a target for adapter AbstractDOMBuilder, which adapts to ILineStartFinder.

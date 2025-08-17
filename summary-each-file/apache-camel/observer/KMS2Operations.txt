@@ -1,0 +1,1 @@
+KMS2Operations acts as an observer for publisher KMS2Configuration, which is inherited by.

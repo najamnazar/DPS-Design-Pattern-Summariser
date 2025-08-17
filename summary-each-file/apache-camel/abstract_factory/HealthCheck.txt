@@ -1,0 +1,1 @@
+HealthCheck acts as an abstract product for HealthCheck, which is inherited by ScheduledPollConsumerHealthCheck, AbstractHealthCheck, CamelMicroProfileRepositoryHealthCheck, CamelMicroProfileHealthCheck.

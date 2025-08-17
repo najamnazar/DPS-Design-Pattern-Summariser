@@ -1,0 +1,1 @@
+SyncAttributes acts as an observer for publisher SyncReportResults, which is inherited by, which gets Describe Url, which sets String parameter of describeUrl Describe Url, which gets Instances Url, which sets String parameter of instancesUrl Instances Url.

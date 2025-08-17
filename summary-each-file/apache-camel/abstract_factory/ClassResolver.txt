@@ -1,0 +1,1 @@
+ClassResolver acts as an abstract product for ClassResolver, which is inherited by DefaultClassResolver, CamelClassResolver.

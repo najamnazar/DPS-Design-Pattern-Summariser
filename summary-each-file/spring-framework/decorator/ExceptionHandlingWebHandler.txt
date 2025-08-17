@@ -1,0 +1,1 @@
+ExceptionHandlingWebHandler acts as a decorator for decorator WebHandlerDecorator, which overrides handle method of WebHandlerDecorator.

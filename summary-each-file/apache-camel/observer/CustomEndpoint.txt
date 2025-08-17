@@ -1,0 +1,4 @@
+CustomEndpoint acts as a publisher for observer Processor, which is Singleton, which creates Endpoint Uri, which gets Foo, which gets Endpoint Uri.
+CustomEndpoint acts as an observer, which is Singleton, which creates Endpoint Uri, which gets Foo, which gets Endpoint Uri.
+CustomEndpoint acts as a publisher for observer Exchange, which is Singleton, which creates Endpoint Uri, which gets Foo, which gets Endpoint Uri.
+CustomEndpoint acts as a publisher for observer Expression, which is Singleton, which creates Endpoint Uri, which gets Foo, which gets Endpoint Uri.

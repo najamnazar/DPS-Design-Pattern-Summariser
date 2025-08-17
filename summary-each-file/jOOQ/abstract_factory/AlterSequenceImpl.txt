@@ -1,0 +1,1 @@
+AlterSequenceImpl acts as a product for AlterSequenceStep, which overrides.

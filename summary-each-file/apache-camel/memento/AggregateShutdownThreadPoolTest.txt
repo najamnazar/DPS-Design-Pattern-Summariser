@@ -1,0 +1,2 @@
+AggregateShutdownThreadPoolTest acts as a caretaker for memento Producer, which tests Aggregate Shutdown Default Thread Pool Test, which tests Aggregate Shutdown Custom Thread Pool Test, which creates Route Builder.
+AggregateShutdownThreadPoolTest acts as a caretaker for memento Context, which tests Aggregate Shutdown Default Thread Pool Test, which tests Aggregate Shutdown Custom Thread Pool Test, which creates Route Builder.

@@ -1,0 +1,5 @@
+NettyHttpComponentWithConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests Netty Component With Configuration, which tests Netty Component With Explicit Configuration.
+NettyHttpComponentWithConfigurationTest acts as a publisher for observer ProducerTemplate, which tests Netty Component With Configuration, which tests Netty Component With Explicit Configuration.
+NettyHttpComponentWithConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests Netty Component With Configuration, which tests Netty Component With Explicit Configuration.
+NettyHttpComponentWithConfigurationTest acts as a publisher for observer Service, which tests Netty Component With Configuration, which tests Netty Component With Explicit Configuration.
+NettyHttpComponentWithConfigurationTest acts as a publisher for observer CamelContext, which tests Netty Component With Configuration, which tests Netty Component With Explicit Configuration.

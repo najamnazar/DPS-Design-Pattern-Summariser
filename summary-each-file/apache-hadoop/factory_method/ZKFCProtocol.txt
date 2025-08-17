@@ -1,0 +1,1 @@
+ZKFCProtocol acts as an abstract product for ZKFailoverController, which is inherited by ZKFCRpcServer, ZKFCProtocolClientSideTranslatorPB.

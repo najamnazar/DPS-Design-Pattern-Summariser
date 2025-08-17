@@ -1,0 +1,3 @@
+ConfigurationMethod acts as a caretaker for memento Configuration, which is inherited by, which gets Metadata, which gets Configuration Class, which gets Resource Location, which validates ProblemReporter parameter of problemReporter, which tos String.
+ConfigurationMethod acts as a caretaker for memento MethodMetadata, which is inherited by, which gets Metadata, which gets Configuration Class, which gets Resource Location, which validates ProblemReporter parameter of problemReporter, which tos String.
+ConfigurationMethod acts as a caretaker for memento C, which is inherited by, which gets Metadata, which gets Configuration Class, which gets Resource Location, which validates ProblemReporter parameter of problemReporter, which tos String.

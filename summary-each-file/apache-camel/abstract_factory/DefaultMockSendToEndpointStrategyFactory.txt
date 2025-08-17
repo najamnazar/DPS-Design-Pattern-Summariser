@@ -1,0 +1,1 @@
+DefaultMockSendToEndpointStrategyFactory acts as a factory for MockSendToEndpointStrategyFactory, which overrides mock method of MockSendToEndpointStrategyFactory.

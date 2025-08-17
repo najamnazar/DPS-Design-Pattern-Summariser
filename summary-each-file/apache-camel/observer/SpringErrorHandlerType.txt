@@ -1,0 +1,1 @@
+SpringErrorHandlerType acts as an observer for publisher SpringErrorHandlerDefinition, which is inherited by, which gets Type As Class.

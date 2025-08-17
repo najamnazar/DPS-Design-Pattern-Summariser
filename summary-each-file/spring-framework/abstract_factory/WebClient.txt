@@ -1,0 +1,2 @@
+WebClient acts as an abstract factory for WebClient, which is inherited by DefaultWebClient.
+WebClient acts as an abstract product for WebClient, which is inherited by DefaultWebClient, DefaultWebClient, DefaultWebClient.

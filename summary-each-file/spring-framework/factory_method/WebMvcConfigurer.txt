@@ -1,0 +1,1 @@
+WebMvcConfigurer acts as a factory for WebMvcConfigurerAdapter, which overrides.

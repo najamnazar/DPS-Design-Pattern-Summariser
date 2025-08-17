@@ -1,0 +1,1 @@
+SubClusterCleaner acts as an adaptee for adapter GlobalPolicyGenerator, which adapts to CompositeService.

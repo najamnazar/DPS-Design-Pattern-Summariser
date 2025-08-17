@@ -1,0 +1,1 @@
+DefaultIdentityDefinition acts as a product for AbstractTableDefinition, which overrides getTable method of IdentityDefinition, getColumn method of IdentityDefinition.

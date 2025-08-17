@@ -1,0 +1,2 @@
+InterfaceDeclarationImpl acts as a product for InterfaceType, which overrides.
+InterfaceDeclarationImpl acts as a factory for InterfaceType, which overrides.

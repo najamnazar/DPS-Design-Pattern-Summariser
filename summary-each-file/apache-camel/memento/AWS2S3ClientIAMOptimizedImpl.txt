@@ -1,0 +1,2 @@
+AWS2S3ClientIAMOptimizedImpl acts as a memento, which gets S3Client.
+AWS2S3ClientIAMOptimizedImpl acts as a caretaker for memento Configuration, which gets S3Client.

@@ -1,0 +1,2 @@
+SqlEndpointMisconfigureDataSourceTest acts as a caretaker for memento Context, which tests Fail, which tests Ok, which sets Up, which tears Down.
+SqlEndpointMisconfigureDataSourceTest acts as a caretaker for memento Producer, which tests Fail, which tests Ok, which sets Up, which tears Down.

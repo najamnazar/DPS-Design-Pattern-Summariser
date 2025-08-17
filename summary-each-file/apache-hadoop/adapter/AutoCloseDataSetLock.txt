@@ -1,0 +1,3 @@
+AutoCloseDataSetLock acts as an adaptee for adapter AutoCloseDataSetLock, which adapts close method of AutoCloseDataSetLock to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock.
+AutoCloseDataSetLock acts as an adapter, which adapts close method of AutoCloseDataSetLock to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock.
+AutoCloseDataSetLock acts as an adapter, which adapts close method of Lock to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock.

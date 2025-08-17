@@ -1,0 +1,1 @@
+ManagedConsumer acts as a publisher for observer Route, which gets Consumer, which gets Endpoint Uri, which gets Inflight Exchanges.

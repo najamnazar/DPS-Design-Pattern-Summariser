@@ -1,0 +1,1 @@
+SplitPackageBinding acts as a product for NullReferenceImplTests, which overrides getPackage0 method of PackageBinding, toString method of PackageBinding.

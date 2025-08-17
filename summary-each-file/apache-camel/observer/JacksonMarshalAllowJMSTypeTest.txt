@@ -1,0 +1,5 @@
+JacksonMarshalAllowJMSTypeTest acts as a publisher for observer CamelContext, which tests Unmarshal Pojo, which creates Route Builder.
+JacksonMarshalAllowJMSTypeTest acts as a publisher for observer ProducerTemplate, which tests Unmarshal Pojo, which creates Route Builder.
+JacksonMarshalAllowJMSTypeTest acts as a publisher for observer ConsumerTemplate, which tests Unmarshal Pojo, which creates Route Builder.
+JacksonMarshalAllowJMSTypeTest acts as a publisher for observer FluentProducerTemplate, which tests Unmarshal Pojo, which creates Route Builder.
+JacksonMarshalAllowJMSTypeTest acts as a publisher for observer Service, which tests Unmarshal Pojo, which creates Route Builder.

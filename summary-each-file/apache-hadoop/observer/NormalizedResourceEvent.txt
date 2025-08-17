@@ -1,0 +1,1 @@
+NormalizedResourceEvent acts as an observer, which gets Task Type, which gets Memory, which gets Event Type, which gets Datum, which sets Object parameter of datum Datum, which tos Timeline Event, which gets Timeline Metrics.

@@ -1,0 +1,7 @@
+Route acts as a factory for Route, which overrides.
+Route acts as a factory for NamedRoute, which overrides.
+Route acts as a factory for ManagedRouteMBean, which overrides.
+Route acts as a factory method for ManagementInterceptStrategy, which is inherited by Route.
+Route acts as a factory for FaultToleranceProcessorFactory, which overrides.
+Route acts as an abstract product for ScheduledJobState, which is inherited by DefaultRoute.
+Route acts as a factory for CamelCoapResource, which overrides.

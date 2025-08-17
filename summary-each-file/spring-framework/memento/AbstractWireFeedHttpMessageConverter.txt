@@ -1,0 +1,1 @@
+AbstractWireFeedHttpMessageConverter acts as a caretaker for memento C, which reads Class<? parameter of extends, HttpInputMessage parameter of inputMessage Internal, which writes T parameter of wireFeed, HttpOutputMessage parameter of outputMessage Internal.

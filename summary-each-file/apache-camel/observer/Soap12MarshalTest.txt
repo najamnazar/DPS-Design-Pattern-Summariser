@@ -1,0 +1,5 @@
+Soap12MarshalTest acts as a publisher for observer CamelContext, which tests Marshal Normal Object, which tests Marshal Exception, which creates Data Format, which creates Route Builder.
+Soap12MarshalTest acts as a publisher for observer ConsumerTemplate, which tests Marshal Normal Object, which tests Marshal Exception, which creates Data Format, which creates Route Builder.
+Soap12MarshalTest acts as a publisher for observer ProducerTemplate, which tests Marshal Normal Object, which tests Marshal Exception, which creates Data Format, which creates Route Builder.
+Soap12MarshalTest acts as a publisher for observer FluentProducerTemplate, which tests Marshal Normal Object, which tests Marshal Exception, which creates Data Format, which creates Route Builder.
+Soap12MarshalTest acts as a publisher for observer Service, which tests Marshal Normal Object, which tests Marshal Exception, which creates Data Format, which creates Route Builder.

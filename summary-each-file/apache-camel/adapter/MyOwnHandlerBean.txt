@@ -1,0 +1,2 @@
+MyOwnHandlerBean acts as an adaptee for adapter OnExceptionRouteTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyOwnHandlerBean acts as an adaptee for adapter OnExceptionRouteWithDefaultErrorHandlerTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

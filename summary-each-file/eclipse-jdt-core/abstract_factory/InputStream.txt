@@ -1,0 +1,1 @@
+InputStream acts as an abstract product for InputStream, which is inherited by VMInputStream, BufferedInputStream, ByteArrayInputStream, FileInputStream.

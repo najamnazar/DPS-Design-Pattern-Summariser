@@ -1,0 +1,3 @@
+Authenticator acts as a target for adapter DelegationTokenAuthenticator, which adapts to Authenticator, which adapts to Authenticator.
+Authenticator acts as a target for adapter PseudoAuthenticator, which adapts to Authenticator, which adapts to Authenticator.
+Authenticator acts as a target for adapter KerberosAuthenticator, which adapts to Authenticator, which adapts to Authenticator.

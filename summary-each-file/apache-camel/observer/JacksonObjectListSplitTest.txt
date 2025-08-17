@@ -1,0 +1,5 @@
+JacksonObjectListSplitTest acts as a publisher for observer CamelContext, which tests Jackson, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+JacksonObjectListSplitTest acts as a publisher for observer FluentProducerTemplate, which tests Jackson, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+JacksonObjectListSplitTest acts as a publisher for observer Service, which tests Jackson, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+JacksonObjectListSplitTest acts as a publisher for observer ProducerTemplate, which tests Jackson, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.
+JacksonObjectListSplitTest acts as a publisher for observer ConsumerTemplate, which tests Jackson, which creates Route Builder, which gets Dummy, which sets String parameter of dummy Dummy.

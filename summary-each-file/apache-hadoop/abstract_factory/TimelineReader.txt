@@ -1,0 +1,1 @@
+TimelineReader acts as an abstract factory for TimelineEntity, which is inherited by NoOpTimelineReaderImpl, HBaseTimelineReaderImpl, DocumentStoreTimelineReaderImpl, FileSystemTimelineReaderImpl.

@@ -1,0 +1,1 @@
+BindingMap acts as a publisher for observer TypeBinding, which is inherited by, which puts TypeBinding parameter of key, V parameter of value, which gets TypeBinding parameter of key, which inserts int parameter of targetId, V parameter of value Into Id Map, which clears.

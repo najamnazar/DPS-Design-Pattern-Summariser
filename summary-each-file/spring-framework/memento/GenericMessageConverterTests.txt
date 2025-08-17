@@ -1,0 +1,2 @@
+GenericMessageConverterTests acts as a caretaker for memento C, which froms Message With Conversion, which froms Message No Converter, which froms Message With Failed Conversion.
+GenericMessageConverterTests acts as a caretaker for memento Message, which froms Message With Conversion, which froms Message No Converter, which froms Message With Failed Conversion.

@@ -1,0 +1,3 @@
+StartupListener acts as an adaptee for adapter QuickfixjComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+StartupListener acts as an adaptee for adapter CamelMicroProfileHealthCheckRegistry, which adapts to DefaultHealthCheckRegistry, which adapts to DefaultHealthCheckRegistry, which adapts to DefaultHealthCheckRegistry.
+StartupListener acts as an adaptee for adapter TimerConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

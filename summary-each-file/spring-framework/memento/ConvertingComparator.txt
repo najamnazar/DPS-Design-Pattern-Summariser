@@ -1,0 +1,2 @@
+ConvertingComparator acts as a caretaker for memento C, which compares S parameter of o1, S parameter of o2, which maps Comparator<K> parameter of comparator Entry Keys, which maps Comparator<V> parameter of comparator Entry Values, which converts S parameter of source.
+ConvertingComparator acts as a caretaker for memento Comparator, which compares S parameter of o1, S parameter of o2, which maps Comparator<K> parameter of comparator Entry Keys, which maps Comparator<V> parameter of comparator Entry Values, which converts S parameter of source.

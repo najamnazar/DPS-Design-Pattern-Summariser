@@ -1,0 +1,1 @@
+TranslatingMetaProvider acts as a memento, which closes Script, which closes Script, which closes Script.

@@ -1,0 +1,1 @@
+KubernetesHPAConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which runs, which gets Watch, which sets Watch parameter of watch Watch.

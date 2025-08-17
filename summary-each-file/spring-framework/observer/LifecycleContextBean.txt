@@ -1,0 +1,2 @@
+LifecycleContextBean acts as a publisher for observer ApplicationContext, which is inherited by, which sets BeanFactory parameter of beanFactory Bean Factory, which afters Properties Set, which sets ApplicationContext parameter of applicationContext Application Context.
+LifecycleContextBean acts as a publisher for observer ApplicationContext, which sets BeanFactory parameter of beanFactory Bean Factory, which afters Properties Set, which sets ApplicationContext parameter of applicationContext Application Context.

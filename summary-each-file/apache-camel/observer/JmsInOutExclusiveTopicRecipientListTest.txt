@@ -1,0 +1,1 @@
+JmsInOutExclusiveTopicRecipientListTest acts as a publisher for observer ArtemisService, which tests Jms In Out Exclusive Topic Test, which gets Component Name, which creates Route Builder.

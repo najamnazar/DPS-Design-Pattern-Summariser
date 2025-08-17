@@ -1,0 +1,1 @@
+AspectJTypeFilter acts as an observer, which matches MetadataReader parameter of metadataReader, MetadataReaderFactory parameter of metadataReaderFactory.

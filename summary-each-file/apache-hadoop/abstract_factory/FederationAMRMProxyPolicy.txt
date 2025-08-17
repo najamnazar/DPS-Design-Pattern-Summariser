@@ -1,0 +1,1 @@
+FederationAMRMProxyPolicy acts as an abstract product for FederationAMRMProxyPolicy, which is inherited by AbstractAMRMProxyPolicy.

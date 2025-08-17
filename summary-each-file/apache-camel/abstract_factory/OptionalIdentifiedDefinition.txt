@@ -1,0 +1,6 @@
+OptionalIdentifiedDefinition acts as a factory for NamedNode, which overrides getId method of NamedNode, getParent method of NamedNode, getDescriptionText method of NamedNode.
+OptionalIdentifiedDefinition acts as a product for Route, which overrides getId method of NamedNode, getParent method of NamedNode, getDescriptionText method of NamedNode.
+OptionalIdentifiedDefinition acts as a product for NamedRoute, which overrides getId method of NamedNode, getParent method of NamedNode, getDescriptionText method of NamedNode.
+OptionalIdentifiedDefinition acts as a product for MessageHistory, which overrides getId method of NamedNode, getParent method of NamedNode, getDescriptionText method of NamedNode.
+OptionalIdentifiedDefinition acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+OptionalIdentifiedDefinition acts as a product for NamedNode, which overrides getId method of NamedNode, getParent method of NamedNode, getDescriptionText method of NamedNode.

@@ -1,0 +1,1 @@
+CamelCoapResource acts as a publisher for observer CoAPConsumer, which is inherited by, which adds CoAPConsumer parameter of consumer Consumer, which gets String parameter of name Child, which handles Exchange parameter of exchange Request.

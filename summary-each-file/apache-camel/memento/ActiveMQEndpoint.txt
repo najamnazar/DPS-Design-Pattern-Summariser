@@ -1,0 +1,1 @@
+ActiveMQEndpoint acts as a caretaker for memento Configuration, which gets Destination Options, which sets Map<String, parameter of String> Destination Options.

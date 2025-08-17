@@ -1,0 +1,1 @@
+DeferServiceFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultDeferServiceFactory, which creates Endpoint parameter of endpoint Producer.

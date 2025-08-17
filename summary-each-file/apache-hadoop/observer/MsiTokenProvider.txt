@@ -1,0 +1,1 @@
+MsiTokenProvider acts as a publisher for observer Configuration, which refreshes Token, which is Token About To Expire.

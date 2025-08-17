@@ -1,0 +1,2 @@
+SplitWithCustomAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Split With Custom Aggregator Strategy, which creates Route Builder.
+SplitWithCustomAggregationStrategyTest acts as a publisher for observer Service, which tests Split With Custom Aggregator Strategy, which creates Route Builder.

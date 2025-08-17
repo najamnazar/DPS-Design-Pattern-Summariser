@@ -1,0 +1,2 @@
+LanguageXPathRouteTest acts as a publisher for observer CamelContext, which tests Language, which creates Route Builder.
+LanguageXPathRouteTest acts as a publisher for observer Service, which tests Language, which creates Route Builder.

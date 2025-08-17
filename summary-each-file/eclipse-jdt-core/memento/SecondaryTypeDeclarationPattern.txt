@@ -1,0 +1,1 @@
+SecondaryTypeDeclarationPattern acts as a caretaker for memento S, which gets Blank Pattern, which prints StringBuilder parameter of output, which queries Index parameter of index In.

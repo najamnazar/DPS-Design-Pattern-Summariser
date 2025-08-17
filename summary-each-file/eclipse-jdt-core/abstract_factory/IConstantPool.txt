@@ -1,0 +1,1 @@
+IConstantPool acts as an abstract factory for IConstantPoolEntry, which is inherited by.

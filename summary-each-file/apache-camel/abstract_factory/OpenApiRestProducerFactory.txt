@@ -1,0 +1,1 @@
+OpenApiRestProducerFactory acts as a factory for RestProducerFactory, which overrides createProducer method of RestProducerFactory.

@@ -1,0 +1,1 @@
+Advice acts as a memento, which is inherited by BeforeAdvice, AfterAdvice, AbstractAspectJAdvice, DynamicIntroductionAdvice, Interceptor.

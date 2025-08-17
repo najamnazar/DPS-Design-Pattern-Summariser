@@ -1,0 +1,1 @@
+CaffeineCacheManager acts as a product for JCacheManagerFactoryBean, which overrides getCacheNames method of CacheManager, getCache method of CacheManager.

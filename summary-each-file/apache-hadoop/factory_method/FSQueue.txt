@@ -1,0 +1,1 @@
+FSQueue acts as a product for SchedulerApplicationAttempt, which overrides getQueueName method of Queue, getQueueInfo method of Queue, getAccessibleNodeLabels method of Queue, getDefaultNodeLabelExpression method of Queue, incPendingResource method of Queue, decPendingResource method of Queue, getDefaultApplicationPriority method of Queue.

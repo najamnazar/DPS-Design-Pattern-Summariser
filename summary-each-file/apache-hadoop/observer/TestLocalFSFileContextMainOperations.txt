@@ -1,0 +1,2 @@
+TestLocalFSFileContextMainOperations acts as a publisher for observer FileContext, which sets Up, which gets Default Working Directory, which tests File Context No Cache, which lists Corrupted Blocks Supported, which tests Default File Permission.
+TestLocalFSFileContextMainOperations acts as a publisher for observer Path, which sets Up, which gets Default Working Directory, which tests File Context No Cache, which lists Corrupted Blocks Supported, which tests Default File Permission.

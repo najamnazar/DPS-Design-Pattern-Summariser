@@ -1,0 +1,1 @@
+BecomeWorkingCopyOperation acts as an adapter, which adapts to JavaModelOperation, which adapts getWorkingCopy method of IProblemRequestor to JavaModelOperation, which adapts to JavaModelOperation.

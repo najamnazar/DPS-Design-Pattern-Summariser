@@ -1,0 +1,1 @@
+CurrencyStyleFormatterTests acts as a caretaker for memento C, which formats Value, which parses Value, which parses Bogus Value, which parses Value Default Round Down, which parses Whole Value, which parses Value Not Lenient Failure.

@@ -1,0 +1,2 @@
+ShutdownDeferTest acts as a caretaker for memento Producer, which tests Shutdown Deferred, which creates Route Builder, which news Processor parameter of processor, GenericFileOperations<File> parameter of operations File Consumer.
+ShutdownDeferTest acts as a caretaker for memento Context, which tests Shutdown Deferred, which creates Route Builder, which news Processor parameter of processor, GenericFileOperations<File> parameter of operations File Consumer.

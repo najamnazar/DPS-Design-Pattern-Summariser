@@ -1,0 +1,1 @@
+ZKFCProtocolClientSideTranslatorPB acts as an observer, which cedes int parameter of millisToCede Active, which gracefuls Failover, which closes, which gets Underlying Proxy Object.

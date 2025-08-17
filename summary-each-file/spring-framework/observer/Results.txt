@@ -1,0 +1,1 @@
+Results acts as a publisher for observer Configuration, which is inherited by ResultsImpl, which results Or Rows, which attaches Configuration parameter of configuration, which detaches.

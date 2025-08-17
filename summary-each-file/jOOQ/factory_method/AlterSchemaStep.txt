@@ -1,0 +1,2 @@
+AlterSchemaStep acts as a factory for AlterSchemaStep, which overrides.
+AlterSchemaStep acts as a factory method for AlterSchemaFinalStep, which is inherited by AlterSchemaStep.

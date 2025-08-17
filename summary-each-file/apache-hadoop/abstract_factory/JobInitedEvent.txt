@@ -1,0 +1,2 @@
+JobInitedEvent acts as a factory for HistoryEvent, which overrides toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.
+JobInitedEvent acts as a product for JobHistoryParser, which overrides toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.

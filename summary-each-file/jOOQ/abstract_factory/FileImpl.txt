@@ -1,0 +1,2 @@
+FileImpl acts as a product for GeneratorStrategy, which overrides path method of File, name method of File, content method of File, type method of File.
+FileImpl acts as a factory for File, which overrides path method of File, name method of File, content method of File, type method of File.

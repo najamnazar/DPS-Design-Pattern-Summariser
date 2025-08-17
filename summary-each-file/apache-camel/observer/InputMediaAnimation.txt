@@ -1,0 +1,1 @@
+InputMediaAnimation acts as an observer, which gets Width, which sets Integer parameter of width Width, which gets Height, which sets Integer parameter of heigth Height, which gets Duration, which sets Integer parameter of duration Duration.

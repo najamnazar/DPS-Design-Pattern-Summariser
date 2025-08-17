@@ -1,0 +1,1 @@
+MongoDBService acts as an adaptee for adapter AbstractMongoDbITSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

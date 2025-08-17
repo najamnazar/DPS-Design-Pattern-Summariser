@@ -1,0 +1,1 @@
+ErrorHandlerCamelContextRefNotFoundTest acts as a caretaker for memento Context, which sets Up, which creates Application Context, which tests Dummy.

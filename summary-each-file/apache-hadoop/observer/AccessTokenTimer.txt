@@ -1,0 +1,1 @@
+AccessTokenTimer acts as a publisher for observer Timer, which is inherited by, which sets String parameter of expiresIn Expires In, which sets String parameter of expiresInMSSinceEpoch Expires In MSSince Epoch, which gets Next Refresh MSSince Epoch, which shoulds Refresh, which converts Timer parameter of timer, String parameter of expiresInSecs Expires In.

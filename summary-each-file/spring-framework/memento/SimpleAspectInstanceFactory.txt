@@ -1,0 +1,1 @@
+SimpleAspectInstanceFactory acts as a caretaker for memento C, which is inherited by, which gets Aspect Class, which gets Aspect Instance, which gets Aspect Class Loader, which gets Order, which gets Class<?> parameter of aspectClass Order For Aspect Class.

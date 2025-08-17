@@ -1,0 +1,2 @@
+ClaimCheckEipGetSetTest acts as a publisher for observer CamelContext, which tests Get Set, which creates Route Builder.
+ClaimCheckEipGetSetTest acts as a publisher for observer Service, which tests Get Set, which creates Route Builder.

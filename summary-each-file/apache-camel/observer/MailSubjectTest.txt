@@ -1,0 +1,5 @@
+MailSubjectTest acts as a publisher for observer ProducerTemplate, which tests Mail Subject, which creates Route Builder.
+MailSubjectTest acts as a publisher for observer CamelContext, which tests Mail Subject, which creates Route Builder.
+MailSubjectTest acts as a publisher for observer Service, which tests Mail Subject, which creates Route Builder.
+MailSubjectTest acts as a publisher for observer ConsumerTemplate, which tests Mail Subject, which creates Route Builder.
+MailSubjectTest acts as a publisher for observer FluentProducerTemplate, which tests Mail Subject, which creates Route Builder.

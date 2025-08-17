@@ -1,0 +1,2 @@
+AthenaComponentClientRegistryTest acts as a caretaker for memento Context, which creates Endpoint With Minimal Athena Client Configuration, which creates Endpoint With Minimal Athena Client Misconfiguration, which creates Endpoint With Autowire.
+AthenaComponentClientRegistryTest acts as a caretaker for memento Producer, which creates Endpoint With Minimal Athena Client Configuration, which creates Endpoint With Minimal Athena Client Misconfiguration, which creates Endpoint With Autowire.

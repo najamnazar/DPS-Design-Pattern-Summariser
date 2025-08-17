@@ -1,0 +1,2 @@
+JobQueueInfo acts as a product for Queue, which overrides.
+JobQueueInfo acts as a product for YarnScheduler, which overrides.

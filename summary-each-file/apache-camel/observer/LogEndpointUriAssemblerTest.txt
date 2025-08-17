@@ -1,0 +1,2 @@
+LogEndpointUriAssemblerTest acts as a publisher for observer CamelContext, which tests Log Assembler.
+LogEndpointUriAssemblerTest acts as a publisher for observer Service, which tests Log Assembler.

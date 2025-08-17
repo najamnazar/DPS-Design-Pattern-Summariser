@@ -1,0 +1,1 @@
+JSR356Consumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which adds final parameter of CamelServerEndpoint Observer, which does Stop.

@@ -1,0 +1,1 @@
+LinuxResourceCalculatorPlugin acts as a caretaker for memento SysInfo.

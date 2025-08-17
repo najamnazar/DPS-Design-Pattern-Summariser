@@ -1,0 +1,1 @@
+RoutesBuilder acts as an observer for publisher MainConfigurationProperties, which is inherited by RouteBuilder, which adds CamelContext parameter of context Routes To Camel Context, which adds CamelContext parameter of context Templated Routes To Camel Context, which updates CamelContext parameter of context Routes To Camel Context.

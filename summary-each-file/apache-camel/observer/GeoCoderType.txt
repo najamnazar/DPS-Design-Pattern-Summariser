@@ -1,0 +1,1 @@
+GeoCoderType acts as an observer for publisher GeoCoderEndpoint, which is inherited by, which values, which froms String parameter of v Value.

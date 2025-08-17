@@ -1,0 +1,2 @@
+BeanProcessorSpecializedMessageTest acts as a publisher for observer CamelContext, which tests Bean Specialized Message, which creates Route Builder, which news Instance, which empties String parameter of body.
+BeanProcessorSpecializedMessageTest acts as a publisher for observer Service, which tests Bean Specialized Message, which creates Route Builder, which news Instance, which empties String parameter of body.

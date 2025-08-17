@@ -1,0 +1,1 @@
+PerGpuMemoryUsage acts as an observer for publisher PerGpuDeviceInformation, which is inherited by, which gets Used Memory Mi B, which sets Long parameter of usedMemoryMiB Used Memory Mi B, which gets Avail Memory Mi B, which sets Long parameter of availMemoryMiB Avail Memory Mi B, which gets Total Memory Mi B.

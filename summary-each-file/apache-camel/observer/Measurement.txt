@@ -1,0 +1,1 @@
+Measurement acts as an observer for publisher Measurements, which is inherited by, which froms Object parameter of measurement Object, which gets Influx Measurement, which checks Object parameter of measurement, which tos String.

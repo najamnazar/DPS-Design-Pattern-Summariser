@@ -1,0 +1,1 @@
+FreeGeoIpGeoLocationProvider acts as a factory for GeoLocationProvider, which overrides getCurrentGeoLocation method of GeoLocationProvider.

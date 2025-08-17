@@ -1,0 +1,1 @@
+LazyName acts as a publisher for observer Name, which names, which accepts Context<?> parameter of ctx, which firsts, which lasts, which empties, which qualifies, which qualifiers Qualified, which qualifiers, which unqualifieds Name, which quotes, which quotes Name, which unquoteds Name, which parts, which gets Name, which hashes Code.

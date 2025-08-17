@@ -1,0 +1,1 @@
+SWebHdfs acts as a publisher for observer FileSystem, which creates Configuration parameter of conf SWeb Hdfs File System.

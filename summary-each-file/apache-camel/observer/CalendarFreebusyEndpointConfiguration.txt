@@ -1,0 +1,2 @@
+CalendarFreebusyEndpointConfiguration acts as a publisher for observer GoogleCalendarApiName, which gets Content, which sets com.google.api.services.calendar.model.FreeBusyRequest parameter of content Content.
+CalendarFreebusyEndpointConfiguration acts as an observer, which gets Content, which sets com.google.api.services.calendar.model.FreeBusyRequest parameter of content Content.

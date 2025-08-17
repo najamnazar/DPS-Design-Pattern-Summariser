@@ -1,0 +1,1 @@
+AlterTableImpl acts as a product for AlterTableStep, which overrides cascade method of AlterTableDropStep, restrict method of AlterTableDropStep.

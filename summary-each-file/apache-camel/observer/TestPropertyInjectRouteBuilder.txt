@@ -1,0 +1,7 @@
+TestPropertyInjectRouteBuilder acts as a publisher for observer Resource, which configures.
+TestPropertyInjectRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+TestPropertyInjectRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+TestPropertyInjectRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+TestPropertyInjectRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+TestPropertyInjectRouteBuilder acts as an observer, which configures.
+TestPropertyInjectRouteBuilder acts as a publisher for observer RestsDefinition, which configures.

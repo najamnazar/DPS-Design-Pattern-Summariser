@@ -1,0 +1,1 @@
+ITestS3ABlocksize acts as a publisher for observer AuditSpanSource, which tests Block Size, which tests Root File Status Has Blocksize.

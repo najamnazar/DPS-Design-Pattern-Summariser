@@ -1,0 +1,3 @@
+FlightRecorderApplicationStartup acts as a product for ConfigurableApplicationContext, which overrides start method of ApplicationStartup.
+FlightRecorderApplicationStartup acts as a factory for ApplicationStartup, which overrides start method of ApplicationStartup.
+FlightRecorderApplicationStartup acts as a product for ConfigurableBeanFactory, which overrides start method of ApplicationStartup.

@@ -1,0 +1,1 @@
+RowCountQuery acts as a memento, which is inherited by StoreQuery, DDLQuery, DMLQuery, Block, AbstractRowCountQuery, AbstractDelegatingDMLQuery.

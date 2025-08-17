@@ -1,0 +1,2 @@
+AbfsCounters acts as a product for S3AStore, which overrides trackDuration method of DurationTrackerFactory.
+AbfsCounters acts as an abstract factory for DurationTracker, which is inherited by AbfsCountersImpl.

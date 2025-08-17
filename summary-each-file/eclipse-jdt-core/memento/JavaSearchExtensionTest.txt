@@ -1,0 +1,5 @@
+JavaSearchExtensionTest acts as a caretaker for memento String, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a caretaker for memento S, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a caretaker for memento C, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a caretaker for memento List, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a caretaker for memento R, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.

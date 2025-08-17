@@ -1,0 +1,1 @@
+DefaultThreadPoolFactory acts as a target for adapter VertXThreadPoolFactory, which adapts to DefaultThreadPoolFactory, which adapts to DefaultThreadPoolFactory, which adapts to DefaultThreadPoolFactory, which adapts to DefaultThreadPoolFactory, which adapts to DefaultThreadPoolFactory, which adapts to DefaultThreadPoolFactory.

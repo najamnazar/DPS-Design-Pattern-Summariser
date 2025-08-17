@@ -1,0 +1,4 @@
+ReferenceMatch acts as a publisher for observer Object, which gets Local Element, which sets IJavaElement parameter of element Local Element.
+ReferenceMatch acts as a publisher for observer SearchParticipant, which gets Local Element, which sets IJavaElement parameter of element Local Element.
+ReferenceMatch acts as a publisher for observer IJavaElement, which is inherited by MethodReferenceMatch, FieldReferenceMatch, PackageReferenceMatch, ModuleReferenceMatch, TypeReferenceMatch, which gets Local Element, which sets IJavaElement parameter of element Local Element.
+ReferenceMatch acts as an observer, which gets Local Element, which sets IJavaElement parameter of element Local Element.

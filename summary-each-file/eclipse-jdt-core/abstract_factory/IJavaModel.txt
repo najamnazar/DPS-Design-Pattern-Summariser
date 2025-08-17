@@ -1,0 +1,11 @@
+IJavaModel acts as a product for IClassFile, which overrides.
+IJavaModel acts as an abstract factory for IJavaProject, which is inherited by JavaModel.
+IJavaModel acts as a product for IJavaElementDelta, which overrides.
+IJavaModel acts as a product for IDOMNode, which overrides.
+IJavaModel acts as a product for IBuffer, which overrides.
+IJavaModel acts as a product for IJavaElement, which overrides.
+IJavaModel acts as a product for ITypeRoot, which overrides.
+IJavaModel acts as a product for IWorkingCopy, which overrides.
+IJavaModel acts as a product for IBinding, which overrides.
+IJavaModel acts as a product for IJavaProject, which overrides.
+IJavaModel acts as an abstract product for IJavaModel, which is inherited by JavaModel.

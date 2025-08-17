@@ -1,0 +1,9 @@
+S3AFileSystem acts as a factory for AuditIntegration, which overrides.
+S3AFileSystem acts as a factory for S3AStoreImpl, which overrides.
+S3AFileSystem acts as a factory for S3AStoreBuilder, which overrides completeMultipartUpload method of S3AStoreBuilder, hasCapability method of S3AStoreBuilder, getRequestFactory method of S3AStoreBuilder.
+S3AFileSystem acts as a factory for S3AFileSystem, which overrides.
+S3AFileSystem acts as a factory for ObjectReadParameters, which overrides.
+S3AFileSystem acts as a factory for IOStatisticAssertions, which overrides.
+S3AFileSystem acts as a factory for BlockManagerParameters, which overrides.
+S3AFileSystem acts as a factory method for S3AFileSystemOperations, which is inherited by S3AFileSystem.
+S3AFileSystem acts as a factory for ActiveAuditManagerS3A, which overrides.

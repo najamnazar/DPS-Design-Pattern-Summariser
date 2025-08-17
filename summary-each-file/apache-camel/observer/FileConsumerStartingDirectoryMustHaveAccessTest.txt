@@ -1,0 +1,2 @@
+FileConsumerStartingDirectoryMustHaveAccessTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Starting Directory Must Have Access.
+FileConsumerStartingDirectoryMustHaveAccessTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Starting Directory Must Have Access.

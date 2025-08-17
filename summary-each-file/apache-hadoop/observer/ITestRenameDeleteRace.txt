@@ -1,0 +1,1 @@
+ITestRenameDeleteRace acts as a publisher for observer AuditSpanSource, which tests Delete Rename Race Condition, which maybes final parameter of Path Create Fake Parent Directory, which blocks Fake Dir Creation, which awaits Fake Dir Creation, which allows Fake Dir Creation To Proceed.

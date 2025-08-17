@@ -1,0 +1,1 @@
+ReservationsACLsManager acts as a publisher for observer ReservationACL, which is inherited by FairReservationsACLsManager, CapacityReservationsACLsManager, which checks UserGroupInformation parameter of callerUGI, ReservationACL parameter of acl, String parameter of queueName Access.

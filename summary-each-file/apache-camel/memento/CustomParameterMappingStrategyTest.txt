@@ -1,0 +1,2 @@
+CustomParameterMappingStrategyTest acts as a caretaker for memento Context, which creates Registry, which tests Exchange, which creates Route Builder, which cheeses String parameter of body, which gets Class<?> parameter of parameterType Default Parameter Type Expression.
+CustomParameterMappingStrategyTest acts as a caretaker for memento Producer, which creates Registry, which tests Exchange, which creates Route Builder, which cheeses String parameter of body, which gets Class<?> parameter of parameterType Default Parameter Type Expression.

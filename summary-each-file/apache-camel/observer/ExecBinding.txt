@@ -1,0 +1,1 @@
+ExecBinding acts as an observer for publisher ExecEndpoint, which is inherited by DefaultExecBinding, which reads Exchange parameter of exchange, ExecEndpoint parameter of endpoint Input, which writes Exchange parameter of exchange, ExecResult parameter of result Output.

@@ -1,0 +1,1 @@
+IJarEntryResource acts as an abstract factory for Object, IPackageFragmentRoot, which is inherited by JarEntryResource, NonJavaResource.

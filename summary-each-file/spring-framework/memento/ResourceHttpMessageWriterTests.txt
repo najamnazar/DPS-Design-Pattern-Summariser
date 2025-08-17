@@ -1,0 +1,1 @@
+ResourceHttpMessageWriterTests acts as a caretaker for memento Message, which gets Writable Media Types, which writes Resource, which writes Single Region, which writes Multiple Regions, which invalids Range, which tests MockServerHttpRequest parameter of request Write, which ofs int parameter of first, int parameter of last.

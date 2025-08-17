@@ -1,0 +1,1 @@
+GeneratedNameBean acts as a caretaker for memento B, which sets String parameter of beanName Bean Name, which gets Bean Name, which sets GeneratedNameBean parameter of child Child, which gets Child.

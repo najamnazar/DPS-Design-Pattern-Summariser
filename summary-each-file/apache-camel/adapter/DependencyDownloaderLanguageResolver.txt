@@ -1,0 +1,1 @@
+DependencyDownloaderLanguageResolver acts as an adapter, which adapts to DefaultLanguageResolver, which adapts to DefaultLanguageResolver.

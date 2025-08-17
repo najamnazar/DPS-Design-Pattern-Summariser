@@ -1,0 +1,1 @@
+BulkDeleteSource acts as an abstract factory for BulkDelete, which is inherited by FileSystem.

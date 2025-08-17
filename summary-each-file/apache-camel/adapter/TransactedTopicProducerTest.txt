@@ -1,0 +1,1 @@
+TransactedTopicProducerTest acts as an adapter, which adapts to JmsTestSupport, which adapts to JmsTestSupport, which adapts to JmsTestSupport.

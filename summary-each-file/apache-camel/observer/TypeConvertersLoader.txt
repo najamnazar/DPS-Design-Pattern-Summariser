@@ -1,0 +1,1 @@
+TypeConvertersLoader acts as a publisher for observer PackageScanClassResolver, which finds Package Names.

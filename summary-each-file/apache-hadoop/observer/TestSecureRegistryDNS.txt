@@ -1,0 +1,1 @@
+TestSecureRegistryDNS acts as a publisher for observer RegistryDNS, which creates Configuration, which is Secure.

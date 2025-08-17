@@ -1,0 +1,3 @@
+AggregationStrategyBeanAdapterAllowNullTest acts as a publisher for observer CamelContext, which tests Aggregate, which creates Route Builder, which adds List<String> parameter of names, User parameter of user Users, which gets Name.
+AggregationStrategyBeanAdapterAllowNullTest acts as a publisher for observer User, which is inherited by SpringAggregationStrategyBeanAdapterAllowNullTest, which tests Aggregate, which creates Route Builder, which adds List<String> parameter of names, User parameter of user Users, which gets Name.
+AggregationStrategyBeanAdapterAllowNullTest acts as a publisher for observer Service, which tests Aggregate, which creates Route Builder, which adds List<String> parameter of names, User parameter of user Users, which gets Name.

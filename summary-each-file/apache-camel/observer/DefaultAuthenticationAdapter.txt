@@ -1,0 +1,1 @@
+DefaultAuthenticationAdapter acts as an observer, which tos Subject parameter of subject Authentication, which converts @SuppressWarnings("unused") parameter of Subject To Authentication.

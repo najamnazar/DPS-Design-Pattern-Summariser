@@ -1,0 +1,1 @@
+Declarations acts as an abstract product for AnnotationProcessorEnvironment, which is inherited by DeclarationsUtil.

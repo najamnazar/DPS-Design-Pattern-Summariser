@@ -1,0 +1,1 @@
+DevConsole acts as an observer for publisher DevConsoleRegistry, DefaultDevConsoleRegistry, which is inherited by AbstractDevConsole.

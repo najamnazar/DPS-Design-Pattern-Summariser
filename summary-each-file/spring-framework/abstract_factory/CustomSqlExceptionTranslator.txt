@@ -1,0 +1,1 @@
+CustomSqlExceptionTranslator acts as a factory for SQLExceptionTranslator, which overrides translate method of SQLExceptionTranslator.

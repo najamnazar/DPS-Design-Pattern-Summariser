@@ -1,0 +1,1 @@
+TaskAttemptKillEvent acts as an observer, which gets Message, which gets Reschedule Attempt.

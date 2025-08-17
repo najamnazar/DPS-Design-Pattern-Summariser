@@ -1,0 +1,1 @@
+JobSetupCompletedEvent acts as an observer.

@@ -1,0 +1,1 @@
+BufferedClientResponse acts as an observer for publisher XmlCustomResourceTypeTestCase, which is inherited by, which gets Class<T> parameter of clazz Entity, which gets Type, which gets Status, which gets Status Info.

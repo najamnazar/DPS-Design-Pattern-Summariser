@@ -1,0 +1,2 @@
+BeforeAdvice acts as a product for Advisor, which overrides.
+BeforeAdvice acts as a product for AspectJAdvisorFactory, which overrides.

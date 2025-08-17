@@ -1,0 +1,1 @@
+SimpleKeyProvider acts as an observer, which gets String parameter of accountName, Configuration parameter of rawConfig Storage Account Key, which validates String parameter of key Storage Account Key.

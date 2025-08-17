@@ -1,0 +1,2 @@
+CompletionNodeFound acts as a caretaker for memento Binding, which throws Supplier<T> parameter of value Or Defer And Return.
+CompletionNodeFound acts as a caretaker for memento S, which throws Supplier<T> parameter of value Or Defer And Return.

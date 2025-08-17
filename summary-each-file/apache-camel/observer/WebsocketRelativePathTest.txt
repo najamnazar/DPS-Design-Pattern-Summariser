@@ -1,0 +1,5 @@
+WebsocketRelativePathTest acts as a publisher for observer CamelContext, which ons Session parameter of session Connect, which sets Up, which tests Relative Path Header, which creates Route Builder.
+WebsocketRelativePathTest acts as a publisher for observer ConsumerTemplate, which ons Session parameter of session Connect, which sets Up, which tests Relative Path Header, which creates Route Builder.
+WebsocketRelativePathTest acts as a publisher for observer Service, which ons Session parameter of session Connect, which sets Up, which tests Relative Path Header, which creates Route Builder.
+WebsocketRelativePathTest acts as a publisher for observer ProducerTemplate, which ons Session parameter of session Connect, which sets Up, which tests Relative Path Header, which creates Route Builder.
+WebsocketRelativePathTest acts as a publisher for observer FluentProducerTemplate, which ons Session parameter of session Connect, which sets Up, which tests Relative Path Header, which creates Route Builder.

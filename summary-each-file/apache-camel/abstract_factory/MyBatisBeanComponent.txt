@@ -1,0 +1,1 @@
+MyBatisBeanComponent acts as a product for MybatisComponentBuilderFactory, which overrides createEndpoint method of MyBatisComponent.

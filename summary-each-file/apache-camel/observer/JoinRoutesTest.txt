@@ -1,0 +1,2 @@
+JoinRoutesTest acts as a publisher for observer CamelContext, which tests Messages Through Different Routes, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.
+JoinRoutesTest acts as a publisher for observer Service, which tests Messages Through Different Routes, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.

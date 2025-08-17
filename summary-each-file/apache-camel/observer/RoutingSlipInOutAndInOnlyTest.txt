@@ -1,0 +1,2 @@
+RoutingSlipInOutAndInOnlyTest acts as a publisher for observer CamelContext, which tests Routing Slip In Out, which tests Routing Slip In Only, which creates Route Builder.
+RoutingSlipInOutAndInOnlyTest acts as a publisher for observer Service, which tests Routing Slip In Out, which tests Routing Slip In Only, which creates Route Builder.

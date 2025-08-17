@@ -1,0 +1,2 @@
+FileEagerDeleteTargetFileTest acts as a publisher for observer CamelContext, which sets Up, which tests Eager Delete Target File True, which tests Eager Delete Target File False, which tests Eager Delete Target File Default.
+FileEagerDeleteTargetFileTest acts as a publisher for observer Service, which sets Up, which tests Eager Delete Target File True, which tests Eager Delete Target File False, which tests Eager Delete Target File Default.

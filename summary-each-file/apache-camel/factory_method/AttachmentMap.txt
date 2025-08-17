@@ -1,0 +1,1 @@
+AttachmentMap acts as a product for SafeCopyProperty, which overrides safeCopy method of SafeCopyProperty.

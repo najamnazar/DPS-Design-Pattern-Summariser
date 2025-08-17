@@ -1,0 +1,1 @@
+Headers acts as an observer for publisher KafkaProducerFullIT, which is inherited by.

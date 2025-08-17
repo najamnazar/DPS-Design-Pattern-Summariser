@@ -1,0 +1,1 @@
+AbstractBulkApiTestBase acts as a caretaker for memento Component, which creates JobInfo parameter of jobInfo Job, which does Create Route Builder, which batches BatchInfo parameter of batchInfo Processed, which gets BatchInfo parameter of batchInfo Batch Info.

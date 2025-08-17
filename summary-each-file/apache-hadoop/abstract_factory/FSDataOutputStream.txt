@@ -1,0 +1,3 @@
+FSDataOutputStream acts as a product for NativeFileSystemStore, which overrides.
+FSDataOutputStream acts as an abstract product for FSDataOutputStream, which is inherited by HdfsDataOutputStream, CryptoFSDataOutputStream.
+FSDataOutputStream acts as a factory for IOStatisticsSource, which overrides getIOStatistics method of IOStatisticsSource.

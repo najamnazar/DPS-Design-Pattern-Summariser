@@ -1,0 +1,3 @@
+CachingConfigurer acts as a factory for JCacheManagerFactoryBean, which overrides.
+CachingConfigurer acts as a factory for DefaultJCacheOperationSource, which overrides.
+CachingConfigurer acts as a factory for AspectJEnableCachingIsolatedTests, which overrides.

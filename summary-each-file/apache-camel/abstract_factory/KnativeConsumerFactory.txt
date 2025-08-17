@@ -1,0 +1,1 @@
+KnativeConsumerFactory acts as an abstract factory for Consumer, which is inherited by KnativeTransportNoop, KnativeHttpConsumerFactory.

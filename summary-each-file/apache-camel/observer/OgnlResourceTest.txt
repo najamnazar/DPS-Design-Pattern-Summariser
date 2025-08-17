@@ -1,0 +1,5 @@
+OgnlResourceTest acts as a publisher for observer Service, which tests Ognll Resource, which creates Route Builder.
+OgnlResourceTest acts as a publisher for observer CamelContext, which tests Ognll Resource, which creates Route Builder.
+OgnlResourceTest acts as a publisher for observer FluentProducerTemplate, which tests Ognll Resource, which creates Route Builder.
+OgnlResourceTest acts as a publisher for observer ProducerTemplate, which tests Ognll Resource, which creates Route Builder.
+OgnlResourceTest acts as a publisher for observer ConsumerTemplate, which tests Ognll Resource, which creates Route Builder.

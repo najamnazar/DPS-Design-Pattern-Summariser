@@ -1,0 +1,2 @@
+AccessTokenTimer acts as an adaptee for adapter ConfRefreshTokenBasedAccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider.
+AccessTokenTimer acts as an adaptee for adapter CredentialBasedAccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider.

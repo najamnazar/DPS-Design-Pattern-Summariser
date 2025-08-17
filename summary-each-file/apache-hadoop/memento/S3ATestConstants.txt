@@ -1,0 +1,1 @@
+S3ATestConstants acts as a caretaker for memento Duration, which is inherited by.

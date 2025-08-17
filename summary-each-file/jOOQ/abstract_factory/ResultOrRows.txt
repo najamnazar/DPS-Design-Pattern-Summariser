@@ -1,0 +1,1 @@
+ResultOrRows acts as an abstract factory for DataAccessException, which is inherited by.

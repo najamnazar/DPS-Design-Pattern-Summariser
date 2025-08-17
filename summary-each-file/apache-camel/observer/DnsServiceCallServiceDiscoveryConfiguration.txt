@@ -1,0 +1,1 @@
+DnsServiceCallServiceDiscoveryConfiguration acts as an observer, which gets Proto, which sets String parameter of proto Proto, which gets Domain, which sets String parameter of domain Domain, which protos String parameter of proto, which domains String parameter of domain.

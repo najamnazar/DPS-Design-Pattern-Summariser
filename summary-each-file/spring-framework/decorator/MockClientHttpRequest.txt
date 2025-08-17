@@ -1,0 +1,1 @@
+MockClientHttpRequest acts as a component for decorator HttpRequestWrapper, which overrides getMethodHttpRequest, getMethodValueHttpRequest, getURIHttpRequest.

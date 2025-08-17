@@ -1,0 +1,3 @@
+TaggedInputSplit acts as a product for MapContext, which overrides.
+TaggedInputSplit acts as a factory for Configurable, which overrides.
+TaggedInputSplit acts as a product for Reporter, which overrides.

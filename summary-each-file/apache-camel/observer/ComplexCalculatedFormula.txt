@@ -1,0 +1,1 @@
+ComplexCalculatedFormula acts as an observer, which gets Complex Calculated Formula, which sets String parameter of ComplexCalculatedFormula Complex Calculated Formula, which descriptions, which creates SObject Description.

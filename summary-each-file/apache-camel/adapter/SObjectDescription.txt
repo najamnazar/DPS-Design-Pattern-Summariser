@@ -1,0 +1,1 @@
+SObjectDescription acts as an adapter, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject.

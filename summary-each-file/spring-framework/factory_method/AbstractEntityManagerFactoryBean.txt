@@ -1,0 +1,2 @@
+AbstractEntityManagerFactoryBean acts as a factory for AbstractEntityManagerFactoryBean, which overrides.
+AbstractEntityManagerFactoryBean acts as a factory method for JpaDialect, which is inherited by EntityManagerFactoryInfo, AbstractJpaVendorAdapter, AbstractEntityManagerFactoryBean, JpaVendorAdapter, AbstractEntityManagerFactoryBean, AbstractJpaVendorAdapter.

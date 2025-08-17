@@ -1,0 +1,1 @@
+PulsarConcurrentProducerInIT acts as a caretaker for memento Producer, which creates Route Builder, which creates Camel Registry, which registers SimpleRegistry parameter of registry Pulsar Beans, which gives Pulsar Client, which tests Concurrent Messages Are Sent And Then Consumed, which sends Messages.

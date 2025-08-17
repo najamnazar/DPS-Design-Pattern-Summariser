@@ -1,0 +1,3 @@
+CreateTableOnCommitStep acts as an abstract product for CreateTableWithDataStep, which is inherited by CreateTableImpl.
+CreateTableOnCommitStep acts as a factory for CreateTableOnCommitStep, which overrides.
+CreateTableOnCommitStep acts as a factory method for CreateTableCommentStep, which is inherited by CreateTableOnCommitStep, CreateTableOnCommitStep, CreateTableOnCommitStep.

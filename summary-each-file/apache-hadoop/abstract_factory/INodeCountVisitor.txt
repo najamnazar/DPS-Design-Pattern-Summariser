@@ -1,0 +1,1 @@
+INodeCountVisitor acts as a factory for NamespaceVisitor, which overrides getDefaultVisitor method of NamespaceVisitor.

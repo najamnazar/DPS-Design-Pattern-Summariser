@@ -1,0 +1,2 @@
+AsyncEndpointIdempotentConsumerTest acts as a caretaker for memento Producer, which tests Async Endpoint, which creates Route Builder.
+AsyncEndpointIdempotentConsumerTest acts as a caretaker for memento Context, which tests Async Endpoint, which creates Route Builder.

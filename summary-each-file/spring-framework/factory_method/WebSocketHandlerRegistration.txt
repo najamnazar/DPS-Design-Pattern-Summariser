@@ -1,0 +1,2 @@
+WebSocketHandlerRegistration acts as a factory for AbstractWebSocketHandlerRegistration, which overrides.
+WebSocketHandlerRegistration acts as an abstract product for AbstractWebSocketHandlerRegistration, which is inherited by AbstractWebSocketHandlerRegistration.

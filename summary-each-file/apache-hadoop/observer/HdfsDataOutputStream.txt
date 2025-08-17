@@ -1,0 +1,1 @@
+HdfsDataOutputStream acts as an observer, which gets Current Block Replication, which hsynces EnumSet<SyncFlag> parameter of syncFlags.

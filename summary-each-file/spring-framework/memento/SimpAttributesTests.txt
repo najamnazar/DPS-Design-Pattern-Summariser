@@ -1,0 +1,1 @@
+SimpAttributesTests acts as a caretaker for memento A, which gets Attribute, which gets Attribute Names, which registers Destruction Callback, which registers Destruction Callback After Session Completed, which removes Destruction Callback, which gets Session Mutex, which gets Session Mutex Explicit, which sessions Completed, which sessions Completed Is Idempotent.

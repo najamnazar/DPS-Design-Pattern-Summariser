@@ -1,0 +1,2 @@
+StringAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Aggregate String, which creates Route Builder.
+StringAggregationStrategyTest acts as a publisher for observer Service, which tests Aggregate String, which creates Route Builder.

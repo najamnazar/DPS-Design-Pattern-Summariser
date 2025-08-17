@@ -1,0 +1,2 @@
+BlockConstructionStage acts as an originator for memento BlockConstructionStage, which gets a BlockConstructionStage Recovery Stage to.
+BlockConstructionStage acts as a memento, which gets Recovery Stage.

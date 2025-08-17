@@ -1,0 +1,1 @@
+JmsReplyToComponentEndlessLoopTest acts as a publisher for observer ArtemisService, which is Use Route Builder, which gets Component Name, which tests Reply To Invalid.

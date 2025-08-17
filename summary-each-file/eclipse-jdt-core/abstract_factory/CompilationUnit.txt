@@ -1,0 +1,1 @@
+CompilationUnit acts as an abstract product for CompilationUnit, which is inherited by ClassFileWorkingCopy, AssistCompilationUnit.

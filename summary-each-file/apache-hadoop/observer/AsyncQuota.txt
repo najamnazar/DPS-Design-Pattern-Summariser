@@ -1,0 +1,1 @@
+AsyncQuota acts as an observer, which gets String parameter of path Quota Usage, which gets String parameter of path Each Quota Usage.

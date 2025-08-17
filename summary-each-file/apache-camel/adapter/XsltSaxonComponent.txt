@@ -1,0 +1,1 @@
+XsltSaxonComponent acts as an adapter, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent, which adapts to XsltComponent.

@@ -1,0 +1,5 @@
+PollOIDTest acts as a publisher for observer FluentProducerTemplate, which tests OIDPolling, which tests Start Route, which creates Route Builder.
+PollOIDTest acts as a publisher for observer Service, which tests OIDPolling, which tests Start Route, which creates Route Builder.
+PollOIDTest acts as a publisher for observer CamelContext, which tests OIDPolling, which tests Start Route, which creates Route Builder.
+PollOIDTest acts as a publisher for observer ConsumerTemplate, which tests OIDPolling, which tests Start Route, which creates Route Builder.
+PollOIDTest acts as a publisher for observer ProducerTemplate, which tests OIDPolling, which tests Start Route, which creates Route Builder.

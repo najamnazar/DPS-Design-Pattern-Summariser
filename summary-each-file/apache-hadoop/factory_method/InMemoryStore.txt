@@ -1,0 +1,1 @@
+InMemoryStore acts as a product for TestInMemoryStore, which overrides.

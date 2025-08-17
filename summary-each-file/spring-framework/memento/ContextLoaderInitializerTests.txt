@@ -1,0 +1,2 @@
+ContextLoaderInitializerTests acts as a caretaker for memento A, which sets Up, which registers, which adds T parameter of listener Listener, which creates Root Application Context.
+ContextLoaderInitializerTests acts as a caretaker for memento C, which sets Up, which registers, which adds T parameter of listener Listener, which creates Root Application Context.

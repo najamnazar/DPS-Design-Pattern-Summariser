@@ -1,0 +1,1 @@
+SelectionOnNameOfMemberValuePair acts as an observer, which prints int parameter of indent, StringBuilder parameter of output, which resolves BlockScope parameter of scope, TypeBinding parameter of requiredType Type Expecting.

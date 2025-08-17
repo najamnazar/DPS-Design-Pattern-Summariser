@@ -1,0 +1,1 @@
+AfterPropertiesConfigured acts as an adaptee for adapter WebhookEndpoint, which adapts to DefaultEndpoint.

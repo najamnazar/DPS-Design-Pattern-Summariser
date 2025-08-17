@@ -1,0 +1,1 @@
+RefreshOperation acts as an observer, which invokes, which equals Object parameter of o, which hashes Code, which tos String.

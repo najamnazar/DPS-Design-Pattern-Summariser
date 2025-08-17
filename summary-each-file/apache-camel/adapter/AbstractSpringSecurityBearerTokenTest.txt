@@ -1,0 +1,1 @@
+AbstractSpringSecurityBearerTokenTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts getPort method of MockFilter to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

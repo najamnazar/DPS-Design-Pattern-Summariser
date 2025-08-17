@@ -1,0 +1,1 @@
+UriComponentsBuilderMethodArgumentResolverTests acts as a publisher for observer UriComponentsBuilder, which is inherited by, which setups, which supports Parameter, which resolves Argument, which handles UriComponentsBuilder parameter of builder, ServletUriComponentsBuilder parameter of servletBuilder, int parameter of value.

@@ -1,0 +1,1 @@
+ExceptionLastSeen acts as an adaptee for adapter DFSStripedOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream.

@@ -1,0 +1,1 @@
+CamelHttpTransportServlet acts as an adapter, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet.

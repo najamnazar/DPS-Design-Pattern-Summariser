@@ -1,0 +1,5 @@
+KameletEipFilterTest acts as a publisher for observer CamelContext, which tests Filter, which creates Route Builder.
+KameletEipFilterTest acts as a publisher for observer ProducerTemplate, which tests Filter, which creates Route Builder.
+KameletEipFilterTest acts as a publisher for observer Service, which tests Filter, which creates Route Builder.
+KameletEipFilterTest acts as a publisher for observer ConsumerTemplate, which tests Filter, which creates Route Builder.
+KameletEipFilterTest acts as a publisher for observer FluentProducerTemplate, which tests Filter, which creates Route Builder.

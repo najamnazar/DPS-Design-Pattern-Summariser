@@ -1,0 +1,1 @@
+CollectionsWithDefaultTypesTests acts as a caretaker for memento B, which tests List Has Default Type, which tests Set Has Default Type, which tests Map Has Default Key And Value Type, which tests Map With Nested Elements Has Default Key And Value Type, which asserts Map<?, parameter of ?> Map, which tests Build Collection From Mixture Of References And Values.

@@ -1,0 +1,3 @@
+AccessRestriction acts as a caretaker for memento R, which gets Problem Id, which ignores If Better.
+AccessRestriction acts as a caretaker for memento S, which gets Problem Id, which ignores If Better.
+AccessRestriction acts as a caretaker for memento String, which gets Problem Id, which ignores If Better.

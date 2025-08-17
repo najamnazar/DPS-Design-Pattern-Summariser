@@ -1,0 +1,1 @@
+TestSleepJob acts as a publisher for observer Job, which inits, which shuts Down, which tests Map Tasks Only Sleep Jobs, which tests Random Location, which tests Serial Submit, which tests Replay Submit, which tests Stress Submit, which tests int parameter of locations, int parameter of njobs, UserGroupInformation parameter of ugi Random Location.

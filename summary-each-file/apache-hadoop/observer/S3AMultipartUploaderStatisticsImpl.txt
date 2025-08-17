@@ -1,0 +1,1 @@
+S3AMultipartUploaderStatisticsImpl acts as a publisher for observer Statistic, which is inherited by, which inces Statistic parameter of op, long parameter of count, which instantiateds, which uploads Started, which parts final parameter of long Put, which uploads Completed, which uploads Aborted, which aborts Uploads Under Path Invoked, which closes.

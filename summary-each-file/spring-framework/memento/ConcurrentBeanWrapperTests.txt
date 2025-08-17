@@ -1,0 +1,2 @@
+ConcurrentBeanWrapperTests acts as a caretaker for memento B, which tests Single Thread, which tests Concurrent, which performs Set, which runs, which gets Properties, which sets Properties parameter of properties Properties.
+ConcurrentBeanWrapperTests acts as a caretaker for memento C, which tests Single Thread, which tests Concurrent, which performs Set, which runs, which gets Properties, which sets Properties parameter of properties Properties.

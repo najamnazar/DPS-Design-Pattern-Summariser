@@ -1,0 +1,2 @@
+TargetSourceCreator acts as a factory for TargetSourceCreator, which overrides.
+TargetSourceCreator acts as a factory method for TargetSource, which is inherited by AbstractSingletonProxyFactoryBean, AbstractAutoProxyCreator, AbstractSingletonProxyFactoryBean, AdvisedSupport, Advised, AbstractAutoProxyCreator, AbstractBeanFactoryBasedTargetSourceCreator, TargetSourceCreator, AbstractSingletonProxyFactoryBean, AbstractBeanFactoryBasedTargetSourceCreator, AbstractBeanFactoryBasedTargetSourceCreator.

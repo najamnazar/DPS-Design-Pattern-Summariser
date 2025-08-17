@@ -1,0 +1,1 @@
+ContainerUpdateResponse acts as an abstract product for ContainerUpdateResponse, which is inherited by ContainerUpdateResponsePBImpl.

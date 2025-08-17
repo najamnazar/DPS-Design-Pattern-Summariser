@@ -1,0 +1,1 @@
+AttributeAccessorSupportTests acts as a caretaker for memento A, which sets And Get, which sets And Has, which computes Attribute, which removes, which attributes Names.

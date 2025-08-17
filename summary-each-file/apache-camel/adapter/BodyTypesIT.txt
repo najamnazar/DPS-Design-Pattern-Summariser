@@ -1,0 +1,3 @@
+BodyTypesIT acts as an adapter, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts deserialize method of MockEndpoint to PubsubTestSupport.
+BodyTypesIT acts as an adapter, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts deserialize method of ProducerTemplate to PubsubTestSupport.
+BodyTypesIT acts as an adapter, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts deserialize method of Endpoint to PubsubTestSupport.

@@ -1,0 +1,1 @@
+ComponentInfoWithTypeAnnotation acts as an adapter, which adapts to ComponentInfoWithAnnotation, which adapts to ComponentInfoWithAnnotation, which adapts to ComponentInfoWithAnnotation, which adapts to ComponentInfoWithAnnotation.

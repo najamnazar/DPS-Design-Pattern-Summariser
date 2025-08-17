@@ -1,0 +1,1 @@
+CLITestCmd acts as an observer, which gets String parameter of tag, Configuration parameter of conf Executor, which gets Type, which gets Cmd, which tos String.

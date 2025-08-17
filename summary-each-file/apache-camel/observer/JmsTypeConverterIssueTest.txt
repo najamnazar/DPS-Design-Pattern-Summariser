@@ -1,0 +1,1 @@
+JmsTypeConverterIssueTest acts as a publisher for observer ArtemisService, which gets Component Name, which tests Jms Type Converter Issue, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

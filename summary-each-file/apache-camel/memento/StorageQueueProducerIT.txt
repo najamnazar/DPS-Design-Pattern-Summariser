@@ -1,0 +1,2 @@
+StorageQueueProducerIT acts as a caretaker for memento Configuration, which tests Create Delete Queue, which tests Send And Delete Message, which creates Route Builder, which tests Header Preservation, which components final parameter of String, final parameter of String Uri.
+StorageQueueProducerIT acts as a caretaker for memento Producer, which tests Create Delete Queue, which tests Send And Delete Message, which creates Route Builder, which tests Header Preservation, which components final parameter of String, final parameter of String Uri.

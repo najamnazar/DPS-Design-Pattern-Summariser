@@ -1,0 +1,1 @@
+TestApplicationHistoryManagerImpl acts as a caretaker for memento ApplicationHistoryStore, which setups, which tears Down, which tests Application Report, which tests Applications.

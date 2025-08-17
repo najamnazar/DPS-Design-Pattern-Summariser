@@ -1,0 +1,2 @@
+KameletRouteDumpTest acts as a caretaker for memento Context, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.
+KameletRouteDumpTest acts as a caretaker for memento Producer, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.

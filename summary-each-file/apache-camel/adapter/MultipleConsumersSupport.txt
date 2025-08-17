@@ -1,0 +1,7 @@
+MultipleConsumersSupport acts as an adaptee for adapter DisruptorEndpoint, which adapts to DefaultEndpoint.
+MultipleConsumersSupport acts as an adaptee for adapter SedaEndpoint, which adapts to DefaultEndpoint.
+MultipleConsumersSupport acts as an adaptee for adapter QuickfixjEndpoint, which adapts to DefaultEndpoint.
+MultipleConsumersSupport acts as an adaptee for adapter TimerEndpoint, which adapts to DefaultEndpoint.
+MultipleConsumersSupport acts as an adaptee for adapter GuavaEventBusEndpoint, which adapts to DefaultEndpoint.
+MultipleConsumersSupport acts as an adaptee for adapter JmsEndpoint, which adapts to DefaultEndpoint.
+MultipleConsumersSupport acts as an adaptee for adapter SjmsEndpoint, which adapts to DefaultEndpoint.

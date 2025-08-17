@@ -1,0 +1,1 @@
+SchedulingTaskExecutor acts as an observer, which prefers Short Lived Tasks.

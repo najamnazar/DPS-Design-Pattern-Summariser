@@ -1,0 +1,3 @@
+AnnotationNamespaceDrivenTests acts as a caretaker for memento C, which gets Application Context, which tests Key Strategy, which caches Resolver, which bothes Set Only Resolver Is Used, which tests Cache Error Handler.
+AnnotationNamespaceDrivenTests acts as a caretaker for memento A, which gets Application Context, which tests Key Strategy, which caches Resolver, which bothes Set Only Resolver Is Used, which tests Cache Error Handler.
+AnnotationNamespaceDrivenTests acts as a caretaker for memento ApplicationContext, which gets Application Context, which tests Key Strategy, which caches Resolver, which bothes Set Only Resolver Is Used, which tests Cache Error Handler.

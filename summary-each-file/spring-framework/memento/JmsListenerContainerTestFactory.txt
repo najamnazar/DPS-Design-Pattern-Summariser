@@ -1,0 +1,2 @@
+JmsListenerContainerTestFactory acts as a caretaker for memento C, which sets boolean parameter of autoStartup Auto Startup, which gets Listener Containers, which gets String parameter of id Listener Container, which creates JmsListenerEndpoint parameter of endpoint Listener Container.
+JmsListenerContainerTestFactory acts as a caretaker for memento Message, which sets boolean parameter of autoStartup Auto Startup, which gets Listener Containers, which gets String parameter of id Listener Container, which creates JmsListenerEndpoint parameter of endpoint Listener Container.

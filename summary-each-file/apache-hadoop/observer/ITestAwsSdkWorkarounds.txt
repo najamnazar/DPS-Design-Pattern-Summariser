@@ -1,0 +1,1 @@
+ITestAwsSdkWorkarounds acts as a publisher for observer AuditSpanSource, which deletes Test Dir In Teardown, which tests Noisy Logging, which news File System, which creates final parameter of S3AFileSystem And Log Transfer Manager, which noisies Logging, which captures Xfer Manager Logs.

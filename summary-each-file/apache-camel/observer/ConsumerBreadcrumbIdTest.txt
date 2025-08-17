@@ -1,0 +1,5 @@
+ConsumerBreadcrumbIdTest acts as a publisher for observer ProducerTemplate, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.
+ConsumerBreadcrumbIdTest acts as a publisher for observer ConsumerTemplate, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.
+ConsumerBreadcrumbIdTest acts as a publisher for observer CamelContext, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.
+ConsumerBreadcrumbIdTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.
+ConsumerBreadcrumbIdTest acts as a publisher for observer Service, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.

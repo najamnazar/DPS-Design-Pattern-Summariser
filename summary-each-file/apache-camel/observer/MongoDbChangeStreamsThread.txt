@@ -1,0 +1,1 @@
+MongoDbChangeStreamsThread acts as a publisher for observer Document, which is inherited by, which inits, which initializes Cursor, which regeneratings Cursor, which does Run, which creates Document parameter of dbObj Mongo Db Exchange.

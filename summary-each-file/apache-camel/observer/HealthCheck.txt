@@ -1,0 +1,1 @@
+HealthCheck acts as an observer for publisher WritableHealthCheckRepository, ComponentsHealthCheckRepository, which is inherited by CamelMicroProfileRepositoryHealthCheck, CamelMicroProfileHealthCheck, ScheduledPollConsumerHealthCheck, AbstractHealthCheck.

@@ -1,0 +1,1 @@
+GetMountTableEntriesResponsePBImpl acts as a product for MountTableManager, which overrides getEntries method of GetMountTableEntriesResponse, getTimestamp method of GetMountTableEntriesResponse, setTimestamp method of GetMountTableEntriesResponse.

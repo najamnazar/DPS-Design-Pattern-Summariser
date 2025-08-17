@@ -1,0 +1,1 @@
+BindySimpleKeyValuePairWithoutSectionMarshallDslTest acts as a caretaker for memento Producer, which tests Marshall Without Section, which generates Model, which configures.

@@ -1,0 +1,1 @@
+GetContainersResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides getContainerList method of GetContainersResponse, setContainerList method of GetContainersResponse.

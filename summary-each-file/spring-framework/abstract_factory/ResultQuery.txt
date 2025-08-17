@@ -1,0 +1,5 @@
+ResultQuery acts as an abstract factory for Results, which is inherited by.
+ResultQuery acts as a product for ExecuteContext, which overrides.
+ResultQuery acts as a product for LoaderError, which overrides.
+ResultQuery acts as a product for Query, which overrides.
+ResultQuery acts as a product for MigrationContext, which overrides.

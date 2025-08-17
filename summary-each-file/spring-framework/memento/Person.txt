@@ -1,0 +1,1 @@
+Person acts as a caretaker for memento B, which is inherited by, which gets Name, which sets String parameter of name Name, which gets Age, which sets long parameter of age Age, which gets Birth_date, which sets java.util.Date parameter of birth_date Birth_date, which gets Balance, which sets BigDecimal parameter of balance Balance.

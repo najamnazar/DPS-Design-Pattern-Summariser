@@ -1,0 +1,1 @@
+TestLocalizedResource acts as a caretaker for memento LocalResourceVisibility, which gets long parameter of id Mock Container, which tests Notification, which creates Mock Resource, which matches LocalizerEvent parameter of le, which matches ContainerEvent parameter of evt.

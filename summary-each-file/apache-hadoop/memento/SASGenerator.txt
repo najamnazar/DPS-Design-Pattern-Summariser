@@ -1,0 +1,1 @@
+SASGenerator acts as a caretaker for memento Duration, which is inherited by, which tos String, which initializes Mac, which gets String parameter of accountName Canonical Account Name, which computes final parameter of String Hmac256.

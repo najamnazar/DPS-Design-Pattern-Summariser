@@ -1,0 +1,1 @@
+ReportFormatEnum acts as an observer for publisher ReportMetadata, which is inherited by.

@@ -1,0 +1,2 @@
+SimpSessionScopeTests acts as a caretaker for memento A, which sets Up, which tears Down, which gets, which gets With Object Factory, which removes, which registers Destruction Callback, which gets Session Id.
+SimpSessionScopeTests acts as a caretaker for memento SimpSession, which sets Up, which tears Down, which gets, which gets With Object Factory, which removes, which registers Destruction Callback, which gets Session Id.

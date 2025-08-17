@@ -1,0 +1,1 @@
+CsvMarshalAutogenColumnsSpringQuoteModeTest acts as a caretaker for memento Context, which retrieves Columns With Autogen Columns False And Item Columns Set, which retrieves Columns With Autogen Columns False And Order Id Amount Columns Set, which creates Body, which creates Application Context.

@@ -1,0 +1,1 @@
+AbstractGenericWebContextLoader acts as a factory for AnnotationNamespaceDrivenTests, which overrides.

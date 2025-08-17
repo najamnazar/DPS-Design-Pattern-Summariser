@@ -1,0 +1,1 @@
+Message acts as an observer for publisher AbstractMessageListenerContainer, SimpleMessageListenerContainer, AbstractPollingMessageListenerContainer, which is inherited by, which gets Payload, which gets Headers.

@@ -1,0 +1,1 @@
+Autowire acts as an observer for publisher AbstractPropertyAccessorTests, BeanWrapperTests, DirectFieldAccessorTests, which is inherited by, which values, which is Autowire.

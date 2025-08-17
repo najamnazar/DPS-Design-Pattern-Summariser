@@ -1,0 +1,4 @@
+RedeliveryErrorHandler acts as a product for RoundRobinLoadBalancer, which overrides processAsync method of AsyncProcessor.
+RedeliveryErrorHandler acts as a factory for ErrorHandlerReifier, which overrides.
+RedeliveryErrorHandler acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+RedeliveryErrorHandler acts as a factory for FaultToleranceProcessorFactory, which overrides process method of FaultToleranceProcessorFactory.

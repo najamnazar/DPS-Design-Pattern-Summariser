@@ -1,0 +1,2 @@
+AlterTypeRenameValueToStep acts as an abstract product for AlterTypeRenameValueToStep, which is inherited by AlterTypeImpl, AlterTypeImpl.
+AlterTypeRenameValueToStep acts as an abstract factory for AlterTypeFinalStep, which is inherited by AlterTypeImpl.

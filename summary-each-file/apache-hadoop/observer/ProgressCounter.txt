@@ -1,0 +1,1 @@
+ProgressCounter acts as an observer, which progresses, which gets Count, which asserts String parameter of message, int parameter of expected Count.

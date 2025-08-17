@@ -1,0 +1,2 @@
+ResizableByteArrayOutputStreamTests acts as a caretaker for memento A, which sets Up, which resizes, which autos Grow, which grows, which writes, which fails Resize, which asserts ResizableByteArrayOutputStream parameter of actual Byte Array Equals String.
+ResizableByteArrayOutputStreamTests acts as a caretaker for memento B, which sets Up, which resizes, which autos Grow, which grows, which writes, which fails Resize, which asserts ResizableByteArrayOutputStream parameter of actual Byte Array Equals String.

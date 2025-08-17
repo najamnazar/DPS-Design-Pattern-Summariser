@@ -1,0 +1,1 @@
+MessageHandlingRunnable acts as an abstract factory for MessageHandler, which is inherited by.

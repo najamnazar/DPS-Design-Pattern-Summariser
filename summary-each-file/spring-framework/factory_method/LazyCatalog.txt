@@ -1,0 +1,1 @@
+LazyCatalog acts as a product for CreateDatabaseImpl, which overrides getSchemas method of Catalog, getSchema method of Catalog, getSchema method of Catalog, schemaStream method of Catalog.

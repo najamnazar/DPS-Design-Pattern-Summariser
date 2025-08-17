@@ -1,0 +1,2 @@
+QueueMetrics acts as a factory for SchedulerApplicationAttempt, which overrides.
+QueueMetrics acts as a product for MetricsSystemImpl, which overrides.

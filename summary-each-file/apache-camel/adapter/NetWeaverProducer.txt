@@ -1,0 +1,1 @@
+NetWeaverProducer acts as an adapter, which adapts getEndpoint method of Producer, getEndpoint method of Producer, getEndpoint method of Producer, getEndpoint method of Producer to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer.

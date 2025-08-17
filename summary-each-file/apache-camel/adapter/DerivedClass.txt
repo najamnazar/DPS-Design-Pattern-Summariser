@@ -1,0 +1,1 @@
+DerivedClass acts as an adaptee for adapter BeanRouteToDerivedClassTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

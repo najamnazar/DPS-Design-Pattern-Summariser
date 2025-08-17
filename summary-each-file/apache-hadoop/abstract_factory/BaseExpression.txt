@@ -1,0 +1,2 @@
+BaseExpression acts as a factory for Configurable, which overrides setConf method of Configurable, getConf method of Configurable.
+BaseExpression acts as a factory for Expression, which overrides getUsage method of Expression, getHelp method of Expression, setOptions method of Expression, prepare method of Expression, finish method of Expression, isAction method of Expression, isOperator method of Expression, getPrecedence method of Expression, addArguments method of Expression.

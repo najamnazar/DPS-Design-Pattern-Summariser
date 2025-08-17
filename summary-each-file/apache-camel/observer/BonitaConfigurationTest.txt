@@ -1,0 +1,5 @@
+BonitaConfigurationTest acts as a publisher for observer Service, which tests Bonita Configuration Defaults, which tests Bonita Configuration Custom, which tests Bonita Configuration Wrong Operation.
+BonitaConfigurationTest acts as a publisher for observer ProducerTemplate, which tests Bonita Configuration Defaults, which tests Bonita Configuration Custom, which tests Bonita Configuration Wrong Operation.
+BonitaConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests Bonita Configuration Defaults, which tests Bonita Configuration Custom, which tests Bonita Configuration Wrong Operation.
+BonitaConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests Bonita Configuration Defaults, which tests Bonita Configuration Custom, which tests Bonita Configuration Wrong Operation.
+BonitaConfigurationTest acts as a publisher for observer CamelContext, which tests Bonita Configuration Defaults, which tests Bonita Configuration Custom, which tests Bonita Configuration Wrong Operation.

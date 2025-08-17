@@ -1,0 +1,1 @@
+UndertowHostKey acts as an observer for publisher UndertowComponent, which is inherited by, which gets Host, which gets Port, which gets Ssl Context, which equals Object parameter of target, which hashes Code.

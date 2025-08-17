@@ -1,0 +1,1 @@
+DefaultVertxKafkaManualCommitFactory acts as a factory for VertxKafkaManualCommitFactory, which overrides create method of VertxKafkaManualCommitFactory.

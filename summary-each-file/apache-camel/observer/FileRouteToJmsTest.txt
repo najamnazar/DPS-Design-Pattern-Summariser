@@ -1,0 +1,1 @@
+FileRouteToJmsTest acts as a publisher for observer ArtemisService, which tests Route To File, which gets Component Name, which creates Route Builder.

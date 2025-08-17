@@ -1,0 +1,1 @@
+WebAppProxy acts as a publisher for observer Configuration, which services Configuration parameter of conf Init, which services Start, which services Stop, which joins, which gets Bind Address, which gets Fetcher.

@@ -1,0 +1,7 @@
+PathFilter acts as an adaptee for adapter AliyunOSSFileSystem, which adapts to FileSystem.
+PathFilter acts as an adaptee for adapter ITestLocatedFileStatusFetcher, which adapts to AbstractS3ATestBase.
+PathFilter acts as an adaptee for adapter AbstractContractGetFileStatusTest, which adapts to AbstractFSContractTestBase.
+PathFilter acts as an adaptee for adapter DistributedFileSystem, which adapts to SafeMode, FileSystem.
+PathFilter acts as an adaptee for adapter ChecksumFileSystem, which adapts to FilterFileSystem.
+PathFilter acts as an adaptee for adapter TestManifestCommitProtocol, which adapts to AbstractManifestCommitterTest.
+PathFilter acts as an adaptee for adapter ITestRestrictedReadAccess, which adapts to AbstractS3ATestBase.

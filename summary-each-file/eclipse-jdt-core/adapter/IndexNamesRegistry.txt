@@ -1,0 +1,1 @@
+IndexNamesRegistry acts as an adaptee for adapter IndexManager, which adapts to JobManager, which adapts to JobManager, which adapts to JobManager, which adapts to JobManager.

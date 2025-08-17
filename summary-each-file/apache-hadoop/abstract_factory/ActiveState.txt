@@ -1,0 +1,1 @@
+ActiveState acts as a product for HAContext, which overrides shouldPopulateReplQueues method of HAState, setState method of HAState.

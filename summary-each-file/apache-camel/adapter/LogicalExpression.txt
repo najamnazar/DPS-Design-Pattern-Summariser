@@ -1,0 +1,1 @@
+LogicalExpression acts as an adapter, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.

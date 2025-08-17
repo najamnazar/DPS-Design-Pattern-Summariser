@@ -1,0 +1,2 @@
+PipelineMEPTest acts as a publisher for observer CamelContext, which tests In Only, which tests In Out, which creates Route Builder.
+PipelineMEPTest acts as a publisher for observer Service, which tests In Only, which tests In Out, which creates Route Builder.

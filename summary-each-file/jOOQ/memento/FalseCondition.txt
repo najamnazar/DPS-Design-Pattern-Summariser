@@ -1,0 +1,3 @@
+FalseCondition acts as a memento, which clauseses Context<?> parameter of ctx Nullable, which clauseses Context<?> parameter of ctx Nullable, which clauseses Context<?> parameter of ctx Nullable.
+FalseCondition acts as a caretaker for memento False, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+FalseCondition acts as a caretaker for memento Clause, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

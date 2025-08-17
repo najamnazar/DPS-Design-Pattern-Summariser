@@ -1,0 +1,1 @@
+ContainerAnnotation acts as a caretaker for memento E, which adds Annotation parameter of repeatingAnnotation Containee, which resolves BlockScope parameter of scope Type.

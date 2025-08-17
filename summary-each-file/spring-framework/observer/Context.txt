@@ -1,0 +1,1 @@
+Context acts as an observer for publisher DefaultEntityResponseBuilder, which is inherited by SimpleNamingContext.

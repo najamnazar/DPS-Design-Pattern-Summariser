@@ -1,0 +1,1 @@
+RestBindingMode acts as an observer for publisher RestConfigurationDefinition, which is inherited by.

@@ -1,0 +1,1 @@
+BeanThatListens acts as a caretaker for memento B, which ons ApplicationEvent parameter of event Application Event, which gets Event Count, which zeros.

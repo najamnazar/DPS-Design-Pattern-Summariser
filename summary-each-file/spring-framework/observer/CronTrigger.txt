@@ -1,0 +1,1 @@
+CronTrigger acts as an observer, which gets Expression, which nexts TriggerContext parameter of triggerContext Execution Time, which equals @Nullable parameter of Object, which hashes Code, which tos String.

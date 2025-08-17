@@ -1,0 +1,1 @@
+KinesisEndpointTest acts as a caretaker for memento Context, which setups, which alls The Endpoint Params, which onlies Required Endpoint Params, which afters Sequence Number Requires Sequence Number, which ats Sequence Number Requires Sequence Number.

@@ -1,0 +1,1 @@
+STS2InternalClient acts as a memento, which is inherited by STS2ClientIAMOptimized, STS2ClientStandardImpl, which gets Sts Client.

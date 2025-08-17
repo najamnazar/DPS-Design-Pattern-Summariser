@@ -1,0 +1,1 @@
+PropertiesFileNamingStrategyTests acts as a factory method for ObjectNamingStrategy, which is inherited by PropertiesNamingStrategyTests, AbstractNamingStrategyTests, AbstractNamingStrategyTests.

@@ -1,0 +1,1 @@
+TestRunView acts as an abstract factory for Test, which is inherited by FailureRunView, TestHierarchyRunView.

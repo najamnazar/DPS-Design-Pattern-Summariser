@@ -1,0 +1,1 @@
+ModelMethodArgumentResolverTests acts as a caretaker for memento A, which supports Parameter, which resolves Argument, which tests MethodParameter parameter of parameter Resolve Argument, which handles Model parameter of model, Map<String, parameter of Object>, @RequestBody parameter of Map<String, ModelMap parameter of modelMap, Object parameter of object.

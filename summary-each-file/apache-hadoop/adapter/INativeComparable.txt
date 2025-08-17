@@ -1,0 +1,7 @@
+INativeComparable acts as an adaptee for adapter NullWritableSerializer.
+INativeComparable acts as an adaptee for adapter IntWritableSerializer.
+INativeComparable acts as an adaptee for adapter FloatWritableSerializer.
+INativeComparable acts as an adaptee for adapter BoolWritableSerializer.
+INativeComparable acts as an adaptee for adapter LongWritableSerializer.
+INativeComparable acts as an adaptee for adapter DoubleWritableSerializer.
+INativeComparable acts as an adaptee for adapter ByteWritableSerializer.

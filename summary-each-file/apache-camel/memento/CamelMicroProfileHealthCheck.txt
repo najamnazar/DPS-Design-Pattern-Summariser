@@ -1,0 +1,3 @@
+CamelMicroProfileHealthCheck acts as a memento, which calls.
+CamelMicroProfileHealthCheck acts as a caretaker for memento Context, which calls.
+CamelMicroProfileHealthCheck acts as a caretaker for memento HealthCheck, which calls.

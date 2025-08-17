@@ -1,0 +1,2 @@
+HealthCheckResultStrategyTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests My Foo, which tests Add To Registry, which processes HealthCheck parameter of check, Map<String, parameter of Object>, HealthCheckResultBuilder parameter of builder Result.
+HealthCheckResultStrategyTest acts as a publisher for observer Service, which is Use Route Builder, which tests My Foo, which tests Add To Registry, which processes HealthCheck parameter of check, Map<String, parameter of Object>, HealthCheckResultBuilder parameter of builder Result.

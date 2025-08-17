@@ -1,0 +1,5 @@
+GoogleTalkTest acts as a publisher for observer ProducerTemplate, which tests Send To GTalk, which tests Send To GTalk With Subject, which creates Route Builder.
+GoogleTalkTest acts as a publisher for observer CamelContext, which tests Send To GTalk, which tests Send To GTalk With Subject, which creates Route Builder.
+GoogleTalkTest acts as a publisher for observer ConsumerTemplate, which tests Send To GTalk, which tests Send To GTalk With Subject, which creates Route Builder.
+GoogleTalkTest acts as a publisher for observer FluentProducerTemplate, which tests Send To GTalk, which tests Send To GTalk With Subject, which creates Route Builder.
+GoogleTalkTest acts as a publisher for observer Service, which tests Send To GTalk, which tests Send To GTalk With Subject, which creates Route Builder.

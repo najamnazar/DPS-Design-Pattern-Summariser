@@ -1,0 +1,1 @@
+SerializableTypeWrapperTests acts as a caretaker for memento C, which fors Field, which fors Method Parameter, which fors Constructor, which classes Type, which generices Array Type, which parameterizeds Type, which types Variable Type, which wildcards Type, which asserts Object parameter of source Serializable, which methods Class<T> parameter of p1, T parameter of p2.

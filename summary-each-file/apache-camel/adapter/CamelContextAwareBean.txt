@@ -1,0 +1,1 @@
+CamelContextAwareBean acts as an adaptee for adapter CamelContextAwareTest, which adapts to SpringTestSupport, which adapts to SpringTestSupport.

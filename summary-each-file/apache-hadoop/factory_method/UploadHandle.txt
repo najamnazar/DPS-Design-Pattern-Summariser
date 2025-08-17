@@ -1,0 +1,1 @@
+UploadHandle acts as an abstract product for BBUploadHandle, which is inherited by BBUploadHandle.

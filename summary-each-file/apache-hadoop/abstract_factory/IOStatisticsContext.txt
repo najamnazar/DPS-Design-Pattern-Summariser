@@ -1,0 +1,2 @@
+IOStatisticsContext acts as an abstract product for IOStatisticsContext, which is inherited by IOStatisticsContextImpl, EmptyIOStatisticsContextImpl.
+IOStatisticsContext acts as an abstract factory for IOStatisticsAggregator, IOStatisticsContext, which is inherited by IOStatisticsContextImpl, EmptyIOStatisticsContextImpl.

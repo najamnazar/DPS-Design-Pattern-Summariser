@@ -1,0 +1,1 @@
+ServiceDiscovery acts as an observer for publisher ServiceCallConfigurationDefinition, which is inherited by DefaultServiceDiscovery, CombinedServiceDiscovery, which gets String parameter of name Services.

@@ -1,0 +1,14 @@
+StreamCapabilities acts as an adaptee for adapter S3AInputStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream.
+StreamCapabilities acts as an adaptee for adapter AnalyticsStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream.
+StreamCapabilities acts as an adaptee for adapter DFSOutputStream, which adapts to FSOutputSummer, which adapts to FSOutputSummer.
+StreamCapabilities acts as an adaptee for adapter ObjectInputStream, which adapts to FSInputStream, which adapts to FSInputStream.
+StreamCapabilities acts as an adaptee for adapter ManifestCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter.
+StreamCapabilities acts as an adaptee for adapter S3APrefetchingInputStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream.
+StreamCapabilities acts as an adaptee for adapter AbfsInputStream, which adapts to FSInputStream, which adapts to FSInputStream.
+StreamCapabilities acts as an adaptee for adapter BindingPathOutputCommitter, which adapts to PathOutputCommitter, which adapts to PathOutputCommitter.
+StreamCapabilities acts as an adaptee for adapter BufferedFSInputStream, which adapts to HasFileDescriptor, which adapts to HasFileDescriptor.
+StreamCapabilities acts as an adaptee for adapter CryptoInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+StreamCapabilities acts as an adaptee for adapter DFSInputStream, which adapts to FSInputStream, ByteBufferReadable, which adapts to FSInputStream, ByteBufferReadable.
+StreamCapabilities acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+StreamCapabilities acts as an adaptee for adapter DFSStripedOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream.
+StreamCapabilities acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem, which adapts to FileSystem.

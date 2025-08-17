@@ -1,0 +1,2 @@
+SimpleJmsListenerEndpointTests acts as a caretaker for memento Message, which creates Listener.
+SimpleJmsListenerEndpointTests acts as a caretaker for memento C, which creates Listener.

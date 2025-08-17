@@ -1,0 +1,2 @@
+ScannerUtil acts as a caretaker for memento S, which has IFile parameter of f Annotation Instance, which has ICompilationUnit parameter of cu Annotation Instance, which has char[] parameter of source Annotation Instance.
+ScannerUtil acts as a caretaker for memento String, which has IFile parameter of f Annotation Instance, which has ICompilationUnit parameter of cu Annotation Instance, which has char[] parameter of source Annotation Instance.

@@ -1,0 +1,2 @@
+LongConstant acts as a product for IBinaryField, which overrides.
+LongConstant acts as a product for NullReferenceImplTests, which overrides.

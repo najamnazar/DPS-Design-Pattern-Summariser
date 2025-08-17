@@ -1,0 +1,1 @@
+ConversionServiceExposingInterceptor acts as a component for decorator MappedInterceptor, which overrides preHandleHandlerInterceptor.

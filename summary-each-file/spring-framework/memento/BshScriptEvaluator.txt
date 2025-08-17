@@ -1,0 +1,1 @@
+BshScriptEvaluator acts as a caretaker for memento C, which sets ClassLoader parameter of classLoader Bean Class Loader, which evaluates ScriptSource parameter of script, which evaluates ScriptSource parameter of script, @Nullable parameter of Map<String,.

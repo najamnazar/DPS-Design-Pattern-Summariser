@@ -1,0 +1,2 @@
+DefaultConfigurerResolver acts as a product for ExtendedCamelContext, which overrides resolvePropertyConfigurer method of ConfigurerResolver.
+DefaultConfigurerResolver acts as a factory for ConfigurerResolver, which overrides resolvePropertyConfigurer method of ConfigurerResolver.

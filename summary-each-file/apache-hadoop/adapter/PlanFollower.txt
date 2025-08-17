@@ -1,0 +1,1 @@
+PlanFollower acts as a target for adapter AbstractSchedulerPlanFollower, which adapts to PlanFollower, which adapts to PlanFollower, which adapts to PlanFollower.

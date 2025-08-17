@@ -1,0 +1,1 @@
+ActivitiesInfo acts as an observer for publisher BulkActivitiesInfo, FederationBulkActivitiesInfo, which is inherited by, which gets Node Id, which gets Timestamp, which gets Date Time, which gets Diagnostic, which gets Allocations.

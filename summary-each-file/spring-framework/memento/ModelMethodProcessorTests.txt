@@ -1,0 +1,3 @@
+ModelMethodProcessorTests acts as a caretaker for memento A, which sets Up, which supports Parameter, which supports Return Type, which resolves Argument Value, which handles Model Return Value, which models Model parameter of model.
+ModelMethodProcessorTests acts as a caretaker for memento C, which sets Up, which supports Parameter, which supports Return Type, which resolves Argument Value, which handles Model Return Value, which models Model parameter of model.
+ModelMethodProcessorTests acts as a caretaker for memento Parameter, which sets Up, which supports Parameter, which supports Return Type, which resolves Argument Value, which handles Model Return Value, which models Model parameter of model.

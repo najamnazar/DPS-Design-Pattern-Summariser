@@ -1,0 +1,1 @@
+PredicateFactoryAware acts as an abstract factory for PredicateFactory, which is inherited by ExpressionDefinition, ExpressionClauseSupport.

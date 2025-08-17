@@ -1,0 +1,2 @@
+MulticastParallelFailureEndpointTest acts as a publisher for observer Service, which tests Multicast Parallel, which tests Multicast Parallel With Try Catch, which runs String parameter of uri Test, which creates Route Builder.
+MulticastParallelFailureEndpointTest acts as a publisher for observer CamelContext, which tests Multicast Parallel, which tests Multicast Parallel With Try Catch, which runs String parameter of uri Test, which creates Route Builder.

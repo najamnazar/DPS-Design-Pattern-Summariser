@@ -1,0 +1,1 @@
+ThemeResolver acts as an abstract product for RequestContextUtils, which is inherited by AbstractThemeResolver, CookieThemeResolver.

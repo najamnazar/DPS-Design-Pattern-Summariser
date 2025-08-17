@@ -1,0 +1,1 @@
+MockAsyncClientHttpRequest acts as a caretaker for memento B, which executes Async.

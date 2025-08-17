@@ -1,0 +1,1 @@
+CamelClusterMember acts as a memento, which is Local, which is Local.

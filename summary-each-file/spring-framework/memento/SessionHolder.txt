@@ -1,0 +1,1 @@
+SessionHolder acts as a caretaker for memento Transaction, which gets Session, which sets @Nullable parameter of Transaction Transaction, which gets Transaction, which sets @Nullable parameter of FlushMode Previous Flush Mode, which gets Previous Flush Mode, which clears.

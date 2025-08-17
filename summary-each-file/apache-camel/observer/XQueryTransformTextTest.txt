@@ -1,0 +1,5 @@
+XQueryTransformTextTest acts as a publisher for observer ProducerTemplate, which tests Send Matching Message, which sets Up, which creates Route Builder.
+XQueryTransformTextTest acts as a publisher for observer ConsumerTemplate, which tests Send Matching Message, which sets Up, which creates Route Builder.
+XQueryTransformTextTest acts as a publisher for observer Service, which tests Send Matching Message, which sets Up, which creates Route Builder.
+XQueryTransformTextTest acts as a publisher for observer CamelContext, which tests Send Matching Message, which sets Up, which creates Route Builder.
+XQueryTransformTextTest acts as a publisher for observer FluentProducerTemplate, which tests Send Matching Message, which sets Up, which creates Route Builder.

@@ -1,0 +1,1 @@
+ModuleElementImpl acts as a factory method for TypeElement, which is inherited by ModuleElement, ElementsImpl, Elements.

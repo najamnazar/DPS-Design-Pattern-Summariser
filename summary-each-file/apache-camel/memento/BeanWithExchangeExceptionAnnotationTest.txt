@@ -1,0 +1,2 @@
+BeanWithExchangeExceptionAnnotationTest acts as a caretaker for memento Producer, which tests Bean With Annotation And Exchange Test, which creates Registry, which creates Route Builder, which throws Exception, which handles @ExchangeException parameter of Exception Exception.
+BeanWithExchangeExceptionAnnotationTest acts as a caretaker for memento Context, which tests Bean With Annotation And Exchange Test, which creates Registry, which creates Route Builder, which throws Exception, which handles @ExchangeException parameter of Exception Exception.

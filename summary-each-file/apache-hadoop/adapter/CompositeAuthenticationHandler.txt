@@ -1,0 +1,1 @@
+CompositeAuthenticationHandler acts as an adaptee for adapter MultiSchemeDelegationTokenAuthenticationHandler, which adapts to DelegationTokenAuthenticationHandler.

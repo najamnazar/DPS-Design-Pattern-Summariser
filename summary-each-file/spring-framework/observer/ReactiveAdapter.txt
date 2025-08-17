@@ -1,0 +1,1 @@
+ReactiveAdapter acts as an observer for publisher ReactiveTypeHandler, which is inherited by, which gets Descriptor, which gets Reactive Type, which is Multi Value, which is No Value, which supports Empty, which tos @Nullable parameter of Object Publisher, which froms Publisher<?> parameter of publisher Publisher.

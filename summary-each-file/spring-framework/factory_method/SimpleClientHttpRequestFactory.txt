@@ -1,0 +1,3 @@
+SimpleClientHttpRequestFactory acts as a factory method for AsyncClientHttpRequest, which is inherited by AsyncClientHttpRequestFactory, AsyncClientHttpRequestFactory, AsyncClientHttpRequestFactory, AsyncClientHttpRequestFactory, AsyncClientHttpRequestFactory.
+SimpleClientHttpRequestFactory acts as a product for NoOutputStreamingStreamingSimpleHttpRequestFactoryTests, which overrides createRequest method of ClientHttpRequestFactory.
+SimpleClientHttpRequestFactory acts as a product for OkHttp3AsyncClientHttpRequestFactoryTests, which overrides createAsyncRequest method of AsyncClientHttpRequestFactory.

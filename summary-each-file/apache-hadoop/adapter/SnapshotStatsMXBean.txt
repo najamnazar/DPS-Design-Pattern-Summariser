@@ -1,0 +1,1 @@
+SnapshotStatsMXBean acts as a target for adapter SnapshotManager, which adapts to SnapshotStatsMXBean, which adapts to SnapshotStatsMXBean.

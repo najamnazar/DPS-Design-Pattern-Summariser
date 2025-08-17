@@ -1,0 +1,2 @@
+RoutePerformanceTest acts as a caretaker for memento Context, which creates Registry, which tests Performance, which creates Route Builder.
+RoutePerformanceTest acts as a caretaker for memento Producer, which creates Registry, which tests Performance, which creates Route Builder.

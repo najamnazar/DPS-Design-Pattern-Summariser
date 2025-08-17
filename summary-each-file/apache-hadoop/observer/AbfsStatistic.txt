@@ -1,0 +1,1 @@
+AbfsStatistic acts as an observer for publisher AbfsCountersImpl, which is inherited by, which gets Stat Name, which gets Stat Description, which gets Http Call, which gets String parameter of httpCall Stat Name From Http Call.

@@ -1,0 +1,1 @@
+InputStreamCache acts as a visitor for element ExtendedCamelContext, which overrides, which writes a To to, which copies Exchange parameter of exchange, which ins a Memory to, which lengthes.

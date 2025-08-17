@@ -1,0 +1,1 @@
+SpringZooKeeperServiceCallRouteIT acts as an adapter, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.

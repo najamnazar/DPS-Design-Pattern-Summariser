@@ -1,0 +1,1 @@
+PlainPackageBinding acts as a product for NullReferenceImplTests, which overrides.

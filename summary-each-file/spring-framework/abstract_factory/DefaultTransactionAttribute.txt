@@ -1,0 +1,2 @@
+DefaultTransactionAttribute acts as a product for TransactionAnnotationParser, which overrides getQualifier method of TransactionAttribute, getLabels method of TransactionAttribute, rollbackOn method of TransactionAttribute.
+DefaultTransactionAttribute acts as a product for TransactionAttributeSource, which overrides getQualifier method of TransactionAttribute, getLabels method of TransactionAttribute, rollbackOn method of TransactionAttribute.

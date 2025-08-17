@@ -1,0 +1,1 @@
+JdkDynamicAopProxy acts as a product for AopProxyFactory, which overrides getProxy method of AopProxy, getProxy method of AopProxy.

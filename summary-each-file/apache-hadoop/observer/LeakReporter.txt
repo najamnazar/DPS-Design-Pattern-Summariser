@@ -1,0 +1,1 @@
+LeakReporter acts as an observer, which closes, which gets Leak Exception, which is Closed, which tos String.

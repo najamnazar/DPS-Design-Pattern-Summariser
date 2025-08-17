@@ -1,0 +1,1 @@
+PseudoAuthenticationHandler acts as a factory for AuthenticationHandler, which overrides init method of AuthenticationHandler, destroy method of AuthenticationHandler, getType method of AuthenticationHandler, managementOperation method of AuthenticationHandler, authenticate method of AuthenticationHandler.

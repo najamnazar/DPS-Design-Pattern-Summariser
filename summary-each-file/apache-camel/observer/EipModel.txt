@@ -1,0 +1,1 @@
+EipModel acts as an observer for publisher SchemaGeneratorMojo, which is inherited by, which gets Kind, which is Abstract Model, which sets boolean parameter of abstractModel Abstract Model, which is Input, which sets boolean parameter of input Input, which is Output, which sets boolean parameter of output Output, which gets Doc Link.

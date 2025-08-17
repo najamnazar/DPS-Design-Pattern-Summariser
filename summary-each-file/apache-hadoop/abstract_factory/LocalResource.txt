@@ -1,0 +1,1 @@
+LocalResource acts as an abstract product for LocalResource, which is inherited by LocalResourcePBImpl, LocalResourceRequest.

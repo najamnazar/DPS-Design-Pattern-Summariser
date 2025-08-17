@@ -1,0 +1,1 @@
+DefaultExchangeFormatterTest acts as a caretaker for memento Context, which sets Up, which tests Default Format, which tests Format With Max Chars Parameter, which tests Format With Body Max Chars, which tests Format With Both.

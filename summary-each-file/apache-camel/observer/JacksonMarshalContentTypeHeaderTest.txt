@@ -1,0 +1,5 @@
+JacksonMarshalContentTypeHeaderTest acts as a publisher for observer Service, which tests Yes, which tests Yes2, which tests No, which creates Route Builder.
+JacksonMarshalContentTypeHeaderTest acts as a publisher for observer CamelContext, which tests Yes, which tests Yes2, which tests No, which creates Route Builder.
+JacksonMarshalContentTypeHeaderTest acts as a publisher for observer FluentProducerTemplate, which tests Yes, which tests Yes2, which tests No, which creates Route Builder.
+JacksonMarshalContentTypeHeaderTest acts as a publisher for observer ProducerTemplate, which tests Yes, which tests Yes2, which tests No, which creates Route Builder.
+JacksonMarshalContentTypeHeaderTest acts as a publisher for observer ConsumerTemplate, which tests Yes, which tests Yes2, which tests No, which creates Route Builder.

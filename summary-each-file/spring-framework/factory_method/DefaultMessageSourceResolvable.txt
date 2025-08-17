@@ -1,0 +1,1 @@
+DefaultMessageSourceResolvable acts as a product for SpringValidatorAdapter, which overrides getCodes method of MessageSourceResolvable, getArguments method of MessageSourceResolvable, getDefaultMessage method of MessageSourceResolvable.

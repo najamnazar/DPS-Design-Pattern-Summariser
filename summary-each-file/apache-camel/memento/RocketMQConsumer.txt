@@ -1,0 +1,1 @@
+RocketMQConsumer acts as a caretaker for memento HealthCheck, which starts Consumer, which stops Consumer, which gets Endpoint, which does Suspend, which does Resume, which does Start, which does Stop.

@@ -1,0 +1,2 @@
+DefaultCacheContext acts as a caretaker for memento Configuration, which caches Type.
+DefaultCacheContext acts as a caretaker for memento C, which caches Type.

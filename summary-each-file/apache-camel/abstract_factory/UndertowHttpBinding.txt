@@ -1,0 +1,1 @@
+UndertowHttpBinding acts as an abstract factory for Message, which is inherited by DefaultUndertowHttpBinding.

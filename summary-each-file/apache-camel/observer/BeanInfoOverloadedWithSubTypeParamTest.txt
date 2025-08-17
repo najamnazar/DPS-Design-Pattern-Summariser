@@ -1,0 +1,2 @@
+BeanInfoOverloadedWithSubTypeParamTest acts as a publisher for observer Service, which tests Bean Info Overloaded With Sub Typed Param, which does RequestB parameter of request Something, which does RequestC parameter of request Something.
+BeanInfoOverloadedWithSubTypeParamTest acts as a publisher for observer CamelContext, which tests Bean Info Overloaded With Sub Typed Param, which does RequestB parameter of request Something, which does RequestC parameter of request Something.

@@ -1,0 +1,2 @@
+RMAppAttempt acts as an abstract factory for Container, ApplicationAttemptReport, BlacklistManager, ApplicationResourceUsageReport, ApplicationSubmissionContext, ApplicationAttemptId, which is inherited by RMAppAttemptImpl.
+RMAppAttempt acts as an abstract product for RMAppAttempt, which is inherited by RMAppAttemptImpl, RMAppAttemptImpl.

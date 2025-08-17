@@ -1,0 +1,2 @@
+DnsEndpoint acts as a caretaker for memento Component, which creates Producer, which creates Processor parameter of processor Consumer, which gets Dns Type, which sets DnsType parameter of dnsType Dns Type.
+DnsEndpoint acts as a caretaker for memento Context, which creates Producer, which creates Processor parameter of processor Consumer, which gets Dns Type, which sets DnsType parameter of dnsType Dns Type.

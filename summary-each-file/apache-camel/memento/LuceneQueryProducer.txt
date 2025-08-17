@@ -1,0 +1,1 @@
+LuceneQueryProducer acts as a caretaker for memento Configuration, which does Start, which does Stop, which processes Exchange parameter of exchange, which gets Config, which sets LuceneConfiguration parameter of config Config.

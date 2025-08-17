@@ -1,0 +1,1 @@
+RuncManifestToResourcesPlugin acts as an adaptee for adapter RuncContainerRuntime, which adapts to OCIContainerRuntime, which adapts to OCIContainerRuntime.

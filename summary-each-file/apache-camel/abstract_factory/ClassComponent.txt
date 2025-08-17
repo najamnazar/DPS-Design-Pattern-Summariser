@@ -1,0 +1,1 @@
+ClassComponent acts as a product for BeanComponentBuilderFactory, which overrides createEndpoint method of BeanComponent.

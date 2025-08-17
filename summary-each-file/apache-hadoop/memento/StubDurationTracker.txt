@@ -1,0 +1,3 @@
+StubDurationTracker acts as a caretaker for memento Duration, which fails, which closes, which ases Duration.
+StubDurationTracker acts as a memento, which ases Duration, which ases Duration, which ases Duration.
+StubDurationTracker acts as a caretaker for memento DurationTracker, which fails, which closes, which ases Duration.

@@ -1,0 +1,1 @@
+RouterAdminProtocolPB acts as an adaptee for adapter RouterAdminProtocolTranslatorPB.

@@ -1,0 +1,5 @@
+XQueryTransformIssueTest acts as a publisher for observer ConsumerTemplate, which tests Transform, which creates Route Builder.
+XQueryTransformIssueTest acts as a publisher for observer ProducerTemplate, which tests Transform, which creates Route Builder.
+XQueryTransformIssueTest acts as a publisher for observer Service, which tests Transform, which creates Route Builder.
+XQueryTransformIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Transform, which creates Route Builder.
+XQueryTransformIssueTest acts as a publisher for observer CamelContext, which tests Transform, which creates Route Builder.

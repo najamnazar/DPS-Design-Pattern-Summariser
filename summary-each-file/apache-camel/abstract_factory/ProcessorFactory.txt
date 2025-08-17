@@ -1,0 +1,2 @@
+ProcessorFactory acts as an abstract factory for Processor, which is inherited by TypedProcessorFactory, DefaultProcessorFactory.
+ProcessorFactory acts as an abstract product for ProcessorFactory, which is inherited by TypedProcessorFactory, DefaultProcessorFactory.

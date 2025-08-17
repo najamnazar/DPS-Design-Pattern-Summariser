@@ -1,0 +1,2 @@
+FileIdempotentReadSameFileAgainTest acts as a publisher for observer CamelContext, which tests Consume Same File Again, which creates Route Builder.
+FileIdempotentReadSameFileAgainTest acts as a publisher for observer Service, which tests Consume Same File Again, which creates Route Builder.

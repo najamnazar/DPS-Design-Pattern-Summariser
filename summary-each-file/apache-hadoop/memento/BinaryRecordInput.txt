@@ -1,0 +1,1 @@
+BinaryRecordInput acts as an originator for memento Index, which starts an Index Vector to, which starts an Index Map to.

@@ -1,0 +1,1 @@
+StubSockJsServiceConfig acts as a factory for SockJsServiceConfig, which overrides getStreamBytesLimit method of SockJsServiceConfig, getHeartbeatTime method of SockJsServiceConfig, getTaskScheduler method of SockJsServiceConfig, getMessageCodec method of SockJsServiceConfig, getHttpMessageCacheSize method of SockJsServiceConfig.

@@ -1,0 +1,1 @@
+LeaveSafeModeResponsePBImpl acts as a product for RouterStateManager, which overrides getStatus method of LeaveSafeModeResponse, setStatus method of LeaveSafeModeResponse.

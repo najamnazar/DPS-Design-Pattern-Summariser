@@ -1,0 +1,1 @@
+StatisticsFromAwsSdk acts as an abstract product for StatisticsFromAwsSdk, which is inherited by StatisticsFromAwsSdkImpl.

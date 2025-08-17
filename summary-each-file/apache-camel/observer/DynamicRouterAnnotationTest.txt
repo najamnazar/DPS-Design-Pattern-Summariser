@@ -1,0 +1,2 @@
+DynamicRouterAnnotationTest acts as a publisher for observer CamelContext, which tests Dynamic Router Annotation, which creates Route Builder, which dynamices String parameter of body Router.
+DynamicRouterAnnotationTest acts as a publisher for observer Service, which tests Dynamic Router Annotation, which creates Route Builder, which dynamices String parameter of body Router.

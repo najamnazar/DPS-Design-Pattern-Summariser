@@ -1,0 +1,2 @@
+NMPolicyProvider acts as an adaptee for adapter NMPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.
+NMPolicyProvider acts as an adapter, which adapts to PolicyProvider, which adapts to PolicyProvider.

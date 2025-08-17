@@ -1,0 +1,2 @@
+ResourcePropertiesPersister acts as an adaptee for adapter ResourcePropertiesPersister, which adapts to DefaultPropertiesPersister, which adapts to DefaultPropertiesPersister, which adapts to DefaultPropertiesPersister.
+ResourcePropertiesPersister acts as an adapter, which adapts to DefaultPropertiesPersister, which adapts to DefaultPropertiesPersister, which adapts to DefaultPropertiesPersister.

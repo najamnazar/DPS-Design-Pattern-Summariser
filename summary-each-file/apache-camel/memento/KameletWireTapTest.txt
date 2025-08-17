@@ -1,0 +1,2 @@
+KameletWireTapTest acts as a caretaker for memento Producer, which tests Wire Tap, which creates Route Builder.
+KameletWireTapTest acts as a caretaker for memento Context, which tests Wire Tap, which creates Route Builder.

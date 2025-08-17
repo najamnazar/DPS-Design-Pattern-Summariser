@@ -1,0 +1,3 @@
+SqlRowSet acts as an abstract product for SqlRowSet, which is inherited by ResultSetWrappingSqlRowSet, ResultSetWrappingSqlRowSet, ResultSetWrappingSqlRowSet.
+SqlRowSet acts as an abstract product for SqlRowSet, which is inherited by ResultSetWrappingSqlRowSet, ResultSetWrappingSqlRowSet.
+SqlRowSet acts as an abstract factory for SqlRowSetMetaData, which is inherited by ResultSetWrappingSqlRowSet.

@@ -1,0 +1,1 @@
+HostnameVerifierCxfConfigurer acts as an observer, which creates HostnameVerifier parameter of hostnameVerifier, which configures AbstractWSDLBasedEndpointFactory parameter of factoryBean, which configures Client parameter of client Client, which configures Server parameter of server Server.

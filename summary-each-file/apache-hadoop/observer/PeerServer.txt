@@ -1,0 +1,1 @@
+PeerServer acts as an observer, which sets int parameter of size Receive Buffer Size, which gets Receive Buffer Size, which accepts, which gets Listening String, which closes.

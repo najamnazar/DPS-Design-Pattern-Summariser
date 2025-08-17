@@ -1,0 +1,1 @@
+PipeReducer acts as an adapter, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed, which adapts to PipeMapRed.

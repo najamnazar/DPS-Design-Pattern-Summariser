@@ -1,0 +1,1 @@
+GetNewApplicationResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getApplicationId method of GetNewApplicationResponse, setApplicationId method of GetNewApplicationResponse, getMaximumResourceCapability method of GetNewApplicationResponse, setMaximumResourceCapability method of GetNewApplicationResponse.

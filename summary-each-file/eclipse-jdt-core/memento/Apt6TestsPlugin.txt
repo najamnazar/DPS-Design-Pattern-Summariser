@@ -1,0 +1,3 @@
+Apt6TestsPlugin acts as a caretaker for memento String, which starts BundleContext parameter of context, which thes Plugin.
+Apt6TestsPlugin acts as a caretaker for memento Test, which starts BundleContext parameter of context, which thes Plugin.
+Apt6TestsPlugin acts as a caretaker for memento S, which starts BundleContext parameter of context, which thes Plugin.

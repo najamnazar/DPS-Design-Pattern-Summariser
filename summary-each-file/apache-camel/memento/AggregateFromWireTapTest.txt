@@ -1,0 +1,2 @@
+AggregateFromWireTapTest acts as a caretaker for memento Producer, which tests Aggregate From Wire Tap, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+AggregateFromWireTapTest acts as a caretaker for memento Context, which tests Aggregate From Wire Tap, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

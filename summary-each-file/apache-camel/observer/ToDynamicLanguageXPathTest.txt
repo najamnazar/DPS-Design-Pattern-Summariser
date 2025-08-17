@@ -1,0 +1,2 @@
+ToDynamicLanguageXPathTest acts as a publisher for observer CamelContext, which tests To Dynamic, which creates Route Builder.
+ToDynamicLanguageXPathTest acts as a publisher for observer Service, which tests To Dynamic, which creates Route Builder.

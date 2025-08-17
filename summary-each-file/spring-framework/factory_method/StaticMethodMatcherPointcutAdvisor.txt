@@ -1,0 +1,2 @@
+StaticMethodMatcherPointcutAdvisor acts as a factory for AspectJExpressionPointcutAdvisor, which overrides.
+StaticMethodMatcherPointcutAdvisor acts as a factory for AspectJAdvisorFactory, which overrides.

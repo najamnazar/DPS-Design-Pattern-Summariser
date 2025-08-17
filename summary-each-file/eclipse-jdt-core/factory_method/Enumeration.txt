@@ -1,0 +1,1 @@
+Enumeration acts as an abstract product for IDOMNode, which is inherited by SiblingEnumeration.

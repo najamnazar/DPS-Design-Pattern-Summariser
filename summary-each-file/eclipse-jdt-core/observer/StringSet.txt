@@ -1,0 +1,1 @@
+StringSet acts as a publisher for observer String, which is inherited by, which adds String parameter of value, which clears, which includes String parameter of value, which rehashes, which tos String.

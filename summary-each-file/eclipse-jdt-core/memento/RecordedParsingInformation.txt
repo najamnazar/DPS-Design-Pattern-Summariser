@@ -1,0 +1,1 @@
+RecordedParsingInformation acts as a caretaker for memento C, which updates CompilationResult parameter of compilationResult Recorded Parsing Information.

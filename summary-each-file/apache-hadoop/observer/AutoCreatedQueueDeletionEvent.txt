@@ -1,0 +1,1 @@
+AutoCreatedQueueDeletionEvent acts as an observer, which gets Check Queue.

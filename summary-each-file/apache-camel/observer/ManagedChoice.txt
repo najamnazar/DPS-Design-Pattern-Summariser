@@ -1,0 +1,1 @@
+ManagedChoice acts as a publisher for observer Route, which gets Definition, which resets, which gets Support Extended Information, which choices Statistics.

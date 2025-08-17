@@ -1,0 +1,1 @@
+ResourceBlacklistRequest acts as an abstract product for ResourceBlacklistRequest, which is inherited by ResourceBlacklistRequestPBImpl.

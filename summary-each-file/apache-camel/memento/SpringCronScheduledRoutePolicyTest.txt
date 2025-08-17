@@ -1,0 +1,1 @@
+SpringCronScheduledRoutePolicyTest acts as a caretaker for memento Context, which sets Up, which news String parameter of config App Context, which tests Scheduled Start Route Policy, which tests Scheduled Stop Route Policy, which tests Scheduled Suspend Route Policy, which tests Scheduled Resume Route Policy.

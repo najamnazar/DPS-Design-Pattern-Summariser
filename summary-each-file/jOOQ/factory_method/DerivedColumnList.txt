@@ -1,0 +1,2 @@
+DerivedColumnList acts as an abstract product for CommonTableExpression, which is inherited by DerivedColumnListImpl.
+DerivedColumnList acts as a factory for Xmlpi, which overrides.

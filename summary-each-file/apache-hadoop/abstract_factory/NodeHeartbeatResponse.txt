@@ -1,0 +1,1 @@
+NodeHeartbeatResponse acts as an abstract product for NodeHeartbeatResponse, which is inherited by NodeHeartbeatResponsePBImpl.

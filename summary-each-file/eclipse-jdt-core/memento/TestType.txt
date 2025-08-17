@@ -1,0 +1,2 @@
+TestType acts as a caretaker for memento String.
+TestType acts as a caretaker for memento S.

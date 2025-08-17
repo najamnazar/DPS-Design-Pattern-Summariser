@@ -1,0 +1,3 @@
+DropIndexCascadeStep acts as a product for DropIndexCascadeStep, which overrides.
+DropIndexCascadeStep acts as an abstract product for DropIndexCascadeStep, which is inherited by DropIndexOnStep, DropIndexOnStep, DropIndexOnStep, DropIndexImpl, DropIndexImpl, DropIndexImpl.
+DropIndexCascadeStep acts as an abstract factory for DropIndexFinalStep, which is inherited by DropIndexImpl.

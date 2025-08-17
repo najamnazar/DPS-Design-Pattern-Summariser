@@ -1,0 +1,1 @@
+JmsRouteWithCustomListenerContainerTest acts as a publisher for observer ArtemisService, which tests Send Order, which gets Component Name, which creates Route Builder, which creates JmsEndpoint parameter of endpoint Message Listener Container, which handles String parameter of body Order.

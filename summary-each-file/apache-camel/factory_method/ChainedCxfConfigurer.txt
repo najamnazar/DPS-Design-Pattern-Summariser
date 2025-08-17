@@ -1,0 +1,1 @@
+ChainedCxfConfigurer acts as a product for HostnameVerifierCxfConfigurer, which overrides configure method of CxfConfigurer, configureClient method of CxfConfigurer, configureServer method of CxfConfigurer, configure method of CxfConfigurer, configureClient method of CxfConfigurer, configureServer method of CxfConfigurer.

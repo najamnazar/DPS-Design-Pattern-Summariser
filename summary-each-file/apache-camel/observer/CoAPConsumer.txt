@@ -1,0 +1,5 @@
+CoAPConsumer acts as a publisher for observer ExceptionHandler, which gets Coap Endpoint, which does Start, which does Stop.
+CoAPConsumer acts as a publisher for observer Exchange, which gets Coap Endpoint, which does Start, which does Stop.
+CoAPConsumer acts as a publisher for observer HealthCheck, which gets Coap Endpoint, which does Start, which does Stop.
+CoAPConsumer acts as an observer for publisher CamelCoapResource, which is inherited by, which gets Coap Endpoint, which does Start, which does Stop.
+CoAPConsumer acts as a publisher for observer Route, which gets Coap Endpoint, which does Start, which does Stop.

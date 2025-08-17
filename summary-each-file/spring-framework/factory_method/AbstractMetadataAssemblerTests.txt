@@ -1,0 +1,2 @@
+AbstractMetadataAssemblerTests acts as a factory for AbstractMetadataAssemblerTests, which overrides.
+AbstractMetadataAssemblerTests acts as a factory method for MBeanInfoAssembler, which is inherited by AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractMetadataAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests, AbstractJmxAssemblerTests.

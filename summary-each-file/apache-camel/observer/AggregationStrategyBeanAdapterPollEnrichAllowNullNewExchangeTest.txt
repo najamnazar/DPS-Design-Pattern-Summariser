@@ -1,0 +1,2 @@
+AggregationStrategyBeanAdapterPollEnrichAllowNullNewExchangeTest acts as a publisher for observer CamelContext, which tests No Data, which creates Route Builder, which appends String parameter of existing, String parameter of next.
+AggregationStrategyBeanAdapterPollEnrichAllowNullNewExchangeTest acts as a publisher for observer Service, which tests No Data, which creates Route Builder, which appends String parameter of existing, String parameter of next.

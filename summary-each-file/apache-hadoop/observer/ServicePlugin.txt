@@ -1,0 +1,1 @@
+ServicePlugin acts as an observer, which starts Object parameter of service, which stops.

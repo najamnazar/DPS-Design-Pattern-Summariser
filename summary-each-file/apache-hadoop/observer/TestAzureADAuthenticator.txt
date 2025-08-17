@@ -1,0 +1,2 @@
+TestAzureADAuthenticator acts as a publisher for observer Configuration, which tests Default OAuth Token Fetch Retry Policy, which tests OAuth Token Fetch Retry Policy.
+TestAzureADAuthenticator acts as a publisher for observer AzureBlobFileSystem, which tests Default OAuth Token Fetch Retry Policy, which tests OAuth Token Fetch Retry Policy.

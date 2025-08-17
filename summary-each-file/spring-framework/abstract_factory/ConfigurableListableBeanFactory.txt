@@ -1,0 +1,3 @@
+ConfigurableListableBeanFactory acts as an abstract product for ConfigurableListableBeanFactory, which is inherited by DefaultListableBeanFactory.
+ConfigurableListableBeanFactory acts as a product for ApplicationContext, which overrides.
+ConfigurableListableBeanFactory acts as an abstract factory for BeanDefinition, which is inherited by DefaultListableBeanFactory.

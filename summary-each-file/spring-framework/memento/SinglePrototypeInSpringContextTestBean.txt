@@ -1,0 +1,4 @@
+SinglePrototypeInSpringContextTestBean acts as a caretaker for memento A.
+SinglePrototypeInSpringContextTestBean acts as a caretaker for memento C.
+SinglePrototypeInSpringContextTestBean acts as a caretaker for memento B.
+SinglePrototypeInSpringContextTestBean acts as a caretaker for memento ApplicationContext.

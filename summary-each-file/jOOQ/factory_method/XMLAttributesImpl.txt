@@ -1,0 +1,1 @@
+XMLAttributesImpl acts as a product for XMLElement, which overrides $attributes method of XMLAttributes.

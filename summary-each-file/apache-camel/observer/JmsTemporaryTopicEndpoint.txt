@@ -1,0 +1,4 @@
+JmsTemporaryTopicEndpoint acts as an observer, which is Singleton, which gets Session parameter of session Jms Destination, which creates Session parameter of session Jms Destination.
+JmsTemporaryTopicEndpoint acts as a publisher for observer JmsConfiguration, which is Singleton, which gets Session parameter of session Jms Destination, which creates Session parameter of session Jms Destination.
+JmsTemporaryTopicEndpoint acts as a publisher for observer JmsBinding, which is Singleton, which gets Session parameter of session Jms Destination, which creates Session parameter of session Jms Destination.
+JmsTemporaryTopicEndpoint acts as a publisher for observer HeaderFilterStrategy, which is Singleton, which gets Session parameter of session Jms Destination, which creates Session parameter of session Jms Destination.

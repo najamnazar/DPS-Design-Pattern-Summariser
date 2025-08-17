@@ -1,0 +1,3 @@
+AbstractGitConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which does Start, which does Stop, which gets Local Repository, which gets Repository, which gets Git, which polls.
+AbstractGitConsumer acts as a publisher for observer PollingConsumerPollStrategy, which does Start, which does Stop, which gets Local Repository, which gets Repository, which gets Git, which polls.
+AbstractGitConsumer acts as a publisher for observer LoggingLevel, which does Start, which does Stop, which gets Local Repository, which gets Repository, which gets Git, which polls.

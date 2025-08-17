@@ -1,0 +1,2 @@
+LogInputStreamTest acts as a publisher for observer CamelContext, which tests A, which tests B, which tests C, which tests D, which tests E, which tests F, which creates Route Builder.
+LogInputStreamTest acts as a publisher for observer Service, which tests A, which tests B, which tests C, which tests D, which tests E, which tests F, which creates Route Builder.

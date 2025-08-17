@@ -1,0 +1,2 @@
+BeanMethodValueWithExchangeTest acts as a caretaker for memento Producer, which tests Exchange Foo, which tests Exchange Bar, which creates Registry, which creates Route Builder, which bars Exchange parameter of exchange, String parameter of extra.
+BeanMethodValueWithExchangeTest acts as a caretaker for memento Context, which tests Exchange Foo, which tests Exchange Bar, which creates Registry, which creates Route Builder, which bars Exchange parameter of exchange, String parameter of extra.

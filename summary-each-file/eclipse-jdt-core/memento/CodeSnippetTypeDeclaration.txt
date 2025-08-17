@@ -1,0 +1,6 @@
+CodeSnippetTypeDeclaration acts as a caretaker for memento Binding, which generates ClassFile parameter of enclosingClassFile Code.
+CodeSnippetTypeDeclaration acts as a caretaker for memento Class, which generates ClassFile parameter of enclosingClassFile Code.
+CodeSnippetTypeDeclaration acts as a caretaker for memento E, which generates ClassFile parameter of enclosingClassFile Code.
+CodeSnippetTypeDeclaration acts as a caretaker for memento S, which generates ClassFile parameter of enclosingClassFile Code.
+CodeSnippetTypeDeclaration acts as a caretaker for memento C, which generates ClassFile parameter of enclosingClassFile Code.
+CodeSnippetTypeDeclaration acts as a caretaker for memento R, which generates ClassFile parameter of enclosingClassFile Code.

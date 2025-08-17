@@ -1,0 +1,1 @@
+ExecutableElement acts as a memento, which is inherited by ExecutableElementImpl, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name, which gets Simple Name.

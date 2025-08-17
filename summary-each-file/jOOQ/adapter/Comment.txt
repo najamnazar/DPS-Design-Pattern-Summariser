@@ -1,0 +1,1 @@
+Comment acts as an adaptee for adapter AbstractNamed, which adapts to AbstractQueryPart, which adapts to AbstractQueryPart.

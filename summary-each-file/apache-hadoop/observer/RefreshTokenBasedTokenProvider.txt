@@ -1,0 +1,1 @@
+RefreshTokenBasedTokenProvider acts as a publisher for observer Configuration, which refreshes Token.

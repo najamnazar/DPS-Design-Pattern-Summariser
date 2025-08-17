@@ -1,0 +1,2 @@
+MessageHistoryCopyMessageTest acts as a publisher for observer CamelContext, which tests Copy Message, which creates Route Builder.
+MessageHistoryCopyMessageTest acts as a publisher for observer Service, which tests Copy Message, which creates Route Builder.

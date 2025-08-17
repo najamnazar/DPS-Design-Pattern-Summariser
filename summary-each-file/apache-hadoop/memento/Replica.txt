@@ -1,0 +1,1 @@
+Replica acts as a memento, which is inherited by ReplicaInfo, ExternalReplica, ReplicaInPipeline, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume.

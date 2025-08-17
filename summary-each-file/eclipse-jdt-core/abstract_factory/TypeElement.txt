@@ -1,0 +1,11 @@
+TypeElement acts as a product for PackageElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as an abstract factory for TypeMirror, Element, Name, which is inherited by TypeElementImpl.
+TypeElement acts as an abstract product for TypeElement, which is inherited by TypeElementImpl, TypeElementImpl, TypeElementImpl, TypeElementImpl.
+TypeElement acts as an abstract product for TypeElement, which is inherited by TypeElementImpl, TypeElementImpl.
+TypeElement acts as a product for RecordComponentElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as a product for TypeElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as a product for ExecutableElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as a product for ModuleElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as a product for Element, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as a product for VariableElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.
+TypeElement acts as a product for TypeParameterElement, which overrides asType method of Element, getEnclosedElements method of Element, getSimpleName method of Element, getEnclosingElement method of Element.

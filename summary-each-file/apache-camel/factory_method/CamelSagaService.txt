@@ -1,0 +1,1 @@
+CamelSagaService acts as an abstract product for SagaProcessor, which is inherited by LRASagaService, InMemorySagaService.

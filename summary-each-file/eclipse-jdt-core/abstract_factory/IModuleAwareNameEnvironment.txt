@@ -1,0 +1,1 @@
+IModuleAwareNameEnvironment acts as an abstract factory for IModule, which is inherited by SearchableEnvironment, FileSystem, NameEnvironment, JavaSearchNameEnvironment, InMemoryNameEnvironment9.

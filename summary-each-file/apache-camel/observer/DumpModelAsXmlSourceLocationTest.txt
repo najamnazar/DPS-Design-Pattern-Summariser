@@ -1,0 +1,2 @@
+DumpModelAsXmlSourceLocationTest acts as a publisher for observer Service, which creates Camel Context, which tests Dump Model As Xml, which tests Dump Model As Xml External, which creates Route Builders.
+DumpModelAsXmlSourceLocationTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Dump Model As Xml, which tests Dump Model As Xml External, which creates Route Builders.

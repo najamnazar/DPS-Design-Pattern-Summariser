@@ -1,0 +1,2 @@
+OnExceptionWrappedExceptionTest acts as a publisher for observer CamelContext, which tests Wrapped Exception, which creates Route Builder, which converts Class<T> parameter of type, Exchange parameter of exchange, Object parameter of value To.
+OnExceptionWrappedExceptionTest acts as a publisher for observer Service, which tests Wrapped Exception, which creates Route Builder, which converts Class<T> parameter of type, Exchange parameter of exchange, Object parameter of value To.

@@ -1,0 +1,2 @@
+SplitContinuedLogIssueTest acts as a publisher for observer Service, which tests Foo Bar, which tests Bar Foo, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+SplitContinuedLogIssueTest acts as a publisher for observer CamelContext, which tests Foo Bar, which tests Bar Foo, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

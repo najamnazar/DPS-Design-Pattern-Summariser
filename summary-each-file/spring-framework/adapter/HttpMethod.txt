@@ -1,0 +1,5 @@
+HttpMethod acts as an adaptee for adapter OkHttp3AsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest.
+HttpMethod acts as an adaptee for adapter OkHttp3ClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest.
+HttpMethod acts as an adaptee for adapter UnsupportedMediaTypeStatusException, which adapts to ResponseStatusException, which adapts to ResponseStatusException.
+HttpMethod acts as an adaptee for adapter InterceptingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest.
+HttpMethod acts as an adaptee for adapter MockServerRequest, which adapts to ServerRequest, which adapts to ServerRequest.

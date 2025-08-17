@@ -1,0 +1,2 @@
+GoogleCloudStorageComponentConfigurationTest acts as a caretaker for memento Producer, which creates Endpoint With Minimal Configuration, which creates Endpoint For Complex Consumer.
+GoogleCloudStorageComponentConfigurationTest acts as a caretaker for memento Context, which creates Endpoint With Minimal Configuration, which creates Endpoint For Complex Consumer.

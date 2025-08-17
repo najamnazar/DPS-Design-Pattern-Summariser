@@ -1,0 +1,2 @@
+AbstractListAggregationStrategy acts as a product for AggregationStrategyAwareDefinition, which overrides onCompletion method of AggregationStrategy, aggregate method of AggregationStrategy.
+AbstractListAggregationStrategy acts as a factory for AggregationStrategy, which overrides onCompletion method of AggregationStrategy, aggregate method of AggregationStrategy.

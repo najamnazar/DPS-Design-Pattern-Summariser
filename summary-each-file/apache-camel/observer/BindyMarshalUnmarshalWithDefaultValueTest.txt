@@ -1,0 +1,5 @@
+BindyMarshalUnmarshalWithDefaultValueTest acts as a publisher for observer ConsumerTemplate, which tests Bindy Marshal With Default Value, which tests Bindy Unmarshal With Default Value, which creates Route Builder.
+BindyMarshalUnmarshalWithDefaultValueTest acts as a publisher for observer Service, which tests Bindy Marshal With Default Value, which tests Bindy Unmarshal With Default Value, which creates Route Builder.
+BindyMarshalUnmarshalWithDefaultValueTest acts as a publisher for observer ProducerTemplate, which tests Bindy Marshal With Default Value, which tests Bindy Unmarshal With Default Value, which creates Route Builder.
+BindyMarshalUnmarshalWithDefaultValueTest acts as a publisher for observer CamelContext, which tests Bindy Marshal With Default Value, which tests Bindy Unmarshal With Default Value, which creates Route Builder.
+BindyMarshalUnmarshalWithDefaultValueTest acts as a publisher for observer FluentProducerTemplate, which tests Bindy Marshal With Default Value, which tests Bindy Unmarshal With Default Value, which creates Route Builder.

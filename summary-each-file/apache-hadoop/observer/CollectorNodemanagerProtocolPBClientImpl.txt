@@ -1,0 +1,1 @@
+CollectorNodemanagerProtocolPBClientImpl acts as an observer, which reports ReportNewCollectorInfoRequest parameter of request New Collector Info, which gets GetTimelineCollectorContextRequest parameter of request Timeline Collector Context, which closes.

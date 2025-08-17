@@ -1,0 +1,1 @@
+AclEntryScope acts as an observer for publisher AclEntry, which is inherited by.

@@ -1,0 +1,2 @@
+ControlledClock acts as a product for AppContext, which overrides getTime method of Clock.
+ControlledClock acts as a product for CapacitySchedulerContext, which overrides getTime method of Clock.

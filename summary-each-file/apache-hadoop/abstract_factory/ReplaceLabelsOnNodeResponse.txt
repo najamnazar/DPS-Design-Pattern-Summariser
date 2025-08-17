@@ -1,0 +1,1 @@
+ReplaceLabelsOnNodeResponse acts as an abstract product for ReplaceLabelsOnNodeResponse, which is inherited by ReplaceLabelsOnNodeResponsePBImpl.

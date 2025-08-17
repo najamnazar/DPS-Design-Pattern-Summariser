@@ -1,0 +1,1 @@
+ConsulEndpoint acts as an adaptee for adapter AbstractConsulConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

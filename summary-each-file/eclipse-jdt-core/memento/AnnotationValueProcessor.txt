@@ -1,0 +1,1 @@
+AnnotationValueProcessor acts as a caretaker for memento E, which processes, which asserts final parameter of Map<String, AnnotationMirror parameter of annotation Annotation.

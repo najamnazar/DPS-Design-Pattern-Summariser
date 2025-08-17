@@ -1,0 +1,1 @@
+AbstractImageBuilder acts as a factory for ICompilationUnitLocator, which overrides fromIFile method of ICompilationUnitLocator.

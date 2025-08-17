@@ -1,0 +1,5 @@
+VertxKafkaAutowireTest acts as a publisher for observer CamelContext, which afters ExtensionContext parameter of context All, which tests Vertx Kafka Component Autowiring.
+VertxKafkaAutowireTest acts as a publisher for observer FluentProducerTemplate, which afters ExtensionContext parameter of context All, which tests Vertx Kafka Component Autowiring.
+VertxKafkaAutowireTest acts as a publisher for observer Service, which afters ExtensionContext parameter of context All, which tests Vertx Kafka Component Autowiring.
+VertxKafkaAutowireTest acts as a publisher for observer ConsumerTemplate, which afters ExtensionContext parameter of context All, which tests Vertx Kafka Component Autowiring.
+VertxKafkaAutowireTest acts as a publisher for observer ProducerTemplate, which afters ExtensionContext parameter of context All, which tests Vertx Kafka Component Autowiring.

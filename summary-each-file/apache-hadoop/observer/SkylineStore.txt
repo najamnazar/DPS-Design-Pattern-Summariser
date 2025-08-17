@@ -1,0 +1,1 @@
+SkylineStore acts as an observer.

@@ -1,0 +1,2 @@
+RuntimeCamelCatalog acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService.
+RuntimeCamelCatalog acts as an adaptee for adapter DefaultRuntimeCamelCatalog, which adapts to AbstractCamelCatalog, which adapts to AbstractCamelCatalog, which adapts to AbstractCamelCatalog, which adapts to AbstractCamelCatalog, which adapts to AbstractCamelCatalog.

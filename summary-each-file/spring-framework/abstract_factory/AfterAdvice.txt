@@ -1,0 +1,2 @@
+AfterAdvice acts as a product for AspectJAdvisorFactory, which overrides.
+AfterAdvice acts as a product for Advisor, which overrides.

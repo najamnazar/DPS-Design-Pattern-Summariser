@@ -1,0 +1,1 @@
+MockMvcConfigurerAdapter acts as a factory for MockMvcConfigurer, which overrides afterConfigurerAdded method of MockMvcConfigurer.

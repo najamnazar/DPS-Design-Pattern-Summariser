@@ -1,0 +1,4 @@
+DatanodeInfoWithStorage acts as a publisher for observer Node, which gets Storage ID, which gets Storage Type, which equals Object parameter of o, which hashes Code, which tos String.
+DatanodeInfoWithStorage acts as an observer for publisher LocatedBlock, LocatedStripedBlock, which is inherited by, which gets Storage ID, which gets Storage Type, which equals Object parameter of o, which hashes Code, which tos String.
+DatanodeInfoWithStorage acts as an observer, which gets Storage ID, which gets Storage Type, which equals Object parameter of o, which hashes Code, which tos String.
+DatanodeInfoWithStorage acts as a publisher for observer DatanodeInfo, which gets Storage ID, which gets Storage Type, which equals Object parameter of o, which hashes Code, which tos String.

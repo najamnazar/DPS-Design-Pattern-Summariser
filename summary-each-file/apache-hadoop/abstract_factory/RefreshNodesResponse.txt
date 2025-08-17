@@ -1,0 +1,1 @@
+RefreshNodesResponse acts as an abstract product for RefreshNodesResponse, which is inherited by RefreshNodesResponsePBImpl.

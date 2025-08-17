@@ -1,0 +1,1 @@
+ConsumerTemplateMaximumCacheSizeTest acts as a caretaker for memento Context, which tests Template Maximum Cache.

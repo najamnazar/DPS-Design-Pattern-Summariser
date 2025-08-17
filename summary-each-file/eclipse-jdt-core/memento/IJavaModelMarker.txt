@@ -1,0 +1,2 @@
+IJavaModelMarker acts as a caretaker for memento String.
+IJavaModelMarker acts as a caretaker for memento S.

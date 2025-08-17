@@ -1,0 +1,1 @@
+AtAspectJAfterThrowingTests acts as a publisher for observer IOException, which is inherited by, which tests Access Throwable, which handles IOException parameter of ex IOException.

@@ -1,0 +1,2 @@
+SimpleConstructorNamespaceHandler acts as a product for NamespaceHandlerResolver, which overrides init method of NamespaceHandler, parse method of NamespaceHandler.
+SimpleConstructorNamespaceHandler acts as a factory for NamespaceHandler, which overrides init method of NamespaceHandler, parse method of NamespaceHandler.

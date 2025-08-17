@@ -1,0 +1,5 @@
+JacksonModuleTest acts as a publisher for observer ConsumerTemplate, which tests Custom Module, which creates Route Builder.
+JacksonModuleTest acts as a publisher for observer FluentProducerTemplate, which tests Custom Module, which creates Route Builder.
+JacksonModuleTest acts as a publisher for observer ProducerTemplate, which tests Custom Module, which creates Route Builder.
+JacksonModuleTest acts as a publisher for observer CamelContext, which tests Custom Module, which creates Route Builder.
+JacksonModuleTest acts as a publisher for observer Service, which tests Custom Module, which creates Route Builder.

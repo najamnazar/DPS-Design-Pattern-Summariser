@@ -1,0 +1,2 @@
+XmppComponent acts as a caretaker for memento Context, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which does Start, which does Stop, which extracts String parameter of uri Cache Key From Uri.
+XmppComponent acts as a caretaker for memento Component, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which does Start, which does Stop, which extracts String parameter of uri Cache Key From Uri.

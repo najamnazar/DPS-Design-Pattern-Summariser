@@ -1,0 +1,1 @@
+SetContainerOperation acts as a publisher for observer JavaProject, which is inherited by, which executes Operation, which verbose_failures CoreException parameter of e, which verbose_update_projects JavaProject parameter of affectedProject, which verbose_set_containers, which verbose_set_container_invocation_traces.

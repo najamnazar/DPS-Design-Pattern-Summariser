@@ -1,0 +1,1 @@
+HttpsV3Test acts as a factory for CamelJmxConsumerObserveAttributeMatchStringTest, which overrides.

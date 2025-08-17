@@ -1,0 +1,1 @@
+ComponentBeanDefinitionParserTests acts as a caretaker for memento B, which sets Up, which tears Down, which tests Bionic Basic, which tests Bionic First Level Children, which tests Bionic Second Level Children, which gets Bionic Family.

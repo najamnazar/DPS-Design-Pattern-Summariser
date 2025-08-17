@@ -1,0 +1,4 @@
+DefaultServiceDefinition acts as a factory for ServiceEndpoint, which overrides getId method of ServiceEndpoint, getName method of ServiceEndpoint, getHost method of ServiceEndpoint, getPort method of ServiceEndpoint, getHealth method of ServiceEndpoint, getMetadata method of ServiceEndpoint.
+DefaultServiceDefinition acts as a factory method for ServiceHealth, which is inherited by ServiceDefinition, DefaultServiceDefinition.
+DefaultServiceDefinition acts as a factory for DefaultServiceDefinition, which overrides getMetadata method of DefaultServiceDefinition.
+DefaultServiceDefinition acts as a product for ServiceEndpoint, which overrides getId method of ServiceDefinition, getName method of ServiceDefinition, getHost method of ServiceDefinition, getPort method of ServiceDefinition, getHealth method of ServiceDefinition, getMetadata method of ServiceDefinition.

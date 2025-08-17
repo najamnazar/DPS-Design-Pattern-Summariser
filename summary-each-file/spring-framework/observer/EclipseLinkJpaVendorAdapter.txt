@@ -1,0 +1,1 @@
+EclipseLinkJpaVendorAdapter acts as a publisher for observer Database, which gets Persistence Provider, which gets Jpa Property Map, which determines Database parameter of database Target Database Name, which gets Jpa Dialect, which gets Entity Manager Interface.

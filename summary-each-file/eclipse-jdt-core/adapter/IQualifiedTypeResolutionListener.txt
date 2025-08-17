@@ -1,0 +1,1 @@
+IQualifiedTypeResolutionListener acts as a target for adapter PatternLocator, which adapts to IQualifiedTypeResolutionListener.

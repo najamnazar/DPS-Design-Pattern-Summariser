@@ -1,0 +1,2 @@
+JpaDialect acts as an abstract product for JpaDialect, which is inherited by DefaultJpaDialect.
+JpaDialect acts as an abstract factory for ConnectionHandle, which is inherited by DefaultJpaDialect.

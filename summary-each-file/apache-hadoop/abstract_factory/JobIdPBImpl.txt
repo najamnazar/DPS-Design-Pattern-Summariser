@@ -1,0 +1,7 @@
+JobIdPBImpl acts as a product for GetTaskAttemptCompletionEventsRequest, which overrides.
+JobIdPBImpl acts as a product for GetJobReportRequest, which overrides.
+JobIdPBImpl acts as a product for GetCountersRequest, which overrides.
+JobIdPBImpl acts as a product for KillJobRequest, which overrides.
+JobIdPBImpl acts as a product for Job, which overrides.
+JobIdPBImpl acts as a product for GetTaskReportsRequest, which overrides.
+JobIdPBImpl acts as a product for JobReport, which overrides.

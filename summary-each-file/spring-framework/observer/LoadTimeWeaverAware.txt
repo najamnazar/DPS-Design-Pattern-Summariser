@@ -1,0 +1,1 @@
+LoadTimeWeaverAware acts as a publisher for observer LoadTimeWeaver, which is inherited by AspectJWeavingEnabler, which sets LoadTimeWeaver parameter of loadTimeWeaver Load Time Weaver.

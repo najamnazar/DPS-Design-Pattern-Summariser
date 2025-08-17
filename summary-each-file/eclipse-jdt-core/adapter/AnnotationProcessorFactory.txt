@@ -1,0 +1,1 @@
+AnnotationProcessorFactory acts as an adaptee for adapter AbstractCompilationEnv, which adapts supportedOptions method of AnnotationProcessorFactory, supportedOptions method of AnnotationProcessorFactory to BaseProcessorEnv, which adapts to BaseProcessorEnv, which adapts to BaseProcessorEnv.

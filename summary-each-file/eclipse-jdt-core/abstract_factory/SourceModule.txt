@@ -1,0 +1,1 @@
+SourceModule acts as a factory for AbstractModule, which overrides getFlags method of AbstractModule, getHandleMementoDelimiter method of AbstractModule, toString method of AbstractModule.

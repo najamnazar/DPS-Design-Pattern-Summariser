@@ -1,0 +1,1 @@
+TestLoadManifestsStage acts as a target for adapter ITestAbfsLoadManifestsStage, which adapts to TestLoadManifestsStage, which adapts to TestLoadManifestsStage, which adapts to TestLoadManifestsStage, which adapts to TestLoadManifestsStage, which adapts to TestLoadManifestsStage, which adapts to TestLoadManifestsStage.

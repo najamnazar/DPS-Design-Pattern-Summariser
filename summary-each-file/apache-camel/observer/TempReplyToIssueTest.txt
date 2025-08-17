@@ -1,0 +1,1 @@
+TempReplyToIssueTest acts as a publisher for observer ArtemisService, which tests Reply To Issue, which handles @Header("JMSReplyTo") parameter of final, @Header("JMSCorrelationID") parameter of final, @Body parameter of String, Exchange parameter of exchange Message, which gets Component Name, which creates Route Builder.

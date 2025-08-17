@@ -1,0 +1,1 @@
+EncodedResourceTests acts as a caretaker for memento C, which equals With Null Other Object, which equals With Same Encoding, which equals With Different Encoding, which equals With Same Charset, which equals With Different Charset, which equals With Encoding And Charset.

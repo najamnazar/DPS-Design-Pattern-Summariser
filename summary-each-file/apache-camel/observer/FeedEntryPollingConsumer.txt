@@ -1,0 +1,1 @@
+FeedEntryPollingConsumer acts as a publisher for observer ResumeStrategy, which is inherited by AtomEntryPollingConsumer, RssEntryPollingConsumer, which polls, which sets ResumeStrategy parameter of resumeStrategy Resume Strategy, which gets Resume Strategy, which adapters Factory Service, which resets List, which populates Object parameter of feed List, which has Next Entry.

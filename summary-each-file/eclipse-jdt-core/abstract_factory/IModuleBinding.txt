@@ -1,0 +1,3 @@
+IModuleBinding acts as a product for ITypeBinding, which overrides getKind method of IBinding.
+IModuleBinding acts as an abstract product for IModuleBinding, which is inherited by ModuleBinding.
+IModuleBinding acts as a product for IMethodBinding, which overrides getKind method of IBinding.

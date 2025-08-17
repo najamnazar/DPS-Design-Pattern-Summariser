@@ -1,0 +1,1 @@
+ManagedJmsEndpointTopicTest acts as a publisher for observer ArtemisService, which uses Jmx, which gets Component Name, which gets MBean Server, which tests Jms Endpoint, which creates Route Builder.

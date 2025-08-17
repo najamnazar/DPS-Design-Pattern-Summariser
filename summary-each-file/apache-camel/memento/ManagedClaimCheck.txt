@@ -1,0 +1,1 @@
+ManagedClaimCheck acts as a caretaker for memento Context, which gets Operation, which gets Key, which gets Filter.

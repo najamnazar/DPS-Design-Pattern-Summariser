@@ -1,0 +1,1 @@
+GetJobReportResponse acts as a publisher for observer JobReport, which is inherited by GetJobReportResponsePBImpl, which gets Job Report, which sets JobReport parameter of jobReport Job Report.

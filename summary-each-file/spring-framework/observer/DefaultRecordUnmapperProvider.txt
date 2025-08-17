@@ -1,0 +1,1 @@
+DefaultRecordUnmapperProvider acts as an observer, which provides Class<? parameter of extends, RecordType<R> parameter of rowType.

@@ -1,0 +1,2 @@
+TestFcHdfsPermission acts as a publisher for observer FileContext, which gets File Context Helper, which gets File Context, which clusters Setup At Begining, which Clusters Shutdown At End, which sets Up, which tears Down.
+TestFcHdfsPermission acts as a publisher for observer FsPermission, which gets File Context Helper, which gets File Context, which clusters Setup At Begining, which Clusters Shutdown At End, which sets Up, which tears Down.

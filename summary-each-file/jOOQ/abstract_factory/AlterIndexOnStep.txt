@@ -1,0 +1,3 @@
+AlterIndexOnStep acts as a product for AlterIndexOnStep, which overrides.
+AlterIndexOnStep acts as an abstract factory for AlterIndexStep, which is inherited by AlterIndexImpl.
+AlterIndexOnStep acts as an abstract product for AlterIndexOnStep, which is inherited by AlterIndexImpl, AlterIndexImpl, AlterIndexImpl, AlterIndexImpl, AlterIndexImpl, AlterIndexImpl.

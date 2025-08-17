@@ -1,0 +1,1 @@
+AlterTypeRenameValueToStep acts as an originator for memento AlterTypeFinalStep, which is inherited by, which tos AlterTypeFinalStep, which tos AlterTypeFinalStep.

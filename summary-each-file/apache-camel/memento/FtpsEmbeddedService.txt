@@ -1,0 +1,2 @@
+FtpsEmbeddedService acts as a caretaker for memento Context, which creates EmbeddedConfiguration parameter of embeddedConfiguration Ftp Server Factory, which creates EmbeddedConfiguration parameter of embeddedConfiguration Ssl Configuration.
+FtpsEmbeddedService acts as a caretaker for memento Configuration, which creates EmbeddedConfiguration parameter of embeddedConfiguration Ftp Server Factory, which creates EmbeddedConfiguration parameter of embeddedConfiguration Ssl Configuration.

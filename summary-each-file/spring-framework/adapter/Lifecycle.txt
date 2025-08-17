@@ -1,0 +1,2 @@
+Lifecycle acts as an adaptee for adapter JettyWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient.
+Lifecycle acts as an adaptee for adapter TransportHandlingSockJsService, which adapts to AbstractSockJsService, which adapts to AbstractSockJsService, which adapts to AbstractSockJsService.

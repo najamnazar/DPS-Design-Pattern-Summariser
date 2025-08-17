@@ -1,0 +1,2 @@
+SpringThreadsCorePoolTest acts as a publisher for observer CamelContext, which tests Threads Core Pool, which tests Threads Core Pool Builder, which creates Camel Context.
+SpringThreadsCorePoolTest acts as a publisher for observer Service, which tests Threads Core Pool, which tests Threads Core Pool Builder, which creates Camel Context.

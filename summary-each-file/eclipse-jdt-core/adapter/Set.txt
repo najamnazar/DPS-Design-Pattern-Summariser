@@ -1,0 +1,3 @@
+Set acts as an adaptee for adapter ASTNodesCollectorVisitor, which adapts to ASTVisitor.
+Set acts as an adaptee for adapter AbstractJavadocCompletionModelTest, which adapts to AbstractJavaModelCompletionTests.
+Set acts as an adaptee for adapter StackMapFrameCodeStream, which adapts to CodeStream.

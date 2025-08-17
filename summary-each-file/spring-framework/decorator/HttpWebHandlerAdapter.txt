@@ -1,0 +1,1 @@
+HttpWebHandlerAdapter acts as a decorator for decorator WebHandlerDecorator.

@@ -1,0 +1,3 @@
+BufferedImageHttpMessageConverterTests acts as a caretaker for memento C, which sets Up, which cans Read, which cans Write, which reads, which writes, which writes Default Content Type.
+BufferedImageHttpMessageConverterTests acts as a caretaker for memento Message, which sets Up, which cans Read, which cans Write, which reads, which writes, which writes Default Content Type.
+BufferedImageHttpMessageConverterTests acts as a caretaker for memento B, which sets Up, which cans Read, which cans Write, which reads, which writes, which writes Default Content Type.

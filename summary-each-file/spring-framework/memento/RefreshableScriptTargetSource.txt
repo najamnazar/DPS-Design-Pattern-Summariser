@@ -1,0 +1,1 @@
+RefreshableScriptTargetSource acts as a caretaker for memento B, which requires Refresh, which obtains BeanFactory parameter of beanFactory, String parameter of beanName Fresh Bean.

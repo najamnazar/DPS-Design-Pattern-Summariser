@@ -1,0 +1,2 @@
+Mysql acts as an adapter, which adapts to SchemaImpl, which adapts to SchemaImpl.
+Mysql acts as an adaptee for adapter Mysql, which adapts to SchemaImpl, which adapts to SchemaImpl.

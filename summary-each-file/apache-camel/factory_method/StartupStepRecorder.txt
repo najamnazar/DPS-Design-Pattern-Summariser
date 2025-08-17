@@ -1,0 +1,1 @@
+StartupStepRecorder acts as a factory for DefaultStartupStepRecorder, which overrides.

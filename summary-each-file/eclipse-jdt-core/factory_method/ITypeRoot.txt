@@ -1,0 +1,1 @@
+ITypeRoot acts as a factory for ResolveTests, which overrides.

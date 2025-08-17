@@ -1,0 +1,1 @@
+Grep acts as a publisher for observer Configuration, which runs String[] parameter of args, which mains String[] parameter of args.

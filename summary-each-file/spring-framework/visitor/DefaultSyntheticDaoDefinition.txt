@@ -1,0 +1,11 @@
+DefaultSyntheticDaoDefinition acts as a visitor for element MethodResolver, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element Advised, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element Decoder, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element ConstructorExecutor, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element RequestMatcher, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element MethodExecutor, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element RequestExpectationManager, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element ClientHttpRequestInitializer, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element ClientRequest, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element RequestCallback, which overrides, which gets a Dao to.
+DefaultSyntheticDaoDefinition acts as a visitor for element BeanResolver, which overrides, which gets a Dao to.

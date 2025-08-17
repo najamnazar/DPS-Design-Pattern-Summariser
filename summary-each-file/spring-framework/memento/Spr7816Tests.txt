@@ -1,0 +1,1 @@
+Spr7816Tests acts as a caretaker for memento C, which spr7816s, which gets Extension Prefix, which gets Supported Types.

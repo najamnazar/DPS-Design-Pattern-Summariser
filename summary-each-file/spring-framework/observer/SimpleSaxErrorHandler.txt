@@ -1,0 +1,1 @@
+SimpleSaxErrorHandler acts as an observer, which warns SAXParseException parameter of ex, which errors SAXParseException parameter of ex, which fatals SAXParseException parameter of ex Error.

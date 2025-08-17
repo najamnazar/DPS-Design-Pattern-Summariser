@@ -1,0 +1,1 @@
+CurrentJHParser acts as a factory for JobHistoryParser, which overrides nextEvent method of JobHistoryParser.

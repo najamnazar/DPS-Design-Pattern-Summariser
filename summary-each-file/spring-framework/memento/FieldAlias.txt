@@ -1,0 +1,1 @@
+FieldAlias acts as a caretaker for memento A, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which ases Name parameter of as, which declares Fields, which gets Qualified Name, which gets Aliased Field, which $fields, which $aliases.

@@ -1,0 +1,1 @@
+SynthJob acts as a product for JobFactory, which overrides getJobConf method of JobStory, getNumberMaps method of JobStory, getNumberReduces method of JobStory, getInputSplits method of JobStory, getTaskInfo method of JobStory, getTaskAttemptInfo method of JobStory, getMapTaskAttemptInfoAdjusted method of JobStory, getOutcome method of JobStory.

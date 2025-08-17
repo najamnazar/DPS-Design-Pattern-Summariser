@@ -1,0 +1,2 @@
+WithoutTransactionOperations acts as a product for TransactionOperations, which overrides execute method of TransactionOperations, executeWithoutResult method of TransactionOperations.
+WithoutTransactionOperations acts as a factory for TransactionOperations, which overrides execute method of TransactionOperations, executeWithoutResult method of TransactionOperations.

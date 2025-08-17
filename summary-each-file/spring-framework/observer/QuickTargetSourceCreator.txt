@@ -1,0 +1,2 @@
+QuickTargetSourceCreator acts as a publisher for observer ConfigurableBeanFactory, which creates Class<?> parameter of beanClass, String parameter of beanName Bean Factory Based Target Source.
+QuickTargetSourceCreator acts as a publisher for observer BeanFactory, which creates Class<?> parameter of beanClass, String parameter of beanName Bean Factory Based Target Source.

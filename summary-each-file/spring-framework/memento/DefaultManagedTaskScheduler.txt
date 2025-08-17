@@ -1,0 +1,1 @@
+DefaultManagedTaskScheduler acts as a caretaker for memento C, which sets JndiTemplate parameter of jndiTemplate Jndi Template, which sets Properties parameter of jndiEnvironment Jndi Environment, which sets boolean parameter of resourceRef Resource Ref, which sets String parameter of jndiName Jndi Name, which afters Properties Set.

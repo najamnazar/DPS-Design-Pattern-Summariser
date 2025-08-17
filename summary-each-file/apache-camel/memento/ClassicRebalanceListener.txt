@@ -1,0 +1,1 @@
+ClassicRebalanceListener acts as a caretaker for memento Configuration, which ons Collection<TopicPartition> parameter of partitions Partitions Revoked, which ons Collection<TopicPartition> parameter of partitions Partitions Assigned.

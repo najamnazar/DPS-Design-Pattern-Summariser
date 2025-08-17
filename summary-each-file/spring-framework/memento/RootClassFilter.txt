@@ -1,0 +1,1 @@
+RootClassFilter acts as a caretaker for memento C, which matches Class<?> parameter of candidate, which equals Object parameter of other, which hashes Code, which tos String.

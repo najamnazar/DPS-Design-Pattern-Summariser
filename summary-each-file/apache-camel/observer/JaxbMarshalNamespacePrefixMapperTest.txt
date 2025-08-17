@@ -1,0 +1,5 @@
+JaxbMarshalNamespacePrefixMapperTest acts as a publisher for observer CamelContext, which adds Map, which tests Namespace Prefix, which creates Route Builder.
+JaxbMarshalNamespacePrefixMapperTest acts as a publisher for observer ProducerTemplate, which adds Map, which tests Namespace Prefix, which creates Route Builder.
+JaxbMarshalNamespacePrefixMapperTest acts as a publisher for observer ConsumerTemplate, which adds Map, which tests Namespace Prefix, which creates Route Builder.
+JaxbMarshalNamespacePrefixMapperTest acts as a publisher for observer Service, which adds Map, which tests Namespace Prefix, which creates Route Builder.
+JaxbMarshalNamespacePrefixMapperTest acts as a publisher for observer FluentProducerTemplate, which adds Map, which tests Namespace Prefix, which creates Route Builder.

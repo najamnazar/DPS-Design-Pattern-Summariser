@@ -1,0 +1,1 @@
+CacheExpressionRootObject acts as a caretaker for memento C, which gets Caches, which gets Method, which gets Method Name, which gets Args, which gets Target, which gets Target Class.

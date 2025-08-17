@@ -1,0 +1,1 @@
+ConfRefreshTokenBasedAccessTokenProvider acts as an adapter, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts refresh method of AccessTokenTimer to AccessTokenProvider, which adapts to AccessTokenProvider.

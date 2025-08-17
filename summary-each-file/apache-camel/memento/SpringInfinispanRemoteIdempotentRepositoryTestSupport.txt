@@ -1,0 +1,1 @@
+SpringInfinispanRemoteIdempotentRepositoryTestSupport acts as a caretaker for memento Context, which does Pre Setup, which tests Idempotent.

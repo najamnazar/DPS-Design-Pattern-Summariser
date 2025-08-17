@@ -1,0 +1,1 @@
+DFSInputStream acts as a factory for BlockReaderFactory, which overrides close method of BlockReaderFactory, skip method of BlockReaderFactory, available method of BlockReaderFactory.

@@ -1,0 +1,1 @@
+RouterAsyncStoragePolicy acts as an adapter, which adapts to RouterStoragePolicy, which adapts to RouterStoragePolicy.

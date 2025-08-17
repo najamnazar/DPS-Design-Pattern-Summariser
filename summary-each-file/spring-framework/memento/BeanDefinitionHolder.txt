@@ -1,0 +1,1 @@
+BeanDefinitionHolder acts as a caretaker for memento B, which is inherited by, which gets Bean Definition, which gets Bean Name, which gets Aliases, which gets Source, which matches @Nullable parameter of String Name, which gets Short Description, which gets Long Description, which tos String, which equals @Nullable parameter of Object, which hashes Code.

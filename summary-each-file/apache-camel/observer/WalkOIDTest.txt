@@ -1,0 +1,5 @@
+WalkOIDTest acts as a publisher for observer CamelContext, which tests OIDWalk, which tests Start Route, which creates Route Builder.
+WalkOIDTest acts as a publisher for observer Service, which tests OIDWalk, which tests Start Route, which creates Route Builder.
+WalkOIDTest acts as a publisher for observer ConsumerTemplate, which tests OIDWalk, which tests Start Route, which creates Route Builder.
+WalkOIDTest acts as a publisher for observer ProducerTemplate, which tests OIDWalk, which tests Start Route, which creates Route Builder.
+WalkOIDTest acts as a publisher for observer FluentProducerTemplate, which tests OIDWalk, which tests Start Route, which creates Route Builder.

@@ -1,0 +1,2 @@
+AbstractBeanDefinitionParser acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.
+AbstractBeanDefinitionParser acts as a product for NamespaceHandlerSupport, which overrides parse method of BeanDefinitionParser.

@@ -1,0 +1,1 @@
+RoutesDefinition acts as a product for XmlTestSupport, which overrides getRoutes method of RouteContainer, setRoutes method of RouteContainer.

@@ -1,0 +1,2 @@
+AbstractDatabase acts as a product for Definition, which overrides getRegexFlags method of Database.
+AbstractDatabase acts as a product for DataTypeDefinition, which overrides getRegexFlags method of Database.

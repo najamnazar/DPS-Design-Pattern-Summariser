@@ -1,0 +1,2 @@
+InflightRepository acts as an abstract product for InflightRepository, which is inherited by DefaultInflightRepository.
+InflightRepository acts as an abstract factory for Exchange, which is inherited by DefaultInflightRepository.

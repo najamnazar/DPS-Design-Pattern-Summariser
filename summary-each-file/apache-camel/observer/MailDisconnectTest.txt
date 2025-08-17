@@ -1,0 +1,5 @@
+MailDisconnectTest acts as a publisher for observer FluentProducerTemplate, which tests Disconnect, which creates Route Builder.
+MailDisconnectTest acts as a publisher for observer Service, which tests Disconnect, which creates Route Builder.
+MailDisconnectTest acts as a publisher for observer ProducerTemplate, which tests Disconnect, which creates Route Builder.
+MailDisconnectTest acts as a publisher for observer ConsumerTemplate, which tests Disconnect, which creates Route Builder.
+MailDisconnectTest acts as a publisher for observer CamelContext, which tests Disconnect, which creates Route Builder.

@@ -1,0 +1,2 @@
+AbstractWordpressServiceAdapter acts as a publisher for observer WordpressAuthentication, which is inherited by, which gets Spi Type, which gets Spi, which gets Api Version, which sets WordpressAuthentication parameter of authentication Wordpress Authentication.
+AbstractWordpressServiceAdapter acts as a publisher for observer WordpressAuthentication, which gets Spi Type, which gets Spi, which gets Api Version, which sets WordpressAuthentication parameter of authentication Wordpress Authentication.

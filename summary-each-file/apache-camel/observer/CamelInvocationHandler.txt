@@ -1,0 +1,2 @@
+CamelInvocationHandler acts as a publisher for observer Method, which does Object parameter of proxy, Method parameter of method, Object[] parameter of args Invoke Proxy.
+CamelInvocationHandler acts as a publisher for observer Method, which is inherited by, which does Object parameter of proxy, Method parameter of method, Object[] parameter of args Invoke Proxy.

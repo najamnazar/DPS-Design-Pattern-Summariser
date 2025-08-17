@@ -1,0 +1,1 @@
+FlightRecorderStartupStepRecorder acts as a publisher for observer StartupStep, which does Start, which does Stop, which creates String parameter of type, String parameter of name, String parameter of description, int parameter of id, int parameter of parentId, int parameter of level Startup Step, which tos String.

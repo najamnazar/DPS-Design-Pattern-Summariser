@@ -1,0 +1,1 @@
+CsiClientImpl acts as a factory for CsiClient, which overrides getPluginInfo method of CsiClient, validateVolumeCapabilities method of CsiClient, nodePublishVolume method of CsiClient, nodeUnpublishVolume method of CsiClient.

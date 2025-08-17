@@ -1,0 +1,1 @@
+JMXNotificationFilterTest acts as a caretaker for memento Context, which tests Notification Filter, which builds From URI, which inits Registry.

@@ -1,0 +1,2 @@
+XsltTransformingExceptionTest acts as a publisher for observer CamelContext, which tests Xslt Exception, which tests Xslt Without Exception, which creates Route Builder.
+XsltTransformingExceptionTest acts as a publisher for observer Service, which tests Xslt Exception, which tests Xslt Without Exception, which creates Route Builder.

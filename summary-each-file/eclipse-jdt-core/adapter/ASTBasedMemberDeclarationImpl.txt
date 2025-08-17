@@ -1,0 +1,2 @@
+ASTBasedMemberDeclarationImpl acts as a target for adapter ASTBasedExecutableDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl.
+ASTBasedMemberDeclarationImpl acts as a target for adapter ASTBasedFieldDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl.

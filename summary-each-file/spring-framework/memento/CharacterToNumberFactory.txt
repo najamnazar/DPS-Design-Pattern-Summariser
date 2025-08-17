@@ -1,0 +1,1 @@
+CharacterToNumberFactory acts as a caretaker for memento C, which gets Class<T> parameter of targetType Converter, which converts Character parameter of source.

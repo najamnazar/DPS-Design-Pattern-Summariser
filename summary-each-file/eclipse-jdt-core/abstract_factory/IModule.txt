@@ -1,0 +1,3 @@
+IModule acts as an abstract product for IModule, which is inherited by IBinaryModule, ISourceModule.
+IModule acts as an abstract product for IModule, which is inherited by IBinaryModule, IBinaryModule, ISourceModule, ISourceModule.
+IModule acts as an abstract factory for IModule, which is inherited by.

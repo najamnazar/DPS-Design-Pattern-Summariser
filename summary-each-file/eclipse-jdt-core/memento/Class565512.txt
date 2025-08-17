@@ -1,0 +1,1 @@
+Class565512 acts as an originator for memento String, which is inherited by, which strings a String Returning to.

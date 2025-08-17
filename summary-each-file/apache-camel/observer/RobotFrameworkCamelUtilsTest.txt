@@ -1,0 +1,5 @@
+RobotFrameworkCamelUtilsTest acts as a publisher for observer CamelContext, which does Post Setup, which tests Create Robot Variables From Camel Exchange, which creates Route Builder.
+RobotFrameworkCamelUtilsTest acts as a publisher for observer ProducerTemplate, which does Post Setup, which tests Create Robot Variables From Camel Exchange, which creates Route Builder.
+RobotFrameworkCamelUtilsTest acts as a publisher for observer FluentProducerTemplate, which does Post Setup, which tests Create Robot Variables From Camel Exchange, which creates Route Builder.
+RobotFrameworkCamelUtilsTest acts as a publisher for observer ConsumerTemplate, which does Post Setup, which tests Create Robot Variables From Camel Exchange, which creates Route Builder.
+RobotFrameworkCamelUtilsTest acts as a publisher for observer Service, which does Post Setup, which tests Create Robot Variables From Camel Exchange, which creates Route Builder.

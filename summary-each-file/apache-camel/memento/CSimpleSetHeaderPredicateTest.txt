@@ -1,0 +1,2 @@
+CSimpleSetHeaderPredicateTest acts as a caretaker for memento Context, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.
+CSimpleSetHeaderPredicateTest acts as a caretaker for memento Producer, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.

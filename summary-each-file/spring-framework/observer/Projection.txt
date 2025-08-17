@@ -1,0 +1,2 @@
+Projection acts as a publisher for observer SpelNodeImpl, which gets ExpressionState parameter of state Value Internal, which gets ExpressionState parameter of state Value Ref, which tos String AST, which determines @Nullable parameter of Class<?>, Class<?> parameter of newType Common Type.
+Projection acts as an observer, which gets ExpressionState parameter of state Value Internal, which gets ExpressionState parameter of state Value Ref, which tos String AST, which determines @Nullable parameter of Class<?>, Class<?> parameter of newType Common Type.

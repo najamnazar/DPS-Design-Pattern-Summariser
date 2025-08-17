@@ -1,0 +1,1 @@
+ITestAbfsFileSystemContractOpen acts as an adapter, which adapts to AbstractContractOpenTest, which adapts to AbstractContractOpenTest, which adapts to AbstractContractOpenTest.

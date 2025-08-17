@@ -1,0 +1,1 @@
+TestLazyPersistReplicaRecovery acts as a publisher for observer StorageType, which tests Dn Restart With Saved Replicas, which tests Dn Restart With Unsaved Replicas, which waits final parameter of DataNode, final parameter of DatanodeDescriptor For Block Report.

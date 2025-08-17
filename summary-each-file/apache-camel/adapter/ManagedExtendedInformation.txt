@@ -1,0 +1,8 @@
+ManagedExtendedInformation acts as a target for adapter ManagedRoutingSlipMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedSendProcessorMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedDynamicRouterMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedEnricherMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedRecipientListMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedWireTapMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedPollEnricherMBean, which adapts to ManagedExtendedInformation.
+ManagedExtendedInformation acts as a target for adapter ManagedSendDynamicProcessorMBean, which adapts to ManagedExtendedInformation.

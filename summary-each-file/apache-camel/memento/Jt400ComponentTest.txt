@@ -1,0 +1,1 @@
+Jt400ComponentTest acts as a caretaker for memento Component, which sets Up, which tests Create Datq Endpoint, which tests Create Pgm Endpoint, which tests Create Endpoint For Other Object Type, which tests Create Datq Secured Endpoint, which tests Create Pgm Secured Endpoint.

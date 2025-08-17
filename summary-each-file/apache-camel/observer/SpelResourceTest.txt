@@ -1,0 +1,2 @@
+SpelResourceTest acts as a publisher for observer CamelContext, which tests Spel Resource, which creates Route Builder.
+SpelResourceTest acts as a publisher for observer Service, which tests Spel Resource, which creates Route Builder.

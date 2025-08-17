@@ -1,0 +1,1 @@
+SyncHandlerMethodArgumentResolver acts as an adaptee for adapter AbstractNamedValueSyncArgumentResolver, which adapts to AbstractNamedValueArgumentResolver, which adapts to AbstractNamedValueArgumentResolver.

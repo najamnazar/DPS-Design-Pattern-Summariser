@@ -1,0 +1,1 @@
+AutowireConstructorRouteTest acts as a caretaker for memento Context, which tests Autowire Constructor, which creates Application Context.

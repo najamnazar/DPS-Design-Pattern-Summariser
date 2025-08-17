@@ -1,0 +1,3 @@
+IMethodBinding acts as a product for IMethodBinding, which overrides getName method of IBinding.
+IMethodBinding acts as an abstract factory for IBinding, ITypeBinding, Object, which is inherited by.
+IMethodBinding acts as a product for ITypeBinding, which overrides getName method of IBinding.

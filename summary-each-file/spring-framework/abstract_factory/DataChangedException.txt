@@ -1,0 +1,4 @@
+DataChangedException acts as a product for LoaderError, which overrides.
+DataChangedException acts as a product for SQLExceptionTranslator, which overrides.
+DataChangedException acts as a product for PersistenceExceptionTranslator, which overrides.
+DataChangedException acts as a product for ResultOrRows, which overrides.

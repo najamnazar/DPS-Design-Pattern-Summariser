@@ -1,0 +1,6 @@
+AS2ServerManagerEndpointConfiguration acts as a publisher for observer AS2EncryptionAlgorithm, which gets Request Uri Pattern, which sets String parameter of requestUriPattern Request Uri Pattern.
+AS2ServerManagerEndpointConfiguration acts as a publisher for observer AS2SignatureAlgorithm, which gets Request Uri Pattern, which sets String parameter of requestUriPattern Request Uri Pattern.
+AS2ServerManagerEndpointConfiguration acts as a publisher for observer AS2CompressionAlgorithm, which gets Request Uri Pattern, which sets String parameter of requestUriPattern Request Uri Pattern.
+AS2ServerManagerEndpointConfiguration acts as a publisher for observer AS2ApiName, which gets Request Uri Pattern, which sets String parameter of requestUriPattern Request Uri Pattern.
+AS2ServerManagerEndpointConfiguration acts as a publisher for observer ContentType, which gets Request Uri Pattern, which sets String parameter of requestUriPattern Request Uri Pattern.
+AS2ServerManagerEndpointConfiguration acts as a publisher for observer AS2MessageStructure, which gets Request Uri Pattern, which sets String parameter of requestUriPattern Request Uri Pattern.

@@ -1,0 +1,1 @@
+CompositeNodes acts as a publisher for observer SimpleNode, which is inherited by, which tos String, which adds SimpleNode parameter of child Child, which gets Children, which creates CamelContext parameter of camelContext, String parameter of expression Expression, which creates String parameter of expression Code.

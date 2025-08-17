@@ -1,0 +1,2 @@
+AspectComponentDefinition acts as a caretaker for memento C, which gets Bean Definitions, which gets Bean References.
+AspectComponentDefinition acts as a caretaker for memento B, which gets Bean Definitions, which gets Bean References.

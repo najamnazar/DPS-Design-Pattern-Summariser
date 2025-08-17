@@ -1,0 +1,2 @@
+IndexedBindMarkers acts as a factory for BindMarkers, which overrides next method of BindMarkers.
+IndexedBindMarkers acts as a product for BindMarkersFactory, which overrides next method of BindMarkers.

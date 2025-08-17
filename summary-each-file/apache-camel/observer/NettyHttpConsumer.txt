@@ -1,0 +1,3 @@
+NettyHttpConsumer acts as an observer, which gets Endpoint, which gets Configuration, which does Start, which does Stop, which does Suspend, which does Resume.
+NettyHttpConsumer acts as a publisher for observer NettyServerBootstrapFactory, which gets Endpoint, which gets Configuration, which does Start, which does Stop, which does Suspend, which does Resume.
+NettyHttpConsumer acts as a publisher for observer NettyConfiguration, which gets Endpoint, which gets Configuration, which does Start, which does Stop, which does Suspend, which does Resume.

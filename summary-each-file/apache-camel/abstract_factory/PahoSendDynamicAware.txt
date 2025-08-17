@@ -1,0 +1,1 @@
+PahoSendDynamicAware acts as a factory for SendDynamicAware, which overrides getScheme method of SendDynamicAware, setScheme method of SendDynamicAware, isLenientProperties method of SendDynamicAware, prepare method of SendDynamicAware, resolveStaticUri method of SendDynamicAware, createPreProcessor method of SendDynamicAware, createPostProcessor method of SendDynamicAware.

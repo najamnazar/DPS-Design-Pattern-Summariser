@@ -1,0 +1,1 @@
+HAServiceProtocolPB acts as an adaptee for adapter HAServiceProtocolClientSideTranslatorPB.

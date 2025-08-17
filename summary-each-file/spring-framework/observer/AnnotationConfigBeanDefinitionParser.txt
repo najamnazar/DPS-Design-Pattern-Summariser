@@ -1,0 +1,1 @@
+AnnotationConfigBeanDefinitionParser acts as an observer, which parses Element parameter of element, ParserContext parameter of parserContext.

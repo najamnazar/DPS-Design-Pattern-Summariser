@@ -1,0 +1,2 @@
+ActiveTestSuite acts as a publisher for observer Vector, which runs TestResult parameter of result, which runs final parameter of Test, final parameter of TestResult Test, which waits Until Finished, which runs Test parameter of test Finished.
+ActiveTestSuite acts as a publisher for observer String, which runs TestResult parameter of result, which runs final parameter of Test, final parameter of TestResult Test, which waits Until Finished, which runs Test parameter of test Finished.

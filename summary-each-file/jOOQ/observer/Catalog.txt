@@ -1,0 +1,1 @@
+Catalog acts as an observer for publisher AlterDatabaseImpl, which is inherited by CatalogImpl, LazyCatalog, which gets Schemas, which gets String parameter of name Schema, which gets Name parameter of name Schema, which schemas Stream.

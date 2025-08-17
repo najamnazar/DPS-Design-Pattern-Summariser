@@ -1,0 +1,2 @@
+OnCompletionShouldBeLastTest acts as a publisher for observer CamelContext, which tests On Completion Should Be Last, which creates Route Builder.
+OnCompletionShouldBeLastTest acts as a publisher for observer Service, which tests On Completion Should Be Last, which creates Route Builder.

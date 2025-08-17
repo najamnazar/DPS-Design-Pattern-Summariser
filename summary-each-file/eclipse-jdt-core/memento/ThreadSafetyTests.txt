@@ -1,0 +1,5 @@
+ThreadSafetyTests acts as a caretaker for memento C, which suites, which tests Deadlock01.
+ThreadSafetyTests acts as a caretaker for memento String, which suites, which tests Deadlock01.
+ThreadSafetyTests acts as a caretaker for memento Class, which suites, which tests Deadlock01.
+ThreadSafetyTests acts as a caretaker for memento E, which suites, which tests Deadlock01.
+ThreadSafetyTests acts as a caretaker for memento S, which suites, which tests Deadlock01.

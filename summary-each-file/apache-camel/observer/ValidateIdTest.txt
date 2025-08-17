@@ -1,0 +1,2 @@
+ValidateIdTest acts as a publisher for observer Service, which tests Validate Id, which creates Route Builder.
+ValidateIdTest acts as a publisher for observer CamelContext, which tests Validate Id, which creates Route Builder.

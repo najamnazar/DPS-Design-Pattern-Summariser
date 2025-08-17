@@ -1,0 +1,1 @@
+EnumType acts as an adaptee for adapter EnumDeclarationImpl, which adapts to ClassDeclarationImpl.

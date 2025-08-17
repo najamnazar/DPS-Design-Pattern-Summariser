@@ -1,0 +1,2 @@
+PredicateAggregatorCollectionTest acts as a publisher for observer CamelContext, which tests Predicate Aggregate Collection, which creates Route Builder.
+PredicateAggregatorCollectionTest acts as a publisher for observer Service, which tests Predicate Aggregate Collection, which creates Route Builder.

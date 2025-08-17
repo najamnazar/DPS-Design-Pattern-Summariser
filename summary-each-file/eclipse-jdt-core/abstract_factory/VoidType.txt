@@ -1,0 +1,11 @@
+VoidType acts as a product for VariableElement, which overrides.
+VoidType acts as a product for TypeElement, which overrides.
+VoidType acts as a product for ParameterDeclaration, which overrides.
+VoidType acts as a product for TypeParameterElement, which overrides.
+VoidType acts as a product for ExecutableElement, which overrides.
+VoidType acts as a product for Element, which overrides.
+VoidType acts as an abstract product for VoidType, which is inherited by VoidTypeImpl.
+VoidType acts as a product for ModuleElement, which overrides.
+VoidType acts as a product for ExecutableType, which overrides.
+VoidType acts as a product for Types, which overrides.
+VoidType acts as a product for PackageElement, which overrides.

@@ -1,0 +1,3 @@
+TestSimpSession acts as a factory for SimpSession, which overrides getId method of SimpSession, getSubscriptions method of SimpSession.
+TestSimpSession acts as a product for SimpUser, which overrides getId method of SimpSession, getSubscriptions method of SimpSession.
+TestSimpSession acts as a product for SimpSubscription, which overrides getId method of SimpSession, getSubscriptions method of SimpSession.

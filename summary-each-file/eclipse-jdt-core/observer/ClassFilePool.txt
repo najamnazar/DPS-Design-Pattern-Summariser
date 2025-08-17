@@ -1,0 +1,1 @@
+ClassFilePool acts as a publisher for observer ClassFile, which is inherited by, which news Instance, which acquires SourceTypeBinding parameter of typeBinding, which acquires ModuleBinding parameter of moduleBinding, CompilerOptions parameter of options For Module, which releases ClassFile parameter of classFile, which resets.

@@ -1,0 +1,5 @@
+GitHubResourceResolverTest acts as a publisher for observer CamelContext, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.
+GitHubResourceResolverTest acts as a publisher for observer Service, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.
+GitHubResourceResolverTest acts as a publisher for observer ProducerTemplate, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.
+GitHubResourceResolverTest acts as a publisher for observer FluentProducerTemplate, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.
+GitHubResourceResolverTest acts as a publisher for observer ConsumerTemplate, which tests Git Hub Load Pom, which tests Git Hub Load Main Default, which tests Git Hub Does Not Exist.

@@ -1,0 +1,2 @@
+AbstractBindContext acts as a factory for AbstractContext, which overrides.
+AbstractBindContext acts as a product for AbstractContext, which overrides.

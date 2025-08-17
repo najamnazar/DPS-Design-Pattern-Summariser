@@ -1,0 +1,1 @@
+Record acts as an observer for publisher Records, which is inherited by, which froms String parameter of record String, which gets Influx Record, which sets String parameter of record Record.

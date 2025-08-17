@@ -1,0 +1,3 @@
+AbstractReader acts as a target for adapter ProxyConsoleReader, which adapts to AbstractReader, which adapts to AbstractReader, which adapts stop method of OutputStream to AbstractReader.
+AbstractReader acts as an adaptee for adapter J9VirtualMachine, which adapts to LocalVirtualMachine, which adapts to LocalVirtualMachine, which adapts stop method of AbstractReader to LocalVirtualMachine.
+AbstractReader acts as a target for adapter ProxyConsoleReader, which adapts to AbstractReader, which adapts to AbstractReader, which adapts stop method of InputStream to AbstractReader.

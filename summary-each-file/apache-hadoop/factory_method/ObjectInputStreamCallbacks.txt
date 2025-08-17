@@ -1,0 +1,1 @@
+ObjectInputStreamCallbacks acts as an abstract product for ObjectReadParameters, which is inherited by InputStreamCallbacksImpl.

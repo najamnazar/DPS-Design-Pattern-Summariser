@@ -1,0 +1,1 @@
+ObjectInputStreamFactory acts as an adaptee for adapter S3AStoreImpl, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

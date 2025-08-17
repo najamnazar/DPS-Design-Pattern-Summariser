@@ -1,0 +1,1 @@
+JdtCorePerformanceMeter acts as a caretaker for memento Map, which commits, which stores Sample parameter of sample Data Points, which gets Readable Name, which gets Short Name.

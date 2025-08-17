@@ -1,0 +1,1 @@
+CustomCollectionEditor acts as a caretaker for memento C, which sets String parameter of text As Text, which sets @Nullable parameter of Object Value, which creates Class<? parameter of extends, int parameter of initialCapacity Collection, which alwayses Create New Collection, which converts Object parameter of element Element, which gets As Text.

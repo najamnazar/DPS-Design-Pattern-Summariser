@@ -1,0 +1,1 @@
+NMTokenCache acts as an adaptee for adapter AMRMClient, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

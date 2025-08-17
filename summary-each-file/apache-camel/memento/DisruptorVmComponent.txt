@@ -1,0 +1,1 @@
+DisruptorVmComponent acts as a caretaker for memento Producer, which gets Disruptors, which does Start, which does Stop.

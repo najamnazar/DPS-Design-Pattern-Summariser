@@ -1,0 +1,1 @@
+AbstractListAggregationStrategy acts as a component for decorator ShareUnitOfWorkAggregationStrategy, which overrides onCompletionAggregationStrategy, aggregateAggregationStrategy, toStringAggregationStrategy.

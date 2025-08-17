@@ -1,0 +1,1 @@
+WorkloadIdentityTokenProvider acts as a publisher for observer Configuration, which refreshes Token, which is Token About To Expire, which gets Client Assertion, which gets String parameter of clientAssertion Token Using JWTAssertion, which gets Token Fetch Time.

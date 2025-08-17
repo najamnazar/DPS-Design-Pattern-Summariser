@@ -1,0 +1,1 @@
+DefaultRequestPath acts as a factory method for PathContainer, which is inherited by RequestPath, PathContainer, ServerRequest, ServerRequest, ServerRequest, PathContainer.

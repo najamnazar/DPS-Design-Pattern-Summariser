@@ -1,0 +1,1 @@
+BulkActivitiesInfo acts as a publisher for observer ActivitiesInfo, which is inherited by FederationBulkActivitiesInfo, which adds ActivitiesInfo parameter of activitiesInfo, which gets Activities, which adds List<ActivitiesInfo> parameter of activitiesInfoList All, which gets Sub Cluster Id, which sets String parameter of subClusterId Sub Cluster Id.

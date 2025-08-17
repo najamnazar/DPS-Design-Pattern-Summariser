@@ -1,0 +1,2 @@
+SmppProducerReconnectManualIT acts as a caretaker for memento Producer, which tests, which creates Route Builder.
+SmppProducerReconnectManualIT acts as a caretaker for memento Context, which tests, which creates Route Builder.

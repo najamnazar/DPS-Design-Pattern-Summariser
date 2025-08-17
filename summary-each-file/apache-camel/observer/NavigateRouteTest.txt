@@ -1,0 +1,2 @@
+NavigateRouteTest acts as a publisher for observer CamelContext, which tests Navigate Route, which navigates Navigate<Processor> parameter of nav Route, which creates Route Builder.
+NavigateRouteTest acts as a publisher for observer Service, which tests Navigate Route, which navigates Navigate<Processor> parameter of nav Route, which creates Route Builder.

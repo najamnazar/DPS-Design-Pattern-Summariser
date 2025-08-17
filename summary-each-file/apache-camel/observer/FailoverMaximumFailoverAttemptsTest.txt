@@ -1,0 +1,2 @@
+FailoverMaximumFailoverAttemptsTest acts as a publisher for observer Service, which tests Failover Maximum Failover Attempts, which creates Route Builder.
+FailoverMaximumFailoverAttemptsTest acts as a publisher for observer CamelContext, which tests Failover Maximum Failover Attempts, which creates Route Builder.

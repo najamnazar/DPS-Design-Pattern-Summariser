@@ -1,0 +1,2 @@
+AbstractDistributedTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which gets String parameter of uri Mock Endpoint2, which creates Route Builder2.
+AbstractDistributedTest acts as a publisher for observer Service, which sets Up, which tears Down, which gets String parameter of uri Mock Endpoint2, which creates Route Builder2.

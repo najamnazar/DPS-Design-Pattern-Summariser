@@ -1,0 +1,1 @@
+QueueReference acts as a publisher for observer SedaEndpoint, which is inherited by, which adds SedaEndpoint parameter of endpoint Reference, which removes SedaEndpoint parameter of endpoint Reference, which gets Count, which gets Size, which gets Multiple Consumers, which gets Queue, which has Consumers.

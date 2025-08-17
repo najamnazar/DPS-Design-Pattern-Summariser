@@ -1,0 +1,1 @@
+StreamingResponseBodyReturnValueHandler acts as an observer, which supports MethodParameter parameter of returnType Return Type, which handles @Nullable parameter of Object, MethodParameter parameter of returnType, ModelAndViewContainer parameter of mavContainer, NativeWebRequest parameter of webRequest Return Value, which calls.

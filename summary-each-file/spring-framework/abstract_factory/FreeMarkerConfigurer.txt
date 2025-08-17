@@ -1,0 +1,1 @@
+FreeMarkerConfigurer acts as a factory for FreeMarkerConfig, which overrides getConfiguration method of FreeMarkerConfig.

@@ -1,0 +1,1 @@
+SnakeYAMLSpringTest acts as a caretaker for memento Context, which tests Marshal And Unmarshal Map, which tests Marshal And Unmarshal Pojo, which tests Marshal And Unmarshal Pojo With Pretty Flow, which creates Application Context.

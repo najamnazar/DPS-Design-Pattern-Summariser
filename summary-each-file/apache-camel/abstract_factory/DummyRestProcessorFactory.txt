@@ -1,0 +1,1 @@
+DummyRestProcessorFactory acts as a factory for RestApiProcessorFactory, which overrides createApiProcessor method of RestApiProcessorFactory.

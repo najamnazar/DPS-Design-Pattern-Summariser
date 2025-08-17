@@ -1,0 +1,1 @@
+StaticConflictingSimpleNameFinder acts as an observer, which is int parameter of memberFlags Static Importable Member, which finds Set<String> parameter of simpleNames, Set<String> parameter of onDemandAndImplicitContainerNames, IProgressMonitor parameter of monitor Conflicting Simple Names, which extracts IType parameter of type Static Member Names.

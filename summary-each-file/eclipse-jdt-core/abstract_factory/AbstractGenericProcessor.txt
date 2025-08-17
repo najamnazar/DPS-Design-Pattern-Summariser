@@ -1,0 +1,2 @@
+AbstractGenericProcessor acts as a product for EclipseAnnotationProcessorFactory, which overrides process method of AnnotationProcessor.
+AbstractGenericProcessor acts as a product for AnnotationProcessorFactory, which overrides process method of AnnotationProcessor.

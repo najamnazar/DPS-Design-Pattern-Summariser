@@ -1,0 +1,2 @@
+MappingRuleAction acts as an abstract product for MappingRuleAction, which is inherited by MappingRuleActionBase, MappingRuleActionBase, MappingRuleActionBase.
+MappingRuleAction acts as an abstract factory for MappingRuleAction, which is inherited by MappingRuleActionBase.

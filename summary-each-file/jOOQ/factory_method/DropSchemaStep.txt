@@ -1,0 +1,2 @@
+DropSchemaStep acts as a factory method for DropSchemaFinalStep, which is inherited by DropSchemaStep.
+DropSchemaStep acts as a factory for DropSchemaStep, which overrides.

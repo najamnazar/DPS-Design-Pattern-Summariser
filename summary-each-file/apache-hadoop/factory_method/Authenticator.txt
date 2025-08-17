@@ -1,0 +1,1 @@
+Authenticator acts as an abstract product for KerberosUgiAuthenticator, which is inherited by PseudoAuthenticator, KerberosAuthenticator, DelegationTokenAuthenticator.

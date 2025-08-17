@@ -1,0 +1,2 @@
+DefaultThreadPoolFactory acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultThreadPoolFactory acts as a product for ExecutorServiceManager, which overrides newCachedThreadPool method of ThreadPoolFactory, newScheduledThreadPool method of ThreadPoolFactory.

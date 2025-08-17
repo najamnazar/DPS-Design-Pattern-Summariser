@@ -1,0 +1,4 @@
+BeanDefinitionReader acts as a factory for AbstractBeanDefinitionReader, which overrides.
+BeanDefinitionReader acts as a factory for AnnotatedBeanDefinitionReader, which overrides.
+BeanDefinitionReader acts as an abstract product for GenericPropertiesContextLoader, which is inherited by AbstractBeanDefinitionReader.
+BeanDefinitionReader acts as a factory for FreeMarkerConfigurationFactory, which overrides.

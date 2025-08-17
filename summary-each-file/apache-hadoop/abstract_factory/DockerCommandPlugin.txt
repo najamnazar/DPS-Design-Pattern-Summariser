@@ -1,0 +1,2 @@
+DockerCommandPlugin acts as an abstract factory for, which is inherited by NvidiaDockerV1CommandPlugin, NvidiaDockerV2CommandPlugin, DeviceResourceDockerRuntimePluginImpl.
+DockerCommandPlugin acts as an abstract product for DockerCommandPlugin, which is inherited by NvidiaDockerV1CommandPlugin, NvidiaDockerV2CommandPlugin, DeviceResourceDockerRuntimePluginImpl.

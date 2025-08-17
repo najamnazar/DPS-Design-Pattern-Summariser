@@ -1,0 +1,3 @@
+Java8FilerProcessor acts as a caretaker for memento E, which inits ProcessingEnvironment parameter of processingEnv, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which creates Package Binary.
+Java8FilerProcessor acts as a caretaker for memento S, which inits ProcessingEnvironment parameter of processingEnv, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which creates Package Binary.
+Java8FilerProcessor acts as a caretaker for memento String, which inits ProcessingEnvironment parameter of processingEnv, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which creates Package Binary.

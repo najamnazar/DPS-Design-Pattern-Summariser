@@ -1,0 +1,1 @@
+CapacityScheduler acts as an originator for memento Clock.

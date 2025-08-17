@@ -1,0 +1,2 @@
+DefaultMetaProvider acts as a caretaker for memento C, which provides, which metas Configuration parameter of configuration.
+DefaultMetaProvider acts as a caretaker for memento Configuration, which provides, which metas Configuration parameter of configuration.

@@ -1,0 +1,1 @@
+ValidateRenamedFilesStage acts as a publisher for observer FileEntry, which is inherited by, which gets Files Committed, which adds FileEntry parameter of entry File Committed, which executes final parameter of Path Stage, which validates FileEntry parameter of entry One File.

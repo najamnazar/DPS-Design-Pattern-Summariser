@@ -1,0 +1,2 @@
+MDCOnCompletionOnCompletionTest acts as a publisher for observer CamelContext, which tests MDC, which creates Route Builder, which ons Exchange parameter of exchange Done.
+MDCOnCompletionOnCompletionTest acts as a publisher for observer Service, which tests MDC, which creates Route Builder, which ons Exchange parameter of exchange Done.

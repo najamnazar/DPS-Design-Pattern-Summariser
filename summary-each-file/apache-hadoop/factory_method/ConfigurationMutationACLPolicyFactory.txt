@@ -1,0 +1,1 @@
+ConfigurationMutationACLPolicyFactory acts as a factory method for ConfigurationMutationACLPolicy, which is inherited by MutableConfigurationProvider.

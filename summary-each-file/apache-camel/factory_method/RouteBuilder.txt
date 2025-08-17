@@ -1,0 +1,2 @@
+RouteBuilder acts as a factory for CamelCoapResource, which overrides.
+RouteBuilder acts as a product for CamelJmxConsumerObserveAttributeMatchStringTest, which overrides addRoutesToCamelContext method of RoutesBuilder, addTemplatedRoutesToCamelContext method of RoutesBuilder, updateRoutesToCamelContext method of RoutesBuilder.

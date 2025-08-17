@@ -1,0 +1,1 @@
+FederationNamenodeContext acts as an observer for publisher MockResolver, which is inherited by MembershipState, which gets Rpc Address, which gets Service Address, which gets Lifeline Address, which gets Web Scheme, which gets Web Address, which gets Namenode Key, which gets Nameservice Id, which gets Namenode Id, which gets State, which gets Date Modified.

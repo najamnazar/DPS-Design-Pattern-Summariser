@@ -1,0 +1,1 @@
+WorkAssignmentProtocol acts as an abstract factory for Task, which is inherited by.

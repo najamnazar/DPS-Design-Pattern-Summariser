@@ -1,0 +1,2 @@
+Pattern acts as a caretaker for memento C, which internals Class parameter of nodeClass Pattern Property Factory.
+Pattern acts as a caretaker for memento Binding, which internals Class parameter of nodeClass Pattern Property Factory.

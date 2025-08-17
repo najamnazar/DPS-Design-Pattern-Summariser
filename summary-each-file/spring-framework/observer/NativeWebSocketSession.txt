@@ -1,0 +1,1 @@
+NativeWebSocketSession acts as an observer, which gets Native Session, which gets @Nullable parameter of Class<T> Native Session.

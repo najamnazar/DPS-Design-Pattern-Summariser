@@ -1,0 +1,1 @@
+AbstractJCacheConfiguration acts as a factory for JCacheAspectSupport, which overrides.

@@ -1,0 +1,1 @@
+BarcodeParameters acts as a publisher for observer BarcodeImageType, which is inherited by, which gets Type, which sets BarcodeImageType parameter of type Type, which gets Width, which sets Integer parameter of width Width, which gets Height, which sets Integer parameter of height Height, which gets Format, which sets BarcodeFormat parameter of format Format.

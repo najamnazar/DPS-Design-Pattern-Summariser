@@ -1,0 +1,2 @@
+MinioComponentVerifierExtension acts as a publisher for observer Component, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.
+MinioComponentVerifierExtension acts as a publisher for observer CamelContext, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.

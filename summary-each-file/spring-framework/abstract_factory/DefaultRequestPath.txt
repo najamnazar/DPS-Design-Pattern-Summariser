@@ -1,0 +1,3 @@
+DefaultRequestPath acts as a product for RequestPath, which overrides contextPath method of RequestPath, pathWithinApplication method of RequestPath, modifyContextPath method of RequestPath.
+DefaultRequestPath acts as a factory for RequestPath, which overrides contextPath method of RequestPath, pathWithinApplication method of RequestPath, modifyContextPath method of RequestPath.
+DefaultRequestPath acts as a product for ServerRequest, which overrides contextPath method of RequestPath, pathWithinApplication method of RequestPath, modifyContextPath method of RequestPath.

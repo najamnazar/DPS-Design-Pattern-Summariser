@@ -1,0 +1,1 @@
+DatanodeProtocolPB acts as an adaptee for adapter DatanodeProtocolClientSideTranslatorPB.

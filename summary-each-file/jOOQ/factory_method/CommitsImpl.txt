@@ -1,0 +1,2 @@
+CommitsImpl acts as a product for CommitsImpl, which overrides add method of Commits, addAll method of Commits, root method of Commits, get method of Commits, load method of Commits, export method of Commits.
+CommitsImpl acts as a factory method for Commits, which is inherited by Commits, DSLContext, DefaultDSLContext, CommitProvider, DSLContext, CommitProvider.

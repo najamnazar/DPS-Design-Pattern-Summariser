@@ -1,0 +1,3 @@
+SimpleMetadataReader acts as an originator for memento ClassMetadata, which gets a ClassMetadata Class Metadata to.
+SimpleMetadataReader acts as a memento, which gets Annotation Metadata, which gets Annotation Metadata, which gets Annotation Metadata, which gets Annotation Metadata.
+SimpleMetadataReader acts as a caretaker for memento A, which gets Resource parameter of resource Class Reader, which gets Resource, which gets Class Metadata, which gets Annotation Metadata.

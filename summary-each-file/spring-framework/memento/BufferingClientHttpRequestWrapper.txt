@@ -1,0 +1,4 @@
+BufferingClientHttpRequestWrapper acts as a caretaker for memento ClientHttpRequest, which gets Method, which gets Method Value, which gets URI, which executes HttpHeaders parameter of headers, byte[] parameter of bufferedOutput Internal.
+BufferingClientHttpRequestWrapper acts as a caretaker for memento C, which gets Method, which gets Method Value, which gets URI, which executes HttpHeaders parameter of headers, byte[] parameter of bufferedOutput Internal.
+BufferingClientHttpRequestWrapper acts as a caretaker for memento B, which gets Method, which gets Method Value, which gets URI, which executes HttpHeaders parameter of headers, byte[] parameter of bufferedOutput Internal.
+BufferingClientHttpRequestWrapper acts as a caretaker for memento A, which gets Method, which gets Method Value, which gets URI, which executes HttpHeaders parameter of headers, byte[] parameter of bufferedOutput Internal.

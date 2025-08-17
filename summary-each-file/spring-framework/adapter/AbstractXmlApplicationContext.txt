@@ -1,0 +1,1 @@
+AbstractXmlApplicationContext acts as a target for adapter ClassPathXmlApplicationContext, which adapts to AbstractXmlApplicationContext, which adapts to AbstractXmlApplicationContext, which adapts to AbstractXmlApplicationContext, which adapts to AbstractXmlApplicationContext, which adapts to AbstractXmlApplicationContext.

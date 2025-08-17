@@ -1,0 +1,2 @@
+AllPerformanceTests acts as a caretaker for memento String, which gets All Test Classes, which gets Additional Test Classes, which suites.
+AllPerformanceTests acts as a caretaker for memento S, which gets All Test Classes, which gets Additional Test Classes, which suites.

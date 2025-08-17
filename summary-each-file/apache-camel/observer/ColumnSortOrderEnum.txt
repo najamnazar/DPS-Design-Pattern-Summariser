@@ -1,0 +1,1 @@
+ColumnSortOrderEnum acts as an observer for publisher GroupingInfo, which is inherited by.

@@ -1,0 +1,2 @@
+RecordComponentElementImpl acts as a factory for RecordComponentElement, which overrides getAccessor method of RecordComponentElement.
+RecordComponentElementImpl acts as a product for Elements, which overrides getAccessor method of RecordComponentElement.

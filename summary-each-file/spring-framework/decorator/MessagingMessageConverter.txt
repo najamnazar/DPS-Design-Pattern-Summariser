@@ -1,0 +1,1 @@
+MessagingMessageConverter acts as a decorator for component MessageConverter, which is inherited by.

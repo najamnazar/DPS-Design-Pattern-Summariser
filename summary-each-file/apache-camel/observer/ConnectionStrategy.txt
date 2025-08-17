@@ -1,0 +1,1 @@
+ConnectionStrategy acts as an observer for publisher JdbcComponent, SpringJdbcComponent, which is inherited by DefaultConnectionStrategy, SpringConnectionStrategy, which gets DataSource parameter of dataSource Connection, which is Connection parameter of connection, DataSource parameter of dataSource Connection Transactional.

@@ -1,0 +1,1 @@
+CompilationParticipantResult acts as an adapter, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext, which adapts to BuildContext.

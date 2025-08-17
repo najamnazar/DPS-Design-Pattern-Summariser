@@ -1,0 +1,5 @@
+BindyCsvFieldEndingWithSeparatorIssueTest acts as a publisher for observer ProducerTemplate, which tests Bindy, which tests Bindy More Separators, which tests Bindy Separators Around, which creates Route.
+BindyCsvFieldEndingWithSeparatorIssueTest acts as a publisher for observer ConsumerTemplate, which tests Bindy, which tests Bindy More Separators, which tests Bindy Separators Around, which creates Route.
+BindyCsvFieldEndingWithSeparatorIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Bindy, which tests Bindy More Separators, which tests Bindy Separators Around, which creates Route.
+BindyCsvFieldEndingWithSeparatorIssueTest acts as a publisher for observer Service, which tests Bindy, which tests Bindy More Separators, which tests Bindy Separators Around, which creates Route.
+BindyCsvFieldEndingWithSeparatorIssueTest acts as a publisher for observer CamelContext, which tests Bindy, which tests Bindy More Separators, which tests Bindy Separators Around, which creates Route.

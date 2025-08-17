@@ -1,0 +1,1 @@
+RestRegistryFactory acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService.

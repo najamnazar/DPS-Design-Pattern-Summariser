@@ -1,0 +1,3 @@
+GetRouterRegistrationsRequestPBImpl acts as a caretaker for memento GetRouterRegistrationsRequest, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance.
+GetRouterRegistrationsRequestPBImpl acts as a memento, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance.
+GetRouterRegistrationsRequestPBImpl acts as an originator for memento GetRouterRegistrationsRequest.

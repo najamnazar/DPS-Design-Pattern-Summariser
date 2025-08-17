@@ -1,0 +1,2 @@
+ReaderContext acts as a factory for ReaderContext, which overrides.
+ReaderContext acts as a factory method for SourceExtractor, which is inherited by ReaderContext.

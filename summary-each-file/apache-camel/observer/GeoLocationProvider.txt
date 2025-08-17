@@ -1,0 +1,1 @@
+GeoLocationProvider acts as an observer for publisher WeatherConfiguration, which is inherited by FreeGeoIpGeoLocationProvider, which gets Current Geo Location.

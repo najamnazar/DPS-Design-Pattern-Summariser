@@ -1,0 +1,1 @@
+IdentityNamingStrategy acts as an observer, which gets Object parameter of managedBean, @Nullable parameter of String Object Name.

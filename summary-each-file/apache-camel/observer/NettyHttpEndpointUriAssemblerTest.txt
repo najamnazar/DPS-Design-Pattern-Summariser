@@ -1,0 +1,5 @@
+NettyHttpEndpointUriAssemblerTest acts as a publisher for observer ProducerTemplate, which tests As Endpoint Uri Netty Http Hostname With Dash.
+NettyHttpEndpointUriAssemblerTest acts as a publisher for observer CamelContext, which tests As Endpoint Uri Netty Http Hostname With Dash.
+NettyHttpEndpointUriAssemblerTest acts as a publisher for observer FluentProducerTemplate, which tests As Endpoint Uri Netty Http Hostname With Dash.
+NettyHttpEndpointUriAssemblerTest acts as a publisher for observer Service, which tests As Endpoint Uri Netty Http Hostname With Dash.
+NettyHttpEndpointUriAssemblerTest acts as a publisher for observer ConsumerTemplate, which tests As Endpoint Uri Netty Http Hostname With Dash.

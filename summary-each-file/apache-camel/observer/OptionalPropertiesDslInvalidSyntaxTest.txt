@@ -1,0 +1,2 @@
+OptionalPropertiesDslInvalidSyntaxTest acts as a publisher for observer CamelContext, which tests Placeholder Dsl Key Not Found Test, which is Use Route Builder, which creates Camel Context.
+OptionalPropertiesDslInvalidSyntaxTest acts as a publisher for observer Service, which tests Placeholder Dsl Key Not Found Test, which is Use Route Builder, which creates Camel Context.

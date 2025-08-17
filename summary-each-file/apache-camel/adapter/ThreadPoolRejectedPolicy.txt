@@ -1,0 +1,1 @@
+ThreadPoolRejectedPolicy acts as an adaptee for adapter ThreadsProcessor, which adapts to AsyncProcessorSupport.

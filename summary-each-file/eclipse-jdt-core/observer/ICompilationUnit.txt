@@ -1,0 +1,1 @@
+ICompilationUnit acts as an observer for publisher GeneratedFileManager, which is inherited by BasicCompilationUnit, PossibleMatch, ResourceCompilationUnit, SourceFile, which gets Contents, which gets Main Type Name, which gets Package Name.

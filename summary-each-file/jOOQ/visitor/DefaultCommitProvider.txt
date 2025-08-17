@@ -1,0 +1,12 @@
+DefaultCommitProvider acts as a visitor for element Queries, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element CacheProvider, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element Configuration, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element ExecuteContext, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element DSLContext, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element TransactionProvider, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element Relations, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element Meta, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element TransactionListener, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element Version, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element AlterDatabaseStep, which overrides, which provides.
+DefaultCommitProvider acts as a visitor for element DataType, which overrides, which provides.

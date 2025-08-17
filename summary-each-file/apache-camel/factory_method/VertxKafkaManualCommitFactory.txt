@@ -1,0 +1,1 @@
+VertxKafkaManualCommitFactory acts as a factory for VertxKafkaConsumer, which overrides.

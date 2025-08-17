@@ -1,0 +1,1 @@
+AbstractCacheInterceptor acts as a caretaker for memento C, which invokes CacheOperationInvocationContext<O> parameter of context, CacheOperationInvoker parameter of invoker, which resolves CacheOperationInvocationContext<O> parameter of context Cache, which extracts Collection<? parameter of extends From.

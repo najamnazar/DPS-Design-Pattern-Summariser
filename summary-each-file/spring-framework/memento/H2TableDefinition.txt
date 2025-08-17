@@ -1,0 +1,2 @@
+H2TableDefinition acts as a caretaker for memento Parameter, which gets H2Database, which gets Elements0, which gets Elements2_0, which gets Elements1_4.
+H2TableDefinition acts as a caretaker for memento ParameterDefinition, which gets H2Database, which gets Elements0, which gets Elements2_0, which gets Elements1_4.

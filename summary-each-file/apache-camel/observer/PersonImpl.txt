@@ -1,0 +1,1 @@
+PersonImpl acts as an observer, which gets Holder<String> parameter of personId, Holder<String> parameter of ssn, Holder<String> parameter of name Person.

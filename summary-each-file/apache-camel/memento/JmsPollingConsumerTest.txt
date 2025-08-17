@@ -1,0 +1,1 @@
+JmsPollingConsumerTest acts as a caretaker for memento Producer, which tests Consumer From JMSRoute, which tests Consumer From Direct Route, which consumes.

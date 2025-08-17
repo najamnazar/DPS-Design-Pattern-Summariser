@@ -1,0 +1,3 @@
+ZooKeeperService acts as an adaptee for adapter SpringZooKeeperServiceCallRouteIT, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.
+ZooKeeperService acts as an adaptee for adapter ZooKeeperITSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+ZooKeeperService acts as an adaptee for adapter ZooKeeperServiceCallRouteIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

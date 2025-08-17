@@ -1,0 +1,3 @@
+HttpRegistry acts as an adaptee for adapter CamelHttpTransportServlet, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet, which adapts to CamelServlet.
+HttpRegistry acts as an adaptee for adapter ResteasyComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent.
+HttpRegistry acts as an adaptee for adapter ServletComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent.

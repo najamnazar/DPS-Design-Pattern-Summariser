@@ -1,0 +1,2 @@
+DataSetSedaTest acts as a publisher for observer CamelContext, which creates Registry, which tests Data Set With Seda, which creates Route Builder.
+DataSetSedaTest acts as a publisher for observer Service, which creates Registry, which tests Data Set With Seda, which creates Route Builder.

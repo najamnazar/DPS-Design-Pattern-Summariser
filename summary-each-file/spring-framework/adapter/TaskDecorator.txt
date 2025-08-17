@@ -1,0 +1,1 @@
+TaskDecorator acts as an adaptee for adapter ThreadPoolTaskExecutor, which adapts to ExecutorConfigurationSupport.

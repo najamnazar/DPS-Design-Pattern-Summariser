@@ -1,0 +1,1 @@
+DelegationTokenAuthenticationHandler acts as a decorator for component AuthenticationHandler, which is inherited by MultiSchemeDelegationTokenAuthenticationHandler, KerberosDelegationTokenAuthenticationHandler, PseudoDelegationTokenAuthenticationHandler.

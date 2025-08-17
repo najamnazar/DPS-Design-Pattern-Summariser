@@ -1,0 +1,7 @@
+MyRouteBuilderWithAutowiredPojo acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures, which gets Pojo.
+MyRouteBuilderWithAutowiredPojo acts as an observer, which configures, which gets Pojo.
+MyRouteBuilderWithAutowiredPojo acts as a publisher for observer RestsDefinition, which configures, which gets Pojo.
+MyRouteBuilderWithAutowiredPojo acts as a publisher for observer TemplatedRoutesDefinition, which configures, which gets Pojo.
+MyRouteBuilderWithAutowiredPojo acts as a publisher for observer Resource, which configures, which gets Pojo.
+MyRouteBuilderWithAutowiredPojo acts as a publisher for observer RoutesDefinition, which configures, which gets Pojo.
+MyRouteBuilderWithAutowiredPojo acts as a publisher for observer RouteTemplatesDefinition, which configures, which gets Pojo.

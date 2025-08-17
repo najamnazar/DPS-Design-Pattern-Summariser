@@ -1,0 +1,1 @@
+SplitStrategy acts as an adaptee for adapter HdfsProducer, which adapts to DefaultProducer.

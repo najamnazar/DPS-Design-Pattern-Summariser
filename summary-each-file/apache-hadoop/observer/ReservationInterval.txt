@@ -1,0 +1,1 @@
+ReservationInterval acts as an observer for publisher InMemoryPlan, which is inherited by, which gets Start Time, which gets End Time, which is long parameter of tick Overlap, which compares ReservationInterval parameter of anotherInterval To, which hashes Code, which equals Object parameter of obj, which tos String.

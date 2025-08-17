@@ -1,0 +1,1 @@
+InfinispanQueryBuilder acts as an observer for publisher InfinispanConfiguration, InfinispanRemoteConfiguration, InfinispanEmbeddedConfiguration, which is inherited by, which builds QueryFactory parameter of queryFactory, which creates String parameter of query.

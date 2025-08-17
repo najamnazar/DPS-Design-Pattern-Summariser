@@ -1,0 +1,1 @@
+StringLiteralTest acts as a publisher for observer String, which tests Append.

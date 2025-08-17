@@ -1,0 +1,2 @@
+Translate2ClientIAMOptimized acts as a memento, which gets Translate Client.
+Translate2ClientIAMOptimized acts as a caretaker for memento Configuration, which gets Translate Client.

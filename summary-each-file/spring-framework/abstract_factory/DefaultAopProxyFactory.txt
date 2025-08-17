@@ -1,0 +1,1 @@
+DefaultAopProxyFactory acts as a factory for AopProxyFactory, which overrides createAopProxy method of AopProxyFactory.

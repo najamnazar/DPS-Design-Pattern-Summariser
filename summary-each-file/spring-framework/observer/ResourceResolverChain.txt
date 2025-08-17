@@ -1,0 +1,1 @@
+ResourceResolverChain acts as an observer for publisher DefaultResourceTransformerChain, which is inherited by DefaultResourceResolverChain, which resolves @Nullable parameter of HttpServletRequest, String parameter of requestPath, List<? parameter of extends Resource, which resolves String parameter of resourcePath, List<? parameter of extends Url Path.

@@ -1,0 +1,1 @@
+GetContainerReportResponse acts as an abstract product for GetContainerReportResponse, which is inherited by GetContainerReportResponsePBImpl.

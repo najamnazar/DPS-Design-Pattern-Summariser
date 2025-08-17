@@ -1,0 +1,1 @@
+SecureSocketProtocolsParametersDefinition acts as an observer for publisher AbstractBaseSSLContextParametersFactoryBean, which is inherited by, which gets Secure Socket Protocol.

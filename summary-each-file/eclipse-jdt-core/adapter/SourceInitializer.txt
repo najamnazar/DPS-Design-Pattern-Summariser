@@ -1,0 +1,1 @@
+SourceInitializer acts as an adaptee for adapter SourceElementParserTest, which adapts setDeclarationSourceEnd method of SourceInitializer to AbstractCompilerTest, which adapts to AbstractCompilerTest.

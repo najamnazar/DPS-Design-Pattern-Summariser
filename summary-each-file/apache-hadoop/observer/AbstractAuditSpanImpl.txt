@@ -1,0 +1,1 @@
+AbstractAuditSpanImpl acts as an observer, which gets Span Id, which gets Operation Name, which gets Timestamp, which activates, which closes.

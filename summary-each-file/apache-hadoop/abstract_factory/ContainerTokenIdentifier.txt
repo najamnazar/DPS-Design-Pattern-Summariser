@@ -1,0 +1,1 @@
+ContainerTokenIdentifier acts as an abstract product for ContainerTokenIdentifier, which is inherited by ContainerTokenIdentifierForTest.

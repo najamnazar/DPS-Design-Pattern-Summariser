@@ -1,0 +1,1 @@
+AspectJPointcutAdvisorTests acts as a caretaker for memento A, which tests Singleton, which tests Per Target, which tests Per Cflow Target, which tests Per Cflow Below Target, which tests Class<?> parameter of c Illegal Instantiation Model.

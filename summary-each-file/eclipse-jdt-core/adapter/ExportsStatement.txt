@@ -1,0 +1,2 @@
+ExportsStatement acts as an adaptee for adapter RecoveredExport, which adapts to RecoveredElement.
+ExportsStatement acts as a target for adapter CompletionOnExportReference, which adapts to ExportsStatement.

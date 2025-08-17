@@ -1,0 +1,1 @@
+JmsReplyToLoopIssueTest acts as a publisher for observer ArtemisService, which tests Reply To Loop Issue, which gets Component Name, which creates Route Builder.

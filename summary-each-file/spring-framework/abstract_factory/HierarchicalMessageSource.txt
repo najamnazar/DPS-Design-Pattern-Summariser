@@ -1,0 +1,3 @@
+HierarchicalMessageSource acts as a product for Theme, which overrides.
+HierarchicalMessageSource acts as a product for HierarchicalMessageSource, which overrides.
+HierarchicalMessageSource acts as an abstract factory for MessageSource, which is inherited by DelegatingMessageSource, AbstractMessageSource.

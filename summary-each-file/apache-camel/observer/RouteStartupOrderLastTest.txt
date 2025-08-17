@@ -1,0 +1,2 @@
+RouteStartupOrderLastTest acts as a publisher for observer CamelContext, which tests Route Startup Order Last, which creates Route Builder.
+RouteStartupOrderLastTest acts as a publisher for observer Service, which tests Route Startup Order Last, which creates Route Builder.

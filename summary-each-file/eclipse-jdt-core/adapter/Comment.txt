@@ -1,0 +1,2 @@
+Comment acts as a target for adapter LineComment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment.
+Comment acts as a target for adapter BlockComment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment, which adapts to Comment.

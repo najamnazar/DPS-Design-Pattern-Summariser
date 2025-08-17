@@ -1,0 +1,2 @@
+GeneratorContext acts as an abstract factory for, which is inherited by.
+GeneratorContext acts as a product for ConfigurableBeanFactory, which overrides.

@@ -1,0 +1,1 @@
+BindySimpleCsvUnmarshallTest acts as a caretaker for memento Producer, which tests Un Marshall Message, which tests Message With Erroneous Date, which tests Un Marshall Message With Missing Fields, which configures.

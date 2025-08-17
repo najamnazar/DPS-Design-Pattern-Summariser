@@ -1,0 +1,1 @@
+TargetSourceRangeComputer acts as an observer for publisher ASTRewrite, which is inherited by, which gets Start Position, which gets Length, which computes ASTNode parameter of node Source Range.

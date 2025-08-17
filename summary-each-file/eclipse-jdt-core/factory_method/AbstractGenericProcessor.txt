@@ -1,0 +1,1 @@
+AbstractGenericProcessor acts as a product for ExceptionHandlingProcessorFactory, which overrides process method of AnnotationProcessor.

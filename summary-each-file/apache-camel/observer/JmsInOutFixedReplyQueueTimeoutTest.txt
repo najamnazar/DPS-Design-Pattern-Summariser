@@ -1,0 +1,1 @@
+JmsInOutFixedReplyQueueTimeoutTest acts as a publisher for observer ArtemisService, which waits For Connections, which tests Ok, which tests Timeout, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,1 @@
+CamelMicroProfileRepositoryHealthCheck acts as an observer, which calls.

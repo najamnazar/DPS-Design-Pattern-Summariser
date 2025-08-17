@@ -1,0 +1,1 @@
+DriverManagerDataSourceTests acts as a caretaker for memento C, which tests Standard Usage, which tests Usage With Connection Properties, which tests Usage With Connection Properties And User Credentials, which tests Invalid Class Name.

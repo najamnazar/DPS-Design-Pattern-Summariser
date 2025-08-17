@@ -1,0 +1,4 @@
+DefaultINodeAttributesProvider acts as a publisher for observer FsAction, which starts, which stops, which gets String[] parameter of pathElements, INodeAttributes parameter of inode Attributes.
+DefaultINodeAttributesProvider acts as a publisher for observer INodeAttributes, which starts, which stops, which gets String[] parameter of pathElements, INodeAttributes parameter of inode Attributes.
+DefaultINodeAttributesProvider acts as a publisher for observer CallerContext, which starts, which stops, which gets String[] parameter of pathElements, INodeAttributes parameter of inode Attributes.
+DefaultINodeAttributesProvider acts as a publisher for observer UserGroupInformation, which starts, which stops, which gets String[] parameter of pathElements, INodeAttributes parameter of inode Attributes.

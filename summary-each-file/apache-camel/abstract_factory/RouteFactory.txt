@@ -1,0 +1,2 @@
+RouteFactory acts as an abstract factory for Route, which is inherited by DefaultRouteFactory.
+RouteFactory acts as an abstract product for RouteFactory, which is inherited by DefaultRouteFactory.

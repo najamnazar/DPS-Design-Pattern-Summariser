@@ -1,0 +1,1 @@
+RSRawDecoder acts as an observer, which does ByteBufferDecodingState parameter of decodingState Decode, which does ByteArrayDecodingState parameter of decodingState Decode, which prepares T[] parameter of inputs, int[] parameter of erasedIndexes Decoding, which processes int[] parameter of erasedIndexes Erasures, which generates int[] parameter of erasedIndexes Decode Matrix.

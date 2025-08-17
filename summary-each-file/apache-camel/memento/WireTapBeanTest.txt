@@ -1,0 +1,2 @@
+WireTapBeanTest acts as a caretaker for memento Producer, which tests Send, which sets Up, which creates Route Builder, which transforms String parameter of body.
+WireTapBeanTest acts as a caretaker for memento Context, which tests Send, which sets Up, which creates Route Builder, which transforms String parameter of body.

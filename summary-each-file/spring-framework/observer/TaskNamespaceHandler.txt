@@ -1,0 +1,2 @@
+TaskNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.
+TaskNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.

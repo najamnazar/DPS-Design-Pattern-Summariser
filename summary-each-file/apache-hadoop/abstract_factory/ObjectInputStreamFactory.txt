@@ -1,0 +1,1 @@
+ObjectInputStreamFactory acts as an abstract factory for ObjectInputStream, which is inherited by S3AStoreImpl, AbstractObjectInputStreamFactory.

@@ -1,0 +1,2 @@
+ChildPropertyDescriptor acts as an observer for publisher NameQualifiedType, which is inherited by, which gets Child Type, which is Mandatory, which cycles Risk.
+ChildPropertyDescriptor acts as an observer, which gets Child Type, which is Mandatory, which cycles Risk.

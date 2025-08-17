@@ -1,0 +1,1 @@
+JettyCustomPlatformHttpEngine acts as a factory for PlatformHttpEngine, which overrides createConsumer method of PlatformHttpEngine, getServerPort method of PlatformHttpEngine.

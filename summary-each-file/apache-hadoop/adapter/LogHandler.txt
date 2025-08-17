@@ -1,0 +1,5 @@
+LogHandler acts as a target for adapter LogAggregationService, which adapts to LogHandler, which adapts to LogHandler.
+LogHandler acts as an adaptee for adapter ContainerManagerImpl, which adapts to CompositeService, which adapts to CompositeService.
+LogHandler acts as an adaptee for adapter NonAggregatingLogHandler, which adapts to LogHandler, AbstractService, which adapts to LogHandler, AbstractService.
+LogHandler acts as a target for adapter NonAggregatingLogHandler, which adapts to LogHandler, which adapts to LogHandler.
+LogHandler acts as an adaptee for adapter LogAggregationService, which adapts to LogHandler, AbstractService, which adapts to LogHandler, AbstractService.

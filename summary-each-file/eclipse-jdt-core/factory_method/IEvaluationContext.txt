@@ -1,0 +1,3 @@
+IEvaluationContext acts as a factory for ASTRewritingTest, which overrides.
+IEvaluationContext acts as a factory for EvaluationContextWrapper, which overrides.
+IEvaluationContext acts as an abstract product for JavaProject, which is inherited by EvaluationContextWrapper.

@@ -1,0 +1,2 @@
+ServerResponse acts as a factory for DefaultAsyncServerResponse, which overrides.
+ServerResponse acts as an abstract product for DefaultAsyncServerResponse, which is inherited by ErrorHandlingServerResponse.

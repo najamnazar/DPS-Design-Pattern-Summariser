@@ -1,0 +1,1 @@
+Server acts as an observer for publisher ServerProducerTest, which is inherited by, which starts, which stops, which mains String[] parameter of args.

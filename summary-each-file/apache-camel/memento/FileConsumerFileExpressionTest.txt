@@ -1,0 +1,2 @@
+FileConsumerFileExpressionTest acts as a caretaker for memento Context, which creates Registry, which tests Consume File Based On Bean Name, which tests Consume File Based On Date Pattern, which nexts.
+FileConsumerFileExpressionTest acts as a caretaker for memento Producer, which creates Registry, which tests Consume File Based On Bean Name, which tests Consume File Based On Date Pattern, which nexts.

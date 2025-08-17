@@ -1,0 +1,2 @@
+RedeliveryDeadLetterErrorHandlerNoRedeliveryOnShutdownTest acts as a publisher for observer CamelContext, which tests Redelivery Error Handler No Redelivery On Shutdown, which processes Exchange parameter of exchange, which creates Route Builder.
+RedeliveryDeadLetterErrorHandlerNoRedeliveryOnShutdownTest acts as a publisher for observer Service, which tests Redelivery Error Handler No Redelivery On Shutdown, which processes Exchange parameter of exchange, which creates Route Builder.

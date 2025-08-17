@@ -1,0 +1,1 @@
+Operation acts as an observer for publisher ZooKeeperGroup, which is inherited by GetDataOperation, UpdateOperation, EventOperation, CompositeOperation, RefreshOperation, which gets Operation, which tos String.

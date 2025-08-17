@@ -1,0 +1,1 @@
+MapTaskCompletionEventsUpdate acts as a product for WritableFactory, which overrides.

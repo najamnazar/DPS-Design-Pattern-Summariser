@@ -1,0 +1,1 @@
+S3ObjectAttributes acts as an observer for publisher S3ARemoteObject, MockS3ARemoteObject, which is inherited by, which gets Bucket, which gets Key, which gets Server Side Encryption Algorithm, which gets Server Side Encryption Key, which gets ETag, which gets Version Id, which gets Len, which gets Path.

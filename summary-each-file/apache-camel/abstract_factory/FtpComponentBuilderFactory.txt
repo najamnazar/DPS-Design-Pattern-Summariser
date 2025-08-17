@@ -1,0 +1,1 @@
+FtpComponentBuilderFactory acts as an abstract factory for FtpComponent, which is inherited by.

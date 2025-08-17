@@ -1,0 +1,1 @@
+ManagementStrategyFactory acts as an abstract factory for ManagementStrategy, LifecycleStrategy, which is inherited by JmxManagementStrategyFactory, DefaultManagementStrategyFactory.

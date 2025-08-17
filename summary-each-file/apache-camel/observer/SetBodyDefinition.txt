@@ -1,0 +1,2 @@
+SetBodyDefinition acts as a publisher for observer ExpressionDefinition, which tos String, which gets Short Name, which gets Label, which sets ExpressionDefinition parameter of expression Expression.
+SetBodyDefinition acts as a publisher for observer Expression, which tos String, which gets Short Name, which gets Label, which sets ExpressionDefinition parameter of expression Expression.

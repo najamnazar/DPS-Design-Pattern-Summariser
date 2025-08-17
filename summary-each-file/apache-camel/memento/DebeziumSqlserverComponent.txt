@@ -1,0 +1,1 @@
+DebeziumSqlserverComponent acts as a caretaker for memento Configuration, which gets Configuration, which sets SqlServerConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, SqlServerConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

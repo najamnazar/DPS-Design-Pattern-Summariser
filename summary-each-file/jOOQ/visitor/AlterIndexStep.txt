@@ -1,0 +1,40 @@
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DivideBy, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultDomainDefinition, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by Like, NotSimilarTo, QuantifiedComparisonCondition, SimilarTo, NotLike, NotLikeIgnoreCase, LikeIgnoreCase, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultMigrationContext, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultBookService, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by XMLTable, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultRecordListenerProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by CaseImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by CommitImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DropDomainImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultForeignKeyDefinition, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by CommentImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by CallbackExecuteListener, FetchServerOutputListener, ExecuteListeners, StopWatchListener, ExceptionTranslator, LoggerListener, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by AbstractUDTDefinition, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by XMLQuery, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as an element for visitor AlterIndexStep, which is inherited by AlterIndexImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultDiagnosticsListenerProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by VersionImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by FilesImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by AbstractTableDefinition, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by ConstraintImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultTransactionListenerProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by CreateTableImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by ScopeMarker, AbstractQueryPart, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultDataTypeDefinition, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultExecutorProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by VersionsImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by AbstractAttachableQueryPart, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by WithImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by SQLSchemaVersionProvider, ConstantSchemaVersionProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by AbstractName, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by IndexImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by QueryPartCollectionView, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by WindowSpecificationImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DayToSecond, YearToSecond, YearToMonth, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by DefaultMigrationListenerProvider, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by Geography, Geometry, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by CommitsImpl, which renames a To to, which renames a To to, which renames a To to.
+AlterIndexStep acts as a visitor for element AlterIndexStep, which is inherited by AlterTableImpl, which renames a To to, which renames a To to, which renames a To to.

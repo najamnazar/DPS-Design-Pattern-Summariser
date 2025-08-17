@@ -1,0 +1,1 @@
+KafkaProducerHealthCheck acts as an adaptee for adapter KafkaProducer, which adapts to DefaultAsyncProducer, SynchronizationAdapter, which adapts to DefaultAsyncProducer, SynchronizationAdapter.

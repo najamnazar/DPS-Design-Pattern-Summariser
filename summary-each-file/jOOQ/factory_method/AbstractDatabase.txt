@@ -1,0 +1,4 @@
+AbstractDatabase acts as a factory method for DomainDefinition, which is inherited by AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase.
+AbstractDatabase acts as a factory for ArrayDefinition, which overrides.
+AbstractDatabase acts as a factory for AbstractIndexDefinition, which overrides getUniqueKeys method of AbstractIndexDefinition, getKeys method of AbstractIndexDefinition, getForeignKeys method of AbstractIndexDefinition, getEmbeddables method of AbstractIndexDefinition.
+AbstractDatabase acts as a factory for AbstractDatabase, which overrides.

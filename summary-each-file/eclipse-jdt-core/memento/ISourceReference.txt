@@ -1,0 +1,2 @@
+ISourceReference acts as an originator for memento String, which is inherited by, which gets a String Source to.
+ISourceReference acts as an originator for memento ISourceRange, which is inherited by, which gets an ISourceRange Source Range to, which gets an ISourceRange Name Range to.

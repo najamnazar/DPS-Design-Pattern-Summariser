@@ -1,0 +1,2 @@
+FsAction acts as a publisher for observer FsAction, which is inherited by, which implies FsAction parameter of that, which ands FsAction parameter of that, which ors FsAction parameter of that, which nots, which gets String parameter of permission Fs Action.
+FsAction acts as an observer for publisher FSEditLogOp, which is inherited by, which implies FsAction parameter of that, which ands FsAction parameter of that, which ors FsAction parameter of that, which nots, which gets String parameter of permission Fs Action.

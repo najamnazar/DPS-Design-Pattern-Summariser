@@ -1,0 +1,3 @@
+IntroductionAdvisor acts as an abstract factory for ClassFilter, which is inherited by DefaultIntroductionAdvisor, DeclareParentsAdvisor.
+IntroductionAdvisor acts as a product for AdvisorAdapterRegistry, which overrides.
+IntroductionAdvisor acts as a product for AspectJAdvisorFactory, which overrides.

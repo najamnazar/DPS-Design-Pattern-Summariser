@@ -1,0 +1,2 @@
+BeanMethodNameHeaderIssueTest acts as a publisher for observer Service, which tests Bean Method Name Header Issue, which creates Route Builder, which foos, which bars, which echoes String parameter of body, which does String parameter of body Something.
+BeanMethodNameHeaderIssueTest acts as a publisher for observer CamelContext, which tests Bean Method Name Header Issue, which creates Route Builder, which foos, which bars, which echoes String parameter of body, which does String parameter of body Something.

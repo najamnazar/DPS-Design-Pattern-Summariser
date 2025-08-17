@@ -1,0 +1,1 @@
+ReplaceNodeToAttributeLogOp acts as a caretaker for memento Attribute, which writes OutputStream parameter of os, NodeAttributesManager parameter of mgr, which recovers InputStream parameter of is, NodeAttributesManager parameter of mgr, which sets List<NodeToAttributes> parameter of attrs Attributes, which gets Op Code.

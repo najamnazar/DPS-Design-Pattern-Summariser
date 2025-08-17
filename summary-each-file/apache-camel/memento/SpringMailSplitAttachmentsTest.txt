@@ -1,0 +1,1 @@
+SpringMailSplitAttachmentsTest acts as a caretaker for memento Context, which creates Application Context, which clears Mail Box, which setups, which tests Extract Attachments.

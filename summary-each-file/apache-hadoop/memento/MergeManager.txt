@@ -1,0 +1,1 @@
+MergeManager acts as an originator for memento RawKeyValueIterator, which closes RawKeyValueIterator.

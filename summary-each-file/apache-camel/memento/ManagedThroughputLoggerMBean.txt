@@ -1,0 +1,1 @@
+ManagedThroughputLoggerMBean acts as a memento, which resets Throughput Logger, which resets Throughput Logger, which resets Throughput Logger, which resets Throughput Logger, which resets Throughput Logger.

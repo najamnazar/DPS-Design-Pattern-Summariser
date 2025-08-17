@@ -1,0 +1,1 @@
+ServletEndpointConfigurer acts as a target for adapter WebsocketEndpointConfigurer, which adapts to ServletEndpointConfigurer, which adapts to ServletEndpointConfigurer, which adapts to ServletEndpointConfigurer.

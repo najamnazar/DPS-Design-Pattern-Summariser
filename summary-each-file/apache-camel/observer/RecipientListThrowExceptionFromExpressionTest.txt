@@ -1,0 +1,2 @@
+RecipientListThrowExceptionFromExpressionTest acts as a publisher for observer CamelContext, which tests Recipient List And Verify Exception, which creates Route Builder, which sends Exchange parameter of exchange To.
+RecipientListThrowExceptionFromExpressionTest acts as a publisher for observer Service, which tests Recipient List And Verify Exception, which creates Route Builder, which sends Exchange parameter of exchange To.

@@ -1,0 +1,1 @@
+MoveElementsOperation acts as a caretaker for memento Map, which gets Main Task Name, which is Move.

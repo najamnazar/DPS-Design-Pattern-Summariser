@@ -1,0 +1,2 @@
+SedaEndpointTest acts as a publisher for observer CamelContext, which tests Seda Endpoint Unbounded Queue, which tests Seda Endpoint, which tests Seda Endpoint Two, which tests Seda Endpoint Set Queue, which tests Seda Consumer, which tests Seda Default Value.
+SedaEndpointTest acts as a publisher for observer Service, which tests Seda Endpoint Unbounded Queue, which tests Seda Endpoint, which tests Seda Endpoint Two, which tests Seda Endpoint Set Queue, which tests Seda Consumer, which tests Seda Default Value.

@@ -1,0 +1,1 @@
+BootstrapContext acts as a memento, which is inherited by DefaultBootstrapContext, SimpleBootstrapContext, which gets Cache Aware Context Loader Delegate, which gets Cache Aware Context Loader Delegate.

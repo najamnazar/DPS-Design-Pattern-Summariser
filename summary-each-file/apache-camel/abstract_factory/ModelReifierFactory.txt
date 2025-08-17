@@ -1,0 +1,2 @@
+ModelReifierFactory acts as an abstract factory for Processor, Transformer, Expression, DataFormat, ErrorHandlerFactory, Validator, Route, Predicate, which is inherited by DefaultModelReifierFactory.
+ModelReifierFactory acts as an abstract product for ModelReifierFactory, which is inherited by DefaultModelReifierFactory.

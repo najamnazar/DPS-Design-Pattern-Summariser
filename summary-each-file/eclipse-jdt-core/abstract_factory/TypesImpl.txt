@@ -1,0 +1,3 @@
+TypesImpl acts as a product for AnnotationProcessorEnvironment, which overrides getArrayType method of Types, isAssignable method of Types, isSubtype method of Types.
+TypesImpl acts as a product for ProcessingEnvironment, which overrides getArrayType method of Types, isAssignable method of Types, isSubtype method of Types.
+TypesImpl acts as a factory for Types, which overrides getArrayType method of Types, isAssignable method of Types, isSubtype method of Types.

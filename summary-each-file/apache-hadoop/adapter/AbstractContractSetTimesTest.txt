@@ -1,0 +1,2 @@
+AbstractContractSetTimesTest acts as a target for adapter ITestAbfsFileSystemContractSetTimes, which adapts to AbstractContractSetTimesTest, which adapts to AbstractContractSetTimesTest.
+AbstractContractSetTimesTest acts as an adapter, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase.

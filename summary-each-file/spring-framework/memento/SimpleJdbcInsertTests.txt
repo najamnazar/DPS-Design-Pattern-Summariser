@@ -1,0 +1,2 @@
+SimpleJdbcInsertTests acts as a caretaker for memento C, which sets Up, which verifies Closed, which nos Such Table, which retrieves Column Names From Metadata, which exceptions Thrown While Retrieving Column Names From Metadata.
+SimpleJdbcInsertTests acts as a caretaker for memento Database, which sets Up, which verifies Closed, which nos Such Table, which retrieves Column Names From Metadata, which exceptions Thrown While Retrieving Column Names From Metadata.

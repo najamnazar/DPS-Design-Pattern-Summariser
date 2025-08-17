@@ -1,0 +1,1 @@
+Expression acts as a factory method for Interval, which is inherited by Interval, Interval, Interval.

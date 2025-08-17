@@ -1,0 +1,1 @@
+EnumConstantDeclarationImpl acts as an adapter, which adapts to FieldDeclarationImpl, which adapts to FieldDeclarationImpl, which adapts to FieldDeclarationImpl.

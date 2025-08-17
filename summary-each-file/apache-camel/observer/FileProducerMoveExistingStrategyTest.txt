@@ -1,0 +1,2 @@
+FileProducerMoveExistingStrategyTest acts as a publisher for observer CamelContext, which creates Registry, which tests Existing File Exists, which moves GenericFileEndpoint parameter of endpoint, GenericFileOperations parameter of operations, String parameter of fileName Existing File.
+FileProducerMoveExistingStrategyTest acts as a publisher for observer Service, which creates Registry, which tests Existing File Exists, which moves GenericFileEndpoint parameter of endpoint, GenericFileOperations parameter of operations, String parameter of fileName Existing File.

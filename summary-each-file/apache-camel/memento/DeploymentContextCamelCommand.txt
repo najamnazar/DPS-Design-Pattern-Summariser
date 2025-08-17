@@ -1,0 +1,1 @@
+DeploymentContextCamelCommand acts as a caretaker for memento Producer, which gets CommandContext parameter of ctx Producer Template, which closes.

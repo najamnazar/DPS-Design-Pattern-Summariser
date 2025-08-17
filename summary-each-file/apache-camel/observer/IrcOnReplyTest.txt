@@ -1,0 +1,1 @@
+IrcOnReplyTest acts as a publisher for observer MockEndpoint, which tests Irc Messages, which creates Route Builder, which froms Uri, which sends Messages.

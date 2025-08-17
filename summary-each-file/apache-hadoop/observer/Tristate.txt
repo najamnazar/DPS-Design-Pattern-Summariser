@@ -1,0 +1,1 @@
+Tristate acts as an observer for publisher S3AFileStatus, which is inherited by, which gets Mapping, which is Boolean, which froms boolean parameter of v Bool, which froms Optional<Boolean> parameter of b.

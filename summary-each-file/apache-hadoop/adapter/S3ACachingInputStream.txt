@@ -1,0 +1,1 @@
+S3ACachingInputStream acts as an adapter, which adapts to S3ARemoteInputStream, which adapts to S3ARemoteInputStream, which adapts to S3ARemoteInputStream, which adapts to S3ARemoteInputStream.

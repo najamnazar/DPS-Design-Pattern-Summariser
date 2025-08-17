@@ -1,0 +1,1 @@
+SpringTransactionErrorHandlerAndContextScopedOnExceptionIssueTest acts as a caretaker for memento Context, which sets Up, which creates Application Context, which tests Spring TXOn Exception Issue Commit, which tests Spring TXOn Exception Issue Rollback.

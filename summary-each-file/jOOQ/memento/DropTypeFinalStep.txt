@@ -1,0 +1,1 @@
+DropTypeFinalStep acts as a memento, which is inherited by DropTypeStep.

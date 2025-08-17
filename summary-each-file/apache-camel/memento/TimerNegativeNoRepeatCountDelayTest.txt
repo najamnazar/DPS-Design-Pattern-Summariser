@@ -1,0 +1,2 @@
+TimerNegativeNoRepeatCountDelayTest acts as a caretaker for memento Context, which tests Negative Delay, which creates Route Builder.
+TimerNegativeNoRepeatCountDelayTest acts as a caretaker for memento Producer, which tests Negative Delay, which creates Route Builder.

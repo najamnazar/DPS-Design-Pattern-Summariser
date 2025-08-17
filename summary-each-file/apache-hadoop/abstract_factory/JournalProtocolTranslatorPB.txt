@@ -1,0 +1,1 @@
+JournalProtocolTranslatorPB acts as a factory for JournalProtocol, which overrides journal method of JournalProtocol, fence method of JournalProtocol, startLogSegment method of JournalProtocol.

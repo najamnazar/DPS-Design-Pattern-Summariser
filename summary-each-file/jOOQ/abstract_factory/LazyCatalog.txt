@@ -1,0 +1,4 @@
+LazyCatalog acts as a product for Meta, which overrides getSchemas method of Catalog, getSchema method of Catalog, getSchema method of Catalog, schemaStream method of Catalog.
+LazyCatalog acts as a product for EnumType, which overrides getSchemas method of Catalog, getSchema method of Catalog, getSchema method of Catalog, schemaStream method of Catalog.
+LazyCatalog acts as a product for Qualified, which overrides getSchemas method of Catalog, getSchema method of Catalog, getSchema method of Catalog, schemaStream method of Catalog.
+LazyCatalog acts as a factory for Catalog, which overrides getSchemas method of Catalog, getSchema method of Catalog, getSchema method of Catalog, schemaStream method of Catalog.

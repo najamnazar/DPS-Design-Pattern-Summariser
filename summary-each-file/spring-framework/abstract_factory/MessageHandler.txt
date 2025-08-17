@@ -1,0 +1,1 @@
+MessageHandler acts as an abstract product for MessageHandler, which is inherited by UserRegistryMessageHandler, UserDestinationMessageHandler, AbstractBrokerMessageHandler, SubProtocolWebSocketHandler.

@@ -1,0 +1,2 @@
+BeanDefinitionRegistry acts as an abstract product for BeanDefinitionRegistry, which is inherited by SimpleBeanDefinitionRegistry, GenericApplicationContext, DefaultListableBeanFactory.
+BeanDefinitionRegistry acts as an abstract factory for BeanDefinition, which is inherited by SimpleBeanDefinitionRegistry, GenericApplicationContext, DefaultListableBeanFactory.

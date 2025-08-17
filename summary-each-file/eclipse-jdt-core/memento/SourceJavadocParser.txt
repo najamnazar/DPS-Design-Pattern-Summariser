@@ -1,0 +1,2 @@
+SourceJavadocParser acts as a caretaker for memento R, which checks int parameter of commentPtr Deprecation, which parses boolean parameter of report Identifier Tag, which parses Simple Tag.
+SourceJavadocParser acts as a caretaker for memento S, which checks int parameter of commentPtr Deprecation, which parses boolean parameter of report Identifier Tag, which parses Simple Tag.

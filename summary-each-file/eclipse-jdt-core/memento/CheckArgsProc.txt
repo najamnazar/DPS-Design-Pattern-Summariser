@@ -1,0 +1,3 @@
+CheckArgsProc acts as a caretaker for memento E, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.
+CheckArgsProc acts as a caretaker for memento S, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.
+CheckArgsProc acts as a caretaker for memento String, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.

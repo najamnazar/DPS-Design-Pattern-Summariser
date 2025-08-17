@@ -1,0 +1,1 @@
+OpportunisticContainersStatus acts as an abstract product for OpportunisticContainersStatus, which is inherited by OpportunisticContainersStatusPBImpl.

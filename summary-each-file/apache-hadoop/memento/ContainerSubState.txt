@@ -1,0 +1,1 @@
+ContainerSubState acts as a memento.

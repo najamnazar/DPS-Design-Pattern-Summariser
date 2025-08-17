@@ -1,0 +1,2 @@
+ConsumerCacheOneCapacityTest acts as a publisher for observer CamelContext, which tests Consumer Cache One Capacity.
+ConsumerCacheOneCapacityTest acts as a publisher for observer Service, which tests Consumer Cache One Capacity.

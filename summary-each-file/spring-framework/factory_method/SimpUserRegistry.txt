@@ -1,0 +1,1 @@
+SimpUserRegistry acts as an abstract product for MessageBrokerConfigurationTests, which is inherited by DefaultSimpUserRegistry, MultiServerUserRegistry.

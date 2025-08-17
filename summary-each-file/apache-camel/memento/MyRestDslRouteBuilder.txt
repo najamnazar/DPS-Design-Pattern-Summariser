@@ -1,0 +1,1 @@
+MyRestDslRouteBuilder acts as a caretaker for memento Configuration, which configures.

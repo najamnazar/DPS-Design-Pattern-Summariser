@@ -1,0 +1,2 @@
+ViewMethodReturnValueHandlerTests acts as a caretaker for memento A, which setups, which supports Return Type, which returns View, which returns View Redirect, which creates String parameter of methodName Return Value Param, which views.
+ViewMethodReturnValueHandlerTests acts as a caretaker for memento C, which setups, which supports Return Type, which returns View, which returns View Redirect, which creates String parameter of methodName Return Value Param, which views.

@@ -1,0 +1,1 @@
+DropSchemaFinalStep acts as an abstract product for DropSchemaStep, which is inherited by DropSchemaImpl.

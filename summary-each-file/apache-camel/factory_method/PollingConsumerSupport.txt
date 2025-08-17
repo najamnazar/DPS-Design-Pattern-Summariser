@@ -1,0 +1,4 @@
+PollingConsumerSupport acts as a product for CamelPostProcessorHelperTest, which overrides.
+PollingConsumerSupport acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+PollingConsumerSupport acts as a factory for DefaultEndpoint, which overrides.
+PollingConsumerSupport acts as a factory for FaultToleranceProcessorFactory, which overrides.

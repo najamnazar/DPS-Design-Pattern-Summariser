@@ -1,0 +1,1 @@
+MockEnvironment acts as a publisher for observer MutablePropertySources, which sets String parameter of key, String parameter of value Property, which withes String parameter of key, String parameter of value Property.

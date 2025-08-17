@@ -1,0 +1,1 @@
+SelectionJavadoc acts as an adapter, which adapts to Javadoc, which adapts internalResolve method of Expression, internalResolve method of Expression, internalResolve method of Expression, internalResolve method of Expression to Javadoc, which adapts to Javadoc, which adapts to Javadoc.

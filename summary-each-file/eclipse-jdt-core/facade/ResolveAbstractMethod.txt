@@ -1,0 +1,1 @@
+ResolveAbstractMethod acts as a facade for subsystem SuperInterface, which test calls foo method of SuperInterface.

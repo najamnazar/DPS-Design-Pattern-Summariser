@@ -1,0 +1,1 @@
+ActiveMQMessageConverter acts as a publisher for observer JmsBinding, which is inherited by, which tos Exchange parameter of exchange Message, which tos final parameter of MessageListener Processor, which creates Exchange parameter of exchange Active MQMessage, which gets Binding, which sets JmsBinding parameter of binding Binding.

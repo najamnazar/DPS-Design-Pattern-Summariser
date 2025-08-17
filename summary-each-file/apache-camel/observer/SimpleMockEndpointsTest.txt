@@ -1,0 +1,5 @@
+SimpleMockEndpointsTest acts as a publisher for observer FluentProducerTemplate, which is Mock Endpoints And Skip, which tests Mock And Skip, which creates Route Builder.
+SimpleMockEndpointsTest acts as a publisher for observer Service, which is Mock Endpoints And Skip, which tests Mock And Skip, which creates Route Builder.
+SimpleMockEndpointsTest acts as a publisher for observer CamelContext, which is Mock Endpoints And Skip, which tests Mock And Skip, which creates Route Builder.
+SimpleMockEndpointsTest acts as a publisher for observer ConsumerTemplate, which is Mock Endpoints And Skip, which tests Mock And Skip, which creates Route Builder.
+SimpleMockEndpointsTest acts as a publisher for observer ProducerTemplate, which is Mock Endpoints And Skip, which tests Mock And Skip, which creates Route Builder.

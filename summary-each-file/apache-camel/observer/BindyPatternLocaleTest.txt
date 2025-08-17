@@ -1,0 +1,5 @@
+BindyPatternLocaleTest acts as a publisher for observer ProducerTemplate, which sets Language, which restores Language, which tests Marshalling1, which tests Marshalling2, which tests Marshalling3, which creates Route Builder.
+BindyPatternLocaleTest acts as a publisher for observer CamelContext, which sets Language, which restores Language, which tests Marshalling1, which tests Marshalling2, which tests Marshalling3, which creates Route Builder.
+BindyPatternLocaleTest acts as a publisher for observer ConsumerTemplate, which sets Language, which restores Language, which tests Marshalling1, which tests Marshalling2, which tests Marshalling3, which creates Route Builder.
+BindyPatternLocaleTest acts as a publisher for observer FluentProducerTemplate, which sets Language, which restores Language, which tests Marshalling1, which tests Marshalling2, which tests Marshalling3, which creates Route Builder.
+BindyPatternLocaleTest acts as a publisher for observer Service, which sets Language, which restores Language, which tests Marshalling1, which tests Marshalling2, which tests Marshalling3, which creates Route Builder.

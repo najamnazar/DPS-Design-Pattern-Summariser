@@ -1,0 +1,2 @@
+RecipientListDoNotStopOnExceptionTest acts as a publisher for observer Service, which tests Recipient List Do Not Stop On Exception, which creates Route Builder.
+RecipientListDoNotStopOnExceptionTest acts as a publisher for observer CamelContext, which tests Recipient List Do Not Stop On Exception, which creates Route Builder.

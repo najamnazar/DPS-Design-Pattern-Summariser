@@ -1,0 +1,2 @@
+FileConsumerPreMoveDeleteTest acts as a publisher for observer CamelContext, which tests Pre Move Delete, which tests Pre Move Delete Same File Twice, which creates Route Builder, which processes Exchange parameter of exchange.
+FileConsumerPreMoveDeleteTest acts as a publisher for observer Service, which tests Pre Move Delete, which tests Pre Move Delete Same File Twice, which creates Route Builder, which processes Exchange parameter of exchange.

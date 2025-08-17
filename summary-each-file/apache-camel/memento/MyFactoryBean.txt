@@ -1,0 +1,1 @@
+MyFactoryBean acts as an originator for memento MyHelloBean, which creates a MyHelloBean My Hello Bean to.

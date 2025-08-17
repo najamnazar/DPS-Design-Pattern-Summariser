@@ -1,0 +1,1 @@
+SelectQueryImpl acts as a factory method for Row, which is inherited by Fields, Fields, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Fields, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Record, Fields, Fields, Fields, Fields, Fields, Fields, Parser, Record.

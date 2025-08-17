@@ -1,0 +1,1 @@
+NodesInfo acts as a publisher for observer NodeInfo, which is inherited by, which adds NodeInfo parameter of nodeinfo, which gets Nodes, which adds ArrayList<NodeInfo> parameter of nodesInfo All, which adds Collection<NodeInfo> parameter of nodesInfo All.

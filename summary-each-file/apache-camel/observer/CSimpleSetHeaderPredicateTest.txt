@@ -1,0 +1,5 @@
+CSimpleSetHeaderPredicateTest acts as a publisher for observer FluentProducerTemplate, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.
+CSimpleSetHeaderPredicateTest acts as a publisher for observer CamelContext, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.
+CSimpleSetHeaderPredicateTest acts as a publisher for observer ConsumerTemplate, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.
+CSimpleSetHeaderPredicateTest acts as a publisher for observer ProducerTemplate, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.
+CSimpleSetHeaderPredicateTest acts as a publisher for observer Service, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.

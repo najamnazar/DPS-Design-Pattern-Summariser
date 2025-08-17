@@ -1,0 +1,1 @@
+S3AStatisticInterface acts as an originator for memento DurationTracker.

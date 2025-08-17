@@ -1,0 +1,1 @@
+CreateDatabaseImpl acts as a factory method for Catalog, which is inherited by DSL, SchemaImpl, Qualified, DSL, DSL, SchemaImpl, SchemaImpl, SchemaImpl, AbstractMeta, SchemaImpl, AbstractMeta, DSL, AbstractMeta, DSL, AbstractMeta, AbstractMeta, SchemaImpl, SchemaImpl, Meta, DSL, AbstractMeta, DSL, Qualified, Qualified, DSL, DSL, Qualified.

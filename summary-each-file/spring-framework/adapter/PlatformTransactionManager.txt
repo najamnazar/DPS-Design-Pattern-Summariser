@@ -1,0 +1,2 @@
+PlatformTransactionManager acts as an adaptee for adapter AbstractPollingMessageListenerContainer, which adapts to AbstractMessageListenerContainer, which adapts to AbstractMessageListenerContainer, which adapts to AbstractMessageListenerContainer.
+PlatformTransactionManager acts as an adaptee for adapter TransactionTemplate, which adapts to DefaultTransactionDefinition, which adapts to DefaultTransactionDefinition, which adapts to DefaultTransactionDefinition.

@@ -1,0 +1,2 @@
+RMContainer acts as a factory for RMAppAttemptImpl, which overrides.
+RMContainer acts as an abstract product for ContainerUpdateContext, which is inherited by RMContainerImpl.

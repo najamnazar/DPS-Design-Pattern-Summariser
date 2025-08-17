@@ -1,0 +1,5 @@
+ChunkDifferentThemeFolderSubfolderAndLayerTest acts as a publisher for observer Service, which tests Chunk Subfolder, which creates Route Builder.
+ChunkDifferentThemeFolderSubfolderAndLayerTest acts as a publisher for observer CamelContext, which tests Chunk Subfolder, which creates Route Builder.
+ChunkDifferentThemeFolderSubfolderAndLayerTest acts as a publisher for observer ConsumerTemplate, which tests Chunk Subfolder, which creates Route Builder.
+ChunkDifferentThemeFolderSubfolderAndLayerTest acts as a publisher for observer FluentProducerTemplate, which tests Chunk Subfolder, which creates Route Builder.
+ChunkDifferentThemeFolderSubfolderAndLayerTest acts as a publisher for observer ProducerTemplate, which tests Chunk Subfolder, which creates Route Builder.

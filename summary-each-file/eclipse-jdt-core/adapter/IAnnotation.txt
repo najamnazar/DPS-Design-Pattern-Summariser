@@ -1,0 +1,3 @@
+IAnnotation acts as an adapter, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.
+IAnnotation acts as an adaptee for adapter LocalVariable, which adapts to SourceRefElement, which adapts to SourceRefElement, which adapts to SourceRefElement.
+IAnnotation acts as an adaptee for adapter AnnotatableInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo.

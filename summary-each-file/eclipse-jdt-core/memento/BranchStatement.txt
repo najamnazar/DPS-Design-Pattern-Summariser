@@ -1,0 +1,2 @@
+BranchStatement acts as a caretaker for memento R, which is inherited by, which generates BlockScope parameter of currentScope, CodeStream parameter of codeStream Code, which resolves BlockScope parameter of scope.
+BranchStatement acts as a caretaker for memento S, which is inherited by, which generates BlockScope parameter of currentScope, CodeStream parameter of codeStream Code, which resolves BlockScope parameter of scope.

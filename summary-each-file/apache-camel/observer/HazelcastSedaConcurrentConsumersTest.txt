@@ -1,0 +1,5 @@
+HazelcastSedaConcurrentConsumersTest acts as a publisher for observer FluentProducerTemplate, which creates Concurrent Consumers, which creates Route Builder.
+HazelcastSedaConcurrentConsumersTest acts as a publisher for observer ProducerTemplate, which creates Concurrent Consumers, which creates Route Builder.
+HazelcastSedaConcurrentConsumersTest acts as a publisher for observer CamelContext, which creates Concurrent Consumers, which creates Route Builder.
+HazelcastSedaConcurrentConsumersTest acts as a publisher for observer ConsumerTemplate, which creates Concurrent Consumers, which creates Route Builder.
+HazelcastSedaConcurrentConsumersTest acts as a publisher for observer Service, which creates Concurrent Consumers, which creates Route Builder.

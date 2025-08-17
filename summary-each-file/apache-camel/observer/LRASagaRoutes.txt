@@ -1,0 +1,7 @@
+LRASagaRoutes acts as an observer, which configures, which verifies Exchange parameter of exchange Request.
+LRASagaRoutes acts as a publisher for observer RouteTemplatesDefinition, which configures, which verifies Exchange parameter of exchange Request.
+LRASagaRoutes acts as a publisher for observer RestsDefinition, which configures, which verifies Exchange parameter of exchange Request.
+LRASagaRoutes acts as a publisher for observer TemplatedRoutesDefinition, which configures, which verifies Exchange parameter of exchange Request.
+LRASagaRoutes acts as a publisher for observer RoutesDefinition, which configures, which verifies Exchange parameter of exchange Request.
+LRASagaRoutes acts as a publisher for observer Resource, which configures, which verifies Exchange parameter of exchange Request.
+LRASagaRoutes acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures, which verifies Exchange parameter of exchange Request.

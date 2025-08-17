@@ -1,0 +1,1 @@
+SupervisingRouteController acts as an abstract product for ManagedSupervisingRouteController, which is inherited by DefaultSupervisingRouteController.

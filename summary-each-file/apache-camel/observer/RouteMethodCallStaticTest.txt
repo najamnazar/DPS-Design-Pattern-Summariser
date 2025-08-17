@@ -1,0 +1,2 @@
+RouteMethodCallStaticTest acts as a publisher for observer CamelContext, which tests Static Method Call, which creates Route Builder.
+RouteMethodCallStaticTest acts as a publisher for observer Service, which tests Static Method Call, which creates Route Builder.

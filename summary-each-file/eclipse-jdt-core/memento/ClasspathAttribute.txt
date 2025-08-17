@@ -1,0 +1,2 @@
+ClasspathAttribute acts as a caretaker for memento String, which equals Object parameter of obj, which gets Name, which gets Value, which hashes Code, which tos String.
+ClasspathAttribute acts as a caretaker for memento S, which equals Object parameter of obj, which gets Name, which gets Value, which hashes Code, which tos String.

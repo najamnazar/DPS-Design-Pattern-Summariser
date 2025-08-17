@@ -1,0 +1,2 @@
+FilerProducerDoneFileNameRouteTest acts as a publisher for observer CamelContext, which creates Registry, which tests Producer Placeholder Prefix Done File Name, which creates Route Builder.
+FilerProducerDoneFileNameRouteTest acts as a publisher for observer Service, which creates Registry, which tests Producer Placeholder Prefix Done File Name, which creates Route Builder.

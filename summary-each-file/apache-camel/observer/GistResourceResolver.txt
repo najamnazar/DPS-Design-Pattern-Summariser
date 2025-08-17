@@ -1,0 +1,1 @@
+GistResourceResolver acts as a publisher for observer CamelContext, which is inherited by, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which gets Supported Scheme, which resolves String parameter of location.

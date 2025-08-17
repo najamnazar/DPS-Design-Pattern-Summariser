@@ -1,0 +1,1 @@
+CaffeineLoadCacheEndpoint acts as an adapter, which adapts getComponent method of CaffeineConfiguration to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

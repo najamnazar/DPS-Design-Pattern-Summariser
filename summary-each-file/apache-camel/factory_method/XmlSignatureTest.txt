@@ -1,0 +1,6 @@
+XmlSignatureTest acts as a factory for ECDSASignatureTest, which overrides.
+XmlSignatureTest acts as a factory for FromRestConfigurationTest, which overrides.
+XmlSignatureTest acts as a factory for JBPMProducer, which overrides.
+XmlSignatureTest acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+XmlSignatureTest acts as a factory for XmlVerifierConfiguration, which overrides.
+XmlSignatureTest acts as a factory for XmlSignerConfiguration, which overrides.

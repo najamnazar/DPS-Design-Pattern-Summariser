@@ -1,0 +1,1 @@
+WhatsAppService acts as an observer for publisher WhatsAppEndpoint, which is inherited by WhatsAppServiceRestAPIAdapter, which sends Exchange parameter of exchange, AsyncCallback parameter of callback, BaseMessage parameter of message Message.

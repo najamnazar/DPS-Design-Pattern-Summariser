@@ -1,0 +1,1 @@
+ProgressListenerEvent acts as an adaptee for adapter ITestS3ABlockOutputStreamInterruption.

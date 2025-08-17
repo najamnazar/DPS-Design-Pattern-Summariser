@@ -1,0 +1,1 @@
+AtmosMoveProducer acts as a caretaker for memento Configuration, which processes Exchange parameter of exchange.

@@ -1,0 +1,1 @@
+MemoryHungryAuditor acts as a caretaker for memento AuditSpanS3A, which gets Span Count, which creates final parameter of String, @Nullable parameter of final, @Nullable parameter of final Span, which gets Unbonded Span, which tos String, which notes final parameter of long Span Reference Lost, which gets Instance Count, which activates, which deactivates.

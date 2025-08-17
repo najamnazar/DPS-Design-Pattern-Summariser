@@ -1,0 +1,1 @@
+PartialJob acts as a factory method for Counters, which is inherited by TaskImpl, HistoryEventEmitter, GetCountersResponse, MockJobs, TaskAttemptReport, HistoryEventEmitter, TaskAttemptImpl, TestReduceFetchFromPartialMem, HistoryEventEmitter, Job, TaskImpl, TaskAttempt, TaskAttemptImpl, TaskReport.

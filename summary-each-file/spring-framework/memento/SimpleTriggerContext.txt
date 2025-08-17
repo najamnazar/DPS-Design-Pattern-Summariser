@@ -1,0 +1,1 @@
+SimpleTriggerContext acts as a caretaker for memento C, which updates Date parameter of lastScheduledExecutionTime, Date parameter of lastActualExecutionTime, Date parameter of lastCompletionTime, which gets Clock, which lasts Scheduled Execution Time, which lasts Actual Execution Time, which lasts Completion Time.

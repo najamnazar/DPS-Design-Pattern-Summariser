@@ -1,0 +1,2 @@
+AbstractLeafQueue acts as a factory method for AbstractUsersManager, which is inherited by Queue, Queue, AbstractLeafQueue, CSQueue, AbstractLeafQueue.
+AbstractLeafQueue acts as a factory for AbstractLeafQueue, which overrides.

@@ -1,0 +1,1 @@
+OpDec acts as an observer, which gets ExpressionState parameter of state Value Internal, which tos String AST, which gets Right Operand.

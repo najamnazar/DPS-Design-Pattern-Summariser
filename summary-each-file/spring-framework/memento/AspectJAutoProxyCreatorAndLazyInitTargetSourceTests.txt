@@ -1,0 +1,4 @@
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a caretaker for memento ApplicationContext, which tests Adrian.
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a caretaker for memento B, which tests Adrian.
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a caretaker for memento C, which tests Adrian.
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a caretaker for memento A, which tests Adrian.

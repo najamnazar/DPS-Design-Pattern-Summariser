@@ -1,0 +1,1 @@
+SharedCacheResource acts as a publisher for observer SharedCacheResourceReference, which is inherited by, which gets Access Time, which updates Access Time, which gets File Name, which gets Resource References, which adds SharedCacheResourceReference parameter of ref Reference.

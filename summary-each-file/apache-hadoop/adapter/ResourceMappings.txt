@@ -1,0 +1,1 @@
+ResourceMappings acts as an adaptee for adapter NMStateStoreService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

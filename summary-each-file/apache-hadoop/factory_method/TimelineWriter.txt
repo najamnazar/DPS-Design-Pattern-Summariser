@@ -1,0 +1,1 @@
+TimelineWriter acts as an abstract product for TestTimelineWebServicesWithSSL, which is inherited by FileSystemTimelineWriterImpl, HBaseTimelineWriterImpl, NoOpTimelineWriterImpl, DocumentStoreTimelineWriterImpl.

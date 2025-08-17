@@ -1,0 +1,1 @@
+ServiceClassRefTest acts as a caretaker for memento Context, which tests Service Class Name Created By Ref Notation.

@@ -1,0 +1,1 @@
+XmppGroupChatProducer acts as an adapter, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts initializeChat method of XmppEndpoint to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer.

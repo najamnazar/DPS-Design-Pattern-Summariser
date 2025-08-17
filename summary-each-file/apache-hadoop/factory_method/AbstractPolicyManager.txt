@@ -1,0 +1,3 @@
+AbstractPolicyManager acts as a factory for TestFederationPolicyInitializationContextValidator, which overrides.
+AbstractPolicyManager acts as a product for NoOpGlobalPolicy, which overrides serializeConf method of FederationPolicyManager, getQueue method of FederationPolicyManager, setQueue method of FederationPolicyManager.
+AbstractPolicyManager acts as a factory for BaseFederationPoliciesTest, which overrides.

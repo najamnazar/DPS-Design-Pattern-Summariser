@@ -1,0 +1,1 @@
+Statistic acts as an observer for publisher StoreContext, which is inherited by, which gets Symbol, which froms String parameter of symbol Symbol, which gets Description, which tos String, which gets Type.

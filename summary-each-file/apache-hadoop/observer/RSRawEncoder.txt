@@ -1,0 +1,1 @@
+RSRawEncoder acts as an observer, which does ByteBufferEncodingState parameter of encodingState Encode, which does ByteArrayEncodingState parameter of encodingState Encode.

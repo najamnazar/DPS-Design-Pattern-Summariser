@@ -1,0 +1,2 @@
+DetourTest acts as a publisher for observer Service, which tests Detour Set, which tests Detour Not Set, which creates Registry, which creates Route Builder, which sets boolean parameter of detour Detour, which is Detour.
+DetourTest acts as a publisher for observer CamelContext, which tests Detour Set, which tests Detour Not Set, which creates Registry, which creates Route Builder, which sets boolean parameter of detour Detour, which is Detour.

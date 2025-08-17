@@ -1,0 +1,1 @@
+FileChecksum acts as a target for adapter MD5MD5CRC32FileChecksum, which adapts to FileChecksum, which adapts to FileChecksum, which adapts to FileChecksum, which adapts to FileChecksum, which adapts to FileChecksum, which adapts to FileChecksum.

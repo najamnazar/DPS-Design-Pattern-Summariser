@@ -1,0 +1,1 @@
+CheckImpl acts as a caretaker for memento Comment, which gets Table, which conditions, which enforces, which enforces ConstraintEnforcementStep parameter of key, which constraints, which accepts Context<?> parameter of ctx, which hashes Code, which equals Object parameter of obj, which tos String.

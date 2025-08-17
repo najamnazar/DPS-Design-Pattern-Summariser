@@ -1,0 +1,1 @@
+HsqlDatabasePopulatorTests acts as a caretaker for memento Database, which gets Embedded Database Type.

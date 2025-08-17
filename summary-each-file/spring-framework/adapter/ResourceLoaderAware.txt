@@ -1,0 +1,2 @@
+ResourceLoaderAware acts as an adaptee for adapter FreeMarkerConfigurer, which adapts to FreeMarkerConfigurationFactory.
+ResourceLoaderAware acts as an adaptee for adapter LocalContainerEntityManagerFactoryBean, which adapts to AbstractEntityManagerFactoryBean.

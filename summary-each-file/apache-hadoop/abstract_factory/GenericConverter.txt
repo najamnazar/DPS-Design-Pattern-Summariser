@@ -1,0 +1,2 @@
+GenericConverter acts as a product for ColumnPrefix, which overrides encodeValue method of ValueConverter, decodeValue method of ValueConverter.
+GenericConverter acts as a product for Column, which overrides encodeValue method of ValueConverter, decodeValue method of ValueConverter.

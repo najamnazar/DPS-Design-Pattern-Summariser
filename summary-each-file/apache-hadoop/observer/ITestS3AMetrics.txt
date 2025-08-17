@@ -1,0 +1,1 @@
+ITestS3AMetrics acts as a publisher for observer AuditSpanSource, which tests Metrics Register, which tests Stream Statistics.

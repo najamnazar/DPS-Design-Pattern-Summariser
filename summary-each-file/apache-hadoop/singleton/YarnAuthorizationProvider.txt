@@ -1,0 +1,1 @@
+YarnAuthorizationProvider acts as a singleton, which gets a YarnAuthorizationProvider Instance to.

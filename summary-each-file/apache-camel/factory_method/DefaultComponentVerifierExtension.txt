@@ -1,0 +1,1 @@
+DefaultComponentVerifierExtension acts as a product for UndertowComponent, which overrides verify method of ComponentVerifierExtension.

@@ -1,0 +1,1 @@
+DefaultBeanProxyFactory acts as a product for ExtendedCamelContext, which overrides createProxy method of BeanProxyFactory.

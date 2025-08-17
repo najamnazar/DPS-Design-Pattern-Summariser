@@ -1,0 +1,5 @@
+KubernetesTestSupport acts as a publisher for observer ConsumerTemplate, which sets Up, which tos String parameter of str Url Encoded.
+KubernetesTestSupport acts as a publisher for observer FluentProducerTemplate, which sets Up, which tos String parameter of str Url Encoded.
+KubernetesTestSupport acts as a publisher for observer Service, which sets Up, which tos String parameter of str Url Encoded.
+KubernetesTestSupport acts as a publisher for observer CamelContext, which sets Up, which tos String parameter of str Url Encoded.
+KubernetesTestSupport acts as a publisher for observer ProducerTemplate, which sets Up, which tos String parameter of str Url Encoded.

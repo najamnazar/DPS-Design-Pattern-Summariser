@@ -1,0 +1,1 @@
+HttpComponentsAsyncClientHttpRequestFactory acts as a component for decorator InterceptingAsyncClientHttpRequestFactory.

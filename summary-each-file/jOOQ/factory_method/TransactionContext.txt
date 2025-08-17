@@ -1,0 +1,2 @@
+TransactionContext acts as a factory for TransactionContext, which overrides.
+TransactionContext acts as a factory method for Transaction, which is inherited by TransactionContext.

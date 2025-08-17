@@ -1,0 +1,1 @@
+AbstractRouterPolicy acts as an adapter, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy.

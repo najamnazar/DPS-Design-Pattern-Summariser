@@ -1,0 +1,1 @@
+ICompilationUnitResolver acts as an abstract factory for CompilationUnit, which is inherited by.

@@ -1,0 +1,1 @@
+SerializationDelegate acts as an adaptee for adapter ConcurrentMapCache, which adapts to AbstractValueAdaptingCache, which adapts to AbstractValueAdaptingCache.

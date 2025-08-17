@@ -1,0 +1,1 @@
+DefaultMetadataExtractor acts as a product for RSocketStrategies, which overrides extract method of MetadataExtractor.

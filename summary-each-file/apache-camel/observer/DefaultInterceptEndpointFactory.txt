@@ -1,0 +1,1 @@
+DefaultInterceptEndpointFactory acts as an observer, which creates CamelContext parameter of camelContext, Endpoint parameter of endpoint, boolean parameter of skip, Processor parameter of before, Processor parameter of after Intercept Send To Endpoint.

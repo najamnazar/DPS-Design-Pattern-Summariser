@@ -1,0 +1,1 @@
+MigrationContext acts as a factory for Diff, which overrides.

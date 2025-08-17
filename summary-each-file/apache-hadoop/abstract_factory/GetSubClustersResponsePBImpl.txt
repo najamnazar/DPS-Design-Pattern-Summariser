@@ -1,0 +1,1 @@
+GetSubClustersResponsePBImpl acts as a product for ResourceManagerAdministrationProtocol, which overrides getFederationSubClusters method of GetSubClustersResponse.

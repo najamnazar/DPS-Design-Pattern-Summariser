@@ -1,0 +1,1 @@
+JmsTemplateJtaTests acts as a caretaker for memento C, which uses Transacted Session, which uses Transacted Template.

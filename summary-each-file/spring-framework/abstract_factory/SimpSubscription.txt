@@ -1,0 +1,1 @@
+SimpSubscription acts as an abstract factory for SimpSession, which is inherited by TestSimpSubscription.

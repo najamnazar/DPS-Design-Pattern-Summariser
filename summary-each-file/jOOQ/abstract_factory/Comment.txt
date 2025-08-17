@@ -1,0 +1,1 @@
+Comment acts as an abstract product for Comment, which is inherited by CommentImpl.

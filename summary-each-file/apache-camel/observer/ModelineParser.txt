@@ -1,0 +1,1 @@
+ModelineParser acts as a publisher for observer Trait, which is inherited by DefaultModelineParser, which adds Trait parameter of trait Trait, which is String parameter of line Modeline, which parses Resource parameter of resource, which parses Resource parameter of resource, String parameter of key, String parameter of value Modeline.

@@ -1,0 +1,3 @@
+DefaultMockMvcBuilder acts as a caretaker for memento ApplicationContext, which inits Web App Context.
+DefaultMockMvcBuilder acts as a caretaker for memento A, which inits Web App Context.
+DefaultMockMvcBuilder acts as a caretaker for memento C, which inits Web App Context.

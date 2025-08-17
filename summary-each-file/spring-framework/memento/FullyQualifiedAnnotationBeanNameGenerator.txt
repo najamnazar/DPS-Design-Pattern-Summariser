@@ -1,0 +1,2 @@
+FullyQualifiedAnnotationBeanNameGenerator acts as a caretaker for memento A, which builds BeanDefinition parameter of definition Default Bean Name.
+FullyQualifiedAnnotationBeanNameGenerator acts as a caretaker for memento B, which builds BeanDefinition parameter of definition Default Bean Name.

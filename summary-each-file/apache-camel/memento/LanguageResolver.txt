@@ -1,0 +1,1 @@
+LanguageResolver acts as an originator for memento Language, which is inherited by, which resolves a Language Language to.

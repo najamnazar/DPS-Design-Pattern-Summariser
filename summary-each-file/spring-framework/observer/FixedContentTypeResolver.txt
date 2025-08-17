@@ -1,0 +1,1 @@
+FixedContentTypeResolver acts as an observer, which gets Content Types, which resolves ServerWebExchange parameter of exchange Media Types.

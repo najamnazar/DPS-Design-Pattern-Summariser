@@ -1,0 +1,5 @@
+CwComponentTest acts as a publisher for observer CamelContext, which sends Metric From Header Values, which creates Route Builder.
+CwComponentTest acts as a publisher for observer ProducerTemplate, which sends Metric From Header Values, which creates Route Builder.
+CwComponentTest acts as a publisher for observer Service, which sends Metric From Header Values, which creates Route Builder.
+CwComponentTest acts as a publisher for observer ConsumerTemplate, which sends Metric From Header Values, which creates Route Builder.
+CwComponentTest acts as a publisher for observer FluentProducerTemplate, which sends Metric From Header Values, which creates Route Builder.

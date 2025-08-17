@@ -1,0 +1,1 @@
+AbstractCamelCommand acts as an observer, which executes CommandContext parameter of ctx, which gets CommandContext parameter of ctx Producer Template.

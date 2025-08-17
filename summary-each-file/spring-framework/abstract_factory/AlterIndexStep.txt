@@ -1,0 +1,2 @@
+AlterIndexStep acts as an abstract factory for AlterIndexFinalStep, which is inherited by AlterIndexImpl.
+AlterIndexStep acts as an abstract product for AlterIndexStep, which is inherited by AlterIndexOnStep, AlterIndexOnStep, AlterIndexOnStep, AlterIndexImpl, AlterIndexImpl, AlterIndexImpl.

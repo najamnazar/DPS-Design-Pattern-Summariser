@@ -1,0 +1,1 @@
+SpringBeanJobFactory acts as an adapter, which adapts to AdaptableJobFactory, which adapts to AdaptableJobFactory, which adapts to AdaptableJobFactory, which adapts to AdaptableJobFactory, which adapts to AdaptableJobFactory.

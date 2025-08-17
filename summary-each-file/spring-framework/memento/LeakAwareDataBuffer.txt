@@ -1,0 +1,2 @@
+LeakAwareDataBuffer acts as a caretaker for memento B, which creates DataBuffer parameter of delegate Leak Error, which leaks Error, which is Allocated, which retains, which touches Object parameter of hint, which releases, which factories, which tos String.
+LeakAwareDataBuffer acts as a caretaker for memento A, which creates DataBuffer parameter of delegate Leak Error, which leaks Error, which is Allocated, which retains, which touches Object parameter of hint, which releases, which factories, which tos String.

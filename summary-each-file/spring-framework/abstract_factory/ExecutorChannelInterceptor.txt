@@ -1,0 +1,1 @@
+ExecutorChannelInterceptor acts as a product for InterceptableChannel, which overrides.

@@ -1,0 +1,1 @@
+ApplicationInitedEvent acts as an observer.

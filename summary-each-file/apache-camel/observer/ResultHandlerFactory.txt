@@ -1,0 +1,1 @@
+ResultHandlerFactory acts as an observer for publisher XsltBuilder, XsltSaxonBuilder, which is inherited by DomResultHandlerFactory, JsonFileResultHandlerFactory, StreamResultHandlerFactory, JsonStreamResultHandlerFactory, StringResultHandlerFactory, FileResultHandlerFactory, JsonStringResultHandlerFactory, which creates Exchange parameter of exchange Result.

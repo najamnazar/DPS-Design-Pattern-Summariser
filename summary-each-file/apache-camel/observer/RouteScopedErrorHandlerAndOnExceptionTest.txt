@@ -1,0 +1,2 @@
+RouteScopedErrorHandlerAndOnExceptionTest acts as a publisher for observer CamelContext, which tests On Exception, which tests Error Handler, which creates Route Builder.
+RouteScopedErrorHandlerAndOnExceptionTest acts as a publisher for observer Service, which tests On Exception, which tests Error Handler, which creates Route Builder.

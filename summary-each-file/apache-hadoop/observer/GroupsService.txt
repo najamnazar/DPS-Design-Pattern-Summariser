@@ -1,0 +1,2 @@
+GroupsService acts as a publisher for observer Server, which inits, which gets Interface, which gets String parameter of user Groups, which gets String parameter of user Groups Set.
+GroupsService acts as an observer, which inits, which gets Interface, which gets String parameter of user Groups, which gets String parameter of user Groups Set.

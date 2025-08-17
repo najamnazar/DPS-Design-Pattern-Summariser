@@ -1,0 +1,1 @@
+TestAMRMTokens acts as a factory method for ApplicationMasterProtocol, which is inherited by RMCommunicator, ApplicationMasterServiceProtoTestBase, RMCommunicator, BaseAMRMProxyE2ETest, ApplicationMasterServiceProtoTestBase.

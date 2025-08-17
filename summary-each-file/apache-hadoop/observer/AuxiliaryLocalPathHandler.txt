@@ -1,0 +1,1 @@
+AuxiliaryLocalPathHandler acts as an observer for publisher TestAuxServices, which is inherited by, which gets String parameter of path Local Path For Read, which gets String parameter of path Local Path For Write, which gets String parameter of path, long parameter of size Local Path For Write, which gets String parameter of path All Local Paths For Read.

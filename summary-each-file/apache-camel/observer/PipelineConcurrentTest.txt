@@ -1,0 +1,2 @@
+PipelineConcurrentTest acts as a publisher for observer CamelContext, which tests Concurrent Pipeline, which creates Route Builder.
+PipelineConcurrentTest acts as a publisher for observer Service, which tests Concurrent Pipeline, which creates Route Builder.

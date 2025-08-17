@@ -1,0 +1,2 @@
+PlacementRule acts as a target for adapter FSPlacementRule, which adapts to PlacementRule, which adapts to PlacementRule, which adapts to PlacementRule, which adapts to PlacementRule, which adapts to PlacementRule.
+PlacementRule acts as a target for adapter CSMappingPlacementRule, which adapts to PlacementRule, which adapts to PlacementRule, which adapts to PlacementRule, which adapts to PlacementRule, which adapts to PlacementRule.

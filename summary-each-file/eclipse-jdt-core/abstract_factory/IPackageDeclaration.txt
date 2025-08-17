@@ -1,0 +1,9 @@
+IPackageDeclaration acts as a product for IJavaProject, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as a product for IJavaElement, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as a product for ITypeRoot, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as a product for IBinding, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as a product for IClassFile, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as a product for IDOMNode, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as a product for IJavaElementDelta, which overrides getElementName method of IJavaElement.
+IPackageDeclaration acts as an abstract factory for, which is inherited by.
+IPackageDeclaration acts as a product for IWorkingCopy, which overrides getElementName method of IJavaElement.

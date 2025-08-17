@@ -1,0 +1,5 @@
+MicrometerComponentRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Metrics, which tests Message Content Delivery, which creates Route Builder.
+MicrometerComponentRouteTest acts as a publisher for observer Service, which tests Metrics, which tests Message Content Delivery, which creates Route Builder.
+MicrometerComponentRouteTest acts as a publisher for observer ProducerTemplate, which tests Metrics, which tests Message Content Delivery, which creates Route Builder.
+MicrometerComponentRouteTest acts as a publisher for observer ConsumerTemplate, which tests Metrics, which tests Message Content Delivery, which creates Route Builder.
+MicrometerComponentRouteTest acts as a publisher for observer CamelContext, which tests Metrics, which tests Message Content Delivery, which creates Route Builder.

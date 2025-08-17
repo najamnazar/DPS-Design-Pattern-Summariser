@@ -1,0 +1,1 @@
+SimpleCapacityReplanner acts as a caretaker for memento Clock, which inits String parameter of planQueueName, ReservationSchedulerConfiguration parameter of conf, which plans Plan parameter of plan, List<ReservationDefinition> parameter of contracts.

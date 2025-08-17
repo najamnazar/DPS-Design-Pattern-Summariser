@@ -1,0 +1,1 @@
+RequestExpectationManager acts as an abstract factory for ClientHttpResponse, ResponseActions, which is inherited by AbstractRequestExpectationManager.

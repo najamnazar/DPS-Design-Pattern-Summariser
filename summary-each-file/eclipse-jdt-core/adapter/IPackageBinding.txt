@@ -1,0 +1,1 @@
+IPackageBinding acts as a target for adapter RecoveredPackageBinding, which adapts to IPackageBinding, which adapts to IPackageBinding, which adapts to IPackageBinding, which adapts to IPackageBinding.

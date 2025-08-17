@@ -1,0 +1,2 @@
+CreateCompilationUnitOperation acts as a publisher for observer String, which executes Operation, which gets Compilation Unit, which gets Scheduling Rule, which verifies.
+CreateCompilationUnitOperation acts as a publisher for observer IJavaElement, which executes Operation, which gets Compilation Unit, which gets Scheduling Rule, which verifies.

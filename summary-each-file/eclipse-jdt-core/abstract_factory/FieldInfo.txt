@@ -1,0 +1,1 @@
+FieldInfo acts as a factory for IBinaryField, which overrides.

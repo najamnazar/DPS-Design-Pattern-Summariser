@@ -1,0 +1,1 @@
+RMHAServiceTarget acts as an observer, which gets Address, which gets ZKFCAddress, which gets Fencer, which checks Fencing Configured, which is Auto Failover Enabled.

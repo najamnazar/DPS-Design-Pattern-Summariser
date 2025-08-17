@@ -1,0 +1,2 @@
+NodeUnpublishVolumeResponse acts as an originator for memento NodeUnpublishVolumeResponse, which is inherited by, which news a NodeUnpublishVolumeResponse Instance to.
+NodeUnpublishVolumeResponse acts as a memento, which is inherited by NodeUnpublishVolumeResponsePBImpl, which news Instance.

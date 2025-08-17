@@ -1,0 +1,1 @@
+SharedCacheUploaderService acts as a factory for SCMUploaderProtocol, which overrides notify method of SCMUploaderProtocol, canUpload method of SCMUploaderProtocol.

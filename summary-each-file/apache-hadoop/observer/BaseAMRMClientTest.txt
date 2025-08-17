@@ -1,0 +1,1 @@
+BaseAMRMClientTest acts as a publisher for observer Configuration, which is inherited by TestAMRMClient, TestAMRMClientPlacementConstraints, which setups, which creates Configuration parameter of conf Cluster And Start Application, which teardowns.

@@ -1,0 +1,1 @@
+XmlHelper acts as an originator for memento XPath, which builds a XPath XPath to.

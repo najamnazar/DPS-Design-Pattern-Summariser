@@ -1,0 +1,1 @@
+RecoveredUsesStatement acts as an adaptee for adapter RecoveredModule, which adapts toString method of RecoveredUsesStatement to RecoveredElement, which adapts updatedUsesStatement method of RecoveredUsesStatement to RecoveredElement, which adapts to RecoveredElement.

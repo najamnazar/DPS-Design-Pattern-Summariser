@@ -1,0 +1,1 @@
+InterceptSendToMockEndpointStrategy acts as a product for MockSendToEndpointStrategyFactory, which overrides registerEndpoint method of EndpointStrategy.

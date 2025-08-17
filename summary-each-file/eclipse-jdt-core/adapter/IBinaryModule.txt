@@ -1,0 +1,2 @@
+IBinaryModule acts as a target for adapter ModuleInfo, which adapts to IBinaryModule, which adapts to IBinaryModule, which adapts to IBinaryModule.
+IBinaryModule acts as an adaptee for adapter BinaryModule, which adapts getAnnotations method of IBinaryModule to BinaryMember, AbstractModule, which adapts getTagBits method of IBinaryModule to BinaryMember, AbstractModule, which adapts to BinaryMember, AbstractModule.

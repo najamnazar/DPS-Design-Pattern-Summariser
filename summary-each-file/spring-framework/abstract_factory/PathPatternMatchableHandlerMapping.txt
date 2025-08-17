@@ -1,0 +1,1 @@
+PathPatternMatchableHandlerMapping acts as a factory for MatchableHandlerMapping, which overrides match method of MatchableHandlerMapping.

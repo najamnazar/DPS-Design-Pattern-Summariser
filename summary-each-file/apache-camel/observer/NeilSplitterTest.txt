@@ -1,0 +1,2 @@
+NeilSplitterTest acts as a publisher for observer Service, which gets Cats, which sets String[] parameter of cats Cats, which gets Name, which sets String parameter of name Name, which tests Custom Expression, which tests XPath Expression, which sets Up, which creates Route Builder.
+NeilSplitterTest acts as a publisher for observer CamelContext, which gets Cats, which sets String[] parameter of cats Cats, which gets Name, which sets String parameter of name Name, which tests Custom Expression, which tests XPath Expression, which sets Up, which creates Route Builder.

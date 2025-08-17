@@ -1,0 +1,1 @@
+DebeziumMongodbComponent acts as a caretaker for memento Configuration, which gets Configuration, which sets MongoDbConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, MongoDbConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

@@ -1,0 +1,1 @@
+AnnotatedWithPackageScanFilter acts as an observer, which matches Class<?> parameter of type, which tos String.

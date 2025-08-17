@@ -1,0 +1,1 @@
+ApplicationMasterService acts as a component for decorator AMRMClientRelayer, which overrides registerApplicationMasterApplicationMasterProtocol, finishApplicationMasterApplicationMasterProtocol.

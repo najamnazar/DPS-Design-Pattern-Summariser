@@ -1,0 +1,2 @@
+NewDeadLetterChannelTest acts as a publisher for observer CamelContext, which tests New Dead Letter Channel, which creates Route Builder.
+NewDeadLetterChannelTest acts as a publisher for observer Service, which tests New Dead Letter Channel, which creates Route Builder.

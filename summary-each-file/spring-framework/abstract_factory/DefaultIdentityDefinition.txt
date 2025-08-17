@@ -1,0 +1,2 @@
+DefaultIdentityDefinition acts as a product for TableDefinition, which overrides getTable method of IdentityDefinition, getColumn method of IdentityDefinition.
+DefaultIdentityDefinition acts as a factory for IdentityDefinition, which overrides getTable method of IdentityDefinition, getColumn method of IdentityDefinition.

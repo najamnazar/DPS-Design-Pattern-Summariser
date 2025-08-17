@@ -1,0 +1,5 @@
+MockAgentTest acts as a publisher for observer Service, which tests Mock Agent, which creates Route Builder.
+MockAgentTest acts as a publisher for observer CamelContext, which tests Mock Agent, which creates Route Builder.
+MockAgentTest acts as a publisher for observer FluentProducerTemplate, which tests Mock Agent, which creates Route Builder.
+MockAgentTest acts as a publisher for observer ConsumerTemplate, which tests Mock Agent, which creates Route Builder.
+MockAgentTest acts as a publisher for observer ProducerTemplate, which tests Mock Agent, which creates Route Builder.

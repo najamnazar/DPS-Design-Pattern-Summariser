@@ -1,0 +1,1 @@
+WebHdfs acts as a publisher for observer FileSystem, which creates Configuration parameter of conf Web Hdfs File System.

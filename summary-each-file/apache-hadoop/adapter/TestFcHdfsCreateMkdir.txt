@@ -1,0 +1,1 @@
+TestFcHdfsCreateMkdir acts as an adapter, which adapts to FileContextCreateMkdirBaseTest, which adapts to FileContextCreateMkdirBaseTest, which adapts to FileContextCreateMkdirBaseTest, which adapts to FileContextCreateMkdirBaseTest, which adapts to FileContextCreateMkdirBaseTest.

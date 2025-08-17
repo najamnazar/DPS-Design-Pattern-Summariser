@@ -1,0 +1,2 @@
+ZooKeeperServiceDiscovery acts as a caretaker for memento Configuration, which does Start, which does Stop, which gets String parameter of name Services.
+ZooKeeperServiceDiscovery acts as a caretaker for memento Context, which does Start, which does Stop, which gets String parameter of name Services.

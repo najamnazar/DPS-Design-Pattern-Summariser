@@ -1,0 +1,1 @@
+ClassDeclaration acts as an adaptee for adapter ClassDeclarationImpl, which adapts to TypeDeclarationImpl, which adapts to TypeDeclarationImpl, which adapts to TypeDeclarationImpl.

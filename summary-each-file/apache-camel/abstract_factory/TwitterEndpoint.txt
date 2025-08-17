@@ -1,0 +1,16 @@
+TwitterEndpoint acts as a product for CamelContext, which overrides.
+TwitterEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+TwitterEndpoint acts as a product for InterceptEndpointFactory, which overrides.
+TwitterEndpoint acts as a product for FluentProducerTemplate, which overrides.
+TwitterEndpoint acts as a product for ProducerTemplate, which overrides.
+TwitterEndpoint acts as a product for CamelEvent, which overrides.
+TwitterEndpoint acts as a product for CamelCronService, which overrides.
+TwitterEndpoint acts as a product for Exchange, which overrides.
+TwitterEndpoint acts as a product for DelegateEndpoint, which overrides.
+TwitterEndpoint acts as a product for EndpointProducerResolver, which overrides.
+TwitterEndpoint acts as a product for EndpointAware, which overrides.
+TwitterEndpoint acts as a product for EndpointStrategy, which overrides.
+TwitterEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+TwitterEndpoint acts as a product for ExtendedCamelContext, which overrides.
+TwitterEndpoint acts as an abstract factory for, which is inherited by AbstractTwitterEndpoint.
+TwitterEndpoint acts as a product for Route, which overrides.

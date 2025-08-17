@@ -1,0 +1,1 @@
+ITestObject acts as an abstract factory for TestObject, which is inherited by TestObject.

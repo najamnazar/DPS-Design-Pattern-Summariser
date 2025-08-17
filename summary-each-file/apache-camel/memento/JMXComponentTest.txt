@@ -1,0 +1,1 @@
+JMXComponentTest acts as a caretaker for memento Context, which withes Object Properties, which withes Object Name, which withes Object Name And Object Properties, which withouts Domain, which withouts Object Name And Object Properties.

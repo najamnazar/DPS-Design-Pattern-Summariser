@@ -1,0 +1,6 @@
+HttpComponentsClientHttpResponse acts as a product for ClientHttpRequest, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.
+HttpComponentsClientHttpResponse acts as a product for ResponseCreator, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.
+HttpComponentsClientHttpResponse acts as a factory for ClientHttpResponse, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.
+HttpComponentsClientHttpResponse acts as a product for ClientHttpRequestExecution, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.
+HttpComponentsClientHttpResponse acts as a product for RequestExpectationManager, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.
+HttpComponentsClientHttpResponse acts as a product for ClientHttpRequestInterceptor, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.

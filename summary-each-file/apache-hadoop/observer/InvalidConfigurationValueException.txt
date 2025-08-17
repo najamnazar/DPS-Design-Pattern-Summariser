@@ -1,0 +1,1 @@
+InvalidConfigurationValueException acts as an observer.

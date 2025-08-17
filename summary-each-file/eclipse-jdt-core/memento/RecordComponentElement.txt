@@ -1,0 +1,1 @@
+RecordComponentElement acts as a memento, which is inherited by RecordComponentElementImpl, which gets Accessor, which gets Accessor, which gets Accessor.

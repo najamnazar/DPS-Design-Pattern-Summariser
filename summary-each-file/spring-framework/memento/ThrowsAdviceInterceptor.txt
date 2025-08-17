@@ -1,0 +1,1 @@
+ThrowsAdviceInterceptor acts as a caretaker for memento C, which gets Handler Method Count, which invokes MethodInvocation parameter of mi, which gets Throwable parameter of exception Exception Handler, which invokes MethodInvocation parameter of mi, Throwable parameter of ex, Method parameter of method Handler Method.

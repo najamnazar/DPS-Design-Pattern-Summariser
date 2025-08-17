@@ -1,0 +1,3 @@
+PathCollector acts as an observer, which accepts String parameter of documentPath, SearchPattern parameter of indexRecord, SearchParticipant parameter of participant, AccessRuleSet parameter of access Index Match, which gets Paths.
+PathCollector acts as a publisher for observer String, which accepts String parameter of documentPath, SearchPattern parameter of indexRecord, SearchParticipant parameter of participant, AccessRuleSet parameter of access Index Match, which gets Paths.
+PathCollector acts as a publisher for observer String, which is inherited by, which accepts String parameter of documentPath, SearchPattern parameter of indexRecord, SearchParticipant parameter of participant, AccessRuleSet parameter of access Index Match, which gets Paths.

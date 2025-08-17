@@ -1,0 +1,1 @@
+FileDataSetProducerWithSplitTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts createFileDatasetWithSystemEndOfLine method of FileDataSet to ContextTestSupport, which adapts to ContextTestSupport.

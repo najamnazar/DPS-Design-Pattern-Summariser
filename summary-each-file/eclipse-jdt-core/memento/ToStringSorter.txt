@@ -1,0 +1,2 @@
+ToStringSorter acts as a caretaker for memento String, which compares Pair<T> parameter of other To, which sorts Collection<T> parameter of unSorted.
+ToStringSorter acts as a caretaker for memento S, which compares Pair<T> parameter of other To, which sorts Collection<T> parameter of unSorted.

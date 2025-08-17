@@ -1,0 +1,3 @@
+MetadataReaderFactory acts as a factory method for MetadataReader, which is inherited by SimpleMetadataReaderFactory, MetadataReaderFactory.
+MetadataReaderFactory acts as an abstract product for ClassPathScanningCandidateComponentProvider, which is inherited by SimpleMetadataReaderFactory.
+MetadataReaderFactory acts as a factory for MetadataReaderFactory, which overrides.

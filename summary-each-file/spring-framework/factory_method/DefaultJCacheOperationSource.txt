@@ -1,0 +1,1 @@
+DefaultJCacheOperationSource acts as a factory method for KeyGenerator, which is inherited by AnnotationJCacheOperationSource, CachingConfigurer, CacheAspectSupport, CachingConfigurer, CachingConfigurerSupport.

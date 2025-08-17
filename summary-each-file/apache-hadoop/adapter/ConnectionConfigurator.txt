@@ -1,0 +1,7 @@
+ConnectionConfigurator acts as a target for adapter SSLConnectionConfigurator, which adapts to ConnectionConfigurator.
+ConnectionConfigurator acts as an adaptee for adapter KerberosAuthenticator, which adapts to Authenticator.
+ConnectionConfigurator acts as a target for adapter OAuth2ConnectionConfigurator, which adapts to ConnectionConfigurator.
+ConnectionConfigurator acts as an adaptee for adapter TimelineConnector, which adapts to AbstractService.
+ConnectionConfigurator acts as an adaptee for adapter DelegationTokenAuthenticator, which adapts to Authenticator.
+ConnectionConfigurator acts as a target for adapter SSLFactory, which adapts to ConnectionConfigurator.
+ConnectionConfigurator acts as an adaptee for adapter PseudoAuthenticator, which adapts to Authenticator.

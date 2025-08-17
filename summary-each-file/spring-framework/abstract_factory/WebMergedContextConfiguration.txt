@@ -1,0 +1,1 @@
+WebMergedContextConfiguration acts as a product for TestContextBootstrapper, which overrides equals method of MergedContextConfiguration, hashCode method of MergedContextConfiguration, toString method of MergedContextConfiguration.

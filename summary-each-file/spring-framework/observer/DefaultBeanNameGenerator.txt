@@ -1,0 +1,1 @@
+DefaultBeanNameGenerator acts as an observer, which generates BeanDefinition parameter of definition, BeanDefinitionRegistry parameter of registry Bean Name.

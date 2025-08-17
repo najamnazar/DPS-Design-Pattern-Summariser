@@ -1,0 +1,1 @@
+MethodMatcher acts as an abstract product for AnnotationMatchingPointcut, which is inherited by DynamicMethodMatcher, ControlFlowPointcut, StaticMethodMatcher, TrueMethodMatcher.

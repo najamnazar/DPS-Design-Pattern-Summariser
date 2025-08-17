@@ -1,0 +1,2 @@
+KinesisClientStandardImpl acts as a memento, which gets Kinesis Client.
+KinesisClientStandardImpl acts as a caretaker for memento Configuration, which gets Kinesis Client.

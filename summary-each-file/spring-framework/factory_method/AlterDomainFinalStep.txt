@@ -1,0 +1,1 @@
+AlterDomainFinalStep acts as an abstract product for AlterDomainStep, which is inherited by AlterDomainImpl.

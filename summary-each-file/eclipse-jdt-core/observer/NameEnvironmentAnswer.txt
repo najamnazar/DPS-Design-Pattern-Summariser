@@ -1,0 +1,1 @@
+NameEnvironmentAnswer acts as an observer for publisher FileSystem, DefaultJavaRuntimeEnvironment, NameEnvironmentWithProgress, TestFileSystem, which is inherited by, which gets Binary Type, which gets Compilation Unit, which gets Source Types, which is Binary Type, which is Compilation Unit, which is Source Type.

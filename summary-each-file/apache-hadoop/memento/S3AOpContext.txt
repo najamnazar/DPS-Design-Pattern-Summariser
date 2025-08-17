@@ -1,0 +1,1 @@
+S3AOpContext acts as a caretaker for memento S3AStatisticsContext, which gets Invoker, which gets Stats, which gets Dst File Status.

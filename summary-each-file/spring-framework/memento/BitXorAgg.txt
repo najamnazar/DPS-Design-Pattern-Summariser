@@ -1,0 +1,1 @@
+BitXorAgg acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which bites Field<N> parameter of field, N parameter of mask Check, which accepts Context<?> parameter of ctx Function Name, which $values, which $values Field<T> parameter of newValue, which $constructors, which equals Object parameter of that.

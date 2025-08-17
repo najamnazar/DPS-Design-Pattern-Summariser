@@ -1,0 +1,5 @@
+MailRouteTest acts as a publisher for observer ConsumerTemplate, which tests Send And Receive Mails, which tests Mail Subject With Unicode, which asserts String parameter of name Mailbox Received Messages, which creates Route Builder.
+MailRouteTest acts as a publisher for observer CamelContext, which tests Send And Receive Mails, which tests Mail Subject With Unicode, which asserts String parameter of name Mailbox Received Messages, which creates Route Builder.
+MailRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Send And Receive Mails, which tests Mail Subject With Unicode, which asserts String parameter of name Mailbox Received Messages, which creates Route Builder.
+MailRouteTest acts as a publisher for observer ProducerTemplate, which tests Send And Receive Mails, which tests Mail Subject With Unicode, which asserts String parameter of name Mailbox Received Messages, which creates Route Builder.
+MailRouteTest acts as a publisher for observer Service, which tests Send And Receive Mails, which tests Mail Subject With Unicode, which asserts String parameter of name Mailbox Received Messages, which creates Route Builder.

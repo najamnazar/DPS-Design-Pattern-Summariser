@@ -1,0 +1,1 @@
+GetApplicationReportResponse acts as a publisher for observer ApplicationReport, which is inherited by GetApplicationReportResponsePBImpl, which news ApplicationReport parameter of ApplicationReport Instance, which gets Application Report, which sets ApplicationReport parameter of ApplicationReport Application Report.

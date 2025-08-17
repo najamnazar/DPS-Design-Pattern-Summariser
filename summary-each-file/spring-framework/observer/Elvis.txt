@@ -1,0 +1,2 @@
+Elvis acts as a publisher for observer SpelNodeImpl, which gets ExpressionState parameter of state Value Internal, which tos String AST, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code, which computes Exit Type Descriptor.
+Elvis acts as an observer, which gets ExpressionState parameter of state Value Internal, which tos String AST, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code, which computes Exit Type Descriptor.

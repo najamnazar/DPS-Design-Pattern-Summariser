@@ -1,0 +1,1 @@
+SimpleJmsHeaderMapper acts as an observer, which froms MessageHeaders parameter of headers, jakarta.jms.Message parameter of jmsMessage Headers, which tos jakarta.jms.Message parameter of jmsMessage Headers, which froms String parameter of headerName Header Name, which tos String parameter of propertyName Header Name.

@@ -1,0 +1,1 @@
+ContainerWideInterceptorTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests One, which tests Two.

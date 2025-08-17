@@ -1,0 +1,1 @@
+IInnerClassesAttribute acts as an abstract product for IInnerClassesAttribute, which is inherited by InnerClassesAttribute.

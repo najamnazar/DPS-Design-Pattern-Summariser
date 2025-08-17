@@ -1,0 +1,1 @@
+KubernetesNamespacesEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer.

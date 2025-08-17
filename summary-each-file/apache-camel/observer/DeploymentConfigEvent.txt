@@ -1,0 +1,1 @@
+DeploymentConfigEvent acts as a publisher for observer Action, which is inherited by, which gets Action, which sets Action parameter of action Action, which gets Deployment Config, which sets DeploymentConfig parameter of deploymentConfig Node.

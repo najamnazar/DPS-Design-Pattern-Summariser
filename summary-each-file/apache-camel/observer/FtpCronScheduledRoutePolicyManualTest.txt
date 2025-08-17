@@ -1,0 +1,5 @@
+FtpCronScheduledRoutePolicyManualTest acts as a publisher for observer FluentProducerTemplate, which tests Ftp Cron Scheduled Route Policy Test, which creates Route Builder, which sets Up, which tears Down, which inits Ftp Server.
+FtpCronScheduledRoutePolicyManualTest acts as a publisher for observer CamelContext, which tests Ftp Cron Scheduled Route Policy Test, which creates Route Builder, which sets Up, which tears Down, which inits Ftp Server.
+FtpCronScheduledRoutePolicyManualTest acts as a publisher for observer ConsumerTemplate, which tests Ftp Cron Scheduled Route Policy Test, which creates Route Builder, which sets Up, which tears Down, which inits Ftp Server.
+FtpCronScheduledRoutePolicyManualTest acts as a publisher for observer Service, which tests Ftp Cron Scheduled Route Policy Test, which creates Route Builder, which sets Up, which tears Down, which inits Ftp Server.
+FtpCronScheduledRoutePolicyManualTest acts as a publisher for observer ProducerTemplate, which tests Ftp Cron Scheduled Route Policy Test, which creates Route Builder, which sets Up, which tears Down, which inits Ftp Server.

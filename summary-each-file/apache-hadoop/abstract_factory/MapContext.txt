@@ -1,0 +1,1 @@
+MapContext acts as an abstract factory for InputSplit, which is inherited by.

@@ -1,0 +1,1 @@
+DefaultManagementMBeanAssembler acts as a product for ExtendedCamelContext, which overrides assemble method of ManagementMBeanAssembler.

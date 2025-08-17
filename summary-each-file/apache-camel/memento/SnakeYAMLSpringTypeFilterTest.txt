@@ -1,0 +1,1 @@
+SnakeYAMLSpringTypeFilterTest acts as a caretaker for memento Context, which tests Safe Constructor, which tests Type Constructor, which tests Type Constructor From Definition, which tests Allow All Constructor, which creates Application Context.

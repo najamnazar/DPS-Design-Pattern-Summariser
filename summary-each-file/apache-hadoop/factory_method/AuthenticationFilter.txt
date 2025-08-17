@@ -1,0 +1,2 @@
+AuthenticationFilter acts as a factory for AuthenticationFilter, which overrides destroy method of AuthenticationFilter.
+AuthenticationFilter acts as a factory method for AuthenticationHandler, which is inherited by DelegationTokenAuthenticationHandler, AuthenticationFilter, DelegationTokenAuthenticationHandler, AuthenticationFilter, DelegationTokenAuthenticationHandler.

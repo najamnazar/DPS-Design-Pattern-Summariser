@@ -1,0 +1,1 @@
+ExplicitCamelContextNameStrategy acts as a product for CamelContext, which overrides getName method of CamelContextNameStrategy, getNextName method of CamelContextNameStrategy, isFixedName method of CamelContextNameStrategy.

@@ -1,0 +1,1 @@
+ContainerFailedEvent acts as an observer, which gets Cont Mgr Address.

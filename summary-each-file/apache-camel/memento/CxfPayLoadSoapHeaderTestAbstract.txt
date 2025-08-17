@@ -1,0 +1,2 @@
+CxfPayLoadSoapHeaderTestAbstract acts as a caretaker for memento Context, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.
+CxfPayLoadSoapHeaderTestAbstract acts as a caretaker for memento Producer, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.

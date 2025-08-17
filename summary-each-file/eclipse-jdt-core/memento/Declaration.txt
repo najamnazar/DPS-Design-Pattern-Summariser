@@ -1,0 +1,2 @@
+Declaration acts as an originator for memento SourcePosition, which is inherited by, which gets a SourcePosition Position to.
+Declaration acts as an originator for memento String, which is inherited by, which gets a String Doc Comment to, which gets a String Simple Name to.

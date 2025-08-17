@@ -1,0 +1,1 @@
+PackageFragmentInfo acts as a publisher for observer IModuleDescription, which contains Java Resources, which gets IResource parameter of underlyingResource, PackageFragmentRoot parameter of rootHandle Non Java Resources.

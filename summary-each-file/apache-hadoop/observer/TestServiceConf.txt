@@ -1,0 +1,1 @@
+TestServiceConf acts as a publisher for observer Service, which tests Run Service, which tests Conf Propagation Over Init Bindings, which tests Unbalanced Conf Arg, which tests Conf Arg Missing File, which tests Conf Propagation, which tests Conf Extraction, which tests Dual Conf Args, which tests TestInfo parameter of testInfo Conf Arg Wrong Filetype.

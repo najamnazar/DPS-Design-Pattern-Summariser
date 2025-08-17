@@ -1,0 +1,2 @@
+ITypeHierarchyChangedListener acts as a publisher for observer ITypeHierarchy, which is inherited by TypeHierarchyNotificationTests, which types ITypeHierarchy parameter of typeHierarchy Hierarchy Changed.
+ITypeHierarchyChangedListener acts as an observer for publisher TypeHierarchy, RegionBasedTypeHierarchy, which is inherited by TypeHierarchyNotificationTests, which types ITypeHierarchy parameter of typeHierarchy Hierarchy Changed.

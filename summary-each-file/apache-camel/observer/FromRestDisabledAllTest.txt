@@ -1,0 +1,2 @@
+FromRestDisabledAllTest acts as a publisher for observer CamelContext, which creates Registry, which tests Disabled, which creates Route Builder.
+FromRestDisabledAllTest acts as a publisher for observer Service, which creates Registry, which tests Disabled, which creates Route Builder.

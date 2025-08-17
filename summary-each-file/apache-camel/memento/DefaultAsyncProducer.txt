@@ -1,0 +1,1 @@
+DefaultAsyncProducer acts as a memento, which processes Exchange parameter of exchange Async, which processes Exchange parameter of exchange Async.

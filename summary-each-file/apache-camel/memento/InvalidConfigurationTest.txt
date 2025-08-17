@@ -1,0 +1,2 @@
+InvalidConfigurationTest acts as a caretaker for memento Context, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.
+InvalidConfigurationTest acts as a caretaker for memento Producer, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.

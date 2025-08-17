@@ -1,0 +1,1 @@
+MainRegistry acts as a caretaker for memento Context, which finds Class<T> parameter of type Bindings By Type.

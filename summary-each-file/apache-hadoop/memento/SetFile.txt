@@ -1,0 +1,1 @@
+SetFile acts as a caretaker for memento WritableComparable, which appends WritableComparable parameter of key, which seeks WritableComparable parameter of key, which nexts WritableComparable parameter of key, which gets WritableComparable parameter of key.

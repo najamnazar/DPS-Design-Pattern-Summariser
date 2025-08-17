@@ -1,0 +1,1 @@
+HealthMonitor acts as a factory method for HAServiceProtocol, which is inherited by HAServiceTarget, HAServiceTarget, HAServiceTarget.

@@ -1,0 +1,1 @@
+Status acts as an observer for publisher Server, ServerWebApp, which is inherited by.

@@ -1,0 +1,2 @@
+SpringInterceptSendToEndpointDynamicTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Intercept File, which tests No Intercept File.
+SpringInterceptSendToEndpointDynamicTest acts as a publisher for observer Service, which creates Camel Context, which tests Intercept File, which tests No Intercept File.

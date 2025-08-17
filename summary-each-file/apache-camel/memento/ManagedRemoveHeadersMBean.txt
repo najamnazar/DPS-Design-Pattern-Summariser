@@ -1,0 +1,1 @@
+ManagedRemoveHeadersMBean acts as a memento, which gets Exclude Pattern, which gets Exclude Pattern.

@@ -1,0 +1,5 @@
+MyNettyTest acts as a publisher for observer ProducerTemplate, which gets Next Port, which tests Foo, which creates Route Builder.
+MyNettyTest acts as a publisher for observer ConsumerTemplate, which gets Next Port, which tests Foo, which creates Route Builder.
+MyNettyTest acts as a publisher for observer FluentProducerTemplate, which gets Next Port, which tests Foo, which creates Route Builder.
+MyNettyTest acts as a publisher for observer Service, which gets Next Port, which tests Foo, which creates Route Builder.
+MyNettyTest acts as a publisher for observer CamelContext, which gets Next Port, which tests Foo, which creates Route Builder.

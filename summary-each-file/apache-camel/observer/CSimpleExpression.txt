@@ -1,0 +1,1 @@
+CSimpleExpression acts as an observer for publisher CSimpleLanguage, which is inherited by CSimpleSupport, which gets Language, which ends.

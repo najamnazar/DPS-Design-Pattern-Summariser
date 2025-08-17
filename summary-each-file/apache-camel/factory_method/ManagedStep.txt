@@ -1,0 +1,1 @@
+ManagedStep acts as a product for ManagedCamelContextImpl, which overrides.

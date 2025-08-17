@@ -1,0 +1,1 @@
+PropertySources acts as an observer for publisher PropertySourcesPlaceholderConfigurer, which is inherited by MutablePropertySources.

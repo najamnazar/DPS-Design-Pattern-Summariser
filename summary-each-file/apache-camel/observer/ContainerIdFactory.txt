@@ -1,0 +1,1 @@
+ContainerIdFactory acts as an observer for publisher MasterRoutePolicy, which is inherited by DefaultContainerIdFactory, which news Container Id.

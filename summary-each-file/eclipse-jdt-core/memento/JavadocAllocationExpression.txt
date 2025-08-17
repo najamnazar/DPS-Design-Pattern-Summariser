@@ -1,0 +1,3 @@
+JavadocAllocationExpression acts as a caretaker for memento R, which internals Scope parameter of scope Resolve Type, which is Super Access, which resolves BlockScope parameter of scope Type, which resolves ClassScope parameter of scope Type.
+JavadocAllocationExpression acts as a caretaker for memento Binding, which internals Scope parameter of scope Resolve Type, which is Super Access, which resolves BlockScope parameter of scope Type, which resolves ClassScope parameter of scope Type.
+JavadocAllocationExpression acts as a caretaker for memento E, which internals Scope parameter of scope Resolve Type, which is Super Access, which resolves BlockScope parameter of scope Type, which resolves ClassScope parameter of scope Type.

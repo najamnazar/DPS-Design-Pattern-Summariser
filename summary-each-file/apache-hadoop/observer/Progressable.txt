@@ -1,0 +1,1 @@
+Progressable acts as an observer for publisher BasicTypeSorterBase, MergeSorter, which is inherited by CountingProgressListener, Reporter, ProgressCounter, which progresses.

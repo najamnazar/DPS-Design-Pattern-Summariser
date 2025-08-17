@@ -1,0 +1,2 @@
+ImportContainerInfo acts as an adaptee for adapter DOMToModelPopulator, which adapts to ASTVisitor.
+ImportContainerInfo acts as an adapter, which adapts to JavaElementInfo.

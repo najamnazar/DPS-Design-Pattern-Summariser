@@ -1,0 +1,5 @@
+ZooKeeperEndpointTest acts as a publisher for observer Service, which multiples Zoo Keeper Servers.
+ZooKeeperEndpointTest acts as a publisher for observer CamelContext, which multiples Zoo Keeper Servers.
+ZooKeeperEndpointTest acts as a publisher for observer FluentProducerTemplate, which multiples Zoo Keeper Servers.
+ZooKeeperEndpointTest acts as a publisher for observer ConsumerTemplate, which multiples Zoo Keeper Servers.
+ZooKeeperEndpointTest acts as a publisher for observer ProducerTemplate, which multiples Zoo Keeper Servers.

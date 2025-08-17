@@ -1,0 +1,1 @@
+LegacyErrorHandlerBuilderSupport acts as a memento, which supports Transacted.

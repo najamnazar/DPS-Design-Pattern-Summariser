@@ -1,0 +1,2 @@
+TimelineStore acts as an observer for publisher TimelineACLsManager, which is inherited by LeveldbTimelineStore, EntityGroupFSTimelineStore, RollingLevelDBTimelineStore, KeyValueBasedTimelineStore.
+TimelineStore acts as an observer.

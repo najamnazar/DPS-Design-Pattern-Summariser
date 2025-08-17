@@ -1,0 +1,1 @@
+ExternalWritable acts as an observer, which gets Message, which sets String parameter of message Message, which reads DataInput parameter of in Fields, which writes DataOutput parameter of out, which compares Object parameter of o To, which tos String.

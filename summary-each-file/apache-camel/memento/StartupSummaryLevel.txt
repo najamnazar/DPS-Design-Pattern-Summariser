@@ -1,0 +1,1 @@
+StartupSummaryLevel acts as a memento.

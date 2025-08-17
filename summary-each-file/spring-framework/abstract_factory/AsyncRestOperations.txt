@@ -1,0 +1,1 @@
+AsyncRestOperations acts as an abstract factory for RestOperations, which is inherited by AsyncRestTemplate.

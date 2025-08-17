@@ -1,0 +1,3 @@
+ExecutableElement acts as an abstract product for RecordComponentElement, which is inherited by ExecutableElementImpl.
+ExecutableElement acts as a factory for AnnotationTypeElementDeclaration, which overrides.
+ExecutableElement acts as a factory for TypesUtil, which overrides.

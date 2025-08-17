@@ -1,0 +1,3 @@
+Token acts as an originator for memento Token, which ases a Token Instance Of Token to, which ases a Token Matches Token to, which ases a Token Between Token to.
+Token acts as a caretaker for memento Token, which gets Kind, which is Identifier, which is Numeric Relational Operator, which strings Value, which ases Instance Of Token, which ases Matches Token, which ases Between Token, which tos String.
+Token acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.

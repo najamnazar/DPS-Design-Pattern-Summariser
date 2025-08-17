@@ -1,0 +1,1 @@
+RestRefTest acts as a caretaker for memento Context, which tests Rest Ref Test, which creates Application Context.

@@ -1,0 +1,1 @@
+GetContainerReportRequest acts as a publisher for observer ContainerId, which is inherited by GetContainerReportRequestPBImpl, which news ContainerId parameter of containerId Instance, which gets Container Id, which sets ContainerId parameter of containerId Container Id.

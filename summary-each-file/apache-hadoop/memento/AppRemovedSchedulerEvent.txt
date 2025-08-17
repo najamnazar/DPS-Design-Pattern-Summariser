@@ -1,0 +1,1 @@
+AppRemovedSchedulerEvent acts as a caretaker for memento RMAppState, which gets Application ID, which gets Final State.

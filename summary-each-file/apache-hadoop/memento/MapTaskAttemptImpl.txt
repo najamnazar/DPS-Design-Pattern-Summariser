@@ -1,0 +1,3 @@
+MapTaskAttemptImpl acts as a caretaker for memento TaskType, which creates Remote Task.
+MapTaskAttemptImpl acts as a caretaker for memento TaskAttemptState, which creates Remote Task.
+MapTaskAttemptImpl acts as a caretaker for memento Clock, which creates Remote Task.

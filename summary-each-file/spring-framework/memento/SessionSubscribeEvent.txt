@@ -1,0 +1,1 @@
+SessionSubscribeEvent acts as a caretaker for memento Message.

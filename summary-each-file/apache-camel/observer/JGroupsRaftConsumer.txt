@@ -1,0 +1,4 @@
+JGroupsRaftConsumer acts as a publisher for observer ExceptionHandler, which does Start, which does Stop.
+JGroupsRaftConsumer acts as a publisher for observer HealthCheck, which does Start, which does Stop.
+JGroupsRaftConsumer acts as a publisher for observer Route, which does Start, which does Stop.
+JGroupsRaftConsumer acts as a publisher for observer Exchange, which does Start, which does Stop.

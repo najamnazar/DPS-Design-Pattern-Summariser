@@ -1,0 +1,1 @@
+DOMMember acts as a factory for IDOMMember, which overrides getComment method of IDOMMember, getFlags method of IDOMMember, setComment method of IDOMMember, setFlags method of IDOMMember.

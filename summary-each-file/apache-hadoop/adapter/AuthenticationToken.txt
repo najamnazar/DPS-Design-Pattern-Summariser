@@ -1,0 +1,2 @@
+AuthenticationToken acts as an adaptee for adapter AuthenticationToken, which adapts to AuthToken, which adapts to AuthToken, which adapts to AuthToken, which adapts to AuthToken.
+AuthenticationToken acts as an adapter, which adapts to AuthToken, which adapts to AuthToken, which adapts to AuthToken, which adapts to AuthToken.

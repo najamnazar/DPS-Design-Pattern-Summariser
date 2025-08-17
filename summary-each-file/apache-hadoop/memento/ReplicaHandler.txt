@@ -1,0 +1,1 @@
+ReplicaHandler acts as a caretaker for memento Replica, which closes, which gets Replica.

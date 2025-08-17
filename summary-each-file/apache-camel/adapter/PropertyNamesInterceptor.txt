@@ -1,0 +1,2 @@
+PropertyNamesInterceptor acts as an adaptee for adapter AbstractApiEndpoint, which adapts to ScheduledPollEndpoint.
+PropertyNamesInterceptor acts as an adaptee for adapter AbstractApiConsumer, which adapts to ScheduledPollConsumer.

@@ -1,0 +1,1 @@
+TestListener acts as a publisher for observer Test, which is inherited by TestSuitePanel, which adds Test parameter of test, Throwable parameter of t Error, which adds Test parameter of test, AssertionFailedError parameter of t Failure, which ends Test parameter of test Test, which starts Test parameter of test Test.

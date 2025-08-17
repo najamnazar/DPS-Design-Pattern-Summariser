@@ -1,0 +1,1 @@
+HandlerFunctionAdapter acts as a factory for HandlerAdapter, which overrides supports method of HandlerAdapter, getLastModified method of HandlerAdapter.

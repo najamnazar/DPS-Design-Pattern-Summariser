@@ -1,0 +1,1 @@
+ObjectFactory acts as an adaptee for adapter DefaultBulkApiClient, which adapts to AbstractClientBase, which adapts to AbstractClientBase.

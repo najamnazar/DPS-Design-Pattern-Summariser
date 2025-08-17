@@ -1,0 +1,2 @@
+SetBodyTryCatchIssueTest acts as a publisher for observer Service, which tests Set Body, which creates Route Builder, which does Exchange parameter of exchange Something.
+SetBodyTryCatchIssueTest acts as a publisher for observer CamelContext, which tests Set Body, which creates Route Builder, which does Exchange parameter of exchange Something.

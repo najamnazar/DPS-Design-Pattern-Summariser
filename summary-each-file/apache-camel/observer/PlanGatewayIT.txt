@@ -1,0 +1,1 @@
+PlanGatewayIT acts as a publisher for observer AuthenticationType, which tests All, which creates Route Builder.

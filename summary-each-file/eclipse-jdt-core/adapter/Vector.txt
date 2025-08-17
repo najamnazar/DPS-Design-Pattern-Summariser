@@ -1,0 +1,2 @@
+Vector acts as an adaptee for adapter TestRunner, which adapts to TestRunContext, BaseTestRunner, which adapts to TestRunContext, BaseTestRunner, which adapts to TestRunContext, BaseTestRunner.
+Vector acts as an adaptee for adapter DefaultFailureDetailView, which adapts to FailureDetailView, which adapts to FailureDetailView, which adapts to FailureDetailView.

@@ -1,0 +1,7 @@
+MySatefulRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MySatefulRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MySatefulRouteBuilder acts as a publisher for observer Resource, which configures.
+MySatefulRouteBuilder acts as an observer, which configures.
+MySatefulRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MySatefulRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MySatefulRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.

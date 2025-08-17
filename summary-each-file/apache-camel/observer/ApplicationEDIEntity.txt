@@ -1,0 +1,2 @@
+ApplicationEDIEntity acts as a publisher for observer Header, which gets Edi Message, which writes OutputStream parameter of outstream To.
+ApplicationEDIEntity acts as an observer, which gets Edi Message, which writes OutputStream parameter of outstream To.

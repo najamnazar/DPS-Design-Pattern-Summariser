@@ -1,0 +1,9 @@
+ReduceTaskImpl acts as a publisher for observer TaskAttempt, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskStateInternal, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskEventType, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as an observer, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskAttemptInfo, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskAttemptId, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskImpl, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskAttemptCompletionEventStatus, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a publisher for observer TaskEvent, which gets Max Attempts, which creates Attempt, which gets Type.

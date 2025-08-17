@@ -1,0 +1,3 @@
+RackNode acts as a product for InnerNode, which overrides addChild method of Node.
+RackNode acts as a product for RMNode, which overrides addChild method of Node.
+RackNode acts as a product for ClusterStory, which overrides addChild method of Node.

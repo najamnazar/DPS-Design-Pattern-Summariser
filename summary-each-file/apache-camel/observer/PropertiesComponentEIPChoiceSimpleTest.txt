@@ -1,0 +1,2 @@
+PropertiesComponentEIPChoiceSimpleTest acts as a publisher for observer CamelContext, which tests Choice, which creates Route Builder, which creates Camel Context.
+PropertiesComponentEIPChoiceSimpleTest acts as a publisher for observer Service, which tests Choice, which creates Route Builder, which creates Camel Context.

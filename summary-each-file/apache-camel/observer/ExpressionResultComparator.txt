@@ -1,0 +1,2 @@
+ExpressionResultComparator acts as an observer for publisher StreamResequencerConfig, which is inherited by DefaultExchangeComparator, which sets Expression parameter of expression Expression.
+ExpressionResultComparator acts as a publisher for observer Expression, which is inherited by DefaultExchangeComparator, which sets Expression parameter of expression Expression.

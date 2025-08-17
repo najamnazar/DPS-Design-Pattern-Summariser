@@ -1,0 +1,1 @@
+TypeConverter acts as an abstract product for TypeConverter, which is inherited by TypeConverterSupport, CoreTypeConverterRegistry, SimpleTypeConverter, BulkTypeConverters.

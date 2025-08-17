@@ -1,0 +1,1 @@
+FileRangeImpl acts as a product for TestVectoredReadUtils, which overrides getOffset method of FileRange, getLength method of FileRange, getData method of FileRange, getReference method of FileRange.

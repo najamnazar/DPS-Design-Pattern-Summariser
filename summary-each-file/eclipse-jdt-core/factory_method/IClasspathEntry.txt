@@ -1,0 +1,2 @@
+IClasspathEntry acts as a factory for ClasspathEntry, which overrides.
+IClasspathEntry acts as an abstract product for ClasspathEntry, which is inherited by ClasspathEntry.

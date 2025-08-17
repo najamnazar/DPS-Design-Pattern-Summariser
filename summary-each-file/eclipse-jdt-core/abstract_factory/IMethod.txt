@@ -1,0 +1,4 @@
+IMethod acts as a product for ILocalVariable, which overrides.
+IMethod acts as an abstract factory for, which is inherited by BinaryMethod, SourceMethod.
+IMethod acts as a product for ITypeParameter, which overrides.
+IMethod acts as an abstract product for IMethod, which is inherited by BinaryMethod, BinaryMethod, SourceMethod, SourceMethod.

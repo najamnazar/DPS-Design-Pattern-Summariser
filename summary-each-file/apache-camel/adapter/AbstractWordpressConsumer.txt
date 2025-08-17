@@ -1,0 +1,1 @@
+AbstractWordpressConsumer acts as an adapter, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

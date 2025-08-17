@@ -1,0 +1,1 @@
+DefaultNodeIdFactory acts as a product for ExtendedCamelContext, which overrides createId method of NodeIdFactory.

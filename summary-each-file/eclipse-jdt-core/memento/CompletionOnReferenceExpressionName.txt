@@ -1,0 +1,7 @@
+CompletionOnReferenceExpressionName acts as a caretaker for memento String, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a caretaker for memento Binding, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a caretaker for memento E, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a caretaker for memento C, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a caretaker for memento R, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a caretaker for memento Map, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a caretaker for memento S, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.

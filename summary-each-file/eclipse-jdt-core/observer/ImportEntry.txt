@@ -1,0 +1,1 @@
+ImportEntry acts as an observer for publisher ImportEditor, which is inherited by NewImportEntry, OriginalImportEntry, which is Original, which ases Original Import Entry.

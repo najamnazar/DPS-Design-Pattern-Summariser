@@ -1,0 +1,2 @@
+PolyTypeBinding acts as a product for IPolyExpression, which overrides constantPoolName method of TypeBinding, getPackage method of TypeBinding, qualifiedSourceName method of TypeBinding, sourceName method of TypeBinding.
+PolyTypeBinding acts as a product for Substitution, which overrides constantPoolName method of TypeBinding, getPackage method of TypeBinding, qualifiedSourceName method of TypeBinding, sourceName method of TypeBinding.

@@ -1,0 +1,1 @@
+Expression acts as an abstract product for Expression, which is inherited by CompositeStringExpression, CompositeStringExpression, LiteralExpression, LiteralExpression, SpelExpression, SpelExpression.

@@ -1,0 +1,1 @@
+VerifyTests acts as a caretaker for memento S, which classes String[] parameter of classPath Path To URLs, which loads String parameter of className, String[] parameter of classPath And Run, which mains String[] parameter of args, which runs.

@@ -1,0 +1,2 @@
+FromFileDoNotDeleteFileIfProcessFailsTest acts as a publisher for observer CamelContext, which tests Poll File And Should Not Be Deleted, which creates Route Builder.
+FromFileDoNotDeleteFileIfProcessFailsTest acts as a publisher for observer Service, which tests Poll File And Should Not Be Deleted, which creates Route Builder.

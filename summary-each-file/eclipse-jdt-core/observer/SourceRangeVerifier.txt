@@ -1,0 +1,1 @@
+SourceRangeVerifier acts as an observer, which processes ASTNode parameter of node, which pres ASTNode parameter of node Visit2, which checks ASTNode parameter of parent, ASTNode parameter of previous, ASTNode parameter of child Child.

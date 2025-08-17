@@ -1,0 +1,1 @@
+ThemeChangeInterceptor acts as an observer, which sets String parameter of paramName Param Name, which gets Param Name, which pres HttpServletRequest parameter of request, HttpServletResponse parameter of response, Object parameter of handler Handle.

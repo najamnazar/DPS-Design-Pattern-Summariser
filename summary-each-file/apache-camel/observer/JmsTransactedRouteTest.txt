@@ -1,0 +1,1 @@
+JmsTransactedRouteTest acts as a publisher for observer ArtemisService, which tests Jms Route With Text Message, which gets Component Name, which builds ConnectionFactory parameter of connectionFactory Component, which creates Route Builder.

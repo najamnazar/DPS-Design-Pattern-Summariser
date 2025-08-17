@@ -1,0 +1,1 @@
+HashMapHeadersMapFactory acts as an observer, which news Map, which news Map<String, parameter of Object> Map, which is Map<String, parameter of Object> Instance Of, which is Case Insensitive.

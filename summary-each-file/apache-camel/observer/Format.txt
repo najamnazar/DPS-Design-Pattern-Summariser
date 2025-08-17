@@ -1,0 +1,1 @@
+Format acts as an observer for publisher Jt400Configuration, which is inherited by, which formats T parameter of object, which parses String parameter of string.

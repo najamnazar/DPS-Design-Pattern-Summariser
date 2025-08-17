@@ -1,0 +1,13 @@
+MyScanConfiguration acts as a visitor for element UnitOfWork, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element Channel, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element BeanIntrospection, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element LifecycleStrategy, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element ModelineParser, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element ExtendedExchange, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element ExtendedCamelContext, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element ManagementObjectStrategy, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element ManagementObjectNameStrategy, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element Tracer, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element TypeConverterRegistry, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element InternalProcessorFactory, which overrides, which configures CamelContext parameter of camelContext.
+MyScanConfiguration acts as a visitor for element Route, which overrides, which configures CamelContext parameter of camelContext.

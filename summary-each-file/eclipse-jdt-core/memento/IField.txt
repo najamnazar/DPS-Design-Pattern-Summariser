@@ -1,0 +1,2 @@
+IField acts as an originator for memento IAnnotation.
+IField acts as a memento, which is inherited by BinaryField, SourceField, which is Record Component, which is Record Component, which is Record Component, which is Record Component, which is Record Component, which is Record Component, which is Record Component.

@@ -1,0 +1,1 @@
+XJComponent acts as a product for XsltSaxonComponentBuilderFactory, which overrides.

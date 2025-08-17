@@ -1,0 +1,2 @@
+ListResultSchema acts as an abstract product for ListResultSchema, which is inherited by DfsListResultSchema, BlobListResultSchema.
+ListResultSchema acts as an abstract factory for ListResultSchema, which is inherited by DfsListResultSchema, BlobListResultSchema.

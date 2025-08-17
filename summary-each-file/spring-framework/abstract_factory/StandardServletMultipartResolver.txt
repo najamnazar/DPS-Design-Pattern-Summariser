@@ -1,0 +1,1 @@
+StandardServletMultipartResolver acts as a factory for MultipartResolver, which overrides isMultipart method of MultipartResolver, resolveMultipart method of MultipartResolver, cleanupMultipart method of MultipartResolver.

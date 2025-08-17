@@ -1,0 +1,3 @@
+DataNode acts as a factory for ClientDatanodeProtocol, which overrides getBlockLocalPathInfo method of ClientDatanodeProtocol, submitDiskBalancerPlan method of ClientDatanodeProtocol, cancelDiskBalancePlan method of ClientDatanodeProtocol, queryDiskBalancerPlan method of ClientDatanodeProtocol, getDiskBalancerSetting method of ClientDatanodeProtocol, getVolumeReport method of ClientDatanodeProtocol.
+DataNode acts as a factory for InterDatanodeProtocol, which overrides.
+DataNode acts as a factory for ReconfigurationProtocol, which overrides.

@@ -1,0 +1,3 @@
+BufferingClientHttpResponseWrapper acts as a caretaker for memento C, which gets Status Code, which gets Raw Status Code, which gets Status Text, which gets Headers, which gets Body, which closes.
+BufferingClientHttpResponseWrapper acts as a caretaker for memento ClientHttpResponse, which gets Status Code, which gets Raw Status Code, which gets Status Text, which gets Headers, which gets Body, which closes.
+BufferingClientHttpResponseWrapper acts as a memento, which closes Body, which closes Body, which closes Body, which closes Body, which closes Body, which closes Body.

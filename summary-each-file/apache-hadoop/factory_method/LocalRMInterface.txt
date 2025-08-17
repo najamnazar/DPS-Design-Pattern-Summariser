@@ -1,0 +1,1 @@
+LocalRMInterface acts as a product for TestNodeStatusUpdater, which overrides registerNodeManager method of ResourceTracker, nodeHeartbeat method of ResourceTracker, unRegisterNodeManager method of ResourceTracker.

@@ -1,0 +1,2 @@
+LanguageLoadScriptFromFileCachedTest acts as a publisher for observer CamelContext, which uses Jmx, which tests Language, which tests Clear Cached Script Via Jmx, which creates Route Builder.
+LanguageLoadScriptFromFileCachedTest acts as a publisher for observer Service, which uses Jmx, which tests Language, which tests Clear Cached Script Via Jmx, which creates Route Builder.

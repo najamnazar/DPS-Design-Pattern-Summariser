@@ -1,0 +1,1 @@
+KnownDependenciesResolver acts as a caretaker for memento Context, which loads Known Dependencies, which does String parameter of name Load Known Dependencies, which adds Map<String, parameter of String> Mappings, which mavens String parameter of className Gav For Class.

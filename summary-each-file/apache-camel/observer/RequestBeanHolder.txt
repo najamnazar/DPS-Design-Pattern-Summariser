@@ -1,0 +1,1 @@
+RequestBeanHolder acts as an observer, which sets Processor parameter of errorHandler Error Handler, which gets Options, which sets Map<String, parameter of Object> Options, which gets Exchange parameter of exchange Bean, which gets Processor, which supports Processor, which gets Bean Info, which gets Object parameter of bean Bean Info.

@@ -1,0 +1,1 @@
+ParameterResolutionTests acts as an originator for memento Parameter, which gets a Parameter Parameter to.

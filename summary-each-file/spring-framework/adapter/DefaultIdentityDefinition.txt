@@ -1,0 +1,2 @@
+DefaultIdentityDefinition acts as an adapter, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts getColumn method of ColumnDefinition, getColumn method of ColumnDefinition to AbstractDefinition.
+DefaultIdentityDefinition acts as an adapter, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts getColumn method of IdentityDefinition, getColumn method of IdentityDefinition to AbstractDefinition.

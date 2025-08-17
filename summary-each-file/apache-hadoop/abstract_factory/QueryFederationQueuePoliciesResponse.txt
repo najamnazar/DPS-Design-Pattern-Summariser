@@ -1,0 +1,1 @@
+QueryFederationQueuePoliciesResponse acts as an abstract product for QueryFederationQueuePoliciesResponse, which is inherited by QueryFederationQueuePoliciesResponsePBImpl.

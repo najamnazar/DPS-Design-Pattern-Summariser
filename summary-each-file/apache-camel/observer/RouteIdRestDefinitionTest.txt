@@ -1,0 +1,2 @@
+RouteIdRestDefinitionTest acts as a publisher for observer Service, which creates Registry, which creates Route Builder, which tests Say Hello Bar.
+RouteIdRestDefinitionTest acts as a publisher for observer CamelContext, which creates Registry, which creates Route Builder, which tests Say Hello Bar.

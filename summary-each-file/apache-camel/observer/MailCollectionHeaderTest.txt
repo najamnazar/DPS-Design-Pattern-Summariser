@@ -1,0 +1,5 @@
+MailCollectionHeaderTest acts as a publisher for observer FluentProducerTemplate, which tests Mail Header With Collection, which creates Route Builder.
+MailCollectionHeaderTest acts as a publisher for observer CamelContext, which tests Mail Header With Collection, which creates Route Builder.
+MailCollectionHeaderTest acts as a publisher for observer ConsumerTemplate, which tests Mail Header With Collection, which creates Route Builder.
+MailCollectionHeaderTest acts as a publisher for observer Service, which tests Mail Header With Collection, which creates Route Builder.
+MailCollectionHeaderTest acts as a publisher for observer ProducerTemplate, which tests Mail Header With Collection, which creates Route Builder.

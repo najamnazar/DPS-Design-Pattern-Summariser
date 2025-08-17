@@ -1,0 +1,2 @@
+StreamSourceContentBasedRouterTest acts as a publisher for observer Service, which tests Send Stream Source, which tests Send String Source, which sets Up, which creates Route Builder.
+StreamSourceContentBasedRouterTest acts as a publisher for observer CamelContext, which tests Send Stream Source, which tests Send String Source, which sets Up, which creates Route Builder.

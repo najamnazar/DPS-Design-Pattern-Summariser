@@ -1,0 +1,1 @@
+OnError acts as an observer for publisher AbstractDatabase, PostgresDatabase, AbstractMetaDatabase, FirebirdDatabase, CUBRIDDatabase, SQLiteDatabase, DerbyDatabase, MySQLDatabase, XMLDatabase, H2Database, HSQLDBDatabase, which is inherited by, which values, which froms String parameter of v Value.

@@ -1,0 +1,1 @@
+TaskAttempt acts as an abstract factory for TaskAttemptReport, ContainerId, TaskAttemptId, NodeId, Counters, which is inherited by CompletedTaskAttempt.

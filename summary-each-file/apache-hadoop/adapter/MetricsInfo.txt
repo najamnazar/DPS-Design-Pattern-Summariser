@@ -1,0 +1,1 @@
+MetricsInfo acts as an adaptee for adapter MethodMetric, which adapts to MutableMetric, which adapts to MutableMetric.

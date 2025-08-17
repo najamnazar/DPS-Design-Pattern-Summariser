@@ -1,0 +1,2 @@
+SameRouteAndContextScopedErrorHandlerIssueTest acts as a publisher for observer Service, which tests Same, which creates Route Builder.
+SameRouteAndContextScopedErrorHandlerIssueTest acts as a publisher for observer CamelContext, which tests Same, which creates Route Builder.

@@ -1,0 +1,2 @@
+SendingToAlotOfDifferentDirectEndpointTest acts as a publisher for observer Service, which tests Direct, which creates Route Builder.
+SendingToAlotOfDifferentDirectEndpointTest acts as a publisher for observer CamelContext, which tests Direct, which creates Route Builder.

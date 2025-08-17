@@ -1,0 +1,1 @@
+ContentBasedRouteTest acts as an adapter, which adapts to SpringTestSupport, which adapts to SpringTestSupport, which adapts to SpringTestSupport, which adapts to SpringTestSupport.

@@ -1,0 +1,1 @@
+FileOutputCommitter acts as a product for TaskInputOutputContext, which overrides isRecoverySupported method of OutputCommitter.

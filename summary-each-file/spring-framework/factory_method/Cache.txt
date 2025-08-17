@@ -1,0 +1,1 @@
+Cache acts as an abstract product for NoOpCacheManager, which is inherited by AbstractValueAdaptingCache, TransactionAwareCacheDecorator, NoOpCache.

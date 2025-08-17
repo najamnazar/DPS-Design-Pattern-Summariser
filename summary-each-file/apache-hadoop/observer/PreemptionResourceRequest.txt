@@ -1,0 +1,2 @@
+PreemptionResourceRequest acts as an observer for publisher PreemptionContractPBImpl, which is inherited by PreemptionResourceRequestPBImpl, which news ResourceRequest parameter of req Instance, which gets Resource Request, which sets ResourceRequest parameter of req Resource Request.
+PreemptionResourceRequest acts as a publisher for observer ResourceRequest, which is inherited by PreemptionResourceRequestPBImpl, which news ResourceRequest parameter of req Instance, which gets Resource Request, which sets ResourceRequest parameter of req Resource Request.

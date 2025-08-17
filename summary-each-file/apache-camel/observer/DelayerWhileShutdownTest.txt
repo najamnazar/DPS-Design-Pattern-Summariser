@@ -1,0 +1,2 @@
+DelayerWhileShutdownTest acts as a publisher for observer CamelContext, which tests Sending Message Gets Delayed, which creates Route Builder.
+DelayerWhileShutdownTest acts as a publisher for observer Service, which tests Sending Message Gets Delayed, which creates Route Builder.

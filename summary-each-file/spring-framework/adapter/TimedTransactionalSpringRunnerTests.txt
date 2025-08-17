@@ -1,0 +1,1 @@
+TimedTransactionalSpringRunnerTests acts as a target for adapter TimedTransactionalSpringRuleTests, which adapts to TimedTransactionalSpringRunnerTests, which adapts to TimedTransactionalSpringRunnerTests, which adapts to TimedTransactionalSpringRunnerTests, which adapts to TimedTransactionalSpringRunnerTests.

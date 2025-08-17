@@ -1,0 +1,1 @@
+TaskAttemptStatusUpdateEvent acts as a caretaker for memento TaskAttemptState, which gets Task Attempt Status Ref.

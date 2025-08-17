@@ -1,0 +1,2 @@
+SedaInOutMEPTest acts as a publisher for observer CamelContext, which tests In Out MEP, which creates Route Builder.
+SedaInOutMEPTest acts as a publisher for observer Service, which tests In Out MEP, which creates Route Builder.

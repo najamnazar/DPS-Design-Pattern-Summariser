@@ -1,0 +1,1 @@
+LinuxContainerRuntime acts as an adaptee for adapter LinuxContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor.

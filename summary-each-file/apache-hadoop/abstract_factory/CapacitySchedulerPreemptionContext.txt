@@ -1,0 +1,1 @@
+CapacitySchedulerPreemptionContext acts as an abstract factory for RMContext, ResourceCalculator, Resource, CapacityScheduler, which is inherited by ProportionalCapacityPreemptionPolicy.

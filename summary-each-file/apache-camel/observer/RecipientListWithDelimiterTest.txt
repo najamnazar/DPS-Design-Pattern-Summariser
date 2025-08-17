@@ -1,0 +1,2 @@
+RecipientListWithDelimiterTest acts as a publisher for observer Service, which is Use Route Builder, which tests Recipient List, which tests Recipient List With Delimiter Disabled, which tests Recipient List With Tokenizer, which sends Body.
+RecipientListWithDelimiterTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Recipient List, which tests Recipient List With Delimiter Disabled, which tests Recipient List With Tokenizer, which sends Body.

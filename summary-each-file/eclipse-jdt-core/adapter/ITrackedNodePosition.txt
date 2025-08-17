@@ -1,0 +1,1 @@
+ITrackedNodePosition acts as a target for adapter TrackedNodePosition, which adapts to ITrackedNodePosition, which adapts to ITrackedNodePosition.

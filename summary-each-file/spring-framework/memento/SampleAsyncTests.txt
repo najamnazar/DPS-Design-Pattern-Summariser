@@ -1,0 +1,1 @@
+SampleAsyncTests acts as a caretaker for memento A, which performs Get, which performs Get Many Times, which performs Get With Response Body From File, which verifies.

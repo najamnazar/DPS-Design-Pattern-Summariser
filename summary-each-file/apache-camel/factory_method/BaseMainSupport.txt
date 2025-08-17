@@ -1,0 +1,2 @@
+BaseMainSupport acts as a factory for SagaProcessor, which overrides.
+BaseMainSupport acts as a factory for RoutesConfigurer, which overrides.

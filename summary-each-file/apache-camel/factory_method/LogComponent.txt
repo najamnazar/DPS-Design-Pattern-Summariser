@@ -1,0 +1,1 @@
+LogComponent acts as a factory method for ExchangeFormatter, which is inherited by Tracer, MockComponent, MockComponent.

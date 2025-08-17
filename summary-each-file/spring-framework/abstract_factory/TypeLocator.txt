@@ -1,0 +1,1 @@
+TypeLocator acts as an abstract product for TypeLocator, which is inherited by StandardTypeLocator.

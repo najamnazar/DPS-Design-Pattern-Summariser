@@ -1,0 +1,2 @@
+MergedAnnotations acts as a factory for SimpleMethodMetadata, which overrides.
+MergedAnnotations acts as an abstract product for SimpleMethodMetadata, which is inherited by MergedAnnotationsCollection, TypeMappedAnnotations.

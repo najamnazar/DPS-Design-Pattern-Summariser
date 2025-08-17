@@ -1,0 +1,1 @@
+ZeroCopyHttpOutputMessage acts as an observer, which writes File parameter of file, long parameter of position, long parameter of count With, which writes Path parameter of file, long parameter of position, long parameter of count With.

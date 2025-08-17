@@ -1,0 +1,2 @@
+KafkaConsumerAsyncManualCommitIT acts as a caretaker for memento KafkaManualCommit, which befores, which afters, which creates Route Builder, which tests Last Record Before Commit Header, which kafkas Manual Commit, which tests Resume From The Right Point.
+KafkaConsumerAsyncManualCommitIT acts as a caretaker for memento Producer, which befores, which afters, which creates Route Builder, which tests Last Record Before Commit Header, which kafkas Manual Commit, which tests Resume From The Right Point.

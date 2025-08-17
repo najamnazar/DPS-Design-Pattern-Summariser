@@ -1,0 +1,2 @@
+WindowSpecificationPartitionByStep acts as a product for WindowSpecificationPartitionByStep, which overrides.
+WindowSpecificationPartitionByStep acts as an abstract factory for WindowSpecificationOrderByStep, which is inherited by.

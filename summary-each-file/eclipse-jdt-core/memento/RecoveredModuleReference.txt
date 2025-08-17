@@ -1,0 +1,2 @@
+RecoveredModuleReference acts as a caretaker for memento R, which parses Tree, which sources End, which tos int parameter of tab String, which updates Module Reference, which updates Parse Tree.
+RecoveredModuleReference acts as a caretaker for memento E, which parses Tree, which sources End, which tos int parameter of tab String, which updates Module Reference, which updates Parse Tree.

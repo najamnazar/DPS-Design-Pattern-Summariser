@@ -1,0 +1,2 @@
+SourceModule acts as a publisher for observer String, which gets Flags, which gets Handle Memento Delimiter, which gets Categories, which tos String parameter of lineDelimiter String.
+SourceModule acts as an observer, which gets Flags, which gets Handle Memento Delimiter, which gets Categories, which tos String parameter of lineDelimiter String.

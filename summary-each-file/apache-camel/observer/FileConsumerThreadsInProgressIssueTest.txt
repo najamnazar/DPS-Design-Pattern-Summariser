@@ -1,0 +1,2 @@
+FileConsumerThreadsInProgressIssueTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests File Consumer Threads In Progress Issue, which creates int parameter of number Many Files, which processes Exchange parameter of exchange.
+FileConsumerThreadsInProgressIssueTest acts as a publisher for observer Service, which creates Route Builder, which tests File Consumer Threads In Progress Issue, which creates int parameter of number Many Files, which processes Exchange parameter of exchange.

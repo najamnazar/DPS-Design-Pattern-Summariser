@@ -1,0 +1,1 @@
+DefaultPulsarMessageReceiptFactory acts as a factory for PulsarMessageReceiptFactory, which overrides newInstance method of PulsarMessageReceiptFactory.

@@ -1,0 +1,2 @@
+AnnotationMemberValue acts as a caretaker for memento Binding, which gets Method Binding.
+AnnotationMemberValue acts as a caretaker for memento E, which gets Method Binding.

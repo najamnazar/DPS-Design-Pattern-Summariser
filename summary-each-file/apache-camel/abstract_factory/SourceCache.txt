@@ -1,0 +1,3 @@
+SourceCache acts as a factory for StreamCache, which overrides reset method of StreamCache, writeTo method of StreamCache, copy method of StreamCache, inMemory method of StreamCache, length method of StreamCache.
+SourceCache acts as a product for StreamCachingStrategy, which overrides reset method of StreamCache, writeTo method of StreamCache, copy method of StreamCache, inMemory method of StreamCache, length method of StreamCache.
+SourceCache acts as a product for StreamCache, which overrides reset method of StreamCache, writeTo method of StreamCache, copy method of StreamCache, inMemory method of StreamCache, length method of StreamCache.

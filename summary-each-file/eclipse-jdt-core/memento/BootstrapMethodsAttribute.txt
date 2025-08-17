@@ -1,0 +1,3 @@
+BootstrapMethodsAttribute acts as a caretaker for memento C, which gets Bootstrap Methods, which gets Bootstrap Methods Length.
+BootstrapMethodsAttribute acts as a caretaker for memento Class, which gets Bootstrap Methods, which gets Bootstrap Methods Length.
+BootstrapMethodsAttribute acts as a caretaker for memento E, which gets Bootstrap Methods, which gets Bootstrap Methods Length.

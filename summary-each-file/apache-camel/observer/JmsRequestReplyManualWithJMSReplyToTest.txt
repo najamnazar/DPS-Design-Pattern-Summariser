@@ -1,0 +1,1 @@
+JmsRequestReplyManualWithJMSReplyToTest acts as a publisher for observer ArtemisService, which is Use Route Builder, which does @Header("JMSReplyTo") parameter of Queue, @Body parameter of String Something, which tests Manual Request Reply, which gets Component Name.

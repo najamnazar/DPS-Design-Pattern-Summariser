@@ -1,0 +1,1 @@
+KafkaConsumerStopIT acts as a caretaker for memento Producer, which befores, which afters, which creates Route Builder, which kafkas Client Consumer Closed When Kafka Route Stopped, which gets Kafka Client Consumer, which kafkas org.apache.kafka.clients.consumer.KafkaConsumer parameter of kafkaClientConsumer Client Consumer Closed.

@@ -1,0 +1,2 @@
+UnorderedRequestExpectationManager acts as a caretaker for memento C, which afters Expectations Declared, which matches ClientHttpRequest parameter of request Request, which resets.
+UnorderedRequestExpectationManager acts as a caretaker for memento ClientHttpRequest, which afters Expectations Declared, which matches ClientHttpRequest parameter of request Request, which resets.

@@ -1,0 +1,1 @@
+PropertyValue acts as a caretaker for memento B, which gets Name, which gets Value, which gets Original Property Value, which sets boolean parameter of optional Optional, which is Optional, which is Converted, which sets @Nullable parameter of Object Converted Value, which gets Converted Value, which equals @Nullable parameter of Object, which hashes Code, which tos String.

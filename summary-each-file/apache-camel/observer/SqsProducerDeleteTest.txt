@@ -1,0 +1,5 @@
+SqsProducerDeleteTest acts as a publisher for observer Service, which deletes Message, which creates Route Builder.
+SqsProducerDeleteTest acts as a publisher for observer ProducerTemplate, which deletes Message, which creates Route Builder.
+SqsProducerDeleteTest acts as a publisher for observer CamelContext, which deletes Message, which creates Route Builder.
+SqsProducerDeleteTest acts as a publisher for observer ConsumerTemplate, which deletes Message, which creates Route Builder.
+SqsProducerDeleteTest acts as a publisher for observer FluentProducerTemplate, which deletes Message, which creates Route Builder.

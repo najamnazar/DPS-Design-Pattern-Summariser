@@ -1,0 +1,1 @@
+BeanWiringInfoResolver acts as an observer for publisher BeanConfigurerSupport, which is inherited by AnnotationBeanWiringInfoResolver, ClassNameBeanWiringInfoResolver, which resolves Object parameter of beanInstance Wiring Info.

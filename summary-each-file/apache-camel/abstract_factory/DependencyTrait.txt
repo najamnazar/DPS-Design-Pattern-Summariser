@@ -1,0 +1,2 @@
+DependencyTrait acts as a factory for Trait, which overrides getName method of Trait, parseTrait method of Trait.
+DependencyTrait acts as a product for ModelineParser, which overrides getName method of Trait, parseTrait method of Trait.

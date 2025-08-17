@@ -1,0 +1,1 @@
+RowCountQuery acts as an observer.

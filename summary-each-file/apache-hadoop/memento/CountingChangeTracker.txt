@@ -1,0 +1,1 @@
+CountingChangeTracker acts as a memento, which gets Version Mismatches, which gets Version Mismatches.

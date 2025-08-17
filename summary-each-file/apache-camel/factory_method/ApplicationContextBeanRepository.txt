@@ -1,0 +1,1 @@
+ApplicationContextBeanRepository acts as a product for LocalBeanRepositoryAware, which overrides lookupByNameAndType method of BeanRepository, lookupByName method of BeanRepository, findByType method of BeanRepository, findByTypeWithName method of BeanRepository.

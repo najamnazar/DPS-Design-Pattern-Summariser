@@ -1,0 +1,2 @@
+Statement acts as an adaptee for adapter DefaultStatement.
+Statement acts as an adaptee for adapter DefaultResultSet.

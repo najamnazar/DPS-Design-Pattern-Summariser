@@ -1,0 +1,1 @@
+ForceReply acts as an observer, which gets Force Reply, which sets Boolean parameter of forceReply Force Reply, which gets Selective, which sets Boolean parameter of selective Selective.

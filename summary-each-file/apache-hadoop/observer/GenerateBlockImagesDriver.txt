@@ -1,0 +1,1 @@
+GenerateBlockImagesDriver acts as a publisher for observer Configuration, which runs String[] parameter of args, which mains String[] parameter of args, which is JobContext parameter of context, Path parameter of file Splitable.

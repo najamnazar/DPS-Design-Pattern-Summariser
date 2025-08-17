@@ -1,0 +1,1 @@
+DOMInitializer acts as a product for DOMBuilder, which overrides getBody method of IDOMInitializer, setBody method of IDOMInitializer, setName method of IDOMInitializer.

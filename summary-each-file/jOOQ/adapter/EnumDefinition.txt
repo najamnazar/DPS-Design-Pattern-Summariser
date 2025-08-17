@@ -1,0 +1,1 @@
+EnumDefinition acts as an adaptee for adapter DefaultEnumDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition.

@@ -1,0 +1,1 @@
+CommonTableExpressionImpl acts as a caretaker for memento SQL, which gets Record Type, which declares CTE, which accepts Context<?> parameter of ctx, which fields0s, which fields1s, which $deriveds Column List, which $queries, which $materializeds.

@@ -1,0 +1,2 @@
+DefaultErrorHandlerExchangeFormatterRefTest acts as a publisher for observer CamelContext, which creates Registry, which tests Retry Until, which creates Route Builder, which processes Exchange parameter of exchange, which formats Exchange parameter of exchange.
+DefaultErrorHandlerExchangeFormatterRefTest acts as a publisher for observer Service, which creates Registry, which tests Retry Until, which creates Route Builder, which processes Exchange parameter of exchange, which formats Exchange parameter of exchange.

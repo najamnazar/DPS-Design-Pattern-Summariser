@@ -1,0 +1,1 @@
+PrefetchingStatistics acts as an abstract factory for DurationTracker, which is inherited by EmptyPrefetchingStatistics.

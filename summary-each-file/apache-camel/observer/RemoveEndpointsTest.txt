@@ -1,0 +1,5 @@
+RemoveEndpointsTest acts as a publisher for observer FluentProducerTemplate, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.
+RemoveEndpointsTest acts as a publisher for observer Service, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.
+RemoveEndpointsTest acts as a publisher for observer CamelContext, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.
+RemoveEndpointsTest acts as a publisher for observer ProducerTemplate, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.
+RemoveEndpointsTest acts as a publisher for observer ConsumerTemplate, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.

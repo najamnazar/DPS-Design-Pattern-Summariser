@@ -1,0 +1,1 @@
+NumberFormat acts as an originator for memento String, which formats String.

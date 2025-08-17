@@ -1,0 +1,3 @@
+InvariantsChecker acts as a factory for DefaultAMSProcessor, which overrides.
+InvariantsChecker acts as a factory for RMContext, which overrides.
+InvariantsChecker acts as a product for CapacitySchedulerPreemptionTestBase, which overrides getMonitoringInterval method of SchedulingEditPolicy, getPolicyName method of SchedulingEditPolicy.

@@ -1,0 +1,3 @@
+SimpleJdbcCallOperations acts as a factory for SimpleJdbcCallOperations, which overrides.
+SimpleJdbcCallOperations acts as a factory method for SimpleJdbcCallOperations, which is inherited by SimpleJdbcCallOperations.
+SimpleJdbcCallOperations acts as an abstract product for SimpleJdbcCallOperations, which is inherited by SimpleJdbcCall.

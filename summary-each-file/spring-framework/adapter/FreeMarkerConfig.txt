@@ -1,0 +1,1 @@
+FreeMarkerConfig acts as an adaptee for adapter FreeMarkerConfigurer, which adapts to FreeMarkerConfigurationFactory.

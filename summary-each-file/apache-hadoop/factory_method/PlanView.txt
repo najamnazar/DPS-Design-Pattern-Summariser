@@ -1,0 +1,2 @@
+PlanView acts as a factory for PlanView, which overrides.
+PlanView acts as a factory method for ReservationAllocation, which is inherited by PlanView, PlanView.

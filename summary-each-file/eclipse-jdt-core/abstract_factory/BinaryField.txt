@@ -1,0 +1,2 @@
+BinaryField acts as a product for IType, which overrides getConstant method of IField, getTypeSignature method of IField, isEnumConstant method of IField, isResolved method of IField, isRecordComponent method of IField.
+BinaryField acts as a factory for IField, which overrides getConstant method of IField, getTypeSignature method of IField, isEnumConstant method of IField, isResolved method of IField, isRecordComponent method of IField.

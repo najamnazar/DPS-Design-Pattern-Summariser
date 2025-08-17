@@ -1,0 +1,2 @@
+XMLTableColumnForOrdinalityStep acts as an abstract product for XMLTableColumnForOrdinalityStep, which is inherited by XMLTableColumnPathStep, XMLTableColumnPathStep.
+XMLTableColumnForOrdinalityStep acts as an abstract factory for XMLTableColumnsStep, which is inherited by.

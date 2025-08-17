@@ -1,0 +1,1 @@
+HashtableOfInt acts as a publisher for observer Object, which is inherited by, which contains int parameter of key Key, which gets int parameter of key, which puts int parameter of key, Object parameter of value, which rehashes, which sizes, which tos String.

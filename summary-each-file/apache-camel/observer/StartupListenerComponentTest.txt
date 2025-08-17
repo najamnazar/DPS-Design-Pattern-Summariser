@@ -1,0 +1,2 @@
+StartupListenerComponentTest acts as a publisher for observer Service, which tests Startup Listener Component, which ons CamelContext parameter of context, boolean parameter of alreadyStarted Camel Context Started, which gets Invoked, which creates Route Builder.
+StartupListenerComponentTest acts as a publisher for observer CamelContext, which tests Startup Listener Component, which ons CamelContext parameter of context, boolean parameter of alreadyStarted Camel Context Started, which gets Invoked, which creates Route Builder.

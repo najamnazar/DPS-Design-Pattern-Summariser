@@ -1,0 +1,1 @@
+CxfGreeterMessageCamelHttpRouterTest acts as an adapter, which adapts to CxfGreeterMessageRouterTest, which adapts to CxfGreeterMessageRouterTest, which adapts to CxfGreeterMessageRouterTest, which adapts to CxfGreeterMessageRouterTest.

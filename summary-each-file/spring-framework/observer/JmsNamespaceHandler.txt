@@ -1,0 +1,2 @@
+JmsNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.
+JmsNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.

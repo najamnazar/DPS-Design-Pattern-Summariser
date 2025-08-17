@@ -1,0 +1,1 @@
+Service acts as an abstract product for SystemServiceManagerImpl, which is inherited by BaseService, AbstractService.

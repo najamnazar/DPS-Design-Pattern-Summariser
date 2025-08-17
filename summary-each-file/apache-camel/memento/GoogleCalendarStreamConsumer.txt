@@ -1,0 +1,1 @@
+GoogleCalendarStreamConsumer acts as a caretaker for memento ShutdownRunningTask, which gets Configuration, which gets Client, which gets Endpoint, which polls, which retrieves List<Date> parameter of dateList Last Update Date, which processes Queue<Object> parameter of exchanges Batch.

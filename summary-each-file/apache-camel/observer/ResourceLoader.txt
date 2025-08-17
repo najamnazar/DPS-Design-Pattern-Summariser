@@ -1,0 +1,1 @@
+ResourceLoader acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultResourceLoader, which resolves String parameter of uri Resource.

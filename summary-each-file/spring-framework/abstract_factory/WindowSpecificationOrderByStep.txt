@@ -1,0 +1,3 @@
+WindowSpecificationOrderByStep acts as a product for WindowSpecificationOrderByStep, which overrides.
+WindowSpecificationOrderByStep acts as an abstract product for WindowSpecificationOrderByStep, which is inherited by WindowDefinition, WindowDefinition, WindowDefinition, WindowSpecificationPartitionByStep, WindowSpecificationPartitionByStep, WindowSpecificationPartitionByStep.
+WindowSpecificationOrderByStep acts as an abstract factory for WindowSpecificationRowsStep, which is inherited by.

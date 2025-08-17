@@ -1,0 +1,2 @@
+DebugExceptionBreakpointTest acts as a publisher for observer CamelContext, which sets Up, which tests Debug, which creates Route Builder.
+DebugExceptionBreakpointTest acts as a publisher for observer Service, which sets Up, which tests Debug, which creates Route Builder.

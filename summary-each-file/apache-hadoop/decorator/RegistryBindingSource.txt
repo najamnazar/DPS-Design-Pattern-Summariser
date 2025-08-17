@@ -1,0 +1,1 @@
+RegistryBindingSource acts as a component for CuratorService, which is inherited by MicroZookeeperService, MicroZookeeperService, MicroZookeeperService, MicroZookeeperService.

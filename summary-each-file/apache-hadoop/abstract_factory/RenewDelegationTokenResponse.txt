@@ -1,0 +1,1 @@
+RenewDelegationTokenResponse acts as an abstract product for RenewDelegationTokenResponse, which is inherited by RenewDelegationTokenResponsePBImpl.

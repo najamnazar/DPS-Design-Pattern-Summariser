@@ -1,0 +1,1 @@
+NamedLayoutInfo acts as a publisher for observer InfoUrls, which is inherited by, which gets Name, which sets String parameter of name Name, which gets Urls, which sets InfoUrls parameter of urls Urls.

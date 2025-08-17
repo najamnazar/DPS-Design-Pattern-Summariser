@@ -1,0 +1,1 @@
+JooqLogger acts as a product for LogDelegateFactory, which overrides isTraceEnabled method of Log, trace method of Log, isDebugEnabled method of Log, debug method of Log, isInfoEnabled method of Log, info method of Log, isWarnEnabled method of Log, warn method of Log, error method of Log.

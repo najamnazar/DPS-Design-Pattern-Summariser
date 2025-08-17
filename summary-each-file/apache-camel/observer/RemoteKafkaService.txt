@@ -1,0 +1,1 @@
+RemoteKafkaService acts as an observer, which gets Bootstrap Servers, which registers Properties, which initializes, which shutdowns.

@@ -1,0 +1,2 @@
+AccountEndpointConfiguration acts as a publisher for observer TwilioApiName, which gets Path Sid, which sets String parameter of pathSid Path Sid.
+AccountEndpointConfiguration acts as an observer, which gets Path Sid, which sets String parameter of pathSid Path Sid.

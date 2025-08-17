@@ -1,0 +1,1 @@
+SchemaDefinition acts as an observer for publisher JavaGenerator, ScalaGenerator, KotlinGenerator, which is inherited by, which gets Catalog, which gets Tables, which gets Output Name, which gets Definition Path, which is Default Schema.

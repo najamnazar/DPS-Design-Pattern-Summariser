@@ -1,0 +1,1 @@
+CompositePerformanceCounter acts as a decorator for component PerformanceCounter, which is inherited by.

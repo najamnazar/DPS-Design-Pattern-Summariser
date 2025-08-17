@@ -1,0 +1,5 @@
+MockCatalogTest acts as a publisher for observer ProducerTemplate, which tests Mock Catalog, which creates Route Builder.
+MockCatalogTest acts as a publisher for observer FluentProducerTemplate, which tests Mock Catalog, which creates Route Builder.
+MockCatalogTest acts as a publisher for observer ConsumerTemplate, which tests Mock Catalog, which creates Route Builder.
+MockCatalogTest acts as a publisher for observer CamelContext, which tests Mock Catalog, which creates Route Builder.
+MockCatalogTest acts as a publisher for observer Service, which tests Mock Catalog, which creates Route Builder.

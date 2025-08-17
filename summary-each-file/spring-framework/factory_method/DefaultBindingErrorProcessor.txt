@@ -1,0 +1,1 @@
+DefaultBindingErrorProcessor acts as a product for DataBinder, which overrides processMissingFieldError method of BindingErrorProcessor, processPropertyAccessException method of BindingErrorProcessor.

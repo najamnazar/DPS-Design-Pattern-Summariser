@@ -1,0 +1,1 @@
+RestProducerFactory acts as an originator for memento Producer, which is inherited by, which creates a Producer Producer to.

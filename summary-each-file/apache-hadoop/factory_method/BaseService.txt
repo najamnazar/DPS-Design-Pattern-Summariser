@@ -1,0 +1,1 @@
+BaseService acts as a product for SystemServiceManagerImpl, which overrides init method of Service, postInit method of Service, destroy method of Service, getServiceDependencies method of Service, serverStatusChange method of Service.

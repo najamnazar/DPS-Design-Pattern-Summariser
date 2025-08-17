@@ -1,0 +1,1 @@
+DeletionAsUserContext acts as a publisher for observer Path, which is inherited by, which sets String parameter of user User, which sets Path parameter of subDir Sub Dir, which sets Path... parameter of basedirs Basedirs, which builds, which gets User, which gets Sub Dir, which gets Basedirs.

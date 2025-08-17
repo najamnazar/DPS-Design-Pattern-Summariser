@@ -1,0 +1,2 @@
+SwiftMtDataFormat acts as a product for Model, which overrides.
+SwiftMtDataFormat acts as a product for DataFormatDefinitionAware, which overrides.

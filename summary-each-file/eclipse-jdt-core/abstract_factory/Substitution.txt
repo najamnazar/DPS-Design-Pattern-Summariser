@@ -1,0 +1,1 @@
+Substitution acts as an abstract factory for TypeBinding, which is inherited by ParameterizedGenericMethodBinding, InferenceSubstitution, ParameterizedTypeBinding.

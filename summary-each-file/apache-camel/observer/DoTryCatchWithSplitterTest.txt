@@ -1,0 +1,2 @@
+DoTryCatchWithSplitterTest acts as a publisher for observer Service, which tests Try Catch With Splitter, which creates Route Builder.
+DoTryCatchWithSplitterTest acts as a publisher for observer CamelContext, which tests Try Catch With Splitter, which creates Route Builder.

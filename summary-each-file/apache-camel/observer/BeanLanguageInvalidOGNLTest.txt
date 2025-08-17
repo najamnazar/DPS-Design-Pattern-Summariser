@@ -1,0 +1,2 @@
+BeanLanguageInvalidOGNLTest acts as a publisher for observer CamelContext, which tests Bean Language Invalid OGNL, which is Use Route Builder, which gets Other.
+BeanLanguageInvalidOGNLTest acts as a publisher for observer Service, which tests Bean Language Invalid OGNL, which is Use Route Builder, which gets Other.

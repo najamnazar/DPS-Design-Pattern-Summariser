@@ -1,0 +1,1 @@
+AnnotationConfigWebContextLoaderTests acts as a caretaker for memento C, which configs Must Not Contain Locations.

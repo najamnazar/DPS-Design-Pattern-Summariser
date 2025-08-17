@@ -1,0 +1,1 @@
+JMXConsumerTest acts as a caretaker for memento Context, which sets Up, which attributes Change, which notifications, which users Data, which jmxes Connection, which mbeans Server Notification, which relations Notification, which timers Notification, which waits String parameter of aExpectedFilePath And Assert Message Received.

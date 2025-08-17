@@ -1,0 +1,4 @@
+PathContainer acts as an abstract product for PathContainer, which is inherited by DefaultPathContainer, DefaultPathContainer, RequestPath, RequestPath.
+PathContainer acts as an abstract product for PathContainer, which is inherited by DefaultPathContainer, DefaultPathContainer, DefaultPathContainer, DefaultPathContainer, RequestPath, RequestPath, RequestPath, RequestPath.
+PathContainer acts as an abstract factory for PathContainer, which is inherited by DefaultPathContainer.
+PathContainer acts as an abstract product for PathContainer, which is inherited by DefaultPathContainer, RequestPath.

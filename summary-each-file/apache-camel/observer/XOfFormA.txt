@@ -1,0 +1,2 @@
+XOfFormA acts as an observer, which gets Code, which sets String parameter of code Code, which gets A, which sets String parameter of a A, which gets B, which sets int parameter of b B.
+XOfFormA acts as an observer for publisher AnyOfForm, which is inherited by, which gets Code, which sets String parameter of code Code, which gets A, which sets String parameter of a A, which gets B, which sets int parameter of b B.

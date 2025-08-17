@@ -1,0 +1,2 @@
+DefaultSchema acts as an adaptee for adapter DefaultSchema, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl.
+DefaultSchema acts as an adapter, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl.

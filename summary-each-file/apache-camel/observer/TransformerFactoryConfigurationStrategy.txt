@@ -1,0 +1,1 @@
+TransformerFactoryConfigurationStrategy acts as an observer for publisher XsltEndpoint, XsltSaxonEndpoint, which is inherited by, which configures TransformerFactory parameter of factory, XsltEndpoint parameter of endpoint.

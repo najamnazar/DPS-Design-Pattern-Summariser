@@ -1,0 +1,2 @@
+ThriftConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts initializeServer method of ThriftConfiguration to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+ThriftConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts initializeServer method of ThriftEndpoint to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

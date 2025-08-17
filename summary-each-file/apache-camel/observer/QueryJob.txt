@@ -1,0 +1,7 @@
+QueryJob acts as a publisher for observer JobStateEnum, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.
+QueryJob acts as a publisher for observer ConcurrencyModeEnum, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.
+QueryJob acts as a publisher for observer ColumnDelimiterEnum, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.
+QueryJob acts as a publisher for observer OperationEnum, which is inherited by, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.
+QueryJob acts as a publisher for observer ContentTypeEnum, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.
+QueryJob acts as a publisher for observer LineEndingEnum, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.
+QueryJob acts as a publisher for observer JobTypeEnum, which gets Operation, which sets OperationEnum parameter of operation Operation, which gets Query, which sets String parameter of query Query.

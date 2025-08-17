@@ -1,0 +1,2 @@
+SchedulerMulticastParallelGreedyTest acts as a publisher for observer Service, which tests Greedy, which creates Route Builder.
+SchedulerMulticastParallelGreedyTest acts as a publisher for observer CamelContext, which tests Greedy, which creates Route Builder.

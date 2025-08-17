@@ -1,0 +1,2 @@
+RestComponentTest acts as a caretaker for memento Component, which creates Subjects, which shoulds Resolve Host Parameter As Reference, which shoulds Resolve Host Parameter As Given Value.
+RestComponentTest acts as a caretaker for memento Context, which creates Subjects, which shoulds Resolve Host Parameter As Reference, which shoulds Resolve Host Parameter As Given Value.

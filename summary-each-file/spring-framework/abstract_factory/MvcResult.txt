@@ -1,0 +1,2 @@
+MvcResult acts as an abstract factory for MockHttpServletRequest, which is inherited by DefaultMvcResult, StubMvcResult.
+MvcResult acts as an abstract product for MvcResult, which is inherited by DefaultMvcResult, StubMvcResult.

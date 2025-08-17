@@ -1,0 +1,1 @@
+ShutdownableService acts as an observer, which shutdowns.

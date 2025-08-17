@@ -1,0 +1,2 @@
+JMXMonitorTypeStringMatchesTest acts as a publisher for observer SimpleRegistry, which matches, which builds From URI.
+JMXMonitorTypeStringMatchesTest acts as a publisher for observer DefaultCamelContext, which matches, which builds From URI.

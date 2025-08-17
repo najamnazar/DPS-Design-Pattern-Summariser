@@ -1,0 +1,1 @@
+MultipartFile acts as an abstract product for MockMultipartHttpServletRequest, which is inherited by MockMultipartFile.

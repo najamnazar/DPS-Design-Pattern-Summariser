@@ -1,0 +1,1 @@
+TestReflectionImpl acts as a factory for TestReflection, which overrides getName method of TestReflection, setName method of TestReflection, getAge method of TestReflection, setAge method of TestReflection, increaseAge method of TestReflection, setTestPojo method of TestReflection, getTestPojo method of TestReflection.

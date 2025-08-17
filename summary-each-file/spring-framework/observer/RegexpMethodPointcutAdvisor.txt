@@ -1,0 +1,1 @@
+RegexpMethodPointcutAdvisor acts as a publisher for observer Advice, which sets String parameter of pattern Pattern, which sets String... parameter of patterns Patterns, which gets Pointcut, which creates Pointcut, which tos String.

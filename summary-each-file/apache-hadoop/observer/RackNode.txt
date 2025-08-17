@@ -1,0 +1,2 @@
+RackNode acts as a publisher for observer Node, which adds Node parameter of child Child, which gets Machines In Rack.
+RackNode acts as an observer, which adds Node parameter of child Child, which gets Machines In Rack.

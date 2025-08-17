@@ -1,0 +1,1 @@
+ChmodParser acts as an adaptee for adapter FsShellPermissions, which adapts to FsCommand.

@@ -1,0 +1,1 @@
+TaskAttemptState acts as a memento.

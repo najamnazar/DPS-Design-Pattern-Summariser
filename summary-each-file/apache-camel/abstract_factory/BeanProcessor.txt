@@ -1,0 +1,3 @@
+BeanProcessor acts as a factory for ErrorHandlerAware, which overrides getErrorHandler method of ErrorHandlerAware, setErrorHandler method of ErrorHandlerAware.
+BeanProcessor acts as a product for AnnotationBasedProcessorFactory, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.
+BeanProcessor acts as a product for InternalProcessorFactory, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.

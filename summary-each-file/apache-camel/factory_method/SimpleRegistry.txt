@@ -1,0 +1,1 @@
+SimpleRegistry acts as a product for FromRestConfigurationTest, which overrides bind method of Registry, bind method of Registry, bindAsPrototype method of Registry, unbind method of Registry.

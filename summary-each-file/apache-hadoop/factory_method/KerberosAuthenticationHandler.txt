@@ -1,0 +1,1 @@
+KerberosAuthenticationHandler acts as a product for AuthenticationFilter, which overrides init method of AuthenticationHandler, destroy method of AuthenticationHandler, getType method of AuthenticationHandler, managementOperation method of AuthenticationHandler.

@@ -1,0 +1,2 @@
+IOpenable acts as an abstract product for IOpenable, which is inherited by ITypeRoot, IJavaModel, IPackageFragmentRoot, IJavaProject, Openable, IPackageFragment.
+IOpenable acts as an abstract factory for IBuffer, which is inherited by Openable.

@@ -1,0 +1,1 @@
+MyBar acts as a memento, which gets Name.

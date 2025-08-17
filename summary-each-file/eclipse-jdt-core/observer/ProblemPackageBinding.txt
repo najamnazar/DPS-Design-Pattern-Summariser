@@ -1,0 +1,2 @@
+ProblemPackageBinding acts as a publisher for observer PackageBinding, which problems Id.
+ProblemPackageBinding acts as an observer, which problems Id.

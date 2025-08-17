@@ -1,0 +1,2 @@
+MyServiceProxyTest acts as a caretaker for memento Context, which tests Ok, which tests Kaboom, which tests Checked Exception, which tests Nested Runtime Checked Exception, which tests Nested Checked Checked Exception, which tests Request And Response, which creates Route Builder.
+MyServiceProxyTest acts as a caretaker for memento Producer, which tests Ok, which tests Kaboom, which tests Checked Exception, which tests Nested Runtime Checked Exception, which tests Nested Checked Checked Exception, which tests Request And Response, which creates Route Builder.

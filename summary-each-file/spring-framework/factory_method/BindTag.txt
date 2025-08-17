@@ -1,0 +1,1 @@
+BindTag acts as a factory method for Errors, which is inherited by RequestContext.

@@ -1,0 +1,1 @@
+Trigger acts as an adaptee for adapter ReschedulingRunnable, which adapts to DelegatingErrorHandlingRunnable.

@@ -1,0 +1,2 @@
+BeanInfoAMoreComplexOverloadedTest acts as a publisher for observer Service, which tests Request A, which tests Request B, which tests Ambigious, which does RequestA parameter of request Something, which does RequestB parameter of request Something.
+BeanInfoAMoreComplexOverloadedTest acts as a publisher for observer CamelContext, which tests Request A, which tests Request B, which tests Ambigious, which does RequestA parameter of request Something, which does RequestB parameter of request Something.

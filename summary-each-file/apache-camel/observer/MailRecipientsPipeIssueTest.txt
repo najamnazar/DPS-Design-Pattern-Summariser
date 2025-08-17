@@ -1,0 +1,5 @@
+MailRecipientsPipeIssueTest acts as a publisher for observer Service, which tests Multi Recipients, which creates Route Builder.
+MailRecipientsPipeIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Multi Recipients, which creates Route Builder.
+MailRecipientsPipeIssueTest acts as a publisher for observer ProducerTemplate, which tests Multi Recipients, which creates Route Builder.
+MailRecipientsPipeIssueTest acts as a publisher for observer CamelContext, which tests Multi Recipients, which creates Route Builder.
+MailRecipientsPipeIssueTest acts as a publisher for observer ConsumerTemplate, which tests Multi Recipients, which creates Route Builder.

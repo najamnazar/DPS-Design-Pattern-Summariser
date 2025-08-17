@@ -1,0 +1,5 @@
+OgnlScriptingLanguageTest acts as a publisher for observer CamelContext, which tests Scripting.
+OgnlScriptingLanguageTest acts as a publisher for observer ProducerTemplate, which tests Scripting.
+OgnlScriptingLanguageTest acts as a publisher for observer Service, which tests Scripting.
+OgnlScriptingLanguageTest acts as a publisher for observer FluentProducerTemplate, which tests Scripting.
+OgnlScriptingLanguageTest acts as a publisher for observer ConsumerTemplate, which tests Scripting.

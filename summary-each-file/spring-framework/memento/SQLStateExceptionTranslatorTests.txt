@@ -1,0 +1,1 @@
+SQLStateExceptionTranslatorTests acts as a caretaker for memento SQL, which bads Sql Grammar, which invalids Sql State Code, which malformeds Sql State Codes.

@@ -1,0 +1,4 @@
+PgEventConsumer acts as a publisher for observer Exchange, which does Start, which notifications int parameter of processId, String parameter of channel, String parameter of payload, which does Stop.
+PgEventConsumer acts as a publisher for observer Route, which does Start, which notifications int parameter of processId, String parameter of channel, String parameter of payload, which does Stop.
+PgEventConsumer acts as a publisher for observer ExceptionHandler, which does Start, which notifications int parameter of processId, String parameter of channel, String parameter of payload, which does Stop.
+PgEventConsumer acts as a publisher for observer HealthCheck, which does Start, which notifications int parameter of processId, String parameter of channel, String parameter of payload, which does Stop.

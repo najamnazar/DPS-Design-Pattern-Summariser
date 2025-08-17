@@ -1,0 +1,2 @@
+TimeoutCorrelationManagerSupport acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+TimeoutCorrelationManagerSupport acts as a factory for NettyCamelStateCorrelationManager, which overrides putState method of NettyCamelStateCorrelationManager, removeState method of NettyCamelStateCorrelationManager, getState method of NettyCamelStateCorrelationManager, getState method of NettyCamelStateCorrelationManager.

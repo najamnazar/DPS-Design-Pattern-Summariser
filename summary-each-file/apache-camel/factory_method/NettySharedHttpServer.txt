@@ -1,0 +1,2 @@
+NettySharedHttpServer acts as a factory for NettyHttpComponent, which overrides.
+NettySharedHttpServer acts as a factory for NettyConsumer, which overrides.

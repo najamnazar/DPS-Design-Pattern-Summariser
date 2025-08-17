@@ -1,0 +1,1 @@
+ExchangeStrategies acts as an observer for publisher ExchangeFunctions, which is inherited by, which messages Readers, which messages Writers, which mutates, which withes Defaults, which builders, which empties, which codecses Consumer<ClientCodecConfigurer> parameter of consumer, which builds.

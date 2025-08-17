@@ -1,0 +1,1 @@
+InputStreamReader acts as a memento, which reads char[] parameter of cbuf, int parameter of offset, int parameter of length.

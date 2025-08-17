@@ -1,0 +1,1 @@
+PatchesRepository acts as an observer for publisher GrapeComponent, which is inherited by FilePatchesRepository, which instals String parameter of coordinates, which lists Patches, which clears.

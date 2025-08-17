@@ -1,0 +1,2 @@
+SplitterShareUnitOfWorkCompletionAwareTest acts as a publisher for observer CamelContext, which tests Completion Aware, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which ons Exchange parameter of exchange Completion.
+SplitterShareUnitOfWorkCompletionAwareTest acts as a publisher for observer Service, which tests Completion Aware, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which ons Exchange parameter of exchange Completion.

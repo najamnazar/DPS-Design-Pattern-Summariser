@@ -1,0 +1,1 @@
+NamespaceVisitor acts as an abstract factory for INode, which is inherited by INodeCountVisitor, NamespacePrintVisitor.

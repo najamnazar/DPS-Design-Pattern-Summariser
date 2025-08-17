@@ -1,0 +1,5 @@
+CsvRouteTest acts as a publisher for observer ProducerTemplate, which tests Send Message, which tests Multiple Messages, which tests Preset Config, which tests Un Marshal, which creates Route Builder.
+CsvRouteTest acts as a publisher for observer ConsumerTemplate, which tests Send Message, which tests Multiple Messages, which tests Preset Config, which tests Un Marshal, which creates Route Builder.
+CsvRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Send Message, which tests Multiple Messages, which tests Preset Config, which tests Un Marshal, which creates Route Builder.
+CsvRouteTest acts as a publisher for observer Service, which tests Send Message, which tests Multiple Messages, which tests Preset Config, which tests Un Marshal, which creates Route Builder.
+CsvRouteTest acts as a publisher for observer CamelContext, which tests Send Message, which tests Multiple Messages, which tests Preset Config, which tests Un Marshal, which creates Route Builder.

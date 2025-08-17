@@ -1,0 +1,4 @@
+AbstractJmxTests acts as a caretaker for memento A, which is inherited by, which ons Set Up, which ons Tear Down, which gets Application Context Path, which gets Context.
+AbstractJmxTests acts as a caretaker for memento B, which ons Set Up, which ons Tear Down, which gets Application Context Path, which gets Context.
+AbstractJmxTests acts as a caretaker for memento C, which is inherited by, which ons Set Up, which ons Tear Down, which gets Application Context Path, which gets Context.
+AbstractJmxTests acts as a caretaker for memento ApplicationContext, which is inherited by, which ons Set Up, which ons Tear Down, which gets Application Context Path, which gets Context.

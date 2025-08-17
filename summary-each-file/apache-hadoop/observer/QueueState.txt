@@ -1,0 +1,1 @@
+QueueState acts as an observer for publisher AbstractCSQueue, AbstractLeafQueue, AbstractParentQueue, which is inherited by.

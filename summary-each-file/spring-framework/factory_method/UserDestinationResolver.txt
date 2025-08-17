@@ -1,0 +1,1 @@
+UserDestinationResolver acts as an abstract product for UserDestinationMessageHandler, which is inherited by DefaultUserDestinationResolver.

@@ -1,0 +1,1 @@
+KillJobRequest acts as a publisher for observer JobId, which is inherited by KillJobRequestPBImpl, which gets Job Id, which sets JobId parameter of jobId Job Id.

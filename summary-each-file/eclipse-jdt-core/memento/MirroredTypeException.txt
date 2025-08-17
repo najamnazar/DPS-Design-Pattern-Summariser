@@ -1,0 +1,2 @@
+MirroredTypeException acts as a caretaker for memento S, which gets Type Mirror, which gets Qualified Name.
+MirroredTypeException acts as a caretaker for memento String, which gets Type Mirror, which gets Qualified Name.

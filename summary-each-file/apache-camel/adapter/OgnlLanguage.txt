@@ -1,0 +1,1 @@
+OgnlLanguage acts as an adapter, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts createOgnlExpression method of ScriptingLanguage, createOgnlExpression method of ScriptingLanguage to TypedLanguageSupport, which adapts to TypedLanguageSupport.

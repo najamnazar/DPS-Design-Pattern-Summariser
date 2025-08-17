@@ -1,0 +1,1 @@
+ManagedStepMBean acts as an abstract product for ManagedCamelContextImpl, which is inherited by ManagedStep.

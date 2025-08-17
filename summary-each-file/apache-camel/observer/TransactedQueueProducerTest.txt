@@ -1,0 +1,5 @@
+TransactedQueueProducerTest acts as a publisher for observer ProducerTemplate, which tests Route, which creates Camel Context, which creates Route Builder.
+TransactedQueueProducerTest acts as a publisher for observer CamelContext, which tests Route, which creates Camel Context, which creates Route Builder.
+TransactedQueueProducerTest acts as a publisher for observer Service, which tests Route, which creates Camel Context, which creates Route Builder.
+TransactedQueueProducerTest acts as a publisher for observer ConsumerTemplate, which tests Route, which creates Camel Context, which creates Route Builder.
+TransactedQueueProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Route, which creates Camel Context, which creates Route Builder.

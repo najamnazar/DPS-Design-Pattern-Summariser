@@ -1,0 +1,1 @@
+ManagedConvertBody acts as a caretaker for memento Context, which gets Type, which gets Charset.

@@ -1,0 +1,2 @@
+PollingConsumer acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+PollingConsumer acts as an abstract product for CamelPostProcessorHelperTest, which is inherited by PollingConsumerSupport.

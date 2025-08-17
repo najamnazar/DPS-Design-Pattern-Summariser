@@ -1,0 +1,4 @@
+ExchangeFormatter acts as an adaptee for adapter LogEndpoint, which adapts to ProcessorEndpoint.
+ExchangeFormatter acts as an adaptee for adapter CamelLogProcessor, which adapts to AsyncProcessorSupport.
+ExchangeFormatter acts as an adaptee for adapter MockComponent, which adapts to DefaultComponent.
+ExchangeFormatter acts as an adaptee for adapter LogComponent, which adapts to DefaultComponent.

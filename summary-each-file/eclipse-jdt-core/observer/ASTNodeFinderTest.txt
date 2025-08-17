@@ -1,0 +1,1 @@
+ASTNodeFinderTest acts as a publisher for observer List, which sets Up Suite, which tears Down, which suites, which test0001s, which test0002s, which test0003s, which test0004s, which test0005s, which test0006s, which test0007s, which test0008s, which test0009s.

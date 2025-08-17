@@ -1,0 +1,1 @@
+SessionAttributesHandlerTests acts as a caretaker for memento A, which is Session Attribute, which retrieves Attributes, which cleanups Attributes, which stores Attributes.

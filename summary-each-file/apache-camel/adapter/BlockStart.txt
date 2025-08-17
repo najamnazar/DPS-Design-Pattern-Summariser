@@ -1,0 +1,3 @@
+BlockStart acts as an adaptee for adapter SimpleFunctionStart.
+BlockStart acts as an adaptee for adapter SingleQuoteStart.
+BlockStart acts as an adaptee for adapter DoubleQuoteStart.

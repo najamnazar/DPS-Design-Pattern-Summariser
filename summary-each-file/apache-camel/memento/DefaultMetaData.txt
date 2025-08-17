@@ -1,0 +1,1 @@
+DefaultMetaData acts as a caretaker for memento Context, which gets String parameter of name Attribute, which gets Attributes, which gets String parameter of name, Class<T> parameter of type Attribute, which gets Payload, which gets Class<T> parameter of type Payload.

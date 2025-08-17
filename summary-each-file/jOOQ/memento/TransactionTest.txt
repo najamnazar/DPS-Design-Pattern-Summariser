@@ -1,0 +1,1 @@
+TransactionTest acts as a caretaker for memento Transaction, which teardowns, which tests Explicit Transactions, which tests Declarative Transactions, which testjs OOQTransactions Simple, which testjs OOQTransactions Nested.

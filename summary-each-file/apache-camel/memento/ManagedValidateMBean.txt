@@ -1,0 +1,1 @@
+ManagedValidateMBean acts as a memento, which gets Predicate, which gets Predicate.

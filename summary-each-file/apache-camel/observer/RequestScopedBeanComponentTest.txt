@@ -1,0 +1,2 @@
+RequestScopedBeanComponentTest acts as a publisher for observer CamelContext, which tests Request Scope, which creates Route Builder.
+RequestScopedBeanComponentTest acts as a publisher for observer Service, which tests Request Scope, which creates Route Builder.

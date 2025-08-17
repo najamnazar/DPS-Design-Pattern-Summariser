@@ -1,0 +1,2 @@
+Constraints acts as a caretaker for memento C, which gets Record Type, which gets Schema, which gets Primary Key, which gets Keys, which ases String parameter of alias, which ases Name parameter of alias, which renames String parameter of name, which renames Name parameter of name.
+Constraints acts as a caretaker for memento Constraint, which gets Record Type, which gets Schema, which gets Primary Key, which gets Keys, which ases String parameter of alias, which ases Name parameter of alias, which renames String parameter of name, which renames Name parameter of name.

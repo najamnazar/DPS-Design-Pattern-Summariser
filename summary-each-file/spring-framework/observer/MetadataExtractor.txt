@@ -1,0 +1,1 @@
+MetadataExtractor acts as a publisher for observer MimeType, which is inherited by DefaultMetadataExtractor, which extracts Payload parameter of payload, MimeType parameter of metadataMimeType.

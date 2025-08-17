@@ -1,0 +1,2 @@
+JSONNull acts as a caretaker for memento Null, which renders Context<?> parameter of ctx Content, which accepts Context<?> parameter of ctx.
+JSONNull acts as a caretaker for memento SQL, which renders Context<?> parameter of ctx Content, which accepts Context<?> parameter of ctx.

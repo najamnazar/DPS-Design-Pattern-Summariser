@@ -1,0 +1,1 @@
+FifoPolicy acts as an adapter, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy, which adapts to SchedulingPolicy.

@@ -1,0 +1,1 @@
+CamelRouteConfigurationContextFactoryBean acts as a caretaker for memento Configuration, which gets Object, which gets Object Type, which is Singleton, which gets Route Configurations, which sets List<RouteConfigurationDefinition> parameter of routeConfigurations Route Configurations.

@@ -1,0 +1,1 @@
+AvroTransport acts as an observer for publisher AvroConfiguration, which is inherited by.

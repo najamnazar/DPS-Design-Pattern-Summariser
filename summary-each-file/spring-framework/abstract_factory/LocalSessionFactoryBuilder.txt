@@ -1,0 +1,3 @@
+LocalSessionFactoryBuilder acts as a product for FreeMarkerConfig, which overrides.
+LocalSessionFactoryBuilder acts as a product for Attachable, which overrides.
+LocalSessionFactoryBuilder acts as a product for DAO, which overrides.

@@ -1,0 +1,1 @@
+LocationMessage acts as an observer for publisher LocationMessageRequest, which is inherited by, which gets Longitude, which sets String parameter of longitude Longitude, which gets Latitude, which sets String parameter of latitude Latitude, which gets Name, which sets String parameter of name Name, which gets Address, which sets String parameter of address Address.

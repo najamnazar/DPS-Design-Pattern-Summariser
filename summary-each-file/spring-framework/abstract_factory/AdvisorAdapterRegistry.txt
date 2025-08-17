@@ -1,0 +1,1 @@
+AdvisorAdapterRegistry acts as an abstract factory for Advisor, which is inherited by DefaultAdvisorAdapterRegistry.

@@ -1,0 +1,1 @@
+BaseResource acts as a target for adapter ServiceStatus, which adapts to BaseResource, which adapts to BaseResource, which adapts to BaseResource.

@@ -1,0 +1,2 @@
+Block acts as a product for TestIPC, which overrides.
+Block acts as a factory for TestIPC, which overrides.

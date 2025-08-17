@@ -1,0 +1,1 @@
+AbstractCamelCatalog acts as a factory for CamelCatalog, which overrides.

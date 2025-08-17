@@ -1,0 +1,1 @@
+SqlConsumerOutputTypeSelectOneTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests Select One With Class, which tests Select One Without Class, which tests Select One Single Column, which tests Select One Single Column Count.

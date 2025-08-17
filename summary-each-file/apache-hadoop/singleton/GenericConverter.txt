@@ -1,0 +1,1 @@
+GenericConverter acts as a singleton, which gets a GenericConverter Instance to.

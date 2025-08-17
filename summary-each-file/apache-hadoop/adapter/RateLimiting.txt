@@ -1,0 +1,2 @@
+RateLimiting acts as an adaptee for adapter S3AStoreImpl, which adapts to CompositeService.
+RateLimiting acts as an adaptee for adapter AzureBlobFileSystem, which adapts to FileSystem.

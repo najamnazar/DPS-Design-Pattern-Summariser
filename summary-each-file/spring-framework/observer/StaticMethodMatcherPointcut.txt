@@ -1,0 +1,2 @@
+StaticMethodMatcherPointcut acts as an observer, which sets ClassFilter parameter of classFilter Class Filter, which gets Class Filter, which gets Method Matcher.
+StaticMethodMatcherPointcut acts as a publisher for observer ClassFilter, which is inherited by JCacheOperationSourcePointcut, AbstractRegexpMethodPointcut, CacheOperationSourcePointcut, StaticMethodMatcherPointcutAdvisor, TransactionAttributeSourcePointcut, NameMatchMethodPointcut, which sets ClassFilter parameter of classFilter Class Filter, which gets Class Filter, which gets Method Matcher.

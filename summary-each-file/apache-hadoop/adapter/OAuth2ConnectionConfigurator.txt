@@ -1,0 +1,1 @@
+OAuth2ConnectionConfigurator acts as an adapter, which adapts to ConnectionConfigurator.

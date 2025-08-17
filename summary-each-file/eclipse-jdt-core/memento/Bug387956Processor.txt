@@ -1,0 +1,2 @@
+Bug387956Processor acts as a caretaker for memento R, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.
+Bug387956Processor acts as a caretaker for memento E, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.

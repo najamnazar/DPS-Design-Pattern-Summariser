@@ -1,0 +1,2 @@
+NamespaceHandlerResolver acts as a factory for NamespaceHandlerResolver, which overrides.
+NamespaceHandlerResolver acts as a factory method for NamespaceHandler, which is inherited by NamespaceHandlerResolver.

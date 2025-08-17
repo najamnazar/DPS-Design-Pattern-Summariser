@@ -1,0 +1,1 @@
+SpringJUnit4ConcurrencyTests acts as a caretaker for memento C, which aborts If Long Running Test Group Is Not Enabled, which runs All Tests Concurrently, which counts Class<? parameter of extends Annotated Methods.

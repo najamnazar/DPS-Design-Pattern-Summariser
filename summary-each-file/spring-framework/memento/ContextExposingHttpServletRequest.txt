@@ -1,0 +1,3 @@
+ContextExposingHttpServletRequest acts as a caretaker for memento C, which gets Web Application Context, which gets String parameter of name Attribute, which sets String parameter of name, Object parameter of value Attribute.
+ContextExposingHttpServletRequest acts as a caretaker for memento ApplicationContext, which gets Web Application Context, which gets String parameter of name Attribute, which sets String parameter of name, Object parameter of value Attribute.
+ContextExposingHttpServletRequest acts as a caretaker for memento A, which gets Web Application Context, which gets String parameter of name Attribute, which sets String parameter of name, Object parameter of value Attribute.

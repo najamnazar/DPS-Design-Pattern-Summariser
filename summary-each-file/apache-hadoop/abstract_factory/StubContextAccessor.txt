@@ -1,0 +1,1 @@
+StubContextAccessor acts as a factory for ContextAccessors, which overrides getBucketLocation method of ContextAccessors, getActiveAuditSpan method of ContextAccessors, getRequestFactory method of ContextAccessors.

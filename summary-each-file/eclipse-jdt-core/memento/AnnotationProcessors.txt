@@ -1,0 +1,2 @@
+AnnotationProcessors acts as a caretaker for memento AnnotationProcessor, which processes, which processes, which gets AnnotationProcessor... parameter of aps Composite Annotation Processor, which gets Collection<AnnotationProcessor> parameter of aps Composite Annotation Processor.
+AnnotationProcessors acts as a caretaker for memento List, which processes, which processes, which gets AnnotationProcessor... parameter of aps Composite Annotation Processor, which gets Collection<AnnotationProcessor> parameter of aps Composite Annotation Processor.

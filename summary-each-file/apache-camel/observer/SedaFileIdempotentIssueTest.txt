@@ -1,0 +1,2 @@
+SedaFileIdempotentIssueTest acts as a publisher for observer CamelContext, which sets Up, which creates Registry, which creates Route Builder, which tests Repo, which processes final parameter of Exchange.
+SedaFileIdempotentIssueTest acts as a publisher for observer Service, which sets Up, which creates Registry, which creates Route Builder, which tests Repo, which processes final parameter of Exchange.

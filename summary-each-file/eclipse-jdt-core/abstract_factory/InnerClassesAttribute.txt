@@ -1,0 +1,1 @@
+InnerClassesAttribute acts as a product for IClassFileReader, which overrides getInnerClassAttributesEntries method of IInnerClassesAttribute, getNumberOfClasses method of IInnerClassesAttribute.

@@ -1,0 +1,2 @@
+Component acts as an abstract product for Component, which is inherited by DefaultComponent, DefaultComponent, DefaultComponent, DefaultComponent, DefaultComponent.
+Component acts as an abstract product for Component, which is inherited by DefaultComponent.

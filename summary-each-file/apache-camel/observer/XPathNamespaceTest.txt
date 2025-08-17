@@ -1,0 +1,2 @@
+XPathNamespaceTest acts as a publisher for observer Service, which tests XPath With Namespace, which tests XPath With Namespace Other, which tests XPath With Namespace Different Namespace, which creates Route Builder.
+XPathNamespaceTest acts as a publisher for observer CamelContext, which tests XPath With Namespace, which tests XPath With Namespace Other, which tests XPath With Namespace Different Namespace, which creates Route Builder.

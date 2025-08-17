@@ -1,0 +1,1 @@
+ControllerPublishVolumeEvent acts as an observer.

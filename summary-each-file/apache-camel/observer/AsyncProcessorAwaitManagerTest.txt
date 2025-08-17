@@ -1,0 +1,2 @@
+AsyncProcessorAwaitManagerTest acts as a publisher for observer Service, which tests Async Await, which creates Route Builder.
+AsyncProcessorAwaitManagerTest acts as a publisher for observer CamelContext, which tests Async Await, which creates Route Builder.

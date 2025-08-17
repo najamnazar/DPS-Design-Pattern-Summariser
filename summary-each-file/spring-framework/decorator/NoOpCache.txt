@@ -1,0 +1,1 @@
+NoOpCache acts as a component for decorator TransactionAwareCacheDecorator, which overrides getNameCache, getNativeCacheCache, getCache, getCache, getCache, putIfAbsentCache, evictIfPresentCache, clearCache, invalidateCache.

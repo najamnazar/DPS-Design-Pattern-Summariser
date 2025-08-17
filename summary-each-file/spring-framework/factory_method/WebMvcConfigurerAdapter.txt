@@ -1,0 +1,1 @@
+WebMvcConfigurerAdapter acts as a factory method for MessageCodesResolver, which is inherited by WebMvcConfigurer, AbstractBindingResult, WebMvcConfigurationSupport, WebFluxConfigurationSupport, WebFluxConfigurer, WebMvcConfigurer, AbstractBindingResult.

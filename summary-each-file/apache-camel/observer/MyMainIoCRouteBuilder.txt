@@ -1,0 +1,7 @@
+MyMainIoCRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyMainIoCRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyMainIoCRouteBuilder acts as a publisher for observer Resource, which configures.
+MyMainIoCRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyMainIoCRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyMainIoCRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyMainIoCRouteBuilder acts as an observer, which configures.

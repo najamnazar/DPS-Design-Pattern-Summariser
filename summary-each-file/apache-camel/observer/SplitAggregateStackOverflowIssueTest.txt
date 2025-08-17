@@ -1,0 +1,2 @@
+SplitAggregateStackOverflowIssueTest acts as a publisher for observer CamelContext, which tests Stackoverflow, which creates Route Builder.
+SplitAggregateStackOverflowIssueTest acts as a publisher for observer Service, which tests Stackoverflow, which creates Route Builder.

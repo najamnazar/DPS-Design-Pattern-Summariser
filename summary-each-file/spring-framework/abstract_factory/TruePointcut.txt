@@ -1,0 +1,2 @@
+TruePointcut acts as a factory for Pointcut, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.
+TruePointcut acts as a product for PointcutAdvisor, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.

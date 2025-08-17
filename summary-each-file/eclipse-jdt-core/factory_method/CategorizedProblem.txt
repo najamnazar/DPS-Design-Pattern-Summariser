@@ -1,0 +1,1 @@
+CategorizedProblem acts as a product for ProblemHandler, which overrides.

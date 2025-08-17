@@ -1,0 +1,2 @@
+LoadRouteFromXmlWithNamespaceTest acts as a publisher for observer CamelContext, which tests Load Route With Namespace From Xml.
+LoadRouteFromXmlWithNamespaceTest acts as a publisher for observer Service, which tests Load Route With Namespace From Xml.

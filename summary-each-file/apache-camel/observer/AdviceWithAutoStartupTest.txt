@@ -1,0 +1,2 @@
+AdviceWithAutoStartupTest acts as a publisher for observer Service, which tests Advised, which creates Route Builder.
+AdviceWithAutoStartupTest acts as a publisher for observer CamelContext, which tests Advised, which creates Route Builder.

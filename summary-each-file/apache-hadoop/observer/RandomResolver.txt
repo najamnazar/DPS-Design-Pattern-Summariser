@@ -1,0 +1,1 @@
+RandomResolver acts as an observer, which gets final parameter of String, final parameter of PathLocation First Namespace.

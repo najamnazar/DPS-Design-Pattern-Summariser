@@ -1,0 +1,1 @@
+ScopedProxyMode acts as an observer for publisher ScopeMetadata, which is inherited by.

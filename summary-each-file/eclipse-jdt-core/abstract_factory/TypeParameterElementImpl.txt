@@ -1,0 +1,1 @@
+TypeParameterElementImpl acts as a factory for TypeParameterElement, which overrides getBounds method of TypeParameterElement, getGenericElement method of TypeParameterElement, getEnclosingElement method of TypeParameterElement.

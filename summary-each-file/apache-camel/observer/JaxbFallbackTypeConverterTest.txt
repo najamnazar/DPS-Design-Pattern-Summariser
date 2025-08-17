@@ -1,0 +1,5 @@
+JaxbFallbackTypeConverterTest acts as a publisher for observer FluentProducerTemplate, which tests Jaxb Fallback Type Converter, which creates Route Builder.
+JaxbFallbackTypeConverterTest acts as a publisher for observer CamelContext, which tests Jaxb Fallback Type Converter, which creates Route Builder.
+JaxbFallbackTypeConverterTest acts as a publisher for observer ProducerTemplate, which tests Jaxb Fallback Type Converter, which creates Route Builder.
+JaxbFallbackTypeConverterTest acts as a publisher for observer ConsumerTemplate, which tests Jaxb Fallback Type Converter, which creates Route Builder.
+JaxbFallbackTypeConverterTest acts as a publisher for observer Service, which tests Jaxb Fallback Type Converter, which creates Route Builder.

@@ -1,0 +1,2 @@
+RefreshNodesResourcesResponse acts as a memento, which is inherited by RefreshNodesResourcesResponsePBImpl, which news Instance.
+RefreshNodesResourcesResponse acts as an originator for memento RefreshNodesResourcesResponse, which is inherited by, which news a RefreshNodesResourcesResponse Instance to.

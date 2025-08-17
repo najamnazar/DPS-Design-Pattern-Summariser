@@ -1,0 +1,1 @@
+DataLakeFileOperationIT acts as a caretaker for memento Configuration, which setups, which deletes, which tests @TempDir parameter of Path Get File, which tests @TempDir parameter of Path Download To File, which tests Download Link.

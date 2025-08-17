@@ -1,0 +1,1 @@
+ClientManager acts as an abstract product for ClientManager, which is inherited by S3AStore, ClientManagerImpl.

@@ -1,0 +1,1 @@
+CorsProcessor acts as an adaptee for adapter AbstractHandlerMapping, which adapts to WebApplicationObjectSupport.

@@ -1,0 +1,1 @@
+CamelContextBuilder acts as an abstract factory for CamelContext, which is inherited by.

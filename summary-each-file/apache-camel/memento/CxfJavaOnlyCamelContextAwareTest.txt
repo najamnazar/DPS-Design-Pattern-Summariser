@@ -1,0 +1,2 @@
+CxfJavaOnlyCamelContextAwareTest acts as a caretaker for memento Producer, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.
+CxfJavaOnlyCamelContextAwareTest acts as a caretaker for memento Context, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.

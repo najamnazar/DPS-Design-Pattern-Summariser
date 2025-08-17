@@ -1,0 +1,1 @@
+ReconnectErrorStrategy acts as an observer, which resets, which cans Continue, which handles long parameter of partitionLastOffset, Exception parameter of exception.

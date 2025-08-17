@@ -1,0 +1,1 @@
+NettyCamelStateCorrelationManager acts as an abstract product for NettyConfiguration, which is inherited by DefaultNettyCamelStateCorrelationManager, TimeoutCorrelationManagerSupport.

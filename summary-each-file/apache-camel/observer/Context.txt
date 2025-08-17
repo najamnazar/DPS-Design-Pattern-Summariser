@@ -1,0 +1,1 @@
+Context acts as an observer for publisher PublishableSearchCriteria, PageSearchCriteria, PostSearchCriteria, which is inherited by JndiContext.

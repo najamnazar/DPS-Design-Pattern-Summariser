@@ -1,0 +1,1 @@
+ResourceEditorRegistrar acts as an observer, which registers PropertyEditorRegistry parameter of registry Custom Editors, which does PropertyEditorRegistry parameter of registry, Class<?> parameter of requiredType, PropertyEditor parameter of editor Register Editor.

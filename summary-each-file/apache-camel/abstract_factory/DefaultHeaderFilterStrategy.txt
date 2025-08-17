@@ -1,0 +1,4 @@
+DefaultHeaderFilterStrategy acts as a product for JettyHttpBinding, which overrides applyFilterToCamelHeaders method of HeaderFilterStrategy, applyFilterToExternalHeaders method of HeaderFilterStrategy.
+DefaultHeaderFilterStrategy acts as a product for NettyHttpBinding, which overrides applyFilterToCamelHeaders method of HeaderFilterStrategy, applyFilterToExternalHeaders method of HeaderFilterStrategy.
+DefaultHeaderFilterStrategy acts as a product for HttpBinding, which overrides applyFilterToCamelHeaders method of HeaderFilterStrategy, applyFilterToExternalHeaders method of HeaderFilterStrategy.
+DefaultHeaderFilterStrategy acts as a product for HeaderFilterStrategyAware, which overrides applyFilterToCamelHeaders method of HeaderFilterStrategy, applyFilterToExternalHeaders method of HeaderFilterStrategy.

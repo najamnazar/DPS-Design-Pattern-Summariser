@@ -1,0 +1,2 @@
+Semaphore acts as a caretaker for memento String, which acquires, which acquires long parameter of timeoutMs, which gets Current Pemissions, which releases.
+Semaphore acts as a caretaker for memento S, which acquires, which acquires long parameter of timeoutMs, which gets Current Pemissions, which releases.

@@ -1,0 +1,1 @@
+InMemoryNameEnvironment acts as a component for decorator CodeSnippetEnvironment.

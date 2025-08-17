@@ -1,0 +1,1 @@
+ReservationId acts as an abstract product for ReservationId, which is inherited by ReservationIdPBImpl.

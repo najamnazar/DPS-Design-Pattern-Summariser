@@ -1,0 +1,6 @@
+MockMultipartHttpServletRequest acts as a product for RequestPostProcessor, which overrides.
+MockMultipartHttpServletRequest acts as a product for MvcResult, which overrides.
+MockMultipartHttpServletRequest acts as a product for SmartRequestBuilder, which overrides.
+MockMultipartHttpServletRequest acts as a factory for MultipartHttpServletRequest, which overrides getRequestMethod method of MultipartHttpServletRequest, getRequestHeaders method of MultipartHttpServletRequest, getMultipartHeaders method of MultipartHttpServletRequest.
+MockMultipartHttpServletRequest acts as a product for MultipartResolver, which overrides getRequestMethod method of MultipartHttpServletRequest, getRequestHeaders method of MultipartHttpServletRequest, getMultipartHeaders method of MultipartHttpServletRequest.
+MockMultipartHttpServletRequest acts as a product for RequestBuilder, which overrides.

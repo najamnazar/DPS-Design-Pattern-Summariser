@@ -1,0 +1,1 @@
+DropDatabaseFinalStep acts as a memento, which is inherited by DropDatabaseImpl.

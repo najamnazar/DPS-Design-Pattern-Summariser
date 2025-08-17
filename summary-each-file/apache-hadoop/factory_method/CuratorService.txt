@@ -1,0 +1,3 @@
+CuratorService acts as a product for CuratorService, which overrides supplyBindingInformation method of RegistryBindingSource.
+CuratorService acts as a factory for CuratorService, which overrides supplyBindingInformation method of CuratorService.
+CuratorService acts as a factory method for RegistryBindingSource, which is inherited by CuratorService.

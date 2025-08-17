@@ -1,0 +1,1 @@
+RegressionTestSetup acts as an adapter, which adapts to CompilerTestSetup, which adapts to CompilerTestSetup.

@@ -1,0 +1,2 @@
+InflightRepositoryBrowseFromRouteTest acts as a publisher for observer Service, which creates Camel Context, which tests Inflight, which creates Route Builder.
+InflightRepositoryBrowseFromRouteTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Inflight, which creates Route Builder.

@@ -1,0 +1,1 @@
+MultiSchemeDelegationTokenAuthenticationHandler acts as a decorator for decorator DelegationTokenAuthenticationHandler, which overrides init method of DelegationTokenAuthenticationHandler, authenticate method of DelegationTokenAuthenticationHandler.

@@ -1,0 +1,2 @@
+DefaultRecordUnmapperProvider acts as a caretaker for memento Configuration, which provides Class<? parameter of extends, RecordType<R> parameter of rowType.
+DefaultRecordUnmapperProvider acts as a caretaker for memento C, which provides Class<? parameter of extends, RecordType<R> parameter of rowType.

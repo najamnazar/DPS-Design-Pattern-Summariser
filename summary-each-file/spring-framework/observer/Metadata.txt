@@ -1,0 +1,1 @@
+Metadata acts as an observer for publisher AttributeConverterExtractor, which is inherited by, which ofs Class<?> parameter of type, Class<?>... parameter of stereotypes, which ofs String parameter of type, String... parameter of stereotypes, which ofs String parameter of type, List<String> parameter of stereotypes.

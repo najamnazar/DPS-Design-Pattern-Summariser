@@ -1,0 +1,1 @@
+BranchStatement acts as an observer, which generates BlockScope parameter of currentScope, CodeStream parameter of codeStream Code, which resolves BlockScope parameter of scope.

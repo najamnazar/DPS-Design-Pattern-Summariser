@@ -1,0 +1,1 @@
+CloseableTaskPoolSubmitter acts as an adaptee for adapter AbstractManifestCommitterTest, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase.

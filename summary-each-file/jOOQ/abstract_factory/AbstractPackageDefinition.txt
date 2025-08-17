@@ -1,0 +1,2 @@
+AbstractPackageDefinition acts as a product for ArrayDefinition, which overrides getRoutines method of PackageDefinition, getUDTs method of PackageDefinition, getConstants method of PackageDefinition.
+AbstractPackageDefinition acts as a product for Definition, which overrides getRoutines method of PackageDefinition, getUDTs method of PackageDefinition, getConstants method of PackageDefinition.

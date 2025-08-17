@@ -1,0 +1,2 @@
+JavaModelException acts as a caretaker for memento C, which gets Exception, which gets Java Model Status, which is Does Not Exist, which prints PrintStream parameter of output Stack Trace, which prints PrintWriter parameter of output Stack Trace, which tos String.
+JavaModelException acts as a caretaker for memento E, which gets Exception, which gets Java Model Status, which is Does Not Exist, which prints PrintStream parameter of output Stack Trace, which prints PrintWriter parameter of output Stack Trace, which tos String.

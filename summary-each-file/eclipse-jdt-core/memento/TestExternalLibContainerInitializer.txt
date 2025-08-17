@@ -1,0 +1,3 @@
+TestExternalLibContainerInitializer acts as a caretaker for memento C, which initializes final parameter of IPath, IJavaProject parameter of project.
+TestExternalLibContainerInitializer acts as a caretaker for memento E, which initializes final parameter of IPath, IJavaProject parameter of project.
+TestExternalLibContainerInitializer acts as a caretaker for memento Class, which initializes final parameter of IPath, IJavaProject parameter of project.

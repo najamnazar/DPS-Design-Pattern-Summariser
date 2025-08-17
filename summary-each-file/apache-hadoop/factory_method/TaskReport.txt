@@ -1,0 +1,2 @@
+TaskReport acts as a factory for PartialJob, which overrides.
+TaskReport acts as an abstract product for TestRuntimeEstimators, which is inherited by TaskReportPBImpl.

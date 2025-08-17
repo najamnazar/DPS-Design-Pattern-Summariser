@@ -1,0 +1,2 @@
+ExchangeCreatedTimestampTest acts as a publisher for observer CamelContext, which tests Created Timestamp, which creates Route Builder.
+ExchangeCreatedTimestampTest acts as a publisher for observer Service, which tests Created Timestamp, which creates Route Builder.

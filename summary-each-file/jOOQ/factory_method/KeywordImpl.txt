@@ -1,0 +1,1 @@
+KeywordImpl acts as a product for SortOrder, which overrides.

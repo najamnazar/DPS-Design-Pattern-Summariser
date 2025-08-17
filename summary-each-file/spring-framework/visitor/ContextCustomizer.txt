@@ -1,0 +1,172 @@
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DivideBy, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultVisitListenerProvider, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SpringValidatorAdapter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AsteriskImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SimpleJdbcCall, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JmsMessageEndpointManager, MessageListenerTestContainer, AbstractMessageListenerContainer, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JBossLoadTimeWeaver, InstrumentationLoadTimeWeaver, SimpleLoadTimeWeaver, DefaultContextLoadTimeWeaver, ReflectiveLoadTimeWeaver, TomcatLoadTimeWeaver, GlassFishLoadTimeWeaver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultRSocketStrategies, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by XmlBeanFactoryTestTypes, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by FacesWebRequest, ServletWebRequest, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RevokeImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by WebMvcConfigurerComposite, WebMvcConfigurerAdapter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ScannedGenericBeanDefinition, AnnotatedGenericBeanDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AcceptHeaderLocaleContextResolver, CookieLocaleResolver, FixedLocaleContextResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ResultSetWrappingSqlRowSet, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by IndexImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultSslInfo, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractFormattable, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ResourceDatabasePopulator, CompositeDatabasePopulator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ChannelInterceptorAdapter, ImmutableMessageChannelInterceptor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by LiveBeansView, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StubWebApplicationContext, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by GrantImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ContentNegotiationManager, MappingMediaTypeFileExtensionResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AlterTypeImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DelegatingConnectionFactory, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ReflectivePropertyAccessor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractBeanDefinitionReader, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultRecordListenerProvider, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AnnotationBeanWiringInfoResolver, ClassNameBeanWiringInfoResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SpelNodeImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by PassThroughSourceExtractor, NullSourceExtractor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by WebRequestHandlerInterceptorAdapter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by HandshakeWebSocketService, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractResourceResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StandardTypeLocator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RedirectView, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StandardServletMultipartResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultToStringStyler, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by FormattingConversionService, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by MBeanExporter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DispatcherHandler, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CollationImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StompSubProtocolHandler, AbstractBrokerMessageHandler, EventPublicationInterceptor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RowBetweenCondition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by MyDummyFactory2, MyDummyFactory1, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AttributeAccessorSupport, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by WebApplicationObjectSupport, ViewResolverComposite, ServletContextAwareBean, TestNGSpringContextWebTests, AbstractBasicWacTests, DefaultServletHttpRequestHandler, DefaultHandshakeHandler, ServletContextAttributeExporter, WebSocketHttpRequestHandler, WebSocketTransportHandler, ContentNegotiationManagerFactoryBean, GenericFilterBean, SockJsHttpRequestHandler, JUnit4SpringContextWebTests, ServletContextParameterFactoryBean, WebMvcConfigurationSupport, ServletServerContainerFactoryBean, ServletContextAttributeFactoryBean, DefaultSockJsService, SimpleServletPostProcessor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RowImplN, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by FailFastProblemReporter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultTransportRequest, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SystemProfileValueSource, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultExecuteContext, SimpleExecuteContext, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StubTaskExecutor, SyncTaskExecutor, which customizes a Context to.
+ContextCustomizer acts as an element for visitor ContextCustomizer, which is inherited by MockServerContainerContextCustomizer, DynamicPropertiesContextCustomizer, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultEmbeddableColumnDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by InitDestroyAnnotationBeanPostProcessor, ScheduledAnnotationBeanPostProcessor, ApplicationListenerDetector, PersistenceAnnotationBeanPostProcessor, SimpleServletPostProcessor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractApplicationContext, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by IdTimestampMessageHeaderInitializer, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractPropertyAccessor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultPersistenceUnitManager, LocalContainerEntityManagerFactoryBean, AspectJWeavingEnabler, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by TestObject, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CookieThemeResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractSockJsMessageCodec, HandlersBeanDefinitionParserTests, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by MarshallingMessageConverter, SimpleMessageConverter, MessagingMessageConverter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by NamedBeanHolder, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultWebTestClient, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StandardScriptEvaluator, GroovyScriptEvaluator, BshScriptEvaluator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultUserDestinationResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StaticWebApplicationContext, AbstractRefreshableWebApplicationContext, GenericWebApplicationContext, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by NamedParameterJdbcTemplate, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StubMvcResult, DefaultMvcResult, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AnnotationTestSubBean, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultRequestPath, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractFallbackJCacheOperationSource, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by StandardTypeComparator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by XMLExists, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CreateSequenceImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AutowiredAnnotationBeanPostProcessor, ScriptFactoryPostProcessor, AbstractAutoProxyCreator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by BeanFactoryResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractUriTemplateHandler, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractHandlerMapping, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SpringFlushSynchronization, TransactionalApplicationListenerSynchronization, ResourceHolderSynchronization, ReactiveResourceSynchronization, SpringSessionSynchronization, TransactionSynchronizationAdapter, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ScopeMarker, AbstractQueryPart, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ResponseStatusExceptionResolver, Service, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractValueAdaptingCache, NoOpCache, TransactionAwareCacheDecorator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultCacheAwareContextLoaderDelegate, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CallbackVisitListener, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultSimpUserRegistry, MultiServerUserRegistry, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JdbcTransactionObjectSupport, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultBookService, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by GenericCallMetaDataProvider, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractExecuteScope, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by WithImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultUniqueKeyDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SimpleAliasRegistry, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultCheckConstraintDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CallbackExecuteListener, ExecuteListeners, FetchServerOutputListener, StopWatchListener, ExceptionTranslator, LoggerListener, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractPoolingTargetSource, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DerivedColumnListImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by FixedIntervalReconnectStrategy, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by NamedBindMarkers, IndexedBindMarkers, AnonymousBindMarkers, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SimpleAutowireCandidateResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by QueryPartCollectionView, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DropSchemaImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CaseImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultSequenceDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractMessageChannel, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultAopProxyFactory, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by BeanFactoryDestinationResolver, DynamicDestinationResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by OtherTestBean, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by BasicAuthenticationInterceptor, BasicAuthorizationInterceptor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractSubscriptionRegistry, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by InitDestroyAnnotationBeanPostProcessor, AutowiredAnnotationBeanPostProcessor, ScheduledAnnotationBeanPostProcessor, RequiredAnnotationBeanPostProcessor, ApplicationListenerDetector, JmsListenerAnnotationBeanPostProcessor, PersistenceAnnotationBeanPostProcessor, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by UndertowServerHttpResponse, ReactorClientHttpRequest, ReactorServerHttpResponse, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by EncodedResource, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JavaMailSenderImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by Jaxb2Marshaller, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultAdvisorChainFactory, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AnnotationMatchingPointcut, ControlFlowPointcut, StaticMethodMatcherPointcut, TruePointcut, DynamicMethodMatcherPointcut, ComposablePointcut, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractAsyncClientHttpRequest, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ServletWebSocketHandlerRegistry, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractEntityManagerFactoryBean, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RequestDataValueProcessorWrapper, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractIndexDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ResultsImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultJpaDialect, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultForeignKeyDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RestTemplate, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractEnvironment, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SimpleMetadataAwareAspectInstanceFactory, BeanFactoryAspectInstanceFactory, SingletonMetadataAwareAspectInstanceFactory, LazySingletonAspectInstanceFactoryDecorator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SimpleClientHttpRequestFactory, OkHttp3ClientHttpRequestFactory, Netty4ClientHttpRequestFactory, InterceptingAsyncClientHttpRequestFactory, HttpComponentsAsyncClientHttpRequestFactory, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by FreeMarkerConfigurer, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultMessageCodesResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractMessageChannel, OrderedMessageChannelDecorator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AlterTableImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JCacheConfigurerSupport, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by MessageBrokerBeanDefinitionParserTests, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JettyRequestUpgradeStrategy, ReactorNettyRequestUpgradeStrategy, AbstractStandardUpgradeStrategy, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by InMemoryWebSessionStore, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultEventListenerFactory, TransactionalEventListenerFactory, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractLobHandler, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractRefreshableTargetSource, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by VersionsImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by RequestParamMethodArgumentResolver, CompositeUriComponentsContributor, PathVariableMethodArgumentResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractSqlTypeValue, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ZeroDemandResponse, DelegatingServerHttpResponse, AbstractServerHttpResponse, ServletServerHttpResponse, ServerHttpResponseDecorator, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JmsListenerEndpointRegistry, WebSocketHandlerMapping, SubProtocolWebSocketHandler, ConnectionManagerSupport, WebSocketStompClient, SchedulerFactoryBean, SimpAnnotationMethodMessageHandler, UserDestinationMessageHandler, AbstractBrokerMessageHandler, GenericMessageEndpointManager, AbstractJmsListeningContainer, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultPublishedEvents, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultColumnDefinition, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by WindowSpecificationImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by TestSimpSession, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SpringJUnit4ClassRunnerAppCtxTests, FieldRetrievingFactoryBean, ConcurrentMapCacheFactoryBean, AbstractJmsListeningContainer, ConcreteTransactionalTestNGSpringContextTests, MethodInvokingJobDetailFactoryBean, ScheduledAnnotationBeanPostProcessor, GenericFilterBean, ExecutorConfigurationSupport, JmsMessageEndpointManager, TaskExecutorFactoryBean, ProtectedLifecycleBean, Logic, GeneratedNameBean, AbstractView, DefaultAdvisorAutoProxyCreator, ConcreteTransactionalJUnit4SpringContextTests, AbstractMessageChannel, PlaceholderConfigurerSupport, AbstractMethodMessageHandler, AbstractRefreshableConfigApplicationContext, SimpleTriggerFactoryBean, DerivedTestBean, GroovySpringContextTests, AspectAndAdvicePrecedenceTests, PropertyPathFactoryBean, ServletForwardingController, AbstractHandlerMapping, AbstractEntityManagerFactoryBean, AbstractMessageEndpointFactory, CronTriggerFactoryBean, SchedulerFactoryBean, ServletWrappingController, JobDetailFactoryBean, XmlBeanFactoryTestTypes, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ServletContextResource, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CacheOperation, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by MimeMailMessage, SimpleMailMessage, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by WebSocketServerSockJsSession, AbstractWebSocketSession, WebSocketClientSockJsSession, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CreateTableImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by FlightRecorderStartupStep, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultStompSession, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CallbackTransactionListener, TransactionListeners, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by EmbeddedValueResolver, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by ScheduledAnnotationBeanPostProcessor, ResourceHttpRequestHandler, AbstractFallbackTransactionAttributeSource, MethodMapTransactionAttributeSource, EmbeddedValueResolutionSupport, NameMatchTransactionAttributeSource, SimpAnnotationMethodMessageHandler, RequestMappingHandlerMapping, FormattingConversionServiceFactoryBean, MessageMappingMessageHandler, FormattingConversionService, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractAspectJAdvice, InstantiationModelAwarePointcutAdvisorImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultMigrationContext, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractMarshaller, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by AbstractTransactionStatus, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by DefaultCharsetProvider, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by CatalogImpl, LazyCatalog, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by BeanWrapperImpl, which customizes a Context to.
+ContextCustomizer acts as a visitor for element ContextCustomizer, which is inherited by JettyWebSocketTestServer, UndertowTestServer, TomcatWebSocketTestServer, which customizes a Context to.

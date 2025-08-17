@@ -1,0 +1,4 @@
+Parameterizable acts as a target for adapter TypeElement, which adapts to Parameterizable.
+Parameterizable acts as an adaptee for adapter TypeElement, which adapts to Element, Parameterizable, QualifiedNameable.
+Parameterizable acts as a target for adapter ExecutableElement, which adapts to Parameterizable.
+Parameterizable acts as an adaptee for adapter ExecutableElement, which adapts to Element, Parameterizable.

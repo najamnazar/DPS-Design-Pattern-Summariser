@@ -1,0 +1,1 @@
+RMAppAttemptBlock acts as a factory method for RMAppAttempt, which is inherited by RMApp, RMApp, RMStateStoreTestBase, MockRM, RMStateStoreTestBase, RMStateStoreTestBase, RMStateStoreTestBase, RMStateStoreTestBase.

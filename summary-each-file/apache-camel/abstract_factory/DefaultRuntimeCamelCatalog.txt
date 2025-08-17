@@ -1,0 +1,2 @@
+DefaultRuntimeCamelCatalog acts as a product for ExtendedCamelContext, which overrides componentJSonSchema method of RuntimeCamelCatalog.
+DefaultRuntimeCamelCatalog acts as a factory for RuntimeCamelCatalog, which overrides componentJSonSchema method of RuntimeCamelCatalog.

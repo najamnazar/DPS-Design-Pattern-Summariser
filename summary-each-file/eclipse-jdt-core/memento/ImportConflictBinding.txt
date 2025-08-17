@@ -1,0 +1,2 @@
+ImportConflictBinding acts as a caretaker for memento R, which readables Name, which tos String.
+ImportConflictBinding acts as a caretaker for memento Binding, which readables Name, which tos String.

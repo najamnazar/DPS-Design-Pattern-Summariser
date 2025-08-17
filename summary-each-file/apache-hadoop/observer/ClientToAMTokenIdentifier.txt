@@ -1,0 +1,1 @@
+ClientToAMTokenIdentifier acts as an observer, which gets Application Attempt ID, which gets Client Name, which gets Proto, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which gets Kind, which gets User, which hashes Code, which equals Object parameter of other, which tos String.

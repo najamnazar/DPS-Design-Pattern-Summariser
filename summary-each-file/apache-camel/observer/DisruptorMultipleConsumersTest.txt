@@ -1,0 +1,5 @@
+DisruptorMultipleConsumersTest acts as a publisher for observer ConsumerTemplate, which tests Disruptor Multiple Consumers, which tests Disruptor Multiple Consumers New Added, which creates Route Builder.
+DisruptorMultipleConsumersTest acts as a publisher for observer FluentProducerTemplate, which tests Disruptor Multiple Consumers, which tests Disruptor Multiple Consumers New Added, which creates Route Builder.
+DisruptorMultipleConsumersTest acts as a publisher for observer Service, which tests Disruptor Multiple Consumers, which tests Disruptor Multiple Consumers New Added, which creates Route Builder.
+DisruptorMultipleConsumersTest acts as a publisher for observer ProducerTemplate, which tests Disruptor Multiple Consumers, which tests Disruptor Multiple Consumers New Added, which creates Route Builder.
+DisruptorMultipleConsumersTest acts as a publisher for observer CamelContext, which tests Disruptor Multiple Consumers, which tests Disruptor Multiple Consumers New Added, which creates Route Builder.

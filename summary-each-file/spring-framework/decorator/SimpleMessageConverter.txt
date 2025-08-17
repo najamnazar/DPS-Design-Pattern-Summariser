@@ -1,0 +1,1 @@
+SimpleMessageConverter acts as a component for decorator MessagingMessageConverter.

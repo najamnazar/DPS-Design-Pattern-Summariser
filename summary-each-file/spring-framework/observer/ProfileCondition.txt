@@ -1,0 +1,1 @@
+ProfileCondition acts as an observer, which matches ConditionContext parameter of context, AnnotatedTypeMetadata parameter of metadata.

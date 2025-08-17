@@ -1,0 +1,1 @@
+RMAppEventType acts as an observer for publisher TestAppManager, which is inherited by.

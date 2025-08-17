@@ -1,0 +1,1 @@
+AsteriskAction acts as an adaptee for adapter AsteriskEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

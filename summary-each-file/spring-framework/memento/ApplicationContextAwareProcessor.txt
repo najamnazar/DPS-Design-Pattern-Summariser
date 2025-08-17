@@ -1,0 +1,3 @@
+ApplicationContextAwareProcessor acts as a caretaker for memento C, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which invokes Object parameter of bean Aware Interfaces.
+ApplicationContextAwareProcessor acts as a caretaker for memento A, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which invokes Object parameter of bean Aware Interfaces.
+ApplicationContextAwareProcessor acts as a caretaker for memento ApplicationContext, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which invokes Object parameter of bean Aware Interfaces.

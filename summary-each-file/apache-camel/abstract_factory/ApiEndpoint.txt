@@ -1,0 +1,15 @@
+ApiEndpoint acts as a product for Exchange, which overrides.
+ApiEndpoint acts as a product for CamelEvent, which overrides.
+ApiEndpoint acts as a product for ExtendedCamelContext, which overrides.
+ApiEndpoint acts as a product for Route, which overrides.
+ApiEndpoint acts as a product for DelegateEndpoint, which overrides.
+ApiEndpoint acts as a product for EndpointProducerResolver, which overrides.
+ApiEndpoint acts as a product for CamelCronService, which overrides.
+ApiEndpoint acts as a product for FluentProducerTemplate, which overrides.
+ApiEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+ApiEndpoint acts as a product for EndpointStrategy, which overrides.
+ApiEndpoint acts as a product for ProducerTemplate, which overrides.
+ApiEndpoint acts as a product for EndpointAware, which overrides.
+ApiEndpoint acts as a product for CamelContext, which overrides.
+ApiEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+ApiEndpoint acts as a product for InterceptEndpointFactory, which overrides.

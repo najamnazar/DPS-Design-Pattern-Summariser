@@ -1,0 +1,4 @@
+BatchBindStep acts as an abstract factory for BatchBindStep, which is inherited by BatchSingle.
+BatchBindStep acts as an abstract product for BatchBindStep, which is inherited by BatchSingle, BatchSingle.
+BatchBindStep acts as an abstract product for BatchBindStep, which is inherited by BatchSingle, BatchSingle, BatchSingle, BatchSingle.
+BatchBindStep acts as a product for DSLContext, which overrides.

@@ -1,0 +1,4 @@
+FormatterBugs18Tests acts as a caretaker for memento Map, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.
+FormatterBugs18Tests acts as a caretaker for memento String, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.
+FormatterBugs18Tests acts as a caretaker for memento C, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.
+FormatterBugs18Tests acts as a caretaker for memento S, which suites, which sets Up Suite, which tests Bug426520a, which tests Bug426520b, which tests Bug425040, which tests Bug433177, which tests Bug434821.

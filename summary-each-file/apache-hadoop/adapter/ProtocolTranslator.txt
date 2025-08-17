@@ -1,0 +1,14 @@
+ProtocolTranslator acts as a target for adapter ClientDatanodeProtocolTranslatorPB, which adapts to ProtocolTranslator.
+ProtocolTranslator acts as an adaptee for adapter RouterAdminProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolTranslator acts as an adaptee for adapter ClientNamenodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolTranslator acts as an adaptee for adapter HAServiceProtocolClientSideTranslatorPB, which adapts to HAServiceProtocol, ProtocolTranslator.
+ProtocolTranslator acts as an adaptee for adapter NamenodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator, NamenodeProtocol.
+ProtocolTranslator acts as an adaptee for adapter ZKFCProtocolClientSideTranslatorPB, which adapts to ZKFCProtocol, ProtocolTranslator.
+ProtocolTranslator acts as a target for adapter ReconfigurationProtocolTranslatorPB, which adapts to ProtocolTranslator.
+ProtocolTranslator acts as a target for adapter NamenodeProtocolTranslatorPB, which adapts to ProtocolTranslator.
+ProtocolTranslator acts as an adaptee for adapter ReconfigurationProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolTranslator acts as an adaptee for adapter ClientDatanodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolTranslator acts as a target for adapter HAServiceProtocolClientSideTranslatorPB, which adapts to ProtocolTranslator.
+ProtocolTranslator acts as a target for adapter ZKFCProtocolClientSideTranslatorPB, which adapts to ProtocolTranslator.
+ProtocolTranslator acts as a target for adapter ClientNamenodeProtocolTranslatorPB, which adapts to ProtocolTranslator.
+ProtocolTranslator acts as a target for adapter RouterAdminProtocolTranslatorPB, which adapts to ProtocolTranslator.

@@ -1,0 +1,2 @@
+DeadLetterChannelRedeliveryDelayPatternTest acts as a publisher for observer CamelContext, which tests Delay Pattern Test, which creates Route Builder.
+DeadLetterChannelRedeliveryDelayPatternTest acts as a publisher for observer Service, which tests Delay Pattern Test, which creates Route Builder.

@@ -1,0 +1,3 @@
+JavaSearchDocument acts as an observer, which gets Byte Contents, which gets Char Contents, which gets Encoding, which gets File, which tos String.
+JavaSearchDocument acts as a publisher for observer SourceElementParser, which gets Byte Contents, which gets Char Contents, which gets Encoding, which gets File, which tos String.
+JavaSearchDocument acts as a publisher for observer Index, which gets Byte Contents, which gets Char Contents, which gets Encoding, which gets File, which tos String.

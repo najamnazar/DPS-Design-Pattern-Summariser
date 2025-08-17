@@ -1,0 +1,1 @@
+DynamicRecordReader acts as a publisher for observer TaskAttemptContext, which is inherited by, which initializes InputSplit parameter of inputSplit, TaskAttemptContext parameter of taskAttemptContext, which gets Total Num Records, which nexts Key Value, which gets Current Key, which gets Current Value, which gets Progress, which gets Num Chunks Left, which closes.

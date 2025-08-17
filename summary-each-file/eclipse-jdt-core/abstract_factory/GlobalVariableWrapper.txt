@@ -1,0 +1,2 @@
+GlobalVariableWrapper acts as a product for IEvaluationContext, which overrides getInitializer method of IGlobalVariable, getName method of IGlobalVariable, getTypeName method of IGlobalVariable.
+GlobalVariableWrapper acts as a factory for IGlobalVariable, which overrides getInitializer method of IGlobalVariable, getName method of IGlobalVariable, getTypeName method of IGlobalVariable.

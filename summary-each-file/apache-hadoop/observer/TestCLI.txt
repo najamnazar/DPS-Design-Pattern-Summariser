@@ -1,0 +1,2 @@
+TestCLI acts as a publisher for observer ComparatorData, which sets Up, which tears Down, which executes CLICommand parameter of cmd, which gets Test File, which tests All.
+TestCLI acts as a publisher for observer CLICommand, which sets Up, which tears Down, which executes CLICommand parameter of cmd, which gets Test File, which tests All.

@@ -1,0 +1,1 @@
+UiApplicationContextUtils acts as a factory method for ThemeSource, which is inherited by HierarchicalThemeSource, HierarchicalThemeSource, DispatcherServlet.

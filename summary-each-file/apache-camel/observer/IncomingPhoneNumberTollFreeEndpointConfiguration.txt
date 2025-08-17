@@ -1,0 +1,2 @@
+IncomingPhoneNumberTollFreeEndpointConfiguration acts as an observer, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Phone Number, which sets com.twilio.type.PhoneNumber parameter of phoneNumber Phone Number.
+IncomingPhoneNumberTollFreeEndpointConfiguration acts as a publisher for observer TwilioApiName, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Phone Number, which sets com.twilio.type.PhoneNumber parameter of phoneNumber Phone Number.

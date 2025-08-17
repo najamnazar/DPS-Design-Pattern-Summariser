@@ -1,0 +1,2 @@
+RouteTopLevelMisconfiguredTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Invalid On Exception, which tests Invalid On Completion, which tests Invalid Transacted.
+RouteTopLevelMisconfiguredTest acts as a publisher for observer Service, which is Use Route Builder, which tests Invalid On Exception, which tests Invalid On Completion, which tests Invalid Transacted.

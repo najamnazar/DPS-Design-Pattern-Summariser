@@ -1,0 +1,2 @@
+MethodClassByTypeIssueTest acts as a publisher for observer CamelContext, which tests Method Class By Type AIssue, which tests Method Class By Type BIssue, which creates Route Builder.
+MethodClassByTypeIssueTest acts as a publisher for observer Service, which tests Method Class By Type AIssue, which tests Method Class By Type BIssue, which creates Route Builder.

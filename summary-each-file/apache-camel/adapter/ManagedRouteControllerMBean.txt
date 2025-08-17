@@ -1,0 +1,1 @@
+ManagedRouteControllerMBean acts as an adaptee for adapter ManagedRouteController, which adapts to ManagedService, which adapts to ManagedService.

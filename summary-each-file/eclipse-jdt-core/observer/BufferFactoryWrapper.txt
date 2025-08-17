@@ -1,0 +1,1 @@
+BufferFactoryWrapper acts as an observer, which creates org.eclipse.jdt.core.IBufferFactory parameter of factory, which creates ICompilationUnit parameter of workingCopy Buffer, which equals Object parameter of obj, which hashes Code, which tos String.

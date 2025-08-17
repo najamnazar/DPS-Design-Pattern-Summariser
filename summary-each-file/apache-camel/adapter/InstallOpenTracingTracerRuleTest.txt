@@ -1,0 +1,2 @@
+InstallOpenTracingTracerRuleTest acts as an adapter, which adapts to CamelTestSupport, which adapts getTracer method of MockEndpoint to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+InstallOpenTracingTracerRuleTest acts as an adapter, which adapts to CamelTestSupport, which adapts getTracer method of ProducerTemplate to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

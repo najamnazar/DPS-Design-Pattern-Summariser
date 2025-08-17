@@ -1,0 +1,1 @@
+FacebookComponentConsumerIT acts as a caretaker for memento Configuration, which tests Consumers, which tests Json Store Enabled, which tests Page, which does Post Setup, which ignores Deprecated Api Error, which creates Route Builder.

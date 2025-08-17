@@ -1,0 +1,2 @@
+PropertyBindingSupportMapKeyWithDotTest acts as a caretaker for memento Context, which tests Properties Map, which tests Properties Config Map, which gets Id, which sets String parameter of id Id, which gets Config, which sets Map<String, parameter of String> Config.
+PropertyBindingSupportMapKeyWithDotTest acts as a caretaker for memento Producer, which tests Properties Map, which tests Properties Config Map, which gets Id, which sets String parameter of id Id, which gets Config, which sets Map<String, parameter of String> Config.

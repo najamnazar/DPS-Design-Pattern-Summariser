@@ -1,0 +1,1 @@
+Check acts as an abstract factory for Condition, Constraint, which is inherited by.

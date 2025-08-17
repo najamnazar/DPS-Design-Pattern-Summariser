@@ -1,0 +1,1 @@
+ECS2ClientFactory acts as an originator for memento ECS2InternalClient, which gets an ECS2InternalClient Ecs Client to.

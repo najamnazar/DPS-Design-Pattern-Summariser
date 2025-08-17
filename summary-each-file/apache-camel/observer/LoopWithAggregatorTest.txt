@@ -1,0 +1,2 @@
+LoopWithAggregatorTest acts as a publisher for observer Service, which tests Loop Copy, which creates Route Builder, which aggregates Exchange parameter of original, Exchange parameter of resource.
+LoopWithAggregatorTest acts as a publisher for observer CamelContext, which tests Loop Copy, which creates Route Builder, which aggregates Exchange parameter of original, Exchange parameter of resource.

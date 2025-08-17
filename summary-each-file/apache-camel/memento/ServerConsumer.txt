@@ -1,0 +1,1 @@
+ServerConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which updates final parameter of Request<?> Value, which maps final parameter of Request<?> Message.

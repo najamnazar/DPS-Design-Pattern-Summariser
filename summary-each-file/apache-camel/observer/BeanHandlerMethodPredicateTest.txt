@@ -1,0 +1,2 @@
+BeanHandlerMethodPredicateTest acts as a publisher for observer CamelContext, which tests Handle Method, which creates Route Builder.
+BeanHandlerMethodPredicateTest acts as a publisher for observer Service, which tests Handle Method, which creates Route Builder.

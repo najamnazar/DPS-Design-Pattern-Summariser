@@ -1,0 +1,2 @@
+MultipleComponentInstancesTest acts as a publisher for observer Service, which tests Multiple Instances, which creates Camel Context, which creates Route Builder.
+MultipleComponentInstancesTest acts as a publisher for observer CamelContext, which tests Multiple Instances, which creates Camel Context, which creates Route Builder.

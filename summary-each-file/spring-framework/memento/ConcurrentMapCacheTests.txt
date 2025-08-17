@@ -1,0 +1,1 @@
+ConcurrentMapCacheTests acts as a caretaker for memento C, which setups, which gets Cache, which gets boolean parameter of allowNull Cache, which gets Native Cache, which tests Is Store By Reference By Default, which tests Serializer, which tests Non Serializable Content, which tests Invalid Serialized Content, which creates Cache With Store By Value.

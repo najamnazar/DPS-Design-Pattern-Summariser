@@ -1,0 +1,2 @@
+BaseTestRunner acts as a factory method for TestSuiteLoader, which is inherited by BaseTestRunner.
+BaseTestRunner acts as a factory for BaseTestRunner, which overrides.

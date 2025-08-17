@@ -1,0 +1,2 @@
+InterceptFromLogTest acts as a publisher for observer Service, which tests Interceptor, which creates Route Builder.
+InterceptFromLogTest acts as a publisher for observer CamelContext, which tests Interceptor, which creates Route Builder.

@@ -1,0 +1,4 @@
+AptProblem acts as a caretaker for memento R, which gets Category ID, which gets Marker Type.
+AptProblem acts as a caretaker for memento C, which gets Category ID, which gets Marker Type.
+AptProblem acts as a caretaker for memento String, which gets Category ID, which gets Marker Type.
+AptProblem acts as a caretaker for memento S, which gets Category ID, which gets Marker Type.

@@ -1,0 +1,1 @@
+Endpoint acts as an observer for publisher ServiceRecord, which is inherited by, which news int parameter of size Addresses, which tos String, which validates, which clones.

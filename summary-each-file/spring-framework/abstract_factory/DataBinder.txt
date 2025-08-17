@@ -1,0 +1,3 @@
+DataBinder acts as a product for ConfigurableBeanFactory, which overrides convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter.
+DataBinder acts as a product for BindingResult, which overrides registerCustomEditor method of PropertyEditorRegistry, registerCustomEditor method of PropertyEditorRegistry, findCustomEditor method of PropertyEditorRegistry.
+DataBinder acts as a product for EvaluationContext, which overrides convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter.

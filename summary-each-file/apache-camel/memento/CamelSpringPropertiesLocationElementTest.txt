@@ -1,0 +1,2 @@
+CamelSpringPropertiesLocationElementTest acts as a caretaker for memento Context, which tests Properties Location Element.
+CamelSpringPropertiesLocationElementTest acts as a caretaker for memento Producer, which tests Properties Location Element.

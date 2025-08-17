@@ -1,0 +1,1 @@
+AbstractGenericPointcutAdvisor acts as a publisher for observer Advice, which is inherited by AspectJExpressionPointcutAdvisor, RegexpMethodPointcutAdvisor, NameMatchMethodPointcutAdvisor, DefaultPointcutAdvisor, which sets Advice parameter of advice Advice, which gets Advice, which tos String.

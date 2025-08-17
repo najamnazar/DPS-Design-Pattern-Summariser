@@ -1,0 +1,1 @@
+JdbcOptimisticLockingExceptionMapper acts as an abstract product for JdbcAggregationRepository, which is inherited by DefaultJdbcOptimisticLockingExceptionMapper.

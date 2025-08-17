@@ -1,0 +1,2 @@
+SpringIntegrationConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Stop, which does Start, which handles org.springframework.messaging.Message<?> parameter of siInMessage Message.
+SpringIntegrationConsumer acts as a caretaker for memento Context, which gets Endpoint, which does Stop, which does Start, which handles org.springframework.messaging.Message<?> parameter of siInMessage Message.

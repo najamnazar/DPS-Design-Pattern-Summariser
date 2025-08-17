@@ -1,0 +1,1 @@
+ManagementStrategyFactory acts as a factory for JmxManagementStrategyFactory, which overrides.

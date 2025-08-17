@@ -1,0 +1,1 @@
+JobHistoryEvent acts as an observer for publisher TestJobHistoryEventHandler, which is inherited by, which gets Job ID, which gets History Event.

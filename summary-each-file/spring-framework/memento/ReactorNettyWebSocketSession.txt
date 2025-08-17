@@ -1,0 +1,1 @@
+ReactorNettyWebSocketSession acts as a caretaker for memento C, which gets Channel Id, which receives, which sends Publisher<WebSocketMessage> parameter of messages, which is Open, which closes CloseStatus parameter of status, which closes Status, which gets Inbound, which gets Outbound, which is Disposed, which accepts Connection parameter of connection.

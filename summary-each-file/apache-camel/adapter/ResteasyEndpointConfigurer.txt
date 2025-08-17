@@ -1,0 +1,1 @@
+ResteasyEndpointConfigurer acts as an adapter, which adapts to HttpEndpointConfigurer, which adapts to HttpEndpointConfigurer, which adapts to HttpEndpointConfigurer.

@@ -1,0 +1,1 @@
+GenericReactiveTransaction acts as a product for TransactionAspectSupport, which overrides.

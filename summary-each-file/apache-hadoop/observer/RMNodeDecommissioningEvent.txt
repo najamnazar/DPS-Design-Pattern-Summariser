@@ -1,0 +1,1 @@
+RMNodeDecommissioningEvent acts as an observer, which gets Decommissioning Timeout.

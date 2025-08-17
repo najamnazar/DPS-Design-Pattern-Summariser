@@ -1,0 +1,1 @@
+MaskingFormatter acts as an adaptee for adapter CamelLogProcessor, which adapts to AsyncProcessorSupport.

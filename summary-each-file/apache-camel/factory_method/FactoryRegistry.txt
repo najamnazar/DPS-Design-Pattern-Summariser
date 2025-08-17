@@ -1,0 +1,2 @@
+FactoryRegistry acts as a factory for DefaultFactoryRegistry, which overrides.
+FactoryRegistry acts as an abstract product for DefaultFactoryRegistry, which is inherited by DefaultFactoryRegistry.

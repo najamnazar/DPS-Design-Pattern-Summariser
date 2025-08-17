@@ -1,0 +1,1 @@
+CreateFileMapper acts as a publisher for observer Configuration, which is inherited by, which gets Description, which gets Config Descriptions, which verifies Configuration parameter of confToVerify Configurations, which maps NullWritable parameter of key, NullWritable parameter of value, Mapper.Context parameter of mapperContext.

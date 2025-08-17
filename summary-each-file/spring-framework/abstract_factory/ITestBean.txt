@@ -1,0 +1,2 @@
+ITestBean acts as an abstract product for ITestBean, which is inherited by AspectJAutoProxyCreatorTests, OtherTestBean.
+ITestBean acts as an abstract factory for ITestBean, which is inherited by OtherTestBean.

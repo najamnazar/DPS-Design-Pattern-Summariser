@@ -1,0 +1,2 @@
+FileConsumeDynamicDoneFileNameWithTwoDotsTest acts as a publisher for observer CamelContext, which tests Dynamic Done File Name Containing Two Dots, which creates Route Builder.
+FileConsumeDynamicDoneFileNameWithTwoDotsTest acts as a publisher for observer Service, which tests Dynamic Done File Name Containing Two Dots, which creates Route Builder.

@@ -1,0 +1,1 @@
+InputStream acts as an observer for publisher JarClassLoader, which is inherited by BufferedInputStream, ByteArrayInputStream, VMInputStream, FileInputStream, which closes, which availables, which reads byte[] parameter of b, int parameter of off, int parameter of len.

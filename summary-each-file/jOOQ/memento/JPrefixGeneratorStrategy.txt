@@ -1,0 +1,1 @@
+JPrefixGeneratorStrategy acts as a caretaker for memento Language, which gets final parameter of Definition, final parameter of Mode Java Class Name.

@@ -1,0 +1,5 @@
+AtomHttpNoCamelParametersTest acts as a publisher for observer Service, which tests Atom Http No Camel Parameters, which tests Atom Http No Camel Parameters And One Feed Parameter.
+AtomHttpNoCamelParametersTest acts as a publisher for observer ConsumerTemplate, which tests Atom Http No Camel Parameters, which tests Atom Http No Camel Parameters And One Feed Parameter.
+AtomHttpNoCamelParametersTest acts as a publisher for observer CamelContext, which tests Atom Http No Camel Parameters, which tests Atom Http No Camel Parameters And One Feed Parameter.
+AtomHttpNoCamelParametersTest acts as a publisher for observer FluentProducerTemplate, which tests Atom Http No Camel Parameters, which tests Atom Http No Camel Parameters And One Feed Parameter.
+AtomHttpNoCamelParametersTest acts as a publisher for observer ProducerTemplate, which tests Atom Http No Camel Parameters, which tests Atom Http No Camel Parameters And One Feed Parameter.

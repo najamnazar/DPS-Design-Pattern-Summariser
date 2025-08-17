@@ -1,0 +1,5 @@
+FromQueueToQueueTest acts as a publisher for observer CamelContext, which shoulds Delete Message From Queue1, which creates Route Builder.
+FromQueueToQueueTest acts as a publisher for observer ProducerTemplate, which shoulds Delete Message From Queue1, which creates Route Builder.
+FromQueueToQueueTest acts as a publisher for observer Service, which shoulds Delete Message From Queue1, which creates Route Builder.
+FromQueueToQueueTest acts as a publisher for observer ConsumerTemplate, which shoulds Delete Message From Queue1, which creates Route Builder.
+FromQueueToQueueTest acts as a publisher for observer FluentProducerTemplate, which shoulds Delete Message From Queue1, which creates Route Builder.

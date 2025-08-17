@@ -1,0 +1,2 @@
+PipeReducerStub acts as a publisher for observer DataInputStream, which mains String[] parameter of args, which binaries Protocol Stub.
+PipeReducerStub acts as a publisher for observer DataOutputStream, which mains String[] parameter of args, which binaries Protocol Stub.

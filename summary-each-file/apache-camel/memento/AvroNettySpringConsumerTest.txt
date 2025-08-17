@@ -1,0 +1,1 @@
+AvroNettySpringConsumerTest acts as a caretaker for memento Context, which sets Up, which tears Down, which creates Camel Context, which is Use Route Builder.

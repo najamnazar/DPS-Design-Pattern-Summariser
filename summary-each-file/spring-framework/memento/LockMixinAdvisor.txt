@@ -1,0 +1,3 @@
+LockMixinAdvisor acts as a caretaker for memento A.
+LockMixinAdvisor acts as a caretaker for memento Advice.
+LockMixinAdvisor acts as a caretaker for memento C.

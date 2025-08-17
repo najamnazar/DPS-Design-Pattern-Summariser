@@ -1,0 +1,1 @@
+MetricsRecordBuilderImpl acts as a product for MetricsCollector, which overrides parent method of MetricsRecordBuilder.

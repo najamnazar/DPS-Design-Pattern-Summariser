@@ -1,0 +1,2 @@
+ClientManager acts as an adaptee for adapter ClientManagerImpl, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+ClientManager acts as an adaptee for adapter S3AStoreImpl, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

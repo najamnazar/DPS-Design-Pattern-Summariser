@@ -1,0 +1,1 @@
+QueueManagementChangeEvent acts as an observer, which gets Parent Queue, which gets Queue Management Changes.

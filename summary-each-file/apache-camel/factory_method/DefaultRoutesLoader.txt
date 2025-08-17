@@ -1,0 +1,1 @@
+DefaultRoutesLoader acts as a factory for DependencyDownloaderRoutesLoader, which overrides preParseRoute method of DependencyDownloaderRoutesLoader.

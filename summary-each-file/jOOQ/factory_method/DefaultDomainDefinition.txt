@@ -1,0 +1,1 @@
+DefaultDomainDefinition acts as a product for AbstractDatabase, which overrides getCheckClauses method of DomainDefinition, getBaseType method of DomainDefinition.

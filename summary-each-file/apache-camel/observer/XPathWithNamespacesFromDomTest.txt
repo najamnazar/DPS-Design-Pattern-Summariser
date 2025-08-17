@@ -1,0 +1,2 @@
+XPathWithNamespacesFromDomTest acts as a publisher for observer CamelContext, which tests XPath Using Dom For Namespaces.
+XPathWithNamespacesFromDomTest acts as a publisher for observer Service, which tests XPath Using Dom For Namespaces.

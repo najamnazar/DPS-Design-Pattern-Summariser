@@ -1,0 +1,1 @@
+DelegatingMapper acts as a publisher for observer JobConf, which is inherited by, which maps K1 parameter of key, V1 parameter of value, OutputCollector<K2, parameter of V2>, Reporter parameter of reporter, which configures JobConf parameter of conf, which closes.

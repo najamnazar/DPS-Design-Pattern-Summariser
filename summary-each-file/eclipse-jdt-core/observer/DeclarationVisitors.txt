@@ -1,0 +1,1 @@
+DeclarationVisitors acts as a publisher for observer DeclarationVisitor, which is inherited by, which gets DeclarationVisitor parameter of pre, DeclarationVisitor parameter of post Declaration Scanner, which gets DeclarationVisitor parameter of pre, DeclarationVisitor parameter of post Source Order Declaration Scanner.

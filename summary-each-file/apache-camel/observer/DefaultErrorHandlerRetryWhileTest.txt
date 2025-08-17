@@ -1,0 +1,2 @@
+DefaultErrorHandlerRetryWhileTest acts as a publisher for observer Service, which creates Registry, which tests Retry Until, which creates Route Builder, which processes Exchange parameter of exchange, which retries.
+DefaultErrorHandlerRetryWhileTest acts as a publisher for observer CamelContext, which creates Registry, which tests Retry Until, which creates Route Builder, which processes Exchange parameter of exchange, which retries.

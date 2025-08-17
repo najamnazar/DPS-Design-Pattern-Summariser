@@ -1,0 +1,2 @@
+InterceptFromSimplePredicateTest acts as a publisher for observer CamelContext, which tests No Intercept, which tests Intercepted, which creates Route Builder, which processes Exchange parameter of exchange.
+InterceptFromSimplePredicateTest acts as a publisher for observer Service, which tests No Intercept, which tests Intercepted, which creates Route Builder, which processes Exchange parameter of exchange.

@@ -1,0 +1,2 @@
+TxNamespaceHandlerEventTests acts as a caretaker for memento B, which sets Up, which components Event Received.
+TxNamespaceHandlerEventTests acts as a caretaker for memento C, which sets Up, which components Event Received.

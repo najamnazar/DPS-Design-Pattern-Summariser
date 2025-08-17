@@ -1,0 +1,2 @@
+IronMQComponentTest acts as a caretaker for memento Context, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.
+IronMQComponentTest acts as a caretaker for memento Producer, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.

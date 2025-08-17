@@ -1,0 +1,1 @@
+RMStateUpdateAppEvent acts as an observer, which gets App State, which is Notify Application, which gets Result.

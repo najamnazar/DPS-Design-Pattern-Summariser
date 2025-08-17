@@ -1,0 +1,2 @@
+HdfsDataInputStream acts as an observer, which gets DFSInput Stream, which gets Wrapped Stream, which gets Current Datanode, which gets Current Block, which gets All Blocks, which gets Visible Length, which gets Read Statistics, which clears Read Statistics.
+HdfsDataInputStream acts as a publisher for observer ByteBufferPool, which gets DFSInput Stream, which gets Wrapped Stream, which gets Current Datanode, which gets Current Block, which gets All Blocks, which gets Visible Length, which gets Read Statistics, which clears Read Statistics.

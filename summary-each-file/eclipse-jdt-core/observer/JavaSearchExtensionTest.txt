@@ -1,0 +1,4 @@
+JavaSearchExtensionTest acts as a publisher for observer SearchMatch, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a publisher for observer String, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a publisher for observer StringBuilder, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.
+JavaSearchExtensionTest acts as a publisher for observer IJavaProject, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Delegate Found.

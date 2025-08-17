@@ -1,0 +1,2 @@
+RouteTemplateOptionalValueTest acts as a publisher for observer Service, which tests Optional Provided, which tests Optional, which creates Route Builder.
+RouteTemplateOptionalValueTest acts as a publisher for observer CamelContext, which tests Optional Provided, which tests Optional, which creates Route Builder.

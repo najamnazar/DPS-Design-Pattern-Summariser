@@ -1,0 +1,2 @@
+ConstantValueAttribute acts as a factory for IConstantValueAttribute, which overrides getConstantValue method of IConstantValueAttribute, getConstantValueIndex method of IConstantValueAttribute.
+ConstantValueAttribute acts as a product for IFieldInfo, which overrides getConstantValue method of IConstantValueAttribute, getConstantValueIndex method of IConstantValueAttribute.

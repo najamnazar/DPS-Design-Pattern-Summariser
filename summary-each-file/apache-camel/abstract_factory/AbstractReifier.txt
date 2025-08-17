@@ -1,0 +1,2 @@
+AbstractReifier acts as a product for LocalBeanRepositoryAware, which overrides lookupByName method of BeanRepository, findByTypeWithName method of BeanRepository, findByType method of BeanRepository, unwrap method of BeanRepository.
+AbstractReifier acts as a product for RouteTemplateContext, which overrides lookupByName method of BeanRepository, findByTypeWithName method of BeanRepository, findByType method of BeanRepository, unwrap method of BeanRepository.

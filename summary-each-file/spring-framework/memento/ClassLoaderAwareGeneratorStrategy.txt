@@ -1,0 +1,2 @@
+ClassLoaderAwareGeneratorStrategy acts as a caretaker for memento C, which generates ClassGenerator parameter of cg.
+ClassLoaderAwareGeneratorStrategy acts as a caretaker for memento Language, which generates ClassGenerator parameter of cg.

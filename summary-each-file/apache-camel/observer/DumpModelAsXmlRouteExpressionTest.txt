@@ -1,0 +1,2 @@
+DumpModelAsXmlRouteExpressionTest acts as a publisher for observer Service, which creates Registry, which tests Dump Model As Xml, which tests Dump Model As Xml XPath, which tests Dump Model As Xml Header, which tests Dump Model As Xml Bean, which creates Route Builder.
+DumpModelAsXmlRouteExpressionTest acts as a publisher for observer CamelContext, which creates Registry, which tests Dump Model As Xml, which tests Dump Model As Xml XPath, which tests Dump Model As Xml Header, which tests Dump Model As Xml Bean, which creates Route Builder.

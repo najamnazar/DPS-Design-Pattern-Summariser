@@ -1,0 +1,2 @@
+LanguageLoadScriptFromClasspathTest acts as a publisher for observer Service, which tests Language, which creates Route Builder.
+LanguageLoadScriptFromClasspathTest acts as a publisher for observer CamelContext, which tests Language, which creates Route Builder.

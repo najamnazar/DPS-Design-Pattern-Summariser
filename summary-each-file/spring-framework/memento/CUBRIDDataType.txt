@@ -1,0 +1,2 @@
+CUBRIDDataType acts as a caretaker for memento B.
+CUBRIDDataType acts as a caretaker for memento SQL.

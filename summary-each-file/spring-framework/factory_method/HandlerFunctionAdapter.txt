@@ -1,0 +1,1 @@
+HandlerFunctionAdapter acts as a product for DispatcherServlet, which overrides supports method of HandlerAdapter, getLastModified method of HandlerAdapter.

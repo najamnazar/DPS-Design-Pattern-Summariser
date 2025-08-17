@@ -1,0 +1,7 @@
+ExpressionToPredicateAdapter acts as a product for ModelCamelContext, which overrides matches method of Predicate, init method of Predicate.
+ExpressionToPredicateAdapter acts as a product for ModelReifierFactory, which overrides matches method of Predicate, init method of Predicate.
+ExpressionToPredicateAdapter acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.
+ExpressionToPredicateAdapter acts as a product for DefaultErrorHandlerProperties, which overrides matches method of Predicate, init method of Predicate.
+ExpressionToPredicateAdapter acts as a product for PredicateFactory, which overrides matches method of Predicate, init method of Predicate.
+ExpressionToPredicateAdapter acts as a product for DeadLetterChannelProperties, which overrides matches method of Predicate, init method of Predicate.
+ExpressionToPredicateAdapter acts as a factory for PropertyConfigurerAware, which overrides getPropertyConfigurer method of PropertyConfigurerAware.

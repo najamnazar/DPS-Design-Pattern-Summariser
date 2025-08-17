@@ -1,0 +1,2 @@
+NoOutputStreamingBufferedSimpleHttpRequestFactoryTests acts as a caretaker for memento ClientHttpRequest, which creates Request Factory.
+NoOutputStreamingBufferedSimpleHttpRequestFactoryTests acts as a caretaker for memento C, which creates Request Factory.

@@ -1,0 +1,2 @@
+MariaDBDataType acts as a caretaker for memento SQL.
+MariaDBDataType acts as a caretaker for memento B.

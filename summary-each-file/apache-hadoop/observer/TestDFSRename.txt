@@ -1,0 +1,1 @@
+TestDFSRename acts as a publisher for observer Path, which is inherited by, which counts MiniDFSCluster parameter of cluster Lease, which lists FileSystem parameter of fs, String parameter of name, which creates FileSystem parameter of fs, Path parameter of f File, which tests Rename, which tests Rename With Overwrite, which tests Rename2Options.

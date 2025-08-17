@@ -1,0 +1,1 @@
+AclFeature acts as an observer for publisher AclStorage, which is inherited by, which gets Entries Size, which gets int parameter of pos Entry At, which equals Object parameter of o, which tos String, which hashes Code, which gets Ref Count, which increments And Get Ref Count, which decrements And Get Ref Count.

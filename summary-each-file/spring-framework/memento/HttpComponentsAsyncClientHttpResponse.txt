@@ -1,0 +1,1 @@
+HttpComponentsAsyncClientHttpResponse acts as a caretaker for memento Headers, which gets Raw Status Code, which gets Status Text, which gets Headers, which gets Body, which closes.

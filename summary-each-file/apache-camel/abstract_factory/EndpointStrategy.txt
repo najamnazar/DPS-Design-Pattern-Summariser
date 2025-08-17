@@ -1,0 +1,2 @@
+EndpointStrategy acts as an abstract factory for Endpoint, which is inherited by InterceptSendToMockEndpointStrategy, InterceptSendToEndpointCallback.
+EndpointStrategy acts as an abstract product for EndpointStrategy, which is inherited by InterceptSendToMockEndpointStrategy, InterceptSendToEndpointCallback.

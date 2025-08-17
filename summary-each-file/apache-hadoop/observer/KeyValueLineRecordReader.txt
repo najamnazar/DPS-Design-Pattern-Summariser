@@ -1,0 +1,1 @@
+KeyValueLineRecordReader acts as a publisher for observer Text, which is inherited by, which gets Key Class, which creates Key, which creates Value, which finds byte[] parameter of utf, int parameter of start, int parameter of length, byte parameter of sep Separator, which nexts Text parameter of key, Text parameter of value, which gets Progress, which gets Pos, which closes.

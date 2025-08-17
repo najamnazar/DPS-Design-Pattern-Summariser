@@ -1,0 +1,1 @@
+TcpServerBindThread acts as an adaptee for adapter MllpTcpServerConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

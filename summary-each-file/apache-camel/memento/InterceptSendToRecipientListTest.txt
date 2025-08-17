@@ -1,0 +1,2 @@
+InterceptSendToRecipientListTest acts as a caretaker for memento Context, which tests Intercept Send To Recipient List, which creates Route Builder.
+InterceptSendToRecipientListTest acts as a caretaker for memento Producer, which tests Intercept Send To Recipient List, which creates Route Builder.

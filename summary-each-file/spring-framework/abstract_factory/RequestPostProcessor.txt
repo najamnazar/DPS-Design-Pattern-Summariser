@@ -1,0 +1,2 @@
+RequestPostProcessor acts as an abstract factory for MockHttpServletRequest, which is inherited by ForwardRequestPostProcessor.
+RequestPostProcessor acts as an abstract product for RequestPostProcessor, which is inherited by ForwardRequestPostProcessor.

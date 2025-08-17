@@ -1,0 +1,1 @@
+ITestAbfsWrappedIO acts as an adapter, which adapts to TestWrappedIO, which adapts to TestWrappedIO, which adapts to TestWrappedIO.

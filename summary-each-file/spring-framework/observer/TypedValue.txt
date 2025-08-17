@@ -1,0 +1,1 @@
+TypedValue acts as an observer for publisher PropertyOrFieldReference, which is inherited by BooleanTypedValue, which gets Value, which gets Type Descriptor, which equals @Nullable parameter of Object, which hashes Code, which tos String.

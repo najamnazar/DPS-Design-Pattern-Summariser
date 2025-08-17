@@ -1,0 +1,1 @@
+BeanScope acts as an observer for publisher BeanExpression, which is inherited by.

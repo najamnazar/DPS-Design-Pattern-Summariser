@@ -1,0 +1,2 @@
+BufferPuller acts as an observer, which gets Key, which gets Value, which resets, which nexts, which nexts InputBuffer parameter of buffer Key Value, which receives Data, which gets Progress, which closes.
+BufferPuller acts as a publisher for observer InputBuffer, which is inherited by, which gets Key, which gets Value, which resets, which nexts, which nexts InputBuffer parameter of buffer Key Value, which receives Data, which gets Progress, which closes.

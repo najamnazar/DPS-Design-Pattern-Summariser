@@ -1,0 +1,2 @@
+MyEventNotifier acts as a publisher for observer CamelEvent, which is inherited by, which notifies CamelEvent parameter of event, which gets Events.
+MyEventNotifier acts as a publisher for observer CamelEvent, which notifies CamelEvent parameter of event, which gets Events.

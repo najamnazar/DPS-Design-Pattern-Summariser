@@ -1,0 +1,2 @@
+IJob acts as a target for adapter IndexRequest, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob.
+IJob acts as a target for adapter PatternSearchJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob.

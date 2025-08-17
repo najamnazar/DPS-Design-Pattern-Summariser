@@ -1,0 +1,1 @@
+JmsInOutTransferExchangeTest acts as a publisher for observer ArtemisService, which gets Component Name, which tests Transfer Exchange In Out, which creates Route Builder.

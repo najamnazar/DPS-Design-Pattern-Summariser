@@ -1,0 +1,1 @@
+TestReplicaMap acts as a caretaker for memento Replica, which setups, which tests Get, which tests Add, which tests Remove, which tests Merge All, which tests Add All.

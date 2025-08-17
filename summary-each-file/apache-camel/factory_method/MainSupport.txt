@@ -1,0 +1,2 @@
+MainSupport acts as a factory method for MainShutdownStrategy, which is inherited by MainSupport, MainSupport.
+MainSupport acts as a factory for MainSupport, which overrides.

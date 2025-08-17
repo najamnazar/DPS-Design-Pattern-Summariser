@@ -1,0 +1,1 @@
+ManagedBeanProcessor acts as an adapter, which adapts getProcessor method of ManagedBeanMBean, getProcessor method of ManagedBeanMBean, getProcessor method of ManagedBeanMBean to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor.

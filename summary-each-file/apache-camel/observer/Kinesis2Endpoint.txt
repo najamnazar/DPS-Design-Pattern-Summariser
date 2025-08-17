@@ -1,0 +1,3 @@
+Kinesis2Endpoint acts as a publisher for observer Consumer, which does Start, which does Stop, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Configuration.
+Kinesis2Endpoint acts as a publisher for observer PollingConsumerPollStrategy, which does Start, which does Stop, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Configuration.
+Kinesis2Endpoint acts as a publisher for observer LoggingLevel, which does Start, which does Stop, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Configuration.

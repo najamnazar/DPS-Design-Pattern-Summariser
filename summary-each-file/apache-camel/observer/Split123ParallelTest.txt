@@ -1,0 +1,2 @@
+Split123ParallelTest acts as a publisher for observer Service, which tests Splitter, which creates Route Builder.
+Split123ParallelTest acts as a publisher for observer CamelContext, which tests Splitter, which creates Route Builder.

@@ -1,0 +1,5 @@
+MailEndpointTest acts as a publisher for observer FluentProducerTemplate, which tests Mail Endpoint Ctr, which tests Mail Endpoint Ctr Endpoint, which tests Mail Endpoint Ctr Endpoint Config.
+MailEndpointTest acts as a publisher for observer Service, which tests Mail Endpoint Ctr, which tests Mail Endpoint Ctr Endpoint, which tests Mail Endpoint Ctr Endpoint Config.
+MailEndpointTest acts as a publisher for observer ConsumerTemplate, which tests Mail Endpoint Ctr, which tests Mail Endpoint Ctr Endpoint, which tests Mail Endpoint Ctr Endpoint Config.
+MailEndpointTest acts as a publisher for observer ProducerTemplate, which tests Mail Endpoint Ctr, which tests Mail Endpoint Ctr Endpoint, which tests Mail Endpoint Ctr Endpoint Config.
+MailEndpointTest acts as a publisher for observer CamelContext, which tests Mail Endpoint Ctr, which tests Mail Endpoint Ctr Endpoint, which tests Mail Endpoint Ctr Endpoint Config.

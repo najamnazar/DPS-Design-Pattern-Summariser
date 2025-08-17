@@ -1,0 +1,1 @@
+CacheEvictOperation acts as an observer, which is Cache Wide, which is Before Invocation, which sets boolean parameter of cacheWide Cache Wide, which sets boolean parameter of beforeInvocation Before Invocation, which gets Operation Description, which builds.

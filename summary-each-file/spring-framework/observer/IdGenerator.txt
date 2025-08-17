@@ -1,0 +1,1 @@
+IdGenerator acts as an observer for publisher MessageHeaderAccessor, NativeMessageHeaderAccessor, which is inherited by AlternativeJdkIdGenerator, JdkIdGenerator, SimpleIdGenerator, which generates Id.

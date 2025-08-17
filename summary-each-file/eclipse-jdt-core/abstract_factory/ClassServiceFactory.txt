@@ -1,0 +1,1 @@
+ClassServiceFactory acts as a factory for IServiceFactory, which overrides newInstance method of IServiceFactory.

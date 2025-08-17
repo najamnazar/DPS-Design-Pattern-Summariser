@@ -1,0 +1,1 @@
+AbstractS3AStatisticsSource acts as an originator for memento DurationTracker, which tracks a DurationTracker Duration to.

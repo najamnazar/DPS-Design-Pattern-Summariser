@@ -1,0 +1,5 @@
+JacksonMarshalUnmarshalPojoArrayTest acts as a publisher for observer ProducerTemplate, which tests Unmarshal Pojo Array, which creates Route Builder, which gets Text, which sets String parameter of text Text.
+JacksonMarshalUnmarshalPojoArrayTest acts as a publisher for observer CamelContext, which tests Unmarshal Pojo Array, which creates Route Builder, which gets Text, which sets String parameter of text Text.
+JacksonMarshalUnmarshalPojoArrayTest acts as a publisher for observer ConsumerTemplate, which tests Unmarshal Pojo Array, which creates Route Builder, which gets Text, which sets String parameter of text Text.
+JacksonMarshalUnmarshalPojoArrayTest acts as a publisher for observer Service, which tests Unmarshal Pojo Array, which creates Route Builder, which gets Text, which sets String parameter of text Text.
+JacksonMarshalUnmarshalPojoArrayTest acts as a publisher for observer FluentProducerTemplate, which tests Unmarshal Pojo Array, which creates Route Builder, which gets Text, which sets String parameter of text Text.

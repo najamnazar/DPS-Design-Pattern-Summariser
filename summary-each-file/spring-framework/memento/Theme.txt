@@ -1,0 +1,1 @@
+Theme acts as a memento, which is inherited by SimpleTheme, which gets Message Source, which gets Message Source.

@@ -1,0 +1,1 @@
+SqsProducerSendLocalstackMaxAttributesIT acts as a caretaker for memento Producer, which sends In Only, which creates Route Builder.

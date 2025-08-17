@@ -1,0 +1,2 @@
+BeanBeforeAggregateIssueTest acts as a publisher for observer Service, which tests Bean Before Aggregation, which creates Route Builder, which does String parameter of foo Nothing, which confirms CamelContext parameter of camelContext, String parameter of exchangeId, which is Confirm.
+BeanBeforeAggregateIssueTest acts as a publisher for observer CamelContext, which tests Bean Before Aggregation, which creates Route Builder, which does String parameter of foo Nothing, which confirms CamelContext parameter of camelContext, String parameter of exchangeId, which is Confirm.

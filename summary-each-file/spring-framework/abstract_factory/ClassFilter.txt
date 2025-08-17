@@ -1,0 +1,1 @@
+ClassFilter acts as an abstract product for ClassFilter, which is inherited by DefaultIntroductionAdvisor, AspectJExpressionPointcut, ControlFlowPointcut, TrueClassFilter, TypePatternClassFilter, RootClassFilter, AnnotationClassFilter.

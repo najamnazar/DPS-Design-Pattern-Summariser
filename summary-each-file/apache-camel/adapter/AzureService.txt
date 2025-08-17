@@ -1,0 +1,2 @@
+AzureService acts as an adaptee for adapter Base, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+AzureService acts as an adaptee for adapter StorageQueueBase, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

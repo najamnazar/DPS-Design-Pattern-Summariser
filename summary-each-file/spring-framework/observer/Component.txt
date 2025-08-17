@@ -1,0 +1,1 @@
+Component acts as an observer for publisher ComponentFactoryBean, which is inherited by.

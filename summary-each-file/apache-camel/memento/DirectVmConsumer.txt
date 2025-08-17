@@ -1,0 +1,1 @@
+DirectVmConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which does Suspend, which does Resume.

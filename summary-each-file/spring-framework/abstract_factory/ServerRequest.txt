@@ -1,0 +1,2 @@
+ServerRequest acts as an abstract product for ServerRequest, which is inherited by ServerRequestWrapper, ServerRequestWrapper, MockServerRequest, MockServerRequest, DefaultServerRequest, DefaultServerRequest.
+ServerRequest acts as an abstract factory for RequestPath, PathContainer, HttpHeaders, ServerRequest, UriBuilder, which is inherited by ServerRequestWrapper, MockServerRequest, DefaultServerRequest.

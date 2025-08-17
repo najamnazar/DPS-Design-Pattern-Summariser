@@ -1,0 +1,1 @@
+AppLogAggregatorImpl acts as a factory for AppLogAggregator, which overrides startContainerLogAggregation method of AppLogAggregator, finishLogAggregation method of AppLogAggregator, abortLogAggregation method of AppLogAggregator, disableLogAggregation method of AppLogAggregator, enableLogAggregation method of AppLogAggregator, isAggregationEnabled method of AppLogAggregator.

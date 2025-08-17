@@ -1,0 +1,1 @@
+JavadocMessageSend acts as an adaptee for adapter CompletionOnJavadocMessageSend, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts printExpression method of JavadocMessageSend to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc.

@@ -1,0 +1,1 @@
+SourceModule acts as an adapter, which adapts to AbstractModule, which adapts to AbstractModule, which adapts to AbstractModule, which adapts to AbstractModule.

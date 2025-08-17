@@ -1,0 +1,3 @@
+DurationTracker acts as an abstract product for DurationTracker, which is inherited by StubDurationTracker, StubDurationTracker, StatisticDurationTracker, StatisticDurationTracker.
+DurationTracker acts as an abstract product for DurationTracker, which is inherited by StubDurationTracker, StatisticDurationTracker.
+DurationTracker acts as an abstract factory for, which is inherited by StubDurationTracker, StatisticDurationTracker.

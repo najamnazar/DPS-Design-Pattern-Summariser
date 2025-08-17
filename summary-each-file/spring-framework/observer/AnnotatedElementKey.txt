@@ -1,0 +1,1 @@
+AnnotatedElementKey acts as an observer for publisher CachedExpressionEvaluator, EventExpressionEvaluator, CacheOperationExpressionEvaluator, which is inherited by, which equals @Nullable parameter of Object, which hashes Code, which tos String, which compares AnnotatedElementKey parameter of other To.

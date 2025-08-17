@@ -1,0 +1,1 @@
+MethodBeforeAdviceAdapter acts as a factory for AdvisorAdapter, which overrides supportsAdvice method of AdvisorAdapter, getInterceptor method of AdvisorAdapter.

@@ -1,0 +1,2 @@
+EventHubsProducerIT acts as a caretaker for memento Producer, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.
+EventHubsProducerIT acts as a caretaker for memento Context, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.

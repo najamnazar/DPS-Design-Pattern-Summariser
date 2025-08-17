@@ -1,0 +1,1 @@
+JMXTXUseOriginalBodyTest acts as a caretaker for memento Producer, which is inherited by, which creates Application Context, which tests With Constant, which tests With Bean, which processes @Body parameter of String, which configures.

@@ -1,0 +1,2 @@
+CamelClusterView acts as an abstract product for CamelClusterService, which is inherited by AbstractCamelClusterView.
+CamelClusterView acts as a factory for AbstractCamelClusterView, which overrides.

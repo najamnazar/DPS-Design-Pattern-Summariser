@@ -1,0 +1,1 @@
+ContentHandler acts as an abstract product for AbstractStaxXMLReaderTests, which is inherited by AbstractStaxHandler, DomContentHandler.

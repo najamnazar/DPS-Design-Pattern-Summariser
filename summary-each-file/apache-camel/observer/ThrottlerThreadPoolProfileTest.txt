@@ -1,0 +1,2 @@
+ThrottlerThreadPoolProfileTest acts as a publisher for observer CamelContext, which tests Thread Pool, which creates Route Builder.
+ThrottlerThreadPoolProfileTest acts as a publisher for observer Service, which tests Thread Pool, which creates Route Builder.

@@ -1,0 +1,2 @@
+IrcEndpointTest acts as a caretaker for memento Configuration, which does Setup, which does Join Channel Test No Key, which does Join Channel Test Key, which does Join Channels, which does Handle Irc Error Nick In Use.
+IrcEndpointTest acts as a caretaker for memento Component, which does Setup, which does Join Channel Test No Key, which does Join Channel Test Key, which does Join Channels, which does Handle Irc Error Nick In Use.

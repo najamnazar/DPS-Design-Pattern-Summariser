@@ -1,0 +1,2 @@
+TestBeanNameGenerator acts as a caretaker for memento A, which generates BeanDefinition parameter of definition, BeanDefinitionRegistry parameter of registry Bean Name.
+TestBeanNameGenerator acts as a caretaker for memento B, which generates BeanDefinition parameter of definition, BeanDefinitionRegistry parameter of registry Bean Name.

@@ -1,0 +1,2 @@
+OnExceptionsPerRouteTest acts as a publisher for observer CamelContext, which tests On Exceptions Per Route Damn, which tests On Exceptions Per Route Connect, which creates Route Builder.
+OnExceptionsPerRouteTest acts as a publisher for observer Service, which tests On Exceptions Per Route Damn, which tests On Exceptions Per Route Connect, which creates Route Builder.

@@ -1,0 +1,2 @@
+NoErrorHandlerTest acts as a publisher for observer Service, which sets Up, which uses Jmx, which tests No Error Handler, which tests No Error Handler JMXDisabled, which does Test, which creates Route Builder.
+NoErrorHandlerTest acts as a publisher for observer CamelContext, which sets Up, which uses Jmx, which tests No Error Handler, which tests No Error Handler JMXDisabled, which does Test, which creates Route Builder.

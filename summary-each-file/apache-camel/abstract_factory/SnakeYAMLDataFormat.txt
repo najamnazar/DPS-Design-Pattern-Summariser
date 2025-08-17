@@ -1,0 +1,5 @@
+SnakeYAMLDataFormat acts as a product for DataFormatResolver, which overrides.
+SnakeYAMLDataFormat acts as a product for CamelContext, which overrides.
+SnakeYAMLDataFormat acts as a product for ModelReifierFactory, which overrides.
+SnakeYAMLDataFormat acts as a product for DataFormatFactory, which overrides.
+SnakeYAMLDataFormat acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

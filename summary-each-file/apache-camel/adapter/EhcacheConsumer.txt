@@ -1,0 +1,1 @@
+EhcacheConsumer acts as an adapter, which adapts getEndpoint method of EhcacheConfiguration, getEndpoint method of EhcacheConfiguration, getEndpoint method of EhcacheConfiguration to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

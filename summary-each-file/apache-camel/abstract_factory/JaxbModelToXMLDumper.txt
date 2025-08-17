@@ -1,0 +1,1 @@
+JaxbModelToXMLDumper acts as a product for ExtendedCamelContext, which overrides dumpModelAsXml method of ModelToXMLDumper, dumpModelAsXml method of ModelToXMLDumper.

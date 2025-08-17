@@ -1,0 +1,2 @@
+GetNamespaceInfoRequest acts as an originator for memento GetNamespaceInfoRequest, which is inherited by, which news a GetNamespaceInfoRequest Instance to.
+GetNamespaceInfoRequest acts as a memento, which is inherited by GetNamespaceInfoRequestPBImpl, which news Instance.

@@ -1,0 +1,2 @@
+RomeksExceptionTest acts as a publisher for observer Service, which tests Route A, which tests Route B, which asserts String parameter of route Error Handling Works, which creates Route Builder.
+RomeksExceptionTest acts as a publisher for observer CamelContext, which tests Route A, which tests Route B, which asserts String parameter of route Error Handling Works, which creates Route Builder.

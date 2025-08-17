@@ -1,0 +1,1 @@
+AbstractFormattable acts as a factory for Attachable, which overrides detach method of Attachable, configuration method of Attachable.

@@ -1,0 +1,1 @@
+ManagedScriptMBean acts as a product for ManagedCamelContext, which overrides.

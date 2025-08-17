@@ -1,0 +1,2 @@
+SimpleLanguageBeanBodyParenthesisTest acts as a publisher for observer CamelContext, which tests No, which tests Yes, which creates Route Builder.
+SimpleLanguageBeanBodyParenthesisTest acts as a publisher for observer Service, which tests No, which tests Yes, which creates Route Builder.

@@ -1,0 +1,1 @@
+IElementInfo acts as an originator for memento String, which is inherited by, which gets a String File Name to.

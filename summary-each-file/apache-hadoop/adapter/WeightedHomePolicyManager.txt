@@ -1,0 +1,1 @@
+WeightedHomePolicyManager acts as an adapter, which adapts to AbstractPolicyManager, which adapts to AbstractPolicyManager, which adapts to AbstractPolicyManager, which adapts to AbstractPolicyManager.

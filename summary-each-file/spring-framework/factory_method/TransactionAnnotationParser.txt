@@ -1,0 +1,1 @@
+TransactionAnnotationParser acts as a factory for MapTransactionAttributeSource, which overrides.

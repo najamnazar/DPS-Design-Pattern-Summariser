@@ -1,0 +1,1 @@
+DerbyTableMetaDataProvider acts as a caretaker for memento Parameter, which initializes DatabaseMetaData parameter of databaseMetaData With Meta Data, which is Get Generated Keys Supported.

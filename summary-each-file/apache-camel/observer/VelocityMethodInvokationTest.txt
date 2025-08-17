@@ -1,0 +1,5 @@
+VelocityMethodInvokationTest acts as a publisher for observer ConsumerTemplate, which tests Velocity Letter, which creates Route Builder.
+VelocityMethodInvokationTest acts as a publisher for observer CamelContext, which tests Velocity Letter, which creates Route Builder.
+VelocityMethodInvokationTest acts as a publisher for observer FluentProducerTemplate, which tests Velocity Letter, which creates Route Builder.
+VelocityMethodInvokationTest acts as a publisher for observer Service, which tests Velocity Letter, which creates Route Builder.
+VelocityMethodInvokationTest acts as a publisher for observer ProducerTemplate, which tests Velocity Letter, which creates Route Builder.

@@ -1,0 +1,2 @@
+RefComponentTest acts as a publisher for observer CamelContext, which setups Component, which tests Ref.
+RefComponentTest acts as a publisher for observer Service, which setups Component, which tests Ref.

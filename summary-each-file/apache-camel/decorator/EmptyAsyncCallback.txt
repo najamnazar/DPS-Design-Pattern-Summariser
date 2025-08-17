@@ -1,0 +1,1 @@
+EmptyAsyncCallback acts as a component for decorator EventNotifierCallback, which overrides doneAsyncCallback.

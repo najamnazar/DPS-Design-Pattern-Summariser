@@ -1,0 +1,1 @@
+AnnotatedBeanDefinitionReader acts as a factory method for BeanDefinitionRegistry, which is inherited by ParserContext, AbstractBeanDefinitionReader, AbstractBeanDefinitionReader, AbstractBeanDefinitionReader, BeanDefinitionReader, ClassPathScanningCandidateComponentProvider.

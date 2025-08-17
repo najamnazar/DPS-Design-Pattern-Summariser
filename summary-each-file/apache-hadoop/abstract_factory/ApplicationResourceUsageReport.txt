@@ -1,0 +1,1 @@
+ApplicationResourceUsageReport acts as an abstract product for ApplicationResourceUsageReport, which is inherited by ApplicationResourceUsageReportPBImpl.

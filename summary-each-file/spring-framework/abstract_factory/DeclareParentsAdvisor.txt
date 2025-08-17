@@ -1,0 +1,1 @@
+DeclareParentsAdvisor acts as a factory for IntroductionAdvisor, which overrides getClassFilter method of IntroductionAdvisor, validateInterfaces method of IntroductionAdvisor.

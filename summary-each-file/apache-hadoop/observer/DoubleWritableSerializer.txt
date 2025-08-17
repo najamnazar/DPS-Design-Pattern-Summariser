@@ -1,0 +1,1 @@
+DoubleWritableSerializer acts as a publisher for observer Writable, which gets Writable parameter of w Length.

@@ -1,0 +1,1 @@
+BatchProcessingEnvImpl acts as an adapter, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl.

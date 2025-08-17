@@ -1,0 +1,1 @@
+YarnRPC acts as an adaptee for adapter TestApplicationACLs, which adapts to ParameterizedSchedulerTestBase, which adapts to ParameterizedSchedulerTestBase, which adapts to ParameterizedSchedulerTestBase, which adapts to ParameterizedSchedulerTestBase, which adapts to ParameterizedSchedulerTestBase.

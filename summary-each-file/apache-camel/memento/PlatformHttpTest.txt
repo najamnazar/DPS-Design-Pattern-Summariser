@@ -1,0 +1,1 @@
+PlatformHttpTest acts as a caretaker for memento Context, which tests Get, which tests Post, which routeses.

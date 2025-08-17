@@ -1,0 +1,1 @@
+ISimpleMXBean acts as an abstract product for SimpleBeanFixture, which is inherited by SimpleBean.

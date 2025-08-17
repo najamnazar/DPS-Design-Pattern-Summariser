@@ -1,0 +1,1 @@
+SessionStatus acts as an adaptee for adapter InitBinderBindingContext, which adapts to BindingContext, which adapts to BindingContext.

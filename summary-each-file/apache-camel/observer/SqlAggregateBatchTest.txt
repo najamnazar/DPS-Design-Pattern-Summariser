@@ -1,0 +1,5 @@
+SqlAggregateBatchTest acts as a publisher for observer FluentProducerTemplate, which tests Batch, which sets Up, which tears Down, which creates Route Builder.
+SqlAggregateBatchTest acts as a publisher for observer Service, which tests Batch, which sets Up, which tears Down, which creates Route Builder.
+SqlAggregateBatchTest acts as a publisher for observer CamelContext, which tests Batch, which sets Up, which tears Down, which creates Route Builder.
+SqlAggregateBatchTest acts as a publisher for observer ConsumerTemplate, which tests Batch, which sets Up, which tears Down, which creates Route Builder.
+SqlAggregateBatchTest acts as a publisher for observer ProducerTemplate, which tests Batch, which sets Up, which tears Down, which creates Route Builder.

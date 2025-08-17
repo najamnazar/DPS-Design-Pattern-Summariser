@@ -1,0 +1,1 @@
+DefaultJavaElementComparator acts as a caretaker for memento C, which gets BodyDeclaration parameter of node Category, which compares Object parameter of o1, Object parameter of o2, which builds BodyDeclaration parameter of node Signature, which builds Type parameter of type Signature, which builds Name parameter of name Signature.

@@ -1,0 +1,2 @@
+TryProcessorHandleWrappedExceptionTest acts as a publisher for observer Service, which tests Try Catch Finally, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.
+TryProcessorHandleWrappedExceptionTest acts as a publisher for observer CamelContext, which tests Try Catch Finally, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

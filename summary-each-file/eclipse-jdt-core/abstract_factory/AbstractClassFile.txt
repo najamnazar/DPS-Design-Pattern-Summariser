@@ -1,0 +1,3 @@
+AbstractClassFile acts as a product for IPackageFragment, which overrides becomeWorkingCopy method of IClassFile, getBytes method of IClassFile.
+AbstractClassFile acts as a factory for IClassFile, which overrides becomeWorkingCopy method of IClassFile, getBytes method of IClassFile.
+AbstractClassFile acts as a product for IMember, which overrides becomeWorkingCopy method of IClassFile, getBytes method of IClassFile.

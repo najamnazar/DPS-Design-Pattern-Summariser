@@ -1,0 +1,3 @@
+JettyClassPathResource acts as a product for ResourceAware, which overrides exists method of Resource, getURL method of Resource, getInputStream method of Resource.
+JettyClassPathResource acts as a product for ResourceLoader, which overrides exists method of Resource, getURL method of Resource, getInputStream method of Resource.
+JettyClassPathResource acts as a product for Route, which overrides exists method of Resource, getURL method of Resource, getInputStream method of Resource.

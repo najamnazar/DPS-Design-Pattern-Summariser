@@ -1,0 +1,1 @@
+FileResumeAdapter acts as a product for ResumeStrategy, which overrides.

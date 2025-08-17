@@ -1,0 +1,2 @@
+CacheManager acts as a factory for NoOpCacheManager, which overrides.
+CacheManager acts as an abstract product for JCacheManagerFactoryBean, which is inherited by NoOpCacheManager, ConcurrentMapCacheManager, CaffeineCacheManager, TransactionAwareCacheManagerProxy, AbstractCacheManager, CompositeCacheManager.

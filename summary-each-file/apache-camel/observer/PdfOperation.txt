@@ -1,0 +1,1 @@
+PdfOperation acts as an observer for publisher PdfConfiguration, which is inherited by.

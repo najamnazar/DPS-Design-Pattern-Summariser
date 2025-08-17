@@ -1,0 +1,5 @@
+Base64PropertiesFunctionOptionalTest acts as a publisher for observer Service, which tests Base64Key, which creates Route Builder.
+Base64PropertiesFunctionOptionalTest acts as a publisher for observer ProducerTemplate, which tests Base64Key, which creates Route Builder.
+Base64PropertiesFunctionOptionalTest acts as a publisher for observer CamelContext, which tests Base64Key, which creates Route Builder.
+Base64PropertiesFunctionOptionalTest acts as a publisher for observer ConsumerTemplate, which tests Base64Key, which creates Route Builder.
+Base64PropertiesFunctionOptionalTest acts as a publisher for observer FluentProducerTemplate, which tests Base64Key, which creates Route Builder.

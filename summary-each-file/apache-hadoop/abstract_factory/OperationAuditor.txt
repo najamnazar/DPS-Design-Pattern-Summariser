@@ -1,0 +1,2 @@
+OperationAuditor acts as an abstract product for OperationAuditor, which is inherited by AbstractOperationAuditor.
+OperationAuditor acts as an abstract factory for AuditSpanS3A, which is inherited by AbstractOperationAuditor.

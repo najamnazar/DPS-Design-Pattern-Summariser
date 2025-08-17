@@ -1,0 +1,1 @@
+MemberElementInfo acts as a target for adapter AnnotatableInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo, which adapts to MemberElementInfo.

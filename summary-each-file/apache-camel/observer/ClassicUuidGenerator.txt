@@ -1,0 +1,1 @@
+ClassicUuidGenerator acts as an observer, which gets Host Name, which sanitizes String parameter of hostName Host Name, which generates Uuid, which generates Sanitized Id, which generates String parameter of id Sanitized Id.

@@ -1,0 +1,1 @@
+AppAttemptBlock acts as a target for adapter RMAppAttemptBlock, which adapts to AppAttemptBlock, which adapts to AppAttemptBlock, which adapts to AppAttemptBlock, which adapts to AppAttemptBlock, which adapts to AppAttemptBlock, which adapts to AppAttemptBlock, which adapts to AppAttemptBlock.

@@ -1,0 +1,2 @@
+CorsFilter acts as a caretaker for memento Configuration, which sets CorsProcessor parameter of processor Cors Processor, which does HttpServletRequest parameter of request, HttpServletResponse parameter of response, FilterChain parameter of filterChain Filter Internal.
+CorsFilter acts as a caretaker for memento C, which sets CorsProcessor parameter of processor Cors Processor, which does HttpServletRequest parameter of request, HttpServletResponse parameter of response, FilterChain parameter of filterChain Filter Internal.

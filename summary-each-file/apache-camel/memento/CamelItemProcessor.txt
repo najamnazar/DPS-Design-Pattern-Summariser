@@ -1,0 +1,1 @@
+CamelItemProcessor acts as a caretaker for memento Producer, which processes I parameter of i.

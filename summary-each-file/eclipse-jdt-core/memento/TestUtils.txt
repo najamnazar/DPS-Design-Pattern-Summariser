@@ -1,0 +1,1 @@
+TestUtils acts as an originator for memento String, which converts String parameter of source To Independent Line Delimiter, which converts String parameter of source To Independent Line Delimiter.

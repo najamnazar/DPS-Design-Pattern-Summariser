@@ -1,0 +1,3 @@
+SpringConstraintValidatorFactory acts as a caretaker for memento A, which gets Class<T> parameter of key Instance, which releases ConstraintValidator<?, parameter of ?> Instance.
+SpringConstraintValidatorFactory acts as a caretaker for memento B, which gets Class<T> parameter of key Instance, which releases ConstraintValidator<?, parameter of ?> Instance.
+SpringConstraintValidatorFactory acts as a caretaker for memento C, which gets Class<T> parameter of key Instance, which releases ConstraintValidator<?, parameter of ?> Instance.

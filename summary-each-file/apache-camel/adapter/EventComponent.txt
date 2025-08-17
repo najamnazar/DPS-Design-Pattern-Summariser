@@ -1,0 +1,1 @@
+EventComponent acts as an adaptee for adapter SpringCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext, which adapts to DefaultCamelContext.

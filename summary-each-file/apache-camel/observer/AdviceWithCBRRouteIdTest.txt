@@ -1,0 +1,2 @@
+AdviceWithCBRRouteIdTest acts as a publisher for observer CamelContext, which tests Advice CBR, which tests Advice To String CBR, which creates Route Builder.
+AdviceWithCBRRouteIdTest acts as a publisher for observer Service, which tests Advice CBR, which tests Advice To String CBR, which creates Route Builder.

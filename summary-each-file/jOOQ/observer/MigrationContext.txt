@@ -1,0 +1,1 @@
+MigrationContext acts as an observer, which migrateds Schemas, which migrations From, which migrations To, which migrations Queries, which querieses From, which querieses To, which querieses, which queries.

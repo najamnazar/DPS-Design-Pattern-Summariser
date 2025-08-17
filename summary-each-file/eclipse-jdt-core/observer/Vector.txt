@@ -1,0 +1,1 @@
+Vector acts as an observer for publisher TestTreeModel, which is inherited by, which sizes, which gets int parameter of i, which adds E parameter of o.

@@ -1,0 +1,2 @@
+ComponentResolvePropertyPlaceholdersTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Properties Component Endpoint, which creates Camel Context.
+ComponentResolvePropertyPlaceholdersTest acts as a publisher for observer Service, which is Use Route Builder, which tests Properties Component Endpoint, which creates Camel Context.

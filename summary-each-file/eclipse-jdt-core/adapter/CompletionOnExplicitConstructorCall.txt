@@ -1,0 +1,1 @@
+CompletionOnExplicitConstructorCall acts as an adapter, which adapts to ExplicitConstructorCall, which adapts to ExplicitConstructorCall.

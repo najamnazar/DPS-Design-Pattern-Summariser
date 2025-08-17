@@ -1,0 +1,2 @@
+CamelAwsXRayTestSupport acts as a factory for CamelAwsXRayTestSupport, which overrides.
+CamelAwsXRayTestSupport acts as a factory method for InterceptStrategy, which is inherited by CamelAwsXRayTestSupport, CamelAwsXRayTestSupport, CamelOpenTracingTestSupport, CamelAwsXRayTestSupport, CamelAwsXRayTestSupport, CamelOpenTracingTestSupport, CamelOpenTracingTestSupport, CamelOpenTracingTestSupport, CamelOpenTracingTestSupport, CamelAwsXRayTestSupport, CamelAwsXRayTestSupport, CamelOpenTracingTestSupport, CamelAwsXRayTestSupport, CamelAwsXRayTestSupport.

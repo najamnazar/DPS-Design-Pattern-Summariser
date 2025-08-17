@@ -1,0 +1,1 @@
+SessionTokenIdentifier acts as an adapter, which adapts to AbstractS3ATokenIdentifier, which adapts to AbstractS3ATokenIdentifier, which adapts to AbstractS3ATokenIdentifier, which adapts to AbstractS3ATokenIdentifier, which adapts to AbstractS3ATokenIdentifier.

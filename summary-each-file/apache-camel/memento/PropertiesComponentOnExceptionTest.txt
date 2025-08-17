@@ -1,0 +1,2 @@
+PropertiesComponentOnExceptionTest acts as a caretaker for memento Context, which tests Properties Component On Exception, which creates Route Builder, which creates Registry, which creates Camel Context.
+PropertiesComponentOnExceptionTest acts as a caretaker for memento Producer, which tests Properties Component On Exception, which creates Route Builder, which creates Registry, which creates Camel Context.

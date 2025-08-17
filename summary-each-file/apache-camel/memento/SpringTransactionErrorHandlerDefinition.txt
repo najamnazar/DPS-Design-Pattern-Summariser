@@ -1,0 +1,1 @@
+SpringTransactionErrorHandlerDefinition acts as a memento, which is inherited by SpringTransactionErrorHandlerBuilder, which clones Builder.

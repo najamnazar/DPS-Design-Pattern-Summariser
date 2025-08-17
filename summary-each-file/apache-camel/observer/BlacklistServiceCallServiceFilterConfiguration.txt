@@ -1,0 +1,1 @@
+BlacklistServiceCallServiceFilterConfiguration acts as an observer, which gets Servers, which sets List<String> parameter of servers Servers, which serverses List<String> parameter of servers, which serverses String parameter of servers, which posts CamelContext parameter of camelContext, Map<String, parameter of Object> Process Factory Parameters.

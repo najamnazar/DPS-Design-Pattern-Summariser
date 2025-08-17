@@ -1,0 +1,2 @@
+AddressDependentPhoneNumberEndpointConfiguration acts as a publisher for observer TwilioApiName, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Path Address Sid, which sets String parameter of pathAddressSid Path Address Sid.
+AddressDependentPhoneNumberEndpointConfiguration acts as an observer, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Path Address Sid, which sets String parameter of pathAddressSid Path Address Sid.

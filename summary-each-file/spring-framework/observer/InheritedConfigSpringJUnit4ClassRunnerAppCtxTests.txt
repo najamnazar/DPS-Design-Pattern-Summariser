@@ -1,0 +1,2 @@
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer ApplicationContext.
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer Employee.

@@ -1,0 +1,1 @@
+JacksonProtobufDataFormat acts as a caretaker for memento Context, which gets Data Format Name, which gets Default Content Type, which creates New Object Mapper, which gets Object Mapper Class.

@@ -1,0 +1,1 @@
+CxfConfigurer acts as an abstract product for HostnameVerifierCxfConfigurer, which is inherited by ChainedCxfConfigurer, HostnameVerifierCxfConfigurer, SslCxfConfigurer.

@@ -1,0 +1,1 @@
+EmbeddableColumnDefinition acts as a memento, which is inherited by DefaultEmbeddableColumnDefinition, which gets Referencing Column Position, which gets Referencing Column Position.

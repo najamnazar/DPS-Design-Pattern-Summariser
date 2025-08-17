@@ -1,0 +1,1 @@
+InMemoryReader acts as a publisher for observer DataInputBuffer, which is inherited by, which resets int parameter of offset, which gets Position, which gets Length, which dumps On Error, which nexts DataInputBuffer parameter of key Raw Key, which nexts DataInputBuffer parameter of value Raw Value, which closes.

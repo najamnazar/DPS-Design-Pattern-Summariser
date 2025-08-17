@@ -1,0 +1,1 @@
+AMDefinition acts as an observer for publisher JobDefinition, which is inherited by AMDefinitionRumen, AMDefinitionSLS, AMDefinitionSynth, which gets Am Type, which gets User, which gets Old App Id, which gets Job Start Time, which gets Job Finish Time, which gets Task Containers, which gets Am Resource, which gets Label Expression, which gets Queue, which gets Job Count.

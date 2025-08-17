@@ -1,0 +1,2 @@
+Ses2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Ses Client.
+Ses2ClientStandardImpl acts as a memento, which gets Ses Client.

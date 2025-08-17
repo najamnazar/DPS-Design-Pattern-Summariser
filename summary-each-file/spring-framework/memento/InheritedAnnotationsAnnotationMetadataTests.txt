@@ -1,0 +1,1 @@
+InheritedAnnotationsAnnotationMetadataTests acts as a caretaker for memento A, which gets Annotation Types, which has Annotation, which gets Meta Annotation Types, which has Meta Annotation, which is Annotated, which gets Annotation Attributes, which gets All Annotation Attributes.

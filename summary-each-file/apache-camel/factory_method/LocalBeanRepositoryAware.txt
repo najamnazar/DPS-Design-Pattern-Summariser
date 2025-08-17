@@ -1,0 +1,2 @@
+LocalBeanRepositoryAware acts as a factory for LocalBeanRepositoryAware, which overrides.
+LocalBeanRepositoryAware acts as a factory method for BeanRepository, which is inherited by AbstractReifier, AbstractReifier, AbstractReifier, AbstractReifier, AbstractReifier, AbstractReifier, LocalBeanRepositoryAware, RouteTemplateContext, DefaultRegistry, AbstractReifier, AbstractReifier.

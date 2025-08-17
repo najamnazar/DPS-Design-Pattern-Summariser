@@ -1,0 +1,1 @@
+QueueConfigurationAutoRefreshPolicy acts as a caretaker for memento Clock, which inits final parameter of Configuration, final parameter of RMContext, final parameter of ResourceScheduler, which edits Schedule, which gets Last Reload Attempt, which gets Last Modified, which gets Clock, which gets Last Reload Attempt Failed, which gets Monitoring Interval, which gets Policy Name.

@@ -1,0 +1,2 @@
+MarshalDefinition acts as a publisher for observer DataFormatDefinition, which is inherited by, which tos String, which descriptions, which gets Short Name, which gets Label, which gets Data Format Type, which sets DataFormatDefinition parameter of dataFormatType Data Format Type.
+MarshalDefinition acts as a publisher for observer DataFormatDefinition, which tos String, which descriptions, which gets Short Name, which gets Label, which gets Data Format Type, which sets DataFormatDefinition parameter of dataFormatType Data Format Type.

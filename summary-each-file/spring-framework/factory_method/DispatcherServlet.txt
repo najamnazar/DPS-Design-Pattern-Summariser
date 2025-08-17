@@ -1,0 +1,5 @@
+DispatcherServlet acts as a factory for DispatcherServlet, which overrides.
+DispatcherServlet acts as a factory for RequestPartIntegrationTests, which overrides.
+DispatcherServlet acts as a factory method for HandlerAdapter, which is inherited by DispatcherServlet.
+DispatcherServlet acts as a factory for UiApplicationContextUtils, which overrides.
+DispatcherServlet acts as a factory for ServerWebExchangeDecorator, which overrides.

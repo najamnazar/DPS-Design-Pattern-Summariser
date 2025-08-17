@@ -1,0 +1,1 @@
+IdentityProvider acts as an adaptee for adapter DecayRpcScheduler, which adapts to RpcScheduler.

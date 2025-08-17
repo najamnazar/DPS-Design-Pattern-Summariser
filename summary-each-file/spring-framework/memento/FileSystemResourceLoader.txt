@@ -1,0 +1,1 @@
+FileSystemResourceLoader acts as a caretaker for memento C, which gets String parameter of path Resource By Path, which gets Path Within Context.

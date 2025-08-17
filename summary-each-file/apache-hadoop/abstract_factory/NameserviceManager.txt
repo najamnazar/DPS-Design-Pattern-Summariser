@@ -1,0 +1,1 @@
+NameserviceManager acts as an abstract factory for EnableNameserviceResponse, GetDisabledNameservicesResponse, DisableNameserviceResponse, which is inherited by RouterAdminProtocolTranslatorPB.

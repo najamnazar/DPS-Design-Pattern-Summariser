@@ -1,0 +1,2 @@
+RouteGroupTest acts as a publisher for observer CamelContext, which tests Route Group, which creates Route Builder.
+RouteGroupTest acts as a publisher for observer Service, which tests Route Group, which creates Route Builder.

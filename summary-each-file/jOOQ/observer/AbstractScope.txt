@@ -1,0 +1,1 @@
+AbstractScope acts as an observer, which creations Time, which configurations, which dsls, which settingses, which dialects, which families, which datas, which datas Object parameter of key, which datas Object parameter of key, Object parameter of value.

@@ -1,0 +1,1 @@
+AssignableTypeFilter acts as a caretaker for memento C, which gets Target Type, which matches String parameter of className Class Name, which matches String parameter of superClassName Super Class, which matches String parameter of interfaceName Interface, which matches String parameter of typeName Target Type.

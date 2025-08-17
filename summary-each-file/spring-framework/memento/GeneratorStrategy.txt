@@ -1,0 +1,2 @@
+GeneratorStrategy acts as an originator for memento File, which is inherited by, which gets a File File Root to, which gets a File Global References File to, which gets a File File to, which gets a File File to, which gets a File File to.
+GeneratorStrategy acts as an originator for memento Language, which is inherited by, which gets a Language Target Language to, which sets Language parameter of targetLanguage Target Language.

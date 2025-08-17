@@ -1,0 +1,2 @@
+ITypeBinding acts as a factory for RecoveredTypeBinding, which overrides getName method of RecoveredTypeBinding.
+ITypeBinding acts as a factory for ModuleDeclaration, which overrides.

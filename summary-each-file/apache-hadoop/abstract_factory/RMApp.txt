@@ -1,0 +1,1 @@
+RMApp acts as an abstract factory for ApplicationReport, RMAppAttempt, ReservationId, AppCollectorData, Priority, ApplicationSubmissionContext, CollectorInfo, ApplicationId, which is inherited by MockRMApp, RMAppImpl.

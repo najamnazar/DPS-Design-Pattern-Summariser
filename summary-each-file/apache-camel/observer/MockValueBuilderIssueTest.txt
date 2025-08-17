@@ -1,0 +1,2 @@
+MockValueBuilderIssueTest acts as a publisher for observer Service, which tests Mock Value Builder, which tests Mock Value Builder Fail, which tests Mock Value Builder Not Satisfied, which creates Route Builder.
+MockValueBuilderIssueTest acts as a publisher for observer CamelContext, which tests Mock Value Builder, which tests Mock Value Builder Fail, which tests Mock Value Builder Not Satisfied, which creates Route Builder.

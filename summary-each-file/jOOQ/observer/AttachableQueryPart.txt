@@ -1,0 +1,1 @@
+AttachableQueryPart acts as an observer, which gets SQL, which gets ParamType parameter of paramType SQL, which gets Bind Values, which gets Params, which gets String parameter of name Param.

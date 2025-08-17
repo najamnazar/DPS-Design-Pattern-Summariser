@@ -1,0 +1,1 @@
+S3ARemoteObjectReader acts as an observer, which reads ByteBuffer parameter of buffer, long parameter of offset, int parameter of size, which closes, which reads ByteBuffer parameter of buffer, long parameter of offset, int parameter of size One Block With Retries, which reads ByteBuffer parameter of buffer, long parameter of offset, int parameter of size One Block.

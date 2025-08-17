@@ -1,0 +1,1 @@
+JobHistory acts as a factory for HistoryContext, which overrides getAllJobs method of HistoryContext, getPartialJobs method of HistoryContext.

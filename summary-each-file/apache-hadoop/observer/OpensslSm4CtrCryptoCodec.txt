@@ -1,0 +1,1 @@
+OpensslSm4CtrCryptoCodec acts as a publisher for observer Configuration, which gets Logger, which sets Configuration parameter of conf Conf, which gets Cipher Suite, which calculates byte[] parameter of initIV, long parameter of counter, byte[] parameter of iv IV, which creates Encryptor, which creates Decryptor.

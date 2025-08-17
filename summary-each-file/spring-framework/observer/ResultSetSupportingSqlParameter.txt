@@ -1,0 +1,1 @@
+ResultSetSupportingSqlParameter acts as an observer, which is Result Set Supported, which gets Result Set Extractor, which gets Row Callback Handler, which gets Row Mapper, which is Input Value Provided.

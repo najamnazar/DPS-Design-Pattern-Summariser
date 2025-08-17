@@ -1,0 +1,1 @@
+IVariableBinding acts as an observer, which is Field, which is Enum Constant, which is Parameter, which is Record Component, which gets Name, which gets Declaring Class, which gets Type, which gets Variable Id, which gets Constant Value, which gets Declaring Method, which gets Variable Declaration, which is Effectively Final.

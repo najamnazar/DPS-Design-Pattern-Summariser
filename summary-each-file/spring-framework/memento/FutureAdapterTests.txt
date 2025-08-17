@@ -1,0 +1,1 @@
+FutureAdapterTests acts as a caretaker for memento A, which sets Up, which cancels, which is Cancelled, which is Done, which gets, which gets Time Out.

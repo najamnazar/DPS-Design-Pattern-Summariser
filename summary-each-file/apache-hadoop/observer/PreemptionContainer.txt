@@ -1,0 +1,2 @@
+PreemptionContainer acts as an observer for publisher PreemptionContractPBImpl, which is inherited by PreemptionContainerPBImpl, which news ContainerId parameter of id Instance, which gets Id, which sets ContainerId parameter of id Id.
+PreemptionContainer acts as a publisher for observer ContainerId, which is inherited by PreemptionContainerPBImpl, which news ContainerId parameter of id Instance, which gets Id, which sets ContainerId parameter of id Id.

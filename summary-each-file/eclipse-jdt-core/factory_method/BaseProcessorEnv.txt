@@ -1,0 +1,6 @@
+BaseProcessorEnv acts as a factory for BuildEnv, which overrides.
+BaseProcessorEnv acts as a factory for ResolveTests, which overrides.
+BaseProcessorEnv acts as a product for RoundCompleteEvent, which overrides getTypeUtils method of AnnotationProcessorEnvironment, getDeclarationUtils method of AnnotationProcessorEnvironment, addListener method of AnnotationProcessorEnvironment, removeListener method of AnnotationProcessorEnvironment, getTypeDeclarations method of AnnotationProcessorEnvironment, getSpecifiedTypeDeclarations method of AnnotationProcessorEnvironment, getDeclarationsAnnotatedWith method of AnnotationProcessorEnvironment, getOptions method of AnnotationProcessorEnvironment, getTypeDeclaration method of AnnotationProcessorEnvironment, getPackage method of AnnotationProcessorEnvironment, getFiler method of AnnotationProcessorEnvironment, getMessager method of AnnotationProcessorEnvironment.
+BaseProcessorEnv acts as a factory for AnnotationProcessorEnvironment, which overrides.
+BaseProcessorEnv acts as a factory for ASTRewritingTest, which overrides.
+BaseProcessorEnv acts as a factory for ProcessingEnvironment, which overrides.

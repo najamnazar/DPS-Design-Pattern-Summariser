@@ -1,0 +1,2 @@
+SpringTryCatchMustHaveExceptionConfiguredTest acts as a caretaker for memento Context, which creates Camel Context, which tests Try Catch Must Have Exception Configured.
+SpringTryCatchMustHaveExceptionConfiguredTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Try Catch Must Have Exception Configured.

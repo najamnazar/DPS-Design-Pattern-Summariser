@@ -1,0 +1,1 @@
+BatchSaveFederationQueuePoliciesResponse acts as an abstract product for BatchSaveFederationQueuePoliciesResponse, which is inherited by BatchSaveFederationQueuePoliciesResponsePBImpl.

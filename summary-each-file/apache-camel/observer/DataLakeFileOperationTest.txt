@@ -1,0 +1,5 @@
+DataLakeFileOperationTest acts as a publisher for observer Service, which setups, which tests Get File, which tests Upload File.
+DataLakeFileOperationTest acts as a publisher for observer ConsumerTemplate, which setups, which tests Get File, which tests Upload File.
+DataLakeFileOperationTest acts as a publisher for observer FluentProducerTemplate, which setups, which tests Get File, which tests Upload File.
+DataLakeFileOperationTest acts as a publisher for observer CamelContext, which setups, which tests Get File, which tests Upload File.
+DataLakeFileOperationTest acts as a publisher for observer ProducerTemplate, which setups, which tests Get File, which tests Upload File.

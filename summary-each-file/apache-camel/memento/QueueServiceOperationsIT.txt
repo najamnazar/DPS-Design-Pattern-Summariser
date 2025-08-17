@@ -1,0 +1,1 @@
+QueueServiceOperationsIT acts as a caretaker for memento Configuration, which setups, which tests List Queues, which tears Down.

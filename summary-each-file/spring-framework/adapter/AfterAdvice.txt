@@ -1,0 +1,2 @@
+AfterAdvice acts as an adaptee for adapter AspectJAfterReturningAdvice.
+AfterAdvice acts as an adaptee for adapter AspectJAfterThrowingAdvice.

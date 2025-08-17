@@ -1,0 +1,3 @@
+AlterViewImpl acts as a product for DSLContext, which overrides.
+AlterViewImpl acts as a factory for AlterViewStep, which overrides.
+AlterViewImpl acts as a product for AlterViewStep, which overrides.

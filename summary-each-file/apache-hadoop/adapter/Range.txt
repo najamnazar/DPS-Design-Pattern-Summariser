@@ -1,0 +1,1 @@
+Range acts as an adaptee for adapter ObjectRangeInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

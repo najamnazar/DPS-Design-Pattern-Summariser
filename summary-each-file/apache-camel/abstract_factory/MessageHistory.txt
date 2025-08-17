@@ -1,0 +1,2 @@
+MessageHistory acts as an abstract product for MessageHistory, which is inherited by DefaultMessageHistory.
+MessageHistory acts as an abstract factory for Message, NamedNode, which is inherited by DefaultMessageHistory.

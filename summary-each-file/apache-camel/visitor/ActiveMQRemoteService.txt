@@ -1,0 +1,1 @@
+ActiveMQRemoteService acts as a visitor for element ExtendedCamelContext, which overrides, which initializes, which shutdowns, which restarts, which services a Address to, which users a Name to, which passwords.

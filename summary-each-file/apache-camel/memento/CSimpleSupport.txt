@@ -1,0 +1,1 @@
+CSimpleSupport acts as a memento, which matches Exchange parameter of exchange, which matches Exchange parameter of exchange.

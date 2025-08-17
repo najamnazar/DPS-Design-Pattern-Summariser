@@ -1,0 +1,11 @@
+LoggingLevel acts as an adaptee for adapter ResumableProcessor, which adapts to AsyncProcessorSupport.
+LoggingLevel acts as an adaptee for adapter ScheduledPollConsumer, which adapts to DefaultConsumer.
+LoggingLevel acts as an adaptee for adapter ScheduledPollEndpoint, which adapts to DefaultEndpoint.
+LoggingLevel acts as an adaptee for adapter JtaTransactionErrorHandler, which adapts to RedeliveryErrorHandler.
+LoggingLevel acts as an adaptee for adapter ControlBusEndpoint, which adapts to DefaultEndpoint.
+LoggingLevel acts as an adaptee for adapter FileChangedExclusiveReadLockStrategy, which adapts to MarkerFileExclusiveReadLockStrategy.
+LoggingLevel acts as an adaptee for adapter GenericFileEndpoint, which adapts to ScheduledPollEndpoint.
+LoggingLevel acts as an adaptee for adapter LegacyTransactionErrorHandlerBuilder, which adapts to LegacyDefaultErrorHandlerBuilder.
+LoggingLevel acts as an adaptee for adapter FileLockExclusiveReadLockStrategy, which adapts to MarkerFileExclusiveReadLockStrategy.
+LoggingLevel acts as an adaptee for adapter TransactionErrorHandler, which adapts to RedeliveryErrorHandler.
+LoggingLevel acts as an adaptee for adapter ThrottlingInflightRoutePolicy, which adapts to RoutePolicySupport.

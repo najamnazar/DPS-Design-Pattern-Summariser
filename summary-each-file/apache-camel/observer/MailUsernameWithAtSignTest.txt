@@ -1,0 +1,5 @@
+MailUsernameWithAtSignTest acts as a publisher for observer CamelContext, which tests Mail Using At Sign In Username, which creates Route Builder.
+MailUsernameWithAtSignTest acts as a publisher for observer Service, which tests Mail Using At Sign In Username, which creates Route Builder.
+MailUsernameWithAtSignTest acts as a publisher for observer ConsumerTemplate, which tests Mail Using At Sign In Username, which creates Route Builder.
+MailUsernameWithAtSignTest acts as a publisher for observer FluentProducerTemplate, which tests Mail Using At Sign In Username, which creates Route Builder.
+MailUsernameWithAtSignTest acts as a publisher for observer ProducerTemplate, which tests Mail Using At Sign In Username, which creates Route Builder.

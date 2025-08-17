@@ -1,0 +1,1 @@
+ServletCookieValueMethodArgumentResolver acts as a publisher for observer UrlPathHelper, which is inherited by, which sets UrlPathHelper parameter of urlPathHelper Url Path Helper, which resolves String parameter of cookieName, MethodParameter parameter of parameter, NativeWebRequest parameter of webRequest Name.

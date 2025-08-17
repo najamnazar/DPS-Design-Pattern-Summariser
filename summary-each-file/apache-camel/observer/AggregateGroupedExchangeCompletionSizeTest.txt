@@ -1,0 +1,2 @@
+AggregateGroupedExchangeCompletionSizeTest acts as a publisher for observer Service, which tests Grouped, which creates Route Builder.
+AggregateGroupedExchangeCompletionSizeTest acts as a publisher for observer CamelContext, which tests Grouped, which creates Route Builder.

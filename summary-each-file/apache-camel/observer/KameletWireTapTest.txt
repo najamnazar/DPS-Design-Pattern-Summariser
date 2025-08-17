@@ -1,0 +1,5 @@
+KameletWireTapTest acts as a publisher for observer Service, which tests Wire Tap, which creates Route Builder.
+KameletWireTapTest acts as a publisher for observer CamelContext, which tests Wire Tap, which creates Route Builder.
+KameletWireTapTest acts as a publisher for observer FluentProducerTemplate, which tests Wire Tap, which creates Route Builder.
+KameletWireTapTest acts as a publisher for observer ConsumerTemplate, which tests Wire Tap, which creates Route Builder.
+KameletWireTapTest acts as a publisher for observer ProducerTemplate, which tests Wire Tap, which creates Route Builder.

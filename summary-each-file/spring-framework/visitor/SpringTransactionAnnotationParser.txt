@@ -1,0 +1,1 @@
+SpringTransactionAnnotationParser acts as a visitor for element Advised, which overrides, which is a Candidate Class to, which parses a Transaction Annotation to, which parses a Transaction Annotation to, which parses a Transaction Annotation to, which equals @Nullable parameter of Object, which hashes a Code to.

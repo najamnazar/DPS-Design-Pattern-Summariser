@@ -1,0 +1,1 @@
+RowIdImpl acts as a product for DiagnosticsResultSet, which overrides.

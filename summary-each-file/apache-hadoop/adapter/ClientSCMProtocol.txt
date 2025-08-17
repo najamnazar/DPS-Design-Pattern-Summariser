@@ -1,0 +1,3 @@
+ClientSCMProtocol acts as a target for adapter ClientProtocolService, which adapts to ClientSCMProtocol, which adapts to ClientSCMProtocol.
+ClientSCMProtocol acts as an adaptee for adapter ClientProtocolService, which adapts to ClientSCMProtocol, AbstractService, which adapts to ClientSCMProtocol, AbstractService.
+ClientSCMProtocol acts as a target for adapter ClientSCMProtocolPBClientImpl, which adapts to ClientSCMProtocol, which adapts to ClientSCMProtocol.

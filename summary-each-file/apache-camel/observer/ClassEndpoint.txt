@@ -1,0 +1,3 @@
+ClassEndpoint acts as a publisher for observer BeanScope.
+ClassEndpoint acts as a publisher for observer BeanHolder.
+ClassEndpoint acts as a publisher for observer Processor.

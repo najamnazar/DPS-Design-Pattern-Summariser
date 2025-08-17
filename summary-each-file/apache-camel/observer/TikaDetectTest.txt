@@ -1,0 +1,5 @@
+TikaDetectTest acts as a publisher for observer Service, which tests Document Detect, which tests Image Detect, which creates Route Builder.
+TikaDetectTest acts as a publisher for observer ProducerTemplate, which tests Document Detect, which tests Image Detect, which creates Route Builder.
+TikaDetectTest acts as a publisher for observer ConsumerTemplate, which tests Document Detect, which tests Image Detect, which creates Route Builder.
+TikaDetectTest acts as a publisher for observer FluentProducerTemplate, which tests Document Detect, which tests Image Detect, which creates Route Builder.
+TikaDetectTest acts as a publisher for observer CamelContext, which tests Document Detect, which tests Image Detect, which creates Route Builder.

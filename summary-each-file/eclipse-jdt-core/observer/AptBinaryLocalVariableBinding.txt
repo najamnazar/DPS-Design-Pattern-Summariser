@@ -1,0 +1,1 @@
+AptBinaryLocalVariableBinding acts as an observer, which gets Annotations, which hashes Code, which equals Object parameter of obj.

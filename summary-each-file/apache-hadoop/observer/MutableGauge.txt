@@ -1,0 +1,1 @@
+MutableGauge acts as an observer, which infos, which incrs, which decrs.

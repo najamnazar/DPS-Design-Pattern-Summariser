@@ -1,0 +1,2 @@
+RecipientListParallelTest acts as a publisher for observer Service, which tests Recipient List Parallel, which creates Route Builder.
+RecipientListParallelTest acts as a publisher for observer CamelContext, which tests Recipient List Parallel, which creates Route Builder.

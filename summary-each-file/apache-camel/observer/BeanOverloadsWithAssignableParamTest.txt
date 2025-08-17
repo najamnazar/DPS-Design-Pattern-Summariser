@@ -1,0 +1,2 @@
+BeanOverloadsWithAssignableParamTest acts as a publisher for observer CamelContext, which tests To String With String Param, which creates Route Builder.
+BeanOverloadsWithAssignableParamTest acts as a publisher for observer Service, which tests To String With String Param, which creates Route Builder.

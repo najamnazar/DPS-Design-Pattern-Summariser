@@ -1,0 +1,1 @@
+PgInherits acts as an adaptee for adapter PgCatalog, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl.

@@ -1,0 +1,2 @@
+RouteSuspendResumeWarmUpTest acts as a publisher for observer CamelContext, which tests Route Suspend Resume Warm Up Test, which creates Route Builder, which processes Exchange parameter of exchange, which does Start, which does Stop, which gets State.
+RouteSuspendResumeWarmUpTest acts as a publisher for observer Service, which tests Route Suspend Resume Warm Up Test, which creates Route Builder, which processes Exchange parameter of exchange, which does Start, which does Stop, which gets State.

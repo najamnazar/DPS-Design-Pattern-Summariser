@@ -1,0 +1,2 @@
+DeskewedJobTraceReader acts as an observer, which compares LoggedJob parameter of j1, LoggedJob parameter of j2, which raws Next Job, which nexts Job, which fills Skew Buffer, which needs Skew Buffer Size, which closes.
+DeskewedJobTraceReader acts as a publisher for observer LoggedJob, which is inherited by, which compares LoggedJob parameter of j1, LoggedJob parameter of j2, which raws Next Job, which nexts Job, which fills Skew Buffer, which needs Skew Buffer Size, which closes.

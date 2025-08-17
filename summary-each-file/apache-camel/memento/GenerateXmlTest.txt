@@ -1,0 +1,1 @@
+GenerateXmlTest acts as a caretaker for memento Context, which tests Create Simple Xml, which tests Groovy Filter Xml, which dumps RouteContainer parameter of context.

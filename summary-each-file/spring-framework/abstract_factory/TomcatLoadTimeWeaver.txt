@@ -1,0 +1,1 @@
+TomcatLoadTimeWeaver acts as a product for LoadTimeWeavingConfigurer, which overrides addTransformer method of LoadTimeWeaver, getInstrumentableClassLoader method of LoadTimeWeaver, getThrowawayClassLoader method of LoadTimeWeaver.

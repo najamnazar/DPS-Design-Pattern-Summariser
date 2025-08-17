@@ -1,0 +1,3 @@
+LegacyErrorHandlerBuilderSupport acts as a target for adapter LegacyDefaultErrorHandlerBuilder, which adapts to LegacyErrorHandlerBuilderSupport.
+LegacyErrorHandlerBuilderSupport acts as a target for adapter LegacyErrorHandlerBuilderRef, which adapts to LegacyErrorHandlerBuilderSupport.
+LegacyErrorHandlerBuilderSupport acts as a target for adapter LegacyNoErrorHandlerBuilder, which adapts to LegacyErrorHandlerBuilderSupport.

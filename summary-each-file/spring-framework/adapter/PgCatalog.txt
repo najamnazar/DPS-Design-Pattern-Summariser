@@ -1,0 +1,2 @@
+PgCatalog acts as an adaptee for adapter PgCatalog, which adapts to SchemaImpl, which adapts to SchemaImpl.
+PgCatalog acts as an adapter, which adapts to SchemaImpl, which adapts to SchemaImpl.

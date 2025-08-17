@@ -1,0 +1,1 @@
+GetTaskReportResponse acts as a publisher for observer TaskReport, which is inherited by GetTaskReportResponsePBImpl, which gets Task Report, which sets TaskReport parameter of taskReport Task Report.

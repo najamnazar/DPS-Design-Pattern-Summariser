@@ -1,0 +1,2 @@
+GroupConcatOrderByStep acts as a product for GroupConcatOrderByStep, which overrides.
+GroupConcatOrderByStep acts as an abstract factory for GroupConcatSeparatorStep, which is inherited by GroupConcat.

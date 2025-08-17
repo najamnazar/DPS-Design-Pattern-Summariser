@@ -1,0 +1,1 @@
+TestBlockPlacementStatusWithUpgradeDomain acts as a caretaker for memento BlockPlacementStatus, which setups, which tests Is Policy Satisfied Parent False, which tests Is Policy Satisfied All Equal, which tests Is Policy Satisfied Small Domains, which tests Is Policy Satisfied Small Replicas, which tests Policy Is Not Satisfied Insufficient Domains.

@@ -1,0 +1,1 @@
+ConvertingSubscriber acts as a caretaker for memento Context, which ons Subscription parameter of subscription Subscribe, which ons R parameter of r Next, which ons Throwable parameter of throwable Error, which ons Complete.

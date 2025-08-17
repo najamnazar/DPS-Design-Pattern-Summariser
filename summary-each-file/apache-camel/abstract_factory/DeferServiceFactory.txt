@@ -1,0 +1,2 @@
+DeferServiceFactory acts as an abstract factory for Producer, which is inherited by DefaultDeferServiceFactory.
+DeferServiceFactory acts as an abstract product for DeferServiceFactory, which is inherited by DefaultDeferServiceFactory.

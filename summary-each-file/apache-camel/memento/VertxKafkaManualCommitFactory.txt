@@ -1,0 +1,1 @@
+VertxKafkaManualCommitFactory acts as an originator for memento VertxKafkaManualCommit, which is inherited by, which creates VertxKafkaManualCommit.

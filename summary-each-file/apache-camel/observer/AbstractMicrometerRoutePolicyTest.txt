@@ -1,0 +1,5 @@
+AbstractMicrometerRoutePolicyTest acts as a publisher for observer ProducerTemplate, which uses Jmx, which adds Registry, which creates Camel Context.
+AbstractMicrometerRoutePolicyTest acts as a publisher for observer ConsumerTemplate, which uses Jmx, which adds Registry, which creates Camel Context.
+AbstractMicrometerRoutePolicyTest acts as a publisher for observer FluentProducerTemplate, which uses Jmx, which adds Registry, which creates Camel Context.
+AbstractMicrometerRoutePolicyTest acts as a publisher for observer CamelContext, which uses Jmx, which adds Registry, which creates Camel Context.
+AbstractMicrometerRoutePolicyTest acts as a publisher for observer Service, which uses Jmx, which adds Registry, which creates Camel Context.

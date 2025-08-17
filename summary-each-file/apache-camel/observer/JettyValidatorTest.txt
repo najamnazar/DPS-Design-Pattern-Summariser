@@ -1,0 +1,5 @@
+JettyValidatorTest acts as a publisher for observer ProducerTemplate, which tests Valid Request, which tests Invalid Request, which creates Route Builder.
+JettyValidatorTest acts as a publisher for observer Service, which tests Valid Request, which tests Invalid Request, which creates Route Builder.
+JettyValidatorTest acts as a publisher for observer CamelContext, which tests Valid Request, which tests Invalid Request, which creates Route Builder.
+JettyValidatorTest acts as a publisher for observer ConsumerTemplate, which tests Valid Request, which tests Invalid Request, which creates Route Builder.
+JettyValidatorTest acts as a publisher for observer FluentProducerTemplate, which tests Valid Request, which tests Invalid Request, which creates Route Builder.

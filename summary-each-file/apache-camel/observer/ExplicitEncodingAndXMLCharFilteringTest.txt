@@ -1,0 +1,5 @@
+ExplicitEncodingAndXMLCharFilteringTest acts as a publisher for observer ProducerTemplate, which tests Iso And Character Filtering, which creates Route Builder.
+ExplicitEncodingAndXMLCharFilteringTest acts as a publisher for observer FluentProducerTemplate, which tests Iso And Character Filtering, which creates Route Builder.
+ExplicitEncodingAndXMLCharFilteringTest acts as a publisher for observer ConsumerTemplate, which tests Iso And Character Filtering, which creates Route Builder.
+ExplicitEncodingAndXMLCharFilteringTest acts as a publisher for observer Service, which tests Iso And Character Filtering, which creates Route Builder.
+ExplicitEncodingAndXMLCharFilteringTest acts as a publisher for observer CamelContext, which tests Iso And Character Filtering, which creates Route Builder.

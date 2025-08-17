@@ -1,0 +1,1 @@
+CsiAdaptorProtocolPBClientImpl acts as an observer, which gets GetPluginInfoRequest parameter of request Plugin Info, which validates ValidateVolumeCapabilitiesRequest parameter of request Volume Capacity, which nodes NodePublishVolumeRequest parameter of request Publish Volume, which nodes NodeUnpublishVolumeRequest parameter of request Unpublish Volume, which closes.

@@ -1,0 +1,2 @@
+StreamCachingPerRouteTest acts as a publisher for observer Service, which tests Stream Caching Per Route, which creates Route Builder.
+StreamCachingPerRouteTest acts as a publisher for observer CamelContext, which tests Stream Caching Per Route, which creates Route Builder.

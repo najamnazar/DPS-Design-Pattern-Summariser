@@ -1,0 +1,1 @@
+SpringBase64DataFormatTestBase acts as a caretaker for memento Context, which runs byte[] parameter of raw, byte[] parameter of expected Encoder Test, which runs byte[] parameter of encoded, byte[] parameter of expected Decoder Test.

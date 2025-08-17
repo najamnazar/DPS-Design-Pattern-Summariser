@@ -1,0 +1,4 @@
+HeaderExpression acts as a publisher for observer ExpressionDefinition, which gets Language, which ends.
+HeaderExpression acts as an observer, which gets Language, which ends.
+HeaderExpression acts as a publisher for observer Predicate, which gets Language, which ends.
+HeaderExpression acts as a publisher for observer Expression, which gets Language, which ends.

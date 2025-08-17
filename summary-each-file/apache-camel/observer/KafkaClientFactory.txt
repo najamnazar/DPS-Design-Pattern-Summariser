@@ -1,0 +1,1 @@
+KafkaClientFactory acts as an observer for publisher KafkaEndpoint, which is inherited by DefaultKafkaClientFactory, which gets Properties parameter of kafkaProps Producer, which gets Properties parameter of kafkaProps Consumer, which gets KafkaConfiguration parameter of configuration Brokers.

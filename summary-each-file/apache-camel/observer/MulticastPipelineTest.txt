@@ -1,0 +1,2 @@
+MulticastPipelineTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Plain Pipeline, which tests Plain Pipeline To, which tests Multicast Pipeline, which tests Multicast Pipeline To.
+MulticastPipelineTest acts as a publisher for observer Service, which is Use Route Builder, which tests Plain Pipeline, which tests Plain Pipeline To, which tests Multicast Pipeline, which tests Multicast Pipeline To.

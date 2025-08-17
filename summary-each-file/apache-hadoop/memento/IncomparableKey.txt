@@ -1,0 +1,1 @@
+IncomparableKey acts as a memento, which compares Object parameter of o To, which compares Object parameter of o To, which compares Object parameter of o To.

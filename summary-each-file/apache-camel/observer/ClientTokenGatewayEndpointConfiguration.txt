@@ -1,0 +1,2 @@
+ClientTokenGatewayEndpointConfiguration acts as an observer, which gets Request, which sets com.braintreegateway.ClientTokenRequest parameter of request Request.
+ClientTokenGatewayEndpointConfiguration acts as a publisher for observer BraintreeApiName, which gets Request, which sets com.braintreegateway.ClientTokenRequest parameter of request Request.

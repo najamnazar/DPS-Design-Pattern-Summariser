@@ -1,0 +1,1 @@
+InfinispanEmbeddedComponent acts as a publisher for observer InfinispanEmbeddedConfiguration, which is inherited by, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which sets InfinispanEmbeddedConfiguration parameter of configuration Configuration, which gets Configuration.

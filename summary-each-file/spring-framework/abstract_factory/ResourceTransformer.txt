@@ -1,0 +1,1 @@
+ResourceTransformer acts as an abstract factory for Resource, which is inherited by ResourceTransformerSupport, CachingResourceTransformer.

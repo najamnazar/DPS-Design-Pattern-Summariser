@@ -1,0 +1,2 @@
+ExceptionCamel4022Test acts as a publisher for observer CamelContext, which tests Exception With Fatal Exception, which processes Exchange parameter of exchange, which creates Route Builder.
+ExceptionCamel4022Test acts as a publisher for observer Service, which tests Exception With Fatal Exception, which processes Exchange parameter of exchange, which creates Route Builder.

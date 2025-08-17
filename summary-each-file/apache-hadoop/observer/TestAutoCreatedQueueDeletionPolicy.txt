@@ -1,0 +1,3 @@
+TestAutoCreatedQueueDeletionPolicy acts as a publisher for observer MockRM, which sets Up, which tears Down, which tests Edit Schedule, which prepares For Schedule, which starts Scheduler, which creates String parameter of queuePath Queue.
+TestAutoCreatedQueueDeletionPolicy acts as a publisher for observer Event, which sets Up, which tears Down, which tests Edit Schedule, which prepares For Schedule, which starts Scheduler, which creates String parameter of queuePath Queue.
+TestAutoCreatedQueueDeletionPolicy acts as a publisher for observer CapacityScheduler, which sets Up, which tears Down, which tests Edit Schedule, which prepares For Schedule, which starts Scheduler, which creates String parameter of queuePath Queue.

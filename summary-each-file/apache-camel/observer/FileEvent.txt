@@ -1,0 +1,1 @@
+FileEvent acts as an observer for publisher FileWatchConsumer, which is inherited by, which gets Event Type, which gets Event Path, which gets Event Date.

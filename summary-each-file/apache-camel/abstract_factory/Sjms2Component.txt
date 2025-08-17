@@ -1,0 +1,1 @@
+Sjms2Component acts as a product for SjmsComponentBuilderFactory, which overrides createSjmsEndpoint method of SjmsComponent.

@@ -1,0 +1,1 @@
+TwoServiceWithExcludeTest acts as an adapter, which adapts to CamelOpenTelemetryTestSupport, which adapts to CamelOpenTelemetryTestSupport, which adapts to CamelOpenTelemetryTestSupport.

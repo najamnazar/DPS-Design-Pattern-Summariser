@@ -1,0 +1,1 @@
+SubClusterRegisterResponse acts as an abstract product for SubClusterRegisterResponse, which is inherited by SubClusterRegisterResponsePBImpl.

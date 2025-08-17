@@ -1,0 +1,1 @@
+TestContainerManagerWithLCE acts as a caretaker for memento ContainerState, which setups, which tears Down, which shoulds Run Test, which creates Container Executor.

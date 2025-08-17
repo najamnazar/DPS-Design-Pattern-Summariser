@@ -1,0 +1,2 @@
+Schema acts as an abstract product for Schema, which is inherited by LazySchema, LazySchema, SchemaImpl, SchemaImpl.
+Schema acts as an abstract product for Schema, which is inherited by LazySchema, SchemaImpl.

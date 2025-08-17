@@ -1,0 +1,1 @@
+IncomingMaskPosition acts as an observer for publisher IncomingSticker, which is inherited by, which gets Point, which sets String parameter of point Point, which getxes Shift, which setxes Float parameter of xShift Shift, which geties Shift, which seties Float parameter of yShift Shift, which gets Scale, which sets Float parameter of scale Scale, which tos String.

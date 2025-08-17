@@ -1,0 +1,6 @@
+CxfRsEndpoint acts as a factory for CxfRsEndpoint, which overrides.
+CxfRsEndpoint acts as a factory for SslCxfRsConfigurer, which overrides.
+CxfRsEndpoint acts as a factory for TransformerRouteTest, which overrides.
+CxfRsEndpoint acts as a factory method for CxfRsBinding, which is inherited by CxfRsEndpoint.
+CxfRsEndpoint acts as a factory for UndertowEndpoint, which overrides.
+CxfRsEndpoint acts as a product for SplunkEndpoint, which overrides.

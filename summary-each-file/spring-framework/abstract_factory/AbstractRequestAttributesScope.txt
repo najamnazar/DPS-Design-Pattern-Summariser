@@ -1,0 +1,1 @@
+AbstractRequestAttributesScope acts as a product for ConfigurableBeanFactory, which overrides.

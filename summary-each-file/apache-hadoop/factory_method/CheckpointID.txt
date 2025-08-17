@@ -1,0 +1,1 @@
+CheckpointID acts as an abstract product for CheckpointService, which is inherited by TaskCheckpointID, FSCheckpointID.

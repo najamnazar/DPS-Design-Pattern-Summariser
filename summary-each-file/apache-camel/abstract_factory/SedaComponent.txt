@@ -1,0 +1,1 @@
+SedaComponent acts as an abstract product for SedaComponent, which is inherited by VmComponent.

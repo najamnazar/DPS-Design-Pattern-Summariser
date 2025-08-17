@@ -1,0 +1,2 @@
+AbstractCompilationEnv acts as a product for EclipseMirrorObject, which overrides addListener method of BaseProcessorEnv, removeListener method of BaseProcessorEnv, getOptions method of BaseProcessorEnv, getFiler method of BaseProcessorEnv.
+AbstractCompilationEnv acts as a factory for EclipseAnnotationProcessorEnvironment, which overrides getAST method of EclipseAnnotationProcessorEnvironment, getMessager method of EclipseAnnotationProcessorEnvironment.

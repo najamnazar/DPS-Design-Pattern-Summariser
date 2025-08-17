@@ -1,0 +1,7 @@
+Consumer acts as an adaptee for adapter ServiceConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+Consumer acts as an adaptee for adapter AbstractJpaMethodTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+Consumer acts as an adaptee for adapter CurrentSpanTest, which adapts to CamelOpenTelemetryTestSupport, which adapts to CamelOpenTelemetryTestSupport, which adapts to CamelOpenTelemetryTestSupport, which adapts to CamelOpenTelemetryTestSupport.
+Consumer acts as an adaptee for adapter EventDrivenPollingConsumer, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport.
+Consumer acts as an adaptee for adapter MasterConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+Consumer acts as an adaptee for adapter ConsumerHealthCheck, which adapts to RouteHealthCheck, which adapts to RouteHealthCheck, which adapts to RouteHealthCheck, which adapts to RouteHealthCheck.
+Consumer acts as an adaptee for adapter FileConsumerSuspendAndResumeTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,2 @@
+JndiCamelSingletonInitialContextFactoryTest acts as a caretaker for memento Context, which sets Up, which creates Registry, which tests Singleton Jndi Context, which creates Route Builder.
+JndiCamelSingletonInitialContextFactoryTest acts as a caretaker for memento Producer, which sets Up, which creates Registry, which tests Singleton Jndi Context, which creates Route Builder.

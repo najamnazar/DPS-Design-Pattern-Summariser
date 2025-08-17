@@ -1,0 +1,2 @@
+ErrorHandler acts as an adaptee for adapter FatalFallbackErrorHandler.
+ErrorHandler acts as an adaptee for adapter JettyHttpComponent.

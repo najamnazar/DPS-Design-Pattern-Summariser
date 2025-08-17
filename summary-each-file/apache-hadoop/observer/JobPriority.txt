@@ -1,0 +1,1 @@
+JobPriority acts as an observer for publisher LoggedJob, ParsedJob, which is inherited by.

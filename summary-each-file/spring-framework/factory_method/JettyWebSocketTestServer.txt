@@ -1,0 +1,1 @@
+JettyWebSocketTestServer acts as a product for AbstractSockJsIntegrationTests, which overrides setup method of WebSocketTestServer, undeployConfig method of WebSocketTestServer, start method of WebSocketTestServer, stop method of WebSocketTestServer, getPort method of WebSocketTestServer, getServletContext method of WebSocketTestServer.

@@ -1,0 +1,5 @@
+FtpXQueryTest acts as a publisher for observer FluentProducerTemplate, which tests XQuery From Ftp, which creates Route Builder.
+FtpXQueryTest acts as a publisher for observer ConsumerTemplate, which tests XQuery From Ftp, which creates Route Builder.
+FtpXQueryTest acts as a publisher for observer ProducerTemplate, which tests XQuery From Ftp, which creates Route Builder.
+FtpXQueryTest acts as a publisher for observer CamelContext, which tests XQuery From Ftp, which creates Route Builder.
+FtpXQueryTest acts as a publisher for observer Service, which tests XQuery From Ftp, which creates Route Builder.

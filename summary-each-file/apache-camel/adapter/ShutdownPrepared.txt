@@ -1,0 +1,1 @@
+ShutdownPrepared acts as an adaptee for adapter AggregateProcessor, which adapts to AsyncProcessorSupport.

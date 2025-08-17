@@ -1,0 +1,5 @@
+ResilienceRouteFallbackTest acts as a publisher for observer ConsumerTemplate, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.
+ResilienceRouteFallbackTest acts as a publisher for observer Service, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.
+ResilienceRouteFallbackTest acts as a publisher for observer CamelContext, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.
+ResilienceRouteFallbackTest acts as a publisher for observer FluentProducerTemplate, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.
+ResilienceRouteFallbackTest acts as a publisher for observer ProducerTemplate, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.

@@ -1,0 +1,2 @@
+QuickTargetSourceCreator acts as a caretaker for memento C, which creates Class<?> parameter of beanClass, String parameter of beanName Bean Factory Based Target Source.
+QuickTargetSourceCreator acts as a caretaker for memento B, which creates Class<?> parameter of beanClass, String parameter of beanName Bean Factory Based Target Source.

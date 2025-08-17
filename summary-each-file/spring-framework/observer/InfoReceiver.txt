@@ -1,0 +1,1 @@
+InfoReceiver acts as an observer for publisher SockJsClient, which is inherited by XhrTransport, which executes URI parameter of infoUrl, @Nullable parameter of HttpHeaders Info Request.

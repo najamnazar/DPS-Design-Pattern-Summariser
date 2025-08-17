@@ -1,0 +1,1 @@
+RegistryOperationsService acts as a decorator for decorator CuratorService.

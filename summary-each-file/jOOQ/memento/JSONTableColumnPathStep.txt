@@ -1,0 +1,2 @@
+JSONTableColumnPathStep acts as an originator for memento JSONTableColumnsStep, which pathes JSONTableColumnsStep.
+JSONTableColumnPathStep acts as a memento, which pathes String parameter of path.

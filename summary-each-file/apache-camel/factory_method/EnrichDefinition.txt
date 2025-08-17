@@ -1,0 +1,1 @@
+EnrichDefinition acts as a factory method for AggregationStrategy, which is inherited by MulticastProcessor, ProcessorReifier, MulticastProcessor.

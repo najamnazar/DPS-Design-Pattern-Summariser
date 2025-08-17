@@ -1,0 +1,1 @@
+DefaultUnitOfWorkFactory acts as an observer, which creates Exchange parameter of exchange Unit Of Work, which afters CamelContext parameter of camelContext Properties Configured.

@@ -1,0 +1,3 @@
+ICompilationUnitLocator acts as an adaptee for adapter AbstractImageBuilder, which adapts to ICompilerRequestor, ICompilationUnitLocator.
+ICompilationUnitLocator acts as a target for adapter AbstractImageBuilder, which adapts to ICompilationUnitLocator.
+ICompilationUnitLocator acts as an adaptee for adapter IdeAnnotationProcessorManager, which adapts to BaseAnnotationProcessorManager.

@@ -1,0 +1,1 @@
+ResponseBuffer acts as a product for NativeFileSystemStore, which overrides.

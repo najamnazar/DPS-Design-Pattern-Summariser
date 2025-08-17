@@ -1,0 +1,1 @@
+Host2NodesMap acts as an adaptee for adapter BlockPlacementPolicyDefault, which adapts to BlockPlacementPolicy, which adapts to BlockPlacementPolicy, which adapts to BlockPlacementPolicy, which adapts to BlockPlacementPolicy, which adapts to BlockPlacementPolicy, which adapts to BlockPlacementPolicy, which adapts to BlockPlacementPolicy.

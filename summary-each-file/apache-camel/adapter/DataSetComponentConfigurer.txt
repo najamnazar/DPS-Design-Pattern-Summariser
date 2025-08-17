@@ -1,0 +1,1 @@
+DataSetComponentConfigurer acts as an adapter, which adapts to MockComponentConfigurer, which adapts to MockComponentConfigurer, which adapts to MockComponentConfigurer.

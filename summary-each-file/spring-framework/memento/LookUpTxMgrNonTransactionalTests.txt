@@ -1,0 +1,3 @@
+LookUpTxMgrNonTransactionalTests acts as a caretaker for memento TransactionManager, which nons Transactional Test, which transactions Manager.
+LookUpTxMgrNonTransactionalTests acts as a caretaker for memento Transaction, which nons Transactional Test, which transactions Manager.
+LookUpTxMgrNonTransactionalTests acts as a caretaker for memento C, which nons Transactional Test, which transactions Manager.

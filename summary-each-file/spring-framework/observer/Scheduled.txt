@@ -1,0 +1,1 @@
+Scheduled acts as an observer for publisher ScheduledAnnotationBeanPostProcessor, which is inherited by.

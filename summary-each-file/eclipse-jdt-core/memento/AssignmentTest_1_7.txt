@@ -1,0 +1,8 @@
+AssignmentTest_1_7 acts as a caretaker for memento List, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento String, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento Map, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento Test, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento C, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento E, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento R, which gets Compiler Options, which suites, which test001s, which tests Class.
+AssignmentTest_1_7 acts as a caretaker for memento S, which gets Compiler Options, which suites, which test001s, which tests Class.

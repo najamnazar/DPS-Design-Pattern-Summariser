@@ -1,0 +1,1 @@
+ResolvedBinaryType acts as an adapter, which adapts to BinaryType, which adapts to BinaryType, which adapts to BinaryType, which adapts to BinaryType, which adapts to BinaryType, which adapts to BinaryType.

@@ -1,0 +1,1 @@
+MergeManager acts as an abstract factory for RawKeyValueIterator, which is inherited by.

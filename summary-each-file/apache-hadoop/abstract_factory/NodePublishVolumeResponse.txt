@@ -1,0 +1,1 @@
+NodePublishVolumeResponse acts as an abstract product for NodePublishVolumeResponse, which is inherited by NodePublishVolumeResponsePBImpl.

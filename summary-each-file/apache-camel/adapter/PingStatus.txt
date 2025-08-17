@@ -1,0 +1,1 @@
+PingStatus acts as an adaptee for adapter TextPublishable.

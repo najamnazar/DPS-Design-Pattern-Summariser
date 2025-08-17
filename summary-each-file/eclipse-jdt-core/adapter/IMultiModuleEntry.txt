@@ -1,0 +1,1 @@
+IMultiModuleEntry acts as an adaptee for adapter ClasspathJrt, which adapts to ClasspathLocation, which adapts to ClasspathLocation.

@@ -1,0 +1,1 @@
+UploadMedia acts as an observer for publisher UploadMediaRequest, which is inherited by, which gets File, which gets Content Type, which gets Name, which gets File Stream.

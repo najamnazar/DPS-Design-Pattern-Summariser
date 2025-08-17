@@ -1,0 +1,2 @@
+FileExclusiveReadLockCopyTest acts as a publisher for observer CamelContext, which tests Copy, which creates Route Builder.
+FileExclusiveReadLockCopyTest acts as a publisher for observer Service, which tests Copy, which creates Route Builder.

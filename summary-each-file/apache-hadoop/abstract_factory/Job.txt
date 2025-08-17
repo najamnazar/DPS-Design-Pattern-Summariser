@@ -1,0 +1,2 @@
+Job acts as an abstract product for Job, which is inherited by MockJob.
+Job acts as an abstract factory for Task, Configuration, Counters, JobId, JobReport, which is inherited by.

@@ -1,0 +1,1 @@
+PatternParseException acts as a caretaker for memento Message, which gets Message, which tos Detailed String, which gets Position, which gets Message Type, which gets Inserts, which formats Object... parameter of inserts Message.

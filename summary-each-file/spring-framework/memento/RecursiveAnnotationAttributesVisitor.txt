@@ -1,0 +1,2 @@
+RecursiveAnnotationAttributesVisitor acts as a caretaker for memento C, which visits End.
+RecursiveAnnotationAttributesVisitor acts as a caretaker for memento A, which visits End.

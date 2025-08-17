@@ -1,0 +1,1 @@
+Constraint acts as an observer for publisher AlterTableRenameConstraintToStep, AlterTableImpl, which is inherited by ConstraintFinalStep.

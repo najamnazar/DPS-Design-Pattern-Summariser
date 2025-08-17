@@ -1,0 +1,3 @@
+AspectJCacheAnnotationTests acts as a caretaker for memento C, which gets Application Context, which tests Key Strategy, which tests CacheableService<?> parameter of service Multi Evict.
+AspectJCacheAnnotationTests acts as a caretaker for memento ApplicationContext, which gets Application Context, which tests Key Strategy, which tests CacheableService<?> parameter of service Multi Evict.
+AspectJCacheAnnotationTests acts as a caretaker for memento A, which gets Application Context, which tests Key Strategy, which tests CacheableService<?> parameter of service Multi Evict.

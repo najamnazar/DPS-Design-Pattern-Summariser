@@ -1,0 +1,1 @@
+TimedSpringRuleTests acts as an adapter, which adapts to TimedSpringRunnerTests, which adapts to TimedSpringRunnerTests, which adapts to TimedSpringRunnerTests.

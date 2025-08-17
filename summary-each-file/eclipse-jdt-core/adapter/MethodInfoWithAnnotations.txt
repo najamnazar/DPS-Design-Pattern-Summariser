@@ -1,0 +1,2 @@
+MethodInfoWithAnnotations acts as a target for adapter MethodInfoWithParameterAnnotations, which adapts to MethodInfoWithAnnotations, which adapts initialize method of AnnotationInfo to MethodInfoWithAnnotations, which adapts reset method of AnnotationInfo to MethodInfoWithAnnotations.
+MethodInfoWithAnnotations acts as an adapter, which adapts to MethodInfo, which adapts to MethodInfo, which adapts to MethodInfo.

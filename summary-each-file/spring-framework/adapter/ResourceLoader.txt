@@ -1,0 +1,3 @@
+ResourceLoader acts as an adaptee for adapter GenericApplicationContext, which adapts to AbstractApplicationContext, which adapts to AbstractApplicationContext.
+ResourceLoader acts as an adaptee for adapter ResourceEntityResolver, which adapts to DelegatingEntityResolver, which adapts to DelegatingEntityResolver.
+ResourceLoader acts as an adaptee for adapter ComponentScanAnnotationIntegrationTests, which adapts to AnnotationBeanNameGenerator, which adapts to AnnotationBeanNameGenerator.

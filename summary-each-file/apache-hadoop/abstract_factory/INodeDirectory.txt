@@ -1,0 +1,1 @@
+INodeDirectory acts as a factory for INodeDirectoryAttributes, which overrides isDirectory method of INodeDirectoryAttributes, getQuotaCounts method of INodeDirectoryAttributes, getQuotaCounts method of INodeDirectoryAttributes, getQuotaCounts method of INodeDirectoryAttributes, metadataEquals method of INodeDirectoryAttributes, metadataEquals method of INodeDirectoryAttributes.

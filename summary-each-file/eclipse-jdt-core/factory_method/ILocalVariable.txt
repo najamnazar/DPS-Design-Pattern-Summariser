@@ -1,0 +1,3 @@
+ILocalVariable acts as a factory for ImportContainer, which overrides.
+ILocalVariable acts as a factory for LocalVariable, which overrides.
+ILocalVariable acts as an abstract product for AbstractJavaModelTests, which is inherited by LocalVariable.

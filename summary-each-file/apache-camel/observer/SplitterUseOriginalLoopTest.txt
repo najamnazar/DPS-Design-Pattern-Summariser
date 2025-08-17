@@ -1,0 +1,2 @@
+SplitterUseOriginalLoopTest acts as a publisher for observer Service, which tests Use Original Loop, which creates Route Builder.
+SplitterUseOriginalLoopTest acts as a publisher for observer CamelContext, which tests Use Original Loop, which creates Route Builder.

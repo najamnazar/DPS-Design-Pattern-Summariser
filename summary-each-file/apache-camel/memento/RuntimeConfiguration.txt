@@ -1,0 +1,2 @@
+RuntimeConfiguration acts as an originator for memento ShutdownRoute, which is inherited by, which sets ShutdownRoute parameter of shutdownRoute Shutdown Route, which gets a ShutdownRoute Shutdown Route to.
+RuntimeConfiguration acts as an originator for memento ShutdownRunningTask, which is inherited by, which sets ShutdownRunningTask parameter of shutdownRunningTask Shutdown Running Task, which gets a ShutdownRunningTask Shutdown Running Task to.

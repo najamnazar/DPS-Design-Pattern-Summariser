@@ -1,0 +1,2 @@
+WireTapBeanTest acts as a publisher for observer CamelContext, which tests Send, which sets Up, which creates Route Builder, which transforms String parameter of body.
+WireTapBeanTest acts as a publisher for observer Service, which tests Send, which sets Up, which creates Route Builder, which transforms String parameter of body.

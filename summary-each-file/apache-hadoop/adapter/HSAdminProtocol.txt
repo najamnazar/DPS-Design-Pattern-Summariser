@@ -1,0 +1,1 @@
+HSAdminProtocol acts as an adaptee for adapter HSAdminServer.

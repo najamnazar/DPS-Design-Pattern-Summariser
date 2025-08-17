@@ -1,0 +1,2 @@
+StartAndStopEventNotifier acts as a caretaker for memento Context, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which notifies CamelEvent parameter of event, which is CamelEvent parameter of event Enabled, which does Start, which does Stop.
+StartAndStopEventNotifier acts as a caretaker for memento Producer, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which notifies CamelEvent parameter of event, which is CamelEvent parameter of event Enabled, which does Start, which does Stop.

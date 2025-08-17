@@ -1,0 +1,1 @@
+CorsRegistry acts as a caretaker for memento C, which adds String parameter of pathPattern Mapping, which gets Cors Configurations.

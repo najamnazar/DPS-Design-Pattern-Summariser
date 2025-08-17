@@ -1,0 +1,1 @@
+TextMessageRequest acts as a publisher for observer TextMessage, which is inherited by, which gets Text, which sets TextMessage parameter of text Text.

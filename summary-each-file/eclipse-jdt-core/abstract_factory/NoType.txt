@@ -1,0 +1,10 @@
+NoType acts as a product for ExecutableType, which overrides.
+NoType acts as a product for PackageElement, which overrides.
+NoType acts as a product for ModuleElement, which overrides.
+NoType acts as a product for ParameterDeclaration, which overrides.
+NoType acts as a product for Types, which overrides.
+NoType acts as a product for Element, which overrides.
+NoType acts as a product for ExecutableElement, which overrides.
+NoType acts as a product for TypeParameterElement, which overrides.
+NoType acts as a product for TypeElement, which overrides.
+NoType acts as a product for VariableElement, which overrides.

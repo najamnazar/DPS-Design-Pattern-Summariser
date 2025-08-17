@@ -1,0 +1,1 @@
+AbstractSockJsSession acts as a product for SockJsSessionFactory, which overrides getTimeSinceLastActive method of SockJsSession, disableHeartbeat method of SockJsSession.

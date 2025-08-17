@@ -1,0 +1,2 @@
+DOMField acts as a product for IDOMFactory, which overrides getInitializer method of IDOMField, getType method of IDOMField, setInitializer method of IDOMField, setName method of IDOMField, setType method of IDOMField.
+DOMField acts as a factory for IDOMField, which overrides getInitializer method of IDOMField, getType method of IDOMField, setInitializer method of IDOMField, setName method of IDOMField, setType method of IDOMField.

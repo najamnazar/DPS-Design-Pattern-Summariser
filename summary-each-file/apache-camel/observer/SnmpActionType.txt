@@ -1,0 +1,1 @@
+SnmpActionType acts as an observer for publisher SnmpEndpoint, which is inherited by.

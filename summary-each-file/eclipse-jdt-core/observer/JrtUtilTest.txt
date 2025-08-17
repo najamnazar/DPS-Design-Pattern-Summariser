@@ -1,0 +1,2 @@
+JrtUtilTest acts as a publisher for observer String, which is inherited by, which sets Up, which tests Get Release Version, which tests Get New Jrt File System, which tests Works Under Interrupt Condition, which gets String parameter of releaseVersion Major Version Segment.
+JrtUtilTest acts as a publisher for observer String, which sets Up, which tests Get Release Version, which tests Get New Jrt File System, which tests Works Under Interrupt Condition, which gets String parameter of releaseVersion Major Version Segment.

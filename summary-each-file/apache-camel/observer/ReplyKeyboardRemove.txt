@@ -1,0 +1,1 @@
+ReplyKeyboardRemove acts as an observer, which gets Remove Keyboard, which sets Boolean parameter of removeKeyboard Remove Keyboard, which gets Selective, which sets Boolean parameter of selective Selective.

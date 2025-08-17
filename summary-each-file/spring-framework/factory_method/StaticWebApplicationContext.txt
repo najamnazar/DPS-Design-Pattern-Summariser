@@ -1,0 +1,3 @@
+StaticWebApplicationContext acts as a factory for HttpServletBean, which overrides.
+StaticWebApplicationContext acts as a factory for GenericWebApplicationContext, which overrides.
+StaticWebApplicationContext acts as a product for UiApplicationContextUtils, which overrides getTheme method of ThemeSource.

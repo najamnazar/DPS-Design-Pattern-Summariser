@@ -1,0 +1,2 @@
+BraintreeComponentVerifierExtension acts as a caretaker for memento Context, which verifies Map<String, parameter of Object> Parameters.
+BraintreeComponentVerifierExtension acts as a caretaker for memento Component, which verifies Map<String, parameter of Object> Parameters.

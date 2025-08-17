@@ -1,0 +1,1 @@
+ReflectiveMethodInvocation acts as a factory for ProxyMethodInvocation, which overrides getProxy method of ProxyMethodInvocation, setArguments method of ProxyMethodInvocation, invocableClone method of ProxyMethodInvocation, invocableClone method of ProxyMethodInvocation, setUserAttribute method of ProxyMethodInvocation, getUserAttribute method of ProxyMethodInvocation.

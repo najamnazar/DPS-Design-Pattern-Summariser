@@ -1,0 +1,2 @@
+SchedulingTaskExecutor acts as an adaptee for adapter ThreadPoolTaskExecutor, which adapts to ExecutorConfigurationSupport.
+SchedulingTaskExecutor acts as an adaptee for adapter ThreadPoolTaskScheduler, which adapts to ExecutorConfigurationSupport.

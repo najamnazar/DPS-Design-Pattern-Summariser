@@ -1,0 +1,1 @@
+StompEndpointRegistry acts as an abstract factory for StompWebSocketEndpointRegistration, which is inherited by WebMvcStompEndpointRegistry.

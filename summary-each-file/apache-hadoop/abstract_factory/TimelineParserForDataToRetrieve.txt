@@ -1,0 +1,1 @@
+TimelineParserForDataToRetrieve acts as a factory for TimelineParser, which overrides parse method of TimelineParser.

@@ -1,0 +1,1 @@
+ConnectionHandle acts as an adaptee for adapter ConnectionHolder, which adapts to ResourceHolderSupport, which adapts to ResourceHolderSupport.

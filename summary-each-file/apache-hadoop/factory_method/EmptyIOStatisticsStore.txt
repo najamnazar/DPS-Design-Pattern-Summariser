@@ -1,0 +1,1 @@
+EmptyIOStatisticsStore acts as a product for TestIOStatisticsSetters, which overrides reset method of IOStatisticsStore.

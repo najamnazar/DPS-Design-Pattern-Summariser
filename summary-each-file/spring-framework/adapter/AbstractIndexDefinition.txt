@@ -1,0 +1,2 @@
+AbstractIndexDefinition acts as an adapter, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts getIndexColumns0 method of TableDefinition to AbstractDefinition, which adapts to AbstractDefinition.
+AbstractIndexDefinition acts as an adapter, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts getIndexColumns0 method of IndexDefinition to AbstractDefinition, which adapts to AbstractDefinition.

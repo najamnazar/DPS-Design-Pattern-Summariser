@@ -1,0 +1,1 @@
+Column acts as an abstract factory for ValueConverter, which is inherited by.

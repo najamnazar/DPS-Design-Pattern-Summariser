@@ -1,0 +1,1 @@
+DefaultModelineFactory acts as a caretaker for memento Context, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which parses Resource parameter of resource Modeline, which ons CamelContextCustomizer parameter of customizer Configure Modeline, which does Init, which creates Modeline Parser, which tos String.

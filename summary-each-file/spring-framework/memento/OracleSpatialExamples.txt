@@ -1,0 +1,1 @@
+OracleSpatialExamples acts as a caretaker for memento C, which tests SDO_GEOM.

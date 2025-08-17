@@ -1,0 +1,2 @@
+AnnotationValue acts as an abstract product for AnnotationValue, which is inherited by AnnotationValueImpl.
+AnnotationValue acts as an abstract factory for SourcePosition, Object, which is inherited by AnnotationValueImpl.

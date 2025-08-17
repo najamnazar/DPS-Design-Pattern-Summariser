@@ -1,0 +1,2 @@
+DriveAppsEndpointConfiguration acts as a publisher for observer GoogleDriveApiName, which gets App Id, which sets String parameter of appId App Id.
+DriveAppsEndpointConfiguration acts as an observer, which gets App Id, which sets String parameter of appId App Id.

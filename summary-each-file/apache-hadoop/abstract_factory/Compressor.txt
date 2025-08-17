@@ -1,0 +1,1 @@
+Compressor acts as an abstract product for Compressor, which is inherited by BuiltInGzipCompressor, ZStandardCompressor, Lz4Compressor, BZip2DummyCompressor, Bzip2Compressor, ZlibCompressor, BuiltInZlibDeflater, FakeCompressor, SnappyCompressor.

@@ -1,0 +1,2 @@
+ChoiceNoErrorHandlerTest acts as a publisher for observer Service, which tests Choice No Error Handler, which creates Route Builder.
+ChoiceNoErrorHandlerTest acts as a publisher for observer CamelContext, which tests Choice No Error Handler, which creates Route Builder.

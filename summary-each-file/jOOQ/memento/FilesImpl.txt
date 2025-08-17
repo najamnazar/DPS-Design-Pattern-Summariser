@@ -1,0 +1,2 @@
+FilesImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+FilesImpl acts as a caretaker for memento File, which iterators, which froms, which tos, which tos String.

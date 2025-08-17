@@ -1,0 +1,1 @@
+RowId acts as an abstract product for MockResultSet, which is inherited by RowIdImpl.

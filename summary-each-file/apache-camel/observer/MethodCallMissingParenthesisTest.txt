@@ -1,0 +1,2 @@
+MethodCallMissingParenthesisTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Correct, which tests Missing, which tests Invalid Name, which does String parameter of body, String parameter of header Something.
+MethodCallMissingParenthesisTest acts as a publisher for observer Service, which is Use Route Builder, which tests Correct, which tests Missing, which tests Invalid Name, which does String parameter of body, String parameter of header Something.

@@ -1,0 +1,2 @@
+ChildListPropertyDescriptor acts as an observer, which gets Element Type, which cycles Risk.
+ChildListPropertyDescriptor acts as an observer for publisher NameQualifiedType, which is inherited by, which gets Element Type, which cycles Risk.

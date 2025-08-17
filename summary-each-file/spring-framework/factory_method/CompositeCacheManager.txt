@@ -1,0 +1,1 @@
+CompositeCacheManager acts as a product for JCacheManagerFactoryBean, which overrides getCache method of CacheManager, getCacheNames method of CacheManager.

@@ -1,0 +1,1 @@
+MicroProfileMetricsMessageHistory acts as an adapter, which adapts to DefaultMessageHistory, which adapts to DefaultMessageHistory.

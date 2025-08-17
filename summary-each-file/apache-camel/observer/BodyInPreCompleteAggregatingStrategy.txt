@@ -1,0 +1,1 @@
+BodyInPreCompleteAggregatingStrategy acts as an observer, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which cans Pre Complete, which pres Exchange parameter of oldExchange, Exchange parameter of newExchange Complete.

@@ -1,0 +1,1 @@
+TypePatternClassFilter acts as a caretaker for memento C, which sets String parameter of typePattern Type Pattern, which gets Type Pattern, which matches Class<?> parameter of clazz, which replaces String parameter of pcExpr Boolean Operators, which equals Object parameter of other, which hashes Code, which tos String.

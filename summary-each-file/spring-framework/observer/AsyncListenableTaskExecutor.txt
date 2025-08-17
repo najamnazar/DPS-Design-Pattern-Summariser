@@ -1,0 +1,2 @@
+AsyncListenableTaskExecutor acts as an observer for publisher SimpleClientHttpRequestFactory, which is inherited by ConcurrentTaskExecutor, SimpleAsyncTaskExecutor, ThreadPoolTaskExecutor, SimpleThreadPoolTaskExecutor, ThreadPoolTaskScheduler, TaskExecutorAdapter, which submits Runnable parameter of task Listenable, which submits Callable<T> parameter of task Listenable.
+AsyncListenableTaskExecutor acts as an observer, which submits Runnable parameter of task Listenable, which submits Callable<T> parameter of task Listenable.

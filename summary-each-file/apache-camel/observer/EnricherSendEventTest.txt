@@ -1,0 +1,2 @@
+EnricherSendEventTest acts as a publisher for observer CamelContext, which tests Async Enricher, which tests Sync Enricher, which creates Camel Context, which creates Route Builder, which notifies CamelEvent parameter of event.
+EnricherSendEventTest acts as a publisher for observer Service, which tests Async Enricher, which tests Sync Enricher, which creates Camel Context, which creates Route Builder, which notifies CamelEvent parameter of event.

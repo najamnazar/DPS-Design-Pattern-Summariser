@@ -1,0 +1,5 @@
+ConstantValueAttribute acts as a memento, which gets Constant Value Index, which gets Constant Value Index.
+ConstantValueAttribute acts as a caretaker for memento Class, which gets Constant Value, which gets Constant Value Index.
+ConstantValueAttribute acts as a caretaker for memento C, which gets Constant Value, which gets Constant Value Index.
+ConstantValueAttribute acts as a caretaker for memento IConstantPoolEntry, which gets Constant Value, which gets Constant Value Index.
+ConstantValueAttribute acts as a caretaker for memento E, which gets Constant Value, which gets Constant Value Index.

@@ -1,0 +1,1 @@
+AbstractStaxHandler acts as a product for AbstractStaxXMLReaderTests, which overrides.

@@ -1,0 +1,1 @@
+RequestBodyAdviceAdapter acts as a factory for RequestBodyAdvice, which overrides beforeBodyRead method of RequestBodyAdvice, afterBodyRead method of RequestBodyAdvice, handleEmptyBody method of RequestBodyAdvice.

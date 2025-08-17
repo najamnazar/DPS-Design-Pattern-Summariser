@@ -1,0 +1,5 @@
+JavadocCompletionContextTests_1_5 acts as a caretaker for memento C, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.
+JavadocCompletionContextTests_1_5 acts as a caretaker for memento String, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.
+JavadocCompletionContextTests_1_5 acts as a caretaker for memento S, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.
+JavadocCompletionContextTests_1_5 acts as a caretaker for memento ICompilationUnit, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.
+JavadocCompletionContextTests_1_5 acts as a caretaker for memento List, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.

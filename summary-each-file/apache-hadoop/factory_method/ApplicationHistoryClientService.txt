@@ -1,0 +1,1 @@
+ApplicationHistoryClientService acts as a product for AppReportFetcher, which overrides.

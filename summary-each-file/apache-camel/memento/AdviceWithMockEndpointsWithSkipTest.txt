@@ -1,0 +1,2 @@
+AdviceWithMockEndpointsWithSkipTest acts as a caretaker for memento Context, which tests Advised Mock Endpoints With Skip, which creates Route Builder.
+AdviceWithMockEndpointsWithSkipTest acts as a caretaker for memento Producer, which tests Advised Mock Endpoints With Skip, which creates Route Builder.

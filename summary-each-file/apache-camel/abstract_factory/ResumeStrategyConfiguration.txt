@@ -1,0 +1,1 @@
+ResumeStrategyConfiguration acts as an abstract product for ResumeStrategyConfiguration, which is inherited by WriteAheadResumeStrategyConfiguration, KafkaResumeStrategyConfiguration.

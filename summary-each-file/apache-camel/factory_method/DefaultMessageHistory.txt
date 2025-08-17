@@ -1,0 +1,3 @@
+DefaultMessageHistory acts as a factory for JBPMProducer, which overrides.
+DefaultMessageHistory acts as a product for MetricsMessageHistoryFactory, which overrides getRouteId method of MessageHistory, getNode method of MessageHistory, getTime method of MessageHistory, getElapsed method of MessageHistory, nodeProcessingDone method of MessageHistory, getMessage method of MessageHistory.
+DefaultMessageHistory acts as a factory for NamedRoute, which overrides.

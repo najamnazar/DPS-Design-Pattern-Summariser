@@ -1,0 +1,1 @@
+CSimpleCompiler acts as an abstract factory for CSimpleExpression, which is inherited by JoorCSimpleCompiler.

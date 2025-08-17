@@ -1,0 +1,1 @@
+RecoverableAggregationRepository acts as an abstract factory for Exchange, which is inherited by LevelDBAggregationRepository, CaffeineAggregationRepository, JdbcAggregationRepository, InfinispanAggregationRepository, RedisAggregationRepository, CassandraAggregationRepository, Etcd3AggregationRepository, HazelcastAggregationRepository, EhcacheAggregationRepository.

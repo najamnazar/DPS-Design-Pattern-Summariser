@@ -1,0 +1,2 @@
+GeneratedNameBean acts as an observer for publisher GeneratedNameBean, which is inherited by, which sets String parameter of beanName Bean Name, which gets Bean Name, which sets GeneratedNameBean parameter of child Child, which gets Child.
+GeneratedNameBean acts as a publisher for observer GeneratedNameBean, which is inherited by, which sets String parameter of beanName Bean Name, which gets Bean Name, which sets GeneratedNameBean parameter of child Child, which gets Child.

@@ -1,0 +1,2 @@
+AutowiredRuleTests acts as a caretaker for memento A, which tests, which autowireds Test Rule, which applies Statement parameter of base, Description parameter of description.
+AutowiredRuleTests acts as a caretaker for memento C, which tests, which autowireds Test Rule, which applies Statement parameter of base, Description parameter of description.

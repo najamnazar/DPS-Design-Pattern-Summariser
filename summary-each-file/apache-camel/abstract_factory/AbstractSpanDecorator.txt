@@ -1,0 +1,1 @@
+AbstractSpanDecorator acts as a factory for SpanDecorator, which overrides newSpan method of SpanDecorator, getOperationName method of SpanDecorator, pre method of SpanDecorator, post method of SpanDecorator, getInitiatorSpanKind method of SpanDecorator, getReceiverSpanKind method of SpanDecorator.

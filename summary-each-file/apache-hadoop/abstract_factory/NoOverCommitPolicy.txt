@@ -1,0 +1,2 @@
+NoOverCommitPolicy acts as a product for PlanContext, which overrides getValidWindow method of SharingPolicy, init method of SharingPolicy, availableResources method of SharingPolicy.
+NoOverCommitPolicy acts as a factory for SharingPolicy, which overrides getValidWindow method of SharingPolicy, init method of SharingPolicy, availableResources method of SharingPolicy.

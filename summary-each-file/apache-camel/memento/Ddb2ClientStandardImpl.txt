@@ -1,0 +1,2 @@
+Ddb2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Dynamo DBClient.
+Ddb2ClientStandardImpl acts as a memento, which gets Dynamo DBClient.

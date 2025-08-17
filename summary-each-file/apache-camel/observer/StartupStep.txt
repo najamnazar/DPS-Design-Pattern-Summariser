@@ -1,0 +1,1 @@
+StartupStep acts as an observer for publisher DefaultStartupStepRecorder, LoggingStartupStepRecorder, FlightRecorderStartupStepRecorder, which is inherited by FlightRecorderStartupStep, DefaultStartupStep, which gets Type, which gets Name, which gets Description, which gets Id, which gets Parent Id, which gets Level, which ends Step, which gets Begin Time.

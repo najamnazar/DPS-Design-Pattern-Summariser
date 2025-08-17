@@ -1,0 +1,2 @@
+EclipseHomeInitializer acts as a caretaker for memento String, which initializes String parameter of variable, which resets Eclipse Home Variable, which gets Default Location.
+EclipseHomeInitializer acts as a caretaker for memento S, which initializes String parameter of variable, which resets Eclipse Home Variable, which gets Default Location.

@@ -1,0 +1,1 @@
+ConstantBeanHolder acts as a component for decorator RequestBeanHolder, which overrides setErrorHandlerBeanHolder, getOptionsBeanHolder, setOptionsBeanHolder, getBeanBeanHolder, getProcessorBeanHolder, supportProcessorBeanHolder, getBeanInfoBeanHolder, getBeanInfoBeanHolder.

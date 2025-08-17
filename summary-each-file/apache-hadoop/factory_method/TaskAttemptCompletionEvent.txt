@@ -1,0 +1,1 @@
+TaskAttemptCompletionEvent acts as an abstract product for GetTaskAttemptCompletionEventsResponsePBImpl, which is inherited by TaskAttemptCompletionEventPBImpl.

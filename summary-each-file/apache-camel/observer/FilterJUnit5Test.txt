@@ -1,0 +1,5 @@
+FilterJUnit5Test acts as a publisher for observer ProducerTemplate, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterJUnit5Test acts as a publisher for observer Service, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterJUnit5Test acts as a publisher for observer CamelContext, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterJUnit5Test acts as a publisher for observer ConsumerTemplate, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterJUnit5Test acts as a publisher for observer FluentProducerTemplate, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.

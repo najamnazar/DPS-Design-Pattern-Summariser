@@ -1,0 +1,1 @@
+TestAuthorizationContext acts as a caretaker for memento Attribute, which sets Up, which tests Builder, which tests Legacy API, which tests Check Permission With Context API.

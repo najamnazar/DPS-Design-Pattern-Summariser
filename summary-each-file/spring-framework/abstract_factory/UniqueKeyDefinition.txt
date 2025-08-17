@@ -1,0 +1,4 @@
+UniqueKeyDefinition acts as an abstract product for UniqueKeyDefinition, which is inherited by DefaultUniqueKeyDefinition.
+UniqueKeyDefinition acts as an abstract product for UniqueKeyDefinition, which is inherited by DefaultUniqueKeyDefinition, DefaultUniqueKeyDefinition.
+UniqueKeyDefinition acts as an abstract product for UniqueKeyDefinition, which is inherited by DefaultUniqueKeyDefinition, DefaultUniqueKeyDefinition, DefaultUniqueKeyDefinition.
+UniqueKeyDefinition acts as an abstract factory for UniqueKeyDefinition, which is inherited by DefaultUniqueKeyDefinition.

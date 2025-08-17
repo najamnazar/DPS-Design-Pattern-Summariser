@@ -1,0 +1,1 @@
+CommonAnnotationBeanPostProcessor acts as a factory method for PropertyValues, which is inherited by InstantiationAwareBeanPostProcessor, AbstractAutoProxyCreator, InstantiationAwareBeanPostProcessor, PropertyValues, AbstractAutoProxyCreator, MutablePropertyValues, InstantiationAwareBeanPostProcessor.

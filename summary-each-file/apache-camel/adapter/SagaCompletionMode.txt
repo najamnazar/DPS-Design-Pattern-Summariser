@@ -1,0 +1,1 @@
+SagaCompletionMode acts as an adaptee for adapter SagaProcessor, which adapts to DelegateAsyncProcessor.

@@ -1,0 +1,1 @@
+CamelItemReader acts as a caretaker for memento Context, which afters Properties Set, which reads, which does Start, which does Stop.

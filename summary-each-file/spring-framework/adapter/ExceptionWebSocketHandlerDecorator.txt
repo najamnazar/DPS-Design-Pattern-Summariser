@@ -1,0 +1,1 @@
+ExceptionWebSocketHandlerDecorator acts as an adapter, which adapts to WebSocketHandlerDecorator, which adapts to WebSocketHandlerDecorator, which adapts to WebSocketHandlerDecorator, which adapts to WebSocketHandlerDecorator, which adapts to WebSocketHandlerDecorator.

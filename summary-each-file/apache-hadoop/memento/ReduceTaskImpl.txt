@@ -1,0 +1,3 @@
+ReduceTaskImpl acts as a caretaker for memento Clock, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a caretaker for memento TaskState, which gets Max Attempts, which creates Attempt, which gets Type.
+ReduceTaskImpl acts as a caretaker for memento TaskAttemptCompletionEventStatus, which gets Max Attempts, which creates Attempt, which gets Type.

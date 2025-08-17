@@ -1,0 +1,2 @@
+ShutdownableService acts as a target for adapter ExecutorServiceManager, which adapts to ShutdownableService.
+ShutdownableService acts as an adaptee for adapter JdbcOrphanLockAwareIdempotentRepository, which adapts to JdbcMessageIdRepository.

@@ -1,0 +1,2 @@
+FileDeletionTask acts as an observer, which gets Lfs, which gets Sub Dir, which gets Base Dirs, which runs, which tos String, which converts Deletion Task To Proto.
+FileDeletionTask acts as a publisher for observer DeletionTask, which gets Lfs, which gets Sub Dir, which gets Base Dirs, which runs, which tos String, which converts Deletion Task To Proto.

@@ -1,0 +1,2 @@
+MulticastFineGrainedErrorHandlingTest acts as a publisher for observer Service, which tests Multicast Ok, which tests Multicast Error, which is Use Route Builder.
+MulticastFineGrainedErrorHandlingTest acts as a publisher for observer CamelContext, which tests Multicast Ok, which tests Multicast Error, which is Use Route Builder.

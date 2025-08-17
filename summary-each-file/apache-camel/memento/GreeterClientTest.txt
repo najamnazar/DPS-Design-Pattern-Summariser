@@ -1,0 +1,1 @@
+GreeterClientTest acts as a caretaker for memento Context, which is inherited by, which sends String parameter of username, String parameter of password, String parameter of message Message With Username Token, which sets Up, which tears Down, which tests Service With Validate User, which tests Service With Not Authorized User, which is Port Available.

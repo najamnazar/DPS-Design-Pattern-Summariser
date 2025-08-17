@@ -1,0 +1,2 @@
+AsyncLogger acts as an abstract factory for AsyncLogger, URL, which is inherited by IPCLoggerChannel.
+AsyncLogger acts as an abstract product for AsyncLogger, which is inherited by IPCLoggerChannel.

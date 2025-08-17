@@ -1,0 +1,1 @@
+TextMessage acts as an observer for publisher AbstractSockJsIntegrationTests, JettySockJsIntegrationTests, UndertowSockJsIntegrationTests, which is inherited by StubTextMessage, which gets Payload Length, which ases Bytes, which tos String Payload.

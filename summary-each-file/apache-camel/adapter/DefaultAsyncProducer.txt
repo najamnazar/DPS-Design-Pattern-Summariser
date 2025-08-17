@@ -1,0 +1,12 @@
+DefaultAsyncProducer acts as a target for adapter DynamicRouterControlProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter GrpcProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter ThriftProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter Plc4XProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter CxfRsProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter DynamicRouterProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter DirectProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter CxfProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter KafkaProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as an adaptee for adapter LazyStartProducer, which adapts to DelegateProcessor, which adapts to DelegateProcessor.
+DefaultAsyncProducer acts as a target for adapter DirectVmBlockingProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+DefaultAsyncProducer acts as a target for adapter KameletProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.

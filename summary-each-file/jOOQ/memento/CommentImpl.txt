@@ -1,0 +1,2 @@
+CommentImpl acts as a caretaker for memento Comment, which accepts Context<?> parameter of ctx, which gets Comment, which $comments.
+CommentImpl acts as a memento, which $comments Comment, which $comments Comment, which $comments Comment.

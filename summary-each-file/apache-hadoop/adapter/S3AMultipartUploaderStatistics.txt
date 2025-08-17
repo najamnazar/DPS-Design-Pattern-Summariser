@@ -1,0 +1,1 @@
+S3AMultipartUploaderStatistics acts as an adaptee for adapter S3AMultipartUploader, which adapts to AbstractMultipartUploader, which adapts to AbstractMultipartUploader, which adapts to AbstractMultipartUploader, which adapts to AbstractMultipartUploader, which adapts to AbstractMultipartUploader, which adapts to AbstractMultipartUploader.

@@ -1,0 +1,2 @@
+InheritErrorHandlerTrueTest acts as a publisher for observer CamelContext, which tests Inherit Error Handler True, which creates Route Builder, which processes Exchange parameter of exchange.
+InheritErrorHandlerTrueTest acts as a publisher for observer Service, which tests Inherit Error Handler True, which creates Route Builder, which processes Exchange parameter of exchange.

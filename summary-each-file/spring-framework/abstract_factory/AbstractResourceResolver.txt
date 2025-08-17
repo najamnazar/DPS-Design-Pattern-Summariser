@@ -1,0 +1,1 @@
+AbstractResourceResolver acts as a factory for ResourceResolver, which overrides resolveResource method of ResourceResolver.

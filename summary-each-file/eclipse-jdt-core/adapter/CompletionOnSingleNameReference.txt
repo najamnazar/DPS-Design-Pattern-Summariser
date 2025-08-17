@@ -1,0 +1,1 @@
+CompletionOnSingleNameReference acts as an adapter, which adapts to SingleNameReference, which adapts to SingleNameReference.

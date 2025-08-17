@@ -1,0 +1,1 @@
+RddCallback acts as an observer for publisher SparkEndpoint, which is inherited by AnnotatedRddCallbackProxy.

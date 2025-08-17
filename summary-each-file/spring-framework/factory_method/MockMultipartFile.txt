@@ -1,0 +1,1 @@
+MockMultipartFile acts as a product for MockMultipartHttpServletRequest, which overrides getName method of MultipartFile, getOriginalFilename method of MultipartFile, getContentType method of MultipartFile, isEmpty method of MultipartFile, getSize method of MultipartFile, getBytes method of MultipartFile, getInputStream method of MultipartFile, transferTo method of MultipartFile.

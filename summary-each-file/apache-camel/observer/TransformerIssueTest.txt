@@ -1,0 +1,2 @@
+TransformerIssueTest acts as a publisher for observer CamelContext, which tests Transformer, which creates Route Builder.
+TransformerIssueTest acts as a publisher for observer Service, which tests Transformer, which creates Route Builder.

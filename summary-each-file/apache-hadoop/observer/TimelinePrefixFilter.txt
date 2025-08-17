@@ -1,0 +1,1 @@
+TimelinePrefixFilter acts as an observer, which gets Filter Type, which gets Prefix, which gets Compare Op, which tos String, which hashes Code, which equals Object parameter of obj.

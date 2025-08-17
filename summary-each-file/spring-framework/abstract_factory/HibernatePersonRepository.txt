@@ -1,0 +1,1 @@
+HibernatePersonRepository acts as a factory for PersonRepository, which overrides save method of PersonRepository, findByName method of PersonRepository.

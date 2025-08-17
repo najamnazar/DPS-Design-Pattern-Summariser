@@ -1,0 +1,2 @@
+Block acts as an abstract product for Block, which is inherited by BlockInfo, ReplicaInfo, ReplicaUnderConstruction, ReplicaRecoveryInfo.
+Block acts as a product for WritableFactory, which overrides.

@@ -1,0 +1,1 @@
+LumberjackServer acts as an adaptee for adapter LumberjackConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

@@ -1,0 +1,2 @@
+MDCErrorHandlerTest acts as a publisher for observer Service, which tests MDC, which creates Route Builder.
+MDCErrorHandlerTest acts as a publisher for observer CamelContext, which tests MDC, which creates Route Builder.

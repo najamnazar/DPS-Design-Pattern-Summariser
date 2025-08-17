@@ -1,0 +1,1 @@
+LazySingletonAspectInstanceFactoryDecorator acts as a factory for MetadataAwareAspectInstanceFactory, which overrides getAspectMetadata method of MetadataAwareAspectInstanceFactory, getAspectCreationMutex method of MetadataAwareAspectInstanceFactory.

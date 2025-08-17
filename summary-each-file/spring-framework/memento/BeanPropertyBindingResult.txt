@@ -1,0 +1,2 @@
+BeanPropertyBindingResult acts as a caretaker for memento C, which gets Target, which gets Property Accessor, which creates Bean Wrapper.
+BeanPropertyBindingResult acts as a caretaker for memento B, which gets Target, which gets Property Accessor, which creates Bean Wrapper.

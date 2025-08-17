@@ -1,0 +1,2 @@
+S3AInternalAuditConstants acts as a caretaker for memento AuditSpanS3A.
+S3AInternalAuditConstants acts as a caretaker for memento Attribute.

@@ -1,0 +1,1 @@
+AbstractLobHandler acts as a factory for LobHandler, which overrides getBlobAsBytes method of LobHandler, getBlobAsBinaryStream method of LobHandler, getClobAsString method of LobHandler, getClobAsAsciiStream method of LobHandler, getClobAsCharacterStream method of LobHandler.

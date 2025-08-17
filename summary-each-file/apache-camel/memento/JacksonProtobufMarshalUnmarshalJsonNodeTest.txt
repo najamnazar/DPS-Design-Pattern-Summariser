@@ -1,0 +1,2 @@
+JacksonProtobufMarshalUnmarshalJsonNodeTest acts as a caretaker for memento Context, which tests Marshal Unmarshal Json Node, which binds Registry parameter of registry To Registry, which creates Route Builder, which gets Text, which sets String parameter of text Text.
+JacksonProtobufMarshalUnmarshalJsonNodeTest acts as a caretaker for memento Producer, which tests Marshal Unmarshal Json Node, which binds Registry parameter of registry To Registry, which creates Route Builder, which gets Text, which sets String parameter of text Text.

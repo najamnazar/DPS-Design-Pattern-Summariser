@@ -1,0 +1,2 @@
+FileInvalidStartingPathTest acts as a publisher for observer Service, which tests Invalid Starting Path, which tests Valid Starting Path.
+FileInvalidStartingPathTest acts as a publisher for observer CamelContext, which tests Invalid Starting Path, which tests Valid Starting Path.

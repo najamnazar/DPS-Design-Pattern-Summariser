@@ -1,0 +1,2 @@
+GrapeEndpoint acts as a caretaker for memento Component, which loads CamelContext parameter of camelContext Patches, which creates Producer, which creates Processor parameter of processor Consumer, which gets Default Coordinates, which gets Component.
+GrapeEndpoint acts as a caretaker for memento Context, which loads CamelContext parameter of camelContext Patches, which creates Producer, which creates Processor parameter of processor Consumer, which gets Default Coordinates, which gets Component.

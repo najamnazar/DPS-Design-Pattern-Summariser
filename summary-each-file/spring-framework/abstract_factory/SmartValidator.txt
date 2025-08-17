@@ -1,0 +1,2 @@
+SmartValidator acts as a product for WebFluxConfigurer, which overrides.
+SmartValidator acts as a product for WebMvcConfigurer, which overrides.

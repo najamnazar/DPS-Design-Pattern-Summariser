@@ -1,0 +1,1 @@
+UTCClock acts as a memento, which gets Time.

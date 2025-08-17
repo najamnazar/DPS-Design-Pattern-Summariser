@@ -1,0 +1,1 @@
+ClientSCMProtocolPBClientImpl acts as an observer, which closes, which uses UseSharedCacheResourceRequest parameter of request, which releases ReleaseSharedCacheResourceRequest parameter of request.

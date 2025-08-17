@@ -1,0 +1,1 @@
+DefaultCamelContextNameStrategy acts as a memento, which sets int parameter of value Counter, which sets int parameter of value Counter, which sets int parameter of value Counter, which sets int parameter of value Counter, which sets int parameter of value Counter.

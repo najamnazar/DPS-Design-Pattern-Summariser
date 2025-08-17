@@ -1,0 +1,2 @@
+EmbeddableColumnDefinition acts as an abstract factory for ColumnDefinition, which is inherited by DefaultEmbeddableColumnDefinition.
+EmbeddableColumnDefinition acts as an abstract product for EmbeddableColumnDefinition, which is inherited by DefaultEmbeddableColumnDefinition, DefaultEmbeddableColumnDefinition, DefaultEmbeddableColumnDefinition, DefaultEmbeddableColumnDefinition, DefaultEmbeddableColumnDefinition.

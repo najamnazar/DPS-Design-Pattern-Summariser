@@ -1,0 +1,1 @@
+RefreshNodesResourcesResponse acts as an abstract product for RefreshNodesResourcesResponse, which is inherited by RefreshNodesResourcesResponsePBImpl.

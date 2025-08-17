@@ -1,0 +1,1 @@
+ManagedDisabledMBean acts as a memento, which gets Node Type.

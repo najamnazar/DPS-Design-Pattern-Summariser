@@ -1,0 +1,2 @@
+CommentsTestSuite acts as a publisher for observer String, which suites.
+CommentsTestSuite acts as a publisher for observer Vector, which suites.

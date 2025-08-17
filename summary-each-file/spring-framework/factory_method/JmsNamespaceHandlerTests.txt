@@ -1,0 +1,1 @@
+JmsNamespaceHandlerTests acts as a factory method for ErrorHandler, which is inherited by AbstractMessageListenerContainer, AbstractMessageListenerContainer, AbstractXMLReader.

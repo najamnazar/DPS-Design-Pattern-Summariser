@@ -1,0 +1,1 @@
+EnvironmentAware acts as a publisher for observer Environment, which is inherited by GenericFilterBean, HttpServletBean, PropertySourcesPlaceholderConfigurer, MBeanExportConfiguration, ConfigurationClassPostProcessor, which sets Environment parameter of environment Environment.

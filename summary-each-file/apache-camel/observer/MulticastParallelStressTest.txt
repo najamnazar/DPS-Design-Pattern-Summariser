@@ -1,0 +1,2 @@
+MulticastParallelStressTest acts as a publisher for observer CamelContext, which tests Two Multicast, which tests More Multicast, which tests Concurrency Parallel Multicast, which creates Route Builder.
+MulticastParallelStressTest acts as a publisher for observer Service, which tests Two Multicast, which tests More Multicast, which tests Concurrency Parallel Multicast, which creates Route Builder.

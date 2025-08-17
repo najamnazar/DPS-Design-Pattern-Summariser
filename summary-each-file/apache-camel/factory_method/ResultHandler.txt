@@ -1,0 +1,1 @@
+ResultHandler acts as an abstract product for StreamResultHandlerFactory, which is inherited by StreamResultHandler, JsonStreamResultHandler, FileResultHandler, JsonFileResultHandler, JsonStringResultHandler, StringResultHandler, DomResultHandler.

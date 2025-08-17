@@ -1,0 +1,1 @@
+ProcessTaskManager acts as a publisher for observer Object, which is inherited by, which adds Object parameter of newElement Next Unit, which removes Next Units, which processes, which gets Unit With Error, which closes.

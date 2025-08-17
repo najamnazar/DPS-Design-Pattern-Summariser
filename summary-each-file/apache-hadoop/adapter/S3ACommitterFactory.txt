@@ -1,0 +1,1 @@
+S3ACommitterFactory acts as an adaptee for adapter ITestS3ACommitterFactory, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest.

@@ -1,0 +1,1 @@
+ServiceHealth acts as an observer for publisher DefaultServiceDefinition, Etcd3ServiceDefinition, which is inherited by DefaultServiceHealth, which gets Metadata, which is Healthy, which gets Endpoint.

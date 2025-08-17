@@ -1,0 +1,3 @@
+SQLiteTableDefinition acts as a caretaker for memento ParameterDefinition, which interprets Table, which gets Elements0, which exists Sqlite Sequence.
+SQLiteTableDefinition acts as a caretaker for memento B, which interprets Table, which gets Elements0, which exists Sqlite Sequence.
+SQLiteTableDefinition acts as a caretaker for memento Parameter, which interprets Table, which gets Elements0, which exists Sqlite Sequence.

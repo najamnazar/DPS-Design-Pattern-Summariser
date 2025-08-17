@@ -1,0 +1,2 @@
+ServerWebExchange acts as an abstract product for ServerWebExchange, which is inherited by ServerWebExchangeDecorator, DefaultServerWebExchange.
+ServerWebExchange acts as an abstract factory for ServerWebExchange, ApplicationContext, LocaleContext, ServerHttpRequest, ServerHttpResponse, which is inherited by ServerWebExchangeDecorator, DefaultServerWebExchange.

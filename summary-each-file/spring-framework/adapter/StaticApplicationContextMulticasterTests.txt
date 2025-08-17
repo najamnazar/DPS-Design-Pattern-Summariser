@@ -1,0 +1,1 @@
+StaticApplicationContextMulticasterTests acts as an adapter, which adapts to AbstractApplicationContextTests, which adapts to AbstractApplicationContextTests, which adapts to AbstractApplicationContextTests, which adapts to AbstractApplicationContextTests.

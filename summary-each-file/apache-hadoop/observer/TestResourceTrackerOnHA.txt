@@ -1,0 +1,1 @@
+TestResourceTrackerOnHA acts as a publisher for observer Configuration, which initiates, which shuts Down, which tests Resource Tracker On HA, which gets RMClient, which waits final parameter of int, final parameter of NodeId For Node Manager To Connect.

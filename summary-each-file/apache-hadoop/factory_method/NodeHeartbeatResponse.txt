@@ -1,0 +1,1 @@
+NodeHeartbeatResponse acts as a factory for TestNodeStatusUpdaterForAttributes, which overrides.

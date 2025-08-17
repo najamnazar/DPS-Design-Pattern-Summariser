@@ -1,0 +1,1 @@
+IJavaElementDelta acts as an abstract factory for CompilationUnit, IJavaElement, which is inherited by JavaElementDelta.

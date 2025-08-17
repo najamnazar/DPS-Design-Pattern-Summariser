@@ -1,0 +1,1 @@
+ManagedValidatorRegistry acts as a caretaker for memento Context, which inits ManagementStrategy parameter of strategy, which gets Validator Registry, which gets Source, which gets Dynamic Size, which gets Static Size, which gets Size, which gets Maximum Cache Size, which purges, which lists Validators.

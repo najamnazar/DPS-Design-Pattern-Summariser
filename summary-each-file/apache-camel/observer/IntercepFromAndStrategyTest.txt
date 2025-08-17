@@ -1,0 +1,5 @@
+IntercepFromAndStrategyTest acts as a publisher for observer ConsumerTemplate, which strategies Test, which creates Route Builder.
+IntercepFromAndStrategyTest acts as a publisher for observer FluentProducerTemplate, which strategies Test, which creates Route Builder.
+IntercepFromAndStrategyTest acts as a publisher for observer CamelContext, which strategies Test, which creates Route Builder.
+IntercepFromAndStrategyTest acts as a publisher for observer Service, which strategies Test, which creates Route Builder.
+IntercepFromAndStrategyTest acts as a publisher for observer ProducerTemplate, which strategies Test, which creates Route Builder.

@@ -1,0 +1,3 @@
+BoxSearchManagerEndpointConfiguration acts as a publisher for observer SSLContextParameters, which gets Folder Id, which sets String parameter of folderId Folder Id, which gets Query, which sets String parameter of query Query.
+BoxSearchManagerEndpointConfiguration acts as a publisher for observer BoxApiName, which gets Folder Id, which sets String parameter of folderId Folder Id, which gets Query, which sets String parameter of query Query.
+BoxSearchManagerEndpointConfiguration acts as an observer, which gets Folder Id, which sets String parameter of folderId Folder Id, which gets Query, which sets String parameter of query Query.

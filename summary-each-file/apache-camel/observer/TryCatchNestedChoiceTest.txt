@@ -1,0 +1,2 @@
+TryCatchNestedChoiceTest acts as a publisher for observer CamelContext, which tests Foo, which tests Other, which tests Catch, which creates Route Builder.
+TryCatchNestedChoiceTest acts as a publisher for observer Service, which tests Foo, which tests Other, which tests Catch, which creates Route Builder.

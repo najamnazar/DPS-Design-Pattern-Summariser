@@ -1,0 +1,1 @@
+ServerCodecConfigurer acts as an observer for publisher HttpWebHandlerAdapter, which is inherited by DefaultServerCodecConfigurer, which defaults Codecs, which clones, which creates, which multiparts HttpMessageReader<?> parameter of reader Reader, which servers Encoder<?> parameter of encoder Sent Event Encoder.

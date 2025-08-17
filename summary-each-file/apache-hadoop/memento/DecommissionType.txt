@@ -1,0 +1,1 @@
+DecommissionType acts as a memento.

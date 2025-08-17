@@ -1,0 +1,1 @@
+Jt400Type acts as an observer for publisher Jt400Configuration, which is inherited by.

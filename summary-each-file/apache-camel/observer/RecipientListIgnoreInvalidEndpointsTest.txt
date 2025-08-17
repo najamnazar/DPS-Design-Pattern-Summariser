@@ -1,0 +1,2 @@
+RecipientListIgnoreInvalidEndpointsTest acts as a publisher for observer CamelContext, which tests Recipient List With Ignore Invalid Endpoints Option, which tests Recipient List Without Ignore Invalid Endpoints Option, which creates Route Builder.
+RecipientListIgnoreInvalidEndpointsTest acts as a publisher for observer Service, which tests Recipient List With Ignore Invalid Endpoints Option, which tests Recipient List Without Ignore Invalid Endpoints Option, which creates Route Builder.

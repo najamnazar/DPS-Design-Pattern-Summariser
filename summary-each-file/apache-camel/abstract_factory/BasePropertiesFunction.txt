@@ -1,0 +1,2 @@
+BasePropertiesFunction acts as a product for PropertiesFunctionResolver, which overrides.
+BasePropertiesFunction acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

@@ -1,0 +1,1 @@
+SimpleNamingContextBuilder acts as a singleton, which gets a SimpleNamingContextBuilder Current Context Builder to, which empties a SimpleNamingContextBuilder Activated Context Builder to.

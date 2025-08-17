@@ -1,0 +1,1 @@
+ClasspathJrtWithReleaseOption acts as an adapter, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt, which adapts to ClasspathJrt.

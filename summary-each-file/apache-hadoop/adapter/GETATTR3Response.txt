@@ -1,0 +1,1 @@
+GETATTR3Response acts as an adapter, which adapts to NFS3Response, which adapts to NFS3Response, which adapts to NFS3Response.

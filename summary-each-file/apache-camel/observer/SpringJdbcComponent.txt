@@ -1,0 +1,1 @@
+SpringJdbcComponent acts as a publisher for observer ConnectionStrategy, which creates String parameter of uri, JdbcComponent parameter of component, DataSource parameter of dataSource Endpoint.

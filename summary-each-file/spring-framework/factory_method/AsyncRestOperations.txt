@@ -1,0 +1,2 @@
+AsyncRestOperations acts as a factory method for RestOperations, which is inherited by AsyncRestOperations.
+AsyncRestOperations acts as a factory for AsyncRestOperations, which overrides.

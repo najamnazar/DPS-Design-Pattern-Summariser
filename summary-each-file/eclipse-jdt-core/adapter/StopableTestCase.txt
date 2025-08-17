@@ -1,0 +1,4 @@
+StopableTestCase acts as a target for adapter AbstractRegressionTest, which adapts to StopableTestCase.
+StopableTestCase acts as a target for adapter EvaluationTest, which adapts to StopableTestCase.
+StopableTestCase acts as an adaptee for adapter EvaluationTest, which adapts to AbstractCompilerTest, StopableTestCase.
+StopableTestCase acts as an adaptee for adapter AbstractRegressionTest, which adapts to AbstractCompilerTest, StopableTestCase.

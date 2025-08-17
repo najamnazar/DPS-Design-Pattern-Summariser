@@ -1,0 +1,2 @@
+AbstractXMLReader acts as a factory for AbstractStaxXMLReaderTests, which overrides.
+AbstractXMLReader acts as a factory for JmsNamespaceHandlerTests, which overrides.

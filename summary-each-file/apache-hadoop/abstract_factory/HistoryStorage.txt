@@ -1,0 +1,1 @@
+HistoryStorage acts as an abstract factory for Job, which is inherited by CachedHistoryStorage.

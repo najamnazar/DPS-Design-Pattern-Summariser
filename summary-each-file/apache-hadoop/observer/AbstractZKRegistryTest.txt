@@ -1,0 +1,2 @@
+AbstractZKRegistryTest acts as a publisher for observer Service, which is inherited by AbstractRegistryTest, TestCuratorService, which adds Service parameter of svc To Teardown, which teardowns Services, which creates ZKServer, which names Thread, which gets Connect String, which creates Registry Configuration.
+AbstractZKRegistryTest acts as a publisher for observer ServiceRecord, which adds Service parameter of svc To Teardown, which teardowns Services, which creates ZKServer, which names Thread, which gets Connect String, which creates Registry Configuration.

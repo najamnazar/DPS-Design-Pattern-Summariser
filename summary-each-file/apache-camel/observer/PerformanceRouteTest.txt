@@ -1,0 +1,1 @@
+PerformanceRouteTest acts as a publisher for observer ArtemisService, which tests Performance, which cans Run On This Platform, which gets Component Name, which creates Route Builder.

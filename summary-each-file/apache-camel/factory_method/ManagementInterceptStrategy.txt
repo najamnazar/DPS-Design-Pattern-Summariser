@@ -1,0 +1,1 @@
+ManagementInterceptStrategy acts as an abstract product for Route, which is inherited by InstrumentationInterceptStrategy.

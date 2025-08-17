@@ -1,0 +1,1 @@
+SpringNettyHttpBasicAuthTest acts as a caretaker for memento Producer, which gets Port, which sets Integer parameter of port Port, which sets Up Jaas, which tears Down Jaas, which tests Admin Auth, which tests Guest Auth.

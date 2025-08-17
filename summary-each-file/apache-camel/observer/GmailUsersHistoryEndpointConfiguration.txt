@@ -1,0 +1,2 @@
+GmailUsersHistoryEndpointConfiguration acts as an observer, which gets User Id, which sets String parameter of userId User Id.
+GmailUsersHistoryEndpointConfiguration acts as a publisher for observer GoogleMailApiName, which gets User Id, which sets String parameter of userId User Id.

@@ -1,0 +1,2 @@
+AttachmentMap acts as a memento, which safes Copy.
+AttachmentMap acts as an originator for memento SafeCopyProperty, which safes a SafeCopyProperty Copy to.

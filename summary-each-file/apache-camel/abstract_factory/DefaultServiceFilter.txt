@@ -1,0 +1,1 @@
+DefaultServiceFilter acts as a product for ServiceFilterAware, which overrides apply method of ServiceFilter.

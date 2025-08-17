@@ -1,0 +1,2 @@
+AbstractCondition acts as a factory for ConstraintImpl, which overrides.
+AbstractCondition acts as a product for ConstraintImpl, which overrides.

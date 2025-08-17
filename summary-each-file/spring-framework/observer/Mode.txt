@@ -1,0 +1,1 @@
+Mode acts as an observer for publisher JavaGenerator, ScalaGenerator, KotlinGenerator, which is inherited by, which accepts Context<?> parameter of ctx, which $arg1s, which $constructors.

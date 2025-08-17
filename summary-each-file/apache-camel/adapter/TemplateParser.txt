@@ -1,0 +1,2 @@
+TemplateParser acts as an adaptee for adapter CallableStatementWrapperTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+TemplateParser acts as an adaptee for adapter ParserTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

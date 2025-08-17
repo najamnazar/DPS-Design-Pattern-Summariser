@@ -1,0 +1,2 @@
+NativeWebRequest acts as an observer, which gets Native Request, which gets Native Response, which gets @Nullable parameter of Class<T> Native Request, which gets @Nullable parameter of Class<T> Native Response.
+NativeWebRequest acts as an observer for publisher RequestPartMethodArgumentResolverTests, which is inherited by FacesWebRequest, AsyncWebRequest, ServletWebRequest, which gets Native Request, which gets Native Response, which gets @Nullable parameter of Class<T> Native Request, which gets @Nullable parameter of Class<T> Native Response.

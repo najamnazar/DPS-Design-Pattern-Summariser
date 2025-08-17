@@ -1,0 +1,4 @@
+ServiceClient acts as a factory method for ClientAMProtocol, which is inherited by ServiceClient.
+ServiceClient acts as a factory for ServiceClient, which overrides.
+ServiceClient acts as a factory for SystemServiceManagerImpl, which overrides.
+ServiceClient acts as a factory for AMRMProxyApplicationContextImpl, which overrides.

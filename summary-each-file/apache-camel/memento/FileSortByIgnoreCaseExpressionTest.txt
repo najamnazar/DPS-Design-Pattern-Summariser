@@ -1,0 +1,2 @@
+FileSortByIgnoreCaseExpressionTest acts as a caretaker for memento Context, which prepares String parameter of folder Folder, which tests Sort Files By Name With Case, which tests Sort Files By Name No Case, which tests Sort Files By Name No Case Reverse.
+FileSortByIgnoreCaseExpressionTest acts as a caretaker for memento Producer, which prepares String parameter of folder Folder, which tests Sort Files By Name With Case, which tests Sort Files By Name No Case, which tests Sort Files By Name No Case Reverse.

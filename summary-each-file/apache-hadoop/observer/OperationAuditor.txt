@@ -1,0 +1,1 @@
+OperationAuditor acts as an observer, which inits OperationAuditorOptions parameter of options, which sets EnumSet<AuditorFlags> parameter of flags Audit Flags, which gets Unbonded Span, which checks Path parameter of path, S3AFileStatus parameter of status, FsAction parameter of mode Access, which gets Auditor Id, which notes long parameter of threadId Span Reference Lost.

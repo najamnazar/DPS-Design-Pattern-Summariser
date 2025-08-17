@@ -1,0 +1,1 @@
+SplunkEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Stop, which gets Service, which splits String parameter of uri Uri, which gets Configuration, which resets Exception parameter of e.

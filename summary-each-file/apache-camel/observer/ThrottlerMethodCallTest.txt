@@ -1,0 +1,2 @@
+ThrottlerMethodCallTest acts as a publisher for observer CamelContext, which creates Registry, which gets Messages Per Interval, which tests Configuration With Method Call Expression, which creates Route Builder.
+ThrottlerMethodCallTest acts as a publisher for observer Service, which creates Registry, which gets Messages Per Interval, which tests Configuration With Method Call Expression, which creates Route Builder.

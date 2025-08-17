@@ -1,0 +1,1 @@
+CachingResourceTransformer acts as a caretaker for memento C, which gets Cache, which transforms HttpServletRequest parameter of request, Resource parameter of resource, ResourceTransformerChain parameter of transformerChain.

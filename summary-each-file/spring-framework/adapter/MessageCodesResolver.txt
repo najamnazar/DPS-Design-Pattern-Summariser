@@ -1,0 +1,1 @@
+MessageCodesResolver acts as an adaptee for adapter AbstractBindingResult, which adapts to AbstractErrors, which adapts to AbstractErrors.

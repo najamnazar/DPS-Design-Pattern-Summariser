@@ -1,0 +1,4 @@
+DataBuffer acts as a factory for FormHttpMessageReaderTests, which overrides.
+DataBuffer acts as a factory method for DataBufferFactory, which is inherited by ServletHttpHandlerAdapter, DataBuffer, AbstractServerHttpResponse, DataBuffer, ServletHttpHandlerAdapter, ServerHttpResponseDecorator, MockClientHttpRequest, AbstractServerHttpResponse, DataBuffer, DataBufferWrapper, ReactiveHttpOutputMessage, RSocketStrategies, AbstractServerHttpResponse.
+DataBuffer acts as an abstract product for FormHttpMessageReaderTests, which is inherited by DataBufferWrapper, DefaultDataBuffer.
+DataBuffer acts as a factory for DataBuffer, which overrides.

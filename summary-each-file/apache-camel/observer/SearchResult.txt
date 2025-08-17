@@ -1,0 +1,1 @@
+SearchResult acts as a publisher for observer Attributes, which is inherited by, which gets Attributes, which sets Attributes parameter of attributes Attributes, which gets Id, which sets String parameter of id Id.

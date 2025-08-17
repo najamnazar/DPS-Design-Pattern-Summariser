@@ -1,0 +1,5 @@
+SaxonXsltMessageTerminateTest acts as a publisher for observer CamelContext, which tests Xslt Terminate, which creates Route Builder.
+SaxonXsltMessageTerminateTest acts as a publisher for observer FluentProducerTemplate, which tests Xslt Terminate, which creates Route Builder.
+SaxonXsltMessageTerminateTest acts as a publisher for observer ProducerTemplate, which tests Xslt Terminate, which creates Route Builder.
+SaxonXsltMessageTerminateTest acts as a publisher for observer ConsumerTemplate, which tests Xslt Terminate, which creates Route Builder.
+SaxonXsltMessageTerminateTest acts as a publisher for observer Service, which tests Xslt Terminate, which creates Route Builder.

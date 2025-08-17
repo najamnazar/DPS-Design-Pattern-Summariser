@@ -1,0 +1,2 @@
+RMContext acts as an abstract factory for VolumeManager, RMStateStore, Configuration, ApplicationMasterService, ConfigurationProvider, PlacementConstraintManager, ReservationSystem, EmbeddedElector, ResourceManager, Dispatcher, ResourceProfilesManager, SystemMetricsPublisher, NodeAttributesManager, AllocationTagsManager, ResourceScheduler, RMNodeLabelsManager, which is inherited by RMContextImpl.
+RMContext acts as an abstract product for RMContext, which is inherited by RMContextImpl.

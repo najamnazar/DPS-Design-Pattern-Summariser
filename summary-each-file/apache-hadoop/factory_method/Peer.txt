@@ -1,0 +1,1 @@
+Peer acts as an abstract product for TestDataXceiverLazyPersistHint, which is inherited by BasicInetPeer, NioInetPeer, EncryptedPeer, DomainPeer.

@@ -1,0 +1,1 @@
+VertxHttpHeaderFilterStrategy acts as a publisher for observer Pattern, which initializes.

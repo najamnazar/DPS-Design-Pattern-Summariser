@@ -1,0 +1,5 @@
+JsonPatchComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.
+JsonPatchComponentTest acts as a publisher for observer Service, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.
+JsonPatchComponentTest acts as a publisher for observer ProducerTemplate, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.
+JsonPatchComponentTest acts as a publisher for observer CamelContext, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.
+JsonPatchComponentTest acts as a publisher for observer ConsumerTemplate, which tests Camel Json Patch, which tests Send To Dead Letter Channel If Patch Error, which creates Route Builder.

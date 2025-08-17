@@ -1,0 +1,1 @@
+RewriteEvent acts as an observer for publisher ASTRewriteAnalyzer, which is inherited by NodeRewriteEvent, ListRewriteEvent, which gets Change Kind, which is List Rewrite, which gets Original Value, which gets New Value, which gets Children.

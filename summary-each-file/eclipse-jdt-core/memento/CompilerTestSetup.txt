@@ -1,0 +1,2 @@
+CompilerTestSetup acts as a caretaker for memento String, which inits Object parameter of test Test, which runs TestResult parameter of result, which sets Up, which tears Down.
+CompilerTestSetup acts as a caretaker for memento S, which inits Object parameter of test Test, which runs TestResult parameter of result, which sets Up, which tears Down.

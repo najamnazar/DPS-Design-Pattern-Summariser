@@ -1,0 +1,3 @@
+ByteBufferPool acts as an adaptee for adapter DFSStripedOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream, which adapts to DFSOutputStream.
+ByteBufferPool acts as an adaptee for adapter RawLocalFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.
+ByteBufferPool acts as an adaptee for adapter DFSStripedInputStream, which adapts to DFSInputStream, which adapts to DFSInputStream, which adapts to DFSInputStream.

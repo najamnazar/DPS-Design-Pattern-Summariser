@@ -1,0 +1,2 @@
+PendingExchangesShutdownGracefulTest acts as a publisher for observer CamelContext, which tests Shutdown Graceful, which creates Route Builder.
+PendingExchangesShutdownGracefulTest acts as a publisher for observer Service, which tests Shutdown Graceful, which creates Route Builder.

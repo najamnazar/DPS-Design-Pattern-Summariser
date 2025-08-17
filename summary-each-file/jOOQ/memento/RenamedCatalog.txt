@@ -1,0 +1,1 @@
+RenamedCatalog acts as a caretaker for memento Clause, which gets Schemas.

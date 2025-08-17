@@ -1,0 +1,2 @@
+AggregateStrategyRefTest acts as a publisher for observer Service, which tests Aggregate Expression Size, which creates Route Builder.
+AggregateStrategyRefTest acts as a publisher for observer CamelContext, which tests Aggregate Expression Size, which creates Route Builder.

@@ -1,0 +1,1 @@
+KafkaManualCommit acts as an abstract product for KafkaManualCommit, which is inherited by DefaultKafkaManualCommit, DefaultKafkaManualSyncCommit, KafkaAsyncManualCommit.

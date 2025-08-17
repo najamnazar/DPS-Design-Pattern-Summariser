@@ -1,0 +1,7 @@
+MySimpleRouteBuilder acts as an observer, which configures.
+MySimpleRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MySimpleRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MySimpleRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MySimpleRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MySimpleRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MySimpleRouteBuilder acts as a publisher for observer Resource, which configures.

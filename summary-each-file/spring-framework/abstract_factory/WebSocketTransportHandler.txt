@@ -1,0 +1,1 @@
+WebSocketTransportHandler acts as a factory for SockJsSessionFactory, which overrides.

@@ -1,0 +1,1 @@
+VariableAndFunctionTests acts as a caretaker for memento C, which tests Variable Access01, which tests Variable Access_Well Known Variables, which tests Function Access01, which tests Function Access02, which tests Call Varargs Function, which tests Calling Illegal Functions, which nons Static.

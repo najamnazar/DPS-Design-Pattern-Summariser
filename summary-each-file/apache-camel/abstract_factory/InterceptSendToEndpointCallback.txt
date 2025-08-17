@@ -1,0 +1,2 @@
+InterceptSendToEndpointCallback acts as a factory for EndpointStrategy, which overrides.
+InterceptSendToEndpointCallback acts as a product for MockSendToEndpointStrategyFactory, which overrides.

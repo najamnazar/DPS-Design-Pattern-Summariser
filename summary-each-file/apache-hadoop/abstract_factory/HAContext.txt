@@ -1,0 +1,1 @@
+HAContext acts as an abstract factory for HAState, which is inherited by.

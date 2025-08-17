@@ -1,0 +1,2 @@
+SplitterPropertyContinuedTest acts as a publisher for observer CamelContext, which tests Splitter Property Continued, which creates Route Builder.
+SplitterPropertyContinuedTest acts as a publisher for observer Service, which tests Splitter Property Continued, which creates Route Builder.

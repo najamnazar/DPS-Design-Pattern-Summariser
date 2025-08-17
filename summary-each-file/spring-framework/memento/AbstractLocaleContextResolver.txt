@@ -1,0 +1,1 @@
+AbstractLocaleContextResolver acts as an originator for memento LocaleContext.

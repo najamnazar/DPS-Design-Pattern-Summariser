@@ -1,0 +1,2 @@
+MessageMappingMessageHandler acts as a factory method for RouteMatcher, which is inherited by MessageMappingMessageHandler, RSocketStrategies.
+MessageMappingMessageHandler acts as a factory for MessageMappingMessageHandler, which overrides.

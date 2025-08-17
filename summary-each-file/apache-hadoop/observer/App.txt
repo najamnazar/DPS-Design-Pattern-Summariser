@@ -1,0 +1,2 @@
+App acts as a publisher for observer Task, which is inherited by AppForTest, which sets Job parameter of job Job, which gets Job, which sets Task parameter of task Task, which gets Task.
+App acts as a publisher for observer Job, which is inherited by AppForTest, which sets Job parameter of job Job, which gets Job, which sets Task parameter of task Task, which gets Task.

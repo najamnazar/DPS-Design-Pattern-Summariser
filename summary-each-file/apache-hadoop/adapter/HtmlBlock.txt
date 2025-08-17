@@ -1,0 +1,2 @@
+HtmlBlock acts as a target for adapter FairSchedulerAppsBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock.
+HtmlBlock acts as a target for adapter NavBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock.

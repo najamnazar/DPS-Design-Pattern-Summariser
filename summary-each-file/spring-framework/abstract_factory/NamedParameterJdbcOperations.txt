@@ -1,0 +1,1 @@
+NamedParameterJdbcOperations acts as an abstract factory for SqlRowSet, JdbcOperations, which is inherited by NamedParameterJdbcTemplate.

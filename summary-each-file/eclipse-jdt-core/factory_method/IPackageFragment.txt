@@ -1,0 +1,4 @@
+IPackageFragment acts as a factory for IMember, which overrides.
+IPackageFragment acts as a factory for ResolveTests, which overrides.
+IPackageFragment acts as a factory for IPackageFragment, which overrides.
+IPackageFragment acts as a factory method for IModularClassFile, which is inherited by PackageFragment, IPackageFragment.

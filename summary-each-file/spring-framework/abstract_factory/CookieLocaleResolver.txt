@@ -1,0 +1,2 @@
+CookieLocaleResolver acts as a product for HandlerStrategies, which overrides.
+CookieLocaleResolver acts as a factory for LocaleContextResolver, which overrides.

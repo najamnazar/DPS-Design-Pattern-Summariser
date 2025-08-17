@@ -1,0 +1,2 @@
+MultipartHttpServletRequest acts as an abstract product for MultipartHttpServletRequest, which is inherited by MockMultipartHttpServletRequest, AbstractMultipartHttpServletRequest.
+MultipartHttpServletRequest acts as an abstract factory for HttpHeaders, which is inherited by MockMultipartHttpServletRequest, AbstractMultipartHttpServletRequest.

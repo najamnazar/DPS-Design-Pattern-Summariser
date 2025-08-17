@@ -1,0 +1,1 @@
+ObjectFactoryCreatingFactoryBean acts as a caretaker for memento B, which sets String parameter of targetBeanName Target Bean Name, which afters Properties Set, which gets Object Type, which creates Instance, which gets Object.

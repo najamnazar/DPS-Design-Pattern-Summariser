@@ -1,0 +1,1 @@
+JaxbRestBindingJaxbDataFormatFactory acts as a product for ExtendedCamelContext, which overrides setupJaxb method of RestBindingJaxbDataFormatFactory.

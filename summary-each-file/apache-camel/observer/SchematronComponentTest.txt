@@ -1,0 +1,5 @@
+SchematronComponentTest acts as a publisher for observer ProducerTemplate, which tests Send Body As String, which tests Send Body As Input Stream Invalid XML, which creates Route Builder.
+SchematronComponentTest acts as a publisher for observer ConsumerTemplate, which tests Send Body As String, which tests Send Body As Input Stream Invalid XML, which creates Route Builder.
+SchematronComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Send Body As String, which tests Send Body As Input Stream Invalid XML, which creates Route Builder.
+SchematronComponentTest acts as a publisher for observer CamelContext, which tests Send Body As String, which tests Send Body As Input Stream Invalid XML, which creates Route Builder.
+SchematronComponentTest acts as a publisher for observer Service, which tests Send Body As String, which tests Send Body As Input Stream Invalid XML, which creates Route Builder.

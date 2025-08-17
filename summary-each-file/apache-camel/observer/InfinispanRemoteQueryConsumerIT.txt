@@ -1,0 +1,1 @@
+InfinispanRemoteQueryConsumerIT acts as a publisher for observer User, which continuouses Query, which setups Resources, which gets Configuration, which befores Each, which creates Route Builder.

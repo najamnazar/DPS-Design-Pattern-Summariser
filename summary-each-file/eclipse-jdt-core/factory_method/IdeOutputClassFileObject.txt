@@ -1,0 +1,1 @@
+IdeOutputClassFileObject acts as a product for Bug341298Processor, which overrides getKind method of JavaFileObject, isNameCompatible method of JavaFileObject, getNestingKind method of JavaFileObject, getAccessLevel method of JavaFileObject.

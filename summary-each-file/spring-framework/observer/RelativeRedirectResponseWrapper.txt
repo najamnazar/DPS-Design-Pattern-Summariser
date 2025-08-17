@@ -1,0 +1,1 @@
+RelativeRedirectResponseWrapper acts as a publisher for observer HttpStatus, which is inherited by, which sends String parameter of location Redirect, which wraps HttpServletResponse parameter of response, HttpStatus parameter of redirectStatus If Necessary.

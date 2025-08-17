@@ -1,0 +1,2 @@
+Declaration acts as a factory for BinaryParameterDeclarationImpl, which overrides.
+Declaration acts as an abstract product for TypeParameterDeclarationImpl, which is inherited by EclipseDeclarationImpl.

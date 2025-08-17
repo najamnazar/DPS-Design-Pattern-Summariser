@@ -1,0 +1,2 @@
+AutowireCandidateResolver acts as a factory for SimpleAutowireCandidateResolver, which overrides.
+AutowireCandidateResolver acts as an abstract product for SimpleAutowireCandidateResolver, which is inherited by SimpleAutowireCandidateResolver.

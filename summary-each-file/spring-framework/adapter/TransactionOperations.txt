@@ -1,0 +1,1 @@
+TransactionOperations acts as an adaptee for adapter TransactionTemplate, which adapts to DefaultTransactionDefinition, which adapts to DefaultTransactionDefinition, which adapts to DefaultTransactionDefinition.

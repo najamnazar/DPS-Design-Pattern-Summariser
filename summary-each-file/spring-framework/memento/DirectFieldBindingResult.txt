@@ -1,0 +1,2 @@
+DirectFieldBindingResult acts as a caretaker for memento A, which gets Target, which gets Property Accessor, which creates Direct Field Accessor.
+DirectFieldBindingResult acts as a caretaker for memento C, which gets Target, which gets Property Accessor, which creates Direct Field Accessor.

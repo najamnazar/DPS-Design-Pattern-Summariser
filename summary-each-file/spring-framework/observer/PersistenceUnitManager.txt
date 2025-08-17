@@ -1,0 +1,1 @@
+PersistenceUnitManager acts as an observer for publisher LocalContainerEntityManagerFactoryBean, which is inherited by DefaultPersistenceUnitManager, which obtains Default Persistence Unit Info, which obtains String parameter of persistenceUnitName Persistence Unit Info.

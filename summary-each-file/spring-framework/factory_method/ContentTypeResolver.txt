@@ -1,0 +1,1 @@
+ContentTypeResolver acts as an abstract product for AbstractMessageConverter, which is inherited by DefaultContentTypeResolver.

@@ -1,0 +1,2 @@
+AbstractAdaptableMessageListener acts as a factory for AbstractAdaptableMessageListener, which overrides.
+AbstractAdaptableMessageListener acts as a factory method for MessageConverter, which is inherited by MessageListenerContainer, AbstractMessageListenerContainer, SimpAnnotationMethodMessageHandler, AbstractMessageListenerContainer, JmsActivationSpecConfig, StompClientSupport, AbstractAdaptableMessageListener, MessageListenerContainer, MessageListenerContainer, AbstractAdaptableMessageListener, StompClientSupport.

@@ -1,0 +1,4 @@
+Version acts as an abstract product for Version, which is inherited by VersionImpl.
+Version acts as an abstract product for Version, which is inherited by VersionImpl, VersionImpl.
+Version acts as an abstract factory for Meta, Queries, Version, which is inherited by VersionImpl.
+Version acts as an abstract product for Version, which is inherited by VersionImpl, VersionImpl, VersionImpl, VersionImpl, VersionImpl, VersionImpl, VersionImpl, VersionImpl.

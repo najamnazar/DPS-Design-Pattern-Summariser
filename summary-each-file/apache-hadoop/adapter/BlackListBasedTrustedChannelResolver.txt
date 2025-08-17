@@ -1,0 +1,1 @@
+BlackListBasedTrustedChannelResolver acts as an adapter, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver, which adapts to TrustedChannelResolver.

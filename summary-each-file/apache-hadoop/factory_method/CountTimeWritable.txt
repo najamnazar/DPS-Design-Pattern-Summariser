@@ -1,0 +1,1 @@
+CountTimeWritable acts as a product for TestIPC, which overrides write method of Writable, readFields method of Writable.

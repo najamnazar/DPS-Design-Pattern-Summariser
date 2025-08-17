@@ -1,0 +1,2 @@
+SourceFileAttribute acts as a caretaker for memento Class, which gets Source File Index, which gets Source File Name.
+SourceFileAttribute acts as a caretaker for memento C, which gets Source File Index, which gets Source File Name.

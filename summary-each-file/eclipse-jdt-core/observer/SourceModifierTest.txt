@@ -1,0 +1,7 @@
+SourceModifierTest acts as a publisher for observer String, which suites, which tests Remove Indents, which tests Add Indents.
+SourceModifierTest acts as a publisher for observer ICompilationUnit, which suites, which tests Remove Indents, which tests Add Indents.
+SourceModifierTest acts as a publisher for observer IJavaElementDelta, which suites, which tests Remove Indents, which tests Add Indents.
+SourceModifierTest acts as a publisher for observer StringBuilder, which suites, which tests Remove Indents, which tests Add Indents.
+SourceModifierTest acts as a publisher for observer WorkingCopyOwner, which suites, which tests Remove Indents, which tests Add Indents.
+SourceModifierTest acts as a publisher for observer IJavaElement, which suites, which tests Remove Indents, which tests Add Indents.
+SourceModifierTest acts as a publisher for observer IJavaProject, which suites, which tests Remove Indents, which tests Add Indents.

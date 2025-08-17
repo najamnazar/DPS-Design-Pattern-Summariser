@@ -1,0 +1,1 @@
+ClientManagerImpl acts as a product for S3AStore, which overrides getOrCreateS3Client method of ClientManager, getOrCreateS3ClientUnchecked method of ClientManager, getOrCreateAsyncClient method of ClientManager, getOrCreateAsyncS3ClientUnchecked method of ClientManager, getOrCreateUnencryptedS3Client method of ClientManager, getOrCreateTransferManager method of ClientManager.

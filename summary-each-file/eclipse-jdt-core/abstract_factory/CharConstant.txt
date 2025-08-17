@@ -1,0 +1,2 @@
+CharConstant acts as a product for IBinaryField, which overrides.
+CharConstant acts as a product for NullReferenceImplTests, which overrides.

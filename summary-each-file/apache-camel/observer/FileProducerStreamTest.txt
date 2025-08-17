@@ -1,0 +1,2 @@
+FileProducerStreamTest acts as a publisher for observer CamelContext, which tests Stream, which creates Route Builder.
+FileProducerStreamTest acts as a publisher for observer Service, which tests Stream, which creates Route Builder.

@@ -1,0 +1,1 @@
+FileBasedCSConfigurationProvider acts as a product for CapacityScheduler, which overrides init method of CSConfigurationProvider, loadConfiguration method of CSConfigurationProvider.

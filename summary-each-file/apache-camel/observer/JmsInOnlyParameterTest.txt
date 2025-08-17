@@ -1,0 +1,1 @@
+JmsInOnlyParameterTest acts as a publisher for observer ArtemisService, which tests In Only, which tests In Only With JMSCorrelation ID, which gets Component Name, which creates Route Builder.

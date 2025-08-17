@@ -1,0 +1,2 @@
+GetTaskReportsResponse acts as an abstract product for GetTaskReportsResponse, which is inherited by GetTaskReportsResponsePBImpl.
+GetTaskReportsResponse acts as an abstract factory for TaskReport, which is inherited by GetTaskReportsResponsePBImpl.

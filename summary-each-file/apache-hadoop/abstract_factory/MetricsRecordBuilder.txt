@@ -1,0 +1,1 @@
+MetricsRecordBuilder acts as an abstract product for MetricsRecordBuilder, which is inherited by MetricStringBuilder, MetricStringBuilder, MetricsJsonBuilder, MetricsJsonBuilder, MetricsRecordBuilderImpl, MetricsRecordBuilderImpl.

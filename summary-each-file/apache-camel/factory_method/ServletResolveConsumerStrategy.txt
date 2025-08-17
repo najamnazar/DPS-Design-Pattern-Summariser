@@ -1,0 +1,1 @@
+ServletResolveConsumerStrategy acts as an abstract product for CamelServlet, which is inherited by HttpServletResolveConsumerStrategy.

@@ -1,0 +1,1 @@
+ApplicationMasterServiceProcessor acts as an adaptee for adapter OpportunisticContainerAllocatorAMService, which adapts to ApplicationMasterService, which adapts to ApplicationMasterService, which adapts to ApplicationMasterService, which adapts to ApplicationMasterService.

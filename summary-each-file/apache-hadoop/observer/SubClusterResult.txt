@@ -1,0 +1,1 @@
+SubClusterResult acts as a publisher for observer SubClusterInfo, which is inherited by, which gets Sub Cluster Info, which sets SubClusterInfo parameter of subClusterInfo Sub Cluster Info, which gets Exception, which sets Exception parameter of exception Exception, which gets Response, which sets R parameter of response Response.

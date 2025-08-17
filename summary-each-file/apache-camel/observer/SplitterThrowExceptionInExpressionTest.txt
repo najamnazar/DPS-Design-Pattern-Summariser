@@ -1,0 +1,2 @@
+SplitterThrowExceptionInExpressionTest acts as a publisher for observer Service, which tests Splitter And Verify Mock, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.
+SplitterThrowExceptionInExpressionTest acts as a publisher for observer CamelContext, which tests Splitter And Verify Mock, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.

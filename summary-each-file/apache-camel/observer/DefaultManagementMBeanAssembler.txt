@@ -1,0 +1,1 @@
+DefaultManagementMBeanAssembler acts as an observer, which assembles MBeanServer parameter of mBeanServer, Object parameter of obj, ObjectName parameter of name, which does Init, which does Start, which does Stop.

@@ -1,0 +1,2 @@
+BooleanConstant acts as a product for IBinaryField, which overrides.
+BooleanConstant acts as a product for NullReferenceImplTests, which overrides.

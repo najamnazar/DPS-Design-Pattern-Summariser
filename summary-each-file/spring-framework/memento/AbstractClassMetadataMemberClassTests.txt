@@ -1,0 +1,1 @@
+AbstractClassMetadataMemberClassTests acts as an originator for memento ClassMetadata, which is inherited by, which gets a ClassMetadata Class Metadata For to.

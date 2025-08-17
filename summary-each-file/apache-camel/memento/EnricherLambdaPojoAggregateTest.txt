@@ -1,0 +1,2 @@
+EnricherLambdaPojoAggregateTest acts as a caretaker for memento Producer, which tests Enrich, which creates Route Builder, which merges String parameter of a, String parameter of b.
+EnricherLambdaPojoAggregateTest acts as a caretaker for memento Context, which tests Enrich, which creates Route Builder, which merges String parameter of a, String parameter of b.

@@ -1,0 +1,1 @@
+JmsAnotherCustomJMSReplyToTest acts as a publisher for observer ArtemisService, which tests Custom JMSReply To In Only, which creates Route Builder, which gets Component Name, which builds ConnectionFactory parameter of connectionFactory Component.

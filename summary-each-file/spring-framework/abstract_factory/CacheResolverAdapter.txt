@@ -1,0 +1,3 @@
+CacheResolverAdapter acts as a product for CachingConfigurer, which overrides resolveCaches method of CacheResolver.
+CacheResolverAdapter acts as a product for JCacheConfigurer, which overrides resolveCaches method of CacheResolver.
+CacheResolverAdapter acts as a product for JCacheOperation, which overrides resolveCaches method of CacheResolver.

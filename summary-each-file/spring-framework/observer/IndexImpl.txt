@@ -1,0 +1,2 @@
+IndexImpl acts as an observer, which $fieldses, which $uniques, which $wheres, which accepts Context<?> parameter of ctx, which gets Table, which gets Fields, which gets Where, which gets Unique, which $tables.
+IndexImpl acts as a publisher for observer Name, which $fieldses, which $uniques, which $wheres, which accepts Context<?> parameter of ctx, which gets Table, which gets Fields, which gets Where, which gets Unique, which $tables.

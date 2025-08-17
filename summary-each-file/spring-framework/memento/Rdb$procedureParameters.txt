@@ -1,0 +1,1 @@
+Rdb$procedureParameters acts as a caretaker for memento Parameter, which gets Record Type, which gets Schema, which gets Unique Keys, which ases String parameter of alias, which ases Name parameter of alias, which renames String parameter of name, which renames Name parameter of name.

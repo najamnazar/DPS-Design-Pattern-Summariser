@@ -1,0 +1,1 @@
+DefaultCxfBinding acts as a product for CxfEndpoint, which overrides.

@@ -1,0 +1,5 @@
+HdfsTestSupport acts as a publisher for observer ConsumerTemplate, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.
+HdfsTestSupport acts as a publisher for observer Service, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.
+HdfsTestSupport acts as a publisher for observer ProducerTemplate, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.
+HdfsTestSupport acts as a publisher for observer CamelContext, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.
+HdfsTestSupport acts as a publisher for observer FluentProducerTemplate, which checks Test, which is Java From Ibm, which misses Local Hadoop Configuration, which misses Authentication Configuration.

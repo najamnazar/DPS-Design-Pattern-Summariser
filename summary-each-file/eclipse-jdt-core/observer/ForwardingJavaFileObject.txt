@@ -1,0 +1,2 @@
+ForwardingJavaFileObject acts as a publisher for observer String, which gets Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which gets Nesting Kind, which gets Access Level.
+ForwardingJavaFileObject acts as an observer, which gets Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which gets Nesting Kind, which gets Access Level.

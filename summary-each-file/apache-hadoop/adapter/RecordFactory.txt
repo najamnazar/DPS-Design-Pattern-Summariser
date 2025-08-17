@@ -1,0 +1,30 @@
+RecordFactory acts as an adaptee for adapter LocalContainerAllocator, which adapts to RMCommunicator, which adapts to RMCommunicator.
+RecordFactory acts as an adaptee for adapter RMWebServices, which adapts to WebServices, which adapts to WebServices.
+RecordFactory acts as an adaptee for adapter HistoryClientService, which adapts to AbstractService, which adapts to AbstractService.
+RecordFactory acts as an adaptee for adapter RMAppAttemptImpl, which adapts to Recoverable, which adapts to Recoverable.
+RecordFactory acts as an adaptee for adapter NotRunningJob, which adapts to MRClientProtocol, which adapts to MRClientProtocol.
+RecordFactory acts as an adaptee for adapter AbstractLeafQueue, which adapts to AbstractCSQueue, which adapts to AbstractCSQueue.
+RecordFactory acts as an adaptee for adapter ClientProtocolService, which adapts to ClientSCMProtocol, AbstractService, which adapts to ClientSCMProtocol, AbstractService.
+RecordFactory acts as an adaptee for adapter FederationInterceptor, which adapts to AbstractRequestInterceptor, which adapts to AbstractRequestInterceptor.
+RecordFactory acts as an adaptee for adapter TestApplicationACLs, which adapts to ParameterizedSchedulerTestBase, which adapts to ParameterizedSchedulerTestBase.
+RecordFactory acts as an adaptee for adapter TestNMReconnect, which adapts to ParameterizedSchedulerTestBase, which adapts to ParameterizedSchedulerTestBase.
+RecordFactory acts as an adaptee for adapter ResourceLocalizationService, which adapts to LocalizationProtocol, CompositeService, which adapts to LocalizationProtocol, CompositeService.
+RecordFactory acts as an adaptee for adapter MockNodeStatusUpdater, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl.
+RecordFactory acts as an adaptee for adapter TestLogAggregationService, which adapts to BaseContainerManagerTest, which adapts to BaseContainerManagerTest.
+RecordFactory acts as an adaptee for adapter RMNodeImpl, which adapts to RMNode, which adapts to RMNode.
+RecordFactory acts as an adaptee for adapter LoadJob, which adapts to GridmixJob, which adapts to GridmixJob.
+RecordFactory acts as an adaptee for adapter RMAdminCLI, which adapts to HAAdmin, which adapts to HAAdmin.
+RecordFactory acts as an adaptee for adapter FSQueue, which adapts to Queue, which adapts to Queue.
+RecordFactory acts as an adaptee for adapter MRClientService, which adapts to AbstractService, which adapts to AbstractService.
+RecordFactory acts as an adaptee for adapter ApplicationPage, which adapts to NMView, which adapts to NMView.
+RecordFactory acts as an adaptee for adapter AbstractCSQueue, which adapts to CSQueue, which adapts to CSQueue.
+RecordFactory acts as an adaptee for adapter SCMAdminProtocolService, which adapts to SCMAdminProtocol, AbstractService, which adapts to SCMAdminProtocol, AbstractService.
+RecordFactory acts as an adaptee for adapter ClientRMService, which adapts to AbstractService, ApplicationClientProtocol, which adapts to AbstractService, ApplicationClientProtocol.
+RecordFactory acts as an adaptee for adapter RMCommunicator, which adapts to AbstractService, which adapts to AbstractService.
+RecordFactory acts as an adaptee for adapter ResourceTrackerService, which adapts to AbstractService, which adapts to AbstractService.
+RecordFactory acts as an adaptee for adapter AbstractParentQueue, which adapts to AbstractCSQueue, which adapts to AbstractCSQueue.
+RecordFactory acts as an adaptee for adapter SharedCacheUploaderService, which adapts to AbstractService, SCMUploaderProtocol, which adapts to AbstractService, SCMUploaderProtocol.
+RecordFactory acts as an adaptee for adapter AdminService, which adapts to ResourceManagerAdministrationProtocol, CompositeService, which adapts to ResourceManagerAdministrationProtocol, CompositeService.
+RecordFactory acts as an adaptee for adapter ApplicationMasterService, which adapts to ApplicationMasterProtocol, AbstractService, which adapts to ApplicationMasterProtocol, AbstractService.
+RecordFactory acts as an adaptee for adapter RMContainerRequestor, which adapts to RMCommunicator, which adapts to RMCommunicator.
+RecordFactory acts as an adaptee for adapter DistributedScheduler, which adapts to AbstractRequestInterceptor, which adapts to AbstractRequestInterceptor.

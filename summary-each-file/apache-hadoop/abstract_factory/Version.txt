@@ -1,0 +1,1 @@
+Version acts as an abstract product for Version, which is inherited by VersionPBImpl, VersionPBImpl.

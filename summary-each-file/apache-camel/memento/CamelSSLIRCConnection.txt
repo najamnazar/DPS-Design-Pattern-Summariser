@@ -1,0 +1,1 @@
+CamelSSLIRCConnection acts as a caretaker for memento Context, which connects, which gets Ssl Context Parameters, which sets SSLContextParameters parameter of sslContextParameters Ssl Context Parameters.

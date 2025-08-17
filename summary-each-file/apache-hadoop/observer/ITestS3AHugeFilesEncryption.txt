@@ -1,0 +1,1 @@
+ITestS3AHugeFilesEncryption acts as a publisher for observer Path, which setups, which gets Block Output Buffer Name, which is S3AFileSystem parameter of fileSystem Encrypted, which asserts Path parameter of hugeFile Encrypted.

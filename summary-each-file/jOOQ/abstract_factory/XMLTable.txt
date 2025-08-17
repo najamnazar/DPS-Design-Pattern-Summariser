@@ -1,0 +1,3 @@
+XMLTable acts as a product for XMLTableColumnsFirstStep, which overrides.
+XMLTable acts as a factory for XMLTableColumnPathStep, which overrides.
+XMLTable acts as a factory for XMLTablePassingStep, which overrides.

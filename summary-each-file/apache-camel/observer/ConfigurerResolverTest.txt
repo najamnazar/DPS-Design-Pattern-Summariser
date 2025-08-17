@@ -1,0 +1,2 @@
+ConfigurerResolverTest acts as a publisher for observer Service, which tests Configurer Resolver.
+ConfigurerResolverTest acts as a publisher for observer CamelContext, which tests Configurer Resolver.

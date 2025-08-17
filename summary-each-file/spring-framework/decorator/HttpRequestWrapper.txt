@@ -1,0 +1,1 @@
+HttpRequestWrapper acts as a decorator for component HttpRequest, which is inherited by.

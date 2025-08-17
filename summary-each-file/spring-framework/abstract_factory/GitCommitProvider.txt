@@ -1,0 +1,1 @@
+GitCommitProvider acts as a factory for CommitProvider, which overrides provide method of CommitProvider.

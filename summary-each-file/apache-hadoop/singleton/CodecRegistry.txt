@@ -1,0 +1,1 @@
+CodecRegistry acts as a singleton, which gets a CodecRegistry Instance to.

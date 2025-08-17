@@ -1,0 +1,1 @@
+CamelMainTestSupport acts as a target for adapter ReplaceBeanWithMockTest, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport, which adapts to CamelMainTestSupport.

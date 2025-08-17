@@ -1,0 +1,2 @@
+XPathSplitStreamTest acts as a publisher for observer Service, which sets Up, which tests XPath Split Stream, which creates Route Builder.
+XPathSplitStreamTest acts as a publisher for observer CamelContext, which sets Up, which tests XPath Split Stream, which creates Route Builder.

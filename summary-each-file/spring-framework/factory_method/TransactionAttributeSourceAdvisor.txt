@@ -1,0 +1,1 @@
+TransactionAttributeSourceAdvisor acts as a factory method for TransactionAttributeSource, which is inherited by TransactionAspectSupport.

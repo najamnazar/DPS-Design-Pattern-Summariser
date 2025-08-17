@@ -1,0 +1,1 @@
+DefaultProducer acts as a memento, which does Stop, which does Stop, which does Stop, which does Stop, which does Stop, which does Stop.

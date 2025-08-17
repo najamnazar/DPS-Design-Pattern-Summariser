@@ -1,0 +1,1 @@
+DefaultTransactionAttribute acts as a product for MapTransactionAttributeSource, which overrides getQualifier method of TransactionAttribute, getLabels method of TransactionAttribute, rollbackOn method of TransactionAttribute.

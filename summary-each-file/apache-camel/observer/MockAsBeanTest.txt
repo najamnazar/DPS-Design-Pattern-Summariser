@@ -1,0 +1,2 @@
+MockAsBeanTest acts as a publisher for observer CamelContext, which tests Mock As Bean With When Any Exchange Received, which creates Route Builder, which tests Mock As Bean With Reply Body, which tests Mock As Bean With Reply Header.
+MockAsBeanTest acts as a publisher for observer Service, which tests Mock As Bean With When Any Exchange Received, which creates Route Builder, which tests Mock As Bean With Reply Body, which tests Mock As Bean With Reply Header.

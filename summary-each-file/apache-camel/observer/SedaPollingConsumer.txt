@@ -1,0 +1,1 @@
+SedaPollingConsumer acts as a publisher for observer ExceptionHandler, which gets Endpoint, which gets Processor, which receives, which receives No Wait, which receives long parameter of timeout, which does Start, which does Stop, which is Singleton.

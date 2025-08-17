@@ -1,0 +1,2 @@
+MethodBeforeAdviceInterceptor acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+MethodBeforeAdviceInterceptor acts as a product for AdvisorAdapter, which overrides.

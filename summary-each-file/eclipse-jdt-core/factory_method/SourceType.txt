@@ -1,0 +1,1 @@
+SourceType acts as a factory for CreateTypeHierarchyOperation, which overrides.

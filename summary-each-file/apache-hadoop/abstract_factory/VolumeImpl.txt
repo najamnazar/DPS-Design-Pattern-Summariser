@@ -1,0 +1,2 @@
+VolumeImpl acts as a product for VolumeManager, which overrides getClient method of Volume, getVolumeMeta method of Volume, getVolumeState method of Volume, getVolumeId method of Volume.
+VolumeImpl acts as a factory for Volume, which overrides getClient method of Volume, getVolumeMeta method of Volume, getVolumeState method of Volume, getVolumeId method of Volume.

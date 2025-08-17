@@ -1,0 +1,1 @@
+AbstractResource acts as a factory for VfsResource, which overrides.

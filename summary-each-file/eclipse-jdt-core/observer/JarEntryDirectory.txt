@@ -1,0 +1,1 @@
+JarEntryDirectory acts as a publisher for observer Object, which clones Object parameter of newParent, which gets Children, which gets Contents, which is File, which sets IJarEntryResource[] parameter of children Children, which tos String.

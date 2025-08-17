@@ -1,0 +1,1 @@
+BlockLocalPathInfo acts as an observer for publisher BlockReaderLocalLegacy, which is inherited by, which gets Block Path, which gets Block, which gets Meta Path, which gets Num Bytes.

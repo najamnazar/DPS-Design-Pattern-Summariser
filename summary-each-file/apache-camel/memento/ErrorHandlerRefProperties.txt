@@ -1,0 +1,2 @@
+ErrorHandlerRefProperties acts as an originator for memento ErrorHandlerFactory.
+ErrorHandlerRefProperties acts as a memento, which sets boolean parameter of supportTransacted Support Transacted, which sets boolean parameter of supportTransacted Support Transacted, which sets boolean parameter of supportTransacted Support Transacted, which sets boolean parameter of supportTransacted Support Transacted.

@@ -1,0 +1,2 @@
+XMLTableColumnPathStep acts as a memento, which pathes String parameter of path.
+XMLTableColumnPathStep acts as an originator for memento XMLTableColumnsStep, which pathes XMLTableColumnsStep.

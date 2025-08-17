@@ -1,0 +1,1 @@
+VertxKafkaConsumerFullTest acts as a caretaker for memento Producer, which befores, which afters, which creates Route Builder, which kafkas Message Is Consumed By Camel, which kafkas Record Specific Headers Are Not Overwritten, which kafkas Message Is Consumed By Camel Seeked To Beginning, which kafkas Message Is Consumed By Camel Seeked To End.

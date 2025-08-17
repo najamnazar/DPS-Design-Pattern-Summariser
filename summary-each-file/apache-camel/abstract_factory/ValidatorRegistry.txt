@@ -1,0 +1,1 @@
+ValidatorRegistry acts as an abstract factory for Validator, which is inherited by.

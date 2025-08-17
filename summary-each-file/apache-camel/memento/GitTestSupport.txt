@@ -1,0 +1,2 @@
+GitTestSupport acts as a caretaker for memento Context, which sets Up, which tears Down, which gets Test Repository, which gets Git Test Repository, which validates Git parameter of git, String... parameter of messages Git Logs.
+GitTestSupport acts as a caretaker for memento Producer, which sets Up, which tears Down, which gets Test Repository, which gets Git Test Repository, which validates Git parameter of git, String... parameter of messages Git Logs.

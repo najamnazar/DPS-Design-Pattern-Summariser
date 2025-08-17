@@ -1,0 +1,1 @@
+HttpServerSharedInitializerFactory acts as an adapter, which adapts to HttpServerInitializerFactory, which adapts to HttpServerInitializerFactory, which adapts to HttpServerInitializerFactory, which adapts to HttpServerInitializerFactory.

@@ -1,0 +1,4 @@
+ResourceView acts as an adaptee for adapter TestNMWebServicesContainers, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.
+ResourceView acts as an adaptee for adapter WebServer, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+ResourceView acts as an adaptee for adapter NodePage, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView.
+ResourceView acts as an adaptee for adapter TestNMWebServices, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.

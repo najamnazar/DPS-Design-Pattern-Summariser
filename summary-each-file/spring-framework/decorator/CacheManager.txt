@@ -1,0 +1,1 @@
+CacheManager acts as a component for TransactionAwareCacheManagerProxy, which is inherited by NoOpCacheManager, NoOpCacheManager, ConcurrentMapCacheManager, ConcurrentMapCacheManager, CaffeineCacheManager, CaffeineCacheManager, AbstractCacheManager, AbstractCacheManager, AbstractCacheManager, CompositeCacheManager, CompositeCacheManager, CompositeCacheManager.

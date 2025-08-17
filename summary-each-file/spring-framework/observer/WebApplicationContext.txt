@@ -1,0 +1,2 @@
+WebApplicationContext acts as an observer, which gets Servlet Context.
+WebApplicationContext acts as an observer for publisher DelegatingFilterProxy, which is inherited by ConfigurableWebApplicationContext, StubWebApplicationContext, which gets Servlet Context.

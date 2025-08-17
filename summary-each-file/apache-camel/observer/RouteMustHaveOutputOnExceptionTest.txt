@@ -1,0 +1,2 @@
+RouteMustHaveOutputOnExceptionTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Valid, which tests In Valid.
+RouteMustHaveOutputOnExceptionTest acts as a publisher for observer Service, which is Use Route Builder, which tests Valid, which tests In Valid.

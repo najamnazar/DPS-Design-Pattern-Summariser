@@ -1,0 +1,5 @@
+SmppProducerReconnectManualIT acts as a publisher for observer ConsumerTemplate, which tests, which creates Route Builder.
+SmppProducerReconnectManualIT acts as a publisher for observer FluentProducerTemplate, which tests, which creates Route Builder.
+SmppProducerReconnectManualIT acts as a publisher for observer CamelContext, which tests, which creates Route Builder.
+SmppProducerReconnectManualIT acts as a publisher for observer Service, which tests, which creates Route Builder.
+SmppProducerReconnectManualIT acts as a publisher for observer ProducerTemplate, which tests, which creates Route Builder.

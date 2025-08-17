@@ -1,0 +1,2 @@
+DefaultStatement acts as a product for LoggingConnection, which overrides.
+DefaultStatement acts as a factory for LoggingConnection, which overrides.

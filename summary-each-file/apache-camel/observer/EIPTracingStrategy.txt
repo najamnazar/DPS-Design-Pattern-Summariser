@@ -1,0 +1,1 @@
+EIPTracingStrategy acts as an observer, which wraps CamelContext parameter of camelContext, NamedNode parameter of processorDefinition, Processor parameter of target, Processor parameter of nextTarget Processor In Interceptors.

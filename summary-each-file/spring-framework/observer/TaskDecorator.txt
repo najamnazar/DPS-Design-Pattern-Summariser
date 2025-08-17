@@ -1,0 +1,1 @@
+TaskDecorator acts as an observer for publisher TaskExecutorAdapter, which is inherited by, which decorates Runnable parameter of runnable.

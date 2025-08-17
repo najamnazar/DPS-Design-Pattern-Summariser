@@ -1,0 +1,2 @@
+FileSplitStreamingWithChoiceTest acts as a publisher for observer Service, which tests Split Streaming With Choice, which creates Route Builder.
+FileSplitStreamingWithChoiceTest acts as a publisher for observer CamelContext, which tests Split Streaming With Choice, which creates Route Builder.

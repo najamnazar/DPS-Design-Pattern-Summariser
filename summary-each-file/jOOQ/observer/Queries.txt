@@ -1,0 +1,1 @@
+Queries acts as an observer for publisher VersionImpl, which is inherited by QueriesImpl, which concats Queries parameter of other, which querieses, which blocks, which streams, which queries Stream, which fetches Many, which executes Batch, which $querieses.

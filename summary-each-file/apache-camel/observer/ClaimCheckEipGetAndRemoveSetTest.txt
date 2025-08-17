@@ -1,0 +1,2 @@
+ClaimCheckEipGetAndRemoveSetTest acts as a publisher for observer CamelContext, which tests Get And Remove Set, which creates Route Builder.
+ClaimCheckEipGetAndRemoveSetTest acts as a publisher for observer Service, which tests Get And Remove Set, which creates Route Builder.

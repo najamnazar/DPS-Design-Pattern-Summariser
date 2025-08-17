@@ -1,0 +1,2 @@
+AnnotationComponent acts as a caretaker for memento C, which gets Component Name Index, which gets Component Name, which gets Component Value, which sizes In Bytes.
+AnnotationComponent acts as a caretaker for memento IAnnotation, which gets Component Name Index, which gets Component Name, which gets Component Value, which sizes In Bytes.

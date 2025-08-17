@@ -1,0 +1,1 @@
+SqsDeadletterWithClientRegistryLocalstackIT acts as an adapter, which adapts to Aws2SQSBaseTest, which adapts to Aws2SQSBaseTest, which adapts to Aws2SQSBaseTest.

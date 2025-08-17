@@ -1,0 +1,1 @@
+QueryRecordsContact acts as an observer for publisher Account, which is inherited by.

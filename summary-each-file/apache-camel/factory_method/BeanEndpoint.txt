@@ -1,0 +1,2 @@
+BeanEndpoint acts as a factory for TransformerRouteTest, which overrides.
+BeanEndpoint acts as a factory for BeanProcessor, which overrides.

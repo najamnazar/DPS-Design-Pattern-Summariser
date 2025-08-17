@@ -1,0 +1,1 @@
+BasePackageScanDownloadListener acts as a caretaker for memento Context, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which ons File parameter of file Downloaded File, which bases String parameter of basePackage, File parameter of file Package Scan Configuration.

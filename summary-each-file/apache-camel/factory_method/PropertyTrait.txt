@@ -1,0 +1,1 @@
+PropertyTrait acts as a product for ModelineParser, which overrides getName method of Trait, parseTrait method of Trait.

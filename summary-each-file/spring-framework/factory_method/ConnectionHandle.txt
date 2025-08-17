@@ -1,0 +1,1 @@
+ConnectionHandle acts as an abstract product for EclipseLinkJpaDialect, which is inherited by SimpleConnectionHandle.

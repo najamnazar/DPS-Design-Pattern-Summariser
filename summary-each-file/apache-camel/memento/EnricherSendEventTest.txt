@@ -1,0 +1,2 @@
+EnricherSendEventTest acts as a caretaker for memento Context, which tests Async Enricher, which tests Sync Enricher, which creates Camel Context, which creates Route Builder, which notifies CamelEvent parameter of event.
+EnricherSendEventTest acts as a caretaker for memento Producer, which tests Async Enricher, which tests Sync Enricher, which creates Camel Context, which creates Route Builder, which notifies CamelEvent parameter of event.

@@ -1,0 +1,2 @@
+MappedInterceptor acts as a product for MappedInterceptor, which overrides preHandle method of HandlerInterceptor, postHandle method of HandlerInterceptor, afterCompletion method of HandlerInterceptor.
+MappedInterceptor acts as a factory method for HandlerInterceptor, which is inherited by AbstractHandlerMapping, AbstractHandlerMapping, AbstractHandlerMapping.

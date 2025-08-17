@@ -1,0 +1,1 @@
+MyAggregationStrategyService acts as a component for decorator ShareUnitOfWorkAggregationStrategy, which overrides aggregateAggregationStrategy, doStartAggregationStrategy, doStopAggregationStrategy.

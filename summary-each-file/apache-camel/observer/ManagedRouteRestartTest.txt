@@ -1,0 +1,1 @@
+ManagedRouteRestartTest acts as a publisher for observer Route, which is inherited by, which tests Restart Route, which creates Route Builder, which ons Route parameter of route Start, which ons Route parameter of route Stop, which gets Start, which gets Stop.

@@ -1,0 +1,2 @@
+SubApplicationRowKeyPrefix acts as a publisher for observer SubApplicationRowKey, which gets Row Key Prefix.
+SubApplicationRowKeyPrefix acts as an observer, which gets Row Key Prefix.

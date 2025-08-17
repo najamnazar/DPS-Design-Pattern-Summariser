@@ -1,0 +1,2 @@
+Elements acts as an abstract factory for TypeElement, ModuleElement, RecordComponentElement, PackageElement, Name, which is inherited by ElementsImpl.
+Elements acts as an abstract product for Elements, which is inherited by ElementsImpl.

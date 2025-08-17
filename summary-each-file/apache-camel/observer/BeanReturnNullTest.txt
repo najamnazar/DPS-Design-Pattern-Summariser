@@ -1,0 +1,2 @@
+BeanReturnNullTest acts as a publisher for observer CamelContext, which tests Return Bean, which tests Return Null, which tests Return Null My Bean, which creates Route Builder, which does String parameter of body Something, which gets Name.
+BeanReturnNullTest acts as a publisher for observer Service, which tests Return Bean, which tests Return Null, which tests Return Null My Bean, which creates Route Builder, which does String parameter of body Something, which gets Name.

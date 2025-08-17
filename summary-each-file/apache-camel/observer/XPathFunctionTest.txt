@@ -1,0 +1,2 @@
+XPathFunctionTest acts as a publisher for observer CamelContext, which tests Check Header, which tests Check Body, which tests Set Xpath Property, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.
+XPathFunctionTest acts as a publisher for observer Service, which tests Check Header, which tests Check Body, which tests Set Xpath Property, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.

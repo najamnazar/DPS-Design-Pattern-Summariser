@@ -1,0 +1,2 @@
+AbstractStaxXMLReaderTests acts as a factory for AbstractStaxXMLReaderTests, which overrides.
+AbstractStaxXMLReaderTests acts as a factory method for ContentHandler, which is inherited by AbstractStaxXMLReaderTests, AbstractStaxXMLReaderTests, AbstractXMLReader.

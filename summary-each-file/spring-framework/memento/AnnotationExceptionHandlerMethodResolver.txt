@@ -1,0 +1,1 @@
+AnnotationExceptionHandlerMethodResolver acts as a caretaker for memento C, which inits Class<?> parameter of handlerType Exception Mappings.

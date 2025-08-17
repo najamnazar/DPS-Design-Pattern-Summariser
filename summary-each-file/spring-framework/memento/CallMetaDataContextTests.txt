@@ -1,0 +1,2 @@
+CallMetaDataContextTests acts as a caretaker for memento Database, which sets Up, which verifies Closed, which tests Match Parameter Values And Sql In Out Parameters.
+CallMetaDataContextTests acts as a caretaker for memento C, which sets Up, which verifies Closed, which tests Match Parameter Values And Sql In Out Parameters.

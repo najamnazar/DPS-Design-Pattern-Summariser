@@ -1,0 +1,3 @@
+FederationMembershipStateStore acts as an originator for memento SubClusterDeregisterResponse, which is inherited by, which deregisters a SubClusterDeregisterResponse Sub Cluster to.
+FederationMembershipStateStore acts as an originator for memento SubClusterRegisterResponse, which is inherited by, which registers a SubClusterRegisterResponse Sub Cluster to.
+FederationMembershipStateStore acts as an originator for memento SubClusterHeartbeatResponse, which is inherited by, which subs a SubClusterHeartbeatResponse Cluster Heartbeat to.

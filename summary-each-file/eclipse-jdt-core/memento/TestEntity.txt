@@ -1,0 +1,2 @@
+TestEntity acts as a caretaker for memento Test.
+TestEntity acts as a caretaker for memento E.

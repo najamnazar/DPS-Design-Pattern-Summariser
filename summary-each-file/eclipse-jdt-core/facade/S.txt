@@ -1,0 +1,1 @@
+S acts as a subsystem for facade C, which foo method of C calls out.

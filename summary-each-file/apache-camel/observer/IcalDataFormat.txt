@@ -1,0 +1,2 @@
+IcalDataFormat acts as an observer, which gets Validating, which sets String parameter of validating Validating, which validatings String parameter of validating, which validatings boolean parameter of validating, which ends.
+IcalDataFormat acts as a publisher for observer DataFormat, which gets Validating, which sets String parameter of validating Validating, which validatings String parameter of validating, which validatings boolean parameter of validating, which ends.

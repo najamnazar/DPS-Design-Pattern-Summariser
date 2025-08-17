@@ -1,0 +1,1 @@
+InitializationFlowContext acts as an adapter, which adapts to ExceptionHandlingFlowContext, which adapts to ExceptionHandlingFlowContext, which adapts to ExceptionHandlingFlowContext.

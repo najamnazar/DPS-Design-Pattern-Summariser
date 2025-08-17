@@ -1,0 +1,2 @@
+ProblemReferenceBinding acts as an observer, which problems Id, which shorts Readable Name.
+ProblemReferenceBinding acts as a publisher for observer PackageBinding, which problems Id, which shorts Readable Name.

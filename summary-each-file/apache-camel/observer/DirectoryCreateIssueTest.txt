@@ -1,0 +1,2 @@
+DirectoryCreateIssueTest acts as a publisher for observer Service, which creates Route Builder, which tests File Created As Dir.
+DirectoryCreateIssueTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests File Created As Dir.

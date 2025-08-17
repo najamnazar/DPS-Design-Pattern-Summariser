@@ -1,0 +1,1 @@
+AbstractAuditSpanImpl acts as a target for adapter NoopSpan, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl.

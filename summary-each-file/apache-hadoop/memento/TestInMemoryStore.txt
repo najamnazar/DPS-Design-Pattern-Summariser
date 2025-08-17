@@ -1,0 +1,1 @@
+TestInMemoryStore acts as a caretaker for memento SkylineStore, which creates Skyline Store.

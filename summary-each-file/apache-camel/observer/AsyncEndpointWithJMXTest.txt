@@ -1,0 +1,2 @@
+AsyncEndpointWithJMXTest acts as a publisher for observer CamelContext, which uses Jmx, which tests Async Endpoint, which creates Route Builder.
+AsyncEndpointWithJMXTest acts as a publisher for observer Service, which uses Jmx, which tests Async Endpoint, which creates Route Builder.

@@ -1,0 +1,2 @@
+BeanFactoryMessageChannelDestinationResolver acts as a publisher for observer BeanFactory, which sets BeanFactory parameter of beanFactory Bean Factory, which resolves String parameter of name Destination.
+BeanFactoryMessageChannelDestinationResolver acts as a publisher for observer BeanFactory, which is inherited by, which sets BeanFactory parameter of beanFactory Bean Factory, which resolves String parameter of name Destination.

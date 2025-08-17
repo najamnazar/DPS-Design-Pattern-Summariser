@@ -1,0 +1,2 @@
+XsltIncludeClasspathDotInDirectoryTest acts as a publisher for observer Service, which tears Down, which tests Xslt Include Classpath, which creates Route Builder.
+XsltIncludeClasspathDotInDirectoryTest acts as a publisher for observer CamelContext, which tears Down, which tests Xslt Include Classpath, which creates Route Builder.

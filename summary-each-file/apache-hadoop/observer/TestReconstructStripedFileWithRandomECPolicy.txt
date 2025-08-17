@@ -1,0 +1,1 @@
+TestReconstructStripedFileWithRandomECPolicy acts as a publisher for observer DistributedFileSystem, which gets Ec Policy.

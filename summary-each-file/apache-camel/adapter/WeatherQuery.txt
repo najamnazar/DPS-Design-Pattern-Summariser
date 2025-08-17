@@ -1,0 +1,1 @@
+WeatherQuery acts as an adaptee for adapter WeatherEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint, which adapts to DefaultPollingEndpoint.

@@ -1,0 +1,2 @@
+NoErrorHandler acts as a product for JmsConfiguration, which overrides.
+NoErrorHandler acts as a product for RoundRobinLoadBalancer, which overrides processAsync method of AsyncProcessor.

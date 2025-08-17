@@ -1,0 +1,1 @@
+GsonHttpMessageConverter acts as a caretaker for memento C, which sets Gson parameter of gson Gson, which gets Gson, which reads Type parameter of resolvedType, Reader parameter of reader Internal, which writes Object parameter of object, @Nullable parameter of Type, Writer parameter of writer Internal.

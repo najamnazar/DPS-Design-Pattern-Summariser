@@ -1,0 +1,1 @@
+QueueACL acts as an observer for publisher QueueUserACLInfoPBImpl, which is inherited by.

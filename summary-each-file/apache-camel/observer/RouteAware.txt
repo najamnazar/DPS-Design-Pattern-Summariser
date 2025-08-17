@@ -1,0 +1,1 @@
+RouteAware acts as a publisher for observer Route, which is inherited by DefaultConsumer, which sets Route parameter of route Route, which gets Route.

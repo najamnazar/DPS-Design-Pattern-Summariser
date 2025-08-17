@@ -1,0 +1,1 @@
+RSErasureEncoder acts as an adapter, which adapts to ErasureEncoder, which adapts to ErasureEncoder, which adapts to ErasureEncoder, which adapts to ErasureEncoder.

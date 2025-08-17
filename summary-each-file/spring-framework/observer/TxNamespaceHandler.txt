@@ -1,0 +1,2 @@
+TxNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which gets Element parameter of element Transaction Manager Name, which inits.
+TxNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which gets Element parameter of element Transaction Manager Name, which inits.

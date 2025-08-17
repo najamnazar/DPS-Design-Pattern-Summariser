@@ -1,0 +1,1 @@
+MiniMRYarnClusterAdapter acts as an adapter, which adapts getConfig method of MiniMRYarnCluster to MiniMRClientCluster, which adapts to MiniMRClientCluster, which adapts stop method of MiniMRYarnCluster to MiniMRClientCluster, which adapts to MiniMRClientCluster, which adapts to MiniMRClientCluster.

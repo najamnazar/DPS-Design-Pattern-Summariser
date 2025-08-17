@@ -1,0 +1,2 @@
+PulsarCustomMessageReceiptIT acts as a caretaker for memento Producer, which setups, which creates Camel Registry, which registers final parameter of Registry Pulsar Beans, which gives Pulsar Client, which tests Acknowledge With Custom Message Receipt.
+PulsarCustomMessageReceiptIT acts as a caretaker for memento PulsarMessageReceipt, which setups, which creates Camel Registry, which registers final parameter of Registry Pulsar Beans, which gives Pulsar Client, which tests Acknowledge With Custom Message Receipt.

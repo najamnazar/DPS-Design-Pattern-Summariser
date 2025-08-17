@@ -1,0 +1,1 @@
+DefaultErrorHandlingPolicies acts as an originator for memento IErrorHandlingPolicy, which exits an IErrorHandlingPolicy After All Problems to, which exits an IErrorHandlingPolicy On First Error to, which proceeds an IErrorHandlingPolicy On First Error to, which proceeds an IErrorHandlingPolicy With All Problems to.

@@ -1,0 +1,1 @@
+DecompressorStream acts as a product for CompressionCodec, which overrides read method of CompressionInputStream, resetState method of CompressionInputStream, close method of CompressionInputStream.

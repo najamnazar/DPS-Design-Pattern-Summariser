@@ -1,0 +1,3 @@
+ServerHttpRequest acts as a product for RequestBodyAdvice, which overrides.
+ServerHttpRequest acts as an abstract product for ServerHttpRequest, which is inherited by AbstractServerHttpRequest, ServerHttpRequestDecorator, ServletServerHttpRequest.
+ServerHttpRequest acts as an abstract factory for ServerHttpAsyncRequestControl, which is inherited by AbstractServerHttpRequest, ServerHttpRequestDecorator, ServletServerHttpRequest.

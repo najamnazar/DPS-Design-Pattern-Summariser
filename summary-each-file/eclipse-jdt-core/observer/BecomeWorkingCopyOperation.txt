@@ -1,0 +1,2 @@
+BecomeWorkingCopyOperation acts as a publisher for observer String, which executes Operation, which gets Working Copy, which is Read Only.
+BecomeWorkingCopyOperation acts as a publisher for observer IJavaElement, which executes Operation, which gets Working Copy, which is Read Only.

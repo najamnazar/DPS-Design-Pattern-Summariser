@@ -1,0 +1,2 @@
+FilenameComparator acts as a caretaker for memento Comparator, which compares String parameter of o1, String parameter of o2.
+FilenameComparator acts as a caretaker for memento File, which compares String parameter of o1, String parameter of o2.

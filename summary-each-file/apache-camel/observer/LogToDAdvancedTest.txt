@@ -1,0 +1,1 @@
+LogToDAdvancedTest acts as a publisher for observer Exchange, which is inherited by, which formats Exchange parameter of exchange, which tests Log, which creates Route Builder.

@@ -1,0 +1,2 @@
+AbstractConstraintDefinition acts as a caretaker for memento Package, which gets Definition Path, which gets Table, which enforces.
+AbstractConstraintDefinition acts as a caretaker for memento PackageDefinition, which gets Definition Path, which gets Table, which enforces.

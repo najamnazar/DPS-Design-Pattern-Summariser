@@ -1,0 +1,1 @@
+MockS3ARemoteObject acts as a caretaker for memento Attribute, which opens long parameter of offset, int parameter of size For Read, which closes ResponseInputStream<GetObjectResponse> parameter of inputStream, int parameter of numRemainingBytes, which bytes int parameter of offset At Offset, which creates String parameter of bucketName Client.

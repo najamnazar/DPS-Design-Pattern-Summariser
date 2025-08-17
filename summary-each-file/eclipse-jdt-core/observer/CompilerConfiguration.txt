@@ -1,0 +1,1 @@
+CompilerConfiguration acts as an observer for publisher ICompilerFactory, MockCompilerFactory, which is inherited by.

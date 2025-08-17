@@ -1,0 +1,2 @@
+RecipientListMEPWithRawTest acts as a publisher for observer CamelContext, which tests MEPIn Only, which creates Route Builder.
+RecipientListMEPWithRawTest acts as a publisher for observer Service, which tests MEPIn Only, which creates Route Builder.

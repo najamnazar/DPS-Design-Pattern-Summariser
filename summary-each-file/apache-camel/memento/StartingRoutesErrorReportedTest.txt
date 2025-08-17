@@ -1,0 +1,2 @@
+StartingRoutesErrorReportedTest acts as a caretaker for memento Context, which tests Invalid From, which tests Invalid To, which tests Mask Password, which tests Invalid Bean, which tests Unavailable Data Format On Classpath, which is Use Route Builder.
+StartingRoutesErrorReportedTest acts as a caretaker for memento Producer, which tests Invalid From, which tests Invalid To, which tests Mask Password, which tests Invalid Bean, which tests Unavailable Data Format On Classpath, which is Use Route Builder.

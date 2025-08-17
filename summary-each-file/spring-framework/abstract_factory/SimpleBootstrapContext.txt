@@ -1,0 +1,2 @@
+SimpleBootstrapContext acts as a factory for BootstrapContext, which overrides.
+SimpleBootstrapContext acts as a product for TestContextBootstrapper, which overrides.

@@ -1,0 +1,2 @@
+MarkRollbackOnlyTest acts as a publisher for observer CamelContext, which tests Rollback Custom Message Not Use Exception, which creates Route Builder.
+MarkRollbackOnlyTest acts as a publisher for observer Service, which tests Rollback Custom Message Not Use Exception, which creates Route Builder.

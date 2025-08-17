@@ -1,0 +1,3 @@
+BoxEventsManagerEndpointConfiguration acts as a publisher for observer BoxApiName, which gets Starting Position, which sets Long parameter of startingPosition Starting Position.
+BoxEventsManagerEndpointConfiguration acts as an observer, which gets Starting Position, which sets Long parameter of startingPosition Starting Position.
+BoxEventsManagerEndpointConfiguration acts as a publisher for observer SSLContextParameters, which gets Starting Position, which sets Long parameter of startingPosition Starting Position.

@@ -1,0 +1,1 @@
+AbstractWebSocketClient acts as a target for adapter JettyWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient.

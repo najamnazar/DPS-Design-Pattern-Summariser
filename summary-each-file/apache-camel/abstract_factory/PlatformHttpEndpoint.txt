@@ -1,0 +1,1 @@
+PlatformHttpEndpoint acts as a factory for HeaderFilterStrategyAware, which overrides getHeaderFilterStrategy method of HeaderFilterStrategyAware.

@@ -1,0 +1,2 @@
+MutableMetric acts as a target for adapter MutableRates, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric.
+MutableMetric acts as a target for adapter MethodMetric, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric.

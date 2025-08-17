@@ -1,0 +1,2 @@
+BeanAbstractMethodIssueTest acts as a publisher for observer Service, which tests Abstract Method, which creates Route Builder.
+BeanAbstractMethodIssueTest acts as a publisher for observer CamelContext, which tests Abstract Method, which creates Route Builder.

@@ -1,0 +1,5 @@
+AggregateRedisIT acts as a publisher for observer FluentProducerTemplate, which tests ABC, which creates Route Builder.
+AggregateRedisIT acts as a publisher for observer ProducerTemplate, which tests ABC, which creates Route Builder.
+AggregateRedisIT acts as a publisher for observer CamelContext, which tests ABC, which creates Route Builder.
+AggregateRedisIT acts as a publisher for observer Service, which tests ABC, which creates Route Builder.
+AggregateRedisIT acts as a publisher for observer ConsumerTemplate, which tests ABC, which creates Route Builder.

@@ -1,0 +1,1 @@
+JmsNoRequestTimeoutTest acts as a publisher for observer ArtemisService, which tests No Request Timeout, which gets Component Name, which creates Route Builder.

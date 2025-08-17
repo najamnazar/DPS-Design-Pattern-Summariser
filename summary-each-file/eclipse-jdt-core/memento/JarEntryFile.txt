@@ -1,0 +1,4 @@
+JarEntryFile acts as a caretaker for memento E, which clones Object parameter of newParent, which gets Contents, which gets Children, which is File, which tos String.
+JarEntryFile acts as a caretaker for memento String, which clones Object parameter of newParent, which gets Contents, which gets Children, which is File, which tos String.
+JarEntryFile acts as a caretaker for memento R, which clones Object parameter of newParent, which gets Contents, which gets Children, which is File, which tos String.
+JarEntryFile acts as a caretaker for memento S, which clones Object parameter of newParent, which gets Contents, which gets Children, which is File, which tos String.

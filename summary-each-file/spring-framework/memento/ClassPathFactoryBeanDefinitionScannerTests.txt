@@ -1,0 +1,4 @@
+ClassPathFactoryBeanDefinitionScannerTests acts as a caretaker for memento A, which tests Singleton Scoped Factory Method.
+ClassPathFactoryBeanDefinitionScannerTests acts as a caretaker for memento B, which tests Singleton Scoped Factory Method.
+ClassPathFactoryBeanDefinitionScannerTests acts as a caretaker for memento C, which tests Singleton Scoped Factory Method.
+ClassPathFactoryBeanDefinitionScannerTests acts as a caretaker for memento ApplicationContext, which tests Singleton Scoped Factory Method.

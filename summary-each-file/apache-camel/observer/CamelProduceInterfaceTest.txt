@@ -1,0 +1,2 @@
+CamelProduceInterfaceTest acts as a publisher for observer CamelContext, which tests Camel Produce Interface, which creates Route Builder.
+CamelProduceInterfaceTest acts as a publisher for observer Service, which tests Camel Produce Interface, which creates Route Builder.

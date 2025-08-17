@@ -1,0 +1,1 @@
+WebSocketHandlerRegistry acts as an abstract factory for WebSocketHandlerRegistration, which is inherited by ServletWebSocketHandlerRegistry.

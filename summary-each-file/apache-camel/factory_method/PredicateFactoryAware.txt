@@ -1,0 +1,2 @@
+PredicateFactoryAware acts as a factory for PredicateFactoryAware, which overrides.
+PredicateFactoryAware acts as a factory method for PredicateFactory, which is inherited by PredicateFactoryAware, ExpressionDefinition, ExpressionDefinition, ExpressionDefinition, ExpressionDefinition, ExpressionDefinition, PredicateFactoryAware.

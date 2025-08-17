@@ -1,0 +1,5 @@
+BooleanTypedValue acts as a product for SpelNode, which overrides.
+BooleanTypedValue acts as a product for EvaluationContext, which overrides.
+BooleanTypedValue acts as a product for ConstructorExecutor, which overrides.
+BooleanTypedValue acts as a product for ValueRef, which overrides.
+BooleanTypedValue acts as a product for MethodExecutor, which overrides.

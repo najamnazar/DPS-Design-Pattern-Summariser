@@ -1,0 +1,1 @@
+CounterPBImpl acts as a product for ByteArrayManager, which overrides getName method of Counter, setName method of Counter, getValue method of Counter, setValue method of Counter, getDisplayName method of Counter, setDisplayName method of Counter.

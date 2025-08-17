@@ -1,0 +1,2 @@
+ExceptionTranslator acts as a product for ExecuteListenerProvider, which overrides exception method of ExecuteListener.
+ExceptionTranslator acts as a factory for ExecuteListener, which overrides exception method of ExecuteListener.

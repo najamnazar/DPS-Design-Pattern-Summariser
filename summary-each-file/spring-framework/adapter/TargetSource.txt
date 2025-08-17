@@ -1,0 +1,2 @@
+TargetSource acts as an adaptee for adapter JndiObjectTargetSource, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator.
+TargetSource acts as an adaptee for adapter AdvisedSupport, which adapts to ProxyConfig, which adapts to ProxyConfig, which adapts to ProxyConfig, which adapts to ProxyConfig.

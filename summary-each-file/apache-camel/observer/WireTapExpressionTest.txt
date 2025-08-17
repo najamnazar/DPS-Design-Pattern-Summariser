@@ -1,0 +1,2 @@
+WireTapExpressionTest acts as a publisher for observer CamelContext, which tests Wire Tap Expression, which creates Route Builder.
+WireTapExpressionTest acts as a publisher for observer Service, which tests Wire Tap Expression, which creates Route Builder.

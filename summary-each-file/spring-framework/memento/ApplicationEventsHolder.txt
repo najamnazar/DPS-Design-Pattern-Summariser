@@ -1,0 +1,1 @@
+ApplicationEventsHolder acts as a caretaker for memento A, which gets Application Events, which gets Required Application Events, which registers Application Events If Necessary, which registers Application Events, which unregisters Application Events.

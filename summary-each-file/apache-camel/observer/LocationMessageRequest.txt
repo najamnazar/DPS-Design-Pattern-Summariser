@@ -1,0 +1,1 @@
+LocationMessageRequest acts as a publisher for observer LocationMessage, which is inherited by, which gets Location, which sets LocationMessage parameter of location Location.

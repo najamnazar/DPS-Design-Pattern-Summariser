@@ -1,0 +1,2 @@
+TestRunView acts as a target for adapter FailureRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView.
+TestRunView acts as a target for adapter TestHierarchyRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView, which adapts to TestRunView.

@@ -1,0 +1,1 @@
+CachedMethodExecutorTests acts as a caretaker for memento C, which tests Cached Execution For Parameters, which tests Cached Execution For Target, which asserts Expression parameter of expression, Object parameter of var, String parameter of expected Method Execution, which echoes String parameter of value, which echoes int parameter of value.

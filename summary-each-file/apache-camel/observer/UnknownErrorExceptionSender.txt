@@ -1,0 +1,1 @@
+UnknownErrorExceptionSender acts as an observer, which sends CMMessage parameter of cmMessage.

@@ -1,0 +1,1 @@
+DelegatingConverter acts as a caretaker for memento C, which froms T parameter of t, which tos U parameter of u, which tos String.

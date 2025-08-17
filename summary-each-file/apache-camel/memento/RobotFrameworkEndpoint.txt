@@ -1,0 +1,1 @@
+RobotFrameworkEndpoint acts as a caretaker for memento Configuration, which gets Exchange Pattern, which creates Endpoint Uri, which gets Configuration, which is Allow Context Map All, which sets boolean parameter of allowContextMapAll Allow Context Map All, which ons Exchange parameter of exchange Exchange.

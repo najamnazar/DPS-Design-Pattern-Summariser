@@ -1,0 +1,1 @@
+CamelEventHandler acts as an adaptee for adapter GuavaEventBusConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

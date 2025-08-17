@@ -1,0 +1,1 @@
+ConnectionContext acts as an observer for publisher ConnectionPool, which is inherited by, which is Active, which is Active Recently, which is Closed, which is Usable, which has Available Concurrency, which is Idle, which gets Client, which releases, which closes boolean parameter of force, which closes, which tos String.

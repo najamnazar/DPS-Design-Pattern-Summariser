@@ -1,0 +1,2 @@
+AggregateSimpleTimeoutTest acts as a publisher for observer CamelContext, which tests Aggregate Simple Timeout, which creates Route Builder.
+AggregateSimpleTimeoutTest acts as a publisher for observer Service, which tests Aggregate Simple Timeout, which creates Route Builder.

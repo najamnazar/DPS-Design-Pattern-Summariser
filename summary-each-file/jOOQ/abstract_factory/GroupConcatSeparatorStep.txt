@@ -1,0 +1,1 @@
+GroupConcatSeparatorStep acts as an abstract product for GroupConcatSeparatorStep, which is inherited by GroupConcatOrderByStep, GroupConcatOrderByStep.

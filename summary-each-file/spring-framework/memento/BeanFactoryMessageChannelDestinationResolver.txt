@@ -1,0 +1,1 @@
+BeanFactoryMessageChannelDestinationResolver acts as a caretaker for memento B, which sets BeanFactory parameter of beanFactory Bean Factory, which resolves String parameter of name Destination.

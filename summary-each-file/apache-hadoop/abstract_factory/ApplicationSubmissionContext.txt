@@ -1,0 +1,1 @@
+ApplicationSubmissionContext acts as an abstract product for ApplicationSubmissionContext, which is inherited by ApplicationSubmissionContextPBImpl.

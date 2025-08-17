@@ -1,0 +1,1 @@
+HttpServletResolveConsumerStrategy acts as a product for CamelServlet, which overrides resolve method of ServletResolveConsumerStrategy, isHttpMethodAllowed method of ServletResolveConsumerStrategy.

@@ -1,0 +1,2 @@
+TokenizePairTokenSimpleTest acts as a publisher for observer Service, which tests Tokenize Constant, which tests Tokenize Simple.
+TokenizePairTokenSimpleTest acts as a publisher for observer CamelContext, which tests Tokenize Constant, which tests Tokenize Simple.

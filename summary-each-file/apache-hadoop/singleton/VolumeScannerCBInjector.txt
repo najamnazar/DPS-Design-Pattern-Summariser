@@ -1,0 +1,1 @@
+VolumeScannerCBInjector acts as a singleton, which gets VolumeScannerCBInjector.

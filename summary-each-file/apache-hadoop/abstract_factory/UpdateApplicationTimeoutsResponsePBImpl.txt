@@ -1,0 +1,1 @@
+UpdateApplicationTimeoutsResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getApplicationTimeouts method of UpdateApplicationTimeoutsResponse, setApplicationTimeouts method of UpdateApplicationTimeoutsResponse.

@@ -1,0 +1,2 @@
+UseLatestAggregationStrategy acts as a factory for AggregationStrategy, which overrides aggregate method of AggregationStrategy.
+UseLatestAggregationStrategy acts as a product for AggregationStrategyAwareDefinition, which overrides aggregate method of AggregationStrategy.

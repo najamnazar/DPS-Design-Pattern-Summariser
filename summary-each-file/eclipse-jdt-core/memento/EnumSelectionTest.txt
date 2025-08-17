@@ -1,0 +1,2 @@
+EnumSelectionTest acts as a caretaker for memento String, which test0001s.
+EnumSelectionTest acts as a caretaker for memento S, which test0001s.

@@ -1,0 +1,1 @@
+DatanodeProtocol acts as an abstract factory for DatanodeCommand, which is inherited by DatanodeProtocolClientSideTranslatorPB.

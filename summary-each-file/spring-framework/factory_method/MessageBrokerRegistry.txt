@@ -1,0 +1,1 @@
+MessageBrokerRegistry acts as a factory method for PathMatcher, which is inherited by WebMvcConfigurationSupport, SimpAnnotationMethodMessageHandler, PathMatchingResourcePatternResolver, AbstractMessageBrokerConfiguration, AbstractHandlerMapping, AbstractHandlerMapping, AbstractHandlerMapping.

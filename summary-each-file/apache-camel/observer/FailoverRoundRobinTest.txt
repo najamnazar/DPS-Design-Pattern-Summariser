@@ -1,0 +1,2 @@
+FailoverRoundRobinTest acts as a publisher for observer Service, which tests Failover Round Robin, which creates Route Builder.
+FailoverRoundRobinTest acts as a publisher for observer CamelContext, which tests Failover Round Robin, which creates Route Builder.

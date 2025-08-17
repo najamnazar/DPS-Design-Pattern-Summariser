@@ -1,0 +1,1 @@
+MailUidGenerator acts as an observer for publisher MailEndpoint, which is inherited by DefaultMailUidGenerator, which generates MailEndpoint parameter of mailEndpoint, Message parameter of message Uuid.

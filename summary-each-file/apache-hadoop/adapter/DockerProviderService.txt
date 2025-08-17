@@ -1,0 +1,1 @@
+DockerProviderService acts as an adapter, which adapts to AbstractProviderService, which adapts to AbstractProviderService, which adapts to AbstractProviderService.

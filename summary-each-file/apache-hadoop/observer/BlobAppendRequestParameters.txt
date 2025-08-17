@@ -1,0 +1,1 @@
+BlobAppendRequestParameters acts as an observer for publisher AppendRequestParameters, which is inherited by, which gets Block Id, which gets ETag, which sets final parameter of String Block Id, which sets final parameter of String ETag.

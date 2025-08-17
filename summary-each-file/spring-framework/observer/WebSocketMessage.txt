@@ -1,0 +1,1 @@
+WebSocketMessage acts as an observer for publisher NettyWebSocketSessionSupport, which is inherited by, which gets Payload, which gets Payload Length, which is Last.

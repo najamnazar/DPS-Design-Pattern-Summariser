@@ -1,0 +1,1 @@
+ILocalVariableAttribute acts as an abstract product for CodeAttribute, which is inherited by LocalVariableAttribute.

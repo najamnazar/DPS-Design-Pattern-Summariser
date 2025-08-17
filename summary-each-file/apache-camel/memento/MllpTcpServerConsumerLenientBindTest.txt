@@ -1,0 +1,2 @@
+MllpTcpServerConsumerLenientBindTest acts as a caretaker for memento Context, which does Pre Setup, which creates Route Builder, which tests Lenient Bind.
+MllpTcpServerConsumerLenientBindTest acts as a caretaker for memento Producer, which does Pre Setup, which creates Route Builder, which tests Lenient Bind.

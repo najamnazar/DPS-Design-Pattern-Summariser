@@ -1,0 +1,3 @@
+Employee acts as a publisher for observer BeanSource, which gets Company, which sets String parameter of co Company.
+Employee acts as an observer, which gets Company, which sets String parameter of co Company.
+Employee acts as an observer for publisher ConcreteTransactionalTestNGSpringContextTests, which is inherited by, which gets Company, which sets String parameter of co Company.

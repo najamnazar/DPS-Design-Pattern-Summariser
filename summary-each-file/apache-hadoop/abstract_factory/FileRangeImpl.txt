@@ -1,0 +1,2 @@
+FileRangeImpl acts as a product for FileRange, which overrides getOffset method of FileRange, getLength method of FileRange, getData method of FileRange, getReference method of FileRange.
+FileRangeImpl acts as a factory for FileRange, which overrides getOffset method of FileRange, getLength method of FileRange, getData method of FileRange, getReference method of FileRange.

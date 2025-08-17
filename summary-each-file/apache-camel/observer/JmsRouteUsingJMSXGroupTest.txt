@@ -1,0 +1,1 @@
+JmsRouteUsingJMSXGroupTest acts as a publisher for observer ArtemisService, which tests No Concurrent Producers JMSXGroup ID, which tests Concurrent Producers JMSXGroup ID, which does int parameter of files Send Messages, which setups Executor, which cleanups Executor, which gets Component Name, which creates Route Builder.

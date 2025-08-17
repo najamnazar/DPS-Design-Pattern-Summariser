@@ -1,0 +1,1 @@
+SASTokenProvider acts as an abstract product for AbfsConfiguration, which is inherited by MockSASTokenProvider, MockErrorSASTokenProvider, FixedSASTokenProvider, MockDelegationSASTokenProvider.

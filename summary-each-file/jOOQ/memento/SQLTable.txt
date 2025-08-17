@@ -1,0 +1,1 @@
+SQLTable acts as a caretaker for memento SQL, which gets Record Type, which accepts Context<?> parameter of ctx, which fields0s.

@@ -1,0 +1,1 @@
+JmsBrowsableEndpoint acts as an abstract factory for Exchange, which is inherited by ActiveMQQueueEndpoint, JmsQueueEndpoint.

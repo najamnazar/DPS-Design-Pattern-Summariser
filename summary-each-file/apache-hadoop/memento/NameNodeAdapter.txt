@@ -1,0 +1,1 @@
+NameNodeAdapter acts as an originator for memento NamenodeCommand, which starts a NamenodeCommand Checkpoint to.

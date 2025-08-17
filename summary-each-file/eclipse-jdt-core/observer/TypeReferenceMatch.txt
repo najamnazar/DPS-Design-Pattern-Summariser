@@ -1,0 +1,1 @@
+TypeReferenceMatch acts as a publisher for observer IJavaElement, which gets Other Elements, which sets IJavaElement[] parameter of otherElements Other Elements.

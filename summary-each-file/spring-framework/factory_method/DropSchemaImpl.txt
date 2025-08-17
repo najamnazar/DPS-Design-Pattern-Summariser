@@ -1,0 +1,1 @@
+DropSchemaImpl acts as a product for DropSchemaStep, which overrides.

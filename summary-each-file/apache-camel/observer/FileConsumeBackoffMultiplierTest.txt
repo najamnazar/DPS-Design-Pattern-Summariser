@@ -1,0 +1,2 @@
+FileConsumeBackoffMultiplierTest acts as a publisher for observer CamelContext, which sets Up, which tests Backoff Multiplier, which creates Route Builder.
+FileConsumeBackoffMultiplierTest acts as a publisher for observer Service, which sets Up, which tests Backoff Multiplier, which creates Route Builder.

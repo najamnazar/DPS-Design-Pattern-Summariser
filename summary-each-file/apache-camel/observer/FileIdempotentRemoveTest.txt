@@ -1,0 +1,2 @@
+FileIdempotentRemoveTest acts as a publisher for observer Service, which sets Up, which tests Remove, which creates Route Builder.
+FileIdempotentRemoveTest acts as a publisher for observer CamelContext, which sets Up, which tests Remove, which creates Route Builder.

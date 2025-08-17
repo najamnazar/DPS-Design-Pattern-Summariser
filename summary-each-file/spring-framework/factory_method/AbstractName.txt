@@ -1,0 +1,2 @@
+AbstractName acts as a product for Xmlpi, which overrides append method of Name, append method of Name, as method of Name, as method of Name, as method of Name, asMaterialized method of Name, asNotMaterialized method of Name, compareTo method of Name.
+AbstractName acts as a factory for Xmlpi, which overrides append method of Xmlpi, append method of Xmlpi, as method of Xmlpi, as method of Xmlpi, as method of Xmlpi, asMaterialized method of Xmlpi, asNotMaterialized method of Xmlpi, compareTo method of Xmlpi.

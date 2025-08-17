@@ -1,0 +1,3 @@
+ServiceNowEndpoint acts as a caretaker for memento Component, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Instance Name.
+ServiceNowEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Instance Name.
+ServiceNowEndpoint acts as a caretaker for memento Context, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Instance Name.

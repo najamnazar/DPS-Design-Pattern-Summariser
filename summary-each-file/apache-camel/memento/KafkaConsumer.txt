@@ -1,0 +1,2 @@
+KafkaConsumer acts as an originator for memento HealthCheck.
+KafkaConsumer acts as a caretaker for memento HealthCheck, which sets ResumeStrategy parameter of resumeStrategy Resume Strategy, which gets Resume Strategy, which gets Consumer Listener, which sets KafkaConsumerListener parameter of consumerListener Consumer Listener, which does Build, which gets Endpoint, which randoms UUID, which gets Props, which does Start, which does Stop, which does Suspend, which does Resume, which healthes States, which adapters Factory Service.

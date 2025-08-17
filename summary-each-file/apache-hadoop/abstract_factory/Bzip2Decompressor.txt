@@ -1,0 +1,1 @@
+Bzip2Decompressor acts as a product for CompressionCodec, which overrides setInput method of Decompressor, setDictionary method of Decompressor, needsInput method of Decompressor, needsDictionary method of Decompressor, finished method of Decompressor, decompress method of Decompressor, getRemaining method of Decompressor, reset method of Decompressor, end method of Decompressor.

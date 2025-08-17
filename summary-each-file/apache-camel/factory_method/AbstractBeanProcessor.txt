@@ -1,0 +1,2 @@
+AbstractBeanProcessor acts as a factory for BeanProcessor, which overrides.
+AbstractBeanProcessor acts as a factory for FaultToleranceProcessorFactory, which overrides.

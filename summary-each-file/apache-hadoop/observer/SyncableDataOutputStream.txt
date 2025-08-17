@@ -1,0 +1,1 @@
+SyncableDataOutputStream acts as an observer, which gets Out Stream, which has String parameter of capability Capability, which hflushes, which hsynces, which closes.

@@ -1,0 +1,1 @@
+CopyPackageFragmentRootOperation acts as a factory for ClasspathEntry, which overrides.

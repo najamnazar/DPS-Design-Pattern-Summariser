@@ -1,0 +1,2 @@
+KillJobResponsePBImpl acts as a caretaker for memento KillJobResponse, which gets Proto, which maybes Init Builder.
+KillJobResponsePBImpl acts as a memento, which maybes Init Builder, which maybes Init Builder.

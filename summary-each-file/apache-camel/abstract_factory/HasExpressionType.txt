@@ -1,0 +1,1 @@
+HasExpressionType acts as an abstract factory for ExpressionDefinition, which is inherited by ExpressionNode, ExpressionDefinition, ResequenceDefinition, ExpressionSubElementDefinition.

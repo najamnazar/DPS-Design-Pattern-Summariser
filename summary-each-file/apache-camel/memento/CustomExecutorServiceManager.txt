@@ -1,0 +1,1 @@
+CustomExecutorServiceManager acts as a caretaker for memento Context.

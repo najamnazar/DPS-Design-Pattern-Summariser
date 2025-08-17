@@ -1,0 +1,2 @@
+ComponentInfoWithAnnotation acts as an adapter, which adapts to RecordComponentInfo, which adapts to RecordComponentInfo, which adapts to RecordComponentInfo, which adapts to RecordComponentInfo.
+ComponentInfoWithAnnotation acts as a target for adapter ComponentInfoWithTypeAnnotation, which adapts to ComponentInfoWithAnnotation, which adapts initialize method of TypeAnnotationInfo to ComponentInfoWithAnnotation, which adapts reset method of TypeAnnotationInfo to ComponentInfoWithAnnotation, which adapts to ComponentInfoWithAnnotation.

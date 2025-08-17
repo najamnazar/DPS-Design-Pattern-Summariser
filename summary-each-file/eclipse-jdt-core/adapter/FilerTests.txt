@@ -1,0 +1,1 @@
+FilerTests acts as an adapter, which adapts to TestCase, which adapts to TestCase, which adapts internalTestCreateResource method of String, internalTestCreateResource method of String to TestCase, which adapts to TestCase, which adapts to TestCase.

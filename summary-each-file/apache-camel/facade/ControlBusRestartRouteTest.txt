@@ -1,0 +1,1 @@
+ControlBusRestartRouteTest acts as a facade for subsystem MyRoutePolicy, which testControlBusRestart calls getStart method of MyRoutePolicy, getStop method of MyRoutePolicy.

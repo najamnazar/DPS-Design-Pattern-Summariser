@@ -1,0 +1,1 @@
+DelegationTokenRenewer acts as a singleton, which gets a DelegationTokenRenewer Instance to.

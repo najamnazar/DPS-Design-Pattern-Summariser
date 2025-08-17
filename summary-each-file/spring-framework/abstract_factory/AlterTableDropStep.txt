@@ -1,0 +1,10 @@
+AlterTableDropStep acts as an abstract product for AlterTableDropStep, which is inherited by AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl.
+AlterTableDropStep acts as a product for AlterTableAlterConstraintStep, which overrides.
+AlterTableDropStep acts as an abstract factory for AlterTableFinalStep, which is inherited by AlterTableImpl.
+AlterTableDropStep acts as a product for AlterTableRenameConstraintToStep, which overrides.
+AlterTableDropStep acts as a product for AlterTableAlterStep, which overrides.
+AlterTableDropStep acts as a product for AlterTableDropStep, which overrides.
+AlterTableDropStep acts as a product for AlterTableRenameColumnToStep, which overrides.
+AlterTableDropStep acts as a product for AlterTableRenameIndexToStep, which overrides.
+AlterTableDropStep acts as a product for AlterTableStep, which overrides.
+AlterTableDropStep acts as a product for AlterTableAddStep, which overrides.

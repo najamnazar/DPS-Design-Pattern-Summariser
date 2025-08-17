@@ -1,0 +1,1 @@
+JarPackageFragmentRootInfo acts as a publisher for observer SourceMapper.

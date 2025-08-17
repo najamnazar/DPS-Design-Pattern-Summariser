@@ -1,0 +1,5 @@
+MailAttachmentTest acts as a publisher for observer ProducerTemplate, which tests Send And Receive Mail With Attachments, which creates Route Builder.
+MailAttachmentTest acts as a publisher for observer Service, which tests Send And Receive Mail With Attachments, which creates Route Builder.
+MailAttachmentTest acts as a publisher for observer ConsumerTemplate, which tests Send And Receive Mail With Attachments, which creates Route Builder.
+MailAttachmentTest acts as a publisher for observer FluentProducerTemplate, which tests Send And Receive Mail With Attachments, which creates Route Builder.
+MailAttachmentTest acts as a publisher for observer CamelContext, which tests Send And Receive Mail With Attachments, which creates Route Builder.

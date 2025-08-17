@@ -1,0 +1,2 @@
+IAnnotationComponentValue acts as an abstract product for IAnnotationComponentValue, which is inherited by AnnotationComponentValue.
+IAnnotationComponentValue acts as an abstract factory for IAnnotation, IConstantPoolEntry, which is inherited by AnnotationComponentValue.

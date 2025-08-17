@@ -1,0 +1,1 @@
+SimpleMethodMetadata acts as a product for AnnotatedBeanDefinition, which overrides getMethodName method of MethodMetadata, getDeclaringClassName method of MethodMetadata, getReturnTypeName method of MethodMetadata, isAbstract method of MethodMetadata, isStatic method of MethodMetadata, isFinal method of MethodMetadata, isOverridable method of MethodMetadata.

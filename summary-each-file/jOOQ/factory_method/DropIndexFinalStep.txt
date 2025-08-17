@@ -1,0 +1,1 @@
+DropIndexFinalStep acts as an abstract product for DropIndexCascadeStep, which is inherited by DropIndexImpl.

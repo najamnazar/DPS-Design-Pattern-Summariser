@@ -1,0 +1,2 @@
+IDOMNode acts as a factory method for Enumeration, which is inherited by ClassPathTestCollector, TestSuite, TestSuite, ClassPathTestCollector, IDOMNode, IDOMNode, ResourceBundle, DOMNode, TestSuite, DOMNode, IDOMNode, TestCollector, IDOMNode, IDOMNode, TestSuite, DOMNode, ResourceBundle, DOMNode.
+IDOMNode acts as a factory for IDOMNode, which overrides.

@@ -1,0 +1,1 @@
+DefaultPulsarMessageReceipt acts as a product for PulsarMessageReceiptFactory, which overrides acknowledge method of PulsarMessageReceipt, acknowledgeCumulative method of PulsarMessageReceipt, acknowledgeAsync method of PulsarMessageReceipt, acknowledgeCumulativeAsync method of PulsarMessageReceipt, negativeAcknowledge method of PulsarMessageReceipt.

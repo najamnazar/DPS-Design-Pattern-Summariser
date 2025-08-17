@@ -1,0 +1,2 @@
+ExposeInvocationInterceptor acts as a caretaker for memento A, which tos String, which currents Invocation, which invokes MethodInvocation parameter of mi, which gets Order, which reads Resolve.
+ExposeInvocationInterceptor acts as a caretaker for memento MethodInvocation, which tos String, which currents Invocation, which invokes MethodInvocation parameter of mi, which gets Order, which reads Resolve.

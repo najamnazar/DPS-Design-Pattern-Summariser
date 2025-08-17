@@ -1,0 +1,1 @@
+DefaultMessageCodesResolver acts as a product for WebMvcConfigurerAdapter, which overrides resolveMessageCodes method of MessageCodesResolver, resolveMessageCodes method of MessageCodesResolver.

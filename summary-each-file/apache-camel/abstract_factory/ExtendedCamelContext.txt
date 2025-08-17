@@ -1,0 +1,11 @@
+ExtendedCamelContext acts as a product for CamelContextAware, which overrides.
+ExtendedCamelContext acts as a product for Route, which overrides.
+ExtendedCamelContext acts as a product for HasCamelContext, which overrides.
+ExtendedCamelContext acts as a product for FluentProducerTemplate, which overrides.
+ExtendedCamelContext acts as a product for CamelContextBuilder, which overrides.
+ExtendedCamelContext acts as a product for ConsumerTemplate, which overrides.
+ExtendedCamelContext acts as a product for Exchange, which overrides.
+ExtendedCamelContext acts as an abstract factory for CliConnectorFactory, StartupStepRecorder, HealthCheckResolver, ConfigurerResolver, ModelJAXBContextFactory, UnitOfWorkFactory, UriFactoryResolver, DevConsoleResolver, EndpointUriFactory, Endpoint, BeanIntrospection, ExchangeFactoryManager, ComponentResolver, CamelBeanPostProcessor, ComponentNameResolver, FactoryFinderResolver, DataFormatResolver, NormalizedEndpointUri, NodeIdFactory, BeanProcessorFactory, ModelineFactory, RouteFactory, ProcessorFactory, FactoryFinder, ResourceLoader, LanguageResolver, Processor, ReactiveExecutor, AnnotationBasedProcessorFactory, PackageScanResourceResolver, HeadersMapFactory, PeriodTaskResolver, ManagementMBeanAssembler, InternalProcessorFactory, InterceptEndpointFactory, ModelToXMLDumper, RestBindingJaxbDataFormatFactory, XMLRoutesDefinitionLoader, AsyncProcessorAwaitManager, RuntimeCamelCatalog, ExchangeFactory, PeriodTaskScheduler, PackageScanClassResolver, CamelDependencyInjectionAnnotationFactory, DeferServiceFactory, BeanProxyFactory, ErrorHandlerFactory, RouteController, ProcessorExchangeFactory, RoutesLoader, which is inherited by AbstractCamelContext, LightweightCamelContext, LightweightRuntimeCamelContext.
+ExtendedCamelContext acts as a product for ProducerTemplate, which overrides.
+ExtendedCamelContext acts as a product for Endpoint, which overrides.
+ExtendedCamelContext acts as a product for CamelEvent, which overrides.

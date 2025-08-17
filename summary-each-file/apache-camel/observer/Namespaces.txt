@@ -1,0 +1,1 @@
+Namespaces acts as an observer for publisher XMLTokenizeLanguage, which is inherited by, which is String parameter of namespaceURI, String parameter of expectedNamespace Matching Namespace Or Empty Namespace, which adds String parameter of prefix, String parameter of uri, which gets Namespaces, which configures NamespaceAware parameter of namespaceAware.

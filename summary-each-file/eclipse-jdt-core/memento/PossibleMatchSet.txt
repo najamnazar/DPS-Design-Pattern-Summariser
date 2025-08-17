@@ -1,0 +1,1 @@
+PossibleMatchSet acts as a caretaker for memento Map, which adds PossibleMatch parameter of possibleMatch, which gets IPackageFragmentRoot[] parameter of roots Possible Matches, which resets.

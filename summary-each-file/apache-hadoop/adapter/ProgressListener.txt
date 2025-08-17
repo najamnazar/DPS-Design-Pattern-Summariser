@@ -1,0 +1,1 @@
+ProgressListener acts as an adaptee for adapter CountingProgressListener, which adapts to Progressable.

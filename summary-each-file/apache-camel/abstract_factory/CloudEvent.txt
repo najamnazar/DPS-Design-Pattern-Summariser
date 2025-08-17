@@ -1,0 +1,1 @@
+CloudEvent acts as an abstract product for CloudEvent, which is inherited by CloudEvents.

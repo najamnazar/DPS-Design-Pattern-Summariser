@@ -1,0 +1,2 @@
+XsltCustomizeEntityResolverTest acts as a publisher for observer CamelContext, which tests Xslt Custom URIResolver Direct In Route Uri, which creates Route Builder, which gets Custom Entity Resolver, which creates Registry.
+XsltCustomizeEntityResolverTest acts as a publisher for observer Service, which tests Xslt Custom URIResolver Direct In Route Uri, which creates Route Builder, which gets Custom Entity Resolver, which creates Registry.

@@ -1,0 +1,2 @@
+SedaDiscardIfNoConsumerTest acts as a publisher for observer CamelContext, which tests Discard, which tests Discard Uo W, which creates Route Builder, which ons Exchange parameter of exchange Done, which is Called.
+SedaDiscardIfNoConsumerTest acts as a publisher for observer Service, which tests Discard, which tests Discard Uo W, which creates Route Builder, which ons Exchange parameter of exchange Done, which is Called.

@@ -1,0 +1,3 @@
+ErrorHandlerSupport acts as a product for JmsConfiguration, which overrides.
+ErrorHandlerSupport acts as a factory for JmsConfiguration, which overrides.
+ErrorHandlerSupport acts as a factory for FaultToleranceProcessorFactory, which overrides.

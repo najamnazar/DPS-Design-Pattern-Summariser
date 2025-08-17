@@ -1,0 +1,2 @@
+CommentOnIsStep acts as an abstract product for CommentOnIsStep, which is inherited by CommentOnImpl, CommentOnImpl, CommentOnImpl, CommentOnImpl, CommentOnImpl, CommentOnImpl, CommentOnImpl, CommentOnImpl, CommentOnImpl.
+CommentOnIsStep acts as an abstract factory for CommentOnFinalStep, which is inherited by CommentOnImpl.

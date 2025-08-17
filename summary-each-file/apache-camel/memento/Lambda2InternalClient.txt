@@ -1,0 +1,1 @@
+Lambda2InternalClient acts as a memento, which is inherited by Lambda2ClientStandardImpl, Lambda2ClientOptimizedImpl, which gets Lambda Client.

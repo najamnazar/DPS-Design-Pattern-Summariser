@@ -1,0 +1,2 @@
+ManagementStrategy acts as an abstract factory for ManagementObjectStrategy, ManagementAgent, EventFactory, ManagementObjectNameStrategy, which is inherited by DefaultManagementStrategy.
+ManagementStrategy acts as an abstract product for ManagementStrategy, which is inherited by DefaultManagementStrategy.

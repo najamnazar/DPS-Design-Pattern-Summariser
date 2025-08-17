@@ -1,0 +1,2 @@
+ResequenceStreamNotIgnoreInvalidExchangesTest acts as a caretaker for memento Producer, which tests Bad First Message, which tests Bad Second Message, which tests Bad Third Message, which tests Bad Forth Message, which creates Route Builder.
+ResequenceStreamNotIgnoreInvalidExchangesTest acts as a caretaker for memento Context, which tests Bad First Message, which tests Bad Second Message, which tests Bad Third Message, which tests Bad Forth Message, which creates Route Builder.

@@ -1,0 +1,1 @@
+InstantiationAwareBeanPostProcessor acts as an abstract factory for PropertyValues, which is inherited by CommonAnnotationBeanPostProcessor, PersistenceAnnotationBeanPostProcessor.

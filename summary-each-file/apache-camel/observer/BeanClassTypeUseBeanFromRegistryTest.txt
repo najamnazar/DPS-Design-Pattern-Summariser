@@ -1,0 +1,2 @@
+BeanClassTypeUseBeanFromRegistryTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests One Instance In Registry, which tests Two Instances In Registry, which tests Zero Instances In Registry.
+BeanClassTypeUseBeanFromRegistryTest acts as a publisher for observer Service, which is Use Route Builder, which tests One Instance In Registry, which tests Two Instances In Registry, which tests Zero Instances In Registry.

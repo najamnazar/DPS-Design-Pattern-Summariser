@@ -1,0 +1,1 @@
+ClasspathMultiDirectory acts as a publisher for observer String, which equals Object parameter of o, which is IResource parameter of resource Excluded, which directories String parameter of qualifiedPackageName List, which tos String, which accepts ICompilationUnit parameter of cu, Parser parameter of parser Module Info, which sets IModule parameter of mod Module, which modules.

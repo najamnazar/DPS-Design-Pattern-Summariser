@@ -1,0 +1,1 @@
+NativeBatchProcessor acts as a factory for INativeHandler, which overrides setCommandDispatcher method of INativeHandler, init method of INativeHandler, close method of INativeHandler, getNativeHandler method of INativeHandler, call method of INativeHandler, name method of INativeHandler.

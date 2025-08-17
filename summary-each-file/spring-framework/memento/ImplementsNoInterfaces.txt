@@ -1,0 +1,1 @@
+ImplementsNoInterfaces acts as a caretaker for memento B, which sets TestBean parameter of testBean Dependency, which gets Name, which sets String parameter of name Name.

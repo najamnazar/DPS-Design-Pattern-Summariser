@@ -1,0 +1,1 @@
+RSocketConnectorConfigurer acts as an observer for publisher DefaultRSocketRequesterBuilder, which is inherited by, which configures RSocketConnector parameter of connector.

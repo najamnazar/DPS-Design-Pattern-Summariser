@@ -1,0 +1,1 @@
+Record acts as an originator for memento Row, which values a Row Row to.

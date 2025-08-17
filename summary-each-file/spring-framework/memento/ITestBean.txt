@@ -1,0 +1,2 @@
+ITestBean acts as an originator for memento ITestBean, which is inherited by, which gets an ITestBean Other Bean to.
+ITestBean acts as a memento, which is inherited by AspectJAutoProxyCreatorTests, OtherTestBean, which gets Other Bean, which gets Other Bean, which gets Other Bean.

@@ -1,0 +1,1 @@
+ContainerRemoteLaunchEvent acts as an observer, which gets Container Launch Context, which gets Allocated Container, which gets Remote Task, which hashes Code, which equals Object parameter of obj.

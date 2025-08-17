@@ -1,0 +1,1 @@
+RowMapperResultSetExtractor acts as a caretaker for memento Row, which extracts ResultSet parameter of rs Data.

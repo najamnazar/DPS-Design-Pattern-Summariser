@@ -1,0 +1,6 @@
+FooServiceImpl acts as a caretaker for memento Comparator, which inits, which foos int parameter of id, which lookups int parameter of id Foo, which asynces int parameter of id Foo, which is Init Called, which foos Dao.
+FooServiceImpl acts as a caretaker for memento B, which inits, which foos int parameter of id, which lookups int parameter of id Foo, which asynces int parameter of id Foo, which is Init Called, which foos Dao.
+FooServiceImpl acts as a caretaker for memento A, which inits, which foos int parameter of id, which lookups int parameter of id Foo, which asynces int parameter of id Foo, which is Init Called, which foos Dao.
+FooServiceImpl acts as a caretaker for memento ApplicationContext, which inits, which foos int parameter of id, which lookups int parameter of id Foo, which asynces int parameter of id Foo, which is Init Called, which foos Dao.
+FooServiceImpl acts as a caretaker for memento Message, which inits, which foos int parameter of id, which lookups int parameter of id Foo, which asynces int parameter of id Foo, which is Init Called, which foos Dao.
+FooServiceImpl acts as a caretaker for memento C, which inits, which foos int parameter of id, which lookups int parameter of id Foo, which asynces int parameter of id Foo, which is Init Called, which foos Dao.

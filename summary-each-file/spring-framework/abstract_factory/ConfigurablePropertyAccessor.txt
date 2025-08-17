@@ -1,0 +1,4 @@
+ConfigurablePropertyAccessor acts as a product for BindingResult, which overrides.
+ConfigurablePropertyAccessor acts as a product for EvaluationContext, which overrides.
+ConfigurablePropertyAccessor acts as a product for ConfigurableBeanFactory, which overrides.
+ConfigurablePropertyAccessor acts as an abstract factory for ConversionService, which is inherited by AbstractPropertyAccessor.

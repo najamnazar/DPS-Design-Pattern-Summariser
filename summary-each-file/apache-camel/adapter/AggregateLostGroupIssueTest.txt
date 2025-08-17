@@ -1,0 +1,1 @@
+AggregateLostGroupIssueTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts getAggregationRepository method of MemoryAggregationRepository, getAggregationRepository method of MemoryAggregationRepository to ContextTestSupport, which adapts to ContextTestSupport.

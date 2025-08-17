@@ -1,0 +1,1 @@
+FairSchedulerInfo acts as an adaptee for adapter FairSchedulerAppsBlock, which adapts to HtmlBlock, which adapts to HtmlBlock.

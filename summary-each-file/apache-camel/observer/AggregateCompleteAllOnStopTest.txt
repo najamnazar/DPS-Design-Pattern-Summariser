@@ -1,0 +1,2 @@
+AggregateCompleteAllOnStopTest acts as a publisher for observer CamelContext, which tests Complete All On Stop, which creates Route Builder.
+AggregateCompleteAllOnStopTest acts as a publisher for observer Service, which tests Complete All On Stop, which creates Route Builder.

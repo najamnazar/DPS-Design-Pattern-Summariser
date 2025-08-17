@@ -1,0 +1,5 @@
+MinaComponentTest acts as a publisher for observer ConsumerTemplate, which tests Unknown Protocol, which tests Mistyped Protocol.
+MinaComponentTest acts as a publisher for observer Service, which tests Unknown Protocol, which tests Mistyped Protocol.
+MinaComponentTest acts as a publisher for observer ProducerTemplate, which tests Unknown Protocol, which tests Mistyped Protocol.
+MinaComponentTest acts as a publisher for observer CamelContext, which tests Unknown Protocol, which tests Mistyped Protocol.
+MinaComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Unknown Protocol, which tests Mistyped Protocol.

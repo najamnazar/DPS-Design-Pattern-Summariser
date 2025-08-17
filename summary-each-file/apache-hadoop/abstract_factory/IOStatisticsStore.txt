@@ -1,0 +1,7 @@
+IOStatisticsStore acts as a product for S3AStore, which overrides.
+IOStatisticsStore acts as a product for IOStatisticsSource, which overrides.
+IOStatisticsStore acts as a product for AbfsOutputStreamStatistics, which overrides.
+IOStatisticsStore acts as an abstract product for IOStatisticsStore, which is inherited by EmptyIOStatisticsStore, ForwardingIOStatisticsStore, IOStatisticsStoreImpl.
+IOStatisticsStore acts as a product for IOStatisticsContext, which overrides.
+IOStatisticsStore acts as an abstract factory for, which is inherited by EmptyIOStatisticsStore, ForwardingIOStatisticsStore, IOStatisticsStoreImpl.
+IOStatisticsStore acts as a product for AbfsInputStreamStatistics, which overrides.

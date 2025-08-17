@@ -1,0 +1,1 @@
+RecoveredProvidesStatement acts as a publisher for observer SingleTypeReference, which is inherited by, which adds SingleTypeReference parameter of impl1, int parameter of bracketBalance1, which tos int parameter of tab String, which updates Provides Statement, which updates Parse Tree.

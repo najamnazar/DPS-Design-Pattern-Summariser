@@ -1,0 +1,1 @@
+QueueAclsInfo acts as a publisher for observer QueueAclInfo, which is inherited by, which adds QueueAclInfo parameter of queueAclInfo, which gets Queue Acls, which adds ArrayList<QueueAclInfo> parameter of queueAclsInfo All.

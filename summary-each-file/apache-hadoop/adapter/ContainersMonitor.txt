@@ -1,0 +1,2 @@
+ContainersMonitor acts as an adaptee for adapter ContainerManagerImpl, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+ContainersMonitor acts as an adaptee for adapter ContainersMonitorImpl, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

@@ -1,0 +1,1 @@
+JsonObjectMapperWriter acts as an observer, which writes T parameter of object, which closes.

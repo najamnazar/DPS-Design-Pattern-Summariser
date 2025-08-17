@@ -1,0 +1,1 @@
+TestCollector acts as an originator for memento Enumeration, which is inherited by, which collects an Enumeration Tests to.

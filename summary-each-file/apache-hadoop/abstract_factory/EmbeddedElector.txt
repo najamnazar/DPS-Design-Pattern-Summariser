@@ -1,0 +1,1 @@
+EmbeddedElector acts as an abstract product for EmbeddedElector, which is inherited by ActiveStandbyElectorBasedElectorService, CuratorBasedElectorService.

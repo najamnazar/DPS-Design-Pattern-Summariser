@@ -1,0 +1,1 @@
+FieldDeclarationImpl acts as a caretaker for memento Binding, which accepts DeclarationVisitor parameter of visitor, which gets Constant Expression, which gets Constant Value, which gets Declaring Type, which gets Simple Name, which gets Type, which gets Declaration Binding, which tos String, which kinds, which is From Source.

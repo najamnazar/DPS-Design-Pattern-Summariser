@@ -1,0 +1,2 @@
+TransactionTemplate acts as a product for TransactionOperations, which overrides execute method of TransactionOperations.
+TransactionTemplate acts as a factory for TransactionOperations, which overrides execute method of TransactionOperations.

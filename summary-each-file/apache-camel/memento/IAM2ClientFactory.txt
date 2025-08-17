@@ -1,0 +1,1 @@
+IAM2ClientFactory acts as an originator for memento IAM2InternalClient, which gets an IAM2InternalClient Iam Client to.

@@ -1,0 +1,3 @@
+ISourceType acts as a factory method for ISourceType, which is inherited by ISourceType.
+ISourceType acts as a factory for ISourceType, which overrides.
+ISourceType acts as an abstract product for ISourceType, which is inherited by SourceTypeElementInfo.

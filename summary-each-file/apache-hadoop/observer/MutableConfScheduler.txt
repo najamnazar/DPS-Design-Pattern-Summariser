@@ -1,0 +1,2 @@
+MutableConfScheduler acts as an observer, which gets Configuration, which gets String parameter of queueName Queue, which is Configuration Mutable, which gets Mutable Conf Provider.
+MutableConfScheduler acts as an observer for publisher TestConfigurationMutationACLPolicies, which is inherited by CapacityScheduler, which gets Configuration, which gets String parameter of queueName Queue, which is Configuration Mutable, which gets Mutable Conf Provider.

@@ -1,0 +1,2 @@
+MapReduceBase acts as a target for adapter SliveMapper, which adapts to MapReduceBase, which adapts to MapReduceBase.
+MapReduceBase acts as a target for adapter SliveReducer, which adapts to MapReduceBase, which adapts to MapReduceBase.

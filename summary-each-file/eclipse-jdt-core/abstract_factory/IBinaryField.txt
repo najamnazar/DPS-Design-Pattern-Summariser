@@ -1,0 +1,1 @@
+IBinaryField acts as an abstract factory for Constant, which is inherited by FieldInfo.

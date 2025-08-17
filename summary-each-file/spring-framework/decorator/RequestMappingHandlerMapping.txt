@@ -1,0 +1,1 @@
+RequestMappingHandlerMapping acts as a component for decorator PathPatternMatchableHandlerMapping, which overrides matchMatchableHandlerMapping.

@@ -1,0 +1,1 @@
+ArrayDefinition acts as an observer, which gets Package, which gets Index Type, which gets JavaTypeResolver parameter of resolver Index Type, which gets Element Type, which gets JavaTypeResolver parameter of resolver Element Type.

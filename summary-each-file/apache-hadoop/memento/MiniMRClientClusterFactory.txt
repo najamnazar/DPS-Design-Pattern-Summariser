@@ -1,0 +1,1 @@
+MiniMRClientClusterFactory acts as an originator for memento MiniMRClientCluster, which creates MiniMRClientCluster, which creates MiniMRClientCluster.

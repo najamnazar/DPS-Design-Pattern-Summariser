@@ -1,0 +1,1 @@
+StoragePolicySatisfier acts as a factory for SPSService, which overrides stop method of SPSService, stopGracefully method of SPSService, isRunning method of SPSService, notifyStorageMovementAttemptFinishedBlk method of SPSService, processingQueueSize method of SPSService, getConf method of SPSService.

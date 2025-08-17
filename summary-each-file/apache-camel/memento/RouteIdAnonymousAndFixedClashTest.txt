@@ -1,0 +1,2 @@
+RouteIdAnonymousAndFixedClashTest acts as a caretaker for memento Context, which tests Clash, which creates Camel Context, which creates Route Builder.
+RouteIdAnonymousAndFixedClashTest acts as a caretaker for memento Producer, which tests Clash, which creates Camel Context, which creates Route Builder.

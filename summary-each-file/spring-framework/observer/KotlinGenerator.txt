@@ -1,0 +1,6 @@
+KotlinGenerator acts as a publisher for observer SchemaDefinition.
+KotlinGenerator acts as a publisher for observer File.
+KotlinGenerator acts as a publisher for observer JavaWriter.
+KotlinGenerator acts as a publisher for observer Mode.
+KotlinGenerator acts as a publisher for observer Definition.
+KotlinGenerator acts as a publisher for observer CatalogDefinition.

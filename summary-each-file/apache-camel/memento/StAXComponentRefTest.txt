@@ -1,0 +1,2 @@
+StAXComponentRefTest acts as a caretaker for memento Producer, which inits Route Example, which creates Route Builder, which tests Stax.
+StAXComponentRefTest acts as a caretaker for memento Context, which inits Route Example, which creates Route Builder, which tests Stax.

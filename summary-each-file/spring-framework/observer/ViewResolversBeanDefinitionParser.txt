@@ -1,0 +1,1 @@
+ViewResolversBeanDefinitionParser acts as an observer, which parses Element parameter of element, ParserContext parameter of context, which adds Element parameter of element, RootBeanDefinition parameter of beanDefinition Url Based View Resolver Properties, which creates Element parameter of resolverElement, ParserContext parameter of context Content Negotiating View Resolver.

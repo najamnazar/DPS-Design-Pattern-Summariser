@@ -1,0 +1,1 @@
+DeadLetterChannelProperties acts as an adaptee for adapter LegacyDeadLetterChannelBuilder, which adapts to LegacyDefaultErrorHandlerBuilder.

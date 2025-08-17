@@ -1,0 +1,1 @@
+NodeLabelPBImpl acts as an observer, which gets Proto, which merges Local To Proto, which equals Object parameter of other, which maybes Init Builder, which hashes Code, which gets Name, which sets String parameter of name Name, which is Exclusive, which sets boolean parameter of isExclusive Exclusivity.

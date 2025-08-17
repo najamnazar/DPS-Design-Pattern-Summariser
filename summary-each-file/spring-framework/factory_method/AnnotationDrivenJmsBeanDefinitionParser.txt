@@ -1,0 +1,1 @@
+AnnotationDrivenJmsBeanDefinitionParser acts as a product for NamespaceHandlerSupport, which overrides parse method of BeanDefinitionParser.

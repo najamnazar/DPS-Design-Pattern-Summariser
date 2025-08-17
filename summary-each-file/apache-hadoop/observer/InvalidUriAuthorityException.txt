@@ -1,0 +1,1 @@
+InvalidUriAuthorityException acts as an observer.

@@ -1,0 +1,1 @@
+DataFormatDefinitionAware acts as a publisher for observer DataFormatDefinition, which is inherited by MarshalDefinition, UnmarshalDefinition, which gets Data Format Type, which sets DataFormatDefinition parameter of dataFormatType Data Format Type.

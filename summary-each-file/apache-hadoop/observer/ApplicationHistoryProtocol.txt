@@ -1,0 +1,1 @@
+ApplicationHistoryProtocol acts as an observer for publisher AppReportFetcher, FedAppReportFetcher, DefaultAppReportFetcher, which is inherited by ApplicationHistoryClientService, ApplicationHistoryProtocolPBClientImpl.

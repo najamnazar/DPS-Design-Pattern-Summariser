@@ -1,0 +1,2 @@
+JMXObjectPropertiesTest acts as a publisher for observer DefaultCamelContext, which tests Object Properties, which does Test Object Properties, which builds From URI, which inits Registry.
+JMXObjectPropertiesTest acts as a publisher for observer SimpleRegistry, which tests Object Properties, which does Test Object Properties, which builds From URI, which inits Registry.

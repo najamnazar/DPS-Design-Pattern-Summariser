@@ -1,0 +1,1 @@
+HeaderWebSessionIdResolver acts as an observer, which sets String parameter of headerName Header Name, which gets Header Name, which resolves ServerWebExchange parameter of exchange Session Ids, which sets ServerWebExchange parameter of exchange, String parameter of id Session Id, which expires ServerWebExchange parameter of exchange Session.

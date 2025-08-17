@@ -1,0 +1,2 @@
+SpringInitializationIssueTest acts as a caretaker for memento Context, which creates Camel Context, which tests Temp, which gets String parameter of beanName Names List.
+SpringInitializationIssueTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Temp, which gets String parameter of beanName Names List.

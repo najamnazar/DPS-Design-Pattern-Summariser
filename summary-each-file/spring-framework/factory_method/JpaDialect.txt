@@ -1,0 +1,2 @@
+JpaDialect acts as a factory for EclipseLinkJpaDialect, which overrides.
+JpaDialect acts as an abstract product for AbstractEntityManagerFactoryBean, which is inherited by DefaultJpaDialect.

@@ -1,0 +1,1 @@
+GuavaEventBusConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which creates GuavaEventBusEndpoint parameter of endpoint, Processor parameter of processor, Class<?> parameter of listenerInterface Listener Interface Proxy, which invokes Object parameter of proxy, Method parameter of method, Object[] parameter of args.

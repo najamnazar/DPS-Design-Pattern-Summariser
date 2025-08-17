@@ -1,0 +1,1 @@
+IClasspathContainer acts as an abstract product for ContainerInitializer, which is inherited by UserLibraryClasspathContainer, ModulePathContainer.

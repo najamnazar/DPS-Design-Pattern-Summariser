@@ -1,0 +1,2 @@
+FileIdempotentReadSameFileAgainTest acts as a caretaker for memento Context, which tests Consume Same File Again, which creates Route Builder.
+FileIdempotentReadSameFileAgainTest acts as a caretaker for memento Producer, which tests Consume Same File Again, which creates Route Builder.

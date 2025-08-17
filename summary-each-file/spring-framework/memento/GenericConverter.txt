@@ -1,0 +1,1 @@
+GenericConverter acts as a caretaker for memento C, which is inherited by, which gets Convertible Types, which converts @Nullable parameter of Object, TypeDescriptor parameter of sourceType, TypeDescriptor parameter of targetType, which gets Source Type, which gets Target Type, which equals @Nullable parameter of Object, which hashes Code, which tos String.

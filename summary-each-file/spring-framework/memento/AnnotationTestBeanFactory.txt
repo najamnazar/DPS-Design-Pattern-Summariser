@@ -1,0 +1,3 @@
+AnnotationTestBeanFactory acts as a caretaker for memento B, which gets Object, which gets Object Type, which is Singleton.
+AnnotationTestBeanFactory acts as a caretaker for memento A, which gets Object, which gets Object Type, which is Singleton.
+AnnotationTestBeanFactory acts as a caretaker for memento C, which gets Object, which gets Object Type, which is Singleton.

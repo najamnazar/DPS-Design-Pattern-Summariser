@@ -1,0 +1,1 @@
+SpringLdapProducer acts as a publisher for observer Attributes, which is inherited by, which maps Attributes parameter of attributes From Attributes, which processes Exchange parameter of exchange.

@@ -1,0 +1,3 @@
+ControllerIntegrationTests acts as a caretaker for memento C, which foos, which bars, which verifies Root Wac Support.
+ControllerIntegrationTests acts as a caretaker for memento A, which foos, which bars, which verifies Root Wac Support.
+ControllerIntegrationTests acts as a caretaker for memento ApplicationContext, which foos, which bars, which verifies Root Wac Support.

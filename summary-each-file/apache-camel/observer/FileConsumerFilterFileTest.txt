@@ -1,0 +1,2 @@
+FileConsumerFilterFileTest acts as a publisher for observer CamelContext, which tests Filter Files, which tests Filter Files With ARegular File, which tests Filter Files With Date, which creates Route Builder.
+FileConsumerFilterFileTest acts as a publisher for observer Service, which tests Filter Files, which tests Filter Files With ARegular File, which tests Filter Files With Date, which creates Route Builder.

@@ -1,0 +1,1 @@
+TemplateUsingBean acts as a caretaker for memento Producer, which gets Template, which sets ProducerTemplate parameter of template Template.

@@ -1,0 +1,2 @@
+CapturingContext acts as a caretaker for memento C, which enters int parameter of start, int parameter of end, Scope parameter of scope, which leaves, which maybes ReferenceBinding parameter of type Capture.
+CapturingContext acts as a caretaker for memento S, which enters int parameter of start, int parameter of end, Scope parameter of scope, which leaves, which maybes ReferenceBinding parameter of type Capture.

@@ -1,0 +1,1 @@
+JcloudsBlobStoreConsumer acts as a publisher for observer ShutdownRunningTask, which does Start, which polls, which processes Queue<Object> parameter of exchanges Batch.

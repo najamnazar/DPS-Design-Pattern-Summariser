@@ -1,0 +1,1 @@
+RestServletNameTest acts as an adapter, which adapts to ServletCamelRouterTestSupport, which adapts to ServletCamelRouterTestSupport, which adapts to ServletCamelRouterTestSupport.

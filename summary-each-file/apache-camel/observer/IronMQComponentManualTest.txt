@@ -1,0 +1,5 @@
+IronMQComponentManualTest acts as a publisher for observer ProducerTemplate, which tests Iron MQ, which creates Route Builder.
+IronMQComponentManualTest acts as a publisher for observer Service, which tests Iron MQ, which creates Route Builder.
+IronMQComponentManualTest acts as a publisher for observer ConsumerTemplate, which tests Iron MQ, which creates Route Builder.
+IronMQComponentManualTest acts as a publisher for observer CamelContext, which tests Iron MQ, which creates Route Builder.
+IronMQComponentManualTest acts as a publisher for observer FluentProducerTemplate, which tests Iron MQ, which creates Route Builder.

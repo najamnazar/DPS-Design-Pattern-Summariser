@@ -1,0 +1,2 @@
+QueueManagementChange acts as a caretaker for memento LeafQueue, which gets Transition To Queue State, which gets Queue, which gets Updated Queue Template, which gets Queue Action, which equals Object parameter of o, which hashes Code, which tos String.
+QueueManagementChange acts as a caretaker for memento QueueState, which gets Transition To Queue State, which gets Queue, which gets Updated Queue Template, which gets Queue Action, which equals Object parameter of o, which hashes Code, which tos String.

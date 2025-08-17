@@ -1,0 +1,3 @@
+DefaultComponent acts as a product for CamelContext, which overrides.
+DefaultComponent acts as a product for ComponentResolver, which overrides.
+DefaultComponent acts as a product for ComponentAware, which overrides.

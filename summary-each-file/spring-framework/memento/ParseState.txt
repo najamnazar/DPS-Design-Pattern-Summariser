@@ -1,0 +1,1 @@
+ParseState acts as a caretaker for memento A, which pushes Entry parameter of entry, which pops, which peeks, which snapshots, which tos String.

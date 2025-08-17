@@ -1,0 +1,1 @@
+MyBatisProcessingStrategy acts as an observer for publisher MyBatisEndpoint, which is inherited by DefaultMyBatisProcessingStrategy, which polls MyBatisConsumer parameter of consumer, MyBatisEndpoint parameter of endpoint, which commits MyBatisEndpoint parameter of endpoint, Exchange parameter of exchange, Object parameter of data, String parameter of consumeStatements.

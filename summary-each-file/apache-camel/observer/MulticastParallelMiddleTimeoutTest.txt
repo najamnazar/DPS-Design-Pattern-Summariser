@@ -1,0 +1,2 @@
+MulticastParallelMiddleTimeoutTest acts as a publisher for observer Service, which tests Multicast Parallel Middle Timeout, which creates Route Builder.
+MulticastParallelMiddleTimeoutTest acts as a publisher for observer CamelContext, which tests Multicast Parallel Middle Timeout, which creates Route Builder.

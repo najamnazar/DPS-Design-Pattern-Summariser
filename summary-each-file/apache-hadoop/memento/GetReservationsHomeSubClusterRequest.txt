@@ -1,0 +1,2 @@
+GetReservationsHomeSubClusterRequest acts as an originator for memento GetReservationsHomeSubClusterRequest, which is inherited by, which news a GetReservationsHomeSubClusterRequest Instance to.
+GetReservationsHomeSubClusterRequest acts as a memento, which is inherited by GetReservationsHomeSubClusterRequestPBImpl, which news Instance.

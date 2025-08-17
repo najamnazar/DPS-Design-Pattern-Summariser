@@ -1,0 +1,1 @@
+DNSToSwitchMapping acts as an adaptee for adapter CachedDNSToSwitchMapping, which adapts to AbstractDNSToSwitchMapping, which adapts to AbstractDNSToSwitchMapping, which adapts to AbstractDNSToSwitchMapping.

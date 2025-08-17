@@ -1,0 +1,2 @@
+GetQueueUserAclsInfoRequest acts as an originator for memento GetQueueUserAclsInfoRequest, which is inherited by, which news a GetQueueUserAclsInfoRequest Instance to.
+GetQueueUserAclsInfoRequest acts as a memento, which is inherited by GetQueueUserAclsInfoRequestPBImpl, which news Instance.

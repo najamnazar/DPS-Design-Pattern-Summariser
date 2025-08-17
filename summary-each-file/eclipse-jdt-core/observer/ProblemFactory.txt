@@ -1,0 +1,3 @@
+ProblemFactory acts as an observer, which gets Locale parameter of locale Problem Factory.
+ProblemFactory acts as a publisher for observer Locale, which is inherited by, which gets Locale parameter of locale Problem Factory.
+ProblemFactory acts as a publisher for observer Locale, which gets Locale parameter of locale Problem Factory.

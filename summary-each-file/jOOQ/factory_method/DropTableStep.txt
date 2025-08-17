@@ -1,0 +1,2 @@
+DropTableStep acts as a factory for DropTableStep, which overrides.
+DropTableStep acts as a factory method for DropTableFinalStep, which is inherited by DropTableStep.

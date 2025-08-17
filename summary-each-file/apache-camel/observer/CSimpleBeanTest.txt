@@ -1,0 +1,5 @@
+CSimpleBeanTest acts as a publisher for observer CamelContext, which tests CSimple Bean, which creates Route Builder.
+CSimpleBeanTest acts as a publisher for observer ProducerTemplate, which tests CSimple Bean, which creates Route Builder.
+CSimpleBeanTest acts as a publisher for observer Service, which tests CSimple Bean, which creates Route Builder.
+CSimpleBeanTest acts as a publisher for observer FluentProducerTemplate, which tests CSimple Bean, which creates Route Builder.
+CSimpleBeanTest acts as a publisher for observer ConsumerTemplate, which tests CSimple Bean, which creates Route Builder.

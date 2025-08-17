@@ -1,0 +1,1 @@
+AlterTableFinalStep acts as a memento, which is inherited by AlterTableUsingIndexStep, AlterTableAddStep, AlterTableDropStep.

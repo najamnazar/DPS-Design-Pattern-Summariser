@@ -1,0 +1,1 @@
+TransactionManagementConfigurer acts as an abstract factory for TransactionManager, which is inherited by.

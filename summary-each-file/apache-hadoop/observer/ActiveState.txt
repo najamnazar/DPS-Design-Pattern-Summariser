@@ -1,0 +1,1 @@
+ActiveState acts as an observer, which checks HAContext parameter of context, OperationCategory parameter of op Operation, which shoulds Populate Repl Queues, which sets HAContext parameter of context, HAState parameter of s State, which enters HAContext parameter of context State, which exits HAContext parameter of context State.

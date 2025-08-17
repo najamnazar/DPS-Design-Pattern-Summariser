@@ -1,0 +1,2 @@
+FlexibleAggregationStrategy acts as a factory for AggregationStrategy, which overrides aggregate method of AggregationStrategy, onCompletion method of AggregationStrategy.
+FlexibleAggregationStrategy acts as a product for AggregationStrategyAwareDefinition, which overrides aggregate method of AggregationStrategy, onCompletion method of AggregationStrategy.

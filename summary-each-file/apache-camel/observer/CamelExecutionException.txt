@@ -1,0 +1,1 @@
+CamelExecutionException acts as a publisher for observer Exchange, which wraps Exchange parameter of exchange, Throwable parameter of e Camel Execution Exception.

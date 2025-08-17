@@ -1,0 +1,2 @@
+SchedulerNoPolledMessagesTest acts as a caretaker for memento Context, which tests Scheduler No Polled Messages, which creates Route Builder.
+SchedulerNoPolledMessagesTest acts as a caretaker for memento Producer, which tests Scheduler No Polled Messages, which creates Route Builder.

@@ -1,0 +1,2 @@
+NopInterceptor acts as a product for AdvisorAdapter, which overrides.
+NopInterceptor acts as a product for AdvisorAdapterRegistrationTests, which overrides.

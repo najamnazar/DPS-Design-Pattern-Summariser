@@ -1,0 +1,3 @@
+ControlBusRestartRouteTest acts as a publisher for observer Route, which is inherited by, which tests Control Bus Restart, which creates Route Builder, which ons Route parameter of route Start, which ons Route parameter of route Stop, which gets Start, which gets Stop.
+ControlBusRestartRouteTest acts as a publisher for observer CamelContext, which tests Control Bus Restart, which creates Route Builder, which ons Route parameter of route Start, which ons Route parameter of route Stop, which gets Start, which gets Stop.
+ControlBusRestartRouteTest acts as a publisher for observer Service, which tests Control Bus Restart, which creates Route Builder, which ons Route parameter of route Start, which ons Route parameter of route Stop, which gets Start, which gets Stop.

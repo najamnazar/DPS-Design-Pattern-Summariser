@@ -1,0 +1,1 @@
+WebSocketSessionDecorator acts as a decorator for component WebSocketSession, which is inherited by ConcurrentWebSocketSessionDecorator.

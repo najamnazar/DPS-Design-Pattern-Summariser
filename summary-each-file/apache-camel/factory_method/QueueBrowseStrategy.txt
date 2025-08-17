@@ -1,0 +1,1 @@
+QueueBrowseStrategy acts as an abstract product for ActiveMQQueueEndpoint, which is inherited by DefaultQueueBrowseStrategy.

@@ -1,0 +1,1 @@
+CreatePackageFragmentOperation acts as an adapter, which adapts to JavaModelOperation, which adapts to JavaModelOperation, which adapts to JavaModelOperation.

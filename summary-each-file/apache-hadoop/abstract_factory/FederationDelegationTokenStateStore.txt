@@ -1,0 +1,1 @@
+FederationDelegationTokenStateStore acts as an abstract factory for RouterMasterKeyResponse, RouterRMTokenResponse, which is inherited by.

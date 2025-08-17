@@ -1,0 +1,1 @@
+KafkaPausableConsumerCircuitBreakerIT acts as a caretaker for memento Producer, which befores, which afters, which cans Continue, which increments, which gets Count, which creates Route Builder, which kafkas Message Is Consumed By Camel.

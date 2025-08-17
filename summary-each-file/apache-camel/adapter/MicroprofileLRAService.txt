@@ -1,0 +1,1 @@
+MicroprofileLRAService acts as an adaptee for adapter AbstractLRATestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

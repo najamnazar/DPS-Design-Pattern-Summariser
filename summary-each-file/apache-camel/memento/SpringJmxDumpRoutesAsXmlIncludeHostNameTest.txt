@@ -1,0 +1,1 @@
+SpringJmxDumpRoutesAsXmlIncludeHostNameTest acts as a caretaker for memento Context, which uses Jmx, which creates Application Context, which gets MBean Server, which tests Jmx Dump Routes As Xml.

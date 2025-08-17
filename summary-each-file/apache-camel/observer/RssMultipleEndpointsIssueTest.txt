@@ -1,0 +1,5 @@
+RssMultipleEndpointsIssueTest acts as a publisher for observer Service, which tests Multiple Endpoint Issue Test, which creates Route Builder.
+RssMultipleEndpointsIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Multiple Endpoint Issue Test, which creates Route Builder.
+RssMultipleEndpointsIssueTest acts as a publisher for observer ConsumerTemplate, which tests Multiple Endpoint Issue Test, which creates Route Builder.
+RssMultipleEndpointsIssueTest acts as a publisher for observer ProducerTemplate, which tests Multiple Endpoint Issue Test, which creates Route Builder.
+RssMultipleEndpointsIssueTest acts as a publisher for observer CamelContext, which tests Multiple Endpoint Issue Test, which creates Route Builder.

@@ -1,0 +1,1 @@
+UserSettings acts as an observer for publisher AllocationFileWriter, which is inherited by, which renders, which adds PrintWriter parameter of pw Start Tag, which adds PrintWriter parameter of pw End Tag, which maxes int parameter of value Running Apps, which builds.

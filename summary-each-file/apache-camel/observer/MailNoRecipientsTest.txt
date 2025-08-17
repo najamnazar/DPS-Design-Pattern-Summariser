@@ -1,0 +1,5 @@
+MailNoRecipientsTest acts as a publisher for observer ConsumerTemplate, which tests Mail No Recipients, which creates Route Builder.
+MailNoRecipientsTest acts as a publisher for observer CamelContext, which tests Mail No Recipients, which creates Route Builder.
+MailNoRecipientsTest acts as a publisher for observer ProducerTemplate, which tests Mail No Recipients, which creates Route Builder.
+MailNoRecipientsTest acts as a publisher for observer FluentProducerTemplate, which tests Mail No Recipients, which creates Route Builder.
+MailNoRecipientsTest acts as a publisher for observer Service, which tests Mail No Recipients, which creates Route Builder.

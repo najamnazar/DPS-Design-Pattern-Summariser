@@ -1,0 +1,1 @@
+AnnotationDefaultAttribute acts as a factory for IAnnotationDefaultAttribute, which overrides getMemberValue method of IAnnotationDefaultAttribute.

@@ -1,0 +1,1 @@
+RMAppKillByClientEvent acts as an observer, which gets Caller UGI, which gets Ip.

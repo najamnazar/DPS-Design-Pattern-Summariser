@@ -1,0 +1,2 @@
+ACATester acts as a publisher for observer ApplicationContext, which is inherited by, which sets ApplicationContext parameter of ctx Application Context, which gets Application Context.
+ACATester acts as a publisher for observer ApplicationContext, which sets ApplicationContext parameter of ctx Application Context, which gets Application Context.

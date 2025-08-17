@@ -1,0 +1,2 @@
+S3AStorageStatistics acts as an adaptee for adapter S3AFileSystem.
+S3AStorageStatistics acts as an adaptee for adapter S3AStoreImpl.

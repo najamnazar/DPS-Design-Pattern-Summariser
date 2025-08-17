@@ -1,0 +1,1 @@
+StringValueResolver acts as an observer for publisher MessageMappingMessageHandler, RSocketMessageHandler, which is inherited by EmbeddedValueResolver, which resolves String parameter of strVal String Value.

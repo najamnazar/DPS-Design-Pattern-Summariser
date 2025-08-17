@@ -1,0 +1,1 @@
+Jt400ComponentDefaultConnectionPoolTest acts as a caretaker for memento Component, which sets Up, which tears Down, which tests Default Connection Pool Is Created, which tests Default Connection Pool Is Of Expected Type.

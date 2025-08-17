@@ -1,0 +1,1 @@
+AbstractTransportHandler acts as a caretaker for memento C, which is inherited by, which initializes SockJsServiceConfig parameter of serviceConfig, which gets Service Config.

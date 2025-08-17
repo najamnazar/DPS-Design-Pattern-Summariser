@@ -1,0 +1,1 @@
+Not acts as an adapter, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition.

@@ -1,0 +1,1 @@
+ContainerAllocationHistory acts as an adaptee for adapter AMRMClientRelayer, which adapts to ApplicationMasterProtocol.

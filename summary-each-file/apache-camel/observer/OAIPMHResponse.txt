@@ -1,0 +1,1 @@
+OAIPMHResponse acts as a publisher for observer Document, which is inherited by, which parses, which gets Resumption Token, which gets Raw Response, which sets String parameter of rawResponse Raw Response, which gets Xml Response, which sets Document parameter of xmlResponse Xml Response.

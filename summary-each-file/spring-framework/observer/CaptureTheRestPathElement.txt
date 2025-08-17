@@ -1,0 +1,1 @@
+CaptureTheRestPathElement acts as an observer, which matches int parameter of pathIndex, MatchingContext parameter of matchingContext, which pathes int parameter of fromSegment, List<Element> parameter of pathElements To String, which gets Normalized Length, which gets Wildcard Count, which gets Capture Count, which tos String, which gets Chars.

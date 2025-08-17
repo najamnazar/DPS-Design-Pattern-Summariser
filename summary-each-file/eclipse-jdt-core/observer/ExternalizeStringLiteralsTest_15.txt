@@ -1,0 +1,9 @@
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer String, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer Compiler, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer Map, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer File, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer ICompilerRequestor, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer Processor, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer StringBuilder, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer ASTVisitor, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.
+ExternalizeStringLiteralsTest_15 acts as a publisher for observer Requestor, which suites, which test001s, which test002s, which test003s, which test004s, which test005s, which test006s, which tests Class.

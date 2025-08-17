@@ -1,0 +1,2 @@
+Declaration acts as an abstract factory for A, SourcePosition, which is inherited by EclipseDeclarationImpl.
+Declaration acts as an abstract product for Declaration, which is inherited by MemberDeclaration, EclipseDeclarationImpl, TypeParameterDeclaration, ParameterDeclaration.

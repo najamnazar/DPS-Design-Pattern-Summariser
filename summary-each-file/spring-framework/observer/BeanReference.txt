@@ -1,0 +1,1 @@
+BeanReference acts as an observer for publisher AdvisorComponentDefinition, which is inherited by RuntimeBeanReference, RuntimeBeanNameReference, which gets Bean Name.

@@ -1,0 +1,1 @@
+GpuDeviceInformation acts as an observer for publisher NMGpuResourceInfo, which is inherited by, which gets Gpus, which sets List<PerGpuDeviceInformation> parameter of gpus Gpus, which gets Driver Version, which sets String parameter of driverVersion Driver Version, which tos String.

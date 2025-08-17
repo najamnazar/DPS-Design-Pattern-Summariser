@@ -1,0 +1,1 @@
+HeaderLanguage acts as a memento, which is Singleton, which is Singleton, which is Singleton, which is Singleton.

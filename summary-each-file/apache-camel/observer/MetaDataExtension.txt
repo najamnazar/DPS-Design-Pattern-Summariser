@@ -1,0 +1,1 @@
+MetaDataExtension acts as an observer, which metas Map<String, parameter of Object>, which gets String parameter of name Attribute, which gets Attributes, which gets String parameter of name, Class<T> parameter of type Attribute, which gets Payload, which gets Class<T> parameter of type Payload.

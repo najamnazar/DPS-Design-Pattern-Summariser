@@ -1,0 +1,1 @@
+EventbridgeOperations acts as an observer for publisher EventbridgeConfiguration, which is inherited by.

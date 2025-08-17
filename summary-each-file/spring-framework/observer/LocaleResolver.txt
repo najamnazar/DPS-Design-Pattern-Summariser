@@ -1,0 +1,1 @@
+LocaleResolver acts as an observer for publisher StandaloneMockMvcBuilder, which is inherited by AbstractLocaleResolver, AcceptHeaderLocaleResolver, which resolves HttpServletRequest parameter of request Locale, which sets HttpServletRequest parameter of request, @Nullable parameter of HttpServletResponse, @Nullable parameter of Locale Locale.

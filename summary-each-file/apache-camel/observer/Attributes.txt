@@ -1,0 +1,1 @@
+Attributes acts as an observer for publisher SearchResult, which is inherited by, which gets Type, which sets String parameter of type Type, which gets Url, which sets String parameter of url Url, which gets Reference Id, which sets String parameter of referenceId Reference Id, which tos String.

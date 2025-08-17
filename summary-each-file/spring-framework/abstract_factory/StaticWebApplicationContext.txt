@@ -1,0 +1,2 @@
+StaticWebApplicationContext acts as a factory for ThemeSource, which overrides getTheme method of ThemeSource.
+StaticWebApplicationContext acts as a product for HierarchicalThemeSource, which overrides getTheme method of ThemeSource.

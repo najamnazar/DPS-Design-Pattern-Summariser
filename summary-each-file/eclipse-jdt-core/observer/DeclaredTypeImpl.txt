@@ -1,0 +1,1 @@
+DeclaredTypeImpl acts as an observer, which ases Element, which gets Enclosing Type, which gets Type Arguments, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which tos String.

@@ -1,0 +1,3 @@
+MainRegistry acts as a publisher for observer Registry, which finds Class<T> parameter of type Bindings By Type.
+MainRegistry acts as a publisher for observer CamelContext, which finds Class<T> parameter of type Bindings By Type.
+MainRegistry acts as a publisher for observer BeanRepository, which finds Class<T> parameter of type Bindings By Type.

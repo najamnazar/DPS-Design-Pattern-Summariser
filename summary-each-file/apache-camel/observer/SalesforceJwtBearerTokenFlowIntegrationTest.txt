@@ -1,0 +1,5 @@
+SalesforceJwtBearerTokenFlowIntegrationTest acts as a publisher for observer Service, which shoulds Login Using Jwt Bearer Token, which creates Camel Context.
+SalesforceJwtBearerTokenFlowIntegrationTest acts as a publisher for observer ProducerTemplate, which shoulds Login Using Jwt Bearer Token, which creates Camel Context.
+SalesforceJwtBearerTokenFlowIntegrationTest acts as a publisher for observer CamelContext, which shoulds Login Using Jwt Bearer Token, which creates Camel Context.
+SalesforceJwtBearerTokenFlowIntegrationTest acts as a publisher for observer FluentProducerTemplate, which shoulds Login Using Jwt Bearer Token, which creates Camel Context.
+SalesforceJwtBearerTokenFlowIntegrationTest acts as a publisher for observer ConsumerTemplate, which shoulds Login Using Jwt Bearer Token, which creates Camel Context.

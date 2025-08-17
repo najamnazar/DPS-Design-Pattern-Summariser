@@ -1,0 +1,1 @@
+StatusLine acts as an adaptee for adapter TestRunner, which adapts showInfo method of StatusLine to TestRunContext, BaseTestRunner, which adapts showError method of StatusLine to TestRunContext, BaseTestRunner, which adapts clear method of StatusLine to TestRunContext, BaseTestRunner.

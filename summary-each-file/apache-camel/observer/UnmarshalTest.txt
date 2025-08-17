@@ -1,0 +1,5 @@
+UnmarshalTest acts as a publisher for observer ConsumerTemplate, which tests Send Xml And Unmarshal, which creates Route Builder.
+UnmarshalTest acts as a publisher for observer ProducerTemplate, which tests Send Xml And Unmarshal, which creates Route Builder.
+UnmarshalTest acts as a publisher for observer FluentProducerTemplate, which tests Send Xml And Unmarshal, which creates Route Builder.
+UnmarshalTest acts as a publisher for observer CamelContext, which tests Send Xml And Unmarshal, which creates Route Builder.
+UnmarshalTest acts as a publisher for observer Service, which tests Send Xml And Unmarshal, which creates Route Builder.

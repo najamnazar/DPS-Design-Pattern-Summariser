@@ -1,0 +1,2 @@
+NotifyBuilderExactlyDoneSplitterWhereSentToIssueTest acts as a publisher for observer CamelContext, which tests Receive Ti Analytics Array Of Json Events, which creates Route Builder.
+NotifyBuilderExactlyDoneSplitterWhereSentToIssueTest acts as a publisher for observer Service, which tests Receive Ti Analytics Array Of Json Events, which creates Route Builder.

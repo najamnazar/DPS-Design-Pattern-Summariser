@@ -1,0 +1,2 @@
+ExecutableDeclaration acts as an adaptee for adapter ExecutableDeclarationImpl, which adapts to MemberDeclarationImpl, which adapts to MemberDeclarationImpl, which adapts to MemberDeclarationImpl, which adapts to MemberDeclarationImpl.
+ExecutableDeclaration acts as an adaptee for adapter ASTBasedExecutableDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl, which adapts to ASTBasedMemberDeclarationImpl.

@@ -1,0 +1,1 @@
+KerberosAuthentication acts as a caretaker for memento Configuration, which logins With Keytab.

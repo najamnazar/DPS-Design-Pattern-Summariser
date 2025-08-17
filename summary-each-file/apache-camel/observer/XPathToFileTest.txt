@@ -1,0 +1,2 @@
+XPathToFileTest acts as a publisher for observer CamelContext, which tests XPath To File, which creates Route Builder.
+XPathToFileTest acts as a publisher for observer Service, which tests XPath To File, which creates Route Builder.

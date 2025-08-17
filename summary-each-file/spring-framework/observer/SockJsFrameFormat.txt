@@ -1,0 +1,1 @@
+SockJsFrameFormat acts as an observer for publisher AbstractHttpSockJsSession, StreamingSockJsSession, PollingSockJsSession, which is inherited by DefaultSockJsFrameFormat, which formats SockJsFrame parameter of frame.

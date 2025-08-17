@@ -1,0 +1,4 @@
+DerivedColumnList19 acts as a product for DiagnosticsContext, which overrides.
+DerivedColumnList19 acts as an abstract product for DerivedColumnList19, which is inherited by DerivedColumnListImpl, DerivedColumnListImpl.
+DerivedColumnList19 acts as a product for Context, which overrides.
+DerivedColumnList19 acts as a product for VisitContext, which overrides.

@@ -1,0 +1,3 @@
+SystemClock acts as a caretaker for memento Clock, which gets Instance, which gets Time.
+SystemClock acts as a memento, which gets Time, which gets Time.
+SystemClock acts as a caretaker for memento SystemClock, which gets Instance, which gets Time.

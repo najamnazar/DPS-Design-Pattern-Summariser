@@ -1,0 +1,5 @@
+RouteAutoStopFalseCronScheduledPolicyTest acts as a publisher for observer CamelContext, which tests Cron Policy.
+RouteAutoStopFalseCronScheduledPolicyTest acts as a publisher for observer ConsumerTemplate, which tests Cron Policy.
+RouteAutoStopFalseCronScheduledPolicyTest acts as a publisher for observer Service, which tests Cron Policy.
+RouteAutoStopFalseCronScheduledPolicyTest acts as a publisher for observer FluentProducerTemplate, which tests Cron Policy.
+RouteAutoStopFalseCronScheduledPolicyTest acts as a publisher for observer ProducerTemplate, which tests Cron Policy.

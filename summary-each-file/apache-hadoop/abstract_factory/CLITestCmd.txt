@@ -1,0 +1,1 @@
+CLITestCmd acts as a factory for CLICommand, which overrides getExecutor method of CLICommand, getType method of CLICommand, getCmd method of CLICommand, toString method of CLICommand.

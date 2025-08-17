@@ -1,0 +1,4 @@
+TestBean acts as a caretaker for memento A, which is inherited by, which gets Source, which sets BeanSource parameter of source Source, which gets Name, which sets String parameter of name Name, which gets Application Context.
+TestBean acts as a caretaker for memento ApplicationContext, which is inherited by, which gets Source, which sets BeanSource parameter of source Source, which gets Name, which sets String parameter of name Name, which gets Application Context.
+TestBean acts as a caretaker for memento B, which is inherited by, which gets Source, which sets BeanSource parameter of source Source, which gets Name, which sets String parameter of name Name, which gets Application Context.
+TestBean acts as a caretaker for memento C, which is inherited by, which gets Source, which sets BeanSource parameter of source Source, which gets Name, which sets String parameter of name Name, which gets Application Context.

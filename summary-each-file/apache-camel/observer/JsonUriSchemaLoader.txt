@@ -1,0 +1,1 @@
+JsonUriSchemaLoader acts as an observer for publisher JsonValidatorEndpoint, which is inherited by DefaultJsonUriSchemaLoader, which creates CamelContext parameter of camelContext, String parameter of schemaUri Schema.

@@ -1,0 +1,2 @@
+RemoveRouteStopEndpointTest acts as a publisher for observer CamelContext, which tests Endpoint Registry Stop Route Endpoints, which tests Endpoint Registry Stop Route Endpoints Context Stop, which creates Route Builder.
+RemoveRouteStopEndpointTest acts as a publisher for observer Service, which tests Endpoint Registry Stop Route Endpoints, which tests Endpoint Registry Stop Route Endpoints Context Stop, which creates Route Builder.

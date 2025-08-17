@@ -1,0 +1,1 @@
+PulsarMessageReceipt acts as an abstract product for PulsarMessageReceiptFactory, which is inherited by DefaultPulsarMessageReceipt.

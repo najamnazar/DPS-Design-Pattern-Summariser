@@ -1,0 +1,1 @@
+IAnnotatable acts as an originator for memento IAnnotation, which is inherited by, which gets an IAnnotation Annotation to.

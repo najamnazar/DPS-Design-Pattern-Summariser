@@ -1,0 +1,1 @@
+AptPreferencePage acts as an adapter, which adapts to BasePreferencePage, which adapts to BasePreferencePage, which adapts to BasePreferencePage, which adapts to BasePreferencePage.

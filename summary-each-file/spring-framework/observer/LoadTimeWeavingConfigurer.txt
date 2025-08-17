@@ -1,0 +1,1 @@
+LoadTimeWeavingConfigurer acts as an observer for publisher LoadTimeWeavingConfiguration, which is inherited by, which gets Load Time Weaver.

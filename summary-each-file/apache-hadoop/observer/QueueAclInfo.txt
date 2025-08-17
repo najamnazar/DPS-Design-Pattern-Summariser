@@ -1,0 +1,1 @@
+QueueAclInfo acts as an observer for publisher QueueAclsInfo, which is inherited by, which gets Access Type, which gets Access Control List.

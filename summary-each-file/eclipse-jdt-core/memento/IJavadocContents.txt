@@ -1,0 +1,1 @@
+IJavadocContents acts as an originator for memento String, which is inherited by, which gets a String Type Doc to, which gets a String Package Doc to, which gets a String Module Doc to, which gets a String Field Doc to, which gets a String Method Doc to.

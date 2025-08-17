@@ -1,0 +1,1 @@
+DefaultJMXAgentTest acts as a caretaker for memento Context, which uses Jmx, which tests Query Mbeans, which creates Application Context, which gets MBean Connection.

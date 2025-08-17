@@ -1,0 +1,3 @@
+AllOfForm acts as an observer for publisher AllOfFormWrapper, which is inherited by, which gets Form A, which sets XOfFormA parameter of formA Form A, which gets Form B, which sets XOfFormB parameter of formB Form B.
+AllOfForm acts as a publisher for observer XOfFormA, which is inherited by, which gets Form A, which sets XOfFormA parameter of formA Form A, which gets Form B, which sets XOfFormB parameter of formB Form B.
+AllOfForm acts as a publisher for observer XOfFormB, which is inherited by, which gets Form A, which sets XOfFormA parameter of formA Form A, which gets Form B, which sets XOfFormB parameter of formB Form B.

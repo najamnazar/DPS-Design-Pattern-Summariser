@@ -1,0 +1,2 @@
+MockHttpInputMessage acts as a caretaker for memento Headers, which gets Headers, which gets Body.
+MockHttpInputMessage acts as a memento, which gets Body, which gets Body.

@@ -1,0 +1,3 @@
+HsWebApp acts as a publisher for observer Configuration, which setups.
+HsWebApp acts as a publisher for observer HttpServer2, which setups.
+HsWebApp acts as an observer, which setups.

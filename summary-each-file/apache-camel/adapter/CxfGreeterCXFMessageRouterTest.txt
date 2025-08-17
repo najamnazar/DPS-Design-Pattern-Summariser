@@ -1,0 +1,1 @@
+CxfGreeterCXFMessageRouterTest acts as a target for adapter CxfGreeterCXFMessageWithoutSEIRouterTest, which adapts to CxfGreeterCXFMessageRouterTest, which adapts to CxfGreeterCXFMessageRouterTest, which adapts to CxfGreeterCXFMessageRouterTest, which adapts to CxfGreeterCXFMessageRouterTest.

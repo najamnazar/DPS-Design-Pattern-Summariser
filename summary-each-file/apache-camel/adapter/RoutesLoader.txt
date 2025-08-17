@@ -1,0 +1,1 @@
+RoutesLoader acts as an adaptee for adapter AbstractCamelContext.

@@ -1,0 +1,2 @@
+PropertiesComponentOverridePropertiesTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Properties Component Endpoint, which creates Camel Context.
+PropertiesComponentOverridePropertiesTest acts as a publisher for observer Service, which is Use Route Builder, which tests Properties Component Endpoint, which creates Camel Context.

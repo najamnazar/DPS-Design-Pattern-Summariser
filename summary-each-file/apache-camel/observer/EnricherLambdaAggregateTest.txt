@@ -1,0 +1,2 @@
+EnricherLambdaAggregateTest acts as a publisher for observer CamelContext, which tests Enrich, which creates Route Builder.
+EnricherLambdaAggregateTest acts as a publisher for observer Service, which tests Enrich, which creates Route Builder.

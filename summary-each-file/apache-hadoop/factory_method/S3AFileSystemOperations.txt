@@ -1,0 +1,2 @@
+S3AFileSystemOperations acts as an abstract product for S3AFileSystem, which is inherited by CSES3AFileSystemOperations, BaseS3AFileSystemOperations.
+S3AFileSystemOperations acts as a factory for CSES3AFileSystemOperations, which overrides.

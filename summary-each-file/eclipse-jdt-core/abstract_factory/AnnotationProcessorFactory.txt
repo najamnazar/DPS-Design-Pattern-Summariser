@@ -1,0 +1,1 @@
+AnnotationProcessorFactory acts as an abstract factory for AnnotationProcessor, which is inherited by BaseFactory, BatchGenAnnotationFactory, ColorAnnotationProcessorFactory, LoaderTestAnnotationProcessorFactory, Round2GenAnnotationFactory, Round1GenAnnotationFactory, BatchAnnotationFactory.

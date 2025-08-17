@@ -1,0 +1,2 @@
+InlinedProcessorIdTest acts as a publisher for observer Service, which creates Route Builder, which tests Inlined Processor Id.
+InlinedProcessorIdTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Inlined Processor Id.

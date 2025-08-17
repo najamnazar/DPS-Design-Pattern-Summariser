@@ -1,0 +1,2 @@
+Rendering acts as a factory for DefaultRenderingBuilder, which overrides.
+Rendering acts as an abstract product for DefaultRenderingBuilder, which is inherited by DefaultRendering.

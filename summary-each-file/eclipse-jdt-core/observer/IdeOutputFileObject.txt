@@ -1,0 +1,1 @@
+IdeOutputFileObject acts as an observer, which deletes, which gets boolean parameter of ignoreEncodingErrors Char Content, which gets Last Modified, which opens Input Stream, which opens boolean parameter of ignoreEncodingErrors Reader.

@@ -1,0 +1,1 @@
+UuidGenerator acts as an observer for publisher SjmsProducer, which is inherited by ClassicUuidGenerator, ShortUuidGenerator, SimpleUuidGenerator, VanillaUuidGenerator, DefaultUuidGenerator, which generates Uuid, which generates Exchange Uuid.

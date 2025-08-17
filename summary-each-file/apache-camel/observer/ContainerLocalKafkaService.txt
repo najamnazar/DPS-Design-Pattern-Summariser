@@ -1,0 +1,1 @@
+ContainerLocalKafkaService acts as an observer, which inits Container, which gets Bootstrap Servers, which registers Properties, which initializes, which shutdowns, which gets Container, which kafka2Containers, which kafka3Containers.

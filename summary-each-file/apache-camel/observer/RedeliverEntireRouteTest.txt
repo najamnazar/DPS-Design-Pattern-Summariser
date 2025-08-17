@@ -1,0 +1,2 @@
+RedeliverEntireRouteTest acts as a publisher for observer CamelContext, which tests Redeliver Entire Route, which creates Route Builder.
+RedeliverEntireRouteTest acts as a publisher for observer Service, which tests Redeliver Entire Route, which creates Route Builder.

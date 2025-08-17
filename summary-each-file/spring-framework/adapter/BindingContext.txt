@@ -1,0 +1,1 @@
+BindingContext acts as a target for adapter InitBinderBindingContext, which adapts to BindingContext, which adapts to BindingContext, which adapts to BindingContext, which adapts to BindingContext, which adapts to BindingContext.

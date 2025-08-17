@@ -1,0 +1,3 @@
+ProcessTaskManager acts as a caretaker for memento S, which adds Object parameter of newElement Next Unit, which removes Next Units, which processes, which gets Unit With Error, which closes.
+ProcessTaskManager acts as a caretaker for memento C, which adds Object parameter of newElement Next Unit, which removes Next Units, which processes, which gets Unit With Error, which closes.
+ProcessTaskManager acts as a caretaker for memento E, which adds Object parameter of newElement Next Unit, which removes Next Units, which processes, which gets Unit With Error, which closes.

@@ -1,0 +1,1 @@
+FileBasedCopyListing acts as a publisher for observer Credentials, which validates DistCpContext parameter of context Paths, which does Path parameter of pathToListFile, DistCpContext parameter of context Build Listing, which fetches Path parameter of sourceListing File List, which gets Bytes To Copy, which gets Number Of Paths.

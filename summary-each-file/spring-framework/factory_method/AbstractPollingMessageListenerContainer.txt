@@ -1,0 +1,1 @@
+AbstractPollingMessageListenerContainer acts as a factory for EnableTransactionManagementTests, which overrides.

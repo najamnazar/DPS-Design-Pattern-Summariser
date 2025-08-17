@@ -1,0 +1,5 @@
+BindyMarshalEndWithLineBreakTest acts as a publisher for observer FluentProducerTemplate, which tests Csv With Ending Line Break, which tests Csv Without Ending Line Break, which creates Route Builder.
+BindyMarshalEndWithLineBreakTest acts as a publisher for observer ProducerTemplate, which tests Csv With Ending Line Break, which tests Csv Without Ending Line Break, which creates Route Builder.
+BindyMarshalEndWithLineBreakTest acts as a publisher for observer ConsumerTemplate, which tests Csv With Ending Line Break, which tests Csv Without Ending Line Break, which creates Route Builder.
+BindyMarshalEndWithLineBreakTest acts as a publisher for observer CamelContext, which tests Csv With Ending Line Break, which tests Csv Without Ending Line Break, which creates Route Builder.
+BindyMarshalEndWithLineBreakTest acts as a publisher for observer Service, which tests Csv With Ending Line Break, which tests Csv Without Ending Line Break, which creates Route Builder.

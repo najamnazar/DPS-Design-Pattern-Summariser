@@ -1,0 +1,1 @@
+LsSnapshottableDir acts as a publisher for observer Configuration, which runs String[] parameter of argv, which mains String[] parameter of argv.

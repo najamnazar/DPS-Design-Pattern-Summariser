@@ -1,0 +1,5 @@
+MultipleDestinationConsumeTest acts as a publisher for observer ProducerTemplate, which tests Send And Receive Mails, which sets Up, which creates Route Builder.
+MultipleDestinationConsumeTest acts as a publisher for observer FluentProducerTemplate, which tests Send And Receive Mails, which sets Up, which creates Route Builder.
+MultipleDestinationConsumeTest acts as a publisher for observer Service, which tests Send And Receive Mails, which sets Up, which creates Route Builder.
+MultipleDestinationConsumeTest acts as a publisher for observer CamelContext, which tests Send And Receive Mails, which sets Up, which creates Route Builder.
+MultipleDestinationConsumeTest acts as a publisher for observer ConsumerTemplate, which tests Send And Receive Mails, which sets Up, which creates Route Builder.

@@ -1,0 +1,1 @@
+NameMatchMethodPointcutAdvisor acts as a publisher for observer Advice, which sets ClassFilter parameter of classFilter Class Filter, which sets String parameter of mappedName Mapped Name, which sets String... parameter of mappedNames Mapped Names, which adds String parameter of name Method Name, which gets Pointcut.

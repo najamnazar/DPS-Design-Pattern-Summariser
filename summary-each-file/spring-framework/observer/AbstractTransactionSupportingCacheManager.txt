@@ -1,0 +1,1 @@
+AbstractTransactionSupportingCacheManager acts as a publisher for observer Cache, which sets boolean parameter of transactionAware Transaction Aware, which is Transaction Aware, which decorates Cache parameter of cache Cache.

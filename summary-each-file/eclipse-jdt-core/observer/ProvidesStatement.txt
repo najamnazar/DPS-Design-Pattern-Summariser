@@ -1,0 +1,1 @@
+ProvidesStatement acts as an observer for publisher RecoveredModule, which is inherited by, which resolves BlockScope parameter of scope, which gets Resolved Implementations, which prints int parameter of indent, StringBuilder parameter of output.

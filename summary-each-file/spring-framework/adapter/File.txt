@@ -1,0 +1,2 @@
+File acts as an adaptee for adapter FileSystemResource, which adapts to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource.
+File acts as an adaptee for adapter FileUrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource.

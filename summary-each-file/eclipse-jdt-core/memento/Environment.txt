@@ -1,0 +1,1 @@
+Environment acts as an originator for memento String, which is inherited by, which has String parameter of value Category, which gets a String Resource File Name to.

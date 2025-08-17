@@ -1,0 +1,1 @@
+DefaultDestinationCreationStrategyTest acts as a caretaker for memento Producer, which tests Queue Creation, which tests Topic Creation, which tests Temporary Queue Creation, which tests Temporary Topic Creation.

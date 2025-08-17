@@ -1,0 +1,1 @@
+Validator acts as an abstract product for Validator, which is inherited by MessageBrokerBeanDefinitionParserTests, CustomValidatorBean, SmartValidator.

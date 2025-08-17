@@ -1,0 +1,2 @@
+GoraComponent acts as a publisher for observer ComponentExtension, which inits final parameter of GoraConfiguration, which creates final parameter of String, final parameter of String, final parameter of Map<String, Endpoint, which gets Data Store, which does Start, which does Stop.
+GoraComponent acts as a publisher for observer CamelContext, which inits final parameter of GoraConfiguration, which creates final parameter of String, final parameter of String, final parameter of Map<String, Endpoint, which gets Data Store, which does Start, which does Stop.

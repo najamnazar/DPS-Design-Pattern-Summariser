@@ -1,0 +1,2 @@
+XPathPropertyPlaceholderTest acts as a publisher for observer CamelContext, which tests Filter, which tests Choice, which tests Choice2, which creates Route Builder.
+XPathPropertyPlaceholderTest acts as a publisher for observer Service, which tests Filter, which tests Choice, which tests Choice2, which creates Route Builder.

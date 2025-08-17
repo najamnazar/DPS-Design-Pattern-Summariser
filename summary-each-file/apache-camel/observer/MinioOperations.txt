@@ -1,0 +1,1 @@
+MinioOperations acts as an observer for publisher MinioConfiguration, which is inherited by.

@@ -1,0 +1,1 @@
+CreateTableCommentStep acts as a publisher for observer Comment, which is inherited by CreateTableImpl, which comments @Stringly.Comment parameter of String, which comments Comment parameter of comment.

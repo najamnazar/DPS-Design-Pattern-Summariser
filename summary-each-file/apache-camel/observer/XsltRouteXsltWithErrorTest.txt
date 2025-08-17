@@ -1,0 +1,2 @@
+XsltRouteXsltWithErrorTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Xslt With Error.
+XsltRouteXsltWithErrorTest acts as a publisher for observer Service, which is Use Route Builder, which tests Xslt With Error.

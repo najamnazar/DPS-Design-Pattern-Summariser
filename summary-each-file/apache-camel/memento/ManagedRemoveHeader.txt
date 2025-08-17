@@ -1,0 +1,1 @@
+ManagedRemoveHeader acts as a caretaker for memento Context, which gets Header Name.

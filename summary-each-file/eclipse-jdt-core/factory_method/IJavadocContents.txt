@@ -1,0 +1,1 @@
+IJavadocContents acts as an abstract product for BinaryType, which is inherited by JavadocContents.

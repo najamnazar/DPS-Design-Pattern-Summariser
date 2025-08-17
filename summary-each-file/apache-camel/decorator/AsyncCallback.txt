@@ -1,0 +1,1 @@
+AsyncCallback acts as a component for EventNotifierCallback, which is inherited by AsyncCallbackToCompletableFutureAdapter, EmptyAsyncCallback.

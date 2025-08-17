@@ -1,0 +1,1 @@
+TwoEmbeddedActiveMQBrokersTest acts as a caretaker for memento Context, which gets First Broker Service Address, which gets Second Broker Service Address, which sends To Two Embedded Brokers, which creates Application Context.

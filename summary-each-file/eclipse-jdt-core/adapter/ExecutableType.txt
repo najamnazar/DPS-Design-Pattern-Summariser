@@ -1,0 +1,1 @@
+ExecutableType acts as an adaptee for adapter ExecutableTypeImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl.

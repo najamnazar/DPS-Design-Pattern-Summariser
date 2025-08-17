@@ -1,0 +1,1 @@
+ContextWebSocketHandler acts as a product for WebSocketHandlerDecoratorFactory, which overrides.

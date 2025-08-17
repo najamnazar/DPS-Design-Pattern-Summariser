@@ -1,0 +1,1 @@
+AbstractDelegatingSmartContextLoader acts as a factory for SmartContextLoader, which overrides loadContext method of SmartContextLoader.

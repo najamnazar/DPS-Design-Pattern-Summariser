@@ -1,0 +1,2 @@
+CsiAdaptorPlugin acts as an originator for memento NodeUnpublishVolumeResponse.
+CsiAdaptorPlugin acts as an originator for memento NodePublishVolumeResponse.

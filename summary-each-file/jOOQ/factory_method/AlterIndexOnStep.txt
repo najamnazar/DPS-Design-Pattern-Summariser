@@ -1,0 +1,2 @@
+AlterIndexOnStep acts as a factory for AlterIndexOnStep, which overrides.
+AlterIndexOnStep acts as a factory method for AlterIndexStep, which is inherited by AlterIndexOnStep.

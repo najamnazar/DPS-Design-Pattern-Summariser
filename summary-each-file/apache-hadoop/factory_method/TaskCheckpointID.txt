@@ -1,0 +1,1 @@
+TaskCheckpointID acts as a product for CheckpointService, which overrides.

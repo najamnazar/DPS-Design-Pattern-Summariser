@@ -1,0 +1,2 @@
+DependencyDownloaderUriFactoryResolver acts as a publisher for observer CamelContext, which is inherited by, which resolves String parameter of name, CamelContext parameter of context Factory.
+DependencyDownloaderUriFactoryResolver acts as a publisher for observer CamelContext, which resolves String parameter of name, CamelContext parameter of context Factory.

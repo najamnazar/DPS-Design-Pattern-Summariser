@@ -1,0 +1,2 @@
+AnnotationType acts as an abstract product for AnnotationType, which is inherited by AnnotationDeclarationImpl.
+AnnotationType acts as an abstract factory for AnnotationTypeDeclaration, which is inherited by AnnotationDeclarationImpl.

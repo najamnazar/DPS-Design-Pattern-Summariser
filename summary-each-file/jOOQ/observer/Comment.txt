@@ -1,0 +1,1 @@
+Comment acts as an observer for publisher AlterViewStep, AlterViewImpl, which is inherited by CommentImpl, which gets Comment, which $comments.

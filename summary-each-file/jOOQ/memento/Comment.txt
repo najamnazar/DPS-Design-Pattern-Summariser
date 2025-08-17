@@ -1,0 +1,1 @@
+Comment acts as a memento, which is inherited by CommentImpl, which $comments Comment, which $comments Comment.

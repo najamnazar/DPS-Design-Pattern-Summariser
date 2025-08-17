@@ -1,0 +1,1 @@
+AppPriorityACLConfigurationParser acts as an adaptee for adapter CapacitySchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration.

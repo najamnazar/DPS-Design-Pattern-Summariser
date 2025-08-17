@@ -1,0 +1,1 @@
+MemberDeclaration acts as an observer, which gets Declaring Type.

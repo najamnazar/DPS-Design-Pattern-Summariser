@@ -1,0 +1,1 @@
+AbstractLobHandler acts as a target for adapter DefaultLobHandler, which adapts to AbstractLobHandler, which adapts to AbstractLobHandler, which adapts to AbstractLobHandler, which adapts to AbstractLobHandler, which adapts to AbstractLobHandler.

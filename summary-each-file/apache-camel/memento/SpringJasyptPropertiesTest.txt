@@ -1,0 +1,1 @@
+SpringJasyptPropertiesTest acts as a caretaker for memento Context, which tests Jasypt Properties, which creates Application Context.

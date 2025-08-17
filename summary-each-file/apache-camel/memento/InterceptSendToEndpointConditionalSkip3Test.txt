@@ -1,0 +1,2 @@
+InterceptSendToEndpointConditionalSkip3Test acts as a caretaker for memento Producer, which tests Intercept Send To Endpoint None, which tests Intercept Send To Endpoint1, which tests Intercept Send To Endpoint2, which creates Route Builder.
+InterceptSendToEndpointConditionalSkip3Test acts as a caretaker for memento Context, which tests Intercept Send To Endpoint None, which tests Intercept Send To Endpoint1, which tests Intercept Send To Endpoint2, which creates Route Builder.

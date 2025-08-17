@@ -1,0 +1,1 @@
+GoogleMailStreamEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Client Factory, which sets GoogleMailClientFactory parameter of clientFactory Client Factory, which gets Configuration, which splits String parameter of labels Labels.

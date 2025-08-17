@@ -1,0 +1,1 @@
+CreateInstanceRequest acts as a publisher for observer CreateInstanceRequestBody, which is inherited by, which withes CreateInstanceRequestBody parameter of body Body, which gets Body, which sets CreateInstanceRequestBody parameter of body Body, which tos String.

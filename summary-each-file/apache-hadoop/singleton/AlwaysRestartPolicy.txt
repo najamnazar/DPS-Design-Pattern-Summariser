@@ -1,0 +1,1 @@
+AlwaysRestartPolicy acts as a singleton, which gets an AlwaysRestartPolicy Instance to.

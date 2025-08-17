@@ -1,0 +1,1 @@
+JmsTransferExchangeFromSplitterTest acts as a publisher for observer ArtemisService, which gets Uri, which tests Split, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,1 @@
+Rdb$indices acts as an adaptee for adapter DefaultSchema, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl.

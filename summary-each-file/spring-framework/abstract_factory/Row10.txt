@@ -1,0 +1,5 @@
+Row10 acts as an abstract factory for Condition, which is inherited by.
+Row10 acts as a product for DataType, which overrides.
+Row10 acts as a product for ResultQueryTrait, which overrides.
+Row10 acts as a product for Fields, which overrides.
+Row10 acts as a product for Record, which overrides.

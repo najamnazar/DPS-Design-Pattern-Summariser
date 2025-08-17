@@ -1,0 +1,2 @@
+ReplicaRecoveryInfo acts as a product for FsDatasetSpi, which overrides hashCode method of Block, toString method of Block.
+ReplicaRecoveryInfo acts as a product for BlockAlias, which overrides hashCode method of Block, toString method of Block.

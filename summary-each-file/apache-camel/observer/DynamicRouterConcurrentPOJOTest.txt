@@ -1,0 +1,2 @@
+DynamicRouterConcurrentPOJOTest acts as a publisher for observer Service, which tests Concurrent Dynamic Router, which creates final parameter of String Seda Sender Thread, which creates Route Builder, which routes @Header(Exchange.SLIP_ENDPOINT) parameter of String.
+DynamicRouterConcurrentPOJOTest acts as a publisher for observer CamelContext, which tests Concurrent Dynamic Router, which creates final parameter of String Seda Sender Thread, which creates Route Builder, which routes @Header(Exchange.SLIP_ENDPOINT) parameter of String.

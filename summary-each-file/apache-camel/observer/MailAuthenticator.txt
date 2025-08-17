@@ -1,0 +1,1 @@
+MailAuthenticator acts as an observer for publisher JavaMailSender, DefaultJavaMailSender, which is inherited by MicrosoftExchangeOnlineOAuth2MailAuthenticator, DefaultAuthenticator, which gets Password Authentication.

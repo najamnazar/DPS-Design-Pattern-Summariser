@@ -1,0 +1,1 @@
+SpringFileAntPathMatcherRemoteFileFilterTest acts as a caretaker for memento Producer, which tests Ant Patch Mather Filter.

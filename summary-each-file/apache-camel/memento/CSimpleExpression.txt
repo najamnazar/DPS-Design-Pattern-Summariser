@@ -1,0 +1,1 @@
+CSimpleExpression acts as a memento, which is inherited by CSimpleSupport, which ends Language, which ends Language.

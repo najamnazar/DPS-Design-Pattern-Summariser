@@ -1,0 +1,3 @@
+AbstractDelegatingQuery acts as a product for Query, which overrides close method of CloseableQuery.
+AbstractDelegatingQuery acts as a factory for CloseableQuery, which overrides close method of CloseableQuery.
+AbstractDelegatingQuery acts as a product for CloseableQuery, which overrides close method of CloseableQuery.

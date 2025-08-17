@@ -1,0 +1,2 @@
+BeanChoseMethodWithMatchingTypeAndSkipSettersTest acts as a caretaker for memento Producer, which creates Registry, which creates Camel Context, which tests Send CSVFile, which tests Send XMLData, which creates Route Builder.
+BeanChoseMethodWithMatchingTypeAndSkipSettersTest acts as a caretaker for memento Context, which creates Registry, which creates Camel Context, which tests Send CSVFile, which tests Send XMLData, which creates Route Builder.

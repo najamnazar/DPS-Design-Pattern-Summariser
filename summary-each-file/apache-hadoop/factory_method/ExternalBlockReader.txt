@@ -1,0 +1,1 @@
+ExternalBlockReader acts as a product for BlockReaderFactory, which overrides read method of BlockReader, skip method of BlockReader, available method of BlockReader, close method of BlockReader, readAll method of BlockReader, isShortCircuit method of BlockReader, getClientMmap method of BlockReader, getDataChecksum method of BlockReader, getNetworkDistance method of BlockReader.

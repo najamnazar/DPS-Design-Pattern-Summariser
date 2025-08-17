@@ -1,0 +1,1 @@
+RecordInput acts as an originator for memento Index, which is inherited by, which starts an Index Vector to, which starts an Index Map to.

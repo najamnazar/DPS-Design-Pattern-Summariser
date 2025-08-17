@@ -1,0 +1,8 @@
+Parameterizable acts as a product for ExecutableElement, which overrides.
+Parameterizable acts as a product for PackageElement, which overrides.
+Parameterizable acts as a product for ModuleElement, which overrides.
+Parameterizable acts as a product for RecordComponentElement, which overrides.
+Parameterizable acts as a product for Element, which overrides.
+Parameterizable acts as a product for VariableElement, which overrides.
+Parameterizable acts as a product for TypeElement, which overrides.
+Parameterizable acts as a product for TypeParameterElement, which overrides.

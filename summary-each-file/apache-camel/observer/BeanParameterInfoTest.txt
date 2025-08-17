@@ -1,0 +1,2 @@
+BeanParameterInfoTest acts as a publisher for observer Service, which tests Method Pattern Using Method Annotations, which hellos @Body parameter of String.
+BeanParameterInfoTest acts as a publisher for observer CamelContext, which tests Method Pattern Using Method Annotations, which hellos @Body parameter of String.

@@ -1,0 +1,3 @@
+Serializable acts as an adaptee for adapter PostRevision, which adapts to Publishable, which adapts to Publishable.
+Serializable acts as an adaptee for adapter EndpointValidationResult, which adapts to PropertiesValidationResult, which adapts to PropertiesValidationResult.
+Serializable acts as an adaptee for adapter HazelcastMapProducerTest, which adapts to HazelcastCamelTestSupport, which adapts to HazelcastCamelTestSupport.

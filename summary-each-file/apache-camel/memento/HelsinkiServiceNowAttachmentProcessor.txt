@@ -1,0 +1,1 @@
+HelsinkiServiceNowAttachmentProcessor acts as a caretaker for memento Configuration, which retrieves Exchange parameter of exchange Meta, which retrieves Exchange parameter of exchange Content, which uploads Exchange parameter of exchange Content, which deletes Exchange parameter of exchange Content.

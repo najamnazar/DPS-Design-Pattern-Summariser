@@ -1,0 +1,2 @@
+ProcessRefHashTest acts as a publisher for observer Service, which tests Process Ref Hash, which creates Route Builder.
+ProcessRefHashTest acts as a publisher for observer CamelContext, which tests Process Ref Hash, which creates Route Builder.

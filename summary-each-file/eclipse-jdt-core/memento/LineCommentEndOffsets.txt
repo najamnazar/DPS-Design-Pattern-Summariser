@@ -1,0 +1,1 @@
+LineCommentEndOffsets acts as a caretaker for memento List, which gets Offsets, which is int parameter of offset End Of Line Comment, which is int parameter of offset, char[] parameter of content End Of Line Comment, which removes int parameter of offset.

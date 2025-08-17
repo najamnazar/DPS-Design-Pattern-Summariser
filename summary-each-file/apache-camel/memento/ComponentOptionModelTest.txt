@@ -1,0 +1,1 @@
+ComponentOptionModelTest acts as a caretaker for memento Component, which setups, which gets Short Type Should Succeed.

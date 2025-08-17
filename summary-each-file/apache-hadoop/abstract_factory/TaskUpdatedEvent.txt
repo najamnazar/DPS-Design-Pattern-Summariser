@@ -1,0 +1,2 @@
+TaskUpdatedEvent acts as a factory for HistoryEvent, which overrides toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.
+TaskUpdatedEvent acts as a product for JobHistoryParser, which overrides toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.

@@ -1,0 +1,1 @@
+BlobContainerOperationsTest acts as a caretaker for memento Configuration, which setups, which tests Create Container, which tests Delete Container, which tests List Blob, which tests List Blob With Regex, which creates Container Mock, which deletes Container Mock, which lists Blobs Mock, which lists Blobs Mock With Regex.

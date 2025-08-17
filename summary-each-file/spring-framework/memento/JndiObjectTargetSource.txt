@@ -1,0 +1,1 @@
+JndiObjectTargetSource acts as a caretaker for memento C, which sets boolean parameter of lookupOnStartup Lookup On Startup, which sets boolean parameter of cache Cache, which afters Properties Set, which gets Target Class, which is Static, which gets Target, which releases Object parameter of target Target.

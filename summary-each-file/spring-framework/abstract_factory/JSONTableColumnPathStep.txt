@@ -1,0 +1,5 @@
+JSONTableColumnPathStep acts as an abstract product for JSONTableColumnPathStep, which is inherited by JSONTable, JSONTable, JSONTable, JSONTable.
+JSONTableColumnPathStep acts as a product for JSONTableColumnForOrdinalityStep, which overrides.
+JSONTableColumnPathStep acts as an abstract factory for JSONTableColumnsStep, which is inherited by JSONTable.
+JSONTableColumnPathStep acts as a product for JSONTableColumnPathStep, which overrides.
+JSONTableColumnPathStep acts as a product for JSONTableColumnsFirstStep, which overrides.

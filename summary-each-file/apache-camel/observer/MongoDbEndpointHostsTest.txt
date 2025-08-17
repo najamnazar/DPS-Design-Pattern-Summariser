@@ -1,0 +1,5 @@
+MongoDbEndpointHostsTest acts as a publisher for observer ProducerTemplate, which tests Mongo Db Endpoint, which creates Route Builder.
+MongoDbEndpointHostsTest acts as a publisher for observer FluentProducerTemplate, which tests Mongo Db Endpoint, which creates Route Builder.
+MongoDbEndpointHostsTest acts as a publisher for observer ConsumerTemplate, which tests Mongo Db Endpoint, which creates Route Builder.
+MongoDbEndpointHostsTest acts as a publisher for observer Service, which tests Mongo Db Endpoint, which creates Route Builder.
+MongoDbEndpointHostsTest acts as a publisher for observer CamelContext, which tests Mongo Db Endpoint, which creates Route Builder.

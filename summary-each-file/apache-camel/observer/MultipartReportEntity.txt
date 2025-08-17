@@ -1,0 +1,1 @@
+MultipartReportEntity acts as a publisher for observer MimeEntity.

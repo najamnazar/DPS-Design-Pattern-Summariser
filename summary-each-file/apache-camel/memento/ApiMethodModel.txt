@@ -1,0 +1,1 @@
+ApiMethodModel acts as a caretaker for memento Component, which gets Name, which sets String parameter of name Name, which gets Description, which sets String parameter of description Description, which gets Signatures, which adds String parameter of signature Signature, which gets Options, which adds ComponentModel.ApiOptionModel parameter of option Api Option Model.

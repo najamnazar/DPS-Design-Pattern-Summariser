@@ -1,0 +1,2 @@
+DefaultErrorHandlerLogStackTraceTest acts as a publisher for observer CamelContext, which tests Log Stack Trace, which creates Route Builder.
+DefaultErrorHandlerLogStackTraceTest acts as a publisher for observer Service, which tests Log Stack Trace, which creates Route Builder.

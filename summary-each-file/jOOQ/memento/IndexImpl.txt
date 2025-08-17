@@ -1,0 +1,3 @@
+IndexImpl acts as a caretaker for memento SQL, which $fieldses, which $uniques, which $wheres, which accepts Context<?> parameter of ctx, which gets Table, which gets Fields, which gets Where, which gets Unique, which $tables.
+IndexImpl acts as a caretaker for memento Comment, which $fieldses, which $uniques, which $wheres, which accepts Context<?> parameter of ctx, which gets Table, which gets Fields, which gets Where, which gets Unique, which $tables.
+IndexImpl acts as a memento, which $tables Unique, which $tables Unique, which $tables Unique, which $tables Unique, which $tables Unique, which $tables Unique, which $tables Unique, which $tables Unique, which $tables Unique.

@@ -1,0 +1,3 @@
+ProcessorTransformer acts as a product for TransformerRegistry, which overrides.
+ProcessorTransformer acts as a product for ModelReifierFactory, which overrides.
+ProcessorTransformer acts as a product for CamelContext, which overrides.

@@ -1,0 +1,2 @@
+ExpressionSubElementDefinition acts as an adaptee for adapter StickyLoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition.
+ExpressionSubElementDefinition acts as an adaptee for adapter ThrottleDefinition, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode.

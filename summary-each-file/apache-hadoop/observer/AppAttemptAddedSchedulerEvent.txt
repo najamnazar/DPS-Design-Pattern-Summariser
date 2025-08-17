@@ -1,0 +1,1 @@
+AppAttemptAddedSchedulerEvent acts as an observer, which gets Application Attempt Id, which gets Transfer State From Previous Attempt, which gets Is Attempt Recovering.

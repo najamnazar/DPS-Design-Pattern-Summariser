@@ -1,0 +1,2 @@
+AbstractPlatformTransactionManager acts as a product for EnableTransactionManagementTests, which overrides getTransaction method of PlatformTransactionManager, commit method of PlatformTransactionManager, rollback method of PlatformTransactionManager.
+AbstractPlatformTransactionManager acts as a factory for PlatformTransactionManagerFacade, which overrides.

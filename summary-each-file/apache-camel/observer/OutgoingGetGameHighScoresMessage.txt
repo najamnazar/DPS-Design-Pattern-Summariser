@@ -1,0 +1,1 @@
+OutgoingGetGameHighScoresMessage acts as an observer, which gets User Id, which sets Long parameter of userId User Id, which gets Message Id, which sets Long parameter of messageId Message Id, which gets Inline Message Id, which sets String parameter of inlineMessageId Inline Message Id, which tos String.

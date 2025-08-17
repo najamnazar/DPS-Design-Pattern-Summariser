@@ -1,0 +1,2 @@
+BeanValidatorOutputValidateTest acts as a publisher for observer CamelContext, which creates Route Builder, which validates Message parameter of message, DataType parameter of type, which creates Registry, which tests Valid, which tests Invalid.
+BeanValidatorOutputValidateTest acts as a publisher for observer Service, which creates Route Builder, which validates Message parameter of message, DataType parameter of type, which creates Registry, which tests Valid, which tests Invalid.

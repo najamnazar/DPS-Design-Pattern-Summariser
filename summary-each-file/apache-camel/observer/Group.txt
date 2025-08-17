@@ -1,0 +1,1 @@
+Group acts as an observer for publisher GroupProducerTest, which is inherited by, which is Connected, which starts, which closes, which adds GroupListener<T> parameter of listener, which removes GroupListener<T> parameter of listener, which updates T parameter of state, which memberses, which is Master, which masters, which slaveses, which gets Last State.

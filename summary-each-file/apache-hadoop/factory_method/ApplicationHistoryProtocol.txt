@@ -1,0 +1,1 @@
+ApplicationHistoryProtocol acts as an abstract product for AppReportFetcher, which is inherited by ApplicationHistoryProtocolPBClientImpl, ApplicationHistoryClientService.

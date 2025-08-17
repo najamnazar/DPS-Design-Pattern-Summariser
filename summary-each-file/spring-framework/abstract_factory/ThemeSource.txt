@@ -1,0 +1,2 @@
+ThemeSource acts as an abstract product for ThemeSource, which is inherited by GenericWebApplicationContext, HierarchicalThemeSource, AbstractRefreshableWebApplicationContext, StaticWebApplicationContext.
+ThemeSource acts as an abstract factory for Theme, which is inherited by GenericWebApplicationContext, AbstractRefreshableWebApplicationContext, StaticWebApplicationContext.

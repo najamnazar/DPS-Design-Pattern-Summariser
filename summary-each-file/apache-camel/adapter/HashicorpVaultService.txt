@@ -1,0 +1,1 @@
+HashicorpVaultService acts as an adaptee for adapter HashicorpVaultBase, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

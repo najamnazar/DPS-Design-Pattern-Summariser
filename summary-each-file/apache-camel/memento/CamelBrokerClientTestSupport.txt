@@ -1,0 +1,1 @@
+CamelBrokerClientTestSupport acts as a caretaker for memento Context, which gets Service Address, which creates Application Context.

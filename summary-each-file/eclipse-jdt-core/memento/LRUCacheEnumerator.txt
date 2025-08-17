@@ -1,0 +1,2 @@
+LRUCacheEnumerator acts as a caretaker for memento E, which has More Elements, which nexts Element.
+LRUCacheEnumerator acts as a caretaker for memento R, which has More Elements, which nexts Element.

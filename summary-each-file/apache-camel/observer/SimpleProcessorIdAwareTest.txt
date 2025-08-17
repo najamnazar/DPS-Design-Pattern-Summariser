@@ -1,0 +1,2 @@
+SimpleProcessorIdAwareTest acts as a publisher for observer CamelContext, which tests Id Aware, which creates Route Builder.
+SimpleProcessorIdAwareTest acts as a publisher for observer Service, which tests Id Aware, which creates Route Builder.

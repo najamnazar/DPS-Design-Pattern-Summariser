@@ -1,0 +1,2 @@
+TaskStatus acts as an abstract product for TaskStatus, which is inherited by MapTaskStatus, ReduceTaskStatus.
+TaskStatus acts as a product for WritableFactory, which overrides.

@@ -1,0 +1,2 @@
+NullConsoleReader acts as a caretaker for memento String, which readers Loop.
+NullConsoleReader acts as a caretaker for memento S, which readers Loop.

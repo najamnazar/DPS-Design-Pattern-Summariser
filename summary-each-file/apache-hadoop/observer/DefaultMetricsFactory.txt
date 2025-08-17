@@ -1,0 +1,1 @@
+DefaultMetricsFactory acts as a publisher for observer MutableMetricsFactory, which is inherited by, which gets Annotated Metrics Factory, which gets Class<T> parameter of cls Instance, which sets MutableMetricsFactory parameter of factory Instance.

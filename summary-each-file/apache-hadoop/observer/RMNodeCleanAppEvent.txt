@@ -1,0 +1,1 @@
+RMNodeCleanAppEvent acts as an observer, which gets App Id.

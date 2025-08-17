@@ -1,0 +1,1 @@
+Reply acts as an observer for publisher Button, which is inherited by, which gets Title, which sets String parameter of title Title, which gets Id, which sets String parameter of id Id.

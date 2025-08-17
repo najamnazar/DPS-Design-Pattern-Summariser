@@ -1,0 +1,1 @@
+LabelStatementCompletionTest acts as a publisher for observer String, which suites, which test1FTEO9Ls, which tests In Case With Identifier, which tests In Case With Number Constant, which tests In Labeled Inner Class, which tests In Labeled Inner Class With Error Before, which tests One Level Deep, which tests Second Label, which tests Two Level Deep.

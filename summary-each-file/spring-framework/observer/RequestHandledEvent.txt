@@ -1,0 +1,1 @@
+RequestHandledEvent acts as an observer, which gets Processing Time Millis, which gets Session Id, which gets User Name, which is Failure, which gets Failure Cause, which gets Short Description, which gets Description, which tos String.

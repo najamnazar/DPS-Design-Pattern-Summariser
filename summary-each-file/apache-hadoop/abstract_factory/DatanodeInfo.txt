@@ -1,0 +1,3 @@
+DatanodeInfo acts as a product for InnerNode, which overrides toString method of Node, getName method of Node, getParent method of Node, getLevel method of Node, hashCode method of Node, equals method of Node.
+DatanodeInfo acts as a product for RMNode, which overrides toString method of Node, getName method of Node, getParent method of Node, getLevel method of Node, hashCode method of Node, equals method of Node.
+DatanodeInfo acts as a product for ClusterStory, which overrides toString method of Node, getName method of Node, getParent method of Node, getLevel method of Node, hashCode method of Node, equals method of Node.

@@ -1,0 +1,1 @@
+CommitterTestBinding acts as an adaptee for adapter ITestS3ACommitterMRJob, which adapts to AbstractYarnClusterITest, which adapts to AbstractYarnClusterITest, which adapts to AbstractYarnClusterITest, which adapts to AbstractYarnClusterITest.

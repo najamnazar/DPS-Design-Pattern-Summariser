@@ -1,0 +1,1 @@
+PerGpuUtilizations acts as an observer for publisher PerGpuDeviceInformation, which is inherited by, which gets Overall Gpu Utilization, which sets Float parameter of overallGpuUtilization Overall Gpu Utilization.

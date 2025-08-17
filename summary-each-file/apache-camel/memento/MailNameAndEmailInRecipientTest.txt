@@ -1,0 +1,2 @@
+MailNameAndEmailInRecipientTest acts as a caretaker for memento Producer, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.
+MailNameAndEmailInRecipientTest acts as a caretaker for memento Context, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.

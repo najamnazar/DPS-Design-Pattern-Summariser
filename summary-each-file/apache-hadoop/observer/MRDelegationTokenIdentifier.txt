@@ -1,0 +1,3 @@
+MRDelegationTokenIdentifier acts as an observer for publisher HistoryServerStateStoreService, HistoryServerMemStateStoreService, HistoryServerFileSystemStateStoreService, HistoryServerNullStateStoreService, HistoryServerLeveldbStateStoreService, which is inherited by, which gets Kind, which gets Kind.
+MRDelegationTokenIdentifier acts as a publisher for observer Text, which gets Kind, which gets Kind.
+MRDelegationTokenIdentifier acts as an observer, which gets Kind, which gets Kind.

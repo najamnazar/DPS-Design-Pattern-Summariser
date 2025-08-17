@@ -1,0 +1,1 @@
+MockNodeStatusUpdater acts as an adapter, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl.

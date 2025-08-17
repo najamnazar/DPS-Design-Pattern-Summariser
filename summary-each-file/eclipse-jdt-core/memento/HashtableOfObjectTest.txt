@@ -1,0 +1,2 @@
+HashtableOfObjectTest acts as a caretaker for memento String, which tests Calculate New Size, which tests Create New Table.
+HashtableOfObjectTest acts as a caretaker for memento S, which tests Calculate New Size, which tests Create New Table.

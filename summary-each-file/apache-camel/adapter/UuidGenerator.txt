@@ -1,0 +1,2 @@
+UuidGenerator acts as an adaptee for adapter DefaultCamelContext, which adapts to SimpleCamelContext, which adapts to SimpleCamelContext.
+UuidGenerator acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService.

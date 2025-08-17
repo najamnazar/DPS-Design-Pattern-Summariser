@@ -1,0 +1,2 @@
+FileUrlResource acts as an adapter, which adapts getFile method of WritableResource, getFile method of WritableResource, getFile method of WritableResource to UrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource.
+FileUrlResource acts as an adapter, which adapts getFile method of File, getFile method of File, getFile method of File to UrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource.

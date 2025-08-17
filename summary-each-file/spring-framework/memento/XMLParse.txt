@@ -1,0 +1,1 @@
+XMLParse acts as a caretaker for memento C, which accepts Context<?> parameter of ctx, which accepts Context<?> parameter of ctx, DocumentOrContent parameter of documentOrContent, Field<String> parameter of content Standard, which $contents, which $documents Or Content.

@@ -1,0 +1,1 @@
+RMNodeWrapper acts as a decorator for component RMNode, which is inherited by.

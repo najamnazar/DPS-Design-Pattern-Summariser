@@ -1,0 +1,3 @@
+BeanThatBroadcasts acts as a caretaker for memento C, which sets ApplicationContext parameter of applicationContext Application Context.
+BeanThatBroadcasts acts as a caretaker for memento ApplicationContext, which sets ApplicationContext parameter of applicationContext Application Context.
+BeanThatBroadcasts acts as a caretaker for memento A, which sets ApplicationContext parameter of applicationContext Application Context.

@@ -1,0 +1,2 @@
+ReservationAllocation acts as an abstract product for ReservationAllocation, which is inherited by InMemoryReservationAllocation.
+ReservationAllocation acts as an abstract factory for RLESparseResourceAllocation, ReservationId, ReservationDefinition, Resource, which is inherited by InMemoryReservationAllocation.

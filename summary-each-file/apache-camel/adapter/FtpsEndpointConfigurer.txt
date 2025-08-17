@@ -1,0 +1,1 @@
+FtpsEndpointConfigurer acts as an adapter, which adapts to FtpEndpointConfigurer, which adapts to FtpEndpointConfigurer, which adapts to FtpEndpointConfigurer, which adapts to FtpEndpointConfigurer.

@@ -1,0 +1,1 @@
+Jt400ConfigurationConnectionTest acts as a caretaker for memento Configuration, which sets Up, which tears Down, which tests System Name, which tests User Id, which tests Cssid, which tests Gui Available.

@@ -1,0 +1,1 @@
+MapFactoryBean acts as a caretaker for memento C, which sets Map<?, parameter of ?> Source Map, which sets @Nullable parameter of Class<? Target Map Class, which gets Object Type, which creates Instance.

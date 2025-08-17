@@ -1,0 +1,1 @@
+BinaryContainer acts as a caretaker for memento S, which is inherited by, which is Identifier, which is String parameter of className Valid Package Name For Class Oris Module.

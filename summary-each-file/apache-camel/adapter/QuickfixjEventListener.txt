@@ -1,0 +1,1 @@
+QuickfixjEventListener acts as an adaptee for adapter QuickfixjEndpoint, which adapts to DefaultEndpoint.

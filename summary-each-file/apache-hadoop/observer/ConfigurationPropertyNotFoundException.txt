@@ -1,0 +1,1 @@
+ConfigurationPropertyNotFoundException acts as an observer.

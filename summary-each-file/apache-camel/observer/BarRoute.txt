@@ -1,0 +1,7 @@
+BarRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+BarRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+BarRoute acts as a publisher for observer RoutesDefinition, which configures.
+BarRoute acts as an observer, which configures.
+BarRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+BarRoute acts as a publisher for observer Resource, which configures.
+BarRoute acts as a publisher for observer RestsDefinition, which configures.

@@ -1,0 +1,5 @@
+RestOpenApiV3SecuritySchemesTest acts as a publisher for observer Service, which creates Route Builder, which tests Security Schemes V3, which tests Security Schemes V2.
+RestOpenApiV3SecuritySchemesTest acts as a publisher for observer FluentProducerTemplate, which creates Route Builder, which tests Security Schemes V3, which tests Security Schemes V2.
+RestOpenApiV3SecuritySchemesTest acts as a publisher for observer ProducerTemplate, which creates Route Builder, which tests Security Schemes V3, which tests Security Schemes V2.
+RestOpenApiV3SecuritySchemesTest acts as a publisher for observer ConsumerTemplate, which creates Route Builder, which tests Security Schemes V3, which tests Security Schemes V2.
+RestOpenApiV3SecuritySchemesTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Security Schemes V3, which tests Security Schemes V2.

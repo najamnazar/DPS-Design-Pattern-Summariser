@@ -1,0 +1,1 @@
+FairSchedulerAppsBlock acts as an adapter, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock, which adapts to HtmlBlock.

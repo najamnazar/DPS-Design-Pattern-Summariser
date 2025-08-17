@@ -1,0 +1,2 @@
+UpdateMountTableEntryRequestPBImpl acts as a publisher for observer MountTable, which is inherited by, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance, which gets Entry, which sets MountTable parameter of mount Entry.
+UpdateMountTableEntryRequestPBImpl acts as a publisher for observer MountTable, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance, which gets Entry, which sets MountTable parameter of mount Entry.

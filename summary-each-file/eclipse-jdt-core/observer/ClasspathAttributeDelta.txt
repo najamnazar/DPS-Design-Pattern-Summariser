@@ -1,0 +1,1 @@
+ClasspathAttributeDelta acts as an observer, which gets Kind, which gets Attribute Name, which gets Attribute Value, which tos String, which gets IClasspathEntry parameter of oldClasspathEntry, IClasspathEntry parameter of newClasspathEntry Attribute Deltas, which gets IClasspathEntry parameter of classpathEntry Attributes.

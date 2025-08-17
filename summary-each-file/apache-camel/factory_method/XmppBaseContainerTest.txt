@@ -1,0 +1,1 @@
+XmppBaseContainerTest acts as a factory for FromRestConfigurationTest, which overrides.

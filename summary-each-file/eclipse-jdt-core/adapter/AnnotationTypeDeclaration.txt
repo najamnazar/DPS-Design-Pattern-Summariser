@@ -1,0 +1,2 @@
+AnnotationTypeDeclaration acts as an adaptee for adapter AnnotationDeclarationImpl, which adapts to InterfaceDeclarationImpl, which adapts to InterfaceDeclarationImpl, which adapts to InterfaceDeclarationImpl, which adapts to InterfaceDeclarationImpl, which adapts to InterfaceDeclarationImpl.
+AnnotationTypeDeclaration acts as an adapter, which adapts to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration.

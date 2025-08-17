@@ -1,0 +1,3 @@
+SharedCacheUploaderMetrics acts as a caretaker for memento SharedCacheUploaderMetrics, which gets Instance, which creates, which inces Accepted Uploads, which inces Rejected Uploads, which gets Accepted Uploads, which gets Reject Uploads.
+SharedCacheUploaderMetrics acts as an originator for memento SharedCacheUploaderMetrics, which gets a SharedCacheUploaderMetrics Instance to, which creates SharedCacheUploaderMetrics.
+SharedCacheUploaderMetrics acts as a memento, which gets Reject Uploads, which gets Reject Uploads, which gets Reject Uploads, which gets Reject Uploads, which gets Reject Uploads, which gets Reject Uploads.

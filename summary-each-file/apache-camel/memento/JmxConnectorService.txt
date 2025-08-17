@@ -1,0 +1,1 @@
+JmxConnectorService acts as a caretaker for memento Context, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which is Create Connector, which sets boolean parameter of createConnector Create Connector, which does Start, which does Stop, which creates String parameter of host Jmx Connector.

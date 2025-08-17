@@ -1,0 +1,1 @@
+CodeFormatter acts as a target for adapter DefaultCodeFormatter, which adapts to CodeFormatter, which adapts to CodeFormatter, which adapts to CodeFormatter, which adapts to CodeFormatter.

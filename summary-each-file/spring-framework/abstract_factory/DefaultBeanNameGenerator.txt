@@ -1,0 +1,1 @@
+DefaultBeanNameGenerator acts as a product for BeanDefinitionReader, which overrides generateBeanName method of BeanNameGenerator.

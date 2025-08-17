@@ -1,0 +1,1 @@
+NodeLabelsProvider acts as an observer for publisher NodeStatusUpdater, NodeStatusUpdaterImpl, which is inherited by ScriptBasedNodeLabelsProvider, ConfigurationNodeLabelsProvider.

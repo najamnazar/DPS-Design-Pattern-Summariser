@@ -1,0 +1,1 @@
+DefaultPulsarMessageReceiptFactory acts as an originator for memento PulsarMessageReceipt, which news a PulsarMessageReceipt Instance to.

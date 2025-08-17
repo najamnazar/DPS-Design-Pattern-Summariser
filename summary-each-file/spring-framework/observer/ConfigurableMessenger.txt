@@ -1,0 +1,1 @@
+ConfigurableMessenger acts as an observer, which sets String parameter of message Message.

@@ -1,0 +1,1 @@
+DefaultResourceTransformerChain acts as a caretaker for memento C, which inits ResourceResolverChain parameter of resolverChain, ArrayList<ResourceTransformer> parameter of transformers Transformer Chain, which gets Resolver Chain, which transforms HttpServletRequest parameter of request, Resource parameter of resource.

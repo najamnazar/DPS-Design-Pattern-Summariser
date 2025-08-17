@@ -1,0 +1,1 @@
+IgniteMessagingConsumer acts as a caretaker for memento HealthCheck, which applies UUID parameter of uuid, Object parameter of payload, which does Start, which does Stop.

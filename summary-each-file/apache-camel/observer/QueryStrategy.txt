@@ -1,0 +1,1 @@
+QueryStrategy acts as an observer for publisher GridFsEndpoint, which is inherited by.

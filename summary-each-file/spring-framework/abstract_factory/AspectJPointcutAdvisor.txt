@@ -1,0 +1,1 @@
+AspectJPointcutAdvisor acts as a factory for PointcutAdvisor, which overrides getPointcut method of PointcutAdvisor.

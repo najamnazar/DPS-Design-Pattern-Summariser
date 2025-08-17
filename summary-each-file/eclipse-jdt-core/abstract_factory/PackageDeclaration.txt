@@ -1,0 +1,1 @@
+PackageDeclaration acts as an abstract product for PackageDeclaration, which is inherited by PackageDeclarationImplNoBinding, AssistPackageDeclaration, PackageDeclarationImpl.

@@ -1,0 +1,2 @@
+PlatformTransactionManager acts as a factory for PlatformTransactionManagerFacade, which overrides.
+PlatformTransactionManager acts as an abstract product for EnableTransactionManagementTests, which is inherited by PlatformTransactionManagerFacade, AbstractPlatformTransactionManager.

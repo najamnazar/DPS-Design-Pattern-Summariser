@@ -1,0 +1,1 @@
+QueueCapacityUpdateContext acts as a publisher for observer QueueUpdateWarning, which is inherited by, which gets String parameter of label Updated Cluster Resource, which gets Updated Cluster Resource, which adds QueueUpdateWarning parameter of warning Update Warning, which gets Update Warnings.

@@ -1,0 +1,1 @@
+ManagedSetExchangePatternMBean acts as a memento, which gets Pattern.

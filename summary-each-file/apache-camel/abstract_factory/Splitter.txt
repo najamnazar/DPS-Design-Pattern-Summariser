@@ -1,0 +1,2 @@
+Splitter acts as a product for AnnotationBasedProcessorFactory, which overrides.
+Splitter acts as a product for InternalProcessorFactory, which overrides.

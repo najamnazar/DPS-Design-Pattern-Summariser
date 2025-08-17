@@ -1,0 +1,3 @@
+AlterDatabaseImpl acts as a factory for AlterDatabaseStep, which overrides.
+AlterDatabaseImpl acts as a product for AlterDatabaseStep, which overrides.
+AlterDatabaseImpl acts as a product for DSLContext, which overrides.

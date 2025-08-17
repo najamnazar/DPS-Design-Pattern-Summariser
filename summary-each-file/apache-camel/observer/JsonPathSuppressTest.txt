@@ -1,0 +1,5 @@
+JsonPathSuppressTest acts as a publisher for observer ProducerTemplate, which tests Middle, which tests No Middle, which creates Route Builder.
+JsonPathSuppressTest acts as a publisher for observer CamelContext, which tests Middle, which tests No Middle, which creates Route Builder.
+JsonPathSuppressTest acts as a publisher for observer FluentProducerTemplate, which tests Middle, which tests No Middle, which creates Route Builder.
+JsonPathSuppressTest acts as a publisher for observer ConsumerTemplate, which tests Middle, which tests No Middle, which creates Route Builder.
+JsonPathSuppressTest acts as a publisher for observer Service, which tests Middle, which tests No Middle, which creates Route Builder.

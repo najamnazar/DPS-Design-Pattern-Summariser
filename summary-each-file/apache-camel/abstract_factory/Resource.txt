@@ -1,0 +1,1 @@
+Resource acts as an abstract product for Resource, which is inherited by ResourceSupport, JettyClassPathResource.

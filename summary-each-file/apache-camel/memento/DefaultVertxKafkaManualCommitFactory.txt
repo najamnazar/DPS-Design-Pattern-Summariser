@@ -1,0 +1,1 @@
+DefaultVertxKafkaManualCommitFactory acts as an originator for memento VertxKafkaManualCommit, which creates VertxKafkaManualCommit.

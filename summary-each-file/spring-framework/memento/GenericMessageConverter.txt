@@ -1,0 +1,1 @@
+GenericMessageConverter acts as a caretaker for memento C, which froms Message<?> parameter of message, Class<?> parameter of targetClass Message.

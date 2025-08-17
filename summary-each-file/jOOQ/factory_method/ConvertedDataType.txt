@@ -1,0 +1,1 @@
+ConvertedDataType acts as a factory method for Collation, which is inherited by DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL, DSL.

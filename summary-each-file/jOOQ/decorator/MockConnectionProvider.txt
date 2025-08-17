@@ -1,0 +1,1 @@
+MockConnectionProvider acts as a decorator for component ConnectionProvider, which is inherited by.

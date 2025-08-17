@@ -1,0 +1,1 @@
+ManagedRecipientListMBean acts as a product for ManagedCamelContext, which overrides.

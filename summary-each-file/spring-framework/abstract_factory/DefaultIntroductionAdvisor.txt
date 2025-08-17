@@ -1,0 +1,3 @@
+DefaultIntroductionAdvisor acts as a product for IntroductionAdvisor, which overrides matches method of ClassFilter.
+DefaultIntroductionAdvisor acts as a product for Pointcut, which overrides matches method of ClassFilter.
+DefaultIntroductionAdvisor acts as a factory for IntroductionAdvisor, which overrides validateInterfaces method of IntroductionAdvisor, getClassFilter method of IntroductionAdvisor.

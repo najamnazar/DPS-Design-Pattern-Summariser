@@ -1,0 +1,2 @@
+RouteTemplateBeforeContextStartingTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Create Route From Route Template.
+RouteTemplateBeforeContextStartingTest acts as a publisher for observer Service, which is Use Route Builder, which tests Create Route From Route Template.

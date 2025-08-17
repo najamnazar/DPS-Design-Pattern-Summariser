@@ -1,0 +1,11 @@
+ModuleElement acts as a product for Element, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as a product for TypeParameterElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as an abstract product for ModuleElement, which is inherited by ModuleElementImpl.
+ModuleElement acts as an abstract factory for TypeMirror, TypeElement, Element, ModuleElement, PackageElement, Name, which is inherited by ModuleElementImpl.
+ModuleElement acts as a product for ModuleElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as an abstract product for ModuleElement, which is inherited by ModuleElementImpl, ModuleElementImpl.
+ModuleElement acts as a product for ExecutableElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as a product for RecordComponentElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as a product for TypeElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as a product for VariableElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.
+ModuleElement acts as a product for PackageElement, which overrides asType method of Element, getSimpleName method of Element, getEnclosedElements method of Element, getEnclosingElement method of Element.

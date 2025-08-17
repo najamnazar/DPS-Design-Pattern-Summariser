@@ -1,0 +1,1 @@
+WhatsAppWebhookProcessor acts as a caretaker for memento Configuration, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which parses Exchange parameter of exchange Query Param.

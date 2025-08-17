@@ -1,0 +1,1 @@
+CallMetaDataProvider acts as an abstract factory for SqlParameter, which is inherited by GenericCallMetaDataProvider.

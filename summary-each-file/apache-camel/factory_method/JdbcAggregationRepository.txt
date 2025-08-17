@@ -1,0 +1,3 @@
+JdbcAggregationRepository acts as a factory method for JdbcOptimisticLockingExceptionMapper, which is inherited by JdbcAggregationRepository, JdbcAggregationRepository.
+JdbcAggregationRepository acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+JdbcAggregationRepository acts as a factory for JdbcAggregationRepository, which overrides.

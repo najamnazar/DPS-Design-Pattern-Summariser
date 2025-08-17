@@ -1,0 +1,2 @@
+UnitOfWork acts as an abstract product for UnitOfWork, which is inherited by DefaultUnitOfWork.
+UnitOfWork acts as an abstract factory for UnitOfWork, Message, AsyncCallback, Route, which is inherited by DefaultUnitOfWork.

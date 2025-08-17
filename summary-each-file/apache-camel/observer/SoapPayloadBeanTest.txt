@@ -1,0 +1,5 @@
+SoapPayloadBeanTest acts as a publisher for observer CamelContext, which tests Soap Payload Bean, which creates Route Builder.
+SoapPayloadBeanTest acts as a publisher for observer FluentProducerTemplate, which tests Soap Payload Bean, which creates Route Builder.
+SoapPayloadBeanTest acts as a publisher for observer Service, which tests Soap Payload Bean, which creates Route Builder.
+SoapPayloadBeanTest acts as a publisher for observer ConsumerTemplate, which tests Soap Payload Bean, which creates Route Builder.
+SoapPayloadBeanTest acts as a publisher for observer ProducerTemplate, which tests Soap Payload Bean, which creates Route Builder.

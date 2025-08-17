@@ -1,0 +1,3 @@
+SampleAggregator acts as an adaptee for adapter EnricherTest, which adapts to ContextTestSupport.
+SampleAggregator acts as an adaptee for adapter PollEnricherTest, which adapts to ContextTestSupport.
+SampleAggregator acts as an adaptee for adapter PollEnricherLightweightTest, which adapts to ContextTestSupport.

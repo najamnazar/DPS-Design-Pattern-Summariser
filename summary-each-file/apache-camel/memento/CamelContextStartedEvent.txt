@@ -1,0 +1,1 @@
+CamelContextStartedEvent acts as a caretaker for memento Context, which tos String.

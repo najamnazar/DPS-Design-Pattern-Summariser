@@ -1,0 +1,1 @@
+JobPriority acts as an adaptee for adapter LoggedJob.

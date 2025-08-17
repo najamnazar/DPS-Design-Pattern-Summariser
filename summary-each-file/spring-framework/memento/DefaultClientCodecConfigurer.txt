@@ -1,0 +1,4 @@
+DefaultClientCodecConfigurer acts as a caretaker for memento B, which defaults Codecs, which clones, which clones Default Codecs, which gets Part Writers.
+DefaultClientCodecConfigurer acts as a caretaker for memento C, which defaults Codecs, which clones, which clones Default Codecs, which gets Part Writers.
+DefaultClientCodecConfigurer acts as a caretaker for memento Message, which defaults Codecs, which clones, which clones Default Codecs, which gets Part Writers.
+DefaultClientCodecConfigurer acts as a memento, which gets Part Writers, which gets Part Writers, which gets Part Writers, which gets Part Writers.

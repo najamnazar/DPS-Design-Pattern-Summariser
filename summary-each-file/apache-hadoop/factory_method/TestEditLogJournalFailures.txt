@@ -1,0 +1,1 @@
+TestEditLogJournalFailures acts as a factory method for JournalManager, which is inherited by FSEditLog.

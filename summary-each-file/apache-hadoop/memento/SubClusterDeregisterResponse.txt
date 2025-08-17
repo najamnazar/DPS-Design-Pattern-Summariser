@@ -1,0 +1,2 @@
+SubClusterDeregisterResponse acts as an originator for memento SubClusterDeregisterResponse, which is inherited by, which news a SubClusterDeregisterResponse Instance to.
+SubClusterDeregisterResponse acts as a memento, which is inherited by SubClusterDeregisterResponsePBImpl, which news Instance.

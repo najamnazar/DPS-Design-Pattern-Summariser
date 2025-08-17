@@ -1,0 +1,1 @@
+AbstractHandshakeHandler acts as a factory for JettySockJsIntegrationTests, which overrides.

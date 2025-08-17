@@ -1,0 +1,1 @@
+TestFcHdfsPermission acts as an adapter, which adapts to FileContextPermissionBase, which adapts to FileContextPermissionBase, which adapts to FileContextPermissionBase, which adapts to FileContextPermissionBase, which adapts to FileContextPermissionBase, which adapts to FileContextPermissionBase.

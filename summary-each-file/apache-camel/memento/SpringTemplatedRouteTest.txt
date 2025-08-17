@@ -1,0 +1,1 @@
+SpringTemplatedRouteTest acts as a caretaker for memento Context, which creates Application Context, which tests Define Route, which gets Name, which sets String parameter of name Name, which adds String parameter of body Name, which creates, which prefixes.

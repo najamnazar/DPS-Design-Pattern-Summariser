@@ -1,0 +1,2 @@
+XsltSaxonComponent acts as a product for XsltComponentBuilderFactory, which overrides configureEndpoint method of XsltComponent.
+XsltSaxonComponent acts as an abstract product for XsltSaxonComponent, which is inherited by XJComponent.

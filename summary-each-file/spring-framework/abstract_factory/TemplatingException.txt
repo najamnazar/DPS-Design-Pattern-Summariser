@@ -1,0 +1,4 @@
+TemplatingException acts as a product for ResultOrRows, which overrides.
+TemplatingException acts as a product for PersistenceExceptionTranslator, which overrides.
+TemplatingException acts as a product for LoaderError, which overrides.
+TemplatingException acts as a product for SQLExceptionTranslator, which overrides.

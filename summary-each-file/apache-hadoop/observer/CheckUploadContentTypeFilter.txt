@@ -1,0 +1,1 @@
+CheckUploadContentTypeFilter acts as an observer, which inits FilterConfig parameter of config, which does ServletRequest parameter of request, ServletResponse parameter of response, FilterChain parameter of chain Filter, which destroys.

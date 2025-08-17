@@ -1,0 +1,2 @@
+Translate2ComponentVerifierExtension acts as a publisher for observer Component, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.
+Translate2ComponentVerifierExtension acts as a publisher for observer CamelContext, which verifies Map<String, parameter of Object> Parameters, which verifies Map<String, parameter of Object> Connectivity.

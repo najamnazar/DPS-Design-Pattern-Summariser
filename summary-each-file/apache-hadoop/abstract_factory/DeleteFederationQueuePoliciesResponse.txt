@@ -1,0 +1,1 @@
+DeleteFederationQueuePoliciesResponse acts as an abstract product for DeleteFederationQueuePoliciesResponse, which is inherited by DeleteFederationQueuePoliciesResponsePBImpl.

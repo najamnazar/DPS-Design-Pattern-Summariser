@@ -1,0 +1,2 @@
+ScriptTest acts as a publisher for observer Service, which tests Script, which sets Up, which creates Route Builder.
+ScriptTest acts as a publisher for observer CamelContext, which tests Script, which sets Up, which creates Route Builder.

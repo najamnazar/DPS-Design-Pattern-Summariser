@@ -1,0 +1,1 @@
+BlockAlias acts as an abstract factory for Block, which is inherited by FileRegion.

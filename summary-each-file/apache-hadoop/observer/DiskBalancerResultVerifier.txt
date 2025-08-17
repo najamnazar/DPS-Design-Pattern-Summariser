@@ -1,0 +1,1 @@
+DiskBalancerResultVerifier acts as a publisher for observer DiskBalancerException, which is inherited by, which matches DiskBalancerException parameter of exception Safely, which describes Description parameter of description To.

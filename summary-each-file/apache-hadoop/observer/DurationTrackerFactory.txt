@@ -1,0 +1,1 @@
+DurationTrackerFactory acts as an observer for publisher S3AStoreImpl, which is inherited by CountersAndGauges, AbfsCounters, S3AStatisticInterface, StubDurationTrackerFactory, IOStatisticsStore, PairedDurationTrackerFactory, AbstractS3AStatisticsSource, which tracks String parameter of key, long parameter of count Duration, which tracks String parameter of key Duration.

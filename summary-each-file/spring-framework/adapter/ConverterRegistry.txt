@@ -1,0 +1,1 @@
+ConverterRegistry acts as an adaptee for adapter XStreamMarshaller, which adapts to AbstractMarshaller, which adapts to AbstractMarshaller, which adapts to AbstractMarshaller, which adapts to AbstractMarshaller, which adapts to AbstractMarshaller.

@@ -1,0 +1,3 @@
+WindowSpecificationRowsStep acts as a product for WindowSpecificationExcludeStep, which overrides.
+WindowSpecificationRowsStep acts as an abstract product for WindowSpecificationRowsStep, which is inherited by WindowSpecificationOrderByStep, WindowSpecificationOrderByStep.
+WindowSpecificationRowsStep acts as an abstract factory for WindowSpecificationRowsAndStep, WindowSpecificationExcludeStep, which is inherited by.

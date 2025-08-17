@@ -1,0 +1,1 @@
+MockFileSystem acts as an adapter, which adapts to FilterFileSystem, which adapts to FilterFileSystem, which adapts to FilterFileSystem, which adapts to FilterFileSystem, which adapts to FilterFileSystem, which adapts to FilterFileSystem.

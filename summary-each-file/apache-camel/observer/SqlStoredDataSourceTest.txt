@@ -1,0 +1,5 @@
+SqlStoredDataSourceTest acts as a publisher for observer ProducerTemplate, which creates Camel Registry, which tears Down, which shoulds Execute Stored Procedure, which creates Route Builder.
+SqlStoredDataSourceTest acts as a publisher for observer ConsumerTemplate, which creates Camel Registry, which tears Down, which shoulds Execute Stored Procedure, which creates Route Builder.
+SqlStoredDataSourceTest acts as a publisher for observer FluentProducerTemplate, which creates Camel Registry, which tears Down, which shoulds Execute Stored Procedure, which creates Route Builder.
+SqlStoredDataSourceTest acts as a publisher for observer CamelContext, which creates Camel Registry, which tears Down, which shoulds Execute Stored Procedure, which creates Route Builder.
+SqlStoredDataSourceTest acts as a publisher for observer Service, which creates Camel Registry, which tears Down, which shoulds Execute Stored Procedure, which creates Route Builder.

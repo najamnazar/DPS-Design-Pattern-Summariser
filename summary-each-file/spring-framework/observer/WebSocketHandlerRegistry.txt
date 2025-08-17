@@ -1,0 +1,2 @@
+WebSocketHandlerRegistry acts as an observer for publisher WebSocketConfigurationSupport, DelegatingWebSocketConfiguration, which is inherited by ServletWebSocketHandlerRegistry, which adds WebSocketHandler parameter of webSocketHandler, String... parameter of paths Handler.
+WebSocketHandlerRegistry acts as a publisher for observer WebSocketHandler, which is inherited by ServletWebSocketHandlerRegistry, which adds WebSocketHandler parameter of webSocketHandler, String... parameter of paths Handler.

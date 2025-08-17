@@ -1,0 +1,3 @@
+SshConsumer acts as a publisher for observer LoggingLevel, which does Start, which does Stop, which polls.
+SshConsumer acts as a publisher for observer PollingConsumerPollStrategy, which does Start, which does Stop, which polls.
+SshConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which does Start, which does Stop, which polls.

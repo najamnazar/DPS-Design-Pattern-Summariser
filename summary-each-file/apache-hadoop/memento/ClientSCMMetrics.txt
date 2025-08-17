@@ -1,0 +1,3 @@
+ClientSCMMetrics acts as a memento, which gets Cache Releases, which gets Cache Releases, which gets Cache Releases, which gets Cache Releases, which gets Cache Releases, which gets Cache Releases, which gets Cache Releases, which gets Cache Releases.
+ClientSCMMetrics acts as a caretaker for memento ClientSCMMetrics, which gets Instance, which creates, which inces Cache Hit Count, which inces Cache Miss Count, which inces Cache Release, which gets Cache Hits, which gets Cache Misses, which gets Cache Releases.
+ClientSCMMetrics acts as an originator for memento ClientSCMMetrics, which gets a ClientSCMMetrics Instance to, which creates ClientSCMMetrics.

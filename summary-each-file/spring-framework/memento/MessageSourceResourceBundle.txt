@@ -1,0 +1,1 @@
+MessageSourceResourceBundle acts as a caretaker for memento Message, which handles String parameter of key Get Object, which contains String parameter of key Key, which gets Keys, which gets Locale.

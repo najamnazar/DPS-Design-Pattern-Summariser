@@ -1,0 +1,1 @@
+DelegatingTransactionDefinition acts as a decorator for component TransactionDefinition, which is inherited by DelegatingTransactionAttribute.

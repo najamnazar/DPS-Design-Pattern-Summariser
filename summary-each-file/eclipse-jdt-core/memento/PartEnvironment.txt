@@ -1,0 +1,3 @@
+PartEnvironment acts as a caretaker for memento String, which has String parameter of value Category, which gets Resource File Name.
+PartEnvironment acts as a caretaker for memento S, which has String parameter of value Category, which gets Resource File Name.
+PartEnvironment acts as an originator for memento String, which has String parameter of value Category, which gets a String Resource File Name to.

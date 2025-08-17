@@ -1,0 +1,1 @@
+DelegatingMessageSource acts as a factory for HierarchicalMessageSource, which overrides setParentMessageSource method of HierarchicalMessageSource, getParentMessageSource method of HierarchicalMessageSource.

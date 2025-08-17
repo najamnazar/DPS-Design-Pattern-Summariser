@@ -1,0 +1,2 @@
+XMLPackageDefinition acts as a caretaker for memento A, which gets Routines0, which gets Constants0.
+XMLPackageDefinition acts as a caretaker for memento AttributeDefinition, which gets Routines0, which gets Constants0.

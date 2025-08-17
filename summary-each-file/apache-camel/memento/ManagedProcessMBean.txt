@@ -1,0 +1,1 @@
+ManagedProcessMBean acts as a memento, which gets Processor Class Name, which gets Processor Class Name.

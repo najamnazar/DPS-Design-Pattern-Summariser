@@ -1,0 +1,4 @@
+WindowSpecificationExcludeStep acts as a product for WindowSpecificationExcludeStep, which overrides.
+WindowSpecificationExcludeStep acts as an abstract factory for WindowSpecificationFinalStep, which is inherited by WindowSpecificationImpl.
+WindowSpecificationExcludeStep acts as an abstract product for WindowSpecificationExcludeStep, which is inherited by WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl.
+WindowSpecificationExcludeStep acts as an abstract product for WindowSpecificationExcludeStep, which is inherited by WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl, WindowSpecificationImpl.

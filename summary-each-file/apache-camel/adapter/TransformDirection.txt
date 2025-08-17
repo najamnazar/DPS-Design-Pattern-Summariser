@@ -1,0 +1,1 @@
+TransformDirection acts as an adaptee for adapter XJEndpoint.

@@ -1,0 +1,4 @@
+LanguageExpression acts as a publisher for observer ExpressionDefinition, which gets Language, which sets String parameter of language Language, which languages String parameter of language, which ends.
+LanguageExpression acts as a publisher for observer Expression, which gets Language, which sets String parameter of language Language, which languages String parameter of language, which ends.
+LanguageExpression acts as a publisher for observer Predicate, which gets Language, which sets String parameter of language Language, which languages String parameter of language, which ends.
+LanguageExpression acts as an observer, which gets Language, which sets String parameter of language Language, which languages String parameter of language, which ends.

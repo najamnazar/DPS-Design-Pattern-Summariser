@@ -1,0 +1,2 @@
+ITestAzureBlobFileSystemCLI acts as a publisher for observer AzureBlobFileSystem, which tests Mkdir Root Non Existent Container.
+ITestAzureBlobFileSystemCLI acts as a publisher for observer Configuration, which tests Mkdir Root Non Existent Container.

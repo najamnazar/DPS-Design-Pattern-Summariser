@@ -1,0 +1,1 @@
+MetaSQL acts as a publisher for observer SQLDialect, which is inherited by, which M_UNIQUE_KEYSs SQLDialect parameter of dialect, which M_SEQUENCESs SQLDialect parameter of dialect, which M_SEQUENCES_INCLUDING_SYSTEM_SEQUENCESs SQLDialect parameter of dialect.

@@ -1,0 +1,3 @@
+AttributeNamesConstants acts as an adaptee for adapter ClassFileReader.
+AttributeNamesConstants acts as an adaptee for adapter FieldInfo.
+AttributeNamesConstants acts as an adaptee for adapter MethodInfo.

@@ -1,0 +1,1 @@
+BindyAbstractDataFormat acts as a factory for DefaultFactoryRegistry, which overrides.

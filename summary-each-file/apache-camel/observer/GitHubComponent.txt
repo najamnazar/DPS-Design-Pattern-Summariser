@@ -1,0 +1,2 @@
+GitHubComponent acts as a publisher for observer ComponentExtension, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Oauth Token, which sets String parameter of oauthToken Oauth Token.
+GitHubComponent acts as a publisher for observer CamelContext, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Oauth Token, which sets String parameter of oauthToken Oauth Token.

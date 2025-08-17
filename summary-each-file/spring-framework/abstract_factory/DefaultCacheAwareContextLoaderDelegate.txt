@@ -1,0 +1,2 @@
+DefaultCacheAwareContextLoaderDelegate acts as a factory for CacheAwareContextLoaderDelegate, which overrides isContextLoaded method of CacheAwareContextLoaderDelegate, loadContext method of CacheAwareContextLoaderDelegate, closeContext method of CacheAwareContextLoaderDelegate.
+DefaultCacheAwareContextLoaderDelegate acts as a product for BootstrapContext, which overrides isContextLoaded method of CacheAwareContextLoaderDelegate, loadContext method of CacheAwareContextLoaderDelegate, closeContext method of CacheAwareContextLoaderDelegate.

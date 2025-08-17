@@ -1,0 +1,1 @@
+AbstractBeanFactoryBasedTargetSourceCreator acts as a factory for TargetSourceCreator, which overrides getTargetSource method of TargetSourceCreator.

@@ -1,0 +1,2 @@
+S3ARemoteObjectReader acts as an adaptee for adapter S3ACachingBlockManager, which adapts to CachingBlockManager, which adapts to CachingBlockManager, which adapts to CachingBlockManager, which adapts to CachingBlockManager.
+S3ARemoteObjectReader acts as an adaptee for adapter S3ABlockManager, which adapts to BlockManager, which adapts to BlockManager, which adapts to BlockManager, which adapts to BlockManager.

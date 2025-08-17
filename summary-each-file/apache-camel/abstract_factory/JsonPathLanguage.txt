@@ -1,0 +1,2 @@
+JsonPathLanguage acts as a product for ConfigurerResolver, which overrides configure method of PropertyConfigurer.
+JsonPathLanguage acts as a product for PropertyConfigurerAware, which overrides configure method of PropertyConfigurer.

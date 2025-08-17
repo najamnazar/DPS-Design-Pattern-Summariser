@@ -1,0 +1,1 @@
+WatchUpdatesConsumerTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts setMocks method of MockEndpoint to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,1 @@
+CombinedServiceFilter acts as an observer, which gets Delegates, which applies Exchange parameter of exchange, List<ServiceDefinition> parameter of services, which wraps ServiceFilter... parameter of delegates.

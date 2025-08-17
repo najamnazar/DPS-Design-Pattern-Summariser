@@ -1,0 +1,1 @@
+CamelPreemptiveClusterView acts as an abstract product for CamelPreemptiveClusterService, which is inherited by KubernetesClusterView.

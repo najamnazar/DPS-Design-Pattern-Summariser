@@ -1,0 +1,2 @@
+PackageDefinition acts as an originator for memento PackageDefinition.
+PackageDefinition acts as a memento, which is inherited by AbstractPackageDefinition, UDTDefinition, which gets Constants, which gets Constants, which gets Constants.

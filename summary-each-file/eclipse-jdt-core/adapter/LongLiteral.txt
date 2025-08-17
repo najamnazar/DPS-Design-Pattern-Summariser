@@ -1,0 +1,1 @@
+LongLiteral acts as a target for adapter LongLiteralMinValue, which adapts to LongLiteral, which adapts to LongLiteral, which adapts to LongLiteral, which adapts to LongLiteral, which adapts to LongLiteral, which adapts to LongLiteral.

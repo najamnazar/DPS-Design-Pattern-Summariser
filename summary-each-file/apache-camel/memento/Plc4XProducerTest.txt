@@ -1,0 +1,1 @@
+Plc4XProducerTest acts as a caretaker for memento Producer, which sets Up, which processes, which processes Async, which does Stop, which does Stop Open Request, which does Stop Bad Connection.

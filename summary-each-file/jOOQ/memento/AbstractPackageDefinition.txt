@@ -1,0 +1,4 @@
+AbstractPackageDefinition acts as a caretaker for memento PackageDefinition, which gets Definition Path, which gets Routines, which gets UDTs, which gets Routines0, which gets Constants, which gets Constants0.
+AbstractPackageDefinition acts as a memento, which gets Constants0, which gets Constants0, which gets Constants0, which gets Constants0, which gets Constants0, which gets Constants0.
+AbstractPackageDefinition acts as a caretaker for memento AttributeDefinition, which is inherited by, which gets Definition Path, which gets Routines, which gets UDTs, which gets Routines0, which gets Constants, which gets Constants0.
+AbstractPackageDefinition acts as a caretaker for memento Package, which gets Definition Path, which gets Routines, which gets UDTs, which gets Routines0, which gets Constants, which gets Constants0.

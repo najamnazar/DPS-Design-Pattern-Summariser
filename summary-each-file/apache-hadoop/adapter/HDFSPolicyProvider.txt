@@ -1,0 +1,2 @@
+HDFSPolicyProvider acts as a target for adapter RouterPolicyProvider, which adapts to HDFSPolicyProvider.
+HDFSPolicyProvider acts as an adapter, which adapts to PolicyProvider.

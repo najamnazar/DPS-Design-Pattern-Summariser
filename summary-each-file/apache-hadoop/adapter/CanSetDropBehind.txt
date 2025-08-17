@@ -1,0 +1,4 @@
+CanSetDropBehind acts as an adaptee for adapter CryptoInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+CanSetDropBehind acts as an adaptee for adapter DFSOutputStream, which adapts to FSOutputSummer.
+CanSetDropBehind acts as an adaptee for adapter DFSInputStream, which adapts to FSInputStream, ByteBufferReadable.
+CanSetDropBehind acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.

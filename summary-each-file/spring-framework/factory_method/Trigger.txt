@@ -1,0 +1,1 @@
+Trigger acts as an abstract product for TriggerTask, which is inherited by PeriodicTrigger, CronTrigger.

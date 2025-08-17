@@ -1,0 +1,1 @@
+StrictPreemptionContract acts as an observer for publisher PreemptionMessagePBImpl, which is inherited by StrictPreemptionContractPBImpl, which news Set<PreemptionContainer> parameter of containers Instance, which gets Containers, which sets Set<PreemptionContainer> parameter of containers Containers.

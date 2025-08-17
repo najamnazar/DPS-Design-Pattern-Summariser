@@ -1,0 +1,1 @@
+ProxyProducerInterface acts as an originator for memento Customer, which creates Customer parameter of customer Customer, which updates Customer parameter of customer Customer, which gets a Customer Customer Without Response to, which checks @QueryParam("c1") parameter of Integer, Customer parameter of customer If Customer Exists.

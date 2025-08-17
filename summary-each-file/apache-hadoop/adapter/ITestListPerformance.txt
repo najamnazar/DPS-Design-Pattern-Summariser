@@ -1,0 +1,1 @@
+ITestListPerformance acts as an adapter, which adapts to AbstractAzureScaleTest, which adapts createTestAccount method of Path to AbstractAzureScaleTest, which adapts to AbstractAzureScaleTest, which adapts to AbstractAzureScaleTest, which adapts to AbstractAzureScaleTest.

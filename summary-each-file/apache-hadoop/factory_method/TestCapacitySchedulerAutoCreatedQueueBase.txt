@@ -1,0 +1,1 @@
+TestCapacitySchedulerAutoCreatedQueueBase acts as a factory for TestCapacitySchedulerApps, which overrides.

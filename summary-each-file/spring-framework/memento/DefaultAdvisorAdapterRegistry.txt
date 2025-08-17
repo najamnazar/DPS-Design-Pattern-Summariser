@@ -1,0 +1,1 @@
+DefaultAdvisorAdapterRegistry acts as a caretaker for memento A, which wraps Object parameter of adviceObject, which gets Advisor parameter of advisor Interceptors, which registers AdvisorAdapter parameter of adapter Advisor Adapter.

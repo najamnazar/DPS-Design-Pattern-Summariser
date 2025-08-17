@@ -1,0 +1,1 @@
+DefaultTransportRequestTests acts as a publisher for observer Transport, which is inherited by, which setups, which connects, which fallbacks After Transport Error, which fallbacks After Timeout, which creates Transport parameter of transport, TransportType parameter of type Transport Request.

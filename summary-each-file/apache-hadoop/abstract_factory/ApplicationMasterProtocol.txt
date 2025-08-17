@@ -1,0 +1,1 @@
+ApplicationMasterProtocol acts as an abstract factory for AllocateResponse, RegisterApplicationMasterResponse, FinishApplicationMasterResponse, which is inherited by MockResourceManagerFacade, AMRMClientRelayer, ApplicationMasterProtocolPBClientImpl, ApplicationMasterService, AMRMProxyService.

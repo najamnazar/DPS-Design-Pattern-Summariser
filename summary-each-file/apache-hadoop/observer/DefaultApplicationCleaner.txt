@@ -1,0 +1,2 @@
+DefaultApplicationCleaner acts as a publisher for observer Configuration, which runs.
+DefaultApplicationCleaner acts as a publisher for observer GPGContext, which runs.

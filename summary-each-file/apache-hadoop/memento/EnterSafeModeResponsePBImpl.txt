@@ -1,0 +1,1 @@
+EnterSafeModeResponsePBImpl acts as a caretaker for memento SafeMode, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance, which gets Status, which sets boolean parameter of result Status.

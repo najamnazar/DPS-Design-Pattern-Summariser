@@ -1,0 +1,2 @@
+LoggingEventNotifierTest acts as a caretaker for memento Context, which uses Jmx, which creates Camel Context, which tests Exchange Done, which tests Exchange Failed, which creates Route Builder.
+LoggingEventNotifierTest acts as a caretaker for memento Producer, which uses Jmx, which creates Camel Context, which tests Exchange Done, which tests Exchange Failed, which creates Route Builder.

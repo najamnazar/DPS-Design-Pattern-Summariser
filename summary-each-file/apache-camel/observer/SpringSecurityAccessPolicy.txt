@@ -1,0 +1,1 @@
+SpringSecurityAccessPolicy acts as an observer for publisher SpringSecurityAuthorizationPolicy, which is inherited by, which gets Config Attributes.

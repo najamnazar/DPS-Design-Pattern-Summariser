@@ -1,0 +1,2 @@
+ArrayDefinition acts as a factory for ArrayDefinition, which overrides.
+ArrayDefinition acts as a factory method for DataTypeDefinition, which is inherited by AbstractDatabase, AbstractRoutineDefinition, AbstractDatabase, DomainDefinition, AbstractDatabase, AbstractRoutineDefinition, RoutineDefinition, AbstractDatabase, AbstractRoutineDefinition, AbstractDatabase, AbstractRoutineDefinition, AbstractRoutineDefinition, AbstractDatabase, AbstractDatabase, AbstractDatabase, AbstractDatabase, ArrayDefinition, AbstractDatabase, AbstractRoutineDefinition.

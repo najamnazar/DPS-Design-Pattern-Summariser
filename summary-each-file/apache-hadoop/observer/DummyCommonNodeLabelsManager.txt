@@ -1,0 +1,1 @@
+DummyCommonNodeLabelsManager acts as a publisher for observer NodeId, which inits Configuration parameter of conf Node Label Store, which inits Configuration parameter of conf Dispatcher, which starts Dispatcher, which stops Dispatcher, which services Stop.

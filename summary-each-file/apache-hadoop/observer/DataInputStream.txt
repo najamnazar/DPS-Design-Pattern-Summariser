@@ -1,0 +1,1 @@
+DataInputStream acts as an observer for publisher AggregatedLogFormat, which is inherited by DataInputBuffer, DataInputByteBuffer, ByteBufferDataReader, FSDataInputStream, which has Un Read Data.

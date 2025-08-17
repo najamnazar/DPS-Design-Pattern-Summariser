@@ -1,0 +1,2 @@
+EclipseAnnotationProcessorEnvironment acts as a factory for AbstractCompilationEnv, which overrides.
+EclipseAnnotationProcessorEnvironment acts as a factory for ASTRewritingTest, which overrides.

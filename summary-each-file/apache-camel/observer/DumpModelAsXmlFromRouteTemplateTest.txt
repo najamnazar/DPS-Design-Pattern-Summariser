@@ -1,0 +1,2 @@
+DumpModelAsXmlFromRouteTemplateTest acts as a publisher for observer CamelContext, which tests Dump Model As Xml, which tests Dump Model As Xml Resolve Placeholder, which creates Route Builder.
+DumpModelAsXmlFromRouteTemplateTest acts as a publisher for observer Service, which tests Dump Model As Xml, which tests Dump Model As Xml Resolve Placeholder, which creates Route Builder.

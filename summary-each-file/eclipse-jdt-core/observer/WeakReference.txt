@@ -1,0 +1,1 @@
+WeakReference acts as an observer.

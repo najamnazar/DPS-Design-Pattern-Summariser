@@ -1,0 +1,4 @@
+BaseFactory acts as a caretaker for memento C, which is inherited by, which supports Options, which supports Annotation Types.
+BaseFactory acts as an originator for memento AnnotationProcessor.
+BaseFactory acts as a caretaker for memento String, which is inherited by, which supports Options, which supports Annotation Types.
+BaseFactory acts as a caretaker for memento S, which is inherited by, which supports Options, which supports Annotation Types.

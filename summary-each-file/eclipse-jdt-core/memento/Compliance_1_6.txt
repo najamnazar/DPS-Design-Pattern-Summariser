@@ -1,0 +1,2 @@
+Compliance_1_6 acts as a caretaker for memento S, which suites, which test1s, which tests Class.
+Compliance_1_6 acts as a caretaker for memento String, which suites, which test1s, which tests Class.

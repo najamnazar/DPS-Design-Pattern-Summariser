@@ -1,0 +1,1 @@
+ReportType acts as an observer for publisher ReportMetadata, which is inherited by, which gets Type, which sets String parameter of type Type, which gets Label, which sets String parameter of label Label.

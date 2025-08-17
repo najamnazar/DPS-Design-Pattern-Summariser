@@ -1,0 +1,1 @@
+ParameterDefinition acts as an observer for publisher AbstractRoutineDefinition, PostgresRoutineDefinition, HSQLDBRoutineDefinition, XMLRoutineDefinition, MySQLRoutineDefinition, FirebirdRoutineDefinition, H2RoutineDefinition, which is inherited by DefaultParameterDefinition, which is Defaulted, which is Unnamed, which is Synthetic.

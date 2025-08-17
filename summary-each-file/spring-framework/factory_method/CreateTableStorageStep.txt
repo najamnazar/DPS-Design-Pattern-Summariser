@@ -1,0 +1,3 @@
+CreateTableStorageStep acts as a factory method for CreateTableFinalStep, which is inherited by CreateTableStorageStep, CreateTableStorageStep.
+CreateTableStorageStep acts as an abstract product for CreateTableCommentStep, which is inherited by CreateTableImpl.
+CreateTableStorageStep acts as a factory for CreateTableStorageStep, which overrides.

@@ -1,0 +1,1 @@
+DefaultPollingConsumerPollStrategy acts as a target for adapter LimitedPollingConsumerPollStrategy, which adapts to DefaultPollingConsumerPollStrategy, which adapts to DefaultPollingConsumerPollStrategy, which adapts to DefaultPollingConsumerPollStrategy.

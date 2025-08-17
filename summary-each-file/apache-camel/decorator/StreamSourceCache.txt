@@ -1,0 +1,1 @@
+StreamSourceCache acts as a decorator for component StreamCache, which is inherited by.

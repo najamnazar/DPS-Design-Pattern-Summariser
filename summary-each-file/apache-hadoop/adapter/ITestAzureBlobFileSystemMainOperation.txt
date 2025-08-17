@@ -1,0 +1,1 @@
+ITestAzureBlobFileSystemMainOperation acts as an adapter, which adapts to FSMainOperationsBaseTest, which adapts to FSMainOperationsBaseTest, which adapts to FSMainOperationsBaseTest, which adapts to FSMainOperationsBaseTest, which adapts to FSMainOperationsBaseTest.

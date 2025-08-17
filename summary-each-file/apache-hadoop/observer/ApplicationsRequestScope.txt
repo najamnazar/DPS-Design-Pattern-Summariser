@@ -1,0 +1,1 @@
+ApplicationsRequestScope acts as an observer for publisher GetApplicationsRequest, GetApplicationsRequestPBImpl, which is inherited by.

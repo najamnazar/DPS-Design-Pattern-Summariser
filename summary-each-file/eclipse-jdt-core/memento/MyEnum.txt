@@ -1,0 +1,2 @@
+MyEnum acts as a caretaker for memento S, which gets Public Field.
+MyEnum acts as a caretaker for memento String, which gets Public Field.

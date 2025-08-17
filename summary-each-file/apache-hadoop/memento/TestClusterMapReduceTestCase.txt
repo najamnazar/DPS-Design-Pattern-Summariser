@@ -1,0 +1,1 @@
+TestClusterMapReduceTestCase acts as a caretaker for memento MiniMRClientCluster, which setups Class, which _tests boolean parameter of restart Map Reduce, which tests Map Reduce, which tests Map Reduce Restarting, which tests DFSRestart, which tests MRConfig.

@@ -1,0 +1,1 @@
+RouteHealthCheck acts as a publisher for observer CamelContext, which is Liveness, which does HealthCheckResultBuilder parameter of builder, Map<String, parameter of Object> Call, which does HealthCheckResultBuilder parameter of builder, Map<String, parameter of Object> Call Check.

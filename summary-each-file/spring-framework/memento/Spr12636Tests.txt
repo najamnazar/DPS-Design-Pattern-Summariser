@@ -1,0 +1,4 @@
+Spr12636Tests acts as a caretaker for memento ApplicationContext, which closes Context, which orders On Implementation, which orders On Implementation With Proxy, which does It, which does It, which does It.
+Spr12636Tests acts as a caretaker for memento C, which closes Context, which orders On Implementation, which orders On Implementation With Proxy, which does It, which does It, which does It.
+Spr12636Tests acts as a caretaker for memento A, which closes Context, which orders On Implementation, which orders On Implementation With Proxy, which does It, which does It, which does It.
+Spr12636Tests acts as a caretaker for memento User, which closes Context, which orders On Implementation, which orders On Implementation With Proxy, which does It, which does It, which does It.

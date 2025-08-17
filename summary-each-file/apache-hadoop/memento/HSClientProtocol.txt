@@ -1,0 +1,5 @@
+HSClientProtocol acts as an originator for memento KillJobResponse.
+HSClientProtocol acts as an originator for memento CancelDelegationTokenResponse.
+HSClientProtocol acts as an originator for memento FailTaskAttemptResponse.
+HSClientProtocol acts as an originator for memento KillTaskResponse.
+HSClientProtocol acts as an originator for memento KillTaskAttemptResponse.

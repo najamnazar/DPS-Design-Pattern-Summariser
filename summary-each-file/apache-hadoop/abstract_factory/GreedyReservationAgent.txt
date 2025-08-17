@@ -1,0 +1,1 @@
+GreedyReservationAgent acts as a product for PlanContext, which overrides init method of ReservationAgent, createReservation method of ReservationAgent, updateReservation method of ReservationAgent, deleteReservation method of ReservationAgent.

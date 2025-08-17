@@ -1,0 +1,1 @@
+AnnotationElementDeclarationImpl acts as a factory for AnnotationTypeElementDeclaration, which overrides getDeclaringType method of AnnotationTypeElementDeclaration, getDefaultValue method of AnnotationTypeElementDeclaration.

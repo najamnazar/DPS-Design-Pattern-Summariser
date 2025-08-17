@@ -1,0 +1,3 @@
+CacheInterceptor acts as a caretaker for memento A, which invokes final parameter of MethodInvocation.
+CacheInterceptor acts as a caretaker for memento B, which invokes final parameter of MethodInvocation.
+CacheInterceptor acts as a caretaker for memento C, which invokes final parameter of MethodInvocation.

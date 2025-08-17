@@ -1,0 +1,1 @@
+FlowInfo acts as an abstract product for FlowInfo, which is inherited by UnconditionalFlowInfo, ConditionalFlowInfo.

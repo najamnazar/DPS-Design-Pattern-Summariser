@@ -1,0 +1,1 @@
+ScopedProxyBeanDefinitionDecorator acts as an observer, which decorates Node parameter of node, BeanDefinitionHolder parameter of definition, ParserContext parameter of parserContext.

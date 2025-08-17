@@ -1,0 +1,1 @@
+IJavaSearchResultCollector acts as an observer for publisher SearchEngine, which is inherited by, which abouts To Start, which accepts IResource parameter of resource, int parameter of start, int parameter of end, IJavaElement parameter of enclosingElement, int parameter of accuracy, which does, which gets Progress Monitor.

@@ -1,0 +1,1 @@
+JSONTableColumnsFirstStep acts as an originator for memento JSONTableColumnForOrdinalityStep, which is inherited by, which columns JSONTableColumnForOrdinalityStep, which columns JSONTableColumnForOrdinalityStep.

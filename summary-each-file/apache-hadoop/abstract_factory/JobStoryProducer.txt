@@ -1,0 +1,1 @@
+JobStoryProducer acts as an abstract factory for JobStory, which is inherited by ZombieJobProducer, DebugJobProducer, SynthTraceJobProducer.

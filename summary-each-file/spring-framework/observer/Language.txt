@@ -1,0 +1,1 @@
+Language acts as an observer for publisher DefaultGeneratorStrategy, JVMArgsGeneratorStrategy, JPrefixGeneratorStrategy, MatcherStrategy, ClassLoaderAwareGeneratorStrategy, KeepNamesGeneratorStrategy, which is inherited by.

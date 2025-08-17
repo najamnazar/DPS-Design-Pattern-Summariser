@@ -1,0 +1,1 @@
+CxfRsSpringEndpoint acts as a product for CxfRsEndpointFactoryBean, which overrides newJAXRSServerFactoryBean method of CxfRsEndpoint, newJAXRSClientFactoryBean method of CxfRsEndpoint, setupJAXRSClientFactoryBean method of CxfRsEndpoint, getBeanId method of CxfRsEndpoint.

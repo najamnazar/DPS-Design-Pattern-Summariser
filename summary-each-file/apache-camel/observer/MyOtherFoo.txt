@@ -1,0 +1,1 @@
+MyOtherFoo acts as an observer for publisher PropertyBindingSupportRootArrayReflectionTest, which is inherited by, which gets Bars, which sets List<MyOtherBar> parameter of bars Bars.

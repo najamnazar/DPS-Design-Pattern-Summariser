@@ -1,0 +1,2 @@
+PropertyPlaceholderDefaultValueTest acts as a publisher for observer Service, which tests Using Default Value, which creates Route Builder.
+PropertyPlaceholderDefaultValueTest acts as a publisher for observer CamelContext, which tests Using Default Value, which creates Route Builder.

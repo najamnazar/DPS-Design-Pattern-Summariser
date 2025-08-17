@@ -1,0 +1,1 @@
+CandidateComponentsMetadata acts as a publisher for observer ItemMetadata, which is inherited by, which adds ItemMetadata parameter of item, which gets Items, which tos String.

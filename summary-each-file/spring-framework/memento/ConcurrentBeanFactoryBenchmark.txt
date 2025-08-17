@@ -1,0 +1,1 @@
+ConcurrentBeanFactoryBenchmark acts as a caretaker for memento B, which setups, which concurrents BenchmarkState parameter of state, Blackhole parameter of bh Bean Creation, which gets Date, which sets Date parameter of date Date.

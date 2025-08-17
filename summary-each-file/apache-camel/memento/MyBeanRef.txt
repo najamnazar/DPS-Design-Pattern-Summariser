@@ -1,0 +1,1 @@
+MyBeanRef acts as a caretaker for memento Producer, which does String parameter of body Something.

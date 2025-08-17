@@ -1,0 +1,1 @@
+CouchDbConsumer acts as a caretaker for memento HealthCheck, which sets ResumeStrategy parameter of resumeStrategy Resume Strategy, which gets Resume Strategy, which creates String parameter of seq, String parameter of id, JsonObject parameter of obj, boolean parameter of deleted Exchange, which does Start, which does Stop.

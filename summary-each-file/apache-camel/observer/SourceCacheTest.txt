@@ -1,0 +1,2 @@
+SourceCacheTest acts as a publisher for observer CamelContext, which tests Source Cache.
+SourceCacheTest acts as a publisher for observer Service, which tests Source Cache.

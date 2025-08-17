@@ -1,0 +1,2 @@
+CharArrayHashMap acts as a caretaker for memento Map, which values, which keyses, which contains char[] parameter of key Key, which gets char[] parameter of key, which puts char[] parameter of key, V parameter of value, which sizes, which tos String.
+CharArrayHashMap acts as a caretaker for memento C, which values, which keyses, which contains char[] parameter of key Key, which gets char[] parameter of key, which puts char[] parameter of key, V parameter of value, which sizes, which tos String.

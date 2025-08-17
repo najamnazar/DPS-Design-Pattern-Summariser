@@ -1,0 +1,2 @@
+AbstractFallbackTransactionAttributeSource acts as a product for TransactionAttributeSourceAdvisor, which overrides getTransactionAttribute method of TransactionAttributeSource.
+AbstractFallbackTransactionAttributeSource acts as a factory for MapTransactionAttributeSource, which overrides.

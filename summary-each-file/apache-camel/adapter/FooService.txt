@@ -1,0 +1,1 @@
+FooService acts as an adaptee for adapter CamelProduceInterfaceEventNotifierTest, which adapts to ContextTestSupport.

@@ -1,0 +1,1 @@
+MetaProvider acts as a memento, which is inherited by InformationSchemaMetaProvider, CatalogMetaProvider, TableMetaProvider, SchemaMetaProvider, SourceMetaProvider, InterpreterMetaProvider, TranslatingMetaProvider, DefaultMetaProvider, which provides.

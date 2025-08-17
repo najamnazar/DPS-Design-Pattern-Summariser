@@ -1,0 +1,1 @@
+FreeGeoIpGeoLocationProvider acts as an observer, which gets Current Geo Location.

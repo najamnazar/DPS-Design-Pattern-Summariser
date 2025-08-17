@@ -1,0 +1,2 @@
+RouteWithConstantFieldFromExchangeTest acts as a publisher for observer CamelContext, which tests Ok, which creates Route Builder.
+RouteWithConstantFieldFromExchangeTest acts as a publisher for observer Service, which tests Ok, which creates Route Builder.

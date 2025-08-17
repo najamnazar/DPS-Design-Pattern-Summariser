@@ -1,0 +1,2 @@
+LoopDoWhileTest acts as a publisher for observer CamelContext, which tests Loop Do While Simple, which tests Loop Do While Functional, which creates Route Builder.
+LoopDoWhileTest acts as a publisher for observer Service, which tests Loop Do While Simple, which tests Loop Do While Functional, which creates Route Builder.

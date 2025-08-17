@@ -1,0 +1,1 @@
+BeanMethod acts as an observer for publisher ConfigurationClass, which is inherited by, which validates ProblemReporter parameter of problemReporter, which equals @Nullable parameter of Object, which hashes Code, which tos String.

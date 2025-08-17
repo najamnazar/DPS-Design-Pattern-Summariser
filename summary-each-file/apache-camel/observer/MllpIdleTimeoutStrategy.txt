@@ -1,0 +1,1 @@
+MllpIdleTimeoutStrategy acts as an observer for publisher MllpConfiguration, which is inherited by.

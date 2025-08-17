@@ -1,0 +1,2 @@
+AppForTest acts as a publisher for observer Job, which sets Job parameter of job Job, which sets Task parameter of task Task.
+AppForTest acts as a publisher for observer Task, which sets Job parameter of job Job, which sets Task parameter of task Task.

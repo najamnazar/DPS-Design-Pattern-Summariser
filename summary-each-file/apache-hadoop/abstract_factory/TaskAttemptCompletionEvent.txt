@@ -1,0 +1,2 @@
+TaskAttemptCompletionEvent acts as an abstract factory for TaskAttemptId, which is inherited by TaskAttemptCompletionEventPBImpl.
+TaskAttemptCompletionEvent acts as an abstract product for TaskAttemptCompletionEvent, which is inherited by TaskAttemptCompletionEventPBImpl.

@@ -1,0 +1,1 @@
+InOnlyDefinition acts as a memento, which gets Pattern, which gets Pattern, which gets Pattern, which gets Pattern.

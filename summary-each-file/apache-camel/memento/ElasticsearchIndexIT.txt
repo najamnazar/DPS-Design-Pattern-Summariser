@@ -1,0 +1,1 @@
+ElasticsearchIndexIT acts as a caretaker for memento Context, which tests Index, which tests Index Delete With Builder, which tests Index Delete With String, which tests Index With Headers, which tests Index With IDIn Header, which tests Exists, which creates Route Builder.

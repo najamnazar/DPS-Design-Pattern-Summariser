@@ -1,0 +1,1 @@
+ApplicationEventPublisherAware acts as a publisher for observer ApplicationEventPublisher, which is inherited by StompSubProtocolHandler, EventPublicationInterceptor, which sets ApplicationEventPublisher parameter of applicationEventPublisher Application Event Publisher.

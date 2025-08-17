@@ -1,0 +1,4 @@
+StaticFinalTests acts as a caretaker for memento E, which suites, which tests Boolean, which tests Byte, which tests Char, which tests Double, which tests Float, which tests Int, which tests Long, which tests Short, which tests String.
+StaticFinalTests acts as a caretaker for memento C, which suites, which tests Boolean, which tests Byte, which tests Char, which tests Double, which tests Float, which tests Int, which tests Long, which tests Short, which tests String.
+StaticFinalTests acts as a caretaker for memento Test, which suites, which tests Boolean, which tests Byte, which tests Char, which tests Double, which tests Float, which tests Int, which tests Long, which tests Short, which tests String.
+StaticFinalTests acts as a caretaker for memento R, which suites, which tests Boolean, which tests Byte, which tests Char, which tests Double, which tests Float, which tests Int, which tests Long, which tests Short, which tests String.

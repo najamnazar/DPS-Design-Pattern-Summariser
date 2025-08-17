@@ -1,0 +1,2 @@
+SqlRowSet acts as a factory for ResultSetWrappingSqlRowSet, which overrides.
+SqlRowSet acts as an abstract product for JdbcOperations, which is inherited by ResultSetWrappingSqlRowSet.

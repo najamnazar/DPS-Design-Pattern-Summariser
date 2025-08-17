@@ -1,0 +1,1 @@
+LocalFileSystemPathHandle acts as an observer, which gets Path, which verifies FileStatus parameter of stat, which byteses, which equals Object parameter of o, which hashes Code, which tos String.

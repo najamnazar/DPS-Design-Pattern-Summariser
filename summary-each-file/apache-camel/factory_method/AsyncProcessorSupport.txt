@@ -1,0 +1,1 @@
+AsyncProcessorSupport acts as a product for RoundRobinLoadBalancer, which overrides processAsync method of AsyncProcessor.

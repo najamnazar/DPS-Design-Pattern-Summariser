@@ -1,0 +1,2 @@
+FileConvertBodyToUTF8Test acts as a publisher for observer CamelContext, which tests File UTF8.
+FileConvertBodyToUTF8Test acts as a publisher for observer Service, which tests File UTF8.

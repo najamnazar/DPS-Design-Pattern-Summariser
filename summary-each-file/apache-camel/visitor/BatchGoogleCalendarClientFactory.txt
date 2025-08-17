@@ -1,0 +1,1 @@
+BatchGoogleCalendarClientFactory acts as a visitor for element ExtendedCamelContext, which overrides, which makes a Client to, which authorizes String parameter of clientId, String parameter of clientSecret, which authorizes a Service Account to, which makes a Client to, which authorizes a Service Account to.

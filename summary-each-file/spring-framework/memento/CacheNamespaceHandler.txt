@@ -1,0 +1,1 @@
+CacheNamespaceHandler acts as a caretaker for memento B, which extracts Element parameter of element Cache Manager, which parses Element parameter of element, BeanDefinition parameter of def Key Generator, which inits.

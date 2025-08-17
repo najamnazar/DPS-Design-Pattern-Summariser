@@ -1,0 +1,2 @@
+EventPublicationTests acts as a caretaker for memento C, which sets Up, which defaultses Event Received, which beans Event Received, which aliases Event Received, which imports Event Received.
+EventPublicationTests acts as a caretaker for memento B, which sets Up, which defaultses Event Received, which beans Event Received, which aliases Event Received, which imports Event Received.

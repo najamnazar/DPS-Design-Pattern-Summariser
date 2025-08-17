@@ -1,0 +1,3 @@
+ReplaceLabelsOnNodeResponsePBImpl acts as an originator for memento ReplaceLabelsOnNodeResponse.
+ReplaceLabelsOnNodeResponsePBImpl acts as a caretaker for memento ReplaceLabelsOnNodeResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+ReplaceLabelsOnNodeResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.

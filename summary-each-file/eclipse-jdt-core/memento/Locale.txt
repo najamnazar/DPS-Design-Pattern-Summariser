@@ -1,0 +1,2 @@
+Locale acts as a memento, which gets Default.
+Locale acts as an originator for memento Locale, which gets a Locale Default to.

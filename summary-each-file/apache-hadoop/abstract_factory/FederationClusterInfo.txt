@@ -1,0 +1,2 @@
+FederationClusterInfo acts as a product for AppContext, which overrides.
+FederationClusterInfo acts as a product for RMWebServiceProtocol, which overrides.

@@ -1,0 +1,1 @@
+RowCountCallbackHandler acts as an observer, which processes ResultSet parameter of rs Row, which processes ResultSet parameter of rs, int parameter of rowNum Row, which gets Column Types, which gets Column Names, which gets Row Count, which gets Column Count.

@@ -1,0 +1,5 @@
+Name acts as a factory for CommonTableExpression, which overrides.
+Name acts as a factory method for DerivedColumnList22, which is inherited by Name.
+Name acts as an abstract product for Xmlpi, which is inherited by AbstractName.
+Name acts as a factory for Name, which overrides.
+Name acts as a factory for Xmlpi, which overrides equals method of Xmlpi, compareTo method of Xmlpi.

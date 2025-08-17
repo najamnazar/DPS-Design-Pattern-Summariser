@@ -1,0 +1,1 @@
+TestLineInputFormat acts as a publisher for observer JobConf, which is inherited by, which tests Format, which checks JobConf parameter of job, int parameter of expectedN Format, which mains String[] parameter of args.

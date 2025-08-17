@@ -1,0 +1,1 @@
+Etcd3ServiceDiscoveryIT acts as a caretaker for memento Configuration, which does Pre Setup, which cleanups Resources, which tests On Demand Discovery, which tests Watch Discovery, which adds String parameter of name Server.

@@ -1,0 +1,2 @@
+AdviceWithMockEndpointsHavingParameterTest acts as a publisher for observer CamelContext, which tests No Advised, which tests Advised Mock Endpoints, which creates Route Builder.
+AdviceWithMockEndpointsHavingParameterTest acts as a publisher for observer Service, which tests No Advised, which tests Advised Mock Endpoints, which creates Route Builder.

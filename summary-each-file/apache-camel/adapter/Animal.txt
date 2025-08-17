@@ -1,0 +1,4 @@
+Animal acts as an adaptee for adapter BeanParameterValueOgnlTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Animal acts as an adaptee for adapter PropertyBindingSupportFlattenTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Animal acts as an adaptee for adapter OriginalSimpleTest, which adapts to LanguageTestSupport, which adapts to LanguageTestSupport, which adapts to LanguageTestSupport.
+Animal acts as an adaptee for adapter PropertyBindingSupportTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

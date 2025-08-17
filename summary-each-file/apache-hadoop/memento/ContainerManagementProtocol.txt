@@ -1,0 +1,6 @@
+ContainerManagementProtocol acts as an originator for memento RollbackResponse, which is inherited by, which rollbacks a RollbackResponse Last Re Initialization to.
+ContainerManagementProtocol acts as an originator for memento CommitResponse, which is inherited by, which commits a CommitResponse Last Re Initialization to.
+ContainerManagementProtocol acts as an originator for memento RestartContainerResponse, which is inherited by, which restarts a RestartContainerResponse Container to.
+ContainerManagementProtocol acts as an originator for memento ResourceLocalizationResponse, which is inherited by, which localizes ResourceLocalizationResponse.
+ContainerManagementProtocol acts as an originator for memento SignalContainerResponse, which is inherited by, which signals a SignalContainerResponse To Container to.
+ContainerManagementProtocol acts as an originator for memento ReInitializeContainerResponse, which is inherited by, which res a ReInitializeContainerResponse Initialize Container to.

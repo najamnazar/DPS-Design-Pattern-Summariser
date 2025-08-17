@@ -1,0 +1,2 @@
+ImageLoader acts as an abstract product for ImageLoader, which is inherited by ImageLoaderCurrent.
+ImageLoader acts as an abstract factory for ImageLoader, which is inherited by ImageLoaderCurrent.

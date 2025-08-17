@@ -1,0 +1,1 @@
+DigitalOceanProducer acts as a caretaker for memento Configuration, which is inherited by, which determines Exchange parameter of exchange Operation, which gets Endpoint.

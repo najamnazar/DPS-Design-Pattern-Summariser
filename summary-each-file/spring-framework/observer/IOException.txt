@@ -1,0 +1,1 @@
+IOException acts as an observer for publisher AtAspectJAfterThrowingTests, which is inherited by NestedIOException, which gets Cause, which inits Throwable parameter of cause Cause.

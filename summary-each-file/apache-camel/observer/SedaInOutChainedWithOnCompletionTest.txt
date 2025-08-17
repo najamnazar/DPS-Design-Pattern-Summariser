@@ -1,0 +1,2 @@
+SedaInOutChainedWithOnCompletionTest acts as a publisher for observer CamelContext, which tests In Out Seda Chained With Custom On Completion, which creates Route Builder.
+SedaInOutChainedWithOnCompletionTest acts as a publisher for observer Service, which tests In Out Seda Chained With Custom On Completion, which creates Route Builder.

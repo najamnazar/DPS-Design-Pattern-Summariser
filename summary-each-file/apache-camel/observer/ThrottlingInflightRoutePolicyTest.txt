@@ -1,0 +1,2 @@
+ThrottlingInflightRoutePolicyTest acts as a publisher for observer CamelContext, which tests Throttling Route Policy, which creates Route Builder.
+ThrottlingInflightRoutePolicyTest acts as a publisher for observer Service, which tests Throttling Route Policy, which creates Route Builder.

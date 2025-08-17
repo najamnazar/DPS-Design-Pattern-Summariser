@@ -1,0 +1,1 @@
+ScheduledJob acts as a publisher for observer OperationEnum, which executes JobExecutionContext parameter of jobExecutionContext, which gets JobExecutionContext parameter of jobExecutionContext Scheduler Context.

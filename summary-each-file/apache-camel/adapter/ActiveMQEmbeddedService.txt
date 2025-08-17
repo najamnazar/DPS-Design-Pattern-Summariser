@@ -1,0 +1,4 @@
+ActiveMQEmbeddedService acts as an adaptee for adapter DlqTest, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.
+ActiveMQEmbeddedService acts as an adaptee for adapter MllpTcpServerConsumerTransactionTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+ActiveMQEmbeddedService acts as an adaptee for adapter JmsBridge, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.
+ActiveMQEmbeddedService acts as an adaptee for adapter TransactedConsumeTest, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.

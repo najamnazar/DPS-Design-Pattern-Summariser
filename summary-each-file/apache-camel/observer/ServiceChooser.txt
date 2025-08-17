@@ -1,0 +1,1 @@
+ServiceChooser acts as an observer for publisher ServiceCallConfigurationDefinition, which is inherited by RandomServiceChooser, RoundRobinServiceChooser, which chooses List<ServiceDefinition> parameter of services.

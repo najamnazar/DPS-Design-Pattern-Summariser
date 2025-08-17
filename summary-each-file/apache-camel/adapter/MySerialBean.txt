@@ -1,0 +1,1 @@
+MySerialBean acts as an adaptee for adapter DefaultCamelBeanPostProcessorTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

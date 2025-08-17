@@ -1,0 +1,1 @@
+Job acts as an originator for memento JobState, which is inherited by, which gets a JobState State to.

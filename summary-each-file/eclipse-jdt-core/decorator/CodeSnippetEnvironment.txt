@@ -1,0 +1,1 @@
+CodeSnippetEnvironment acts as a decorator for component INameEnvironment, which is inherited by.

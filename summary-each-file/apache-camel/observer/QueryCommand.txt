@@ -1,0 +1,1 @@
+QueryCommand acts as a publisher for observer Exchange, which executes, which determines Scan Index Forward, which determines Key Conditions.

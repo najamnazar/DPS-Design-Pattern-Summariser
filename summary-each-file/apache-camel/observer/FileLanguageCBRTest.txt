@@ -1,0 +1,2 @@
+FileLanguageCBRTest acts as a publisher for observer CamelContext, which tests Txt, which tests Dat, which tests Other, which creates Route Builder.
+FileLanguageCBRTest acts as a publisher for observer Service, which tests Txt, which tests Dat, which tests Other, which creates Route Builder.

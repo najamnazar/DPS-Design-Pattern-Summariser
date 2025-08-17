@@ -1,0 +1,2 @@
+FileProducerMoveExistingStrategyTest acts as a caretaker for memento Context, which creates Registry, which tests Existing File Exists, which moves GenericFileEndpoint parameter of endpoint, GenericFileOperations parameter of operations, String parameter of fileName Existing File.
+FileProducerMoveExistingStrategyTest acts as a caretaker for memento Producer, which creates Registry, which tests Existing File Exists, which moves GenericFileEndpoint parameter of endpoint, GenericFileOperations parameter of operations, String parameter of fileName Existing File.

@@ -1,0 +1,2 @@
+DefaultConsumerCacheTest acts as a publisher for observer Service, which tests Cache Consumers.
+DefaultConsumerCacheTest acts as a publisher for observer CamelContext, which tests Cache Consumers.

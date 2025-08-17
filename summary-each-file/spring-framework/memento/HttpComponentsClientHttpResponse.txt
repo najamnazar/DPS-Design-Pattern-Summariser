@@ -1,0 +1,6 @@
+HttpComponentsClientHttpResponse acts as a memento, which gets Headers, which gets Headers, which gets Headers, which gets Headers, which gets Headers, which gets Headers.
+HttpComponentsClientHttpResponse acts as a caretaker for memento A, which gets Status Code, which gets Raw Status Code, which gets Cookies, which gets Cookie parameter of cookie Max Age Seconds, which gets Body, which gets Headers.
+HttpComponentsClientHttpResponse acts as a caretaker for memento C, which gets Status Code, which gets Raw Status Code, which gets Cookies, which gets Cookie parameter of cookie Max Age Seconds, which gets Body, which gets Headers.
+HttpComponentsClientHttpResponse acts as a caretaker for memento B, which gets Status Code, which gets Raw Status Code, which gets Cookies, which gets Cookie parameter of cookie Max Age Seconds, which gets Body, which gets Headers.
+HttpComponentsClientHttpResponse acts as a caretaker for memento Headers, which gets Status Code, which gets Raw Status Code, which gets Cookies, which gets Cookie parameter of cookie Max Age Seconds, which gets Body, which gets Headers.
+HttpComponentsClientHttpResponse acts as a caretaker for memento Message, which gets Status Code, which gets Raw Status Code, which gets Cookies, which gets Cookie parameter of cookie Max Age Seconds, which gets Body, which gets Headers.

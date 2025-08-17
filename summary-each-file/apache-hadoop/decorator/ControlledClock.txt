@@ -1,0 +1,1 @@
+ControlledClock acts as a decorator for component Clock, which is inherited by.

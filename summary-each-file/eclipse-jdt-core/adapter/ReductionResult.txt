@@ -1,0 +1,1 @@
+ReductionResult acts as a target for adapter TypeBound, which adapts to ReductionResult, which adapts to ReductionResult, which adapts to ReductionResult, which adapts to ReductionResult, which adapts relationToString method of InferenceVariable to ReductionResult.

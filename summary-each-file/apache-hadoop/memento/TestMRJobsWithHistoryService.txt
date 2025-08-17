@@ -1,0 +1,1 @@
+TestMRJobsWithHistoryService acts as a caretaker for memento RMAppState, which setups, which tears Down, which tests Job History Data, which verifies JobReport parameter of jobReport, JobId parameter of jobId Job Report, which instantiates History Proxy.

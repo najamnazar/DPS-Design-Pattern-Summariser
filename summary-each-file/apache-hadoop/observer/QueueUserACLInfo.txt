@@ -1,0 +1,1 @@
+QueueUserACLInfo acts as an observer for publisher GetQueueUserAclsInfoResponsePBImpl, which is inherited by QueueUserACLInfoPBImpl, which news String parameter of queueName, List<QueueACL> parameter of acls Instance, which gets Queue Name, which sets String parameter of queueName Queue Name, which gets User Acls, which sets List<QueueACL> parameter of acls User Acls.

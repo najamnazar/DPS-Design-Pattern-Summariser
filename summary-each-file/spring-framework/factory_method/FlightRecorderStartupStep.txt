@@ -1,0 +1,2 @@
+FlightRecorderStartupStep acts as a factory method for StartupStep, which is inherited by StartupStep, ApplicationStartup, ApplicationStartup.
+FlightRecorderStartupStep acts as a product for FlightRecorderStartupStep, which overrides getName method of StartupStep, getId method of StartupStep, getParentId method of StartupStep, tag method of StartupStep, tag method of StartupStep, getTags method of StartupStep, end method of StartupStep, getKey method of StartupStep, getValue method of StartupStep.

@@ -1,0 +1,3 @@
+ContextHierarchyInterfaceTests acts as a caretaker for memento A, which loads Context Hierarchy.
+ContextHierarchyInterfaceTests acts as a caretaker for memento C, which loads Context Hierarchy.
+ContextHierarchyInterfaceTests acts as a caretaker for memento ApplicationContext, which loads Context Hierarchy.

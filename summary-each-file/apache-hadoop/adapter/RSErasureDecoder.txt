@@ -1,0 +1,1 @@
+RSErasureDecoder acts as an adapter, which adapts to ErasureDecoder, which adapts to ErasureDecoder, which adapts to ErasureDecoder.

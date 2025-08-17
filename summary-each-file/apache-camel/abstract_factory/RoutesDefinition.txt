@@ -1,0 +1,2 @@
+RoutesDefinition acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+RoutesDefinition acts as a factory for ResourceAware, which overrides.

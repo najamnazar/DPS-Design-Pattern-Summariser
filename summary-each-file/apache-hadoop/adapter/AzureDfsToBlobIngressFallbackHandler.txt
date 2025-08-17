@@ -1,0 +1,1 @@
+AzureDfsToBlobIngressFallbackHandler acts as an adapter, which adapts to AzureDFSIngressHandler, which adapts to AzureDFSIngressHandler, which adapts to AzureDFSIngressHandler, which adapts to AzureDFSIngressHandler, which adapts to AzureDFSIngressHandler, which adapts to AzureDFSIngressHandler.

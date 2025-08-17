@@ -1,0 +1,1 @@
+PooledDataBuffer acts as an adaptee for adapter LeakAwareDataBuffer, which adapts to DataBufferWrapper, which adapts to DataBufferWrapper, which adapts to DataBufferWrapper, which adapts to DataBufferWrapper.

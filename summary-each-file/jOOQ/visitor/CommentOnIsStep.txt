@@ -1,0 +1,24 @@
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by DropDomainImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by CommitsImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by ConstraintImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by CallbackExecuteListener, FetchServerOutputListener, ExecuteListeners, StopWatchListener, ExceptionTranslator, LoggerListener, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as an element for visitor CommentOnIsStep, which is inherited by CommentOnImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by Geography, Geometry, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by WithImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by AbstractName, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by DefaultBookService, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by XMLQuery, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by AlterTableImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by DefaultRecordListenerProvider, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by CommentImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by ScopeMarker, AbstractQueryPart, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by CommitImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by Like, NotSimilarTo, QuantifiedComparisonCondition, SimilarTo, NotLike, NotLikeIgnoreCase, LikeIgnoreCase, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by VersionsImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by FilesImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by CaseImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by DefaultExecutorProvider, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by AbstractAttachableQueryPart, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by DefaultDataTypeDefinition, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.
+CommentOnIsStep acts as a visitor for element CommentOnIsStep, which is inherited by WindowSpecificationImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.

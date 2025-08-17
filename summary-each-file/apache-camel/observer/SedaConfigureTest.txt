@@ -1,0 +1,2 @@
+SedaConfigureTest acts as a publisher for observer CamelContext, which tests Blocking Queue Configured, which tests Concurrent Consumers Configured, which tests Block When Full, which tests Defaults.
+SedaConfigureTest acts as a publisher for observer Service, which tests Blocking Queue Configured, which tests Concurrent Consumers Configured, which tests Block When Full, which tests Defaults.

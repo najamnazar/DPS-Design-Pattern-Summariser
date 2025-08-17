@@ -1,0 +1,2 @@
+OnExceptionCallSubRouteNoErrorHandlerTest acts as a publisher for observer CamelContext, which tests On Exception Call Sub Route No Error Handler, which creates Route Builder.
+OnExceptionCallSubRouteNoErrorHandlerTest acts as a publisher for observer Service, which tests On Exception Call Sub Route No Error Handler, which creates Route Builder.

@@ -1,0 +1,2 @@
+FromRestGetContentTypeTest acts as a publisher for observer CamelContext, which creates Registry, which tests From Rest Model Content Type, which creates Route Builder.
+FromRestGetContentTypeTest acts as a publisher for observer Service, which creates Registry, which tests From Rest Model Content Type, which creates Route Builder.

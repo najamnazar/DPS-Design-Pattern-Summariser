@@ -1,0 +1,1 @@
+VersionPBImpl acts as an observer, which gets Proto, which maybes Init Builder, which gets Major Version, which sets int parameter of major Major Version, which gets Minor Version, which sets int parameter of minor Minor Version.

@@ -1,0 +1,2 @@
+AbstractRouterFunctionIntegrationTests acts as a target for adapter LocaleContextResolverIntegrationTests, which adapts to AbstractRouterFunctionIntegrationTests, which adapts to AbstractRouterFunctionIntegrationTests, which adapts to AbstractRouterFunctionIntegrationTests.
+AbstractRouterFunctionIntegrationTests acts as a target for adapter RenderingResponseIntegrationTests, which adapts to AbstractRouterFunctionIntegrationTests, which adapts to AbstractRouterFunctionIntegrationTests, which adapts to AbstractRouterFunctionIntegrationTests.

@@ -1,0 +1,2 @@
+ListableBeanFactory acts as a product for HierarchicalBeanFactory, which overrides.
+ListableBeanFactory acts as an abstract factory for A, which is inherited by StaticListableBeanFactory.

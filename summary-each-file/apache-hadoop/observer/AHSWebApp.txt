@@ -1,0 +1,3 @@
+AHSWebApp acts as an observer, which gets Application History Client Service, which gets Timeline Data Manager, which setups, which gets Web App Filter Class.
+AHSWebApp acts as a publisher for observer HttpServer2, which gets Application History Client Service, which gets Timeline Data Manager, which setups, which gets Web App Filter Class.
+AHSWebApp acts as a publisher for observer Configuration, which gets Application History Client Service, which gets Timeline Data Manager, which setups, which gets Web App Filter Class.

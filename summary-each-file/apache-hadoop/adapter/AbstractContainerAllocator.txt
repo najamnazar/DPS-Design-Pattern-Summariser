@@ -1,0 +1,1 @@
+AbstractContainerAllocator acts as an adaptee for adapter FiCaSchedulerApp, which adapts to SchedulerApplicationAttempt, which adapts to SchedulerApplicationAttempt.

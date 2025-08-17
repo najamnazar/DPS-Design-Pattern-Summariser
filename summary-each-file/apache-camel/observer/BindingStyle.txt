@@ -1,0 +1,1 @@
+BindingStyle acts as an observer for publisher CxfRsEndpoint, CxfRsSpringEndpoint, which is inherited by.

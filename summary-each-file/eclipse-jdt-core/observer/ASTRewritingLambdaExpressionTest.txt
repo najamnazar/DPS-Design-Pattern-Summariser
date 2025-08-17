@@ -1,0 +1,1 @@
+ASTRewritingLambdaExpressionTest acts as a publisher for observer String, which suites, which tests Lambda Expressions_since_8, which tests Lambda Expressions_Parentheses_since_8.

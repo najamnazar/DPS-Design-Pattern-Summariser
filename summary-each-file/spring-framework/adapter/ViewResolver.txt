@@ -1,0 +1,1 @@
+ViewResolver acts as an adaptee for adapter ContentNegotiatingViewResolver, which adapts to WebApplicationObjectSupport.

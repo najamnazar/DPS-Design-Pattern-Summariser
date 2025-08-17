@@ -1,0 +1,2 @@
+DockerEventsConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which processes Initial Event, which does Start, which does Stop, which ons Event parameter of event Next.
+DockerEventsConsumer acts as a caretaker for memento Component, which gets Endpoint, which processes Initial Event, which does Start, which does Stop, which ons Event parameter of event Next.

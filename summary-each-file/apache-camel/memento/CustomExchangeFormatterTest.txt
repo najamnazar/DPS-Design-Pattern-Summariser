@@ -1,0 +1,1 @@
+CustomExchangeFormatterTest acts as a caretaker for memento Context, which tests Exchange Formatters Configured Properly, which creates Application Context.

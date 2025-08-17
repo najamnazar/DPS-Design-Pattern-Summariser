@@ -1,0 +1,2 @@
+Versions acts as an abstract factory for Version, which is inherited by VersionsImpl.
+Versions acts as an abstract product for Versions, which is inherited by VersionsImpl.

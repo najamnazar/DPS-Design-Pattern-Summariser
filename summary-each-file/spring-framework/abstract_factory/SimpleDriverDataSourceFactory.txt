@@ -1,0 +1,1 @@
+SimpleDriverDataSourceFactory acts as a factory for DataSourceFactory, which overrides getConnectionProperties method of DataSourceFactory, getDataSource method of DataSourceFactory.

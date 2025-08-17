@@ -1,0 +1,1 @@
+SingleFilePerBlockCache acts as a product for CachingBlockManager, which overrides containsBlock method of BlockCache, blocks method of BlockCache, size method of BlockCache, get method of BlockCache, put method of BlockCache.

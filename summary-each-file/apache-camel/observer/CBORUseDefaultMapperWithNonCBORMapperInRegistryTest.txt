@@ -1,0 +1,5 @@
+CBORUseDefaultMapperWithNonCBORMapperInRegistryTest acts as a publisher for observer Service, which unmarshals Should Ignore The Non CBORMapper From Registry, which creates Route Builder.
+CBORUseDefaultMapperWithNonCBORMapperInRegistryTest acts as a publisher for observer CamelContext, which unmarshals Should Ignore The Non CBORMapper From Registry, which creates Route Builder.
+CBORUseDefaultMapperWithNonCBORMapperInRegistryTest acts as a publisher for observer ProducerTemplate, which unmarshals Should Ignore The Non CBORMapper From Registry, which creates Route Builder.
+CBORUseDefaultMapperWithNonCBORMapperInRegistryTest acts as a publisher for observer ConsumerTemplate, which unmarshals Should Ignore The Non CBORMapper From Registry, which creates Route Builder.
+CBORUseDefaultMapperWithNonCBORMapperInRegistryTest acts as a publisher for observer FluentProducerTemplate, which unmarshals Should Ignore The Non CBORMapper From Registry, which creates Route Builder.

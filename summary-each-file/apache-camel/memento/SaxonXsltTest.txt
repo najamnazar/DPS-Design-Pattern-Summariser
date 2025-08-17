@@ -1,0 +1,1 @@
+SaxonXsltTest acts as a caretaker for memento Context, which creates Application Context, which tests Send Message And Have It Transformed.

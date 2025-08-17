@@ -1,0 +1,1 @@
+DataAccessException acts as an abstract product for DataAccessException, which is inherited by LoaderConfigurationException, DataMigrationException, DataDefinitionException, ParserException, IOException, ConfigurationException, MappingException, DataTypeException, InvalidResultException, DetachedException, TemplatingException, DataChangedException, MockFileDatabaseException.

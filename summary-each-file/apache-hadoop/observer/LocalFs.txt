@@ -1,0 +1,1 @@
+LocalFs acts as a publisher for observer FSDataInputStream.

@@ -1,0 +1,3 @@
+Comparator acts as a memento, which supports Subselect, which supports Subselect, which supports Subselect, which supports Subselect, which supports Subselect, which supports Subselect, which supports Subselect.
+Comparator acts as a caretaker for memento Keyword, which tos SQL, which tos Keyword, which inverses, which mirrors, which supports Nulls, which supports Quantifier, which supports Subselect.
+Comparator acts as an originator for memento Comparator, which inverses Comparator, which mirrors Comparator.

@@ -1,0 +1,1 @@
+SecureSocketProtocolsParameters acts as an observer for publisher BaseSSLContextParameters, SSLContextServerParameters, SSLContextClientParameters, SSLContextParameters, which is inherited by, which gets Secure Socket Protocol, which sets List<String> parameter of secureSocketProtocol Secure Socket Protocol, which tos String.

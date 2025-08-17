@@ -1,0 +1,1 @@
+HandlerAssertionTests acts as a caretaker for memento C, which handlers Type, which methods Call On Non Mock, which methods Call, which methods Name, which methods Name Matchers, which methods, which performs Request, which handles.

@@ -1,0 +1,2 @@
+OptionalPropertiesDslTest acts as a publisher for observer CamelContext, which tests Placeholder Dsl Test, which creates Route Builder, which creates Camel Context.
+OptionalPropertiesDslTest acts as a publisher for observer Service, which tests Placeholder Dsl Test, which creates Route Builder, which creates Camel Context.

@@ -1,0 +1,4 @@
+EnumDeclaration acts as a product for AnnotationProcessorEnvironment, which overrides.
+EnumDeclaration acts as a product for MemberDeclaration, which overrides.
+EnumDeclaration acts as an abstract product for EnumDeclaration, which is inherited by EnumDeclarationImpl.
+EnumDeclaration acts as a product for DeclaredType, which overrides.

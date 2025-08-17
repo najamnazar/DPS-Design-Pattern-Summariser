@@ -1,0 +1,1 @@
+CamelCronService acts as an adaptee for adapter CronComponent, which adapts to DefaultComponent.

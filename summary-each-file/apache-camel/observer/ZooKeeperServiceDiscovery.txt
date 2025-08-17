@@ -1,0 +1,1 @@
+ZooKeeperServiceDiscovery acts as a publisher for observer CamelContext, which does Start, which does Stop, which gets String parameter of name Services.

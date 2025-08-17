@@ -1,0 +1,1 @@
+ReservationSubmissionResponse acts as an abstract product for ReservationSubmissionResponse, which is inherited by ReservationSubmissionResponsePBImpl.

@@ -1,0 +1,2 @@
+LoadRestFromXmlTest acts as a publisher for observer CamelContext, which creates Registry, which tests Load Rests Definition From Xml, which creates Route Builder.
+LoadRestFromXmlTest acts as a publisher for observer Service, which creates Registry, which tests Load Rests Definition From Xml, which creates Route Builder.

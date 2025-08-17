@@ -1,0 +1,3 @@
+TemplateParserContext acts as a publisher for observer CompositeComponentDefinition, which is Template, which gets Expression Prefix, which gets Expression Suffix.
+TemplateParserContext acts as a publisher for observer ComponentDefinition, which is Template, which gets Expression Prefix, which gets Expression Suffix.
+TemplateParserContext acts as an observer, which is Template, which gets Expression Prefix, which gets Expression Suffix.

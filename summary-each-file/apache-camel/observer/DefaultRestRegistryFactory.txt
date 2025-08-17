@@ -1,0 +1,1 @@
+DefaultRestRegistryFactory acts as an observer, which creates Registry.

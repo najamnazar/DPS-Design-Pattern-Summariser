@@ -1,0 +1,2 @@
+ZookeeperGroupSupport acts as a factory for ZookeeperGroupSupport, which overrides.
+ZookeeperGroupSupport acts as a factory method for ManagedGroupFactoryStrategy, which is inherited by ZookeeperGroupSupport.

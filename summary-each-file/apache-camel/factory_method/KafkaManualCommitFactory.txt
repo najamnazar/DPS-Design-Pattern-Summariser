@@ -1,0 +1,2 @@
+KafkaManualCommitFactory acts as a factory for KafkaManualCommitFactory, which overrides.
+KafkaManualCommitFactory acts as a factory method for KafkaManualCommit, which is inherited by AbstractCommitManager, AbstractCommitManager, AbstractCommitManager, CommitManager, KafkaManualCommitFactory, KafkaManualCommitFactory, AbstractCommitManager.

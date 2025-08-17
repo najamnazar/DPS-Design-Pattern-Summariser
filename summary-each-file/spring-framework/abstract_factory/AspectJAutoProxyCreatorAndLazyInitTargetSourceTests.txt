@@ -1,0 +1,3 @@
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a product for TestBeanAwareMessenger, which overrides.
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a product for XmlBeanFactoryTestTypes, which overrides.
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a product for ContextScriptBean, which overrides.

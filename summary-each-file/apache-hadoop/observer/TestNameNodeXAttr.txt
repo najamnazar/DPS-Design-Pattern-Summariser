@@ -1,0 +1,3 @@
+TestNameNodeXAttr acts as a publisher for observer UserGroupInformation, which tests XAttr Symlinks.
+TestNameNodeXAttr acts as a publisher for observer Path, which tests XAttr Symlinks.
+TestNameNodeXAttr acts as a publisher for observer FileSystem, which tests XAttr Symlinks.

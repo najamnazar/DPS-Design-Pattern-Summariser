@@ -1,0 +1,1 @@
+InvalidUriException acts as an observer.

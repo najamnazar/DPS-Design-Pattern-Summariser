@@ -1,0 +1,1 @@
+ManagementStatisticsLevel acts as a memento, which is Extended, which is Extended.

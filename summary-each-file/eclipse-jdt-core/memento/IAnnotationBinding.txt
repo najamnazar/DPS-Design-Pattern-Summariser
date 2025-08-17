@@ -1,0 +1,1 @@
+IAnnotationBinding acts as a memento, which is inherited by AnnotationBinding, which gets Name, which gets Name, which gets Name, which gets Name.

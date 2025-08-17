@@ -1,0 +1,1 @@
+ManagedSamplingThrottlerMBean acts as a memento, which gets Time Unit, which gets Time Unit, which gets Time Unit.

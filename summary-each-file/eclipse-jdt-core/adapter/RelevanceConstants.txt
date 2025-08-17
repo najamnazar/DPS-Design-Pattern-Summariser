@@ -1,0 +1,4 @@
+RelevanceConstants acts as an adaptee for adapter SnippetCompletionTests.
+RelevanceConstants acts as an adaptee for adapter CompletionEngine.
+RelevanceConstants acts as an adaptee for adapter AbstractJavaModelCompletionTests.
+RelevanceConstants acts as an adaptee for adapter SnippetCompletionTests_1_5.

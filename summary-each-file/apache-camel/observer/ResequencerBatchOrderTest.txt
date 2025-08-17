@@ -1,0 +1,2 @@
+ResequencerBatchOrderTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Resequencer Batch, which tests int parameter of i Iteration.
+ResequencerBatchOrderTest acts as a publisher for observer Service, which creates Route Builder, which tests Resequencer Batch, which tests int parameter of i Iteration.

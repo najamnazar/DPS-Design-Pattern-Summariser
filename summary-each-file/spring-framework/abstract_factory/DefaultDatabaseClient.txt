@@ -1,0 +1,2 @@
+DefaultDatabaseClient acts as a product for DatabaseClient, which overrides getConnectionFactory method of DatabaseClient, sql method of DatabaseClient, sql method of DatabaseClient, fetch method of DatabaseClient, then method of DatabaseClient.
+DefaultDatabaseClient acts as a factory for DatabaseClient, which overrides getConnectionFactory method of DatabaseClient, sql method of DatabaseClient, sql method of DatabaseClient, fetch method of DatabaseClient, then method of DatabaseClient.

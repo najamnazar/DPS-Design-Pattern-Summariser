@@ -1,0 +1,1 @@
+JobStory acts as an abstract product for JobFactory, which is inherited by SynthJob, ZombieJob.

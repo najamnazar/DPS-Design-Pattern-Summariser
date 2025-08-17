@@ -1,0 +1,1 @@
+RegionPerformanceTests acts as an adapter, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase.

@@ -1,0 +1,1 @@
+DataType acts as an abstract factory for Row, CharacterSet, Collation, which is inherited by.

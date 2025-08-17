@@ -1,0 +1,1 @@
+MutableRates acts as an observer, which inits Class<?> parameter of protocol, which adds String parameter of name, long parameter of elapsed, which snapshots MetricsRecordBuilder parameter of rb, boolean parameter of all.

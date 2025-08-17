@@ -1,0 +1,1 @@
+Plan acts as an observer for publisher TestInMemoryPlan, which is inherited by InMemoryPlan.

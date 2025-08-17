@@ -1,0 +1,1 @@
+HistoryEventHandler acts as an adaptee for adapter JobHistoryCopyService, which adapts to CompositeService.

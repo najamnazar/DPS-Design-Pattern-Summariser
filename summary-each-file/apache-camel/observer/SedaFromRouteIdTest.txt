@@ -1,0 +1,2 @@
+SedaFromRouteIdTest acts as a publisher for observer CamelContext, which tests Seda From Route Id, which creates Route Builder.
+SedaFromRouteIdTest acts as a publisher for observer Service, which tests Seda From Route Id, which creates Route Builder.

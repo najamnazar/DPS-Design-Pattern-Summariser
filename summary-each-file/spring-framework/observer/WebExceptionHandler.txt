@@ -1,0 +1,1 @@
+WebExceptionHandler acts as an observer for publisher DefaultHandlerStrategiesBuilder, which is inherited by ResponseStatusExceptionHandler, which handles ServerWebExchange parameter of exchange, Throwable parameter of ex.

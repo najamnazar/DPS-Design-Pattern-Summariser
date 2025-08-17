@@ -1,0 +1,1 @@
+ISourceModule acts as a subsystem for facade ITypeRequestor, which accept method of ITypeRequestor calls getCompilationUnit.

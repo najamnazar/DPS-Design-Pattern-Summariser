@@ -1,0 +1,2 @@
+AutowireCapableBeanFactory acts as a product for HierarchicalBeanFactory, which overrides.
+AutowireCapableBeanFactory acts as an abstract product for AutowireCapableBeanFactory, which is inherited by AbstractAutowireCapableBeanFactory, ConfigurableListableBeanFactory.

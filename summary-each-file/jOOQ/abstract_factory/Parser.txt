@@ -1,0 +1,2 @@
+Parser acts as an abstract factory for Condition, Queries, Query, Statement, Row, Name, which is inherited by ParserImpl.
+Parser acts as an abstract product for Parser, which is inherited by ParserImpl.

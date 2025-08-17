@@ -1,0 +1,1 @@
+StandardPersonService acts as a factory for PersonService, which overrides findByName method of PersonService, save method of PersonService.

@@ -1,0 +1,2 @@
+Comparators acts as a caretaker for memento Index, which compares Key<?> parameter of o1, Key<?> parameter of o2, which compares ForeignKey<?, parameter of ?>, ForeignKey<?, parameter of ?>, which compares Index parameter of o1, Index parameter of o2.
+Comparators acts as a caretaker for memento Comparator, which compares Key<?> parameter of o1, Key<?> parameter of o2, which compares ForeignKey<?, parameter of ?>, ForeignKey<?, parameter of ?>, which compares Index parameter of o1, Index parameter of o2.

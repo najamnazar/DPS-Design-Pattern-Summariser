@@ -1,0 +1,1 @@
+DDLQuery acts as a memento.

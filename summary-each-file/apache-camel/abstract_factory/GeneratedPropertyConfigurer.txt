@@ -1,0 +1,2 @@
+GeneratedPropertyConfigurer acts as a product for ConfigurerResolver, which overrides.
+GeneratedPropertyConfigurer acts as a product for PropertyConfigurerAware, which overrides.

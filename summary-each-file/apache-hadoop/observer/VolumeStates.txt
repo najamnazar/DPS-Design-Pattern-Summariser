@@ -1,0 +1,2 @@
+VolumeStates acts as a publisher for observer VolumeId, which is inherited by, which gets VolumeId parameter of volumeId Volume, which adds Volume parameter of volume Volume If Absent.
+VolumeStates acts as a publisher for observer Volume, which is inherited by, which gets VolumeId parameter of volumeId Volume, which adds Volume parameter of volume Volume If Absent.

@@ -1,0 +1,2 @@
+AbstractClientHttpResponse acts as a component for decorator ClientHttpResponseDecorator, which overrides getStatusCodeClientHttpResponse.
+AbstractClientHttpResponse acts as a component for decorator MessageBodyClientHttpResponseWrapper, which overrides getStatusCodeClientHttpResponse.

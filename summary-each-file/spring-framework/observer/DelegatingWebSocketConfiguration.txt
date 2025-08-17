@@ -1,0 +1,1 @@
+DelegatingWebSocketConfiguration acts as a publisher for observer WebSocketHandlerRegistry, which sets List<WebSocketConfigurer> parameter of configurers Configurers, which registers WebSocketHandlerRegistry parameter of registry Web Socket Handlers.

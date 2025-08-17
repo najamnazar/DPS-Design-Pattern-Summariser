@@ -1,0 +1,1 @@
+HasExpressionType acts as a publisher for observer ExpressionDefinition, which is inherited by ExpressionNode, ExpressionSubElementDefinition, ResequenceDefinition, ExpressionDefinition, which gets Expression Type, which sets ExpressionDefinition parameter of expressionType Expression Type.

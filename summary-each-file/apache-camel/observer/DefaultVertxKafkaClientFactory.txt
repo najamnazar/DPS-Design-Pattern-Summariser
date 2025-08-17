@@ -1,0 +1,1 @@
+DefaultVertxKafkaClientFactory acts as an observer, which gets Vertx parameter of vertx, Properties parameter of config Vertx Kafka Consumer, which gets Vertx parameter of vertx, Properties parameter of config Vertx Kafka Producer, which gets VertxKafkaConfiguration parameter of configuration Bootstrap Brokers.

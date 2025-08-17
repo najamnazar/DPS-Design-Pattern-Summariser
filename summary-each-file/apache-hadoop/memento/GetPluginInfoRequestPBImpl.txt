@@ -1,0 +1,3 @@
+GetPluginInfoRequestPBImpl acts as a memento, which equals Object parameter of other Code, which equals Object parameter of other Code, which equals Object parameter of other Code.
+GetPluginInfoRequestPBImpl acts as an originator for memento GetPluginInfoRequest.
+GetPluginInfoRequestPBImpl acts as a caretaker for memento GetPluginInfoRequest, which gets Proto, which hashes Code, which equals Object parameter of other.

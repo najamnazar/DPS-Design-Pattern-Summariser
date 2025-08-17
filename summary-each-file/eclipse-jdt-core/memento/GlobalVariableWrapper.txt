@@ -1,0 +1,2 @@
+GlobalVariableWrapper acts as an originator for memento String, which gets a String Initializer to, which gets a String Name to, which gets a String Type Name to.
+GlobalVariableWrapper acts as a memento, which gets Type Name, which gets Type Name, which gets Type Name.

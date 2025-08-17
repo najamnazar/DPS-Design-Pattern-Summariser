@@ -1,0 +1,1 @@
+ResourceTransformerSupport acts as a factory for ResourceTransformer, which overrides.

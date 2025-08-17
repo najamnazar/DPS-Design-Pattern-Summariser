@@ -1,0 +1,2 @@
+IdeOutputJavaFileObject acts as a publisher for observer String, which gets Access Level, which gets Kind, which gets Name, which gets Nesting Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which opens Output Stream, which opens Writer, which tos Uri.
+IdeOutputJavaFileObject acts as an observer, which gets Access Level, which gets Kind, which gets Name, which gets Nesting Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which opens Output Stream, which opens Writer, which tos Uri.

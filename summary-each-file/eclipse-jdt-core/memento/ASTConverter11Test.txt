@@ -1,0 +1,4 @@
+ASTConverter11Test acts as a caretaker for memento ICompilationUnit, which sets Up Suite, which suites, which tears Down, which tests Bug535249_001, which tests Bug535249_002.
+ASTConverter11Test acts as a caretaker for memento S, which sets Up Suite, which suites, which tears Down, which tests Bug535249_001, which tests Bug535249_002.
+ASTConverter11Test acts as a caretaker for memento C, which sets Up Suite, which suites, which tears Down, which tests Bug535249_001, which tests Bug535249_002.
+ASTConverter11Test acts as a caretaker for memento List, which sets Up Suite, which suites, which tears Down, which tests Bug535249_001, which tests Bug535249_002.

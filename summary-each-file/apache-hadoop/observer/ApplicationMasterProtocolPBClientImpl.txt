@@ -1,0 +1,1 @@
+ApplicationMasterProtocolPBClientImpl acts as an observer, which closes, which allocates AllocateRequest parameter of request, which finishes FinishApplicationMasterRequest parameter of request Application Master, which registers RegisterApplicationMasterRequest parameter of request Application Master.

@@ -1,0 +1,5 @@
+IronMQFIFOTest acts as a publisher for observer CamelContext, which clears Queue, which tests Iron MQFifo, which creates Route Builder.
+IronMQFIFOTest acts as a publisher for observer ProducerTemplate, which clears Queue, which tests Iron MQFifo, which creates Route Builder.
+IronMQFIFOTest acts as a publisher for observer FluentProducerTemplate, which clears Queue, which tests Iron MQFifo, which creates Route Builder.
+IronMQFIFOTest acts as a publisher for observer Service, which clears Queue, which tests Iron MQFifo, which creates Route Builder.
+IronMQFIFOTest acts as a publisher for observer ConsumerTemplate, which clears Queue, which tests Iron MQFifo, which creates Route Builder.

@@ -1,0 +1,1 @@
+S3AMultipartUploaderStatistics acts as an observer, which instantiateds, which uploads Started, which parts long parameter of lengthInBytes Put, which uploads Completed, which uploads Aborted, which aborts Uploads Under Path Invoked.

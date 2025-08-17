@@ -1,0 +1,2 @@
+TryCatchContinueToRouteTest acts as a publisher for observer Service, which tests Try Catch Continue To Route, which creates Route Builder.
+TryCatchContinueToRouteTest acts as a publisher for observer CamelContext, which tests Try Catch Continue To Route, which creates Route Builder.

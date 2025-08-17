@@ -1,0 +1,1 @@
+Concat acts as a publisher for observer FileSystem, which is inherited by, which registers CommandFactory parameter of factory Commands, which processes LinkedList<PathData> parameter of args Arguments, which sets FileSystem parameter of fs Test Fs.

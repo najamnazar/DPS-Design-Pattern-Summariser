@@ -1,0 +1,1 @@
+RouterWebApp acts as an adapter, which adapts to WebApp, which adapts to WebApp, which adapts to WebApp, which adapts to WebApp.

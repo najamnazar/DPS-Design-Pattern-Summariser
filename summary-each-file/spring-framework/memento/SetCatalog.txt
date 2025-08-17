@@ -1,0 +1,2 @@
+SetCatalog acts as a caretaker for memento C, which accepts Context<?> parameter of ctx, which $catalogs, which $catalogs Catalog parameter of newValue, which $constructors.
+SetCatalog acts as a caretaker for memento Cat, which accepts Context<?> parameter of ctx, which $catalogs, which $catalogs Catalog parameter of newValue, which $constructors.

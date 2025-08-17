@@ -1,0 +1,5 @@
+SolrITSupport acts as a publisher for observer CamelContext, which creates Camel Context, which gets Solr Service Address.
+SolrITSupport acts as a publisher for observer ProducerTemplate, which creates Camel Context, which gets Solr Service Address.
+SolrITSupport acts as a publisher for observer Service, which creates Camel Context, which gets Solr Service Address.
+SolrITSupport acts as a publisher for observer ConsumerTemplate, which creates Camel Context, which gets Solr Service Address.
+SolrITSupport acts as a publisher for observer FluentProducerTemplate, which creates Camel Context, which gets Solr Service Address.

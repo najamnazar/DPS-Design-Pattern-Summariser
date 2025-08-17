@@ -1,0 +1,1 @@
+TaskAttempt acts as an originator for memento TaskAttemptState, which is inherited by, which gets a TaskAttemptState State to.

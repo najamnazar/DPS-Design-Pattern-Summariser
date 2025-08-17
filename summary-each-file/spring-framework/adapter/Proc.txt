@@ -1,0 +1,1 @@
+Proc acts as an adaptee for adapter Mysql, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl, which adapts to SchemaImpl.

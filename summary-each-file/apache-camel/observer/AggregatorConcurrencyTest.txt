@@ -1,0 +1,2 @@
+AggregatorConcurrencyTest acts as a publisher for observer Service, which tests Aggregate Concurrency, which creates Route Builder.
+AggregatorConcurrencyTest acts as a publisher for observer CamelContext, which tests Aggregate Concurrency, which creates Route Builder.

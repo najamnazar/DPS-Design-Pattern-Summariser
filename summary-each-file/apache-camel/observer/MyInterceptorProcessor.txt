@@ -1,0 +1,1 @@
+MyInterceptorProcessor acts as a publisher for observer Processor, which processes Exchange parameter of exchange.

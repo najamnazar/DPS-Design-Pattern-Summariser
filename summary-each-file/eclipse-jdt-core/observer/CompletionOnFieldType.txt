@@ -1,0 +1,1 @@
+CompletionOnFieldType acts as an observer, which prints int parameter of tab, StringBuilder parameter of output Statement.

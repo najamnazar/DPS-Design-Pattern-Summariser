@@ -1,0 +1,1 @@
+TraceScope acts as an observer, which adds String parameter of key, String parameter of value KVAnnotation, which adds String parameter of key, Number parameter of value KVAnnotation, which adds String parameter of msg Timeline Annotation, which spans, which gets Span, which reattaches, which detaches, which closes.

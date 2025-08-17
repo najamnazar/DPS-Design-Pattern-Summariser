@@ -1,0 +1,1 @@
+Jt400SecureTestSupport acts as a target for adapter Jt400ConfigurationSecureConnectionTest, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport, which adapts to Jt400SecureTestSupport.

@@ -1,0 +1,1 @@
+PropertyBindingSupportRootArrayReflectionTest acts as a publisher for observer MyOtherFoo, which is inherited by, which tests Root Array, which tests Nested Array, which tests Nested Array Autodetect, which gets Name, which sets String parameter of name Name, which gets Foo, which sets MyOtherFoo parameter of foo Foo.

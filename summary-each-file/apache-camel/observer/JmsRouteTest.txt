@@ -1,0 +1,1 @@
+JmsRouteTest acts as a publisher for observer ArtemisService, which tests Send And Receive Message, which tests Send Empty Message, which asserts Object parameter of expectedBody Send And Receive Body, which sends final parameter of Object Exchange, which sets Up, which gets Component Name, which creates Route Builder.

@@ -1,0 +1,1 @@
+HttpComponentsClientHttpRequest acts as a publisher for observer HttpHeaders, which gets Method, which gets URI, which buffers Factory, which gets Native Request, which writes Publisher<? parameter of extends With, which writes Publisher<? parameter of extends And Flush With, which sets Complete, which applies Headers, which applies Cookies, which tos Request Producer.

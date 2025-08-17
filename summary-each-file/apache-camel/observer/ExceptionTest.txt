@@ -1,0 +1,2 @@
+ExceptionTest acts as a publisher for observer CamelContext, which tests Exception Without Handler, which tests Exception With Handler, which tests Exception With Long Handler, which tests Long Route With Handler, which creates Route Builder.
+ExceptionTest acts as a publisher for observer Service, which tests Exception Without Handler, which tests Exception With Handler, which tests Exception With Long Handler, which tests Long Route With Handler, which creates Route Builder.

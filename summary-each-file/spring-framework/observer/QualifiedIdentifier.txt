@@ -1,0 +1,2 @@
+QualifiedIdentifier acts as an observer, which gets ExpressionState parameter of state Value Internal, which tos String AST.
+QualifiedIdentifier acts as a publisher for observer SpelNodeImpl, which gets ExpressionState parameter of state Value Internal, which tos String AST.

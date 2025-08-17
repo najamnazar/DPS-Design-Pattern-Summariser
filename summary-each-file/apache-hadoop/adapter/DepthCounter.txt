@@ -1,0 +1,1 @@
+DepthCounter acts as an adaptee for adapter IndentedImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor, which adapts to TextWriterImageVisitor.

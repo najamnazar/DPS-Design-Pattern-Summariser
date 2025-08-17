@@ -1,0 +1,1 @@
+BeanDefinitionRegistryPostProcessor acts as an observer, which posts BeanDefinitionRegistry parameter of registry Process Bean Definition Registry.

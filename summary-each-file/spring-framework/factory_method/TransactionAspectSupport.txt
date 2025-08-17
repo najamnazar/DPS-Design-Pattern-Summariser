@@ -1,0 +1,8 @@
+TransactionAspectSupport acts as a factory for TransactionAspectSupport, which overrides.
+TransactionAspectSupport acts as a factory method for ReactiveTransaction, which is inherited by TransactionAspectSupport.
+TransactionAspectSupport acts as a factory for EnableTransactionManagementTests, which overrides.
+TransactionAspectSupport acts as a factory for MapTransactionAttributeSource, which overrides.
+TransactionAspectSupport acts as a factory for ControllerAdviceBean, which overrides.
+TransactionAspectSupport acts as a factory for PlatformTransactionManagerFacade, which overrides.
+TransactionAspectSupport acts as a factory for TransactionAttributeSourceAdvisor, which overrides.
+TransactionAspectSupport acts as a factory for AbstractTransactionalDatabaseClientIntegrationTests, which overrides.

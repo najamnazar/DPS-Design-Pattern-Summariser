@@ -1,0 +1,1 @@
+CsiAdaptorProtocol acts as an abstract product for VolumeManager, which is inherited by CsiAdaptorProtocolPBClientImpl, CsiAdaptorProtocolService.

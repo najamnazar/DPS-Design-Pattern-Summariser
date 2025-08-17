@@ -1,0 +1,7 @@
+ConfiguredRouteBuilder2 acts as a publisher for observer RouteTemplatesDefinition, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.
+ConfiguredRouteBuilder2 acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.
+ConfiguredRouteBuilder2 acts as a publisher for observer Resource, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.
+ConfiguredRouteBuilder2 acts as a publisher for observer RestsDefinition, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.
+ConfiguredRouteBuilder2 acts as a publisher for observer TemplatedRoutesDefinition, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.
+ConfiguredRouteBuilder2 acts as an observer, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.
+ConfiguredRouteBuilder2 acts as a publisher for observer RoutesDefinition, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.

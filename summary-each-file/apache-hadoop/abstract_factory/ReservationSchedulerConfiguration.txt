@@ -1,0 +1,15 @@
+ReservationSchedulerConfiguration acts as a product for RMContext, which overrides.
+ReservationSchedulerConfiguration acts as a product for AMRMProxyApplicationContext, which overrides.
+ReservationSchedulerConfiguration acts as a product for MutableConfigurationProvider, which overrides.
+ReservationSchedulerConfiguration acts as a product for RunningJob, which overrides.
+ReservationSchedulerConfiguration acts as a product for Job, which overrides.
+ReservationSchedulerConfiguration acts as a product for CapacitySchedulerContext, which overrides.
+ReservationSchedulerConfiguration acts as a product for ObjectStorage, which overrides.
+ReservationSchedulerConfiguration acts as a product for Configurable, which overrides.
+ReservationSchedulerConfiguration acts as a product for SPSService, which overrides.
+ReservationSchedulerConfiguration acts as a product for MiniMRClientCluster, which overrides.
+ReservationSchedulerConfiguration acts as a product for WriteOperations, which overrides.
+ReservationSchedulerConfiguration acts as a product for FileSystemAccess, which overrides.
+ReservationSchedulerConfiguration acts as a product for GetSpaceUsed, which overrides.
+ReservationSchedulerConfiguration acts as a product for LaunchableService, which overrides.
+ReservationSchedulerConfiguration acts as a product for MutableConfScheduler, which overrides.

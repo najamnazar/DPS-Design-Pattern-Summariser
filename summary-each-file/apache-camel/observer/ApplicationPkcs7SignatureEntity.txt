@@ -1,0 +1,2 @@
+ApplicationPkcs7SignatureEntity acts as a publisher for observer Header, which gets Signature, which writes OutputStream parameter of outstream To, which creates MimeEntity parameter of data, CMSSignedDataGenerator parameter of signer Signature.
+ApplicationPkcs7SignatureEntity acts as an observer, which gets Signature, which writes OutputStream parameter of outstream To, which creates MimeEntity parameter of data, CMSSignedDataGenerator parameter of signer Signature.

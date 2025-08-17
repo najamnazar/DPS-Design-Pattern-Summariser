@@ -1,0 +1,1 @@
+ConfigurationClassPostConstructAndAutowiringTests acts as a publisher for observer TestBean, which is inherited by, which controls, which originals Repro Case, which assertionses AnnotationConfigApplicationContext parameter of ctx, which inits, which beans Method, which sets TestBean parameter of testBean Test Bean.

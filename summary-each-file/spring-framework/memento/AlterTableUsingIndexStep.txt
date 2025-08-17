@@ -1,0 +1,2 @@
+AlterTableUsingIndexStep acts as a memento, which is inherited by AlterTableImpl.
+AlterTableUsingIndexStep acts as a memento.

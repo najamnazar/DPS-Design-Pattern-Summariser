@@ -1,0 +1,2 @@
+ValidatorFactoryRegistryTest acts as a caretaker for memento Context, which sets Up, which configures Validator Factory From Registry.
+ValidatorFactoryRegistryTest acts as a caretaker for memento Producer, which sets Up, which configures Validator Factory From Registry.

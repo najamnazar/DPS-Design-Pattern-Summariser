@@ -1,0 +1,2 @@
+ConsumerTemplateSedaQueueIssueTest acts as a publisher for observer CamelContext, which tests Consumer Template Seda Queue, which creates Route Builder.
+ConsumerTemplateSedaQueueIssueTest acts as a publisher for observer Service, which tests Consumer Template Seda Queue, which creates Route Builder.

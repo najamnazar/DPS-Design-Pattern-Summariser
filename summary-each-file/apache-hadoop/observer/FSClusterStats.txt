@@ -1,0 +1,1 @@
+FSClusterStats acts as an observer for publisher BlockPlacementPolicy, BlockPlacementPolicyDefault, which is inherited by, which gets Total Load, which is Avoiding Stale Data Nodes For Write, which gets Num Datanodes In Service, which gets In Service Xceiver Average, which gets In Service Xceiver Average For Volume, which gets Storage Type Stats.

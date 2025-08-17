@@ -1,0 +1,2 @@
+IDOMMember acts as an abstract factory for, which is inherited by DOMMember.
+IDOMMember acts as a product for IDOMNode, which overrides.

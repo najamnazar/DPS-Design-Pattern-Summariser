@@ -1,0 +1,1 @@
+ContextCustomizer acts as an abstract product for ContextCustomizer, which is inherited by MockServerContainerContextCustomizer, DynamicPropertiesContextCustomizer.

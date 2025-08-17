@@ -1,0 +1,4 @@
+AccessTokenProvider acts as an adaptee for adapter OAuth2ConnectionConfigurator, which adapts to ConnectionConfigurator, which adapts to ConnectionConfigurator, which adapts to ConnectionConfigurator.
+AccessTokenProvider acts as a target for adapter CredentialBasedAccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider.
+AccessTokenProvider acts as a target for adapter ConfRefreshTokenBasedAccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider, which adapts to AccessTokenProvider.
+AccessTokenProvider acts as an adaptee for adapter AdlFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

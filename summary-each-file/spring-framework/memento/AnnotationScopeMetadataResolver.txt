@@ -1,0 +1,2 @@
+AnnotationScopeMetadataResolver acts as a caretaker for memento C, which is inherited by, which sets Class<? parameter of extends Scope Annotation Type, which resolves BeanDefinition parameter of definition Scope Metadata.
+AnnotationScopeMetadataResolver acts as a caretaker for memento A, which is inherited by, which sets Class<? parameter of extends Scope Annotation Type, which resolves BeanDefinition parameter of definition Scope Metadata.

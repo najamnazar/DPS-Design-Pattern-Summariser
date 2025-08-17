@@ -1,0 +1,2 @@
+CronLoaderTest acts as a caretaker for memento Context, which tests Dummy Cron Service Loading, which tests Prefer Registry Over Service Loading, which tests Use Names When Loading, which gets Camel Cron Service, which configures Routes, which is Use Route Builder.
+CronLoaderTest acts as a caretaker for memento Producer, which tests Dummy Cron Service Loading, which tests Prefer Registry Over Service Loading, which tests Use Names When Loading, which gets Camel Cron Service, which configures Routes, which is Use Route Builder.

@@ -1,0 +1,2 @@
+PropertyEditorTypeConverterIssueTest acts as a publisher for observer Service, which tests Property Editor Type Converter.
+PropertyEditorTypeConverterIssueTest acts as a publisher for observer CamelContext, which tests Property Editor Type Converter.

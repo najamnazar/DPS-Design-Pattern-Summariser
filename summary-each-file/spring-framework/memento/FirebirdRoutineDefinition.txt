@@ -1,0 +1,2 @@
+FirebirdRoutineDefinition acts as a caretaker for memento Parameter, which init0s.
+FirebirdRoutineDefinition acts as a caretaker for memento ParameterDefinition, which init0s.

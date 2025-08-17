@@ -1,0 +1,1 @@
+GenericMessageConverter acts as an adapter, which adapts to SimpleMessageConverter.

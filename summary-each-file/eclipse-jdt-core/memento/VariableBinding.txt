@@ -1,0 +1,3 @@
+VariableBinding acts as a caretaker for memento C, which is inherited by, which constants, which is Blank Final, which is Constant Value, which is Final, which readables Name, which sets Constant parameter of constant Constant, which tos String.
+VariableBinding acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.
+VariableBinding acts as a caretaker for memento Binding, which is inherited by, which constants, which is Blank Final, which is Constant Value, which is Final, which readables Name, which sets Constant parameter of constant Constant, which tos String.

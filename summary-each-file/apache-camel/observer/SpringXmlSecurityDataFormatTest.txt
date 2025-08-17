@@ -1,0 +1,2 @@
+SpringXmlSecurityDataFormatTest acts as a publisher for observer CamelContext, which tests Partial Payload Asymmetric Key Decryption Custom NS, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context.
+SpringXmlSecurityDataFormatTest acts as a publisher for observer CamelContext, which is inherited by, which tests Partial Payload Asymmetric Key Decryption Custom NS, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context.

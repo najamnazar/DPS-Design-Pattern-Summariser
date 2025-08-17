@@ -1,0 +1,2 @@
+ProblemHandler acts as a factory for ProblemHandler, which overrides.
+ProblemHandler acts as a factory method for IProblem, which is inherited by IProblemFactory, DefaultProblemFactory, ProblemHandler, DefaultProblemFactory.

@@ -1,0 +1,5 @@
+NMView acts as a target for adapter ApplicationPage, which adapts to NMView, which adapts to NMView, which adapts to NMView.
+NMView acts as a target for adapter ContainerLogsPage, which adapts to NMView, which adapts to NMView, which adapts to NMView.
+NMView acts as a target for adapter AllContainersPage, which adapts to NMView, which adapts to NMView, which adapts to NMView.
+NMView acts as a target for adapter NodePage, which adapts to NMView, which adapts to NMView, which adapts to NMView.
+NMView acts as a target for adapter AllApplicationsPage, which adapts to NMView, which adapts to NMView, which adapts to NMView.

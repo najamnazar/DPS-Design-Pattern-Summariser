@@ -1,0 +1,1 @@
+CustomComponentNameRouteTest acts as a publisher for observer SpanTestData, which tests Route, which creates Route Builder.

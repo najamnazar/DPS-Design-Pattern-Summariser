@@ -1,0 +1,2 @@
+TopicLoadBalanceTest acts as a publisher for observer Service, which sets Up, which creates Route Builder, which tests Topic Many Messages, which tests Topic.
+TopicLoadBalanceTest acts as a publisher for observer CamelContext, which sets Up, which creates Route Builder, which tests Topic Many Messages, which tests Topic.

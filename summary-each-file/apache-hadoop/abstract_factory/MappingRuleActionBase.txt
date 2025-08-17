@@ -1,0 +1,2 @@
+MappingRuleActionBase acts as a factory for MappingRuleAction, which overrides.
+MappingRuleActionBase acts as a product for MappingRuleAction, which overrides.

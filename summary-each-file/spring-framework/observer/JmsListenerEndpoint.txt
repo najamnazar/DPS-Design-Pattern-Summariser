@@ -1,0 +1,1 @@
+JmsListenerEndpoint acts as an observer for publisher JmsListenerEndpointRegistrar, which is inherited by AbstractJmsListenerEndpoint, which gets Id, which setups MessageListenerContainer parameter of listenerContainer Listener Container.

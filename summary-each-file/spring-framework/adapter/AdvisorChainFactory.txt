@@ -1,0 +1,1 @@
+AdvisorChainFactory acts as an adaptee for adapter AdvisedSupport, which adapts to ProxyConfig.

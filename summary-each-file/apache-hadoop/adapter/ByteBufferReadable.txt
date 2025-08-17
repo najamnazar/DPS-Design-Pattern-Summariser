@@ -1,0 +1,8 @@
+ByteBufferReadable acts as an adaptee for adapter CryptoInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+ByteBufferReadable acts as a target for adapter OBSInputStream, which adapts to ByteBufferReadable.
+ByteBufferReadable acts as a target for adapter DFSInputStream, which adapts to ByteBufferReadable.
+ByteBufferReadable acts as an adaptee for adapter DFSInputStream, which adapts to FSInputStream, ByteBufferReadable.
+ByteBufferReadable acts as a target for adapter FSDataInputStream, which adapts to ByteBufferReadable.
+ByteBufferReadable acts as a target for adapter CryptoInputStream, which adapts to ByteBufferReadable.
+ByteBufferReadable acts as an adaptee for adapter OBSInputStream, which adapts to FSInputStream, ByteBufferReadable.
+ByteBufferReadable acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.

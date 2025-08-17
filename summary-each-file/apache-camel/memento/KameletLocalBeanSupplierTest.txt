@@ -1,0 +1,2 @@
+KameletLocalBeanSupplierTest acts as a caretaker for memento Producer, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.
+KameletLocalBeanSupplierTest acts as a caretaker for memento Context, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.

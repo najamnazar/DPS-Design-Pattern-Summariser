@@ -1,0 +1,2 @@
+DropSchemaStep acts as a memento, which restricts, which restricts.
+DropSchemaStep acts as a memento, which is inherited by DropSchemaImpl, which restricts, which restricts.

@@ -1,0 +1,2 @@
+XmlSignatureProperties acts as an abstract product for XmlSignerConfiguration, which is inherited by TimestampProperty, XAdESSignatureProperties.
+XmlSignatureProperties acts as a factory for JBPMProducer, which overrides.

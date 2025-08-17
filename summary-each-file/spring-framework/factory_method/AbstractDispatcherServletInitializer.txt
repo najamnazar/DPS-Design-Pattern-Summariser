@@ -1,0 +1,1 @@
+AbstractDispatcherServletInitializer acts as a factory for AbstractAnnotationConfigDispatcherServletInitializer, which overrides.

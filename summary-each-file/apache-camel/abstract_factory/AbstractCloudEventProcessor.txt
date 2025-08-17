@@ -1,0 +1,1 @@
+AbstractCloudEventProcessor acts as a factory for CloudEventProcessor, which overrides cloudEvent method of CloudEventProcessor, consumer method of CloudEventProcessor, producer method of CloudEventProcessor.

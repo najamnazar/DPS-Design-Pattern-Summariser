@@ -1,0 +1,2 @@
+RemoteMBeanClientInterceptorTests acts as a caretaker for memento B, which ons Set Up, which gets Service Url, which gets Server Connection, which tears Down.
+RemoteMBeanClientInterceptorTests acts as a caretaker for memento C, which ons Set Up, which gets Service Url, which gets Server Connection, which tears Down.

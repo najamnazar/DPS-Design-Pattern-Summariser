@@ -1,0 +1,1 @@
+SampleRouteBuilderContainer acts as a publisher for observer RouteBuilder, which is inherited by, which sets RouteBuilder parameter of routeBuilder Route Builder, which afters Properties Set.

@@ -1,0 +1,2 @@
+OnExceptionContinueToRouteTest acts as a publisher for observer Service, which tests On Exception Continue To Route, which creates Route Builder.
+OnExceptionContinueToRouteTest acts as a publisher for observer CamelContext, which tests On Exception Continue To Route, which creates Route Builder.

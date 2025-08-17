@@ -1,0 +1,7 @@
+ExchangePattern acts as an adaptee for adapter DefaultServiceCallProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExchangePattern acts as an adaptee for adapter WireTapProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExchangePattern acts as an adaptee for adapter DefaultPooledExchange, which adapts to AbstractExchange, which adapts to AbstractExchange, which adapts to AbstractExchange.
+ExchangePattern acts as an adaptee for adapter SendDynamicProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExchangePattern acts as an adaptee for adapter RecipientListProcessor, which adapts to MulticastProcessor, which adapts to MulticastProcessor, which adapts to MulticastProcessor.
+ExchangePattern acts as an adaptee for adapter ExchangePatternProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExchangePattern acts as an adaptee for adapter SendProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.

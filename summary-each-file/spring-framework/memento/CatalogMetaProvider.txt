@@ -1,0 +1,3 @@
+CatalogMetaProvider acts as a caretaker for memento Cat, which provides.
+CatalogMetaProvider acts as a caretaker for memento Configuration, which provides.
+CatalogMetaProvider acts as a caretaker for memento C, which provides.

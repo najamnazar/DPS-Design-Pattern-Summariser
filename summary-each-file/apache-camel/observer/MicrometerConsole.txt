@@ -1,0 +1,1 @@
+MicrometerConsole acts as a publisher for observer CamelContext, which does Map<String, parameter of Object> Call Text, which does Map<String, parameter of Object> Call Json, which adds Meter parameter of m, JsonObject parameter of root Tags, which lookups Meter Registry, which sorts JsonObject parameter of o1, JsonObject parameter of o2 By Name.

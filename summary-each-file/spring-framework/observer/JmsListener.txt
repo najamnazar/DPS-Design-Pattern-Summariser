@@ -1,0 +1,1 @@
+JmsListener acts as an observer for publisher JmsListenerAnnotationBeanPostProcessor, which is inherited by.

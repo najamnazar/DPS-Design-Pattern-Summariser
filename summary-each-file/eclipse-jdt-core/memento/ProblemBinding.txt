@@ -1,0 +1,3 @@
+ProblemBinding acts as a memento, which readables Name, which readables Name, which readables Name.
+ProblemBinding acts as a caretaker for memento Binding, which binds Type, which problems Id, which readables Name.
+ProblemBinding acts as a caretaker for memento R, which binds Type, which problems Id, which readables Name.

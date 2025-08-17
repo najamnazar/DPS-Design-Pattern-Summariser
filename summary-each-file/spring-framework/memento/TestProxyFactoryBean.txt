@@ -1,0 +1,2 @@
+TestProxyFactoryBean acts as a caretaker for memento A, which creates Main Interceptor, which sets BeanFactory parameter of beanFactory Bean Factory.
+TestProxyFactoryBean acts as a caretaker for memento C, which creates Main Interceptor, which sets BeanFactory parameter of beanFactory Bean Factory.

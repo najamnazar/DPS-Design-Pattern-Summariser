@@ -1,0 +1,2 @@
+XMLTablePassingStep acts as an abstract factory for XMLTableColumnsFirstStep, which is inherited by XMLTable.
+XMLTablePassingStep acts as a product for XMLTablePassingStep, which overrides.

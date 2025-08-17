@@ -1,0 +1,1 @@
+BeanA acts as a publisher for observer ShutdownOrderBean, which is inherited by, which gets Shutdown Order Bean, which sets ShutdownOrderBean parameter of shutdownOrderBean Shutdown Order Bean, which foos String parameter of s, which destroys, which afters Properties Set.

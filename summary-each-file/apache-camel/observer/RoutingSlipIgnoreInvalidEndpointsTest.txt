@@ -1,0 +1,2 @@
+RoutingSlipIgnoreInvalidEndpointsTest acts as a publisher for observer Service, which tests Endpoint Resolved Failed With Ignore Invalid Endpoints, which tests Endpoint Resolved Failed Without Ignore Invalid Endpoints, which creates Route Builder.
+RoutingSlipIgnoreInvalidEndpointsTest acts as a publisher for observer CamelContext, which tests Endpoint Resolved Failed With Ignore Invalid Endpoints, which tests Endpoint Resolved Failed Without Ignore Invalid Endpoints, which creates Route Builder.

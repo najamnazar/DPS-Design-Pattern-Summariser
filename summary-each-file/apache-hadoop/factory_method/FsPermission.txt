@@ -1,0 +1,2 @@
+FsPermission acts as a product for TestIPC, which overrides write method of Writable, readFields method of Writable, readFields method of Writable.
+FsPermission acts as a factory for TestIPC, which overrides write method of TestIPC, readFields method of TestIPC, readFields method of TestIPC.

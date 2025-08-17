@@ -1,0 +1,1 @@
+ByteBufferConverterTests acts as a caretaker for memento C, which setups, which bytes Array To Byte Buffer, which bytes Buffer To Byte Array, which bytes Buffer To Other Type, which others Type To Byte Buffer, which bytes Buffer To Byte Buffer, which converts byte[] parameter of source, which converts OtherType parameter of source.

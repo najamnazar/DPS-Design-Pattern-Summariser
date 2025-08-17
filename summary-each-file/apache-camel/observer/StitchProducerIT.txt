@@ -1,0 +1,5 @@
+StitchProducerIT acts as a publisher for observer ProducerTemplate, which tests If Send Single Message, which tests If Send Multiple Messages, which tests If Send With Error, which creates Route Builder.
+StitchProducerIT acts as a publisher for observer CamelContext, which tests If Send Single Message, which tests If Send Multiple Messages, which tests If Send With Error, which creates Route Builder.
+StitchProducerIT acts as a publisher for observer ConsumerTemplate, which tests If Send Single Message, which tests If Send Multiple Messages, which tests If Send With Error, which creates Route Builder.
+StitchProducerIT acts as a publisher for observer FluentProducerTemplate, which tests If Send Single Message, which tests If Send Multiple Messages, which tests If Send With Error, which creates Route Builder.
+StitchProducerIT acts as a publisher for observer Service, which tests If Send Single Message, which tests If Send Multiple Messages, which tests If Send With Error, which creates Route Builder.

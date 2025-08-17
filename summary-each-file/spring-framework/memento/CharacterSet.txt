@@ -1,0 +1,1 @@
+CharacterSet acts as a memento, which is inherited by CharacterSetImpl, which gets Name.

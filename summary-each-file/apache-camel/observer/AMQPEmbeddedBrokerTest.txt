@@ -1,0 +1,5 @@
+AMQPEmbeddedBrokerTest acts as a publisher for observer CamelContext, which befores Class, which prepares Test, which tests Topic Without Prefix, which creates Camel Context, which creates Route Builder.
+AMQPEmbeddedBrokerTest acts as a publisher for observer ProducerTemplate, which befores Class, which prepares Test, which tests Topic Without Prefix, which creates Camel Context, which creates Route Builder.
+AMQPEmbeddedBrokerTest acts as a publisher for observer FluentProducerTemplate, which befores Class, which prepares Test, which tests Topic Without Prefix, which creates Camel Context, which creates Route Builder.
+AMQPEmbeddedBrokerTest acts as a publisher for observer ConsumerTemplate, which befores Class, which prepares Test, which tests Topic Without Prefix, which creates Camel Context, which creates Route Builder.
+AMQPEmbeddedBrokerTest acts as a publisher for observer Service, which befores Class, which prepares Test, which tests Topic Without Prefix, which creates Camel Context, which creates Route Builder.

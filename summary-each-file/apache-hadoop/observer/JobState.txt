@@ -1,0 +1,1 @@
+JobState acts as an observer for publisher MRApp, which is inherited by.

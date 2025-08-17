@@ -1,0 +1,2 @@
+PrintWriter acts as an abstract product for PrintWriter, which is inherited by NoOpPrintWriter, NoOpPrintWriter, GenericXMLWriter, GenericXMLWriter, JavaSourceFilePrintWriter, JavaSourceFilePrintWriter, NullPrintWriter, NullPrintWriter.
+PrintWriter acts as a product for FileObject, which overrides.

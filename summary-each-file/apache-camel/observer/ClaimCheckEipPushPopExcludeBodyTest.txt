@@ -1,0 +1,2 @@
+ClaimCheckEipPushPopExcludeBodyTest acts as a publisher for observer CamelContext, which tests Push Pop Body Exclude, which creates Route Builder.
+ClaimCheckEipPushPopExcludeBodyTest acts as a publisher for observer Service, which tests Push Pop Body Exclude, which creates Route Builder.

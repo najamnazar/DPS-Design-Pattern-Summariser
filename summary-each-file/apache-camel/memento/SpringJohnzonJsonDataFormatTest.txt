@@ -1,0 +1,1 @@
+SpringJohnzonJsonDataFormatTest acts as a caretaker for memento Context, which tests Marshal And Unmarshal Map, which tests Marshal And Unmarshal Pojo, which creates Application Context.

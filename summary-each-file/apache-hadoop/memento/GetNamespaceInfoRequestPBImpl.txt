@@ -1,0 +1,3 @@
+GetNamespaceInfoRequestPBImpl acts as a memento, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance.
+GetNamespaceInfoRequestPBImpl acts as a caretaker for memento GetNamespaceInfoRequest, which gets Proto, which sets Message parameter of protocol Proto, which reads String parameter of base64String Instance.
+GetNamespaceInfoRequestPBImpl acts as an originator for memento GetNamespaceInfoRequest.

@@ -1,0 +1,1 @@
+PackageDefinition acts as an abstract product for ArrayDefinition, which is inherited by AbstractPackageDefinition.

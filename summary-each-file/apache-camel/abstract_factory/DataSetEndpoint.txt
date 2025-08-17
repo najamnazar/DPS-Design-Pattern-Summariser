@@ -1,0 +1,2 @@
+DataSetEndpoint acts as a product for InfinispanIdempotentRepositoryTestSupport, which overrides createConsumer method of MockEndpoint, createProducer method of MockEndpoint, reset method of MockEndpoint, getReceivedCounter method of MockEndpoint, waitForCompleteLatch method of MockEndpoint.
+DataSetEndpoint acts as a product for InfinispanConsumerTestSupport, which overrides createConsumer method of MockEndpoint, createProducer method of MockEndpoint, reset method of MockEndpoint, getReceivedCounter method of MockEndpoint, waitForCompleteLatch method of MockEndpoint.

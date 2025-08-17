@@ -1,0 +1,2 @@
+BlacklistManager acts as an abstract product for BlacklistManager, which is inherited by DisabledBlacklistManager, SimpleBlacklistManager.
+BlacklistManager acts as an abstract factory for ResourceBlacklistRequest, which is inherited by DisabledBlacklistManager, SimpleBlacklistManager.

@@ -1,0 +1,2 @@
+RuntimeVisibleTypeAnnotationsAttribute acts as a visitor for element TypeVisitor, which overrides, which gets a Extended Annotations to, which gets a Extended Annotations Number to.
+RuntimeVisibleTypeAnnotationsAttribute acts as a visitor for element IBytecodeVisitor, which overrides, which gets a Extended Annotations to, which gets a Extended Annotations Number to.

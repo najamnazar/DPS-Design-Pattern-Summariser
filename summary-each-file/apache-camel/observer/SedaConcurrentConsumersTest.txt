@@ -1,0 +1,2 @@
+SedaConcurrentConsumersTest acts as a publisher for observer Service, which creates Registry, which tests Send To Seda, which creates Route Builder.
+SedaConcurrentConsumersTest acts as a publisher for observer CamelContext, which creates Registry, which tests Send To Seda, which creates Route Builder.

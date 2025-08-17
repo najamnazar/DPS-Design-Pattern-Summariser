@@ -1,0 +1,1 @@
+ServletServerHttpResponse acts as a caretaker for memento Headers, which gets Servlet Response, which sets HttpStatus parameter of status Status Code, which gets Headers, which gets Body, which flushes, which closes, which writes Headers, which contains Object parameter of key Key, which gets String parameter of headerName First, which gets Object parameter of key.

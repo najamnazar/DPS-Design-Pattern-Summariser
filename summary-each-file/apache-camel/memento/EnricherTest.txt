@@ -1,0 +1,2 @@
+EnricherTest acts as a caretaker for memento Producer, which sets Up, which tests Enrich In Only, which tests Enrich Error In Only, which tests Enrich In Out, which tests Enrich In Out Plus Header, which tests Enrich Error In Out, which creates Route Builder.
+EnricherTest acts as a caretaker for memento Context, which sets Up, which tests Enrich In Only, which tests Enrich Error In Only, which tests Enrich In Out, which tests Enrich In Out Plus Header, which tests Enrich Error In Out, which creates Route Builder.

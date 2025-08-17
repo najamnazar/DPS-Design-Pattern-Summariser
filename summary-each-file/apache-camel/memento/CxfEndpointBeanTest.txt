@@ -1,0 +1,1 @@
+CxfEndpointBeanTest acts as a caretaker for memento Context, which gets Application Context Files, which tests Cxf Endpoint Bean Definition Parser, which tests Cxf Endpoints With Camel Context, which tests Properties Setting On Cxf Client.

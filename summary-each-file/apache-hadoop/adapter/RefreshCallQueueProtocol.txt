@@ -1,0 +1,2 @@
+RefreshCallQueueProtocol acts as an adaptee for adapter RefreshCallQueueProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+RefreshCallQueueProtocol acts as an adaptee for adapter RouterAdminServer, which adapts to AbstractService.

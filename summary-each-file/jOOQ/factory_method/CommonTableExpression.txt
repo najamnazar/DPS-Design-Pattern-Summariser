@@ -1,0 +1,1 @@
+CommonTableExpression acts as a factory method for DerivedColumnList, which is inherited by Name.

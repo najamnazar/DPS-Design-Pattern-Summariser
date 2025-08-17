@@ -1,0 +1,2 @@
+HelpCommand acts as a publisher for observer DiskBalancerCluster, which executes CommandLine parameter of cmd, which prints Help.
+HelpCommand acts as an observer, which executes CommandLine parameter of cmd, which prints Help.

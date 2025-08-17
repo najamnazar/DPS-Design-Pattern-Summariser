@@ -1,0 +1,2 @@
+RoundRobinServiceChooser acts as a factory for ServiceChooser, which overrides.
+RoundRobinServiceChooser acts as a product for ServiceChooserAware, which overrides.

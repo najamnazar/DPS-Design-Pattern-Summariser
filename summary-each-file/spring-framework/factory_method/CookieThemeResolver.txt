@@ -1,0 +1,1 @@
+CookieThemeResolver acts as a product for RequestContextUtils, which overrides resolveThemeName method of ThemeResolver, setThemeName method of ThemeResolver.

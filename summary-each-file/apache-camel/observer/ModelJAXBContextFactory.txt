@@ -1,0 +1,1 @@
+ModelJAXBContextFactory acts as an observer for publisher LightweightRuntimeCamelContext, which is inherited by DefaultModelJAXBContextFactory, which news JAXBContext.

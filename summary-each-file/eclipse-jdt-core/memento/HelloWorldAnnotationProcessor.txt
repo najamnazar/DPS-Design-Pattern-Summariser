@@ -1,0 +1,3 @@
+HelloWorldAnnotationProcessor acts as a caretaker for memento S, which processes, which gets Declaration parameter of annotatedDecl Type Name, which gets String parameter of typeName Code.
+HelloWorldAnnotationProcessor acts as a caretaker for memento String, which processes, which gets Declaration parameter of annotatedDecl Type Name, which gets String parameter of typeName Code.
+HelloWorldAnnotationProcessor acts as a caretaker for memento E, which processes, which gets Declaration parameter of annotatedDecl Type Name, which gets String parameter of typeName Code.

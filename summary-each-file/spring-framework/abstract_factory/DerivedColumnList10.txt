@@ -1,0 +1,3 @@
+DerivedColumnList10 acts as a product for VisitContext, which overrides.
+DerivedColumnList10 acts as an abstract product for DerivedColumnList10, which is inherited by DerivedColumnListImpl, DerivedColumnListImpl.
+DerivedColumnList10 acts as a product for DiagnosticsContext, which overrides.

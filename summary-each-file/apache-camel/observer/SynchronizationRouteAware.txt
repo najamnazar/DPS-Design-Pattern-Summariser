@@ -1,0 +1,1 @@
+SynchronizationRouteAware acts as an observer, which ons Route parameter of route, Exchange parameter of exchange Before Route, which ons Route parameter of route, Exchange parameter of exchange After Route.

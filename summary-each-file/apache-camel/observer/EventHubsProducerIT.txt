@@ -1,0 +1,5 @@
+EventHubsProducerIT acts as a publisher for observer Service, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.
+EventHubsProducerIT acts as a publisher for observer FluentProducerTemplate, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.
+EventHubsProducerIT acts as a publisher for observer ProducerTemplate, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.
+EventHubsProducerIT acts as a publisher for observer CamelContext, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.
+EventHubsProducerIT acts as a publisher for observer ConsumerTemplate, which prepares, which tests Send Event With Specific Partition, which tests Sending Non Valid Data, which tears Down, which creates Route Builder.

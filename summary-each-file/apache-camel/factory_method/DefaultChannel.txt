@@ -1,0 +1,1 @@
+DefaultChannel acts as a product for RabbitConsumer, which overrides getOutput method of Channel, getNextProcessor method of Channel, setErrorHandler method of Channel, getErrorHandler method of Channel, getRoute method of Channel, initChannel method of Channel, postInitChannel method of Channel.

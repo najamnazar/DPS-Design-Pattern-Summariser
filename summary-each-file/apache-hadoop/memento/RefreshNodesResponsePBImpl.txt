@@ -1,0 +1,3 @@
+RefreshNodesResponsePBImpl acts as a caretaker for memento RefreshNodesResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+RefreshNodesResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+RefreshNodesResponsePBImpl acts as an originator for memento RefreshNodesResponse.

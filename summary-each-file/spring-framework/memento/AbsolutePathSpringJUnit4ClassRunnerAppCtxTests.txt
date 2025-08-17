@@ -1,0 +1,4 @@
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento C.
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento A.
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento ApplicationContext.
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento B.

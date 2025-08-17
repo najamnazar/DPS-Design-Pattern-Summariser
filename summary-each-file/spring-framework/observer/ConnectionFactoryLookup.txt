@@ -1,0 +1,1 @@
+ConnectionFactoryLookup acts as an observer for publisher AbstractRoutingConnectionFactory, which is inherited by BeanFactoryConnectionFactoryLookup, MapConnectionFactoryLookup, SingleConnectionFactoryLookup, which gets String parameter of connectionFactoryName Connection Factory.

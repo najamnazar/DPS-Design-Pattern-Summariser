@@ -1,0 +1,1 @@
+S3AStoreBuilder acts as a factory method for S3AStore, which is inherited by S3AFileSystem.

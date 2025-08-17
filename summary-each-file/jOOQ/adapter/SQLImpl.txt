@@ -1,0 +1,1 @@
+SQLImpl acts as an adapter, which adapts to AbstractQueryPart, which adapts to AbstractQueryPart, which adapts to AbstractQueryPart.

@@ -1,0 +1,1 @@
+RemoveFromClusterNodeLabelsResponse acts as an abstract product for RemoveFromClusterNodeLabelsResponse, which is inherited by RemoveFromClusterNodeLabelsResponsePBImpl.

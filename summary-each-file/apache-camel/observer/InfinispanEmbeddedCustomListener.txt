@@ -1,0 +1,1 @@
+InfinispanEmbeddedCustomListener acts as an observer for publisher InfinispanEmbeddedConfiguration, which is inherited by.

@@ -1,0 +1,1 @@
+IdeProcessingEnvImpl acts as a factory for ASTRewritingTest, which overrides.

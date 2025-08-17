@@ -1,0 +1,1 @@
+JmsMessageBodySetNullTest acts as a publisher for observer ArtemisService, which tests Set Null Body Using Processor, which tests Set Null Body Using Processor Preserve Headers, which tests Set Null Body Using Set Body, which tests Set Null Body Using Set Body Preserve Headers, which gets Component Name, which is Use Route Builder.

@@ -1,0 +1,1 @@
+SpringIntegrationProducer acts as an observer, which gets Endpoint, which does Start, which processes final parameter of Exchange.

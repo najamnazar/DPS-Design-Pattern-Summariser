@@ -1,0 +1,1 @@
+CheckpointService acts as an abstract factory for CheckpointID, which is inherited by FSCheckpointService.

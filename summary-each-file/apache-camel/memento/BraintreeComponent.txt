@@ -1,0 +1,1 @@
+BraintreeComponent acts as a caretaker for memento Configuration, which gets String parameter of apiNameStr Api Name, which creates String parameter of uri, String parameter of methodName, BraintreeApiName parameter of apiName, BraintreeConfiguration parameter of endpointConfiguration Endpoint, which gets BraintreeConfiguration parameter of configuration Gateway.

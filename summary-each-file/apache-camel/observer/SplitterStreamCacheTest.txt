@@ -1,0 +1,2 @@
+SplitterStreamCacheTest acts as a publisher for observer CamelContext, which tests Send Stream Source, which creates Route Builder, which gets Test File Stream.
+SplitterStreamCacheTest acts as a publisher for observer Service, which tests Send Stream Source, which creates Route Builder, which gets Test File Stream.

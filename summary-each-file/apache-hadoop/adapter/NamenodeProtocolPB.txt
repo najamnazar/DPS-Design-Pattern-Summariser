@@ -1,0 +1,2 @@
+NamenodeProtocolPB acts as an adaptee for adapter NamenodeProtocolTranslatorPB.
+NamenodeProtocolPB acts as an adaptee for adapter RouterNamenodeProtocolTranslatorPB.

@@ -1,0 +1,5 @@
+MailUsingHeadersTest acts as a publisher for observer CamelContext, which tests Mail Using Headers, which tests Mail With From In Endpoint, which creates Route Builder.
+MailUsingHeadersTest acts as a publisher for observer ProducerTemplate, which tests Mail Using Headers, which tests Mail With From In Endpoint, which creates Route Builder.
+MailUsingHeadersTest acts as a publisher for observer ConsumerTemplate, which tests Mail Using Headers, which tests Mail With From In Endpoint, which creates Route Builder.
+MailUsingHeadersTest acts as a publisher for observer FluentProducerTemplate, which tests Mail Using Headers, which tests Mail With From In Endpoint, which creates Route Builder.
+MailUsingHeadersTest acts as a publisher for observer Service, which tests Mail Using Headers, which tests Mail With From In Endpoint, which creates Route Builder.

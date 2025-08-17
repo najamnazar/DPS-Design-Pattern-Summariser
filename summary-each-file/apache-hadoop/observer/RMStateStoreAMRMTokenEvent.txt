@@ -1,0 +1,1 @@
+RMStateStoreAMRMTokenEvent acts as an observer, which gets Amrm Token Secret Manager State, which is Update.

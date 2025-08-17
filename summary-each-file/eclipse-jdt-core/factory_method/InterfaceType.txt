@@ -1,0 +1,2 @@
+InterfaceType acts as a factory for InterfaceType, which overrides.
+InterfaceType acts as a factory method for InterfaceDeclaration, which is inherited by ErrorType, InterfaceType, InterfaceType, InterfaceDeclarationImpl.

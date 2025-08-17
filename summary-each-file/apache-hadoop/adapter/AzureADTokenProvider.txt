@@ -1,0 +1,1 @@
+AzureADTokenProvider acts as an adaptee for adapter AdlFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

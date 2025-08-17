@@ -1,0 +1,1 @@
+JDBCRemoteService acts as a product for JDBCServiceBuilder, which overrides jdbcUrl method of JDBCService.

@@ -1,0 +1,2 @@
+InterceptSendToEndpointDynamicTest acts as a publisher for observer Service, which is Use Route Builder, which tests Send To Wildcard, which tests Send To Wildcard Header Uri, which tests Send To Regex, which tests Send To Dynamic Endpoint.
+InterceptSendToEndpointDynamicTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Send To Wildcard, which tests Send To Wildcard Header Uri, which tests Send To Regex, which tests Send To Dynamic Endpoint.

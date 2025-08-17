@@ -1,0 +1,3 @@
+HdfsCompatXAttr acts as a publisher for observer Path, which prepares, which cleanups, which sets XAttr, which gets XAttr, which gets XAttrs, which lists XAttrs, which removes XAttr.
+HdfsCompatXAttr acts as an observer, which prepares, which cleanups, which sets XAttr, which gets XAttr, which gets XAttrs, which lists XAttrs, which removes XAttr.
+HdfsCompatXAttr acts as a publisher for observer HdfsCompatEnvironment, which prepares, which cleanups, which sets XAttr, which gets XAttr, which gets XAttrs, which lists XAttrs, which removes XAttr.

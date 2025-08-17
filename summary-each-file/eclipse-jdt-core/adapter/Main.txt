@@ -1,0 +1,4 @@
+Main acts as an adaptee for adapter BatchProcessingEnvImpl, which adapts to BaseProcessingEnvImpl.
+Main acts as an adaptee for adapter AbstractBatchCompilerTest, which adapts to AbstractRegressionTest.
+Main acts as an adaptee for adapter EclipseBatchRequestor, which adapts to ICompilerRequestor.
+Main acts as an adaptee for adapter BatchCompilerRequestor, which adapts to ICompilerRequestor.

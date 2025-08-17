@@ -1,0 +1,2 @@
+CamelCaseInsentiveHeadersFalseTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Casesensitive, which creates Route Builder.
+CamelCaseInsentiveHeadersFalseTest acts as a publisher for observer Service, which creates Camel Context, which tests Casesensitive, which creates Route Builder.

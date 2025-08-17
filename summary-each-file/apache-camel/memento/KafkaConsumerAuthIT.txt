@@ -1,0 +1,1 @@
+KafkaConsumerAuthIT acts as a caretaker for memento Producer, which befores, which afters, which creates Route Builder, which is Connected, which kafkas Message Is Consumed By Camel, which populates String parameter of propagatedHeaderKey, byte[] parameter of propagatedHeaderValue Kafka Topic.

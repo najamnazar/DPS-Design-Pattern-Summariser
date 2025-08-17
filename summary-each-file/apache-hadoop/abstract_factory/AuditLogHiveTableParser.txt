@@ -1,0 +1,1 @@
+AuditLogHiveTableParser acts as a factory for AuditCommandParser, which overrides initialize method of AuditCommandParser, parse method of AuditCommandParser.

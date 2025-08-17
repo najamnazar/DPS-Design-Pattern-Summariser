@@ -1,0 +1,3 @@
+LocalVariableReferenceMatch acts as an observer, which is Read Access, which is Write Access.
+LocalVariableReferenceMatch acts as a publisher for observer SearchParticipant, which is Read Access, which is Write Access.
+LocalVariableReferenceMatch acts as a publisher for observer Object, which is Read Access, which is Write Access.

@@ -1,0 +1,2 @@
+SoapCxfClientTest acts as a caretaker for memento Configuration, which inits Server Bean, which tests Success, which tests Round Trip Get All Customers, which tests Round Trip Save Customer, which tests Fault, which configures.
+SoapCxfClientTest acts as a caretaker for memento Customer, which inits Server Bean, which tests Success, which tests Round Trip Get All Customers, which tests Round Trip Save Customer, which tests Fault, which configures.

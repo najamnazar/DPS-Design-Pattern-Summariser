@@ -1,0 +1,1 @@
+LogDelegateFactory acts as a factory method for Log, which is inherited by AbstractTraceInterceptor, AbstractTraceInterceptor, LogFactory, SimpAnnotationMethodMessageHandler, AbstractMessageChannel, AbstractAutowireCapableBeanFactory, AbstractTraceInterceptor.

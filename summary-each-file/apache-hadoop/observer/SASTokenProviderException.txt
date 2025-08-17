@@ -1,0 +1,1 @@
+SASTokenProviderException acts as an observer.

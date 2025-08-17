@@ -1,0 +1,5 @@
+PubNubStateExample acts as a publisher for observer ConsumerTemplate, which tests State Change, which creates Route Builder.
+PubNubStateExample acts as a publisher for observer FluentProducerTemplate, which tests State Change, which creates Route Builder.
+PubNubStateExample acts as a publisher for observer Service, which tests State Change, which creates Route Builder.
+PubNubStateExample acts as a publisher for observer ProducerTemplate, which tests State Change, which creates Route Builder.
+PubNubStateExample acts as a publisher for observer CamelContext, which tests State Change, which creates Route Builder.

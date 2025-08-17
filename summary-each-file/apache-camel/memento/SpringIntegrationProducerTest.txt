@@ -1,0 +1,1 @@
+SpringIntegrationProducerTest acts as a caretaker for memento Context, which tests Sending Two Way Message, which tests Sending One Way Message, which creates Application Context.

@@ -1,0 +1,3 @@
+JCacheStandaloneConfigTests acts as a caretaker for memento C, which gets Application Context.
+JCacheStandaloneConfigTests acts as a caretaker for memento ApplicationContext, which gets Application Context.
+JCacheStandaloneConfigTests acts as a caretaker for memento A, which gets Application Context.

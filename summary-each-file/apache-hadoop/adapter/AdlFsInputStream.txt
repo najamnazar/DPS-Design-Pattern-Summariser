@@ -1,0 +1,1 @@
+AdlFsInputStream acts as an adapter, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

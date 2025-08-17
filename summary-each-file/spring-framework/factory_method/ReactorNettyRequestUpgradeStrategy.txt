@@ -1,0 +1,1 @@
+ReactorNettyRequestUpgradeStrategy acts as a product for JettySockJsIntegrationTests, which overrides.

@@ -1,0 +1,2 @@
+SimpleStreamingClientHttpRequest acts as a caretaker for memento Headers, which gets Method Value, which gets URI, which gets HttpHeaders parameter of headers Body Internal, which executes HttpHeaders parameter of headers Internal.
+SimpleStreamingClientHttpRequest acts as a caretaker for memento C, which gets Method Value, which gets URI, which gets HttpHeaders parameter of headers Body Internal, which executes HttpHeaders parameter of headers Internal.

@@ -1,0 +1,1 @@
+SourceMetaProvider acts as an observer, which provides.

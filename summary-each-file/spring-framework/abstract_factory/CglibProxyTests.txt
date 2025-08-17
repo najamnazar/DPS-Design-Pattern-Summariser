@@ -1,0 +1,2 @@
+CglibProxyTests acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+CglibProxyTests acts as a product for AdvisorAdapter, which overrides.

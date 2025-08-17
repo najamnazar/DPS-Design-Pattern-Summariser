@@ -1,0 +1,1 @@
+MultipartHttpServletRequest acts as an abstract product for ComplexWebApplicationContext, which is inherited by MockMultipartHttpServletRequest, AbstractMultipartHttpServletRequest.

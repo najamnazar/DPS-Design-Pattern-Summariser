@@ -1,0 +1,1 @@
+AsyncCallbackToCompletableFutureAdapter acts as an observer, which sets T parameter of result Result, which gets Future, which does boolean parameter of doneSync.

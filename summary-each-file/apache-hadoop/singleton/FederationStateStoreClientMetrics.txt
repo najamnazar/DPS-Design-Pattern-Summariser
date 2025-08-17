@@ -1,0 +1,1 @@
+FederationStateStoreClientMetrics acts as a singleton, which gets a FederationStateStoreClientMetrics Instance to.

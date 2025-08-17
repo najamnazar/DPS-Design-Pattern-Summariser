@@ -1,0 +1,1 @@
+RedisGeoTest acts as a caretaker for memento Producer, which setups Tests, which shoulds Execute GEOADD, which shoulds Execute GEODIST, which shoulds Execute GEOHASH, which shoulds Execute GEOPOS, which shoulds Execute GEORADIUS, which shoulds Execute GEORADIUSBYMEMBER.

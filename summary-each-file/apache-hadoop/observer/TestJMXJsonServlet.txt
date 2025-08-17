@@ -1,0 +1,1 @@
+TestJMXJsonServlet acts as a publisher for observer URL, which setups, which cleanups, which asserts String parameter of re, String parameter of value Re Find, which tests Query, which tests Trace Request.

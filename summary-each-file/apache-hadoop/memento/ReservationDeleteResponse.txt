@@ -1,0 +1,2 @@
+ReservationDeleteResponse acts as an originator for memento ReservationDeleteResponse, which is inherited by, which news a ReservationDeleteResponse Instance to.
+ReservationDeleteResponse acts as a memento, which is inherited by ReservationDeleteResponsePBImpl, which news Instance.

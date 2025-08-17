@@ -1,0 +1,1 @@
+HttpHandlerRegistrationInfo acts as an adaptee for adapter UndertowEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

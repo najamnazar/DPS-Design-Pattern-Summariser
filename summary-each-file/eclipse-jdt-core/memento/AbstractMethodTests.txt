@@ -1,0 +1,4 @@
+AbstractMethodTests acts as a caretaker for memento E, which compares Object parameter of o1, Object parameter of o2, which suites, which test001s, which test002s, which test003s, which gets IResource[] parameter of resources Resource Ouput.
+AbstractMethodTests acts as a caretaker for memento R, which compares Object parameter of o1, Object parameter of o2, which suites, which test001s, which test002s, which test003s, which gets IResource[] parameter of resources Resource Ouput.
+AbstractMethodTests acts as a caretaker for memento Test, which compares Object parameter of o1, Object parameter of o2, which suites, which test001s, which test002s, which test003s, which gets IResource[] parameter of resources Resource Ouput.
+AbstractMethodTests acts as a caretaker for memento C, which compares Object parameter of o1, Object parameter of o2, which suites, which test001s, which test002s, which test003s, which gets IResource[] parameter of resources Resource Ouput.

@@ -1,0 +1,1 @@
+Ddb2StreamEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which does Start, which does Stop, which gets Configuration, which gets Client, which creates Ddb Stream Client, which tos String.

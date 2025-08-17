@@ -1,0 +1,1 @@
+StopContainersResponse acts as an abstract product for StopContainersResponse, which is inherited by StopContainersResponsePBImpl.

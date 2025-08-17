@@ -1,0 +1,2 @@
+IDOMMethod acts as an abstract factory for, which is inherited by DOMMethod.
+IDOMMethod acts as an abstract product for IDOMMethod, which is inherited by DOMMethod, DOMMethod.

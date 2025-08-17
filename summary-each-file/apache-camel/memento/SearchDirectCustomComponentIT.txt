@@ -1,0 +1,1 @@
+SearchDirectCustomComponentIT acts as a caretaker for memento Component, which gets Uri, which gets Logger.

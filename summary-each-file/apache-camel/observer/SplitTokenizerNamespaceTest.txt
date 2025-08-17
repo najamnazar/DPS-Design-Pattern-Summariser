@@ -1,0 +1,2 @@
+SplitTokenizerNamespaceTest acts as a publisher for observer Service, which tests Split Tokenizer With Implicit Namespaces, which tests Split Tokenizer With Explicit Namespaces, which gets Xml Body, which creates Route Builder.
+SplitTokenizerNamespaceTest acts as a publisher for observer CamelContext, which tests Split Tokenizer With Implicit Namespaces, which tests Split Tokenizer With Explicit Namespaces, which gets Xml Body, which creates Route Builder.

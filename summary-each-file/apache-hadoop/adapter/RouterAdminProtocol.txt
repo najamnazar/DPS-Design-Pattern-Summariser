@@ -1,0 +1,1 @@
+RouterAdminProtocol acts as an adaptee for adapter RouterAdminServer.

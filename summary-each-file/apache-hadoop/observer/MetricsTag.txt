@@ -1,0 +1,2 @@
+MetricsTag acts as an observer for publisher MetricsRecordBuilder, MetricsRecordBuilderImpl, which is inherited by, which names, which descriptions, which infos, which values, which equals Object parameter of obj, which hashes Code, which tos String.
+MetricsTag acts as an observer, which names, which descriptions, which infos, which values, which equals Object parameter of obj, which hashes Code, which tos String.

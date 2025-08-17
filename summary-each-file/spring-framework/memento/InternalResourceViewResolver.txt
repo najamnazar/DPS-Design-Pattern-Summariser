@@ -1,0 +1,2 @@
+InternalResourceViewResolver acts as a caretaker for memento C, which sets boolean parameter of alwaysInclude Always Include, which requires View Class, which instantiates View, which builds String parameter of viewName View.
+InternalResourceViewResolver acts as a caretaker for memento B, which sets boolean parameter of alwaysInclude Always Include, which requires View Class, which instantiates View, which builds String parameter of viewName View.

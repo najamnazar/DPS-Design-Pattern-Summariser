@@ -1,0 +1,1 @@
+DataBufferWrapper acts as a decorator for component DataBuffer, which is inherited by LeakAwareDataBuffer.

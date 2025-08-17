@@ -1,0 +1,1 @@
+CamelPublisher acts as a caretaker for memento Producer, which subscribes Subscriber<? parameter of super, which unsubscribes CamelSubscription parameter of subscription, which publishes Exchange parameter of data, which attaches ReactiveStreamsProducer parameter of producer Producer, which detaches Producer, which closes, which gets Subscriptions.

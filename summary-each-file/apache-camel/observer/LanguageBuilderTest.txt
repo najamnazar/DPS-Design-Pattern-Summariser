@@ -1,0 +1,2 @@
+LanguageBuilderTest acts as a publisher for observer Service, which tests Camel, which creates Route Builder.
+LanguageBuilderTest acts as a publisher for observer CamelContext, which tests Camel, which creates Route Builder.

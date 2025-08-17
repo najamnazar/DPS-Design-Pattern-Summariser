@@ -1,0 +1,2 @@
+WindowSpecification acts as an observer, which $windows Definition, which $partitions By, which $orders By, which $frames Units, which $frames Start, which $frames End, which $excludes.
+WindowSpecification acts as an observer for publisher AbstractWindowFunction, which is inherited by WindowSpecificationFinalStep, which $windows Definition, which $partitions By, which $orders By, which $frames Units, which $frames Start, which $frames End, which $excludes.

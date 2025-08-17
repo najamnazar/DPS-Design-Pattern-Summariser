@@ -1,0 +1,2 @@
+FsDatasetTestUtils acts as a factory for BlockSender, which overrides.
+FsDatasetTestUtils acts as an abstract product for MiniDFSCluster, which is inherited by FsDatasetImplTestUtils.

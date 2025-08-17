@@ -1,0 +1,12 @@
+DefaultUniqueKeyDefinition acts as a visitor for element DataType, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element ExecuteContext, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element Queries, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element TransactionListener, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element Meta, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element DSLContext, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element Relations, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element TransactionProvider, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element Version, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element Configuration, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element CacheProvider, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.
+DefaultUniqueKeyDefinition acts as a visitor for element AlterDatabaseStep, which overrides, which is a Primary Key to, which gets a Key Columns to, which gets a Foreign Keys to, which resolves a Referenced Key to.

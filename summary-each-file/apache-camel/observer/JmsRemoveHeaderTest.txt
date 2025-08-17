@@ -1,0 +1,1 @@
+JmsRemoveHeaderTest acts as a publisher for observer ArtemisService, which tests Remove Header, which gets Component Name, which creates Route Builder.

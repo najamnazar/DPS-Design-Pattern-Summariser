@@ -1,0 +1,1 @@
+CronComponent acts as an adapter, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts initCamelCronService method of CamelCronService to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

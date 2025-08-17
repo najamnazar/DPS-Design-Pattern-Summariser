@@ -1,0 +1,2 @@
+RenewDelegationTokenResponsePBImpl acts as a product for MRClientProtocol, which overrides getNextExpirationTime method of RenewDelegationTokenResponse, setNextExpirationTime method of RenewDelegationTokenResponse.
+RenewDelegationTokenResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides getNextExpirationTime method of RenewDelegationTokenResponse, setNextExpirationTime method of RenewDelegationTokenResponse.

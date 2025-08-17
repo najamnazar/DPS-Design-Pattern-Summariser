@@ -1,0 +1,1 @@
+CustomSQLErrorCodesTranslation acts as a caretaker for memento C, which sets String... parameter of errorCodes Error Codes, which gets Error Codes, which sets @Nullable parameter of Class<?> Exception Class, which gets Exception Class.

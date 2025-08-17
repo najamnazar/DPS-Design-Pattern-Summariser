@@ -1,0 +1,1 @@
+CamelServerEndpoint acts as an observer, which gets Endpoints, which gets Session, which ons final parameter of Session, final parameter of EndpointConfig Open, which ons final parameter of Session, final parameter of CloseReason Close, which ons final parameter of Session, final parameter of Throwable Error, which propagates final parameter of Object Exchange.

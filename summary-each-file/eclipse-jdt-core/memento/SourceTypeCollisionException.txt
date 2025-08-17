@@ -1,0 +1,2 @@
+SourceTypeCollisionException acts as a caretaker for memento ICompilationUnit.
+SourceTypeCollisionException acts as a caretaker for memento C.

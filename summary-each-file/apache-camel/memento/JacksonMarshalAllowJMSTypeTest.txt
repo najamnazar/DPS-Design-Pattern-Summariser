@@ -1,0 +1,2 @@
+JacksonMarshalAllowJMSTypeTest acts as a caretaker for memento Context, which tests Unmarshal Pojo, which creates Route Builder.
+JacksonMarshalAllowJMSTypeTest acts as a caretaker for memento Producer, which tests Unmarshal Pojo, which creates Route Builder.

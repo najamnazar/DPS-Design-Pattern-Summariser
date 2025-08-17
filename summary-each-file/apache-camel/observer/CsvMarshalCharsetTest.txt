@@ -1,0 +1,5 @@
+CsvMarshalCharsetTest acts as a publisher for observer ConsumerTemplate, which tests Marshal, which creates Route Builder.
+CsvMarshalCharsetTest acts as a publisher for observer ProducerTemplate, which tests Marshal, which creates Route Builder.
+CsvMarshalCharsetTest acts as a publisher for observer Service, which tests Marshal, which creates Route Builder.
+CsvMarshalCharsetTest acts as a publisher for observer CamelContext, which tests Marshal, which creates Route Builder.
+CsvMarshalCharsetTest acts as a publisher for observer FluentProducerTemplate, which tests Marshal, which creates Route Builder.

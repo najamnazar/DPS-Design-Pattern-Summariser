@@ -1,0 +1,1 @@
+RefreshCallQueueProtocolPB acts as an adaptee for adapter RefreshCallQueueProtocolClientSideTranslatorPB.

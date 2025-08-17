@@ -1,0 +1,1 @@
+JmsSimpleRequestReplyTest acts as a publisher for observer ArtemisService, which tests Request Reply, which tests Request Reply2Messages, which gets Component Name, which creates Route Builder.

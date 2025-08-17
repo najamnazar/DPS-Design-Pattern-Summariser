@@ -1,0 +1,4 @@
+PermittedSubclassesAttribute acts as a caretaker for memento E, which gets Number Of Permitted Subclasses, which gets Permitted Subclass Attributes Entries.
+PermittedSubclassesAttribute acts as a caretaker for memento C, which gets Number Of Permitted Subclasses, which gets Permitted Subclass Attributes Entries.
+PermittedSubclassesAttribute acts as a caretaker for memento Class, which gets Number Of Permitted Subclasses, which gets Permitted Subclass Attributes Entries.
+PermittedSubclassesAttribute acts as a caretaker for memento S, which gets Number Of Permitted Subclasses, which gets Permitted Subclass Attributes Entries.

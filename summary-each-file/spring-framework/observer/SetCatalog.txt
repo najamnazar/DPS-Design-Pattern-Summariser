@@ -1,0 +1,1 @@
+SetCatalog acts as a publisher for observer Catalog, which is inherited by, which accepts Context<?> parameter of ctx, which $catalogs, which $catalogs Catalog parameter of newValue, which $constructors.

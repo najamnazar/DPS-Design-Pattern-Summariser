@@ -1,0 +1,2 @@
+SplitterWithXqureyTest acts as a publisher for observer Service, which creates Route Builder, which tests Sender Xml Data.
+SplitterWithXqureyTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Sender Xml Data.

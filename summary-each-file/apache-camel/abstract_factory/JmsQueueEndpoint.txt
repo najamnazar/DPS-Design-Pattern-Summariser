@@ -1,0 +1,1 @@
+JmsQueueEndpoint acts as a factory for JmsBrowsableEndpoint, which overrides.

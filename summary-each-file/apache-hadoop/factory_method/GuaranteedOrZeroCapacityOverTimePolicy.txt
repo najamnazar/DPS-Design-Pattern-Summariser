@@ -1,0 +1,1 @@
+GuaranteedOrZeroCapacityOverTimePolicy acts as a product for CapacitySchedulerConfiguration, which overrides computeQueueManagementChanges method of AutoCreatedQueueManagementPolicy, commitQueueManagementChanges method of AutoCreatedQueueManagementPolicy, getInitialLeafQueueConfiguration method of AutoCreatedQueueManagementPolicy.

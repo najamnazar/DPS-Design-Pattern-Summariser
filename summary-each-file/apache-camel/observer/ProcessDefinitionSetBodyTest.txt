@@ -1,0 +1,2 @@
+ProcessDefinitionSetBodyTest acts as a publisher for observer CamelContext, which tests Process Definition Set Body, which creates Route Builder.
+ProcessDefinitionSetBodyTest acts as a publisher for observer Service, which tests Process Definition Set Body, which creates Route Builder.

@@ -1,0 +1,1 @@
+Iterator acts as an originator for memento E, which nexts E.

@@ -1,0 +1,2 @@
+FileAsyncStressFileDropperManualTest acts as a publisher for observer CamelContext, which gets Filename, which tests Drop In New Files, which creates Route Builder.
+FileAsyncStressFileDropperManualTest acts as a publisher for observer Service, which gets Filename, which tests Drop In New Files, which creates Route Builder.

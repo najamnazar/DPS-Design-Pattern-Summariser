@@ -1,0 +1,1 @@
+GETATTR3Response acts as a publisher for observer Nfs3FileAttributes, which is inherited by, which sets Nfs3FileAttributes parameter of postOpAttr Post Op Attr, which deserializes XDR parameter of xdr, which serializes XDR parameter of out, int parameter of xid, Verifier parameter of verifier.

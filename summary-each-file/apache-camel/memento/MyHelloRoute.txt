@@ -1,0 +1,2 @@
+MyHelloRoute acts as a caretaker for memento Configuration, which configures.
+MyHelloRoute acts as a caretaker for memento MyHelloBean, which configures.

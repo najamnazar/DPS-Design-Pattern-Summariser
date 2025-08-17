@@ -1,0 +1,1 @@
+SequenceFileAsTextRecordReader acts as a caretaker for memento WritableComparable, which creates Key, which creates Value, which nexts Text parameter of key, Text parameter of value, which gets Progress, which gets Pos, which closes.

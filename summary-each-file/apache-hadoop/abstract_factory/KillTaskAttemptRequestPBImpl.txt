@@ -1,0 +1,1 @@
+KillTaskAttemptRequestPBImpl acts as a factory for KillTaskAttemptRequest, which overrides getTaskAttemptId method of KillTaskAttemptRequest, setTaskAttemptId method of KillTaskAttemptRequest.

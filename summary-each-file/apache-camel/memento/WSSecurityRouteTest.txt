@@ -1,0 +1,1 @@
+WSSecurityRouteTest acts as a caretaker for memento Context, which setups Context, which creates Application Context, which tests Signature, which tests Username Token, which tests Encryption, which tests Security Policy.

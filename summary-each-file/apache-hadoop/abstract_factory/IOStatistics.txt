@@ -1,0 +1,1 @@
+IOStatistics acts as an abstract product for IOStatistics, which is inherited by AbstractIOStatisticsImpl, IOStatisticsSetters, IOStatisticsStore, IOStatisticsSnapshot.

@@ -1,0 +1,1 @@
+Etcd3ServiceDiscovery acts as a publisher for observer CamelContext, which does Stop, which finds Services, which finds Predicate<Etcd3ServiceDefinition> parameter of filter Services, which nodes String parameter of value From String.

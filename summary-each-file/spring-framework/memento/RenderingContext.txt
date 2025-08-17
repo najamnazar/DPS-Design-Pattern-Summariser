@@ -1,0 +1,3 @@
+RenderingContext acts as a caretaker for memento ApplicationContext, which gets Application Context, which gets Locale, which gets Template Loader, which gets Url.
+RenderingContext acts as a caretaker for memento A, which gets Application Context, which gets Locale, which gets Template Loader, which gets Url.
+RenderingContext acts as a caretaker for memento C, which gets Application Context, which gets Locale, which gets Template Loader, which gets Url.

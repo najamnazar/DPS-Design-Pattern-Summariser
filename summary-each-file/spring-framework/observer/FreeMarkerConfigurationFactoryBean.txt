@@ -1,0 +1,2 @@
+FreeMarkerConfigurationFactoryBean acts as a publisher for observer Resource, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.
+FreeMarkerConfigurationFactoryBean acts as a publisher for observer ResourceLoader, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.

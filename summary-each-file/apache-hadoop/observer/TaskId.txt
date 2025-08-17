@@ -1,0 +1,2 @@
+TaskId acts as an observer for publisher TaskReportPBImpl, which is inherited by TaskIdPBImpl, which gets Job Id, which gets Id, which tos String, which hashes Code, which equals final parameter of Object, which writes final parameter of DataOutput, which reads final parameter of DataInput Fields.
+TaskId acts as an observer, which gets Job Id, which gets Id, which tos String, which hashes Code, which equals final parameter of Object, which writes final parameter of DataOutput, which reads final parameter of DataInput Fields.

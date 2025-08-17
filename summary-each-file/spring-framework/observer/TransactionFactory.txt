@@ -1,0 +1,1 @@
+TransactionFactory acts as an observer for publisher AbstractMessageEndpointFactory, GenericMessageEndpointFactory, JmsMessageEndpointFactory, which is inherited by SimpleTransactionFactory, JtaTransactionManager, which creates @Nullable parameter of String, int parameter of timeout Transaction, which supports Resource Adapter Managed Transactions.

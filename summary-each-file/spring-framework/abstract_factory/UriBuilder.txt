@@ -1,0 +1,4 @@
+UriBuilder acts as an abstract product for UriBuilder, which is inherited by UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder, UriComponentsBuilder.
+UriBuilder acts as an abstract factory for UriBuilder, which is inherited by UriComponentsBuilder.
+UriBuilder acts as an abstract product for UriBuilder, which is inherited by UriComponentsBuilder.
+UriBuilder acts as an abstract product for UriBuilder, which is inherited by UriComponentsBuilder, UriComponentsBuilder.

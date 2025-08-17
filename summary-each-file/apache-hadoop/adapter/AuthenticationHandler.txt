@@ -1,0 +1,1 @@
+AuthenticationHandler acts as a target for adapter DelegationTokenAuthenticationHandler, which adapts to AuthenticationHandler, which adapts to AuthenticationHandler, which adapts to AuthenticationHandler, which adapts to AuthenticationHandler, which adapts to AuthenticationHandler.

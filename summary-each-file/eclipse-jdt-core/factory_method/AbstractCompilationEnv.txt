@@ -1,0 +1,4 @@
+AbstractCompilationEnv acts as a factory method for EclipseMessager, which is inherited by AbstractCompilationEnv, AbstractCompilationEnv, EclipseAnnotationProcessorEnvironment.
+AbstractCompilationEnv acts as a factory for BuildEnv, which overrides.
+AbstractCompilationEnv acts as a factory for AbstractCompilationEnv, which overrides.
+AbstractCompilationEnv acts as a factory for AptUtil, which overrides.

@@ -1,0 +1,7 @@
+AnnotatedRoute acts as a publisher for observer RoutesDefinition, which configures.
+AnnotatedRoute acts as a publisher for observer RestsDefinition, which configures.
+AnnotatedRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+AnnotatedRoute acts as a publisher for observer Resource, which configures.
+AnnotatedRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+AnnotatedRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+AnnotatedRoute acts as an observer, which configures.

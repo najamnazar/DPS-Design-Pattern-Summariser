@@ -1,0 +1,2 @@
+RedeliverToSubRouteTest acts as a publisher for observer CamelContext, which tests Redeliver To Sub Route, which creates Route Builder, which processes Exchange parameter of exchange.
+RedeliverToSubRouteTest acts as a publisher for observer Service, which tests Redeliver To Sub Route, which creates Route Builder, which processes Exchange parameter of exchange.

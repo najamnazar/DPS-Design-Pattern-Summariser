@@ -1,0 +1,1 @@
+ApiMethodImpl acts as an observer, which gets Name, which gets Result Type, which gets Arg Names, which gets Arg Types, which gets Method, which tos String.

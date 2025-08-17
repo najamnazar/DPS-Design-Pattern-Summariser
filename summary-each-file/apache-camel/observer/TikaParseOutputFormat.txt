@@ -1,0 +1,1 @@
+TikaParseOutputFormat acts as an observer for publisher TikaConfiguration, which is inherited by.

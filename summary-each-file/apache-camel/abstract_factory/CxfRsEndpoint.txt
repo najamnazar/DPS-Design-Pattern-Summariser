@@ -1,0 +1,2 @@
+CxfRsEndpoint acts as a factory for HeaderFilterStrategyAware, which overrides getHeaderFilterStrategy method of HeaderFilterStrategyAware, setHeaderFilterStrategy method of HeaderFilterStrategyAware.
+CxfRsEndpoint acts as an abstract product for CxfRsEndpoint, which is inherited by CxfRsSpringEndpoint.

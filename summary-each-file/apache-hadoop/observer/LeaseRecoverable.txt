@@ -1,0 +1,1 @@
+LeaseRecoverable acts as a publisher for observer Path, which is inherited by DistributedFileSystem, which recovers Path parameter of file Lease, which is Path parameter of file File Closed.

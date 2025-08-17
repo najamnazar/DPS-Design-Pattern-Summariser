@@ -1,0 +1,1 @@
+IBinaryMethod acts as a memento, which is inherited by MethodInfo, which is Clinit, which is Clinit, which is Clinit, which is Clinit.

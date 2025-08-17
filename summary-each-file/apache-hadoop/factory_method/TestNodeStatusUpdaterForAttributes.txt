@@ -1,0 +1,1 @@
+TestNodeStatusUpdaterForAttributes acts as a factory method for MasterKey, which is inherited by NMStateStoreService, BaseContainerTokenSecretManager, RegisterNodeManagerResponse, NodeHeartbeatRequest, NMStateStoreService, NodeHeartbeatResponse, BaseNMTokenSecretManager, BaseNMTokenSecretManager, AMRMTokenSecretManagerState, NMStateStoreService, BaseContainerTokenSecretManager.

@@ -1,0 +1,3 @@
+SimpleMetadataReaderFactory acts as a factory for MetadataReaderFactory, which overrides.
+SimpleMetadataReaderFactory acts as a product for ClassPathScanningCandidateComponentProvider, which overrides getMetadataReader method of MetadataReaderFactory, getMetadataReader method of MetadataReaderFactory.
+SimpleMetadataReaderFactory acts as a factory for FreeMarkerConfigurationFactory, which overrides.

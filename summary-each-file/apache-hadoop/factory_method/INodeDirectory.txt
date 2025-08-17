@@ -1,0 +1,2 @@
+INodeDirectory acts as a product for INodeDirectory, which overrides isDirectory method of INodeDirectoryAttributes, getQuotaCounts method of INodeDirectoryAttributes, getQuotaCounts method of INodeDirectoryAttributes, getQuotaCounts method of INodeDirectoryAttributes, metadataEquals method of INodeDirectoryAttributes, metadataEquals method of INodeDirectoryAttributes.
+INodeDirectory acts as a factory method for INodeDirectoryAttributes, which is inherited by DirectoryWithSnapshotFeature.

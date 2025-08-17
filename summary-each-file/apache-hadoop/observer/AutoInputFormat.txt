@@ -1,0 +1,3 @@
+AutoInputFormat acts as a publisher for observer PathFilter, which configures JobConf parameter of job, which gets InputSplit parameter of split, JobConf parameter of job, Reporter parameter of reporter Record Reader.
+AutoInputFormat acts as a publisher for observer Path, which configures JobConf parameter of job, which gets InputSplit parameter of split, JobConf parameter of job, Reporter parameter of reporter Record Reader.
+AutoInputFormat acts as a publisher for observer NodeInfo, which configures JobConf parameter of job, which gets InputSplit parameter of split, JobConf parameter of job, Reporter parameter of reporter Record Reader.

@@ -1,0 +1,1 @@
+JmsInOnlyInvalidDestinationTest acts as a publisher for observer ArtemisService, which tests Invalid Destination, which gets Component Name, which creates Route Builder, which resolves Session parameter of session, String parameter of destinationName, boolean parameter of pubSubDomain Destination Name.

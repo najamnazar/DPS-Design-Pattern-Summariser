@@ -1,0 +1,1 @@
+ManagedTransactionAdapter acts as an observer, which gets Transaction Manager, which commits, which rollbacks, which sets Rollback Only, which gets Status, which enlists XAResource parameter of xaRes Resource, which delists XAResource parameter of xaRes, int parameter of flag Resource, which registers Synchronization parameter of sync Synchronization.

@@ -1,0 +1,2 @@
+RouteTemplateChoiceInPreconditionModeTest acts as a publisher for observer CamelContext, which tests Red, which tests Blue, which tests Not Provided Blue, which tests Not Provided, which creates Route Builder.
+RouteTemplateChoiceInPreconditionModeTest acts as a publisher for observer Service, which tests Red, which tests Blue, which tests Not Provided Blue, which tests Not Provided, which creates Route Builder.

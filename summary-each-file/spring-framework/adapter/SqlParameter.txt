@@ -1,0 +1,1 @@
+SqlParameter acts as a target for adapter ResultSetSupportingSqlParameter, which adapts to SqlParameter, which adapts to SqlParameter, which adapts to SqlParameter, which adapts to SqlParameter, which adapts to SqlParameter, which adapts to SqlParameter, which adapts to SqlParameter.

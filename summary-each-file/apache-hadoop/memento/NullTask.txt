@@ -1,0 +1,1 @@
+NullTask acts as a caretaker for memento TaskType.

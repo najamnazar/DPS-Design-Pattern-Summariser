@@ -1,0 +1,1 @@
+SmartContextLoader acts as an abstract factory for ApplicationContext, which is inherited by AbstractDelegatingSmartContextLoader, AbstractContextLoader.

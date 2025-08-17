@@ -1,0 +1,1 @@
+VertxKafkaManualCommitFactory acts as an abstract factory for VertxKafkaManualCommit, which is inherited by DefaultVertxKafkaManualCommitFactory.

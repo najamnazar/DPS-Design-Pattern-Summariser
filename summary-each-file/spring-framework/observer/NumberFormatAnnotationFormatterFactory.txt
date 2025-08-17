@@ -1,0 +1,1 @@
+NumberFormatAnnotationFormatterFactory acts as a publisher for observer StringValueResolver, which gets Field Types, which gets NumberFormat parameter of annotation, Class<?> parameter of fieldType Printer, which gets NumberFormat parameter of annotation, Class<?> parameter of fieldType Parser, which configures NumberFormat parameter of annotation Formatter From.

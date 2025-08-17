@@ -1,0 +1,1 @@
+JSONTableColumnsStep acts as an abstract product for JSONTableColumnsStep, which is inherited by JSONTableColumnPathStep.

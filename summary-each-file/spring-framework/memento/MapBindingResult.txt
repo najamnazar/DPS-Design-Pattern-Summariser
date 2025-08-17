@@ -1,0 +1,2 @@
+MapBindingResult acts as a caretaker for memento C, which gets Target Map, which gets Target, which gets String parameter of field Actual Field Value.
+MapBindingResult acts as a caretaker for memento Message, which gets Target Map, which gets Target, which gets String parameter of field Actual Field Value.

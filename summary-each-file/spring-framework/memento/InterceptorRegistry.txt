@@ -1,0 +1,2 @@
+InterceptorRegistry acts as a caretaker for memento C, which adds HandlerInterceptor parameter of interceptor Interceptor, which adds WebRequestInterceptor parameter of interceptor Web Request Interceptor, which gets Interceptors.
+InterceptorRegistry acts as a caretaker for memento Comparator, which adds HandlerInterceptor parameter of interceptor Interceptor, which adds WebRequestInterceptor parameter of interceptor Web Request Interceptor, which gets Interceptors.

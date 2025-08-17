@@ -1,0 +1,1 @@
+CachedOutputStream acts as a factory for SourceCache, which overrides reset method of SourceCache.

@@ -1,0 +1,3 @@
+ExternalFolderChange acts as a caretaker for memento C, which updates boolean parameter of refreshIfExistAlready, IProgressMonitor parameter of monitor External Folders If Necessary, which tos String.
+ExternalFolderChange acts as a caretaker for memento E, which updates boolean parameter of refreshIfExistAlready, IProgressMonitor parameter of monitor External Folders If Necessary, which tos String.
+ExternalFolderChange acts as a caretaker for memento Class, which updates boolean parameter of refreshIfExistAlready, IProgressMonitor parameter of monitor External Folders If Necessary, which tos String.

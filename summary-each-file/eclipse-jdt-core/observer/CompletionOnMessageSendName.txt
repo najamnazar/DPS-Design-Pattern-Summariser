@@ -1,0 +1,2 @@
+CompletionOnMessageSendName acts as an observer, which resolves BlockScope parameter of scope Type, which prints int parameter of indent, StringBuilder parameter of output Expression.
+CompletionOnMessageSendName acts as a publisher for observer TypeBinding, which resolves BlockScope parameter of scope Type, which prints int parameter of indent, StringBuilder parameter of output Expression.

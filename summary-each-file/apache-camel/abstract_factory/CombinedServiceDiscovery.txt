@@ -1,0 +1,1 @@
+CombinedServiceDiscovery acts as a product for ServiceDiscoveryAware, which overrides getServices method of ServiceDiscovery.

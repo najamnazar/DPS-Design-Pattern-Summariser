@@ -1,0 +1,2 @@
+ModuleMainClassAttribute acts as a caretaker for memento C, which gets Main Class Index, which gets Main Class Name.
+ModuleMainClassAttribute acts as a caretaker for memento Class, which gets Main Class Index, which gets Main Class Name.

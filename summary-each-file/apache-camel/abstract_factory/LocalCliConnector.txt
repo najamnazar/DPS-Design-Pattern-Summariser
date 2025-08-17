@@ -1,0 +1,2 @@
+LocalCliConnector acts as a product for CliConnectorFactory, which overrides sigterm method of CliConnector.
+LocalCliConnector acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

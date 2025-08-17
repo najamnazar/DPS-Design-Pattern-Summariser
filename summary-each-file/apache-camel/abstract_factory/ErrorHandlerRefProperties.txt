@@ -1,0 +1,4 @@
+ErrorHandlerRefProperties acts as a product for ModelReifierFactory, which overrides.
+ErrorHandlerRefProperties acts as a product for ErrorHandlerFactory, which overrides.
+ErrorHandlerRefProperties acts as a product for Route, which overrides.
+ErrorHandlerRefProperties acts as a product for ExtendedCamelContext, which overrides.

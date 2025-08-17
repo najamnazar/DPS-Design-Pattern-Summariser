@@ -1,0 +1,2 @@
+MemberTypeBinding acts as a caretaker for memento Binding, which checks Synthetic Args And Fields, which constants Pool Name, which tos String.
+MemberTypeBinding acts as a caretaker for memento S, which checks Synthetic Args And Fields, which constants Pool Name, which tos String.

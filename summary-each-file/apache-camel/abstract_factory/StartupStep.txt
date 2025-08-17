@@ -1,0 +1,1 @@
+StartupStep acts as an abstract product for StartupStep, which is inherited by FlightRecorderStartupStep, DefaultStartupStep.

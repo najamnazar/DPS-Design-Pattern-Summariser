@@ -1,0 +1,1 @@
+S3AContract acts as an adaptee for adapter ITestS3AFSMainOperations, which adapts to FSMainOperationsBaseTest, which adapts to FSMainOperationsBaseTest.

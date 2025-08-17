@@ -1,0 +1,1 @@
+FinalizeCommand acts as a product for DatanodeProtocol, which overrides.

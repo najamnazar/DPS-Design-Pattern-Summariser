@@ -1,0 +1,1 @@
+TransactionStatus acts as an observer for publisher MockCallbackPreferringTransactionManager, which is inherited by AbstractTransactionStatus, which has Savepoint, which flushes.

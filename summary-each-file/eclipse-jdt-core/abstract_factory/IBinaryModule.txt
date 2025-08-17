@@ -1,0 +1,5 @@
+IBinaryModule acts as a product for IMultiModuleEntry, which overrides.
+IBinaryModule acts as a product for IModule, which overrides.
+IBinaryModule acts as a product for IModulePathEntry, which overrides.
+IBinaryModule acts as a product for IModuleAwareNameEnvironment, which overrides.
+IBinaryModule acts as a product for AbstractModule, which overrides.

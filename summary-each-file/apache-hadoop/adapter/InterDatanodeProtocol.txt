@@ -1,0 +1,2 @@
+InterDatanodeProtocol acts as an adaptee for adapter DataNode, which adapts to ReconfigurableBase, DataNodeMXBean, which adapts to ReconfigurableBase, DataNodeMXBean.
+InterDatanodeProtocol acts as an adaptee for adapter InterDatanodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, which adapts to ProtocolMetaInterface.

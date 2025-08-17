@@ -1,0 +1,1 @@
+MockAMLauncher acts as an adapter, which adapts to ApplicationMasterLauncher, which adapts to ApplicationMasterLauncher, which adapts to ApplicationMasterLauncher, which adapts to ApplicationMasterLauncher, which adapts to ApplicationMasterLauncher.

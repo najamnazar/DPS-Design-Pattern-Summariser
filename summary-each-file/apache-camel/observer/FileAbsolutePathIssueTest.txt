@@ -1,0 +1,2 @@
+FileAbsolutePathIssueTest acts as a publisher for observer CamelContext, which sets Up, which tests Move Absolute, which creates Route Builder.
+FileAbsolutePathIssueTest acts as a publisher for observer Service, which sets Up, which tests Move Absolute, which creates Route Builder.

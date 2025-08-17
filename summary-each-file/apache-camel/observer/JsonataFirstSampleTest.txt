@@ -1,0 +1,5 @@
+JsonataFirstSampleTest acts as a publisher for observer ProducerTemplate, which tests First Sample Jsonata, which creates Route Builder.
+JsonataFirstSampleTest acts as a publisher for observer FluentProducerTemplate, which tests First Sample Jsonata, which creates Route Builder.
+JsonataFirstSampleTest acts as a publisher for observer ConsumerTemplate, which tests First Sample Jsonata, which creates Route Builder.
+JsonataFirstSampleTest acts as a publisher for observer Service, which tests First Sample Jsonata, which creates Route Builder.
+JsonataFirstSampleTest acts as a publisher for observer CamelContext, which tests First Sample Jsonata, which creates Route Builder.

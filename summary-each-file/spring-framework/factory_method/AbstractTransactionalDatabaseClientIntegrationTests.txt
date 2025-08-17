@@ -1,0 +1,3 @@
+AbstractTransactionalDatabaseClientIntegrationTests acts as a factory for TransactionalOperator, which overrides.
+AbstractTransactionalDatabaseClientIntegrationTests acts as a factory for AbstractTransactionalDatabaseClientIntegrationTests, which overrides.
+AbstractTransactionalDatabaseClientIntegrationTests acts as a factory method for ReactiveTransactionManager, which is inherited by AbstractTransactionalDatabaseClientIntegrationTests, TransactionAspectSupport.

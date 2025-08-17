@@ -1,0 +1,1 @@
+SqlProcessingStrategy acts as an adaptee for adapter SqlConsumer, which adapts to ScheduledBatchPollingConsumer, which adapts to ScheduledBatchPollingConsumer.

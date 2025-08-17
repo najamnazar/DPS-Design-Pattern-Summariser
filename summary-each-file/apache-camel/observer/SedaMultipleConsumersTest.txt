@@ -1,0 +1,2 @@
+SedaMultipleConsumersTest acts as a publisher for observer CamelContext, which tests Seda Multiple Consumers, which tests Seda Multiple Consumers New Added, which creates Route Builder.
+SedaMultipleConsumersTest acts as a publisher for observer Service, which tests Seda Multiple Consumers, which tests Seda Multiple Consumers New Added, which creates Route Builder.

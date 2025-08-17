@@ -1,0 +1,1 @@
+ApplicationTimeoutPBImpl acts as an originator for memento ApplicationTimeoutType, which gets an ApplicationTimeoutType Timeout Type to, which sets ApplicationTimeoutType parameter of type Timeout Type.

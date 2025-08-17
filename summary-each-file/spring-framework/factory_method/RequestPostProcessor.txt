@@ -1,0 +1,1 @@
+RequestPostProcessor acts as an abstract product for MockMvcConfigurer, which is inherited by ForwardRequestPostProcessor.

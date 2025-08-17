@@ -1,0 +1,2 @@
+RefreshAdminAclsResponse acts as an originator for memento RefreshAdminAclsResponse, which is inherited by, which news a RefreshAdminAclsResponse Instance to.
+RefreshAdminAclsResponse acts as a memento, which is inherited by RefreshAdminAclsResponsePBImpl, which news Instance.

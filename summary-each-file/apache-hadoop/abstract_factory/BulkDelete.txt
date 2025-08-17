@@ -1,0 +1,2 @@
+BulkDelete acts as an abstract product for BulkDelete, which is inherited by BulkDeleteOperation, DefaultBulkDeleteOperation.
+BulkDelete acts as an abstract factory for, which is inherited by BulkDeleteOperation, DefaultBulkDeleteOperation.

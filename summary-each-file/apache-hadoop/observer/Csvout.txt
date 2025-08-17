@@ -1,0 +1,1 @@
+Csvout acts as an observer, which closes, which writes Object parameter of o, which newlines, which writes Object... parameter of objects.

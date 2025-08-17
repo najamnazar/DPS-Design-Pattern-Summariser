@@ -1,0 +1,2 @@
+ConstantTrimTest acts as a publisher for observer CamelContext, which tests Trim, which creates Route Builder.
+ConstantTrimTest acts as a publisher for observer Service, which tests Trim, which creates Route Builder.

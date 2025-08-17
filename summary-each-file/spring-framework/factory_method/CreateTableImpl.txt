@@ -1,0 +1,5 @@
+CreateTableImpl acts as a product for CreateTableWithDataStep, which overrides.
+CreateTableImpl acts as a product for CreateTableStorageStep, which overrides.
+CreateTableImpl acts as a product for CreateTableAsStep, which overrides.
+CreateTableImpl acts as a product for CreateTableCommentStep, which overrides.
+CreateTableImpl acts as a product for CreateTableOnCommitStep, which overrides.

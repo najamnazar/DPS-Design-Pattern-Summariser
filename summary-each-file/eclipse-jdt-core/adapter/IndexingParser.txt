@@ -1,0 +1,1 @@
+IndexingParser acts as an adapter, which adapts to SourceElementParser, which adapts to SourceElementParser, which adapts to SourceElementParser.

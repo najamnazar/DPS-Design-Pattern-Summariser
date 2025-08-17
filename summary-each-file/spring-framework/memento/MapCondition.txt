@@ -1,0 +1,2 @@
+MapCondition acts as a caretaker for memento C, which accepts Context<?> parameter of ctx.
+MapCondition acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx.

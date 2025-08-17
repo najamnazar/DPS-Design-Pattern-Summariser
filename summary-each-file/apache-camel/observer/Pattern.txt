@@ -1,0 +1,1 @@
+Pattern acts as an observer for publisher MllpServerResource, which is inherited by.

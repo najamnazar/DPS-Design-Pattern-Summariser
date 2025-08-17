@@ -1,0 +1,1 @@
+LoadTimeWeaver acts as an abstract product for LoadTimeWeaver, which is inherited by JBossLoadTimeWeaver, GlassFishLoadTimeWeaver, SimpleLoadTimeWeaver, DefaultContextLoadTimeWeaver, TomcatLoadTimeWeaver, ReflectiveLoadTimeWeaver, InstrumentationLoadTimeWeaver.

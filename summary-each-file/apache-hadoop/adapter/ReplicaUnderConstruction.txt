@@ -1,0 +1,1 @@
+ReplicaUnderConstruction acts as an adapter, which adapts to Block, which adapts to Block, which adapts to Block, which adapts to Block, which adapts to Block, which adapts to Block, which adapts to Block, which adapts to Block, which adapts to Block, which adapts appendStringTo method of DatanodeStorageInfo to Block.

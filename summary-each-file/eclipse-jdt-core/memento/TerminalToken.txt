@@ -1,0 +1,1 @@
+TerminalToken acts as a caretaker for memento Map, which tokens Number, which is TerminalToken parameter of tokenType Restricted Keyword, which gets char[] parameter of text Restricted Keyword, which gets String parameter of text Restricted Keyword, which ofs int parameter of act, which maybes int parameter of act Of.

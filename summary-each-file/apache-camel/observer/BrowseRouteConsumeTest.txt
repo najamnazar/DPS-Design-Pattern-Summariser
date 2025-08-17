@@ -1,0 +1,2 @@
+BrowseRouteConsumeTest acts as a publisher for observer CamelContext, which tests Browse Route, which creates Route Builder.
+BrowseRouteConsumeTest acts as a publisher for observer Service, which tests Browse Route, which creates Route Builder.

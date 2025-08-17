@@ -1,0 +1,1 @@
+Jt400ConfigurationTest acts as a caretaker for memento Configuration, which sets Up, which tests Default Secured, which tests System Name, which tests User ID, which tests Password, which tests Object Path, which tests Default Ccsid, which tests Default Format, which tests Default Gui Available.

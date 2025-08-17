@@ -1,0 +1,5 @@
+IrcConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests Configure Format2, which tests Configure Format3, which tests Configure Format4, which tests Configure Format5, which tests Configure Format6.
+IrcConfigurationTest acts as a publisher for observer Service, which tests Configure Format2, which tests Configure Format3, which tests Configure Format4, which tests Configure Format5, which tests Configure Format6.
+IrcConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests Configure Format2, which tests Configure Format3, which tests Configure Format4, which tests Configure Format5, which tests Configure Format6.
+IrcConfigurationTest acts as a publisher for observer CamelContext, which tests Configure Format2, which tests Configure Format3, which tests Configure Format4, which tests Configure Format5, which tests Configure Format6.
+IrcConfigurationTest acts as a publisher for observer ProducerTemplate, which tests Configure Format2, which tests Configure Format3, which tests Configure Format4, which tests Configure Format5, which tests Configure Format6.

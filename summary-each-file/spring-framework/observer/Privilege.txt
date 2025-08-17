@@ -1,0 +1,1 @@
+Privilege acts as an observer.

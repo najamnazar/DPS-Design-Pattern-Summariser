@@ -1,0 +1,1 @@
+TwitterEndpoint acts as an observer, which gets Properties, which gets Endpoint Type.

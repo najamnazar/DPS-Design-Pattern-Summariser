@@ -1,0 +1,2 @@
+FileIdempotentConsumerLoadStoreTest acts as a publisher for observer CamelContext, which tests Load Store, which sends final parameter of Endpoint, final parameter of Object, final parameter of Object Message, which creates Route Builder.
+FileIdempotentConsumerLoadStoreTest acts as a publisher for observer Service, which tests Load Store, which sends final parameter of Endpoint, final parameter of Object, final parameter of Object Message, which creates Route Builder.

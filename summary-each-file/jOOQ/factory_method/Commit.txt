@@ -1,0 +1,2 @@
+Commit acts as a factory for CommitImpl, which overrides.
+Commit acts as a factory for CatalogMetaProvider, which overrides.

@@ -1,0 +1,1 @@
+LoadTimeWeaver acts as an adaptee for adapter SpringPersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo, which adapts to MutablePersistenceUnitInfo.

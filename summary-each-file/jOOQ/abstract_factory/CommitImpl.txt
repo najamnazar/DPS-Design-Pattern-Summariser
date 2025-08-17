@@ -1,0 +1,6 @@
+CommitImpl acts as a product for MigrationContext, which overrides delta method of Commit, files method of Commit, sources method of Commit, version method of Commit, meta method of Commit.
+CommitImpl acts as a product for Commits, which overrides delta method of Commit, files method of Commit, sources method of Commit, version method of Commit, meta method of Commit.
+CommitImpl acts as a product for Commit, which overrides delta method of Commit, files method of Commit, sources method of Commit, version method of Commit, meta method of Commit.
+CommitImpl acts as a product for Migration, which overrides delta method of Commit, files method of Commit, sources method of Commit, version method of Commit, meta method of Commit.
+CommitImpl acts as a product for DSLContext, which overrides delta method of Commit, files method of Commit, sources method of Commit, version method of Commit, meta method of Commit.
+CommitImpl acts as a factory for Commit, which overrides delta method of Commit, files method of Commit, sources method of Commit, version method of Commit, meta method of Commit.

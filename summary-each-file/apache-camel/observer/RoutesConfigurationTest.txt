@@ -1,0 +1,2 @@
+RoutesConfigurationTest acts as a publisher for observer CamelContext, which tests Routes Configuration, which creates Route Builders.
+RoutesConfigurationTest acts as a publisher for observer Service, which tests Routes Configuration, which creates Route Builders.

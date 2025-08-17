@@ -1,0 +1,1 @@
+TestFairSchedulerWithMultiResourceTypes acts as a publisher for observer Resource, which sets Up, which tears Down, which inits Configuration parameter of conf Resource Types, which tests Maximum Allocation Refresh.

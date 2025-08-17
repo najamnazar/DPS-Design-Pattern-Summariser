@@ -1,0 +1,2 @@
+InterceptSendToEndpoint acts as a publisher for observer Processor, which is inherited by DefaultInterceptSendToEndpoint, which gets Original Endpoint, which gets Before, which sets Processor parameter of before Before, which gets After, which sets Processor parameter of after After, which is Skip.
+InterceptSendToEndpoint acts as an observer, which gets Original Endpoint, which gets Before, which sets Processor parameter of before Before, which gets After, which sets Processor parameter of after After, which is Skip.

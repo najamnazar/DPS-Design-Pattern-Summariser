@@ -1,0 +1,3 @@
+JaxbContextContainer acts as a caretaker for memento A, which creates Class<?> parameter of clazz Marshaller, which creates Class<?> parameter of clazz Unmarshaller, which gets Class<?> parameter of clazz Jaxb Context.
+JaxbContextContainer acts as a caretaker for memento B, which creates Class<?> parameter of clazz Marshaller, which creates Class<?> parameter of clazz Unmarshaller, which gets Class<?> parameter of clazz Jaxb Context.
+JaxbContextContainer acts as a caretaker for memento C, which creates Class<?> parameter of clazz Marshaller, which creates Class<?> parameter of clazz Unmarshaller, which gets Class<?> parameter of clazz Jaxb Context.

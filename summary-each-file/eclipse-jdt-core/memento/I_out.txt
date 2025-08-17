@@ -1,0 +1,2 @@
+I_out acts as a caretaker for memento String, which fs, which gs @ParameterAnnotation(key1 parameter of =.
+I_out acts as a caretaker for memento S, which fs, which gs @ParameterAnnotation(key1 parameter of =.

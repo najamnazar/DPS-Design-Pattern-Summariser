@@ -1,0 +1,5 @@
+FileConsumerQuartzSchedulerTest acts as a publisher for observer CamelContext, which tests Quartz Scheduler, which creates Route Builder.
+FileConsumerQuartzSchedulerTest acts as a publisher for observer Service, which tests Quartz Scheduler, which creates Route Builder.
+FileConsumerQuartzSchedulerTest acts as a publisher for observer ConsumerTemplate, which tests Quartz Scheduler, which creates Route Builder.
+FileConsumerQuartzSchedulerTest acts as a publisher for observer FluentProducerTemplate, which tests Quartz Scheduler, which creates Route Builder.
+FileConsumerQuartzSchedulerTest acts as a publisher for observer ProducerTemplate, which tests Quartz Scheduler, which creates Route Builder.

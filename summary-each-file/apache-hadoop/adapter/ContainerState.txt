@@ -1,0 +1,2 @@
+ContainerState acts as an adaptee for adapter NMClientImpl.
+ContainerState acts as an adaptee for adapter ContainerLauncherImpl.

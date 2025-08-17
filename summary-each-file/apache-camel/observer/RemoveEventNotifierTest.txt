@@ -1,0 +1,2 @@
+RemoveEventNotifierTest acts as a publisher for observer CamelContext, which sets Up, which creates Camel Context, which tests Remove, which creates Route Builder.
+RemoveEventNotifierTest acts as a publisher for observer Service, which sets Up, which creates Camel Context, which tests Remove, which creates Route Builder.

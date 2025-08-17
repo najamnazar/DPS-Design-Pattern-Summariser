@@ -1,0 +1,2 @@
+MailMultipleRecipientsTest acts as a caretaker for memento Context, which tests Send With Multiple Recipients In Header, which tests Send With Multiple Recipients Pre Configured, which asserts String parameter of name Mailbox, which creates Route Builder.
+MailMultipleRecipientsTest acts as a caretaker for memento Producer, which tests Send With Multiple Recipients In Header, which tests Send With Multiple Recipients Pre Configured, which asserts String parameter of name Mailbox, which creates Route Builder.

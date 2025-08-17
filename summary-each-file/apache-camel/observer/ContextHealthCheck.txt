@@ -1,0 +1,1 @@
+ContextHealthCheck acts as a publisher for observer CamelContext, which gets Order, which is Liveness, which does HealthCheckResultBuilder parameter of builder, Map<String, parameter of Object> Call.

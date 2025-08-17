@@ -1,0 +1,1 @@
+ProcessorExchangePair acts as an abstract factory for Exchange, Processor, Producer, which is inherited by.

@@ -1,0 +1,4 @@
+AbstractClassFile acts as a factory for BufferFactoryWrapper, which overrides isReadOnly method of BufferFactoryWrapper.
+AbstractClassFile acts as a factory for ResolveTests, which overrides.
+AbstractClassFile acts as a factory for ImportContainer, which overrides.
+AbstractClassFile acts as a product for IMember, which overrides becomeWorkingCopy method of IClassFile, getBytes method of IClassFile.

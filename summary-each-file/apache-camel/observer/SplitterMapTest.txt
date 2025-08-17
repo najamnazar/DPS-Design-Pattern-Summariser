@@ -1,0 +1,2 @@
+SplitterMapTest acts as a publisher for observer Service, which tests Split Map, which creates Route Builder.
+SplitterMapTest acts as a publisher for observer CamelContext, which tests Split Map, which creates Route Builder.

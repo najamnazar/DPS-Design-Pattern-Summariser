@@ -1,0 +1,1 @@
+FileType acts as an observer for publisher AbfsReadFooterMetrics, which is inherited by.

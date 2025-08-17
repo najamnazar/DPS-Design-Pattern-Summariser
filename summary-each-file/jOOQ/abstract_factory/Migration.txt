@@ -1,0 +1,2 @@
+Migration acts as an abstract product for Migration, which is inherited by MigrationImpl.
+Migration acts as an abstract factory for Queries, Commit, which is inherited by MigrationImpl.

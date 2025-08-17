@@ -1,0 +1,1 @@
+AbstractLabel acts as a publisher for observer Resource, which is inherited by RMNodeAttribute, RMNodeLabel, which adds Resource parameter of nodeRes Node, which removes Resource parameter of nodeRes Node, which gets Resource, which gets Num Active NMs, which gets Label Name.

@@ -1,0 +1,1 @@
+NoOpCacheManager acts as a component for decorator TransactionAwareCacheManagerProxy, which overrides getCacheCacheManager, getCacheNamesCacheManager.

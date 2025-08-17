@@ -1,0 +1,1 @@
+RouteStartupOrder acts as an observer for publisher DefaultShutdownStrategy, which is inherited by DefaultRouteStartupOrder, which gets Startup Order, which gets Route, which gets Input, which gets Services.

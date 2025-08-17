@@ -1,0 +1,1 @@
+TagSearchCriteria acts as a caretaker for memento Context, which gets Offset, which sets List<Integer> parameter of offset Offset, which gets Order By, which sets TagOrderBy parameter of orderBy Order By.

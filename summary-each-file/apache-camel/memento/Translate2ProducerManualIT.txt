@@ -1,0 +1,2 @@
+Translate2ProducerManualIT acts as a caretaker for memento Producer, which translates Text Test, which translates Text Pojo Test, which translates Text Autodetect Source Test, which creates Route Builder.
+Translate2ProducerManualIT acts as a caretaker for memento Context, which translates Text Test, which translates Text Pojo Test, which translates Text Autodetect Source Test, which creates Route Builder.

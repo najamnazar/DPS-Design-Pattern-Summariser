@@ -1,0 +1,1 @@
+Predicate acts as an abstract product for ErrorHandlerReifier, which is inherited by ExpressionDefinition, ExpressionToPredicateAdapter, SimpleBuilder, MockExpressionClause, XPathBuilder, BeanExpression, MyHandlerPredicateBean, ExpressionSupport, ExpressionClause, ValidationContextPredicate, MockValueBuilder, XQueryBuilder.

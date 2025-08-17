@@ -1,0 +1,2 @@
+DummyErasureCodec acts as a publisher for observer ErasureCoderOptions, which creates Encoder, which creates Decoder.
+DummyErasureCodec acts as a publisher for observer ErasureCodecOptions, which creates Encoder, which creates Decoder.

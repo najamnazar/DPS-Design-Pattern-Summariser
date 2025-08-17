@@ -1,0 +1,2 @@
+MethodFilterTest acts as a publisher for observer Service, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder, which creates Registry, which matches @Header("foo") parameter of String.
+MethodFilterTest acts as a publisher for observer CamelContext, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder, which creates Registry, which matches @Header("foo") parameter of String.

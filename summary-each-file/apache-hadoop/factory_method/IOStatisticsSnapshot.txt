@@ -1,0 +1,2 @@
+IOStatisticsSnapshot acts as a product for S3AReadOpContext, which overrides aggregate method of IOStatisticsAggregator.
+IOStatisticsSnapshot acts as a product for IOStatisticAssertions, which overrides counters method of IOStatistics, gauges method of IOStatistics, minimums method of IOStatistics, maximums method of IOStatistics, meanStatistics method of IOStatistics.

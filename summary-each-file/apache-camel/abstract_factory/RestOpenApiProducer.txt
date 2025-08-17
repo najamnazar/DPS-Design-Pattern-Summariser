@@ -1,0 +1,3 @@
+RestOpenApiProducer acts as a product for ProducerCache, which overrides.
+RestOpenApiProducer acts as a product for InternalProcessorFactory, which overrides.
+RestOpenApiProducer acts as a product for Endpoint, which overrides.

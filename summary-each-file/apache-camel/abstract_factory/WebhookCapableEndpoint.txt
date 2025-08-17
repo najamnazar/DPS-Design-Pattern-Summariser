@@ -1,0 +1,16 @@
+WebhookCapableEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+WebhookCapableEndpoint acts as a product for DelegateEndpoint, which overrides.
+WebhookCapableEndpoint acts as an abstract factory for Processor, which is inherited by WhatsAppEndpoint, TelegramEndpoint, TestEndpoint.
+WebhookCapableEndpoint acts as a product for FluentProducerTemplate, which overrides.
+WebhookCapableEndpoint acts as a product for ProducerTemplate, which overrides.
+WebhookCapableEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+WebhookCapableEndpoint acts as a product for CamelCronService, which overrides.
+WebhookCapableEndpoint acts as a product for ExtendedCamelContext, which overrides.
+WebhookCapableEndpoint acts as a product for EndpointProducerResolver, which overrides.
+WebhookCapableEndpoint acts as a product for CamelContext, which overrides.
+WebhookCapableEndpoint acts as a product for Route, which overrides.
+WebhookCapableEndpoint acts as a product for EndpointAware, which overrides.
+WebhookCapableEndpoint acts as a product for InterceptEndpointFactory, which overrides.
+WebhookCapableEndpoint acts as a product for EndpointStrategy, which overrides.
+WebhookCapableEndpoint acts as a product for Exchange, which overrides.
+WebhookCapableEndpoint acts as a product for CamelEvent, which overrides.

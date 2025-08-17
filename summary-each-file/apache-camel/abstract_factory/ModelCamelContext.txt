@@ -1,0 +1,11 @@
+ModelCamelContext acts as a product for ProducerTemplate, which overrides.
+ModelCamelContext acts as a product for Route, which overrides.
+ModelCamelContext acts as a product for Endpoint, which overrides.
+ModelCamelContext acts as a product for ConsumerTemplate, which overrides.
+ModelCamelContext acts as a product for CamelContextBuilder, which overrides.
+ModelCamelContext acts as a product for CamelEvent, which overrides.
+ModelCamelContext acts as a product for CamelContextAware, which overrides.
+ModelCamelContext acts as an abstract factory for Expression, Predicate, which is inherited by LightweightCamelContext, DefaultCamelContext.
+ModelCamelContext acts as a product for Exchange, which overrides.
+ModelCamelContext acts as a product for HasCamelContext, which overrides.
+ModelCamelContext acts as a product for FluentProducerTemplate, which overrides.

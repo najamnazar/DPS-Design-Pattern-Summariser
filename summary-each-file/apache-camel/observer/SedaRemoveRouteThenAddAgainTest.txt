@@ -1,0 +1,2 @@
+SedaRemoveRouteThenAddAgainTest acts as a publisher for observer CamelContext, which tests Remove Route And Then Add Again, which creates Route Builder.
+SedaRemoveRouteThenAddAgainTest acts as a publisher for observer Service, which tests Remove Route And Then Add Again, which creates Route Builder.

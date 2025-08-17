@@ -1,0 +1,1 @@
+UserRegistryMessageHandler acts as an observer, which gets Broadcast Destination, which sets long parameter of milliseconds Registry Expiration Period, which gets Registry Expiration Period, which ons BrokerAvailabilityEvent parameter of event Application Event, which handles Message<?> parameter of message Message, which runs.

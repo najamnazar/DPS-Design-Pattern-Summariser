@@ -1,0 +1,2 @@
+OnExceptionHandleAndTransformTest acts as a publisher for observer Service, which tests On Exception Transform Constant, which tests On Exception Transform Exception Message, which tests On Exception Simple Langauge Exception Message.
+OnExceptionHandleAndTransformTest acts as a publisher for observer CamelContext, which tests On Exception Transform Constant, which tests On Exception Transform Exception Message, which tests On Exception Simple Langauge Exception Message.

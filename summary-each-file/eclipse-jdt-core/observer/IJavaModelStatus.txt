@@ -1,0 +1,1 @@
+IJavaModelStatus acts as an observer for publisher JavaProject, ExternalJavaProject, which is inherited by JavaModelStatus, which gets Elements, which gets Path, which gets String, which is Does Not Exist.

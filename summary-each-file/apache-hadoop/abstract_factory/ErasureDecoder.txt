@@ -1,0 +1,1 @@
+ErasureDecoder acts as a factory for ErasureCoder, which overrides calculateCoding method of ErasureCoder, getNumDataUnits method of ErasureCoder, getNumParityUnits method of ErasureCoder, getOptions method of ErasureCoder, preferDirectBuffer method of ErasureCoder, release method of ErasureCoder.

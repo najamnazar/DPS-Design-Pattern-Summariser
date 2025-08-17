@@ -1,0 +1,1 @@
+Cursor acts as an originator for memento Row.

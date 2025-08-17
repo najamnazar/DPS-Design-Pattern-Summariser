@@ -1,0 +1,1 @@
+DataClassRowMapper acts as a caretaker for memento C, which initializes Class<T> parameter of mappedClass, which constructs ResultSet parameter of rs, TypeConverter parameter of tc Mapped Instance, which news Class<T> parameter of mappedClass Instance, which news Class<T> parameter of mappedClass, @Nullable parameter of ConversionService Instance.

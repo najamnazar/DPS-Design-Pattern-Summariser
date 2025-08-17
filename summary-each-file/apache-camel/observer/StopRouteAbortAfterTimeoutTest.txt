@@ -1,0 +1,2 @@
+StopRouteAbortAfterTimeoutTest acts as a publisher for observer Service, which tests Stop Route With Abort After Timeout True, which tests Stop Route With Abort After Timeout False, which creates Route Builder.
+StopRouteAbortAfterTimeoutTest acts as a publisher for observer CamelContext, which tests Stop Route With Abort After Timeout True, which tests Stop Route With Abort After Timeout False, which creates Route Builder.

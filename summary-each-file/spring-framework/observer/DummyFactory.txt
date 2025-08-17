@@ -1,0 +1,1 @@
+DummyFactory acts as an observer for publisher XmlBeanFactoryTestTypes, which is inherited by MyDummyFactory2, MyDummyFactory1, which gets String.

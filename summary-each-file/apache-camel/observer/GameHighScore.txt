@@ -1,0 +1,1 @@
+GameHighScore acts as a publisher for observer User, which is inherited by, which gets Position, which sets Integer parameter of position Position, which gets User, which sets User parameter of user User, which gets Score, which sets Integer parameter of score Score, which tos String.

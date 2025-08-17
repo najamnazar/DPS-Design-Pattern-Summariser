@@ -1,0 +1,1 @@
+ClusterUserInfo acts as an abstract product for ClusterUserInfo, which is inherited by FederationClusterUserInfo.

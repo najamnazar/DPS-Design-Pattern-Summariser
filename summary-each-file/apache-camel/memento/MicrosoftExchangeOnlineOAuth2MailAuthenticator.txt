@@ -1,0 +1,1 @@
+MicrosoftExchangeOnlineOAuth2MailAuthenticator acts as a memento, which gets Client Credential Parameters, which gets Client Credential Parameters, which gets Client Credential Parameters.

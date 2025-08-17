@@ -1,0 +1,2 @@
+NettyConsumer acts as a factory method for NettyServerBootstrapFactory, which is inherited by NettyConsumer, NettyServerBootstrapConfiguration, NettySharedHttpServer, NettyServerBootstrapConfiguration.
+NettyConsumer acts as a factory for NettyConsumer, which overrides.

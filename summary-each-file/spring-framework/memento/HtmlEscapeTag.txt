@@ -1,0 +1,1 @@
+HtmlEscapeTag acts as a caretaker for memento C, which sets boolean parameter of defaultHtmlEscape Default Html Escape, which does Start Tag Internal.

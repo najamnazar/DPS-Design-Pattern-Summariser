@@ -1,0 +1,2 @@
+MulticastParallelStopOnExceptionTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Multicast Parallel Stop On Exception Ok, which tests Multicast Paralllel Stop On Exception Stop, which creates Route Builder.
+MulticastParallelStopOnExceptionTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Multicast Parallel Stop On Exception Ok, which tests Multicast Paralllel Stop On Exception Stop, which creates Route Builder.

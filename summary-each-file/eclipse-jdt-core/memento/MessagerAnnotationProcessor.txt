@@ -1,0 +1,4 @@
+MessagerAnnotationProcessor acts as a caretaker for memento S, which processes.
+MessagerAnnotationProcessor acts as a caretaker for memento AnnotationType, which processes.
+MessagerAnnotationProcessor acts as a caretaker for memento E, which processes.
+MessagerAnnotationProcessor acts as a caretaker for memento String, which processes.

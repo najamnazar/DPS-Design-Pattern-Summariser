@@ -1,0 +1,1 @@
+DefaultCorsProcessor acts as a product for AbstractHandlerMapping, which overrides.

@@ -1,0 +1,4 @@
+IOStatisticsSnapshot acts as a product for AbfsOutputStreamStatistics, which overrides counters method of IOStatistics, gauges method of IOStatistics, minimums method of IOStatistics, maximums method of IOStatistics, meanStatistics method of IOStatistics.
+IOStatisticsSnapshot acts as a product for AbfsInputStreamStatistics, which overrides counters method of IOStatistics, gauges method of IOStatistics, minimums method of IOStatistics, maximums method of IOStatistics, meanStatistics method of IOStatistics.
+IOStatisticsSnapshot acts as a product for IOStatisticsSource, which overrides counters method of IOStatistics, gauges method of IOStatistics, minimums method of IOStatistics, maximums method of IOStatistics, meanStatistics method of IOStatistics.
+IOStatisticsSnapshot acts as a product for IOStatisticsContext, which overrides aggregate method of IOStatisticsAggregator.

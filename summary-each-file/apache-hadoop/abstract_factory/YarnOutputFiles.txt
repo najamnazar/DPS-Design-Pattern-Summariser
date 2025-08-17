@@ -1,0 +1,1 @@
+YarnOutputFiles acts as a product for ShuffleConsumerPlugin, which overrides setConf method of MapOutputFile, getConf method of MapOutputFile.

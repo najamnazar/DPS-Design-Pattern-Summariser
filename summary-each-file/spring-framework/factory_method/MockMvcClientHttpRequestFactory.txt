@@ -1,0 +1,2 @@
+MockMvcClientHttpRequestFactory acts as a product for NoOutputStreamingStreamingSimpleHttpRequestFactoryTests, which overrides createRequest method of ClientHttpRequestFactory.
+MockMvcClientHttpRequestFactory acts as a factory method for ClientHttpRequest, which is inherited by ClientHttpRequestFactory, AbstractClientHttpRequestFactoryWrapper, ClientHttpRequestFactory, ClientHttpRequestFactory, ClientHttpRequestFactory, HttpAccessor, AbstractClientHttpRequestFactoryWrapper, ClientHttpRequestFactory, ClientHttpRequestFactory, HttpComponentsClientHttpRequestFactory.

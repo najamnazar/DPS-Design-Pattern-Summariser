@@ -1,0 +1,1 @@
+DefaultSpringErrorHandler acts as an observer, which handles Throwable parameter of throwable Error.

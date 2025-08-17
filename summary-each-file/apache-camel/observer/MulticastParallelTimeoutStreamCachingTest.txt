@@ -1,0 +1,2 @@
+MulticastParallelTimeoutStreamCachingTest acts as a publisher for observer CamelContext, which tests Create Output Stream Cache After Timeout, which tests Create Output Stream Cache Before Timeout But Write To Output Stream Cache After Timeout, which creates Route Builder.
+MulticastParallelTimeoutStreamCachingTest acts as a publisher for observer Service, which tests Create Output Stream Cache After Timeout, which tests Create Output Stream Cache Before Timeout But Write To Output Stream Cache After Timeout, which creates Route Builder.

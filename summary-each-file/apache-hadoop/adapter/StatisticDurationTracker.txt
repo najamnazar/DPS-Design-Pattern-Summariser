@@ -1,0 +1,1 @@
+StatisticDurationTracker acts as an adapter, which adapts to OperationDuration, which adapts to OperationDuration, which adapts to OperationDuration.

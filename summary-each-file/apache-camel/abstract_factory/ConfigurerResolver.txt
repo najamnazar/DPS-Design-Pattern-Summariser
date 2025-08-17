@@ -1,0 +1,2 @@
+ConfigurerResolver acts as an abstract factory for PropertyConfigurer, which is inherited by DefaultConfigurerResolver.
+ConfigurerResolver acts as an abstract product for ConfigurerResolver, which is inherited by DefaultConfigurerResolver, DefaultConfigurerResolver.

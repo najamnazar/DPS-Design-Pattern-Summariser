@@ -1,0 +1,7 @@
+MyCSimpleRouteBuilder acts as an observer, which configures.
+MyCSimpleRouteBuilder acts as a publisher for observer Resource, which configures.
+MyCSimpleRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyCSimpleRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyCSimpleRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyCSimpleRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyCSimpleRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.

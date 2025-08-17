@@ -1,0 +1,1 @@
+DefaultApplicationStartup acts as an observer, which starts String parameter of name, which gets Name, which gets Id, which gets Parent Id, which gets Tags, which tags String parameter of key, String parameter of value, which tags String parameter of key, Supplier<String> parameter of value, which ends, which iterators.

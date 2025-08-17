@@ -1,0 +1,1 @@
+TwoManagedCamelContextTest acts as a caretaker for memento Context, which creates String parameter of name Camel Context, which tests Two Managed Camel Context, which gets CamelContext parameter of context Context Object Name, which tears Down.

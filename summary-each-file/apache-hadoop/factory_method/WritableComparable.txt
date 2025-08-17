@@ -1,0 +1,1 @@
+WritableComparable acts as an abstract product for MapFile, which is inherited by Record, IncomparableKey, UserCommandKey, ExternalWritable.

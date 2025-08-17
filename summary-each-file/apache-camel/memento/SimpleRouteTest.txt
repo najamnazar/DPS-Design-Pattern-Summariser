@@ -1,0 +1,1 @@
+SimpleRouteTest acts as a caretaker for memento Context, which tests Simple Route, which creates Application Context.

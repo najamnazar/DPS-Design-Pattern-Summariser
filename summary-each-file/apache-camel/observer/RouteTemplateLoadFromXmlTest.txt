@@ -1,0 +1,2 @@
+RouteTemplateLoadFromXmlTest acts as a publisher for observer CamelContext, which tests Define Route Template, which tests Create Route From Route Template.
+RouteTemplateLoadFromXmlTest acts as a publisher for observer Service, which tests Define Route Template, which tests Create Route From Route Template.

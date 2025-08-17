@@ -1,0 +1,1 @@
+InfinispanIdempotentRepositoryTestSupport acts as a factory for FileIdempotentRenameRepositoryReadLockStrategy, which overrides.

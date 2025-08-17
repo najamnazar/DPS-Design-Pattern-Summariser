@@ -1,0 +1,3 @@
+GenericApplicationContext acts as a factory for AutowiredAnnotationBeanPostProcessorTests, which overrides getBeanDefinition method of AutowiredAnnotationBeanPostProcessorTests.
+GenericApplicationContext acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.
+GenericApplicationContext acts as a product for AnnotatedBeanDefinitionReader, which overrides registerBeanDefinition method of BeanDefinitionRegistry, removeBeanDefinition method of BeanDefinitionRegistry, getBeanDefinition method of BeanDefinitionRegistry, isBeanNameInUse method of BeanDefinitionRegistry.

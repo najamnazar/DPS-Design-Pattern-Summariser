@@ -1,0 +1,1 @@
+AbstractPrefixVersionStrategy acts as an observer, which extracts String parameter of requestPath Version, which removes String parameter of requestPath, String parameter of version Version, which adds String parameter of path, String parameter of version Version.

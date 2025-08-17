@@ -1,0 +1,1 @@
+ReactorCamelProcessor acts as a caretaker for memento Producer, which closes, which gets Publisher, which attaches ReactiveStreamsProducer parameter of producer, which detaches, which sends Exchange parameter of exchange, which ons Exchange parameter of exchange, SynchronousSink<Exchange> parameter of sink Item Emitted, which ons Exchange parameter of exchange Back Pressure.

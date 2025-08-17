@@ -1,0 +1,1 @@
+UpdateReservationHomeSubClusterResponse acts as an abstract product for UpdateReservationHomeSubClusterResponse, which is inherited by UpdateReservationHomeSubClusterResponsePBImpl.

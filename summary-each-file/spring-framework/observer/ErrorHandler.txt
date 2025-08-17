@@ -1,0 +1,1 @@
+ErrorHandler acts as an observer for publisher ThreadPoolTaskScheduler, which is inherited by SimpleSaxErrorHandler, which handles Throwable parameter of t Error.

@@ -1,0 +1,3 @@
+ContainerLaunchFailAppMaster acts as a publisher for observer Options, which creates NMCallback Handler, which ons ContainerId parameter of containerId, Map<String, parameter of ByteBuffer> Container Started, which mains String[] parameter of args.
+ContainerLaunchFailAppMaster acts as a publisher for observer ContainerId, which creates NMCallback Handler, which ons ContainerId parameter of containerId, Map<String, parameter of ByteBuffer> Container Started, which mains String[] parameter of args.
+ContainerLaunchFailAppMaster acts as a publisher for observer Resource, which creates NMCallback Handler, which ons ContainerId parameter of containerId, Map<String, parameter of ByteBuffer> Container Started, which mains String[] parameter of args.

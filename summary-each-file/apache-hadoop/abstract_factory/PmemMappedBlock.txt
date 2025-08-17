@@ -1,0 +1,1 @@
+PmemMappedBlock acts as a factory for MappableBlock, which overrides getLength method of MappableBlock, getAddress method of MappableBlock, getKey method of MappableBlock.

@@ -1,0 +1,2 @@
+ExpressionSupport acts as a target for adapter ExpressionAdapter, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport.
+ExpressionSupport acts as a target for adapter SpelExpression, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport, which adapts to ExpressionSupport.

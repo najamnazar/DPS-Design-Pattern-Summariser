@@ -1,0 +1,1 @@
+IndexRequest acts as an observer, which belongs String parameter of projectNameOrJarPath To, which cancels, which ensures Ready To Run, which gets Job Family, which updates Index State, which waits Needed.

@@ -1,0 +1,1 @@
+IncreaseContainersResourceResponsePBImpl acts as a product for ContainerManagementProtocol, which overrides getSuccessfullyIncreasedContainers method of IncreaseContainersResourceResponse, getFailedRequests method of IncreaseContainersResourceResponse, setFailedRequests method of IncreaseContainersResourceResponse.

@@ -1,0 +1,2 @@
+HeadersMapFactory acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService.
+HeadersMapFactory acts as an adaptee for adapter CustomHeadersMapFactoryRouteTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

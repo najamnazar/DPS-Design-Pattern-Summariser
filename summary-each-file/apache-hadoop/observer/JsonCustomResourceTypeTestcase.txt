@@ -1,0 +1,1 @@
+JsonCustomResourceTypeTestcase acts as a publisher for observer BufferedClientResponse, which is inherited by, which verifies BufferedClientResponse parameter of response Status, which verifies Consumer<JSONObject> parameter of verifier, which logs Response.

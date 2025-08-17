@@ -1,0 +1,1 @@
+ITestAbfsCommitTaskStage acts as an adapter, which adapts to TestCommitTaskStage, which adapts to TestCommitTaskStage, which adapts to TestCommitTaskStage.

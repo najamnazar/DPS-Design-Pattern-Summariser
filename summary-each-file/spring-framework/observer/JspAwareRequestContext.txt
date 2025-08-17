@@ -1,0 +1,1 @@
+JspAwareRequestContext acts as a publisher for observer UrlPathHelper, which gets Page Context, which gets Fallback Locale, which gets Fallback Time Zone, which gets PageContext parameter of pageContext Jstl Locale, which gets PageContext parameter of pageContext Jstl Time Zone.

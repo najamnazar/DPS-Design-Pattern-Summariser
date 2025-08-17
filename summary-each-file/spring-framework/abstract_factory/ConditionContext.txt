@@ -1,0 +1,1 @@
+ConditionContext acts as an abstract factory for ResourceLoader, BeanDefinitionRegistry, Environment, ConfigurableListableBeanFactory, which is inherited by.

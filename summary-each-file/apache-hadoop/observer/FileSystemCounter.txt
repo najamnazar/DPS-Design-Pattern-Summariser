@@ -1,0 +1,1 @@
+FileSystemCounter acts as an observer for publisher FileSystemCounterGroup, which is inherited by.

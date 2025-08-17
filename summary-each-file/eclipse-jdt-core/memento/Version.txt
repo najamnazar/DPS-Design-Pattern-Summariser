@@ -1,0 +1,1 @@
+Version acts as an originator for memento String, which ids String.

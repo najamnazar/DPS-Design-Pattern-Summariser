@@ -1,0 +1,1 @@
+SimpleMetadataReaderFactory acts as a factory for MetadataReaderFactory, which overrides getMetadataReader method of MetadataReaderFactory, getMetadataReader method of MetadataReaderFactory.

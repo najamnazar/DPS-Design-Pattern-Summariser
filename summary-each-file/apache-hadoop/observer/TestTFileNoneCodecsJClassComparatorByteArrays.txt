@@ -1,0 +1,3 @@
+TestTFileNoneCodecsJClassComparatorByteArrays acts as a publisher for observer Path, which sets Up.
+TestTFileNoneCodecsJClassComparatorByteArrays acts as a publisher for observer FileSystem, which sets Up.
+TestTFileNoneCodecsJClassComparatorByteArrays acts as a publisher for observer Configuration, which sets Up.

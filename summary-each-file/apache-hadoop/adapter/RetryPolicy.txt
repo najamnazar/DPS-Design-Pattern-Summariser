@@ -1,0 +1,3 @@
+RetryPolicy acts as a target for adapter S3ARetryPolicy, which adapts to RetryPolicy, which adapts to RetryPolicy.
+RetryPolicy acts as an adaptee for adapter WebHdfsFileSystem, which adapts to FileSystem, which adapts to FileSystem.
+RetryPolicy acts as an adaptee for adapter RemoteWasbAuthorizerImpl, which adapts to WasbAuthorizerInterface, which adapts to WasbAuthorizerInterface.

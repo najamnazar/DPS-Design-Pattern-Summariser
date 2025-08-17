@@ -1,0 +1,3 @@
+Speculator acts as an adaptee for adapter MRAppMaster, which adapts to CompositeService.
+Speculator acts as a target for adapter DefaultSpeculator, which adapts to Speculator.
+Speculator acts as an adaptee for adapter DefaultSpeculator, which adapts to AbstractService, Speculator.

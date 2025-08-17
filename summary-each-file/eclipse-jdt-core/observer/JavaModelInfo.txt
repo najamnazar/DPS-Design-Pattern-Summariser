@@ -1,0 +1,1 @@
+JavaModelInfo acts as a publisher for observer IModuleDescription, which computes Non Java Resources, which gets Non Java Resources.

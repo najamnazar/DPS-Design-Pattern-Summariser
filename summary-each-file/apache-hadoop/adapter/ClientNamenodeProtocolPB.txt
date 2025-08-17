@@ -1,0 +1,2 @@
+ClientNamenodeProtocolPB acts as an adaptee for adapter ClientNamenodeProtocolTranslatorPB.
+ClientNamenodeProtocolPB acts as an adaptee for adapter RouterClientProtocolTranslatorPB.

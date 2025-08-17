@@ -1,0 +1,1 @@
+ExecCommandExecutorMock acts as an observer, which executes ExecCommand parameter of command.

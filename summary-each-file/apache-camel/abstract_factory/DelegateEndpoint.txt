@@ -1,0 +1,16 @@
+DelegateEndpoint acts as a product for ExtendedCamelContext, which overrides.
+DelegateEndpoint acts as a product for Route, which overrides.
+DelegateEndpoint acts as a product for EndpointStrategy, which overrides.
+DelegateEndpoint acts as a product for CamelContext, which overrides.
+DelegateEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+DelegateEndpoint acts as a product for CamelEvent, which overrides.
+DelegateEndpoint acts as a product for EndpointProducerResolver, which overrides.
+DelegateEndpoint acts as an abstract factory for Endpoint, which is inherited by RefEndpoint, ServiceEndpoint, WebhookEndpoint, MasterEndpoint, CronEndpoint.
+DelegateEndpoint acts as a product for FluentProducerTemplate, which overrides.
+DelegateEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+DelegateEndpoint acts as a product for Exchange, which overrides.
+DelegateEndpoint acts as a product for InterceptEndpointFactory, which overrides.
+DelegateEndpoint acts as a product for DelegateEndpoint, which overrides.
+DelegateEndpoint acts as a product for CamelCronService, which overrides.
+DelegateEndpoint acts as a product for EndpointAware, which overrides.
+DelegateEndpoint acts as a product for ProducerTemplate, which overrides.

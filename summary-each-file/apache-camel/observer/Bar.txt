@@ -1,0 +1,1 @@
+Bar acts as an observer for publisher PropertyBindingSupportArrayTest, which is inherited by Zot, which sets String parameter of name Name, which sets String parameter of value Value, which gets Name, which gets Value.

@@ -1,0 +1,2 @@
+BufferingClientHttpRequestFactory acts as a caretaker for memento ClientHttpRequest, which creates URI parameter of uri, HttpMethod parameter of httpMethod, ClientHttpRequestFactory parameter of requestFactory Request, which shoulds URI parameter of uri, HttpMethod parameter of httpMethod Buffer.
+BufferingClientHttpRequestFactory acts as a caretaker for memento C, which creates URI parameter of uri, HttpMethod parameter of httpMethod, ClientHttpRequestFactory parameter of requestFactory Request, which shoulds URI parameter of uri, HttpMethod parameter of httpMethod Buffer.

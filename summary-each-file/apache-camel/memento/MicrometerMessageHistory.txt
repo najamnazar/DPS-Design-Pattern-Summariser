@@ -1,0 +1,2 @@
+MicrometerMessageHistory acts as a caretaker for memento NamedNode, which nodes Processing Done, which tos String.
+MicrometerMessageHistory acts as a caretaker for memento MessageHistory, which nodes Processing Done, which tos String.

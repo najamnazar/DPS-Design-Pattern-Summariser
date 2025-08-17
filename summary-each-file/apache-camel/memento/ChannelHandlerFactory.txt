@@ -1,0 +1,1 @@
+ChannelHandlerFactory acts as a memento, which is inherited by Rfc5425FrameDecoder, DefaultChannelHandlerFactory, which news Channel Handler.

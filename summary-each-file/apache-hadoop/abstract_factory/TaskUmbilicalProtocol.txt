@@ -1,0 +1,2 @@
+TaskUmbilicalProtocol acts as an abstract factory for, which is inherited by TaskAttemptListenerImpl.
+TaskUmbilicalProtocol acts as an abstract product for TaskUmbilicalProtocol, which is inherited by TaskAttemptListenerImpl.

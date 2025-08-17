@@ -1,0 +1,1 @@
+EndpointTransformerDefinition acts as an observer, which gets Ref, which sets String parameter of ref Ref, which gets Uri, which sets String parameter of uri Uri.

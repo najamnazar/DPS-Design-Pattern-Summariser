@@ -1,0 +1,3 @@
+StringConstant acts as a caretaker for memento String, which compiles StringConstant parameter of right Time Equal, which strings Value, which tos String, which types ID.
+StringConstant acts as a caretaker for memento C, which compiles StringConstant parameter of right Time Equal, which strings Value, which tos String, which types ID.
+StringConstant acts as a caretaker for memento S, which compiles StringConstant parameter of right Time Equal, which strings Value, which tos String, which types ID.

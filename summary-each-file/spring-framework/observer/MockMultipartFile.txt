@@ -1,0 +1,2 @@
+MockMultipartFile acts as an observer for publisher MockMultipartHttpServletRequestBuilder, which is inherited by, which gets Name, which gets Original Filename, which gets Content Type, which is Empty, which gets Size, which gets Bytes, which gets Input Stream, which transfers File parameter of dest To.
+MockMultipartFile acts as an observer, which gets Name, which gets Original Filename, which gets Content Type, which is Empty, which gets Size, which gets Bytes, which gets Input Stream, which transfers File parameter of dest To.

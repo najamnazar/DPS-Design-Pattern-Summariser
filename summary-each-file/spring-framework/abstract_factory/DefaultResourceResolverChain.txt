@@ -1,0 +1,2 @@
+DefaultResourceResolverChain acts as a factory for ResourceResolverChain, which overrides resolveResource method of ResourceResolverChain, resolveUrlPath method of ResourceResolverChain.
+DefaultResourceResolverChain acts as a product for ResourceTransformerChain, which overrides resolveResource method of ResourceResolverChain, resolveUrlPath method of ResourceResolverChain.

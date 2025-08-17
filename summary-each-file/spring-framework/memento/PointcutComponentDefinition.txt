@@ -1,0 +1,1 @@
+PointcutComponentDefinition acts as a caretaker for memento B, which gets Name, which gets Description, which gets Bean Definitions, which gets Source.

@@ -1,0 +1,1 @@
+RMContainerFinishedEvent acts as an observer, which gets Remote Container Status.

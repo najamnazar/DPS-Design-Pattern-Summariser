@@ -1,0 +1,1 @@
+SourceFilteringListener acts as a caretaker for memento A, which ons ApplicationEvent parameter of event Application Event, which supports ResolvableType parameter of eventType Event Type, which supports @Nullable parameter of Class<?> Source Type, which gets Order, which gets Listener Id, which ons ApplicationEvent parameter of event Application Event Internal.

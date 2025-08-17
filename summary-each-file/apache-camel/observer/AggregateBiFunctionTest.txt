@@ -1,0 +1,2 @@
+AggregateBiFunctionTest acts as a publisher for observer Service, which tests Bi Function, which creates Route Builder.
+AggregateBiFunctionTest acts as a publisher for observer CamelContext, which tests Bi Function, which creates Route Builder.

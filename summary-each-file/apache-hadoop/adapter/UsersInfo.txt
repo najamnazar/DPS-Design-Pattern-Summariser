@@ -1,0 +1,1 @@
+UsersInfo acts as an adaptee for adapter CapacitySchedulerLeafQueueInfo, which adapts to CapacitySchedulerQueueInfo.

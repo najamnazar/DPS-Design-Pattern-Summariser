@@ -1,0 +1,2 @@
+CorrectRouteIdTest acts as a publisher for observer CamelContext, which tests Correct Route Id, which creates Route Builder.
+CorrectRouteIdTest acts as a publisher for observer Service, which tests Correct Route Id, which creates Route Builder.

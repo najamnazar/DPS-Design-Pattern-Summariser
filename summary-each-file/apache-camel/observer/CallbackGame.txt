@@ -1,0 +1,1 @@
+CallbackGame acts as an observer for publisher InlineKeyboardButton, which is inherited by, which gets Game Short Name, which sets String parameter of gameShortName Game Short Name, which equals Object parameter of o, which hashes Code.

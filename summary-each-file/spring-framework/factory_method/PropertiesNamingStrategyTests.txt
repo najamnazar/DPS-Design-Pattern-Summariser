@@ -1,0 +1,1 @@
+PropertiesNamingStrategyTests acts as a factory for PropertiesFileNamingStrategyTests, which overrides.

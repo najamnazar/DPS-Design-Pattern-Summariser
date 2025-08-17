@@ -1,0 +1,1 @@
+GeneratedKeyHolder acts as a product for AbstractJdbcInsert, which overrides getKey method of KeyHolder, getKeyAs method of KeyHolder, getKeys method of KeyHolder, getKeyList method of KeyHolder.

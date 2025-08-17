@@ -1,0 +1,1 @@
+DebeziumMySqlComponent acts as a publisher for observer MySqlConnectorEmbeddedDebeziumConfiguration, which is inherited by, which gets Configuration, which sets MySqlConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, MySqlConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

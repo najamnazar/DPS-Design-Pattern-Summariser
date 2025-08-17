@@ -1,0 +1,2 @@
+PredicateValidatorDefinition acts as a publisher for observer ExpressionDefinition, which is inherited by, which gets Expression, which sets ExpressionDefinition parameter of expression Expression.
+PredicateValidatorDefinition acts as an observer, which gets Expression, which sets ExpressionDefinition parameter of expression Expression.

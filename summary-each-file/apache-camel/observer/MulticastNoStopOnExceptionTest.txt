@@ -1,0 +1,2 @@
+MulticastNoStopOnExceptionTest acts as a publisher for observer CamelContext, which tests Multicast No Stop On Exception Ok, which tests Multicast No Stop On Exception Stop, which creates Route Builder, which processes Exchange parameter of exchange.
+MulticastNoStopOnExceptionTest acts as a publisher for observer Service, which tests Multicast No Stop On Exception Ok, which tests Multicast No Stop On Exception Stop, which creates Route Builder, which processes Exchange parameter of exchange.

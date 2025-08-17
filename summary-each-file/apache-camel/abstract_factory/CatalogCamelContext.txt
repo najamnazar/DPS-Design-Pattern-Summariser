@@ -1,0 +1,10 @@
+CatalogCamelContext acts as a product for ConsumerTemplate, which overrides.
+CatalogCamelContext acts as a product for HasCamelContext, which overrides.
+CatalogCamelContext acts as a product for Exchange, which overrides.
+CatalogCamelContext acts as a product for CamelContextBuilder, which overrides.
+CatalogCamelContext acts as a product for FluentProducerTemplate, which overrides.
+CatalogCamelContext acts as a product for ProducerTemplate, which overrides.
+CatalogCamelContext acts as a product for Endpoint, which overrides.
+CatalogCamelContext acts as a product for Route, which overrides.
+CatalogCamelContext acts as a product for CamelContextAware, which overrides.
+CatalogCamelContext acts as a product for CamelEvent, which overrides.

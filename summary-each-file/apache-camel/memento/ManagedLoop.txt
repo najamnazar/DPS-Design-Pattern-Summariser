@@ -1,0 +1,1 @@
+ManagedLoop acts as a caretaker for memento Context, which gets Definition, which gets Expression Language, which gets Expression, which is Copy.

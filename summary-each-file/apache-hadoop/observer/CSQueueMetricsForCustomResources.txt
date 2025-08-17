@@ -1,0 +1,3 @@
+CSQueueMetricsForCustomResources acts as a publisher for observer Resource, which sets Resource parameter of res Guaranteed Capacity, which sets Resource parameter of res Max Capacity, which gets Guaranteed Capacity, which gets Max Capacity.
+CSQueueMetricsForCustomResources acts as an observer, which sets Resource parameter of res Guaranteed Capacity, which sets Resource parameter of res Max Capacity, which gets Guaranteed Capacity, which gets Max Capacity.
+CSQueueMetricsForCustomResources acts as a publisher for observer Resource, which is inherited by, which sets Resource parameter of res Guaranteed Capacity, which sets Resource parameter of res Max Capacity, which gets Guaranteed Capacity, which gets Max Capacity.

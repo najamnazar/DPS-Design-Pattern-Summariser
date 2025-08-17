@@ -1,0 +1,2 @@
+TimerFiredTimeTest acts as a publisher for observer CamelContext, which tests Fired, which creates Route Builder.
+TimerFiredTimeTest acts as a publisher for observer Service, which tests Fired, which creates Route Builder.

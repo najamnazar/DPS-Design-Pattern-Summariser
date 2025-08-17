@@ -1,0 +1,1 @@
+PostgresTableDefinition acts as a publisher for observer TableDefinition, which gets Elements0.

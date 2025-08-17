@@ -1,0 +1,5 @@
+JaxbDataFormatIssueTest acts as a publisher for observer ProducerTemplate, which tests Jaxb Marshalling, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar.
+JaxbDataFormatIssueTest acts as a publisher for observer ConsumerTemplate, which tests Jaxb Marshalling, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar.
+JaxbDataFormatIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Jaxb Marshalling, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar.
+JaxbDataFormatIssueTest acts as a publisher for observer Service, which tests Jaxb Marshalling, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar.
+JaxbDataFormatIssueTest acts as a publisher for observer CamelContext, which tests Jaxb Marshalling, which creates Route Builder, which gets Bar, which sets String parameter of bar Bar.

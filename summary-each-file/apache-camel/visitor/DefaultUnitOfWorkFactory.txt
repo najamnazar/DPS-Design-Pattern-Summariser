@@ -1,0 +1,13 @@
+DefaultUnitOfWorkFactory acts as a visitor for element TypeConverterRegistry, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element ExtendedExchange, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element Channel, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element LifecycleStrategy, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element ExtendedCamelContext, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element ModelineParser, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element Tracer, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element BeanIntrospection, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element Route, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element UnitOfWork, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element ManagementObjectStrategy, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element InternalProcessorFactory, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.
+DefaultUnitOfWorkFactory acts as a visitor for element ManagementObjectNameStrategy, which overrides, which creates a Unit Of Work to, which afters a Properties Configured to.

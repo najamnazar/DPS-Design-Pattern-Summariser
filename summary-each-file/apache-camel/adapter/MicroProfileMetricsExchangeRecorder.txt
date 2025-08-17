@@ -1,0 +1,2 @@
+MicroProfileMetricsExchangeRecorder acts as an adaptee for adapter MicroProfileMetricsRoutePolicy, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport.
+MicroProfileMetricsExchangeRecorder acts as an adaptee for adapter MicroProfileMetricsExchangeRecorderTest, which adapts to MicroProfileMetricsTestSupport, which adapts to MicroProfileMetricsTestSupport, which adapts to MicroProfileMetricsTestSupport.

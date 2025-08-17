@@ -1,0 +1,6 @@
+SimpleAnnotationMetadata acts as a product for DeferredImportSelector, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.
+SimpleAnnotationMetadata acts as a factory for AnnotationMetadata, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.
+SimpleAnnotationMetadata acts as a product for MetadataReader, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.
+SimpleAnnotationMetadata acts as a product for AnnotationMetadata, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.
+SimpleAnnotationMetadata acts as a product for AnnotatedBeanDefinition, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.
+SimpleAnnotationMetadata acts as a product for ImportRegistry, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.

@@ -1,0 +1,1 @@
+AccessCheckingAuditor acts as a caretaker for memento AuditSpanS3A, which sets final parameter of boolean Access Allowed, which checks final parameter of Path, final parameter of S3AFileStatus, final parameter of FsAction Access.

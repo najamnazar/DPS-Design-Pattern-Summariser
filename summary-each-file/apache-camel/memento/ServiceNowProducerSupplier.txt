@@ -1,0 +1,1 @@
+ServiceNowProducerSupplier acts as an originator for memento ServiceNowProducer, which gets ServiceNowProducer.

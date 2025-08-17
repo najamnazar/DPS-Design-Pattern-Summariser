@@ -1,0 +1,2 @@
+DataFormatTransformerDefinition acts as an observer, which gets Data Format Type, which sets DataFormatDefinition parameter of dataFormatType Data Format Type.
+DataFormatTransformerDefinition acts as a publisher for observer DataFormatDefinition, which is inherited by, which gets Data Format Type, which sets DataFormatDefinition parameter of dataFormatType Data Format Type.

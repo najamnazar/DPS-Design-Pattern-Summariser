@@ -1,0 +1,1 @@
+TestPerson acts as a caretaker for memento A, which gets Name, which sets String parameter of name Name, which gets Address, which sets TestAddress parameter of address Address.

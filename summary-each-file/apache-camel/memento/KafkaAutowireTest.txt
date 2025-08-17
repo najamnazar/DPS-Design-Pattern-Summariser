@@ -1,0 +1,2 @@
+KafkaAutowireTest acts as a caretaker for memento Producer, which tests Kafka Component Autowiring.
+KafkaAutowireTest acts as a caretaker for memento Context, which tests Kafka Component Autowiring.

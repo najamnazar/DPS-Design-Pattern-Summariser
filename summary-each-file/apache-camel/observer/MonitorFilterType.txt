@@ -1,0 +1,1 @@
+MonitorFilterType acts as an observer for publisher MiloClientEndpoint, which is inherited by.

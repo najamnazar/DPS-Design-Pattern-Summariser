@@ -1,0 +1,1 @@
+JooqComponentTest acts as a caretaker for memento Context, which tests Endpoint Configuration, which tests Non Default Config.

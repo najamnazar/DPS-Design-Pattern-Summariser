@@ -1,0 +1,2 @@
+ConsumerTemplateFileShutdownTest acts as a publisher for observer CamelContext, which tests Consumer Template File.
+ConsumerTemplateFileShutdownTest acts as a publisher for observer Service, which tests Consumer Template File.

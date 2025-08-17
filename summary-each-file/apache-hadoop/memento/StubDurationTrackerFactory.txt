@@ -1,0 +1,3 @@
+StubDurationTrackerFactory acts as a caretaker for memento DurationTracker, which tracks final parameter of String, final parameter of long Duration.
+StubDurationTrackerFactory acts as an originator for memento DurationTracker, which tracks a DurationTracker Duration to.
+StubDurationTrackerFactory acts as a caretaker for memento Duration, which tracks final parameter of String, final parameter of long Duration.

@@ -1,0 +1,1 @@
+RequestMapping acts as an observer for publisher RequestMappingHandlerMapping, which is inherited by.

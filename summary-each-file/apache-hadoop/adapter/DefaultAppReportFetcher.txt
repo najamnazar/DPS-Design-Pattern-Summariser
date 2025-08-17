@@ -1,0 +1,1 @@
+DefaultAppReportFetcher acts as an adapter, which adapts to AppReportFetcher, which adapts to AppReportFetcher, which adapts to AppReportFetcher.

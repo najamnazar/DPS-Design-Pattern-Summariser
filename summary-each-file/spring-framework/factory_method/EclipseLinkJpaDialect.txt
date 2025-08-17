@@ -1,0 +1,1 @@
+EclipseLinkJpaDialect acts as a factory method for ConnectionHandle, which is inherited by DefaultJpaDialect, DefaultJpaDialect, JpaDialect.

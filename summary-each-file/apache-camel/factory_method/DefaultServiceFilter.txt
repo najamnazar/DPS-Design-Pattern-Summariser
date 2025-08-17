@@ -1,0 +1,1 @@
+DefaultServiceFilter acts as a product for CombinedServiceFilterFactory, which overrides apply method of ServiceFilter.

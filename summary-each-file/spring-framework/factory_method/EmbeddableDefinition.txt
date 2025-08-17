@@ -1,0 +1,2 @@
+EmbeddableDefinition acts as a factory method for EmbeddableColumnDefinition, which is inherited by EmbeddableDefinition.
+EmbeddableDefinition acts as a factory for EmbeddableDefinition, which overrides.

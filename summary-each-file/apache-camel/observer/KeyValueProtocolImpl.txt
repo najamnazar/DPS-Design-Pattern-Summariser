@@ -1,0 +1,3 @@
+KeyValueProtocolImpl acts as an observer, which puts Key parameter of key, Value parameter of value, which gets Key parameter of key, which gets Store, which sets Map<Key, parameter of Value> Store.
+KeyValueProtocolImpl acts as a publisher for observer Value, which is inherited by, which puts Key parameter of key, Value parameter of value, which gets Key parameter of key, which gets Store, which sets Map<Key, parameter of Value> Store.
+KeyValueProtocolImpl acts as a publisher for observer Key, which is inherited by, which puts Key parameter of key, Value parameter of value, which gets Key parameter of key, which gets Store, which sets Map<Key, parameter of Value> Store.

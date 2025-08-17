@@ -1,0 +1,1 @@
+PubNubSensor2Example acts as a caretaker for memento Producer, which mains String[] parameter of args, which configures, which configures, which gets Unicast Channel Of Device, which does PNMessageResult parameter of message Something Interesting, which gets Device, which gets Humidity, which gets Temperature, which gets String parameter of device Random Event.

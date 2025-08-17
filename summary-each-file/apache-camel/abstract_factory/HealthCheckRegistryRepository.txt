@@ -1,0 +1,2 @@
+HealthCheckRegistryRepository acts as a product for HealthCheckResolver, which overrides isEnabled method of HealthCheckRepository, setEnabled method of HealthCheckRepository.
+HealthCheckRegistryRepository acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.

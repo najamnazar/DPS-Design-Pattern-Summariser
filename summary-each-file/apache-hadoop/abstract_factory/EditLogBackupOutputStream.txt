@@ -1,0 +1,1 @@
+EditLogBackupOutputStream acts as a product for JournalManager, which overrides writeRaw method of EditLogOutputStream, abort method of EditLogOutputStream.

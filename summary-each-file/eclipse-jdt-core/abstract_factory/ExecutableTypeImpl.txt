@@ -1,0 +1,1 @@
+ExecutableTypeImpl acts as a factory for ExecutableType, which overrides getParameterTypes method of ExecutableType, getReturnType method of ExecutableType, getThrownTypes method of ExecutableType, getTypeVariables method of ExecutableType, getReceiverType method of ExecutableType.

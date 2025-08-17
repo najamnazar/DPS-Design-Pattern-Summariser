@@ -1,0 +1,1 @@
+FormatFactoryInterface acts as an abstract product for FormatFactoryInterface, which is inherited by AbstractFormatFactory.

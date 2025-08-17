@@ -1,0 +1,5 @@
+BindyMultiBytesTest acts as a publisher for observer Service, which tests Multi Bytes, which creates Route Builder, which gets Field1, which sets String parameter of field1 Field1.
+BindyMultiBytesTest acts as a publisher for observer ConsumerTemplate, which tests Multi Bytes, which creates Route Builder, which gets Field1, which sets String parameter of field1 Field1.
+BindyMultiBytesTest acts as a publisher for observer CamelContext, which tests Multi Bytes, which creates Route Builder, which gets Field1, which sets String parameter of field1 Field1.
+BindyMultiBytesTest acts as a publisher for observer FluentProducerTemplate, which tests Multi Bytes, which creates Route Builder, which gets Field1, which sets String parameter of field1 Field1.
+BindyMultiBytesTest acts as a publisher for observer ProducerTemplate, which tests Multi Bytes, which creates Route Builder, which gets Field1, which sets String parameter of field1 Field1.

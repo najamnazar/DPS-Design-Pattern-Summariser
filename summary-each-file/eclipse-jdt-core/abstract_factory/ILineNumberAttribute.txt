@@ -1,0 +1,1 @@
+ILineNumberAttribute acts as an abstract product for ILineNumberAttribute, which is inherited by LineNumberAttribute.

@@ -1,0 +1,1 @@
+AsyncConsumerFalseTest acts as a publisher for observer ArtemisService, which tests Async Jms Consumer, which gets Component Name, which creates Camel Context, which creates Route Builder.

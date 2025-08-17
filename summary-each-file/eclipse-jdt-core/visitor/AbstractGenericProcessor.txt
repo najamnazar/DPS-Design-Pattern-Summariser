@@ -1,0 +1,11 @@
+AbstractGenericProcessor acts as a visitor for element IBytecodeVisitor, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element AnnotationProcessorFactory, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element Elements, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element ElementVisitor, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element DeclarationVisitor, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element AnnotationValueVisitor, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element IDOMNode, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element IBuffer, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element Declarations, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element Processor, which overrides, which sets a Env to, which _processes, which processes.
+AbstractGenericProcessor acts as a visitor for element TypeVisitor, which overrides, which sets a Env to, which _processes, which processes.

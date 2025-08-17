@@ -1,0 +1,1 @@
+LineTerminationWriterAbstractFactory acts as a factory method for WriteStrategy, which is inherited by TextProcessingAbstractFactory, TextProcessingAbstractFactory.

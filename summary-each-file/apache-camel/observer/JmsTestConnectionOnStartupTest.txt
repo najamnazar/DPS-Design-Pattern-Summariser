@@ -1,0 +1,5 @@
+JmsTestConnectionOnStartupTest acts as a publisher for observer CamelContext, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.
+JmsTestConnectionOnStartupTest acts as a publisher for observer ConsumerTemplate, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.
+JmsTestConnectionOnStartupTest acts as a publisher for observer Service, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.
+JmsTestConnectionOnStartupTest acts as a publisher for observer FluentProducerTemplate, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.
+JmsTestConnectionOnStartupTest acts as a publisher for observer ProducerTemplate, which tests Connection On Startup Consumer Test, which tests Connection On Startup Producer Test, which creates Camel Context, which is Use Route Builder.

@@ -1,0 +1,1 @@
+HttpRequest acts as an observer for publisher DefaultWebClient, which is inherited by ServerHttpRequest, HttpRequestWrapper, MockClientHttpRequest, AsyncClientHttpRequest, ClientHttpRequest, which gets Method, which gets Method Value, which gets URI.

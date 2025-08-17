@@ -1,0 +1,1 @@
+DiagnosticsContext acts as an abstract factory for QueryPart, which is inherited by DefaultDiagnosticsContext.

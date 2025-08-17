@@ -1,0 +1,2 @@
+SimpleMockPlaceholderTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Simple, which tests Simple Two Messages, which creates Route Builder.
+SimpleMockPlaceholderTest acts as a publisher for observer Service, which creates Camel Context, which tests Simple, which tests Simple Two Messages, which creates Route Builder.

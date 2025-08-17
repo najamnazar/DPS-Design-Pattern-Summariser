@@ -1,0 +1,1 @@
+ClientService acts as an observer, which gets Bind Address, which gets Http Port.

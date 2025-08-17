@@ -1,0 +1,2 @@
+ASTBasedMemberDeclarationImpl acts as a caretaker for memento String, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which gets Doc Comment, which gets Containing Type Ast Node.
+ASTBasedMemberDeclarationImpl acts as a caretaker for memento S, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which gets Doc Comment, which gets Containing Type Ast Node.

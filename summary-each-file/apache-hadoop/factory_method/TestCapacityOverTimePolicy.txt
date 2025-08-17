@@ -1,0 +1,1 @@
+TestCapacityOverTimePolicy acts as a factory method for SharingPolicy, which is inherited by BaseSharingPolicyTest, AbstractReservationSystem, PlanContext, PlanContext, BaseSharingPolicyTest, AbstractReservationSystem, PlanContext.

@@ -1,0 +1,1 @@
+SCMUploaderCanUploadResponse acts as an abstract product for SCMUploaderCanUploadResponse, which is inherited by SCMUploaderCanUploadResponsePBImpl.

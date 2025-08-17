@@ -1,0 +1,1 @@
+SockJsMessageCodec acts as an observer for publisher StubSockJsServiceConfig, which is inherited by AbstractSockJsMessageCodec, HandlersBeanDefinitionParserTests, which encodes String... parameter of messages, which decodes String parameter of content, which decodes InputStream parameter of content Input Stream.

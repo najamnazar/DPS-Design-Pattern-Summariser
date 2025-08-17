@@ -1,0 +1,1 @@
+AbstractCommitITest acts as a factory for MapReduceTestUtil, which overrides.

@@ -1,0 +1,2 @@
+AbstractServiceNowProducer acts as a factory for ServiceNowProducer, which overrides getRelease method of ServiceNowProducer.
+AbstractServiceNowProducer acts as a product for ServiceNowProducerSupplier, which overrides getRelease method of ServiceNowProducer.

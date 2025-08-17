@@ -1,0 +1,3 @@
+ListResultEntrySchema acts as an abstract product for ListResultEntrySchema, which is inherited by DfsListResultEntrySchema, BlobListResultEntrySchema.
+ListResultEntrySchema acts as a factory method for ListResultEntrySchema, which is inherited by ListResultEntrySchema, ListResultEntrySchema.
+ListResultEntrySchema acts as a factory for ListResultEntrySchema, which overrides.

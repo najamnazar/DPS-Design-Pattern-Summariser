@@ -1,0 +1,2 @@
+CleanupTestContainers acts as a publisher for observer Configuration, which tests Delete Containers.
+CleanupTestContainers acts as a publisher for observer AzureBlobFileSystem, which tests Delete Containers.

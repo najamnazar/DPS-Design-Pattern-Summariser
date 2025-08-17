@@ -1,0 +1,2 @@
+CglibProxyTests acts as a factory method for ITestBean, which is inherited by AbstractAopProxyTests, ITestBean, AbstractAopProxyTests, ITestBean, AopNamespaceHandlerTests.
+CglibProxyTests acts as a product for AdvisorAdapter, which overrides.

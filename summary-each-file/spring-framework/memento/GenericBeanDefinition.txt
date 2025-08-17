@@ -1,0 +1,3 @@
+GenericBeanDefinition acts as a caretaker for memento A, which sets @Nullable parameter of String Parent Name, which gets Parent Name, which clones Bean Definition, which equals @Nullable parameter of Object, which tos String.
+GenericBeanDefinition acts as a caretaker for memento B, which sets @Nullable parameter of String Parent Name, which gets Parent Name, which clones Bean Definition, which equals @Nullable parameter of Object, which tos String.
+GenericBeanDefinition acts as a caretaker for memento C, which sets @Nullable parameter of String Parent Name, which gets Parent Name, which clones Bean Definition, which equals @Nullable parameter of Object, which tos String.

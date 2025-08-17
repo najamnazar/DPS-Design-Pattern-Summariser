@@ -1,0 +1,2 @@
+BeanPrivateClassWithInterfaceMethodTest acts as a publisher for observer CamelContext, which tests Package Private Class Binding, which tests Private Class Binding, which creates Route Builder.
+BeanPrivateClassWithInterfaceMethodTest acts as a publisher for observer Service, which tests Package Private Class Binding, which tests Private Class Binding, which creates Route Builder.

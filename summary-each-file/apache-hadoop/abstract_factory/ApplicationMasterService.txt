@@ -1,0 +1,2 @@
+ApplicationMasterService acts as an abstract product for ApplicationMasterService, which is inherited by OpportunisticContainerAllocatorAMService.
+ApplicationMasterService acts as a factory for ApplicationMasterProtocol, which overrides registerApplicationMaster method of ApplicationMasterProtocol, finishApplicationMaster method of ApplicationMasterProtocol, allocate method of ApplicationMasterProtocol.

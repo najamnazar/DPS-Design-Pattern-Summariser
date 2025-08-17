@@ -1,0 +1,1 @@
+ManagedJmsSelectorTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts getMBeanServer method of ArtemisService to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

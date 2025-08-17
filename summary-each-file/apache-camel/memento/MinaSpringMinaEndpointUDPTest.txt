@@ -1,0 +1,1 @@
+MinaSpringMinaEndpointUDPTest acts as a caretaker for memento Context, which tests Mina Spring Endpoint, which creates Application Context.

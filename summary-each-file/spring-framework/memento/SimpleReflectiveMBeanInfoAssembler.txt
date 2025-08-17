@@ -1,0 +1,1 @@
+SimpleReflectiveMBeanInfoAssembler acts as a caretaker for memento B, which includes Method parameter of method, String parameter of beanKey Read Attribute, which includes Method parameter of method, String parameter of beanKey Write Attribute, which includes Method parameter of method, String parameter of beanKey Operation.

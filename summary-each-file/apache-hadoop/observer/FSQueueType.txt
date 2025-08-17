@@ -1,0 +1,1 @@
+FSQueueType acts as an observer for publisher QueueManager, which is inherited by.

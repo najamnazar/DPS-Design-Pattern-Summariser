@@ -1,0 +1,2 @@
+WireTapTest acts as a publisher for observer CamelContext, which tests Send, which tests Wire Tap Id, which sets Up, which creates Route Builder.
+WireTapTest acts as a publisher for observer Service, which tests Send, which tests Wire Tap Id, which sets Up, which creates Route Builder.

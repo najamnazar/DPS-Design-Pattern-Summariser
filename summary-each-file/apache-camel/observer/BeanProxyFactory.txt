@@ -1,0 +1,1 @@
+BeanProxyFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultBeanProxyFactory, which creates Endpoint parameter of endpoint, boolean parameter of binding, Class<T>... parameter of interfaceClasses Proxy.

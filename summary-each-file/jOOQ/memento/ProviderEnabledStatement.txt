@@ -1,0 +1,2 @@
+ProviderEnabledStatement acts as a caretaker for memento Statement, which closes.
+ProviderEnabledStatement acts as a caretaker for memento SQL, which closes.

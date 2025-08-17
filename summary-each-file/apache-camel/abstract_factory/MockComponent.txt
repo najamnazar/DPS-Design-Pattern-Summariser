@@ -1,0 +1,1 @@
+MockComponent acts as an abstract product for MockComponent, which is inherited by DataSetComponent, DataSetTestComponent.

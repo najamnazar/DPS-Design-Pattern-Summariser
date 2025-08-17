@@ -1,0 +1,2 @@
+GetNodesToLabelsRequest acts as an originator for memento GetNodesToLabelsRequest, which is inherited by, which news a GetNodesToLabelsRequest Instance to.
+GetNodesToLabelsRequest acts as a memento, which is inherited by GetNodesToLabelsRequestPBImpl, which news Instance.

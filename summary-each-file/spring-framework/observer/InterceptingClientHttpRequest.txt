@@ -1,0 +1,1 @@
+InterceptingClientHttpRequest acts as a publisher for observer HttpRequest, which is inherited by, which gets Method, which gets Method Value, which gets URI, which executes HttpHeaders parameter of headers, byte[] parameter of bufferedOutput Internal, which executes HttpRequest parameter of request, byte[] parameter of body.

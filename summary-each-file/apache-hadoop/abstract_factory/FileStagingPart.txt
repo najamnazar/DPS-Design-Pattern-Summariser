@@ -1,0 +1,1 @@
+FileStagingPart acts as a factory for StagingPart, which overrides write method of StagingPart, complete method of StagingPart, newIn method of StagingPart, size method of StagingPart, state method of StagingPart, cleanup method of StagingPart, write method of StagingPart.

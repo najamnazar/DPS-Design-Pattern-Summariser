@@ -1,0 +1,2 @@
+PropertiesComponentSetHeaderSimpleTest acts as a publisher for observer CamelContext, which tests Properties And Simple, which creates Camel Context, which creates Route Builder.
+PropertiesComponentSetHeaderSimpleTest acts as a publisher for observer Service, which tests Properties And Simple, which creates Camel Context, which creates Route Builder.

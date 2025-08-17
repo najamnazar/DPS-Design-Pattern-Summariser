@@ -1,0 +1,1 @@
+JooqOperation acts as an observer for publisher JooqConfiguration, which is inherited by.

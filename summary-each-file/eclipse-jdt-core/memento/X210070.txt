@@ -1,0 +1,1 @@
+X210070 acts as an originator for memento String, which foos String.

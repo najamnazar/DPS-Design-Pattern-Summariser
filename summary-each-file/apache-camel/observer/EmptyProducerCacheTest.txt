@@ -1,0 +1,2 @@
+EmptyProducerCacheTest acts as a publisher for observer CamelContext, which tests Empty Cache, which tests Cache Producer Acquire And Release.
+EmptyProducerCacheTest acts as a publisher for observer Service, which tests Empty Cache, which tests Cache Producer Acquire And Release.

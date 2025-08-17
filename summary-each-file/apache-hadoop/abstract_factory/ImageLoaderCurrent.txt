@@ -1,0 +1,2 @@
+ImageLoaderCurrent acts as a factory for ImageLoader, which overrides canLoadVersion method of ImageLoader.
+ImageLoaderCurrent acts as a product for ImageLoader, which overrides canLoadVersion method of ImageLoader.

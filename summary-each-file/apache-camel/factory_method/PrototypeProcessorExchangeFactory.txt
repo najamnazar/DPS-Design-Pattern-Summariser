@@ -1,0 +1,2 @@
+PrototypeProcessorExchangeFactory acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+PrototypeProcessorExchangeFactory acts as a factory for FaultToleranceProcessorFactory, which overrides.

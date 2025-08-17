@@ -1,0 +1,1 @@
+FifoSchedulerInfo acts as an adaptee for adapter DefaultSchedulerPage, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView.

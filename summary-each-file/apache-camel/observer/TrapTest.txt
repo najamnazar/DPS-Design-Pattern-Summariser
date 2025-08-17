@@ -1,0 +1,5 @@
+TrapTest acts as a publisher for observer Service, which tests Start Route, which tests Send Receive Traps, which creates Route Builders.
+TrapTest acts as a publisher for observer CamelContext, which tests Start Route, which tests Send Receive Traps, which creates Route Builders.
+TrapTest acts as a publisher for observer FluentProducerTemplate, which tests Start Route, which tests Send Receive Traps, which creates Route Builders.
+TrapTest acts as a publisher for observer ConsumerTemplate, which tests Start Route, which tests Send Receive Traps, which creates Route Builders.
+TrapTest acts as a publisher for observer ProducerTemplate, which tests Start Route, which tests Send Receive Traps, which creates Route Builders.

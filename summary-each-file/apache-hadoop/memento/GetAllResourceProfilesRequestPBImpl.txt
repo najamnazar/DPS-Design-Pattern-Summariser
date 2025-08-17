@@ -1,0 +1,3 @@
+GetAllResourceProfilesRequestPBImpl acts as a memento, which gets Proto.
+GetAllResourceProfilesRequestPBImpl acts as an originator for memento GetAllResourceProfilesRequest.
+GetAllResourceProfilesRequestPBImpl acts as a caretaker for memento GetAllResourceProfilesRequest, which gets Proto.

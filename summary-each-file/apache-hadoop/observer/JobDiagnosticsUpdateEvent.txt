@@ -1,0 +1,1 @@
+JobDiagnosticsUpdateEvent acts as an observer, which gets Diagnostic Update.

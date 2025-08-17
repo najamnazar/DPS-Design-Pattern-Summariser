@@ -1,0 +1,1 @@
+InfinispanRemoteProducerIT acts as a factory for InfinispanProducerTestSupport, which overrides getCache method of InfinispanProducerTestSupport, getCache method of InfinispanProducerTestSupport.

@@ -1,0 +1,1 @@
+SerializationUtilsTests acts as a caretaker for memento B, which serializes Cycle Sunny Day, which deserializes Undefined, which serializes Non Serializable, which deserializes Non Serializable, which serializes Null, which deserializes Null.

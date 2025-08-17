@@ -1,0 +1,2 @@
+Advisor acts as an abstract factory for Advice, which is inherited by.
+Advisor acts as an abstract product for Advisor, which is inherited by IntroductionAdvisor, PointcutAdvisor.

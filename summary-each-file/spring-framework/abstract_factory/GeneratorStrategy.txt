@@ -1,0 +1,1 @@
+GeneratorStrategy acts as an abstract factory for File, which is inherited by AbstractGeneratorStrategy.

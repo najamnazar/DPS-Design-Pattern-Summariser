@@ -1,0 +1,1 @@
+ScriptBasedNodeAttributesProvider acts as an observer, which services Configuration parameter of conf Init, which cleans Up, which creates Timer Task, which parses String parameter of scriptOutput Output.

@@ -1,0 +1,1 @@
+WebSocketSession acts as an abstract factory for HttpHeaders, which is inherited by TestWebSocketSession, WebSocketSessionDecorator, AbstractClientSockJsSession.

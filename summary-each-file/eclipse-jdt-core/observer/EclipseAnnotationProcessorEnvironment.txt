@@ -1,0 +1,1 @@
+EclipseAnnotationProcessorEnvironment acts as an observer, which gets AST, which gets Messager, which gets Phase, which gets Java Project, which adds final parameter of String Type Dependency.

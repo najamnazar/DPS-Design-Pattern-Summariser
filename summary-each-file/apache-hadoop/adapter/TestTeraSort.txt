@@ -1,0 +1,1 @@
+TestTeraSort acts as an adapter, which adapts to HadoopTestCase, which adapts to HadoopTestCase, which adapts to HadoopTestCase, which adapts to HadoopTestCase, which adapts to HadoopTestCase, which adapts to HadoopTestCase, which adapts to HadoopTestCase.

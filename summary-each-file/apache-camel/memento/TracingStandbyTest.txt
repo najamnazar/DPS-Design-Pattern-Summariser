@@ -1,0 +1,2 @@
+TracingStandbyTest acts as a caretaker for memento Context, which creates Camel Context, which tests Enable Tracer, which tests Add Route, which creates Route Builder.
+TracingStandbyTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Enable Tracer, which tests Add Route, which creates Route Builder.

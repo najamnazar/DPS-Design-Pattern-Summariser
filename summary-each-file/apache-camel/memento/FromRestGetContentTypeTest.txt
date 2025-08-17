@@ -1,0 +1,2 @@
+FromRestGetContentTypeTest acts as a caretaker for memento Producer, which creates Registry, which tests From Rest Model Content Type, which creates Route Builder.
+FromRestGetContentTypeTest acts as a caretaker for memento Context, which creates Registry, which tests From Rest Model Content Type, which creates Route Builder.

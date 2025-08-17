@@ -1,0 +1,1 @@
+BackupState acts as an observer, which checks HAContext parameter of context, OperationCategory parameter of op Operation, which shoulds Populate Repl Queues, which enters HAContext parameter of context State, which exits HAContext parameter of context State, which prepares HAContext parameter of context To Exit State.

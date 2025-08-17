@@ -1,0 +1,2 @@
+TypeWithManyElements acts as a caretaker for memento S, which foos long parameter of l, which bars, which foobars Float parameter of b, String parameter of st.
+TypeWithManyElements acts as a caretaker for memento String, which foos long parameter of l, which bars, which foobars Float parameter of b, String parameter of st.

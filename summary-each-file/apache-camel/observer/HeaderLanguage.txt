@@ -1,0 +1,1 @@
+HeaderLanguage acts as an observer, which headers String parameter of headerName, which creates String parameter of expression Predicate, which creates String parameter of expression Expression, which is Singleton.

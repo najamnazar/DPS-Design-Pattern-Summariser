@@ -1,0 +1,1 @@
+JettyContentExchange acts as an abstract product for JettyHttpEndpoint11, which is inherited by JettyContentExchange11.

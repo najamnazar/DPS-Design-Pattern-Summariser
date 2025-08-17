@@ -1,0 +1,1 @@
+DefaultKafkaManualCommitFactory acts as a factory for KafkaManualCommitFactory, which overrides newInstance method of KafkaManualCommitFactory.

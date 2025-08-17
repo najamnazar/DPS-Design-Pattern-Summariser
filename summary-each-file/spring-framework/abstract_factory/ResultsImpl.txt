@@ -1,0 +1,5 @@
+ResultsImpl acts as a product for ResultQuery, which overrides resultsOrRows method of Results, detach method of Results.
+ResultsImpl acts as a product for Queries, which overrides resultsOrRows method of Results, detach method of Results.
+ResultsImpl acts as a product for ResultQueryTrait, which overrides resultsOrRows method of Results, detach method of Results.
+ResultsImpl acts as a product for DSLContext, which overrides resultsOrRows method of Results, detach method of Results.
+ResultsImpl acts as a product for Routine, which overrides resultsOrRows method of Results, detach method of Results.

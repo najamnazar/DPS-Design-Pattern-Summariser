@@ -1,0 +1,4 @@
+AsyncReportResults acts as a publisher for observer ReportExtendedMetadata, which gets Attributes, which sets AsyncAttributes parameter of attributes Attributes.
+AsyncReportResults acts as a publisher for observer Groupings, which gets Attributes, which sets AsyncAttributes parameter of attributes Attributes.
+AsyncReportResults acts as a publisher for observer AsyncAttributes, which is inherited by, which gets Attributes, which sets AsyncAttributes parameter of attributes Attributes.
+AsyncReportResults acts as a publisher for observer ReportMetadata, which gets Attributes, which sets AsyncAttributes parameter of attributes Attributes.

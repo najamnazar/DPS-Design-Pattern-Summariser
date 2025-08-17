@@ -1,0 +1,1 @@
+JobEndNotifier acts as a target for adapter TestJobEndNotifier, which adapts to JobEndNotifier, which adapts to JobEndNotifier, which adapts to JobEndNotifier, which adapts to JobEndNotifier, which adapts to JobEndNotifier, which adapts to JobEndNotifier.

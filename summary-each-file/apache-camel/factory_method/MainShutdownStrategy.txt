@@ -1,0 +1,1 @@
+MainShutdownStrategy acts as an abstract product for MainSupport, which is inherited by SimpleMainShutdownStrategy.

@@ -1,0 +1,1 @@
+NodeAttributesInfo acts as a caretaker for memento Attribute, which adds NodeAttributeInfo parameter of attributeInfo Node Attribute Info, which gets Node Attributes Info.

@@ -1,0 +1,2 @@
+JModPackageFragmentRoot acts as a caretaker for memento C, which gets String parameter of entryName Class File Path, which gets Class Name Sub Folder.
+JModPackageFragmentRoot acts as a caretaker for memento Class, which gets String parameter of entryName Class File Path, which gets Class Name Sub Folder.

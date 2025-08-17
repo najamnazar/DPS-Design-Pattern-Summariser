@@ -1,0 +1,2 @@
+DelayerAsyncDelayedTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Sending Message Gets Delayed, which tests Delay Constant, which tests Delay Constant Placeholder, which creates Route Builder.
+DelayerAsyncDelayedTest acts as a caretaker for memento Context, which creates Camel Context, which tests Sending Message Gets Delayed, which tests Delay Constant, which tests Delay Constant Placeholder, which creates Route Builder.

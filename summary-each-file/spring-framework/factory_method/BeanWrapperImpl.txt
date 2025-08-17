@@ -1,0 +1,1 @@
+BeanWrapperImpl acts as a product for AbstractAutowireCapableBeanFactory, which overrides getPropertyDescriptors method of BeanWrapper, getPropertyDescriptor method of BeanWrapper.

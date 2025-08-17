@@ -1,0 +1,1 @@
+ReferenceExpression acts as a factory for IPolyExpression, which overrides isPertinentToApplicability method of IPolyExpression, isPotentiallyCompatibleWith method of IPolyExpression.

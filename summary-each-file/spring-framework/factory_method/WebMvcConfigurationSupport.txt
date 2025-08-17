@@ -1,0 +1,8 @@
+WebMvcConfigurationSupport acts as a factory for WebMvcConfigurerAdapter, which overrides.
+WebMvcConfigurationSupport acts as a factory for RequestContextUtils, which overrides.
+WebMvcConfigurationSupport acts as a factory for WebMvcConfigurationSupport, which overrides.
+WebMvcConfigurationSupport acts as a factory for WebMvcConfigurationSupportTests, which overrides.
+WebMvcConfigurationSupport acts as a factory method for HandlerExceptionResolver, which is inherited by WebMvcConfigurationSupport.
+WebMvcConfigurationSupport acts as a factory for MessageBrokerRegistry, which overrides.
+WebMvcConfigurationSupport acts as a factory for MockHttpServletRequestBuilder, which overrides.
+WebMvcConfigurationSupport acts as a factory for WebSocketConfigurationSupport, which overrides.

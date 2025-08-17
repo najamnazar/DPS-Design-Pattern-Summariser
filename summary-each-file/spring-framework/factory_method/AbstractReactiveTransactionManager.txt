@@ -1,0 +1,1 @@
+AbstractReactiveTransactionManager acts as a product for AbstractTransactionalDatabaseClientIntegrationTests, which overrides getReactiveTransaction method of ReactiveTransactionManager, commit method of ReactiveTransactionManager, rollback method of ReactiveTransactionManager.

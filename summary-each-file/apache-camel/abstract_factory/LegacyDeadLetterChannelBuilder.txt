@@ -1,0 +1,1 @@
+LegacyDeadLetterChannelBuilder acts as a factory for DeadLetterChannelProperties, which overrides.

@@ -1,0 +1,7 @@
+ITypeBinding acts as an abstract factory for IBinding, ITypeBinding, IPackageBinding, IModuleBinding, which is inherited by RecoveredTypeBinding.
+ITypeBinding acts as an abstract product for ITypeBinding, which is inherited by RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding.
+ITypeBinding acts as an abstract product for ITypeBinding, which is inherited by RecoveredTypeBinding, RecoveredTypeBinding, RecoveredTypeBinding.
+ITypeBinding acts as a product for ITypeBinding, which overrides getModifiers method of IBinding, getName method of IBinding.
+ITypeBinding acts as a product for IMethodBinding, which overrides getModifiers method of IBinding, getName method of IBinding.
+ITypeBinding acts as an abstract product for ITypeBinding, which is inherited by RecoveredTypeBinding.
+ITypeBinding acts as an abstract product for ITypeBinding, which is inherited by RecoveredTypeBinding, RecoveredTypeBinding.

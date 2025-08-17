@@ -1,0 +1,1 @@
+GenericEventPojo acts as a factory for ResolvableTypeProvider, which overrides getResolvableType method of ResolvableTypeProvider.

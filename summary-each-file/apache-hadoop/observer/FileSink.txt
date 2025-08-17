@@ -1,0 +1,1 @@
+FileSink acts as an observer, which inits SubsetConfiguration parameter of conf, which puts MetricsRecord parameter of record Metrics, which flushes, which closes.

@@ -1,0 +1,2 @@
+TimerDelaySecondsTest acts as a publisher for observer Service, which tests Delay, which creates Route Builder.
+TimerDelaySecondsTest acts as a publisher for observer CamelContext, which tests Delay, which creates Route Builder.

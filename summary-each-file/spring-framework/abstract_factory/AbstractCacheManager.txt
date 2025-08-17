@@ -1,0 +1,2 @@
+AbstractCacheManager acts as a product for CachingConfigurer, which overrides getCache method of CacheManager, getCacheNames method of CacheManager.
+AbstractCacheManager acts as a factory for CacheManager, which overrides getCache method of CacheManager, getCacheNames method of CacheManager.

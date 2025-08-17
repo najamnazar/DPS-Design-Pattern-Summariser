@@ -1,0 +1,1 @@
+CharSequence acts as an abstract product for CharSequence, which is inherited by String.

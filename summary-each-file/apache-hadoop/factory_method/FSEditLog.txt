@@ -1,0 +1,1 @@
+FSEditLog acts as a factory for TestEditLogJournalFailures, which overrides.

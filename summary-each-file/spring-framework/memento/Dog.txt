@@ -1,0 +1,1 @@
+Dog acts as a memento.

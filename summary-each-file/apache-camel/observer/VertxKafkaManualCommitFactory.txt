@@ -1,0 +1,1 @@
+VertxKafkaManualCommitFactory acts as an observer for publisher VertxKafkaComponent, which is inherited by DefaultVertxKafkaManualCommitFactory, which creates KafkaConsumer<Object, parameter of Object>, String parameter of topicName, TopicPartition parameter of partition, long parameter of recordOffset.

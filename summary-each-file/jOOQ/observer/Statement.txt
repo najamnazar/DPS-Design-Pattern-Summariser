@@ -1,0 +1,2 @@
+Statement acts as an observer.
+Statement acts as an observer for publisher BlockImpl, which is inherited by Query, DefaultStatement, AbstractStatement.

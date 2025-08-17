@@ -1,0 +1,2 @@
+S3ComponentConfigurationTest acts as a caretaker for memento Context, which creates Endpoint With Minimal Configuration, which creates Endpoint With Credentials And Client Exist In Registry, which creates Endpoint With Credentials And Client Exist In Registry With Autowire.
+S3ComponentConfigurationTest acts as a caretaker for memento Producer, which creates Endpoint With Minimal Configuration, which creates Endpoint With Credentials And Client Exist In Registry, which creates Endpoint With Credentials And Client Exist In Registry With Autowire.

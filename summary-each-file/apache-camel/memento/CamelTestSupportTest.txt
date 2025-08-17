@@ -1,0 +1,2 @@
+CamelTestSupportTest acts as a caretaker for memento Context, which sets Up, which replaces From Endpoint, which exceptions Thrown When Endpoint Not Found And No Create, which exceptions Thrown When Endpoint Not AMock Endpoint, which autos Create Non Existing, which creates Route Builder.
+CamelTestSupportTest acts as a caretaker for memento Producer, which sets Up, which replaces From Endpoint, which exceptions Thrown When Endpoint Not Found And No Create, which exceptions Thrown When Endpoint Not AMock Endpoint, which autos Create Non Existing, which creates Route Builder.

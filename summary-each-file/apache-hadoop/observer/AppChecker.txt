@@ -1,0 +1,2 @@
+AppChecker acts as an observer, which is ApplicationId parameter of id Application Active, which gets Active Applications.
+AppChecker acts as a publisher for observer Service, which is ApplicationId parameter of id Application Active, which gets Active Applications.

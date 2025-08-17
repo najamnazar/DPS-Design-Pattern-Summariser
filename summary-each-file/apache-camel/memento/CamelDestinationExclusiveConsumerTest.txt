@@ -1,0 +1,1 @@
+CamelDestinationExclusiveConsumerTest acts as a caretaker for memento Context, which tests Mocks Are Valid.

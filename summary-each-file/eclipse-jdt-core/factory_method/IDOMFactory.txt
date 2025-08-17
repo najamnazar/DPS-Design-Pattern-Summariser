@@ -1,0 +1,2 @@
+IDOMFactory acts as an abstract product for DOMNode, which is inherited by DOMFactory.
+IDOMFactory acts as a factory for DOMBuilder, which overrides.

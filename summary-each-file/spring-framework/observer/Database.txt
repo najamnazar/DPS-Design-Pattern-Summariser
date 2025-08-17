@@ -1,0 +1,1 @@
+Database acts as an observer for publisher AbstractJpaVendorAdapter, EclipseLinkJpaVendorAdapter, HibernateJpaVendorAdapter, which is inherited by AbstractDatabase, ResultQueryDatabase.

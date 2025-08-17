@@ -1,0 +1,1 @@
+CommitToOffsetManager acts as an adapter, which adapts to AbstractCommitManager, which adapts to AbstractCommitManager, which adapts to AbstractCommitManager, which adapts to AbstractCommitManager.

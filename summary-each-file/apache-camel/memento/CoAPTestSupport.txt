@@ -1,0 +1,2 @@
+CoAPTestSupport acts as a caretaker for memento Context, which sets Up, which creates String parameter of path Client, which creates String parameter of path, int parameter of port Client.
+CoAPTestSupport acts as a caretaker for memento Producer, which sets Up, which creates String parameter of path Client, which creates String parameter of path, int parameter of port Client.

@@ -1,0 +1,2 @@
+ManagedRoute acts as a factory for ScheduledJobState, which overrides getRouteId method of ScheduledJobState, getDescription method of ScheduledJobState, getSourceLocation method of ScheduledJobState, getSourceLocationShort method of ScheduledJobState, getUptime method of ScheduledJobState, getUptimeMillis method of ScheduledJobState, getLastError method of ScheduledJobState.
+ManagedRoute acts as a factory for ManagedRouteMBean, which overrides.

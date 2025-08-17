@@ -1,0 +1,3 @@
+DefaultMessageHistory acts as a caretaker for memento NamedNode, which is inherited by, which gets Route Id, which gets Node, which gets Time, which gets Elapsed, which nodes Processing Done, which gets Message, which tos String.
+DefaultMessageHistory acts as an originator for memento NamedNode, which gets a NamedNode Node to.
+DefaultMessageHistory acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.

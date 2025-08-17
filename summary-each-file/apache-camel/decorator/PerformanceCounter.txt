@@ -1,0 +1,1 @@
+PerformanceCounter acts as a component for CompositePerformanceCounter, which is inherited by ManagedPerformanceCounter, ManagedPerformanceCounter, ManagedPerformanceCounter, ManagedPerformanceCounter, ManagedPerformanceCounter, DelegatePerformanceCounter, DelegatePerformanceCounter, DelegatePerformanceCounter, DelegatePerformanceCounter, DelegatePerformanceCounter.

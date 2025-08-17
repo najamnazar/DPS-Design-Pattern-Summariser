@@ -1,0 +1,1 @@
+DurationTrackerFactory acts as an abstract product for BlockManagerParameters, which is inherited by StubDurationTrackerFactory, PairedDurationTrackerFactory, AbstractS3AStatisticsSource.

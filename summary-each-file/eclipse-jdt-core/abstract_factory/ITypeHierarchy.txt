@@ -1,0 +1,3 @@
+ITypeHierarchy acts as an abstract product for ITypeHierarchy, which is inherited by TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy.
+ITypeHierarchy acts as an abstract product for ITypeHierarchy, which is inherited by TypeHierarchy, TypeHierarchy, TypeHierarchy, TypeHierarchy.
+ITypeHierarchy acts as an abstract factory for IType, which is inherited by TypeHierarchy.

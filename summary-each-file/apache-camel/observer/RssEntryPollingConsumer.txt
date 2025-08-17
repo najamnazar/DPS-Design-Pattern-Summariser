@@ -1,0 +1,1 @@
+RssEntryPollingConsumer acts as a publisher for observer ResumeStrategy, which populates Object parameter of feed List, which sorts Entries, which creates Feed, which resets List.

@@ -1,0 +1,1 @@
+TransactionAssert acts as a singleton, which asserts a TransactionAssert That Transaction to.

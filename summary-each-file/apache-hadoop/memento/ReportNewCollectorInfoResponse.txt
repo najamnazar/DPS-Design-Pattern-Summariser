@@ -1,0 +1,2 @@
+ReportNewCollectorInfoResponse acts as an originator for memento ReportNewCollectorInfoResponse, which is inherited by, which news a ReportNewCollectorInfoResponse Instance to.
+ReportNewCollectorInfoResponse acts as a memento, which is inherited by ReportNewCollectorInfoResponsePBImpl, which news Instance.

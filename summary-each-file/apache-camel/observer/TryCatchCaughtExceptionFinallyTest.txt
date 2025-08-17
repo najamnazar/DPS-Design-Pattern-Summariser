@@ -1,0 +1,2 @@
+TryCatchCaughtExceptionFinallyTest acts as a publisher for observer CamelContext, which tests Try Catch Caught Exception Finally, which creates Registry, which creates Route Builder, which does String parameter of body Something.
+TryCatchCaughtExceptionFinallyTest acts as a publisher for observer Service, which tests Try Catch Caught Exception Finally, which creates Registry, which creates Route Builder, which does String parameter of body Something.

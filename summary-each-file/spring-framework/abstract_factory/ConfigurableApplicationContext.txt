@@ -1,0 +1,8 @@
+ConfigurableApplicationContext acts as a product for SmartContextLoader, which overrides.
+ConfigurableApplicationContext acts as a product for CacheAwareContextLoaderDelegate, which overrides.
+ConfigurableApplicationContext acts as a product for TestContext, which overrides.
+ConfigurableApplicationContext acts as a product for ContextCache, which overrides.
+ConfigurableApplicationContext acts as a product for ContextScriptBean, which overrides.
+ConfigurableApplicationContext acts as a product for ServerWebExchange, which overrides.
+ConfigurableApplicationContext acts as a product for ApplicationContext, which overrides.
+ConfigurableApplicationContext acts as an abstract factory for ConfigurableEnvironment, ApplicationStartup, ConfigurableListableBeanFactory, which is inherited by AbstractApplicationContext.

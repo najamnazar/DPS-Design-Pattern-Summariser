@@ -1,0 +1,2 @@
+CBRWithLoadBalancerTest acts as a publisher for observer CamelContext, which tests Foo, which tests Foo Bar, which tests Result, which creates Route Builder.
+CBRWithLoadBalancerTest acts as a publisher for observer Service, which tests Foo, which tests Foo Bar, which tests Result, which creates Route Builder.

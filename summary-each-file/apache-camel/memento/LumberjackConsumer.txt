@@ -1,0 +1,1 @@
+LumberjackConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which does Resume, which does Suspend, which gets Thread Factory, which ons Object parameter of payload, LumberjackMessageProcessor.Callback parameter of callback Message Received.

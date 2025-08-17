@@ -1,0 +1,1 @@
+AnyOfFormWrapper acts as a publisher for observer AnyOfForm, which is inherited by, which gets Form Peices, which sets AnyOfForm parameter of formPeices Form Peices.

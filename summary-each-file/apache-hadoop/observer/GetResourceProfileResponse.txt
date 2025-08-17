@@ -1,0 +1,1 @@
+GetResourceProfileResponse acts as a publisher for observer Resource, which is inherited by GetResourceProfileResponsePBImpl, which news Instance, which gets Resource, which sets Resource parameter of r Resource, which equals Object parameter of other, which hashes Code.

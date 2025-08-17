@@ -1,0 +1,2 @@
+RouteIdAutoAssignClashIssue acts as a publisher for observer Service, which tests Route Id Auto Assign Clash, which creates Route Builder.
+RouteIdAutoAssignClashIssue acts as a publisher for observer CamelContext, which tests Route Id Auto Assign Clash, which creates Route Builder.

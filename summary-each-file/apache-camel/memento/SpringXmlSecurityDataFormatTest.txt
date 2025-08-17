@@ -1,0 +1,1 @@
+SpringXmlSecurityDataFormatTest acts as a caretaker for memento Context, which tests Partial Payload Asymmetric Key Decryption Custom NS, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context.

@@ -1,0 +1,1 @@
+SockJsService acts as an observer for publisher AbstractWebSocketHandlerRegistration, which is inherited by AbstractSockJsService, which handles ServerHttpRequest parameter of request, ServerHttpResponse parameter of response, @Nullable parameter of String, WebSocketHandler parameter of handler Request.

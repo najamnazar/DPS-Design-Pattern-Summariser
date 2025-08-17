@@ -1,0 +1,1 @@
+WildcardType acts as an abstract product for WildcardType, which is inherited by WildcardTypeImpl.

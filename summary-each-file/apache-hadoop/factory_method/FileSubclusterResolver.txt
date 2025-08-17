@@ -1,0 +1,1 @@
+FileSubclusterResolver acts as an abstract product for RouterRpcServer, which is inherited by MockResolver, MountTableResolver.

@@ -1,0 +1,1 @@
+JpaFlushOnSendTest acts as a caretaker for memento Context, which tests Route Jpa, which creates Route Builder, which asserts Entity In DB, which routes Xml, which selects All String.

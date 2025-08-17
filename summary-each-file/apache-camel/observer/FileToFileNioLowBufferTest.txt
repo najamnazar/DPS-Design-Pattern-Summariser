@@ -1,0 +1,2 @@
+FileToFileNioLowBufferTest acts as a publisher for observer CamelContext, which tests File To File Nio Low Buffer, which creates Route Builder.
+FileToFileNioLowBufferTest acts as a publisher for observer Service, which tests File To File Nio Low Buffer, which creates Route Builder.

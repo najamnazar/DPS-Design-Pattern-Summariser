@@ -1,0 +1,1 @@
+ManagementMBeanAssembler acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultManagementMBeanAssembler, which assembles MBeanServer parameter of mBeanServer, Object parameter of obj, ObjectName parameter of name.

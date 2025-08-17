@@ -1,0 +1,1 @@
+RequestedContentTypeResolver acts as an observer for publisher RequestedContentTypeResolverBuilder, which is inherited by FixedContentTypeResolver, HeaderContentTypeResolver, ParameterContentTypeResolver, which resolves ServerWebExchange parameter of exchange Media Types.

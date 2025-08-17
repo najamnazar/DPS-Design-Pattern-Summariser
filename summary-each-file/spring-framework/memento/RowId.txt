@@ -1,0 +1,1 @@
+RowId acts as a memento, which is inherited by RowIdImpl, which values.

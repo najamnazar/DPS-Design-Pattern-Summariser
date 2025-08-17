@@ -1,0 +1,1 @@
+TestJournalNodeRespectsBindHostKeys acts as a publisher for observer JournalNode, which is inherited by, which sets Up, which tears Down, which gets JournalNode parameter of jn Rpc Server Address, which tests Rpc Bind Host Key, which tests Http Bind Host Key, which setups Ssl, which tests Https Bind Host Key.

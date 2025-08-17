@@ -1,0 +1,1 @@
+ServerHttpRequest acts as a memento, which gets ServerHttpResponse parameter of response Async Request Control, which gets ServerHttpResponse parameter of response Async Request Control, which gets ServerHttpResponse parameter of response Async Request Control, which gets ServerHttpResponse parameter of response Async Request Control.

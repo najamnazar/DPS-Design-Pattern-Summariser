@@ -1,0 +1,2 @@
+NMPolicyProvider acts as a caretaker for memento NMPolicyProvider, which gets Instance, which gets Services.
+NMPolicyProvider acts as a memento, which gets Services, which gets Services.

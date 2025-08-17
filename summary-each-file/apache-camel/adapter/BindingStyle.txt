@@ -1,0 +1,1 @@
+BindingStyle acts as an adaptee for adapter CxfRsEndpoint.

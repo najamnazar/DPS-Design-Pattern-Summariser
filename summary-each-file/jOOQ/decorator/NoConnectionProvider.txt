@@ -1,0 +1,1 @@
+NoConnectionProvider acts as a component for decorator MockConnectionProvider, which overrides acquireConnectionProvider, releaseConnectionProvider.

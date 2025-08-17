@@ -1,0 +1,5 @@
+XQueryFromFileExceptionTest acts as a publisher for observer CamelContext, which tests XQuery From File Exception Ok, which tests XQuery From File Exception Fail, which creates Route Builder.
+XQueryFromFileExceptionTest acts as a publisher for observer ProducerTemplate, which tests XQuery From File Exception Ok, which tests XQuery From File Exception Fail, which creates Route Builder.
+XQueryFromFileExceptionTest acts as a publisher for observer ConsumerTemplate, which tests XQuery From File Exception Ok, which tests XQuery From File Exception Fail, which creates Route Builder.
+XQueryFromFileExceptionTest acts as a publisher for observer FluentProducerTemplate, which tests XQuery From File Exception Ok, which tests XQuery From File Exception Fail, which creates Route Builder.
+XQueryFromFileExceptionTest acts as a publisher for observer Service, which tests XQuery From File Exception Ok, which tests XQuery From File Exception Fail, which creates Route Builder.

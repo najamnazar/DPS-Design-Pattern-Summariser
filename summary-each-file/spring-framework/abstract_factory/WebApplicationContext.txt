@@ -1,0 +1,7 @@
+WebApplicationContext acts as a product for TestContext, which overrides.
+WebApplicationContext acts as a product for SmartContextLoader, which overrides.
+WebApplicationContext acts as a product for CacheAwareContextLoaderDelegate, which overrides.
+WebApplicationContext acts as a product for ServerWebExchange, which overrides.
+WebApplicationContext acts as a product for ContextCache, which overrides.
+WebApplicationContext acts as a product for ApplicationContext, which overrides.
+WebApplicationContext acts as a product for ContextScriptBean, which overrides.

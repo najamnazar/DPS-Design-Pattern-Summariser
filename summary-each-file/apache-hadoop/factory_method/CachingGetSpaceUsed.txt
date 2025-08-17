@@ -1,0 +1,1 @@
+CachingGetSpaceUsed acts as a product for FSCachingGetSpaceUsed, which overrides getUsed method of GetSpaceUsed.

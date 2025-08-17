@@ -1,0 +1,1 @@
+UpdateNodeResourceResponse acts as an abstract product for UpdateNodeResourceResponse, which is inherited by UpdateNodeResourceResponsePBImpl.

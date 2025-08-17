@@ -1,0 +1,1 @@
+SimpleInstrumentableClassLoader acts as a caretaker for memento C, which adds ClassFileTransformer parameter of transformer Transformer, which transforms String parameter of name, byte[] parameter of bytes If Necessary.

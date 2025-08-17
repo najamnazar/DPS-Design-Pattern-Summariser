@@ -1,0 +1,1 @@
+CompositeApiClient acts as an adaptee for adapter CompositeApiProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor, which adapts to AbstractSalesforceProcessor.

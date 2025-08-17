@@ -1,0 +1,1 @@
+SingleInputExpressionDefinition acts as a decorator for decorator ExpressionDefinition.

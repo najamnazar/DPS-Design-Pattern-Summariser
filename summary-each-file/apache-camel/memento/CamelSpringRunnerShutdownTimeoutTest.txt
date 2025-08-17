@@ -1,0 +1,2 @@
+CamelSpringRunnerShutdownTimeoutTest acts as a caretaker for memento Context, which tests Shutdown Timeout.
+CamelSpringRunnerShutdownTimeoutTest acts as a caretaker for memento Producer, which tests Shutdown Timeout.

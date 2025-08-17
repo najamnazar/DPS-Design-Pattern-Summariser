@@ -1,0 +1,2 @@
+TracePerRouteManualTest acts as a publisher for observer CamelContext, which tests Tracing Per Route, which creates Route Builder.
+TracePerRouteManualTest acts as a publisher for observer Service, which tests Tracing Per Route, which creates Route Builder.

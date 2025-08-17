@@ -1,0 +1,1 @@
+Expression acts as an abstract product for ServiceCallProcessorFactory, which is inherited by ExpressionDefinition, SimpleBuilder, MockExpressionClause, XPathBuilder, ZipSplitter, BeanExpression, ASN1Splitter, ExpressionSupport, MyFileNameExpression, ExpressionClause, MockValueBuilder, XQueryBuilder, TarSplitter, PredicateToExpressionAdapter.

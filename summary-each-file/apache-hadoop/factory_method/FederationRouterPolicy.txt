@@ -1,0 +1,1 @@
+FederationRouterPolicy acts as an abstract product for TestFederationPolicyInitializationContextValidator, which is inherited by AbstractRouterPolicy.

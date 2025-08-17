@@ -1,0 +1,2 @@
+ITestAbfsNetworkStatistics acts as a publisher for observer Configuration, which counts String parameter of path Directory, which tests Abfs Http Send Statistics, which tests Abfs Http Response Statistics, which tests Abfs Http Response Failure.
+ITestAbfsNetworkStatistics acts as a publisher for observer AzureBlobFileSystem, which counts String parameter of path Directory, which tests Abfs Http Send Statistics, which tests Abfs Http Response Statistics, which tests Abfs Http Response Failure.

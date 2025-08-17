@@ -1,0 +1,2 @@
+BeanParameterBestTypeMatchIssueTest acts as a publisher for observer Service, which tests No Param, which test1Params, which test2Params String, which test2Params Class B, which test2Params Bool Body, which creates Route Builder.
+BeanParameterBestTypeMatchIssueTest acts as a publisher for observer CamelContext, which tests No Param, which test1Params, which test2Params String, which test2Params Class B, which test2Params Bool Body, which creates Route Builder.

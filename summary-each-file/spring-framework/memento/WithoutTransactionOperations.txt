@@ -1,0 +1,1 @@
+WithoutTransactionOperations acts as a caretaker for memento Transaction, which executes TransactionCallback<T> parameter of action, which executes Consumer<TransactionStatus> parameter of action Without Result.

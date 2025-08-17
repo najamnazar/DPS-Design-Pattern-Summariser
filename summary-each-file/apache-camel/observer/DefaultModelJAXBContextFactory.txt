@@ -1,0 +1,1 @@
+DefaultModelJAXBContextFactory acts as an observer, which news JAXBContext, which gets Packages, which gets Class Loader.

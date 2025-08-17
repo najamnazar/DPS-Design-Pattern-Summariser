@@ -1,0 +1,1 @@
+RouterWebHdfsMethods acts as a factory method for ClientProtocol, which is inherited by NamenodeWebHdfsMethods, TestRouterRpc, TestRouterRpc, ClientProtocolProvider, ClientProtocolProvider.

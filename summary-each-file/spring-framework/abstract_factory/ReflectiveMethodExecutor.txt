@@ -1,0 +1,2 @@
+ReflectiveMethodExecutor acts as a product for MethodResolver, which overrides execute method of MethodExecutor.
+ReflectiveMethodExecutor acts as a factory for MethodExecutor, which overrides execute method of MethodExecutor.

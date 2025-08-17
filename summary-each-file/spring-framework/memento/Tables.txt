@@ -1,0 +1,4 @@
+Tables acts as a caretaker for memento Parameter.
+Tables acts as a caretaker for memento Index.
+Tables acts as a caretaker for memento C.
+Tables acts as a caretaker for memento Constraint.

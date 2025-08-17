@@ -1,0 +1,1 @@
+StitchSchema acts as an observer for publisher StitchConfiguration, which is inherited by, which builders, which gets Keywords, which tos Map, which adds final parameter of Map<String, Keywords, which adds final parameter of String, final parameter of Object Keyword, which builds.

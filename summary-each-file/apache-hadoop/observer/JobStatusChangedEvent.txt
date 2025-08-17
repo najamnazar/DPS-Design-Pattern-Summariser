@@ -1,0 +1,1 @@
+JobStatusChangedEvent acts as an observer, which gets Datum, which sets Object parameter of datum Datum, which gets Job Id, which gets Status, which gets Event Type, which tos Timeline Event, which gets Timeline Metrics.

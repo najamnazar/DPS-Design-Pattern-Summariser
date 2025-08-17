@@ -1,0 +1,1 @@
+ContainerRemoteLaunchEvent acts as an adapter, which adapts to ContainerLauncherEvent, which adapts to ContainerLauncherEvent, which adapts to ContainerLauncherEvent, which adapts to ContainerLauncherEvent, which adapts to ContainerLauncherEvent.

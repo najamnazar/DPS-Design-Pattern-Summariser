@@ -1,0 +1,1 @@
+Jt400MsgQueueService acts as an adaptee for adapter Jt400MsgQueueConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

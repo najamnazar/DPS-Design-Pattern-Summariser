@@ -1,0 +1,2 @@
+ManagementAgent acts as an abstract product for ManagementAgent, which is inherited by DefaultManagementAgent.
+ManagementAgent acts as an abstract factory for, which is inherited by DefaultManagementAgent.

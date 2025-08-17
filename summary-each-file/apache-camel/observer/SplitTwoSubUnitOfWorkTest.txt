@@ -1,0 +1,2 @@
+SplitTwoSubUnitOfWorkTest acts as a publisher for observer CamelContext, which tests OK, which tests Error, which creates Route Builder, which gets Foo, which gets Bar.
+SplitTwoSubUnitOfWorkTest acts as a publisher for observer Service, which tests OK, which tests Error, which creates Route Builder, which gets Foo, which gets Bar.

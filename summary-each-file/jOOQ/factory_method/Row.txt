@@ -1,0 +1,2 @@
+Row acts as an abstract product for SelectQueryImpl, which is inherited by AbstractRow.
+Row acts as a factory for ConstraintImpl, which overrides.

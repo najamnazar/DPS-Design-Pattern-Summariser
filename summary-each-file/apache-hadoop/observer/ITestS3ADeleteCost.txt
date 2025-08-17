@@ -1,0 +1,1 @@
+ITestS3ADeleteCost acts as a publisher for observer OperationCost, which creates Configuration, which teardowns, which tests Delete Single File In Dir, which tests Delete File In Dir, which tests Dir Markers Subdir, which verifies final parameter of Path No Listing, which tests Dir Markers File Creation.

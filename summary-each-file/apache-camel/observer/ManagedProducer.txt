@@ -1,0 +1,1 @@
+ManagedProducer acts as a publisher for observer Route, which gets Producer, which gets Endpoint Uri, which is Singleton.

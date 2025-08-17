@@ -1,0 +1,1 @@
+Component acts as an observer for publisher ComponentAware, DefaultComponentVerifierExtension, AbstractMetaDataExtension, which is inherited by DefaultComponent.

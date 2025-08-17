@@ -1,0 +1,1 @@
+PathHandle acts as an observer for publisher ProvidedReplica, FinalizedProvidedReplica, which is inherited by RawPathHandle, HdfsPathHandle, LocalFileSystemPathHandle, which tos Byte Array, which byteses, which equals Object parameter of other.

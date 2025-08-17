@@ -1,0 +1,1 @@
+DocumentUploadGatewayIT acts as a publisher for observer AuthenticationType, which tests Create, which creates Route Builder.

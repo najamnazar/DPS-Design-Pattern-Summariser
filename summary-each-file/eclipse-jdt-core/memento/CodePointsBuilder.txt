@@ -1,0 +1,1 @@
+CodePointsBuilder acts as an originator for memento String, which displays String.

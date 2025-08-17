@@ -1,0 +1,2 @@
+Netty4ClientHttpRequest acts as a factory for ClientHttpRequest, which overrides execute method of ClientHttpRequest.
+Netty4ClientHttpRequest acts as a product for ClientHttpRequestFactory, which overrides execute method of ClientHttpRequest.

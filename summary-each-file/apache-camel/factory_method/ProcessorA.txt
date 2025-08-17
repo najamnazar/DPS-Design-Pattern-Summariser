@@ -1,0 +1,1 @@
+ProcessorA acts as a product for FaultToleranceProcessorFactory, which overrides process method of Processor.

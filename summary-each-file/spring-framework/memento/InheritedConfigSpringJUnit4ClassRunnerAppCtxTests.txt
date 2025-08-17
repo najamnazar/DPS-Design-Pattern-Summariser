@@ -1,0 +1,4 @@
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento C.
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento A.
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento B.
+InheritedConfigSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento ApplicationContext.

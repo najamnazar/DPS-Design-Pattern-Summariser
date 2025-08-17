@@ -1,0 +1,2 @@
+HttpWebHandlerAdapter acts as a product for AbstractRequestMappingIntegrationTests, which overrides handle method of HttpHandler.
+HttpWebHandlerAdapter acts as a factory method for ServerCodecConfigurer, which is inherited by ServerCodecConfigurer, WebFluxConfigurationSupport.

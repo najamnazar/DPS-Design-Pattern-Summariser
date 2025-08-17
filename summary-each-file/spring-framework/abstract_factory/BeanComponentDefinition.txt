@@ -1,0 +1,2 @@
+BeanComponentDefinition acts as a product for NamespaceHandler, which overrides toString method of BeanDefinitionHolder, equals method of BeanDefinitionHolder.
+BeanComponentDefinition acts as a product for BeanDefinitionDecorator, which overrides toString method of BeanDefinitionHolder, equals method of BeanDefinitionHolder.

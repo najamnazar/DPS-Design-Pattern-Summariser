@@ -1,0 +1,1 @@
+AS2ApiName acts as an observer for publisher AS2Configuration, AS2ServerManagerEndpointConfiguration, AS2ClientManagerEndpointConfiguration, which is inherited by, which gets Name.

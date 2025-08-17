@@ -1,0 +1,1 @@
+TransactionFactory acts as an abstract factory for Transaction, which is inherited by JtaTransactionManager, SimpleTransactionFactory.

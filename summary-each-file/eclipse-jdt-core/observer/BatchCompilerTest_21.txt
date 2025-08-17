@@ -1,0 +1,1 @@
+BatchCompilerTest_21 acts as a publisher for observer String, which suites, which tests Class, which tests GHI1774_Expression, which tests GHI1774_Statement, which tests Issue558_1, which tests Issue558_2.

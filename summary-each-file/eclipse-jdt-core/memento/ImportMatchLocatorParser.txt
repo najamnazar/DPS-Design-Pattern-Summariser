@@ -1,0 +1,1 @@
+ImportMatchLocatorParser acts as a caretaker for memento S, which consumes Static Import On Demand Declaration Name, which consumes int parameter of modifier Single Modifier Import Declaration Name, which consumes Single Type Import Declaration Name, which consumes Type Import On Demand Declaration Name.

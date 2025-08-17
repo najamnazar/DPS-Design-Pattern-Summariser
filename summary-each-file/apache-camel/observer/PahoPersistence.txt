@@ -1,0 +1,1 @@
+PahoPersistence acts as an observer for publisher PahoConfiguration, which is inherited by.

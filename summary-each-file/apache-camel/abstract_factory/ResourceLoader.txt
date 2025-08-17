@@ -1,0 +1,2 @@
+ResourceLoader acts as an abstract factory for Resource, which is inherited by DefaultResourceLoader.
+ResourceLoader acts as an abstract product for ResourceLoader, which is inherited by DefaultResourceLoader.

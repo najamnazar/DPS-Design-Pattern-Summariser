@@ -1,0 +1,1 @@
+JmsListenerEndpointRegistryTests acts as a caretaker for memento C, which creates With Null Endpoint, which creates With Null Endpoint Id, which creates With Null Container Factory, which creates With Duplicate Endpoint Id, which creates String parameter of id, String parameter of destinationName Endpoint.

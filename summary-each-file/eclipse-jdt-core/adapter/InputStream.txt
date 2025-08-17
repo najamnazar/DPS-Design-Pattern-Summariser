@@ -1,0 +1,3 @@
+InputStream acts as an adaptee for adapter ProxyConsoleReader, which adapts to AbstractReader, which adapts to AbstractReader, which adapts to AbstractReader.
+InputStream acts as an adaptee for adapter AbstractRegressionTest, which adapts to AbstractCompilerTest, StopableTestCase, which adapts to AbstractCompilerTest, StopableTestCase, which adapts to AbstractCompilerTest, StopableTestCase.
+InputStream acts as an adaptee for adapter GenericTypeSignatureTest, which adapts to AbstractRegressionTest, which adapts to AbstractRegressionTest, which adapts to AbstractRegressionTest.

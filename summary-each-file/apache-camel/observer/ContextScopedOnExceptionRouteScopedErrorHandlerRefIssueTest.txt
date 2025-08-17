@@ -1,0 +1,2 @@
+ContextScopedOnExceptionRouteScopedErrorHandlerRefIssueTest acts as a publisher for observer CamelContext, which tests On Exception Error Handler Ref, which creates Registry, which creates Route Builder.
+ContextScopedOnExceptionRouteScopedErrorHandlerRefIssueTest acts as a publisher for observer Service, which tests On Exception Error Handler Ref, which creates Registry, which creates Route Builder.

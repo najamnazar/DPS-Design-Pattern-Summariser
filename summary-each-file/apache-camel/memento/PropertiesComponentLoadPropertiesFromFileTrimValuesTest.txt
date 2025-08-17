@@ -1,0 +1,2 @@
+PropertiesComponentLoadPropertiesFromFileTrimValuesTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Must Trim Values.
+PropertiesComponentLoadPropertiesFromFileTrimValuesTest acts as a caretaker for memento Context, which creates Camel Context, which tests Must Trim Values.

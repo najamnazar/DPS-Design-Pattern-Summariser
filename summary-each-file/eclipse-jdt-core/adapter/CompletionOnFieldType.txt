@@ -1,0 +1,1 @@
+CompletionOnFieldType acts as an adaptee for adapter CompletionOnSingleTypeReference, which adapts to SingleTypeReference.

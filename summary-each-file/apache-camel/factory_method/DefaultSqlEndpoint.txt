@@ -1,0 +1,2 @@
+DefaultSqlEndpoint acts as a factory for DefaultSqlEndpoint, which overrides.
+DefaultSqlEndpoint acts as a factory method for SqlPrepareStatementStrategy, which is inherited by DefaultSqlEndpoint.

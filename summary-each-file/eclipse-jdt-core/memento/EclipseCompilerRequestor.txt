@@ -1,0 +1,1 @@
+EclipseCompilerRequestor acts as a caretaker for memento List, which reports CompilationResult parameter of result Problems.

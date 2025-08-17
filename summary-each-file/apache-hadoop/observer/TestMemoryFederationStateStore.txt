@@ -1,0 +1,1 @@
+TestMemoryFederationStateStore acts as a publisher for observer Configuration, which creates State Store, which checks DelegationKey parameter of delegationKey, RouterMasterKey parameter of routerMasterKey Router Master Key, which checks RMDelegationTokenIdentifier parameter of identifier, RouterStoreToken parameter of token Router Store Token.

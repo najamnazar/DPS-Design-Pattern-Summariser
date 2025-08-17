@@ -1,0 +1,1 @@
+TestMultipleTextOutputFormat acts as a publisher for observer JobConf, which is inherited by, which writes RecordWriter<Text, parameter of Text> Data, which generates Text parameter of key, Text parameter of v, String parameter of name File Name For Key Value, which test1s JobConf parameter of job, which test2s JobConf parameter of job, which tests Format.

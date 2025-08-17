@@ -1,0 +1,1 @@
+IAnnotationBinding acts as a target for adapter AnnotationBinding, which adapts to IAnnotationBinding, which adapts to IAnnotationBinding, which adapts to IAnnotationBinding, which adapts to IAnnotationBinding.

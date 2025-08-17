@@ -1,0 +1,1 @@
+SchemaResolver acts as an observer for publisher AbstractJacksonDataFormat, JacksonProtobufDataFormat, JacksonAvroDataFormat, JacksonDataFormat, which is inherited by, which resolves Exchange parameter of exchange.

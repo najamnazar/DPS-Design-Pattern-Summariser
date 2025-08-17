@@ -1,0 +1,4 @@
+Name acts as a publisher for observer TypeBinding, which is Simple Name, which is Qualified Name, which resolves Binding, which gets Fully Qualified Name, which appends StringBuilder parameter of buffer Name.
+Name acts as a publisher for observer Constant, which is Simple Name, which is Qualified Name, which resolves Binding, which gets Fully Qualified Name, which appends StringBuilder parameter of buffer Name.
+Name acts as an observer for publisher PackageDeclaration, AssistPackageDeclaration, PackageDeclarationImpl, PackageDeclarationImplNoBinding, which is inherited by NameImpl, QualifiedName, SimpleName, ModuleQualifiedName, which is Simple Name, which is Qualified Name, which resolves Binding, which gets Fully Qualified Name, which appends StringBuilder parameter of buffer Name.
+Name acts as an observer, which is Simple Name, which is Qualified Name, which resolves Binding, which gets Fully Qualified Name, which appends StringBuilder parameter of buffer Name.

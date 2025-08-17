@@ -1,0 +1,1 @@
+JCacheOperationSource acts as an abstract product for JCacheAspectSupport, which is inherited by AbstractFallbackJCacheOperationSource.

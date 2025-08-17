@@ -1,0 +1,1 @@
+JdbcIdempotentRepository acts as an observer, which sets DataSource parameter of ds Data Source, which adds String parameter of key, which contains String parameter of key, which removes String parameter of key, which confirms String parameter of key, which clears, which starts, which stops.

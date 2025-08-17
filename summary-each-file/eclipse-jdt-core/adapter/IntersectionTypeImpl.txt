@@ -1,0 +1,1 @@
+IntersectionTypeImpl acts as an adapter, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl.

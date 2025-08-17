@@ -1,0 +1,1 @@
+ApplicationMasterProtocolPBClientImpl acts as a factory for ApplicationMasterProtocol, which overrides allocate method of ApplicationMasterProtocol, finishApplicationMaster method of ApplicationMasterProtocol, registerApplicationMaster method of ApplicationMasterProtocol.

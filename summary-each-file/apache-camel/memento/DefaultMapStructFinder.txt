@@ -1,0 +1,1 @@
+DefaultMapStructFinder acts as a caretaker for memento Context, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context, which gets Mapper Package Name, which discovers Class<?> parameter of clazz Mappings, which sets String parameter of mapperPackageName Mapper Package Name, which does Init.

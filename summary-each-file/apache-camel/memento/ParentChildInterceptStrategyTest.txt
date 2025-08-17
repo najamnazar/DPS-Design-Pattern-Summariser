@@ -1,0 +1,2 @@
+ParentChildInterceptStrategyTest acts as a caretaker for memento Context, which tests Parent Child, which creates Route Builder, which wraps final parameter of CamelContext, final parameter of NamedNode, final parameter of Processor, final parameter of Processor Processor In Interceptors.
+ParentChildInterceptStrategyTest acts as a caretaker for memento Producer, which tests Parent Child, which creates Route Builder, which wraps final parameter of CamelContext, final parameter of NamedNode, final parameter of Processor, final parameter of Processor Processor In Interceptors.

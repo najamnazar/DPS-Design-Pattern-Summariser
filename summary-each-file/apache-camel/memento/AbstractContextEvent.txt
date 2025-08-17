@@ -1,0 +1,1 @@
+AbstractContextEvent acts as a caretaker for memento Context, which is inherited by, which gets Context, which gets Timestamp, which sets long parameter of timestamp Timestamp.

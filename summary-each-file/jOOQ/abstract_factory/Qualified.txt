@@ -1,0 +1,1 @@
+Qualified acts as an abstract factory for Schema, Catalog, which is inherited by.

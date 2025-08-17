@@ -1,0 +1,7 @@
+MyMockRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyMockRoute acts as a publisher for observer Resource, which configures.
+MyMockRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyMockRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyMockRoute acts as an observer, which configures.
+MyMockRoute acts as a publisher for observer RoutesDefinition, which configures.
+MyMockRoute acts as a publisher for observer RestsDefinition, which configures.

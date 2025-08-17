@@ -1,0 +1,1 @@
+BlockMovementAttemptFinished acts as an observer for publisher ExternalSPSBlockMoveTaskHandler, which is inherited by, which gets Block, which gets Target Datanode, which gets Target Type, which gets Status, which tos String.

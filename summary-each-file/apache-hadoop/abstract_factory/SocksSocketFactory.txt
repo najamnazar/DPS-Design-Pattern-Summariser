@@ -1,0 +1,1 @@
+SocksSocketFactory acts as a factory for Configurable, which overrides getConf method of Configurable, setConf method of Configurable.

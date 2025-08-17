@@ -1,0 +1,1 @@
+RemotePeerFactory acts as an observer for publisher BlockReaderFactory, which is inherited by DFSClient, which news InetSocketAddress parameter of addr, Token<BlockTokenIdentifier> parameter of blockToken, DatanodeID parameter of datanodeId Connected Peer.

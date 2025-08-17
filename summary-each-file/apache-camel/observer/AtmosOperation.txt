@@ -1,0 +1,1 @@
+AtmosOperation acts as an observer for publisher AtmosConfiguration, which is inherited by, which tos String.

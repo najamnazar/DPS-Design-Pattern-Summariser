@@ -1,0 +1,2 @@
+SpelRouteTest acts as a publisher for observer CamelContext, which tests Spel Route, which tests Spel With Loop, which creates Route Builder.
+SpelRouteTest acts as a publisher for observer Service, which tests Spel Route, which tests Spel With Loop, which creates Route Builder.

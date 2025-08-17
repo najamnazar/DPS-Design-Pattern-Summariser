@@ -1,0 +1,1 @@
+Jms11ObjectFactory acts as a product for SjmsEndpoint, which overrides createMessageConsumer method of JmsObjectFactory, createQueueMessageConsumer method of JmsObjectFactory, createMessageProducer method of JmsObjectFactory, createMessageProducer method of JmsObjectFactory, createMessageProducer method of JmsObjectFactory, createMessageProducer method of JmsObjectFactory.

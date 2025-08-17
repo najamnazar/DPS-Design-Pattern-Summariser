@@ -1,0 +1,1 @@
+QuartzComponentBuilderFactory acts as an abstract factory for, which is inherited by.

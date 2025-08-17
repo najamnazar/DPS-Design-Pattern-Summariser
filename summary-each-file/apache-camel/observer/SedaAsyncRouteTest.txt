@@ -1,0 +1,2 @@
+SedaAsyncRouteTest acts as a publisher for observer CamelContext, which tests Send Async, which creates Route Builder.
+SedaAsyncRouteTest acts as a publisher for observer Service, which tests Send Async, which creates Route Builder.

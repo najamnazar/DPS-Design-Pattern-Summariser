@@ -1,0 +1,2 @@
+JMXMonitorTypeCounterTest acts as a publisher for observer SimpleRegistry, which counters, which builds From URI.
+JMXMonitorTypeCounterTest acts as a publisher for observer DefaultCamelContext, which counters, which builds From URI.

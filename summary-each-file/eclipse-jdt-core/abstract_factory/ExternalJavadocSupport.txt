@@ -1,0 +1,1 @@
+ExternalJavadocSupport acts as an abstract factory for IJavadocContents, which is inherited by.

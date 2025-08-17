@@ -1,0 +1,1 @@
+UpdateApplicationPriorityResponse acts as an abstract product for UpdateApplicationPriorityResponse, which is inherited by UpdateApplicationPriorityResponsePBImpl.

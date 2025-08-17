@@ -1,0 +1,2 @@
+PluginFactoryContainer acts as an observer, which adds String parameter of factoryName, String parameter of serviceName Factory Name, which exists, which loads Factory Names, which gets Id, which gets Enable Default, which gets Type.
+PluginFactoryContainer acts as a publisher for observer String, which is inherited by, which adds String parameter of factoryName, String parameter of serviceName Factory Name, which exists, which loads Factory Names, which gets Id, which gets Enable Default, which gets Type.

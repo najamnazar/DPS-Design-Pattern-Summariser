@@ -1,0 +1,1 @@
+AnnotationProcessor acts as an abstract product for AnnotationProcessor, which is inherited by Round1GenAnnotationProcessor, NoOpAnnotationProcessor, LoaderTestAnnotationProcessor, ColorAnnotationProcessor, Round2GenAnnotationProcessor, AbstractGenericProcessor, BatchProcessor.

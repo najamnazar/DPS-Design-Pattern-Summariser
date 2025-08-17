@@ -1,0 +1,2 @@
+UriBuilderFactory acts as an observer for publisher DefaultWebClientBuilder, which is inherited by DefaultUriBuilderFactory, which uris String parameter of uriTemplate String, which builders.
+UriBuilderFactory acts as an observer, which uris String parameter of uriTemplate String, which builders.

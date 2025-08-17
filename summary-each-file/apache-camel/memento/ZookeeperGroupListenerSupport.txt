@@ -1,0 +1,1 @@
+ZookeeperGroupListenerSupport acts as a caretaker for memento Context, which updates CamelNodeState parameter of state State, which does Start, which does Stop, which gets Cluster Path, which gets Group, which groups Group parameter of group, GroupEvent parameter of event Event, which ons Disconnected, which ons Lock Owned.

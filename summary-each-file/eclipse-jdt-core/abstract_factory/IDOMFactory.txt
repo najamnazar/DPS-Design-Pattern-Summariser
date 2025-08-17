@@ -1,0 +1,1 @@
+IDOMFactory acts as an abstract factory for IDOMField, IDOMPackage, IDOMType, IDOMInitializer, IDOMCompilationUnit, IDOMMethod, IDOMImport, which is inherited by DOMFactory.

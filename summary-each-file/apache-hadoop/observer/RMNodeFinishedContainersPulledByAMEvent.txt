@@ -1,0 +1,1 @@
+RMNodeFinishedContainersPulledByAMEvent acts as an observer, which gets Containers.

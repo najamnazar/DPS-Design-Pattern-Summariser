@@ -1,0 +1,1 @@
+Plan acts as an abstract product for Plan, which is inherited by InMemoryPlan.

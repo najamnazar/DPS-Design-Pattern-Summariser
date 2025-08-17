@@ -1,0 +1,2 @@
+DelegatingIntroductionInterceptor acts as a caretaker for memento B, which inits Object parameter of delegate, which invokes MethodInvocation parameter of mi, which does MethodInvocation parameter of mi Proceed.
+DelegatingIntroductionInterceptor acts as a caretaker for memento C, which inits Object parameter of delegate, which invokes MethodInvocation parameter of mi, which does MethodInvocation parameter of mi Proceed.

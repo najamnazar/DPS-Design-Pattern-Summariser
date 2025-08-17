@@ -1,0 +1,3 @@
+SerializablePerson acts as a product for PersonRepository, which overrides getName method of Person, setName method of Person.
+SerializablePerson acts as a product for PersonDao, which overrides getName method of Person, setName method of Person.
+SerializablePerson acts as a product for PersonService, which overrides getName method of Person, setName method of Person.

@@ -1,0 +1,2 @@
+CheckDebugAttributes acts as a caretaker for memento String, which executes, which checks IClassFileReader parameter of classFileReader Class File, which sets String parameter of value File, which sets String parameter of value Property.
+CheckDebugAttributes acts as a caretaker for memento S, which executes, which checks IClassFileReader parameter of classFileReader Class File, which sets String parameter of value File, which sets String parameter of value Property.

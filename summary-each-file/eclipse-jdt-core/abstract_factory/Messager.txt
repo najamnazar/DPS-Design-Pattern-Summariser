@@ -1,0 +1,1 @@
+Messager acts as an abstract product for Messager, which is inherited by EclipseMessager, BatchMessagerImpl, IdeMessagerImpl.

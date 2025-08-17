@@ -1,0 +1,1 @@
+MerchantAccountGatewayIT acts as a publisher for observer AuthenticationType, which tests Create, which tests Find, which tests Update, which creates Route Builder.

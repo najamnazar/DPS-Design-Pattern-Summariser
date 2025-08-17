@@ -1,0 +1,1 @@
+AbstractAuditSpanImpl acts as a product for OperationAuditor, which overrides.

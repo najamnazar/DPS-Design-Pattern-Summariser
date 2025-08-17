@@ -1,0 +1,1 @@
+MockConfiguration acts as a factory method for ExecutorProvider, which is inherited by Configuration.

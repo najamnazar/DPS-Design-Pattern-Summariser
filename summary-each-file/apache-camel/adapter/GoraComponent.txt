@@ -1,0 +1,1 @@
+GoraComponent acts as an adapter, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

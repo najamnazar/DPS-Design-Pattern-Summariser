@@ -1,0 +1,2 @@
+BeanWithExchangeExceptionAnnotationTest acts as a publisher for observer CamelContext, which tests Bean With Annotation And Exchange Test, which creates Registry, which creates Route Builder, which throws Exception, which handles @ExchangeException parameter of Exception Exception.
+BeanWithExchangeExceptionAnnotationTest acts as a publisher for observer Service, which tests Bean With Annotation And Exchange Test, which creates Registry, which creates Route Builder, which throws Exception, which handles @ExchangeException parameter of Exception Exception.

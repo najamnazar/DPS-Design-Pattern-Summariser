@@ -1,0 +1,2 @@
+DeclareParentsTests acts as a caretaker for memento ITestBean, which setups, which tests Introduction Was Made, which tests Locking Works, which checks Lockable parameter of mixin Not Locked.
+DeclareParentsTests acts as a caretaker for memento B, which setups, which tests Introduction Was Made, which tests Locking Works, which checks Lockable parameter of mixin Not Locked.

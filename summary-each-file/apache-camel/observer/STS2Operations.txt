@@ -1,0 +1,1 @@
+STS2Operations acts as an observer for publisher STS2Configuration, which is inherited by.

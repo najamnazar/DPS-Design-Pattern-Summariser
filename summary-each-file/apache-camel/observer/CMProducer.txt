@@ -1,0 +1,1 @@
+CMProducer acts as a publisher for observer CMSender, which is inherited by, which processes final parameter of Exchange, which does Start, which gets Endpoint, which gets Configuration, which gets Validator, which gets Sender, which sets CMSender parameter of sender Sender.

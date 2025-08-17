@@ -1,0 +1,2 @@
+StreamResultHandlerFactory acts as a product for XsltBuilder, which overrides createResult method of ResultHandlerFactory.
+StreamResultHandlerFactory acts as a factory method for ResultHandler, which is inherited by ResultHandlerFactory, ResultHandlerFactory, ResultHandlerFactory, ResultHandlerFactory, ResultHandlerFactory, ResultHandlerFactory, ResultHandlerFactory.

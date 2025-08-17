@@ -1,0 +1,1 @@
+AbstractTwitterComponent acts as a factory for UndertowComponent, which overrides.

@@ -1,0 +1,2 @@
+JavaDslTransactedNoTXManagerTest acts as a publisher for observer CamelContext, which tests Transacted No TXManager, which is Use Route Builder.
+JavaDslTransactedNoTXManagerTest acts as a publisher for observer Service, which tests Transacted No TXManager, which is Use Route Builder.

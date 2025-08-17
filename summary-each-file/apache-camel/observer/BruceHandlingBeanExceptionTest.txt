@@ -1,0 +1,1 @@
+BruceHandlingBeanExceptionTest acts as a publisher for observer ArtemisService, which tests Send OK, which tests Send Error, which gets Component Name, which creates Route Builder, which does String parameter of input Something.

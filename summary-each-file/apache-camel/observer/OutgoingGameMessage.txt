@@ -1,0 +1,2 @@
+OutgoingGameMessage acts as a publisher for observer InlineKeyboardMarkup, which is inherited by, which sets String parameter of gameShortName Game Short Name, which sets InlineKeyboardMarkup parameter of replyMarkup Reply Markup, which gets Game Short Name, which gets Reply Markup, which tos String.
+OutgoingGameMessage acts as an observer, which sets String parameter of gameShortName Game Short Name, which sets InlineKeyboardMarkup parameter of replyMarkup Reply Markup, which gets Game Short Name, which gets Reply Markup, which tos String.

@@ -1,0 +1,2 @@
+AggregateRepositoryReturnNullTest acts as a publisher for observer CamelContext, which tests Aggregate Repository Return Null, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+AggregateRepositoryReturnNullTest acts as a publisher for observer Service, which tests Aggregate Repository Return Null, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

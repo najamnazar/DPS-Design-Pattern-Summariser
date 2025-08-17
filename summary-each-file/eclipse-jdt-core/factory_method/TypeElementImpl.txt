@@ -1,0 +1,2 @@
+TypeElementImpl acts as a product for ModuleElementImpl, which overrides getEnclosedElements method of TypeElement, getRecordComponents method of TypeElement, getPermittedSubclasses method of TypeElement, getEnclosingElement method of TypeElement, getInterfaces method of TypeElement, getNestingKind method of TypeElement, getQualifiedName method of TypeElement, getSimpleName method of TypeElement, getSuperclass method of TypeElement, getTypeParameters method of TypeElement.
+TypeElementImpl acts as a factory for TypesUtil, which overrides toString method of TypesUtil.

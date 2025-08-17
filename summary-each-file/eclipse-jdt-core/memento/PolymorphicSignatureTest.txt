@@ -1,0 +1,8 @@
+PolymorphicSignatureTest acts as a caretaker for memento Map, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento Test, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento E, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento R, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento S, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento List, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento C, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.
+PolymorphicSignatureTest acts as a caretaker for memento String, which suites, which tests Class, which test0001s, which test0002s, which tests Bug515863, which tests Bug475996.

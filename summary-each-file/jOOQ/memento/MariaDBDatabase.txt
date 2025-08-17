@@ -1,0 +1,2 @@
+MariaDBDatabase acts as a caretaker for memento Index, which create0s, which sequenceses List<String> parameter of schemas, which gets Sequences0.
+MariaDBDatabase acts as a caretaker for memento ColumnDefinition, which create0s, which sequenceses List<String> parameter of schemas, which gets Sequences0.

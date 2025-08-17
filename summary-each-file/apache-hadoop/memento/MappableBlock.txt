@@ -1,0 +1,1 @@
+MappableBlock acts as a memento, which is inherited by PmemMappedBlock, MemoryMappedBlock, NativePmemMappedBlock, which gets Key, which gets Key, which gets Key.

@@ -1,0 +1,1 @@
+GetQueueUserAclsInfoResponse acts as an abstract product for GetQueueUserAclsInfoResponse, which is inherited by GetQueueUserAclsInfoResponsePBImpl.

@@ -1,0 +1,2 @@
+RMPolicyProvider acts as an adapter, which adapts to PolicyProvider, which adapts to PolicyProvider.
+RMPolicyProvider acts as an adaptee for adapter RMPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.

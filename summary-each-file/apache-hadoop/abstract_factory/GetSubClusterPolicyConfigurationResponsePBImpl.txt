@@ -1,0 +1,1 @@
+GetSubClusterPolicyConfigurationResponsePBImpl acts as a product for FederationPolicyStore, which overrides getPolicyConfiguration method of GetSubClusterPolicyConfigurationResponse, setPolicyConfiguration method of GetSubClusterPolicyConfigurationResponse.

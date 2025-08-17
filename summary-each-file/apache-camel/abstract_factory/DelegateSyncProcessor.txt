@@ -1,0 +1,2 @@
+DelegateSyncProcessor acts as a product for AnnotationBasedProcessorFactory, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.
+DelegateSyncProcessor acts as a product for InternalProcessorFactory, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.

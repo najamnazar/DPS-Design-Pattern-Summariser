@@ -1,0 +1,1 @@
+AuthClientForIntegration acts as a caretaker for memento Configuration, which configures CloseableHttpClient parameter of httpClient, HttpRequestBase parameter of method, which gets CloseableHttpClient parameter of httpClient Bearer Token, which creates String parameter of tokenUrl Post Method, which parses String parameter of response Response.

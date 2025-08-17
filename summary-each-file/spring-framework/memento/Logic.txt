@@ -1,0 +1,1 @@
+Logic acts as a caretaker for memento A, which sets Assembler parameter of a Assembler, which sets String parameter of name Bean Name, which outputs.

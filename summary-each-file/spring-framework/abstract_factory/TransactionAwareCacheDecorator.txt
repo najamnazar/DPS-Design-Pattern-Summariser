@@ -1,0 +1,1 @@
+TransactionAwareCacheDecorator acts as a product for CacheManager, which overrides getName method of Cache, getNativeCache method of Cache, get method of Cache, get method of Cache, get method of Cache, putIfAbsent method of Cache, evictIfPresent method of Cache, clear method of Cache, invalidate method of Cache.

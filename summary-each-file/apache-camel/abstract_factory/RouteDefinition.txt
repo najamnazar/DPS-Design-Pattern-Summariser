@@ -1,0 +1,2 @@
+RouteDefinition acts as a factory for ResourceAware, which overrides.
+RouteDefinition acts as a factory for NamedRoute, which overrides getRouteId method of NamedRoute, getEndpointUrl method of NamedRoute.

@@ -1,0 +1,1 @@
+CheckpointID acts as a memento, which is inherited by TaskCheckpointID, FSCheckpointID.

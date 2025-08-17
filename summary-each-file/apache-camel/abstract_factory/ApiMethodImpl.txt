@@ -1,0 +1,1 @@
+ApiMethodImpl acts as a factory for ApiMethod, which overrides getName method of ApiMethod, getResultType method of ApiMethod, getArgNames method of ApiMethod, getArgTypes method of ApiMethod, getMethod method of ApiMethod.

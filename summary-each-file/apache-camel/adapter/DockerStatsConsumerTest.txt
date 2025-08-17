@@ -1,0 +1,1 @@
+DockerStatsConsumerTest acts as an adapter, which adapts setupMocks method of DockerConfiguration to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,5 @@
+AssistImportDeclaration acts as a caretaker for memento Map, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a caretaker for memento C, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a caretaker for memento S, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a caretaker for memento List, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a caretaker for memento E, which gets IProgressMonitor parameter of monitor Element Info.

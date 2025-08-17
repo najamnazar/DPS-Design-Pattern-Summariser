@@ -1,0 +1,5 @@
+AlterDomainImpl acts as a product for AlterDomainStep, which overrides.
+AlterDomainImpl acts as a factory for AlterDomainDropConstraintCascadeStep, which overrides.
+AlterDomainImpl acts as a factory for AlterDomainRenameConstraintStep, which overrides.
+AlterDomainImpl acts as a product for AlterDomainDropConstraintCascadeStep, which overrides.
+AlterDomainImpl acts as a product for AlterDomainRenameConstraintStep, which overrides.

@@ -1,0 +1,3 @@
+IMemberValuePairBinding acts as a product for ITypeBinding, which overrides getName method of IBinding.
+IMemberValuePairBinding acts as a product for IMethodBinding, which overrides getName method of IBinding.
+IMemberValuePairBinding acts as an abstract factory for Object, which is inherited by MemberValuePairBinding.

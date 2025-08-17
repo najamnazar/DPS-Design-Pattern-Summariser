@@ -1,0 +1,2 @@
+SedaUnitOfWorkTest acts as a caretaker for memento Context, which tests Seda UOW, which tests Seda UOWWith Exception, which creates Route Builder, which processes Exchange parameter of exchange.
+SedaUnitOfWorkTest acts as a caretaker for memento Producer, which tests Seda UOW, which tests Seda UOWWith Exception, which creates Route Builder, which processes Exchange parameter of exchange.

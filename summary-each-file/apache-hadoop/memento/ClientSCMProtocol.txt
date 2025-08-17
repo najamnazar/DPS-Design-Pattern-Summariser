@@ -1,0 +1,1 @@
+ClientSCMProtocol acts as an originator for memento ReleaseSharedCacheResourceResponse, which is inherited by, which releases ReleaseSharedCacheResourceResponse.

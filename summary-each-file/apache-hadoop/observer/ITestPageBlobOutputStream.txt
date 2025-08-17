@@ -1,0 +1,1 @@
+ITestPageBlobOutputStream acts as a publisher for observer AzureBlobStorageTestAccount, which creates Test Account, which tests Hflush, which tests Hsync.

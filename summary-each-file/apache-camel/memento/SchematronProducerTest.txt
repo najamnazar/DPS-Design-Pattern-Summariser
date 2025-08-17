@@ -1,0 +1,2 @@
+SchematronProducerTest acts as a caretaker for memento Context, which sets UP, which tests Process Valid XML, which tests Process In Valid XML, which tests Process Valid XMLAs Source, which tests Process In Valid XMLAs Source, which gets XMLReader.
+SchematronProducerTest acts as a caretaker for memento Producer, which sets UP, which tests Process Valid XML, which tests Process In Valid XML, which tests Process Valid XMLAs Source, which tests Process In Valid XMLAs Source, which gets XMLReader.

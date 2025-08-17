@@ -1,0 +1,2 @@
+FailoverLoadBalancerBreakoutDuringShutdownTest acts as a publisher for observer CamelContext, which tests Failover, which creates Route Builder.
+FailoverLoadBalancerBreakoutDuringShutdownTest acts as a publisher for observer Service, which tests Failover, which creates Route Builder.

@@ -1,0 +1,1 @@
+ContainerLauncherEvent acts as an observer for publisher LocalContainerLauncher, which is inherited by ContainerRemoteLaunchEvent, which gets Task Attempt ID, which gets Container ID, which gets Container Mgr Address, which gets Container Token, which gets Dump Container Threads, which tos String, which hashes Code, which equals Object parameter of obj.

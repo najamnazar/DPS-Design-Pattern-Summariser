@@ -1,0 +1,1 @@
+AssistSourceMethod acts as an adapter, which adapts to ResolvedSourceMethod, which adapts getKey method of String to ResolvedSourceMethod, which adapts isResolved method of String to ResolvedSourceMethod, which adapts to ResolvedSourceMethod, which adapts to ResolvedSourceMethod, which adapts to ResolvedSourceMethod, which adapts to ResolvedSourceMethod.

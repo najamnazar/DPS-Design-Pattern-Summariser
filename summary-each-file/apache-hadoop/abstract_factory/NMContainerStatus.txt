@@ -1,0 +1,1 @@
+NMContainerStatus acts as an abstract product for NMContainerStatus, which is inherited by NMContainerStatusPBImpl.

@@ -1,0 +1,1 @@
+DelegatingWebConnection acts as a caretaker for memento C, which gets WebRequest parameter of request Response, which closes, which gets Matcher, which gets Delegate.

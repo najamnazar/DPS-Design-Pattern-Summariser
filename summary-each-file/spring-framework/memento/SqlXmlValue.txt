@@ -1,0 +1,1 @@
+SqlXmlValue acts as a memento.

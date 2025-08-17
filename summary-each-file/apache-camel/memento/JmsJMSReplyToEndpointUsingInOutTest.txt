@@ -1,0 +1,1 @@
+JmsJMSReplyToEndpointUsingInOutTest acts as a caretaker for memento Component, which tests Custom JMSReply To In Out, which creates Route Builder, which gets Component Name, which builds ConnectionFactory parameter of connectionFactory Component.

@@ -1,0 +1,1 @@
+ActiveMQSendDynamicAware acts as a publisher for observer CamelContext.

@@ -1,0 +1,1 @@
+TestMRJobsWithProfiler acts as a caretaker for memento RMAppState, which setups, which tears Down, which tests Default Profiler, which tests Different Profilers, which tests boolean parameter of useDefault Profiler Internal.

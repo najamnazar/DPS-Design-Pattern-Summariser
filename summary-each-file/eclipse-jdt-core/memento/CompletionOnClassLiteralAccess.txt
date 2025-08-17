@@ -1,0 +1,2 @@
+CompletionOnClassLiteralAccess acts as a caretaker for memento R, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+CompletionOnClassLiteralAccess acts as a caretaker for memento Binding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

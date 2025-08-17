@@ -1,0 +1,2 @@
+DropboxEndpoint acts as an adaptee for adapter DropboxScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.
+DropboxEndpoint acts as an adaptee for adapter DropboxProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer.

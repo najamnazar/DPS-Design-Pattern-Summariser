@@ -1,0 +1,1 @@
+AvailableSpaceVolumeChoosingPolicy acts as a factory for Configurable, which overrides setConf method of Configurable, getConf method of Configurable.

@@ -1,0 +1,5 @@
+RssToHttpIssueTest acts as a publisher for observer Service, which tests Rss To Http Issue Test, which creates Route Builder.
+RssToHttpIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Rss To Http Issue Test, which creates Route Builder.
+RssToHttpIssueTest acts as a publisher for observer ProducerTemplate, which tests Rss To Http Issue Test, which creates Route Builder.
+RssToHttpIssueTest acts as a publisher for observer ConsumerTemplate, which tests Rss To Http Issue Test, which creates Route Builder.
+RssToHttpIssueTest acts as a publisher for observer CamelContext, which tests Rss To Http Issue Test, which creates Route Builder.

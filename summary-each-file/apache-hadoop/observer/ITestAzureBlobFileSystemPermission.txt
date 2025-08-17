@@ -1,0 +1,2 @@
+ITestAzureBlobFileSystemPermission acts as a publisher for observer AzureBlobFileSystem, which abfses Create Non Recursive Test Data, which tests File Permission, which tests Folder Permission.
+ITestAzureBlobFileSystemPermission acts as a publisher for observer Configuration, which abfses Create Non Recursive Test Data, which tests File Permission, which tests Folder Permission.

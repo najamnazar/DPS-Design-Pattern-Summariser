@@ -1,0 +1,1 @@
+IOStatisticsContext acts as an observer for publisher IOStatisticsContextIntegration, which is inherited by IOStatisticsContextImpl, EmptyIOStatisticsContextImpl, which gets Aggregator, which snapshots, which gets ID, which resets, which gets Current IOStatistics Context, which sets IOStatisticsContext parameter of statisticsContext Thread IOStatistics Context, which enables.

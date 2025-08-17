@@ -1,0 +1,3 @@
+Element acts as an abstract product for Element, which is inherited by VariableElement, ModuleElement, TypeParameterElement, QualifiedNameable, PackageElement, Parameterizable, TypeElement, ExecutableElement, RecordComponentElement.
+Element acts as an abstract product for Element, which is inherited by VariableElement, VariableElement, ModuleElement, ModuleElement, TypeParameterElement, TypeParameterElement, QualifiedNameable, QualifiedNameable, PackageElement, PackageElement, Parameterizable, Parameterizable, TypeElement, TypeElement, ExecutableElement, ExecutableElement, RecordComponentElement, RecordComponentElement.
+Element acts as an abstract factory for A, TypeMirror, Element, Name, which is inherited by.

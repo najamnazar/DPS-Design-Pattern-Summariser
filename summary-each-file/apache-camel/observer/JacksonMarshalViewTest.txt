@@ -1,0 +1,5 @@
+JacksonMarshalViewTest acts as a publisher for observer FluentProducerTemplate, which tests Marshal And Unmarshal Pojo With View, which tests Marshal And Unmarshal Pojo With Another View, which creates Route Builder.
+JacksonMarshalViewTest acts as a publisher for observer ConsumerTemplate, which tests Marshal And Unmarshal Pojo With View, which tests Marshal And Unmarshal Pojo With Another View, which creates Route Builder.
+JacksonMarshalViewTest acts as a publisher for observer ProducerTemplate, which tests Marshal And Unmarshal Pojo With View, which tests Marshal And Unmarshal Pojo With Another View, which creates Route Builder.
+JacksonMarshalViewTest acts as a publisher for observer CamelContext, which tests Marshal And Unmarshal Pojo With View, which tests Marshal And Unmarshal Pojo With Another View, which creates Route Builder.
+JacksonMarshalViewTest acts as a publisher for observer Service, which tests Marshal And Unmarshal Pojo With View, which tests Marshal And Unmarshal Pojo With Another View, which creates Route Builder.

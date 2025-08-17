@@ -1,0 +1,2 @@
+AbstractReader acts as a caretaker for memento String, which is inherited by, which readers Loop, which starts, which stops.
+AbstractReader acts as a caretaker for memento S, which is inherited by, which readers Loop, which starts, which stops.

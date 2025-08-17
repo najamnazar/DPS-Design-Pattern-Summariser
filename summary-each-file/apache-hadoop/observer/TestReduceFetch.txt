@@ -1,0 +1,1 @@
+TestReduceFetch acts as a publisher for observer Text, which tests Reduce From Disk, which tests Reduce From Mem.

@@ -1,0 +1,1 @@
+Operation acts as an observer for publisher BaseTestHttpFSWith, TestHttpFSWithHttpFSFileSystem, TestHttpFSFileSystemLocalFileSystem, which is inherited by TruncateOp, ListOp, CreateOp, SleepOp, MkdirOp, DeleteOp, ObserveableOp, AppendOp, ReadOp, which getqs ACLNeeded, which gets Job ACLNeeded.

@@ -1,0 +1,5 @@
+DefaultHttpBindingTest acts as a publisher for observer CamelContext, which tests Convert Date, which tests Convert Date Type Converter, which tests Convert Locale, which tests Convert Locale Type Converter.
+DefaultHttpBindingTest acts as a publisher for observer FluentProducerTemplate, which tests Convert Date, which tests Convert Date Type Converter, which tests Convert Locale, which tests Convert Locale Type Converter.
+DefaultHttpBindingTest acts as a publisher for observer ProducerTemplate, which tests Convert Date, which tests Convert Date Type Converter, which tests Convert Locale, which tests Convert Locale Type Converter.
+DefaultHttpBindingTest acts as a publisher for observer ConsumerTemplate, which tests Convert Date, which tests Convert Date Type Converter, which tests Convert Locale, which tests Convert Locale Type Converter.
+DefaultHttpBindingTest acts as a publisher for observer Service, which tests Convert Date, which tests Convert Date Type Converter, which tests Convert Locale, which tests Convert Locale Type Converter.

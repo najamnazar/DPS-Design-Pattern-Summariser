@@ -1,0 +1,3 @@
+LogExactlyOnce acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.
+LogExactlyOnce acts as an adaptee for adapter ActiveAuditManagerS3A, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+LogExactlyOnce acts as an adaptee for adapter LoggingAuditor, which adapts to AbstractOperationAuditor, which adapts to AbstractOperationAuditor, which adapts to AbstractOperationAuditor, which adapts to AbstractOperationAuditor.

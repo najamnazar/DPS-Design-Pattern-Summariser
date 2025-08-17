@@ -1,0 +1,1 @@
+UseSeveralPropertyPlaceholderLocationsTest acts as a caretaker for memento Producer, which configures MainConfigurationProperties parameter of configuration, which shoulds Apply All Property Placeholder Locations, which shoulds Support Nested Test.

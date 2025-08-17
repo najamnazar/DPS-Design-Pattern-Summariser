@@ -1,0 +1,5 @@
+FromFtpClientSoTimeoutTest acts as a publisher for observer Service, which gets Ftp Url, which tests, which creates Route Builder.
+FromFtpClientSoTimeoutTest acts as a publisher for observer ConsumerTemplate, which gets Ftp Url, which tests, which creates Route Builder.
+FromFtpClientSoTimeoutTest acts as a publisher for observer ProducerTemplate, which gets Ftp Url, which tests, which creates Route Builder.
+FromFtpClientSoTimeoutTest acts as a publisher for observer CamelContext, which gets Ftp Url, which tests, which creates Route Builder.
+FromFtpClientSoTimeoutTest acts as a publisher for observer FluentProducerTemplate, which gets Ftp Url, which tests, which creates Route Builder.

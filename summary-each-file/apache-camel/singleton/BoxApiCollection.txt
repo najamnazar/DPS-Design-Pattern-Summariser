@@ -1,0 +1,1 @@
+BoxApiCollection acts as a singleton, which gets a BoxApiCollection Collection to.

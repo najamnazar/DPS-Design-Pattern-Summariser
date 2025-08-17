@@ -1,0 +1,5 @@
+DisruptorUnitOfWorkTest acts as a publisher for observer FluentProducerTemplate, which tests Disruptor UOW, which creates Route Builder, which processes final parameter of Exchange.
+DisruptorUnitOfWorkTest acts as a publisher for observer ProducerTemplate, which tests Disruptor UOW, which creates Route Builder, which processes final parameter of Exchange.
+DisruptorUnitOfWorkTest acts as a publisher for observer ConsumerTemplate, which tests Disruptor UOW, which creates Route Builder, which processes final parameter of Exchange.
+DisruptorUnitOfWorkTest acts as a publisher for observer CamelContext, which tests Disruptor UOW, which creates Route Builder, which processes final parameter of Exchange.
+DisruptorUnitOfWorkTest acts as a publisher for observer Service, which tests Disruptor UOW, which creates Route Builder, which processes final parameter of Exchange.

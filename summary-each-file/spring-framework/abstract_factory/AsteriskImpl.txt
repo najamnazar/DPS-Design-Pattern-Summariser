@@ -1,0 +1,2 @@
+AsteriskImpl acts as a factory for Asterisk, which overrides except method of Asterisk, except method of Asterisk, $except method of Asterisk.
+AsteriskImpl acts as a product for Asterisk, which overrides except method of Asterisk, except method of Asterisk, $except method of Asterisk.

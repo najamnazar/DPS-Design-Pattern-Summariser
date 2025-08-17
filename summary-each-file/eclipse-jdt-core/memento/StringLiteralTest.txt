@@ -1,0 +1,2 @@
+StringLiteralTest acts as a caretaker for memento String, which tests Append.
+StringLiteralTest acts as a caretaker for memento S, which tests Append.

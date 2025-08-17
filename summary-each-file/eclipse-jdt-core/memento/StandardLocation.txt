@@ -1,0 +1,4 @@
+StandardLocation acts as a caretaker for memento String, which locations final parameter of String For, which gets Name, which is Output Location, which is Module Oriented Location.
+StandardLocation acts as a caretaker for memento C, which locations final parameter of String For, which gets Name, which is Output Location, which is Module Oriented Location.
+StandardLocation acts as a caretaker for memento S, which locations final parameter of String For, which gets Name, which is Output Location, which is Module Oriented Location.
+StandardLocation acts as a caretaker for memento Map, which locations final parameter of String For, which gets Name, which is Output Location, which is Module Oriented Location.

@@ -1,0 +1,1 @@
+SimpAttributesContextHolder acts as a caretaker for memento A, which resets Attributes, which sets @Nullable parameter of SimpAttributes Attributes, which sets Message<?> parameter of message Attributes From Message, which gets Attributes, which currents Attributes.

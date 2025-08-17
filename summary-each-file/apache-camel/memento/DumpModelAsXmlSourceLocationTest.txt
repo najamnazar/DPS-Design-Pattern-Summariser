@@ -1,0 +1,2 @@
+DumpModelAsXmlSourceLocationTest acts as a caretaker for memento Context, which creates Camel Context, which tests Dump Model As Xml, which tests Dump Model As Xml External, which creates Route Builders.
+DumpModelAsXmlSourceLocationTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Dump Model As Xml, which tests Dump Model As Xml External, which creates Route Builders.

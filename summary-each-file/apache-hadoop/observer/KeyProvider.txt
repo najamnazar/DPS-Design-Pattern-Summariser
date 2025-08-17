@@ -1,0 +1,1 @@
+KeyProvider acts as an observer for publisher WebHdfsFileSystem, SWebHdfsFileSystem, which is inherited by KeyProviderExtension, SimpleKeyProvider, LoadBalancingKMSClientProvider, KMSClientProvider, which gets String parameter of accountName, Configuration parameter of conf Storage Account Key.

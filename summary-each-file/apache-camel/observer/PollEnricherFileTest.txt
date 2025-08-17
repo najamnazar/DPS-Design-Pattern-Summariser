@@ -1,0 +1,2 @@
+PollEnricherFileTest acts as a publisher for observer CamelContext, which tests Poll Enrich File, which creates Route Builder.
+PollEnricherFileTest acts as a publisher for observer Service, which tests Poll Enrich File, which creates Route Builder.

@@ -1,0 +1,2 @@
+ForwardingJavaFileObject acts as a caretaker for memento String, which gets Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which gets Nesting Kind, which gets Access Level.
+ForwardingJavaFileObject acts as a caretaker for memento S, which gets Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which gets Nesting Kind, which gets Access Level.

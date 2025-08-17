@@ -1,0 +1,1 @@
+MicrometerRoutePolicyNamingStrategy acts as an adaptee for adapter MicrometerRoutePolicy, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport.

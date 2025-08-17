@@ -1,0 +1,5 @@
+KinesisProducerIT acts as a publisher for observer ProducerTemplate, which prepares Environment, which consumes Messages, which sends, which creates Route Builder.
+KinesisProducerIT acts as a publisher for observer CamelContext, which prepares Environment, which consumes Messages, which sends, which creates Route Builder.
+KinesisProducerIT acts as a publisher for observer ConsumerTemplate, which prepares Environment, which consumes Messages, which sends, which creates Route Builder.
+KinesisProducerIT acts as a publisher for observer Service, which prepares Environment, which consumes Messages, which sends, which creates Route Builder.
+KinesisProducerIT acts as a publisher for observer FluentProducerTemplate, which prepares Environment, which consumes Messages, which sends, which creates Route Builder.

@@ -1,0 +1,4 @@
+WildcardTypeImpl acts as a publisher for observer ChildListPropertyDescriptor, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a publisher for observer SimplePropertyDescriptor, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a publisher for observer ChildPropertyDescriptor, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a publisher for observer Type, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.

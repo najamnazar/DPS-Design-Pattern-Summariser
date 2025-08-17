@@ -1,0 +1,2 @@
+EnumDeclarationImpl acts as a caretaker for memento C, which accepts DeclarationVisitor parameter of visitor, which gets Enum Constants, which accepts TypeVisitor parameter of visitor, which gets Declaration, which kinds.
+EnumDeclarationImpl acts as a caretaker for memento E, which accepts DeclarationVisitor parameter of visitor, which gets Enum Constants, which accepts TypeVisitor parameter of visitor, which gets Declaration, which kinds.

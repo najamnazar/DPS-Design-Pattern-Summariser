@@ -1,0 +1,1 @@
+AbstractMonitoringInterceptor acts as a publisher for observer Log, which sets @Nullable parameter of String Prefix, which gets Prefix, which sets @Nullable parameter of String Suffix, which gets Suffix, which sets boolean parameter of logTargetClassInvocation Log Target Class Invocation, which creates MethodInvocation parameter of invocation Invocation Trace Name.

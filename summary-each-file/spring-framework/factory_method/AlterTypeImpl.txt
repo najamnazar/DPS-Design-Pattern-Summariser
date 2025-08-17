@@ -1,0 +1,1 @@
+AlterTypeImpl acts as a product for AlterTypeStep, which overrides.

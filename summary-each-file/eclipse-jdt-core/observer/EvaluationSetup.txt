@@ -1,0 +1,1 @@
+EvaluationSetup acts as a publisher for observer String, which is inherited by DebugEvaluationSetup, which sets Up, which starts String parameter of name, final parameter of InputStream, final parameter of PrintStream Reader, which tears Down.

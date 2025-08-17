@@ -1,0 +1,6 @@
+Bar acts as an adaptee for adapter PropertyBindingSupportListTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Bar acts as an adaptee for adapter PropertyBindingSupportMapTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Bar acts as an adaptee for adapter PropertyBindingSupportFlattenTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Bar acts as an adaptee for adapter PropertyBindingSupportArrayTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Bar acts as an adaptee for adapter PropertyBindingSupportTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Bar acts as an adaptee for adapter PropertyBindingSupportAutowireNestedTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

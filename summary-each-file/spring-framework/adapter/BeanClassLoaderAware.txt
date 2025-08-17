@@ -1,0 +1,5 @@
+BeanClassLoaderAware acts as an adaptee for adapter MBeanProxyFactoryBean, which adapts to MBeanClientInterceptor.
+BeanClassLoaderAware acts as an adaptee for adapter MBeanExporter, which adapts to MBeanRegistrationSupport.
+BeanClassLoaderAware acts as an adaptee for adapter XStreamMarshaller, which adapts to AbstractMarshaller.
+BeanClassLoaderAware acts as an adaptee for adapter JndiObjectFactoryBean, which adapts to JndiObjectLocator.
+BeanClassLoaderAware acts as an adaptee for adapter MethodInvokingBean, which adapts to ArgumentConvertingMethodInvoker.

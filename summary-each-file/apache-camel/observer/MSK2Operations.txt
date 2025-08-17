@@ -1,0 +1,1 @@
+MSK2Operations acts as an observer for publisher MSK2Configuration, which is inherited by.

@@ -1,0 +1,1 @@
+CacheOperationSource acts as an observer for publisher BeanFactoryCacheOperationSourceAdvisor, which is inherited by CompositeCacheOperationSource, AbstractFallbackCacheOperationSource, NameMatchCacheOperationSource, which is Class<?> parameter of targetClass Candidate Class, which gets Method parameter of method, @Nullable parameter of Class<?> Cache Operations.

@@ -1,0 +1,3 @@
+LuceneComponent acts as a caretaker for memento Configuration, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Config, which sets LuceneConfiguration parameter of config Config.
+LuceneComponent acts as a caretaker for memento Component, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Config, which sets LuceneConfiguration parameter of config Config.
+LuceneComponent acts as a caretaker for memento Context, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Config, which sets LuceneConfiguration parameter of config Config.

@@ -1,0 +1,5 @@
+SimpleMain acts as a publisher for observer RoutesCollector, which does Init, which does Start, which does Stop.
+SimpleMain acts as a publisher for observer OrderedLocationProperties, which does Init, which does Start, which does Stop.
+SimpleMain acts as a publisher for observer CamelContext, which does Init, which does Start, which does Stop.
+SimpleMain acts as a publisher for observer MainConfigurationProperties, which does Init, which does Start, which does Stop.
+SimpleMain acts as a publisher for observer MainListener, which does Init, which does Start, which does Stop.

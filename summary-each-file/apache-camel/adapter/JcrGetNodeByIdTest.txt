@@ -1,0 +1,1 @@
+JcrGetNodeByIdTest acts as an adapter, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport, which adapts to JcrRouteTestSupport.

@@ -1,0 +1,1 @@
+ContainerLocalizationCleanupEvent acts as a caretaker for memento LocalResourceVisibility, which gets Resources.

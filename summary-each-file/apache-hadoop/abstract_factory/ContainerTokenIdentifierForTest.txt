@@ -1,0 +1,1 @@
+ContainerTokenIdentifierForTest acts as a product for Container, which overrides getUser method of ContainerTokenIdentifier, readFields method of ContainerTokenIdentifier, write method of ContainerTokenIdentifier, hashCode method of ContainerTokenIdentifier, equals method of ContainerTokenIdentifier, toString method of ContainerTokenIdentifier.

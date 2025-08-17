@@ -1,0 +1,1 @@
+DataBufferFactory acts as a component for LeakAwareDataBufferFactory, which is inherited by DefaultDataBufferFactory, DefaultDataBufferFactory, DefaultDataBufferFactory, DefaultDataBufferFactory, DefaultDataBufferFactory, NettyDataBufferFactory, NettyDataBufferFactory, NettyDataBufferFactory, NettyDataBufferFactory, NettyDataBufferFactory, NettyDataBufferFactory.

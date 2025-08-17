@@ -1,0 +1,1 @@
+XsltComponent acts as an abstract product for XsltComponent, which is inherited by XsltSaxonComponent.

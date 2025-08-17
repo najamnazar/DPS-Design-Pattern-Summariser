@@ -1,0 +1,1 @@
+GetQueueUserAclsInfoResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getUserAclsInfoList method of GetQueueUserAclsInfoResponse, setUserAclsInfoList method of GetQueueUserAclsInfoResponse.

@@ -1,0 +1,1 @@
+EclipseMirrorType acts as an observer, which is EclipseMirrorType parameter of left Assignment Compatible, which is EclipseMirrorType parameter of type Sub Type Compatible, which gets Type Binding.

@@ -1,0 +1,2 @@
+MulticastCompletedPropertyTest acts as a publisher for observer CamelContext, which tests Multicast Completed, which creates Route Builder.
+MulticastCompletedPropertyTest acts as a publisher for observer Service, which tests Multicast Completed, which creates Route Builder.

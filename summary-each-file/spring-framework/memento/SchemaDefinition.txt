@@ -1,0 +1,5 @@
+SchemaDefinition acts as a caretaker for memento PackageDefinition, which gets Catalog, which gets Tables, which gets Output Name, which gets Definition Path, which is Default Schema.
+SchemaDefinition acts as a caretaker for memento Database, which gets Catalog, which gets Tables, which gets Output Name, which gets Definition Path, which is Default Schema.
+SchemaDefinition acts as a caretaker for memento Package, which gets Catalog, which gets Tables, which gets Output Name, which gets Definition Path, which is Default Schema.
+SchemaDefinition acts as a caretaker for memento C, which gets Catalog, which gets Tables, which gets Output Name, which gets Definition Path, which is Default Schema.
+SchemaDefinition acts as a caretaker for memento Cat, which gets Catalog, which gets Tables, which gets Output Name, which gets Definition Path, which is Default Schema.

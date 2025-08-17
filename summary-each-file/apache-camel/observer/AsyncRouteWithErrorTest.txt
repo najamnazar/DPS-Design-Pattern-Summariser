@@ -1,0 +1,2 @@
+AsyncRouteWithErrorTest acts as a publisher for observer CamelContext, which sets Up, which tests Async Route With Error, which tests Async Route With Type Converted, which creates Route Builder, which processes Exchange parameter of exchange.
+AsyncRouteWithErrorTest acts as a publisher for observer Service, which sets Up, which tests Async Route With Error, which tests Async Route With Type Converted, which creates Route Builder, which processes Exchange parameter of exchange.

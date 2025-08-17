@@ -1,0 +1,1 @@
+DefaultJsonUriSchemaLoader acts as an observer, which creates CamelContext parameter of camelContext, String parameter of schemaUri Schema.

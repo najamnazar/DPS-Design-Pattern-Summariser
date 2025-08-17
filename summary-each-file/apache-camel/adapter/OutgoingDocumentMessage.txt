@@ -1,0 +1,1 @@
+OutgoingDocumentMessage acts as an adapter, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage, which adapts to OutgoingMessage.

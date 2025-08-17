@@ -1,0 +1,1 @@
+DelegatingTransactionDefinition acts as a product for MockCallbackPreferringTransactionManager, which overrides getPropagationBehavior method of TransactionDefinition, getIsolationLevel method of TransactionDefinition, getTimeout method of TransactionDefinition, isReadOnly method of TransactionDefinition, getName method of TransactionDefinition.

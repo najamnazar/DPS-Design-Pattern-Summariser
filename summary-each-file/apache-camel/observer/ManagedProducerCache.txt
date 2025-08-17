@@ -1,0 +1,1 @@
+ManagedProducerCache acts as a publisher for observer Route, which gets Producer Cache, which gets Source, which gets Size, which gets Maximum Cache Size, which purges, which is Event Notifier Enabled.

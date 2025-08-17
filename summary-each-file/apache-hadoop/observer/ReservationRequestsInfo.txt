@@ -1,0 +1,1 @@
+ReservationRequestsInfo acts as an observer for publisher ReservationDefinitionInfo, which is inherited by, which gets Reservation Requests Interpreter, which sets int parameter of reservationRequestsInterpreter Reservation Requests Interpreter, which gets Reservation Request, which sets ArrayList<ReservationRequestInfo> parameter of reservationRequest Reservation Request.

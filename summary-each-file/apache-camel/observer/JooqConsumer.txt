@@ -1,0 +1,1 @@
+JooqConsumer acts as a publisher for observer ShutdownRunningTask, which gets Endpoint, which polls, which creates Object parameter of result Exchange, which gets Class<?> parameter of entityType Table, which processes Queue<Object> parameter of exchanges Batch.

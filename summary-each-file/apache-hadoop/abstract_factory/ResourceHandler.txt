@@ -1,0 +1,1 @@
+ResourceHandler acts as an abstract product for ResourceHandler, which is inherited by GpuResourceHandlerImpl, DiskResourceHandler, NetworkPacketTaggingHandlerImpl, OutboundBandwidthResourceHandler, FpgaResourceHandlerImpl, CpuResourceHandler, ResourceHandlerChain, MemoryResourceHandler, NumaResourceHandlerImpl, DeviceResourceHandlerImpl.

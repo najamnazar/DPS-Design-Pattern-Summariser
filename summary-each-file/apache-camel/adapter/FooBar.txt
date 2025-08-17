@@ -1,0 +1,2 @@
+FooBar acts as an adaptee for adapter CamelPostProcessorHelperTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+FooBar acts as an adaptee for adapter BeanInjectRouteBuilderTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,1 @@
+VerboseElementCache acts as a publisher for observer K, which is inherited by, which makes int parameter of space Space, which puts K parameter of key, JavaElementInfo parameter of value.

@@ -1,0 +1,2 @@
+DefaultBootstrapContext acts as a factory for BootstrapContext, which overrides getTestClass method of BootstrapContext, getCacheAwareContextLoaderDelegate method of BootstrapContext.
+DefaultBootstrapContext acts as a product for TestContextBootstrapper, which overrides getTestClass method of BootstrapContext, getCacheAwareContextLoaderDelegate method of BootstrapContext.

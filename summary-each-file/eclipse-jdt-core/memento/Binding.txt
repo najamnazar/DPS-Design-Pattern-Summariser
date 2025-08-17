@@ -1,0 +1,1 @@
+Binding acts as a memento, which is inherited by TypeBinding, MethodBinding, PackageBinding, ImportBinding, ProblemBinding, VariableBinding, which shorts Readable Name, which shorts Readable Name, which shorts Readable Name, which shorts Readable Name, which shorts Readable Name.

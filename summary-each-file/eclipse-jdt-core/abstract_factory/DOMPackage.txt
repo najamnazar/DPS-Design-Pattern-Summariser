@@ -1,0 +1,2 @@
+DOMPackage acts as a product for IDOMFactory, which overrides setName method of IDOMPackage.
+DOMPackage acts as a factory for IDOMPackage, which overrides setName method of IDOMPackage.

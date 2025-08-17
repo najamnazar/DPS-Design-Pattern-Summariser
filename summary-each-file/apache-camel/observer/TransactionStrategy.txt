@@ -1,0 +1,1 @@
+TransactionStrategy acts as an observer for publisher JpaComponent, which is inherited by DefaultTransactionStrategy, which executes Runnable parameter of runnable In Transaction.

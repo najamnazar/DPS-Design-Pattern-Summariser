@@ -1,0 +1,5 @@
+SqlEndpointMisconfigureDataSourceTest acts as a publisher for observer FluentProducerTemplate, which tests Fail, which tests Ok, which sets Up, which tears Down.
+SqlEndpointMisconfigureDataSourceTest acts as a publisher for observer Service, which tests Fail, which tests Ok, which sets Up, which tears Down.
+SqlEndpointMisconfigureDataSourceTest acts as a publisher for observer ConsumerTemplate, which tests Fail, which tests Ok, which sets Up, which tears Down.
+SqlEndpointMisconfigureDataSourceTest acts as a publisher for observer ProducerTemplate, which tests Fail, which tests Ok, which sets Up, which tears Down.
+SqlEndpointMisconfigureDataSourceTest acts as a publisher for observer CamelContext, which tests Fail, which tests Ok, which sets Up, which tears Down.

@@ -1,0 +1,2 @@
+DirectVmNoPropertyPropagationComponentTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Properties Propagated Or Not, which creates Route Builder.
+DirectVmNoPropertyPropagationComponentTest acts as a publisher for observer Service, which creates Camel Context, which tests Properties Propagated Or Not, which creates Route Builder.

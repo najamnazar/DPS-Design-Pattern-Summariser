@@ -1,0 +1,2 @@
+FilePollingConsumerTest acts as a publisher for observer Service, which tests Polling Consumer.
+FilePollingConsumerTest acts as a publisher for observer CamelContext, which tests Polling Consumer.

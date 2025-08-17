@@ -1,0 +1,2 @@
+SetPropertyTest acts as a publisher for observer CamelContext, which tests Set Exchange Property Mid Route, which sets Up, which creates Route Builder.
+SetPropertyTest acts as a publisher for observer Service, which tests Set Exchange Property Mid Route, which sets Up, which creates Route Builder.

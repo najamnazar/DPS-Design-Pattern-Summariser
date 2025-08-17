@@ -1,0 +1,1 @@
+NettyComponentBuilderFactory acts as an abstract factory for NettyComponent, which is inherited by.

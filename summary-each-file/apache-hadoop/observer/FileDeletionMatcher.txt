@@ -1,0 +1,1 @@
+FileDeletionMatcher acts as a publisher for observer Path, which is inherited by, which matches FileDeletionTask parameter of fd, which compares Path parameter of p1, String parameter of p2 Paths.

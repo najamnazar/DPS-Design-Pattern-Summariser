@@ -1,0 +1,2 @@
+DelayerTest acts as a publisher for observer CamelContext, which tests Sending Message Gets Delayed, which tests Delay Constant, which tests Delay Bean, which tests Exchange Aware Delay Bean, which creates Route Builder.
+DelayerTest acts as a publisher for observer Service, which tests Sending Message Gets Delayed, which tests Delay Constant, which tests Delay Bean, which tests Exchange Aware Delay Bean, which creates Route Builder.

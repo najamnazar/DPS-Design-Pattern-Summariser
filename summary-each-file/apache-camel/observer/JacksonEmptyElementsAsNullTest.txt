@@ -1,0 +1,5 @@
+JacksonEmptyElementsAsNullTest acts as a publisher for observer CamelContext, which tests Empty As Null, which tests Default, which creates Route Builder.
+JacksonEmptyElementsAsNullTest acts as a publisher for observer Service, which tests Empty As Null, which tests Default, which creates Route Builder.
+JacksonEmptyElementsAsNullTest acts as a publisher for observer ProducerTemplate, which tests Empty As Null, which tests Default, which creates Route Builder.
+JacksonEmptyElementsAsNullTest acts as a publisher for observer FluentProducerTemplate, which tests Empty As Null, which tests Default, which creates Route Builder.
+JacksonEmptyElementsAsNullTest acts as a publisher for observer ConsumerTemplate, which tests Empty As Null, which tests Default, which creates Route Builder.

@@ -1,0 +1,1 @@
+VariablesEvaluator acts as an adapter, which adapts to Evaluator, which adapts getClassName method of EvaluationConstants to Evaluator, which adapts to Evaluator, which adapts getPackageName method of EvaluationConstants to Evaluator, which adapts to Evaluator, which adapts numberOfCRs method of EvaluationConstants to Evaluator.

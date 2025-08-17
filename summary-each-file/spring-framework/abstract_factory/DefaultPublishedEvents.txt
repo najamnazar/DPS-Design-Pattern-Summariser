@@ -1,0 +1,2 @@
+DefaultPublishedEvents acts as a product for PublishedEvents, which overrides ofType method of PublishedEvents, ofSubType method of PublishedEvents, matching method of PublishedEvents, matchingMapped method of PublishedEvents.
+DefaultPublishedEvents acts as a factory for PublishedEvents, which overrides ofType method of PublishedEvents, ofSubType method of PublishedEvents, matching method of PublishedEvents, matchingMapped method of PublishedEvents.

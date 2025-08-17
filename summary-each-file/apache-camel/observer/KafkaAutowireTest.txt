@@ -1,0 +1,5 @@
+KafkaAutowireTest acts as a publisher for observer ProducerTemplate, which tests Kafka Component Autowiring.
+KafkaAutowireTest acts as a publisher for observer CamelContext, which tests Kafka Component Autowiring.
+KafkaAutowireTest acts as a publisher for observer ConsumerTemplate, which tests Kafka Component Autowiring.
+KafkaAutowireTest acts as a publisher for observer FluentProducerTemplate, which tests Kafka Component Autowiring.
+KafkaAutowireTest acts as a publisher for observer Service, which tests Kafka Component Autowiring.

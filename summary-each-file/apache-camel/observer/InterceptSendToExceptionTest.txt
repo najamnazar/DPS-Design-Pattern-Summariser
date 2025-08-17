@@ -1,0 +1,2 @@
+InterceptSendToExceptionTest acts as a publisher for observer Service, which tests Intercept Send To Exception, which creates Route Builder.
+InterceptSendToExceptionTest acts as a publisher for observer CamelContext, which tests Intercept Send To Exception, which creates Route Builder.

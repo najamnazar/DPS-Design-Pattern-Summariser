@@ -1,0 +1,1 @@
+GpuResourcePlugin acts as a factory method for ResourceHandler, which is inherited by ResourcePlugin, ResourcePlugin, ResourcePlugin.

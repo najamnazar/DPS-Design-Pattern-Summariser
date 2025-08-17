@@ -1,0 +1,2 @@
+HdfsAppendIT acts as a caretaker for memento Context, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.
+HdfsAppendIT acts as a caretaker for memento Producer, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.

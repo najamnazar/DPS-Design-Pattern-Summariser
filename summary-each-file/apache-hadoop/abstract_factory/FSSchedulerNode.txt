@@ -1,0 +1,1 @@
+FSSchedulerNode acts as a product for YarnScheduler, which overrides allocateContainer method of SchedulerNode, releaseContainer method of SchedulerNode.

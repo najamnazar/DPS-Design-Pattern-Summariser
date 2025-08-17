@@ -1,0 +1,1 @@
+MessageCreatedStrategy acts as an observer for publisher SjmsEndpoint, Sjms2Endpoint, which is inherited by OriginalDestinationPropagateStrategy, which ons Message parameter of message, Session parameter of session, Exchange parameter of exchange, Throwable parameter of cause Message Created.

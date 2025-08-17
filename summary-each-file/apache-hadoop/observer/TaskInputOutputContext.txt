@@ -1,0 +1,1 @@
+TaskInputOutputContext acts as an observer, which nexts Key Value, which gets Current Key, which gets Current Value, which writes KEYOUT parameter of key, VALUEOUT parameter of value, which gets Output Committer.

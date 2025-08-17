@@ -1,0 +1,1 @@
+RestRegistryFactory acts as an abstract factory for RestRegistry, which is inherited by DefaultRestRegistryFactory.

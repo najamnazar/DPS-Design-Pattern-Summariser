@@ -1,0 +1,2 @@
+ExceptionWithManagementTest acts as a publisher for observer CamelContext, which uses Jmx, which tests Exception Handler, which creates Route Builder.
+ExceptionWithManagementTest acts as a publisher for observer Service, which uses Jmx, which tests Exception Handler, which creates Route Builder.

@@ -1,0 +1,1 @@
+FileUrlResource acts as a caretaker for memento File, which gets File, which is Writable, which gets Output Stream, which writables Channel, which creates String parameter of relativePath Relative.

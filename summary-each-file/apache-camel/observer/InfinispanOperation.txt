@@ -1,0 +1,1 @@
+InfinispanOperation acts as an observer for publisher InfinispanConfiguration, InfinispanRemoteConfiguration, InfinispanEmbeddedConfiguration, which is inherited by.

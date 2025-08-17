@@ -1,0 +1,2 @@
+NMCollectorService acts as an observer, which services Start, which services Stop, which reports ReportNewCollectorInfoRequest parameter of request New Collector Info, which gets GetTimelineCollectorContextRequest parameter of request Timeline Collector Context.
+NMCollectorService acts as a publisher for observer Service, which services Start, which services Stop, which reports ReportNewCollectorInfoRequest parameter of request New Collector Info, which gets GetTimelineCollectorContextRequest parameter of request Timeline Collector Context.

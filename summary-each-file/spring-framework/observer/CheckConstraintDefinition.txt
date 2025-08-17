@@ -1,0 +1,1 @@
+CheckConstraintDefinition acts as an observer for publisher DefaultRelations, which is inherited by DefaultCheckConstraintDefinition, which gets Check Clause.

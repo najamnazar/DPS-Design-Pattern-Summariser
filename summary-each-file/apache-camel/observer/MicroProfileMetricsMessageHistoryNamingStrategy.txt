@@ -1,0 +1,1 @@
+MicroProfileMetricsMessageHistoryNamingStrategy acts as an observer for publisher MicroProfileMetricsMessageHistoryFactory, which is inherited by, which gets Route parameter of route, NamedNode parameter of node Name, which gets Route parameter of route, NamedNode parameter of node Tags.

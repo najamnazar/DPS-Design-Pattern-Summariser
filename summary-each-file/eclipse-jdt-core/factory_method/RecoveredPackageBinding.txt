@@ -1,0 +1,1 @@
+RecoveredPackageBinding acts as a product for RecoveredTypeBinding, which overrides getName method of IPackageBinding, isUnnamed method of IPackageBinding, getNameComponents method of IPackageBinding, getModule method of IPackageBinding.

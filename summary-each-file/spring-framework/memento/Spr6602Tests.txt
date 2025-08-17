@@ -1,0 +1,2 @@
+Spr6602Tests acts as a caretaker for memento B, which tests Xml Behavior, which tests Configuration Class Behavior, which does ApplicationContext parameter of ctx Assertions, which foos, which bars Factory, which gets Object, which gets Object Type, which is Singleton.
+Spr6602Tests acts as a caretaker for memento Bar, which tests Xml Behavior, which tests Configuration Class Behavior, which does ApplicationContext parameter of ctx Assertions, which foos, which bars Factory, which gets Object, which gets Object Type, which is Singleton.

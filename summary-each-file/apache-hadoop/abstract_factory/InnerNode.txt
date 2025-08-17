@@ -1,0 +1,4 @@
+InnerNode acts as a product for ClusterStory, which overrides.
+InnerNode acts as a product for RMNode, which overrides.
+InnerNode acts as a product for InnerNode, which overrides.
+InnerNode acts as an abstract factory for Node, which is inherited by InnerNodeImpl.

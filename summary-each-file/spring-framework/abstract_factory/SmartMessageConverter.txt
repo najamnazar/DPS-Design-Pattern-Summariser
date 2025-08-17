@@ -1,0 +1,2 @@
+SmartMessageConverter acts as an abstract factory for, which is inherited by MappingJackson2MessageConverter, CompositeMessageConverter, AbstractMessageConverter.
+SmartMessageConverter acts as a product for MessageListenerContainer, which overrides.

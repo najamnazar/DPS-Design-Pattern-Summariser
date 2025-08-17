@@ -1,0 +1,1 @@
+SampleInitializingRouteBuilder acts as a caretaker for memento Configuration, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.

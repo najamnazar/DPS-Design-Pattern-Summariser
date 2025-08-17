@@ -1,0 +1,1 @@
+KubernetesDnsServiceDiscovery acts as a caretaker for memento Configuration, which gets String parameter of name Services, which news String parameter of name Service, which tos String.

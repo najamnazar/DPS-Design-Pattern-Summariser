@@ -1,0 +1,2 @@
+CharDelegateMap acts as a caretaker for memento Map, which gets Delegate, which values, which contains char[] parameter of key Key, which gets char[] parameter of key, which puts char[] parameter of key, P parameter of value, which tos Big Map, which sizes, which tos String, which keyses.
+CharDelegateMap acts as a caretaker for memento C, which gets Delegate, which values, which contains char[] parameter of key Key, which gets char[] parameter of key, which puts char[] parameter of key, P parameter of value, which tos Big Map, which sizes, which tos String, which keyses.

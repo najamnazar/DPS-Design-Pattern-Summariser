@@ -1,0 +1,1 @@
+ExpressionDefinition acts as a decorator for component Predicate, which is inherited by LanguageExpression, HeaderExpression, SingleInputExpressionDefinition, TypedExpressionDefinition, ExchangePropertyExpression.

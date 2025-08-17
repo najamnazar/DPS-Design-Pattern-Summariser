@@ -1,0 +1,3 @@
+DefaultScheduledPollConsumer acts as a publisher for observer PollingConsumerPollStrategy, which polls, which gets Timeout, which sets int parameter of timeout Timeout, which does Build, which does Init, which does Start, which does Stop.
+DefaultScheduledPollConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which polls, which gets Timeout, which sets int parameter of timeout Timeout, which does Build, which does Init, which does Start, which does Stop.
+DefaultScheduledPollConsumer acts as a publisher for observer LoggingLevel, which polls, which gets Timeout, which sets int parameter of timeout Timeout, which does Build, which does Init, which does Start, which does Stop.

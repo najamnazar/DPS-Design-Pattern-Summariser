@@ -1,0 +1,1 @@
+ClasspathSourceDirectory acts as a factory for IModulePathEntry, which overrides hasCompilationUnit method of IModulePathEntry.

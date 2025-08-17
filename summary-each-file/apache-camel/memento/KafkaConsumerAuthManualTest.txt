@@ -1,0 +1,1 @@
+KafkaConsumerAuthManualTest acts as a caretaker for memento Producer, which gets Default Properties, which befores, which afters, which creates Route Builder, which kafkas Message Is Consumed By Camel.

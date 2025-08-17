@@ -1,0 +1,1 @@
+LocalizerResourceRequestEvent acts as a caretaker for memento LocalResourceVisibility, which gets Resource, which gets Context, which gets Visibility, which gets Pattern.

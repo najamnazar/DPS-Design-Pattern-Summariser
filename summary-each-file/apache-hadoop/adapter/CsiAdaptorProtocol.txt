@@ -1,0 +1,1 @@
+CsiAdaptorProtocol acts as an adaptee for adapter CsiAdaptorProtocolService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

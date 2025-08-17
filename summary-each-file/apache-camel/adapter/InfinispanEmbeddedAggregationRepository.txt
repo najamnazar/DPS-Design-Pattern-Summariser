@@ -1,0 +1,1 @@
+InfinispanEmbeddedAggregationRepository acts as an adapter, which adapts to InfinispanAggregationRepository, which adapts to InfinispanAggregationRepository, which adapts to InfinispanAggregationRepository, which adapts to InfinispanAggregationRepository, which adapts to InfinispanAggregationRepository.

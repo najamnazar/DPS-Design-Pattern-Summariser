@@ -1,0 +1,9 @@
+QualifiedName acts as a product for ExecutableElement, which overrides appendName method of Name.
+QualifiedName acts as a product for QualifiedNameable, which overrides appendName method of Name.
+QualifiedName acts as a product for TypeElement, which overrides appendName method of Name.
+QualifiedName acts as a product for Element, which overrides appendName method of Name.
+QualifiedName acts as a product for VariableElement, which overrides appendName method of Name.
+QualifiedName acts as a product for ModuleElement, which overrides appendName method of Name.
+QualifiedName acts as a product for RecordComponentElement, which overrides appendName method of Name.
+QualifiedName acts as a product for PackageElement, which overrides appendName method of Name.
+QualifiedName acts as a product for Elements, which overrides appendName method of Name.

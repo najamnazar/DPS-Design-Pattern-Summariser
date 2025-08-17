@@ -1,0 +1,1 @@
+CacheOperationInvoker acts as an observer for publisher JCacheAspectSupport, JCacheInterceptor, which is inherited by, which invokes, which gets Original.

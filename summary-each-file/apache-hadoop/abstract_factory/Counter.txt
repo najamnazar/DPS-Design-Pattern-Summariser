@@ -1,0 +1,2 @@
+Counter acts as an abstract product for Counter, which is inherited by AbstractCounter, AbstractCounter, AbstractCounter, AbstractCounter, CounterPBImpl, CounterPBImpl, CounterPBImpl, CounterPBImpl.
+Counter acts as an abstract product for Counter, which is inherited by AbstractCounter, CounterPBImpl.

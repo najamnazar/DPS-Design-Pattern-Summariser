@@ -1,0 +1,1 @@
+VarJarFactoryContainer acts as a publisher for observer String, which gets Type, which gets Jar File, which gets Id.

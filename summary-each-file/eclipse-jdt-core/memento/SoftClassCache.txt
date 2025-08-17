@@ -1,0 +1,5 @@
+SoftClassCache acts as a caretaker for memento R, which clears, which gets Jdk parameter of jdk, Path parameter of path Class Bytes, which gets Path parameter of path, which tos String, which gets Bytes.
+SoftClassCache acts as a caretaker for memento Map, which clears, which gets Jdk parameter of jdk, Path parameter of path Class Bytes, which gets Path parameter of path, which tos String, which gets Bytes.
+SoftClassCache acts as a caretaker for memento S, which clears, which gets Jdk parameter of jdk, Path parameter of path Class Bytes, which gets Path parameter of path, which tos String, which gets Bytes.
+SoftClassCache acts as a caretaker for memento Class, which clears, which gets Jdk parameter of jdk, Path parameter of path Class Bytes, which gets Path parameter of path, which tos String, which gets Bytes.
+SoftClassCache acts as a caretaker for memento C, which clears, which gets Jdk parameter of jdk, Path parameter of path Class Bytes, which gets Path parameter of path, which tos String, which gets Bytes.

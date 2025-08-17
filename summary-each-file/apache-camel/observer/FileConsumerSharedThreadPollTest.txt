@@ -1,0 +1,2 @@
+FileConsumerSharedThreadPollTest acts as a publisher for observer CamelContext, which tests Shared Thread Pool, which creates Route Builder.
+FileConsumerSharedThreadPollTest acts as a publisher for observer Service, which tests Shared Thread Pool, which creates Route Builder.

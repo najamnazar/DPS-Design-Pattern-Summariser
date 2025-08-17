@@ -1,0 +1,1 @@
+EnumConstantDeclaration acts as a factory for IVariableBinding, which overrides.

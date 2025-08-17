@@ -1,0 +1,2 @@
+ExceptionThrownFromOnExceptionNoEndlessLoopTest acts as a publisher for observer Service, which is Use Route Builder, which tests Exception Thrown From On Exception No Endless Loop Test.
+ExceptionThrownFromOnExceptionNoEndlessLoopTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Exception Thrown From On Exception No Endless Loop Test.

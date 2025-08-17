@@ -1,0 +1,5 @@
+SimpleNotifyBuilderTest acts as a publisher for observer CamelContext, which tests Notify Builder, which creates Route Builder.
+SimpleNotifyBuilderTest acts as a publisher for observer ProducerTemplate, which tests Notify Builder, which creates Route Builder.
+SimpleNotifyBuilderTest acts as a publisher for observer ConsumerTemplate, which tests Notify Builder, which creates Route Builder.
+SimpleNotifyBuilderTest acts as a publisher for observer Service, which tests Notify Builder, which creates Route Builder.
+SimpleNotifyBuilderTest acts as a publisher for observer FluentProducerTemplate, which tests Notify Builder, which creates Route Builder.

@@ -1,0 +1,1 @@
+MicroProfileMetricsCamelContextEventNotifierNamingStrategy acts as a caretaker for memento Context, which gets Camel Context Uptime Name, which gets Camel Context Status Name, which gets Camel Context Uptime Name, which gets Camel Context Status Name, which gets CamelContext parameter of camelContext Tags.

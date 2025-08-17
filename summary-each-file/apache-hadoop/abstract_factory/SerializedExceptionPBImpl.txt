@@ -1,0 +1,1 @@
+SerializedExceptionPBImpl acts as a product for LocalResourceStatus, which overrides deSerialize method of SerializedException, getMessage method of SerializedException, getRemoteTrace method of SerializedException, getCause method of SerializedException.

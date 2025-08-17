@@ -1,0 +1,1 @@
+RawErasureEncoder acts as an abstract product for RawErasureEncoder, which is inherited by XORRawEncoder, RSRawEncoder, DummyRawEncoder, AbstractNativeRawEncoder, RSLegacyRawEncoder.

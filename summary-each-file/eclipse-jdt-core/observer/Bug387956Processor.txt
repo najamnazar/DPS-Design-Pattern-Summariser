@@ -1,0 +1,3 @@
+Bug387956Processor acts as a publisher for observer RoundEnvironment, which is inherited by, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.
+Bug387956Processor acts as a publisher for observer RoundEnvironment, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.
+Bug387956Processor acts as a publisher for observer ProcessingEnvironment, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv.

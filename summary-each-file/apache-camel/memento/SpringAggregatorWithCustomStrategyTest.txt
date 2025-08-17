@@ -1,0 +1,2 @@
+SpringAggregatorWithCustomStrategyTest acts as a caretaker for memento Producer, which tests Sending Messages With Custom Aggregator, which creates Camel Context.
+SpringAggregatorWithCustomStrategyTest acts as a caretaker for memento Context, which tests Sending Messages With Custom Aggregator, which creates Camel Context.

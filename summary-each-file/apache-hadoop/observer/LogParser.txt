@@ -1,0 +1,1 @@
+LogParser acts as a publisher for observer HistorySkylineStore, which is inherited by BaseLogParser, which inits Configuration parameter of config, HistorySkylineStore parameter of skylineStore, which parses InputStream parameter of logs Stream, which closes.

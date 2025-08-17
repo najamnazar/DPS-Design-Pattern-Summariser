@@ -1,0 +1,3 @@
+ILocalVariable acts as an originator for memento IAnnotation.
+ILocalVariable acts as an originator for memento String, which gets a String Element Name to, which gets a String Type Signature to.
+ILocalVariable acts as an originator for memento ISourceRange, which gets an ISourceRange Name Range to.

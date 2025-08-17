@@ -1,0 +1,1 @@
+AbstractClientHttpResponse acts as a product for ClientHttpRequest, which overrides getStatusCode method of ClientHttpResponse.

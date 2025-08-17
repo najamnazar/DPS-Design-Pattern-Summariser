@@ -1,0 +1,5 @@
+WildcardTypeImpl acts as a caretaker for memento List, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a caretaker for memento Binding, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a caretaker for memento C, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a caretaker for memento E, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.
+WildcardTypeImpl acts as a caretaker for memento S, which gets Extends Bound, which gets Kind, which gets Super Bound, which accepts TypeVisitor<R, parameter of P>, P parameter of p.

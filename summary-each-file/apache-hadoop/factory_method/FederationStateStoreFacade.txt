@@ -1,0 +1,1 @@
+FederationStateStoreFacade acts as a factory method for FederationStateStore, which is inherited by FederationCache, FederationCache, FederationStateStoreBaseTest, FederationCache, FederationSQLAccuracyTest, FederationStateStoreBaseTest, FederationSQLAccuracyTest, FederationStateStoreBaseTest.

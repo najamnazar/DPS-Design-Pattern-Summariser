@@ -1,0 +1,1 @@
+ReplyMarkup acts as an observer for publisher SendVenueMessage, which is inherited by ForceReply, ReplyKeyboardMarkup, InlineKeyboardMarkup, ReplyKeyboardRemove, which tos Json.

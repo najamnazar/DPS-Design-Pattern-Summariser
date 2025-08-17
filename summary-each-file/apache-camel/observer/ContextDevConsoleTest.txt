@@ -1,0 +1,2 @@
+ContextDevConsoleTest acts as a publisher for observer Service, which tests Context Test, which tests Context Json.
+ContextDevConsoleTest acts as a publisher for observer CamelContext, which tests Context Test, which tests Context Json.

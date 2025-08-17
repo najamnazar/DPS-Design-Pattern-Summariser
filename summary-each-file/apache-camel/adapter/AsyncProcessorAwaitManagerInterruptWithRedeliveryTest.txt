@@ -1,0 +1,1 @@
+AsyncProcessorAwaitManagerInterruptWithRedeliveryTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts createThreadToInterrupt method of MyBean to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

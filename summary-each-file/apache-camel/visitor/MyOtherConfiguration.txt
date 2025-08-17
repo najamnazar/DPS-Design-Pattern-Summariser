@@ -1,0 +1,13 @@
+MyOtherConfiguration acts as a visitor for element ExtendedExchange, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element Tracer, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element ExtendedCamelContext, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element InternalProcessorFactory, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element TypeConverterRegistry, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element LifecycleStrategy, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element ModelineParser, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element ManagementObjectNameStrategy, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element ManagementObjectStrategy, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element BeanIntrospection, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element UnitOfWork, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element Channel, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.
+MyOtherConfiguration acts as a visitor for element Route, which overrides, which mies a Greetings to, which configures CamelContext parameter of camelContext.

@@ -1,0 +1,1 @@
+SpringConnectionStrategy acts as an observer, which gets DataSource parameter of dataSource Connection, which is Connection parameter of connection, DataSource parameter of dataSource Connection Transactional.

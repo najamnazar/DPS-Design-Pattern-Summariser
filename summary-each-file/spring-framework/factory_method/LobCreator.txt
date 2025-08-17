@@ -1,0 +1,1 @@
+LobCreator acts as an abstract product for DefaultLobHandler, which is inherited by TemporaryLobCreator.

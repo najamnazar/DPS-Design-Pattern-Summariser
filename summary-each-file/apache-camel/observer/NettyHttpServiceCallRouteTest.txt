@@ -1,0 +1,5 @@
+NettyHttpServiceCallRouteTest acts as a publisher for observer CamelContext, which tests Custom Call, which tests Default Schema, which creates Route Builder.
+NettyHttpServiceCallRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Custom Call, which tests Default Schema, which creates Route Builder.
+NettyHttpServiceCallRouteTest acts as a publisher for observer Service, which tests Custom Call, which tests Default Schema, which creates Route Builder.
+NettyHttpServiceCallRouteTest acts as a publisher for observer ConsumerTemplate, which tests Custom Call, which tests Default Schema, which creates Route Builder.
+NettyHttpServiceCallRouteTest acts as a publisher for observer ProducerTemplate, which tests Custom Call, which tests Default Schema, which creates Route Builder.

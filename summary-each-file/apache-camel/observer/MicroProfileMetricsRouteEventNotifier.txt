@@ -1,0 +1,1 @@
+MicroProfileMetricsRouteEventNotifier acts as a publisher for observer MicroProfileMetricsRouteEventNotifierNamingStrategy, which is inherited by, which does Start, which does Stop, which notifies CamelEvent parameter of event, which gets Naming Strategy, which sets MicroProfileMetricsRouteEventNotifierNamingStrategy parameter of namingStrategy Naming Strategy.

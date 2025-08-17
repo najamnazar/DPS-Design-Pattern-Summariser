@@ -1,0 +1,1 @@
+Random16 acts as a publisher for observer Unsigned16, which is inherited by, which skips Unsigned16 parameter of advance Ahead, which nexts Unsigned16 parameter of rand Rand.

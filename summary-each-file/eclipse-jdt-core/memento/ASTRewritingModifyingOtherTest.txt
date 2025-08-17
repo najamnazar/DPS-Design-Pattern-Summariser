@@ -1,0 +1,5 @@
+ASTRewritingModifyingOtherTest acts as a caretaker for memento S, which alls Tests, which suites, which test0000s, which test0001s, which test0002s, which test0003s, which test0004s, which test0005s, which test0006s.
+ASTRewritingModifyingOtherTest acts as a caretaker for memento R, which alls Tests, which suites, which test0000s, which test0001s, which test0002s, which test0003s, which test0004s, which test0005s, which test0006s.
+ASTRewritingModifyingOtherTest acts as a caretaker for memento String, which alls Tests, which suites, which test0000s, which test0001s, which test0002s, which test0003s, which test0004s, which test0005s, which test0006s.
+ASTRewritingModifyingOtherTest acts as a caretaker for memento Class, which alls Tests, which suites, which test0000s, which test0001s, which test0002s, which test0003s, which test0004s, which test0005s, which test0006s.
+ASTRewritingModifyingOtherTest acts as a caretaker for memento C, which alls Tests, which suites, which test0000s, which test0001s, which test0002s, which test0003s, which test0004s, which test0005s, which test0006s.

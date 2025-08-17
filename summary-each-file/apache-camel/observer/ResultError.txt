@@ -1,0 +1,1 @@
+ResultError acts as a publisher for observer StatusCode, which is inherited by, which gets Fields, which gets Message, which sets String parameter of value Message, which gets Status Code, which sets StatusCode parameter of value Status Code.

@@ -1,0 +1,1 @@
+Database acts as a memento, which is inherited by AbstractDatabase, ResultQueryDatabase.

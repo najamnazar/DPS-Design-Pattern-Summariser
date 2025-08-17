@@ -1,0 +1,1 @@
+DefaultSyntheticDaoDefinition acts as a factory for SyntheticDaoDefinition, which overrides getDao method of SyntheticDaoDefinition.

@@ -1,0 +1,1 @@
+ZendeskPropertiesHelper acts as a singleton, which gets a ZendeskPropertiesHelper Helper to.

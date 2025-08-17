@@ -1,0 +1,1 @@
+IrcPrivmsgTest acts as a publisher for observer MockEndpoint, which tests Irc Private Messages, which creates Route Builder, which sends Uri, which sends Messages.

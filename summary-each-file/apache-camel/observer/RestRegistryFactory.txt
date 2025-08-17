@@ -1,0 +1,1 @@
+RestRegistryFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultRestRegistryFactory, which creates Registry.

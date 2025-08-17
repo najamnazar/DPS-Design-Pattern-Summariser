@@ -1,0 +1,2 @@
+EventNotifierProducer acts as a caretaker for memento AsyncProducer, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which gets Endpoint, which is Singleton, which does Build, which does Init, which does Start, which does Stop.
+EventNotifierProducer acts as a caretaker for memento Producer, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which gets Endpoint, which is Singleton, which does Build, which does Init, which does Start, which does Stop.

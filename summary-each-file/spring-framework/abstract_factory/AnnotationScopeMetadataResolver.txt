@@ -1,0 +1,1 @@
+AnnotationScopeMetadataResolver acts as a factory for ScopeMetadataResolver, which overrides resolveScopeMetadata method of ScopeMetadataResolver.

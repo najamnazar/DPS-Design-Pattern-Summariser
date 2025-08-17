@@ -1,0 +1,2 @@
+ClassComponentWithPropertiesSetFromEndpointTest acts as a publisher for observer CamelContext, which tests Class Component, which creates Route Builder.
+ClassComponentWithPropertiesSetFromEndpointTest acts as a publisher for observer Service, which tests Class Component, which creates Route Builder.

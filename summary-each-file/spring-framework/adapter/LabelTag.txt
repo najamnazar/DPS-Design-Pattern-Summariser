@@ -1,0 +1,1 @@
+LabelTag acts as an adaptee for adapter LabelTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests, which adapts to AbstractFormTagTests.

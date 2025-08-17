@@ -1,0 +1,2 @@
+DefaultRendering acts as an originator for memento B.
+DefaultRendering acts as a caretaker for memento Headers, which views, which models Attributes, which statuses, which headerses, which tos String.

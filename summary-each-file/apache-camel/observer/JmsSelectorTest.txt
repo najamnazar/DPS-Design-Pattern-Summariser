@@ -1,0 +1,1 @@
+JmsSelectorTest acts as a publisher for observer ArtemisService, which tests Jms Selector, which builds ConnectionFactory parameter of connectionFactory Component, which gets Component Name, which creates Route Builder.

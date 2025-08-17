@@ -1,0 +1,1 @@
+Progressable acts as an abstract product for Options, which is inherited by CountingProgressListener, ProgressCounter.

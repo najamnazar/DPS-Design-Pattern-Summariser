@@ -1,0 +1,1 @@
+DefaultManagedGroupFactory acts as a product for ManagedGroupFactoryStrategy, which overrides getCurator method of ManagedGroupFactory, close method of ManagedGroupFactory.

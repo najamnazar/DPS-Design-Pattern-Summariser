@@ -1,0 +1,1 @@
+Marshaller acts as an observer for publisher Jaxb2Marshaller, which is inherited by GenericMarshaller, MimeMarshaller, AbstractMarshaller, which supports Class<?> parameter of clazz, which marshals Object parameter of graph, Result parameter of result.

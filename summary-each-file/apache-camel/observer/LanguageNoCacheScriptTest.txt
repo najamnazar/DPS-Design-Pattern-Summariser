@@ -1,0 +1,2 @@
+LanguageNoCacheScriptTest acts as a publisher for observer CamelContext, which tests No Cache, which creates Route Builder.
+LanguageNoCacheScriptTest acts as a publisher for observer Service, which tests No Cache, which creates Route Builder.

@@ -1,0 +1,1 @@
+ErasureCoder acts as an adaptee for adapter TestErasureCoderBase, which adapts to TestCoderBase, which adapts to TestCoderBase, which adapts to TestCoderBase, which adapts to TestCoderBase, which adapts to TestCoderBase, which adapts to TestCoderBase.

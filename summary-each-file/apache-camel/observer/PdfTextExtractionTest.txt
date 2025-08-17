@@ -1,0 +1,5 @@
+PdfTextExtractionTest acts as a publisher for observer Service, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.
+PdfTextExtractionTest acts as a publisher for observer ConsumerTemplate, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.
+PdfTextExtractionTest acts as a publisher for observer CamelContext, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.
+PdfTextExtractionTest acts as a publisher for observer FluentProducerTemplate, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.
+PdfTextExtractionTest acts as a publisher for observer ProducerTemplate, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.

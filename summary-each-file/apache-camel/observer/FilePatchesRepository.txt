@@ -1,0 +1,1 @@
+FilePatchesRepository acts as an observer, which instals String parameter of coordinates, which lists Patches, which clears.

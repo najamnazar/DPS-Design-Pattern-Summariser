@@ -1,0 +1,2 @@
+InventoryInStock acts as a caretaker for memento Parameter, which sets Long parameter of value PInventory Id, which sets Field<Long> parameter of field PInventory Id.
+InventoryInStock acts as a caretaker for memento B, which sets Long parameter of value PInventory Id, which sets Field<Long> parameter of field PInventory Id.

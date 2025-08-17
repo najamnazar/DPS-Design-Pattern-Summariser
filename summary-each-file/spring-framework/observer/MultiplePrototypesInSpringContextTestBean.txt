@@ -1,0 +1,2 @@
+MultiplePrototypesInSpringContextTestBean acts as a publisher for observer BeanSource.
+MultiplePrototypesInSpringContextTestBean acts as an observer.

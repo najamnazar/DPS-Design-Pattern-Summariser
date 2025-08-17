@@ -1,0 +1,1 @@
+StandardWebSocketHandlerAdapterTests acts as a caretaker for memento A, which setups, which ons Open, which ons Close, which ons Error.

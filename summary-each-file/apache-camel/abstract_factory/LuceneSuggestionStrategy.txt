@@ -1,0 +1,1 @@
+LuceneSuggestionStrategy acts as a product for CamelCatalog, which overrides suggestEndpointOptions method of SuggestionStrategy.

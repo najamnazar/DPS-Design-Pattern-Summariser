@@ -1,0 +1,1 @@
+MicroProfileMetricsCamelContextEventNotifier acts as a caretaker for memento Context, which gets Naming Strategy, which sets MicroProfileMetricsCamelContextEventNotifierNamingStrategy parameter of namingStrategy Naming Strategy, which notifies CamelEvent parameter of event, which registers CamelContext parameter of camelContext Camel Context Metrics, which does Stop.

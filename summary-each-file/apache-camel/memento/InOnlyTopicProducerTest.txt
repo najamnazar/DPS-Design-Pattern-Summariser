@@ -1,0 +1,1 @@
+InOnlyTopicProducerTest acts as a caretaker for memento Producer, which uses Jmx, which tests In Only Topic Producer Producer, which creates Route Builder.

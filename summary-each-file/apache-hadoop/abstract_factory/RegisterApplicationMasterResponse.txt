@@ -1,0 +1,1 @@
+RegisterApplicationMasterResponse acts as an abstract product for RegisterApplicationMasterResponse, which is inherited by RegisterApplicationMasterResponsePBImpl.

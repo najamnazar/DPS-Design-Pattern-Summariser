@@ -1,0 +1,1 @@
+JmsQosRouteTest acts as a publisher for observer ArtemisService, which tests Jms Route Preserve Qos, which tests Jms Route Normal Qos, which gets Component Name, which creates Route Builder.

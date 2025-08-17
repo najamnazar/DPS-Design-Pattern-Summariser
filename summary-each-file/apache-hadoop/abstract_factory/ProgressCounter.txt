@@ -1,0 +1,2 @@
+ProgressCounter acts as a product for JobContext, which overrides.
+ProgressCounter acts as a product for TaskAttemptContext, which overrides.

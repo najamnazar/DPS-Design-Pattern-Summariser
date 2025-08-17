@@ -1,0 +1,1 @@
+EclipseLinkJpaVendorAdapter acts as an adapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter, which adapts to AbstractJpaVendorAdapter.

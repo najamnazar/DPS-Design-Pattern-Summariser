@@ -1,0 +1,1 @@
+CompletionOnExportReference acts as an adapter, which adapts to ExportsStatement.

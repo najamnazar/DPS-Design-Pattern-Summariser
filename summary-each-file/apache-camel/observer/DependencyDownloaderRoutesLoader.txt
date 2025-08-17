@@ -1,0 +1,1 @@
+DependencyDownloaderRoutesLoader acts as a publisher for observer CamelContext, which resolves String parameter of extension Service, which downloads String parameter of artifactId Loader.

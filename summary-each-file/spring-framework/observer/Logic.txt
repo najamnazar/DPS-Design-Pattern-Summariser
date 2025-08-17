@@ -1,0 +1,2 @@
+Logic acts as a publisher for observer Assembler, which is inherited by, which sets Assembler parameter of a Assembler, which sets String parameter of name Bean Name, which outputs.
+Logic acts as an observer for publisher Assembler, which is inherited by, which sets Assembler parameter of a Assembler, which sets String parameter of name Bean Name, which outputs.

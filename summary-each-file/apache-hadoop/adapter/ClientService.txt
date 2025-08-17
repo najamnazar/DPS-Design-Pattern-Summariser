@@ -1,0 +1,3 @@
+ClientService acts as an adaptee for adapter RMCommunicator, which adapts to AbstractService, which adapts to AbstractService.
+ClientService acts as an adaptee for adapter MRClientService, which adapts to AbstractService, which adapts to AbstractService.
+ClientService acts as an adaptee for adapter MRAppMaster, which adapts to CompositeService, which adapts to CompositeService.

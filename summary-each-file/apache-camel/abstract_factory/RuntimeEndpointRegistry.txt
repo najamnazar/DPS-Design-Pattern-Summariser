@@ -1,0 +1,1 @@
+RuntimeEndpointRegistry acts as an abstract product for RuntimeEndpointRegistry, which is inherited by DefaultRuntimeEndpointRegistry.

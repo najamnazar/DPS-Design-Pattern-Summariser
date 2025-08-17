@@ -1,0 +1,1 @@
+CustomTransformerDefinition acts as an observer, which gets Ref, which sets String parameter of ref Ref, which gets Class Name, which sets String parameter of className Class Name.

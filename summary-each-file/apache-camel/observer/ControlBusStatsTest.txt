@@ -1,0 +1,2 @@
+ControlBusStatsTest acts as a publisher for observer CamelContext, which uses Jmx, which tests Control Bus Route Stat, which tests Control Bus Current Route Stat, which tests Control Bus Context Stat, which creates Route Builder.
+ControlBusStatsTest acts as a publisher for observer Service, which uses Jmx, which tests Control Bus Route Stat, which tests Control Bus Current Route Stat, which tests Control Bus Context Stat, which creates Route Builder.

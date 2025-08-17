@@ -1,0 +1,2 @@
+Configuration acts as an adaptee for adapter AbstractContext.
+Configuration acts as an adaptee for adapter FreeMarkerConfigurer.

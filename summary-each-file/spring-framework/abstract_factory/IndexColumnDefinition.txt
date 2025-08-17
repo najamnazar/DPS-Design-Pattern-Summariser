@@ -1,0 +1,1 @@
+IndexColumnDefinition acts as an abstract factory for ColumnDefinition, which is inherited by DefaultIndexColumnDefinition.

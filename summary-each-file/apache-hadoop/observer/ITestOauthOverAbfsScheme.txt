@@ -1,0 +1,2 @@
+ITestOauthOverAbfsScheme acts as a publisher for observer Configuration, which tests Oauth Over Scheme Abfs.
+ITestOauthOverAbfsScheme acts as a publisher for observer AzureBlobFileSystem, which tests Oauth Over Scheme Abfs.

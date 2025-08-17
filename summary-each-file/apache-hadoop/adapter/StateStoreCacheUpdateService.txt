@@ -1,0 +1,1 @@
+StateStoreCacheUpdateService acts as an adaptee for adapter StateStoreService, which adapts to CompositeService, which adapts to CompositeService.

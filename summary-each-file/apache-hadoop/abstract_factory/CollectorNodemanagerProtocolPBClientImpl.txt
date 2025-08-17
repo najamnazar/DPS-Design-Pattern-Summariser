@@ -1,0 +1,1 @@
+CollectorNodemanagerProtocolPBClientImpl acts as a factory for CollectorNodemanagerProtocol, which overrides reportNewCollectorInfo method of CollectorNodemanagerProtocol, getTimelineCollectorContext method of CollectorNodemanagerProtocol.

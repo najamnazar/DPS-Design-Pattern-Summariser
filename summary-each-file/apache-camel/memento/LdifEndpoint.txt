@@ -1,0 +1,2 @@
+LdifEndpoint acts as a caretaker for memento Context, which creates Processor parameter of processor Consumer, which creates Producer, which gets Ldap Connection Name, which sets String parameter of ldapConnectionName Ldap Connection Name.
+LdifEndpoint acts as a caretaker for memento Component, which creates Processor parameter of processor Consumer, which creates Producer, which gets Ldap Connection Name, which sets String parameter of ldapConnectionName Ldap Connection Name.

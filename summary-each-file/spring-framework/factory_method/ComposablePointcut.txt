@@ -1,0 +1,1 @@
+ComposablePointcut acts as a product for AspectJExpressionPointcutAdvisor, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.

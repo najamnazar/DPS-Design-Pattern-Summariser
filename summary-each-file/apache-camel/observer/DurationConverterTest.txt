@@ -1,0 +1,2 @@
+DurationConverterTest acts as a publisher for observer CamelContext, which tests To Millis, which tests To Millis Overflow, which tests From String, which tests To String.
+DurationConverterTest acts as a publisher for observer Service, which tests To Millis, which tests To Millis Overflow, which tests From String, which tests To String.

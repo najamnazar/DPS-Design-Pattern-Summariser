@@ -1,0 +1,5 @@
+TestName acts as an adaptee for adapter AbstractContractDistCpTest, which adapts to AbstractFSContractTestBase, which adapts to AbstractFSContractTestBase.
+TestName acts as an adaptee for adapter ITestNativeAzureFileSystemContractLive, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.
+TestName acts as an adaptee for adapter ITestS3AFileSystemContract, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.
+TestName acts as an adaptee for adapter ITestNativeAzureFileSystemContractEmulator, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.
+TestName acts as an adaptee for adapter ITestNativeAzureFileSystemContractPageBlobLive, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.

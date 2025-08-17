@@ -1,0 +1,2 @@
+LightweightContextTest acts as a publisher for observer CamelContext, which sets Up, which tests CBRCamel, which tests CBRDonkey, which tests CBROther, which creates Route Builder.
+LightweightContextTest acts as a publisher for observer Service, which sets Up, which tests CBRCamel, which tests CBRDonkey, which tests CBROther, which creates Route Builder.

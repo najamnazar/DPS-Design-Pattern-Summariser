@@ -1,0 +1,1 @@
+StagingPart acts as an observer for publisher ObjectOutputStream, MagicOutputStream, which is inherited by FileStagingPart, which writes byte[] parameter of b, which writes byte[] parameter of b, int parameter of off, int parameter of len, which completes, which sizes, which states, which news In, which cleanups.

@@ -1,0 +1,3 @@
+RefreshClusterMaxPriorityResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+RefreshClusterMaxPriorityResponsePBImpl acts as a caretaker for memento RefreshClusterMaxPriorityResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+RefreshClusterMaxPriorityResponsePBImpl acts as an originator for memento RefreshClusterMaxPriorityResponse.

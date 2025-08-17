@@ -1,0 +1,3 @@
+StaticApplicationContextMulticasterTests acts as a caretaker for memento C, which creates Context, which counts, which eventses, which multicasts ApplicationEvent parameter of event, @Nullable parameter of ResolvableType Event.
+StaticApplicationContextMulticasterTests acts as a caretaker for memento ApplicationContext, which creates Context, which counts, which eventses, which multicasts ApplicationEvent parameter of event, @Nullable parameter of ResolvableType Event.
+StaticApplicationContextMulticasterTests acts as a caretaker for memento A, which creates Context, which counts, which eventses, which multicasts ApplicationEvent parameter of event, @Nullable parameter of ResolvableType Event.

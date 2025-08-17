@@ -1,0 +1,4 @@
+MockFileDatabaseException acts as a product for SQLExceptionTranslator, which overrides.
+MockFileDatabaseException acts as a product for PersistenceExceptionTranslator, which overrides.
+MockFileDatabaseException acts as a product for ResultOrRows, which overrides.
+MockFileDatabaseException acts as a product for LoaderError, which overrides.

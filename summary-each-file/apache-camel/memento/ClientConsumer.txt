@@ -1,0 +1,1 @@
+ClientConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which updates final parameter of ObjectAddress, final parameter of Value<?> Value, which configures Message parameter of message, final parameter of Value<?> Message.

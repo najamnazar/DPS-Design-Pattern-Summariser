@@ -1,0 +1,1 @@
+BindySimpleKeyValuePairFixTest acts as a caretaker for memento Producer, which tests Un Marshall Message, which configures, which gets Id, which gets Product, which gets Quantity, which sets String parameter of quantity Quantity.

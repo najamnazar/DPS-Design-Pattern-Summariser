@@ -1,0 +1,1 @@
+BindMarkersFactoryResolver acts as a caretaker for memento B, which resolves ConnectionFactory parameter of connectionFactory, which gets ConnectionFactory parameter of connectionFactory Bind Markers, which gets ConnectionFactory parameter of connectionFactory Bind Markers, which filters CharSequence parameter of input Bind Marker.

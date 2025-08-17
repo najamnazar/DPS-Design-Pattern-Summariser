@@ -1,0 +1,1 @@
+AbstractMediaTypeExpression acts as a factory for MediaTypeExpression, which overrides getMediaType method of MediaTypeExpression, isNegated method of MediaTypeExpression.

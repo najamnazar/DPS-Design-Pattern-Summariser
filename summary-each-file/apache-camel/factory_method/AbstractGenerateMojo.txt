@@ -1,0 +1,2 @@
+AbstractGenerateMojo acts as a factory for AbstractGenerateMojo, which overrides.
+AbstractGenerateMojo acts as a factory method for DestinationGenerator, which is inherited by AbstractGenerateMojo, AbstractGenerateMojo, AbstractGenerateMojo, AbstractGenerateMojo, AbstractGenerateMojo.

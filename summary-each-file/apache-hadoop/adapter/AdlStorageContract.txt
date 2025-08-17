@@ -1,0 +1,1 @@
+AdlStorageContract acts as an adapter, which adapts to AbstractFSContract, which adapts to AbstractFSContract, which adapts to AbstractFSContract, which adapts to AbstractFSContract.

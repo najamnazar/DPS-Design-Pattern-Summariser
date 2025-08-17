@@ -1,0 +1,1 @@
+GetDelegationTokenResponse acts as a publisher for observer Token, which is inherited by GetDelegationTokenResponsePBImpl, which news Token parameter of rmDTToken Instance, which gets RMDelegation Token, which sets Token parameter of rmDTToken RMDelegation Token.

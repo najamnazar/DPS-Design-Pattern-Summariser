@@ -1,0 +1,3 @@
+PackageDeclarationMatch acts as a publisher for observer SearchParticipant.
+PackageDeclarationMatch acts as an observer.
+PackageDeclarationMatch acts as a publisher for observer Object.

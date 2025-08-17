@@ -1,0 +1,2 @@
+FtpConsumerNotStepwiseCamelManualTest acts as a caretaker for memento Context, which tests Ftp Consumer Manual, which creates Route Builder.
+FtpConsumerNotStepwiseCamelManualTest acts as a caretaker for memento Producer, which tests Ftp Consumer Manual, which creates Route Builder.

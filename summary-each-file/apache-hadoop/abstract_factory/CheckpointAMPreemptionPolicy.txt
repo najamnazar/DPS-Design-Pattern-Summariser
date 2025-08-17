@@ -1,0 +1,1 @@
+CheckpointAMPreemptionPolicy acts as a factory for AMPreemptionPolicy, which overrides init method of AMPreemptionPolicy, handleFailedContainer method of AMPreemptionPolicy, handleCompletedContainer method of AMPreemptionPolicy, getCheckpointID method of AMPreemptionPolicy, setCheckpointID method of AMPreemptionPolicy.

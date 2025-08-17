@@ -1,0 +1,2 @@
+LocalizerHeartbeatResponsePBImpl acts as a factory for LocalizerHeartbeatResponse, which overrides getLocalizerAction method of LocalizerHeartbeatResponse, getResourceSpecs method of LocalizerHeartbeatResponse.
+LocalizerHeartbeatResponsePBImpl acts as a product for LocalizationProtocol, which overrides getLocalizerAction method of LocalizerHeartbeatResponse, getResourceSpecs method of LocalizerHeartbeatResponse.

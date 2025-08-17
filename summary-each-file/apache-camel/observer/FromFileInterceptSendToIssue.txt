@@ -1,0 +1,2 @@
+FromFileInterceptSendToIssue acts as a publisher for observer Service, which tests Intercept Send To, which creates Route Builder.
+FromFileInterceptSendToIssue acts as a publisher for observer CamelContext, which tests Intercept Send To, which creates Route Builder.

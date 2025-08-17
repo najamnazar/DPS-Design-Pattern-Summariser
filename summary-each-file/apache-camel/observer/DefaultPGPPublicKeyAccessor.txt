@@ -1,0 +1,1 @@
+DefaultPGPPublicKeyAccessor acts as an observer, which gets Exchange parameter of exchange, List<String> parameter of useridParts Encryption Keys, which gets Exchange parameter of exchange, long parameter of keyId, List<String> parameter of userIdParts Public Key.

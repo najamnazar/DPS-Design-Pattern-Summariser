@@ -1,0 +1,2 @@
+StateStoreDFSCluster acts as a publisher for observer NameNode, which creates StateStoreService parameter of stateStore Test Registration, which creates StateStoreService parameter of stateStore Test Mount Table, which generates Mock Mount Table, which gets Router Client Conf.
+StateStoreDFSCluster acts as a publisher for observer Configuration, which creates StateStoreService parameter of stateStore Test Registration, which creates StateStoreService parameter of stateStore Test Mount Table, which generates Mock Mount Table, which gets Router Client Conf.

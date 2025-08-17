@@ -1,0 +1,2 @@
+OxmNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits.
+OxmNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits.

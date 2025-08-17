@@ -1,0 +1,1 @@
+SpringJUnit4ClassRunner acts as a factory for SpringClassRule, which overrides.

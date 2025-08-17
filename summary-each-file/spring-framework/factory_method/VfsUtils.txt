@@ -1,0 +1,1 @@
+VfsUtils acts as a factory for VfsResource, which overrides.

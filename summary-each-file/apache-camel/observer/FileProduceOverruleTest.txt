@@ -1,0 +1,2 @@
+FileProduceOverruleTest acts as a publisher for observer Service, which tests No Overrule, which tests Only Overrule, which tests Both, which creates Route Builder.
+FileProduceOverruleTest acts as a publisher for observer CamelContext, which tests No Overrule, which tests Only Overrule, which tests Both, which creates Route Builder.

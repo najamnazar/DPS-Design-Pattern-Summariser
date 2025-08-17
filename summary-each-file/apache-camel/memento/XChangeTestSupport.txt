@@ -1,0 +1,2 @@
+XChangeTestSupport acts as a caretaker for memento Producer, which starts Wire Mock Server, which stops Wire Mock Server, which creates Camel Context, which adds CamelContext parameter of context XChange Client, which uses Mocked Backend.
+XChangeTestSupport acts as a caretaker for memento Context, which starts Wire Mock Server, which stops Wire Mock Server, which creates Camel Context, which adds CamelContext parameter of context XChange Client, which uses Mocked Backend.

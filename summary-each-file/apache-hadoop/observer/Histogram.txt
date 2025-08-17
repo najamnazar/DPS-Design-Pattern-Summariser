@@ -1,0 +1,1 @@
+Histogram acts as an observer for publisher HadoopLogsAnalyzer, which is inherited by, which dumps PrintStream parameter of stream, which iterators, which gets long parameter of key, which gets Total Count, which enters long parameter of value, which gets int parameter of scale, int[] parameter of buckets CDF.

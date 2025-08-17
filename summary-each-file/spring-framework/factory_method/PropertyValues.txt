@@ -1,0 +1,2 @@
+PropertyValues acts as a factory for CommonAnnotationBeanPostProcessor, which overrides iterator method of CommonAnnotationBeanPostProcessor, spliterator method of CommonAnnotationBeanPostProcessor.
+PropertyValues acts as an abstract product for CommonAnnotationBeanPostProcessor, which is inherited by MutablePropertyValues.

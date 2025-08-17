@@ -1,0 +1,1 @@
+TimelineFilter acts as a memento, which is inherited by TimelineKeyValuesFilter, TimelineFilterList, TimelineCompareFilter, TimelinePrefixFilter, TimelineExistsFilter, which tos String, which tos String.

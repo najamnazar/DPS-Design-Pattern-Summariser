@@ -1,0 +1,1 @@
+CookieHandler acts as an abstract product for UndertowEndpoint, which is inherited by BaseCookieHandler.

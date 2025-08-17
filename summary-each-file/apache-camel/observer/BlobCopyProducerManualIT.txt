@@ -1,0 +1,5 @@
+BlobCopyProducerManualIT acts as a publisher for observer CamelContext, which tests Copy Blob, which creates Route Builder.
+BlobCopyProducerManualIT acts as a publisher for observer ProducerTemplate, which tests Copy Blob, which creates Route Builder.
+BlobCopyProducerManualIT acts as a publisher for observer ConsumerTemplate, which tests Copy Blob, which creates Route Builder.
+BlobCopyProducerManualIT acts as a publisher for observer Service, which tests Copy Blob, which creates Route Builder.
+BlobCopyProducerManualIT acts as a publisher for observer FluentProducerTemplate, which tests Copy Blob, which creates Route Builder.

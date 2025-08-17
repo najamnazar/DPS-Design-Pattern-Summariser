@@ -1,0 +1,2 @@
+MediaType acts as a product for RSocketRequester, which overrides checkParameters method of MimeType.
+MediaType acts as a product for ContentTypeResolver, which overrides checkParameters method of MimeType.

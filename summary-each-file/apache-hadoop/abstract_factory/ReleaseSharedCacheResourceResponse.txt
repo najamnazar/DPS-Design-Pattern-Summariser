@@ -1,0 +1,1 @@
+ReleaseSharedCacheResourceResponse acts as an abstract product for ReleaseSharedCacheResourceResponse, which is inherited by ReleaseSharedCacheResourceResponsePBImpl.

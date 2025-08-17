@@ -1,0 +1,1 @@
+GoogleMailPropertiesHelper acts as a singleton, which gets a GoogleMailPropertiesHelper Helper to.

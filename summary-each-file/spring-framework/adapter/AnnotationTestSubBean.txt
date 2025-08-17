@@ -1,0 +1,1 @@
+AnnotationTestSubBean acts as an adapter, which adapts to AnnotationTestBean, which adapts to AnnotationTestBean, which adapts to AnnotationTestBean, which adapts to AnnotationTestBean, which adapts to AnnotationTestBean, which adapts to AnnotationTestBean, which adapts to AnnotationTestBean.

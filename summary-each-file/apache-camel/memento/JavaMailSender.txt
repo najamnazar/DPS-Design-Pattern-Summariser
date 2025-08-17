@@ -1,0 +1,1 @@
+JavaMailSender acts as an originator for memento MailAuthenticator, which is inherited by, which sets MailAuthenticator parameter of authenticator Authenticator, which gets a MailAuthenticator Authenticator to.

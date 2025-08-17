@@ -1,0 +1,2 @@
+SendExchangePatternOptionTest acts as a publisher for observer CamelContext, which tests Exchange Pattern Option In Only, which tests Exchange Pattern Option In Out, which creates Route Builder.
+SendExchangePatternOptionTest acts as a publisher for observer Service, which tests Exchange Pattern Option In Only, which tests Exchange Pattern Option In Out, which creates Route Builder.

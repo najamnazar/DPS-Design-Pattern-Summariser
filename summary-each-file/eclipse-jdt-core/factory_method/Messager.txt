@@ -1,0 +1,1 @@
+Messager acts as an abstract product for ProcessingEnvironment, which is inherited by BatchMessagerImpl, IdeMessagerImpl.

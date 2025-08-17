@@ -1,0 +1,1 @@
+ManagedFilterMBean acts as a memento, which gets Filtered Count, which gets Filtered Count, which gets Filtered Count.

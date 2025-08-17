@@ -1,0 +1,1 @@
+VolumeCheckResult acts as an observer for publisher TestDatasetVolumeChecker, which is inherited by, which gets Value.

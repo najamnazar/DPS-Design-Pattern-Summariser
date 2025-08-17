@@ -1,0 +1,1 @@
+MyDummyFactory1 acts as an observer, which gets String.

@@ -1,0 +1,1 @@
+CustomerList acts as a publisher for observer Customer, which is inherited by, which adds Customer parameter of customer Customer, which gets Integer parameter of id Customer, which deletes Integer parameter of id Customer, which adds, which gets Customer List.

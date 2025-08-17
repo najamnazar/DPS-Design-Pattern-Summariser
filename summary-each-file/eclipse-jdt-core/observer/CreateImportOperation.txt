@@ -1,0 +1,1 @@
+CreateImportOperation acts as a publisher for observer IJavaElement, which gets ASTNode parameter of parent Child Property Descriptor, which generates ASTRewrite parameter of rewriter, ICompilationUnit parameter of cu Element AST, which generates Result Handle, which gets Main Task Name, which initializes Default Position, which verifies.

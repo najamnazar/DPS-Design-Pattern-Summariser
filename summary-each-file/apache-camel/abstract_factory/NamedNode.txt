@@ -1,0 +1,2 @@
+NamedNode acts as an abstract factory for NamedNode, which is inherited by OptionalIdentifiedDefinition.
+NamedNode acts as an abstract product for NamedNode, which is inherited by PreconditionContainer, OptionalIdentifiedDefinition.

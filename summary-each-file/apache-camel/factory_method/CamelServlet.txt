@@ -1,0 +1,3 @@
+CamelServlet acts as a factory method for ServletResolveConsumerStrategy, which is inherited by CamelServlet, CamelServlet.
+CamelServlet acts as a factory for CamelServlet, which overrides.
+CamelServlet acts as a product for HttpRegistry, which overrides connect method of HttpRegistryProvider, disconnect method of HttpRegistryProvider, getServletName method of HttpRegistryProvider.

@@ -1,0 +1,2 @@
+XsltOutputFileDeleteTest acts as a publisher for observer CamelContext, which tests Xslt Output Delete File, which creates Route Builder.
+XsltOutputFileDeleteTest acts as a publisher for observer Service, which tests Xslt Output Delete File, which creates Route Builder.

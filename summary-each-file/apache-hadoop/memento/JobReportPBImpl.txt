@@ -1,0 +1,1 @@
+JobReportPBImpl acts as an originator for memento JobState, which gets a JobState Job State to, which sets JobState parameter of jobState Job State, which converts JobState parameter of e To Proto Format, which converts a JobState From Proto Format to.

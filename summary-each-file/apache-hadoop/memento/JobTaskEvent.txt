@@ -1,0 +1,1 @@
+JobTaskEvent acts as a caretaker for memento TaskState, which gets Task ID, which gets State.

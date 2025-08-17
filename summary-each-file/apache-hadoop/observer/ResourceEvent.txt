@@ -1,0 +1,1 @@
+ResourceEvent acts as an observer for publisher LocalizedResource, which is inherited by ResourceFailedLocalizationEvent, ResourceLocalizedEvent, ResourceRecoveredEvent, ResourceRequestEvent, ResourceReleaseEvent, which gets Local Resource Request.

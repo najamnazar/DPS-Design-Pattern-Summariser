@@ -1,0 +1,4 @@
+ApplicationContext acts as an abstract product for ApplicationContext, which is inherited by ConfigurableApplicationContext, WebApplicationContext.
+ApplicationContext acts as a product for HierarchicalMessageSource, which overrides.
+ApplicationContext acts as a product for Theme, which overrides.
+ApplicationContext acts as an abstract factory for ApplicationContext, AutowireCapableBeanFactory, which is inherited by.

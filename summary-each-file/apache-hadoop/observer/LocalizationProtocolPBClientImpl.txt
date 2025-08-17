@@ -1,0 +1,1 @@
+LocalizationProtocolPBClientImpl acts as an observer, which closes, which heartbeats LocalizerStatus parameter of status.

@@ -1,0 +1,1 @@
+RefreshQueuesResponse acts as an abstract product for RefreshQueuesResponse, which is inherited by RefreshQueuesResponsePBImpl.

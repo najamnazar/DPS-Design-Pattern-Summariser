@@ -1,0 +1,1 @@
+CombinerHandler acts as an adapter, which adapts to CommandDispatcher, ICombineHandler, which adapts to CommandDispatcher, ICombineHandler, which adapts to CommandDispatcher, ICombineHandler, which adapts to CommandDispatcher, ICombineHandler, which adapts to CommandDispatcher, ICombineHandler.

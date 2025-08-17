@@ -1,0 +1,1 @@
+DefaultAdvisorAdapterRegistry acts as a factory for AdvisorAdapterRegistry, which overrides getInterceptors method of AdvisorAdapterRegistry, registerAdvisorAdapter method of AdvisorAdapterRegistry.

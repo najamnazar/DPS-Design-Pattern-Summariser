@@ -1,0 +1,1 @@
+RequiresInfo acts as an adapter, which adapts to IRequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo.

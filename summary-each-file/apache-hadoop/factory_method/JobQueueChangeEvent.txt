@@ -1,0 +1,1 @@
+JobQueueChangeEvent acts as a product for ReduceAttempt20LineHistoryEventEmitter, which overrides getEventType method of HistoryEvent, getDatum method of HistoryEvent, setDatum method of HistoryEvent, toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.

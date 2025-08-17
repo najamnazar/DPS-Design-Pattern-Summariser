@@ -1,0 +1,1 @@
+ArtemisVMService acts as a publisher for observer Configuration, which gets Configuration parameter of configuration, int parameter of port Configuration, which services Address, which brokers Port.

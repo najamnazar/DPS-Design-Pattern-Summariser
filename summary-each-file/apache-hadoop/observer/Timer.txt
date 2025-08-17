@@ -1,0 +1,1 @@
+Timer acts as an observer for publisher FsDatasetImpl, which is inherited by FakeTimer, which starts Time, which stops Time, which gets Interval Millis, which printlns String parameter of message With Timestamp, which formats long parameter of millis Time, which gets Interval String, which formats Current Time.

@@ -1,0 +1,7 @@
+RestConsumerFactory acts as an adaptee for adapter PlatformHttpComponent, which adapts to DefaultComponent.
+RestConsumerFactory acts as an adaptee for adapter NettyHttpComponent, which adapts to NettyComponent.
+RestConsumerFactory acts as an adaptee for adapter ServletComponent, which adapts to HttpCommonComponent.
+RestConsumerFactory acts as an adaptee for adapter UndertowComponent, which adapts to DefaultComponent.
+RestConsumerFactory acts as an adaptee for adapter ResteasyComponent, which adapts to HttpComponent.
+RestConsumerFactory acts as an adaptee for adapter JettyHttpComponent, which adapts to HttpCommonComponent.
+RestConsumerFactory acts as an adaptee for adapter CoAPComponent, which adapts to DefaultComponent.

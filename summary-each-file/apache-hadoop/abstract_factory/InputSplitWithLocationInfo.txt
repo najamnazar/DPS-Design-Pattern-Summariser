@@ -1,0 +1,2 @@
+InputSplitWithLocationInfo acts as a product for MapContext, which overrides.
+InputSplitWithLocationInfo acts as a product for Reporter, which overrides.

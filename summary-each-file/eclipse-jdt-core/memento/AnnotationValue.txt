@@ -1,0 +1,3 @@
+AnnotationValue acts as an originator for memento String, which is inherited by, which tos a String String to.
+AnnotationValue acts as a memento, which is inherited by AnnotationValueImpl, which tos String, which tos String, which tos String.
+AnnotationValue acts as an originator for memento SourcePosition, which is inherited by, which gets a SourcePosition Position to.

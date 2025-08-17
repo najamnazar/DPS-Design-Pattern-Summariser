@@ -1,0 +1,1 @@
+ExternalJavaProject acts as an adapter, which adapts to JavaProject, which adapts to JavaProject, which adapts to JavaProject, which adapts to JavaProject, which adapts to JavaProject, which adapts to JavaProject.

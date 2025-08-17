@@ -1,0 +1,1 @@
+CapacityHeadroomProvider acts as an observer for publisher FiCaSchedulerApp, FifoAppAttempt, which is inherited by, which gets Headroom.

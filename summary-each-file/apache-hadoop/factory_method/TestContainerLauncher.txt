@@ -1,0 +1,1 @@
+TestContainerLauncher acts as a factory method for ContainerLauncher, which is inherited by MRAppMaster, MRAppMaster.

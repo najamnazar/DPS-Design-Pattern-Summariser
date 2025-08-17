@@ -1,0 +1,2 @@
+NegativeVariableTest acts as a publisher for observer String, which suites, which tests Class, which tests Initializer Problem, which _tests Invalid Name, which tests Unknown Type.
+NegativeVariableTest acts as a publisher for observer EvaluationResult, which suites, which tests Class, which tests Initializer Problem, which _tests Invalid Name, which tests Unknown Type.

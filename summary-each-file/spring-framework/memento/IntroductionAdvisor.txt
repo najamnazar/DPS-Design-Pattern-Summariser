@@ -1,0 +1,2 @@
+IntroductionAdvisor acts as a caretaker for memento Advice, which gets Class Filter, which validates Interfaces.
+IntroductionAdvisor acts as a caretaker for memento A, which gets Class Filter, which validates Interfaces.

@@ -1,0 +1,1 @@
+MockResultSet acts as a factory method for RowId, which is inherited by DefaultResultSet, DefaultCallableStatement, DefaultCallableStatement.

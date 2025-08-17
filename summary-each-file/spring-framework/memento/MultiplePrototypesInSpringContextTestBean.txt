@@ -1,0 +1,4 @@
+MultiplePrototypesInSpringContextTestBean acts as a caretaker for memento C.
+MultiplePrototypesInSpringContextTestBean acts as a caretaker for memento ApplicationContext.
+MultiplePrototypesInSpringContextTestBean acts as a caretaker for memento B.
+MultiplePrototypesInSpringContextTestBean acts as a caretaker for memento A.

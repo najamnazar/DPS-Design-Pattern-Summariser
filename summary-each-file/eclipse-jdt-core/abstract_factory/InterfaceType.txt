@@ -1,0 +1,3 @@
+InterfaceType acts as a product for Types, which overrides.
+InterfaceType acts as an abstract factory for InterfaceDeclaration, which is inherited by InterfaceDeclarationImpl.
+InterfaceType acts as a product for DeclaredType, which overrides.

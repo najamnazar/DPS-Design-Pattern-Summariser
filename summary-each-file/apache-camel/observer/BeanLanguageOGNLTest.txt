@@ -1,0 +1,2 @@
+BeanLanguageOGNLTest acts as a publisher for observer CamelContext, which tests Bean Language OGNL, which creates Route Builder, which gets Other, which greets String parameter of name.
+BeanLanguageOGNLTest acts as a publisher for observer Service, which tests Bean Language OGNL, which creates Route Builder, which gets Other, which greets String parameter of name.

@@ -1,0 +1,2 @@
+ResourcePatternResolver acts as a product for BeanDefinitionReader, which overrides.
+ResourcePatternResolver acts as a product for ConditionContext, which overrides.

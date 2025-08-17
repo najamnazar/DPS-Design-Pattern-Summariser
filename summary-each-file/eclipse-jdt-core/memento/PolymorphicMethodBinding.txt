@@ -1,0 +1,3 @@
+PolymorphicMethodBinding acts as a caretaker for memento Binding, which originals, which is Polymorphic, which matches TypeBinding[] parameter of matchingParameters, TypeBinding parameter of matchingReturnType, which is Varargs.
+PolymorphicMethodBinding acts as a caretaker for memento TypeVariable, which originals, which is Polymorphic, which matches TypeBinding[] parameter of matchingParameters, TypeBinding parameter of matchingReturnType, which is Varargs.
+PolymorphicMethodBinding acts as a caretaker for memento R, which originals, which is Polymorphic, which matches TypeBinding[] parameter of matchingParameters, TypeBinding parameter of matchingReturnType, which is Varargs.

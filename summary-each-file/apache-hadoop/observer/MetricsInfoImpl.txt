@@ -1,0 +1,1 @@
+MetricsInfoImpl acts as an observer, which names, which descriptions, which equals Object parameter of obj, which hashes Code, which tos String.

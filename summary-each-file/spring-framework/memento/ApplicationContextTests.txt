@@ -1,0 +1,1 @@
+ApplicationContextTests acts as a caretaker for memento C, which sets Up, which tests, which controllers, which handles.

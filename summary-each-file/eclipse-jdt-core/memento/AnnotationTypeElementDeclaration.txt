@@ -1,0 +1,1 @@
+AnnotationTypeElementDeclaration acts as a caretaker for memento R, which gets Default Value, which gets Declaring Type.

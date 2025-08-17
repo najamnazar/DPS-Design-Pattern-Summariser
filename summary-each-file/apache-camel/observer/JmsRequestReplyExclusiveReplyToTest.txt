@@ -1,0 +1,1 @@
+JmsRequestReplyExclusiveReplyToTest acts as a publisher for observer ArtemisService, which tests Jms Request Reply Exclusive Fixed Reply To, which tests Invalid Configuration, which gets Component Name, which creates Route Builder.

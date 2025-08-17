@@ -1,0 +1,1 @@
+ServiceHostPropertiesFunction acts as an observer, which gets Name, which applies String parameter of remainder.

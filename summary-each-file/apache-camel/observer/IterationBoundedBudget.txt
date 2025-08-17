@@ -1,0 +1,1 @@
+IterationBoundedBudget acts as an observer, which initials Delay, which intervals, which maxes Iterations, which iterations, which nexts, which cans Continue, which elapseds.

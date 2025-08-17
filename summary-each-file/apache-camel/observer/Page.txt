@@ -1,0 +1,4 @@
+Page acts as a publisher for observer PostCommentStatus, which gets Parent, which sets Integer parameter of parent Parent, which gets Menu Order, which sets Integer parameter of menuOrder Menu Order.
+Page acts as a publisher for observer PublishableStatus, which gets Parent, which sets Integer parameter of parent Parent, which gets Menu Order, which sets Integer parameter of menuOrder Menu Order.
+Page acts as a publisher for observer PingStatus, which gets Parent, which sets Integer parameter of parent Parent, which gets Menu Order, which sets Integer parameter of menuOrder Menu Order.
+Page acts as a publisher for observer Content, which gets Parent, which sets Integer parameter of parent Parent, which gets Menu Order, which sets Integer parameter of menuOrder Menu Order.

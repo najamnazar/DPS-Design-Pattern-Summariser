@@ -1,0 +1,1 @@
+ExtendedBlockId acts as an observer for publisher PmemVolumeManager, which is inherited by, which froms ExtendedBlock parameter of block Extended Block, which gets Block Id, which gets Block Pool Id, which equals Object parameter of o, which hashes Code, which tos String.

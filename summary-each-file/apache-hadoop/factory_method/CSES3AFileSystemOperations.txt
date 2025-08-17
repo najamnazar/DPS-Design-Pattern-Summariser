@@ -1,0 +1,3 @@
+CSES3AFileSystemOperations acts as a factory for CSES3AFileSystemOperations, which overrides.
+CSES3AFileSystemOperations acts as a factory method for S3ClientFactory, which is inherited by S3AFileSystemOperations, CSES3AFileSystemOperations, S3AFileSystemOperations.
+CSES3AFileSystemOperations acts as a product for S3AFileSystem, which overrides getObject method of S3AFileSystemOperations, setCSEGauge method of S3AFileSystemOperations, getClientSideEncryptionMaterials method of S3AFileSystemOperations, getS3ClientFactory method of S3AFileSystemOperations, getUnencryptedS3ClientFactory method of S3AFileSystemOperations, getS3ObjectSize method of S3AFileSystemOperations.

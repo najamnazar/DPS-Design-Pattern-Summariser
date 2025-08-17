@@ -1,0 +1,1 @@
+BeanPropertySqlParameterSource acts as an adapter, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts getReadablePropertyNames method of BeanWrapper to AbstractSqlParameterSource.

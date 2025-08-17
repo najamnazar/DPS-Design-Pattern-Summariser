@@ -1,0 +1,1 @@
+DynoResource acts as a caretaker for memento LocalResourceType, which gets Map<String, parameter of String> Path, which gets Map<String, parameter of String> Timestamp, which gets Map<String, parameter of String> Length, which gets Location Env Var, which gets Timestamp Env Var, which gets Length Env Var, which gets Type, which gets Resource Path, which tos String.

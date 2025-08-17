@@ -1,0 +1,1 @@
+DynamicIntroductionAdvice acts as an observer, which implements Class<?> parameter of intf Interface.

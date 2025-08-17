@@ -1,0 +1,2 @@
+StreamCachingInOutTest acts as a publisher for observer CamelContext, which tests Stream Caching Per Route, which tests Stream Caching Per Route With Direc VM, which creates Route Builder, which processes Exchange parameter of exchange, which gets Test File Stream.
+StreamCachingInOutTest acts as a publisher for observer Service, which tests Stream Caching Per Route, which tests Stream Caching Per Route With Direc VM, which creates Route Builder, which processes Exchange parameter of exchange, which gets Test File Stream.

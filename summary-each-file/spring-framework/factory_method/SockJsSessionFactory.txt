@@ -1,0 +1,2 @@
+SockJsSessionFactory acts as a factory method for SockJsSession, which is inherited by SockJsSessionFactory, TransportHandlingSockJsService, SockJsSessionFactory.
+SockJsSessionFactory acts as a factory for SockJsSessionFactory, which overrides.

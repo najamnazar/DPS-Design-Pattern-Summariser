@@ -1,0 +1,2 @@
+OptionalPropertyPlaceholderBeanTest acts as a publisher for observer Service, which is Use Route Builder, which tests Query Optional Present, which tests Query Optional Not Present, which tests Query Optional Not Present Default Value, which creates Camel Context.
+OptionalPropertyPlaceholderBeanTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Query Optional Present, which tests Query Optional Not Present, which tests Query Optional Not Present Default Value, which creates Camel Context.

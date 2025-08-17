@@ -1,0 +1,5 @@
+MailShutdownCompleteAllTasksTest acts as a publisher for observer ProducerTemplate, which sets Up, which is Use Route Builder, which tests Shutdown Complete All Tasks, which prepares Mailbox.
+MailShutdownCompleteAllTasksTest acts as a publisher for observer CamelContext, which sets Up, which is Use Route Builder, which tests Shutdown Complete All Tasks, which prepares Mailbox.
+MailShutdownCompleteAllTasksTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which is Use Route Builder, which tests Shutdown Complete All Tasks, which prepares Mailbox.
+MailShutdownCompleteAllTasksTest acts as a publisher for observer Service, which sets Up, which is Use Route Builder, which tests Shutdown Complete All Tasks, which prepares Mailbox.
+MailShutdownCompleteAllTasksTest acts as a publisher for observer ConsumerTemplate, which sets Up, which is Use Route Builder, which tests Shutdown Complete All Tasks, which prepares Mailbox.

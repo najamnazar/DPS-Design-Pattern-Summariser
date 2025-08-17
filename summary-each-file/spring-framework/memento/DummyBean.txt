@@ -1,0 +1,1 @@
+DummyBean acts as a caretaker for memento B, which gets Value, which gets Name, which gets Age, which gets Spouse.

@@ -1,0 +1,1 @@
+WebMvcConfigurationSupportTests acts as a factory method for ViewResolver, which is inherited by WebMvcConfigurationSupport.

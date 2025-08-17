@@ -1,0 +1,2 @@
+CurrentWeatherConsumerGeolocationProviderTest acts as a caretaker for memento Context, which checks Geolocation Provider Config.
+CurrentWeatherConsumerGeolocationProviderTest acts as a caretaker for memento Producer, which checks Geolocation Provider Config.

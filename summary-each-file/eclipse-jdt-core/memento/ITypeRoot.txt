@@ -1,0 +1,2 @@
+ITypeRoot acts as an originator for memento ISourceRange.
+ITypeRoot acts as an originator for memento String.

@@ -1,0 +1,1 @@
+ReplyToType acts as an observer for publisher SjmsEndpoint, Sjms2Endpoint, which is inherited by.

@@ -1,0 +1,3 @@
+ResourceSupport acts as a product for ResourceLoader, which overrides getScheme method of Resource, getLocation method of Resource.
+ResourceSupport acts as a product for ResourceAware, which overrides getScheme method of Resource, getLocation method of Resource.
+ResourceSupport acts as a product for Route, which overrides getScheme method of Resource, getLocation method of Resource.

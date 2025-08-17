@@ -1,0 +1,1 @@
+SpringServiceCallClientRouteManualTest acts as a caretaker for memento Context, which creates Application Context, which tests Service Call.

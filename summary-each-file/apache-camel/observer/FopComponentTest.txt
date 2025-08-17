@@ -1,0 +1,5 @@
+FopComponentTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which creates Pdf Using Xml Data And Xslt Transformation, which creates Route Builder.
+FopComponentTest acts as a publisher for observer Service, which sets Up, which creates Pdf Using Xml Data And Xslt Transformation, which creates Route Builder.
+FopComponentTest acts as a publisher for observer ProducerTemplate, which sets Up, which creates Pdf Using Xml Data And Xslt Transformation, which creates Route Builder.
+FopComponentTest acts as a publisher for observer ConsumerTemplate, which sets Up, which creates Pdf Using Xml Data And Xslt Transformation, which creates Route Builder.
+FopComponentTest acts as a publisher for observer CamelContext, which sets Up, which creates Pdf Using Xml Data And Xslt Transformation, which creates Route Builder.

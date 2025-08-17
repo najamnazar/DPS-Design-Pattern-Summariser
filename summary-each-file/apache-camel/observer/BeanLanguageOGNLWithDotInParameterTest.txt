@@ -1,0 +1,2 @@
+BeanLanguageOGNLWithDotInParameterTest acts as a publisher for observer CamelContext, which tests Dot, which creates Registry, which creates Route Builder, which wheres String parameter of version, String parameter of id To Mate.
+BeanLanguageOGNLWithDotInParameterTest acts as a publisher for observer Service, which tests Dot, which creates Registry, which creates Route Builder, which wheres String parameter of version, String parameter of id To Mate.

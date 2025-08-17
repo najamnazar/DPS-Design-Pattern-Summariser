@@ -1,0 +1,1 @@
+MQSeriesHeaderTest acts as a publisher for observer ArtemisService, which tests Forwarding Jms Message Ignores Headers MQDoesnt Like, which gets Component Name, which creates Route Builder.

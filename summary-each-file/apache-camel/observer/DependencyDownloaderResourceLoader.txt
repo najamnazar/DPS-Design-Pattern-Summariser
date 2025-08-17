@@ -1,0 +1,2 @@
+DependencyDownloaderResourceLoader acts as a publisher for observer ResourceResolver, which resolves String parameter of uri Resource.
+DependencyDownloaderResourceLoader acts as a publisher for observer CamelContext, which resolves String parameter of uri Resource.

@@ -1,0 +1,1 @@
+ModuleReferenceMatch acts as a caretaker for memento E.

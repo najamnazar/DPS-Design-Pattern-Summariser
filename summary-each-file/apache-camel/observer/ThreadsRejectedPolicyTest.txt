@@ -1,0 +1,2 @@
+ThreadsRejectedPolicyTest acts as a publisher for observer CamelContext, which tests Threads Rejected Policy, which tests Threads Rejected Policy Builder, which creates Route Builder.
+ThreadsRejectedPolicyTest acts as a publisher for observer Service, which tests Threads Rejected Policy, which tests Threads Rejected Policy Builder, which creates Route Builder.

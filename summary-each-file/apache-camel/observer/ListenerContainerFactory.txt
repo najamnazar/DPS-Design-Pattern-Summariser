@@ -1,0 +1,1 @@
+ListenerContainerFactory acts as an observer for publisher SpringRabbitMQComponent, which is inherited by DefaultListenerContainerFactory, which creates SpringRabbitMQEndpoint parameter of endpoint Listener Container.

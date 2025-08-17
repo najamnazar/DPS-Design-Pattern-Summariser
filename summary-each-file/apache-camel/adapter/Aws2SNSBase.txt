@@ -1,0 +1,1 @@
+Aws2SNSBase acts as an adapter, which adapts to CamelTestSupport.

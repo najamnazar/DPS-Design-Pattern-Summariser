@@ -1,0 +1,1 @@
+InOutConsumerTopicTest acts as a caretaker for memento Producer, which uses Jmx, which tests Synchronous, which creates Route Builder.

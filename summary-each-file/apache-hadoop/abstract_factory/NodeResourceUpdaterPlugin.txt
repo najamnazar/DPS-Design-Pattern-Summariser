@@ -1,0 +1,1 @@
+NodeResourceUpdaterPlugin acts as an abstract product for NodeResourceUpdaterPlugin, which is inherited by FpgaNodeResourceUpdateHandler, DeviceResourceUpdaterImpl, GpuNodeResourceUpdateHandler.

@@ -1,0 +1,1 @@
+FlashMapManager acts as an abstract product for MockHttpServletRequestBuilder, which is inherited by AbstractFlashMapManager.

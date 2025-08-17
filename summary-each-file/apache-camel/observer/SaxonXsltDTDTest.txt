@@ -1,0 +1,5 @@
+SaxonXsltDTDTest acts as a publisher for observer ProducerTemplate, which tests Sending String Message, which tests Sending Input Stream Message, which sends Object parameter of message Entity Message, which creates Route Builder.
+SaxonXsltDTDTest acts as a publisher for observer CamelContext, which tests Sending String Message, which tests Sending Input Stream Message, which sends Object parameter of message Entity Message, which creates Route Builder.
+SaxonXsltDTDTest acts as a publisher for observer ConsumerTemplate, which tests Sending String Message, which tests Sending Input Stream Message, which sends Object parameter of message Entity Message, which creates Route Builder.
+SaxonXsltDTDTest acts as a publisher for observer Service, which tests Sending String Message, which tests Sending Input Stream Message, which sends Object parameter of message Entity Message, which creates Route Builder.
+SaxonXsltDTDTest acts as a publisher for observer FluentProducerTemplate, which tests Sending String Message, which tests Sending Input Stream Message, which sends Object parameter of message Entity Message, which creates Route Builder.

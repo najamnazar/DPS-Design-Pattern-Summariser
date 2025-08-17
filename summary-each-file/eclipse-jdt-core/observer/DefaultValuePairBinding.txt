@@ -1,0 +1,2 @@
+DefaultValuePairBinding acts as a publisher for observer BindingResolver, which gets Method Binding, which gets Name, which gets Value, which is Default, which is Deprecated.
+DefaultValuePairBinding acts as a publisher for observer Object, which gets Method Binding, which gets Name, which gets Value, which is Default, which is Deprecated.

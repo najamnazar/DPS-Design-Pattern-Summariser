@@ -1,0 +1,1 @@
+RouterRefreshUserMappingsProtocolTranslatorPB acts as a caretaker for memento RefreshSuperUserGroupsConfigurationRequest, which refreshes User To Groups Mappings, which refreshes Super User Groups Configuration.

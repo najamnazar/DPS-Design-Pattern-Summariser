@@ -1,0 +1,2 @@
+SimpleProcessorTraceableTest acts as a caretaker for memento Context, which tests Process, which creates Route Builder, which processes Exchange parameter of exchange, which gets Trace Label.
+SimpleProcessorTraceableTest acts as a caretaker for memento Producer, which tests Process, which creates Route Builder, which processes Exchange parameter of exchange, which gets Trace Label.

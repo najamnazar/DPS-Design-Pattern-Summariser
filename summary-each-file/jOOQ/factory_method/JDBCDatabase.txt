@@ -1,0 +1,1 @@
+JDBCDatabase acts as a factory for CatalogMetaProvider, which overrides.

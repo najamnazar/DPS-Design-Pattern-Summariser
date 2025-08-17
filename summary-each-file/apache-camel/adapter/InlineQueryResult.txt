@@ -1,0 +1,1 @@
+InlineQueryResult acts as a target for adapter InlineQueryResultGame, which adapts to InlineQueryResult, which adapts to InlineQueryResult, which adapts to InlineQueryResult, which adapts to InlineQueryResult, which adapts to InlineQueryResult, which adapts to InlineQueryResult.

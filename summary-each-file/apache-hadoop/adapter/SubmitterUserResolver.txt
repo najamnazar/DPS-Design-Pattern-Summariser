@@ -1,0 +1,1 @@
+SubmitterUserResolver acts as an adapter, which adapts to UserResolver, which adapts to UserResolver, which adapts to UserResolver.

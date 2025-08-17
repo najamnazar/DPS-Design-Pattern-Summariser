@@ -1,0 +1,1 @@
+LineBuilderStrategy acts as an abstract product for LineBuilderStrategy, which is inherited by DefaultLineBuilderStrategy.

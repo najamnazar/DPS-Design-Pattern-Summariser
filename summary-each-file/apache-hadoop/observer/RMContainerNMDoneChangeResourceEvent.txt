@@ -1,0 +1,1 @@
+RMContainerNMDoneChangeResourceEvent acts as an observer, which gets NMContainer Resource.

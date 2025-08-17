@@ -1,0 +1,1 @@
+LocalResourceStatus acts as an originator for memento ResourceStatusType, which is inherited by, which gets a ResourceStatusType Status to, which sets ResourceStatusType parameter of status Status.

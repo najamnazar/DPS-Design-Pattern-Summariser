@@ -1,0 +1,3 @@
+BasicXmlWacTests acts as a caretaker for memento A, which foos Bar Autowired.
+BasicXmlWacTests acts as a caretaker for memento C, which foos Bar Autowired.
+BasicXmlWacTests acts as a caretaker for memento ApplicationContext, which foos Bar Autowired.

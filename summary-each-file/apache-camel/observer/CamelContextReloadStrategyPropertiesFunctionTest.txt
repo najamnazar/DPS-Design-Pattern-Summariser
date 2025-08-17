@@ -1,0 +1,2 @@
+CamelContextReloadStrategyPropertiesFunctionTest acts as a publisher for observer CamelContext, which tests Context Reload, which creates Camel Context, which creates Route Builder, which inces Counter, which gets Name, which applies String parameter of remainder.
+CamelContextReloadStrategyPropertiesFunctionTest acts as a publisher for observer Service, which tests Context Reload, which creates Camel Context, which creates Route Builder, which inces Counter, which gets Name, which applies String parameter of remainder.

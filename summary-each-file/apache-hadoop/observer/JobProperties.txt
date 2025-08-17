@@ -1,0 +1,1 @@
+JobProperties acts as an observer for publisher LoggedJob, ParsedJob, which is inherited by, which gets Value, which gets StatePool parameter of statePool, Configuration parameter of conf Anonymized Value.

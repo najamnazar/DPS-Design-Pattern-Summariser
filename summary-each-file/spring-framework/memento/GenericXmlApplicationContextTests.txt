@@ -1,0 +1,1 @@
+GenericXmlApplicationContextTests acts as a caretaker for memento C, which classes Relative Resource Loading_ctor, which classes Relative Resource Loading_load, which fullies Qualified Resource Loading_ctor, which fullies Qualified Resource Loading_load.

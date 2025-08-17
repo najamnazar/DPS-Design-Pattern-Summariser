@@ -1,0 +1,1 @@
+Context acts as an abstract factory for BindContext, QueryPart, which is inherited by.

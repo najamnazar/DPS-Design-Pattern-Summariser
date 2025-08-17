@@ -1,0 +1,1 @@
+DefaultContextLoadTimeWeaver acts as an observer, which sets ClassLoader parameter of classLoader Bean Class Loader, which creates ClassLoader parameter of classLoader Server Specific Load Time Weaver, which destroys, which adds ClassFileTransformer parameter of transformer Transformer, which gets Instrumentable Class Loader, which gets Throwaway Class Loader.

@@ -1,0 +1,1 @@
+StickyLoadBalancerDefinition acts as an adapter, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition.

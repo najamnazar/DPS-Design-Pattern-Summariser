@@ -1,0 +1,3 @@
+ExceptionAttribute acts as a caretaker for memento C, which gets Exception Indexes, which gets Exception Names, which gets Exceptions Number.
+ExceptionAttribute acts as a memento, which gets Exceptions Number, which gets Exceptions Number, which gets Exceptions Number.
+ExceptionAttribute acts as a caretaker for memento Class, which gets Exception Indexes, which gets Exception Names, which gets Exceptions Number.

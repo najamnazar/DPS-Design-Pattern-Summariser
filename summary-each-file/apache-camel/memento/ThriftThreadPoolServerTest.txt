@@ -1,0 +1,2 @@
+ThriftThreadPoolServerTest acts as a caretaker for memento Producer, which starts Thrift Server, which stops Thrift Server, which clients Connection Test.
+ThriftThreadPoolServerTest acts as a caretaker for memento Context, which starts Thrift Server, which stops Thrift Server, which clients Connection Test.

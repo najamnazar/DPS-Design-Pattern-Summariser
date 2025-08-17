@@ -1,0 +1,10 @@
+TypedLanguageSupport acts as a target for adapter DatasonnetLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter RefLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter CSimpleLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter JoorLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter OgnlLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter MvelLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter SpelLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter JavaScriptLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter BeanLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.
+TypedLanguageSupport acts as a target for adapter PythonLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.

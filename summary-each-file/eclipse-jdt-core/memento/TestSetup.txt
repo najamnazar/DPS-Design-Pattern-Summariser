@@ -1,0 +1,1 @@
+TestSetup acts as a caretaker for memento Test, which runs final parameter of TestResult, which sets Up, which tears Down.

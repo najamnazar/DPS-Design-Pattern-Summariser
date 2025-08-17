@@ -1,0 +1,1 @@
+SendDynamicAware acts as an abstract factory for Processor, which is inherited by KafkaSendDynamicAware, VertxKafkaSendDynamicAware, JmsSendDynamicAware, PahoMqtt5SendDynamicAware, PahoSendDynamicAware, RabbitMQSendDynamicAware, SjmsSendDynamicAware, SpringRabbitMQSendDynamicAware, SendDynamicAwareSupport.

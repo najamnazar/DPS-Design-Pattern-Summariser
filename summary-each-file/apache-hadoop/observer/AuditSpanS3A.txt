@@ -1,0 +1,2 @@
+AuditSpanS3A acts as an observer.
+AuditSpanS3A acts as an observer for publisher LoggingAuditor, which is inherited by AbstractAuditSpanImpl.

@@ -1,0 +1,1 @@
+Plan acts as an adaptee for adapter AbstractSchedulerPlanFollower.

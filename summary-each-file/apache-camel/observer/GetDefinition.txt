@@ -1,0 +1,3 @@
+GetDefinition acts as an observer, which ases Verb.
+GetDefinition acts as a publisher for observer ToDefinition, which ases Verb.
+GetDefinition acts as a publisher for observer RestDefinition, which ases Verb.

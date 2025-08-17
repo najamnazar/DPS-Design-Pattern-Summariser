@@ -1,0 +1,1 @@
+DelegatingIntroductionInterceptor acts as a target for adapter LockMixin, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor.

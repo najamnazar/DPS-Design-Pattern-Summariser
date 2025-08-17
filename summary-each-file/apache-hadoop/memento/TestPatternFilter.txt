@@ -1,0 +1,1 @@
+TestPatternFilter acts as an originator for memento MetricsRecord, which shoulds SubsetConfiguration parameter of conf, MetricsRecord parameter of record Accept, which shoulds SubsetConfiguration parameter of conf, MetricsRecord parameter of record Reject, which mocks a MetricsRecord Metrics Record to.

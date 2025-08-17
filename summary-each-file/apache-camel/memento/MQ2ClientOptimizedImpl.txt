@@ -1,0 +1,2 @@
+MQ2ClientOptimizedImpl acts as a caretaker for memento Configuration, which gets Mq Client.
+MQ2ClientOptimizedImpl acts as a memento, which gets Mq Client.

@@ -1,0 +1,1 @@
+SharedCacheUploaderMetrics acts as a singleton, which gets a SharedCacheUploaderMetrics Instance to.

@@ -1,0 +1,1 @@
+TableConstraintType acts as an observer for publisher TableConstraint, which is inherited by, which values, which froms String parameter of v Value, which tos String.

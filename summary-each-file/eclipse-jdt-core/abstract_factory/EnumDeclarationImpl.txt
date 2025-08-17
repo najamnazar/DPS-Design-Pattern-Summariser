@@ -1,0 +1,2 @@
+EnumDeclarationImpl acts as a product for EnumType, which overrides.
+EnumDeclarationImpl acts as a factory for EnumType, which overrides getDeclaration method of EnumType.

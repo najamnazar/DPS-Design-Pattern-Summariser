@@ -1,0 +1,1 @@
+ClassFileBytesDisassembler acts as a publisher for observer String, which is inherited by Disassembler, which disassembles byte[] parameter of classFileBytes, String parameter of lineSeparator, which disassembles byte[] parameter of classFileBytes, String parameter of lineSeparator, int parameter of mode, which gets Description.

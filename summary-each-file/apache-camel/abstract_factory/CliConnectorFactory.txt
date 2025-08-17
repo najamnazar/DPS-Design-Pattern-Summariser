@@ -1,0 +1,2 @@
+CliConnectorFactory acts as an abstract factory for CliConnector, which is inherited by DefaultCliConnectorFactory.
+CliConnectorFactory acts as an abstract product for CliConnectorFactory, which is inherited by DefaultCliConnectorFactory.

@@ -1,0 +1,1 @@
+VertXThreadPoolFactory acts as a component for decorator InstrumentedThreadPoolFactory, which overrides newThreadPoolThreadPoolFactory, newCachedThreadPoolThreadPoolFactory.

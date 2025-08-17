@@ -1,0 +1,1 @@
+TestErasureCodingCLI acts as an adapter, which adapts to CLITestHelper, which adapts to CLITestHelper, which adapts to CLITestHelper, which adapts to CLITestHelper, which adapts to CLITestHelper, which adapts to CLITestHelper, which adapts to CLITestHelper, which adapts to CLITestHelper.

@@ -1,0 +1,2 @@
+XsltIncludeRelativeOtherTest acts as a publisher for observer CamelContext, which tests Xslt Include Relative Other, which creates Route Builder.
+XsltIncludeRelativeOtherTest acts as a publisher for observer Service, which tests Xslt Include Relative Other, which creates Route Builder.

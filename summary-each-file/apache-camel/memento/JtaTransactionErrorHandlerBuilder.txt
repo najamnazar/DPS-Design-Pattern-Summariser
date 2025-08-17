@@ -1,0 +1,1 @@
+JtaTransactionErrorHandlerBuilder acts as a memento.

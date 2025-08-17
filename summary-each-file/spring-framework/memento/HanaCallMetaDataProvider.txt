@@ -1,0 +1,2 @@
+HanaCallMetaDataProvider acts as a caretaker for memento Parameter, which initializes DatabaseMetaData parameter of databaseMetaData With Meta Data.
+HanaCallMetaDataProvider acts as a caretaker for memento C, which initializes DatabaseMetaData parameter of databaseMetaData With Meta Data.

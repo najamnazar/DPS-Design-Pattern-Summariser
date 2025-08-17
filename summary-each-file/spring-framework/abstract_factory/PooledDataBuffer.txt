@@ -1,0 +1,5 @@
+PooledDataBuffer acts as an abstract product for PooledDataBuffer, which is inherited by LeakAwareDataBuffer, LeakAwareDataBuffer, NettyDataBuffer, NettyDataBuffer.
+PooledDataBuffer acts as an abstract factory for PooledDataBuffer, which is inherited by LeakAwareDataBuffer, NettyDataBuffer.
+PooledDataBuffer acts as a product for DataBufferFactory, which overrides.
+PooledDataBuffer acts as a product for Encoder, which overrides.
+PooledDataBuffer acts as a product for DataBuffer, which overrides.

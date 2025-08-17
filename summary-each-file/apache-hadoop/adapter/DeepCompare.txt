@@ -1,0 +1,5 @@
+DeepCompare acts as a target for adapter ResourceUsageMetrics, which adapts to DeepCompare.
+DeepCompare acts as a target for adapter LoggedNetworkTopology, which adapts to DeepCompare.
+DeepCompare acts as a target for adapter LoggedTask, which adapts to DeepCompare.
+DeepCompare acts as a target for adapter LoggedJob, which adapts to DeepCompare.
+DeepCompare acts as a target for adapter LoggedTaskAttempt, which adapts to DeepCompare.

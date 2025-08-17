@@ -1,0 +1,1 @@
+DataFrameCallback acts as an observer for publisher SparkEndpoint, which is inherited by, which ons Dataset<Row> parameter of dataFrame, Object... parameter of payloads Data Frame.

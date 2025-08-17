@@ -1,0 +1,1 @@
+MiloServerEndpoint acts as an adapter, which adapts getComponent method of CamelServerItem to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

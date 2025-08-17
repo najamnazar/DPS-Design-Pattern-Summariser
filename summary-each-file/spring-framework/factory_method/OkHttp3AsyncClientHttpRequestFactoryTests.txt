@@ -1,0 +1,1 @@
+OkHttp3AsyncClientHttpRequestFactoryTests acts as a factory method for AsyncClientHttpRequestFactory, which is inherited by AbstractAsyncHttpRequestFactoryTests, AbstractAsyncHttpRequestFactoryTests, AbstractAsyncHttpRequestFactoryTests, AbstractAsyncHttpRequestFactoryTests.

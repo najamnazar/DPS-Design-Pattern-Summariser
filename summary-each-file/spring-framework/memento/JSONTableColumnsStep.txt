@@ -1,0 +1,2 @@
+JSONTableColumnsStep acts as a memento, which is inherited by JSONTableColumnPathStep.
+JSONTableColumnsStep acts as an originator for memento JSONTableColumnForOrdinalityStep.

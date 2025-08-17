@@ -1,0 +1,1 @@
+KafkaManualCommitFactory acts as an observer for publisher KafkaEndpoint, which is inherited by DefaultKafkaManualAsyncCommitFactory, DefaultKafkaManualCommitFactory, which news CamelExchangePayload parameter of camelExchangePayload, KafkaRecordPayload parameter of kafkaRecordPayload, CommitManager parameter of commitManager Instance.

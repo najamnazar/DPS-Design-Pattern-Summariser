@@ -1,0 +1,1 @@
+ThemeTag acts as a publisher for observer MessageSourceResolvable, which gets Message Source, which gets NoSuchMessageException parameter of ex No Such Message Exception Description.

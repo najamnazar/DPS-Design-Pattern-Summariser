@@ -1,0 +1,1 @@
+MethodBasedEvaluationContext acts as an adapter, which adapts to StandardEvaluationContext, which adapts lazyLoadArguments method of ParameterNameDiscoverer to StandardEvaluationContext.

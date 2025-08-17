@@ -1,0 +1,3 @@
+AbstractComparableTest acts as a target for adapter LocalEnumTest, which adapts to AbstractComparableTest, which adapts to AbstractComparableTest, which adapts to AbstractComparableTest.
+AbstractComparableTest acts as a target for adapter EnumTest, which adapts to AbstractComparableTest, which adapts to AbstractComparableTest, which adapts to AbstractComparableTest.
+AbstractComparableTest acts as a target for adapter AbstractNullAnnotationTest, which adapts to AbstractComparableTest, which adapts to AbstractComparableTest, which adapts to AbstractComparableTest.

@@ -1,0 +1,1 @@
+RegistryOperationsService acts as a product for AMRMProxyApplicationContextImpl, which overrides mknode method of RegistryOperations, bind method of RegistryOperations, resolve method of RegistryOperations, exists method of RegistryOperations, stat method of RegistryOperations, list method of RegistryOperations, delete method of RegistryOperations.

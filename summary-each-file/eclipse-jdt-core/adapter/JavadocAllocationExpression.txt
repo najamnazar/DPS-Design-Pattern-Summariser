@@ -1,0 +1,1 @@
+JavadocAllocationExpression acts as an adaptee for adapter CompletionOnJavadocAllocationExpression, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc.

@@ -1,0 +1,2 @@
+BodyOnlyAggregationStrategyTest acts as a caretaker for memento Producer, which exceptions Route Test, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+BodyOnlyAggregationStrategyTest acts as a caretaker for memento Context, which exceptions Route Test, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

@@ -1,0 +1,1 @@
+PathMatcher acts as an abstract product for MessageBrokerRegistry, which is inherited by AntPathMatcher.

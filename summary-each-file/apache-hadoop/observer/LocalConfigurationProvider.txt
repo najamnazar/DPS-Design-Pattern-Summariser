@@ -1,0 +1,1 @@
+LocalConfigurationProvider acts as an observer, which gets Configuration parameter of bootstrapConf, String parameter of name Configuration Input Stream, which inits Configuration parameter of bootstrapConf Internal, which closes Internal.

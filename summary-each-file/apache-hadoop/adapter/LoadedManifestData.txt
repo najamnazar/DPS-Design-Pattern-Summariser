@@ -1,0 +1,1 @@
+LoadedManifestData acts as an adaptee for adapter TestJobThroughManifestCommitter, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest.

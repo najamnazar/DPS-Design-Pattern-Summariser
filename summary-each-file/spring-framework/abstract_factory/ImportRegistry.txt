@@ -1,0 +1,1 @@
+ImportRegistry acts as an abstract factory for AnnotationMetadata, which is inherited by.

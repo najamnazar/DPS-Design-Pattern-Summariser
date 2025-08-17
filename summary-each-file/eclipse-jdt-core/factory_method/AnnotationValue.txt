@@ -1,0 +1,2 @@
+AnnotationValue acts as an abstract product for AnnotationTypeElementDeclaration, which is inherited by AnnotationValueImpl.
+AnnotationValue acts as a factory for BinaryParameterDeclarationImpl, which overrides.

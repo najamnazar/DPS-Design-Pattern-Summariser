@@ -1,0 +1,3 @@
+SmartContextLoader acts as a caretaker for memento C, which processes ContextConfigurationAttributes parameter of configAttributes Context Configuration, which loads MergedContextConfiguration parameter of mergedConfig Context.
+SmartContextLoader acts as a caretaker for memento A, which processes ContextConfigurationAttributes parameter of configAttributes Context Configuration, which loads MergedContextConfiguration parameter of mergedConfig Context.
+SmartContextLoader acts as a caretaker for memento ApplicationContext, which processes ContextConfigurationAttributes parameter of configAttributes Context Configuration, which loads MergedContextConfiguration parameter of mergedConfig Context.

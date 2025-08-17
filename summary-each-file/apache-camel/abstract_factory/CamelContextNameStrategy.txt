@@ -1,0 +1,1 @@
+CamelContextNameStrategy acts as an abstract product for CamelContextNameStrategy, which is inherited by ExplicitCamelContextNameStrategy, DefaultCamelContextNameStrategy.

@@ -1,0 +1,2 @@
+ExtendedCamelContext acts as a factory for FaultToleranceProcessorFactory, which overrides.
+ExtendedCamelContext acts as a factory for AbstractCamelContext, which overrides.

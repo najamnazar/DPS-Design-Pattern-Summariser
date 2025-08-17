@@ -1,0 +1,2 @@
+AsteriskImpl acts as a caretaker for memento A, which accepts Context<?> parameter of ctx, which excepts String... parameter of fieldNames, which excepts Name... parameter of fieldNames, which excepts Field<?>... parameter of f, which $excepts.
+AsteriskImpl acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which excepts String... parameter of fieldNames, which excepts Name... parameter of fieldNames, which excepts Field<?>... parameter of f, which $excepts.

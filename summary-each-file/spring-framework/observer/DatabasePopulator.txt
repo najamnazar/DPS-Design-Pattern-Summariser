@@ -1,0 +1,1 @@
+DatabasePopulator acts as an observer for publisher ConnectionFactoryInitializer, which is inherited by ResourceDatabasePopulator, CompositeDatabasePopulator, which populates Connection parameter of connection.

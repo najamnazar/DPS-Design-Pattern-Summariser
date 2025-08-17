@@ -1,0 +1,2 @@
+EndpointType acts as an adaptee for adapter FlinkEndpoint.
+EndpointType acts as an adaptee for adapter SparkEndpoint.

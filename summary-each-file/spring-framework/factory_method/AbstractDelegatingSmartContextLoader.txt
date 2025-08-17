@@ -1,0 +1,3 @@
+AbstractDelegatingSmartContextLoader acts as a product for AbstractDelegatingSmartContextLoader, which overrides loadContext method of SmartContextLoader.
+AbstractDelegatingSmartContextLoader acts as a factory for AbstractDelegatingSmartContextLoader, which overrides loadContext method of AbstractDelegatingSmartContextLoader.
+AbstractDelegatingSmartContextLoader acts as a factory method for SmartContextLoader, which is inherited by AbstractDelegatingSmartContextLoader, AbstractDelegatingSmartContextLoader.

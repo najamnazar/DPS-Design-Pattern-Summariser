@@ -1,0 +1,2 @@
+StAX2SAXSourceTest acts as a publisher for observer Service, which tests Default Prefix In Root Element With Copy Transformer.
+StAX2SAXSourceTest acts as a publisher for observer CamelContext, which tests Default Prefix In Root Element With Copy Transformer.

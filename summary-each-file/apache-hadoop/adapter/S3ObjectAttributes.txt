@@ -1,0 +1,1 @@
+S3ObjectAttributes acts as an adaptee for adapter ObjectInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

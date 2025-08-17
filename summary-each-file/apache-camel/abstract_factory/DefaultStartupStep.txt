@@ -1,0 +1,1 @@
+DefaultStartupStep acts as a product for StartupStepRecorder, which overrides getType method of StartupStep, getName method of StartupStep, getDescription method of StartupStep, getId method of StartupStep, getParentId method of StartupStep, getLevel method of StartupStep, getBeginTime method of StartupStep, endStep method of StartupStep.

@@ -1,0 +1,1 @@
+RenderContext acts as an abstract product for RenderContext, which is inherited by DefaultRenderContext.

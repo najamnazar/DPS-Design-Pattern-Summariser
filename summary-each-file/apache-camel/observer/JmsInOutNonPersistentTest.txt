@@ -1,0 +1,1 @@
+JmsInOutNonPersistentTest acts as a publisher for observer ArtemisService, which tests In Out Non Persistent, which gets Component Name, which creates Route Builder.

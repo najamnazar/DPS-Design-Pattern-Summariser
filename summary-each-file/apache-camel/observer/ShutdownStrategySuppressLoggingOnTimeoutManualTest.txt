@@ -1,0 +1,2 @@
+ShutdownStrategySuppressLoggingOnTimeoutManualTest acts as a publisher for observer CamelContext, which tests Suppress Logging, which creates Route Builder.
+ShutdownStrategySuppressLoggingOnTimeoutManualTest acts as a publisher for observer Service, which tests Suppress Logging, which creates Route Builder.

@@ -1,0 +1,8 @@
+Jsr14Test acts as a caretaker for memento String, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento C, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento List, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento R, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento Test, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento E, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento S, which gets Compiler Options, which suites, which test1s, which tests Class.
+Jsr14Test acts as a caretaker for memento Map, which gets Compiler Options, which suites, which test1s, which tests Class.

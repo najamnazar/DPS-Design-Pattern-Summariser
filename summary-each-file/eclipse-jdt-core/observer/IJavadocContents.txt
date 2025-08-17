@@ -1,0 +1,1 @@
+IJavadocContents acts as a publisher for observer IField, which is inherited by JavadocContents, which gets Type Doc, which gets Package Doc, which gets Module Doc, which gets IField parameter of child Field Doc, which gets IMethod parameter of child Method Doc.

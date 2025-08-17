@@ -1,0 +1,1 @@
+CassandraSessionHolder acts as an adaptee for adapter CassandraEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint.

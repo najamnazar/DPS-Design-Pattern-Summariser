@@ -1,0 +1,1 @@
+MyInOutTestConsumer acts as a publisher for observer Message, which is inherited by, which creates Random String, which ons Message parameter of message Message.

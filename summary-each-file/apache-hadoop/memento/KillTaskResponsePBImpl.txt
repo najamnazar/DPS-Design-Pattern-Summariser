@@ -1,0 +1,2 @@
+KillTaskResponsePBImpl acts as a memento, which maybes Init Builder, which maybes Init Builder.
+KillTaskResponsePBImpl acts as a caretaker for memento KillTaskResponse, which gets Proto, which maybes Init Builder.

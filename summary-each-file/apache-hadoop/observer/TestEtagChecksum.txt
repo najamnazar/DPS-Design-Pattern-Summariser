@@ -1,0 +1,1 @@
+TestEtagChecksum acts as a publisher for observer EtagChecksum, which is inherited by, which tests Empty Tags Equal, which tests Empty Tag Round Trip, which tests Valid Tags Equal, which tests Valid Tag Round Trip, which tests Valid And Empty Tags Dont Match, which tests Different Tags Dont Match, which tags String parameter of t, which rounds EtagChecksum parameter of tag Trip.

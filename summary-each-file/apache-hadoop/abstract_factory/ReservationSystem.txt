@@ -1,0 +1,2 @@
+ReservationSystem acts as an abstract factory for ReservationsACLsManager, ReservationId, Plan, which is inherited by AbstractReservationSystem.
+ReservationSystem acts as an abstract product for ReservationSystem, which is inherited by AbstractReservationSystem.

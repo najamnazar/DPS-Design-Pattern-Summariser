@@ -1,0 +1,2 @@
+FileKeepLastModifiedTest acts as a publisher for observer CamelContext, which tests Keep Last Modified, which tests Do Not Keep Last Modified, which tests Do Not Keep Last Modified Is Default, which is Use Route Builder.
+FileKeepLastModifiedTest acts as a publisher for observer Service, which tests Keep Last Modified, which tests Do Not Keep Last Modified, which tests Do Not Keep Last Modified Is Default, which is Use Route Builder.

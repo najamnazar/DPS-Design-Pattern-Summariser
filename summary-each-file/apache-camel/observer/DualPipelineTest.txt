@@ -1,0 +1,2 @@
+DualPipelineTest acts as a publisher for observer Service, which tests Dual Pipeline, which creates Route Builder.
+DualPipelineTest acts as a publisher for observer CamelContext, which tests Dual Pipeline, which creates Route Builder.

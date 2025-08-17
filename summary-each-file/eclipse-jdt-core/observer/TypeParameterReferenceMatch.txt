@@ -1,0 +1,3 @@
+TypeParameterReferenceMatch acts as a publisher for observer Object.
+TypeParameterReferenceMatch acts as a publisher for observer SearchParticipant.
+TypeParameterReferenceMatch acts as an observer.

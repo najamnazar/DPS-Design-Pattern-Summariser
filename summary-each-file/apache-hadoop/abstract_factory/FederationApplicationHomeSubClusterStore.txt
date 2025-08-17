@@ -1,0 +1,1 @@
+FederationApplicationHomeSubClusterStore acts as an abstract factory for DeleteApplicationHomeSubClusterResponse, GetApplicationHomeSubClusterResponse, UpdateApplicationHomeSubClusterResponse, AddApplicationHomeSubClusterResponse, GetApplicationsHomeSubClusterResponse, which is inherited by.

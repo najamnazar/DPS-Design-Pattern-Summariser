@@ -1,0 +1,3 @@
+LanguageSupport acts as a product for LanguageResolver, which overrides.
+LanguageSupport acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+LanguageSupport acts as a product for CamelContext, which overrides.

@@ -1,0 +1,2 @@
+BeanInjectRouteBuilderTest acts as a caretaker for memento Context, which creates Registry, which creates Camel Context, which tests Bean Inject, which creates Route Builder.
+BeanInjectRouteBuilderTest acts as a caretaker for memento Producer, which creates Registry, which creates Camel Context, which tests Bean Inject, which creates Route Builder.

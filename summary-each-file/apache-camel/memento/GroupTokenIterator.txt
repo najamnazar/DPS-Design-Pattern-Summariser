@@ -1,0 +1,1 @@
+GroupTokenIterator acts as a caretaker for memento Context, which closes, which has Next, which nexts, which does Next, which removes.

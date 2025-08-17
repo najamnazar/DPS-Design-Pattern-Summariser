@@ -1,0 +1,1 @@
+ConnectionHolder acts as a caretaker for memento Configuration, which gets Zoo Keeper, which is Connected, which awaits Connection, which processes WatchedEvent parameter of event, which closes Connection.

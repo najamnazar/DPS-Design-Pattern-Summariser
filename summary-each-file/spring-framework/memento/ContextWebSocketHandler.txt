@@ -1,0 +1,1 @@
+ContextWebSocketHandler acts as a caretaker for memento C, which gets Sub Protocols, which handles WebSocketSession parameter of session, which decorates WebSocketHandler parameter of handler, ContextView parameter of contextView.

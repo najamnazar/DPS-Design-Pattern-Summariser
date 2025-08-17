@@ -1,0 +1,2 @@
+AbstractClientHttpRequest acts as a factory for ClientHttpRequest, which overrides.
+AbstractClientHttpRequest acts as a product for MockMvcClientHttpRequestFactory, which overrides execute method of ClientHttpRequest.

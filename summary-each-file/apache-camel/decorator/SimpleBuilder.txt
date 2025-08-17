@@ -1,0 +1,2 @@
+SimpleBuilder acts as a component for decorator MockValueBuilder, which overrides toStringExpression, evaluateExpression, matchesExpression, initExpression.
+SimpleBuilder acts as a component for decorator ExpressionDefinition, which overrides toStringPredicate, evaluatePredicate, matchesPredicate, initPredicate.

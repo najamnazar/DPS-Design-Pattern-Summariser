@@ -1,0 +1,1 @@
+ClientHttpRequestFactory acts as an abstract factory for ClientHttpRequest, which is inherited by MockMvcClientHttpRequestFactory, SimpleClientHttpRequestFactory, OkHttp3ClientHttpRequestFactory, AbstractClientHttpRequestFactoryWrapper, HttpComponentsClientHttpRequestFactory, Netty4ClientHttpRequestFactory.

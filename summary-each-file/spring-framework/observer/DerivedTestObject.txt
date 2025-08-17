@@ -1,0 +1,2 @@
+DerivedTestObject acts as an observer.
+DerivedTestObject acts as a publisher for observer TestObject.

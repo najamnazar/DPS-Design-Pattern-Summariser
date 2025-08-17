@@ -1,0 +1,1 @@
+UpdateMountTableEntryRequest acts as a publisher for observer MountTable, which is inherited by UpdateMountTableEntryRequestPBImpl, which news Instance, which news MountTable parameter of entry Instance, which gets Entry, which sets MountTable parameter of mount Entry.

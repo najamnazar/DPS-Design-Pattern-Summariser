@@ -1,0 +1,2 @@
+RecoveredImport acts as a caretaker for memento E, which parses Tree, which sources End, which tos int parameter of tab String, which updates Import Reference, which updates Parse Tree, which updates int parameter of bodyStart, int parameter of bodyEnd Source End If Necessary.
+RecoveredImport acts as a caretaker for memento R, which parses Tree, which sources End, which tos int parameter of tab String, which updates Import Reference, which updates Parse Tree, which updates int parameter of bodyStart, int parameter of bodyEnd Source End If Necessary.

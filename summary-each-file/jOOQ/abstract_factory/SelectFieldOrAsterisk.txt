@@ -1,0 +1,3 @@
+SelectFieldOrAsterisk acts as a product for VisitContext, which overrides.
+SelectFieldOrAsterisk acts as a product for Context, which overrides.
+SelectFieldOrAsterisk acts as a product for DiagnosticsContext, which overrides.

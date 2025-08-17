@@ -1,0 +1,1 @@
+ImmutableMessageChannelInterceptor acts as an observer, which pres Message<?> parameter of message, MessageChannel parameter of channel Send.

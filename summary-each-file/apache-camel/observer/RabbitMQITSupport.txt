@@ -1,0 +1,5 @@
+RabbitMQITSupport acts as a publisher for observer ConsumerTemplate, which creates Connection Factory, which creates Camel Context.
+RabbitMQITSupport acts as a publisher for observer FluentProducerTemplate, which creates Connection Factory, which creates Camel Context.
+RabbitMQITSupport acts as a publisher for observer Service, which creates Connection Factory, which creates Camel Context.
+RabbitMQITSupport acts as a publisher for observer CamelContext, which creates Connection Factory, which creates Camel Context.
+RabbitMQITSupport acts as a publisher for observer ProducerTemplate, which creates Connection Factory, which creates Camel Context.

@@ -1,0 +1,1 @@
+ScpEndpoint acts as a caretaker for memento Configuration, which gets Configuration, which builds Processor parameter of processor Consumer, which builds Producer, which creates Remote File Operations, which creates Generic File Strategy, which gets Scheme, which gets Temp File Name.

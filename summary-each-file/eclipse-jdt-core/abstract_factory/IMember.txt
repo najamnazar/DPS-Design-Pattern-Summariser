@@ -1,0 +1,10 @@
+IMember acts as a product for IJavaElementDelta, which overrides.
+IMember acts as a product for IBinding, which overrides.
+IMember acts as an abstract factory for ICompilationUnit, IClassFile, ITypeRoot, IType, ISourceRange, which is inherited by Member.
+IMember acts as a product for IJavaElement, which overrides.
+IMember acts as a product for IWorkingCopy, which overrides.
+IMember acts as a product for IClassFile, which overrides.
+IMember acts as a product for IJavaProject, which overrides.
+IMember acts as an abstract product for IMember, which is inherited by IInitializer, IType, IModuleDescription, IField, IMethod, Member.
+IMember acts as a product for IDOMNode, which overrides.
+IMember acts as a product for ITypeRoot, which overrides.

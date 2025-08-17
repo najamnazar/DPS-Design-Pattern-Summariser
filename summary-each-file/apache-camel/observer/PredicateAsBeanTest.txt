@@ -1,0 +1,2 @@
+PredicateAsBeanTest acts as a publisher for observer CamelContext, which tests Send Message, which creates Registry, which creates Route Builder, which matches Exchange parameter of exchange.
+PredicateAsBeanTest acts as a publisher for observer Service, which tests Send Message, which creates Registry, which creates Route Builder, which matches Exchange parameter of exchange.

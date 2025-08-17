@@ -1,0 +1,1 @@
+ManagedRemoveHeaders acts as a publisher for observer Route, which gets Pattern, which gets Exclude Pattern.

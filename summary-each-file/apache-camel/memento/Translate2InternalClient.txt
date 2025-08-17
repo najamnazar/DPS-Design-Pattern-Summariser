@@ -1,0 +1,1 @@
+Translate2InternalClient acts as a memento, which is inherited by Translate2ClientIAMOptimized, Translate2ClientStandardImpl, which gets Translate Client.

@@ -1,0 +1,1 @@
+DefaultParameterDefinition acts as a product for MySQLRoutineDefinition, which overrides isDefaulted method of ParameterDefinition, isUnnamed method of ParameterDefinition, isSynthetic method of ParameterDefinition.

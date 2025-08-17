@@ -1,0 +1,1 @@
+SmppDataSmCommandTest acts as a caretaker for memento Configuration, which sets Up Before Class, which tears Down After Class, which sets Up, which executes With Configuration Data, which executes, which executes With Optional Parameter, which executes With Optional Parameter New Style.

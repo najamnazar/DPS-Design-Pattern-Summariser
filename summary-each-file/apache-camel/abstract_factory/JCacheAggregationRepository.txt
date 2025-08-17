@@ -1,0 +1,2 @@
+JCacheAggregationRepository acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+JCacheAggregationRepository acts as a factory for OptimisticLockingAggregationRepository, which overrides add method of OptimisticLockingAggregationRepository, remove method of OptimisticLockingAggregationRepository.

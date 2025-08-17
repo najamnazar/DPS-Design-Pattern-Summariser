@@ -1,0 +1,1 @@
+ExchangeFormatter acts as an abstract product for LogComponent, which is inherited by DefaultExchangeFormatter, TestExchangeFormatter.

@@ -1,0 +1,1 @@
+DefaultPGPPassphraseAccessor acts as a product for PGPDataFormatTest, which overrides getPassphrase method of PGPPassphraseAccessor.

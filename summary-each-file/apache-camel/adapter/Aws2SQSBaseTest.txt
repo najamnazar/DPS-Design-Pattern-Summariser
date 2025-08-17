@@ -1,0 +1,2 @@
+Aws2SQSBaseTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+Aws2SQSBaseTest acts as a target for adapter SqsDeadletterWithClientRegistryLocalstackIT, which adapts to Aws2SQSBaseTest, which adapts to Aws2SQSBaseTest.

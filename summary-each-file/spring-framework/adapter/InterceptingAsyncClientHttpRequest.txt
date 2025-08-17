@@ -1,0 +1,1 @@
+InterceptingAsyncClientHttpRequest acts as an adapter, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest.

@@ -1,0 +1,1 @@
+PropertyEditorRegistrySupport acts as a product for BindingResult, which overrides registerCustomEditor method of PropertyEditorRegistry, registerCustomEditor method of PropertyEditorRegistry, findCustomEditor method of PropertyEditorRegistry.

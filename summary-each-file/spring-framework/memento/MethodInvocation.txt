@@ -1,0 +1,1 @@
+MethodInvocation acts as a memento, which is inherited by ProxyMethodInvocation, which gets Method.

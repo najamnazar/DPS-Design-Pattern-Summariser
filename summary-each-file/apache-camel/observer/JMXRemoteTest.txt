@@ -1,0 +1,2 @@
+JMXRemoteTest acts as a publisher for observer DefaultCamelContext, which tears Down, which inits Server, which builds From URI, which notifications.
+JMXRemoteTest acts as a publisher for observer SimpleRegistry, which tears Down, which inits Server, which builds From URI, which notifications.

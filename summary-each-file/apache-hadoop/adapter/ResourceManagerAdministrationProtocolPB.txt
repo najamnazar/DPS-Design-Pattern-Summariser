@@ -1,0 +1,1 @@
+ResourceManagerAdministrationProtocolPB acts as an adaptee for adapter ResourceManagerAdministrationProtocolPBClientImpl.

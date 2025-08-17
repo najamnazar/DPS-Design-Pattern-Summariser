@@ -1,0 +1,1 @@
+TaskNamespaceHandler acts as a caretaker for memento B, which inits.

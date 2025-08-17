@@ -1,0 +1,2 @@
+GoogleBigQuerySQLComponentTest acts as a caretaker for memento Context, which tests Query Set, which tests Query From Resource Set.
+GoogleBigQuerySQLComponentTest acts as a caretaker for memento Producer, which tests Query Set, which tests Query From Resource Set.

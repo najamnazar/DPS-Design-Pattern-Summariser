@@ -1,0 +1,2 @@
+MappingException acts as a product for LoaderError, which overrides.
+MappingException acts as a product for ResultOrRows, which overrides.

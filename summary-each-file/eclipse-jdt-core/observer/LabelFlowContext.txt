@@ -1,0 +1,1 @@
+LabelFlowContext acts as a publisher for observer FlowInfo, which checks BlockScope parameter of scope Label Validity, which individuals To String, which labels Name.

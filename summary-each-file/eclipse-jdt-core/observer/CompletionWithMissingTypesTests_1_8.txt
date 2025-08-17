@@ -1,0 +1,2 @@
+CompletionWithMissingTypesTests_1_8 acts as a publisher for observer ICompilationUnit, which sets Up Suite, which suites, which tests Static Interface Method.
+CompletionWithMissingTypesTests_1_8 acts as a publisher for observer String, which sets Up Suite, which suites, which tests Static Interface Method.

@@ -1,0 +1,5 @@
+SqsProducerBatchTest acts as a publisher for observer CamelContext, which sends Batch Message, which creates Route Builder.
+SqsProducerBatchTest acts as a publisher for observer FluentProducerTemplate, which sends Batch Message, which creates Route Builder.
+SqsProducerBatchTest acts as a publisher for observer Service, which sends Batch Message, which creates Route Builder.
+SqsProducerBatchTest acts as a publisher for observer ProducerTemplate, which sends Batch Message, which creates Route Builder.
+SqsProducerBatchTest acts as a publisher for observer ConsumerTemplate, which sends Batch Message, which creates Route Builder.

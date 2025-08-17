@@ -1,0 +1,1 @@
+SQLCatalogVersionProvider acts as a caretaker for memento C, which versions CatalogDefinition parameter of catalog.

@@ -1,0 +1,1 @@
+VariablesInfo acts as a publisher for observer GlobalVariable, which is inherited by, which indexes GlobalVariable parameter of var Of, which vars char[] parameter of name Named.

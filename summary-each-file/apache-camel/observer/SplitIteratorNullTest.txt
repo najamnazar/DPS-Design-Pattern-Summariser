@@ -1,0 +1,2 @@
+SplitIteratorNullTest acts as a publisher for observer CamelContext, which tests Split Iterator Null, which creates Route Builder, which has Next, which nexts, which is Null Returned, which removes, which fors Consumer<? parameter of super Each Remaining.
+SplitIteratorNullTest acts as a publisher for observer Service, which tests Split Iterator Null, which creates Route Builder, which has Next, which nexts, which is Null Returned, which removes, which fors Consumer<? parameter of super Each Remaining.

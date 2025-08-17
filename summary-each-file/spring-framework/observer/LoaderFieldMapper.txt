@@ -1,0 +1,1 @@
+LoaderFieldMapper acts as an observer for publisher LoaderImpl, which is inherited by, which maps LoaderFieldContext parameter of ctx, which fields, which indexes.

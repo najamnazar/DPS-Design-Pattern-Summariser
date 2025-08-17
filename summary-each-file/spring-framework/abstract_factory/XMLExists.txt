@@ -1,0 +1,1 @@
+XMLExists acts as a factory for XMLExistsPassingStep, which overrides passing method of XMLExistsPassingStep, passing method of XMLExistsPassingStep, passingByRef method of XMLExistsPassingStep, passingByRef method of XMLExistsPassingStep, passingByValue method of XMLExistsPassingStep, passingByValue method of XMLExistsPassingStep.

@@ -1,0 +1,2 @@
+EnumConverterTest acts as a publisher for observer CamelContext, which tests Mandatory Convert Enum, which tests Mandatory Convert With Exchange Enum, which tests Case Insensitive, which tests Mandatory Convert Failed, which tests Camel Cash.
+EnumConverterTest acts as a publisher for observer Service, which tests Mandatory Convert Enum, which tests Mandatory Convert With Exchange Enum, which tests Case Insensitive, which tests Mandatory Convert Failed, which tests Camel Cash.

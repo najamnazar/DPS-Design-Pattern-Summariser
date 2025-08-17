@@ -1,0 +1,1 @@
+ConfigurationClassAndBFPPTests acts as a caretaker for memento B, which autowirings Fails With BFPPAs Instance Method, which autowirings Succeeds With BFPPAs Static Method, which tests Bean, which bfpps, which bfpps, which statices Bean Methods Do Not Respect Scoping, which tests Bean.

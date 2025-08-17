@@ -1,0 +1,2 @@
+AbstractGenericContextLoader acts as a factory for AnnotationNamespaceDrivenTests, which overrides.
+AbstractGenericContextLoader acts as a factory for GenericPropertiesContextLoader, which overrides.

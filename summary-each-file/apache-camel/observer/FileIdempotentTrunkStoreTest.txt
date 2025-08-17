@@ -1,0 +1,2 @@
+FileIdempotentTrunkStoreTest acts as a publisher for observer CamelContext, which tests Trunk File Store, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.
+FileIdempotentTrunkStoreTest acts as a publisher for observer Service, which tests Trunk File Store, which sends final parameter of Object, final parameter of Object Message, which sets Up, which creates Route Builder.

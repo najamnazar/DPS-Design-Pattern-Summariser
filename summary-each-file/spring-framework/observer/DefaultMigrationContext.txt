@@ -1,0 +1,1 @@
+DefaultMigrationContext acts as a publisher for observer Query, which is inherited by, which migrateds Schemas, which migrations From, which migrations To, which migrations Queries, which querieses From, which querieses To, which querieses, which queries, which queries Query parameter of q.

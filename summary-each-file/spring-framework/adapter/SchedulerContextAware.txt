@@ -1,0 +1,1 @@
+SchedulerContextAware acts as an adaptee for adapter SpringBeanJobFactory, which adapts to AdaptableJobFactory.

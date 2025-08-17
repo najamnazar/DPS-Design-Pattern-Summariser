@@ -1,0 +1,3 @@
+MessageBrokerBeanDefinitionParserTests acts as a factory for WebSocketHandlerDecoratorFactory, which overrides decorate method of WebSocketHandlerDecoratorFactory.
+MessageBrokerBeanDefinitionParserTests acts as a product for WebMvcConfigurer, which overrides supports method of Validator.
+MessageBrokerBeanDefinitionParserTests acts as a product for WebFluxConfigurer, which overrides supports method of Validator.

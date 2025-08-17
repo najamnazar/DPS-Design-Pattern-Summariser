@@ -1,0 +1,1 @@
+ChildData acts as an observer for publisher ZooKeeperGroup, which is inherited by, which compares ChildData parameter of rhs To, which equals Object parameter of o, which hashes Code, which gets Path, which gets Stat, which gets Data, which gets Node, which tos String.

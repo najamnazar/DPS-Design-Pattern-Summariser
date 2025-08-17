@@ -1,0 +1,1 @@
+InterfaceDeclaration acts as an abstract product for InterfaceType, which is inherited by InterfaceDeclarationImpl.

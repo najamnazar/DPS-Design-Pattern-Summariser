@@ -1,0 +1,2 @@
+EnricherNoResourceTest acts as a publisher for observer CamelContext, which tests No Resource A, which creates Route Builder.
+EnricherNoResourceTest acts as a publisher for observer Service, which tests No Resource A, which creates Route Builder.

@@ -1,0 +1,1 @@
+DefaultGroupFactoryStrategy acts as a factory for ManagedGroupFactoryStrategy, which overrides createGroupFactory method of ManagedGroupFactoryStrategy.

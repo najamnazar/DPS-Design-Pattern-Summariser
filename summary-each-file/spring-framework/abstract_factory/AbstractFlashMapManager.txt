@@ -1,0 +1,1 @@
+AbstractFlashMapManager acts as a factory for FlashMapManager, which overrides retrieveAndUpdate method of FlashMapManager, saveOutputFlashMap method of FlashMapManager.

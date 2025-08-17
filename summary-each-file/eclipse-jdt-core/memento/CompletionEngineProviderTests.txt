@@ -1,0 +1,5 @@
+CompletionEngineProviderTests acts as a caretaker for memento List, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Always Provides Same Result.
+CompletionEngineProviderTests acts as a caretaker for memento S, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Always Provides Same Result.
+CompletionEngineProviderTests acts as a caretaker for memento C, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Always Provides Same Result.
+CompletionEngineProviderTests acts as a caretaker for memento String, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Always Provides Same Result.
+CompletionEngineProviderTests acts as a caretaker for memento ICompilationUnit, which suites, which sets Up Suite, which sets Up, which tears Down, which tests Always Provides Same Result.

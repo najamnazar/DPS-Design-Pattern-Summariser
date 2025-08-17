@@ -1,0 +1,2 @@
+MarshallingMessageConverter acts as a factory for MessageConverter, which overrides toMessage method of MessageConverter, fromMessage method of MessageConverter.
+MarshallingMessageConverter acts as a product for MessageListenerContainer, which overrides toMessage method of MessageConverter, fromMessage method of MessageConverter.

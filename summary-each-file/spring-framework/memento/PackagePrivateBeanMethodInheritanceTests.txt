@@ -1,0 +1,2 @@
+PackagePrivateBeanMethodInheritanceTests acts as a caretaker for memento B, which repros, which workarounds, which foo1s, which foo2s, which foo1s, which foo2s.
+PackagePrivateBeanMethodInheritanceTests acts as a caretaker for memento Bar, which repros, which workarounds, which foo1s, which foo2s, which foo1s, which foo2s.

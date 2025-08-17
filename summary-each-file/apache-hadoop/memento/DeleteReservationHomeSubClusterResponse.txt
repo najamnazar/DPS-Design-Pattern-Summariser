@@ -1,0 +1,2 @@
+DeleteReservationHomeSubClusterResponse acts as an originator for memento DeleteReservationHomeSubClusterResponse, which is inherited by, which news a DeleteReservationHomeSubClusterResponse Instance to.
+DeleteReservationHomeSubClusterResponse acts as a memento, which is inherited by DeleteReservationHomeSubClusterResponsePBImpl, which news Instance.

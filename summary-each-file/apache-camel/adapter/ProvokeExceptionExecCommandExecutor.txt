@@ -1,0 +1,1 @@
+ProvokeExceptionExecCommandExecutor acts as an adaptee for adapter ExecJavaProcessTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

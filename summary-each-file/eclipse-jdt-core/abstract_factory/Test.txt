@@ -1,0 +1,1 @@
+Test acts as an abstract product for Test, which is inherited by TestCase, TestDecorator, TestSuite.

@@ -1,0 +1,3 @@
+ServiceRegistry acts as an adaptee for adapter ServiceConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+ServiceRegistry acts as an adaptee for adapter ServiceRegistrationRoutePolicy, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport.
+ServiceRegistry acts as an adaptee for adapter ServiceEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

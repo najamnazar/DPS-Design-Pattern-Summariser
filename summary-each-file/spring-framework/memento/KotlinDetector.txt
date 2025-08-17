@@ -1,0 +1,2 @@
+KotlinDetector acts as a caretaker for memento C, which is Kotlin Present, which is Kotlin Reflect Present, which is Class<?> parameter of clazz Kotlin Type, which is Method parameter of method Suspending Function.
+KotlinDetector acts as a caretaker for memento A, which is Kotlin Present, which is Kotlin Reflect Present, which is Class<?> parameter of clazz Kotlin Type, which is Method parameter of method Suspending Function.

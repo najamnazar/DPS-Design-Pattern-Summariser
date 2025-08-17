@@ -1,0 +1,2 @@
+ErrorHandler acts as an observer.
+ErrorHandler acts as an observer for publisher XMLReaderPool, which is inherited by NoErrorHandler, ErrorHandlerSupport, MyErrorHandler, ValidatorErrorHandler, DefaultSpringErrorHandler, FatalFallbackErrorHandler, DefaultTransformErrorHandler.

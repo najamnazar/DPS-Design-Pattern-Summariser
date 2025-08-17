@@ -1,0 +1,1 @@
+MapStructMapperFinder acts as an adaptee for adapter MapstructComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

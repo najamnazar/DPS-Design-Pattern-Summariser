@@ -1,0 +1,2 @@
+FieldInfoWithAnnotation acts as an adapter, which adapts to FieldInfo, which adapts to FieldInfo, which adapts to FieldInfo, which adapts to FieldInfo.
+FieldInfoWithAnnotation acts as a target for adapter FieldInfoWithTypeAnnotation, which adapts to FieldInfoWithAnnotation, which adapts initialize method of TypeAnnotationInfo to FieldInfoWithAnnotation, which adapts reset method of TypeAnnotationInfo to FieldInfoWithAnnotation, which adapts to FieldInfoWithAnnotation.

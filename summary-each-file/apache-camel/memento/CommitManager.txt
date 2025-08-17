@@ -1,0 +1,1 @@
+CommitManager acts as an originator for memento KafkaManualCommit, which is inherited by, which gets a KafkaManualCommit Manual Commit to.

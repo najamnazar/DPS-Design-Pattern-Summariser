@@ -1,0 +1,1 @@
+NormalizedUriPropertyPlaceholderTest acts as an adapter, which adapts to BaseEndpointDslTest, which adapts to BaseEndpointDslTest, which adapts to BaseEndpointDslTest.

@@ -1,0 +1,1 @@
+CachedCxfPayload acts as a component for decorator StreamSourceCache, which overrides resetStreamCache, writeToStreamCache, inMemoryStreamCache, lengthStreamCache, copyStreamCache.

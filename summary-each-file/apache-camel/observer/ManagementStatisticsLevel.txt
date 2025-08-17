@@ -1,0 +1,1 @@
+ManagementStatisticsLevel acts as an observer for publisher DefaultManagementAgent, which is inherited by, which is Default Or Extended, which is Extended.

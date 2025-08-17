@@ -1,0 +1,4 @@
+PTBKeyHashCalculationTest acts as a caretaker for memento Test, which suites, which sets Up, which tears Down, which tests Hash Calculation.
+PTBKeyHashCalculationTest acts as a caretaker for memento S, which suites, which sets Up, which tears Down, which tests Hash Calculation.
+PTBKeyHashCalculationTest acts as a caretaker for memento String, which suites, which sets Up, which tears Down, which tests Hash Calculation.
+PTBKeyHashCalculationTest acts as a caretaker for memento E, which suites, which sets Up, which tears Down, which tests Hash Calculation.

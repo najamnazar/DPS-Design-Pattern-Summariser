@@ -1,0 +1,9 @@
+Jt400TestSupport acts as a target for adapter Jt400ConfigurationTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400ComponentDefaultSecureConnectionPoolTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400ConfigurationConnectionTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400SrvPgmEndpointTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400ComponentTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400EndpointTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400DataQueueProducerTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400ComponentDefaultConnectionPoolTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.
+Jt400TestSupport acts as a target for adapter Jt400PgmEndpointTest, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.

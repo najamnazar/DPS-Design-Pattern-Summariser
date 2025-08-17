@@ -1,0 +1,5 @@
+PgEventITSupport acts as a publisher for observer Service, which creates Local Service, which gets Mapped Port, which gets Host.
+PgEventITSupport acts as a publisher for observer ProducerTemplate, which creates Local Service, which gets Mapped Port, which gets Host.
+PgEventITSupport acts as a publisher for observer ConsumerTemplate, which creates Local Service, which gets Mapped Port, which gets Host.
+PgEventITSupport acts as a publisher for observer CamelContext, which creates Local Service, which gets Mapped Port, which gets Host.
+PgEventITSupport acts as a publisher for observer FluentProducerTemplate, which creates Local Service, which gets Mapped Port, which gets Host.

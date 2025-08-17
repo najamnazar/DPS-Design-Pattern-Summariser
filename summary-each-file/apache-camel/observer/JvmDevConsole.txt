@@ -1,0 +1,1 @@
+JvmDevConsole acts as a publisher for observer CamelContext, which is Show Classpath, which sets boolean parameter of showClasspath Show Classpath, which does Map<String, parameter of Object> Call Text, which does Map<String, parameter of Object> Call Json.

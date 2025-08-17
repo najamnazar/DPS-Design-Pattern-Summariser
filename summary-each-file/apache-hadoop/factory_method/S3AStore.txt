@@ -1,0 +1,3 @@
+S3AStore acts as a factory for BlockManagerParameters, which overrides.
+S3AStore acts as a factory for S3AStoreImpl, which overrides.
+S3AStore acts as an abstract product for S3AStoreBuilder, which is inherited by S3AStoreImpl.

@@ -1,0 +1,1 @@
+WebSocketHandlerDecoratorFactory acts as an abstract factory for WebSocketHandler, which is inherited by MessageBrokerBeanDefinitionParserTests.

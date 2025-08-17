@@ -1,0 +1,1 @@
+AbstractObjectInputStreamFactory acts as a publisher for observer Configuration, which binds final parameter of FactoryBindingParameters, which has final parameter of String Capability, which callbackses.

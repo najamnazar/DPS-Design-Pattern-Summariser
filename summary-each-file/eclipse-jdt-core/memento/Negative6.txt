@@ -1,0 +1,1 @@
+Negative6 acts as an originator for memento String, which method2s String, which method3s String.

@@ -1,0 +1,1 @@
+ConsumerHealthCheck acts as an adapter, which adapts to RouteHealthCheck.

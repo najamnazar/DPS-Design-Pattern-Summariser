@@ -1,0 +1,1 @@
+TestYarnClient acts as a factory method for ApplicationClientProtocol, which is inherited by ACLsTestBase, FederationClientInterceptor, ACLsTestBase, RMDelegationTokenIdentifier, AggregatedLogDeletionService, ACLsTestBase.

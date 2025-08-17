@@ -1,0 +1,1 @@
+Theme acts as an observer for publisher ResourceBundleThemeSource, which is inherited by SimpleTheme, which gets Name, which gets Message Source.

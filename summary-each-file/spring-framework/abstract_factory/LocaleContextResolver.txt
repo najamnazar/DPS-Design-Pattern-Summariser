@@ -1,0 +1,2 @@
+LocaleContextResolver acts as an abstract product for LocaleContextResolver, which is inherited by CookieLocaleResolver, AcceptHeaderLocaleContextResolver, FixedLocaleContextResolver, AbstractLocaleContextResolver.
+LocaleContextResolver acts as an abstract factory for LocaleContext, which is inherited by CookieLocaleResolver, AcceptHeaderLocaleContextResolver, FixedLocaleContextResolver, AbstractLocaleContextResolver.

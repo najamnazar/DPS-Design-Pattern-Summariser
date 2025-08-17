@@ -1,0 +1,1 @@
+ConsumerEndpointMappingByBeanNameRouteTest acts as a caretaker for memento Context, which sets Up, which tests Bean Name, which creates Application Context.

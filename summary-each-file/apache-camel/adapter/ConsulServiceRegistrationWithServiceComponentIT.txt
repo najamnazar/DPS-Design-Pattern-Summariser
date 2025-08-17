@@ -1,0 +1,1 @@
+ConsulServiceRegistrationWithServiceComponentIT acts as an adapter, which adapts to ConsulServiceRegistrationTestBase, which adapts to ConsulServiceRegistrationTestBase.

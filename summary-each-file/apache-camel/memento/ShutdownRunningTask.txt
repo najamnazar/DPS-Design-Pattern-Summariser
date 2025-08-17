@@ -1,0 +1,1 @@
+ShutdownRunningTask acts as a memento.

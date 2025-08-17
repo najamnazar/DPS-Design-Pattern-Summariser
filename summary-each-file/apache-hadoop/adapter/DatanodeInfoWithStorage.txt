@@ -1,0 +1,1 @@
+DatanodeInfoWithStorage acts as an adapter, which adapts to DatanodeInfo, which adapts to DatanodeInfo, which adapts to DatanodeInfo, which adapts to DatanodeInfo, which adapts to DatanodeInfo.

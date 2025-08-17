@@ -1,0 +1,3 @@
+ServiceSupport acts as an adaptee for adapter AbstractCamelClusterService.
+ServiceSupport acts as an adaptee for adapter TomcatReactiveExecutor.
+ServiceSupport acts as an adaptee for adapter DefaultReactiveExecutor.

@@ -1,0 +1,1 @@
+SockJsSession acts as an observer, which gets Time Since Last Active, which disables Heartbeat.

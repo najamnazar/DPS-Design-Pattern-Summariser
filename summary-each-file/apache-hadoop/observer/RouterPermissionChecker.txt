@@ -1,0 +1,2 @@
+RouterPermissionChecker acts as a publisher for observer INode, which checks MountTable parameter of mountTable, FsAction parameter of access Permission, which checks Superuser Privilege.
+RouterPermissionChecker acts as a publisher for observer UserGroupInformation, which checks MountTable parameter of mountTable, FsAction parameter of access Permission, which checks Superuser Privilege.

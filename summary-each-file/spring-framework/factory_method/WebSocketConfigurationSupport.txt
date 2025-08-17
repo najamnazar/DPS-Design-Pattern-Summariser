@@ -1,0 +1,2 @@
+WebSocketConfigurationSupport acts as a factory method for HandlerMapping, which is inherited by WebSocketConfigurationSupport, WebMvcConfigurationSupport, WebFluxConfigurationSupport, WebSocketMessageBrokerConfigurationSupport.
+WebSocketConfigurationSupport acts as a factory for WebSocketConfigurationSupport, which overrides.

@@ -1,0 +1,1 @@
+TransactionalOperatorImpl acts as a product for TransactionalOperator, which overrides transactional method of TransactionalOperator, execute method of TransactionalOperator.

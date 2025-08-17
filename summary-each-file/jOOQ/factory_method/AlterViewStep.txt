@@ -1,0 +1,2 @@
+AlterViewStep acts as a factory for AlterViewStep, which overrides.
+AlterViewStep acts as a factory method for AlterViewFinalStep, which is inherited by AlterViewStep.

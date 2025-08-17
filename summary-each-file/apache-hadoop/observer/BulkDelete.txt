@@ -1,0 +1,1 @@
+BulkDelete acts as an observer, which pages Size, which bases Path, which bulks Collection<Path> parameter of paths Delete.

@@ -1,0 +1,1 @@
+FileToCxfMessageDataFormatTest acts as an adapter, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport, which adapts createBody method of Server to CamelSpringTestSupport.

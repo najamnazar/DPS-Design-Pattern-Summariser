@@ -1,0 +1,5 @@
+AsteriskConsumerTest acts as a publisher for observer ProducerTemplate, which tests Receive Traps, which tests Start Route, which creates Route Builder.
+AsteriskConsumerTest acts as a publisher for observer FluentProducerTemplate, which tests Receive Traps, which tests Start Route, which creates Route Builder.
+AsteriskConsumerTest acts as a publisher for observer Service, which tests Receive Traps, which tests Start Route, which creates Route Builder.
+AsteriskConsumerTest acts as a publisher for observer ConsumerTemplate, which tests Receive Traps, which tests Start Route, which creates Route Builder.
+AsteriskConsumerTest acts as a publisher for observer CamelContext, which tests Receive Traps, which tests Start Route, which creates Route Builder.

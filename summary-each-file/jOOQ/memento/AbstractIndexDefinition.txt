@@ -1,0 +1,4 @@
+AbstractIndexDefinition acts as a caretaker for memento ColumnDefinition, which gets Definition Path, which gets Table, which gets Index Columns, which gets Index Columns0, which is Unique.
+AbstractIndexDefinition acts as a caretaker for memento PackageDefinition, which gets Definition Path, which gets Table, which gets Index Columns, which gets Index Columns0, which is Unique.
+AbstractIndexDefinition acts as a caretaker for memento Package, which gets Definition Path, which gets Table, which gets Index Columns, which gets Index Columns0, which is Unique.
+AbstractIndexDefinition acts as a caretaker for memento Index, which gets Definition Path, which gets Table, which gets Index Columns, which gets Index Columns0, which is Unique.

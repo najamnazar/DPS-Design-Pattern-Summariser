@@ -1,0 +1,4 @@
+ExceptionTestCase acts as a caretaker for memento C, which runs Test.
+ExceptionTestCase acts as a caretaker for memento Class, which runs Test.
+ExceptionTestCase acts as a caretaker for memento String, which runs Test.
+ExceptionTestCase acts as a caretaker for memento S, which runs Test.

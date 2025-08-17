@@ -1,0 +1,5 @@
+OAIPMHComponentProducerOnlyFirstLoopTest acts as a publisher for observer FluentProducerTemplate, which starts Server, which stops Server, which tests OAIPMH, which creates Route Builder.
+OAIPMHComponentProducerOnlyFirstLoopTest acts as a publisher for observer ConsumerTemplate, which starts Server, which stops Server, which tests OAIPMH, which creates Route Builder.
+OAIPMHComponentProducerOnlyFirstLoopTest acts as a publisher for observer Service, which starts Server, which stops Server, which tests OAIPMH, which creates Route Builder.
+OAIPMHComponentProducerOnlyFirstLoopTest acts as a publisher for observer ProducerTemplate, which starts Server, which stops Server, which tests OAIPMH, which creates Route Builder.
+OAIPMHComponentProducerOnlyFirstLoopTest acts as a publisher for observer CamelContext, which starts Server, which stops Server, which tests OAIPMH, which creates Route Builder.

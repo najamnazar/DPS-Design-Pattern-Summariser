@@ -1,0 +1,2 @@
+BeanExpression acts as a component for decorator MockValueBuilder, which overrides initExpression, toStringExpression, evaluateExpression, matchesExpression.
+BeanExpression acts as a component for decorator ExpressionDefinition, which overrides initPredicate, toStringPredicate, evaluatePredicate, matchesPredicate.

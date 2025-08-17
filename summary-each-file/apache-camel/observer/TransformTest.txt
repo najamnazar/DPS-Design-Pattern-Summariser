@@ -1,0 +1,2 @@
+TransformTest acts as a publisher for observer CamelContext, which tests Sending AMessage Using Multicast Receives Its Own Exchange, which sets Up, which creates Route Builder.
+TransformTest acts as a publisher for observer Service, which tests Sending AMessage Using Multicast Receives Its Own Exchange, which sets Up, which creates Route Builder.

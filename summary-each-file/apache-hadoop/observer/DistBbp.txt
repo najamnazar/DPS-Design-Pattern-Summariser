@@ -1,0 +1,1 @@
+DistBbp acts as a publisher for observer Configuration, which runs String[] parameter of args, which executes DistSum parameter of distsum, final parameter of Map<Bellard.Parameter, which mains String[] parameter of args.

@@ -1,0 +1,1 @@
+MessageLossSimulator acts as a publisher for observer Message, which is inherited by, which gets Object parameter of map Action, which handles Message parameter of message Message, which ons First Write, which writes int parameter of b.

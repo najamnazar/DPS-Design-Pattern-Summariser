@@ -1,0 +1,2 @@
+AssistImportContainer acts as a caretaker for memento E, which gets IProgressMonitor parameter of monitor Element Info, which gets String parameter of importName, boolean parameter of isOnDemand Import.
+AssistImportContainer acts as a caretaker for memento Map, which gets IProgressMonitor parameter of monitor Element Info, which gets String parameter of importName, boolean parameter of isOnDemand Import.

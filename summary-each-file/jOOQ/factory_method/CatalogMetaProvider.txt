@@ -1,0 +1,1 @@
+CatalogMetaProvider acts as a factory method for Meta, which is inherited by AbstractMeta, MetaProvider, DSLContext, Meta, AbstractMeta, Version, JDBCDatabase, MetaProvider, AbstractMeta, MetaProvider, MetaProvider, AbstractMeta, MetaProvider, DefaultDSLContext, AbstractMetaDatabase, MetaProvider, Commit, MetaProvider, MetaProvider, AbstractMeta, DSLContext, AbstractMeta.

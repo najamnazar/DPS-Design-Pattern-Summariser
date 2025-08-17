@@ -1,0 +1,1 @@
+TestHealthMonitor acts as a publisher for observer HealthMonitor, which is inherited by TestHealthMonitorWithDedicatedHealthAddress, which setups HM, which creates Dummy HAService, which tests Monitor, which tests Health Monitor Dies, which tests Callback Throws RTE, which waits HealthMonitor parameter of hm, State parameter of state For State.

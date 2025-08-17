@@ -1,0 +1,2 @@
+PublishedEvents acts as a factory for PublishedEventsExtension, which overrides.
+PublishedEvents acts as an abstract product for PublishedEventsExtension, which is inherited by DefaultPublishedEvents.

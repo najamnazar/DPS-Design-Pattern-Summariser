@@ -1,0 +1,3 @@
+ProcessorReifier acts as a factory for RabbitConsumer, which overrides.
+ProcessorReifier acts as a factory for EnrichDefinition, which overrides.
+ProcessorReifier acts as a factory for FaultToleranceProcessorFactory, which overrides.

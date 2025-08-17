@@ -1,0 +1,1 @@
+MailBoxPostProcessAction acts as an observer for publisher MailEndpoint, which is inherited by, which processes Folder parameter of folder.

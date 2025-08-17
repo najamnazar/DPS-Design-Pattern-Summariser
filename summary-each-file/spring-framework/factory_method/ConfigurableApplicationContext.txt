@@ -1,0 +1,4 @@
+ConfigurableApplicationContext acts as a factory for AbstractApplicationContext, which overrides.
+ConfigurableApplicationContext acts as a factory for HttpServletBean, which overrides.
+ConfigurableApplicationContext acts as a factory for AutowiredAnnotationBeanPostProcessorTests, which overrides.
+ConfigurableApplicationContext acts as an abstract product for AnnotationNamespaceDrivenTests, which is inherited by AbstractApplicationContext.

@@ -1,0 +1,2 @@
+GetSafeModeRequest acts as an originator for memento GetSafeModeRequest, which is inherited by, which news a GetSafeModeRequest Instance to.
+GetSafeModeRequest acts as a memento, which is inherited by GetSafeModeRequestPBImpl, which news Instance.

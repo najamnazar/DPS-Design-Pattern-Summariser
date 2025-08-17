@@ -1,0 +1,2 @@
+AbstractBeanFactoryBasedTargetSource acts as a product for TargetSourceCreator, which overrides getTargetClass method of TargetSource, isStatic method of TargetSource, releaseTarget method of TargetSource.
+AbstractBeanFactoryBasedTargetSource acts as a product for Advised, which overrides getTargetClass method of TargetSource, isStatic method of TargetSource, releaseTarget method of TargetSource.

@@ -1,0 +1,1 @@
+FieldInfoWithTypeAnnotation acts as an adapter, which adapts to FieldInfoWithAnnotation, which adapts to FieldInfoWithAnnotation, which adapts to FieldInfoWithAnnotation, which adapts to FieldInfoWithAnnotation.

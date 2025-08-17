@@ -1,0 +1,5 @@
+JavaSearchDelegateDiscovery acts as a caretaker for memento S, which gets Instance, which gets String parameter of id Configuration Element, which sets Error Logged.
+JavaSearchDelegateDiscovery acts as a caretaker for memento Map, which gets Instance, which gets String parameter of id Configuration Element, which sets Error Logged.
+JavaSearchDelegateDiscovery acts as a caretaker for memento String, which gets Instance, which gets String parameter of id Configuration Element, which sets Error Logged.
+JavaSearchDelegateDiscovery acts as a caretaker for memento E, which gets Instance, which gets String parameter of id Configuration Element, which sets Error Logged.
+JavaSearchDelegateDiscovery acts as a caretaker for memento C, which gets Instance, which gets String parameter of id Configuration Element, which sets Error Logged.

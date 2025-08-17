@@ -1,0 +1,1 @@
+AlterIndexStep acts as a publisher for observer Index, which is inherited by AlterIndexImpl, which renames @Stringly.Name parameter of String To, which renames Name parameter of renameTo To, which renames Index parameter of renameTo To.

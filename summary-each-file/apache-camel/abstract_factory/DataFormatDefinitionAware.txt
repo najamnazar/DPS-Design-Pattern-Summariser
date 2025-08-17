@@ -1,0 +1,1 @@
+DataFormatDefinitionAware acts as an abstract factory for DataFormatDefinition, which is inherited by UnmarshalDefinition, MarshalDefinition.

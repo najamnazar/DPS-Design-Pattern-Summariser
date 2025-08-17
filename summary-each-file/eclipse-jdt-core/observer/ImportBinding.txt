@@ -1,0 +1,2 @@
+ImportBinding acts as an observer for publisher CompilationUnitScope, which is inherited by ImportConflictBinding, which binds Type, which readables Name, which tos String.
+ImportBinding acts as an observer, which binds Type, which readables Name, which tos String.

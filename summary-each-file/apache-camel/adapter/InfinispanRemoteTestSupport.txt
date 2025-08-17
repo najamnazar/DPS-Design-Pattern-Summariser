@@ -1,0 +1,1 @@
+InfinispanRemoteTestSupport acts as an adapter, which adapts to InfinispanTestSupport, which adapts to InfinispanTestSupport, which adapts to InfinispanTestSupport, which adapts getConfiguration method of InfinispanService to InfinispanTestSupport, which adapts to InfinispanTestSupport.

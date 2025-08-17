@@ -1,0 +1,5 @@
+JarPackageFragmentRootInfo acts as a caretaker for memento String.
+JarPackageFragmentRootInfo acts as a caretaker for memento List.
+JarPackageFragmentRootInfo acts as a caretaker for memento Map.
+JarPackageFragmentRootInfo acts as a caretaker for memento C.
+JarPackageFragmentRootInfo acts as a caretaker for memento S.

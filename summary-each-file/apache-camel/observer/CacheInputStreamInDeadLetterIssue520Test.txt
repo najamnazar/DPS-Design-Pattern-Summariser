@@ -1,0 +1,2 @@
+CacheInputStreamInDeadLetterIssue520Test acts as a publisher for observer Service, which tests Sending Input Stream, which tests Sending Reader, which tests Sending Source, which sends Object parameter of message Message, which creates Route Builder.
+CacheInputStreamInDeadLetterIssue520Test acts as a publisher for observer CamelContext, which tests Sending Input Stream, which tests Sending Reader, which tests Sending Source, which sends Object parameter of message Message, which creates Route Builder.

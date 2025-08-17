@@ -1,0 +1,1 @@
+AbstractLocationPropertiesSource acts as a factory for LocationPropertiesSource, which overrides getLocation method of LocationPropertiesSource.

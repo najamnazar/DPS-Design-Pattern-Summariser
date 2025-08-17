@@ -1,0 +1,1 @@
+ResequencerConfig acts as an observer for publisher ResequenceDefinition, which is inherited by BatchResequencerConfig, StreamResequencerConfig.

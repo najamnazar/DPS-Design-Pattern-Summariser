@@ -1,0 +1,2 @@
+DockerEventsConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts processInitialEvent method of DockerEndpoint to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+DockerEventsConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts processInitialEvent method of DockerComponent to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

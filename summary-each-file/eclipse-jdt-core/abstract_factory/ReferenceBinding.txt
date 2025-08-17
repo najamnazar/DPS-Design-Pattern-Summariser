@@ -1,0 +1,2 @@
+ReferenceBinding acts as a product for Substitution, which overrides.
+ReferenceBinding acts as a product for IPolyExpression, which overrides.

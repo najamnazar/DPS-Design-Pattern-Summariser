@@ -1,0 +1,2 @@
+TimelineFilterList acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.
+TimelineFilterList acts as a caretaker for memento TimelineFilter, which gets Filter Type, which gets Filter List, which gets Operator, which sets Operator parameter of op Operator, which adds TimelineFilter parameter of filter Filter, which hashes Code, which equals Object parameter of obj, which tos String.

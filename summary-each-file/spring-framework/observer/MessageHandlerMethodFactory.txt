@@ -1,0 +1,1 @@
+MessageHandlerMethodFactory acts as an observer for publisher MethodJmsListenerEndpoint, which is inherited by DefaultMessageHandlerMethodFactory, which creates Object parameter of bean, Method parameter of method Invocable Handler Method.

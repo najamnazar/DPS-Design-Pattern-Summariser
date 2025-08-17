@@ -1,0 +1,1 @@
+HostnameVerifierCxfRsConfigurer acts as a product for SslCxfRsConfigurer, which overrides configure method of CxfRsConfigurer, configureClient method of CxfRsConfigurer, configureServer method of CxfRsConfigurer.

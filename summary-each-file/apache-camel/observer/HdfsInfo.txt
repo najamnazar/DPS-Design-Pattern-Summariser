@@ -1,0 +1,1 @@
+HdfsInfo acts as an observer for publisher HdfsConsumer, which is inherited by, which gets Configuration, which gets File System, which gets Path.

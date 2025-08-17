@@ -1,0 +1,2 @@
+FilesImpl acts as a factory for Files, which overrides from method of Files, to method of Files.
+FilesImpl acts as a product for Commit, which overrides from method of Files, to method of Files.

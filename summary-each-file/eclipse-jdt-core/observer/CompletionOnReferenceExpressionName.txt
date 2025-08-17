@@ -1,0 +1,5 @@
+CompletionOnReferenceExpressionName acts as a publisher for observer ParameterizedGenericMethodBinding, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a publisher for observer Expression, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a publisher for observer MethodBinding, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a publisher for observer TypeBinding, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.
+CompletionOnReferenceExpressionName acts as a publisher for observer InferenceContext18, which resolves BlockScope parameter of scope Type, which prints int parameter of tab, StringBuilder parameter of output Expression.

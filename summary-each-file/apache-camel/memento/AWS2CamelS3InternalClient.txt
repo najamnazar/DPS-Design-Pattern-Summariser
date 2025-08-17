@@ -1,0 +1,1 @@
+AWS2CamelS3InternalClient acts as a memento, which is inherited by AWS2S3ClientIAMOptimizedImpl, AWS2S3ClientStandardImpl, which gets S3Client.

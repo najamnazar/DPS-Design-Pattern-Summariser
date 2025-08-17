@@ -1,0 +1,2 @@
+EmbeddedElector acts as an observer, which rejoins Election, which gets Zookeeper Connection State.
+EmbeddedElector acts as an observer for publisher RMServiceContext, which is inherited by ActiveStandbyElectorBasedElectorService, CuratorBasedElectorService, which rejoins Election, which gets Zookeeper Connection State.

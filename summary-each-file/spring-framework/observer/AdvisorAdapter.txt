@@ -1,0 +1,2 @@
+AdvisorAdapter acts as a publisher for observer Advice, which is inherited by AdvisorAdapterRegistrationTests, which supports Advice parameter of advice Advice, which gets Advisor parameter of advisor Interceptor.
+AdvisorAdapter acts as an observer for publisher AdvisorAdapterRegistry, DefaultAdvisorAdapterRegistry, which is inherited by AfterReturningAdviceAdapter, MethodBeforeAdviceAdapter, AdvisorAdapterRegistrationTests, ThrowsAdviceAdapter, which supports Advice parameter of advice Advice, which gets Advisor parameter of advisor Interceptor.

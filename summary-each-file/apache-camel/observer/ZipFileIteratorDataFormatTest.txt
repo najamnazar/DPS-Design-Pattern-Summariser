@@ -1,0 +1,5 @@
+ZipFileIteratorDataFormatTest acts as a publisher for observer CamelContext, which tests Zip File Iterator, which creates Route Builder.
+ZipFileIteratorDataFormatTest acts as a publisher for observer ConsumerTemplate, which tests Zip File Iterator, which creates Route Builder.
+ZipFileIteratorDataFormatTest acts as a publisher for observer FluentProducerTemplate, which tests Zip File Iterator, which creates Route Builder.
+ZipFileIteratorDataFormatTest acts as a publisher for observer ProducerTemplate, which tests Zip File Iterator, which creates Route Builder.
+ZipFileIteratorDataFormatTest acts as a publisher for observer Service, which tests Zip File Iterator, which creates Route Builder.

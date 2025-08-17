@@ -1,0 +1,2 @@
+InfluxDbComponent acts as a publisher for observer CamelContext, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Influx DB, which sets InfluxDB parameter of influxDB Influx DB.
+InfluxDbComponent acts as a publisher for observer ComponentExtension, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Influx DB, which sets InfluxDB parameter of influxDB Influx DB.

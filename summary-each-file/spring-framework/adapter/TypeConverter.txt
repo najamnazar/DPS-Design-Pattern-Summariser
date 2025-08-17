@@ -1,0 +1,3 @@
+TypeConverter acts as an adaptee for adapter ArgumentConvertingMethodInvoker, which adapts to MethodInvoker, which adapts to MethodInvoker, which adapts to MethodInvoker, which adapts to MethodInvoker.
+TypeConverter acts as an adaptee for adapter Indexer, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl.
+TypeConverter acts as an adaptee for adapter AbstractBeanFactory, which adapts to FactoryBeanRegistrySupport, which adapts to FactoryBeanRegistrySupport, which adapts to FactoryBeanRegistrySupport, which adapts to FactoryBeanRegistrySupport.

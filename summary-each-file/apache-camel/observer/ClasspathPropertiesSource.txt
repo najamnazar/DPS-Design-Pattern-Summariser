@@ -1,0 +1,2 @@
+ClasspathPropertiesSource acts as a publisher for observer PropertiesLocation, which gets Name, which loads PropertiesComponent parameter of propertiesComponent, PropertiesLocation parameter of location Properties From Location, which gets Order.
+ClasspathPropertiesSource acts as a publisher for observer PropertiesComponent, which gets Name, which loads PropertiesComponent parameter of propertiesComponent, PropertiesLocation parameter of location Properties From Location, which gets Order.

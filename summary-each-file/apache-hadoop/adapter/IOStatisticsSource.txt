@@ -1,0 +1,12 @@
+IOStatisticsSource acts as an adaptee for adapter S3APrefetchingInputStream, which adapts to ObjectInputStream.
+IOStatisticsSource acts as an adaptee for adapter BufferedFSInputStream, which adapts to HasFileDescriptor.
+IOStatisticsSource acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+IOStatisticsSource acts as an adaptee for adapter ManifestCommitter, which adapts to PathOutputCommitter.
+IOStatisticsSource acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem.
+IOStatisticsSource acts as an adaptee for adapter ObjectInputStream, which adapts to FSInputStream.
+IOStatisticsSource acts as an adaptee for adapter S3AInputStream, which adapts to ObjectInputStream.
+IOStatisticsSource acts as an adaptee for adapter AzureBlobFileSystem, which adapts to FileSystem.
+IOStatisticsSource acts as an adaptee for adapter AbfsInputStream, which adapts to FSInputStream.
+IOStatisticsSource acts as an adaptee for adapter AbstractS3ACommitter, which adapts to PathOutputCommitter.
+IOStatisticsSource acts as an adaptee for adapter CryptoInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+IOStatisticsSource acts as an adaptee for adapter BindingPathOutputCommitter, which adapts to PathOutputCommitter.

@@ -1,0 +1,1 @@
+AopProxyFactory acts as an adaptee for adapter ProxyCreatorSupport, which adapts to AdvisedSupport.

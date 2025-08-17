@@ -1,0 +1,3 @@
+DFSClient acts as a factory for KeyProviderTokenIssuer, which overrides getKeyProviderUri method of KeyProviderTokenIssuer.
+DFSClient acts as a factory for DataEncryptionKeyFactory, which overrides newDataEncryptionKey method of DataEncryptionKeyFactory.
+DFSClient acts as a factory for RemotePeerFactory, which overrides.

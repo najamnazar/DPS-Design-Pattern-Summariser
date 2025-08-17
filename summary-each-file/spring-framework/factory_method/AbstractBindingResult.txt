@@ -1,0 +1,2 @@
+AbstractBindingResult acts as a factory for BindingResult, which overrides.
+AbstractBindingResult acts as a factory for WebMvcConfigurerAdapter, which overrides.

@@ -1,0 +1,1 @@
+ReleaseSharedCacheResourceRequest acts as a publisher for observer ApplicationId, which is inherited by ReleaseSharedCacheResourceRequestPBImpl, which gets App Id, which sets ApplicationId parameter of id App Id, which gets Resource Key, which sets String parameter of key Resource Key.

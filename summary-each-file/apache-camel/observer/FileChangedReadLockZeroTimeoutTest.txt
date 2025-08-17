@@ -1,0 +1,2 @@
+FileChangedReadLockZeroTimeoutTest acts as a publisher for observer Service, which tests Changed Read Lock Zero Timeout, which creates Route Builder.
+FileChangedReadLockZeroTimeoutTest acts as a publisher for observer CamelContext, which tests Changed Read Lock Zero Timeout, which creates Route Builder.

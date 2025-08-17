@@ -1,0 +1,1 @@
+PlanFollower acts as an abstract product for AbstractReservationSystem, which is inherited by AbstractSchedulerPlanFollower.

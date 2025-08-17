@@ -1,0 +1,1 @@
+PerConnectionWebSocketHandler acts as a product for WebSocketHandlerDecoratorFactory, which overrides afterConnectionEstablished method of WebSocketHandler, handleMessage method of WebSocketHandler, handleTransportError method of WebSocketHandler, afterConnectionClosed method of WebSocketHandler, supportsPartialMessages method of WebSocketHandler.

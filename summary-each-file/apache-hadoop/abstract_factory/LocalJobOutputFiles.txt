@@ -1,0 +1,1 @@
+LocalJobOutputFiles acts as a factory for NativeTaskOutput, which overrides.

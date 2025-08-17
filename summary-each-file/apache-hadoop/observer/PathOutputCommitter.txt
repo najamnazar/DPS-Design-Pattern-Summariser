@@ -1,0 +1,1 @@
+PathOutputCommitter acts as an observer, which gets Output Path, which has Output Path, which gets Work Path, which tos String.

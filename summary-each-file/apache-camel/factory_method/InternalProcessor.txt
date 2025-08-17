@@ -1,0 +1,1 @@
+InternalProcessor acts as an abstract product for DefaultInternalProcessorFactory, which is inherited by CamelInternalProcessor.

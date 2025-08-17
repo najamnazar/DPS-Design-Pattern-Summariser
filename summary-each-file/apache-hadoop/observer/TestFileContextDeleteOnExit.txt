@@ -1,0 +1,1 @@
+TestFileContextDeleteOnExit acts as a publisher for observer FileContext, which is inherited by, which setups, which tears Down, which checks int parameter of size, FileContext parameter of fc, Path... parameter of paths Delete On Exit Data, which tests Delete On Exit.

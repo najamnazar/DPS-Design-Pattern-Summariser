@@ -1,0 +1,1 @@
+ApplicationBaseProtocol acts as an originator for memento CancelDelegationTokenResponse, which is inherited by, which cancels a CancelDelegationTokenResponse Delegation Token to.

@@ -1,0 +1,1 @@
+IJavaElementDelta acts as an abstract product for ReconcileContext, which is inherited by JavaElementDelta.

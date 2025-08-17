@@ -1,0 +1,2 @@
+MulticastGroupedExchangeExceptionTest acts as a publisher for observer Service, which tests Both Good, which tests BFail, which tests AFail, which creates Route Builder.
+MulticastGroupedExchangeExceptionTest acts as a publisher for observer CamelContext, which tests Both Good, which tests BFail, which tests AFail, which creates Route Builder.

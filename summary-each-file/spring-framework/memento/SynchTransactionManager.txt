@@ -1,0 +1,2 @@
+SynchTransactionManager acts as a caretaker for memento TransactionDefinition.
+SynchTransactionManager acts as a caretaker for memento Transaction.

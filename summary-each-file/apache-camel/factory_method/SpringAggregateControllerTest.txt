@@ -1,0 +1,1 @@
+SpringAggregateControllerTest acts as a factory method for AggregateController, which is inherited by AggregateControllerTest.

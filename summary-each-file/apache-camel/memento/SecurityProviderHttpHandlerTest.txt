@@ -1,0 +1,1 @@
+SecurityProviderHttpHandlerTest acts as a caretaker for memento Configuration, which creates Camel Context, which tests Null Http Handler.

@@ -1,0 +1,2 @@
+EmptyIOStatisticsContextImpl acts as a product for IOStatisticsContext, which overrides snapshot method of IOStatisticsContext, getAggregator method of IOStatisticsContext, reset method of IOStatisticsContext, getID method of IOStatisticsContext.
+EmptyIOStatisticsContextImpl acts as a factory for IOStatisticsContext, which overrides snapshot method of IOStatisticsContext, getAggregator method of IOStatisticsContext, reset method of IOStatisticsContext, getID method of IOStatisticsContext.

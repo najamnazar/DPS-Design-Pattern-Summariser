@@ -1,0 +1,4 @@
+DefaultPollingEndpoint acts as a target for adapter DrillEndpoint, which adapts to DefaultPollingEndpoint.
+DefaultPollingEndpoint acts as a target for adapter WeatherEndpoint, which adapts to DefaultPollingEndpoint.
+DefaultPollingEndpoint acts as a target for adapter FlatpackEndpoint, which adapts to DefaultPollingEndpoint.
+DefaultPollingEndpoint acts as a target for adapter SnmpEndpoint, which adapts to DefaultPollingEndpoint.

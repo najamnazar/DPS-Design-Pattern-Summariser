@@ -1,0 +1,1 @@
+ParamAware acts as a publisher for observer Param, which is inherited by UrlTag, which adds Param parameter of param Param.

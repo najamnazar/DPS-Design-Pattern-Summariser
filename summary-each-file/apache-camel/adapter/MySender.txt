@@ -1,0 +1,1 @@
+MySender acts as an adaptee for adapter PojoSenderTest, which adapts to SpringTestSupport.

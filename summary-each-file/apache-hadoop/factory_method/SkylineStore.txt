@@ -1,0 +1,1 @@
+SkylineStore acts as an abstract product for TestInMemoryStore, which is inherited by InMemoryStore.

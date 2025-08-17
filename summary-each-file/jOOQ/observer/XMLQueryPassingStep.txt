@@ -1,0 +1,1 @@
+XMLQueryPassingStep acts as a publisher for observer XML, which is inherited by XMLQuery, which passes XML parameter of xml, which passes Field<XML> parameter of xml, which passes XML parameter of xml By Ref, which passes Field<XML> parameter of xml By Ref.

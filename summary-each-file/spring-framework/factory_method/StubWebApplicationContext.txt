@@ -1,0 +1,1 @@
+StubWebApplicationContext acts as a product for AbstractAnnotationConfigDispatcherServletInitializer, which overrides getServletContext method of WebApplicationContext.

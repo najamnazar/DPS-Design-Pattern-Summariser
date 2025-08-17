@@ -1,0 +1,1 @@
+BatchStateEnum acts as an observer for publisher BatchInfo, which is inherited by, which values, which froms String parameter of v Value.

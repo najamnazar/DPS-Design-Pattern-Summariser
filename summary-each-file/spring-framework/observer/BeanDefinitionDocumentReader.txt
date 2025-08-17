@@ -1,0 +1,1 @@
+BeanDefinitionDocumentReader acts as a publisher for observer XmlReaderContext, which is inherited by DefaultBeanDefinitionDocumentReader, which registers Document parameter of doc, XmlReaderContext parameter of readerContext Bean Definitions.

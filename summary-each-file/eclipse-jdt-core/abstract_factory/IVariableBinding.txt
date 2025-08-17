@@ -1,0 +1,4 @@
+IVariableBinding acts as a product for IMethodBinding, which overrides getName method of IBinding.
+IVariableBinding acts as an abstract product for IVariableBinding, which is inherited by RecoveredVariableBinding.
+IVariableBinding acts as a product for ITypeBinding, which overrides getName method of IBinding.
+IVariableBinding acts as an abstract factory for ITypeBinding, Object, IVariableBinding, which is inherited by RecoveredVariableBinding.

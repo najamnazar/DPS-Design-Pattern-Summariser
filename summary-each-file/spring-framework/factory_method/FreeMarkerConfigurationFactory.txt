@@ -1,0 +1,2 @@
+FreeMarkerConfigurationFactory acts as a factory for FreeMarkerConfigurationFactory, which overrides.
+FreeMarkerConfigurationFactory acts as a factory method for ResourceLoader, which is inherited by FreeMarkerConfigurationFactory, AbstractBeanDefinitionReader, SimpleMetadataReaderFactory, FreeMarkerConfigurationFactory, AbstractBeanDefinitionReader, PathMatchingResourcePatternResolver, AbstractBeanDefinitionReader, BeanDefinitionReader, ClassPathScanningCandidateComponentProvider.

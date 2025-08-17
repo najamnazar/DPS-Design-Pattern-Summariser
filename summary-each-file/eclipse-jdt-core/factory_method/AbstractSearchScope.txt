@@ -1,0 +1,1 @@
+AbstractSearchScope acts as a product for SearchableEnvironment, which overrides includesBinaries method of IJavaSearchScope, includesClasspaths method of IJavaSearchScope, setIncludesBinaries method of IJavaSearchScope, setIncludesClasspaths method of IJavaSearchScope.

@@ -1,0 +1,2 @@
+TypeVariable acts as a factory for TypeVariable, which overrides.
+TypeVariable acts as a factory method for TypeParameterDeclaration, which is inherited by TypeVariable, TypeVariable.

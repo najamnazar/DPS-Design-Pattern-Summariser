@@ -1,0 +1,1 @@
+SpringQuartzConsumerTwoAppsClusteredRecoveryTest acts as a caretaker for memento Context, which tests Quartz Persistent Store Clustered App, which news String parameter of config App Context, which matches Exchange parameter of exchange, which processes Exchange parameter of exchange, which sets ApplicationContext parameter of applicationContext Application Context.

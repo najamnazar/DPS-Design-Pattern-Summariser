@@ -1,0 +1,1 @@
+InterceptingAsyncClientHttpRequestFactory acts as a decorator for component AsyncClientHttpRequestFactory, which is inherited by.

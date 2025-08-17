@@ -1,0 +1,1 @@
+JCachePolicyProcessor acts as a caretaker for memento Context, which processes final parameter of Exchange, final parameter of AsyncCallback, which does Init, which does Stop, which gets Cache, which sets Cache parameter of cache Cache, which gets Key Expression, which sets Expression parameter of keyExpression Key Expression.

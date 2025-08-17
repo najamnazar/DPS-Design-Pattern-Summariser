@@ -1,0 +1,2 @@
+MockEndpointConfigurer acts as a target for adapter DataSetEndpointConfigurer, which adapts to MockEndpointConfigurer, which adapts to MockEndpointConfigurer, which adapts to MockEndpointConfigurer.
+MockEndpointConfigurer acts as a target for adapter DataSetTestEndpointConfigurer, which adapts to MockEndpointConfigurer, which adapts to MockEndpointConfigurer, which adapts to MockEndpointConfigurer.

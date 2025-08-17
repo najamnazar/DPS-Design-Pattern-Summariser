@@ -1,0 +1,1 @@
+IDOMInitializer acts as a publisher for observer String, which is inherited by DOMInitializer, which gets Body, which gets Name, which sets String parameter of body Body, which sets String parameter of name Name.

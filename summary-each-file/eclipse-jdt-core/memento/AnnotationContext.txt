@@ -1,0 +1,2 @@
+AnnotationContext acts as a caretaker for memento E, which tos String.
+AnnotationContext acts as a caretaker for memento Binding, which tos String.

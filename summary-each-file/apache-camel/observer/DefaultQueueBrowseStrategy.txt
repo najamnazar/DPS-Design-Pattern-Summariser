@@ -1,0 +1,1 @@
+DefaultQueueBrowseStrategy acts as an observer, which browses JmsOperations parameter of template, String parameter of queue, final parameter of JmsBrowsableEndpoint, which does JmsBrowsableEndpoint parameter of endpoint, Session parameter of session, QueueBrowser parameter of browser Browse.

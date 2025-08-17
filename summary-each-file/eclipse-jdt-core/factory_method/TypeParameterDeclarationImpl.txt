@@ -1,0 +1,2 @@
+TypeParameterDeclarationImpl acts as a product for TypeVariable, which overrides getBounds method of TypeParameterDeclaration, getOwner method of TypeParameterDeclaration.
+TypeParameterDeclarationImpl acts as a factory method for Declaration, which is inherited by TypeParameterDeclaration.

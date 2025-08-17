@@ -1,0 +1,2 @@
+ShutdownRunningTask acts as an adaptee for adapter AbstractCamelContext.
+ShutdownRunningTask acts as an adaptee for adapter ScheduledBatchPollingConsumer.

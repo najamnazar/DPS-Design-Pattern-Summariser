@@ -1,0 +1,1 @@
+TypeIds acts as an adaptee for adapter FieldInfo.

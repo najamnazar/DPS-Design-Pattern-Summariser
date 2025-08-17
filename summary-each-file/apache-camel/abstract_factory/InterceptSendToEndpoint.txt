@@ -1,0 +1,16 @@
+InterceptSendToEndpoint acts as a product for FluentProducerTemplate, which overrides.
+InterceptSendToEndpoint acts as a product for ExtendedCamelContext, which overrides.
+InterceptSendToEndpoint acts as a product for CamelContext, which overrides.
+InterceptSendToEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+InterceptSendToEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+InterceptSendToEndpoint acts as a product for EndpointStrategy, which overrides.
+InterceptSendToEndpoint acts as a product for InterceptEndpointFactory, which overrides.
+InterceptSendToEndpoint acts as a product for Route, which overrides.
+InterceptSendToEndpoint acts as a product for DelegateEndpoint, which overrides.
+InterceptSendToEndpoint acts as an abstract factory for Processor, Endpoint, which is inherited by DefaultInterceptSendToEndpoint.
+InterceptSendToEndpoint acts as a product for Exchange, which overrides.
+InterceptSendToEndpoint acts as a product for EndpointProducerResolver, which overrides.
+InterceptSendToEndpoint acts as a product for ProducerTemplate, which overrides.
+InterceptSendToEndpoint acts as a product for CamelEvent, which overrides.
+InterceptSendToEndpoint acts as a product for EndpointAware, which overrides.
+InterceptSendToEndpoint acts as a product for CamelCronService, which overrides.

@@ -1,0 +1,1 @@
+SimpleTransactionFactory acts as a factory for TransactionFactory, which overrides createTransaction method of TransactionFactory, supportsResourceAdapterManagedTransactions method of TransactionFactory.

@@ -1,0 +1,1 @@
+StitchProducer acts as a caretaker for memento Producer, which does Start, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which does Stop, which gets Endpoint, which gets Configuration, which sets final parameter of StitchResponse, final parameter of Exchange Data On Exchange.

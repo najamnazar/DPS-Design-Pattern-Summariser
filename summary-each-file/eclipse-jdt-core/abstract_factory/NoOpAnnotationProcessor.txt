@@ -1,0 +1,2 @@
+NoOpAnnotationProcessor acts as a product for EclipseAnnotationProcessorFactory, which overrides.
+NoOpAnnotationProcessor acts as a product for AnnotationProcessorFactory, which overrides.

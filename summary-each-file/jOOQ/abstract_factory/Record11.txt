@@ -1,0 +1,5 @@
+Record11 acts as a product for DSLContext, which overrides.
+Record11 acts as a product for RecordContext, which overrides.
+Record11 acts as a product for ExecuteContext, which overrides.
+Record11 acts as a product for Record, which overrides.
+Record11 acts as a product for UpdatableRecord, which overrides.

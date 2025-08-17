@@ -1,0 +1,1 @@
+MagicOutputStream acts as an adapter, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream, which adapts to ObjectOutputStream.

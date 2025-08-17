@@ -1,0 +1,2 @@
+FileConsumerMoveFailureOnCompletionTest acts as a publisher for observer CamelContext, which tests Move Failed Rollback Only, which tests Move Failed Commit And Failure, which creates Route Builder.
+FileConsumerMoveFailureOnCompletionTest acts as a publisher for observer Service, which tests Move Failed Rollback Only, which tests Move Failed Commit And Failure, which creates Route Builder.

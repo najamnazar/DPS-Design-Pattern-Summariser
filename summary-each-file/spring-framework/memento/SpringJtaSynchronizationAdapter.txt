@@ -1,0 +1,2 @@
+SpringJtaSynchronizationAdapter acts as a caretaker for memento Transaction, which befores Completion, which sets Rollback Only If Possible, which afters int parameter of status Completion.
+SpringJtaSynchronizationAdapter acts as a caretaker for memento User, which befores Completion, which sets Rollback Only If Possible, which afters int parameter of status Completion.

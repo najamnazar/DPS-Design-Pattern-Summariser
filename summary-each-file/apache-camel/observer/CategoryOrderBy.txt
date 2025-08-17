@@ -1,0 +1,1 @@
+CategoryOrderBy acts as an observer for publisher CategorySearchCriteria, which is inherited by.

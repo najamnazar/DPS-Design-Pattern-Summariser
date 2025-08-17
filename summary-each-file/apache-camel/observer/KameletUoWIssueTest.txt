@@ -1,0 +1,5 @@
+KameletUoWIssueTest acts as a publisher for observer CamelContext, which tests Uo W, which creates Route Builder.
+KameletUoWIssueTest acts as a publisher for observer Service, which tests Uo W, which creates Route Builder.
+KameletUoWIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Uo W, which creates Route Builder.
+KameletUoWIssueTest acts as a publisher for observer ConsumerTemplate, which tests Uo W, which creates Route Builder.
+KameletUoWIssueTest acts as a publisher for observer ProducerTemplate, which tests Uo W, which creates Route Builder.

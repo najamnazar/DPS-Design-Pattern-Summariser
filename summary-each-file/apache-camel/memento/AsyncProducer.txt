@@ -1,0 +1,2 @@
+AsyncProducer acts as a memento.
+AsyncProducer acts as a memento, which is inherited by RestOpenApiProducer, RestSwaggerProducer, DefaultAsyncProducer, ThriftProducer.

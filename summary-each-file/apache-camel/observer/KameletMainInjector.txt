@@ -1,0 +1,1 @@
+KameletMainInjector acts as an observer, which news Class<T> parameter of type Instance, which news Class<T> parameter of type, String parameter of factoryMethod Instance, which news Class<T> parameter of type, boolean parameter of postProcessBean Instance, which supports Auto Wiring, which accepts Class<?> parameter of type.

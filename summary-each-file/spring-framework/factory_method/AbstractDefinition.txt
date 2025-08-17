@@ -1,0 +1,2 @@
+AbstractDefinition acts as a factory for ArrayDefinition, which overrides.
+AbstractDefinition acts as a factory for Xmlpi, which overrides.

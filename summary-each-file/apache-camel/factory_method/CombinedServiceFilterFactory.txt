@@ -1,0 +1,1 @@
+CombinedServiceFilterFactory acts as a factory method for ServiceFilter, which is inherited by ServiceFilterAware, ServiceCallServiceFilterConfiguration, ServiceCallServiceFilterConfiguration, ServiceCallServiceFilterConfiguration, ServiceCallServiceFilterConfiguration, ServiceCallServiceFilterConfiguration.

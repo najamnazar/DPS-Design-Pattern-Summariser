@@ -1,0 +1,2 @@
+JdtApt acts as a caretaker for memento String, which sets File parameter of file Workspace, which sets File parameter of file Eclipse Home, which executes.
+JdtApt acts as a caretaker for memento S, which sets File parameter of file Workspace, which sets File parameter of file Eclipse Home, which executes.

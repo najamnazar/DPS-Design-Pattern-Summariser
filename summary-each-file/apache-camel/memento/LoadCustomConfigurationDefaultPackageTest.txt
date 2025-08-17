@@ -1,0 +1,1 @@
+LoadCustomConfigurationDefaultPackageTest acts as a caretaker for memento Producer, which configures MainConfigurationProperties parameter of configuration, which shoulds Find Custom Configuration, which shoulds Support Nested Test.

@@ -1,0 +1,1 @@
+CompositeApiCollectionsIntegrationTest acts as a caretaker for memento Component, which removes Records, which retrieves, which deletes, which deletes All Or None, which creates, which creates All Or None, which updates, which upserts, which does Create Route Builder, which versionses, which creates Account.

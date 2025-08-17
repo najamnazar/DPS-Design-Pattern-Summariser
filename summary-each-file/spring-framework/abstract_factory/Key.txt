@@ -1,0 +1,1 @@
+Key acts as an abstract factory for Constraint, which is inherited by.

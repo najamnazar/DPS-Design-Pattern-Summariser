@@ -1,0 +1,1 @@
+NativeMapOutputCollectorDelegator acts as a publisher for observer Context, which is inherited by, which collects K parameter of key, V parameter of value, int parameter of partition, which closes, which flushes, which inits Context parameter of context.

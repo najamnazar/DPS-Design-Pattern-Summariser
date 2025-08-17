@@ -1,0 +1,2 @@
+ConsumerExceptionPropagationRouteTest acts as a caretaker for memento Context, which creates Client, which sets Up, which creates Camel Registry, which tests Valid Uri, which consumes Webservice And Test For Soap Fault, which creates Route Builder.
+ConsumerExceptionPropagationRouteTest acts as a caretaker for memento Producer, which creates Client, which sets Up, which creates Camel Registry, which tests Valid Uri, which consumes Webservice And Test For Soap Fault, which creates Route Builder.

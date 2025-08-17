@@ -1,0 +1,1 @@
+ConfigurablePropertyAccessor acts as an abstract product for DirectFieldBindingResult, which is inherited by AbstractPropertyAccessor.

@@ -1,0 +1,1 @@
+IConstantPoolEntry acts as an abstract product for IConstantValueAttribute, which is inherited by ConstantPoolEntry.

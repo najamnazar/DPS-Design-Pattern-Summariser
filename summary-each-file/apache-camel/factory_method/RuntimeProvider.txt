@@ -1,0 +1,2 @@
+RuntimeProvider acts as a factory for RuntimeProvider, which overrides.
+RuntimeProvider acts as a factory method for CamelCatalog, which is inherited by RuntimeProvider.

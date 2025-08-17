@@ -1,0 +1,4 @@
+LegacyErrorHandlerBuilder acts as a product for ModelReifierFactory, which overrides.
+LegacyErrorHandlerBuilder acts as a product for Route, which overrides.
+LegacyErrorHandlerBuilder acts as a product for ExtendedCamelContext, which overrides.
+LegacyErrorHandlerBuilder acts as a product for ErrorHandlerFactory, which overrides.

@@ -1,0 +1,2 @@
+UndertowSecurityProvider acts as an adaptee for adapter UndertowEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+UndertowSecurityProvider acts as an adaptee for adapter UndertowComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

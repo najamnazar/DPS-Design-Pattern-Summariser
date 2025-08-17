@@ -1,0 +1,1 @@
+ScopedProxyAutowireTests acts as a caretaker for memento B, which tests Scoped Proxy Inherits Autowire Candidate False, which tests Scoped Proxy Replaces Autowire Candidate True, which sets TestBean parameter of child Child, which gets Child.

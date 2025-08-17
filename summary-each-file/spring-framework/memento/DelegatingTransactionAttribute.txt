@@ -1,0 +1,3 @@
+DelegatingTransactionAttribute acts as a caretaker for memento TransactionDefinition, which gets Qualifier, which gets Labels, which rollbacks Throwable parameter of ex On.
+DelegatingTransactionAttribute acts as a caretaker for memento Transaction, which gets Qualifier, which gets Labels, which rollbacks Throwable parameter of ex On.
+DelegatingTransactionAttribute acts as a caretaker for memento A, which gets Qualifier, which gets Labels, which rollbacks Throwable parameter of ex On.

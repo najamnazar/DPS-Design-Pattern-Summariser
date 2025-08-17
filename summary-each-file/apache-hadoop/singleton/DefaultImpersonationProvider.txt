@@ -1,0 +1,1 @@
+DefaultImpersonationProvider acts as a singleton, which gets a DefaultImpersonationProvider Test Provider to.

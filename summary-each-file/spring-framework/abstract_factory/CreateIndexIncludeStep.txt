@@ -1,0 +1,3 @@
+CreateIndexIncludeStep acts as an abstract factory for CreateIndexWhereStep, which is inherited by CreateIndexImpl.
+CreateIndexIncludeStep acts as an abstract product for CreateIndexIncludeStep, which is inherited by CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl.
+CreateIndexIncludeStep acts as a product for CreateIndexIncludeStep, which overrides.

@@ -1,0 +1,2 @@
+FileConsumerNoopTest acts as a publisher for observer CamelContext, which tests Noop, which creates Route Builder.
+FileConsumerNoopTest acts as a publisher for observer Service, which tests Noop, which creates Route Builder.

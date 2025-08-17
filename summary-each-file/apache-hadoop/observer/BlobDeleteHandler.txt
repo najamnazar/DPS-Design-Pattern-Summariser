@@ -1,0 +1,1 @@
+BlobDeleteHandler acts as a publisher for observer Path, which gets Max Consumption Parallelism, which deletes final parameter of Path Internal, which executes, which ensures Path Parent Exist, which takes final parameter of Path Action, which safes final parameter of Path Delete.

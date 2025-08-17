@@ -1,0 +1,1 @@
+MyOtherConfiguration acts as an observer, which mies Greetings, which configures CamelContext parameter of camelContext.

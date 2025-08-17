@@ -1,0 +1,1 @@
+UseSharedCacheResourceResponsePBImpl acts as a product for ClientSCMProtocol, which overrides getPath method of UseSharedCacheResourceResponse.

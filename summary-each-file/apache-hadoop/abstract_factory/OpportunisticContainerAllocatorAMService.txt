@@ -1,0 +1,2 @@
+OpportunisticContainerAllocatorAMService acts as a factory for DistributedSchedulingAMProtocol, which overrides registerApplicationMasterForDistributedScheduling method of DistributedSchedulingAMProtocol, allocateForDistributedScheduling method of DistributedSchedulingAMProtocol.
+OpportunisticContainerAllocatorAMService acts as a product for RMContext, which overrides getServer method of ApplicationMasterService, getProcessorList method of ApplicationMasterService, serviceStart method of ApplicationMasterService, serviceStop method of ApplicationMasterService.

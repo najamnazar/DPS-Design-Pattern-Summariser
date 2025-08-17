@@ -1,0 +1,1 @@
+WebSocketStompClientTests acts as a factory method for ConnectionHandlingStompSession, which is inherited by StompClientSupport, StompClientSupport.

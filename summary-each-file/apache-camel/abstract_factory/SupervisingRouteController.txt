@@ -1,0 +1,4 @@
+SupervisingRouteController acts as a product for Route, which overrides.
+SupervisingRouteController acts as a product for ExtendedCamelContext, which overrides.
+SupervisingRouteController acts as an abstract product for SupervisingRouteController, which is inherited by DefaultSupervisingRouteController.
+SupervisingRouteController acts as a product for CamelContext, which overrides.

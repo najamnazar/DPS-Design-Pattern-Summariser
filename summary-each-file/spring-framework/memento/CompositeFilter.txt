@@ -1,0 +1,1 @@
+CompositeFilter acts as a caretaker for memento C, which sets List<? parameter of extends Filters, which inits FilterConfig parameter of config, which does ServletRequest parameter of request, ServletResponse parameter of response, FilterChain parameter of chain Filter, which destroys, which does final parameter of ServletRequest, final parameter of ServletResponse Filter.

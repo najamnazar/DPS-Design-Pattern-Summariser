@@ -1,0 +1,1 @@
+JsonbHttpMessageConverter acts as a caretaker for memento C, which sets Jsonb parameter of jsonb Jsonb, which gets Jsonb, which reads Type parameter of resolvedType, Reader parameter of reader Internal, which writes Object parameter of object, @Nullable parameter of Type, Writer parameter of writer Internal.

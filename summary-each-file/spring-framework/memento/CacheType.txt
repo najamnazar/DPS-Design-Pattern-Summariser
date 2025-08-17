@@ -1,0 +1,2 @@
+CacheType acts as a caretaker for memento C.
+CacheType acts as a caretaker for memento Cat.

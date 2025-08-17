@@ -1,0 +1,4 @@
+OriginalImportEntry acts as a memento, which ases Original Import Entry, which ases Original Import Entry, which ases Original Import Entry.
+OriginalImportEntry acts as a caretaker for memento C, which tos String, which is Original, which ases Original Import Entry.
+OriginalImportEntry acts as a caretaker for memento List, which tos String, which is Original, which ases Original Import Entry.
+OriginalImportEntry acts as a caretaker for memento R, which tos String, which is Original, which ases Original Import Entry.

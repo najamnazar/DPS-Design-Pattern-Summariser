@@ -1,0 +1,2 @@
+ClusterInfo acts as an abstract product for ClusterInfo, which is inherited by FederationClusterInfo.
+ClusterInfo acts as an abstract product for ClusterInfo, which is inherited by FederationClusterInfo, FederationClusterInfo.

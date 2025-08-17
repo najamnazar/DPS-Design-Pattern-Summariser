@@ -1,0 +1,2 @@
+DefaultDependencyInjectionAnnotationFactory acts as a product for ExtendedCamelContext, which overrides createBindToRegistryFactory method of CamelDependencyInjectionAnnotationFactory.
+DefaultDependencyInjectionAnnotationFactory acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

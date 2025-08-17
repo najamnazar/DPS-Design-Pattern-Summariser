@@ -1,0 +1,1 @@
+ServiceMetrics acts as an observer, which gets MetricsCollector parameter of collector, boolean parameter of all Metrics, which registers String parameter of name, String parameter of description, which tags String parameter of name, String parameter of description, String parameter of value, which tos String.

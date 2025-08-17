@@ -1,0 +1,5 @@
+StringTemplateCustomDelimiterTest acts as a publisher for observer FluentProducerTemplate, which tests With Brace Delimiter, which tests With Dollar Delimiter, which creates Route Builder.
+StringTemplateCustomDelimiterTest acts as a publisher for observer ProducerTemplate, which tests With Brace Delimiter, which tests With Dollar Delimiter, which creates Route Builder.
+StringTemplateCustomDelimiterTest acts as a publisher for observer Service, which tests With Brace Delimiter, which tests With Dollar Delimiter, which creates Route Builder.
+StringTemplateCustomDelimiterTest acts as a publisher for observer CamelContext, which tests With Brace Delimiter, which tests With Dollar Delimiter, which creates Route Builder.
+StringTemplateCustomDelimiterTest acts as a publisher for observer ConsumerTemplate, which tests With Brace Delimiter, which tests With Dollar Delimiter, which creates Route Builder.

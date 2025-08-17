@@ -1,0 +1,2 @@
+EnumConverterTest acts as a caretaker for memento Producer, which tests Mandatory Convert Enum, which tests Mandatory Convert With Exchange Enum, which tests Case Insensitive, which tests Mandatory Convert Failed, which tests Camel Cash.
+EnumConverterTest acts as a caretaker for memento Context, which tests Mandatory Convert Enum, which tests Mandatory Convert With Exchange Enum, which tests Case Insensitive, which tests Mandatory Convert Failed, which tests Camel Cash.

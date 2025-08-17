@@ -1,0 +1,1 @@
+Transaction acts as an adaptee for adapter SessionHolder.

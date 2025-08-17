@@ -1,0 +1,1 @@
+AbstractBrokerRegistration acts as a publisher for observer SubscribableChannel, which is inherited by StompBrokerRelayRegistration, SimpleBrokerRegistration, which gets Client Inbound Channel, which gets Client Outbound Channel, which gets Destination Prefixes, which gets SubscribableChannel parameter of brokerChannel Message Handler.

@@ -1,0 +1,1 @@
+ExpressionSupport acts as an observer, which inits CamelContext parameter of context, which matches Exchange parameter of exchange, which evaluates Exchange parameter of exchange, which asserts String parameter of text, Exchange parameter of exchange Matches, which assertions Exchange parameter of exchange Failure Message.

@@ -1,0 +1,2 @@
+MockJob acts as an observer, which inits, which is Successful, which gets FileSystem parameter of fs, ClientProtocol parameter of submitClient Job Submitter, which connects, which gets Submitted Credentials, which updates Status.
+MockJob acts as a publisher for observer ClientProtocol, which is inherited by, which inits, which is Successful, which gets FileSystem parameter of fs, ClientProtocol parameter of submitClient Job Submitter, which connects, which gets Submitted Credentials, which updates Status.

@@ -1,0 +1,3 @@
+AbstractAutoProxyCreator acts as a factory for TargetSourceCreator, which overrides.
+AbstractAutoProxyCreator acts as a factory for ControllerAdviceBean, which overrides.
+AbstractAutoProxyCreator acts as a factory for CommonAnnotationBeanPostProcessor, which overrides.

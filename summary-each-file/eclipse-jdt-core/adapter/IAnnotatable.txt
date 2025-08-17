@@ -1,0 +1,3 @@
+IAnnotatable acts as an adaptee for adapter ILocalVariable, which adapts to IJavaElement, ISourceReference, which adapts to IJavaElement, ISourceReference.
+IAnnotatable acts as an adaptee for adapter IPackageDeclaration, which adapts to IJavaElement, which adapts to IJavaElement.
+IAnnotatable acts as an adaptee for adapter IType, which adapts to IMember, which adapts to IMember.

@@ -1,0 +1,2 @@
+WireTapAbortPolicyTest acts as a publisher for observer CamelContext, which tears Down, which tests Send, which sets Up, which creates Route Builder.
+WireTapAbortPolicyTest acts as a publisher for observer Service, which tears Down, which tests Send, which sets Up, which creates Route Builder.

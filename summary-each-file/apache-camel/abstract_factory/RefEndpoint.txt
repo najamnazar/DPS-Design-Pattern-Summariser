@@ -1,0 +1,1 @@
+RefEndpoint acts as a factory for DelegateEndpoint, which overrides getEndpoint method of DelegateEndpoint.

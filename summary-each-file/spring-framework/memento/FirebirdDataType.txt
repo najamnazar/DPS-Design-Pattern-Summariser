@@ -1,0 +1,2 @@
+FirebirdDataType acts as a caretaker for memento SQL.
+FirebirdDataType acts as a caretaker for memento B.

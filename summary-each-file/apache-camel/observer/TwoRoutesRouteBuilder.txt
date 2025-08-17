@@ -1,0 +1,7 @@
+TwoRoutesRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+TwoRoutesRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+TwoRoutesRouteBuilder acts as an observer, which configures.
+TwoRoutesRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+TwoRoutesRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+TwoRoutesRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+TwoRoutesRouteBuilder acts as a publisher for observer Resource, which configures.

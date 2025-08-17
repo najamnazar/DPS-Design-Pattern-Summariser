@@ -1,0 +1,2 @@
+StaxConverterTest acts as a publisher for observer CamelContext, which tests Encoding Xml Event Reader, which tests Encoding Xml Stream Reader, which tests To Reader By Xml Stream Reader, which tests To Input Sream By Xml Stream Reader.
+StaxConverterTest acts as a publisher for observer Service, which tests Encoding Xml Event Reader, which tests Encoding Xml Stream Reader, which tests To Reader By Xml Stream Reader, which tests To Input Sream By Xml Stream Reader.

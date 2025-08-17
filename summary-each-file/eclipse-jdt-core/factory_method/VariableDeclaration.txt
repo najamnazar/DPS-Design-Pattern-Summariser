@@ -1,0 +1,1 @@
+VariableDeclaration acts as a factory for IVariableBinding, which overrides.

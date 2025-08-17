@@ -1,0 +1,2 @@
+MapBindingResult acts as a publisher for observer ObjectError, which gets Target Map, which gets Target, which gets String parameter of field Actual Field Value.
+MapBindingResult acts as a publisher for observer MessageCodesResolver, which gets Target Map, which gets Target, which gets String parameter of field Actual Field Value.

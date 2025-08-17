@@ -1,0 +1,1 @@
+TableDefinition acts as an originator for memento PackageDefinition.

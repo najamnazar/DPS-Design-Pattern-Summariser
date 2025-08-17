@@ -1,0 +1,10 @@
+Lock acts as an adaptee for adapter KeyAuthorizationKeyProvider.
+Lock acts as an adaptee for adapter LocalReplicaInPipeline.
+Lock acts as an adaptee for adapter RegistryDNS.
+Lock acts as an adaptee for adapter AbstractJavaKeyStoreProvider.
+Lock acts as an adaptee for adapter FSLeafQueue.
+Lock acts as an adaptee for adapter CleanerService.
+Lock acts as an adaptee for adapter AutoCloseDataSetLock.
+Lock acts as an adaptee for adapter AzureDfsToBlobIngressFallbackHandler.
+Lock acts as an adaptee for adapter AbstractNodeDescriptorsProvider.
+Lock acts as an adaptee for adapter InstrumentationService.

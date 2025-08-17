@@ -1,0 +1,2 @@
+JSONTableColumnsFirstStep acts as a factory for JSONTableColumnsFirstStep, which overrides.
+JSONTableColumnsFirstStep acts as a factory method for JSONTableColumnPathStep, which is inherited by JSONTableColumnsFirstStep.

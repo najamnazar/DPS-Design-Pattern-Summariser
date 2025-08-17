@@ -1,0 +1,1 @@
+CompressionOutputStream acts as a publisher for observer Compressor, which is inherited by CompressorStream, which sets Compressor parameter of compressor Tracked Compressor, which closes, which flushes, which writes byte[] parameter of b, int parameter of off, int parameter of len, which finishes, which resets State, which gets IOStatistics.

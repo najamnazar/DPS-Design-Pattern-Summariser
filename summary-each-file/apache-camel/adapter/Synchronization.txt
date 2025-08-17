@@ -1,0 +1,7 @@
+Synchronization acts as an adaptee for adapter ServiceBusConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+Synchronization acts as an adaptee for adapter IdempotentConsumer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+Synchronization acts as an adaptee for adapter CamelInternalProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+Synchronization acts as an adaptee for adapter VertxKafkaConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+Synchronization acts as an adaptee for adapter JmsBlockedAsyncRoutingEngineTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+Synchronization acts as an adaptee for adapter UnitOfWorkTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Synchronization acts as an adaptee for adapter CosmosDbConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

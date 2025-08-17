@@ -1,0 +1,2 @@
+AbstractMessageListenerContainer acts as a factory for JmsNamespaceHandlerTests, which overrides.
+AbstractMessageListenerContainer acts as a factory for AbstractAdaptableMessageListener, which overrides.

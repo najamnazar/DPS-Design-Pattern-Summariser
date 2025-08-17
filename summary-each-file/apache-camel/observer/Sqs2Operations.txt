@@ -1,0 +1,1 @@
+Sqs2Operations acts as an observer for publisher Sqs2Configuration, which is inherited by.

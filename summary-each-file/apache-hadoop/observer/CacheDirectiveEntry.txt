@@ -1,0 +1,1 @@
+CacheDirectiveEntry acts as an observer for publisher CacheDirectiveIterator, which is inherited by, which gets Info, which gets Stats.

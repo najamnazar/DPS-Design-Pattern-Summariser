@@ -1,0 +1,1 @@
+ReconfigurationProtocolTranslatorPB acts as a factory for ReconfigurationProtocol, which overrides startReconfiguration method of ReconfigurationProtocol, getReconfigurationStatus method of ReconfigurationProtocol, listReconfigurableProperties method of ReconfigurationProtocol.

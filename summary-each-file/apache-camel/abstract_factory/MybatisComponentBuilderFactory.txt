@@ -1,0 +1,1 @@
+MybatisComponentBuilderFactory acts as an abstract factory for MyBatisComponent, which is inherited by.

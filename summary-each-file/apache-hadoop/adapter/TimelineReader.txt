@@ -1,0 +1,2 @@
+TimelineReader acts as an adaptee for adapter TimelineReaderManager, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+TimelineReader acts as an adaptee for adapter HBaseTimelineReaderImpl, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

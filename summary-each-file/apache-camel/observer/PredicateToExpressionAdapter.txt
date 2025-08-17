@@ -1,0 +1,1 @@
+PredicateToExpressionAdapter acts as an observer, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which tos String, which tos final parameter of Predicate Expression.

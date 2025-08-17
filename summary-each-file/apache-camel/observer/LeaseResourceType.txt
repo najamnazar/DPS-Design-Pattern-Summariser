@@ -1,0 +1,1 @@
+LeaseResourceType acts as an observer for publisher KubernetesLockConfiguration, which is inherited by.

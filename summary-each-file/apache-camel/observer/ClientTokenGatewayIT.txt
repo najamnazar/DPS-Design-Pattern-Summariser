@@ -1,0 +1,1 @@
+ClientTokenGatewayIT acts as a publisher for observer AuthenticationType, which tests Client Token Generation, which creates Route Builder.

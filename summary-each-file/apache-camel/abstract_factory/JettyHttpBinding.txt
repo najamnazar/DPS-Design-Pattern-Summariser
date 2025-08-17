@@ -1,0 +1,1 @@
+JettyHttpBinding acts as an abstract factory for HeaderFilterStrategy, which is inherited by.

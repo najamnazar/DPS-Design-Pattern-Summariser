@@ -1,0 +1,2 @@
+NodeResourceMonitor acts as an adaptee for adapter NodeResourceMonitorImpl, which adapts to NodeResourceMonitor, AbstractService.
+NodeResourceMonitor acts as a target for adapter NodeResourceMonitorImpl, which adapts to NodeResourceMonitor.

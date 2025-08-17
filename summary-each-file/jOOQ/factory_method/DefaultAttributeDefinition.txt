@@ -1,0 +1,1 @@
+DefaultAttributeDefinition acts as a product for AbstractUDTDefinition, which overrides.

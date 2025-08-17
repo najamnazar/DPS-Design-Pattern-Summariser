@@ -1,0 +1,1 @@
+MappableBlock acts as an observer, which gets Length, which gets Address, which gets Key.

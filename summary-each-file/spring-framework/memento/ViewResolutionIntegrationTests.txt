@@ -1,0 +1,2 @@
+ViewResolutionIntegrationTests acts as an originator for memento SampleController, which samples a SampleController Controller to.
+ViewResolutionIntegrationTests acts as an originator for memento FreeMarkerViewResolver, which frees a FreeMarkerViewResolver Marker View Resolver to.

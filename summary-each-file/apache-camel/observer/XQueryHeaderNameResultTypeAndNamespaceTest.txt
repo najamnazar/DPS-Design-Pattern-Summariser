@@ -1,0 +1,5 @@
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer ConsumerTemplate, which tests XPath With Namespace, which creates Route Builder.
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer Service, which tests XPath With Namespace, which creates Route Builder.
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer ProducerTemplate, which tests XPath With Namespace, which creates Route Builder.
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer CamelContext, which tests XPath With Namespace, which creates Route Builder.
+XQueryHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer FluentProducerTemplate, which tests XPath With Namespace, which creates Route Builder.

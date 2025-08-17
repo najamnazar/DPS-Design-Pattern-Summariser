@@ -1,0 +1,1 @@
+DefaultXmlSignature2Message acts as a product for XmlVerifierConfiguration, which overrides mapToMessage method of XmlSignature2Message.

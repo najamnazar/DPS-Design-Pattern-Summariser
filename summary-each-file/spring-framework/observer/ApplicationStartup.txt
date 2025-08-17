@@ -1,0 +1,1 @@
+ApplicationStartup acts as an observer for publisher ConfigurationClassPostProcessor, which is inherited by FlightRecorderApplicationStartup, DefaultApplicationStartup, which starts String parameter of name.

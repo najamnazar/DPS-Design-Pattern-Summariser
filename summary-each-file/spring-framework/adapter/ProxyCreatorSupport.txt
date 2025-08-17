@@ -1,0 +1,1 @@
+ProxyCreatorSupport acts as an adapter, which adapts to AdvisedSupport, which adapts getAopProxyFactory method of AopProxyFactory to AdvisedSupport, which adapts to AdvisedSupport, which adapts to AdvisedSupport, which adapts to AdvisedSupport, which adapts activate method of AopProxyFactory to AdvisedSupport, which adapts to AdvisedSupport, which adapts to AdvisedSupport.

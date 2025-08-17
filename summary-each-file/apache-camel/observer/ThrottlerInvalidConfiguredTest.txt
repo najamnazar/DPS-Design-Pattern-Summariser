@@ -1,0 +1,2 @@
+ThrottlerInvalidConfiguredTest acts as a publisher for observer Service, which tests Invalid, which is Use Route Builder.
+ThrottlerInvalidConfiguredTest acts as a publisher for observer CamelContext, which tests Invalid, which is Use Route Builder.

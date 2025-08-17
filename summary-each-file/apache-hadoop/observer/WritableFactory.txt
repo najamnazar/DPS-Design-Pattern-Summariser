@@ -1,0 +1,1 @@
+WritableFactory acts as an observer for publisher WritableFactories, which is inherited by, which news Instance.

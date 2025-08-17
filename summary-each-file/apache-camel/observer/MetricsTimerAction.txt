@@ -1,0 +1,1 @@
+MetricsTimerAction acts as an observer for publisher MetricsEndpoint, which is inherited by.

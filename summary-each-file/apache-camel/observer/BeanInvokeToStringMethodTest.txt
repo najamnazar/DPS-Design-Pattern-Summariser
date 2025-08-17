@@ -1,0 +1,2 @@
+BeanInvokeToStringMethodTest acts as a publisher for observer CamelContext, which tests Invoke To String, which creates Route Builder.
+BeanInvokeToStringMethodTest acts as a publisher for observer Service, which tests Invoke To String, which creates Route Builder.

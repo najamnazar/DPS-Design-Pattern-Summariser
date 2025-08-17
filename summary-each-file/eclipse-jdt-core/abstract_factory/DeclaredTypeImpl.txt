@@ -1,0 +1,3 @@
+DeclaredTypeImpl acts as a product for DeclaredType, which overrides.
+DeclaredTypeImpl acts as a factory for DeclaredType, which overrides.
+DeclaredTypeImpl acts as a product for Types, which overrides.

@@ -1,0 +1,1 @@
+RawFileSystem acts as a factory for ObjectOutputStream, which overrides.

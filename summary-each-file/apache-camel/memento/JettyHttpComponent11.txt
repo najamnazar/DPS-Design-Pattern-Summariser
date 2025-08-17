@@ -1,0 +1,1 @@
+JettyHttpComponent11 acts as a caretaker for memento Context, which creates URI parameter of endpointUri, URI parameter of httpUri Endpoint, which creates Server parameter of server, JettyHttpEndpoint parameter of endpoint, SslContextFactory.Server parameter of sslcf Connector Jetty Internal.

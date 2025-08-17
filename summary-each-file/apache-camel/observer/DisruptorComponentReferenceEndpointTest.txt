@@ -1,0 +1,5 @@
+DisruptorComponentReferenceEndpointTest acts as a publisher for observer ProducerTemplate, which tests Disruptor Component Reference, which creates Route Builder, which numbers final parameter of DisruptorComponent Of References.
+DisruptorComponentReferenceEndpointTest acts as a publisher for observer Service, which tests Disruptor Component Reference, which creates Route Builder, which numbers final parameter of DisruptorComponent Of References.
+DisruptorComponentReferenceEndpointTest acts as a publisher for observer ConsumerTemplate, which tests Disruptor Component Reference, which creates Route Builder, which numbers final parameter of DisruptorComponent Of References.
+DisruptorComponentReferenceEndpointTest acts as a publisher for observer CamelContext, which tests Disruptor Component Reference, which creates Route Builder, which numbers final parameter of DisruptorComponent Of References.
+DisruptorComponentReferenceEndpointTest acts as a publisher for observer FluentProducerTemplate, which tests Disruptor Component Reference, which creates Route Builder, which numbers final parameter of DisruptorComponent Of References.

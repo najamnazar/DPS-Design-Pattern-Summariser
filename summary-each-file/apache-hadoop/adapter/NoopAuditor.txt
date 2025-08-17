@@ -1,0 +1,1 @@
+NoopAuditor acts as an adaptee for adapter NoopAuditManagerS3A, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

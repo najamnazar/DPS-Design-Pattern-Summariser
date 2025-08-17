@@ -1,0 +1,4 @@
+AbstractAspectJAdvice acts as a factory for AbstractAspectJAdvice, which overrides.
+AbstractAspectJAdvice acts as a factory method for AspectInstanceFactory, which is inherited by AbstractAspectJAdvice, AbstractAspectJAdvice, AbstractAspectJAdvice, AbstractAspectJAdvice, AbstractAspectJAdvice.
+AbstractAspectJAdvice acts as a product for AspectJAdvisorFactory, which overrides.
+AbstractAspectJAdvice acts as a factory for AspectJExpressionPointcutAdvisor, which overrides.

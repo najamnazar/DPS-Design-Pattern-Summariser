@@ -1,0 +1,15 @@
+DynamicResourceConfiguration acts as a product for Job, which overrides.
+DynamicResourceConfiguration acts as a product for GetSpaceUsed, which overrides.
+DynamicResourceConfiguration acts as a product for RunningJob, which overrides.
+DynamicResourceConfiguration acts as a product for WriteOperations, which overrides.
+DynamicResourceConfiguration acts as a product for ObjectStorage, which overrides.
+DynamicResourceConfiguration acts as a product for MutableConfigurationProvider, which overrides.
+DynamicResourceConfiguration acts as a product for AMRMProxyApplicationContext, which overrides.
+DynamicResourceConfiguration acts as a product for Configurable, which overrides.
+DynamicResourceConfiguration acts as a product for LaunchableService, which overrides.
+DynamicResourceConfiguration acts as a product for SPSService, which overrides.
+DynamicResourceConfiguration acts as a product for FileSystemAccess, which overrides.
+DynamicResourceConfiguration acts as a product for RMContext, which overrides.
+DynamicResourceConfiguration acts as a product for MiniMRClientCluster, which overrides.
+DynamicResourceConfiguration acts as a product for CapacitySchedulerContext, which overrides.
+DynamicResourceConfiguration acts as a product for MutableConfScheduler, which overrides.

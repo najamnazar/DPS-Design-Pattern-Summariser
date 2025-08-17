@@ -1,0 +1,4 @@
+ReplicaInPipeline acts as an abstract product for ReplicaInPipeline, which is inherited by ExternalReplicaInPipeline, LocalReplicaInPipeline.
+ReplicaInPipeline acts as a product for FsDatasetSpi, which overrides.
+ReplicaInPipeline acts as a product for FsDatasetTestUtils, which overrides.
+ReplicaInPipeline acts as an abstract factory for ReplicaInfo, which is inherited by ExternalReplicaInPipeline, LocalReplicaInPipeline.

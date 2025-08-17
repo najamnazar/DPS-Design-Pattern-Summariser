@@ -1,0 +1,1 @@
+TypeBound acts as an adapter, which adapts to ReductionResult, which adapts to ReductionResult, which adapts to ReductionResult, which adapts to ReductionResult, which adapts to ReductionResult.

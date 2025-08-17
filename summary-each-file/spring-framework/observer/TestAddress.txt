@@ -1,0 +1,1 @@
+TestAddress acts as an observer for publisher TestPerson, which is inherited by, which gets Street, which sets String parameter of street Street, which gets Cross Streets, which sets List<String> parameter of crossStreets Cross Streets.

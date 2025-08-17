@@ -1,0 +1,1 @@
+TimelineReaderMetrics acts as a singleton, which gets a TimelineReaderMetrics Instance to.

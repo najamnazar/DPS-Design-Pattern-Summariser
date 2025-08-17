@@ -1,0 +1,1 @@
+DefaultSqlPrepareStatementStrategy acts as a product for DefaultSqlEndpoint, which overrides populateStatement method of SqlPrepareStatementStrategy.

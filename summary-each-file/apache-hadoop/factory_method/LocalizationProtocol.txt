@@ -1,0 +1,2 @@
+LocalizationProtocol acts as a factory for LocalizationProtocol, which overrides.
+LocalizationProtocol acts as a factory method for LocalizerHeartbeatResponse, which is inherited by LocalizationProtocol, LocalizationProtocol.

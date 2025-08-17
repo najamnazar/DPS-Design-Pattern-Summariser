@@ -1,0 +1,3 @@
+IdentityDefinition acts as a factory for AbstractIndexDefinition, which overrides.
+IdentityDefinition acts as an abstract product for AbstractTableDefinition, which is inherited by DefaultIdentityDefinition.
+IdentityDefinition acts as a factory for IndexColumnDefinition, which overrides.

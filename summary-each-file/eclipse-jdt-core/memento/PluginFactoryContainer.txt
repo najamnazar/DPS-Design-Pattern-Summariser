@@ -1,0 +1,3 @@
+PluginFactoryContainer acts as a caretaker for memento Map, which adds String parameter of factoryName, String parameter of serviceName Factory Name, which exists, which loads Factory Names, which gets Id, which gets Enable Default, which gets Type.
+PluginFactoryContainer acts as a caretaker for memento S, which adds String parameter of factoryName, String parameter of serviceName Factory Name, which exists, which loads Factory Names, which gets Id, which gets Enable Default, which gets Type.
+PluginFactoryContainer acts as a caretaker for memento String, which adds String parameter of factoryName, String parameter of serviceName Factory Name, which exists, which loads Factory Names, which gets Id, which gets Enable Default, which gets Type.

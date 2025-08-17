@@ -1,0 +1,1 @@
+WordpressServiceTaxonomyAdapter acts as a factory for WordpressServiceTaxonomy, which overrides list method of WordpressServiceTaxonomy, retrieve method of WordpressServiceTaxonomy.

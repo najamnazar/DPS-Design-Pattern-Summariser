@@ -1,0 +1,2 @@
+RefInvalidTest acts as a publisher for observer Service, which tests Ok, which tests Invalid, which creates Camel Context, which creates Route Builder.
+RefInvalidTest acts as a publisher for observer CamelContext, which tests Ok, which tests Invalid, which creates Camel Context, which creates Route Builder.

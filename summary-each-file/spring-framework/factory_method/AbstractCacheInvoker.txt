@@ -1,0 +1,1 @@
+AbstractCacheInvoker acts as a factory for AspectJEnableCachingIsolatedTests, which overrides.

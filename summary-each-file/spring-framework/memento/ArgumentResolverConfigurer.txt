@@ -1,0 +1,1 @@
+ArgumentResolverConfigurer acts as a caretaker for memento A, which adds HandlerMethodArgumentResolver... parameter of resolver Custom Resolver, which gets Custom Resolvers.

@@ -1,0 +1,1 @@
+KeyGenerator acts as an abstract product for DefaultJCacheOperationSource, which is inherited by SimpleKeyGenerator, KeyGeneratorAdapter, SomeCustomKeyGenerator.

@@ -1,0 +1,1 @@
+Java8FilerProcessor acts as an adapter, which adapts to BaseProcessor, which adapts to BaseProcessor, which adapts createPackageBinary method of String to BaseProcessor.

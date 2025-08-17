@@ -1,0 +1,1 @@
+SingletonMetadataAwareAspectInstanceFactory acts as a component for decorator LazySingletonAspectInstanceFactoryDecorator, which overrides getAspectMetadataMetadataAwareAspectInstanceFactory, getAspectCreationMutexMetadataAwareAspectInstanceFactory.

@@ -1,0 +1,1 @@
+BatchAnnotationFactory acts as an observer, which gets Set<AnnotationTypeDeclaration> parameter of decls, AnnotationProcessorEnvironment parameter of env Processor For, which supports Annotation Types, which supports Options.

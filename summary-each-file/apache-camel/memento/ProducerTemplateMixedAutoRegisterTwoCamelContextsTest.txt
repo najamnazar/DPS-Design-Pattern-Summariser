@@ -1,0 +1,1 @@
+ProducerTemplateMixedAutoRegisterTwoCamelContextsTest acts as a caretaker for memento Context, which tests Has Template Camel1, which tests Has Template Camel2, which tests Has No Consumer Template Camel1, which tests Has No Consumer Template Camel2.

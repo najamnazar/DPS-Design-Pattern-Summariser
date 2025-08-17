@@ -1,0 +1,1 @@
+CachedHistoryStorage acts as a factory for HistoryStorage, which overrides setHistoryFileManager method of HistoryStorage, getFullJob method of HistoryStorage, getAllPartialJobs method of HistoryStorage, getPartialJobs method of HistoryStorage.

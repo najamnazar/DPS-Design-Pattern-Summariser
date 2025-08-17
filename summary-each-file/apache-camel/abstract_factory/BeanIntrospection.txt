@@ -1,0 +1,2 @@
+BeanIntrospection acts as an abstract product for BeanIntrospection, which is inherited by DefaultBeanIntrospection.
+BeanIntrospection acts as an abstract factory for, which is inherited by DefaultBeanIntrospection.

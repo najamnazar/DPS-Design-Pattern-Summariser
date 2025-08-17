@@ -1,0 +1,2 @@
+JavaElementInfo acts as a target for adapter ImportContainerInfo, which adapts to JavaElementInfo, which adapts to JavaElementInfo, which adapts to JavaElementInfo.
+JavaElementInfo acts as a target for adapter OpenableElementInfo, which adapts to JavaElementInfo, which adapts to JavaElementInfo, which adapts to JavaElementInfo.

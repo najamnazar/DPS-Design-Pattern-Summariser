@@ -1,0 +1,6 @@
+InvokeJmsMessageListenerTest acts as a publisher for observer FluentProducerTemplate, which tests Camel Invokes Message Listener, which creates Route Builder, which ons Message parameter of message Message.
+InvokeJmsMessageListenerTest acts as a publisher for observer ConsumerTemplate, which tests Camel Invokes Message Listener, which creates Route Builder, which ons Message parameter of message Message.
+InvokeJmsMessageListenerTest acts as a publisher for observer ProducerTemplate, which tests Camel Invokes Message Listener, which creates Route Builder, which ons Message parameter of message Message.
+InvokeJmsMessageListenerTest acts as a publisher for observer Message, which is inherited by, which tests Camel Invokes Message Listener, which creates Route Builder, which ons Message parameter of message Message.
+InvokeJmsMessageListenerTest acts as a publisher for observer Service, which tests Camel Invokes Message Listener, which creates Route Builder, which ons Message parameter of message Message.
+InvokeJmsMessageListenerTest acts as a publisher for observer CamelContext, which tests Camel Invokes Message Listener, which creates Route Builder, which ons Message parameter of message Message.

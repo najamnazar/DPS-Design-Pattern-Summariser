@@ -1,0 +1,1 @@
+Predicate acts as an abstract product for Predicate, which is inherited by ExpressionDefinition, ExpressionToPredicateAdapter, SimpleBuilder, MockExpressionClause, XPathBuilder, BeanExpression, MyHandlerPredicateBean, BinaryPredicate, ExpressionSupport, ExpressionClause, ValidationContextPredicate, MockValueBuilder, XQueryBuilder.

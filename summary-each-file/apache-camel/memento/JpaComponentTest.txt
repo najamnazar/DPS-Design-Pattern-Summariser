@@ -1,0 +1,2 @@
+JpaComponentTest acts as a caretaker for memento Context, which tests Jpa Component Consumer Has Lock Mode Type, which tests Jpa Component Ctr, which tests Jpa Component EMFand TM, which tests Jpa Component With Path, which tests Jpa Component Empty Path.
+JpaComponentTest acts as a caretaker for memento Producer, which tests Jpa Component Consumer Has Lock Mode Type, which tests Jpa Component Ctr, which tests Jpa Component EMFand TM, which tests Jpa Component With Path, which tests Jpa Component Empty Path.

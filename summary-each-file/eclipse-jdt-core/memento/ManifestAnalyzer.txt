@@ -1,0 +1,1 @@
+ManifestAnalyzer acts as a caretaker for memento List, which analyzes InputStream parameter of inputStream Manifest Contents, which analyzes char[] parameter of chars Manifest Contents, which adds StringBuilder parameter of currentJarToken Current Token Jar When Necessary, which gets Classpath Sections Count, which gets Called File Names.

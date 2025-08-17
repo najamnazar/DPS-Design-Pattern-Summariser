@@ -1,0 +1,2 @@
+Row acts as a memento, which is inherited by Row16, Row15, Row14, Row13, Row12, Row22, Row11, Row21, Row10, Row20, Row1, RowN, AbstractRow, Row19, Row18, Row17, Row8, Row9, Row6, Row7, Row4, Row5, Row2, Row3, which $fieldses Not Null, which $fieldses Not Null, which $fieldses Not Null, which $fieldses Not Null.
+Row acts as an originator for memento Row.

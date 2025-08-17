@@ -1,0 +1,1 @@
+BeanDefinitionResource acts as an adapter, which adapts to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource, which adapts getDescription method of BeanDefinition to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource.

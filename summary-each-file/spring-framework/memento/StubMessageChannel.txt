@@ -1,0 +1,1 @@
+StubMessageChannel acts as a caretaker for memento Message, which gets Messages, which sends Message<?> parameter of message, which sends Message<?> parameter of message, long parameter of timeout, which subscribes MessageHandler parameter of handler, which unsubscribes MessageHandler parameter of handler.

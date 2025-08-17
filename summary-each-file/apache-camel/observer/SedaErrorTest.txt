@@ -1,0 +1,2 @@
+SedaErrorTest acts as a publisher for observer CamelContext, which tests Error Handle, which creates Route Builder.
+SedaErrorTest acts as a publisher for observer Service, which tests Error Handle, which creates Route Builder.

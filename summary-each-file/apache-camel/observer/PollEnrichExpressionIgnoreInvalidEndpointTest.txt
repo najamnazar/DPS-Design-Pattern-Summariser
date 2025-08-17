@@ -1,0 +1,2 @@
+PollEnrichExpressionIgnoreInvalidEndpointTest acts as a publisher for observer CamelContext, which tests Poll Enrich Expression, which creates Route Builder.
+PollEnrichExpressionIgnoreInvalidEndpointTest acts as a publisher for observer Service, which tests Poll Enrich Expression, which creates Route Builder.

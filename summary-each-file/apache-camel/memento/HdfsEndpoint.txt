@@ -1,0 +1,1 @@
+HdfsEndpoint acts as a caretaker for memento Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config.

@@ -1,0 +1,1 @@
+DebeziumMongodbEndpoint acts as a caretaker for memento Configuration, which gets Configuration, which sets final parameter of MongoDbConnectorEmbeddedDebeziumConfiguration Configuration, which extracts Schema parameter of schema, Object parameter of value Body Value From Value Struct.

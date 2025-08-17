@@ -1,0 +1,1 @@
+SockJsSession acts as an abstract product for SockJsSession, which is inherited by AbstractSockJsSession.

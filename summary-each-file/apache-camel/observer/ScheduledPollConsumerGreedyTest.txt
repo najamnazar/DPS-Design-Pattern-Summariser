@@ -1,0 +1,2 @@
+ScheduledPollConsumerGreedyTest acts as a publisher for observer Service, which test321Greedies, which test321Nots Greedy.
+ScheduledPollConsumerGreedyTest acts as a publisher for observer CamelContext, which test321Greedies, which test321Nots Greedy.

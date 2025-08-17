@@ -1,0 +1,3 @@
+CreateTableCommentStep acts as an abstract product for CreateTableOnCommitStep, which is inherited by CreateTableImpl.
+CreateTableCommentStep acts as a factory for CreateTableCommentStep, which overrides.
+CreateTableCommentStep acts as a factory method for CreateTableStorageStep, which is inherited by CreateTableCommentStep, CreateTableCommentStep.

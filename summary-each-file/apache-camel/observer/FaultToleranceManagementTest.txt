@@ -1,0 +1,5 @@
+FaultToleranceManagementTest acts as a publisher for observer FluentProducerTemplate, which uses Jmx, which gets MBean Server, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceManagementTest acts as a publisher for observer ConsumerTemplate, which uses Jmx, which gets MBean Server, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceManagementTest acts as a publisher for observer ProducerTemplate, which uses Jmx, which gets MBean Server, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceManagementTest acts as a publisher for observer CamelContext, which uses Jmx, which gets MBean Server, which tests Fault Tolerance, which creates Route Builder.
+FaultToleranceManagementTest acts as a publisher for observer Service, which uses Jmx, which gets MBean Server, which tests Fault Tolerance, which creates Route Builder.

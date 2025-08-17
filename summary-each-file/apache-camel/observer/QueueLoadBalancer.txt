@@ -1,0 +1,1 @@
+QueueLoadBalancer acts as a publisher for observer AsyncProcessor, which processes final parameter of Exchange, final parameter of AsyncCallback, which chooses AsyncProcessor[] parameter of processors, Exchange parameter of exchange Processor.

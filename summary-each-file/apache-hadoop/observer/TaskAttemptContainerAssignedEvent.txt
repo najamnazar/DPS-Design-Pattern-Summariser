@@ -1,0 +1,2 @@
+TaskAttemptContainerAssignedEvent acts as an observer, which gets Container, which gets Application ACLs.
+TaskAttemptContainerAssignedEvent acts as an observer for publisher TestRMContainerAllocator, which is inherited by, which gets Container, which gets Application ACLs.

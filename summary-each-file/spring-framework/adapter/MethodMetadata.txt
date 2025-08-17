@@ -1,0 +1,1 @@
+MethodMetadata acts as an adaptee for adapter MethodMetadataReadingVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor.

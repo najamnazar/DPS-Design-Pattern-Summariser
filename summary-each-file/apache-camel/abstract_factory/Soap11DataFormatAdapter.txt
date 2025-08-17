@@ -1,0 +1,1 @@
+Soap11DataFormatAdapter acts as a factory for SoapDataFormatAdapter, which overrides getDataFormat method of SoapDataFormatAdapter, doMarshal method of SoapDataFormatAdapter, doUnmarshal method of SoapDataFormatAdapter, getSoapPackageName method of SoapDataFormatAdapter.

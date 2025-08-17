@@ -1,0 +1,1 @@
+IBufferChangedListener acts as an observer for publisher IBuffer, Buffer, which is inherited by BufferTests, Openable, which buffers BufferChangedEvent parameter of event Changed.

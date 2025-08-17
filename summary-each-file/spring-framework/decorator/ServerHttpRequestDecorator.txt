@@ -1,0 +1,1 @@
+ServerHttpRequestDecorator acts as a decorator for component ServerHttpRequest, which is inherited by.

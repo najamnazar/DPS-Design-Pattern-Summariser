@@ -1,0 +1,4 @@
+AnnotationTypeDeclaration acts as a product for AnnotationProcessorEnvironment, which overrides.
+AnnotationTypeDeclaration acts as a product for MemberDeclaration, which overrides.
+AnnotationTypeDeclaration acts as a product for DeclaredType, which overrides.
+AnnotationTypeDeclaration acts as an abstract product for AnnotationTypeDeclaration, which is inherited by AnnotationDeclarationImpl.

@@ -1,0 +1,1 @@
+MetricsBuffer acts as a caretaker for memento MetricsRecord, which iterators, which names, which records.

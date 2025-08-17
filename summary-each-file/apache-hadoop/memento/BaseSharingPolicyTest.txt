@@ -1,0 +1,1 @@
+BaseSharingPolicyTest acts as a caretaker for memento Plan, which is inherited by, which setups, which runs Test, which generates long parameter of period RLEAlloc, which gets Initialized Policy.

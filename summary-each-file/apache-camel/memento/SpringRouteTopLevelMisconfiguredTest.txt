@@ -1,0 +1,2 @@
+SpringRouteTopLevelMisconfiguredTest acts as a caretaker for memento Context, which creates Camel Context, which tests Misconfigured.
+SpringRouteTopLevelMisconfiguredTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Misconfigured.

@@ -1,0 +1,1 @@
+StAXEndpoint acts as a publisher for observer Processor, which gets Content Handler Class, which sets String parameter of contentHandlerClass Content Handler Class, which does Init.

@@ -1,0 +1,1 @@
+DomContentHandler acts as a product for AbstractStaxXMLReaderTests, which overrides.

@@ -1,0 +1,1 @@
+RefreshFairnessPolicyControllerHandler acts as a factory for RefreshHandler, which overrides handleRefresh method of RefreshHandler.

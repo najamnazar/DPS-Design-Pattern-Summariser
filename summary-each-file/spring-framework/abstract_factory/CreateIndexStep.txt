@@ -1,0 +1,2 @@
+CreateIndexStep acts as an abstract factory for CreateIndexIncludeStep, which is inherited by CreateIndexImpl.
+CreateIndexStep acts as an abstract product for CreateIndexStep, which is inherited by CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl, CreateIndexImpl.

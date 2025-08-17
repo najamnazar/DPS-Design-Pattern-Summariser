@@ -1,0 +1,2 @@
+RegistryConstants acts as an adaptee for adapter MicroZookeeperService.
+RegistryConstants acts as an adaptee for adapter CuratorService.

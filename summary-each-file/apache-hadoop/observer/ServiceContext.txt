@@ -1,0 +1,2 @@
+ServiceContext acts as an observer for publisher ServiceScheduler, which is inherited by MockRunningServiceContext, which gets Service Manager, which sets ServiceManager parameter of serviceManager Service Manager, which gets Service.
+ServiceContext acts as a publisher for observer ServiceManager, which is inherited by MockRunningServiceContext, which gets Service Manager, which sets ServiceManager parameter of serviceManager Service Manager, which gets Service.

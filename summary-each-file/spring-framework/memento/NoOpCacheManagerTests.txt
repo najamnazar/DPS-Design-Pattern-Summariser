@@ -1,0 +1,1 @@
+NoOpCacheManagerTests acts as a caretaker for memento C, which tests Get Cache, which tests No Op Cache, which tests Cache Name, which tests Cache Callable, which tests Cache Get Callable Fail, which creates Random Key.

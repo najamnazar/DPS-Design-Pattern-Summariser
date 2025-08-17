@@ -1,0 +1,1 @@
+CxfRsSslAsyncProducerTest acts as a caretaker for memento Context, which gets Port1, which creates Application Context, which tests Correct Trust Store, which tests No Trust Store, which tests Wrong Trust Store, which processes Exchange parameter of exchange.

@@ -1,0 +1,1 @@
+Comparator acts as an observer for publisher QuantifiedComparisonCondition, which is inherited by, which tos SQL, which tos Keyword, which inverses, which mirrors, which supports Nulls, which supports Quantifier, which supports Subselect.

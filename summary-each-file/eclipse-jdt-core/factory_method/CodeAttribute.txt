@@ -1,0 +1,1 @@
+CodeAttribute acts as a factory method for ILocalVariableAttribute, which is inherited by ICodeAttribute.

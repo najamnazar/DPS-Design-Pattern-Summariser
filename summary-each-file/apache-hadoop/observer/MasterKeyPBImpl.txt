@@ -1,0 +1,1 @@
+MasterKeyPBImpl acts as an observer, which gets Proto, which maybes Init Builder, which gets Key Id, which sets int parameter of id Key Id, which gets Bytes, which sets ByteBuffer parameter of bytes Bytes, which hashes Code, which equals Object parameter of obj.

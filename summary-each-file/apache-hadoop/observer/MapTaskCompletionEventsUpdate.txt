@@ -1,0 +1,1 @@
+MapTaskCompletionEventsUpdate acts as an observer, which shoulds Reset, which gets Map Task Completion Events, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields.

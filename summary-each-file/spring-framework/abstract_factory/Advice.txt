@@ -1,0 +1,1 @@
+Advice acts as an abstract product for Advice, which is inherited by DynamicIntroductionAdvice, BeforeAdvice, AfterAdvice, AbstractAspectJAdvice, Interceptor.

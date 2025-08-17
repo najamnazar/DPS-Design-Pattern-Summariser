@@ -1,0 +1,1 @@
+ElementCache acts as a caretaker for memento E, which closes LRUCacheEntry<K, parameter of JavaElementInfo>, which ensures JavaElementInfo parameter of info, IJavaElement parameter of parent Space Limit, which news int parameter of size, int parameter of newOverflow Instance, which resets IJavaElement parameter of parent Space Limit.

@@ -1,0 +1,1 @@
+MessageGroupIdStrategy acts as an observer for publisher Sns2Configuration, TestSnsConfiguration, which is inherited by ConstantMessageGroupIdStrategy, ExchangeIdMessageGroupIdStrategy, PropertyValueMessageGroupIdStrategy, which gets Exchange parameter of exchange Message Group Id.

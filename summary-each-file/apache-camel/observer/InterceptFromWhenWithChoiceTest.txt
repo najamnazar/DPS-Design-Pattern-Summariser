@@ -1,0 +1,2 @@
+InterceptFromWhenWithChoiceTest acts as a publisher for observer CamelContext, which tests Interceptor Hello World, which tests Interceptor Hello Goofy, which tests Interceptor Bye Goofy, which creates Route Builder.
+InterceptFromWhenWithChoiceTest acts as a publisher for observer Service, which tests Interceptor Hello World, which tests Interceptor Hello Goofy, which tests Interceptor Bye Goofy, which creates Route Builder.

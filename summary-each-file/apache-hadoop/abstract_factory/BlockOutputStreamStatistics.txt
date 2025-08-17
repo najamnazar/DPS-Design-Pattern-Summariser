@@ -1,0 +1,1 @@
+BlockOutputStreamStatistics acts as an abstract product for BlockOutputStreamStatistics, which is inherited by OutputStreamStatistics.

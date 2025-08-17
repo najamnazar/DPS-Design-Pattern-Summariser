@@ -1,0 +1,1 @@
+QueueInfo acts as an abstract product for QueueInfo, which is inherited by QueueInfoPBImpl, JobQueueInfo.

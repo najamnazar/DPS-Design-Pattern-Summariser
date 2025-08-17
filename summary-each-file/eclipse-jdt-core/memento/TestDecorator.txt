@@ -1,0 +1,2 @@
+TestDecorator acts as a caretaker for memento Test, which is inherited by, which basices TestResult parameter of result Run, which counts Test Cases, which runs TestResult parameter of result, which tos String, which gets Test.
+TestDecorator acts as a memento, which gets Test, which gets Test, which gets Test, which gets Test, which gets Test.

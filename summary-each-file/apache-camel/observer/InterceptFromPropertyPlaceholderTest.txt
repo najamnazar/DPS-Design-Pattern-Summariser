@@ -1,0 +1,2 @@
+InterceptFromPropertyPlaceholderTest acts as a publisher for observer CamelContext, which tests Intercept From, which creates Route Builder, which creates Camel Context.
+InterceptFromPropertyPlaceholderTest acts as a publisher for observer Service, which tests Intercept From, which creates Route Builder, which creates Camel Context.

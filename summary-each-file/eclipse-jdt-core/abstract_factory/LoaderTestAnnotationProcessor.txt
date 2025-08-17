@@ -1,0 +1,2 @@
+LoaderTestAnnotationProcessor acts as a product for EclipseAnnotationProcessorFactory, which overrides.
+LoaderTestAnnotationProcessor acts as a product for AnnotationProcessorFactory, which overrides.

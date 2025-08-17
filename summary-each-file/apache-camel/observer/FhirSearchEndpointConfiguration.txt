@@ -1,0 +1,2 @@
+FhirSearchEndpointConfiguration acts as an observer, which gets Extra Parameters, which sets java.util.Map<org.apache.camel.component.fhir.api.ExtraParameters, parameter of Object> Extra Parameters, which gets Url, which sets String parameter of url Url.
+FhirSearchEndpointConfiguration acts as a publisher for observer FhirApiName, which gets Extra Parameters, which sets java.util.Map<org.apache.camel.component.fhir.api.ExtraParameters, parameter of Object> Extra Parameters, which gets Url, which sets String parameter of url Url.

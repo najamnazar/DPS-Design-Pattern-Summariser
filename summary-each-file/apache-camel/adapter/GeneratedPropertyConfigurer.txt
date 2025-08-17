@@ -1,0 +1,16 @@
+GeneratedPropertyConfigurer acts as an adaptee for adapter Sjms2EndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter FtpsComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter FtpsEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter WebsocketComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter XsltSaxonComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter XsltSaxonEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter DataSetTestEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter ResteasyEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter NettyHttpComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter ResteasyComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter AMQPComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter WebsocketEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter DataSetEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter XJEndpointConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter DataSetComponentConfigurer.
+GeneratedPropertyConfigurer acts as an adaptee for adapter NettyHttpEndpointConfigurer.

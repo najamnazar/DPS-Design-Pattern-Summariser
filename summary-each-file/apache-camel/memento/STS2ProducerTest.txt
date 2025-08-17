@@ -1,0 +1,2 @@
+STS2ProducerTest acts as a caretaker for memento Producer, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.
+STS2ProducerTest acts as a caretaker for memento Context, which stses Assume Role Test, which stses Get Session Token Test, which stses Get Federation Token Test, which creates Route Builder.

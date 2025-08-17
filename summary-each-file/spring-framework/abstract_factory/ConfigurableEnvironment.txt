@@ -1,0 +1,4 @@
+ConfigurableEnvironment acts as a product for EnvironmentCapable, which overrides.
+ConfigurableEnvironment acts as an abstract product for ConfigurableEnvironment, which is inherited by ConfigurableWebEnvironment, AbstractEnvironment.
+ConfigurableEnvironment acts as a product for ConditionContext, which overrides.
+ConfigurableEnvironment acts as an abstract factory for, which is inherited by AbstractEnvironment.

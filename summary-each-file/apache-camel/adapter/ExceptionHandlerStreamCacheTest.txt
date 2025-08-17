@@ -1,0 +1,1 @@
+ExceptionHandlerStreamCacheTest acts as an adapter, which adapts to ContextTestSupport, which adapts doTestInputStreamPayload method of MockEndpoint to ContextTestSupport, which adapts to ContextTestSupport, which adapts doTestXmlPayload method of MockEndpoint to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

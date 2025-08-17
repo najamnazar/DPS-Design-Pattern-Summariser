@@ -1,0 +1,1 @@
+PreemptableResourceScheduler acts as an observer, which kills RMContainer parameter of container Reserved Container, which marks ApplicationAttemptId parameter of aid, RMContainer parameter of container Container For Preemption, which marks RMContainer parameter of container Container For Killable.

@@ -1,0 +1,1 @@
+BatchProcessingEnvImpl acts as a factory method for JavaFileManager, which is inherited by BaseProcessingEnvImpl, BaseProcessingEnvImpl.

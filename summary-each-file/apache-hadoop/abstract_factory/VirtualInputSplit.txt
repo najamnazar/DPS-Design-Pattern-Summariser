@@ -1,0 +1,3 @@
+VirtualInputSplit acts as a product for WritableFactory, which overrides write method of Writable, readFields method of Writable.
+VirtualInputSplit acts as a product for MapContext, which overrides getLength method of InputSplit, getLocations method of InputSplit.
+VirtualInputSplit acts as a product for Reporter, which overrides getLength method of InputSplit, getLocations method of InputSplit.

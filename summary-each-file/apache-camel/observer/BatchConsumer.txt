@@ -1,0 +1,1 @@
+BatchConsumer acts as an observer, which sets int parameter of maxMessagesPerPoll Max Messages Per Poll, which processes Queue<Object> parameter of exchanges Batch, which is Batch Allowed.

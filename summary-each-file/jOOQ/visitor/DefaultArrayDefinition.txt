@@ -1,0 +1,1 @@
+DefaultArrayDefinition acts as a visitor for element Configuration, which overrides, which gets a Element Type to, which gets a Element Type to, which gets a Index Type to, which gets a Index Type to.

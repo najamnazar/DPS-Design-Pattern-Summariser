@@ -1,0 +1,1 @@
+OperationEnum acts as an observer for publisher Job, ScheduledJob, CamelJob, which is inherited by, which froms String parameter of v Value.

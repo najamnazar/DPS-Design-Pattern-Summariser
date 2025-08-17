@@ -1,0 +1,1 @@
+MemberDeclarationImpl acts as a factory for MemberDeclaration, which overrides.

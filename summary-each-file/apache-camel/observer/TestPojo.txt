@@ -1,0 +1,1 @@
+TestPojo acts as an observer for publisher TestReflection, TestReflectionImpl, which is inherited by, which gets Pojo Name, which sets String parameter of pojoName Pojo Name.

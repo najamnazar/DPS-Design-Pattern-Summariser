@@ -1,0 +1,2 @@
+AnnotationClassFilter acts as a caretaker for memento A, which matches Class<?> parameter of clazz, which equals @Nullable parameter of Object, which hashes Code, which tos String.
+AnnotationClassFilter acts as a caretaker for memento C, which matches Class<?> parameter of clazz, which equals @Nullable parameter of Object, which hashes Code, which tos String.

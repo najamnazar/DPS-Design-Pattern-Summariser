@@ -1,0 +1,4 @@
+AbstractRequestInterceptor acts as a factory for AbstractRequestInterceptor, which overrides getConf method of AbstractRequestInterceptor.
+AbstractRequestInterceptor acts as a product for TestDistributedScheduler, which overrides setNextInterceptor method of RequestInterceptor, recover method of RequestInterceptor, shutdown method of RequestInterceptor, getNextInterceptor method of RequestInterceptor.
+AbstractRequestInterceptor acts as a factory method for AMRMProxyApplicationContext, which is inherited by RequestInterceptor, AbstractRequestInterceptor, AbstractRequestInterceptor, AbstractRequestInterceptor, AbstractRequestInterceptor, AbstractRequestInterceptor.
+AbstractRequestInterceptor acts as a factory for TestDistributedScheduler, which overrides setNextInterceptor method of TestDistributedScheduler, recover method of TestDistributedScheduler, shutdown method of TestDistributedScheduler, getNextInterceptor method of TestDistributedScheduler.

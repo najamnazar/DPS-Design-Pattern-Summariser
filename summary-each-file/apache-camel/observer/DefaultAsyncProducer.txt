@@ -1,0 +1,1 @@
+DefaultAsyncProducer acts as a publisher for observer Exchange, which is inherited by ServiceBusProducer, CosmosDbProducer, IgniteComputeProducer, ControlBusProducer, VertxProducer, GrpcProducer, ElasticsearchProducer, NettyProducer, CxfRsProducer, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange Async.

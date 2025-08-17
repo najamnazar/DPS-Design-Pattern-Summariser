@@ -1,0 +1,2 @@
+InterceptableChannel acts as a factory for InterceptableChannel, which overrides.
+InterceptableChannel acts as a factory method for ChannelInterceptor, which is inherited by AbstractMessageChannel, InterceptableChannel.

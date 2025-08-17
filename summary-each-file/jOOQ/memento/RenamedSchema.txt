@@ -1,0 +1,1 @@
+RenamedSchema acts as a caretaker for memento Clause, which gets Tables, which gets UDTs, which gets Sequences.

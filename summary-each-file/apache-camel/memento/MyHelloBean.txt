@@ -1,0 +1,1 @@
+MyHelloBean acts as a memento, which tos String.

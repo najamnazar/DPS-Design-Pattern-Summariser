@@ -1,0 +1,1 @@
+DefaultDiagnosticsListener acts as a product for DefaultDiagnosticsListenerProvider, which overrides.

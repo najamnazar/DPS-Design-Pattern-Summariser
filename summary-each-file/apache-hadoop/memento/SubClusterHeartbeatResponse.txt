@@ -1,0 +1,2 @@
+SubClusterHeartbeatResponse acts as a memento, which is inherited by SubClusterHeartbeatResponsePBImpl, which news Instance.
+SubClusterHeartbeatResponse acts as an originator for memento SubClusterHeartbeatResponse, which is inherited by, which news a SubClusterHeartbeatResponse Instance to.

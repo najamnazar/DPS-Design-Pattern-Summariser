@@ -1,0 +1,1 @@
+ApplicationHistoryProtocol acts as an adaptee for adapter ApplicationHistoryClientService.

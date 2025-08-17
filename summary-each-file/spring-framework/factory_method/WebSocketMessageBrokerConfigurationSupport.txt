@@ -1,0 +1,2 @@
+WebSocketMessageBrokerConfigurationSupport acts as a factory for WebSocketConfigurationSupport, which overrides.
+WebSocketMessageBrokerConfigurationSupport acts as a factory for MessageBrokerConfigurationTests, which overrides.

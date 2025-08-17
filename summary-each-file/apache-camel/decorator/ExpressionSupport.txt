@@ -1,0 +1,2 @@
+ExpressionSupport acts as a component for decorator ExpressionDefinition, which overrides initPredicate, matchesPredicate.
+ExpressionSupport acts as a component for decorator MockValueBuilder, which overrides initExpression, matchesExpression.

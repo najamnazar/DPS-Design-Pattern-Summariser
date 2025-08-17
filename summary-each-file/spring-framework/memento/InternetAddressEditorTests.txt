@@ -1,0 +1,1 @@
+InternetAddressEditorTests acts as a caretaker for memento A, which uninitializeds, which sets Null, which sets Empty, which alls Whitespace, which simples Good Address, which excesses Whitespace, which simples Bad Address.

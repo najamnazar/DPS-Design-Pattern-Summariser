@@ -1,0 +1,1 @@
+ValidationContextPredicate acts as an observer, which matches Exchange parameter of exchange, which dynamices Message parameter of message, HapiContext parameter of hapiContext Validation Context.

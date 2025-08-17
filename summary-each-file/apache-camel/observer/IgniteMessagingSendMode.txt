@@ -1,0 +1,1 @@
+IgniteMessagingSendMode acts as an observer for publisher IgniteMessagingEndpoint, which is inherited by.

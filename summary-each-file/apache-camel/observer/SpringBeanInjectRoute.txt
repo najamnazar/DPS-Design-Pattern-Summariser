@@ -1,0 +1,7 @@
+SpringBeanInjectRoute acts as a publisher for observer Resource, which configures.
+SpringBeanInjectRoute acts as a publisher for observer RoutesDefinition, which configures.
+SpringBeanInjectRoute acts as a publisher for observer RestsDefinition, which configures.
+SpringBeanInjectRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+SpringBeanInjectRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+SpringBeanInjectRoute acts as an observer, which configures.
+SpringBeanInjectRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

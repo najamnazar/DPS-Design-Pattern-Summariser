@@ -1,0 +1,1 @@
+PingStatus acts as an observer for publisher TextPublishable, Post, Page, which is inherited by.

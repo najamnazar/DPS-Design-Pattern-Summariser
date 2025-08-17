@@ -1,0 +1,1 @@
+MasterKeyData acts as an observer for publisher NMTokenSecretManagerInNM, which is inherited by, which gets Master Key, which gets Secret Key.

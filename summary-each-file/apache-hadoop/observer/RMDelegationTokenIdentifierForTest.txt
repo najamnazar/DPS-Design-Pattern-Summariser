@@ -1,0 +1,2 @@
+RMDelegationTokenIdentifierForTest acts as a publisher for observer Text, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which gets Message, which equals Object parameter of obj.
+RMDelegationTokenIdentifierForTest acts as an observer, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which gets Message, which equals Object parameter of obj.

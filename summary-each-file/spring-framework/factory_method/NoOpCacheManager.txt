@@ -1,0 +1,2 @@
+NoOpCacheManager acts as a product for JCacheManagerFactoryBean, which overrides getCache method of CacheManager, getCacheNames method of CacheManager.
+NoOpCacheManager acts as a factory method for Cache, which is inherited by CacheManager, CacheManager, AbstractJCacheAnnotationTests, AbstractJCacheAnnotationTests, CacheManager, CacheManager, AbstractJCacheAnnotationTests, AbstractJCacheAnnotationTests, AbstractCacheManager, AbstractCacheManager, CacheManager, AbstractJCacheAnnotationTests, AbstractTransactionSupportingCacheManager, CacheManager.

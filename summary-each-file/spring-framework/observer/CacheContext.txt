@@ -1,0 +1,1 @@
+CacheContext acts as an observer, which caches Type.

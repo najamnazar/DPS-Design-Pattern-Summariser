@@ -1,0 +1,2 @@
+DefaultForeignKeyDefinition acts as a caretaker for memento UniqueKeyDefinition, which gets Key Table, which gets Key Columns, which gets Referenced Key, which resolves Referenced Key, which gets Referenced Table, which gets Referenced Columns, which counts Similar References.
+DefaultForeignKeyDefinition acts as a caretaker for memento ColumnDefinition, which gets Key Table, which gets Key Columns, which gets Referenced Key, which resolves Referenced Key, which gets Referenced Table, which gets Referenced Columns, which counts Similar References.

@@ -1,0 +1,1 @@
+JdbcMessageIdRepositoryTest acts as a caretaker for memento Context, which sets Up, which tests Duplicate Messages Are Filtered Out, which tests Failed Exchanges Not Added, which creates Application Context.

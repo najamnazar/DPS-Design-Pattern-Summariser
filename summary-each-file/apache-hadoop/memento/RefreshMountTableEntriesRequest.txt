@@ -1,0 +1,2 @@
+RefreshMountTableEntriesRequest acts as an originator for memento RefreshMountTableEntriesRequest, which is inherited by, which news a RefreshMountTableEntriesRequest Instance to.
+RefreshMountTableEntriesRequest acts as a memento, which is inherited by RefreshMountTableEntriesRequestPBImpl, which news Instance.

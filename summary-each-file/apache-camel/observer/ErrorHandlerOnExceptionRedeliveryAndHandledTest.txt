@@ -1,0 +1,2 @@
+ErrorHandlerOnExceptionRedeliveryAndHandledTest acts as a publisher for observer CamelContext, which tests Redelivery Counter Is Reset When Handled, which creates Route Builder.
+ErrorHandlerOnExceptionRedeliveryAndHandledTest acts as a publisher for observer Service, which tests Redelivery Counter Is Reset When Handled, which creates Route Builder.

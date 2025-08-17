@@ -1,0 +1,2 @@
+GetSubClusterPoliciesConfigurationsRequest acts as a memento, which is inherited by GetSubClusterPoliciesConfigurationsRequestPBImpl, which news Instance.
+GetSubClusterPoliciesConfigurationsRequest acts as an originator for memento GetSubClusterPoliciesConfigurationsRequest, which is inherited by, which news a GetSubClusterPoliciesConfigurationsRequest Instance to.

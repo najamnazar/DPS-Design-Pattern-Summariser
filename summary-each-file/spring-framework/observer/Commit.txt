@@ -1,0 +1,1 @@
+Commit acts as an observer for publisher CommitImpl, which is inherited by CommitImpl.

@@ -1,0 +1,2 @@
+ECS2ClientHealthCheckStaticCredsTest acts as a caretaker for memento Producer, which creates Camel Context, which creates Route Builder, which tests Connectivity.
+ECS2ClientHealthCheckStaticCredsTest acts as a caretaker for memento Context, which creates Camel Context, which creates Route Builder, which tests Connectivity.

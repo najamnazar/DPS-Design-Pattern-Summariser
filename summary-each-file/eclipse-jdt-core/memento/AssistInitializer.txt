@@ -1,0 +1,3 @@
+AssistInitializer acts as a caretaker for memento Binding, which gets IProgressMonitor parameter of monitor Element Info, which gets String parameter of typeName, int parameter of count Type.
+AssistInitializer acts as a caretaker for memento Map, which gets IProgressMonitor parameter of monitor Element Info, which gets String parameter of typeName, int parameter of count Type.
+AssistInitializer acts as a caretaker for memento E, which gets IProgressMonitor parameter of monitor Element Info, which gets String parameter of typeName, int parameter of count Type.

@@ -1,0 +1,1 @@
+URL acts as an abstract product for URL, which is inherited by URLPBImpl.

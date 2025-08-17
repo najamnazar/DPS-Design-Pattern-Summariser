@@ -1,0 +1,1 @@
+TypeParameterDeclaration acts as an observer, which gets Bounds, which gets Owner.

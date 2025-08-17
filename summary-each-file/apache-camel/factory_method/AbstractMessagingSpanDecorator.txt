@@ -1,0 +1,1 @@
+AbstractMessagingSpanDecorator acts as a factory for SpanDecorator, which overrides.

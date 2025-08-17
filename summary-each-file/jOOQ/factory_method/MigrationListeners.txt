@@ -1,0 +1,1 @@
+MigrationListeners acts as a product for DefaultMigrationListenerProvider, which overrides migrationStart method of MigrationListener, migrationEnd method of MigrationListener, queriesStart method of MigrationListener, queriesEnd method of MigrationListener, queryStart method of MigrationListener, queryEnd method of MigrationListener.

@@ -1,0 +1,1 @@
+CamelConfiguration acts as an observer for publisher MainConfigurationProperties, which is inherited by MyScanConfiguration, MyOtherConfiguration, which configures CamelContext parameter of camelContext.

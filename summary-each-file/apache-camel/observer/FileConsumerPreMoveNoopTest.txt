@@ -1,0 +1,2 @@
+FileConsumerPreMoveNoopTest acts as a publisher for observer CamelContext, which tests Pre Move Noop, which tests Pre Move Noop Same File Twice, which creates Route Builder, which processes Exchange parameter of exchange.
+FileConsumerPreMoveNoopTest acts as a publisher for observer Service, which tests Pre Move Noop, which tests Pre Move Noop Same File Twice, which creates Route Builder, which processes Exchange parameter of exchange.

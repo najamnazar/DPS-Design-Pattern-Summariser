@@ -1,0 +1,2 @@
+SagaFailuresTest acts as a publisher for observer Service, which tests Compensation After Failures, which tests No Compensation After Max Failures, which tests Completion After Failures, which tests No Completion After Max Failures, which creates Route Builder.
+SagaFailuresTest acts as a publisher for observer CamelContext, which tests Compensation After Failures, which tests No Compensation After Max Failures, which tests Completion After Failures, which tests No Completion After Max Failures, which creates Route Builder.

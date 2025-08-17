@@ -1,0 +1,1 @@
+RawMessageWSDLGetOutInterceptor acts as a publisher for observer Message, which is inherited by, which handles Message parameter of message Message.

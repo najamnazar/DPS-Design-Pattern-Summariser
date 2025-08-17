@@ -1,0 +1,1 @@
+ClassArrayEditor acts as a caretaker for memento C, which sets String parameter of text As Text, which gets As Text.

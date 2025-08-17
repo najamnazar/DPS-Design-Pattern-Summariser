@@ -1,0 +1,1 @@
+EmptyAsyncCallback acts as an observer, which gets, which does boolean parameter of doneSync.

@@ -1,0 +1,1 @@
+RouterRefreshUserMappingsProtocolTranslatorPB acts as an adapter, which adapts to RefreshUserMappingsProtocolClientSideTranslatorPB, which adapts to RefreshUserMappingsProtocolClientSideTranslatorPB.

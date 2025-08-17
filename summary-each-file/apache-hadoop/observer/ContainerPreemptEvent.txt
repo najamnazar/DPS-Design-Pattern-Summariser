@@ -1,0 +1,2 @@
+ContainerPreemptEvent acts as an observer, which gets Container, which gets App Id, which tos String.
+ContainerPreemptEvent acts as an observer for publisher TestProportionalCapacityPreemptionPolicy, which is inherited by, which gets Container, which gets App Id, which tos String.

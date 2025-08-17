@@ -1,0 +1,1 @@
+DataFrameCallback acts as an adaptee for adapter SparkEndpoint, which adapts to DefaultEndpoint.

@@ -1,0 +1,2 @@
+GreedyPlanner acts as a product for PlanContext, which overrides plan method of Planner.
+GreedyPlanner acts as a factory for Planner, which overrides plan method of Planner.

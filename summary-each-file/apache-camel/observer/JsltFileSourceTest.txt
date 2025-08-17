@@ -1,0 +1,5 @@
+JsltFileSourceTest acts as a publisher for observer ConsumerTemplate, which tests Jslt As Input Stream, which tests Invalid Body, which tests Jslt As Text, which tests Jslt As Input Stream Pretty Print, which creates Route Builder.
+JsltFileSourceTest acts as a publisher for observer FluentProducerTemplate, which tests Jslt As Input Stream, which tests Invalid Body, which tests Jslt As Text, which tests Jslt As Input Stream Pretty Print, which creates Route Builder.
+JsltFileSourceTest acts as a publisher for observer Service, which tests Jslt As Input Stream, which tests Invalid Body, which tests Jslt As Text, which tests Jslt As Input Stream Pretty Print, which creates Route Builder.
+JsltFileSourceTest acts as a publisher for observer ProducerTemplate, which tests Jslt As Input Stream, which tests Invalid Body, which tests Jslt As Text, which tests Jslt As Input Stream Pretty Print, which creates Route Builder.
+JsltFileSourceTest acts as a publisher for observer CamelContext, which tests Jslt As Input Stream, which tests Invalid Body, which tests Jslt As Text, which tests Jslt As Input Stream Pretty Print, which creates Route Builder.

@@ -1,0 +1,1 @@
+FlightRecorderStartupStep acts as an observer, which gets Name, which gets Id, which gets Parent Id, which gets Level, which gets Begin Time, which gets Type, which gets Description, which ends Step.

@@ -1,0 +1,1 @@
+ConstructorExecutor acts as an adaptee for adapter ConstructorReference, which adapts to SpelNodeImpl.

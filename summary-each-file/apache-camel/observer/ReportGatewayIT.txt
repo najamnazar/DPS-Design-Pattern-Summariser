@@ -1,0 +1,1 @@
+ReportGatewayIT acts as a publisher for observer AuthenticationType, which tests Transaction Level Fees, which creates Route Builder.

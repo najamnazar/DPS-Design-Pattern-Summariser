@@ -1,0 +1,3 @@
+CompletionOnAnnotationOfType acts as a product for DeclaredType, which overrides.
+CompletionOnAnnotationOfType acts as a product for AnnotationProcessorEnvironment, which overrides.
+CompletionOnAnnotationOfType acts as a product for MemberDeclaration, which overrides.

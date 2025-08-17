@@ -1,0 +1,2 @@
+GetTaskAttemptCompletionEventsResponse acts as an abstract factory for TaskAttemptCompletionEvent, which is inherited by GetTaskAttemptCompletionEventsResponsePBImpl.
+GetTaskAttemptCompletionEventsResponse acts as an abstract product for GetTaskAttemptCompletionEventsResponse, which is inherited by GetTaskAttemptCompletionEventsResponsePBImpl.

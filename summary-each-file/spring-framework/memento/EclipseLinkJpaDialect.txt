@@ -1,0 +1,1 @@
+EclipseLinkJpaDialect acts as a caretaker for memento C, which sets boolean parameter of lazyDatabaseTransaction Lazy Database Transaction, which begins EntityManager parameter of entityManager, TransactionDefinition parameter of definition Transaction, which gets EntityManager parameter of entityManager, boolean parameter of readOnly Jdbc Connection, which gets Connection.

@@ -1,0 +1,2 @@
+HttpSendingTransportHandlerTests acts as a caretaker for memento C, which setups, which handles Request Xhr, which handles Request Xhr Streaming, which htmls File Transport, which events Source Transport, which frames Formats.
+HttpSendingTransportHandlerTests acts as a caretaker for memento A, which setups, which handles Request Xhr, which handles Request Xhr Streaming, which htmls File Transport, which events Source Transport, which frames Formats.

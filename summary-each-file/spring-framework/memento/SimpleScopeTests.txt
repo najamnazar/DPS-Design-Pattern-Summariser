@@ -1,0 +1,1 @@
+SimpleScopeTests acts as a caretaker for memento B, which setups, which tests Can Get Scoped Object.

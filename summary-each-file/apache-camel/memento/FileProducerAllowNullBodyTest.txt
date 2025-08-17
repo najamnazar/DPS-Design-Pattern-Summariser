@@ -1,0 +1,2 @@
+FileProducerAllowNullBodyTest acts as a caretaker for memento Producer, which tests Allow Null Body True, which tests Allow Null Body False.
+FileProducerAllowNullBodyTest acts as a caretaker for memento Context, which tests Allow Null Body True, which tests Allow Null Body False.

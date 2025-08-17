@@ -1,0 +1,1 @@
+DelegationTokenProvider acts as an observer for publisher TestSignerManager, which is inherited by S3AFileSystem, which gets Fs Delegation Token.

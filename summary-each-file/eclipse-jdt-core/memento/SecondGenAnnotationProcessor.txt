@@ -1,0 +1,3 @@
+SecondGenAnnotationProcessor acts as a caretaker for memento E, which processes.
+SecondGenAnnotationProcessor acts as a caretaker for memento String, which processes.
+SecondGenAnnotationProcessor acts as a caretaker for memento S, which processes.

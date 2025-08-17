@@ -1,0 +1,1 @@
+RequiresNewSagaProcessor acts as a caretaker for memento SagaCompletionMode, which processes Exchange parameter of exchange, AsyncCallback parameter of callback.

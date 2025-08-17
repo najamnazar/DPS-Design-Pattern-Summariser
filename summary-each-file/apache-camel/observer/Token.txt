@@ -1,0 +1,1 @@
+Token acts as an observer for publisher ParseException, which is inherited by, which gets Value, which tos String, which news int parameter of ofKind, String parameter of image Token, which news int parameter of ofKind Token.

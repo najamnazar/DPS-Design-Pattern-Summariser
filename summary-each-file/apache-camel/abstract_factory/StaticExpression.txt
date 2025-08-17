@@ -1,0 +1,9 @@
+StaticExpression acts as a product for EndpointConsumerBuilder, which overrides.
+StaticExpression acts as a product for EndpointProducerBuilder, which overrides.
+StaticExpression acts as a product for AnnotationExpressionFactory, which overrides.
+StaticExpression acts as a product for SimpleNode, which overrides.
+StaticExpression acts as a product for ParameterMappingStrategy, which overrides.
+StaticExpression acts as a product for ModelReifierFactory, which overrides.
+StaticExpression acts as a product for ExpressionFactory, which overrides.
+StaticExpression acts as a product for ModelCamelContext, which overrides.
+StaticExpression acts as a product for BinaryPredicate, which overrides.

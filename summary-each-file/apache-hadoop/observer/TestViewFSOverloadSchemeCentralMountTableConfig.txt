@@ -1,0 +1,1 @@
+TestViewFSOverloadSchemeCentralMountTableConfig acts as a publisher for observer Configuration, which sets Up, which adds String parameter of mountTable, String[] parameter of sources, String[] parameter of targets, Configuration parameter of conf Mount Links.

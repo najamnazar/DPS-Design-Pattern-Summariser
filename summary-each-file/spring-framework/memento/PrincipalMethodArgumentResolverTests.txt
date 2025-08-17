@@ -1,0 +1,1 @@
+PrincipalMethodArgumentResolverTests acts as a caretaker for memento A, which setups, which principals, which principals As Null, which annotateds Principal, which supports ServletRequest parameter of p0, Principal parameter of p1 Params, which supports @AuthenticationPrincipal parameter of Principal Params With Annotated Principal.

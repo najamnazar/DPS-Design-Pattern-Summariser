@@ -1,0 +1,2 @@
+ChoiceCompoundPredicateTest acts as a publisher for observer CamelContext, which tests Guest, which tests User, which tests Admin, which tests God, which tests Rider God, which creates Route Builder.
+ChoiceCompoundPredicateTest acts as a publisher for observer Service, which tests Guest, which tests User, which tests Admin, which tests God, which tests Rider God, which creates Route Builder.

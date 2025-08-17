@@ -1,0 +1,1 @@
+JndiObjectTargetSource acts as a visitor for element Advised, which overrides, which sets a Lookup On Startup to, which sets a Cache to, which afters a Properties Set to, which gets a Target Class to, which is a Static to, which gets a Target to, which releases a Target to.

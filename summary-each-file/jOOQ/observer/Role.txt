@@ -1,0 +1,1 @@
+Role acts as an observer for publisher GrantToStep, GrantImpl, which is inherited by RoleImpl.

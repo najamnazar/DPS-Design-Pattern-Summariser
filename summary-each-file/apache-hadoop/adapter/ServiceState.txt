@@ -1,0 +1,1 @@
+ServiceState acts as an adaptee for adapter ServiceStatus, which adapts to BaseResource.

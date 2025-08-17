@@ -1,0 +1,2 @@
+ExpressionFactory acts as a factory for ServiceCallProcessorFactory, which overrides.
+ExpressionFactory acts as an abstract product for ExpressionDefinition, which is inherited by ExpressionDefinition.

@@ -1,0 +1,1 @@
+Interval acts as a memento, which is inherited by DayToSecond, YearToSecond, YearToMonth, which tos Duration, which tos Duration, which tos Duration, which tos Duration, which tos Duration, which tos Duration, which tos Duration, which tos Duration, which tos Duration, which tos Duration.

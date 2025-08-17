@@ -1,0 +1,2 @@
+DefaultLanguageResolver acts as a product for ExtendedCamelContext, which overrides resolveLanguage method of LanguageResolver.
+DefaultLanguageResolver acts as a factory for LanguageResolver, which overrides resolveLanguage method of LanguageResolver.

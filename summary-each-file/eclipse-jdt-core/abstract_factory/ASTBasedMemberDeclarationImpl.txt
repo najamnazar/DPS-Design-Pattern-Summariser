@@ -1,0 +1,1 @@
+ASTBasedMemberDeclarationImpl acts as a factory for MemberDeclaration, which overrides getDeclaringType method of MemberDeclaration.

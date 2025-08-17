@@ -1,0 +1,1 @@
+DataSourceLookup acts as an adaptee for adapter AbstractRoutingDataSource, which adapts to AbstractDataSource.

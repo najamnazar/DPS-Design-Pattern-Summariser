@@ -1,0 +1,1 @@
+Generator acts as an adaptee for adapter GeneratorStrategyWrapper, which adapts to AbstractDelegatingGeneratorStrategy.

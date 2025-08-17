@@ -1,0 +1,2 @@
+PlatformTransactionManager acts as a product for TransactionManagementConfigurer, which overrides.
+PlatformTransactionManager acts as an abstract factory for TransactionStatus, which is inherited by PlatformTransactionManagerFacade, AbstractPlatformTransactionManager.

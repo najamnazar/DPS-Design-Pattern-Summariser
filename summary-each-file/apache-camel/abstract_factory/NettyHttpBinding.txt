@@ -1,0 +1,1 @@
+NettyHttpBinding acts as an abstract factory for Message, HeaderFilterStrategy, which is inherited by DefaultNettyHttpBinding.

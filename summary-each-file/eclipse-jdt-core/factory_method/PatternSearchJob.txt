@@ -1,0 +1,2 @@
+PatternSearchJob acts as a product for JobManager, which overrides belongsTo method of IJob, cancel method of IJob, ensureReadyToRun method of IJob, waitNeeded method of IJob, getJobFamily method of IJob.
+PatternSearchJob acts as a factory for SearchableEnvironment, which overrides.

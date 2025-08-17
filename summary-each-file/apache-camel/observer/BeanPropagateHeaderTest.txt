@@ -1,0 +1,2 @@
+BeanPropagateHeaderTest acts as a publisher for observer Service, which tests Bean In Only Propagate Headers, which creates Registry, which creates Route Builder, which confirms int parameter of id Order.
+BeanPropagateHeaderTest acts as a publisher for observer CamelContext, which tests Bean In Only Propagate Headers, which creates Registry, which creates Route Builder, which confirms int parameter of id Order.

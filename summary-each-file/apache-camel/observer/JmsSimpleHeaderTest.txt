@@ -1,0 +1,1 @@
+JmsSimpleHeaderTest acts as a publisher for observer ArtemisService, which tests Byte JMSHeaders, which tests Char JMSHeaders, which tests Char Sequence JMSHeaders, which gets Component Name, which creates Route Builder.

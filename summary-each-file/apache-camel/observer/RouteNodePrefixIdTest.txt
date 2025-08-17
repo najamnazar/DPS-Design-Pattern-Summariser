@@ -1,0 +1,2 @@
+RouteNodePrefixIdTest acts as a publisher for observer Service, which tests Route Prefix Id, which creates Route Builder.
+RouteNodePrefixIdTest acts as a publisher for observer CamelContext, which tests Route Prefix Id, which creates Route Builder.

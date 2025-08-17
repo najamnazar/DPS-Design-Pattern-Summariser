@@ -1,0 +1,1 @@
+OutputChannelReceiver acts as an adaptee for adapter CamelDirectSenderTest, which adapts to AbstractWSATests, which adapts to AbstractWSATests, which adapts to AbstractWSATests.

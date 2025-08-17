@@ -1,0 +1,1 @@
+KillTaskAttemptResponse acts as an abstract product for KillTaskAttemptResponse, which is inherited by KillTaskAttemptResponsePBImpl.

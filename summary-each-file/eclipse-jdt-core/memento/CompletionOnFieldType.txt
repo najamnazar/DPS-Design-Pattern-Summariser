@@ -1,0 +1,1 @@
+CompletionOnFieldType acts as a caretaker for memento Binding, which prints int parameter of tab, StringBuilder parameter of output Statement.

@@ -1,0 +1,1 @@
+CamelEndpointDispatcher acts as an observer for publisher SpringWebserviceConfiguration, which is inherited by, which invokes MessageContext parameter of messageContext, which gets Consumer Message Endpoint, which sets MessageEndpoint parameter of consumer Consumer Message Endpoint.

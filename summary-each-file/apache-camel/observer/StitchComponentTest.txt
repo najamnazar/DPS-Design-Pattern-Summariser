@@ -1,0 +1,5 @@
+StitchComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Normal Properties, which tests If Not All Properties.
+StitchComponentTest acts as a publisher for observer Service, which tests Normal Properties, which tests If Not All Properties.
+StitchComponentTest acts as a publisher for observer ConsumerTemplate, which tests Normal Properties, which tests If Not All Properties.
+StitchComponentTest acts as a publisher for observer ProducerTemplate, which tests Normal Properties, which tests If Not All Properties.
+StitchComponentTest acts as a publisher for observer CamelContext, which tests Normal Properties, which tests If Not All Properties.

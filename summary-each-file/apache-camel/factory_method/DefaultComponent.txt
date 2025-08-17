@@ -1,0 +1,1 @@
+DefaultComponent acts as a factory for PropertyConfigurerAware, which overrides.

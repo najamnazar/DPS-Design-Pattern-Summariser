@@ -1,0 +1,1 @@
+QueryFactory acts as an observer for publisher JpaConsumer, which is inherited by QueryBuilder, which creates EntityManager parameter of entityManager Query.

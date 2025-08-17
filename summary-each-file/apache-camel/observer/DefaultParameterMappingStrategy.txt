@@ -1,0 +1,1 @@
+DefaultParameterMappingStrategy acts as an observer, which gets Class<?> parameter of parameterType Default Parameter Type Expression.

@@ -1,0 +1,1 @@
+RMNodeWrapper acts as an originator for memento NodeState, which gets a NodeState State to.

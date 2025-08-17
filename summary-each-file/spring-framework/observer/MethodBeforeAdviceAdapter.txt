@@ -1,0 +1,1 @@
+MethodBeforeAdviceAdapter acts as an observer, which supports Advice parameter of advice Advice, which gets Advisor parameter of advisor Interceptor.

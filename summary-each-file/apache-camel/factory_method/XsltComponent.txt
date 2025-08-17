@@ -1,0 +1,2 @@
+XsltComponent acts as a factory for XsltComponent, which overrides.
+XsltComponent acts as a factory method for XsltUriResolverFactory, which is inherited by XsltComponent.

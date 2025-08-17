@@ -1,0 +1,2 @@
+OnExceptionUseOriginalMessageTest acts as a publisher for observer Service, which tests On Exception Error, which tests On Exception Stream Reset, which creates Route Builder, which processes Exchange parameter of exchange.
+OnExceptionUseOriginalMessageTest acts as a publisher for observer CamelContext, which tests On Exception Error, which tests On Exception Stream Reset, which creates Route Builder, which processes Exchange parameter of exchange.

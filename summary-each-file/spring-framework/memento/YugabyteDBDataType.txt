@@ -1,0 +1,2 @@
+YugabyteDBDataType acts as a caretaker for memento B.
+YugabyteDBDataType acts as a caretaker for memento SQL.

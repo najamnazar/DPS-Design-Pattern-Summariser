@@ -1,0 +1,1 @@
+Location acts as an adaptee for adapter AbstractStaxXMLReader, which adapts to AbstractXMLReader, which adapts to AbstractXMLReader.

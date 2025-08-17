@@ -1,0 +1,1 @@
+DownloadModelineParser acts as a publisher for observer Trait, which parses Resource parameter of resource, String parameter of key, String parameter of value Modeline.

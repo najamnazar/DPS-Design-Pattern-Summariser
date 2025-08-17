@@ -1,0 +1,1 @@
+RequestBeanHolder acts as a decorator for component BeanHolder, which is inherited by.

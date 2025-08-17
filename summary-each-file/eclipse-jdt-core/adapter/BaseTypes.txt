@@ -1,0 +1,4 @@
+BaseTypes acts as an adaptee for adapter MethodBinding.
+BaseTypes acts as an adaptee for adapter RecoveredInitializer.
+BaseTypes acts as an adaptee for adapter RecoveredBlock.
+BaseTypes acts as an adaptee for adapter RecoveredMethod.

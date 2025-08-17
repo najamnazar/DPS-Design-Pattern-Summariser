@@ -1,0 +1,3 @@
+DefaultJpaDialect acts as a product for EntityManagerFactoryInfo, which overrides beginTransaction method of JpaDialect, prepareTransaction method of JpaDialect, cleanupTransaction method of JpaDialect, getJdbcConnection method of JpaDialect.
+DefaultJpaDialect acts as a factory for JpaDialect, which overrides beginTransaction method of JpaDialect, prepareTransaction method of JpaDialect, cleanupTransaction method of JpaDialect, getJdbcConnection method of JpaDialect.
+DefaultJpaDialect acts as a product for JpaVendorAdapter, which overrides beginTransaction method of JpaDialect, prepareTransaction method of JpaDialect, cleanupTransaction method of JpaDialect, getJdbcConnection method of JpaDialect.

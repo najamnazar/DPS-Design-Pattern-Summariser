@@ -1,0 +1,1 @@
+FSOperationType acts as an adaptee for adapter ITestAbfsCustomEncryption, which adapts to AbstractAbfsIntegrationTest.

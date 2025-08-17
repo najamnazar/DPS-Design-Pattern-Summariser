@@ -1,0 +1,2 @@
+StaxEventXMLReaderTests acts as a caretaker for memento C, which creates InputStream parameter of inputStream Stax Xml Reader, which partials.
+StaxEventXMLReaderTests acts as a caretaker for memento A, which creates InputStream parameter of inputStream Stax Xml Reader, which partials.

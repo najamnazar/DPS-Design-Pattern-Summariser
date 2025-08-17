@@ -1,0 +1,2 @@
+TestSimpSession acts as a caretaker for memento User, which gets Id, which gets User, which sets TestSimpUser parameter of user User, which gets Subscriptions, which adds TestSimpSubscription... parameter of subscriptions Subscriptions, which equals Object parameter of other, which hashes Code, which tos String.
+TestSimpSession acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.

@@ -1,0 +1,1 @@
+AbstractSubClusterResolver acts as a target for adapter DefaultSubClusterResolverImpl, which adapts to AbstractSubClusterResolver, which adapts to AbstractSubClusterResolver, which adapts to AbstractSubClusterResolver, which adapts to AbstractSubClusterResolver.

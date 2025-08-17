@@ -1,0 +1,1 @@
+InnerNode acts as an adaptee for adapter InnerNodeImpl, which adapts to NodeBase, which adapts to NodeBase, which adapts to NodeBase, which adapts to NodeBase, which adapts to NodeBase, which adapts to NodeBase, which adapts to NodeBase, which adapts to NodeBase.

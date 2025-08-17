@@ -1,0 +1,1 @@
+JmsActivationSpecFactory acts as an observer for publisher DefaultJcaListenerContainerFactory, which is inherited by StubJmsActivationSpecFactory, StandardJmsActivationSpecFactory, which creates ResourceAdapter parameter of adapter, JmsActivationSpecConfig parameter of config Activation Spec.

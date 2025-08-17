@@ -1,0 +1,1 @@
+DomainDefinition acts as a memento, which is inherited by DefaultDomainDefinition, which gets Base Type, which gets Base Type.

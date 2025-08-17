@@ -1,0 +1,1 @@
+AdvisorAdapter acts as an abstract factory for MethodInterceptor, which is inherited by AfterReturningAdviceAdapter, MethodBeforeAdviceAdapter, AdvisorAdapterRegistrationTests, ThrowsAdviceAdapter.

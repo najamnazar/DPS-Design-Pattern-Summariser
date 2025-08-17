@@ -1,0 +1,5 @@
+PulsarITSupport acts as a publisher for observer Service, which gets Pulsar Broker Url, which gets Pulsar Admin Url.
+PulsarITSupport acts as a publisher for observer CamelContext, which gets Pulsar Broker Url, which gets Pulsar Admin Url.
+PulsarITSupport acts as a publisher for observer FluentProducerTemplate, which gets Pulsar Broker Url, which gets Pulsar Admin Url.
+PulsarITSupport acts as a publisher for observer ConsumerTemplate, which gets Pulsar Broker Url, which gets Pulsar Admin Url.
+PulsarITSupport acts as a publisher for observer ProducerTemplate, which gets Pulsar Broker Url, which gets Pulsar Admin Url.

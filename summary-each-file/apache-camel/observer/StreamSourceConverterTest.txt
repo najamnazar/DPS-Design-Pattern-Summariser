@@ -1,0 +1,2 @@
+StreamSourceConverterTest acts as a publisher for observer CamelContext, which tests To Input Stream, which tests To Reader.
+StreamSourceConverterTest acts as a publisher for observer Service, which tests To Input Stream, which tests To Reader.

@@ -1,0 +1,1 @@
+HdfsManifestToResourcesPlugin acts as a factory for RuncManifestToResourcesPlugin, which overrides getLayerResources method of RuncManifestToResourcesPlugin.

@@ -1,0 +1,3 @@
+MetaAnnotationConfigWacTests acts as a caretaker for memento C, which foos Enigma Autowired, which basices Wac Features.
+MetaAnnotationConfigWacTests acts as a caretaker for memento ApplicationContext, which foos Enigma Autowired, which basices Wac Features.
+MetaAnnotationConfigWacTests acts as a caretaker for memento A, which foos Enigma Autowired, which basices Wac Features.

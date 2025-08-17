@@ -1,0 +1,2 @@
+TestableFederationInterceptorREST acts as a publisher for observer SubClusterId, which registers SubClusterId parameter of badSC Bad Sub Cluster, which setups Resource Manager, which shutdowns, which gets Mock RM.
+TestableFederationInterceptorREST acts as a publisher for observer SubClusterId, which is inherited by, which registers SubClusterId parameter of badSC Bad Sub Cluster, which setups Resource Manager, which shutdowns, which gets Mock RM.

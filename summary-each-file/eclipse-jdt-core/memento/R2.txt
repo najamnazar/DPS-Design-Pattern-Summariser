@@ -1,0 +1,3 @@
+R2 acts as a caretaker for memento E.
+R2 acts as a caretaker for memento R.
+R2 acts as a caretaker for memento S.

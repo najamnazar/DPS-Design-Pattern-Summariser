@@ -1,0 +1,1 @@
+HBaseLocalContainerService acts as a factory for HBaseService, which overrides getConfiguration method of HBaseService.

@@ -1,0 +1,1 @@
+CompletionOnRecordComponentName acts as an adapter, which adapts to RecordComponent, which adapts to RecordComponent.

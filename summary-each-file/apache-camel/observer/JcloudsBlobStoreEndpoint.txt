@@ -1,0 +1,1 @@
+JcloudsBlobStoreEndpoint acts as a publisher for observer JcloudsConfiguration, which creates Producer, which creates Processor parameter of processor Consumer.

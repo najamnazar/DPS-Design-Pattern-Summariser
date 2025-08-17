@@ -1,0 +1,1 @@
+AnnotationMethodInfo acts as an observer, which creates byte[] parameter of classFileBytes, int[] parameter of offsets, int parameter of offset, long parameter of version Annotation Method, which gets Default Value.

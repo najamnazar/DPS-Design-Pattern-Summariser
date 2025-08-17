@@ -1,0 +1,2 @@
+ASTBasedMethodDeclarationImpl acts as a target for adapter ASTBasedAnnotationElementDeclarationImpl, which adapts to ASTBasedMethodDeclarationImpl, which adapts to ASTBasedMethodDeclarationImpl, which adapts to ASTBasedMethodDeclarationImpl.
+ASTBasedMethodDeclarationImpl acts as an adapter, which adapts to ASTBasedExecutableDeclarationImpl, which adapts to ASTBasedExecutableDeclarationImpl, which adapts to ASTBasedExecutableDeclarationImpl.

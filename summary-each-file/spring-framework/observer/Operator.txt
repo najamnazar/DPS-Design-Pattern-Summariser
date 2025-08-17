@@ -1,0 +1,1 @@
+Operator acts as an observer for publisher SelectQueryImpl, which is inherited by OpOr, OpPlus, OperatorInstanceof, OpDivide, OperatorPower, OpEQ, OpMultiply, OpGT, OpLT, OperatorMatches, OpDec, OpInc, OpModulus, OpMinus, OpGE, OpAnd, OpNE, OperatorBetween, OpLE, which tos SQL, which tos Keyword, which identities.

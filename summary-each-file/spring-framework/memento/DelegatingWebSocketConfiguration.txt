@@ -1,0 +1,1 @@
+DelegatingWebSocketConfiguration acts as a caretaker for memento C, which sets List<WebSocketConfigurer> parameter of configurers Configurers, which registers WebSocketHandlerRegistry parameter of registry Web Socket Handlers.

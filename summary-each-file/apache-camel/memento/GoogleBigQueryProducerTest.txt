@@ -1,0 +1,2 @@
+GoogleBigQueryProducerTest acts as a caretaker for memento Configuration, which sends Message, which sends Message With Table Id, which uses As Insert Id Config, which lists Of Messages.
+GoogleBigQueryProducerTest acts as a caretaker for memento Producer, which sends Message, which sends Message With Table Id, which uses As Insert Id Config, which lists Of Messages.

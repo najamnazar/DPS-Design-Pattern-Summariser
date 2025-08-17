@@ -1,0 +1,3 @@
+ContextLoaderListener acts as a caretaker for memento A, which contexts ServletContextEvent parameter of event Initialized, which contexts ServletContextEvent parameter of event Destroyed.
+ContextLoaderListener acts as a caretaker for memento C, which contexts ServletContextEvent parameter of event Initialized, which contexts ServletContextEvent parameter of event Destroyed.
+ContextLoaderListener acts as a caretaker for memento ApplicationContext, which contexts ServletContextEvent parameter of event Initialized, which contexts ServletContextEvent parameter of event Destroyed.

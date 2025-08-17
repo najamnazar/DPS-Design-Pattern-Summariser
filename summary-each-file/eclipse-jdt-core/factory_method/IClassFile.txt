@@ -1,0 +1,2 @@
+IClassFile acts as an abstract product for IMember, which is inherited by AbstractClassFile.
+IClassFile acts as a factory for ResolveTests, which overrides.

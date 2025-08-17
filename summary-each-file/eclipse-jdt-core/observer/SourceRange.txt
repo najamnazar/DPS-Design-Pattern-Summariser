@@ -1,0 +1,1 @@
+SourceRange acts as an observer for publisher SourceMapper, which is inherited by, which is ISourceRange parameter of range Available, which equals Object parameter of obj, which gets Length, which gets Offset, which hashes Code, which tos String.

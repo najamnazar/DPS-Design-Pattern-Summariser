@@ -1,0 +1,1 @@
+JmsKeyFormatStrategy acts as an observer for publisher SjmsEndpoint, Sjms2Endpoint, which is inherited by DefaultJmsKeyFormatStrategy, PassThroughJmsKeyFormatStrategy, which encodes String parameter of key Key, which decodes String parameter of key Key.

@@ -1,0 +1,1 @@
+AbstractClientHttpRequest acts as a component for decorator ClientHttpRequestDecorator, which overrides getHeadersClientHttpRequest.

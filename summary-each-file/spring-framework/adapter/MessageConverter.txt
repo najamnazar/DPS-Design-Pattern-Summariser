@@ -1,0 +1,1 @@
+MessageConverter acts as an adaptee for adapter AbstractMessageListenerContainer, which adapts to AbstractJmsListeningContainer, which adapts to AbstractJmsListeningContainer.

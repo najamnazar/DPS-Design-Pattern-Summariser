@@ -1,0 +1,2 @@
+IDOMInitializer acts as a target for adapter DOMInitializer, which adapts to IDOMInitializer, which adapts to IDOMInitializer, which adapts to IDOMInitializer, which adapts to IDOMInitializer.
+IDOMInitializer acts as an adaptee for adapter DOMInitializer, which adapts to IDOMInitializer, DOMMember, which adapts to IDOMInitializer, DOMMember, which adapts to IDOMInitializer, DOMMember, which adapts to IDOMInitializer, DOMMember.

@@ -1,0 +1,3 @@
+RenderingResponse acts as a product for AsyncServerResponse, which overrides.
+RenderingResponse acts as a product for ServerResponse, which overrides.
+RenderingResponse acts as an abstract factory for, which is inherited by.

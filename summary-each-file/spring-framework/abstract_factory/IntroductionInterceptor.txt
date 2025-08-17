@@ -1,0 +1,2 @@
+IntroductionInterceptor acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+IntroductionInterceptor acts as a product for AdvisorAdapter, which overrides.

@@ -1,0 +1,1 @@
+FederationCache acts as a factory for FederationStateStoreFacade, which overrides.

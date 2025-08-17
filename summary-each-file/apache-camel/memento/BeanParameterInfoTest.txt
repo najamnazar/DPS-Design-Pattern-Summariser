@@ -1,0 +1,2 @@
+BeanParameterInfoTest acts as a caretaker for memento Producer, which tests Method Pattern Using Method Annotations, which hellos @Body parameter of String.
+BeanParameterInfoTest acts as a caretaker for memento Context, which tests Method Pattern Using Method Annotations, which hellos @Body parameter of String.

@@ -1,0 +1,1 @@
+YAMLLibrary acts as an observer for publisher YAMLDataFormat, which is inherited by, which gets Data Format Name.

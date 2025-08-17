@@ -1,0 +1,1 @@
+PayloadByteArrayJmsTest acts as a publisher for observer ArtemisService, which tests Reader Should Be Byte Array, which tests Input Stream Should Be Byte Array, which tests Byte Buffer Should Be Byte Array, which gets Component Name, which creates Route Builder.

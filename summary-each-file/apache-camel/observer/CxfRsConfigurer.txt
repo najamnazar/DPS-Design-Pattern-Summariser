@@ -1,0 +1,1 @@
+CxfRsConfigurer acts as an observer for publisher ChainedCxfRsConfigurer, which is inherited by SslCxfRsConfigurer, HostnameVerifierCxfRsConfigurer, ChainedCxfRsConfigurer, which configures AbstractJAXRSFactoryBean parameter of factoryBean, which configures Client parameter of client Client, which configures Server parameter of server Server.

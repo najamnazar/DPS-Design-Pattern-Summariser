@@ -1,0 +1,1 @@
+QueueBrowseStrategy acts as an observer for publisher JmsComponent, ActiveMQComponent, AMQPComponent, which is inherited by DefaultQueueBrowseStrategy, which browses JmsOperations parameter of template, String parameter of queue, JmsBrowsableEndpoint parameter of endpoint.

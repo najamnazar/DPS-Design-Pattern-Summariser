@@ -1,0 +1,1 @@
+LocalizationEvent acts as an observer for publisher TestContainer, which is inherited by ContainerLocalizationEvent, ApplicationLocalizationEvent.

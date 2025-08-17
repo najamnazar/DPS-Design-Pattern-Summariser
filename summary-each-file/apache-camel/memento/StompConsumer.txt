@@ -1,0 +1,1 @@
+StompConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which processes Exchange parameter of exchange Exchange.

@@ -1,0 +1,1 @@
+ServletContextPropertyUtils acts as a caretaker for memento C, which resolves String parameter of text, ServletContext parameter of servletContext Placeholders, which resolves String parameter of text, ServletContext parameter of servletContext, boolean parameter of ignoreUnresolvablePlaceholders Placeholders, which resolves String parameter of placeholderName Placeholder.

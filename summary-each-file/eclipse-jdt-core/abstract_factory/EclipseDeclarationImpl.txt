@@ -1,0 +1,3 @@
+EclipseDeclarationImpl acts as a product for TypeParameterDeclaration, which overrides.
+EclipseDeclarationImpl acts as a factory for EclipseMirrorObject, which overrides getEnvironment method of EclipseMirrorObject.
+EclipseDeclarationImpl acts as a factory for Declaration, which overrides.

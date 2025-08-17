@@ -1,0 +1,1 @@
+CacheResultOperation acts as a caretaker for memento C, which gets Exception Type Filter, which is Always Invoked, which gets Exception Cache Resolver, which gets Exception Cache Name.

@@ -1,0 +1,1 @@
+Stat acts as an adapter, which adapts to Shell, which adapts to Shell, which adapts to Shell, which adapts to Shell, which adapts to Shell.

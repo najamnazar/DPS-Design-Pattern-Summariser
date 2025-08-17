@@ -1,0 +1,1 @@
+ContentTypeEnum acts as an observer for publisher JobBase, QueryJob, Job, which is inherited by, which froms String parameter of v Value.

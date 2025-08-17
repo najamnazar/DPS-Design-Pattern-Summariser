@@ -1,0 +1,2 @@
+RunBug563501Tests acts as a caretaker for memento S, which suites.
+RunBug563501Tests acts as a caretaker for memento String, which suites.

@@ -1,0 +1,2 @@
+OnExceptionWithTwoBeansTest acts as a publisher for observer CamelContext, which creates Registry, which tests On Exception First Bean, which tests On Exception Second Bean, which creates Route Builder, which checkins String parameter of message, which handles String parameter of message.
+OnExceptionWithTwoBeansTest acts as a publisher for observer Service, which creates Registry, which tests On Exception First Bean, which tests On Exception Second Bean, which creates Route Builder, which checkins String parameter of message, which handles String parameter of message.

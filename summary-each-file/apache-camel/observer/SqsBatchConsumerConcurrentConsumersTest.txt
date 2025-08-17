@@ -1,0 +1,5 @@
+SqsBatchConsumerConcurrentConsumersTest acts as a publisher for observer ProducerTemplate, which receives Batch, which adds Client, which creates Route Builder.
+SqsBatchConsumerConcurrentConsumersTest acts as a publisher for observer CamelContext, which receives Batch, which adds Client, which creates Route Builder.
+SqsBatchConsumerConcurrentConsumersTest acts as a publisher for observer Service, which receives Batch, which adds Client, which creates Route Builder.
+SqsBatchConsumerConcurrentConsumersTest acts as a publisher for observer ConsumerTemplate, which receives Batch, which adds Client, which creates Route Builder.
+SqsBatchConsumerConcurrentConsumersTest acts as a publisher for observer FluentProducerTemplate, which receives Batch, which adds Client, which creates Route Builder.

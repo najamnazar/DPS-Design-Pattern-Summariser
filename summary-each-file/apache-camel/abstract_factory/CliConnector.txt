@@ -1,0 +1,1 @@
+CliConnector acts as an abstract product for CliConnector, which is inherited by LocalCliConnector.

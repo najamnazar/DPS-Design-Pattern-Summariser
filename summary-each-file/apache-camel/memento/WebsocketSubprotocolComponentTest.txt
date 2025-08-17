@@ -1,0 +1,2 @@
+WebsocketSubprotocolComponentTest acts as a caretaker for memento Context, which ons Session parameter of session Connect, which sets Up, which creates Camel Context, which tests Subprotocol Accepted, which tests Subprotocol Rejected, which creates Route Builder.
+WebsocketSubprotocolComponentTest acts as a caretaker for memento Producer, which ons Session parameter of session Connect, which sets Up, which creates Camel Context, which tests Subprotocol Accepted, which tests Subprotocol Rejected, which creates Route Builder.

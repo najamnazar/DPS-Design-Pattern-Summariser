@@ -1,0 +1,3 @@
+TimestampIntroductionAdvisor acts as a caretaker for memento C.
+TimestampIntroductionAdvisor acts as a caretaker for memento Advice.
+TimestampIntroductionAdvisor acts as a caretaker for memento A.

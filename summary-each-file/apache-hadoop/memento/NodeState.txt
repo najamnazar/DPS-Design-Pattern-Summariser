@@ -1,0 +1,1 @@
+NodeState acts as a memento, which is Active State, which is Active State, which is Active State.

@@ -1,0 +1,2 @@
+CamelLoadRoutesFromXMLTest acts as a publisher for observer CamelContext, which tests Load Routes.
+CamelLoadRoutesFromXMLTest acts as a publisher for observer Service, which tests Load Routes.

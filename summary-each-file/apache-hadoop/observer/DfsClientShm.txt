@@ -1,0 +1,2 @@
+DfsClientShm acts as a publisher for observer ExtendedBlockId, which gets Endpoint Shm Manager, which gets Peer, which is Disconnected, which handles DomainSocket parameter of sock.
+DfsClientShm acts as an observer for publisher DfsClientShmManager, which is inherited by, which gets Endpoint Shm Manager, which gets Peer, which is Disconnected, which handles DomainSocket parameter of sock.

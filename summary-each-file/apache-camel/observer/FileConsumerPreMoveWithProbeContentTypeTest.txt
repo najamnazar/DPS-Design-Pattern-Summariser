@@ -1,0 +1,2 @@
+FileConsumerPreMoveWithProbeContentTypeTest acts as a publisher for observer Service, which tests Content Type With Premove And Probe Content Type Options, which creates Route Builder.
+FileConsumerPreMoveWithProbeContentTypeTest acts as a publisher for observer CamelContext, which tests Content Type With Premove And Probe Content Type Options, which creates Route Builder.

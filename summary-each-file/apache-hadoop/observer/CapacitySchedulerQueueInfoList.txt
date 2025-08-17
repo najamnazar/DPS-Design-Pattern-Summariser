@@ -1,0 +1,1 @@
+CapacitySchedulerQueueInfoList acts as a publisher for observer CapacitySchedulerQueueInfo, which is inherited by, which gets Queue Info List, which adds CapacitySchedulerQueueInfo parameter of e To Queue Info List, which gets int parameter of i Queue Info.

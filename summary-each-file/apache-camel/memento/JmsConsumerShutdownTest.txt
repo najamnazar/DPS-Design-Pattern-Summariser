@@ -1,0 +1,1 @@
+JmsConsumerShutdownTest acts as a caretaker for memento Producer, which tests Jms Consumer Shutdown With Message In Flight, which tests Seda Consumer Shutdown With Message In Flight, which configures.

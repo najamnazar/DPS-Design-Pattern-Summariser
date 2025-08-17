@@ -1,0 +1,1 @@
+AbstractScope acts as a factory for Scope, which overrides creationTime method of Scope, configuration method of Scope, dsl method of Scope, settings method of Scope, dialect method of Scope, family method of Scope, data method of Scope, data method of Scope, data method of Scope.

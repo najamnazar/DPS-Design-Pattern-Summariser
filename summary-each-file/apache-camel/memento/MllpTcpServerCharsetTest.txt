@@ -1,0 +1,2 @@
+MllpTcpServerCharsetTest acts as a caretaker for memento Producer, which creates Camel Context, which creates Route Builder, which tests Receive Message With Invalid Msh18, which tests Receive Message With Valid Msh18.
+MllpTcpServerCharsetTest acts as a caretaker for memento Context, which creates Camel Context, which creates Route Builder, which tests Receive Message With Invalid Msh18, which tests Receive Message With Valid Msh18.

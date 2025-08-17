@@ -1,0 +1,3 @@
+HttpComponent acts as a factory for HttpEndpoint, which overrides.
+HttpComponent acts as a factory for TransformerRouteTest, which overrides.
+HttpComponent acts as a factory for UndertowComponent, which overrides.

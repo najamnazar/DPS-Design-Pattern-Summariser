@@ -1,0 +1,1 @@
+TestNodeQueueLoadMonitor acts as a factory method for RMNode, which is inherited by SchedulerNode, MockRM, SchedulerNode, NodeUpdateSchedulerEvent.

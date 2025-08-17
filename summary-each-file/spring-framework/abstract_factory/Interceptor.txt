@@ -1,0 +1,2 @@
+Interceptor acts as a product for Advisor, which overrides.
+Interceptor acts as a product for AspectJAdvisorFactory, which overrides.

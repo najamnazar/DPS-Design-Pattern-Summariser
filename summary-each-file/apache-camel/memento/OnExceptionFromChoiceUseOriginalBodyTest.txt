@@ -1,0 +1,2 @@
+OnExceptionFromChoiceUseOriginalBodyTest acts as a caretaker for memento Context, which tests No Error When, which tests Functional Error, which tests Technical Error, which sets Up, which creates Registry, which creates Route Builder.
+OnExceptionFromChoiceUseOriginalBodyTest acts as a caretaker for memento Producer, which tests No Error When, which tests Functional Error, which tests Technical Error, which sets Up, which creates Registry, which creates Route Builder.

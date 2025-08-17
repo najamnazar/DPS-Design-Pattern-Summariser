@@ -1,0 +1,1 @@
+JstlView acts as a caretaker for memento Message, which inits ServletContext parameter of servletContext Servlet Context, which exposes HttpServletRequest parameter of request Helpers.

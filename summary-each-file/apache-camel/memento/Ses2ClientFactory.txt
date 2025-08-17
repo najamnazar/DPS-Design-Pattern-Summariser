@@ -1,0 +1,1 @@
+Ses2ClientFactory acts as an originator for memento Ses2InternalClient, which gets a Ses2InternalClient Ses Client to.

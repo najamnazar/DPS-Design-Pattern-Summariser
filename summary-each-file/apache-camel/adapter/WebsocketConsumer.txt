@@ -1,0 +1,1 @@
+WebsocketConsumer acts as an adaptee for adapter WebsocketEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint.

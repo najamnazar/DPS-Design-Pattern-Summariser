@@ -1,0 +1,1 @@
+ServletResolveConsumerStrategy acts as an abstract factory for HttpConsumer, which is inherited by HttpServletResolveConsumerStrategy.

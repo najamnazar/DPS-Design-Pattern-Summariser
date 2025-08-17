@@ -1,0 +1,1 @@
+DefaultSplunkConfigurationFactory acts as an observer, which parses Map<String, parameter of Object> Map.

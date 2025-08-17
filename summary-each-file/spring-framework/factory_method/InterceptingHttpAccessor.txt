@@ -1,0 +1,1 @@
+InterceptingHttpAccessor acts as a factory for NoOutputStreamingStreamingSimpleHttpRequestFactoryTests, which overrides.

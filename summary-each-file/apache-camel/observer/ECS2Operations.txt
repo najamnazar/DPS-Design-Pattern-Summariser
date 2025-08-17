@@ -1,0 +1,1 @@
+ECS2Operations acts as an observer for publisher ECS2Configuration, which is inherited by.

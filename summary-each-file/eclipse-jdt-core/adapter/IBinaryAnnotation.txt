@@ -1,0 +1,1 @@
+IBinaryAnnotation acts as an adaptee for adapter NonNullDefaultAwareTypeAnnotationWalker, which adapts to TypeAnnotationWalker, which adapts to TypeAnnotationWalker, which adapts to TypeAnnotationWalker, which adapts to TypeAnnotationWalker.

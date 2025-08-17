@@ -1,0 +1,2 @@
+DatabaseClient acts as an abstract product for DatabaseClient, which is inherited by DefaultDatabaseClient, DefaultDatabaseClient.
+DatabaseClient acts as an abstract factory for DatabaseClient, which is inherited by DefaultDatabaseClient.

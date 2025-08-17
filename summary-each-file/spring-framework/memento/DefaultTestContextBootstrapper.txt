@@ -1,0 +1,3 @@
+DefaultTestContextBootstrapper acts as a caretaker for memento C, which gets Class<?> parameter of testClass Default Context Loader Class.
+DefaultTestContextBootstrapper acts as a caretaker for memento BootstrapContext, which gets Class<?> parameter of testClass Default Context Loader Class.
+DefaultTestContextBootstrapper acts as a caretaker for memento B, which gets Class<?> parameter of testClass Default Context Loader Class.

@@ -1,0 +1,1 @@
+WebSessionManager acts as an observer for publisher HttpWebHandlerAdapter, which is inherited by DefaultWebSessionManager, which gets ServerWebExchange parameter of exchange Session.

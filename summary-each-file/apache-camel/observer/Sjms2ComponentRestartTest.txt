@@ -1,0 +1,5 @@
+Sjms2ComponentRestartTest acts as a publisher for observer ProducerTemplate, which is Use Route Builder, which tests Restart With Stop Start, which tests Restart With Suspend Resume.
+Sjms2ComponentRestartTest acts as a publisher for observer ConsumerTemplate, which is Use Route Builder, which tests Restart With Stop Start, which tests Restart With Suspend Resume.
+Sjms2ComponentRestartTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Restart With Stop Start, which tests Restart With Suspend Resume.
+Sjms2ComponentRestartTest acts as a publisher for observer Service, which is Use Route Builder, which tests Restart With Stop Start, which tests Restart With Suspend Resume.
+Sjms2ComponentRestartTest acts as a publisher for observer FluentProducerTemplate, which is Use Route Builder, which tests Restart With Stop Start, which tests Restart With Suspend Resume.

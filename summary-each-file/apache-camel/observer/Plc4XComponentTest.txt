@@ -1,0 +1,5 @@
+Plc4XComponentTest acts as a publisher for observer ProducerTemplate, which tests Simple Routing, which creates Route Builder.
+Plc4XComponentTest acts as a publisher for observer ConsumerTemplate, which tests Simple Routing, which creates Route Builder.
+Plc4XComponentTest acts as a publisher for observer CamelContext, which tests Simple Routing, which creates Route Builder.
+Plc4XComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Simple Routing, which creates Route Builder.
+Plc4XComponentTest acts as a publisher for observer Service, which tests Simple Routing, which creates Route Builder.

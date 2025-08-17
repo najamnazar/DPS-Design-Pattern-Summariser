@@ -1,0 +1,1 @@
+TypeConverterExists acts as an observer for publisher CamelContextFactoryBean, which is inherited by.

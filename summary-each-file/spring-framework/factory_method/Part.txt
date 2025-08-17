@@ -1,0 +1,1 @@
+Part acts as an abstract product for DefaultParts, which is inherited by MockPart.

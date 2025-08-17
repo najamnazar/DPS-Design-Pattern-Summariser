@@ -1,0 +1,1 @@
+DeleteFederationApplicationResponsePBImpl acts as a product for ResourceManagerAdministrationProtocol, which overrides getMessage method of DeleteFederationApplicationResponse, setMessage method of DeleteFederationApplicationResponse.

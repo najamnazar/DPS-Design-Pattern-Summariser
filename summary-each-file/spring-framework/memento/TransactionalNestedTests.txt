@@ -1,0 +1,1 @@
+TransactionalNestedTests acts as an originator for memento TransactionManager, which transactions a TransactionManager Manager to.

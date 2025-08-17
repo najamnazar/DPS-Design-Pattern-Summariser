@@ -1,0 +1,1 @@
+DefaultBeanRowMapper acts as a product for JdbcEndpoint, which overrides map method of BeanRowMapper.

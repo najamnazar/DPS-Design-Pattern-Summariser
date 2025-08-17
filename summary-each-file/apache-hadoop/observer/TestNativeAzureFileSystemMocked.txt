@@ -1,0 +1,1 @@
+TestNativeAzureFileSystemMocked acts as a publisher for observer Path, which creates Test Account, which tests Lease As Distributed Lock, which tests Self Renewing Lease, which tests Redo Folder Rename All, which tests Create Non Recursive, which tests Self Renewing Lease File Delete, which tests Rename Redo Folder Already Done.

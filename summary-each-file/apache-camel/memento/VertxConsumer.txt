@@ -1,0 +1,1 @@
+VertxConsumer acts as a caretaker for memento HealthCheck, which handles Message parameter of event, which ons final parameter of Message Event Bus Event, which does Start, which does Stop.

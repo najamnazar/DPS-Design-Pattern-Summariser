@@ -1,0 +1,1 @@
+LowestQuoteAggregationStrategy acts as an observer, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

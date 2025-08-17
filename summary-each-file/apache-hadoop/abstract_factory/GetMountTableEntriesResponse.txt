@@ -1,0 +1,1 @@
+GetMountTableEntriesResponse acts as an abstract product for GetMountTableEntriesResponse, which is inherited by GetMountTableEntriesResponsePBImpl.

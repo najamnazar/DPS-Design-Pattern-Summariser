@@ -1,0 +1,1 @@
+ZipAggregationStrategy acts as a product for EnrichDefinition, which overrides aggregate method of AggregationStrategy, onCompletion method of AggregationStrategy.

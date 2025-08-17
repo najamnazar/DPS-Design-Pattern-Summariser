@@ -1,0 +1,1 @@
+ExchangePattern acts as an observer for publisher WireTapProcessor, which is inherited by, which is In Capable, which is Out Capable, which ases String parameter of value Enum.

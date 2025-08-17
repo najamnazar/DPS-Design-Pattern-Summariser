@@ -1,0 +1,1 @@
+WithUseJMXTest acts as a caretaker for memento Context, which shoulds Find The Managed Camel Context.

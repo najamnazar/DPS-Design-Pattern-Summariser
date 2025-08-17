@@ -1,0 +1,1 @@
+RouterMetricsService acts as a publisher for observer Configuration, which services Configuration parameter of configuration Init, which services Start, which services Stop, which gets Router Metrics, which gets Router Client Metrics, which gets RBFMetrics, which gets Namenode Metrics, which gets Jvm Metrics.

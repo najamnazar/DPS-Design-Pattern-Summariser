@@ -1,0 +1,15 @@
+CamelServerEndpoint acts as a product for EndpointAware, which overrides.
+CamelServerEndpoint acts as a product for CamelContext, which overrides.
+CamelServerEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+CamelServerEndpoint acts as a product for Route, which overrides.
+CamelServerEndpoint acts as a product for CamelEvent, which overrides.
+CamelServerEndpoint acts as a product for FluentProducerTemplate, which overrides.
+CamelServerEndpoint acts as a product for CamelCronService, which overrides.
+CamelServerEndpoint acts as a product for EndpointProducerResolver, which overrides.
+CamelServerEndpoint acts as a product for EndpointStrategy, which overrides.
+CamelServerEndpoint acts as a product for DelegateEndpoint, which overrides.
+CamelServerEndpoint acts as a product for Exchange, which overrides.
+CamelServerEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+CamelServerEndpoint acts as a product for InterceptEndpointFactory, which overrides.
+CamelServerEndpoint acts as a product for ExtendedCamelContext, which overrides.
+CamelServerEndpoint acts as a product for ProducerTemplate, which overrides.

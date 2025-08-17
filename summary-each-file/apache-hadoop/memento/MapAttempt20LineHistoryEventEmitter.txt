@@ -1,0 +1,1 @@
+MapAttempt20LineHistoryEventEmitter acts as a caretaker for memento TaskType, which maybes ParsedLine parameter of line, String parameter of taskAttemptIDName, HistoryEventEmitter parameter of thatg Emit Event, which finals SEEs, which nons Final SEEs.

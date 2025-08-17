@@ -1,0 +1,2 @@
+BeanChoseMethodWithMatchingTypeAndSkipSettersTest acts as a publisher for observer CamelContext, which creates Registry, which creates Camel Context, which tests Send CSVFile, which tests Send XMLData, which creates Route Builder.
+BeanChoseMethodWithMatchingTypeAndSkipSettersTest acts as a publisher for observer Service, which creates Registry, which creates Camel Context, which tests Send CSVFile, which tests Send XMLData, which creates Route Builder.

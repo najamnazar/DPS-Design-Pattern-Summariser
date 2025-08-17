@@ -1,0 +1,1 @@
+AzureFileSystemThreadPoolExecutor acts as a publisher for observer AzureFileSystemThreadTask, which is inherited by, which gets int parameter of threadCount Thread Pool, which executes FileMetadata[] parameter of contents, AzureFileSystemThreadTask parameter of threadOperation Parallel, which news Runnable parameter of r Thread, which runs.

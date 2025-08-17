@@ -1,0 +1,1 @@
+AnnotationProcessor acts as a memento, which is inherited by ColorAnnotationProcessor, AbstractGenericProcessor, NoOpAnnotationProcessor, BatchProcessor, Round1GenAnnotationProcessor, Round2GenAnnotationProcessor, LoaderTestAnnotationProcessor, which processes.

@@ -1,0 +1,1 @@
+SimpleAsyncUncaughtExceptionHandler acts as an observer, which handles Throwable parameter of ex, Method parameter of method, Object... parameter of params Uncaught Exception.

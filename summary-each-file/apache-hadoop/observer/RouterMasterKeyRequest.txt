@@ -1,0 +1,1 @@
+RouterMasterKeyRequest acts as a publisher for observer RouterMasterKey, which is inherited by RouterMasterKeyRequestPBImpl, which news RouterMasterKey parameter of routerMasterKey Instance, which gets Router Master Key, which sets RouterMasterKey parameter of routerMasterKey Router Master Key.

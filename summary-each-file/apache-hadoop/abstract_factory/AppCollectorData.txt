@@ -1,0 +1,1 @@
+AppCollectorData acts as an abstract product for AppCollectorData, which is inherited by AppCollectorDataPBImpl.

@@ -1,0 +1,2 @@
+RecipeDocumentProvider_out acts as a caretaker for memento S, which setups Object parameter of element, IDocument parameter of document Document, which creates Recipe Partitioner.
+RecipeDocumentProvider_out acts as a caretaker for memento String, which setups Object parameter of element, IDocument parameter of document Document, which creates Recipe Partitioner.

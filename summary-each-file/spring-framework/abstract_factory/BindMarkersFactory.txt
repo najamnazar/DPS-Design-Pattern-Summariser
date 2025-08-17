@@ -1,0 +1,1 @@
+BindMarkersFactory acts as an abstract factory for BindMarkers, which is inherited by.

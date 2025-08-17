@@ -1,0 +1,2 @@
+XsltRouteTest acts as a caretaker for memento Context, which tests Send String Message, which tests Send Bytes Message, which tests Send Dom Message, which sends Object parameter of body Message And Have It Transformed, which creates Route Builder, which creates Registry.
+XsltRouteTest acts as a caretaker for memento Producer, which tests Send String Message, which tests Send Bytes Message, which tests Send Dom Message, which sends Object parameter of body Message And Have It Transformed, which creates Route Builder, which creates Registry.

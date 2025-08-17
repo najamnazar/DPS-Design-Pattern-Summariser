@@ -1,0 +1,1 @@
+FiCaSchedulerNode acts as a product for YarnScheduler, which overrides updateResourceForReleasedContainer method of SchedulerNode.

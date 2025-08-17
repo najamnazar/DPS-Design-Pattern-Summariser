@@ -1,0 +1,2 @@
+GetUserMappingsProtocolClientSideTranslatorPB acts as a target for adapter RouterGetUserMappingsProtocolTranslatorPB, which adapts to GetUserMappingsProtocolClientSideTranslatorPB, which adapts to GetUserMappingsProtocolClientSideTranslatorPB, which adapts to GetUserMappingsProtocolClientSideTranslatorPB.
+GetUserMappingsProtocolClientSideTranslatorPB acts as an adapter, which adapts to ProtocolMetaInterface, GetUserMappingsProtocol, which adapts to ProtocolMetaInterface, GetUserMappingsProtocol, which adapts to ProtocolMetaInterface, GetUserMappingsProtocol.

@@ -1,0 +1,2 @@
+Options acts as a caretaker for memento S, which processes String parameter of option Options File Manager, which processes String parameter of option Options.
+Options acts as a caretaker for memento String, which processes String parameter of option Options File Manager, which processes String parameter of option Options.

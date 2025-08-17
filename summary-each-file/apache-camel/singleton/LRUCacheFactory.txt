@@ -1,0 +1,1 @@
+LRUCacheFactory acts as a singleton, which gets a LRUCacheFactory Instance to newLRUCache method of LRUCacheFactory, newLRUWeakCache method of LRUCacheFactory, newLRUSoftCache method of LRUCacheFactory.

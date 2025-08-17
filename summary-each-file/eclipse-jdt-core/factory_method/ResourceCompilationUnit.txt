@@ -1,0 +1,1 @@
+ResourceCompilationUnit acts as a product for ResolveTests, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.

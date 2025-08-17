@@ -1,0 +1,4 @@
+FileImpl acts as a caretaker for memento ContentType, which pathes, which names, which contents, which types, which tos String.
+FileImpl acts as a caretaker for memento C, which pathes, which names, which contents, which types, which tos String.
+FileImpl acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String.
+FileImpl acts as an originator for memento ContentType, which types ContentType.

@@ -1,0 +1,1 @@
+SecurityProviderNoAcceptanceTest acts as a caretaker for memento Configuration, which creates Camel Context, which tests Secured Not Accepting Provider.

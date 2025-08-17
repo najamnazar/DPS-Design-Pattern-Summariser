@@ -1,0 +1,1 @@
+BlackListBasedTrustedChannelResolver acts as a publisher for observer Configuration, which sets Configuration parameter of conf Conf, which is Trusted, which is InetAddress parameter of clientAddress Trusted.

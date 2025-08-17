@@ -1,0 +1,2 @@
+MulticastParallelWithAggregationStrategyThrowingExceptionTest acts as a publisher for observer CamelContext, which tests Aggregation Time Exception With Parallel Processing, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+MulticastParallelWithAggregationStrategyThrowingExceptionTest acts as a publisher for observer Service, which tests Aggregation Time Exception With Parallel Processing, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

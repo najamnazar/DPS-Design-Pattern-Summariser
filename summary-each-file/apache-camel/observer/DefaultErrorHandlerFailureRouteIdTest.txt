@@ -1,0 +1,2 @@
+DefaultErrorHandlerFailureRouteIdTest acts as a publisher for observer CamelContext, which tests Failure Route Id, which creates Route Builder.
+DefaultErrorHandlerFailureRouteIdTest acts as a publisher for observer Service, which tests Failure Route Id, which creates Route Builder.

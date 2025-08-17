@@ -1,0 +1,1 @@
+MyModule acts as an adaptee for adapter JacksonModuleRefTest, which adapts to JacksonModuleTest, which adapts to JacksonModuleTest, which adapts to JacksonModuleTest.

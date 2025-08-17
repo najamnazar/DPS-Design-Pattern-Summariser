@@ -1,0 +1,1 @@
+SolrCloudITSupport acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts getSolrUrl method of SolrLocalContainerService to CamelTestSupport, which adapts createCollection method of SolrLocalContainerService to CamelTestSupport.

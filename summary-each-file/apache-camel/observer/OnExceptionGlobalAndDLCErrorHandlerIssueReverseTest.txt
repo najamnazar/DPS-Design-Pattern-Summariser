@@ -1,0 +1,2 @@
+OnExceptionGlobalAndDLCErrorHandlerIssueReverseTest acts as a publisher for observer CamelContext, which tests No On Global Exception, which tests On Route Exception, which creates Route Builder.
+OnExceptionGlobalAndDLCErrorHandlerIssueReverseTest acts as a publisher for observer Service, which tests No On Global Exception, which tests On Route Exception, which creates Route Builder.

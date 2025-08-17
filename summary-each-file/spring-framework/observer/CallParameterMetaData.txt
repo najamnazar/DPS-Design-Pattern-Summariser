@@ -1,0 +1,1 @@
+CallParameterMetaData acts as an observer for publisher CallMetaDataProvider, GenericCallMetaDataProvider, which is inherited by, which is Function, which gets Parameter Name, which gets Parameter Type, which is Return Parameter, which gets Sql Type, which gets Type Name, which is Nullable.

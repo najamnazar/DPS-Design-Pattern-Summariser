@@ -1,0 +1,1 @@
+MethodMetadata acts as a memento, which is inherited by MethodMetadataReadingVisitor, StandardMethodMetadata, SimpleMethodMetadata, which is Overridable, which is Overridable, which is Overridable, which is Overridable, which is Overridable, which is Overridable, which is Overridable.

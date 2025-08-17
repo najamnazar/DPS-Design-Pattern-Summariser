@@ -1,0 +1,2 @@
+MulticastUnitOfWorkTest acts as a caretaker for memento Producer, which tests Multicast UOW, which creates Route Builder, which processes Exchange parameter of exchange.
+MulticastUnitOfWorkTest acts as a caretaker for memento Context, which tests Multicast UOW, which creates Route Builder, which processes Exchange parameter of exchange.

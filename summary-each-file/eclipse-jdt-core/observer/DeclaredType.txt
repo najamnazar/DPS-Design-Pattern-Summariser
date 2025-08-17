@@ -1,0 +1,1 @@
+DeclaredType acts as an observer for publisher Bug510118Processor, which is inherited by InterfaceType, ErrorType, DeclaredTypeImpl, TypeDeclarationImpl, ClassType, which gets Declaration, which gets Containing Type, which gets Actual Type Arguments, which gets Superinterfaces.

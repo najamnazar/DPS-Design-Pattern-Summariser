@@ -1,0 +1,2 @@
+RemoveHeadersTest acts as a publisher for observer CamelContext, which tests Remove Headers Wildcard, which tests Remove Headers Reg Ex, which tests Remove Headers Case Insensitive, which creates Route Builder.
+RemoveHeadersTest acts as a publisher for observer Service, which tests Remove Headers Wildcard, which tests Remove Headers Reg Ex, which tests Remove Headers Case Insensitive, which creates Route Builder.

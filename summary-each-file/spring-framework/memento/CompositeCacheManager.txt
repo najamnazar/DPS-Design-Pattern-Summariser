@@ -1,0 +1,1 @@
+CompositeCacheManager acts as a caretaker for memento C, which sets Collection<CacheManager> parameter of cacheManagers Cache Managers, which sets boolean parameter of fallbackToNoOpCache Fallback To No Op Cache, which afters Properties Set, which gets String parameter of name Cache, which gets Cache Names.

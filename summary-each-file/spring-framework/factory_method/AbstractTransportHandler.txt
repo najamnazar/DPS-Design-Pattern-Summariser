@@ -1,0 +1,1 @@
+AbstractTransportHandler acts as a factory for SockJsWebSocketHandler, which overrides.

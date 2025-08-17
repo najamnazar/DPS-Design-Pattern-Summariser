@@ -1,0 +1,2 @@
+ProblemMethodBinding acts as an observer, which problems Id.
+ProblemMethodBinding acts as a publisher for observer TypeBinding, which problems Id.

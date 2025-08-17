@@ -1,0 +1,2 @@
+ExecuteContext acts as an abstract product for ExecuteContext, which is inherited by DefaultExecuteContext, SimpleExecuteContext.
+ExecuteContext acts as an abstract factory for Query, Record, which is inherited by DefaultExecuteContext, SimpleExecuteContext.

@@ -1,0 +1,2 @@
+PropertiesComponentEIPConvertBodyToTest acts as a publisher for observer Service, which tests Convert To Bytes Charset, which creates Route Builder, which creates Camel Context.
+PropertiesComponentEIPConvertBodyToTest acts as a publisher for observer CamelContext, which tests Convert To Bytes Charset, which creates Route Builder, which creates Camel Context.

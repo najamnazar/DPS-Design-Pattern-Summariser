@@ -1,0 +1,2 @@
+CustomCondition acts as a caretaker for memento C, which ofs Consumer<? parameter of super, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which declares Fields, which declares Tables.
+CustomCondition acts as a caretaker for memento Clause, which ofs Consumer<? parameter of super, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which declares Fields, which declares Tables.

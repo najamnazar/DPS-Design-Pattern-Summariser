@@ -1,0 +1,2 @@
+SampleDataJoinReducer acts as a publisher for observer JobConf, which combines Object[] parameter of tags, Object[] parameter of values.
+SampleDataJoinReducer acts as a publisher for observer Reporter, which combines Object[] parameter of tags, Object[] parameter of values.

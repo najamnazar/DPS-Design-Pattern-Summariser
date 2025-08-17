@@ -1,0 +1,1 @@
+NameValuePair acts as an observer for publisher TimelineStoreTestUtils, TestMemoryTimelineStore, TestLeveldbTimelineStore, TestLevelDBCacheTimelineStore, TestRollingLevelDBTimelineStore, TestTimelineDataManager, TestEntityGroupFSTimelineStore, which is inherited by, which gets Name, which gets Value, which tos String.

@@ -1,0 +1,1 @@
+EncryptionContextProvider acts as an abstract product for ITestAbfsCustomEncryption, which is inherited by MockEncryptionContextProvider.

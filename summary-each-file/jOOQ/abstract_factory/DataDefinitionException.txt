@@ -1,0 +1,2 @@
+DataDefinitionException acts as a product for ResultOrRows, which overrides.
+DataDefinitionException acts as a product for LoaderError, which overrides.

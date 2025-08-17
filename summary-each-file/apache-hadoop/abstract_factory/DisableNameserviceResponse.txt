@@ -1,0 +1,1 @@
+DisableNameserviceResponse acts as an abstract product for DisableNameserviceResponse, which is inherited by DisableNameserviceResponsePBImpl.

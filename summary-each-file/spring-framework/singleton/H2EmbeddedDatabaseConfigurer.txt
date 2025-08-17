@@ -1,0 +1,1 @@
+H2EmbeddedDatabaseConfigurer acts as a singleton, which gets a H2EmbeddedDatabaseConfigurer Instance to.

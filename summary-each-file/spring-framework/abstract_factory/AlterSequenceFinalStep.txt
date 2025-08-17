@@ -1,0 +1,1 @@
+AlterSequenceFinalStep acts as an abstract product for AlterSequenceFinalStep, which is inherited by AlterSequenceImpl, AlterSequenceImpl, AlterSequenceImpl, AlterSequenceFlagsStep, AlterSequenceFlagsStep, AlterSequenceFlagsStep.

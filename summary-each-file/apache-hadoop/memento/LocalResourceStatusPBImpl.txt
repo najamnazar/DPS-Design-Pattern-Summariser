@@ -1,0 +1,1 @@
+LocalResourceStatusPBImpl acts as an originator for memento ResourceStatusType, which gets a ResourceStatusType Status to, which sets ResourceStatusType parameter of status Status, which converts ResourceStatusType parameter of e To Proto Format, which converts a ResourceStatusType From Proto Format to.

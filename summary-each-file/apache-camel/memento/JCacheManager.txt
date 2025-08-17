@@ -1,0 +1,2 @@
+JCacheManager acts as a caretaker for memento Configuration, which gets Cache Name, which gets Configuration, which gets Cache, which closes, which gets Event Filter, which does JCacheProvider parameter of jcacheProvider Get Cache, which gets Or Create Cache Configuration.
+JCacheManager acts as a caretaker for memento Context, which gets Cache Name, which gets Configuration, which gets Cache, which closes, which gets Event Filter, which does JCacheProvider parameter of jcacheProvider Get Cache, which gets Or Create Cache Configuration.

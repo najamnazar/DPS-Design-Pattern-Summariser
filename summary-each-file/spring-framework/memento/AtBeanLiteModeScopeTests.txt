@@ -1,0 +1,4 @@
+AtBeanLiteModeScopeTests acts as a caretaker for memento ApplicationContext, which singletons, which prototypes, which singletons Lite Bean, which prototypes Lite Bean.
+AtBeanLiteModeScopeTests acts as a caretaker for memento B, which singletons, which prototypes, which singletons Lite Bean, which prototypes Lite Bean.
+AtBeanLiteModeScopeTests acts as a caretaker for memento C, which singletons, which prototypes, which singletons Lite Bean, which prototypes Lite Bean.
+AtBeanLiteModeScopeTests acts as a caretaker for memento A, which singletons, which prototypes, which singletons Lite Bean, which prototypes Lite Bean.

@@ -1,0 +1,7 @@
+DefaultProducer acts as a product for ProcessorExchangePair, which overrides.
+DefaultProducer acts as a product for KafkaClientFactory, which overrides.
+DefaultProducer acts as a product for Endpoint, which overrides.
+DefaultProducer acts as a product for KnativeProducerFactory, which overrides.
+DefaultProducer acts as a product for ConsulFactories, which overrides.
+DefaultProducer acts as a product for DeferServiceFactory, which overrides.
+DefaultProducer acts as a product for RestProducerFactory, which overrides.

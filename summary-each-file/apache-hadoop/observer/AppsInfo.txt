@@ -1,0 +1,1 @@
+AppsInfo acts as a publisher for observer AppInfo, which is inherited by, which adds AppInfo parameter of appinfo, which gets Apps.

@@ -1,0 +1,2 @@
+XPathResourceTest acts as a publisher for observer CamelContext, which tests XPath Resource, which creates Route Builder.
+XPathResourceTest acts as a publisher for observer Service, which tests XPath Resource, which creates Route Builder.

@@ -1,0 +1,2 @@
+MessagerCodeExample acts as a caretaker for memento String.
+MessagerCodeExample acts as a caretaker for memento S.

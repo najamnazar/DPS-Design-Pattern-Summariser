@@ -1,0 +1,5 @@
+JsltVariablesTest acts as a publisher for observer CamelContext, which tests With Variables, which tests With Variables And Properties, which creates Route Builder, which creates Infinite Recursion Object.
+JsltVariablesTest acts as a publisher for observer Service, which tests With Variables, which tests With Variables And Properties, which creates Route Builder, which creates Infinite Recursion Object.
+JsltVariablesTest acts as a publisher for observer FluentProducerTemplate, which tests With Variables, which tests With Variables And Properties, which creates Route Builder, which creates Infinite Recursion Object.
+JsltVariablesTest acts as a publisher for observer ConsumerTemplate, which tests With Variables, which tests With Variables And Properties, which creates Route Builder, which creates Infinite Recursion Object.
+JsltVariablesTest acts as a publisher for observer ProducerTemplate, which tests With Variables, which tests With Variables And Properties, which creates Route Builder, which creates Infinite Recursion Object.

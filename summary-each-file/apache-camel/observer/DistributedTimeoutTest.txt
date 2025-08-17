@@ -1,0 +1,1 @@
+DistributedTimeoutTest acts as a publisher for observer Exchange, which is inherited by, which tests Aggregate Timeout, which creates Route Builder, which timeouts Exchange parameter of oldExchange, int parameter of index, int parameter of total, long parameter of timeout, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

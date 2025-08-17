@@ -1,0 +1,2 @@
+FileAbsoluteAndRelativeConsumerTest acts as a publisher for observer CamelContext, which tests Relative, which tests Absolute, which creates Route Builder.
+FileAbsoluteAndRelativeConsumerTest acts as a publisher for observer Service, which tests Relative, which tests Absolute, which creates Route Builder.

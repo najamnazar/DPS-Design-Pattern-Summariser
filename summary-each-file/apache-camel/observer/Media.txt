@@ -1,0 +1,1 @@
+Media acts as an observer for publisher FacebookEndpointConfiguration, which is inherited by.

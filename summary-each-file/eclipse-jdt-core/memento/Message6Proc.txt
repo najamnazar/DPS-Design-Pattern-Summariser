@@ -1,0 +1,1 @@
+Message6Proc acts as a caretaker for memento E, which inits ProcessingEnvironment parameter of processingEnv, which processes Set<? parameter of extends, RoundEnvironment parameter of roundEnv, which rounds Set<? parameter of extends, RoundEnvironment parameter of roundEnv.

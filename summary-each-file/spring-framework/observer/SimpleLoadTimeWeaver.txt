@@ -1,0 +1,1 @@
+SimpleLoadTimeWeaver acts as an observer, which adds ClassFileTransformer parameter of transformer Transformer, which gets Instrumentable Class Loader, which gets Throwaway Class Loader.

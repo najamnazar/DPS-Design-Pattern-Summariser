@@ -1,0 +1,2 @@
+RoutingSlipCreateProducerFailedTest acts as a publisher for observer CamelContext, which tests Routing Slip Create Producer Failed, which creates Route Builder.
+RoutingSlipCreateProducerFailedTest acts as a publisher for observer Service, which tests Routing Slip Create Producer Failed, which creates Route Builder.

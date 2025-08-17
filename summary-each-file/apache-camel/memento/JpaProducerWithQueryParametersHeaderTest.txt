@@ -1,0 +1,2 @@
+JpaProducerWithQueryParametersHeaderTest acts as a caretaker for memento Context, which tests Producer With Named Query, which sets Up, which tears Down.
+JpaProducerWithQueryParametersHeaderTest acts as a caretaker for memento Producer, which tests Producer With Named Query, which sets Up, which tears Down.

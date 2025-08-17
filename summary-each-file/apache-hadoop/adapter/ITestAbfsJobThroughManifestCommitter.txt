@@ -1,0 +1,1 @@
+ITestAbfsJobThroughManifestCommitter acts as an adapter, which adapts to TestJobThroughManifestCommitter, which adapts to TestJobThroughManifestCommitter, which adapts to TestJobThroughManifestCommitter, which adapts to TestJobThroughManifestCommitter, which adapts to TestJobThroughManifestCommitter.

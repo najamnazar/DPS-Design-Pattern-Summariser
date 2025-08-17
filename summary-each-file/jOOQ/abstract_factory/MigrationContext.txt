@@ -1,0 +1,1 @@
+MigrationContext acts as an abstract factory for Queries, Commit, Query, which is inherited by DefaultMigrationContext.

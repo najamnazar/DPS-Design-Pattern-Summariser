@@ -1,0 +1,2 @@
+IJavadocTypeReference acts as a target for adapter JavadocModuleReference, which adapts to IJavadocTypeReference, which adapts to IJavadocTypeReference.
+IJavadocTypeReference acts as an adaptee for adapter JavadocModuleReference, which adapts to Expression, IJavadocTypeReference, which adapts to Expression, IJavadocTypeReference.

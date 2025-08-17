@@ -1,0 +1,1 @@
+Truncate acts as a publisher for observer PathData, which is inherited by, which registers CommandFactory parameter of factory Commands, which processes LinkedList<String> parameter of args Options, which processes LinkedList<PathData> parameter of args Arguments, which processes PathData parameter of item Path, which waits For Recovery.

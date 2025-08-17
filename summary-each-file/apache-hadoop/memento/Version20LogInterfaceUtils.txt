@@ -1,0 +1,1 @@
+Version20LogInterfaceUtils acts as an originator for memento TaskType, which get20Tasks a TaskType Type to.

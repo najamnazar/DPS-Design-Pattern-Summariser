@@ -1,0 +1,1 @@
+CxfRsConfigurer acts as an adaptee for adapter CxfRsEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

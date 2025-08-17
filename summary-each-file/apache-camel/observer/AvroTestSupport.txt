@@ -1,0 +1,5 @@
+AvroTestSupport acts as a publisher for observer Service, which setups String parameter of name Free Port, which creates Camel Context.
+AvroTestSupport acts as a publisher for observer ConsumerTemplate, which setups String parameter of name Free Port, which creates Camel Context.
+AvroTestSupport acts as a publisher for observer CamelContext, which setups String parameter of name Free Port, which creates Camel Context.
+AvroTestSupport acts as a publisher for observer ProducerTemplate, which setups String parameter of name Free Port, which creates Camel Context.
+AvroTestSupport acts as a publisher for observer FluentProducerTemplate, which setups String parameter of name Free Port, which creates Camel Context.

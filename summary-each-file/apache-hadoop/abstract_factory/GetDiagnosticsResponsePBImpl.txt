@@ -1,0 +1,1 @@
+GetDiagnosticsResponsePBImpl acts as a product for MRClientProtocol, which overrides getDiagnosticsList method of GetDiagnosticsResponse, getDiagnostics method of GetDiagnosticsResponse, getDiagnosticsCount method of GetDiagnosticsResponse, removeDiagnostics method of GetDiagnosticsResponse, clearDiagnostics method of GetDiagnosticsResponse.

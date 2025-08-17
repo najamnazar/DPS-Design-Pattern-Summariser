@@ -1,0 +1,2 @@
+AbstractJCacheKeyOperation acts as a caretaker for memento Parameter, which gets Key Generator, which gets Object... parameter of values Key Parameters, which initializes List<CacheParameterDetail> parameter of allParameters Key Parameter Details.
+AbstractJCacheKeyOperation acts as a caretaker for memento C, which gets Key Generator, which gets Object... parameter of values Key Parameters, which initializes List<CacheParameterDetail> parameter of allParameters Key Parameter Details.

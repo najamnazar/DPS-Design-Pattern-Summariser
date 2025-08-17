@@ -1,0 +1,1 @@
+ShiroSecurityToken acts as an observer for publisher ShiroSecurityTokenInjector, which is inherited by, which gets Username, which sets String parameter of username Username, which gets Password, which sets String parameter of password Password, which tos String.

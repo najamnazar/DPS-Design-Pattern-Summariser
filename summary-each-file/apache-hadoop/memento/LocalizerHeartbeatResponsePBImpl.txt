@@ -1,0 +1,1 @@
+LocalizerHeartbeatResponsePBImpl acts as an originator for memento LocalizerAction, which gets a LocalizerAction Localizer Action to, which sets LocalizerAction parameter of action Localizer Action, which converts LocalizerAction parameter of a To Proto Format, which converts a LocalizerAction From Proto Format to.

@@ -1,0 +1,1 @@
+CosNativeFileSystemStore acts as a factory for NativeFileSystemStore, which overrides retrieveMetadata method of NativeFileSystemStore, retrieve method of NativeFileSystemStore, retrieve method of NativeFileSystemStore, purge method of NativeFileSystemStore, dump method of NativeFileSystemStore, close method of NativeFileSystemStore.

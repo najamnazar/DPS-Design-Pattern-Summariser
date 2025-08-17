@@ -1,0 +1,1 @@
+RestApiConsumerFactory acts as an abstract factory for Consumer, which is inherited by NettyHttpComponent, ServletComponent, JettyHttpComponent, UndertowComponent, PlatformHttpComponent, DummyRestConsumerFactory.

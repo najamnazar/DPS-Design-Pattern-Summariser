@@ -1,0 +1,1 @@
+CompletionOnKeywordModule2 acts as an observer, which gets Token, which gets Possible Keywords.

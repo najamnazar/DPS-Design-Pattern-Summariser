@@ -1,0 +1,1 @@
+VisitContext acts as an abstract factory for BindContext, RenderContext, QueryPart, which is inherited by.

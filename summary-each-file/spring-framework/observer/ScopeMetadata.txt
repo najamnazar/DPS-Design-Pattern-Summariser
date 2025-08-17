@@ -1,0 +1,1 @@
+ScopeMetadata acts as a publisher for observer ScopedProxyMode, which is inherited by, which sets String parameter of scopeName Scope Name, which gets Scope Name, which sets ScopedProxyMode parameter of scopedProxyMode Scoped Proxy Mode, which gets Scoped Proxy Mode.

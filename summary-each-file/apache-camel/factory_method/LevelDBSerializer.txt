@@ -1,0 +1,2 @@
+LevelDBSerializer acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+LevelDBSerializer acts as an abstract product for LevelDBAggregationRepository, which is inherited by AbstractLevelDBSerializer.

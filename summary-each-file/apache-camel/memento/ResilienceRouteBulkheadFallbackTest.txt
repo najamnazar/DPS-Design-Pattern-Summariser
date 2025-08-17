@@ -1,0 +1,2 @@
+ResilienceRouteBulkheadFallbackTest acts as a caretaker for memento Context, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.
+ResilienceRouteBulkheadFallbackTest acts as a caretaker for memento Producer, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.

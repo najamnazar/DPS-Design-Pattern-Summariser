@@ -1,0 +1,2 @@
+CountingTestBean acts as a publisher for observer BeanSource.
+CountingTestBean acts as an observer.

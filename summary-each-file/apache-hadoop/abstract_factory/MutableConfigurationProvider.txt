@@ -1,0 +1,2 @@
+MutableConfigurationProvider acts as an abstract factory for Configuration, ConfigurationMutationACLPolicy, which is inherited by MutableCSConfigurationProvider.
+MutableConfigurationProvider acts as an abstract product for MutableConfigurationProvider, which is inherited by MutableCSConfigurationProvider.

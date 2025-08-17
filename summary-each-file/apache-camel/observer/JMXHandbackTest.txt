@@ -1,0 +1,2 @@
+JMXHandbackTest acts as a publisher for observer SimpleRegistry, which sets Up, which tests, which builds From URI, which inits Registry.
+JMXHandbackTest acts as a publisher for observer DefaultCamelContext, which sets Up, which tests, which builds From URI, which inits Registry.

@@ -1,0 +1,1 @@
+FileSystemAccessService acts as a factory for FileSystemAccess, which overrides releaseFileSystem method of FileSystemAccess, getFileSystemConfiguration method of FileSystemAccess.

@@ -1,0 +1,1 @@
+ColumnDefinition acts as a memento, which is inherited by DefaultColumnDefinition, which is Readonly, which is Readonly, which is Readonly, which is Readonly, which is Readonly, which is Readonly.

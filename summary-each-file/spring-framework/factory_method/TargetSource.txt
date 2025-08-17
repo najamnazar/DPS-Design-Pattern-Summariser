@@ -1,0 +1,1 @@
+TargetSource acts as an abstract product for TargetSourceCreator, which is inherited by AbstractBeanFactoryBasedTargetSource, SingletonTargetSource, EmptyTargetSource, HotSwappableTargetSource, AbstractRefreshableTargetSource, AbstractLazyCreationTargetSource, JndiObjectTargetSource.

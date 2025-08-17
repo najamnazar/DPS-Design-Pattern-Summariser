@@ -1,0 +1,2 @@
+IdempotentConsumerRemoveOnFailureTest acts as a publisher for observer CamelContext, which tests Failed Exchanges Not Removed, which creates Route Builder, which sends final parameter of Object, final parameter of Object Message, which sets Up.
+IdempotentConsumerRemoveOnFailureTest acts as a publisher for observer Service, which tests Failed Exchanges Not Removed, which creates Route Builder, which sends final parameter of Object, final parameter of Object Message, which sets Up.

@@ -1,0 +1,2 @@
+PathFileObject acts as a factory for JavaFileObject, which overrides getAccessLevel method of JavaFileObject, getNestingKind method of JavaFileObject, getKind method of JavaFileObject.
+PathFileObject acts as a product for JavaFileManager, which overrides getAccessLevel method of JavaFileObject, getNestingKind method of JavaFileObject, getKind method of JavaFileObject.

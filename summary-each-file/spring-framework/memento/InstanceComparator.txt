@@ -1,0 +1,1 @@
+InstanceComparator acts as a caretaker for memento C, which compares T parameter of o1, T parameter of o2, which gets @Nullable parameter of T Order.

@@ -1,0 +1,2 @@
+SplitterNullBodyTest acts as a publisher for observer CamelContext, which tests Split ABC, which tests Split ABCStreaming, which tests Split Empty List, which tests Split Empty List Streaming, which tests Split Null Body, which tests Split Null Body Streaming, which creates Route Builder.
+SplitterNullBodyTest acts as a publisher for observer Service, which tests Split ABC, which tests Split ABCStreaming, which tests Split Empty List, which tests Split Empty List Streaming, which tests Split Null Body, which tests Split Null Body Streaming, which creates Route Builder.

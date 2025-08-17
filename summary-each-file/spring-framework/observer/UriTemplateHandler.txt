@@ -1,0 +1,1 @@
+UriTemplateHandler acts as an observer for publisher RestTemplate, which is inherited by UriBuilderFactory, AbstractUriTemplateHandler, which expands String parameter of uriTemplate, Map<String, parameter of ?>, which expands String parameter of uriTemplate, Object... parameter of uriVariables.

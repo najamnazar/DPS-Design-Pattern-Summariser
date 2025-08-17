@@ -1,0 +1,2 @@
+OgnlScriptingLanguageTest acts as a caretaker for memento Context, which tests Scripting.
+OgnlScriptingLanguageTest acts as a caretaker for memento Producer, which tests Scripting.

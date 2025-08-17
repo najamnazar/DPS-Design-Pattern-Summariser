@@ -1,0 +1,1 @@
+AbstractClientSockJsSession acts as a factory for SockJsServiceConfig, which overrides.

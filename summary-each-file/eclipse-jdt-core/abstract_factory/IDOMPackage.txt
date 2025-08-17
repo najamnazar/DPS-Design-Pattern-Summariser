@@ -1,0 +1,3 @@
+IDOMPackage acts as an abstract product for IDOMPackage, which is inherited by DOMPackage, DOMPackage.
+IDOMPackage acts as an abstract factory for, which is inherited by DOMPackage.
+IDOMPackage acts as a product for IDOMNode, which overrides getName method of IDOMNode, setName method of IDOMNode.

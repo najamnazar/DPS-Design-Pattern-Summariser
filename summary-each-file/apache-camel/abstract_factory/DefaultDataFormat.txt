@@ -1,0 +1,4 @@
+DefaultDataFormat acts as a product for CamelContext, which overrides.
+DefaultDataFormat acts as a product for ModelReifierFactory, which overrides.
+DefaultDataFormat acts as a product for DataFormatResolver, which overrides.
+DefaultDataFormat acts as a product for DataFormatFactory, which overrides.

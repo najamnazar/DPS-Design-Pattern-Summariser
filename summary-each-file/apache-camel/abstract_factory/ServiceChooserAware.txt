@@ -1,0 +1,1 @@
+ServiceChooserAware acts as an abstract factory for ServiceChooser, which is inherited by DefaultServiceLoadBalancer.

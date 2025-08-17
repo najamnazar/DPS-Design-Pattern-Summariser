@@ -1,0 +1,1 @@
+CollationImpl acts as a memento, which gets Name, which gets Name.

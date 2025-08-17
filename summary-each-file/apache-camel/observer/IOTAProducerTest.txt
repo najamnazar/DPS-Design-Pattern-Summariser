@@ -1,0 +1,5 @@
+IOTAProducerTest acts as a publisher for observer ProducerTemplate, which sends Transfer Test, which gets New Address Test, which gets Transfers Test, which creates Route Builder.
+IOTAProducerTest acts as a publisher for observer ConsumerTemplate, which sends Transfer Test, which gets New Address Test, which gets Transfers Test, which creates Route Builder.
+IOTAProducerTest acts as a publisher for observer FluentProducerTemplate, which sends Transfer Test, which gets New Address Test, which gets Transfers Test, which creates Route Builder.
+IOTAProducerTest acts as a publisher for observer CamelContext, which sends Transfer Test, which gets New Address Test, which gets Transfers Test, which creates Route Builder.
+IOTAProducerTest acts as a publisher for observer Service, which sends Transfer Test, which gets New Address Test, which gets Transfers Test, which creates Route Builder.

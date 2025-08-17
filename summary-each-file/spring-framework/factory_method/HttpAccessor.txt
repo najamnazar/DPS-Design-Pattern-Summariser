@@ -1,0 +1,2 @@
+HttpAccessor acts as a factory for NoOutputStreamingStreamingSimpleHttpRequestFactoryTests, which overrides.
+HttpAccessor acts as a factory for MockMvcClientHttpRequestFactory, which overrides.

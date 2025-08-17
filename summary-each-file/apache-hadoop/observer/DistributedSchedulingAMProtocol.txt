@@ -1,0 +1,1 @@
+DistributedSchedulingAMProtocol acts as an observer, which registers RegisterApplicationMasterRequest parameter of request Application Master For Distributed Scheduling, which allocates DistributedSchedulingAllocateRequest parameter of request For Distributed Scheduling.

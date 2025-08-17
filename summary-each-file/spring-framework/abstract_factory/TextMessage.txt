@@ -1,0 +1,1 @@
+TextMessage acts as an abstract product for TextMessage, which is inherited by StubTextMessage.

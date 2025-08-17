@@ -1,0 +1,2 @@
+BeanInjectRouteBuilderTest acts as a publisher for observer CamelContext, which creates Registry, which creates Camel Context, which tests Bean Inject, which creates Route Builder.
+BeanInjectRouteBuilderTest acts as a publisher for observer Service, which creates Registry, which creates Camel Context, which tests Bean Inject, which creates Route Builder.

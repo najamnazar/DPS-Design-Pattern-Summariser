@@ -1,0 +1,1 @@
+DefaultJsonSchemaLoader acts as an observer, which creates CamelContext parameter of camelContext, InputStream parameter of inputStream Schema.

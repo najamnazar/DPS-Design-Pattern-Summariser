@@ -1,0 +1,1 @@
+View acts as an abstract product for View, which is inherited by HttpMessageWriterView, AbstractView, SmartView.

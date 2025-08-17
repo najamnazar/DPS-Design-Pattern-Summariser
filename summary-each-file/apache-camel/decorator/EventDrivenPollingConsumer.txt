@@ -1,0 +1,1 @@
+EventDrivenPollingConsumer acts as a component for decorator DelegateProcessor, which overrides getProcessorProcessor, processProcessor, doBuildProcessor, doInitProcessor, doStartProcessor, doStopProcessor.

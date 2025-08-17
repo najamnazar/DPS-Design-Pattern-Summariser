@@ -1,0 +1,1 @@
+ExternalJavadocSupport acts as a publisher for observer String, which is inherited by, which fors BinaryType parameter of type, String parameter of javadoc Html, which guesses String parameter of javadocHtml Version.

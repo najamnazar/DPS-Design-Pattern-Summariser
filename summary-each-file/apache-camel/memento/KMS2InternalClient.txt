@@ -1,0 +1,1 @@
+KMS2InternalClient acts as a memento, which is inherited by KMS2ClientStandardImpl, KMS2ClientOptimizedImpl, which gets Kms Client.

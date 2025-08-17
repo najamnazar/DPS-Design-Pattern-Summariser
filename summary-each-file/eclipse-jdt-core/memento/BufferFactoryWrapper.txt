@@ -1,0 +1,2 @@
+BufferFactoryWrapper acts as an originator for memento String, which tos a String String to.
+BufferFactoryWrapper acts as an originator for memento ICompilationUnit, which creates ICompilationUnit parameter of workingCopy Buffer.

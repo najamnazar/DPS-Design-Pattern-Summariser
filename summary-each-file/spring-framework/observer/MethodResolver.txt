@@ -1,0 +1,1 @@
+MethodResolver acts as an observer for publisher StandardEvaluationContext, MethodBasedEvaluationContext, which is inherited by ReflectiveMethodResolver, which resolves EvaluationContext parameter of context, Object parameter of targetObject, String parameter of name, List<TypeDescriptor> parameter of argumentTypes.

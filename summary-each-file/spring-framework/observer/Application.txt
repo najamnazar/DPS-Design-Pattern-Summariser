@@ -1,0 +1,1 @@
+Application acts as an observer for publisher MockFacesContext, which is inherited by BarChartSample, which mains String[] parameter of args.

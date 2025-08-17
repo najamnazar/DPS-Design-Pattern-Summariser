@@ -1,0 +1,1 @@
+StandardServletEnvironment acts as an adapter, which adapts to StandardEnvironment, which adapts to StandardEnvironment.

@@ -1,0 +1,1 @@
+XmlRoutesDefinitionLoader acts as a product for ExtendedCamelContext, which overrides loadRoutesDefinition method of XMLRoutesDefinitionLoader, loadRouteTemplatesDefinition method of XMLRoutesDefinitionLoader, loadRestsDefinition method of XMLRoutesDefinitionLoader.

@@ -1,0 +1,5 @@
+SoapClientTest acts as a publisher for observer ConsumerTemplate, which tests Round Trip Get Customers By Name, which creates Route Builder.
+SoapClientTest acts as a publisher for observer FluentProducerTemplate, which tests Round Trip Get Customers By Name, which creates Route Builder.
+SoapClientTest acts as a publisher for observer ProducerTemplate, which tests Round Trip Get Customers By Name, which creates Route Builder.
+SoapClientTest acts as a publisher for observer Service, which tests Round Trip Get Customers By Name, which creates Route Builder.
+SoapClientTest acts as a publisher for observer CamelContext, which tests Round Trip Get Customers By Name, which creates Route Builder.

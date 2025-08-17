@@ -1,0 +1,3 @@
+FactoryContainer acts as a caretaker for memento Map, which is inherited by, which gets Id, which tos String, which gets Type, which exists, which loads Factory Names, which gets Factory Names, which hashes Code, which equals Object parameter of o.
+FactoryContainer acts as a caretaker for memento String, which is inherited by, which gets Id, which tos String, which gets Type, which exists, which loads Factory Names, which gets Factory Names, which hashes Code, which equals Object parameter of o.
+FactoryContainer acts as a caretaker for memento S, which is inherited by, which gets Id, which tos String, which gets Type, which exists, which loads Factory Names, which gets Factory Names, which hashes Code, which equals Object parameter of o.

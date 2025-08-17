@@ -1,0 +1,2 @@
+AlterTableAlterConstraintStep acts as an abstract product for AlterTableAlterConstraintStep, which is inherited by AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl.
+AlterTableAlterConstraintStep acts as an abstract factory for AlterTableFinalStep, which is inherited by AlterTableImpl.

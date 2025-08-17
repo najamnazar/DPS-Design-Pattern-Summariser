@@ -1,0 +1,3 @@
+Hashtable acts as an adaptee for adapter Requestor, which adapts to ICompilerRequestor, which adapts to ICompilerRequestor, which adapts to ICompilerRequestor, which adapts to ICompilerRequestor, which adapts to ICompilerRequestor, which adapts to ICompilerRequestor.
+Hashtable acts as an adaptee for adapter FullSourceWorkspaceTests, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase, which adapts to TestCase.
+Hashtable acts as an adaptee for adapter InternalASTRewrite, which adapts to NodeEventHandler, which adapts to NodeEventHandler, which adapts to NodeEventHandler, which adapts to NodeEventHandler, which adapts to NodeEventHandler, which adapts to NodeEventHandler.

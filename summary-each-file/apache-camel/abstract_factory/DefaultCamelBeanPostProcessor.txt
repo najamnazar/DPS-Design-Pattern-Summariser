@@ -1,0 +1,2 @@
+DefaultCamelBeanPostProcessor acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultCamelBeanPostProcessor acts as a product for ExtendedCamelContext, which overrides setEnabled method of CamelBeanPostProcessor, isEnabled method of CamelBeanPostProcessor, addCamelBeanPostProjectInjector method of CamelBeanPostProcessor, postProcessBeforeInitialization method of CamelBeanPostProcessor, postProcessAfterInitialization method of CamelBeanPostProcessor.

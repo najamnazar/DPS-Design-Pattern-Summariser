@@ -1,0 +1,1 @@
+DebeziumPostgresComponent acts as a caretaker for memento Configuration, which gets Configuration, which sets PostgresConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, PostgresConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

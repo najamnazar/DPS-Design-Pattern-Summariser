@@ -1,0 +1,5 @@
+J9VirtualMachine acts as a caretaker for memento R, which shuts Down.
+J9VirtualMachine acts as a caretaker for memento Reader, which shuts Down.
+J9VirtualMachine acts as a caretaker for memento S, which shuts Down.
+J9VirtualMachine acts as a caretaker for memento String, which shuts Down.
+J9VirtualMachine acts as a memento, which shuts Down.

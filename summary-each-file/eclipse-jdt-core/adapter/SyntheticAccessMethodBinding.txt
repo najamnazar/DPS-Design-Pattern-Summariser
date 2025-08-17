@@ -1,0 +1,2 @@
+SyntheticAccessMethodBinding acts as an adapter, which adapts to MethodBinding, which adapts to MethodBinding, which adapts to MethodBinding.
+SyntheticAccessMethodBinding acts as an adaptee for adapter QualifiedNameReference, which adapts to NameReference, which adapts to NameReference, which adapts to NameReference.

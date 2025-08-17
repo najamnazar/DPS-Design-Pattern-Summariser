@@ -1,0 +1,2 @@
+SendToNoErrorHandlerTest acts as a publisher for observer CamelContext, which tests Send To No Error Handler, which creates Route Builder.
+SendToNoErrorHandlerTest acts as a publisher for observer Service, which tests Send To No Error Handler, which creates Route Builder.

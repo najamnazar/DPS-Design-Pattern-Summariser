@@ -1,0 +1,5 @@
+ProblemSeverities acts as an adaptee for adapter CompilationUnitDeclaration.
+ProblemSeverities acts as an adaptee for adapter NegativeCodeSnippetTest.
+ProblemSeverities acts as an adaptee for adapter AbstractMethodDeclaration.
+ProblemSeverities acts as an adaptee for adapter TypeDeclaration.
+ProblemSeverities acts as an adaptee for adapter NegativeVariableTest.

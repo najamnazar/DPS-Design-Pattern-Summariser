@@ -1,0 +1,1 @@
+WaitForTaskToComplete acts as an observer for publisher SedaEndpoint, VmEndpoint, which is inherited by.

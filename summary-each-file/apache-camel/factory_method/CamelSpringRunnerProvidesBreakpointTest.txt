@@ -1,0 +1,2 @@
+CamelSpringRunnerProvidesBreakpointTest acts as a factory for CamelSpringRunnerProvidesBreakpointTest, which overrides beforeProcess method of CamelSpringRunnerProvidesBreakpointTest.
+CamelSpringRunnerProvidesBreakpointTest acts as a factory method for Breakpoint, which is inherited by CamelSpringRunnerProvidesBreakpointTest, CamelSpringProvidesBreakpointTest.

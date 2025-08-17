@@ -1,0 +1,1 @@
+BindingScope acts as an observer.

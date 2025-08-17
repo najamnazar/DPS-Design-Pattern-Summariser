@@ -1,0 +1,2 @@
+MinioComponentConfigurationTest acts as a caretaker for memento Context, which creates Endpoint With Minimal Configuration, which creates Endpoint With Credentials And Client Exist In Registry, which creates Endpoin Wth Autowired Disabled And Client Exist In Registry.
+MinioComponentConfigurationTest acts as a caretaker for memento Producer, which creates Endpoint With Minimal Configuration, which creates Endpoint With Credentials And Client Exist In Registry, which creates Endpoin Wth Autowired Disabled And Client Exist In Registry.

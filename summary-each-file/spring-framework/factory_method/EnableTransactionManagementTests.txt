@@ -1,0 +1,1 @@
+EnableTransactionManagementTests acts as a factory method for PlatformTransactionManager, which is inherited by TransactionAspectSupport, AbstractPollingMessageListenerContainer.

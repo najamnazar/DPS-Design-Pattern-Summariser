@@ -1,0 +1,2 @@
+TestReplicationPolicyRatioConsiderLoadWithStorage acts as a publisher for observer DatanodeStorageInfo, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Target With Ratio Consider Load.
+TestReplicationPolicyRatioConsiderLoadWithStorage acts as a publisher for observer DatanodeDescriptor, which gets Configuration parameter of conf Datanode Descriptors, which tests Choose Target With Ratio Consider Load.

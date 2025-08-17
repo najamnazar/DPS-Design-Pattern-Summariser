@@ -1,0 +1,2 @@
+LocalizerStatus acts as a factory for LocalizerStatus, which overrides.
+LocalizerStatus acts as a factory method for LocalResourceStatus, which is inherited by LocalizerStatus, LocalizerStatus.

@@ -1,0 +1,2 @@
+RouteTemplateCustomSourceTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Create Route From Route Template Missing Parameter, which creates Route Builder, which parameterses String parameter of routeId, which routes Ids.
+RouteTemplateCustomSourceTest acts as a publisher for observer Service, which creates Camel Context, which tests Create Route From Route Template Missing Parameter, which creates Route Builder, which parameterses String parameter of routeId, which routes Ids.

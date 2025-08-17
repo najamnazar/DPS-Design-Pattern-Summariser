@@ -1,0 +1,1 @@
+AppTimeoutInfo acts as a caretaker for memento ApplicationTimeoutType, which gets Timeout Type, which gets Expire Time, which gets Remaining Time In Sec, which sets ApplicationTimeoutType parameter of type Timeout Type, which sets String parameter of expiryTime Expiry Time, which sets long parameter of remainingTime Remaining Time.

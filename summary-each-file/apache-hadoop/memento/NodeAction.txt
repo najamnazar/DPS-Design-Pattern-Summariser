@@ -1,0 +1,1 @@
+NodeAction acts as a memento.

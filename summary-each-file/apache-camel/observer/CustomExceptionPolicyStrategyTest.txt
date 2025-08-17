@@ -1,0 +1,2 @@
+CustomExceptionPolicyStrategyTest acts as a publisher for observer Service, which creates Registry, which tests Reverse Behavior, which creates Route Builder.
+CustomExceptionPolicyStrategyTest acts as a publisher for observer CamelContext, which creates Registry, which tests Reverse Behavior, which creates Route Builder.

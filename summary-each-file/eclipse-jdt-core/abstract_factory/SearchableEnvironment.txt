@@ -1,0 +1,1 @@
+SearchableEnvironment acts as a factory for IModuleAwareNameEnvironment, which overrides isOnModulePath method of IModuleAwareNameEnvironment, getModulesDeclaringPackage method of IModuleAwareNameEnvironment, getAllAutomaticModules method of IModuleAwareNameEnvironment, listPackages method of IModuleAwareNameEnvironment.

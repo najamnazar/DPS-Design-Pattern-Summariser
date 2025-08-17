@@ -1,0 +1,3 @@
+ClassHierarchyWithOverriddenConfigLevelTwoTests acts as a caretaker for memento A, which users, which beans From Test User Config, which loads Context Hierarchy.
+ClassHierarchyWithOverriddenConfigLevelTwoTests acts as a caretaker for memento C, which users, which beans From Test User Config, which loads Context Hierarchy.
+ClassHierarchyWithOverriddenConfigLevelTwoTests acts as a caretaker for memento ApplicationContext, which users, which beans From Test User Config, which loads Context Hierarchy.

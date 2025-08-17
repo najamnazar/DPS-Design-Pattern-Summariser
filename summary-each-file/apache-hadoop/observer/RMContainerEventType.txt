@@ -1,0 +1,1 @@
+RMContainerEventType acts as an observer for publisher RMContainerImpl, which is inherited by.

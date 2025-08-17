@@ -1,0 +1,2 @@
+CamelSagaService acts as an observer, which news Saga, which gets String parameter of id Saga, which registers CamelSagaStep parameter of step Step.
+CamelSagaService acts as an observer for publisher SagaProcessorBuilder, which is inherited by InMemorySagaService, LRASagaService, which news Saga, which gets String parameter of id Saga, which registers CamelSagaStep parameter of step Step.

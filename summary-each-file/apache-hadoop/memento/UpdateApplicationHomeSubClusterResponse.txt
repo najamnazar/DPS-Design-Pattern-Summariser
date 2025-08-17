@@ -1,0 +1,2 @@
+UpdateApplicationHomeSubClusterResponse acts as an originator for memento UpdateApplicationHomeSubClusterResponse, which is inherited by, which news an UpdateApplicationHomeSubClusterResponse Instance to.
+UpdateApplicationHomeSubClusterResponse acts as a memento, which is inherited by UpdateApplicationHomeSubClusterResponsePBImpl, which news Instance.

@@ -1,0 +1,7 @@
+LocalizationProtocolPBClientImpl acts as a visitor for element SchedulingEditPolicy, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.
+LocalizationProtocolPBClientImpl acts as a visitor for element ConstraintPlacementAlgorithm, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.
+LocalizationProtocolPBClientImpl acts as a visitor for element RMContext, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.
+LocalizationProtocolPBClientImpl acts as a visitor for element ResourceScheduler, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.
+LocalizationProtocolPBClientImpl acts as a visitor for element SchedulableEntity, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.
+LocalizationProtocolPBClientImpl acts as a visitor for element ConfigurationMutationACLPolicy, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.
+LocalizationProtocolPBClientImpl acts as a visitor for element ReservationSystem, which overrides, which closes, which heartbeats LocalizerStatus parameter of status.

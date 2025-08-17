@@ -1,0 +1,2 @@
+RequestExpectation acts as an observer, which has Remaining Count, which increments And Validate, which is Satisfied.
+RequestExpectation acts as an observer for publisher AbstractRequestExpectationManager, SimpleRequestExpectationManager, UnorderedRequestExpectationManager, which is inherited by DefaultRequestExpectation, which has Remaining Count, which increments And Validate, which is Satisfied.

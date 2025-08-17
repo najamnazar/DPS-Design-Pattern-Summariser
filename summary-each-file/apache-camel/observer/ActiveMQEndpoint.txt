@@ -1,0 +1,4 @@
+ActiveMQEndpoint acts as a publisher for observer HeaderFilterStrategy, which gets Destination Options, which sets Map<String, parameter of String> Destination Options.
+ActiveMQEndpoint acts as a publisher for observer JmsBinding, which gets Destination Options, which sets Map<String, parameter of String> Destination Options.
+ActiveMQEndpoint acts as an observer, which gets Destination Options, which sets Map<String, parameter of String> Destination Options.
+ActiveMQEndpoint acts as a publisher for observer JmsConfiguration, which gets Destination Options, which sets Map<String, parameter of String> Destination Options.

@@ -1,0 +1,2 @@
+ClientRequestInterceptor acts as an abstract product for ClientRequestInterceptor, which is inherited by AbstractClientRequestInterceptor.
+ClientRequestInterceptor acts as an abstract factory for ClientRequestInterceptor, which is inherited by AbstractClientRequestInterceptor.

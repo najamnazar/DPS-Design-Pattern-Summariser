@@ -1,0 +1,2 @@
+RefFileEndpointTest acts as a publisher for observer CamelContext, which tests Ref File Endpoint, which creates Camel Context, which creates Route Builder.
+RefFileEndpointTest acts as a publisher for observer Service, which tests Ref File Endpoint, which creates Camel Context, which creates Route Builder.

@@ -1,0 +1,2 @@
+FileMoveAndMoveFailedIssueTest acts as a publisher for observer CamelContext, which tests Move, which tests Move Failed, which creates Route Builder.
+FileMoveAndMoveFailedIssueTest acts as a publisher for observer Service, which tests Move, which tests Move Failed, which creates Route Builder.

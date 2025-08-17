@@ -1,0 +1,1 @@
+AbstractCxfWsdlFirstTest acts as a caretaker for memento Context, which gets Port1, which gets Port2, which tests Invoking Service From CXFClient, which verifies JaxwsTestHandler parameter of fromHandler, JaxwsTestHandler parameter of toHandler Jaxws Handlers, which tests Invoking Service With Camel Producer, which sends final parameter of String Jax Ws Message With Holders.

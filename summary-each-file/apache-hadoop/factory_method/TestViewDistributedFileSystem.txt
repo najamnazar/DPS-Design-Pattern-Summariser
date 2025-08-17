@@ -1,0 +1,1 @@
+TestViewDistributedFileSystem acts as a factory method for SafeMode, which is inherited by AbstractContractSafeModeTest.

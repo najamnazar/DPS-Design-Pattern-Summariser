@@ -1,0 +1,1 @@
+MethodNameMatchRequestorWrapper acts as an adapter, which adapts to IRestrictedAccessMethodRequestor.

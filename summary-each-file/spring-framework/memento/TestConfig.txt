@@ -1,0 +1,2 @@
+TestConfig acts as an originator for memento Dog, which dogberts Dog.
+TestConfig acts as an originator for memento Cat, which catberts Cat, which garfields Cat.

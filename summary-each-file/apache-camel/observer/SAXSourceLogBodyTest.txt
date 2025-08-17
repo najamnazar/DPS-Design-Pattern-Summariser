@@ -1,0 +1,5 @@
+SAXSourceLogBodyTest acts as a publisher for observer ProducerTemplate, which tests SAXSource, which creates Route Builder.
+SAXSourceLogBodyTest acts as a publisher for observer ConsumerTemplate, which tests SAXSource, which creates Route Builder.
+SAXSourceLogBodyTest acts as a publisher for observer FluentProducerTemplate, which tests SAXSource, which creates Route Builder.
+SAXSourceLogBodyTest acts as a publisher for observer Service, which tests SAXSource, which creates Route Builder.
+SAXSourceLogBodyTest acts as a publisher for observer CamelContext, which tests SAXSource, which creates Route Builder.

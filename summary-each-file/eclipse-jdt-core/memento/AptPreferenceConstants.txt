@@ -1,0 +1,3 @@
+AptPreferenceConstants acts as a caretaker for memento String.
+AptPreferenceConstants acts as a caretaker for memento Map.
+AptPreferenceConstants acts as a caretaker for memento S.

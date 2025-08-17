@@ -1,0 +1,1 @@
+PathFilter acts as an abstract product for FileInputFormat, which is inherited by OutputLogFilter.

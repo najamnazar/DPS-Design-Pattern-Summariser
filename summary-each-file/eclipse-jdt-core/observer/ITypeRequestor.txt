@@ -1,0 +1,1 @@
+ITypeRequestor acts as a publisher for observer ICompilationUnit, which is inherited by MatchLocator, which accepts IBinaryType parameter of binaryType, PackageBinding parameter of packageBinding, which accepts ICompilationUnit parameter of unit, which accepts ISourceType[] parameter of sourceType, PackageBinding parameter of packageBinding.

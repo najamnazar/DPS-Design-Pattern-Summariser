@@ -1,0 +1,2 @@
+BlobChangeFeedOperationsIT acts as a caretaker for memento Producer, which setups Client, which tests Get Change Feed, which tears Down, which creates Route Builder.
+BlobChangeFeedOperationsIT acts as a caretaker for memento Configuration, which setups Client, which tests Get Change Feed, which tears Down, which creates Route Builder.

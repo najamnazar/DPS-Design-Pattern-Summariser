@@ -1,0 +1,1 @@
+GoogleCalendarApiCollection acts as a singleton, which gets a GoogleCalendarApiCollection Collection to.

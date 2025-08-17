@@ -1,0 +1,3 @@
+RequestAndSessionScopedBeansWacTests acts as a caretaker for memento C, which requests Scope, which sessions Scope.
+RequestAndSessionScopedBeansWacTests acts as a caretaker for memento ApplicationContext, which requests Scope, which sessions Scope.
+RequestAndSessionScopedBeansWacTests acts as a caretaker for memento A, which requests Scope, which sessions Scope.

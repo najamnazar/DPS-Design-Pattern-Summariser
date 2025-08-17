@@ -1,0 +1,1 @@
+StandardTypeLocator acts as a product for EvaluationContext, which overrides findType method of TypeLocator.

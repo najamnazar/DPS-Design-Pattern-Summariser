@@ -1,0 +1,1 @@
+Routine acts as an abstract factory for Results, which is inherited by.

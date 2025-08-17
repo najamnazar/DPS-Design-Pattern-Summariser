@@ -1,0 +1,1 @@
+ComponentFactoryBean acts as a caretaker for memento C, which sets Component parameter of parent Parent, which sets List<Component> parameter of children Children, which gets Object, which gets Object Type, which is Singleton.

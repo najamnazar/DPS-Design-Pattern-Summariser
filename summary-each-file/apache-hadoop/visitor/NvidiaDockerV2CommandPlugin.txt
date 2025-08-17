@@ -1,0 +1,2 @@
+NvidiaDockerV2CommandPlugin acts as a visitor for element SchedulableEntity, which overrides, which gets a Assigned Gpus to, which requests a Gpu to, which updates a Docker Run Command to, which gets a Create Docker Volume Command to, which gets a Cleanup Docker Volumes Command to.
+NvidiaDockerV2CommandPlugin acts as a visitor for element RMContext, which overrides, which gets a Assigned Gpus to, which requests a Gpu to, which updates a Docker Run Command to, which gets a Create Docker Volume Command to, which gets a Cleanup Docker Volumes Command to.

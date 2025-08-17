@@ -1,0 +1,5 @@
+LegacyDefaultSchemaLoaderTest acts as a publisher for observer ProducerTemplate, which tests Valid Message, which creates Camel Context, which creates Route Builder.
+LegacyDefaultSchemaLoaderTest acts as a publisher for observer FluentProducerTemplate, which tests Valid Message, which creates Camel Context, which creates Route Builder.
+LegacyDefaultSchemaLoaderTest acts as a publisher for observer CamelContext, which tests Valid Message, which creates Camel Context, which creates Route Builder.
+LegacyDefaultSchemaLoaderTest acts as a publisher for observer ConsumerTemplate, which tests Valid Message, which creates Camel Context, which creates Route Builder.
+LegacyDefaultSchemaLoaderTest acts as a publisher for observer Service, which tests Valid Message, which creates Camel Context, which creates Route Builder.

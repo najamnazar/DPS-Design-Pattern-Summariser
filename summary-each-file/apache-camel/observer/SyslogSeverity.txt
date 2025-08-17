@@ -1,0 +1,1 @@
+SyslogSeverity acts as an observer for publisher SyslogMessage, Rfc5424SyslogMessage, which is inherited by.

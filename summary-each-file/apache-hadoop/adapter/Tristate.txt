@@ -1,0 +1,2 @@
+Tristate acts as an adaptee for adapter S3AFileStatus, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus, which adapts to FileStatus.
+Tristate acts as an adaptee for adapter S3ALocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus, which adapts to LocatedFileStatus.

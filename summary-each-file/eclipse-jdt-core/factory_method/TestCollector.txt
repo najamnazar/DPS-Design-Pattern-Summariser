@@ -1,0 +1,1 @@
+TestCollector acts as a factory for IDOMNode, which overrides.

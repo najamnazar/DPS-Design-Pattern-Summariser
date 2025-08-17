@@ -1,0 +1,4 @@
+AbstractReifier acts as a factory for ErrorHandlerReifier, which overrides.
+AbstractReifier acts as a factory for ServiceCallProcessorFactory, which overrides.
+AbstractReifier acts as a factory for LocalBeanRepositoryAware, which overrides lookupByName method of LocalBeanRepositoryAware, findByTypeWithName method of LocalBeanRepositoryAware, findByType method of LocalBeanRepositoryAware, unwrap method of LocalBeanRepositoryAware.
+AbstractReifier acts as a product for LocalBeanRepositoryAware, which overrides lookupByName method of BeanRepository, findByTypeWithName method of BeanRepository, findByType method of BeanRepository, unwrap method of BeanRepository.

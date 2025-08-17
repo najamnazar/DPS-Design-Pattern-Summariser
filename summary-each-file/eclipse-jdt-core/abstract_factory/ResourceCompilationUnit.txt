@@ -1,0 +1,6 @@
+ResourceCompilationUnit acts as a product for ICompilationUnitLocator, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.
+ResourceCompilationUnit acts as a product for IClassFile, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.
+ResourceCompilationUnit acts as a product for IPackageFragment, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.
+ResourceCompilationUnit acts as a product for ISourceModule, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.
+ResourceCompilationUnit acts as a product for IMember, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.
+ResourceCompilationUnit acts as a product for ITypeRoot, which overrides getContents method of ICompilationUnit, getMainTypeName method of ICompilationUnit, getPackageName method of ICompilationUnit.

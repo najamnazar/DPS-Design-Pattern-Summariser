@@ -1,0 +1,1 @@
+EntityIdentifier acts as an observer for publisher RollingLevelDBTimelineStore, which is inherited by, which gets Id, which gets Type, which compares EntityIdentifier parameter of other To, which hashes Code, which equals Object parameter of obj, which tos String.

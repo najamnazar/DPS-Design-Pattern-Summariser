@@ -1,0 +1,1 @@
+InOutQueueProducerAsyncLoadTest acts as a publisher for observer Message, which is inherited by, which uses Jmx, which sets Up, which tears Down, which tests In Out Queue Producer, which creates Route Builder, which ons Message parameter of message Message, which closes.

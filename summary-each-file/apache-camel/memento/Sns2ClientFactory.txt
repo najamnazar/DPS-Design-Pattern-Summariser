@@ -1,0 +1,1 @@
+Sns2ClientFactory acts as an originator for memento Sns2InternalClient, which gets a Sns2InternalClient Sns Client to.

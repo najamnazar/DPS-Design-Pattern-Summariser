@@ -1,0 +1,5 @@
+BonitaEndpoint acts as a publisher for observer Exchange, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration.
+BonitaEndpoint acts as a publisher for observer ExceptionHandler, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration.
+BonitaEndpoint acts as a publisher for observer Component, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration.
+BonitaEndpoint acts as a publisher for observer CamelContext, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration.
+BonitaEndpoint acts as a publisher for observer ExchangePattern, which creates Producer, which creates Processor parameter of processor Consumer, which gets Configuration.

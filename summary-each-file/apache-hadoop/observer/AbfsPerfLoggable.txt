@@ -1,0 +1,1 @@
+AbfsPerfLoggable acts as an observer for publisher AbfsPerfInfo, which is inherited by AbfsHttpOperation, which gets Log String.

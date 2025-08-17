@@ -1,0 +1,1 @@
+RunCompilerTests acts as a publisher for observer String, which gets All Test Classes, which suites.

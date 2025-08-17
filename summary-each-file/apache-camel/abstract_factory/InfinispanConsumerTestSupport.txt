@@ -1,0 +1,1 @@
+InfinispanConsumerTestSupport acts as an abstract factory for MockEndpoint, which is inherited by InfinispanEmbeddedCustomListenerTest, InfinispanRemoteConsumerIT, InfinispanRemoteCustomListenerIT, InfinispanEmbeddedConsumerTest.

@@ -1,0 +1,1 @@
+FailTaskAttemptRequest acts as a publisher for observer TaskAttemptId, which is inherited by FailTaskAttemptRequestPBImpl, which gets Task Attempt Id, which sets TaskAttemptId parameter of taskAttemptId Task Attempt Id.

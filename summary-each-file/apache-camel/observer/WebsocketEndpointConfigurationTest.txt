@@ -1,0 +1,5 @@
+WebsocketEndpointConfigurationTest acts as a publisher for observer ProducerTemplate, which tests Set Servlet Initalparameters, which tests Set Servlet No Min Threads No Max Threads No Thread Pool, which tests Set Servlet Thread Pool.
+WebsocketEndpointConfigurationTest acts as a publisher for observer CamelContext, which tests Set Servlet Initalparameters, which tests Set Servlet No Min Threads No Max Threads No Thread Pool, which tests Set Servlet Thread Pool.
+WebsocketEndpointConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests Set Servlet Initalparameters, which tests Set Servlet No Min Threads No Max Threads No Thread Pool, which tests Set Servlet Thread Pool.
+WebsocketEndpointConfigurationTest acts as a publisher for observer Service, which tests Set Servlet Initalparameters, which tests Set Servlet No Min Threads No Max Threads No Thread Pool, which tests Set Servlet Thread Pool.
+WebsocketEndpointConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests Set Servlet Initalparameters, which tests Set Servlet No Min Threads No Max Threads No Thread Pool, which tests Set Servlet Thread Pool.

@@ -1,0 +1,2 @@
+NoopSpan acts as an adaptee for adapter NoopSpan, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl.
+NoopSpan acts as an adapter, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl, which adapts to AbstractAuditSpanImpl.

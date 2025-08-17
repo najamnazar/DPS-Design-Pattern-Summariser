@@ -1,0 +1,1 @@
+WebMergedContextConfiguration acts as an observer, which gets Resource Base Path, which equals @Nullable parameter of Object, which hashes Code, which tos String.

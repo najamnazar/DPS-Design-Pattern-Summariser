@@ -1,0 +1,1 @@
+WordpressServiceProvider acts as a caretaker for memento Configuration, which gets Instance, which inits String parameter of wordpressApiUrl, which inits String parameter of wordpressApiUrl, String parameter of apiVersion, which inits WordpressAPIConfiguration parameter of config, which gets Class<T> parameter of wordpressServiceClazz Service, which has Authentication.

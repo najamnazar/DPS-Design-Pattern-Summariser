@@ -1,0 +1,1 @@
+AlterTableRenameIndexToStep acts as a publisher for observer Index, which is inherited by AlterTableImpl, which tos String parameter of newName, which tos Name parameter of newName, which tos Index parameter of newName.

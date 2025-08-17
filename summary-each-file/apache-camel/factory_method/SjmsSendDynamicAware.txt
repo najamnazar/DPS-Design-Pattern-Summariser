@@ -1,0 +1,1 @@
+SjmsSendDynamicAware acts as a factory for FaultToleranceProcessorFactory, which overrides.

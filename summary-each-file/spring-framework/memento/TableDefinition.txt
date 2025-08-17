@@ -1,0 +1,2 @@
+TableDefinition acts as an originator for memento Database.
+TableDefinition acts as an originator for memento PackageDefinition.

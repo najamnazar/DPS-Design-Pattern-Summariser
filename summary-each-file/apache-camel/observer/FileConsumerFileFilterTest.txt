@@ -1,0 +1,2 @@
+FileConsumerFileFilterTest acts as a publisher for observer CamelContext, which creates Registry, which tests Filter Files, which tests Filter Files With ARegular File, which creates Route Builder, which accepts GenericFile<T> parameter of file.
+FileConsumerFileFilterTest acts as a publisher for observer Service, which creates Registry, which tests Filter Files, which tests Filter Files With ARegular File, which creates Route Builder, which accepts GenericFile<T> parameter of file.

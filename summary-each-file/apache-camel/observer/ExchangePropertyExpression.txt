@@ -1,0 +1,4 @@
+ExchangePropertyExpression acts as an observer, which gets Language, which ends.
+ExchangePropertyExpression acts as a publisher for observer Predicate, which gets Language, which ends.
+ExchangePropertyExpression acts as a publisher for observer ExpressionDefinition, which gets Language, which ends.
+ExchangePropertyExpression acts as a publisher for observer Expression, which gets Language, which ends.

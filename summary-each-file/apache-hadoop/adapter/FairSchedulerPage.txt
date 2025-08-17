@@ -1,0 +1,1 @@
+FairSchedulerPage acts as an adapter, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView, which adapts to RmView.

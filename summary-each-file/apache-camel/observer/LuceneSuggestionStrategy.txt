@@ -1,0 +1,1 @@
+LuceneSuggestionStrategy acts as an observer, which suggests Set<String> parameter of names, String parameter of unknownOption Endpoint Options, which suggests Collection<String> parameter of names, String parameter of unknownOption, int parameter of maxSuggestions Endpoint Options.

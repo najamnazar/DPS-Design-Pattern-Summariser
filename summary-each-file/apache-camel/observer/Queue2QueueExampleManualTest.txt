@@ -1,0 +1,5 @@
+Queue2QueueExampleManualTest acts as a publisher for observer ConsumerTemplate, which cleans, which tests Send Messages Between Queues, which creates Route Builder.
+Queue2QueueExampleManualTest acts as a publisher for observer ProducerTemplate, which cleans, which tests Send Messages Between Queues, which creates Route Builder.
+Queue2QueueExampleManualTest acts as a publisher for observer FluentProducerTemplate, which cleans, which tests Send Messages Between Queues, which creates Route Builder.
+Queue2QueueExampleManualTest acts as a publisher for observer Service, which cleans, which tests Send Messages Between Queues, which creates Route Builder.
+Queue2QueueExampleManualTest acts as a publisher for observer CamelContext, which cleans, which tests Send Messages Between Queues, which creates Route Builder.

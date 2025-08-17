@@ -1,0 +1,2 @@
+MockPredicateTest acts as a publisher for observer Service, which tests Mock Predicate, which tests Mock Predicate As Parameter, which creates Route Builder.
+MockPredicateTest acts as a publisher for observer CamelContext, which tests Mock Predicate, which tests Mock Predicate As Parameter, which creates Route Builder.

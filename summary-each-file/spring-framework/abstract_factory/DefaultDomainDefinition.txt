@@ -1,0 +1,2 @@
+DefaultDomainDefinition acts as a product for TypedElementDefinition, which overrides getCheckClauses method of DomainDefinition, getBaseType method of DomainDefinition.
+DefaultDomainDefinition acts as a factory for DomainDefinition, which overrides getCheckClauses method of DomainDefinition, getBaseType method of DomainDefinition.

@@ -1,0 +1,2 @@
+CBRContainsIssueTest acts as a publisher for observer CamelContext, which tests Not13, which tests Is13, which tests Is13Number, which tests Contains13, which tests Contains13Number, which tests Contains Not13Number, which creates Route Builder.
+CBRContainsIssueTest acts as a publisher for observer Service, which tests Not13, which tests Is13, which tests Is13Number, which tests Contains13, which tests Contains13Number, which tests Contains Not13Number, which creates Route Builder.

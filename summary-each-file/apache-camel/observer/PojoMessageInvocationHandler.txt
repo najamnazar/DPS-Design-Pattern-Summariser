@@ -1,0 +1,1 @@
+PojoMessageInvocationHandler acts as a publisher for observer Method, which does Object parameter of proxy, Method parameter of method, Object[] parameter of args Invoke Proxy.

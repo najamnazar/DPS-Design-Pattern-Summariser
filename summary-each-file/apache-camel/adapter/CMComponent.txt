@@ -1,0 +1,1 @@
+CMComponent acts as an adapter, which adapts to DefaultComponent, which adapts getValidator method of Validator to DefaultComponent, which adapts to DefaultComponent.

@@ -1,0 +1,1 @@
+FpgaResourcePlugin acts as a factory for ResourcePlugin, which overrides initialize method of ResourcePlugin, createResourceHandler method of ResourcePlugin, getNodeResourceHandlerInstance method of ResourcePlugin, cleanup method of ResourcePlugin, getDockerCommandPluginInstance method of ResourcePlugin, getNMResourceInfo method of ResourcePlugin.

@@ -1,0 +1,1 @@
+CSimpleSupport acts as an observer, which evaluates Exchange parameter of exchange, Class<T> parameter of type, which matches Exchange parameter of exchange.

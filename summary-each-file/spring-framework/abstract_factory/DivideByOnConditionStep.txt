@@ -1,0 +1,3 @@
+DivideByOnConditionStep acts as an abstract product for DivideByOnConditionStep, which is inherited by DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy.
+DivideByOnConditionStep acts as an abstract factory for DivideByOnConditionStep, which is inherited by DivideBy.
+DivideByOnConditionStep acts as an abstract product for DivideByOnConditionStep, which is inherited by DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy, DivideBy.

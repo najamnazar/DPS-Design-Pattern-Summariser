@@ -1,0 +1,1 @@
+JsonParser acts as an observer for publisher JsonXmlStreamReader, which is inherited by, which parses final parameter of String, which adds JsonStructure parameter of element, String parameter of key, Stack<JsonStructure> parameter of stack Json, which sanitizes String parameter of key Key, which sanitizes String parameter of data Data.

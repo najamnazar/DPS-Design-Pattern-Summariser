@@ -1,0 +1,1 @@
+TestProxyFactoryBean acts as a publisher for observer AdvisorAdapterRegistry, which creates Main Interceptor, which sets BeanFactory parameter of beanFactory Bean Factory.

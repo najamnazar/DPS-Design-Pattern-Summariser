@@ -1,0 +1,1 @@
+TestRMWebServicesCapacitySchedulerMixedModeAbsoluteAndPercentageAndWeightVector acts as an adapter, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.

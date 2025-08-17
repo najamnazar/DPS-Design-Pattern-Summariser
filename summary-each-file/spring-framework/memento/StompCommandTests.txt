@@ -1,0 +1,2 @@
+StompCommandTests acts as a caretaker for memento C, which gets Message Type, which requires Destination, which requires Subscription Id, which requires Content Length, which is Body Allowed.
+StompCommandTests acts as a caretaker for memento Message, which gets Message Type, which requires Destination, which requires Subscription Id, which requires Content Length, which is Body Allowed.

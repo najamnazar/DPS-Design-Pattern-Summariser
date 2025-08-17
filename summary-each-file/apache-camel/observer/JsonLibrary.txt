@@ -1,0 +1,1 @@
+JsonLibrary acts as an observer for publisher JsonDataFormat, which is inherited by, which gets Data Format Name.

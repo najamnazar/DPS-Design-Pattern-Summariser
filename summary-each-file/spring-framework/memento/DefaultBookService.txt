@@ -1,0 +1,1 @@
+DefaultBookService acts as a caretaker for memento C, which creates int parameter of id, int parameter of authorId, String parameter of title.

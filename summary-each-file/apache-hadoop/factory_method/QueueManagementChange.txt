@@ -1,0 +1,1 @@
+QueueManagementChange acts as a factory method for CSQueue, which is inherited by AbstractCSQueue, CapacityScheduler, AbstractManagedParentQueue, AbstractCSQueue, ResourceCalculationDriver, AbstractParentQueue, CSQueue, AbstractManagedParentQueue, AbstractParentQueue.

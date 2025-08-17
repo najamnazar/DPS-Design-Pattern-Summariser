@@ -1,0 +1,2 @@
+ITestAbfsFileSystemContractGetFileStatus acts as a publisher for observer PathFilter, which setups, which creates Configuration, which creates final parameter of Configuration Contract.
+ITestAbfsFileSystemContractGetFileStatus acts as a publisher for observer Path, which setups, which creates Configuration, which creates final parameter of Configuration Contract.

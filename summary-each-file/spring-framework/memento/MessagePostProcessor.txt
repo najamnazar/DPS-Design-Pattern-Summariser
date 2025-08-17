@@ -1,0 +1,1 @@
+MessagePostProcessor acts as an originator for memento Message, which is inherited by, which posts Message parameter of message Process Message, which posts Message parameter of message Process Message.

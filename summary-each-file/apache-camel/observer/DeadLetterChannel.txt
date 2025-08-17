@@ -1,0 +1,4 @@
+DeadLetterChannel acts as a publisher for observer AsyncCallback, which clones Processor parameter of output, which tos String, which is Run Allowed On Preparing Shutdown, which is Dead Letter Channel.
+DeadLetterChannel acts as a publisher for observer Processor, which clones Processor parameter of output, which tos String, which is Run Allowed On Preparing Shutdown, which is Dead Letter Channel.
+DeadLetterChannel acts as a publisher for observer Exchange, which clones Processor parameter of output, which tos String, which is Run Allowed On Preparing Shutdown, which is Dead Letter Channel.
+DeadLetterChannel acts as a publisher for observer RedeliveryPolicy, which clones Processor parameter of output, which tos String, which is Run Allowed On Preparing Shutdown, which is Dead Letter Channel.

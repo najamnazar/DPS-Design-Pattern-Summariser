@@ -1,0 +1,5 @@
+NullCondition acts as a caretaker for memento Null, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+NullCondition acts as a caretaker for memento Clause, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+NullCondition acts as a caretaker for memento C, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+NullCondition acts as a memento, which clauseses Context<?> parameter of ctx Nullable, which clauseses Context<?> parameter of ctx Nullable, which clauseses Context<?> parameter of ctx Nullable.
+NullCondition acts as a caretaker for memento SQL, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

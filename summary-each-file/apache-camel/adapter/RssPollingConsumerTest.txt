@@ -1,0 +1,1 @@
+RssPollingConsumerTest acts as a target for adapter RssPollingConsumerWithBasicAuthTest, which adapts to RssPollingConsumerTest, which adapts to RssPollingConsumerTest.

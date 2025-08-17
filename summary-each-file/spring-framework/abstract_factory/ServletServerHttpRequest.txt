@@ -1,0 +1,2 @@
+ServletServerHttpRequest acts as a product for ServerWebExchange, which overrides getPrincipal method of ServerHttpRequest, getLocalAddress method of ServerHttpRequest, getRemoteAddress method of ServerHttpRequest, getAsyncRequestControl method of ServerHttpRequest.
+ServletServerHttpRequest acts as a factory for ServerHttpRequest, which overrides getPrincipal method of ServerHttpRequest, getLocalAddress method of ServerHttpRequest, getRemoteAddress method of ServerHttpRequest, getAsyncRequestControl method of ServerHttpRequest.

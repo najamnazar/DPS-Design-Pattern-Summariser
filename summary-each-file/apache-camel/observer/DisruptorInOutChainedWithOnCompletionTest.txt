@@ -1,0 +1,5 @@
+DisruptorInOutChainedWithOnCompletionTest acts as a publisher for observer CamelContext, which tests In Out Disruptor Chained With Custom On Completion, which creates Route Builder.
+DisruptorInOutChainedWithOnCompletionTest acts as a publisher for observer ConsumerTemplate, which tests In Out Disruptor Chained With Custom On Completion, which creates Route Builder.
+DisruptorInOutChainedWithOnCompletionTest acts as a publisher for observer FluentProducerTemplate, which tests In Out Disruptor Chained With Custom On Completion, which creates Route Builder.
+DisruptorInOutChainedWithOnCompletionTest acts as a publisher for observer ProducerTemplate, which tests In Out Disruptor Chained With Custom On Completion, which creates Route Builder.
+DisruptorInOutChainedWithOnCompletionTest acts as a publisher for observer Service, which tests In Out Disruptor Chained With Custom On Completion, which creates Route Builder.

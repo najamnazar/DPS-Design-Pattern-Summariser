@@ -1,0 +1,1 @@
+DefaultSslInfo acts as an observer, which gets Session Id, which gets Peer Certificates, which inits SSLSession parameter of session Session Id, which inits SSLSession parameter of session Certificates.

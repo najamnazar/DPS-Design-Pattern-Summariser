@@ -1,0 +1,1 @@
+Character acts as an observer for publisher LikeIgnoreCase, which is inherited by Cat, Dog, which gets Name.

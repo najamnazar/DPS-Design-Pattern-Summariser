@@ -1,0 +1,1 @@
+CxfRsProducerClientFactoryCacheTest acts as a caretaker for memento Context, which tests Get Costumer With Http Central Client API, which does ProducerTemplate parameter of template, final parameter of int Run Test, which gets Port1, which creates Application Context.

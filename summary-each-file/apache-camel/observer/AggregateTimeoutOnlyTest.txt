@@ -1,0 +1,2 @@
+AggregateTimeoutOnlyTest acts as a publisher for observer Service, which tests Aggregate Timeout Only, which creates Route Builder.
+AggregateTimeoutOnlyTest acts as a publisher for observer CamelContext, which tests Aggregate Timeout Only, which creates Route Builder.

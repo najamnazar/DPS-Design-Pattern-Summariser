@@ -1,0 +1,1 @@
+ModelineFactory acts as an abstract product for ModelineFactory, which is inherited by DefaultModelineFactory.

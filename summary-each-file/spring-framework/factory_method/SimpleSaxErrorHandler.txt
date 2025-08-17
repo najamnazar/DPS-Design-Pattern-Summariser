@@ -1,0 +1,1 @@
+SimpleSaxErrorHandler acts as a product for JmsNamespaceHandlerTests, which overrides.

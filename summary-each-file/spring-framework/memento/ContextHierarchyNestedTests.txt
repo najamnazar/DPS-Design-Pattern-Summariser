@@ -1,0 +1,3 @@
+ContextHierarchyNestedTests acts as a caretaker for memento A, which tops Level Test, which nesteds Test, which nesteds Test, which nesteds Test, which nesteds Test, which foos, which foos, which bars, which foos, which bars, which bars, which foos.
+ContextHierarchyNestedTests acts as a caretaker for memento C, which tops Level Test, which nesteds Test, which nesteds Test, which nesteds Test, which nesteds Test, which foos, which foos, which bars, which foos, which bars, which bars, which foos.
+ContextHierarchyNestedTests acts as a caretaker for memento ApplicationContext, which tops Level Test, which nesteds Test, which nesteds Test, which nesteds Test, which nesteds Test, which foos, which foos, which bars, which foos, which bars, which bars, which foos.

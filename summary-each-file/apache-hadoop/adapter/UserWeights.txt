@@ -1,0 +1,1 @@
+UserWeights acts as an adaptee for adapter AbstractCSQueue, which adapts to CSQueue, which adapts to CSQueue, which adapts to CSQueue, which adapts to CSQueue, which adapts to CSQueue.

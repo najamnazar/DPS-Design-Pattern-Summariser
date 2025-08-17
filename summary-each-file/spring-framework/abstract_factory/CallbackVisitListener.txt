@@ -1,0 +1,2 @@
+CallbackVisitListener acts as a product for VisitListenerProvider, which overrides clauseStart method of VisitListener, clauseEnd method of VisitListener, visitStart method of VisitListener, visitEnd method of VisitListener.
+CallbackVisitListener acts as a factory for VisitListener, which overrides clauseStart method of VisitListener, clauseEnd method of VisitListener, visitStart method of VisitListener, visitEnd method of VisitListener.

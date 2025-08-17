@@ -1,0 +1,1 @@
+VaultConfiguration acts as an abstract product for VaultConfiguration, which is inherited by GcpVaultConfiguration, AwsVaultConfiguration, VaultConfigurationProperties, HashicorpVaultConfiguration, AzureVaultConfiguration.

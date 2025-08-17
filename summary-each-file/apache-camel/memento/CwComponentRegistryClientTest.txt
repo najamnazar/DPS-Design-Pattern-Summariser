@@ -1,0 +1,2 @@
+CwComponentRegistryClientTest acts as a caretaker for memento Context, which creates Endpoint With All Options, which creates Endpoint With Minimal S3Client Misconfiguration, which creates Endpoint With Autowire.
+CwComponentRegistryClientTest acts as a caretaker for memento Producer, which creates Endpoint With All Options, which creates Endpoint With Minimal S3Client Misconfiguration, which creates Endpoint With Autowire.

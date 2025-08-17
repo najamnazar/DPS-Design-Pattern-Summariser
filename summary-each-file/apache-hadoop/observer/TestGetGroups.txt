@@ -1,0 +1,2 @@
+TestGetGroups acts as a publisher for observer UserGroupInformation, which sets Up Name Node, which tears Down Name Node, which gets PrintStream parameter of o Tool.
+TestGetGroups acts as a publisher for observer Configuration, which sets Up Name Node, which tears Down Name Node, which gets PrintStream parameter of o Tool.

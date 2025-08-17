@@ -1,0 +1,2 @@
+ConstantExpressionAdapter acts as a visitor for element ExtendedCamelContext, which overrides, which sets a Value to, which gets a Value to.
+ConstantExpressionAdapter acts as a visitor for element ModelineParser, which overrides, which sets a Value to, which gets a Value to.

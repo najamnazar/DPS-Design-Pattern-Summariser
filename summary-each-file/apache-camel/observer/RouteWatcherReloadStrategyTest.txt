@@ -1,0 +1,2 @@
+RouteWatcherReloadStrategyTest acts as a publisher for observer Service, which tests Base Path Exact, which tests Base Path Wildcard Extension, which tests Base Path Full Wildcard, which tests Null Pattern.
+RouteWatcherReloadStrategyTest acts as a publisher for observer CamelContext, which tests Base Path Exact, which tests Base Path Wildcard Extension, which tests Base Path Full Wildcard, which tests Null Pattern.

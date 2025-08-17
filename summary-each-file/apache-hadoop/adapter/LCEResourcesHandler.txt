@@ -1,0 +1,2 @@
+LCEResourcesHandler acts as an adaptee for adapter LinuxContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor, which adapts to ContainerExecutor.
+LCEResourcesHandler acts as a target for adapter CgroupsLCEResourcesHandler, which adapts to LCEResourcesHandler, which adapts to LCEResourcesHandler, which adapts to LCEResourcesHandler, which adapts to LCEResourcesHandler.

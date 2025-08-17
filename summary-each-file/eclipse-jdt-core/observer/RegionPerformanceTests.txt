@@ -1,0 +1,1 @@
+RegionPerformanceTests acts as a publisher for observer String, which suites, which creates final parameter of String Java Project, which sets Up, which tears Down, which tests Region.

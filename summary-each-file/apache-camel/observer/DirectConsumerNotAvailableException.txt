@@ -1,0 +1,1 @@
+DirectConsumerNotAvailableException acts as a publisher for observer Exchange.

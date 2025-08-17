@@ -1,0 +1,1 @@
+UserCommandKey acts as an observer, which gets User, which gets Command, which gets Type, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which compares @Nonnull parameter of Object To, which tos String, which equals Object parameter of o, which hashes Code.

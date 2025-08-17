@@ -1,0 +1,5 @@
+MultiRestConsumer acts as a publisher for observer ExceptionHandler, which does Init, which does Start, which does Stop, which does Shutdown, which configures Consumer parameter of consumer.
+MultiRestConsumer acts as a publisher for observer Exchange, which does Init, which does Start, which does Stop, which does Shutdown, which configures Consumer parameter of consumer.
+MultiRestConsumer acts as a publisher for observer Consumer, which is inherited by, which does Init, which does Start, which does Stop, which does Shutdown, which configures Consumer parameter of consumer.
+MultiRestConsumer acts as a publisher for observer HealthCheck, which does Init, which does Start, which does Stop, which does Shutdown, which configures Consumer parameter of consumer.
+MultiRestConsumer acts as a publisher for observer Route, which does Init, which does Start, which does Stop, which does Shutdown, which configures Consumer parameter of consumer.

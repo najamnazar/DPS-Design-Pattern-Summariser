@@ -1,0 +1,1 @@
+ManagedRemoveHeader acts as a publisher for observer Route, which gets Header Name.

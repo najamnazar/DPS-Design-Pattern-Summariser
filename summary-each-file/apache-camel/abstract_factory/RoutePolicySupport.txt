@@ -1,0 +1,1 @@
+RoutePolicySupport acts as a product for RoutePolicyFactory, which overrides onInit method of RoutePolicy, onRemove method of RoutePolicy, onStart method of RoutePolicy, onStop method of RoutePolicy, onSuspend method of RoutePolicy, onResume method of RoutePolicy, onExchangeBegin method of RoutePolicy, onExchangeDone method of RoutePolicy.

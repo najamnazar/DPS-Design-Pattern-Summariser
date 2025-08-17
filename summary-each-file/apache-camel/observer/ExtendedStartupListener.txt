@@ -1,0 +1,1 @@
+ExtendedStartupListener acts as an observer.

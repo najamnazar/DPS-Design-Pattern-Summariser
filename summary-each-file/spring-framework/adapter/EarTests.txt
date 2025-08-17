@@ -1,0 +1,1 @@
+EarTests acts as a target for adapter RootWacEarTests, which adapts to EarTests, which adapts to EarTests.

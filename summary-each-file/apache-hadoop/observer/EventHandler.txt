@@ -1,0 +1,1 @@
+EventHandler acts as an observer for publisher AsyncDispatcher, DrainDispatcher, InlineDispatcher, which is inherited by, which handles T parameter of event.

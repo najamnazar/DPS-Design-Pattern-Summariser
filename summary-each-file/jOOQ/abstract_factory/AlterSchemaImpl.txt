@@ -1,0 +1,3 @@
+AlterSchemaImpl acts as a factory for AlterSchemaStep, which overrides.
+AlterSchemaImpl acts as a product for AlterSchemaStep, which overrides.
+AlterSchemaImpl acts as a product for DSLContext, which overrides.

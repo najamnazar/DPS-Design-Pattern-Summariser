@@ -1,0 +1,2 @@
+SplitterStreamingWithErrorHandlerTest acts as a publisher for observer Service, which tests Splitter Streaming With Error, which creates Route Builder.
+SplitterStreamingWithErrorHandlerTest acts as a publisher for observer CamelContext, which tests Splitter Streaming With Error, which creates Route Builder.

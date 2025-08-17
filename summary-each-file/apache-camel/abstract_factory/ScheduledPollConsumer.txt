@@ -1,0 +1,1 @@
+ScheduledPollConsumer acts as a factory for HealthCheckAware, which overrides.

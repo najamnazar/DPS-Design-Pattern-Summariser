@@ -1,0 +1,1 @@
+InfinispanTestSupport acts as a target for adapter InfinispanRemoteTestSupport, which adapts to InfinispanTestSupport, which adapts to InfinispanTestSupport, which adapts to InfinispanTestSupport.

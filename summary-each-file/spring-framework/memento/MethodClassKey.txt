@@ -1,0 +1,1 @@
+MethodClassKey acts as a caretaker for memento C, which equals @Nullable parameter of Object, which hashes Code, which tos String, which compares MethodClassKey parameter of other To.

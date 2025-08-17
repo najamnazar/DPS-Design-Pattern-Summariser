@@ -1,0 +1,1 @@
+RMNodeUpdateContainerEvent acts as an observer, which gets To Be Updated Containers.

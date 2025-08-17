@@ -1,0 +1,1 @@
+ZeroCopyHttpOutputMessage acts as an adaptee for adapter ReactorServerHttpResponse, which adapts to AbstractServerHttpResponse, which adapts to AbstractServerHttpResponse.

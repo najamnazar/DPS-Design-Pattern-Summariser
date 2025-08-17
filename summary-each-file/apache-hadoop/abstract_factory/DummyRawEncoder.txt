@@ -1,0 +1,1 @@
+DummyRawEncoder acts as a product for RawErasureCoderFactory, which overrides doEncode method of RawErasureEncoder, doEncode method of RawErasureEncoder.

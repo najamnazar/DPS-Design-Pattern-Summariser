@@ -1,0 +1,3 @@
+BasicAnnotationConfigWacSpringRuleTests acts as a caretaker for memento C.
+BasicAnnotationConfigWacSpringRuleTests acts as a caretaker for memento A.
+BasicAnnotationConfigWacSpringRuleTests acts as a caretaker for memento B.

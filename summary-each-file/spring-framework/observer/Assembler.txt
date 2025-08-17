@@ -1,0 +1,3 @@
+Assembler acts as a publisher for observer Logic, which is inherited by, which sets Service parameter of service Service, which sets Logic parameter of l Logic, which sets String parameter of name Bean Name, which tests, which outputs.
+Assembler acts as an observer for publisher Logic, which is inherited by, which sets Service parameter of service Service, which sets Logic parameter of l Logic, which sets String parameter of name Bean Name, which tests, which outputs.
+Assembler acts as a publisher for observer Service, which is inherited by, which sets Service parameter of service Service, which sets Logic parameter of l Logic, which sets String parameter of name Bean Name, which tests, which outputs.

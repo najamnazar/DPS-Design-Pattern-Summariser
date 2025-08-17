@@ -1,0 +1,1 @@
+TaskReport acts as an originator for memento TaskState, which is inherited by, which gets a TaskState Task State to, which sets TaskState parameter of taskState Task State.

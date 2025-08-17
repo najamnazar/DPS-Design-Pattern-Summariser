@@ -1,0 +1,5 @@
+SesComponentManualIT acts as a publisher for observer ProducerTemplate, which sends Using Access Key And Secret Key, which creates Route Builder.
+SesComponentManualIT acts as a publisher for observer CamelContext, which sends Using Access Key And Secret Key, which creates Route Builder.
+SesComponentManualIT acts as a publisher for observer ConsumerTemplate, which sends Using Access Key And Secret Key, which creates Route Builder.
+SesComponentManualIT acts as a publisher for observer FluentProducerTemplate, which sends Using Access Key And Secret Key, which creates Route Builder.
+SesComponentManualIT acts as a publisher for observer Service, which sends Using Access Key And Secret Key, which creates Route Builder.

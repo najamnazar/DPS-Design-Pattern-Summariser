@@ -1,0 +1,1 @@
+CustomTokenProviderAdapter acts as a publisher for observer Configuration, which refreshes Token, which binds final parameter of URI, final parameter of Configuration, which closes, which gets User Agent Suffix, which gets Custom Token Provider Adaptee.

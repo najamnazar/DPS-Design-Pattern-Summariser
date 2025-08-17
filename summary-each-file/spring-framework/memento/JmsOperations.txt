@@ -1,0 +1,1 @@
+JmsOperations acts as an originator for memento Message, which is inherited by, which receives Message, which receives Message, which receives Message, which receives a Message Selected to, which receives a Message Selected to, which receives a Message Selected to, which sends a Message And Receive to, which sends a Message And Receive to, which sends a Message And Receive to.

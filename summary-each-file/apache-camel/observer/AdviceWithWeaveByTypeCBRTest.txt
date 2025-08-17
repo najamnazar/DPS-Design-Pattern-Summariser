@@ -1,0 +1,2 @@
+AdviceWithWeaveByTypeCBRTest acts as a publisher for observer CamelContext, which tests Weave By Type, which creates Route Builder.
+AdviceWithWeaveByTypeCBRTest acts as a publisher for observer Service, which tests Weave By Type, which creates Route Builder.

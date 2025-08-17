@@ -1,0 +1,7 @@
+MyRoutesWithModel acts as a publisher for observer RoutesDefinition, which configures.
+MyRoutesWithModel acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRoutesWithModel acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRoutesWithModel acts as an observer, which configures.
+MyRoutesWithModel acts as a publisher for observer RestsDefinition, which configures.
+MyRoutesWithModel acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyRoutesWithModel acts as a publisher for observer Resource, which configures.

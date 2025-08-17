@@ -1,0 +1,2 @@
+SimpleMockSampleTest acts as a publisher for observer CamelContext, which tests Simple Thousand Messages, which tests Simple Two Messages, which creates Route Builder.
+SimpleMockSampleTest acts as a publisher for observer Service, which tests Simple Thousand Messages, which tests Simple Two Messages, which creates Route Builder.

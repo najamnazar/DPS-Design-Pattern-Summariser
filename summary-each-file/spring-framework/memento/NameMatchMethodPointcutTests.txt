@@ -1,0 +1,1 @@
+NameMatchMethodPointcutTests acts as a caretaker for memento Pointcut, which setups, which tests Matching Only, which tests Empty, which tests Match One Method, which tests Sets, which tests Serializable, which tests Equals And Hash Code.

@@ -1,0 +1,1 @@
+EncodedResource acts as a caretaker for memento C, which gets Resource, which gets Encoding, which gets Charset, which requires Reader, which gets Reader, which gets Input Stream, which equals @Nullable parameter of Object, which hashes Code, which tos String.

@@ -1,0 +1,2 @@
+AnnotationFilter acts as an abstract product for AnnotationFilter, which is inherited by PackagesAnnotationFilter.
+AnnotationFilter acts as an abstract factory for AnnotationFilter, which is inherited by PackagesAnnotationFilter.

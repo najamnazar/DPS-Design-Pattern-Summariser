@@ -1,0 +1,4 @@
+IdeJavaSourceOutputStream acts as a caretaker for memento E, which closes.
+IdeJavaSourceOutputStream acts as a caretaker for memento S, which closes.
+IdeJavaSourceOutputStream acts as a caretaker for memento CharSequence, which closes.
+IdeJavaSourceOutputStream acts as a caretaker for memento C, which closes.

@@ -1,0 +1,2 @@
+ConstantLanguageBinaryResourceTest acts as a publisher for observer CamelContext, which tests Constant Binary Default, which tests Constant Binary Classpath, which creates Route Builder.
+ConstantLanguageBinaryResourceTest acts as a publisher for observer Service, which tests Constant Binary Default, which tests Constant Binary Classpath, which creates Route Builder.

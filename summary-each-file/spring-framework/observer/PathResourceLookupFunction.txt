@@ -1,0 +1,1 @@
+PathResourceLookupFunction acts as a publisher for observer Resource, which is inherited by, which applies ServerRequest parameter of request, which processes String parameter of path Path, which is String parameter of path Invalid Path, which is Resource parameter of resource Resource Under Location, which tos String.

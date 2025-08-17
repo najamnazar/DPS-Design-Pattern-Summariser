@@ -1,0 +1,1 @@
+WordpressServicePostsAdapter acts as a factory for WordpressServicePosts, which overrides retrieve method of WordpressServicePosts.

@@ -1,0 +1,1 @@
+Nfs3 acts as an adapter, which adapts to Nfs3Base, which adapts startServiceInternal method of Mountd to Nfs3Base, which adapts startService method of Mountd to Nfs3Base, which adapts to Nfs3Base, which adapts to Nfs3Base.

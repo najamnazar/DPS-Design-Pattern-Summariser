@@ -1,0 +1,2 @@
+ScatterGatherTest acts as a publisher for observer CamelContext, which tests Scatter And Gather, which creates Camel Context.
+ScatterGatherTest acts as a publisher for observer Service, which tests Scatter And Gather, which creates Camel Context.

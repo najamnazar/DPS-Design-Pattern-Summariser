@@ -1,0 +1,1 @@
+TimeBoundedBudget acts as an observer, which maxes Duration, which initials Delay, which intervals, which cans Continue, which nexts, which elapseds.

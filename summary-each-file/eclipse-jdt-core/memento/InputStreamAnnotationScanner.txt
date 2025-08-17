@@ -1,0 +1,1 @@
+InputStreamAnnotationScanner acts as a caretaker for memento S, which gets Next.

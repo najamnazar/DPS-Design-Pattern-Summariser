@@ -1,0 +1,2 @@
+SplitGroupMultiLinesTest acts as a publisher for observer CamelContext, which tests Split Multi Lines, which creates Route Builder.
+SplitGroupMultiLinesTest acts as a publisher for observer Service, which tests Split Multi Lines, which creates Route Builder.

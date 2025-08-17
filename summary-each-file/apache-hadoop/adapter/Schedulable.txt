@@ -1,0 +1,2 @@
+Schedulable acts as an adaptee for adapter FSQueue, which adapts to Queue, which adapts to Queue, which adapts to Queue.
+Schedulable acts as an adaptee for adapter FSAppAttempt, which adapts to SchedulerApplicationAttempt, which adapts to SchedulerApplicationAttempt, which adapts to SchedulerApplicationAttempt.

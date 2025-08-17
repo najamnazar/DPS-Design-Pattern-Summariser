@@ -1,0 +1,2 @@
+NewInstanceTest acts as a caretaker for memento Producer, which tests Send Message To Different Beans, which creates Registry, which creates Route Builder, which generates Id, which tos String, which reads @Body parameter of String.
+NewInstanceTest acts as a caretaker for memento Context, which tests Send Message To Different Beans, which creates Registry, which creates Route Builder, which generates Id, which tos String, which reads @Body parameter of String.

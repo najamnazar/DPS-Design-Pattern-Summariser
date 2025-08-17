@@ -1,0 +1,1 @@
+SourceExtractor acts as an abstract product for ReaderContext, which is inherited by NullSourceExtractor, PassThroughSourceExtractor.

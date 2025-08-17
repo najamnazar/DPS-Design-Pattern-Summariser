@@ -1,0 +1,1 @@
+INestMembersAttribute acts as an abstract product for INestMembersAttribute, which is inherited by NestMembersAttribute.

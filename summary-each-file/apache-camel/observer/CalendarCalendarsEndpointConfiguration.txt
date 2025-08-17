@@ -1,0 +1,2 @@
+CalendarCalendarsEndpointConfiguration acts as a publisher for observer GoogleCalendarApiName, which gets Calendar Id, which sets String parameter of calendarId Calendar Id, which gets Content, which sets com.google.api.services.calendar.model.Calendar parameter of content Content.
+CalendarCalendarsEndpointConfiguration acts as an observer, which gets Calendar Id, which sets String parameter of calendarId Calendar Id, which gets Content, which sets com.google.api.services.calendar.model.Calendar parameter of content Content.

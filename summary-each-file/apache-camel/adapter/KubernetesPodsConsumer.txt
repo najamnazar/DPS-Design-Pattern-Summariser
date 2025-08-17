@@ -1,0 +1,1 @@
+KubernetesPodsConsumer acts as an adapter, which adapts getEndpoint method of Processor, getEndpoint method of Processor, getEndpoint method of Processor, getEndpoint method of Processor to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

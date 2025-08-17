@@ -1,0 +1,2 @@
+AvroDataFormat acts as a product for Model, which overrides getDataFormatName method of DataFormatDefinition.
+AvroDataFormat acts as a product for DataFormatDefinitionAware, which overrides getDataFormatName method of DataFormatDefinition.

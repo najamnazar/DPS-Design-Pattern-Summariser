@@ -1,0 +1,1 @@
+JarPackageFragmentInfo acts as a memento, which gets Non Java Resources.

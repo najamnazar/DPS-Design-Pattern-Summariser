@@ -1,0 +1,1 @@
+ConfigurableBeanFactory acts as an abstract factory for TypeConverter, BeanExpressionResolver, Scope, ConversionService, ApplicationStartup, BeanDefinition, which is inherited by AbstractBeanFactory.

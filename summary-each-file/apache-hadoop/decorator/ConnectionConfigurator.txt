@@ -1,0 +1,1 @@
+ConnectionConfigurator acts as a component for OAuth2ConnectionConfigurator, which is inherited by SSLConnectionConfigurator, SSLFactory.

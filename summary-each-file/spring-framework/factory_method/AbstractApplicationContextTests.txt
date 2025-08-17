@@ -1,0 +1,2 @@
+AbstractApplicationContextTests acts as a factory for AnnotationNamespaceDrivenTests, which overrides.
+AbstractApplicationContextTests acts as a factory for ControllerAdviceBean, which overrides.

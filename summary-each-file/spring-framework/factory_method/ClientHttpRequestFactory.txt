@@ -1,0 +1,2 @@
+ClientHttpRequestFactory acts as a factory for MockMvcClientHttpRequestFactory, which overrides.
+ClientHttpRequestFactory acts as an abstract product for NoOutputStreamingStreamingSimpleHttpRequestFactoryTests, which is inherited by MockMvcClientHttpRequestFactory, SimpleClientHttpRequestFactory, OkHttp3ClientHttpRequestFactory, AbstractClientHttpRequestFactoryWrapper, HttpComponentsClientHttpRequestFactory, Netty4ClientHttpRequestFactory.

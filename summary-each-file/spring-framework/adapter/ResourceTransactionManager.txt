@@ -1,0 +1,4 @@
+ResourceTransactionManager acts as an adaptee for adapter DataSourceTransactionManager, which adapts to AbstractPlatformTransactionManager.
+ResourceTransactionManager acts as an adaptee for adapter HibernateTransactionManager, which adapts to AbstractPlatformTransactionManager.
+ResourceTransactionManager acts as an adaptee for adapter JmsTransactionManager, which adapts to AbstractPlatformTransactionManager.
+ResourceTransactionManager acts as an adaptee for adapter JpaTransactionManager, which adapts to AbstractPlatformTransactionManager.

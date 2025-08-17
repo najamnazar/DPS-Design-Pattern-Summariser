@@ -1,0 +1,1 @@
+CommitProvider acts as an observer for publisher DefaultConfiguration, which is inherited by GitCommitProvider, DefaultCommitProvider, which provides.

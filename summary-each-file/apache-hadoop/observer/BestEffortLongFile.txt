@@ -1,0 +1,1 @@
+BestEffortLongFile acts as an observer, which gets, which sets long parameter of newVal, which lazies Open, which closes.

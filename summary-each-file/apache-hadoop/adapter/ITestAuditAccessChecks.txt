@@ -1,0 +1,1 @@
+ITestAuditAccessChecks acts as an adapter, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest, which adapts to AbstractS3ACostTest.

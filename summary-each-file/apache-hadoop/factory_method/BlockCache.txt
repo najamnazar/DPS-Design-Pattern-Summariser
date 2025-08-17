@@ -1,0 +1,1 @@
+BlockCache acts as an abstract product for CachingBlockManager, which is inherited by SingleFilePerBlockCache.

@@ -1,0 +1,1 @@
+HazelcastDefaultConsumer acts as a caretaker for memento HealthCheck.

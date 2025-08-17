@@ -1,0 +1,1 @@
+IrcRouteTest acts as a publisher for observer MockEndpoint, which tests Irc Messages, which sends Uri, which froms Uri, which creates Route Builder, which sends Messages.

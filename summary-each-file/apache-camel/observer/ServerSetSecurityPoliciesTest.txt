@@ -1,0 +1,5 @@
+ServerSetSecurityPoliciesTest acts as a publisher for observer ConsumerTemplate, which setups TestInfo parameter of testInfo, which tests Set Security Policies1, which tests Set Security Policies2, which tests Set Security Policies3.
+ServerSetSecurityPoliciesTest acts as a publisher for observer CamelContext, which setups TestInfo parameter of testInfo, which tests Set Security Policies1, which tests Set Security Policies2, which tests Set Security Policies3.
+ServerSetSecurityPoliciesTest acts as a publisher for observer Service, which setups TestInfo parameter of testInfo, which tests Set Security Policies1, which tests Set Security Policies2, which tests Set Security Policies3.
+ServerSetSecurityPoliciesTest acts as a publisher for observer ProducerTemplate, which setups TestInfo parameter of testInfo, which tests Set Security Policies1, which tests Set Security Policies2, which tests Set Security Policies3.
+ServerSetSecurityPoliciesTest acts as a publisher for observer FluentProducerTemplate, which setups TestInfo parameter of testInfo, which tests Set Security Policies1, which tests Set Security Policies2, which tests Set Security Policies3.

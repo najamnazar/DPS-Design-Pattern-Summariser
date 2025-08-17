@@ -1,0 +1,1 @@
+ApplicationStatisticsInfo acts as a publisher for observer StatisticsItemInfo, which is inherited by, which adds StatisticsItemInfo parameter of statItem, which gets Stat Items.

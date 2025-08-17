@@ -1,0 +1,2 @@
+DeclarationOfReferencedMethodsPattern acts as a caretaker for memento S.
+DeclarationOfReferencedMethodsPattern acts as a caretaker for memento E.

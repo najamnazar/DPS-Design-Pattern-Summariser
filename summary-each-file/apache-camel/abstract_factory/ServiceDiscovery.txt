@@ -1,0 +1,1 @@
+ServiceDiscovery acts as an abstract product for ServiceDiscovery, which is inherited by CombinedServiceDiscovery, DefaultServiceDiscovery.

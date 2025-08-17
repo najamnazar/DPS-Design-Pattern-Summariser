@@ -1,0 +1,2 @@
+DataSourceConnectionProvider acts as a visitor for element ExecuteContext, which overrides, which datas a Source to, which acquires, which releases Connection parameter of connection.
+DataSourceConnectionProvider acts as a visitor for element Configuration, which overrides, which datas a Source to, which acquires, which releases Connection parameter of connection.

@@ -1,0 +1,2 @@
+IEvaluationContext acts as an abstract factory for IJavaProject, IGlobalVariable, which is inherited by EvaluationContextWrapper.
+IEvaluationContext acts as an abstract product for IEvaluationContext, which is inherited by EvaluationContextWrapper.

@@ -1,0 +1,1 @@
+MessagePropertiesConverter acts as an adaptee for adapter SpringRabbitMQEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

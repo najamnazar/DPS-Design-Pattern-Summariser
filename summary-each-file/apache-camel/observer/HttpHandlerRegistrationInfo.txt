@@ -1,0 +1,1 @@
+HttpHandlerRegistrationInfo acts as an observer for publisher UndertowComponent, which is inherited by, which gets Method Restrict, which gets Uri, which is Match On Uri Prefix, which tos String, which equals Object parameter of o, which hashes Code.

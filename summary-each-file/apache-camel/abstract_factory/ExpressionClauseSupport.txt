@@ -1,0 +1,2 @@
+ExpressionClauseSupport acts as a factory for PredicateFactoryAware, which overrides getPredicateFactory method of PredicateFactoryAware.
+ExpressionClauseSupport acts as a factory for ExpressionFactoryAware, which overrides getExpressionFactory method of ExpressionFactoryAware.

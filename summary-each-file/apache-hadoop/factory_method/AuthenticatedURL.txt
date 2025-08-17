@@ -1,0 +1,1 @@
+AuthenticatedURL acts as a factory for KerberosUgiAuthenticator, which overrides.

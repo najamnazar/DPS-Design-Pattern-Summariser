@@ -1,0 +1,2 @@
+ClassDeclarationImpl acts as a product for ClassType, which overrides getConstructors method of ClassDeclaration, getMethods method of ClassDeclaration, getSuperclass method of ClassDeclaration.
+ClassDeclarationImpl acts as a factory for ClassType, which overrides getConstructors method of ClassType, getMethods method of ClassType, getSuperclass method of ClassType.

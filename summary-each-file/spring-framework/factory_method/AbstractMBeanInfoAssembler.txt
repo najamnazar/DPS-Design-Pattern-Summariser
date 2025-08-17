@@ -1,0 +1,1 @@
+AbstractMBeanInfoAssembler acts as a product for AbstractMetadataAssemblerTests, which overrides getMBeanInfo method of MBeanInfoAssembler.

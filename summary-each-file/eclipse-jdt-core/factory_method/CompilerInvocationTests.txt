@@ -1,0 +1,1 @@
+CompilerInvocationTests acts as a factory method for FileObject, which is inherited by JavaFileManager, JavaFileManager.

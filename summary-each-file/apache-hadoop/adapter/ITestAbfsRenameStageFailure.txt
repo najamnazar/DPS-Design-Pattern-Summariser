@@ -1,0 +1,1 @@
+ITestAbfsRenameStageFailure acts as an adapter, which adapts isNamespaceEnabled method of ABFSContractTestBinding to TestRenameStageFailure, which adapts to TestRenameStageFailure, which adapts to TestRenameStageFailure, which adapts to TestRenameStageFailure, which adapts to TestRenameStageFailure, which adapts to TestRenameStageFailure.

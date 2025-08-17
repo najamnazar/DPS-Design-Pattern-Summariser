@@ -1,0 +1,2 @@
+UserLibraryClasspathContainer acts as an observer, which gets Classpath Entries, which gets Description, which gets Kind, which gets Path, which gets User Library, which verbose_no_user_library_founds String parameter of userLibraryName.
+UserLibraryClasspathContainer acts as a publisher for observer String, which is inherited by, which gets Classpath Entries, which gets Description, which gets Kind, which gets Path, which gets User Library, which verbose_no_user_library_founds String parameter of userLibraryName.

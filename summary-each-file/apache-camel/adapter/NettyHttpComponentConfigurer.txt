@@ -1,0 +1,1 @@
+NettyHttpComponentConfigurer acts as an adapter, which adapts to NettyComponentConfigurer, which adapts to NettyComponentConfigurer, which adapts to NettyComponentConfigurer.

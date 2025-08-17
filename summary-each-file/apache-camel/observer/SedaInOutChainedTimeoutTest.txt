@@ -1,0 +1,2 @@
+SedaInOutChainedTimeoutTest acts as a publisher for observer Service, which tests Seda In Out Chained Timeout, which creates Route Builder.
+SedaInOutChainedTimeoutTest acts as a publisher for observer CamelContext, which tests Seda In Out Chained Timeout, which creates Route Builder.

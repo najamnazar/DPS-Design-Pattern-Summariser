@@ -1,0 +1,2 @@
+BeanInvokeWithNullBodyTest acts as a caretaker for memento Producer, which tests With Hello World, which tests With Empty Body, which tests With Null Body, which creates Registry, which creates Route Builder, which does String parameter of s Something.
+BeanInvokeWithNullBodyTest acts as a caretaker for memento Context, which tests With Hello World, which tests With Empty Body, which tests With Null Body, which creates Registry, which creates Route Builder, which does String parameter of s Something.

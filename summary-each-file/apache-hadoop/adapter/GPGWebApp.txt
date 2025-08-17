@@ -1,0 +1,1 @@
+GPGWebApp acts as an adaptee for adapter TestGPGWebServices, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.

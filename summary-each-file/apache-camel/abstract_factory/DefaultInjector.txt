@@ -1,0 +1,2 @@
+DefaultInjector acts as a product for CamelContext, which overrides newInstance method of Injector, newInstance method of Injector, newInstance method of Injector, supportsAutoWiring method of Injector.
+DefaultInjector acts as a product for TypeConverterRegistry, which overrides newInstance method of Injector, newInstance method of Injector, newInstance method of Injector, supportsAutoWiring method of Injector.

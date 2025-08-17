@@ -1,0 +1,2 @@
+AdviceWithWeaveByStringOnChoiceTest acts as a publisher for observer CamelContext, which tests Weave By To String Shoult Not Throw Unsupported Operation Exception, which creates Route Builder.
+AdviceWithWeaveByStringOnChoiceTest acts as a publisher for observer Service, which tests Weave By To String Shoult Not Throw Unsupported Operation Exception, which creates Route Builder.

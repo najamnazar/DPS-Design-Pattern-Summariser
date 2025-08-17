@@ -1,0 +1,1 @@
+InstrumentedThreadPoolFactory acts as a decorator for component ThreadPoolFactory, which is inherited by.

@@ -1,0 +1,1 @@
+TestStateStoreMySQL acts as a publisher for observer Configuration, which inits Database, which startups, which cleanups Database, which tests Insert, which tests Update, which tests Delete, which tests Fetch Errors, which tests Metrics.

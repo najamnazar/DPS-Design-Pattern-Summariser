@@ -1,0 +1,1 @@
+DestinationResolver acts as an observer for publisher DefaultJcaListenerContainerFactory, which is inherited by CachingDestinationResolver, BeanFactoryDestinationResolver, DynamicDestinationResolver, which resolves @Nullable parameter of Session, String parameter of destinationName, boolean parameter of pubSubDomain Destination Name.

@@ -1,0 +1,1 @@
+FederationRouterPolicy acts as an adaptee for adapter AbstractRouterPolicy, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy.

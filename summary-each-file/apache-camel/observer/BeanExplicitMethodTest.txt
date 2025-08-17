@@ -1,0 +1,2 @@
+BeanExplicitMethodTest acts as a publisher for observer CamelContext, which creates Registry, which tests String Echo, which tests Integer Echo, which creates Route Builder.
+BeanExplicitMethodTest acts as a publisher for observer Service, which creates Registry, which tests String Echo, which tests Integer Echo, which creates Route Builder.

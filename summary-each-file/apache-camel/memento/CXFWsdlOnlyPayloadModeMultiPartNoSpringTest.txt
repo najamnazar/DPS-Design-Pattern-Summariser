@@ -1,0 +1,2 @@
+CXFWsdlOnlyPayloadModeMultiPartNoSpringTest acts as a caretaker for memento Context, which starts Service, which stops Service, which creates Route Builder, which gets Data Format, which tests Multi Part Message, which gets Service Name.
+CXFWsdlOnlyPayloadModeMultiPartNoSpringTest acts as a caretaker for memento Producer, which starts Service, which stops Service, which creates Route Builder, which gets Data Format, which tests Multi Part Message, which gets Service Name.

@@ -1,0 +1,1 @@
+HttpInputMessage acts as an abstract product for HttpInputMessage, which is inherited by MappingJacksonInputMessage, MockHttpInputMessage, ServerHttpRequest.

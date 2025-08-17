@@ -1,0 +1,1 @@
+SpringJCachePolicyTest acts as a caretaker for memento Context, which creates Application Context, which befores, which tests Xml Dsl Value Gets Cached, which tests Xml Dsl Different, which tests Xml Dsl Partial, which tests Xml Dsl Key Expression.

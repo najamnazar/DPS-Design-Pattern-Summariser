@@ -1,0 +1,1 @@
+NativeDataSource acts as an adaptee for adapter BufferPuller, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver.

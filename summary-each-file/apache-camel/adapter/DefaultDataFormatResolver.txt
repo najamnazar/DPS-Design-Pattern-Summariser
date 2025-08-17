@@ -1,0 +1,1 @@
+DefaultDataFormatResolver acts as a target for adapter DependencyDownloaderDataFormatResolver, which adapts to DefaultDataFormatResolver, which adapts to DefaultDataFormatResolver.

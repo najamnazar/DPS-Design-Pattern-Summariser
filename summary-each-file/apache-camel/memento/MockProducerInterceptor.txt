@@ -1,0 +1,1 @@
+MockProducerInterceptor acts as a caretaker for memento Producer, which ons ProducerRecord<String, parameter of String> Send, which ons RecordMetadata parameter of recordMetadata, Exception parameter of e Acknowledgement, which closes, which configures Map<String, parameter of ?>.

@@ -1,0 +1,4 @@
+GenericFactory acts as a caretaker for memento AnnotationProcessor, which sets AbstractGenericProcessor parameter of p Processor, which gets Set<AnnotationTypeDeclaration> parameter of arg0, AnnotationProcessorEnvironment parameter of env Processor For.
+GenericFactory acts as a caretaker for memento S, which sets AbstractGenericProcessor parameter of p Processor, which gets Set<AnnotationTypeDeclaration> parameter of arg0, AnnotationProcessorEnvironment parameter of env Processor For.
+GenericFactory acts as a caretaker for memento String, which sets AbstractGenericProcessor parameter of p Processor, which gets Set<AnnotationTypeDeclaration> parameter of arg0, AnnotationProcessorEnvironment parameter of env Processor For.
+GenericFactory acts as a caretaker for memento C, which sets AbstractGenericProcessor parameter of p Processor, which gets Set<AnnotationTypeDeclaration> parameter of arg0, AnnotationProcessorEnvironment parameter of env Processor For.

@@ -1,0 +1,2 @@
+JobManager acts as a factory method for IJob, which is inherited by JobManager.
+JobManager acts as a factory for JobManager, which overrides.

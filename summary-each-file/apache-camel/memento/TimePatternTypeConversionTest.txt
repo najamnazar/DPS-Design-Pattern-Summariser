@@ -1,0 +1,2 @@
+TimePatternTypeConversionTest acts as a caretaker for memento Context, which tests For No Side Effects, which tests For No Side Effects2, which tests HMSTime Pattern, which tests MTime Pattern, which tests Mand STime Pattern, which tests Seconds Pattern, which tests Millis Pattern.
+TimePatternTypeConversionTest acts as a caretaker for memento Producer, which tests For No Side Effects, which tests For No Side Effects2, which tests HMSTime Pattern, which tests MTime Pattern, which tests Mand STime Pattern, which tests Seconds Pattern, which tests Millis Pattern.

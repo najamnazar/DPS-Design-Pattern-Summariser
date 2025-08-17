@@ -1,0 +1,9 @@
+Predicate acts as an adaptee for adapter AggregateProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+Predicate acts as an adaptee for adapter LoopProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+Predicate acts as an adaptee for adapter DynamicRouterBasicSynchronousIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+Predicate acts as an adaptee for adapter CatchProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+Predicate acts as an adaptee for adapter FilterProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+Predicate acts as an adaptee for adapter Resequencer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+Predicate acts as an adaptee for adapter OnCompletionProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+Predicate acts as an adaptee for adapter GenericFileEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint.
+Predicate acts as an adaptee for adapter RouteBuilderConfigureExceptionTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

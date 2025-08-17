@@ -1,0 +1,7 @@
+PersistenceInjectionIntegrationTests acts as a caretaker for memento A, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.
+PersistenceInjectionIntegrationTests acts as a caretaker for memento TransactionDefinition, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.
+PersistenceInjectionIntegrationTests acts as a caretaker for memento ApplicationContext, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.
+PersistenceInjectionIntegrationTests acts as a caretaker for memento Transaction, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.
+PersistenceInjectionIntegrationTests acts as a caretaker for memento TransactionManager, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.
+PersistenceInjectionIntegrationTests acts as a caretaker for memento TransactionStatus, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.
+PersistenceInjectionIntegrationTests acts as a caretaker for memento C, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.

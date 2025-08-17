@@ -1,0 +1,2 @@
+BeanProcessor acts as a factory method for BeanHolder, which is inherited by AbstractBeanProcessor, BeanEndpoint.
+BeanProcessor acts as a product for RoundRobinLoadBalancer, which overrides process method of AsyncProcessor, processAsync method of AsyncProcessor.

@@ -1,0 +1,5 @@
+RedisConsumerTest acts as a publisher for observer ConsumerTemplate, which registers Consumer For Two Channel Topics, which creates Route Builder.
+RedisConsumerTest acts as a publisher for observer FluentProducerTemplate, which registers Consumer For Two Channel Topics, which creates Route Builder.
+RedisConsumerTest acts as a publisher for observer ProducerTemplate, which registers Consumer For Two Channel Topics, which creates Route Builder.
+RedisConsumerTest acts as a publisher for observer CamelContext, which registers Consumer For Two Channel Topics, which creates Route Builder.
+RedisConsumerTest acts as a publisher for observer Service, which registers Consumer For Two Channel Topics, which creates Route Builder.

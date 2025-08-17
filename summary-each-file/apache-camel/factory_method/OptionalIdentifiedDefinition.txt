@@ -1,0 +1,2 @@
+OptionalIdentifiedDefinition acts as a factory for NamedRoute, which overrides getId method of NamedRoute, getParent method of NamedRoute, getDescriptionText method of NamedRoute.
+OptionalIdentifiedDefinition acts as a product for NamedRoute, which overrides getId method of NamedNode, getParent method of NamedNode, getDescriptionText method of NamedNode.

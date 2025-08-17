@@ -1,0 +1,2 @@
+ISourceManipulation acts as an adaptee for adapter IPackageFragment, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.
+ISourceManipulation acts as an adaptee for adapter IImportDeclaration, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.

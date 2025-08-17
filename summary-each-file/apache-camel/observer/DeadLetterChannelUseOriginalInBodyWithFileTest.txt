@@ -1,0 +1,2 @@
+DeadLetterChannelUseOriginalInBodyWithFileTest acts as a publisher for observer CamelContext, which tests Original In Body Is File, which creates Route Builder, which processes Exchange parameter of exchange.
+DeadLetterChannelUseOriginalInBodyWithFileTest acts as a publisher for observer Service, which tests Original In Body Is File, which creates Route Builder, which processes Exchange parameter of exchange.

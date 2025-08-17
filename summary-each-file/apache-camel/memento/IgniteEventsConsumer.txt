@@ -1,0 +1,1 @@
+IgniteEventsConsumer acts as a caretaker for memento HealthCheck, which applies Event parameter of event, which does Start, which does Stop.

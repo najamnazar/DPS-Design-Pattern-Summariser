@@ -1,0 +1,1 @@
+ServiceLoadBalancer acts as an observer for publisher ServiceCallConfigurationDefinition, which is inherited by DefaultServiceLoadBalancer, which processes Exchange parameter of exchange, String parameter of serviceName, ServiceLoadBalancerFunction<T> parameter of function.

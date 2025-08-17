@@ -1,0 +1,4 @@
+NoDefinitionInSpringContextTestBean acts as a caretaker for memento A.
+NoDefinitionInSpringContextTestBean acts as a caretaker for memento ApplicationContext.
+NoDefinitionInSpringContextTestBean acts as a caretaker for memento C.
+NoDefinitionInSpringContextTestBean acts as a caretaker for memento B.

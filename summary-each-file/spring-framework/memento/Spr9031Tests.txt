@@ -1,0 +1,1 @@
+Spr9031Tests acts as a caretaker for memento C, which withes Asm Annotation Processing, which withouts Asm Annotation Processing.

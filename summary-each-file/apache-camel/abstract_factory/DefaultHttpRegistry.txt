@@ -1,0 +1,1 @@
+DefaultHttpRegistry acts as a factory for HttpRegistry, which overrides register method of HttpRegistry, unregister method of HttpRegistry, register method of HttpRegistry, unregister method of HttpRegistry, getCamelServlet method of HttpRegistry.

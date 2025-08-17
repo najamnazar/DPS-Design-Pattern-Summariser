@@ -1,0 +1,2 @@
+FlowActivityRowKeyPrefix acts as a publisher for observer FlowActivityRowKey, which gets Row Key Prefix.
+FlowActivityRowKeyPrefix acts as an observer, which gets Row Key Prefix.

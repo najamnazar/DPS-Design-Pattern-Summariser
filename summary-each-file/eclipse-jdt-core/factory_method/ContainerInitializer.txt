@@ -1,0 +1,1 @@
+ContainerInitializer acts as a factory method for IClasspathContainer, which is inherited by ClasspathContainerInitializer, ClasspathContainerInitializer, ClasspathContainerInitializer, ClasspathContainerInitializer.

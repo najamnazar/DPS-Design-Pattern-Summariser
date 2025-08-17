@@ -1,0 +1,2 @@
+SplitWithDelimiterTest acts as a publisher for observer Service, which tests Split With Delimiter Disabled, which tests Split With Default Delimiter, which tests Split With Delimiter, which creates Route Builder.
+SplitWithDelimiterTest acts as a publisher for observer CamelContext, which tests Split With Delimiter Disabled, which tests Split With Default Delimiter, which tests Split With Delimiter, which creates Route Builder.

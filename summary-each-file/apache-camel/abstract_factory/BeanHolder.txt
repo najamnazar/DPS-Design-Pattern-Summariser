@@ -1,0 +1,1 @@
+BeanHolder acts as an abstract factory for Processor, which is inherited by RegistryBean, ConstantBeanHolder, RequestBeanHolder.

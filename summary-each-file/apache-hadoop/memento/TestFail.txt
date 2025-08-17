@@ -1,0 +1,1 @@
+TestFail acts as an originator for memento ContainerLauncher, which creates a ContainerLauncher Container Launcher to.

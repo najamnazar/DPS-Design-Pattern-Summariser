@@ -1,0 +1,2 @@
+NoOpGlobalPolicy acts as a publisher for observer Configuration, which updates String parameter of queueName, Map<SubClusterId, parameter of Map<Class, FederationPolicyManager parameter of manager Policy.
+NoOpGlobalPolicy acts as an observer, which updates String parameter of queueName, Map<SubClusterId, parameter of Map<Class, FederationPolicyManager parameter of manager Policy.

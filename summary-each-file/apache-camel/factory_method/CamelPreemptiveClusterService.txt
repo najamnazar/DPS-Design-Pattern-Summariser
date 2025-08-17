@@ -1,0 +1,2 @@
+CamelPreemptiveClusterService acts as a factory for CamelPreemptiveClusterService, which overrides.
+CamelPreemptiveClusterService acts as a factory method for CamelPreemptiveClusterView, which is inherited by CamelPreemptiveClusterService, CamelPreemptiveClusterService.

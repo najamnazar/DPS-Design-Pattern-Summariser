@@ -1,0 +1,2 @@
+AggregateSimpleSizeTest acts as a publisher for observer CamelContext, which tests Aggregate Simple Size, which creates Route Builder.
+AggregateSimpleSizeTest acts as a publisher for observer Service, which tests Aggregate Simple Size, which creates Route Builder.

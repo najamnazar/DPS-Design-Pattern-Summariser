@@ -1,0 +1,1 @@
+EventRouteTest acts as a caretaker for memento Context, which tests Sending Camel Exchange To Endpoint Results In Valid Application Event After The Refresh Event, which creates Application Context.

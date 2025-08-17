@@ -1,0 +1,1 @@
+S3ACachingInputStream acts as a publisher for observer S3AInputPolicy, which closes, which ensures Current Buffer, which tos String, which creates @Nonnull parameter of final, final parameter of S3ARemoteObjectReader Block Manager.

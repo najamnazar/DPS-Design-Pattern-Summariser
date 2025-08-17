@@ -1,0 +1,1 @@
+ReactiveTransactionManager acts as an abstract product for AbstractTransactionalDatabaseClientIntegrationTests, which is inherited by AbstractReactiveTransactionManager.

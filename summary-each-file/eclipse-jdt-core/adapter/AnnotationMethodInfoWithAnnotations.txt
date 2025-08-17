@@ -1,0 +1,1 @@
+AnnotationMethodInfoWithAnnotations acts as a target for adapter AnnotationMethodInfoWithTypeAnnotations, which adapts to AnnotationMethodInfoWithAnnotations, which adapts initialize method of TypeAnnotationInfo to AnnotationMethodInfoWithAnnotations, which adapts reset method of TypeAnnotationInfo to AnnotationMethodInfoWithAnnotations.

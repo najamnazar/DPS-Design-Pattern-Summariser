@@ -1,0 +1,1 @@
+RouterRMTokenRequest acts as a publisher for observer RouterStoreToken, which is inherited by RouterRMTokenRequestPBImpl, which news RouterStoreToken parameter of routerStoreToken Instance, which gets Router Store Token, which sets RouterStoreToken parameter of routerStoreToken Router Store Token.

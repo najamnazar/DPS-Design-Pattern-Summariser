@@ -1,0 +1,1 @@
+XMLParser acts as a publisher for observer State, which is inherited by, which parses String parameter of line Line, which transitions State parameter of nextState To, which values String parameter of xml, String parameter of field From XMLString, which adds State... parameter of nextState Transitions, which transitions State parameter of nextState Allowed.

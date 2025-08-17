@@ -1,0 +1,1 @@
+NamenodeProtocol acts as an abstract factory for NamenodeCommand, which is inherited by RouterRpcServer, NamenodeProtocolTranslatorPB, RouterNamenodeProtocol.

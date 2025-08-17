@@ -1,0 +1,3 @@
+DefaultApplicationStartup acts as a factory for ApplicationStartup, which overrides.
+DefaultApplicationStartup acts as a product for ConfigurableApplicationContext, which overrides.
+DefaultApplicationStartup acts as a product for ConfigurableBeanFactory, which overrides.

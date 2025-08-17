@@ -1,0 +1,1 @@
+SmppConnectionFactory acts as a publisher for observer SmppConfiguration, which is inherited by, which gets SmppConfiguration parameter of config Instance, which creates String parameter of host, int parameter of port Connection, which connects String parameter of host, int parameter of port, Socket parameter of socket Proxy, which closes Socket parameter of s Socket.

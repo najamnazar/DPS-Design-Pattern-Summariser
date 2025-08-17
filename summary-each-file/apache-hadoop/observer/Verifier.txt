@@ -1,0 +1,1 @@
+Verifier acts as an observer for publisher RpcCall, which is inherited by VerifierNone, VerifierGSS, which reads XDR parameter of xdr Flavor And Verifier, which writes Verifier parameter of verifier, XDR parameter of xdr Flavor And Verifier.

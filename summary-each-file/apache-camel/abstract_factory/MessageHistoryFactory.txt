@@ -1,0 +1,2 @@
+MessageHistoryFactory acts as an abstract factory for MessageHistory, which is inherited by MetricsMessageHistoryFactory, MicroProfileMetricsMessageHistoryFactory, DefaultMessageHistoryFactory, MicrometerMessageHistoryFactory.
+MessageHistoryFactory acts as an abstract product for MessageHistoryFactory, which is inherited by MetricsMessageHistoryFactory, MicroProfileMetricsMessageHistoryFactory, DefaultMessageHistoryFactory, MicrometerMessageHistoryFactory.

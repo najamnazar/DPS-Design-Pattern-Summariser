@@ -1,0 +1,1 @@
+ForeignKeyDefinition acts as a factory for TableDefinition, which overrides.

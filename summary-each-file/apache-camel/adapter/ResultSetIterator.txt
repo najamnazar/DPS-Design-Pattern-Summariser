@@ -1,0 +1,1 @@
+ResultSetIterator acts as an adaptee for adapter ResultSetIteratorCompletion, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter.

@@ -1,0 +1,1 @@
+IBinaryNestedType acts as an adaptee for adapter InnerClassInfo, which adapts to ClassFileStruct, which adapts to ClassFileStruct, which adapts to ClassFileStruct.

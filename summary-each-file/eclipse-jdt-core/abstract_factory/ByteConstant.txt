@@ -1,0 +1,2 @@
+ByteConstant acts as a product for NullReferenceImplTests, which overrides.
+ByteConstant acts as a product for IBinaryField, which overrides.

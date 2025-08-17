@@ -1,0 +1,1 @@
+NativeFileSystemStore acts as an abstract factory for DataOutputStream, which is inherited by CosNativeFileSystemStore, AzureNativeFileSystemStore.

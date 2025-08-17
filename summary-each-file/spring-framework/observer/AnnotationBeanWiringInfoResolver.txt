@@ -1,0 +1,1 @@
+AnnotationBeanWiringInfoResolver acts as an observer, which resolves Object parameter of beanInstance Wiring Info, which builds Object parameter of beanInstance, Configurable parameter of annotation Wiring Info, which gets Object parameter of beanInstance Default Bean Name.

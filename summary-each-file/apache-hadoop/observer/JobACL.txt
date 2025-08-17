@@ -1,0 +1,1 @@
+JobACL acts as an observer for publisher TestHsWebServicesAcls, which is inherited by, which gets Acl Name.

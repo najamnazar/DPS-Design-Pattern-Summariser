@@ -1,0 +1,1 @@
+CamelClassResolver acts as an observer, which classes String parameter of className, Map parameter of context For Name.

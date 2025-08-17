@@ -1,0 +1,1 @@
+Decompressor acts as an abstract product for Lz4Codec, which is inherited by ZlibDecompressor, SnappyDecompressor, FakeDecompressor, BuiltInGzipDecompressor, BuiltInZlibInflater, Bzip2Decompressor, BZip2DummyDecompressor, ZStandardDecompressor, Lz4Decompressor.

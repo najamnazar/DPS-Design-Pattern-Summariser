@@ -1,0 +1,2 @@
+DiscoverableService acts as an adaptee for adapter HttpCommonEndpoint, which adapts to DefaultEndpoint.
+DiscoverableService acts as an adaptee for adapter UndertowEndpoint, which adapts to DefaultEndpoint.

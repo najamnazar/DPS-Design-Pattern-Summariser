@@ -1,0 +1,1 @@
+Olingo4AppWrapper acts as an observer for publisher Olingo4Component, which is inherited by, which gets Olingo4App, which closes, which gets Map<String, parameter of String> Edm.

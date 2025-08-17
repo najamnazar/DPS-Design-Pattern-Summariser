@@ -1,0 +1,2 @@
+RollbackResponse acts as an originator for memento RollbackResponse, which is inherited by, which news a RollbackResponse Instance to.
+RollbackResponse acts as a memento, which is inherited by RollbackResponsePBImpl, which news Instance.

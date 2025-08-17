@@ -1,0 +1,1 @@
+Mysql acts as a caretaker for memento Clause, which gets Catalog, which gets Tables.

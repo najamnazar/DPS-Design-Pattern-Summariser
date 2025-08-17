@@ -1,0 +1,1 @@
+GoogleSheetsStreamEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Client Factory, which sets GoogleSheetsClientFactory parameter of clientFactory Client Factory, which gets Configuration.

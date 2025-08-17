@@ -1,0 +1,1 @@
+ManagementObjectStrategy acts as an abstract product for ManagementObjectStrategy, which is inherited by DefaultManagementObjectStrategy.

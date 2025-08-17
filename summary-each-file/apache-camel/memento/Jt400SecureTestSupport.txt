@@ -1,0 +1,2 @@
+Jt400SecureTestSupport acts as a caretaker for memento Context, which sets Up, which tears Down, which gets Connection Pool.
+Jt400SecureTestSupport acts as a caretaker for memento Producer, which sets Up, which tears Down, which gets Connection Pool.

@@ -1,0 +1,1 @@
+LogAggregationFileControllerFactory acts as an adaptee for adapter ContainerLogsPage, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView, which adapts to NMView.

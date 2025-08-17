@@ -1,0 +1,2 @@
+FileSedaShutdownCompleteAllTasksTest acts as a publisher for observer Service, which tests Shutdown Complete All Tasks.
+FileSedaShutdownCompleteAllTasksTest acts as a publisher for observer CamelContext, which tests Shutdown Complete All Tasks.

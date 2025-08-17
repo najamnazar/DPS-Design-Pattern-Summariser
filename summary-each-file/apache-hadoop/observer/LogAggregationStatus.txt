@@ -1,0 +1,1 @@
+LogAggregationStatus acts as an observer for publisher NMLogAggregationStatusTracker, which is inherited by.

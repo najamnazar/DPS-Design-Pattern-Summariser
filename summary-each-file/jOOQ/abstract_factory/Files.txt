@@ -1,0 +1,2 @@
+Files acts as an abstract product for Files, which is inherited by FilesImpl.
+Files acts as an abstract factory for Version, which is inherited by FilesImpl.

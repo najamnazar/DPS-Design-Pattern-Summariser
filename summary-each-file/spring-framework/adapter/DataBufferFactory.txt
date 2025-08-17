@@ -1,0 +1,2 @@
+DataBufferFactory acts as an adaptee for adapter TomcatHttpHandlerAdapter, which adapts to ServletHttpHandlerAdapter, which adapts to ServletHttpHandlerAdapter, which adapts to ServletHttpHandlerAdapter, which adapts to ServletHttpHandlerAdapter, which adapts to ServletHttpHandlerAdapter.
+DataBufferFactory acts as an adaptee for adapter UndertowServerHttpRequest, which adapts to AbstractServerHttpRequest, which adapts to AbstractServerHttpRequest, which adapts to AbstractServerHttpRequest, which adapts to AbstractServerHttpRequest, which adapts to AbstractServerHttpRequest.

@@ -1,0 +1,1 @@
+Unmarshaller acts as an observer for publisher Jaxb2Marshaller, which is inherited by GenericUnmarshaller, AbstractMarshaller, MimeUnmarshaller, which supports Class<?> parameter of clazz, which unmarshals Source parameter of source.

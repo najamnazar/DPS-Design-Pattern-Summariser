@@ -1,0 +1,1 @@
+AbstractPlacementProcessor acts as a target for adapter PlacementConstraintProcessor, which adapts to AbstractPlacementProcessor, which adapts to AbstractPlacementProcessor, which adapts to AbstractPlacementProcessor, which adapts to AbstractPlacementProcessor.

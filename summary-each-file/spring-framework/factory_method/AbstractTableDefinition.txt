@@ -1,0 +1,2 @@
+AbstractTableDefinition acts as a factory for TableDefinition, which overrides getForeignKeys method of TableDefinition.
+AbstractTableDefinition acts as a factory for DefaultIndexColumnDefinition, which overrides getPrimaryKey method of DefaultIndexColumnDefinition, getUniqueKeys method of DefaultIndexColumnDefinition, getKeys method of DefaultIndexColumnDefinition, getForeignKeys method of DefaultIndexColumnDefinition.

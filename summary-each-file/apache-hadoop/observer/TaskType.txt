@@ -1,0 +1,1 @@
+TaskType acts as an observer for publisher TestTaskImpl, which is inherited by.

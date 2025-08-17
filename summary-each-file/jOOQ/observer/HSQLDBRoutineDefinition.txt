@@ -1,0 +1,1 @@
+HSQLDBRoutineDefinition acts as a publisher for observer ParameterDefinition, which init0s.

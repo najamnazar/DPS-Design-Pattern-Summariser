@@ -1,0 +1,2 @@
+TypeConverterConcurrencyIssueTest acts as a publisher for observer Service, which tests Type Converter, which tos String parameter of body My Camel Bean.
+TypeConverterConcurrencyIssueTest acts as a publisher for observer CamelContext, which tests Type Converter, which tos String parameter of body My Camel Bean.

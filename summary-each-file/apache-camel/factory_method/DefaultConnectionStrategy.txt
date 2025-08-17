@@ -1,0 +1,1 @@
+DefaultConnectionStrategy acts as a product for JdbcComponent, which overrides getConnection method of ConnectionStrategy, isConnectionTransactional method of ConnectionStrategy.

@@ -1,0 +1,5 @@
+CxfJavaOnlyPayloadModeTest acts as a publisher for observer Service, which tests Cxf Java Only, which creates Route Builder.
+CxfJavaOnlyPayloadModeTest acts as a publisher for observer CamelContext, which tests Cxf Java Only, which creates Route Builder.
+CxfJavaOnlyPayloadModeTest acts as a publisher for observer ProducerTemplate, which tests Cxf Java Only, which creates Route Builder.
+CxfJavaOnlyPayloadModeTest acts as a publisher for observer FluentProducerTemplate, which tests Cxf Java Only, which creates Route Builder.
+CxfJavaOnlyPayloadModeTest acts as a publisher for observer ConsumerTemplate, which tests Cxf Java Only, which creates Route Builder.

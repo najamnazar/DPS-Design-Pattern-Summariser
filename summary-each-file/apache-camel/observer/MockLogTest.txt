@@ -1,0 +1,2 @@
+MockLogTest acts as a publisher for observer CamelContext, which tests Log, which creates Route Builder.
+MockLogTest acts as a publisher for observer Service, which tests Log, which creates Route Builder.

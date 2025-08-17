@@ -1,0 +1,2 @@
+Counter acts as an adaptee for adapter MicrometerRoutePolicy, which adapts to RoutePolicySupport.
+Counter acts as an adaptee for adapter MetricComponentSpringTest, which adapts to CamelSpringTestSupport.

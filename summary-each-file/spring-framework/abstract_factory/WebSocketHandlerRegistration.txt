@@ -1,0 +1,3 @@
+WebSocketHandlerRegistration acts as an abstract product for WebSocketHandlerRegistration, which is inherited by AbstractWebSocketHandlerRegistration, AbstractWebSocketHandlerRegistration, AbstractWebSocketHandlerRegistration, AbstractWebSocketHandlerRegistration, AbstractWebSocketHandlerRegistration.
+WebSocketHandlerRegistration acts as an abstract factory for WebSocketHandlerRegistration, which is inherited by AbstractWebSocketHandlerRegistration.
+WebSocketHandlerRegistration acts as an abstract product for WebSocketHandlerRegistration, which is inherited by AbstractWebSocketHandlerRegistration.

@@ -1,0 +1,2 @@
+MosquittoService acts as an adaptee for adapter PahoMqtt5TestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+MosquittoService acts as an adaptee for adapter PahoMqtt5ReconnectAfterFailureTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

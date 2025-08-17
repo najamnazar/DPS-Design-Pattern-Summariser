@@ -1,0 +1,2 @@
+JCacheInterceptor acts as a caretaker for memento A, which invokes final parameter of MethodInvocation.
+JCacheInterceptor acts as a caretaker for memento C, which invokes final parameter of MethodInvocation.

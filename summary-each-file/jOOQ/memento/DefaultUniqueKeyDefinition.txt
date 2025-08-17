@@ -1,0 +1,3 @@
+DefaultUniqueKeyDefinition acts as a caretaker for memento ColumnDefinition, which is Primary Key, which gets Key Columns, which gets Foreign Keys, which resolves Referenced Key.
+DefaultUniqueKeyDefinition acts as a memento, which resolves Referenced Key, which resolves Referenced Key, which resolves Referenced Key, which resolves Referenced Key.
+DefaultUniqueKeyDefinition acts as a caretaker for memento UniqueKeyDefinition, which is Primary Key, which gets Key Columns, which gets Foreign Keys, which resolves Referenced Key.

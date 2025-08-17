@@ -1,0 +1,1 @@
+StubDurationTrackerFactory acts as an observer, which tracks final parameter of String, final parameter of long Duration.

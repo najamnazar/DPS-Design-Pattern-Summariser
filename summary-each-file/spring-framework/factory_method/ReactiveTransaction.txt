@@ -1,0 +1,1 @@
+ReactiveTransaction acts as an abstract product for TransactionAspectSupport, which is inherited by GenericReactiveTransaction.

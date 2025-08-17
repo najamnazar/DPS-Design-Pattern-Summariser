@@ -1,0 +1,1 @@
+CreateIndexFinalStep acts as a memento, which is inherited by CreateIndexImpl, CreateIndexWhereStep.

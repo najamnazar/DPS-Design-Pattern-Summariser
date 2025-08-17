@@ -1,0 +1,1 @@
+PooledExchange acts as an adaptee for adapter DefaultPooledExchange, which adapts to AbstractExchange, which adapts to AbstractExchange, which adapts to AbstractExchange, which adapts to AbstractExchange, which adapts to AbstractExchange, which adapts to AbstractExchange.

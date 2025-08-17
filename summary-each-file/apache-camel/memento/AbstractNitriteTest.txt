@@ -1,0 +1,2 @@
+AbstractNitriteTest acts as a caretaker for memento Producer, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.
+AbstractNitriteTest acts as a caretaker for memento Context, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.

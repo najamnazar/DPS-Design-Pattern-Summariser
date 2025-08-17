@@ -1,0 +1,1 @@
+IPackageBinding acts as a memento, which is inherited by RecoveredPackageBinding, which gets Module, which gets Module, which gets Module, which gets Module.

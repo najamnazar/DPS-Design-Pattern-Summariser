@@ -1,0 +1,1 @@
+NoOpCacheManager acts as an observer, which gets String parameter of name Cache, which gets Cache Names.

@@ -1,0 +1,1 @@
+DefaultJdbcOptimisticLockingExceptionMapper acts as an observer, which is Exception parameter of cause Optimistic Locking, which is SQLException parameter of e Constraint Violation, which has String parameter of name Class Name, which adds String parameter of name Class Name, which sets Set<String> parameter of names Class Names.

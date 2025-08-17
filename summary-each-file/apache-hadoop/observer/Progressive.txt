@@ -1,0 +1,1 @@
+Progressive acts as an observer for publisher TotalHeapUsageEmulatorPlugin, which is inherited by ResourceUsageEmulatorPlugin, ResourceUsageMatcher, which gets Progress.

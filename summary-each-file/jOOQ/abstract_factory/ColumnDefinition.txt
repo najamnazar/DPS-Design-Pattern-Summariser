@@ -1,0 +1,3 @@
+ColumnDefinition acts as an abstract product for ColumnDefinition, which is inherited by DefaultColumnDefinition, DefaultColumnDefinition, DefaultColumnDefinition.
+ColumnDefinition acts as an abstract factory for UniqueKeyDefinition, which is inherited by DefaultColumnDefinition.
+ColumnDefinition acts as an abstract product for ColumnDefinition, which is inherited by DefaultColumnDefinition.

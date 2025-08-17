@@ -1,0 +1,1 @@
+JpaIdempotentConsumerTest acts as a caretaker for memento Context, which is Use Route Builder, which cleanups Repository, which sets Up, which tests Duplicate Messages Are Filtered Out, which tests Failed Exchanges Not Added, which sends final parameter of Object, final parameter of Object Message, which routes Xml, which selects All String.

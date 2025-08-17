@@ -1,0 +1,1 @@
+ServiceRegistrationRoutePolicyFactory acts as an observer, which creates CamelContext parameter of camelContext, String parameter of routeId, NamedNode parameter of route Route Policy.

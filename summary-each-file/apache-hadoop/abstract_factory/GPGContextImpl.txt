@@ -1,0 +1,1 @@
+GPGContextImpl acts as a factory for GPGContext, which overrides getStateStoreFacade method of GPGContext, getPolicyFacade method of GPGContext, getRegistryClient method of GPGContext, setRegistryClient method of GPGContext.

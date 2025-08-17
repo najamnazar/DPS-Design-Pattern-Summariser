@@ -1,0 +1,1 @@
+JmsServiceExtension acts as a singleton, which creates a JmsServiceExtension Extension to.

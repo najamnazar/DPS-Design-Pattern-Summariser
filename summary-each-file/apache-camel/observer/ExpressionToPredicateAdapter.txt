@@ -1,0 +1,1 @@
+ExpressionToPredicateAdapter acts as an observer, which matches Exchange parameter of exchange, which tos String, which tos final parameter of Expression Predicate, which inits CamelContext parameter of context, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context, which gets Object parameter of instance Property Configurer.

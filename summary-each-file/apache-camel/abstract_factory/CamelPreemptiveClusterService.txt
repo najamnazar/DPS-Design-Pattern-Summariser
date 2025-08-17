@@ -1,0 +1,2 @@
+CamelPreemptiveClusterService acts as an abstract factory for CamelPreemptiveClusterView, which is inherited by KubernetesClusterService, RebalancingCamelClusterService.
+CamelPreemptiveClusterService acts as a product for CamelClusterView, which overrides.

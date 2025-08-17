@@ -1,0 +1,1 @@
+TestClientProtocolTranslatorPB acts as an observer, which pings, which echoes String parameter of echoMessage, which errors, which adds int parameter of num1, int parameter of num2, which closes.

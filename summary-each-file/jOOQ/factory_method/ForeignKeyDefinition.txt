@@ -1,0 +1,2 @@
+ForeignKeyDefinition acts as a factory for DefaultColumnDefinition, which overrides.
+ForeignKeyDefinition acts as a factory for AbstractIndexDefinition, which overrides.

@@ -1,0 +1,1 @@
+ExternalSPSFaultInjector acts as a singleton, which gets an ExternalSPSFaultInjector Instance to.

@@ -1,0 +1,2 @@
+GenericSqlQuery acts as a caretaker for memento C, which sets RowMapper<T> parameter of rowMapper Row Mapper, which sets Class<? parameter of extends Row Mapper Class, which afters Properties Set, which news @Nullable parameter of Object[], @Nullable parameter of Map<?, Row Mapper.
+GenericSqlQuery acts as a caretaker for memento Row, which sets RowMapper<T> parameter of rowMapper Row Mapper, which sets Class<? parameter of extends Row Mapper Class, which afters Properties Set, which news @Nullable parameter of Object[], @Nullable parameter of Map<?, Row Mapper.

@@ -1,0 +1,2 @@
+ControlBusStartRouteAsyncTest acts as a publisher for observer CamelContext, which tests Control Bus Async, which creates Route Builder.
+ControlBusStartRouteAsyncTest acts as a publisher for observer Service, which tests Control Bus Async, which creates Route Builder.

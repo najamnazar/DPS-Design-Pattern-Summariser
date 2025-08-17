@@ -1,0 +1,1 @@
+ConsulConfiguration acts as a caretaker for memento Context, which gets Action, which sets String parameter of action Action, which is Value As String, which sets boolean parameter of valueAsString Value As String, which gets Key, which sets String parameter of key Key, which gets Consul Client, which sets Consul parameter of consulClient Consul Client, which copies.

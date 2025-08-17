@@ -1,0 +1,194 @@
+String acts as an adaptee for adapter Java12ElementProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter AnnotationValueConversionTests, which adapts to APTTestBase.
+String acts as an adaptee for adapter CompilationParticipantResult, which adapts to BuildContext.
+String acts as an adaptee for adapter Java9ElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter CreateTypeMemberOperation, which adapts to CreateElementInCUOperation.
+String acts as an adaptee for adapter ClasspathJMod, which adapts to ClasspathJar.
+String acts as an adaptee for adapter ImportRewrite18Test, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter DOMInitializer, which adapts to IDOMInitializer, DOMMember.
+String acts as an adaptee for adapter DOMCompilationUnit, which adapts to IDOMCompilationUnit, DOMNode.
+String acts as an adaptee for adapter PrimitiveInPatternsTest, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter ResolvedBinaryMethod, which adapts to BinaryMethod.
+String acts as an adaptee for adapter AbstractJavaModelTests, which adapts to SuiteOfTestCases.
+String acts as an adaptee for adapter CompletionOnPackageVisibilityReference, which adapts to CompletionOnImportReference.
+String acts as an adaptee for adapter EvaluationContextWrapperTest, which adapts to EvaluationTest.
+String acts as an adaptee for adapter ASTRewritingTest, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter TagElement, which adapts to AbstractTagElement.
+String acts as an adaptee for adapter JavadocTest_1_3, which adapts to JavadocTest.
+String acts as an adaptee for adapter JavaSourceFilePrintWriter, which adapts to PrintWriter.
+String acts as an adaptee for adapter CreatePackageDeclarationOperation, which adapts to CreateElementInCUOperation.
+String acts as an adaptee for adapter Modifier, which adapts to ASTNode, IExtendedModifier.
+String acts as an adaptee for adapter ASTConverter14Test, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter LambdaMethod, which adapts to SourceMethod.
+String acts as an adaptee for adapter CreatePackageFragmentOperation, which adapts to JavaModelOperation.
+String acts as an adaptee for adapter JavadocTest_18, which adapts to JavadocTest.
+String acts as an adaptee for adapter APTProblem, which adapts to CategorizedProblem.
+String acts as an adaptee for adapter EvaluationTest, which adapts to AbstractCompilerTest, StopableTestCase.
+String acts as an adaptee for adapter MultiReleaseTests, which adapts to BuilderTests.
+String acts as an adaptee for adapter IPackageFragment, which adapts to IJavaElement.
+String acts as an adaptee for adapter Bug564905Test, which adapts to BuilderTests.
+String acts as an adaptee for adapter MessagerTests, which adapts to TestCase.
+String acts as an adaptee for adapter JavadocTest_15, which adapts to JavadocTest.
+String acts as an adaptee for adapter FactoryPathConfigurationBlock, which adapts to BaseConfigurationBlock.
+String acts as an adaptee for adapter CreateMethodOperation, which adapts to CreateTypeMemberOperation.
+String acts as an adaptee for adapter PreviewFlagTest, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter CompilerToolTests, which adapts to TestCase.
+String acts as an adaptee for adapter NegativeTests, which adapts to TestCase.
+String acts as an adaptee for adapter AbstractClassFile, which adapts to Openable.
+String acts as an adaptee for adapter ResolvedBinaryType, which adapts to BinaryType.
+String acts as an adaptee for adapter FormatterMassiveRegressionTests, which adapts to FormatterRegressionTests.
+String acts as an adaptee for adapter CommentTestCase, which adapts to SuiteOfTestCases.
+String acts as an adaptee for adapter ResolvedSourceField, which adapts to SourceField.
+String acts as an adaptee for adapter AbstractCompilationEnv, which adapts to BaseProcessorEnv.
+String acts as an adaptee for adapter DOMMember, which adapts to IDOMMember, DOMNode.
+String acts as an adaptee for adapter DefaultCodeFormatter, which adapts to CodeFormatter.
+String acts as an adaptee for adapter ClasspathJep247, which adapts to ClasspathJrt.
+String acts as an adaptee for adapter DOMFactory, which adapts to IDOMFactory.
+String acts as an adaptee for adapter FactoryPathTests, which adapts to TestCase.
+String acts as an adaptee for adapter DOMMethod, which adapts to IDOMMethod, DOMMember.
+String acts as an adaptee for adapter AbstractJavadocCompletionModelTest, which adapts to AbstractJavaModelCompletionTests.
+String acts as an adaptee for adapter ASTConverterJavadocTest, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter JavaProject, which adapts to IJavaProject, Openable.
+String acts as an adaptee for adapter ImportRewrite_RecordTest, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter PatternSearchJob, which adapts to IJob.
+String acts as an adaptee for adapter AbstractJavaModelCompletionTests, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter TypeAnnotationTest, which adapts to AbstractRegressionTest.
+String acts as an adaptee for adapter NullAnnotationModelTests9, which adapts to ReconcilerTests.
+String acts as an adaptee for adapter Java8FilerProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter Java22ElementProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter Java13ElementProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter TestRunner, which adapts to TestRunContext, BaseTestRunner.
+String acts as an adaptee for adapter DOMField, which adapts to IDOMField, DOMMember.
+String acts as an adaptee for adapter ParticipantBuildTests, which adapts to BuilderTests.
+String acts as an adaptee for adapter IndexManager, which adapts to JobManager.
+String acts as an adaptee for adapter BatchCompilerTest, which adapts to AbstractBatchCompilerTest.
+String acts as an adaptee for adapter ErrorType, which adapts to EclipseMirrorType.
+String acts as an adaptee for adapter ClasspathJrt, which adapts to ClasspathLocation.
+String acts as an adaptee for adapter JavadocBugsTest, which adapts to JavadocTest.
+String acts as an adaptee for adapter Java8ElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter SuperAfterStatementsTest, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter MethodParametersAttributeTest, which adapts to AbstractRegressionTest.
+String acts as an adaptee for adapter ASTConverterJavadocFlattener, which adapts to ASTVisitor.
+String acts as an adaptee for adapter DebugEvaluationTest, which adapts to EvaluationTest.
+String acts as an adaptee for adapter ResourceLeakAnnotatedTests, which adapts to ResourceLeakTests.
+String acts as an adaptee for adapter PackageFragmentRoot, which adapts to IPackageFragmentRoot, Openable.
+String acts as an adaptee for adapter ASTConverterMarkdownTest, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter JavadocTestOptions, which adapts to JavadocTest.
+String acts as an adaptee for adapter JavadocTestMixed, which adapts to JavadocTest.
+String acts as an adaptee for adapter EnumTest, which adapts to AbstractComparableTest.
+String acts as an adaptee for adapter CreateCompilationUnitOperation, which adapts to JavaModelOperation.
+String acts as an adaptee for adapter ModelTesterProc, which adapts to AbstractProcessor.
+String acts as an adaptee for adapter PrimitiveInPatternsTestSH, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter JavadocTestForRecord, which adapts to JavadocTest.
+String acts as an adaptee for adapter AssistSourceMethod, which adapts to ResolvedSourceMethod.
+String acts as an adaptee for adapter FilerTests, which adapts to TestCase.
+String acts as an adaptee for adapter NullReferenceTestAsserts, which adapts to AbstractRegressionTest.
+String acts as an adaptee for adapter CompletionTests2, which adapts to AbstractJavaModelCompletionTests.
+String acts as an adaptee for adapter ImplicitlyDeclaredClassesTest, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter BatchDispatchTests, which adapts to TestCase.
+String acts as an adaptee for adapter Java23ElementProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter PackageFragment, which adapts to Openable.
+String acts as an adaptee for adapter ModelTests, which adapts to TestCase.
+String acts as an adaptee for adapter CompletionTestsRequestor2, which adapts to CompletionRequestor.
+String acts as an adaptee for adapter SealedTypeElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter RecordElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter AptConfigurationBlock, which adapts to BaseConfigurationBlock.
+String acts as an adaptee for adapter OwningAnnotationModelTests, which adapts to ReconcilerTests.
+String acts as an adaptee for adapter ModelTester8Proc, which adapts to AbstractProcessor.
+String acts as an adaptee for adapter JavadocTest_1_5, which adapts to JavadocTest.
+String acts as an adaptee for adapter Java22ElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter NullAnnotationModelTests, which adapts to ReconcilerTests.
+String acts as an adaptee for adapter FullSourceWorkspaceFormatterTests, which adapts to FullSourceWorkspaceTests.
+String acts as an adaptee for adapter DOMType, which adapts to IDOMType, DOMMember.
+String acts as an adaptee for adapter AbstractBatchCompilerTest, which adapts to AbstractRegressionTest.
+String acts as an adaptee for adapter FactoryPathPreferencePage, which adapts to BasePreferencePage.
+String acts as an adaptee for adapter RecoveredPackageBinding, which adapts to IPackageBinding.
+String acts as an adaptee for adapter NullAnnotationTest, which adapts to AbstractNullAnnotationTest.
+String acts as an adaptee for adapter RecordPatternProjectTest, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter AnnotationProcessingCompilerToolTest, which adapts to AbstractBatchCompilerTest.
+String acts as an adaptee for adapter Java8FilerTests, which adapts to TestCase.
+String acts as an adaptee for adapter Requestor, which adapts to ICompilerRequestor.
+String acts as an adaptee for adapter JrtPackageFragmentRoot, which adapts to JarPackageFragmentRoot.
+String acts as an adaptee for adapter ExternalAnnotations18Test, which adapts to ModifyingResourceTests.
+String acts as an adaptee for adapter ASTConverter9Test, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter NullReferenceImplTests, which adapts to UnconditionalFlowInfo, NullReferenceTest, LocalVariableBinding.
+String acts as an adaptee for adapter ClasspathJep247Jdk12, which adapts to ClasspathJep247.
+String acts as an adaptee for adapter CreateImportOperation, which adapts to CreateElementInCUOperation.
+String acts as an adaptee for adapter BinaryParameterDeclarationImpl, which adapts to DeclarationImpl.
+String acts as an adaptee for adapter AssistSourceField, which adapts to ResolvedSourceField.
+String acts as an adaptee for adapter RecordPatternTest, which adapts to AbstractRegressionTest9.
+String acts as an adaptee for adapter JavaDocRegion, which adapts to AbstractTagElement.
+String acts as an adaptee for adapter FormatterRegressionTests, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter HierarchyScope, which adapts to AbstractSearchScope.
+String acts as an adaptee for adapter AssistSourceType, which adapts to ResolvedSourceType.
+String acts as an adaptee for adapter FormatterOldBugsGistTests, which adapts to FormatterRegressionTests.
+String acts as an adaptee for adapter FormatterJSR308Tests, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter CompletionEngine, which adapts to ISearchRequestor, ICompletionEngine, Engine.
+String acts as an adaptee for adapter ResolvedSourceMethod, which adapts to SourceMethod.
+String acts as an adaptee for adapter AbstractNullAnnotationTest, which adapts to AbstractComparableTest.
+String acts as an adaptee for adapter J9VMLauncher, which adapts to LocalVMLauncher.
+String acts as an adaptee for adapter JavaSearchBugs9Tests, which adapts to AbstractJavaSearchTests.
+String acts as an adaptee for adapter PerfTests, which adapts to BuilderTests.
+String acts as an adaptee for adapter ReferenceExpression, which adapts to IPolyExpression, FunctionalExpression.
+String acts as an adaptee for adapter ClasspathJsr199, which adapts to ClasspathLocation.
+String acts as an adaptee for adapter CompletionEngineProviderTests, which adapts to AbstractJavaModelCompletionTests.
+String acts as an adaptee for adapter ClasspathSourceJar, which adapts to ClasspathJar.
+String acts as an adaptee for adapter JavaSearchExtensionTest, which adapts to AbstractJavaSearchTests.
+String acts as an adaptee for adapter ClasspathJrtWithReleaseOption, which adapts to ClasspathJrt.
+String acts as an adaptee for adapter FullSourceWorkspaceBuildTests, which adapts to FullSourceWorkspaceTests.
+String acts as an adaptee for adapter TypeHierarchySerializationTests, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter FactoryLoaderTests, which adapts to APTTestBase.
+String acts as an adaptee for adapter Java8ElementProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter JavadocTest_16, which adapts to JavadocTest.
+String acts as an adaptee for adapter ReadAnnotationTests2, which adapts to BuilderTests.
+String acts as an adaptee for adapter Java11ElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter FormatterBugsTests, which adapts to FormatterRegressionTests.
+String acts as an adaptee for adapter AptPreferencePage, which adapts to BasePreferencePage.
+String acts as an adaptee for adapter TestBase, which adapts to BuilderTests.
+String acts as an adaptee for adapter ResolvedBinaryField, which adapts to BinaryField.
+String acts as an adaptee for adapter AnnotationBinding, which adapts to IAnnotationBinding.
+String acts as an adaptee for adapter PerformanceTests, which adapts to TestBase.
+String acts as an adaptee for adapter TypeDeclarationImpl, which adapts to EclipseMirrorType, MemberDeclarationImpl.
+String acts as an adaptee for adapter JavadocTest, which adapts to AbstractRegressionTest.
+String acts as an adaptee for adapter JRTUtil, which adapts to JrtFileSystem.
+String acts as an adaptee for adapter JavadocTest_1_4, which adapts to JavadocTest.
+String acts as an adaptee for adapter ModuleModifier, which adapts to ASTNode.
+String acts as an adaptee for adapter CompilerToolJava9Tests, which adapts to TestCase.
+String acts as an adaptee for adapter EncodedFileOutputStream, which adapts to BinaryFileOutputStream.
+String acts as an adaptee for adapter ASTConverter13Test, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter AbstractRegressionTest, which adapts to AbstractCompilerTest, StopableTestCase.
+String acts as an adaptee for adapter ResolvedSourceType, which adapts to SourceType.
+String acts as an adaptee for adapter JavaDocTestCase, which adapts to MultiLineTestCase.
+String acts as an adaptee for adapter FormatterJSR335Tests, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter MarkdownCommentsTest, which adapts to JavadocTest.
+String acts as an adaptee for adapter Java23ElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter BaseElementProcessor, which adapts to BaseProcessor.
+String acts as an adaptee for adapter MessagerProc, which adapts to AbstractProcessor.
+String acts as an adaptee for adapter ASTConverterJavadocTest_15, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter ClasspathDirectory, which adapts to ClasspathLocation.
+String acts as an adaptee for adapter ClasspathMultiReleaseJar, which adapts to ClasspathJar.
+String acts as an adaptee for adapter DOMNode, which adapts to IDOMNode.
+String acts as an adaptee for adapter ModelUtilTests, which adapts to TestCase.
+String acts as an adaptee for adapter EvaluationSetup, which adapts to CompilerTestSetup.
+String acts as an adaptee for adapter GenericTypeSignatureTest, which adapts to AbstractRegressionTest.
+String acts as an adaptee for adapter J9VirtualMachine, which adapts to LocalVirtualMachine.
+String acts as an adaptee for adapter BinaryMethod, which adapts to BinaryMember.
+String acts as an adaptee for adapter ProfilingASTConvertionTest, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter Java12ElementsTests, which adapts to TestCase.
+String acts as an adaptee for adapter AbstractImageBuilder, which adapts to ICompilerRequestor, ICompilationUnitLocator.
+String acts as an adaptee for adapter StringConstant, which adapts to Constant.
+String acts as an adaptee for adapter SelectionEngine, which adapts to ISearchRequestor, Engine.
+String acts as an adaptee for adapter MarkedASTFlattener, which adapts to NaiveASTFlattener.
+String acts as an adaptee for adapter CommentsPreparator, which adapts to ASTVisitor.
+String acts as an adaptee for adapter ASTRewriteAnalyzer, which adapts to ASTVisitor.
+String acts as an adaptee for adapter LocalEnumTest, which adapts to AbstractComparableTest.
+String acts as an adaptee for adapter NegativeModelProc, which adapts to AbstractProcessor.
+String acts as an adaptee for adapter ClasspathJar, which adapts to ClasspathLocation.
+String acts as an adaptee for adapter ModifyingResourceTests, which adapts to AbstractJavaModelTests.
+String acts as an adaptee for adapter JrtUtilTest, which adapts to TestCase.
+String acts as an adaptee for adapter ExternalJavaProject, which adapts to JavaProject.
+String acts as an adaptee for adapter ASTConverterJavadocTest_18, which adapts to ConverterTestSetup.
+String acts as an adaptee for adapter DefaultJavaRuntimeEnvironment, which adapts to FileSystem.
+String acts as an adaptee for adapter LocalVariable, which adapts to SourceRefElement.
+String acts as an adaptee for adapter FullSourceWorkspaceTests, which adapts to TestCase.
+String acts as an adaptee for adapter FilerTesterProc, which adapts to AbstractProcessor.

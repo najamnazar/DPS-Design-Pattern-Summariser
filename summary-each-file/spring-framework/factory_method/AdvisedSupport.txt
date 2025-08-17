@@ -1,0 +1,3 @@
+AdvisedSupport acts as a factory method for AdvisorChainFactory, which is inherited by AdvisedSupport.
+AdvisedSupport acts as a factory for AdvisedSupport, which overrides.
+AdvisedSupport acts as a factory for TargetSourceCreator, which overrides getTargetClass method of TargetSourceCreator.

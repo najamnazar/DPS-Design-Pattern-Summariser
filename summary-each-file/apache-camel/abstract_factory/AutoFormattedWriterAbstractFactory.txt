@@ -1,0 +1,1 @@
+AutoFormattedWriterAbstractFactory acts as a factory for TextProcessingAbstractFactory, which overrides createWriteStrategy method of TextProcessingAbstractFactory, createSplitStrategy method of TextProcessingAbstractFactory, createLineBuilderStrategy method of TextProcessingAbstractFactory.

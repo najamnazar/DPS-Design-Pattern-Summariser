@@ -1,0 +1,1 @@
+FsOps acts as an adaptee for adapter RawFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

@@ -1,0 +1,1 @@
+YARNRunner acts as a factory for ClientProtocol, which overrides getDelegationToken method of ClientProtocol.

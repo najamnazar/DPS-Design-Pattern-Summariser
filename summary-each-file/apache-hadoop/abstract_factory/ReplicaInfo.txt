@@ -1,0 +1,7 @@
+ReplicaInfo acts as a factory for Replica, which overrides getStorageUuid method of Replica, isOnTransientStorage method of Replica.
+ReplicaInfo acts as a product for BlockAlias, which overrides.
+ReplicaInfo acts as a product for FsDatasetSpi, which overrides.
+ReplicaInfo acts as a product for FsDatasetTestUtils, which overrides getStorageUuid method of Replica, isOnTransientStorage method of Replica.
+ReplicaInfo acts as an abstract product for ReplicaInfo, which is inherited by LocalReplica, LocalReplica, ProvidedReplica, ProvidedReplica.
+ReplicaInfo acts as an abstract product for ReplicaInfo, which is inherited by LocalReplica, ProvidedReplica.
+ReplicaInfo acts as a product for FsDatasetSpi, which overrides getStorageUuid method of Replica, isOnTransientStorage method of Replica.

@@ -1,0 +1,2 @@
+TypeVariableImpl acts as a product for Types, which overrides.
+TypeVariableImpl acts as a factory for TypeVariable, which overrides.

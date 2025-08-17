@@ -1,0 +1,3 @@
+RegexpMethodPointcutAdvisor acts as a caretaker for memento A, which sets String parameter of pattern Pattern, which sets String... parameter of patterns Patterns, which gets Pointcut, which creates Pointcut, which tos String.
+RegexpMethodPointcutAdvisor acts as a caretaker for memento Pointcut, which sets String parameter of pattern Pattern, which sets String... parameter of patterns Patterns, which gets Pointcut, which creates Pointcut, which tos String.
+RegexpMethodPointcutAdvisor acts as a caretaker for memento Advice, which sets String parameter of pattern Pattern, which sets String... parameter of patterns Patterns, which gets Pointcut, which creates Pointcut, which tos String.

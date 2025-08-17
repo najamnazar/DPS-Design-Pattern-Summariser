@@ -1,0 +1,2 @@
+VertxKafkaClientFactory acts as an adaptee for adapter VertxKafkaComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+VertxKafkaClientFactory acts as an adaptee for adapter VertxKafkaAutowireTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

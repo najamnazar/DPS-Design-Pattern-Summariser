@@ -1,0 +1,1 @@
+OptaplannerSolutionEvent acts as an observer for publisher OptaPlannerConsumer, which is inherited by, which gets Best Solution.

@@ -1,0 +1,1 @@
+TestableFederationInterceptorREST acts as a caretaker for memento Clock, which registers SubClusterId parameter of badSC Bad Sub Cluster, which setups Resource Manager, which shutdowns, which gets Mock RM.

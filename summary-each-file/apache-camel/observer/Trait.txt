@@ -1,0 +1,1 @@
+Trait acts as an observer for publisher ModelineParser, DefaultModelineParser, which is inherited by NameTrait, DependencyTrait, PropertyTrait, EnvTrait, which gets Name, which parses Resource parameter of resource, String parameter of trait Trait.

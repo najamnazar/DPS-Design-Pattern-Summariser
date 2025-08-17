@@ -1,0 +1,4 @@
+BindingResolver acts as a factory for RecoveredTypeBinding, which overrides.
+BindingResolver acts as a factory for DefaultBindingResolver, which overrides.
+BindingResolver acts as a factory for ModuleDeclaration, which overrides.
+BindingResolver acts as a factory for IVariableBinding, which overrides.

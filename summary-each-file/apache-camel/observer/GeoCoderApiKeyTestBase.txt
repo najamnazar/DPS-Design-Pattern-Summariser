@@ -1,0 +1,5 @@
+GeoCoderApiKeyTestBase acts as a publisher for observer ProducerTemplate, which gets Api Key.
+GeoCoderApiKeyTestBase acts as a publisher for observer Service, which gets Api Key.
+GeoCoderApiKeyTestBase acts as a publisher for observer CamelContext, which gets Api Key.
+GeoCoderApiKeyTestBase acts as a publisher for observer FluentProducerTemplate, which gets Api Key.
+GeoCoderApiKeyTestBase acts as a publisher for observer ConsumerTemplate, which gets Api Key.

@@ -1,0 +1,2 @@
+JMXMonitorTypeStringDiffersTest acts as a publisher for observer SimpleRegistry, which differs, which builds From URI.
+JMXMonitorTypeStringDiffersTest acts as a publisher for observer DefaultCamelContext, which differs, which builds From URI.

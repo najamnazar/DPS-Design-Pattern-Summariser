@@ -1,0 +1,3 @@
+GetClusterNodeLabelsRequestPBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+GetClusterNodeLabelsRequestPBImpl acts as a caretaker for memento GetClusterNodeLabelsRequest, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+GetClusterNodeLabelsRequestPBImpl acts as an originator for memento GetClusterNodeLabelsRequest.

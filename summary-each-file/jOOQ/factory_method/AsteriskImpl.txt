@@ -1,0 +1,1 @@
+AsteriskImpl acts as a product for Asterisk, which overrides except method of Asterisk, except method of Asterisk, $except method of Asterisk.

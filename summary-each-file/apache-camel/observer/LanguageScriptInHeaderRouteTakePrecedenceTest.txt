@@ -1,0 +1,2 @@
+LanguageScriptInHeaderRouteTakePrecedenceTest acts as a publisher for observer CamelContext, which tests Language With Header, which tests Language No Header, which creates Route Builder.
+LanguageScriptInHeaderRouteTakePrecedenceTest acts as a publisher for observer Service, which tests Language With Header, which tests Language No Header, which creates Route Builder.

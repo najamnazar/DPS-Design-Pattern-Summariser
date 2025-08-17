@@ -1,0 +1,2 @@
+FailOverLoadBalanceMultipleExceptionTest acts as a publisher for observer CamelContext, which sets Up, which creates Route Builder, which tests Multipled Exception.
+FailOverLoadBalanceMultipleExceptionTest acts as a publisher for observer Service, which sets Up, which creates Route Builder, which tests Multipled Exception.

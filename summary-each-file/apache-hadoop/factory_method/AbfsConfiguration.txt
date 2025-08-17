@@ -1,0 +1,1 @@
+AbfsConfiguration acts as a factory method for SASTokenProvider, which is inherited by AbfsClient, AbfsClient.

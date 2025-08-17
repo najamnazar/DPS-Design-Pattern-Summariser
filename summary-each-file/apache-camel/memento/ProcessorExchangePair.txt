@@ -1,0 +1,1 @@
+ProcessorExchangePair acts as an originator for memento Producer, which gets a Producer Producer to.

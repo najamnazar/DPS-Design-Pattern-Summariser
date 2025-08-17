@@ -1,0 +1,2 @@
+ChangeHeaderCaseIssueTest acts as a publisher for observer CamelContext, which tests Change Header Case Issue, which creates Route Builder.
+ChangeHeaderCaseIssueTest acts as a publisher for observer Service, which tests Change Header Case Issue, which creates Route Builder.

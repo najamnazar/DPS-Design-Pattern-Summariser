@@ -1,0 +1,2 @@
+PropertiesComponentServiceHostTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Function, which tests Function Get Or Else.
+PropertiesComponentServiceHostTest acts as a publisher for observer Service, which is Use Route Builder, which tests Function, which tests Function Get Or Else.

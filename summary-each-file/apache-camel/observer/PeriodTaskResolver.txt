@@ -1,0 +1,1 @@
+PeriodTaskResolver acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultPeriodTaskResolver, which news String parameter of key Instance, which news String parameter of key, Class<T> parameter of type Instance.

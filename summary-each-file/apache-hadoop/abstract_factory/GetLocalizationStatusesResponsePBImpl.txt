@@ -1,0 +1,1 @@
+GetLocalizationStatusesResponsePBImpl acts as a product for ContainerManagementProtocol, which overrides getLocalizationStatuses method of GetLocalizationStatusesResponse, setLocalizationStatuses method of GetLocalizationStatusesResponse, getFailedRequests method of GetLocalizationStatusesResponse, setFailedRequests method of GetLocalizationStatusesResponse.

@@ -1,0 +1,1 @@
+LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest acts as a caretaker for memento Context, which creates Application Context, which sets Up, which tests Level DBAggregate Recover, which processes Exchange parameter of exchange, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

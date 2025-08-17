@@ -1,0 +1,1 @@
+BaseCookieHandler acts as a product for UndertowEndpoint, which overrides storeCookies method of CookieHandler, loadCookies method of CookieHandler, getCookieStore method of CookieHandler.

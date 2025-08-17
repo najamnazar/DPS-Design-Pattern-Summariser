@@ -1,0 +1,1 @@
+SelectFieldOrAsterisk acts as an observer.

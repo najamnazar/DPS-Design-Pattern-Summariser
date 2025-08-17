@@ -1,0 +1,1 @@
+MutableRates acts as an adapter, which adapts to MutableMetric, which adapts to MutableMetric, which adapts to MutableMetric.

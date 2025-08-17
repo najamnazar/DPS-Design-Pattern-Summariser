@@ -1,0 +1,1 @@
+AspectJAsyncConfiguration acts as a caretaker for memento A, which asynces Advisor.

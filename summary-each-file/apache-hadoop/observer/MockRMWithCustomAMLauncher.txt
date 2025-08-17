@@ -1,0 +1,1 @@
+MockRMWithCustomAMLauncher acts as an observer, which creates AMLauncher.

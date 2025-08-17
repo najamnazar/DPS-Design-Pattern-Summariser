@@ -1,0 +1,1 @@
+PythonLanguage acts as an adapter, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts createPythonExpression method of ScriptingLanguage, createPythonExpression method of ScriptingLanguage to TypedLanguageSupport, which adapts to TypedLanguageSupport.

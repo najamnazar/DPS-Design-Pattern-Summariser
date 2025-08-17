@@ -1,0 +1,4 @@
+RelativePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento B.
+RelativePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento ApplicationContext.
+RelativePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento C.
+RelativePathSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento A.

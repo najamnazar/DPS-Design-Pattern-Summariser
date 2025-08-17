@@ -1,0 +1,5 @@
+AnnotationProcessorEnvironment acts as an abstract product for RoundCompleteEvent, which is inherited by BaseProcessorEnv.
+AnnotationProcessorEnvironment acts as a factory for BuildEnv, which overrides.
+AnnotationProcessorEnvironment acts as a factory for AnnotationProcessorEnvironment, which overrides.
+AnnotationProcessorEnvironment acts as a factory for ProcessingEnvironment, which overrides.
+AnnotationProcessorEnvironment acts as a factory method for Declarations, which is inherited by AnnotationProcessorEnvironment, BaseProcessorEnv, AnnotationProcessorEnvironment.

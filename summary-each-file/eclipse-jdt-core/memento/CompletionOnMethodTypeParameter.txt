@@ -1,0 +1,1 @@
+CompletionOnMethodTypeParameter acts as a caretaker for memento R, which resolves Statements, which prints int parameter of tab, StringBuilder parameter of output.

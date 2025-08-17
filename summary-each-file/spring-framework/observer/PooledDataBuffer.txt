@@ -1,0 +1,1 @@
+PooledDataBuffer acts as an observer, which is Allocated, which retains, which touches Object parameter of hint, which releases.

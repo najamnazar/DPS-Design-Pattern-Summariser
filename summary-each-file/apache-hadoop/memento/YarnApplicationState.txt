@@ -1,0 +1,1 @@
+YarnApplicationState acts as a memento.

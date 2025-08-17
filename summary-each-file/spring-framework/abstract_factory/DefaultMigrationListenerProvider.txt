@@ -1,0 +1,1 @@
+DefaultMigrationListenerProvider acts as a factory for MigrationListenerProvider, which overrides provide method of MigrationListenerProvider.

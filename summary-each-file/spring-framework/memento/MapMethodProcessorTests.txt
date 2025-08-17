@@ -1,0 +1,2 @@
+MapMethodProcessorTests acts as a caretaker for memento A, which sets Up, which supports Parameter, which supports Return Type, which resolves Argument Value, which handles Map Return Value, which handles Map<String, parameter of Object>, @RequestBody parameter of Map<String,.
+MapMethodProcessorTests acts as a caretaker for memento C, which sets Up, which supports Parameter, which supports Return Type, which resolves Argument Value, which handles Map Return Value, which handles Map<String, parameter of Object>, @RequestBody parameter of Map<String,.

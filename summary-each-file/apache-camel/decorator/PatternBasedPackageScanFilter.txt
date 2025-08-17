@@ -1,0 +1,1 @@
+PatternBasedPackageScanFilter acts as a component for decorator InvertingPackageScanFilter.

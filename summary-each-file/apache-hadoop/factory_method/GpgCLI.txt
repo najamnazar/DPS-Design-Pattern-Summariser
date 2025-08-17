@@ -1,0 +1,1 @@
+GpgCLI acts as a product for TestGetGroupsWithHA, which overrides run method of Tool.

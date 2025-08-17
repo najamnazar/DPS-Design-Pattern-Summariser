@@ -1,0 +1,2 @@
+RecipientListInterceptSendToEndpointException acts as a publisher for observer Service, which tests Route, which creates Route Builder.
+RecipientListInterceptSendToEndpointException acts as a publisher for observer CamelContext, which tests Route, which creates Route Builder.

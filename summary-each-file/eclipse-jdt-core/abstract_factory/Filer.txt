@@ -1,0 +1,2 @@
+Filer acts as an abstract product for Filer, which is inherited by IdeFilerImpl, BatchFilerImpl, FilerImpl.
+Filer acts as an abstract factory for OutputStream, PrintWriter, which is inherited by IdeFilerImpl, BatchFilerImpl, FilerImpl.

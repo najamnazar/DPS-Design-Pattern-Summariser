@@ -1,0 +1,2 @@
+ValueBuilderTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Append, which tests Prepend, which tests Matches.
+ValueBuilderTest acts as a publisher for observer Service, which is Use Route Builder, which tests Append, which tests Prepend, which tests Matches.

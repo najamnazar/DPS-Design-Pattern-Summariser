@@ -1,0 +1,2 @@
+PulsarEndpointTest acts as a caretaker for memento Context, which tests Invalid Pulsar Name Structure.
+PulsarEndpointTest acts as a caretaker for memento Producer, which tests Invalid Pulsar Name Structure.

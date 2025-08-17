@@ -1,0 +1,2 @@
+FromRestDefaultValueTest acts as a publisher for observer CamelContext, which creates Registry, which tests Default Value, which tests Default Header Value, which tests Default Value Override, which tests Default Header Value Override, which creates Route Builder.
+FromRestDefaultValueTest acts as a publisher for observer Service, which creates Registry, which tests Default Value, which tests Default Header Value, which tests Default Value Override, which tests Default Header Value Override, which creates Route Builder.

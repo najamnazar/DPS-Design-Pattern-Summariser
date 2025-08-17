@@ -1,0 +1,1 @@
+DefaultInternalProcessorFactory acts as a factory method for InternalProcessor, which is inherited by InternalProcessorFactory.

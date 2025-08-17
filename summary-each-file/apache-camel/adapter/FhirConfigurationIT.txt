@@ -1,0 +1,1 @@
+FhirConfigurationIT acts as an adapter, which adapts to AbstractFhirTestSupport, which adapts to AbstractFhirTestSupport, which adapts to AbstractFhirTestSupport, which adapts to AbstractFhirTestSupport.

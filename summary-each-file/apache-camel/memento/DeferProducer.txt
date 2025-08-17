@@ -1,0 +1,2 @@
+DeferProducer acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.
+DeferProducer acts as a caretaker for memento Producer, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange Async, which does Start, which does Stop, which is Singleton, which gets Endpoint, which tos String.

@@ -1,0 +1,1 @@
+AllowAllImpersonationProvider acts as a publisher for observer Configuration, which inits String parameter of configurationPrefix, which authorizes UserGroupInformation parameter of user, InetAddress parameter of remoteAddress, which authorizes UserGroupInformation parameter of user, String parameter of remoteAddress.

@@ -1,0 +1,1 @@
+JavaScriptLanguage acts as an adapter, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts createJavaScriptExpression method of ScriptingLanguage, createJavaScriptExpression method of ScriptingLanguage to TypedLanguageSupport.

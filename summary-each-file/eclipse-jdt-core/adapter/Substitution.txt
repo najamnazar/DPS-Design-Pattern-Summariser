@@ -1,0 +1,1 @@
+Substitution acts as an adaptee for adapter ParameterizedTypeBinding, which adapts to ReferenceBinding.

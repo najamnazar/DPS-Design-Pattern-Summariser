@@ -1,0 +1,1 @@
+JobInitedEvent acts as an observer, which gets Datum, which sets Object parameter of datum Datum, which gets Job Id, which gets Launch Time, which gets Total Maps, which gets Total Reduces, which gets Status, which gets Event Type, which gets Uberized, which tos Timeline Event, which gets Timeline Metrics.

@@ -1,0 +1,2 @@
+ComparableComparator acts as a caretaker for memento Comparator, which compares T parameter of o1, T parameter of o2.
+ComparableComparator acts as a caretaker for memento C, which compares T parameter of o1, T parameter of o2.

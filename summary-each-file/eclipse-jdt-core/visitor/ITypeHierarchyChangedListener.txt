@@ -1,0 +1,36 @@
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by DOMBuilder, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by CodeSnippetEnvironment, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ModuleAttribute, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ReferenceExpression, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by DOMInitializer, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by SelectionEngine, CompletionEngine, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by CodeSnippetSuperReference, CodeSnippetThisReference, CodeSnippetReturnStatement, ReferenceExpression, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by PermittedSubclassesAttributeEntry, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by BinaryMethod, SourceMethod, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as an element for visitor ITypeHierarchyChangedListener, which is inherited by TypeHierarchyNotificationTests, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by OrderPreservingImportAdder, ReorderingImportAdder, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by TypeNameRequestorWrapper, TypeNameMatchRequestorWrapper, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by Openable, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by NonJavaResource, JarEntryResource, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by LocalVariable, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by SourceFieldElementInfo, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by Region, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by TypeAnnotationWalker, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by JavadocContents, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by SourceParameterDeclarationImpl, BinaryParameterDeclarationImpl, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by Modifier, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by EnumDeclarationImpl, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ModuleMainClassAttribute, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by LocalVariableTableEntry, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by AnnotationDefaultAttribute, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by PackageVisibilityInfo, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ModulePackagesAttribute, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by TypeHierarchy, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ProjectEntry, JrtPackageFragmentRoot, ClasspathSourceDirectory, ModulePathEntry, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ExecutableDeclarationImpl, ASTBasedExecutableDeclarationImpl, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by IdeOutputJavaFileObject, IdeOutputClassFileObject, ArchiveFileObject, ForwardingJavaFileObject, PathFileObject, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by AbstractSearchScope, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by EvaluationContextWrapper, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by CompletionRequestorAdapter, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by FactoryPath, which types a Hierarchy Changed to.
+ITypeHierarchyChangedListener acts as a visitor for element ITypeHierarchyChangedListener, which is inherited by ClassServiceFactory, which types a Hierarchy Changed to.

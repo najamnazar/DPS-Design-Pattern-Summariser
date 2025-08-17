@@ -1,0 +1,1 @@
+ErasureCodingStep acts as an abstract product for HHXORErasureEncoder, which is inherited by ErasureDecodingStep, HHErasureCodingStep, ErasureEncodingStep.

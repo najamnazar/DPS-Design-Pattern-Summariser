@@ -1,0 +1,1 @@
+AsyncCallbackToCompletableFutureAdapter acts as a product for UnitOfWork, which overrides done method of AsyncCallback.

@@ -1,0 +1,1 @@
+AbstractFlashMapManager acts as a product for MockHttpServletRequestBuilder, which overrides retrieveAndUpdate method of FlashMapManager, saveOutputFlashMap method of FlashMapManager.

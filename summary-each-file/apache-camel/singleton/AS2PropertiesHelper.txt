@@ -1,0 +1,1 @@
+AS2PropertiesHelper acts as a singleton, which gets an AS2PropertiesHelper Helper to.

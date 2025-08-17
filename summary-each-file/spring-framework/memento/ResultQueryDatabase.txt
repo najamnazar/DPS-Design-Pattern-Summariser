@@ -1,0 +1,1 @@
+ResultQueryDatabase acts as a memento, which sequenceses List<String> parameter of schemas Keys, which sequenceses List<String> parameter of schemas Keys, which sequenceses List<String> parameter of schemas Keys.

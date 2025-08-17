@@ -1,0 +1,1 @@
+ResourceTracker acts as an abstract product for TestNodeStatusUpdater, which is inherited by ResourceTrackerService, LocalRMInterface, ResourceTrackerPBClientImpl.

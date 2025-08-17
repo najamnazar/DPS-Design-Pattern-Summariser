@@ -1,0 +1,1 @@
+BeanBindingTest acts as a caretaker for memento Context, which creates Application Context, which tests Bean Binding Using Bean Expression, which tests Bean Binding Using Constant Expression, which tests Bean Binding Using Header Expression, which tests Bean Binding Using Many Expression.

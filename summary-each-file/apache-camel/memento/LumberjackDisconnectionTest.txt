@@ -1,0 +1,2 @@
+LumberjackDisconnectionTest acts as a caretaker for memento Producer, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.
+LumberjackDisconnectionTest acts as a caretaker for memento Context, which befores Class, which creates Route Builder, which shoulds Disconnect Upon Error, which processes Exchange parameter of exchange.

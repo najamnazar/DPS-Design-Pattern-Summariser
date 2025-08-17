@@ -1,0 +1,1 @@
+CompletionOnModuleReference acts as an adapter, which adapts to ModuleReference, which adapts to ModuleReference.

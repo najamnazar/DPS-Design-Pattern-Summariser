@@ -1,0 +1,5 @@
+CustomValidationProviderResolverTest acts as a publisher for observer ConsumerTemplate, which does Pre Setup, which creates Route Builder, which shoulds Resolve Custom Validation Provider Resolver.
+CustomValidationProviderResolverTest acts as a publisher for observer ProducerTemplate, which does Pre Setup, which creates Route Builder, which shoulds Resolve Custom Validation Provider Resolver.
+CustomValidationProviderResolverTest acts as a publisher for observer CamelContext, which does Pre Setup, which creates Route Builder, which shoulds Resolve Custom Validation Provider Resolver.
+CustomValidationProviderResolverTest acts as a publisher for observer FluentProducerTemplate, which does Pre Setup, which creates Route Builder, which shoulds Resolve Custom Validation Provider Resolver.
+CustomValidationProviderResolverTest acts as a publisher for observer Service, which does Pre Setup, which creates Route Builder, which shoulds Resolve Custom Validation Provider Resolver.

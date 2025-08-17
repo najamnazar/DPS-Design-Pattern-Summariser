@@ -1,0 +1,2 @@
+AbstractQuery acts as a product for AbstractQuery, which overrides bind method of CloseableQuery, bind method of CloseableQuery, close method of CloseableQuery.
+AbstractQuery acts as a factory method for CloseableQuery, which is inherited by Query, CloseableQuery, CloseableQuery, Query, Query, CloseableQuery.

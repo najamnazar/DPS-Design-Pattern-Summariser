@@ -1,0 +1,1 @@
+Condition acts as an abstract product for ConstraintImpl, which is inherited by ProfileCondition, AbstractCondition, ConditionProviderImpl.

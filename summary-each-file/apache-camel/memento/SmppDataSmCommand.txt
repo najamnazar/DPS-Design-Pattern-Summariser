@@ -1,0 +1,1 @@
+SmppDataSmCommand acts as a caretaker for memento Configuration, which executes Exchange parameter of exchange, which creates OptionalParameter[] parameter of optionalParameters Optional Parameter By Name, which creates OptionalParameter[] parameter of optionalParameters Optional Parameter By Code, which creates Exchange parameter of exchange Data Sm.

@@ -1,0 +1,2 @@
+XMLTableColumnsStep acts as a product for XMLTablePassingStep, which overrides.
+XMLTableColumnsStep acts as an abstract product for XMLTableColumnsStep, which is inherited by XMLTableColumnPathStep.

@@ -1,0 +1,1 @@
+EmbeddedDatabase acts as an observer for publisher EmbeddedDatabaseBuilderTests, which is inherited by, which shutdowns.

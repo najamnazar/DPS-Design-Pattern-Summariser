@@ -1,0 +1,1 @@
+WebhookRoutePolicy acts as a publisher for observer ExceptionHandler, which ons Route parameter of route Init, which does Start, which executes WebhookCapableEndpoint parameter of endpoint Webhook Action.

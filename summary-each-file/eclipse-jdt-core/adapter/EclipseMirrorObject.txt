@@ -1,0 +1,1 @@
+EclipseMirrorObject acts as a target for adapter EclipseDeclarationImpl, which adapts to EclipseMirrorObject, which adapts to EclipseMirrorObject.

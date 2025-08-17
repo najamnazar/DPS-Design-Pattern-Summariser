@@ -1,0 +1,1 @@
+AdvisorAdapterRegistrationManager acts as a caretaker for memento A, which sets AdvisorAdapterRegistry parameter of advisorAdapterRegistry Advisor Adapter Registry, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which posts Object parameter of bean, String parameter of beanName Process After Initialization.

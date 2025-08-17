@@ -1,0 +1,1 @@
+CreateTableFinalStep acts as a memento, which is inherited by CreateTableImpl, CreateTableStorageStep.

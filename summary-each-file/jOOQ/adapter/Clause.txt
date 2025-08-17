@@ -1,0 +1,6 @@
+Clause acts as an adaptee for adapter SQLImpl.
+Clause acts as an adaptee for adapter SchemaImpl.
+Clause acts as an adaptee for adapter RowBetweenCondition.
+Clause acts as an adaptee for adapter CatalogImpl.
+Clause acts as an adaptee for adapter Not.
+Clause acts as an adaptee for adapter BetweenCondition.

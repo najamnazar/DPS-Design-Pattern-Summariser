@@ -1,0 +1,2 @@
+InterpreterMetaProvider acts as an observer, which provides, which loads DSLContext parameter of ctx, Source parameter of source, Interpreter parameter of interpreter Source.
+InterpreterMetaProvider acts as a publisher for observer Source, which is inherited by, which provides, which loads DSLContext parameter of ctx, Source parameter of source, Interpreter parameter of interpreter Source.

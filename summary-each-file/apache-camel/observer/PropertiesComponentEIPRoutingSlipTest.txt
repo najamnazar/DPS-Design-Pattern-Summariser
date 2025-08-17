@@ -1,0 +1,2 @@
+PropertiesComponentEIPRoutingSlipTest acts as a publisher for observer CamelContext, which tests Routing Slip, which creates Route Builder, which creates Camel Context.
+PropertiesComponentEIPRoutingSlipTest acts as a publisher for observer Service, which tests Routing Slip, which creates Route Builder, which creates Camel Context.

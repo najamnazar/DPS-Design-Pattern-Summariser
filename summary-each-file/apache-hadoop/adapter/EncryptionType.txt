@@ -1,0 +1,1 @@
+EncryptionType acts as an adaptee for adapter ITestAbfsCustomEncryption.

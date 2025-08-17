@@ -1,0 +1,1 @@
+CounterPBImpl acts as an observer, which gets Proto, which maybes Init Builder, which gets Name, which sets String parameter of name Name, which gets Value, which sets long parameter of value Value, which gets Display Name, which sets String parameter of displayName Display Name.

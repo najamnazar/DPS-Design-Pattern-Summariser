@@ -1,0 +1,1 @@
+NotificationXmlFormatter acts as a caretaker for memento Context, which formats Notification parameter of aNotification, which tos List<ObjectName> parameter of objectNameList Object Names Type, which gets Datatype Factory, which tos List<ObjectName> parameter of objectNames String List, which creates String parameter of contextPath Context, which does Start, which does Stop.

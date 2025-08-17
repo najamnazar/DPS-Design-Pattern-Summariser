@@ -1,0 +1,1 @@
+SpringBatchIT acts as a caretaker for memento Context, which sets Up, which shoulds Echo In Batch, which shoulds Generate Batch Execution Events, which tests Message Header, which creates Application Context.

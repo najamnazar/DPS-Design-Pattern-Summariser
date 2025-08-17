@@ -1,0 +1,22 @@
+ExpressionDefinition acts as a product for DefaultErrorHandlerProperties, which overrides matches method of Predicate, init method of Predicate, initPredicate method of Predicate.
+ExpressionDefinition acts as an abstract product for ExpressionDefinition, which is inherited by LanguageExpression, HeaderExpression, SingleInputExpressionDefinition, TypedExpressionDefinition, ExchangePropertyExpression.
+ExpressionDefinition acts as a product for DeadLetterChannelProperties, which overrides matches method of Predicate, init method of Predicate, initPredicate method of Predicate.
+ExpressionDefinition acts as a product for ParameterMappingStrategy, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for EndpointConsumerBuilder, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for SimpleNode, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a factory for HasExpressionType, which overrides getExpressionType method of HasExpressionType, setExpressionType method of HasExpressionType.
+ExpressionDefinition acts as a product for EndpointProducerBuilder, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a factory for PredicateFactory, which overrides.
+ExpressionDefinition acts as a factory for PredicateFactoryAware, which overrides getPredicateFactory method of PredicateFactoryAware.
+ExpressionDefinition acts as a product for BinaryPredicate, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for ModelReifierFactory, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for PredicateFactoryAware, which overrides.
+ExpressionDefinition acts as a factory for ExpressionFactory, which overrides createExpression method of ExpressionFactory.
+ExpressionDefinition acts as a product for ExpressionFactory, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for ModelCamelContext, which overrides matches method of Predicate, init method of Predicate, initPredicate method of Predicate.
+ExpressionDefinition acts as a product for AnnotationExpressionFactory, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for ModelCamelContext, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a factory for ExpressionFactoryAware, which overrides getExpressionFactory method of ExpressionFactoryAware.
+ExpressionDefinition acts as a product for PredicateFactory, which overrides matches method of Predicate, init method of Predicate, initPredicate method of Predicate.
+ExpressionDefinition acts as a product for ModelReifierFactory, which overrides matches method of Predicate, init method of Predicate, initPredicate method of Predicate.
+ExpressionDefinition acts as a product for ExpressionFactoryAware, which overrides createExpression method of ExpressionFactory.

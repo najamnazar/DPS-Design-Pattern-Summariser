@@ -1,0 +1,1 @@
+DeletedDirTracker acts as a publisher for observer Path, which is inherited by, which is Path parameter of dir Directory Or Ancestor Deleted, which is Path parameter of path In Deleted Directory, which shoulds CopyListingFileStatus parameter of status Delete, which is Path parameter of dir Contained, which tos String, which sizes.

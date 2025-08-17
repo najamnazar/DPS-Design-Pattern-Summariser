@@ -1,0 +1,2 @@
+GlobalEntityResultConsumerTests acts as a caretaker for memento B, which jsons, which entities, which entities List, which gets Person, which gets Persons.
+GlobalEntityResultConsumerTests acts as a caretaker for memento C, which jsons, which entities, which entities List, which gets Person, which gets Persons.

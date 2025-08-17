@@ -1,0 +1,1 @@
+OpenTelemetryGetter acts as a publisher for observer ExtractAdapter, which is inherited by, which keyses ExtractAdapter parameter of extractAdapter, which gets ExtractAdapter parameter of adapter, String parameter of key.

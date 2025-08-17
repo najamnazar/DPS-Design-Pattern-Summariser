@@ -1,0 +1,1 @@
+BinaryRecordInput acts as a factory for RecordInput, which overrides.

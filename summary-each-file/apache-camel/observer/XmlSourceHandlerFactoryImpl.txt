@@ -1,0 +1,1 @@
+XmlSourceHandlerFactoryImpl acts as an observer, which is Fail On Null Body, which sets boolean parameter of failOnNullBody Fail On Null Body, which gets Exchange parameter of exchange Source, which is Exchange parameter of exchange Input Stream Needed, which gets Exchange parameter of exchange, Object parameter of body Source.

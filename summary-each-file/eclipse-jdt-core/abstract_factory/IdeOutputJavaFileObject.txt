@@ -1,0 +1,2 @@
+IdeOutputJavaFileObject acts as a factory for JavaFileObject, which overrides getAccessLevel method of JavaFileObject, getKind method of JavaFileObject, getNestingKind method of JavaFileObject, isNameCompatible method of JavaFileObject.
+IdeOutputJavaFileObject acts as a product for JavaFileManager, which overrides getAccessLevel method of JavaFileObject, getKind method of JavaFileObject, getNestingKind method of JavaFileObject, isNameCompatible method of JavaFileObject.

@@ -1,0 +1,3 @@
+DisposableBean acts as an adaptee for adapter LocalValidatorFactoryBean, which adapts to SpringValidatorAdapter.
+DisposableBean acts as an adaptee for adapter XmlViewResolver, which adapts to AbstractCachingViewResolver.
+DisposableBean acts as an adaptee for adapter MBeanExporter, which adapts to MBeanRegistrationSupport.

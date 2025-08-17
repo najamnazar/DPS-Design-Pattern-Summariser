@@ -1,0 +1,1 @@
+InterfaceDeclarationImpl acts as a subsystem for facade AnnotationDeclarationImpl, which getDeclaration method of AnnotationDeclarationImpl calls getDeclaration.

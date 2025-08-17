@@ -1,0 +1,2 @@
+TimerReferenceConfigurationTest acts as a caretaker for memento Producer, which creates Registry, which creates Route Builder, which tests Reference Configuration, which tests Value Configuration.
+TimerReferenceConfigurationTest acts as a caretaker for memento Context, which creates Registry, which creates Route Builder, which tests Reference Configuration, which tests Value Configuration.

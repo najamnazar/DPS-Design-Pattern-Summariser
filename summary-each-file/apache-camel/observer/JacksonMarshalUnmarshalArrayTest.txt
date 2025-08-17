@@ -1,0 +1,5 @@
+JacksonMarshalUnmarshalArrayTest acts as a publisher for observer ProducerTemplate, which tests Unmarshal Array, which creates Route Builder.
+JacksonMarshalUnmarshalArrayTest acts as a publisher for observer CamelContext, which tests Unmarshal Array, which creates Route Builder.
+JacksonMarshalUnmarshalArrayTest acts as a publisher for observer ConsumerTemplate, which tests Unmarshal Array, which creates Route Builder.
+JacksonMarshalUnmarshalArrayTest acts as a publisher for observer Service, which tests Unmarshal Array, which creates Route Builder.
+JacksonMarshalUnmarshalArrayTest acts as a publisher for observer FluentProducerTemplate, which tests Unmarshal Array, which creates Route Builder.

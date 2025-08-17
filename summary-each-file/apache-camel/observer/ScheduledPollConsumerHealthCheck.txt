@@ -1,0 +1,1 @@
+ScheduledPollConsumerHealthCheck acts as an observer, which is Enabled, which sets boolean parameter of enabled Enabled, which calls Map<String, parameter of Object>, which gets Initial State, which sets State parameter of initialState Initial State, which gets Group, which gets Id.

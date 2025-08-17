@@ -1,0 +1,1 @@
+DependencyTrait acts as an observer, which gets Name, which parses Resource parameter of resource, String parameter of trait Trait.

@@ -1,0 +1,1 @@
+SpringRenameFileOnCommitIssueTest acts as a caretaker for memento Context, which tests File Rename File On Commit Issue, which creates Application Context.

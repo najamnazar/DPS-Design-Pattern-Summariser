@@ -1,0 +1,1 @@
+Javadoc acts as an observer for publisher JavaClass, which is inherited by, which gets Text, which sets String parameter of text Text, which sets String... parameter of lines Text, which sets String parameter of text Full Text, which gets Full Text.

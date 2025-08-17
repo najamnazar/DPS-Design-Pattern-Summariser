@@ -1,0 +1,2 @@
+FileProducerAllowNullBodyTest acts as a publisher for observer Service, which tests Allow Null Body True, which tests Allow Null Body False.
+FileProducerAllowNullBodyTest acts as a publisher for observer CamelContext, which tests Allow Null Body True, which tests Allow Null Body False.

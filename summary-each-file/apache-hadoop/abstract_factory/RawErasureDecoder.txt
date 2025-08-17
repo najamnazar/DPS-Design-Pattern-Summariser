@@ -1,0 +1,1 @@
+RawErasureDecoder acts as an abstract product for RawErasureDecoder, which is inherited by AbstractNativeRawDecoder, RSRawDecoder, XORRawDecoder, DummyRawDecoder, RSLegacyRawDecoder.

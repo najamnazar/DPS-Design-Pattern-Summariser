@@ -1,0 +1,2 @@
+ResourceTransactionDefinition acts as an originator for memento TransactionDefinition.
+ResourceTransactionDefinition acts as a memento, which is Local Resource.

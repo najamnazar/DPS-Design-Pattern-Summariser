@@ -1,0 +1,1 @@
+Reader acts as an abstract product for Reader, which is inherited by InputStreamReader.

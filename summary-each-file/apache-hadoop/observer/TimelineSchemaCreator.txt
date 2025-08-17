@@ -1,0 +1,1 @@
+TimelineSchemaCreator acts as a publisher for observer Configuration, which mains String[] parameter of args, which runs String[] parameter of args, which creates String[] parameter of args, Configuration parameter of conf Timeline Schema.

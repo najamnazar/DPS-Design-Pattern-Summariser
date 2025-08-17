@@ -1,0 +1,1 @@
+ReservationACL acts as an observer for publisher ReservationsACLsManager, FairReservationsACLsManager, CapacityReservationsACLsManager, which is inherited by.

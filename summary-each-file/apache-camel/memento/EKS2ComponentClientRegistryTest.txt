@@ -1,0 +1,2 @@
+EKS2ComponentClientRegistryTest acts as a caretaker for memento Producer, which creates Endpoint With Minimal ECSClient Configuration, which creates Endpoint With Minimal ECSClient Misconfiguration, which creates Endpoint With Autowired.
+EKS2ComponentClientRegistryTest acts as a caretaker for memento Context, which creates Endpoint With Minimal ECSClient Configuration, which creates Endpoint With Minimal ECSClient Misconfiguration, which creates Endpoint With Autowired.

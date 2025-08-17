@@ -1,0 +1,2 @@
+SwitchFlowContext acts as a target for adapter LoopingFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext.
+SwitchFlowContext acts as an adapter, which adapts to FlowContext, which adapts to FlowContext, which adapts to FlowContext, which adapts to FlowContext.

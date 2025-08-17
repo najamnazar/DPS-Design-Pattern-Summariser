@@ -1,0 +1,1 @@
+DnsServiceDiscoveryFactory acts as a caretaker for memento Configuration, which gets Proto, which sets String parameter of proto Proto, which gets Domain, which sets String parameter of domain Domain, which news CamelContext parameter of camelContext Instance.

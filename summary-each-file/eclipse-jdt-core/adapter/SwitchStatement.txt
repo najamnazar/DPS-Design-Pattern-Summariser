@@ -1,0 +1,2 @@
+SwitchStatement acts as an adaptee for adapter SyntheticMethodBinding, which adapts to MethodBinding, which adapts to MethodBinding, which adapts to MethodBinding, which adapts to MethodBinding, which adapts to MethodBinding, which adapts to MethodBinding.
+SwitchStatement acts as an adapter, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts to Statement.

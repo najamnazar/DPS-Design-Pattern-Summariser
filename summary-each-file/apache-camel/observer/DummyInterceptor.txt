@@ -1,0 +1,1 @@
+DummyInterceptor acts as an observer, which wraps CamelContext parameter of context, NamedNode parameter of definition, Processor parameter of target, Processor parameter of nextTarget Processor In Interceptors.

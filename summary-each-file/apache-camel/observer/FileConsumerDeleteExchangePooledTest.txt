@@ -1,0 +1,2 @@
+FileConsumerDeleteExchangePooledTest acts as a publisher for observer Service, which creates Camel Context, which tests Delete, which creates Route Builder.
+FileConsumerDeleteExchangePooledTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Delete, which creates Route Builder.

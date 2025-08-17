@@ -1,0 +1,1 @@
+TaskTrackerInfo acts as an observer, which gets Task Tracker Name, which is Blacklisted, which gets Reason For Blacklist, which gets Blacklist Report, which reads DataInput parameter of in Fields, which writes DataOutput parameter of out.

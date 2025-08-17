@@ -1,0 +1,2 @@
+InterceptSendToEndpointMultipleRoutesTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Intercept Endpoint, which configures.
+InterceptSendToEndpointMultipleRoutesTest acts as a publisher for observer Service, which is Use Route Builder, which tests Intercept Endpoint, which configures.

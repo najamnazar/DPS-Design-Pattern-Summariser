@@ -1,0 +1,1 @@
+PahoMqtt5Consumer acts as a caretaker for memento HealthCheck, which gets Client, which sets MqttClient parameter of client Client, which does Start, which does Stop, which gets Endpoint, which creates MqttMessage parameter of mqttMessage, String parameter of topic Exchange.

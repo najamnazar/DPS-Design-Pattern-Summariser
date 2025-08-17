@@ -1,0 +1,2 @@
+BeanWithExpressionInjectionPredicateTest acts as a publisher for observer CamelContext, which tests Send Message, which tests Send Message With Foo, which creates Registry, which creates Route Builder, which reads String parameter of body, @Simple("${header.foo} parameter of !=.
+BeanWithExpressionInjectionPredicateTest acts as a publisher for observer Service, which tests Send Message, which tests Send Message With Foo, which creates Registry, which creates Route Builder, which reads String parameter of body, @Simple("${header.foo} parameter of !=.

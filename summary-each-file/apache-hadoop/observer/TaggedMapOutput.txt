@@ -1,0 +1,2 @@
+TaggedMapOutput acts as an observer, which gets Tag, which sets Text parameter of tag Tag, which gets Data, which clones JobConf parameter of job.
+TaggedMapOutput acts as a publisher for observer Text, which is inherited by SampleTaggedMapOutput, which gets Tag, which sets Text parameter of tag Tag, which gets Data, which clones JobConf parameter of job.

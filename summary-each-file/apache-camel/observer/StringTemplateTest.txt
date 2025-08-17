@@ -1,0 +1,5 @@
+StringTemplateTest acts as a publisher for observer Service, which tests, which tests Variable Map, which creates Route Builder.
+StringTemplateTest acts as a publisher for observer CamelContext, which tests, which tests Variable Map, which creates Route Builder.
+StringTemplateTest acts as a publisher for observer ConsumerTemplate, which tests, which tests Variable Map, which creates Route Builder.
+StringTemplateTest acts as a publisher for observer FluentProducerTemplate, which tests, which tests Variable Map, which creates Route Builder.
+StringTemplateTest acts as a publisher for observer ProducerTemplate, which tests, which tests Variable Map, which creates Route Builder.

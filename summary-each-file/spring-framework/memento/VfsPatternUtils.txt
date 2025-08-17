@@ -1,0 +1,1 @@
+VfsPatternUtils acts as a caretaker for memento C, which gets Visitor Attributes, which gets Object parameter of resource Path, which finds URL parameter of url Root, which visits Object parameter of resource, InvocationHandler parameter of visitor.

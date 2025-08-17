@@ -1,0 +1,2 @@
+DirectDecompressionCodec acts as an abstract factory for, which is inherited by ZStandardCodec, SnappyCodec, DefaultCodec.
+DirectDecompressionCodec acts as a product for ShuffleConsumerPlugin, which overrides.

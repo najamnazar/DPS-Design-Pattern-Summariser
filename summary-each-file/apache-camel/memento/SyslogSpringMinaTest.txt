@@ -1,0 +1,1 @@
+SyslogSpringMinaTest acts as a caretaker for memento Context, which inits Port, which creates Application Context, which tests Sending Raw UDP.

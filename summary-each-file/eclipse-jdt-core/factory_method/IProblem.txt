@@ -1,0 +1,1 @@
+IProblem acts as an abstract product for ProblemHandler, which is inherited by CategorizedProblem, DefaultProblem.

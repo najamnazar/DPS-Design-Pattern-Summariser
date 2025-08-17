@@ -1,0 +1,2 @@
+BeanInvokeSingleMethodNoBodyTest acts as a caretaker for memento Context, which tests Bean Invoke Single Method No Body, which creates Route Builder.
+BeanInvokeSingleMethodNoBodyTest acts as a caretaker for memento Producer, which tests Bean Invoke Single Method No Body, which creates Route Builder.

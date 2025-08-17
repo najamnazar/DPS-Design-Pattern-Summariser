@@ -1,0 +1,1 @@
+RecordComponentElementImpl acts as a memento, which accepts ElementVisitor<R, parameter of P>, P parameter of param Accessor, which accepts ElementVisitor<R, parameter of P>, P parameter of param Accessor, which accepts ElementVisitor<R, parameter of P>, P parameter of param Accessor.

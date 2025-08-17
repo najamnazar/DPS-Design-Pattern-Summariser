@@ -1,0 +1,1 @@
+UndertowEndpoint acts as a factory method for CookieHandler, which is inherited by CxfRsEndpoint, HttpCommonEndpoint, CxfEndpoint, HttpCommonEndpoint, HttpCommonEndpoint.

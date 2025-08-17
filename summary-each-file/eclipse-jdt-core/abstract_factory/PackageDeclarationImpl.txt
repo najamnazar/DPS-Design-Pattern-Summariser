@@ -1,0 +1,1 @@
+PackageDeclarationImpl acts as a product for AnnotationProcessorEnvironment, which overrides.

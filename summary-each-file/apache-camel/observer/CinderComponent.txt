@@ -1,0 +1,2 @@
+CinderComponent acts as a publisher for observer CamelContext, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint.
+CinderComponent acts as a publisher for observer ComponentExtension, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint.

@@ -1,0 +1,7 @@
+CanUnbuffer acts as an adaptee for adapter AbfsInputStream, which adapts to FSInputStream.
+CanUnbuffer acts as an adaptee for adapter DFSInputStream, which adapts to FSInputStream, ByteBufferReadable.
+CanUnbuffer acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+CanUnbuffer acts as an adaptee for adapter S3AInputStream, which adapts to ObjectInputStream.
+CanUnbuffer acts as an adaptee for adapter CryptoInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+CanUnbuffer acts as a target for adapter CryptoInputStream, which adapts to CanUnbuffer.
+CanUnbuffer acts as a target for adapter FSDataInputStream, which adapts to CanUnbuffer.

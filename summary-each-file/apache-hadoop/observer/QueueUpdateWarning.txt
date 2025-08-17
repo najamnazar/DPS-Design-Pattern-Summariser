@@ -1,0 +1,1 @@
+QueueUpdateWarning acts as an observer for publisher QueueCapacityUpdateContext, which is inherited by, which ofs String parameter of queue Queue, which gets Template, which withes String parameter of info Info, which gets Queue, which gets Warning Type, which tos String.

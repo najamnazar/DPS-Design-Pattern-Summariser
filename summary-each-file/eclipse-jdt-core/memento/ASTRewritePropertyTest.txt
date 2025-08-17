@@ -1,0 +1,3 @@
+ASTRewritePropertyTest acts as a caretaker for memento String, which suites, which tests Properties.
+ASTRewritePropertyTest acts as a caretaker for memento R, which suites, which tests Properties.
+ASTRewritePropertyTest acts as a caretaker for memento S, which suites, which tests Properties.

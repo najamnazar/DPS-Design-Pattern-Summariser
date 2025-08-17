@@ -1,0 +1,1 @@
+DefaultXAdESSignatureProperties acts as an adapter, which adapts to XAdESSignatureProperties, which adapts to XAdESSignatureProperties, which adapts to XAdESSignatureProperties, which adapts to XAdESSignatureProperties, which adapts to XAdESSignatureProperties, which adapts to XAdESSignatureProperties, which adapts to XAdESSignatureProperties.

@@ -1,0 +1,2 @@
+VertxHttpComponent acts as a factory for RestProducerFactory, which overrides createProducer method of RestProducerFactory.
+VertxHttpComponent acts as a factory for SSLContextParametersAware, which overrides isUseGlobalSslContextParameters method of SSLContextParametersAware, setUseGlobalSslContextParameters method of SSLContextParametersAware.

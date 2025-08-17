@@ -1,0 +1,5 @@
+HazelcastSedaFIFOTest acts as a publisher for observer FluentProducerTemplate, which fifos Testing, which creates Route Builder.
+HazelcastSedaFIFOTest acts as a publisher for observer ProducerTemplate, which fifos Testing, which creates Route Builder.
+HazelcastSedaFIFOTest acts as a publisher for observer Service, which fifos Testing, which creates Route Builder.
+HazelcastSedaFIFOTest acts as a publisher for observer CamelContext, which fifos Testing, which creates Route Builder.
+HazelcastSedaFIFOTest acts as a publisher for observer ConsumerTemplate, which fifos Testing, which creates Route Builder.

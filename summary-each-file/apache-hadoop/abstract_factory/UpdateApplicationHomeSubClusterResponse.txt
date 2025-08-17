@@ -1,0 +1,1 @@
+UpdateApplicationHomeSubClusterResponse acts as an abstract product for UpdateApplicationHomeSubClusterResponse, which is inherited by UpdateApplicationHomeSubClusterResponsePBImpl.

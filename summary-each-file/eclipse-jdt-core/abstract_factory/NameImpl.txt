@@ -1,0 +1,9 @@
+NameImpl acts as a product for Elements, which overrides.
+NameImpl acts as a product for VariableElement, which overrides.
+NameImpl acts as a product for ModuleElement, which overrides.
+NameImpl acts as a product for QualifiedNameable, which overrides.
+NameImpl acts as a product for ExecutableElement, which overrides.
+NameImpl acts as a product for TypeElement, which overrides.
+NameImpl acts as a product for PackageElement, which overrides.
+NameImpl acts as a product for RecordComponentElement, which overrides.
+NameImpl acts as a product for Element, which overrides.

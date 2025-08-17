@@ -1,0 +1,2 @@
+ExtendedModelMap acts as a product for Model, which overrides asMap method of Model.
+ExtendedModelMap acts as a factory for Model, which overrides asMap method of Model.

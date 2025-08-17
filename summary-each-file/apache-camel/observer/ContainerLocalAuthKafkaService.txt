@@ -1,0 +1,1 @@
+ContainerLocalAuthKafkaService acts as an observer, which gets Bootstrap Servers, which inits String parameter of jaasConfigFile Container, which gets Bootstrap Servers, which registers Properties, which initializes, which shutdowns, which gets Container, which generates String parameter of username, String parameter of password Simple Sasl Jaas Config.

@@ -1,0 +1,5 @@
+Web3jIntegrationTestSupport acts as a publisher for observer CamelContext, which gets Url, which creates Object parameter of body, String parameter of key, Object parameter of value Exchange With Body And Header.
+Web3jIntegrationTestSupport acts as a publisher for observer FluentProducerTemplate, which gets Url, which creates Object parameter of body, String parameter of key, Object parameter of value Exchange With Body And Header.
+Web3jIntegrationTestSupport acts as a publisher for observer ProducerTemplate, which gets Url, which creates Object parameter of body, String parameter of key, Object parameter of value Exchange With Body And Header.
+Web3jIntegrationTestSupport acts as a publisher for observer Service, which gets Url, which creates Object parameter of body, String parameter of key, Object parameter of value Exchange With Body And Header.
+Web3jIntegrationTestSupport acts as a publisher for observer ConsumerTemplate, which gets Url, which creates Object parameter of body, String parameter of key, Object parameter of value Exchange With Body And Header.

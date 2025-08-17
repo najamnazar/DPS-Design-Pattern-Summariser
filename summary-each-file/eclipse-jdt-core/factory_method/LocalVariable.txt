@@ -1,0 +1,2 @@
+LocalVariable acts as a factory method for IMember, which is inherited by ILocalVariable.
+LocalVariable acts as a product for AbstractJavaModelTests, which overrides getDeclaringMember method of ILocalVariable, getElementName method of ILocalVariable, getFlags method of ILocalVariable, getNameRange method of ILocalVariable, getTypeRoot method of ILocalVariable, getTypeSignature method of ILocalVariable, isParameter method of ILocalVariable.

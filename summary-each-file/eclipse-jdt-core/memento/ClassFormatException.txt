@@ -1,0 +1,2 @@
+ClassFormatException acts as a caretaker for memento R, which gets Error Code, which gets Buffer Position, which gets Exception, which prints Stack Trace, which prints PrintStream parameter of output Stack Trace, which prints PrintWriter parameter of output Stack Trace.
+ClassFormatException acts as a caretaker for memento E, which gets Error Code, which gets Buffer Position, which gets Exception, which prints Stack Trace, which prints PrintStream parameter of output Stack Trace, which prints PrintWriter parameter of output Stack Trace.

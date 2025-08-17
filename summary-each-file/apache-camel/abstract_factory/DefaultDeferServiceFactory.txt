@@ -1,0 +1,2 @@
+DefaultDeferServiceFactory acts as a product for ExtendedCamelContext, which overrides createProducer method of DeferServiceFactory.
+DefaultDeferServiceFactory acts as a factory for DeferServiceFactory, which overrides createProducer method of DeferServiceFactory.

@@ -1,0 +1,3 @@
+MachineNode acts as a product for InnerNode, which overrides equals method of Node, hashCode method of Node, addChild method of Node.
+MachineNode acts as a product for ClusterStory, which overrides equals method of Node, hashCode method of Node, addChild method of Node.
+MachineNode acts as a product for RMNode, which overrides equals method of Node, hashCode method of Node, addChild method of Node.

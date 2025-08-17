@@ -1,0 +1,1 @@
+MetricsRecord acts as an observer for publisher TestMetricsSystemImpl, which is inherited by AbstractMetricsRecord, which timestamps, which names, which descriptions, which contexts, which tagses, which metricses.

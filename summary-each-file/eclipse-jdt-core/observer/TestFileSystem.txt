@@ -1,0 +1,3 @@
+TestFileSystem acts as a publisher for observer IModule, which gets URI parameter of uri Store.
+TestFileSystem acts as a publisher for observer NameEnvironmentAnswer, which gets URI parameter of uri Store.
+TestFileSystem acts as a publisher for observer String, which gets URI parameter of uri Store.

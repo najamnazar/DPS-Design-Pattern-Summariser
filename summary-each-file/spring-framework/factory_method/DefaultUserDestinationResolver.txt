@@ -1,0 +1,1 @@
+DefaultUserDestinationResolver acts as a product for UserDestinationMessageHandler, which overrides resolveDestination method of UserDestinationResolver.

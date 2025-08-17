@@ -1,0 +1,1 @@
+Colour acts as an observer for publisher AutowiredConfigurationTests, which is inherited by, which tos String.

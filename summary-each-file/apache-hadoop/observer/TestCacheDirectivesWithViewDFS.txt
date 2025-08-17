@@ -1,0 +1,2 @@
+TestCacheDirectivesWithViewDFS acts as a publisher for observer NameNode, which gets DFS, which gets MiniDFSCluster parameter of cluster, int parameter of nnIdx DFS.
+TestCacheDirectivesWithViewDFS acts as a publisher for observer MiniDFSCluster, which gets DFS, which gets MiniDFSCluster parameter of cluster, int parameter of nnIdx DFS.

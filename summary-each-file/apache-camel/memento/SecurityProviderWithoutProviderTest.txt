@@ -1,0 +1,1 @@
+SecurityProviderWithoutProviderTest acts as a caretaker for memento Configuration, which creates Securty Provider Configuration File, which tests Secured No Providerd.

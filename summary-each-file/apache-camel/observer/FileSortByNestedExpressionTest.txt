@@ -1,0 +1,2 @@
+FileSortByNestedExpressionTest acts as a publisher for observer CamelContext, which prepares String parameter of folder Folder, which tests Sort Nested Files, which tests Sort Nested Files Reverse.
+FileSortByNestedExpressionTest acts as a publisher for observer Service, which prepares String parameter of folder Folder, which tests Sort Nested Files, which tests Sort Nested Files Reverse.

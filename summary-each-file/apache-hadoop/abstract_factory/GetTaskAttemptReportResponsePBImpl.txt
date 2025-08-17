@@ -1,0 +1,2 @@
+GetTaskAttemptReportResponsePBImpl acts as a factory for GetTaskAttemptReportResponse, which overrides getTaskAttemptReport method of GetTaskAttemptReportResponse, setTaskAttemptReport method of GetTaskAttemptReportResponse.
+GetTaskAttemptReportResponsePBImpl acts as a product for MRClientProtocol, which overrides getTaskAttemptReport method of GetTaskAttemptReportResponse, setTaskAttemptReport method of GetTaskAttemptReportResponse.

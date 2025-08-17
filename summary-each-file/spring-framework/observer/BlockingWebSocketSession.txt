@@ -1,0 +1,2 @@
+BlockingWebSocketSession acts as a publisher for observer CloseStatus, which inits Send Latch, which sends WebSocketMessage<?> parameter of message Message, which blocks.
+BlockingWebSocketSession acts as a publisher for observer HttpHeaders, which inits Send Latch, which sends WebSocketMessage<?> parameter of message Message, which blocks.

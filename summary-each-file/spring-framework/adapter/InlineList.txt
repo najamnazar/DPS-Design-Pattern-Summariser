@@ -1,0 +1,1 @@
+InlineList acts as an adapter, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts isConstant method of TypedValue, isConstant method of TypedValue to SpelNodeImpl, which adapts getConstantValue method of TypedValue to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl, which adapts to SpelNodeImpl.

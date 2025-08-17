@@ -1,0 +1,2 @@
+ConsumerBreadcrumbIdTest acts as a caretaker for memento Context, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.
+ConsumerBreadcrumbIdTest acts as a caretaker for memento Producer, which sets Up, which creates Camel Registry, which consumes Web Service With Pojo Request Which Is With Breadcrumb, which creates Route Builder.

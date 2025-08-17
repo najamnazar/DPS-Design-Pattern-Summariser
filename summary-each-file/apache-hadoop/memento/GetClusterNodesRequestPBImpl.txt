@@ -1,0 +1,1 @@
+GetClusterNodesRequestPBImpl acts as a caretaker for memento NodeState, which gets Proto, which gets Node States, which sets final parameter of EnumSet<NodeState> Node States, which merges Local To Proto, which maybes Init Builder, which merges Local To Builder, which inits Node States, which hashes Code, which equals Object parameter of other, which tos String.

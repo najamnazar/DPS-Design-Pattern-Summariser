@@ -1,0 +1,2 @@
+IRestrictedAccessMethodRequestor acts as a target for adapter MethodNameRequestorWrapper, which adapts to IRestrictedAccessMethodRequestor.
+IRestrictedAccessMethodRequestor acts as a target for adapter MethodNameMatchRequestorWrapper, which adapts to IRestrictedAccessMethodRequestor.

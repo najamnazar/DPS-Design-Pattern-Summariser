@@ -1,0 +1,3 @@
+IVariableBinding acts as a factory for IVariableBinding, which overrides getName method of IVariableBinding.
+IVariableBinding acts as an abstract product for IVariableBinding, which is inherited by RecoveredVariableBinding.
+IVariableBinding acts as a factory method for IVariableBinding, which is inherited by IVariableBinding, EnumConstantDeclaration, FieldDeclarationImpl, VariableDeclaration, BindingResolver, VariableDeclaration.

@@ -1,0 +1,1 @@
+DefaultGooglePubsubSerializer acts as an observer, which serializes Object parameter of payload.

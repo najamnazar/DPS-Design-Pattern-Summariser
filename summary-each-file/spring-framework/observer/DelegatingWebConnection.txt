@@ -1,0 +1,1 @@
+DelegatingWebConnection acts as a publisher for observer WebRequest, which is inherited by, which gets WebRequest parameter of request Response, which closes, which gets Matcher, which gets Delegate.

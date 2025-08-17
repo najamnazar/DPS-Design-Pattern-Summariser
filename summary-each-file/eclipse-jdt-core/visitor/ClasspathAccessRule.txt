@@ -1,0 +1,10 @@
+ClasspathAccessRule acts as a visitor for element DeclarationVisitor, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element ElementVisitor, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element Processor, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element Declarations, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element IBytecodeVisitor, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element AnnotationValueVisitor, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element IDOMNode, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element TypeVisitor, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element Elements, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.
+ClasspathAccessRule acts as a visitor for element AnnotationProcessorFactory, which overrides, which tos a Problem Id to, which gets a Pattern to, which gets a Kind to.

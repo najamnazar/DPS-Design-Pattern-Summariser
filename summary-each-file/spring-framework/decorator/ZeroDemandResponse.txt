@@ -1,0 +1,2 @@
+ZeroDemandResponse acts as a component for decorator ServerHttpResponseDecorator, which overrides bufferFactoryServerHttpResponse, writeWithServerHttpResponse, getStatusCodeServerHttpResponse, getCookiesServerHttpResponse, addCookieServerHttpResponse, beforeCommitServerHttpResponse, isCommittedServerHttpResponse, writeAndFlushWithServerHttpResponse, setCompleteServerHttpResponse, getHeadersServerHttpResponse.
+ZeroDemandResponse acts as a component for decorator DelegatingServerHttpResponse, which overrides getHeadersServerHttpResponse.

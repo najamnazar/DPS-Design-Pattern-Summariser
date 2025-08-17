@@ -1,0 +1,1 @@
+Jackson2JsonDecoder acts as an adapter, which adapts to AbstractJackson2Decoder.

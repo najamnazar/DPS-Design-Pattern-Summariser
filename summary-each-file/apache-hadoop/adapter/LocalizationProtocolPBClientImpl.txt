@@ -1,0 +1,1 @@
+LocalizationProtocolPBClientImpl acts as an adapter, which adapts to LocalizationProtocol, which adapts to LocalizationProtocol.

@@ -1,0 +1,1 @@
+LRASagaService acts as a product for SagaProcessor, which overrides newSaga method of CamelSagaService, getSaga method of CamelSagaService, registerStep method of CamelSagaService.

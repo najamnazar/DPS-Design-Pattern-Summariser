@@ -1,0 +1,1 @@
+SchedulerQueue acts as an observer, which gets Child Queues, which gets Parent, which gets State, which updates QueueState parameter of state Queue State, which stops Queue, which activates Queue.

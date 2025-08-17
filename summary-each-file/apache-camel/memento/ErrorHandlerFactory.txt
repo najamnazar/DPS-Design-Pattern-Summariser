@@ -1,0 +1,2 @@
+ErrorHandlerFactory acts as an originator for memento ErrorHandlerFactory, which is inherited by, which clones an ErrorHandlerFactory Builder to.
+ErrorHandlerFactory acts as a memento, which is inherited by NoErrorHandlerProperties, DefaultErrorHandlerProperties, LegacyErrorHandlerBuilder, BaseErrorHandlerDefinition, ErrorHandlerRefProperties, which clones Builder, which clones Builder.

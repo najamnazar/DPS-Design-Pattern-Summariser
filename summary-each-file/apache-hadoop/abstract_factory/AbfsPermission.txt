@@ -1,0 +1,2 @@
+AbfsPermission acts as a product for INodeAttributes, which overrides equals method of FsPermission, hashCode method of FsPermission.
+AbfsPermission acts as a product for HdfsFileStatus, which overrides equals method of FsPermission, hashCode method of FsPermission.

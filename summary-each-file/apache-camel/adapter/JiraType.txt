@@ -1,0 +1,1 @@
+JiraType acts as an adaptee for adapter JiraEndpoint.

@@ -1,0 +1,2 @@
+CancelDelegationTokenResponse acts as an originator for memento CancelDelegationTokenResponse, which is inherited by, which news a CancelDelegationTokenResponse Instance to.
+CancelDelegationTokenResponse acts as a memento, which is inherited by CancelDelegationTokenResponsePBImpl, which news Instance.

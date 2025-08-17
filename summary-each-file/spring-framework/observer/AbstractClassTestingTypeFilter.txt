@@ -1,0 +1,1 @@
+AbstractClassTestingTypeFilter acts as an observer, which matches MetadataReader parameter of metadataReader, MetadataReaderFactory parameter of metadataReaderFactory, which matches ClassMetadata parameter of metadata.

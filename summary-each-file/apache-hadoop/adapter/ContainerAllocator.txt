@@ -1,0 +1,4 @@
+ContainerAllocator acts as an adaptee for adapter RMContainerAllocator, which adapts to RMContainerRequestor.
+ContainerAllocator acts as an adaptee for adapter TestMRAppMaster, which adapts to MRAppMaster.
+ContainerAllocator acts as an adaptee for adapter LocalContainerAllocator, which adapts to RMCommunicator.
+ContainerAllocator acts as an adaptee for adapter MRAppMaster, which adapts to CompositeService.

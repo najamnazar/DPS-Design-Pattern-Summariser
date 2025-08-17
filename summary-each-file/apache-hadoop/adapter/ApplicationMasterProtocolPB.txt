@@ -1,0 +1,1 @@
+ApplicationMasterProtocolPB acts as an adaptee for adapter ApplicationMasterProtocolPBClientImpl.

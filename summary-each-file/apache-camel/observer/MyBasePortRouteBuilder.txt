@@ -1,0 +1,7 @@
+MyBasePortRouteBuilder acts as a publisher for observer RestsDefinition, which gets Next Port.
+MyBasePortRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which gets Next Port.
+MyBasePortRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which gets Next Port.
+MyBasePortRouteBuilder acts as a publisher for observer Resource, which gets Next Port.
+MyBasePortRouteBuilder acts as an observer, which gets Next Port.
+MyBasePortRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which gets Next Port.
+MyBasePortRouteBuilder acts as a publisher for observer RoutesDefinition, which gets Next Port.

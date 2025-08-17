@@ -1,0 +1,2 @@
+UniVocityAbstractDataFormat acts as a product for Model, which overrides.
+UniVocityAbstractDataFormat acts as a product for DataFormatDefinitionAware, which overrides.

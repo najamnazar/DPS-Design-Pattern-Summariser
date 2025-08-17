@@ -1,0 +1,2 @@
+ChoiceCompoundPredicateSimpleTest acts as a caretaker for memento Context, which tests Null, which tests Empty, which tests Empty Or, which tests Empty Simple, which tests Data, which tests Data Or, which tests Data Simple, which creates Route Builder.
+ChoiceCompoundPredicateSimpleTest acts as a caretaker for memento Producer, which tests Null, which tests Empty, which tests Empty Or, which tests Empty Simple, which tests Data, which tests Data Or, which tests Data Simple, which creates Route Builder.

@@ -1,0 +1,1 @@
+DatanodeLifelineProtocolPB acts as an adaptee for adapter DatanodeLifelineProtocolClientSideTranslatorPB.

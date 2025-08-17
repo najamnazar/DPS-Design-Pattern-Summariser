@@ -1,0 +1,1 @@
+IClasspathAttributeDelta acts as an observer for publisher JavaElementDelta, which is inherited by ClasspathAttributeDelta, which gets Kind, which gets Attribute Name, which gets Attribute Value.

@@ -1,0 +1,1 @@
+TestCommandFactory acts as a publisher for observer CommandFactory, which is inherited by, which registers CommandFactory parameter of factory Commands, which tests Setup, which tests Registration, which tests Get Instances, which registers CommandFactory parameter of factory Commands.

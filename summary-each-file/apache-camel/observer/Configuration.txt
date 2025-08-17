@@ -1,0 +1,1 @@
+Configuration acts as an observer for publisher XQueryLanguage, which is inherited by.

@@ -1,0 +1,1 @@
+ResourceCalculator acts as an abstract product for ResourceCalculator, which is inherited by DominantResourceCalculator, DefaultResourceCalculator.

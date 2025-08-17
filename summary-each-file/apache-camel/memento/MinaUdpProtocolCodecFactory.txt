@@ -1,0 +1,1 @@
+MinaUdpProtocolCodecFactory acts as a caretaker for memento Context, which gets IoSession parameter of session Encoder, which gets IoSession parameter of session Decoder, which tos Object parameter of message Io Buffer.

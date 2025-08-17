@@ -1,0 +1,2 @@
+AssistAnnotation acts as a caretaker for memento E, which gets IProgressMonitor parameter of monitor Element Info.
+AssistAnnotation acts as a caretaker for memento Map, which gets IProgressMonitor parameter of monitor Element Info.

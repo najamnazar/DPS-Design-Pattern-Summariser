@@ -1,0 +1,1 @@
+ElasticsearchScrollSearchIT acts as a caretaker for memento Context, which tests Scroll Search, which tests Scroll And Split Search, which gets String parameter of indexName Scroll Search Request Builder, which creates Route Builder.

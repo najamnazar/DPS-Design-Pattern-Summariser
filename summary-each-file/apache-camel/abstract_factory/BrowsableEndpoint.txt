@@ -1,0 +1,15 @@
+BrowsableEndpoint acts as a product for EndpointStrategy, which overrides.
+BrowsableEndpoint acts as a product for ExtendedCamelContext, which overrides.
+BrowsableEndpoint acts as a product for CamelEvent, which overrides.
+BrowsableEndpoint acts as a product for Exchange, which overrides.
+BrowsableEndpoint acts as a product for EndpointConsumerResolver, which overrides.
+BrowsableEndpoint acts as a product for FluentProducerTemplate, which overrides.
+BrowsableEndpoint acts as a product for EndpointProducerResolver, which overrides.
+BrowsableEndpoint acts as a product for DelegateEndpoint, which overrides.
+BrowsableEndpoint acts as a product for InterceptEndpointFactory, which overrides.
+BrowsableEndpoint acts as a product for InterceptSendToEndpoint, which overrides.
+BrowsableEndpoint acts as a product for CamelCronService, which overrides.
+BrowsableEndpoint acts as a product for EndpointAware, which overrides.
+BrowsableEndpoint acts as a product for Route, which overrides.
+BrowsableEndpoint acts as a product for CamelContext, which overrides.
+BrowsableEndpoint acts as a product for ProducerTemplate, which overrides.

@@ -1,0 +1,2 @@
+DummySharedResource acts as an observer for publisher DummyHAService, which is inherited by, which takes DummyHAService parameter of newHolder, which releases DummyHAService parameter of oldHolder, which asserts No Violations.
+DummySharedResource acts as a publisher for observer DummyHAService, which is inherited by, which takes DummyHAService parameter of newHolder, which releases DummyHAService parameter of oldHolder, which asserts No Violations.

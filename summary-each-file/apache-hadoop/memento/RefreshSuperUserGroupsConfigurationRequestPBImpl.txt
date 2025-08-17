@@ -1,0 +1,3 @@
+RefreshSuperUserGroupsConfigurationRequestPBImpl acts as a memento, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance.
+RefreshSuperUserGroupsConfigurationRequestPBImpl acts as a caretaker for memento RefreshSuperUserGroupsConfigurationRequest, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance.
+RefreshSuperUserGroupsConfigurationRequestPBImpl acts as an originator for memento RefreshSuperUserGroupsConfigurationRequest.

@@ -1,0 +1,2 @@
+DataJoinReducerBase acts as a factory method for ResetableIterator, which is inherited by DataJoinReducerBase.
+DataJoinReducerBase acts as a factory for DataJoinReducerBase, which overrides.

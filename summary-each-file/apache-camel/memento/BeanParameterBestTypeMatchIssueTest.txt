@@ -1,0 +1,2 @@
+BeanParameterBestTypeMatchIssueTest acts as a caretaker for memento Context, which tests No Param, which test1Params, which test2Params String, which test2Params Class B, which test2Params Bool Body, which creates Route Builder.
+BeanParameterBestTypeMatchIssueTest acts as a caretaker for memento Producer, which tests No Param, which test1Params, which test2Params String, which test2Params Class B, which test2Params Bool Body, which creates Route Builder.

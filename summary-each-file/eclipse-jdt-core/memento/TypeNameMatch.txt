@@ -1,0 +1,1 @@
+TypeNameMatch acts as an originator for memento String, which is inherited by, which gets a String Fully Qualified Name to, which gets a String Package Name to, which gets a String Simple Type Name to, which gets a String Type Container Name to, which gets a String Type Qualified Name to.

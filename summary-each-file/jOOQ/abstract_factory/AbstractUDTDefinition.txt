@@ -1,0 +1,1 @@
+AbstractUDTDefinition acts as a factory for UDTDefinition, which overrides getAttributes method of UDTDefinition, getAttribute method of UDTDefinition, getAttribute method of UDTDefinition, getRoutines method of UDTDefinition, isSynthetic method of UDTDefinition.

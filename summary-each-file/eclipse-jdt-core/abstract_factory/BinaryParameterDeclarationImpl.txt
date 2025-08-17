@@ -1,0 +1,1 @@
+BinaryParameterDeclarationImpl acts as a factory for ParameterDeclaration, which overrides getType method of ParameterDeclaration.

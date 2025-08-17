@@ -1,0 +1,1 @@
+ElementImpl acts as a factory for IElementInfo, which overrides getFileName method of IElementInfo.

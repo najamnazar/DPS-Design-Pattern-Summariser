@@ -1,0 +1,1 @@
+SimpleBean acts as a product for SimpleBeanFixture, which overrides.

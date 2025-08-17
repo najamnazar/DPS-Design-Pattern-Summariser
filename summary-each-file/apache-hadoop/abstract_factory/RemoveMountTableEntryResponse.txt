@@ -1,0 +1,1 @@
+RemoveMountTableEntryResponse acts as an abstract product for RemoveMountTableEntryResponse, which is inherited by RemoveMountTableEntryResponsePBImpl.

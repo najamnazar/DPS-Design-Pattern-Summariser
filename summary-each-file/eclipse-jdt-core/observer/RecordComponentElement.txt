@@ -1,0 +1,1 @@
+RecordComponentElement acts as an observer, which gets Enclosing Element, which gets Simple Name, which gets Accessor.

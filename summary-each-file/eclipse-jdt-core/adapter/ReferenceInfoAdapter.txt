@@ -1,0 +1,1 @@
+ReferenceInfoAdapter acts as an adaptee for adapter AbstractDOMBuilder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder, which adapts to ILineStartFinder.

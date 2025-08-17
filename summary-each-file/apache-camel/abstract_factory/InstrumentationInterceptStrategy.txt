@@ -1,0 +1,1 @@
+InstrumentationInterceptStrategy acts as a product for Route, which overrides createProcessor method of ManagementInterceptStrategy, createProcessor method of ManagementInterceptStrategy.

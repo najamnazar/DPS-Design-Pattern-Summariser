@@ -1,0 +1,3 @@
+RMCommunicator acts as a factory for TestJobHistoryEventHandler, which overrides.
+RMCommunicator acts as a factory for TestAMRMTokens, which overrides.
+RMCommunicator acts as a product for TestMRAppMaster, which overrides getLastHeartbeatTime method of RMHeartbeatHandler, runOnNextHeartbeat method of RMHeartbeatHandler.

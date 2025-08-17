@@ -1,0 +1,1 @@
+Trait acts as an abstract product for ModelineParser, which is inherited by DependencyTrait, PropertyTrait, NameTrait, EnvTrait.

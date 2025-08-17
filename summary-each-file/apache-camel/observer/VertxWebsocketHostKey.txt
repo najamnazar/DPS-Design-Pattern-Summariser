@@ -1,0 +1,1 @@
+VertxWebsocketHostKey acts as an observer for publisher VertxWebsocketComponent, which is inherited by, which gets Host, which gets Port, which equals Object parameter of o, which hashes Code, which tos String.

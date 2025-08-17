@@ -1,0 +1,1 @@
+NamedParameterExpander acts as a caretaker for memento C, which gets String parameter of sql Parsed Sql, which expands String parameter of sql, BindMarkersFactory parameter of bindMarkersFactory, BindParameterSource parameter of paramSource, which gets String parameter of sql Parameter Names.

@@ -1,0 +1,1 @@
+IrcMultiChannelRouteTest acts as a publisher for observer MockEndpoint, which tests Irc Messages, which creates Route Builder, which sends Messages, which sends Uri, which froms Uri.

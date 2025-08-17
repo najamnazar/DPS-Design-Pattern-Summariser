@@ -1,0 +1,1 @@
+LogAggregationReportPBImpl acts as an originator for memento LogAggregationStatus, which gets a LogAggregationStatus Log Aggregation Status to, which sets LogAggregationStatus parameter of logAggregationStatus Log Aggregation Status, which converts a LogAggregationStatus From Proto Format to, which converts LogAggregationStatus parameter of s To Proto Format.

@@ -1,0 +1,6 @@
+ContainerManagementProtocolPBClientImpl acts as an originator for memento SignalContainerResponse, which signals a SignalContainerResponse To Container to.
+ContainerManagementProtocolPBClientImpl acts as an originator for memento ResourceLocalizationResponse, which localizes ResourceLocalizationResponse.
+ContainerManagementProtocolPBClientImpl acts as an originator for memento CommitResponse, which commits a CommitResponse Last Re Initialization to.
+ContainerManagementProtocolPBClientImpl acts as an originator for memento ReInitializeContainerResponse, which res a ReInitializeContainerResponse Initialize Container to.
+ContainerManagementProtocolPBClientImpl acts as an originator for memento RollbackResponse, which rollbacks a RollbackResponse Last Re Initialization to.
+ContainerManagementProtocolPBClientImpl acts as an originator for memento RestartContainerResponse, which restarts a RestartContainerResponse Container to.

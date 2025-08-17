@@ -1,0 +1,1 @@
+BlockStorageMovementCommand acts as a publisher for observer Block, which is inherited by, which gets Block Pool Id, which gets Block Moving Tasks, which adds Block parameter of block Block, which gets Block, which gets Source, which gets Target, which gets Target Storage Type, which gets Source Storage Type, which tos String.

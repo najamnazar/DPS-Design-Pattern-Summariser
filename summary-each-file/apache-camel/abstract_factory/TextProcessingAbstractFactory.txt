@@ -1,0 +1,1 @@
+TextProcessingAbstractFactory acts as an abstract factory for WriteStrategy, SplitStrategy, LineBuilderStrategy, which is inherited by LineTerminationWriterAbstractFactory, AutoFormattedWriterAbstractFactory.

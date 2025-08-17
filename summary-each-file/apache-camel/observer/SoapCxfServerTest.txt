@@ -1,0 +1,7 @@
+SoapCxfServerTest acts as a publisher for observer TemplatedRoutesDefinition, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as an observer, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as a publisher for observer RouteBuilderLifecycleStrategy, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as a publisher for observer Resource, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as a publisher for observer RoutesDefinition, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as a publisher for observer RestsDefinition, which tests Success, which tests Fault, which configures.
+SoapCxfServerTest acts as a publisher for observer RouteTemplatesDefinition, which tests Success, which tests Fault, which configures.

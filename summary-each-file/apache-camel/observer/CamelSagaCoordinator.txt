@@ -1,0 +1,1 @@
+CamelSagaCoordinator acts as a publisher for observer CamelSagaStep, which is inherited by InMemorySagaCoordinator, which begins Exchange parameter of exchange, CamelSagaStep parameter of step Step, which compensates, which completes.

@@ -1,0 +1,3 @@
+ContainerManager acts as an abstract product for BaseAMRMProxyTest, which is inherited by ContainerManagerImpl.
+ContainerManager acts as a factory method for ContainersMonitor, which is inherited by ContainerManagerImpl, MiniYARNCluster, ContainerManager.
+ContainerManager acts as a factory for ContainerManager, which overrides.

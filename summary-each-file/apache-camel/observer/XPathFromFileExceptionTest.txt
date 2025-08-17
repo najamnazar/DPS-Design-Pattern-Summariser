@@ -1,0 +1,2 @@
+XPathFromFileExceptionTest acts as a publisher for observer CamelContext, which tests XPath From File Exception Ok, which tests XPath From File Exception Fail, which creates Route Builder.
+XPathFromFileExceptionTest acts as a publisher for observer Service, which tests XPath From File Exception Ok, which tests XPath From File Exception Fail, which creates Route Builder.

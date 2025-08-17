@@ -1,0 +1,1 @@
+AutoConfiguration acts as an observer for publisher PulsarComponent, which is inherited by, which ensures String parameter of path Name Space And Tenant, which ensures String parameter of tenant, String parameter of namespace Name Space, which ensures String parameter of tenant Tenant, which is Auto Configurable.

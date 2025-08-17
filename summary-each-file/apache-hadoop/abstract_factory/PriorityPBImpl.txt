@@ -1,0 +1,9 @@
+PriorityPBImpl acts as a product for SchedulableEntity, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for Queue, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for Container, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for RMApp, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for CapacitySchedulerContext, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for JobReport, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for CSQueue, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for YarnScheduler, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.
+PriorityPBImpl acts as a product for RMContainer, which overrides getPriority method of Priority, setPriority method of Priority, toString method of Priority.

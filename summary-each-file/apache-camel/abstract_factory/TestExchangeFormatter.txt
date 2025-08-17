@@ -1,0 +1,1 @@
+TestExchangeFormatter acts as a product for Tracer, which overrides format method of ExchangeFormatter.

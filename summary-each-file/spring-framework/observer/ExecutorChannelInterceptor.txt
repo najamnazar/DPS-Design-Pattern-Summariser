@@ -1,0 +1,1 @@
+ExecutorChannelInterceptor acts as an observer, which befores Message<?> parameter of message, MessageChannel parameter of channel, MessageHandler parameter of handler Handle, which afters Message<?> parameter of message, MessageChannel parameter of channel, MessageHandler parameter of handler, @Nullable parameter of Exception Message Handled.

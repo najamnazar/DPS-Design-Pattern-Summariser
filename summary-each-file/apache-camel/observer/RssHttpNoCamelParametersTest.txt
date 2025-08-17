@@ -1,0 +1,5 @@
+RssHttpNoCamelParametersTest acts as a publisher for observer CamelContext, which tests Rss Http No Camel Parameters, which tests Rss Http No Camel Parameters And One Feed Parameter.
+RssHttpNoCamelParametersTest acts as a publisher for observer Service, which tests Rss Http No Camel Parameters, which tests Rss Http No Camel Parameters And One Feed Parameter.
+RssHttpNoCamelParametersTest acts as a publisher for observer FluentProducerTemplate, which tests Rss Http No Camel Parameters, which tests Rss Http No Camel Parameters And One Feed Parameter.
+RssHttpNoCamelParametersTest acts as a publisher for observer ConsumerTemplate, which tests Rss Http No Camel Parameters, which tests Rss Http No Camel Parameters And One Feed Parameter.
+RssHttpNoCamelParametersTest acts as a publisher for observer ProducerTemplate, which tests Rss Http No Camel Parameters, which tests Rss Http No Camel Parameters And One Feed Parameter.

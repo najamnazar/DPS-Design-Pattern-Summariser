@@ -1,0 +1,2 @@
+ModuleDeclaration acts as a factory for ModuleDeclaration, which overrides.
+ModuleDeclaration acts as a factory method for IModuleBinding, which is inherited by ModuleDeclaration, ITypeBinding, ModuleDeclaration, ModuleDeclaration, BindingResolver, IPackageBinding.

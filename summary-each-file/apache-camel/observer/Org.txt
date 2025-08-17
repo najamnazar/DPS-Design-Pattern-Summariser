@@ -1,0 +1,1 @@
+Org acts as an observer for publisher ContactMessage, which is inherited by, which gets Company, which sets String parameter of company Company, which gets Department, which sets String parameter of department Department, which gets Title, which sets String parameter of title Title.

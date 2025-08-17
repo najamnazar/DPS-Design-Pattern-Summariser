@@ -1,0 +1,1 @@
+CustomEnum acts as an observer for publisher GenericBean, which is inherited by, which tos String.

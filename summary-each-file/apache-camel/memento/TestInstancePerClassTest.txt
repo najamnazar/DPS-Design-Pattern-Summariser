@@ -1,0 +1,1 @@
+TestInstancePerClassTest acts as a caretaker for memento Producer, which resets, which shoulds Be Launched First, which shoulds Be Launched Second With Different Result, which shoulds Support Nested Test Launched First, which shoulds Support Nested Test Launched Second With Different Result.

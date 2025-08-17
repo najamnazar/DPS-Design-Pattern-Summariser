@@ -1,0 +1,1 @@
+EtagChecksum acts as an observer for publisher TestEtagChecksum, which is inherited by, which gets Algorithm Name, which gets Length, which gets Bytes, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which tos String.

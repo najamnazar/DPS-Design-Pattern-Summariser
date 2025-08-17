@@ -1,0 +1,1 @@
+AtomGoodBlogsTest acts as a caretaker for memento Context, which creates Camel Context, which creates My Routes, which tests Filtering, which is Exchange parameter of exchange Good Blog.

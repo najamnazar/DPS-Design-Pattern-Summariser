@@ -1,0 +1,2 @@
+AssistOptions acts as a caretaker for memento S, which sets Map<String, parameter of String>, which splits char parameter of divider, char[] parameter of arrayToSplit And Trim On.
+AssistOptions acts as a caretaker for memento String, which sets Map<String, parameter of String>, which splits char parameter of divider, char[] parameter of arrayToSplit And Trim On.

@@ -1,0 +1,3 @@
+DataInputStream acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+DataInputStream acts as an adaptee for adapter EditLogBackupInputStream, which adapts to EditLogInputStream.
+DataInputStream acts as an adaptee for adapter EditLogFileInputStream, which adapts to EditLogInputStream.

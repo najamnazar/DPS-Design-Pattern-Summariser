@@ -1,0 +1,1 @@
+HsView acts as a target for adapter HsTaskPage, which adapts to HsView, which adapts to HsView, which adapts to HsView, which adapts to HsView, which adapts to HsView, which adapts to HsView, which adapts to HsView.

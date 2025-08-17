@@ -1,0 +1,1 @@
+ILineNumberAttribute acts as a memento, which is inherited by LineNumberAttribute, which gets Line Number Table, which gets Line Number Table.

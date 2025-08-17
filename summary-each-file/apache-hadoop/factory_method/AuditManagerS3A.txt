@@ -1,0 +1,2 @@
+AuditManagerS3A acts as an abstract product for AuditIntegration, which is inherited by ActiveAuditManagerS3A, NoopAuditManagerS3A.
+AuditManagerS3A acts as a factory for ActiveAuditManagerS3A, which overrides.

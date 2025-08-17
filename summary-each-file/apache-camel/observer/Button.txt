@@ -1,0 +1,1 @@
+Button acts as a publisher for observer Reply, which is inherited by, which gets Type, which sets String parameter of type Type, which gets Reply, which sets Reply parameter of reply Reply.

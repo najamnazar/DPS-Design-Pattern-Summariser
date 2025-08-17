@@ -1,0 +1,1 @@
+PackageDeclarationLocator acts as a caretaker for memento S, which matches Container, which tos String.

@@ -1,0 +1,2 @@
+MulticastDslTest acts as a publisher for observer Service, which tests Multicast Dsl, which creates Route Builder, which adds int parameter of num.
+MulticastDslTest acts as a publisher for observer CamelContext, which tests Multicast Dsl, which creates Route Builder, which adds int parameter of num.

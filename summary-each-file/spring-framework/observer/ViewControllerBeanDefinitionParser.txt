@@ -1,0 +1,1 @@
+ViewControllerBeanDefinitionParser acts as an observer, which parses Element parameter of element, ParserContext parameter of parserContext, which registers ParserContext parameter of context, @Nullable parameter of Object Handler Mapping, which gets Element parameter of element, @Nullable parameter of HttpStatus, @Nullable parameter of Object Redirect View.

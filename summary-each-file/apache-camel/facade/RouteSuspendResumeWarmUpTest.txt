@@ -1,0 +1,1 @@
+RouteSuspendResumeWarmUpTest acts as a facade for subsystem MyService, which testRouteSuspendResumeWarmUpTest calls getState method of MyService.

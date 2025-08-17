@@ -1,0 +1,2 @@
+ClientInitializerFactory acts as an observer for publisher NettyConfiguration, NettyHttpConfiguration, which is inherited by HttpClientInitializerFactory, DefaultClientInitializerFactory, which creates NettyProducer parameter of producer Pipeline Factory.
+ClientInitializerFactory acts as a publisher for observer NettyProducer, which is inherited by DefaultClientInitializerFactory, which creates NettyProducer parameter of producer Pipeline Factory.

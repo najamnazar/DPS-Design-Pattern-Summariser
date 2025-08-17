@@ -1,0 +1,1 @@
+HdfsInputStreamTest acts as a caretaker for memento Configuration, which sets Up, which creates Input Stream For Local Normal File, which creates Input Stream For Missing Normal File.

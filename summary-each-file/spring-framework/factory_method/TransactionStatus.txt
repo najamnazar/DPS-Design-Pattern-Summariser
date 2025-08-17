@@ -1,0 +1,1 @@
+TransactionStatus acts as an abstract product for PlatformTransactionManagerFacade, which is inherited by AbstractTransactionStatus.

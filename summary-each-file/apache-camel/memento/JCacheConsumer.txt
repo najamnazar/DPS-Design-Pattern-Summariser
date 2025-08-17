@@ -1,0 +1,2 @@
+JCacheConsumer acts as a caretaker for memento Configuration, which does Start, which does Stop, which gets JCache Endpoint, which gets Cache, which creates Entry Listener Configuration.
+JCacheConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which gets JCache Endpoint, which gets Cache, which creates Entry Listener Configuration.

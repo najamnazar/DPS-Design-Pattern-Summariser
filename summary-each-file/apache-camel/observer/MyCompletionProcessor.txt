@@ -1,0 +1,1 @@
+MyCompletionProcessor acts as an observer, which gets Aggregation Count, which processes Exchange parameter of exchange, which resets.

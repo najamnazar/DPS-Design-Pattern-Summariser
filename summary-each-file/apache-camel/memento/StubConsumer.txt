@@ -1,0 +1,2 @@
+StubConsumer acts as a memento.
+StubConsumer acts as a caretaker for memento Context.

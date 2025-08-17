@@ -1,0 +1,1 @@
+JobHistoryEvent acts as an adaptee for adapter TestJobHistoryEventHandler, which adapts to JobHistoryEventHandler, which adapts to JobHistoryEventHandler.

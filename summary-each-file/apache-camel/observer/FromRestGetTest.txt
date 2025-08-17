@@ -1,0 +1,2 @@
+FromRestGetTest acts as a publisher for observer CamelContext, which creates Registry, which gets Expected Number Of Routes, which tests From Rest Model, which creates Route Builder.
+FromRestGetTest acts as a publisher for observer Service, which creates Registry, which gets Expected Number Of Routes, which tests From Rest Model, which creates Route Builder.

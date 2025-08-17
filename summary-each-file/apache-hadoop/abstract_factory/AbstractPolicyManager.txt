@@ -1,0 +1,1 @@
+AbstractPolicyManager acts as a factory for FederationPolicyManager, which overrides serializeConf method of FederationPolicyManager, getQueue method of FederationPolicyManager, setQueue method of FederationPolicyManager.

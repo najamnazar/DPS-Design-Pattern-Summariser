@@ -1,0 +1,1 @@
+SimulatedDataNodes acts as a publisher for observer Configuration, which prints String parameter of err Usage Exit, which mains String[] parameter of args, which runs String[] parameter of args.

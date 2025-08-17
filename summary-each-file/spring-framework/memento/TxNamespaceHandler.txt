@@ -1,0 +1,1 @@
+TxNamespaceHandler acts as a caretaker for memento B, which gets Element parameter of element Transaction Manager Name, which inits.

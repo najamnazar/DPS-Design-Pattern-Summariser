@@ -1,0 +1,2 @@
+AddOnGatewayEndpointConfiguration acts as a publisher for observer BraintreeApiName.
+AddOnGatewayEndpointConfiguration acts as an observer.

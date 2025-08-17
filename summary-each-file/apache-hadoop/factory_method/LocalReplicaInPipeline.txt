@@ -1,0 +1,1 @@
+LocalReplicaInPipeline acts as a product for FsDatasetSpi, which overrides releaseReplicaInfoBytesReserved method of ReplicaInPipeline, getLastChecksumAndDataLen method of ReplicaInPipeline, waitForMinLength method of ReplicaInPipeline, interruptThread method of ReplicaInPipeline, createRestartMetaStream method of ReplicaInPipeline.

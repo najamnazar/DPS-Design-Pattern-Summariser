@@ -1,0 +1,1 @@
+Jt400MsgQueueConsumer acts as an adapter, which adapts getEndpoint method of Jt400MsgQueueService to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

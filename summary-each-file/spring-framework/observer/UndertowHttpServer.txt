@@ -1,0 +1,1 @@
+UndertowHttpServer acts as a publisher for observer HttpHandler, which inits Server, which inits Http Handler Adapter, which starts Internal, which stops Internal, which resets Internal.

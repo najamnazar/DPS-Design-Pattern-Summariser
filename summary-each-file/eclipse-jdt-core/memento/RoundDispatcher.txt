@@ -1,0 +1,5 @@
+RoundDispatcher acts as a caretaker for memento S, which rounds, which handles ProcessorInfo parameter of pi Processor.
+RoundDispatcher acts as a caretaker for memento TypeElement, which rounds, which handles ProcessorInfo parameter of pi Processor.
+RoundDispatcher acts as a caretaker for memento List, which rounds, which handles ProcessorInfo parameter of pi Processor.
+RoundDispatcher acts as a caretaker for memento E, which rounds, which handles ProcessorInfo parameter of pi Processor.
+RoundDispatcher acts as a caretaker for memento R, which rounds, which handles ProcessorInfo parameter of pi Processor.

@@ -1,0 +1,1 @@
+SCMAdminProtocolPBClientImpl acts as an observer, which closes, which runs RunSharedCacheCleanerTaskRequest parameter of request Cleaner Task.

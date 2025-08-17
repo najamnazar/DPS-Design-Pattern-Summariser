@@ -1,0 +1,1 @@
+AbstractDelegationTokenSelector acts as a publisher for observer Text, which is inherited by, which selects Text parameter of service, Collection<Token<? parameter of extends Token.

@@ -1,0 +1,1 @@
+PrefixSuffixGeneratorStrategy acts as a factory method for GeneratorStrategy, which is inherited by AbstractClassGenerator, AbstractGenerator, AbstractGenerator.

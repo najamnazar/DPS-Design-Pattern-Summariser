@@ -1,0 +1,3 @@
+BeanScope acts as an adaptee for adapter AbstractBeanProcessor.
+BeanScope acts as an adaptee for adapter BeanEndpoint.
+BeanScope acts as an adaptee for adapter BeanLanguage.

@@ -1,0 +1,1 @@
+EKS2ProducerSpringTest acts as a caretaker for memento Context, which ekses List Clusters Test, which ekses List Clusters Pojo Test, which ekses Create Cluster Test, which ekses Describe Cluster Test, which ekses Delete Cluster Test, which creates Application Context.

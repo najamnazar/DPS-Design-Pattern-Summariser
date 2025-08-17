@@ -1,0 +1,2 @@
+InterceptSendToRecipientListTest acts as a publisher for observer Service, which tests Intercept Send To Recipient List, which creates Route Builder.
+InterceptSendToRecipientListTest acts as a publisher for observer CamelContext, which tests Intercept Send To Recipient List, which creates Route Builder.

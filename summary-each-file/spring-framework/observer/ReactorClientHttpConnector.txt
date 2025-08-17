@@ -1,0 +1,1 @@
+ReactorClientHttpConnector acts as an observer, which inits ReactorResourceFactory parameter of resourceFactory Http Client, which connects HttpMethod parameter of method, URI parameter of uri, Function<? parameter of super, which adapts HttpMethod parameter of method, URI parameter of uri, HttpClientRequest parameter of request, NettyOutbound parameter of nettyOutbound Request.

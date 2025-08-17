@@ -1,0 +1,1 @@
+IPackageVisibilityInfo acts as an adaptee for adapter ModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute.

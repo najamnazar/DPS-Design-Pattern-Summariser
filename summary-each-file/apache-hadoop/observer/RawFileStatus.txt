@@ -1,0 +1,2 @@
+RawFileStatus acts as an observer, which checksums, which hashes Code, which equals Object parameter of o.
+RawFileStatus acts as a publisher for observer FsPermission, which checksums, which hashes Code, which equals Object parameter of o.

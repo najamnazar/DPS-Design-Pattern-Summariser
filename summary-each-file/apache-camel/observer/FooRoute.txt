@@ -1,0 +1,7 @@
+FooRoute acts as a publisher for observer Resource, which configures.
+FooRoute acts as a publisher for observer RoutesDefinition, which configures.
+FooRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+FooRoute acts as an observer, which configures.
+FooRoute acts as a publisher for observer RestsDefinition, which configures.
+FooRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+FooRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

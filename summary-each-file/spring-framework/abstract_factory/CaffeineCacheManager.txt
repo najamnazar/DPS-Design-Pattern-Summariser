@@ -1,0 +1,2 @@
+CaffeineCacheManager acts as a product for CachingConfigurer, which overrides getCacheNames method of CacheManager, getCache method of CacheManager.
+CaffeineCacheManager acts as a factory for CacheManager, which overrides getCacheNames method of CacheManager, getCache method of CacheManager.

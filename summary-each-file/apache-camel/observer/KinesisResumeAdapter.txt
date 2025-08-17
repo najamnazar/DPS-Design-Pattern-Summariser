@@ -1,0 +1,1 @@
+KinesisResumeAdapter acts as an observer, which sets GetShardIteratorRequest.Builder parameter of builder Request Builder, which sets String parameter of streamName Stream Name.

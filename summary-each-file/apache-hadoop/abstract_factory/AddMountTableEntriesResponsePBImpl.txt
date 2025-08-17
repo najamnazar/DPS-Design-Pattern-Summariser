@@ -1,0 +1,1 @@
+AddMountTableEntriesResponsePBImpl acts as a product for MountTableManager, which overrides getStatus method of AddMountTableEntriesResponse, getFailedRecordsKeys method of AddMountTableEntriesResponse, setStatus method of AddMountTableEntriesResponse, setFailedRecordsKeys method of AddMountTableEntriesResponse.

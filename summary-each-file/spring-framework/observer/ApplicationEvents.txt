@@ -1,0 +1,1 @@
+ApplicationEvents acts as an observer for publisher JUnitJupiterApplicationEventsIntegrationTests, which is inherited by DefaultApplicationEvents, which streams, which streams Class<T> parameter of type, which clears.

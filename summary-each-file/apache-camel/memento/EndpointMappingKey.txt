@@ -1,0 +1,1 @@
+EndpointMappingKey acts as a caretaker for memento XPath, which gets Type, which gets Lookup Key, which gets Expression, which hashes Code, which equals Object parameter of obj.

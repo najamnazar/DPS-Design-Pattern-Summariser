@@ -1,0 +1,1 @@
+AptProblem acts as an observer, which gets Category ID, which gets Marker Type.

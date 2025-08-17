@@ -1,0 +1,1 @@
+ByteBufferPool acts as an abstract product for ErasureCodingTestHelper, which is inherited by ElasticByteBufferPool, TrackingByteBufferPool, VectorIOBufferPool.

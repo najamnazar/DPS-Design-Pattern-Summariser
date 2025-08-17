@@ -1,0 +1,1 @@
+InputStreamCache acts as a component for decorator StreamSourceCache, which overrides writeToStreamCache, copyStreamCache, inMemoryStreamCache, lengthStreamCache.

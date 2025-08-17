@@ -1,0 +1,2 @@
+NoErrorHandler acts as a product for AnnotationBasedProcessorFactory, which overrides processAsync method of AsyncProcessor.
+NoErrorHandler acts as a product for InternalProcessorFactory, which overrides processAsync method of AsyncProcessor.

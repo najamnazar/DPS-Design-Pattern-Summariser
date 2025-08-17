@@ -1,0 +1,3 @@
+AbstractDevConsole acts as a product for DevConsoleResolver, which overrides.
+AbstractDevConsole acts as a product for DevConsoleRegistry, which overrides.
+AbstractDevConsole acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

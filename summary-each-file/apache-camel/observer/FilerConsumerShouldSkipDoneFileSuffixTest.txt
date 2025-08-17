@@ -1,0 +1,2 @@
+FilerConsumerShouldSkipDoneFileSuffixTest acts as a publisher for observer CamelContext, which tests Done File, which creates Route Builder.
+FilerConsumerShouldSkipDoneFileSuffixTest acts as a publisher for observer Service, which tests Done File, which creates Route Builder.

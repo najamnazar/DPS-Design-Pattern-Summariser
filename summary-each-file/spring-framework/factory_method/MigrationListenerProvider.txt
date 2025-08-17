@@ -1,0 +1,2 @@
+MigrationListenerProvider acts as a factory method for MigrationListener, which is inherited by MigrationListenerProvider.
+MigrationListenerProvider acts as a factory for MigrationListenerProvider, which overrides.

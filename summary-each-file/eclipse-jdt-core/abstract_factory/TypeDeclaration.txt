@@ -1,0 +1,2 @@
+TypeDeclaration acts as a factory for ReferenceContext, which overrides.
+TypeDeclaration acts as an abstract product for TypeDeclaration, which is inherited by InterfaceDeclaration, CompletionOnAnnotationOfType, AnnotationTypeDeclaration, EnumConstant, ClassDeclaration, TypeDeclarationImpl, CodeSnippetTypeDeclaration, EnumDeclaration.

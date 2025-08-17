@@ -1,0 +1,1 @@
+StreamingApiIntegrationTest acts as a caretaker for memento Component, which tests Subscribe And Receive, which does Create Route Builder.

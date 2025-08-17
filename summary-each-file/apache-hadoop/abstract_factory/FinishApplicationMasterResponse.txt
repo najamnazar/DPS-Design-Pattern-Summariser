@@ -1,0 +1,1 @@
+FinishApplicationMasterResponse acts as an abstract product for FinishApplicationMasterResponse, which is inherited by FinishApplicationMasterResponsePBImpl.

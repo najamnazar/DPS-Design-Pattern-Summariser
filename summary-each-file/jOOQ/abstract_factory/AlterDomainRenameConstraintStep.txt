@@ -1,0 +1,2 @@
+AlterDomainRenameConstraintStep acts as an abstract factory for AlterDomainFinalStep, which is inherited by AlterDomainImpl.
+AlterDomainRenameConstraintStep acts as an abstract product for AlterDomainRenameConstraintStep, which is inherited by AlterDomainImpl, AlterDomainImpl, AlterDomainImpl, AlterDomainImpl, AlterDomainImpl, AlterDomainImpl.

@@ -1,0 +1,1 @@
+JavaElementInfo acts as a factory for IElementInfo, which overrides.

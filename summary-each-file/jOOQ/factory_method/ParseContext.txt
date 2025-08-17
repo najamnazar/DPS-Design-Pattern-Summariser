@@ -1,0 +1,5 @@
+ParseContext acts as a factory for Xmlpi, which overrides.
+ParseContext acts as an abstract product for ParseContext, which is inherited by ParserImpl.
+ParseContext acts as a factory for ConstraintImpl, which overrides.
+ParseContext acts as a factory method for ParseContext, which is inherited by ParseContext.
+ParseContext acts as a factory for ParseContext, which overrides.

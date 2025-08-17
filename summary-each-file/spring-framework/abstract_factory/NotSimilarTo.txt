@@ -1,0 +1,2 @@
+NotSimilarTo acts as a factory for LikeEscapeStep, which overrides.
+NotSimilarTo acts as a product for Field, which overrides.

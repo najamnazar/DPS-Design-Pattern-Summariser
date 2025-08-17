@@ -1,0 +1,1 @@
+ManagedTopicLoadBalancerMBean acts as a memento, which gets Size.

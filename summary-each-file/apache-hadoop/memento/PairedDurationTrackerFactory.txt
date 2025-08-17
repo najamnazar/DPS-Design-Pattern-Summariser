@@ -1,0 +1,3 @@
+PairedDurationTrackerFactory acts as a caretaker for memento Duration, which tracks final parameter of String, final parameter of long Duration, which fails, which closes, which ases Duration, which tos String.
+PairedDurationTrackerFactory acts as a caretaker for memento DurationTracker, which tracks final parameter of String, final parameter of long Duration, which fails, which closes, which ases Duration, which tos String.
+PairedDurationTrackerFactory acts as an originator for memento DurationTracker, which tracks a DurationTracker Duration to.

@@ -1,0 +1,13 @@
+IPackageFragment acts as an abstract factory for ICompilationUnit, IClassFile, IModularClassFile, which is inherited by PackageFragment.
+IPackageFragment acts as a product for IBuffer, which overrides.
+IPackageFragment acts as a product for IWorkingCopy, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as a product for IBinding, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as a product for IDOMNode, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as a product for IJavaElementDelta, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as an abstract product for IPackageFragment, which is inherited by PackageFragment, PackageFragment.
+IPackageFragment acts as an abstract product for IPackageFragment, which is inherited by PackageFragment.
+IPackageFragment acts as a product for IClassFile, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as a product for ITypeRoot, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as a product for IJavaProject, which overrides getElementName method of IJavaElement.
+IPackageFragment acts as a product for IJavaElement, which overrides.
+IPackageFragment acts as a product for IJavaElement, which overrides getElementName method of IJavaElement.

@@ -1,0 +1,1 @@
+ITestAbfsManifestCommitProtocol acts as an adapter, which adapts to TestManifestCommitProtocol, which adapts to TestManifestCommitProtocol, which adapts to TestManifestCommitProtocol, which adapts to TestManifestCommitProtocol.

@@ -1,0 +1,2 @@
+SourceModifier acts as a caretaker for memento S, which copies, which gets String parameter of source Modifications.
+SourceModifier acts as a caretaker for memento String, which copies, which gets String parameter of source Modifications.

@@ -1,0 +1,2 @@
+ContainerReportPBImpl acts as an originator for memento ExecutionType, which gets an ExecutionType Execution Type to, which sets ExecutionType parameter of executionType Execution Type.
+ContainerReportPBImpl acts as an originator for memento ContainerState, which gets a ContainerState Container State to, which sets ContainerState parameter of containerState Container State, which converts ContainerState parameter of containerState To Proto Format, which converts a ContainerState From Proto Format to.

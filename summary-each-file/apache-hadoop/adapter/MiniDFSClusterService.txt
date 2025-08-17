@@ -1,0 +1,2 @@
+MiniDFSClusterService acts as an adapter, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+MiniDFSClusterService acts as an adaptee for adapter AbstractYarnClusterITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest, which adapts to AbstractCommitITest.

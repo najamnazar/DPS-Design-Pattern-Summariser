@@ -1,0 +1,2 @@
+MirrorUtilTestCodeExample acts as a caretaker for memento S.
+MirrorUtilTestCodeExample acts as a caretaker for memento String.

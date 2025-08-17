@@ -1,0 +1,2 @@
+S acts as an originator for memento String, which outs String, which ins String.
+S acts as a memento, which ins, which ins.

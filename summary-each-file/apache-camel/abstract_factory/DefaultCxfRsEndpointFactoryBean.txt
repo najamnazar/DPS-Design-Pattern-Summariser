@@ -1,0 +1,1 @@
+DefaultCxfRsEndpointFactoryBean acts as a factory for CxfRsEndpointFactoryBean, which overrides createEndpoint method of CxfRsEndpointFactoryBean.

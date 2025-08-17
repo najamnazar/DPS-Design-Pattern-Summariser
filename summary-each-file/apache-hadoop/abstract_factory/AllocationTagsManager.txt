@@ -1,0 +1,1 @@
+AllocationTagsManager acts as an abstract product for AllocationTagsManager, which is inherited by LocalAllocationTagsManager.

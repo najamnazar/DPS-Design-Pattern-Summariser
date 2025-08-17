@@ -1,0 +1,4 @@
+DataTypeException acts as a product for LoaderError, which overrides.
+DataTypeException acts as a product for ResultOrRows, which overrides.
+DataTypeException acts as a product for PersistenceExceptionTranslator, which overrides.
+DataTypeException acts as a product for SQLExceptionTranslator, which overrides.

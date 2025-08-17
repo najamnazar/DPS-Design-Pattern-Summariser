@@ -1,0 +1,8 @@
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by RequestDataValueProcessorWrapper, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by DefaultUserDestinationResolver, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by SimpleClientHttpRequestFactory, OkHttp3ClientHttpRequestFactory, Netty4ClientHttpRequestFactory, InterceptingAsyncClientHttpRequestFactory, HttpComponentsAsyncClientHttpRequestFactory, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as an element for visitor WebSocketConfigurer, which is inherited by, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by ContentNegotiationManager, MappingMediaTypeFileExtensionResolver, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by WebMvcConfigurerComposite, WebMvcConfigurerAdapter, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by CookieThemeResolver, which registers a Web Socket Handlers to.
+WebSocketConfigurer acts as a visitor for element WebSocketConfigurer, which is inherited by ServletWebSocketHandlerRegistry, which registers a Web Socket Handlers to.

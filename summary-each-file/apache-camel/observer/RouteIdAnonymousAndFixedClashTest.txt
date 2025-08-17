@@ -1,0 +1,2 @@
+RouteIdAnonymousAndFixedClashTest acts as a publisher for observer CamelContext, which tests Clash, which creates Camel Context, which creates Route Builder.
+RouteIdAnonymousAndFixedClashTest acts as a publisher for observer Service, which tests Clash, which creates Camel Context, which creates Route Builder.

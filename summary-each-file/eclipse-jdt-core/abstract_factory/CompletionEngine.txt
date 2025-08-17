@@ -1,0 +1,1 @@
+CompletionEngine acts as a product for ICompletionEngineProvider, which overrides complete method of ICompletionEngine.

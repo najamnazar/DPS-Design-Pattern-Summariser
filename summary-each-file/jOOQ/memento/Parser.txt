@@ -1,0 +1,2 @@
+Parser acts as an originator for memento Row, which is inherited by, which parses a Row Row to, which parses a Row Row to.
+Parser acts as an originator for memento Statement, which is inherited by, which parses a Statement Statement to, which parses a Statement Statement to.

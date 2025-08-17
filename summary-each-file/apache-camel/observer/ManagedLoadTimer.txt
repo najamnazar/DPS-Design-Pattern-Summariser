@@ -1,0 +1,2 @@
+ManagedLoadTimer acts as a publisher for observer CamelContext.
+ManagedLoadTimer acts as a publisher for observer TimerListener.

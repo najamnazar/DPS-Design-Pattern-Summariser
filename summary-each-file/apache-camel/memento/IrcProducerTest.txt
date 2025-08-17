@@ -1,0 +1,3 @@
+IrcProducerTest acts as a caretaker for memento Configuration, which does Setup, which does Stop Test, which does Start Test, which processes Test, which processes Test Exception.
+IrcProducerTest acts as a caretaker for memento Producer, which does Setup, which does Stop Test, which does Start Test, which processes Test, which processes Test Exception.
+IrcProducerTest acts as a caretaker for memento Component, which does Setup, which does Stop Test, which does Start Test, which processes Test, which processes Test Exception.

@@ -1,0 +1,2 @@
+RoleImpl acts as a publisher for observer Name, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+RoleImpl acts as an observer, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

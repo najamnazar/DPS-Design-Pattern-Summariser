@@ -1,0 +1,1 @@
+TestLazyPersistPolicy acts as a publisher for observer StorageType, which tests Policy Not Set By Default, which tests Policy Propagation, which tests Policy Persistence In Edit Log, which tests Policy Persistence In Fs Image.

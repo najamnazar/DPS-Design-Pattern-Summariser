@@ -1,0 +1,1 @@
+JMXMonitorTypeStringDiffersTest acts as a caretaker for memento Context, which differs, which builds From URI.

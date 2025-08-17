@@ -1,0 +1,1 @@
+RefreshSuperUserGroupsConfigurationResponse acts as an abstract product for RefreshSuperUserGroupsConfigurationResponse, which is inherited by RefreshSuperUserGroupsConfigurationResponsePBImpl.

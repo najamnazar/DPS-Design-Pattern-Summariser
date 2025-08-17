@@ -1,0 +1,1 @@
+GetAllResourceProfilesResponse acts as an abstract product for GetAllResourceProfilesResponse, which is inherited by GetAllResourceProfilesResponsePBImpl.

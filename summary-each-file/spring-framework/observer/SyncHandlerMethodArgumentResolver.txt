@@ -1,0 +1,1 @@
+SyncHandlerMethodArgumentResolver acts as an observer, which resolves MethodParameter parameter of parameter, Message<?> parameter of message Argument, which resolves MethodParameter parameter of parameter, Message<?> parameter of message Argument Value.

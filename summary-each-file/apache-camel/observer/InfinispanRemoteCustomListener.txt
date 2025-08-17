@@ -1,0 +1,1 @@
+InfinispanRemoteCustomListener acts as an observer for publisher InfinispanRemoteConfiguration, which is inherited by, which processes ClientEvent parameter of event Event, which gets ClientEvent parameter of event Key, which gets ClientEvent parameter of e Event Data.

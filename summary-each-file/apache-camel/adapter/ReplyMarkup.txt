@@ -1,0 +1,6 @@
+ReplyMarkup acts as an adaptee for adapter OutgoingPhotoMessage, which adapts to OutgoingMessage.
+ReplyMarkup acts as an adaptee for adapter OutgoingVideoMessage, which adapts to OutgoingMessage.
+ReplyMarkup acts as an adaptee for adapter SendVenueMessage, which adapts to OutgoingMessage.
+ReplyMarkup acts as an adaptee for adapter SendLocationMessage, which adapts to OutgoingMessage.
+ReplyMarkup acts as an adaptee for adapter OutgoingDocumentMessage, which adapts to OutgoingMessage.
+ReplyMarkup acts as an adaptee for adapter OutgoingAudioMessage, which adapts to OutgoingMessage.

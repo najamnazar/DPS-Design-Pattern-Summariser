@@ -1,0 +1,3 @@
+InfrastructureAdvisorAutoProxyCreator acts as a caretaker for memento A, which inits ConfigurableListableBeanFactory parameter of beanFactory Bean Factory, which is String parameter of beanName Eligible Advisor Bean.
+InfrastructureAdvisorAutoProxyCreator acts as a caretaker for memento C, which inits ConfigurableListableBeanFactory parameter of beanFactory Bean Factory, which is String parameter of beanName Eligible Advisor Bean.
+InfrastructureAdvisorAutoProxyCreator acts as a caretaker for memento B, which inits ConfigurableListableBeanFactory parameter of beanFactory Bean Factory, which is String parameter of beanName Eligible Advisor Bean.

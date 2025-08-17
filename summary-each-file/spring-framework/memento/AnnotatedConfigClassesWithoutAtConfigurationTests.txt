@@ -1,0 +1,2 @@
+AnnotatedConfigClassesWithoutAtConfigurationTests acts as a caretaker for memento A, which enigmas, which lifecycles Bean, which tests SPR_9051.
+AnnotatedConfigClassesWithoutAtConfigurationTests acts as a caretaker for memento B, which enigmas, which lifecycles Bean, which tests SPR_9051.

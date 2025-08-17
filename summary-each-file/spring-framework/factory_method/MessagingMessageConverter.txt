@@ -1,0 +1,1 @@
+MessagingMessageConverter acts as a product for AbstractAdaptableMessageListener, which overrides.

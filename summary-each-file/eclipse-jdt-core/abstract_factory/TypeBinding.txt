@@ -1,0 +1,2 @@
+TypeBinding acts as an abstract product for TypeBinding, which is inherited by BaseTypeBinding, ArrayBinding, ReferenceBinding, PolyTypeBinding.
+TypeBinding acts as an abstract product for TypeBinding, which is inherited by BaseTypeBinding, BaseTypeBinding, BaseTypeBinding, ArrayBinding, ArrayBinding, ArrayBinding, ReferenceBinding, ReferenceBinding, ReferenceBinding, PolyTypeBinding, PolyTypeBinding, PolyTypeBinding.

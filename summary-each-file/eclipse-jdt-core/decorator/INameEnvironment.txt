@@ -1,0 +1,1 @@
+INameEnvironment acts as a component for CodeSnippetEnvironment, which is inherited by InMemoryNameEnvironment, InMemoryNameEnvironment, InMemoryNameEnvironment, InMemoryNameEnvironment.

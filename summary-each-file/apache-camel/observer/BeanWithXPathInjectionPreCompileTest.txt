@@ -1,0 +1,2 @@
+BeanWithXPathInjectionPreCompileTest acts as a publisher for observer CamelContext, which tests Send Message, which tests Send Two Messages, which creates Registry, which creates Route Builder, which tos String, which reads String parameter of body, @XPath(value parameter of =.
+BeanWithXPathInjectionPreCompileTest acts as a publisher for observer Service, which tests Send Message, which tests Send Two Messages, which creates Registry, which creates Route Builder, which tos String, which reads String parameter of body, @XPath(value parameter of =.

@@ -1,0 +1,2 @@
+ManagedStepMBean acts as a memento, which is inherited by ManagedStep.
+ManagedStepMBean acts as a memento.

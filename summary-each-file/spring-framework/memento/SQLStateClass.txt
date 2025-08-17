@@ -1,0 +1,2 @@
+SQLStateClass acts as a caretaker for memento SQL, which classes Name, which froms String parameter of code Code, which froms int parameter of errorCode SQLite Vendor Code.
+SQLStateClass acts as a caretaker for memento C, which classes Name, which froms String parameter of code Code, which froms int parameter of errorCode SQLite Vendor Code.

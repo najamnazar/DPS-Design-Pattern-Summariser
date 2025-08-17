@@ -1,0 +1,2 @@
+ReduceStacksNeededDuringRoutingTest acts as a publisher for observer Service, which uses Jmx, which tests Reduce Stacks Needed, which creates Route Builder.
+ReduceStacksNeededDuringRoutingTest acts as a publisher for observer CamelContext, which uses Jmx, which tests Reduce Stacks Needed, which creates Route Builder.

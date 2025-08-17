@@ -1,0 +1,1 @@
+AMParams acts as an adaptee for adapter AMWebApp.

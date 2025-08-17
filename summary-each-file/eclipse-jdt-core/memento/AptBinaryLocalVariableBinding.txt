@@ -1,0 +1,2 @@
+AptBinaryLocalVariableBinding acts as a caretaker for memento Binding, which gets Annotations, which hashes Code, which equals Object parameter of obj.
+AptBinaryLocalVariableBinding acts as a caretaker for memento S, which gets Annotations, which hashes Code, which equals Object parameter of obj.

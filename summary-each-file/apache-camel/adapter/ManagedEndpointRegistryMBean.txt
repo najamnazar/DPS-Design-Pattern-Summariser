@@ -1,0 +1,1 @@
+ManagedEndpointRegistryMBean acts as an adaptee for adapter ManagedEndpointRegistry, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService, which adapts to ManagedService.

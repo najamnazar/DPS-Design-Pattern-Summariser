@@ -1,0 +1,1 @@
+UpdatedContainer acts as an originator for memento ContainerUpdateType, which is inherited by, which news ContainerUpdateType parameter of updateType, Container parameter of container Instance, which gets a ContainerUpdateType Update Type to, which sets ContainerUpdateType parameter of updateType Update Type.

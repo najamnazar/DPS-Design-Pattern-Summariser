@@ -1,0 +1,2 @@
+FilerTests acts as a caretaker for memento String, which tests Element With System Compiler, which _tests Element With Eclipse Compiler, which internals JavaCompiler parameter of compiler, boolean parameter of isSystemCommpiler Test Create Resource, which sets Up, which tears Down.
+FilerTests acts as a caretaker for memento S, which tests Element With System Compiler, which _tests Element With Eclipse Compiler, which internals JavaCompiler parameter of compiler, boolean parameter of isSystemCommpiler Test Create Resource, which sets Up, which tears Down.

@@ -1,0 +1,2 @@
+BeanExchangeAsReturnTypeNotAllowedTest acts as a caretaker for memento Producer, which tests Exchange As Return Type Not Allowed, which creates Registry, which creates Route Builder, which does Exchange parameter of exchange Something.
+BeanExchangeAsReturnTypeNotAllowedTest acts as a caretaker for memento Context, which tests Exchange As Return Type Not Allowed, which creates Registry, which creates Route Builder, which does Exchange parameter of exchange Something.

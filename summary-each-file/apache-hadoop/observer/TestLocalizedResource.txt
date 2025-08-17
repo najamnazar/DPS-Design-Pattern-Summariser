@@ -1,0 +1,2 @@
+TestLocalizedResource acts as a publisher for observer LocalizerEvent, which is inherited by, which gets long parameter of id Mock Container, which tests Notification, which creates Mock Resource, which matches LocalizerEvent parameter of le, which matches ContainerEvent parameter of evt.
+TestLocalizedResource acts as a publisher for observer ContainerEvent, which is inherited by, which gets long parameter of id Mock Container, which tests Notification, which creates Mock Resource, which matches LocalizerEvent parameter of le, which matches ContainerEvent parameter of evt.

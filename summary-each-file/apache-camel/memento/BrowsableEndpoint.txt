@@ -1,0 +1,1 @@
+BrowsableEndpoint acts as a memento, which is inherited by ActiveMQQueueEndpoint, BrowseEndpoint, MockEndpoint, SedaEndpoint, GenericFileEndpoint, JmsQueueEndpoint, which gets Exchanges.

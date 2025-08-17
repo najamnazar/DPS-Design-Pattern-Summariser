@@ -1,0 +1,1 @@
+Counter acts as an abstract product for ByteArrayManager, which is inherited by AbstractCounter, CounterPBImpl.

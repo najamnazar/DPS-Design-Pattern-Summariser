@@ -1,0 +1,2 @@
+MulticastNoOnPrepareTest acts as a publisher for observer CamelContext, which tests Multicast No On Prepare, which creates Route Builder.
+MulticastNoOnPrepareTest acts as a publisher for observer Service, which tests Multicast No On Prepare, which creates Route Builder.

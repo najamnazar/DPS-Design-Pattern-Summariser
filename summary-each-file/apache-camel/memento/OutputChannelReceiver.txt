@@ -1,0 +1,1 @@
+OutputChannelReceiver acts as a caretaker for memento Context, which receives MessageContext parameter of messageContext, which gets Message Context, which clears.

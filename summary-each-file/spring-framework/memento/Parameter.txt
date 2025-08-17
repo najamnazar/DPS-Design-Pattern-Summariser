@@ -1,0 +1,1 @@
+Parameter acts as a memento, which gets Param Mode, which gets Param Mode, which gets Param Mode.

@@ -1,0 +1,1 @@
+FsStatus acts as an observer, which gets Capacity, which gets Used, which gets Remaining, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields.

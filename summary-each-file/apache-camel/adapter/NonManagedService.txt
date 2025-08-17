@@ -1,0 +1,4 @@
+NonManagedService acts as an adaptee for adapter MicroProfileMetricsRoutePolicy.
+NonManagedService acts as an adaptee for adapter ScheduledRoutePolicy.
+NonManagedService acts as an adaptee for adapter MetricsRoutePolicy.
+NonManagedService acts as an adaptee for adapter MicrometerRoutePolicy.

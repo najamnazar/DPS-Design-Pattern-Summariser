@@ -1,0 +1,1 @@
+GpgCLI acts as a publisher for observer Configuration, which prints Help, which prints Usage, which builds StringBuilder parameter of builder Usage Msg, which runs String[] parameter of args.

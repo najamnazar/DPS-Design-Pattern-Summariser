@@ -1,0 +1,2 @@
+PropertiesComponentReloadPropertiesTest acts as a publisher for observer Service, which is Use Route Builder, which tests Reload Properties, which tests Reload Properties Pattern, which tests Reload Not Match, which creates Camel Context.
+PropertiesComponentReloadPropertiesTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Reload Properties, which tests Reload Properties Pattern, which tests Reload Not Match, which creates Camel Context.

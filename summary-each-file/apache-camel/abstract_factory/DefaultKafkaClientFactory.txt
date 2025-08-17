@@ -1,0 +1,1 @@
+DefaultKafkaClientFactory acts as a factory for KafkaClientFactory, which overrides getProducer method of KafkaClientFactory, getConsumer method of KafkaClientFactory, getBrokers method of KafkaClientFactory.

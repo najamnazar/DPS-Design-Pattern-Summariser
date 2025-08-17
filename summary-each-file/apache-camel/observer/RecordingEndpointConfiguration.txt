@@ -1,0 +1,2 @@
+RecordingEndpointConfiguration acts as an observer, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Path Sid, which sets String parameter of pathSid Path Sid.
+RecordingEndpointConfiguration acts as a publisher for observer TwilioApiName, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Path Sid, which sets String parameter of pathSid Path Sid.

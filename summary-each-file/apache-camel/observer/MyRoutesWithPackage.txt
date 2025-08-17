@@ -1,0 +1,7 @@
+MyRoutesWithPackage acts as a publisher for observer Resource, which configures.
+MyRoutesWithPackage acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRoutesWithPackage acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRoutesWithPackage acts as a publisher for observer RestsDefinition, which configures.
+MyRoutesWithPackage acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyRoutesWithPackage acts as an observer, which configures.
+MyRoutesWithPackage acts as a publisher for observer RoutesDefinition, which configures.

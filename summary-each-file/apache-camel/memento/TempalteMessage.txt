@@ -1,0 +1,2 @@
+TempalteMessage acts as a caretaker for memento Language, which gets Name, which sets String parameter of name Name, which gets Language, which sets Language parameter of language Language, which gets Components, which sets List<Component> parameter of components Components.
+TempalteMessage acts as a caretaker for memento Component, which gets Name, which sets String parameter of name Name, which gets Language, which sets Language parameter of language Language, which gets Components, which sets List<Component> parameter of components Components.

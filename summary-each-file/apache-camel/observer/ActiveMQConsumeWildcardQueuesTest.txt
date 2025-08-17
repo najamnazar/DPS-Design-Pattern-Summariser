@@ -1,0 +1,1 @@
+ActiveMQConsumeWildcardQueuesTest acts as a publisher for observer ArtemisService, which tests Wildcard, which gets Component Name, which creates Route Builder.

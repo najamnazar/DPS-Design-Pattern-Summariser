@@ -1,0 +1,1 @@
+AlterTableDropStep acts as an abstract product for AlterTableStep, which is inherited by AlterTableImpl.

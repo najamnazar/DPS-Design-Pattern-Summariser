@@ -1,0 +1,5 @@
+MailSplitAttachmentsTest acts as a publisher for observer CamelContext, which clears Mail Box, which setups, which tests Extract Attachments, which creates Route Builder.
+MailSplitAttachmentsTest acts as a publisher for observer ConsumerTemplate, which clears Mail Box, which setups, which tests Extract Attachments, which creates Route Builder.
+MailSplitAttachmentsTest acts as a publisher for observer ProducerTemplate, which clears Mail Box, which setups, which tests Extract Attachments, which creates Route Builder.
+MailSplitAttachmentsTest acts as a publisher for observer FluentProducerTemplate, which clears Mail Box, which setups, which tests Extract Attachments, which creates Route Builder.
+MailSplitAttachmentsTest acts as a publisher for observer Service, which clears Mail Box, which setups, which tests Extract Attachments, which creates Route Builder.

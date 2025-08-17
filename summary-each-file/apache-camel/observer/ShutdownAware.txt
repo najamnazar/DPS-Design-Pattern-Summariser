@@ -1,0 +1,1 @@
+ShutdownAware acts as a publisher for observer ShutdownRunningTask, which is inherited by ScheduledBatchPollingConsumer, which defers ShutdownRunningTask parameter of shutdownRunningTask Shutdown, which gets Pending Exchanges Size.

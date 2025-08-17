@@ -1,0 +1,1 @@
+PlatformTransactionManagerFacade acts as an observer, which gets @Nullable parameter of TransactionDefinition Transaction, which commits TransactionStatus parameter of status, which rollbacks TransactionStatus parameter of status.

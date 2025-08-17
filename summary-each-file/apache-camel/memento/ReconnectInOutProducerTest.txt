@@ -1,0 +1,1 @@
+ReconnectInOutProducerTest acts as a caretaker for memento Producer, which uses Jmx, which tests In Out Queue Producer, which creates Route Builder, which ons Message parameter of message Message.

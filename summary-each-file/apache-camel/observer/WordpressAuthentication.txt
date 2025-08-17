@@ -1,0 +1,1 @@
+WordpressAuthentication acts as an observer for publisher WordpressService, AbstractWordpressServiceAdapter, which is inherited by BaseWordpressAuthentication, which sets String parameter of pwd Password, which sets String parameter of user Username, which gets Username, which configures Object parameter of client Authentication.

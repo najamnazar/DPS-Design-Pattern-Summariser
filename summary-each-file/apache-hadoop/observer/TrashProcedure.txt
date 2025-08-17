@@ -1,0 +1,1 @@
+TrashProcedure acts as a publisher for observer BalanceJob, which executes, which moves To Trash, which gets Context, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields.

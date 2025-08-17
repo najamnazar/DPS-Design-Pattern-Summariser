@@ -1,0 +1,2 @@
+BeanToFileTest acts as a publisher for observer Service, which tests Bean To File, which creates Registry, which creates Route Builder, which does String parameter of input Something.
+BeanToFileTest acts as a publisher for observer CamelContext, which tests Bean To File, which creates Registry, which creates Route Builder, which does String parameter of input Something.

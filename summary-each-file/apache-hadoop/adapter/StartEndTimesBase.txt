@@ -1,0 +1,1 @@
+StartEndTimesBase acts as an adapter, which adapts to TaskRuntimeEstimator, which adapts to TaskRuntimeEstimator, which adapts to TaskRuntimeEstimator, which adapts to TaskRuntimeEstimator, which adapts to TaskRuntimeEstimator, which adapts to TaskRuntimeEstimator, which adapts to TaskRuntimeEstimator.

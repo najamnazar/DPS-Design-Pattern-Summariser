@@ -1,0 +1,1 @@
+JndiObjectTargetSource acts as an adapter, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator, which adapts to JndiObjectLocator.

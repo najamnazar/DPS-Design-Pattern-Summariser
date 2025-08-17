@@ -1,0 +1,1 @@
+ZipEntry acts as a memento, which gets Size.

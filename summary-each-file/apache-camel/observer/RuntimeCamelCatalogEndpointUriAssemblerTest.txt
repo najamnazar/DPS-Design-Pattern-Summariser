@@ -1,0 +1,2 @@
+RuntimeCamelCatalogEndpointUriAssemblerTest acts as a publisher for observer Service, which tests Lookup Assemble.
+RuntimeCamelCatalogEndpointUriAssemblerTest acts as a publisher for observer CamelContext, which tests Lookup Assemble.

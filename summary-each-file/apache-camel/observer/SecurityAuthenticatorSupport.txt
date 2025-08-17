@@ -1,0 +1,1 @@
+SecurityAuthenticatorSupport acts as an observer, which sets String parameter of name Name, which gets Name, which sets String parameter of roleClassNames Role Class Names, which is Principal parameter of principal Role Class, which gets Subject parameter of subject User Roles, which handles Callback[] parameter of callbacks.

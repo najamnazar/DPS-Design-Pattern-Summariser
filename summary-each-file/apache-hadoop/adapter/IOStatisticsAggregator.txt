@@ -1,0 +1,2 @@
+IOStatisticsAggregator acts as an adaptee for adapter RawLocalFileSystem, which adapts to FileSystem.
+IOStatisticsAggregator acts as an adaptee for adapter ObjectInputStream, which adapts to FSInputStream.

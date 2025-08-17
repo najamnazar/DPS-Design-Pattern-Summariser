@@ -1,0 +1,2 @@
+PropertiesComponentEndpointTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Properties Component Endpoint, which tests Properties Component Endpoints, which creates Camel Context.
+PropertiesComponentEndpointTest acts as a publisher for observer Service, which is Use Route Builder, which tests Properties Component Endpoint, which tests Properties Component Endpoints, which creates Camel Context.

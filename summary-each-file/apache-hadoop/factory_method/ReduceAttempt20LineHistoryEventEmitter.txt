@@ -1,0 +1,1 @@
+ReduceAttempt20LineHistoryEventEmitter acts as a factory method for HistoryEvent, which is inherited by TaskAttempt20LineEventEmitter, JobHistoryParser, JobHistoryParser, TaskAttempt20LineEventEmitter.

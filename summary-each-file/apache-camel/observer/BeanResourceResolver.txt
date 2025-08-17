@@ -1,0 +1,1 @@
+BeanResourceResolver acts as a publisher for observer CamelContext, which creates String parameter of location, String parameter of remaining Resource, which evaluates Exchange parameter of dummy, String parameter of expression.

@@ -1,0 +1,3 @@
+ProcessingResult acts as a caretaker for memento ProcessingResult, which is Break On Error Hit, which gets Partition Last Offset, which is Failed, which news Unprocessed.
+ProcessingResult acts as an originator for memento ProcessingResult, which news a ProcessingResult Unprocessed to.
+ProcessingResult acts as a memento, which news Unprocessed, which news Unprocessed, which news Unprocessed, which news Unprocessed.

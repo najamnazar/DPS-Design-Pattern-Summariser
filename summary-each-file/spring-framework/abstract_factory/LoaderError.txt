@@ -1,0 +1,1 @@
+LoaderError acts as an abstract factory for Query, DataAccessException, which is inherited by LoaderErrorImpl.

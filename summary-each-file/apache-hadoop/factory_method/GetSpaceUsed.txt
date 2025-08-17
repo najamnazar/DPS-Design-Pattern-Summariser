@@ -1,0 +1,2 @@
+GetSpaceUsed acts as a factory for FSCachingGetSpaceUsed, which overrides.
+GetSpaceUsed acts as an abstract product for FSCachingGetSpaceUsed, which is inherited by CachingGetSpaceUsed.

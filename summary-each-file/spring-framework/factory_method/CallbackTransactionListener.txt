@@ -1,0 +1,1 @@
+CallbackTransactionListener acts as a product for TransactionListenerProvider, which overrides beginStart method of TransactionListener, beginEnd method of TransactionListener, commitStart method of TransactionListener, commitEnd method of TransactionListener, rollbackStart method of TransactionListener, rollbackEnd method of TransactionListener.

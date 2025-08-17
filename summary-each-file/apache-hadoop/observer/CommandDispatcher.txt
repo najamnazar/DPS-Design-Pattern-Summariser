@@ -1,0 +1,2 @@
+CommandDispatcher acts as a publisher for observer Command, which is inherited by CombinerHandler, NativeCollectorOnlyHandler, which ons Command parameter of command, ReadWriteBuffer parameter of parameter Call.
+CommandDispatcher acts as an observer for publisher INativeHandler, NativeBatchProcessor, which is inherited by CombinerHandler, NativeCollectorOnlyHandler, which ons Command parameter of command, ReadWriteBuffer parameter of parameter Call.

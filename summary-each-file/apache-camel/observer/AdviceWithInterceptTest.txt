@@ -1,0 +1,2 @@
+AdviceWithInterceptTest acts as a publisher for observer Service, which tests Advice Intercept, which creates Route Builder.
+AdviceWithInterceptTest acts as a publisher for observer CamelContext, which tests Advice Intercept, which creates Route Builder.

@@ -1,0 +1,1 @@
+MultipartHttpServletRequest acts as an adaptee for adapter RequestPartServletServerHttpRequest, which adapts to ServletServerHttpRequest, which adapts to ServletServerHttpRequest, which adapts to ServletServerHttpRequest.

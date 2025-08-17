@@ -1,0 +1,1 @@
+BeanResolver acts as an abstract product for BeanResolver, which is inherited by BeanFactoryResolver.

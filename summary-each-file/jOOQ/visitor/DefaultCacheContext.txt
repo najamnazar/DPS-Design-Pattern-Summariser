@@ -1,0 +1,3 @@
+DefaultCacheContext acts as a visitor for element Configuration, which overrides, which caches a Type to.
+DefaultCacheContext acts as a visitor for element ExecuteContext, which overrides, which caches a Type to.
+DefaultCacheContext acts as a visitor for element CacheProvider, which overrides, which caches a Type to.

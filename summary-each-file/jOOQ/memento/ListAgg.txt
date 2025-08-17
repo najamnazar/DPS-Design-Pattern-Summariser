@@ -1,0 +1,1 @@
+ListAgg acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which accepts Context<?> parameter of ctx Function Name, which applies Field<?> parameter of arg, int parameter of i Filter, which accepts Context<?> parameter of ctx Group Concat, which accepts Context<?> parameter of ctx String Agg.

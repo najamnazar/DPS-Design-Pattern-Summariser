@@ -1,0 +1,2 @@
+FileProduceAppendTest acts as a publisher for observer CamelContext, which tests Append Text, which creates Route Builder.
+FileProduceAppendTest acts as a publisher for observer Service, which tests Append Text, which creates Route Builder.

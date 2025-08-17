@@ -1,0 +1,1 @@
+BindContext acts as a memento, which is inherited by AbstractBindContext.

@@ -1,0 +1,1 @@
+DefaultKafkaClientFactory acts as an observer, which gets Properties parameter of kafkaProps Producer, which gets Properties parameter of kafkaProps Consumer, which gets KafkaConfiguration parameter of configuration Brokers.

@@ -1,0 +1,1 @@
+QpidEmbeddedService acts as a factory for RabbitMQService, which overrides connectionProperties method of RabbitMQService, getHttpPort method of RabbitMQService, initialize method of RabbitMQService, shutdown method of RabbitMQService.

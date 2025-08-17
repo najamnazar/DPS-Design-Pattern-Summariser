@@ -1,0 +1,1 @@
+CxfRsConfigurer acts as an abstract product for SslCxfRsConfigurer, which is inherited by ChainedCxfRsConfigurer, SslCxfRsConfigurer, HostnameVerifierCxfRsConfigurer.

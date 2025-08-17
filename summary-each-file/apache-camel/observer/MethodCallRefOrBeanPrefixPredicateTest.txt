@@ -1,0 +1,2 @@
+MethodCallRefOrBeanPrefixPredicateTest acts as a publisher for observer CamelContext, which creates Registry, which tests Ref Or Bean Prefix, which creates Route Builder.
+MethodCallRefOrBeanPrefixPredicateTest acts as a publisher for observer Service, which creates Registry, which tests Ref Or Bean Prefix, which creates Route Builder.

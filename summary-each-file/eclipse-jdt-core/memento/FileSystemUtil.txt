@@ -1,0 +1,1 @@
+FileSystemUtil acts as an originator for memento String, which gets a String Contents Of IFile to, which gets a String Contents Of File to, which writes IFile parameter of file, String parameter of contents String To IFile, which writes File parameter of file, String parameter of contents String To File.

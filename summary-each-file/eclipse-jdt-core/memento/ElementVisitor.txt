@@ -1,0 +1,1 @@
+ElementVisitor acts as an originator for memento R, which visits R, which visits R, which visits a R Package to, which visits a R Type to, which visits a R Variable to, which visits a R Executable to, which visits a R Type Parameter to, which visits a R Unknown to, which visits a R Module to, which visits a R Record Component to.

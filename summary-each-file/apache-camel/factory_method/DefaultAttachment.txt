@@ -1,0 +1,1 @@
+DefaultAttachment acts as a product for AttachmentMessage, which overrides getDataHandler method of Attachment, getHeaderAsList method of Attachment, addHeader method of Attachment, setHeader method of Attachment, removeHeader method of Attachment, getHeaderNames method of Attachment.

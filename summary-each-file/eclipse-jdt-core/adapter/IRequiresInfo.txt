@@ -1,0 +1,2 @@
+IRequiresInfo acts as a target for adapter RequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo, which adapts to IRequiresInfo.
+IRequiresInfo acts as an adaptee for adapter ModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute, which adapts to IModuleAttribute.

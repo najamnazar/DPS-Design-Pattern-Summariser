@@ -1,0 +1,3 @@
+StompWebSocketEndpointRegistration acts as an abstract factory for StompWebSocketEndpointRegistration, which is inherited by WebMvcStompWebSocketEndpointRegistration.
+StompWebSocketEndpointRegistration acts as an abstract product for StompWebSocketEndpointRegistration, which is inherited by WebMvcStompWebSocketEndpointRegistration.
+StompWebSocketEndpointRegistration acts as an abstract product for StompWebSocketEndpointRegistration, which is inherited by WebMvcStompWebSocketEndpointRegistration, WebMvcStompWebSocketEndpointRegistration, WebMvcStompWebSocketEndpointRegistration, WebMvcStompWebSocketEndpointRegistration.

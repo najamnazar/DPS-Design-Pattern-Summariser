@@ -1,0 +1,2 @@
+DoCatchDirectRouteTest acts as a publisher for observer CamelContext, which tests Do Catch Direct Route, which creates Route Builder.
+DoCatchDirectRouteTest acts as a publisher for observer Service, which tests Do Catch Direct Route, which creates Route Builder.

@@ -1,0 +1,2 @@
+SagaFailuresTest acts as a caretaker for memento Context, which tests Compensation After Failures, which tests No Compensation After Max Failures, which tests Completion After Failures, which tests No Completion After Max Failures, which creates Route Builder.
+SagaFailuresTest acts as a caretaker for memento Producer, which tests Compensation After Failures, which tests No Compensation After Max Failures, which tests Completion After Failures, which tests No Completion After Max Failures, which creates Route Builder.

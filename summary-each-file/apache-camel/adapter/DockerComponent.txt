@@ -1,0 +1,2 @@
+DockerComponent acts as an adaptee for adapter DockerStatsConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+DockerComponent acts as an adaptee for adapter DockerEventsConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

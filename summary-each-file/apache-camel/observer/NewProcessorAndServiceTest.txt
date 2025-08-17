@@ -1,0 +1,2 @@
+NewProcessorAndServiceTest acts as a publisher for observer Service, which tests New Processor And Service, which creates Route Builder, which processes Exchange parameter of exchange, which starts, which stops, which is Started.
+NewProcessorAndServiceTest acts as a publisher for observer CamelContext, which tests New Processor And Service, which creates Route Builder, which processes Exchange parameter of exchange, which starts, which stops, which is Started.

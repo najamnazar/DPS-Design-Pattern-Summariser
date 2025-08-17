@@ -1,0 +1,2 @@
+ConsumerTemplate acts as an abstract factory for CamelContext, Exchange, which is inherited by DefaultConsumerTemplate.
+ConsumerTemplate acts as an abstract product for ConsumerTemplate, which is inherited by DefaultConsumerTemplate, DefaultConsumerTemplate.

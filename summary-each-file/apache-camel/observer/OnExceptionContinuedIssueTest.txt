@@ -1,0 +1,2 @@
+OnExceptionContinuedIssueTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests On Exception Wrapped Match.
+OnExceptionContinuedIssueTest acts as a publisher for observer Service, which is Use Route Builder, which tests On Exception Wrapped Match.

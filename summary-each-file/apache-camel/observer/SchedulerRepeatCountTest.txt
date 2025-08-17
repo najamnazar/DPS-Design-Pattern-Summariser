@@ -1,0 +1,2 @@
+SchedulerRepeatCountTest acts as a publisher for observer Service, which tests Scheduler Repeat Count, which creates Route Builder.
+SchedulerRepeatCountTest acts as a publisher for observer CamelContext, which tests Scheduler Repeat Count, which creates Route Builder.

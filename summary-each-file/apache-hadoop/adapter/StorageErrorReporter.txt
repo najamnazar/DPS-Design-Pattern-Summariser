@@ -1,0 +1,2 @@
+StorageErrorReporter acts as a target for adapter NNStorage, which adapts to StorageErrorReporter.
+StorageErrorReporter acts as an adaptee for adapter NNStorage, which adapts to Storage, StorageErrorReporter.

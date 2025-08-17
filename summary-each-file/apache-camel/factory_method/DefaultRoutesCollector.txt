@@ -1,0 +1,1 @@
+DefaultRoutesCollector acts as a product for RoutesConfigurer, which overrides collectRoutesFromRegistry method of RoutesCollector, collectRoutesFromDirectory method of RoutesCollector, findRouteResourcesFromDirectory method of RoutesCollector.

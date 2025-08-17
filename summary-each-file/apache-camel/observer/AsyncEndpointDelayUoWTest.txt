@@ -1,0 +1,2 @@
+AsyncEndpointDelayUoWTest acts as a publisher for observer CamelContext, which tests Async Endpoint, which creates Route Builder, which ons Exchange parameter of exchange Complete, which ons Exchange parameter of exchange Failure, which is On Complete, which is On Failure.
+AsyncEndpointDelayUoWTest acts as a publisher for observer Service, which tests Async Endpoint, which creates Route Builder, which ons Exchange parameter of exchange Complete, which ons Exchange parameter of exchange Failure, which is On Complete, which is On Failure.

@@ -1,0 +1,1 @@
+FilterParameters acts as a caretaker for memento Context, which gets Include, which gets Exclude, which gets Include Patterns, which gets Exclude Patterns, which gets Patterns, which gets List<String> parameter of patternStrings Pattern, which gets Includes, which gets Excludes, which tos String, which tos String.

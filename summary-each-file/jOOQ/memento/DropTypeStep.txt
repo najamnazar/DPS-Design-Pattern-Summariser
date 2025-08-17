@@ -1,0 +1,2 @@
+DropTypeStep acts as a memento, which restricts, which restricts.
+DropTypeStep acts as a memento, which is inherited by DropTypeImpl, which restricts, which restricts.

@@ -1,0 +1,1 @@
+TestSuiteLoader acts as an originator for memento Class, which is inherited by, which loads Class, which reloads Class parameter of aClass, which reloads Class parameter of aClass.

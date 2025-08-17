@@ -1,0 +1,2 @@
+CLITestCmd acts as a factory for CLITestCmd, which overrides.
+CLITestCmd acts as a factory method for CLICommandTypes, which is inherited by CLITestCmd, CLITestCmd, CLICommand, CLITestCmd.

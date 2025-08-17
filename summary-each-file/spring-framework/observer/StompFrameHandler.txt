@@ -1,0 +1,1 @@
+StompFrameHandler acts as an observer for publisher DefaultStompSession, which is inherited by StompSessionHandler, which gets StompHeaders parameter of headers Payload Type, which handles StompHeaders parameter of headers, @Nullable parameter of Object Frame.

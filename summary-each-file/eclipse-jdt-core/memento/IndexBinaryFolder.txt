@@ -1,0 +1,1 @@
+IndexBinaryFolder acts as a caretaker for memento C, which equals Object parameter of o, which executes IProgressMonitor parameter of progressMonitor, which hashes Code, which updates Index State, which tos String.

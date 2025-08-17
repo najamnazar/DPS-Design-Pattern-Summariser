@@ -1,0 +1,2 @@
+StartStopAndShutdownRouteTest acts as a publisher for observer CamelContext, which tests Start Stop And Shutdown Route, which creates Route Builder.
+StartStopAndShutdownRouteTest acts as a publisher for observer Service, which tests Start Stop And Shutdown Route, which creates Route Builder.

@@ -1,0 +1,2 @@
+Producer acts as an observer for publisher RecipientListProcessor, which is inherited by DefaultProducer, DeferProducer, SynchronousDelegateProducer, AsyncProducer, ServiceNowProducer.
+Producer acts as an observer.

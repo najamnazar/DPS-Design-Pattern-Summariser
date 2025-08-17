@@ -1,0 +1,2 @@
+RestartContainerResponse acts as a memento, which is inherited by RestartContainerResponsePBImpl, which news Instance.
+RestartContainerResponse acts as an originator for memento RestartContainerResponse, which is inherited by, which news a RestartContainerResponse Instance to.

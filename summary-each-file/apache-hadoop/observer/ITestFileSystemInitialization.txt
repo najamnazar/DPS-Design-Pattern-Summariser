@@ -1,0 +1,2 @@
+ITestFileSystemInitialization acts as a publisher for observer Configuration, which ensures Azure Blob File System Is Initialized, which ensures Secure Azure Blob File System Is Initialized, which tests File System Capabilities.
+ITestFileSystemInitialization acts as a publisher for observer AzureBlobFileSystem, which ensures Azure Blob File System Is Initialized, which ensures Secure Azure Blob File System Is Initialized, which tests File System Capabilities.

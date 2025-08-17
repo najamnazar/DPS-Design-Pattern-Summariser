@@ -1,0 +1,1 @@
+LoopingFlowContext acts as an adapter, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext, which adapts to SwitchFlowContext.

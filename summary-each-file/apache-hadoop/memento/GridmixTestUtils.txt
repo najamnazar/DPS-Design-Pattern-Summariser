@@ -1,0 +1,1 @@
+GridmixTestUtils acts as a caretaker for memento MiniMRClientCluster, which inits Class<?> parameter of caller Cluster, which shutdowns Cluster, which creates String parameter of user, Configuration parameter of conf Home And Staging Directory, which changes String parameter of user, Path parameter of homeDirectory, FileSystem parameter of fs Permission.

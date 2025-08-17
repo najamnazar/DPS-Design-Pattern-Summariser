@@ -1,0 +1,1 @@
+SingletonMetadataAwareAspectInstanceFactory acts as a caretaker for memento A, which gets Aspect Metadata, which gets Aspect Creation Mutex, which gets Class<?> parameter of aspectClass Order For Aspect Class.

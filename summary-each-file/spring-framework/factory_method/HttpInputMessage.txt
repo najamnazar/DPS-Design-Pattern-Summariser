@@ -1,0 +1,1 @@
+HttpInputMessage acts as an abstract product for JsonViewRequestBodyAdvice, which is inherited by MappingJacksonInputMessage, MockHttpInputMessage.

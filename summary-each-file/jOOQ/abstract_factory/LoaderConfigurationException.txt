@@ -1,0 +1,2 @@
+LoaderConfigurationException acts as a product for LoaderError, which overrides.
+LoaderConfigurationException acts as a product for ResultOrRows, which overrides.

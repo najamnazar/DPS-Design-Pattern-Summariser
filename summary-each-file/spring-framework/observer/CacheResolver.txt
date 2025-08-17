@@ -1,0 +1,1 @@
+CacheResolver acts as an observer for publisher CacheAspectSupport, CacheInterceptor, which is inherited by AbstractCacheResolver, CacheResolverAdapter, TestableCacheResolver, which resolves CacheOperationInvocationContext<?> parameter of context Caches.

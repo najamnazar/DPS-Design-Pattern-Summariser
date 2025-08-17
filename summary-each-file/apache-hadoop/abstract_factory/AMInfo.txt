@@ -1,0 +1,1 @@
+AMInfo acts as an abstract factory for ContainerId, ApplicationAttemptId, which is inherited by AMInfoPBImpl.

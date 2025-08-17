@@ -1,0 +1,2 @@
+ClaimCheckEipDynamicKeyGetSetTest acts as a publisher for observer Service, which tests Get Set, which creates Route Builder.
+ClaimCheckEipDynamicKeyGetSetTest acts as a publisher for observer CamelContext, which tests Get Set, which creates Route Builder.

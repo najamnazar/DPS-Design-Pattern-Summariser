@@ -1,0 +1,2 @@
+MyCurrencyBeanTest acts as a publisher for observer CamelContext, which creates Registry, which tests Display, which tests Display Price, which creates Route Builder.
+MyCurrencyBeanTest acts as a publisher for observer Service, which creates Registry, which tests Display, which tests Display Price, which creates Route Builder.

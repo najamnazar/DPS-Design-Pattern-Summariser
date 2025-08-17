@@ -1,0 +1,3 @@
+ModuleScope acts as an observer, which problems Reporter.
+ModuleScope acts as a publisher for observer LocalVariableBinding, which problems Reporter.
+ModuleScope acts as a publisher for observer Scope, which problems Reporter.

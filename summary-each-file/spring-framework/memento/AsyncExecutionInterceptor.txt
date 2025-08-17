@@ -1,0 +1,2 @@
+AsyncExecutionInterceptor acts as a caretaker for memento A, which invokes final parameter of MethodInvocation, which gets Method parameter of method Executor Qualifier, which gets @Nullable parameter of BeanFactory Default Executor, which gets Order.
+AsyncExecutionInterceptor acts as a caretaker for memento B, which invokes final parameter of MethodInvocation, which gets Method parameter of method Executor Qualifier, which gets @Nullable parameter of BeanFactory Default Executor, which gets Order.

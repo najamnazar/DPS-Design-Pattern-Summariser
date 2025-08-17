@@ -1,0 +1,2 @@
+XPathTransformRouteTest acts as a publisher for observer Service, which replaces Document parameter of doc Me, which tests XPath Transform, which creates Route Builder.
+XPathTransformRouteTest acts as a publisher for observer CamelContext, which replaces Document parameter of doc Me, which tests XPath Transform, which creates Route Builder.

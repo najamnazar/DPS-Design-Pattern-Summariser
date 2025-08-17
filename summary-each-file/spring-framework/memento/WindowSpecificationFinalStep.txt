@@ -1,0 +1,2 @@
+WindowSpecificationFinalStep acts as a memento.
+WindowSpecificationFinalStep acts as a memento, which is inherited by WindowSpecificationRowsStep, WindowSpecificationExcludeStep.

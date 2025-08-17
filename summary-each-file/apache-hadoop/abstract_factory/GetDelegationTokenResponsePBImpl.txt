@@ -1,0 +1,2 @@
+GetDelegationTokenResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides getRMDelegationToken method of GetDelegationTokenResponse.
+GetDelegationTokenResponsePBImpl acts as a product for MRClientProtocol, which overrides getRMDelegationToken method of GetDelegationTokenResponse.

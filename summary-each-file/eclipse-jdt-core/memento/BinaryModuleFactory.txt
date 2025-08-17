@@ -1,0 +1,1 @@
+BinaryModuleFactory acts as an originator for memento IBinaryModule, which reads an IBinaryModule Module to, which raws an IBinaryModule Read Module to, which raws an IBinaryModule Read Module Test For Exists to.

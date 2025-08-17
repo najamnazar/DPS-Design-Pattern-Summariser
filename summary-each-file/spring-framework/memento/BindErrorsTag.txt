@@ -1,0 +1,1 @@
+BindErrorsTag acts as a caretaker for memento B, which sets String parameter of name Name, which gets Name, which does Start Tag Internal, which does End Tag, which gets Errors, which does Finally.

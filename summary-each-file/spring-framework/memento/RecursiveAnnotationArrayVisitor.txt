@@ -1,0 +1,2 @@
+RecursiveAnnotationArrayVisitor acts as a caretaker for memento A, which visits String parameter of attributeName, Object parameter of attributeValue, which visits String parameter of attributeName, String parameter of asmTypeDescriptor Annotation, which visits End.
+RecursiveAnnotationArrayVisitor acts as a caretaker for memento C, which visits String parameter of attributeName, Object parameter of attributeValue, which visits String parameter of attributeName, String parameter of asmTypeDescriptor Annotation, which visits End.

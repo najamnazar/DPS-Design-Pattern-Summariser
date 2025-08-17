@@ -1,0 +1,2 @@
+InterceptSendToEndpointNormalizePatternTest acts as a publisher for observer Service, which tests Intercept, which creates Route Builder.
+InterceptSendToEndpointNormalizePatternTest acts as a publisher for observer CamelContext, which tests Intercept, which creates Route Builder.

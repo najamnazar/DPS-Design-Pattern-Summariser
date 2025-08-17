@@ -1,0 +1,1 @@
+CamelPreemptiveClusterView acts as an observer, which sets boolean parameter of disabled Disabled, which is Disabled.

@@ -1,0 +1,2 @@
+StringMSPTest acts as a publisher for observer Attributes, which gets Msp Field, which sets java.lang.String[] parameter of mspField Msp Field.
+StringMSPTest acts as an observer, which gets Msp Field, which sets java.lang.String[] parameter of mspField Msp Field.

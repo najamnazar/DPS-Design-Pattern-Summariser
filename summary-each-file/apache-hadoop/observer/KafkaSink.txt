@@ -1,0 +1,1 @@
+KafkaSink acts as an observer, which sets Producer<Integer, parameter of byte[]> Producer, which inits SubsetConfiguration parameter of conf, which puts MetricsRecord parameter of record Metrics, which flushes, which closes.

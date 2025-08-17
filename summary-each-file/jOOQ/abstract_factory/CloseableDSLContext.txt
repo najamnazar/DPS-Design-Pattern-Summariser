@@ -1,0 +1,2 @@
+CloseableDSLContext acts as a product for Scope, which overrides.
+CloseableDSLContext acts as a product for Configuration, which overrides.

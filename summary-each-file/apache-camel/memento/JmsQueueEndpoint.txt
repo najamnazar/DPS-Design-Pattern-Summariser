@@ -1,0 +1,2 @@
+JmsQueueEndpoint acts as a caretaker for memento Configuration, which gets Maximum Browse Size, which sets int parameter of maximumBrowseSize Maximum Browse Size, which gets Exchanges, which creates Queue Browse Strategy.
+JmsQueueEndpoint acts as a memento, which creates Queue Browse Strategy, which creates Queue Browse Strategy, which creates Queue Browse Strategy, which creates Queue Browse Strategy.

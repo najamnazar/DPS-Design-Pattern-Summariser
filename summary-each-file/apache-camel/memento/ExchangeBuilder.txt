@@ -1,0 +1,1 @@
+ExchangeBuilder acts as a caretaker for memento Context, which ans CamelContext parameter of context Exchange, which withes Object parameter of body Body, which withes String parameter of key, Object parameter of value Header, which withes ExchangePattern parameter of pattern Pattern, which withes String parameter of key, Object parameter of value Property, which builds.

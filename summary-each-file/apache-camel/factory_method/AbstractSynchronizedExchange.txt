@@ -1,0 +1,2 @@
+AbstractSynchronizedExchange acts as a product for ExchangeEvent, which overrides getExchange method of SynchronizedExchange, cancelAndGetOriginalExchange method of SynchronizedExchange.
+AbstractSynchronizedExchange acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.

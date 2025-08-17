@@ -1,0 +1,1 @@
+Spr10668Tests acts as a caretaker for memento C, which tests Self Inject Hierarchy, which mies Component.

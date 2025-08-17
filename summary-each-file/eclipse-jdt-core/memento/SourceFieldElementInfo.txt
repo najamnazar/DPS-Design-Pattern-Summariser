@@ -1,0 +1,1 @@
+SourceFieldElementInfo acts as a caretaker for memento IAnnotation, which gets Initialization Source, which gets Type Name, which gets Type Signature, which sets char[] parameter of typeName Type Name.

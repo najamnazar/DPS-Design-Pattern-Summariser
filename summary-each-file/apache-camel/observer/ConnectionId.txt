@@ -1,0 +1,1 @@
+ConnectionId acts as an observer for publisher AbstractIecComponent, which is inherited by, which gets Host, which gets Port, which gets Connection Id, which hashes Code, which equals final parameter of Object.

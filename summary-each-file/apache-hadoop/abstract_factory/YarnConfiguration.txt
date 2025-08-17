@@ -1,0 +1,15 @@
+YarnConfiguration acts as a product for CapacitySchedulerContext, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for LaunchableService, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for RunningJob, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for WriteOperations, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for AMRMProxyApplicationContext, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for Configurable, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for MiniMRClientCluster, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for GetSpaceUsed, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for FileSystemAccess, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for MutableConfScheduler, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for RMContext, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for SPSService, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for MutableConfigurationProvider, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for Job, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.
+YarnConfiguration acts as a product for ObjectStorage, which overrides getSocketAddr method of Configuration, updateConnectAddr method of Configuration.

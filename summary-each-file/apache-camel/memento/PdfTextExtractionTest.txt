@@ -1,0 +1,2 @@
+PdfTextExtractionTest acts as a caretaker for memento Producer, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.
+PdfTextExtractionTest acts as a caretaker for memento Context, which tests Extract Text, which tests Extract Text From Encrypted, which creates Route Builder.

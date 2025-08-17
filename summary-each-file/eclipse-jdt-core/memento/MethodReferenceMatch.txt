@@ -1,0 +1,1 @@
+MethodReferenceMatch acts as a caretaker for memento E, which is Constructor, which is Synthetic, which is Super Invocation.

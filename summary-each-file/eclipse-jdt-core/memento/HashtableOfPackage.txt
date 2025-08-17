@@ -1,0 +1,1 @@
+HashtableOfPackage acts as a caretaker for memento Binding, which contains char[] parameter of key Key, which gets char[] parameter of key, which puts char[] parameter of key, PackageBinding parameter of value, which rehashes, which sizes, which tos String.

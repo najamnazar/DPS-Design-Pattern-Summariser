@@ -1,0 +1,1 @@
+BatchGoogleSheetsClientFactory acts as a product for SheetsStreamConsumerIntegrationTest, which overrides makeClient method of GoogleSheetsClientFactory, makeClient method of GoogleSheetsClientFactory.

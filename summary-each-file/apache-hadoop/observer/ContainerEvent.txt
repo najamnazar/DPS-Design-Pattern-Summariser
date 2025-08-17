@@ -1,0 +1,1 @@
+ContainerEvent acts as an observer for publisher TestContainerManager, TestContainerManagerWithLCE, which is inherited by ContainerResourceEvent, ContainerReInitEvent, ContainerExitEvent, UpdateContainerTokenEvent, ContainerDiagnosticsUpdateEvent, ContainerKillEvent, ContainerResumeEvent, ContainerInitEvent, ContainerPauseEvent, which gets Container ID.

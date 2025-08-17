@@ -1,0 +1,1 @@
+ManagedSendProcessor acts as a caretaker for memento Context, which inits ManagementStrategy parameter of strategy, which gets Support Extended Information, which resets, which gets Processor, which gets Destination, which gets Message Exchange Pattern, which extends Information.

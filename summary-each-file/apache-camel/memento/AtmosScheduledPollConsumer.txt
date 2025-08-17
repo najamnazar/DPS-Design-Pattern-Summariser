@@ -1,0 +1,1 @@
+AtmosScheduledPollConsumer acts as a caretaker for memento Configuration, which is inherited by, which polls, which does Start, which does Stop.

@@ -1,0 +1,1 @@
+DefaultLineBuilderStrategy acts as a product for TextProcessingAbstractFactory, which overrides buildLines method of LineBuilderStrategy.

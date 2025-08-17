@@ -1,0 +1,2 @@
+GenericTypeAwareAutowireCandidateResolver acts as a factory for SimpleAutowireCandidateResolver, which overrides isAutowireCandidate method of SimpleAutowireCandidateResolver, cloneIfNecessary method of SimpleAutowireCandidateResolver.
+GenericTypeAwareAutowireCandidateResolver acts as a factory for ControllerAdviceBean, which overrides.

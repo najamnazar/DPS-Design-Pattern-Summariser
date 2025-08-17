@@ -1,0 +1,1 @@
+TestDecorator acts as an observer, which basices TestResult parameter of result Run, which counts Test Cases, which runs TestResult parameter of result, which tos String, which gets Test.

@@ -1,0 +1,2 @@
+LeaveSafeModeRequest acts as an originator for memento LeaveSafeModeRequest, which is inherited by, which news a LeaveSafeModeRequest Instance to.
+LeaveSafeModeRequest acts as a memento, which is inherited by LeaveSafeModeRequestPBImpl, which news Instance.

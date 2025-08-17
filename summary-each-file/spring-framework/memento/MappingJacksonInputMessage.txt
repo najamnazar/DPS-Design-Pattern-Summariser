@@ -1,0 +1,3 @@
+MappingJacksonInputMessage acts as a caretaker for memento C, which gets Body, which gets Headers, which sets @Nullable parameter of Class<?> Deserialization View, which gets Deserialization View.
+MappingJacksonInputMessage acts as a caretaker for memento Headers, which gets Body, which gets Headers, which sets @Nullable parameter of Class<?> Deserialization View, which gets Deserialization View.
+MappingJacksonInputMessage acts as a memento, which gets Deserialization View, which gets Deserialization View, which gets Deserialization View, which gets Deserialization View.

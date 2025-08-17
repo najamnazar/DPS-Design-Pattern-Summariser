@@ -1,0 +1,2 @@
+LogEipBodyWithSimpleTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Log Eip, which creates Route Builder.
+LogEipBodyWithSimpleTest acts as a publisher for observer Service, which creates Camel Context, which tests Log Eip, which creates Route Builder.

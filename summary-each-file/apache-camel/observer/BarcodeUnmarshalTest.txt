@@ -1,0 +1,1 @@
+BarcodeUnmarshalTest acts as a publisher for observer MockEndpoint, which tests Orientation, which creates Route Builder.

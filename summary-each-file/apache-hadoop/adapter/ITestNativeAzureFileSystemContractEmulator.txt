@@ -1,0 +1,3 @@
+ITestNativeAzureFileSystemContractEmulator acts as an adapter, which adapts nameThread method of AzureBlobStorageTestAccount to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.
+ITestNativeAzureFileSystemContractEmulator acts as an adapter, which adapts nameThread method of Path to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.
+ITestNativeAzureFileSystemContractEmulator acts as an adapter, which adapts nameThread method of TestName to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest.

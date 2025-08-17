@@ -1,0 +1,1 @@
+ServletWebArgumentResolverAdapter acts as a caretaker for memento A, which gets Web Request.

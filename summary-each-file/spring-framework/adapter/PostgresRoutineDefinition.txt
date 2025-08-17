@@ -1,0 +1,1 @@
+PostgresRoutineDefinition acts as an adaptee for adapter PostgresTableValuedFunction, which adapts to AbstractTableDefinition, which adapts to AbstractTableDefinition, which adapts to AbstractTableDefinition.

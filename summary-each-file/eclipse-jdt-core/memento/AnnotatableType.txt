@@ -1,0 +1,2 @@
+AnnotatableType acts as a caretaker for memento S, which is inherited by, which internals Class parameter of nodeClass Annotations Property Factory, which internals Annotations Property, which gets Annotations Property, which annotationses.
+AnnotatableType acts as a caretaker for memento List, which is inherited by, which internals Class parameter of nodeClass Annotations Property Factory, which internals Annotations Property, which gets Annotations Property, which annotationses.

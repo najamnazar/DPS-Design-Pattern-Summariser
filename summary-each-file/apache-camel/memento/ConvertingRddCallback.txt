@@ -1,0 +1,1 @@
+ConvertingRddCallback acts as a caretaker for memento Context, which ons JavaRDDLike parameter of rdd, Object... parameter of payloads Rdd, which does JavaRDDLike parameter of rdd, Object... parameter of payloads On Rdd.

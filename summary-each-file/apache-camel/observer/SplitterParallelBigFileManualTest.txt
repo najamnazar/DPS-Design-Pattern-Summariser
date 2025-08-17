@@ -1,0 +1,2 @@
+SplitterParallelBigFileManualTest acts as a publisher for observer CamelContext, which tests Split Parallel Big File, which creates Route Builder.
+SplitterParallelBigFileManualTest acts as a publisher for observer Service, which tests Split Parallel Big File, which creates Route Builder.

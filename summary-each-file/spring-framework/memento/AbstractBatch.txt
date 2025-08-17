@@ -1,0 +1,2 @@
+AbstractBatch acts as a caretaker for memento C, which is inherited by, which subscribes Subscriber<? parameter of super, which executes Async, which executes Executor parameter of executor Async.
+AbstractBatch acts as a caretaker for memento Configuration, which is inherited by, which subscribes Subscriber<? parameter of super, which executes Async, which executes Executor parameter of executor Async.

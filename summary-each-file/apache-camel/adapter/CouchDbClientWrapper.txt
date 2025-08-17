@@ -1,0 +1,1 @@
+CouchDbClientWrapper acts as an adaptee for adapter CouchDbConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

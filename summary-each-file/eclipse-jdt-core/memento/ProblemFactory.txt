@@ -1,0 +1,2 @@
+ProblemFactory acts as a caretaker for memento Map, which gets Locale parameter of locale Problem Factory.
+ProblemFactory acts as a caretaker for memento Locale, which gets Locale parameter of locale Problem Factory.

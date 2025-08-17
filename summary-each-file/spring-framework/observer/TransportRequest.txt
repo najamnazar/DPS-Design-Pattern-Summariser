@@ -1,0 +1,1 @@
+TransportRequest acts as an observer for publisher Transport, TestTransport, which is inherited by DefaultTransportRequest, which gets Sock Js Url Info, which gets Handshake Headers, which gets Http Request Headers, which gets Transport Url, which gets User, which gets Message Codec, which adds Runnable parameter of runnable Timeout Task.

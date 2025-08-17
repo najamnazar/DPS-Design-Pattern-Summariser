@@ -1,0 +1,3 @@
+DefaultBeanProcessorFactory acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultBeanProcessorFactory acts as a factory for BeanProcessorFactory, which overrides createBeanProcessor method of BeanProcessorFactory, createBeanProcessor method of BeanProcessorFactory.
+DefaultBeanProcessorFactory acts as a product for ExtendedCamelContext, which overrides createBeanProcessor method of BeanProcessorFactory, createBeanProcessor method of BeanProcessorFactory.

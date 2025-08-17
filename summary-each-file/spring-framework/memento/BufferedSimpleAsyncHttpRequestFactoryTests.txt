@@ -1,0 +1,4 @@
+BufferedSimpleAsyncHttpRequestFactoryTests acts as a caretaker for memento ClientHttpRequest, which creates Request Factory, which https Methods.
+BufferedSimpleAsyncHttpRequestFactoryTests acts as a caretaker for memento A, which creates Request Factory, which https Methods.
+BufferedSimpleAsyncHttpRequestFactoryTests acts as a caretaker for memento AsyncClientHttpRequest, which creates Request Factory, which https Methods.
+BufferedSimpleAsyncHttpRequestFactoryTests acts as a caretaker for memento C, which creates Request Factory, which https Methods.

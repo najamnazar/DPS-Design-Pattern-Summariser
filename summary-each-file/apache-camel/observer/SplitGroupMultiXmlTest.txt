@@ -1,0 +1,2 @@
+SplitGroupMultiXmlTest acts as a publisher for observer CamelContext, which tests Token XMLPair Group, which creates Body, which creates Route Builder.
+SplitGroupMultiXmlTest acts as a publisher for observer Service, which tests Token XMLPair Group, which creates Body, which creates Route Builder.

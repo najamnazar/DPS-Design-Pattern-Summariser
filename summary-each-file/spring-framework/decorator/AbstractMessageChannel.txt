@@ -1,0 +1,1 @@
+AbstractMessageChannel acts as a component for decorator OrderedMessageChannelDecorator, which overrides sendMessageChannel, sendMessageChannel.

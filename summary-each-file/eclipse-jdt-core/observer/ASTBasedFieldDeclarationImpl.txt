@@ -1,0 +1,1 @@
+ASTBasedFieldDeclarationImpl acts as an observer, which accepts DeclarationVisitor parameter of visitor, which gets Constant Expression, which gets Constant Value, which gets Simple Name, which gets Type, which tos String, which kinds, which gets Ast Node, which gets Field Declaration Ast Node.

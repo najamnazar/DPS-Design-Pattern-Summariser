@@ -1,0 +1,2 @@
+JCacheAspectSupport acts as a factory method for JCacheOperationSource, which is inherited by AbstractJCacheConfiguration, JCacheAspectSupport, AbstractJCacheConfiguration.
+JCacheAspectSupport acts as a factory for JCacheAspectSupport, which overrides.

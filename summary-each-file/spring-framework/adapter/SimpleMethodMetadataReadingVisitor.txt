@@ -1,0 +1,1 @@
+SimpleMethodMetadataReadingVisitor acts as an adapter, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts getSource method of Source, getSource method of Source to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor, which adapts to MethodVisitor.

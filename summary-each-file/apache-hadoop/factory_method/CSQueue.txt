@@ -1,0 +1,3 @@
+CSQueue acts as a factory for QueueManagementChange, which overrides.
+CSQueue acts as a factory for AbstractLeafQueue, which overrides.
+CSQueue acts as an abstract product for QueueManagementChange, which is inherited by AbstractCSQueue.

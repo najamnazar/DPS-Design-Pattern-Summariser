@@ -1,0 +1,2 @@
+TransactionFactory acts as a factory for TransactionFactory, which overrides.
+TransactionFactory acts as a factory method for Transaction, which is inherited by TransactionFactory, TransactionFactory.

@@ -1,0 +1,1 @@
+AutoProxyRegistrar acts as an observer, which registers AnnotationMetadata parameter of importingClassMetadata, BeanDefinitionRegistry parameter of registry Bean Definitions.

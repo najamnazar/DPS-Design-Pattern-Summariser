@@ -1,0 +1,2 @@
+IConstantValueAttribute acts as an abstract factory for IConstantPoolEntry, which is inherited by ConstantValueAttribute.
+IConstantValueAttribute acts as an abstract product for IConstantValueAttribute, which is inherited by ConstantValueAttribute.

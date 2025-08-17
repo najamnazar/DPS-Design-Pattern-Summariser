@@ -1,0 +1,2 @@
+AdviceWithMockEndpointsWithSkipTest acts as a publisher for observer CamelContext, which tests Advised Mock Endpoints With Skip, which creates Route Builder.
+AdviceWithMockEndpointsWithSkipTest acts as a publisher for observer Service, which tests Advised Mock Endpoints With Skip, which creates Route Builder.

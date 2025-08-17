@@ -1,0 +1,1 @@
+NoUniqueBeanDefinitionException acts as a caretaker for memento C, which gets Number Of Beans Found, which gets Bean Names Found.

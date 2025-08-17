@@ -1,0 +1,1 @@
+IDOMField acts as a publisher for observer String, which is inherited by DOMField, which gets Initializer, which gets Name, which gets Type, which sets String parameter of initializer Initializer, which sets String parameter of name Name, which sets String parameter of typeName Type.

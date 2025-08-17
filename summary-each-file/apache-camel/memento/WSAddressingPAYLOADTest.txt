@@ -1,0 +1,2 @@
+WSAddressingPAYLOADTest acts as a caretaker for memento Producer.
+WSAddressingPAYLOADTest acts as a caretaker for memento Context.

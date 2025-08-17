@@ -1,0 +1,1 @@
+TransactionFactory acts as an adaptee for adapter JtaTransactionManager, which adapts to AbstractPlatformTransactionManager, which adapts to AbstractPlatformTransactionManager.

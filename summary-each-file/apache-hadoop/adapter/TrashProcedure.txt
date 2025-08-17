@@ -1,0 +1,3 @@
+TrashProcedure acts as an adapter, which adapts to BalanceProcedure, which adapts moveToTrash method of Configuration to BalanceProcedure, which adapts to BalanceProcedure, which adapts to BalanceProcedure, which adapts to BalanceProcedure.
+TrashProcedure acts as an adapter, which adapts to BalanceProcedure, which adapts moveToTrash method of FedBalanceContext to BalanceProcedure, which adapts to BalanceProcedure, which adapts to BalanceProcedure, which adapts to BalanceProcedure.
+TrashProcedure acts as an adapter, which adapts to BalanceProcedure, which adapts moveToTrash method of DistributedFileSystem to BalanceProcedure, which adapts to BalanceProcedure, which adapts to BalanceProcedure, which adapts to BalanceProcedure.

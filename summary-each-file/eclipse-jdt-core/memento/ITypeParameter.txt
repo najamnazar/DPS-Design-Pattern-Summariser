@@ -1,0 +1,3 @@
+ITypeParameter acts as a memento, which gets Type Root, which gets Type Root, which gets Type Root, which gets Type Root.
+ITypeParameter acts as an originator for memento String.
+ITypeParameter acts as an originator for memento ISourceRange.

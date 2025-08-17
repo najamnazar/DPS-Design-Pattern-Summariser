@@ -1,0 +1,2 @@
+ResumeStrategy acts as an abstract product for ResumableReifier, which is inherited by TransientResumeStrategy, WriteAheadResumeStrategy.
+ResumeStrategy acts as a factory for SingleNodeKafkaResumeStrategy, which overrides.

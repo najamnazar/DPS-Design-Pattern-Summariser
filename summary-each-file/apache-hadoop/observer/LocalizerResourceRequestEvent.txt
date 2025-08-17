@@ -1,0 +1,2 @@
+LocalizerResourceRequestEvent acts as an observer for publisher ResourceLocalizationService, which is inherited by, which gets Resource, which gets Context, which gets Visibility, which gets Pattern.
+LocalizerResourceRequestEvent acts as an observer, which gets Resource, which gets Context, which gets Visibility, which gets Pattern.

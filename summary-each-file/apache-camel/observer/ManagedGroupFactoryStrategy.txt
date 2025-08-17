@@ -1,0 +1,1 @@
+ManagedGroupFactoryStrategy acts as an observer for publisher ZookeeperGroupSupport, ZookeeperGroupListenerSupport, which is inherited by DefaultGroupFactoryStrategy, which creates CuratorFramework parameter of curator, ClassLoader parameter of loader, CamelContext parameter of camelContext, Callable<CuratorFramework> parameter of factory Group Factory.

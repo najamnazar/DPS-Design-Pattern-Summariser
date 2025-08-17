@@ -1,0 +1,1 @@
+SafeCopyProperty acts as an observer for publisher AbstractExchange, DefaultExchange, DefaultPooledExchange, which is inherited by AttachmentMap, which safes Copy.

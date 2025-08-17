@@ -1,0 +1,1 @@
+ClasspathJrt acts as a factory for IMultiModuleEntry, which overrides getModuleNames method of IMultiModuleEntry.

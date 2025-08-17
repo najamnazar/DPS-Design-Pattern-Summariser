@@ -1,0 +1,3 @@
+EndpointUriFactorySupport acts as a factory for CamelContextAware, which overrides.
+EndpointUriFactorySupport acts as a product for ExtendedCamelContext, which overrides.
+EndpointUriFactorySupport acts as a product for UriFactoryResolver, which overrides.

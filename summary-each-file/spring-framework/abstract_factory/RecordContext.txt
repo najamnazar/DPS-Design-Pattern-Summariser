@@ -1,0 +1,2 @@
+RecordContext acts as a product for ConfigurableBeanFactory, which overrides.
+RecordContext acts as an abstract factory for Record, which is inherited by DefaultRecordContext.

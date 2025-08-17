@@ -1,0 +1,1 @@
+SpringConsulServiceCallRouteTest acts as a caretaker for memento Context, which does Pre Setup, which does Post Tear Down, which tests Service Call, which finds Service Call Processors, which finds List<DefaultServiceCallProcessor> parameter of processors, Navigate<Processor> parameter of navigate Service Call Processors.

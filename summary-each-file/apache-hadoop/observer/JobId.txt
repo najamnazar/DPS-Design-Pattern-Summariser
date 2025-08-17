@@ -1,0 +1,2 @@
+JobId acts as an observer, which news Job Id, which gets ID, which tos String, which hashes Code, which equals final parameter of Object, which writes final parameter of DataOutput, which reads final parameter of DataInput Fields.
+JobId acts as an observer for publisher GetCountersRequestPBImpl, which is inherited by JobIdPBImpl, which news Job Id, which gets ID, which tos String, which hashes Code, which equals final parameter of Object, which writes final parameter of DataOutput, which reads final parameter of DataInput Fields.

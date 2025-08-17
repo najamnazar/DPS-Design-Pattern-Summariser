@@ -1,0 +1,1 @@
+DeclarationsUtil acts as a product for AnnotationProcessorEnvironment, which overrides hides method of Declarations, overrides method of Declarations.

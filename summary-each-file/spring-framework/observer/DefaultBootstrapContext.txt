@@ -1,0 +1,1 @@
+DefaultBootstrapContext acts as an observer, which gets Test Class, which gets Cache Aware Context Loader Delegate, which tos String.

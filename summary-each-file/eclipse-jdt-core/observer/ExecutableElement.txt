@@ -1,0 +1,1 @@
+ExecutableElement acts as an observer, which ases Type, which gets Type Parameters, which gets Return Type, which gets Parameters, which gets Receiver Type, which is Var Args, which is Default, which gets Thrown Types, which gets Default Value, which gets Enclosing Element, which gets Simple Name.

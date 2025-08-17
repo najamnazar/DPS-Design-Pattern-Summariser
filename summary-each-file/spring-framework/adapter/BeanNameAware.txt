@@ -1,0 +1,4 @@
+BeanNameAware acts as an adaptee for adapter DefaultAdvisorAutoProxyCreator, which adapts to AbstractAdvisorAutoProxyCreator.
+BeanNameAware acts as an adaptee for adapter AbstractHandlerMapping, which adapts to WebApplicationObjectSupport.
+BeanNameAware acts as an adaptee for adapter AbstractView, which adapts to View.
+BeanNameAware acts as an adaptee for adapter JmsMessageEndpointManager, which adapts to GenericMessageEndpointManager.

@@ -1,0 +1,1 @@
+HttpResource acts as an observer, which gets Response Headers.

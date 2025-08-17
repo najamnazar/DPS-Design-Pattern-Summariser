@@ -1,0 +1,1 @@
+SCMUploaderProtocol acts as an abstract factory for SCMUploaderNotifyResponse, SCMUploaderCanUploadResponse, which is inherited by SharedCacheUploaderService, SCMUploaderProtocolPBClientImpl.

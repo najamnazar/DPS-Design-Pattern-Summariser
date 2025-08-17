@@ -1,0 +1,3 @@
+ResteasyComponent acts as a product for HttpComponentBuilderFactory, which overrides createEndpoint method of HttpComponent.
+ResteasyComponent acts as a product for HttpsComponentBuilderFactory, which overrides createEndpoint method of HttpComponent.
+ResteasyComponent acts as a factory for RestConsumerFactory, which overrides createConsumer method of RestConsumerFactory.

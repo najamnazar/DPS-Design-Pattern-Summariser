@@ -1,0 +1,5 @@
+MinioIntegrationTestSupport acts as a publisher for observer FluentProducerTemplate.
+MinioIntegrationTestSupport acts as a publisher for observer CamelContext.
+MinioIntegrationTestSupport acts as a publisher for observer ProducerTemplate.
+MinioIntegrationTestSupport acts as a publisher for observer ConsumerTemplate.
+MinioIntegrationTestSupport acts as a publisher for observer Service.

@@ -1,0 +1,2 @@
+MockThroughtputTest acts as a publisher for observer CamelContext, which tests Mock Throughtput Test, which creates Route Builder.
+MockThroughtputTest acts as a publisher for observer Service, which tests Mock Throughtput Test, which creates Route Builder.

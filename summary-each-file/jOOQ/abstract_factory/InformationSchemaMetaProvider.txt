@@ -1,0 +1,2 @@
+InformationSchemaMetaProvider acts as a factory for MetaProvider, which overrides provide method of MetaProvider.
+InformationSchemaMetaProvider acts as a product for Configuration, which overrides provide method of MetaProvider.

@@ -1,0 +1,1 @@
+JettySockJsIntegrationTests acts as a factory method for RequestUpgradeStrategy, which is inherited by AbstractWebSocketIntegrationTests, AbstractWebSocketIntegrationTests, AbstractWebSocketIntegrationTests, AbstractWebSocketIntegrationTests, AbstractHandshakeHandler.

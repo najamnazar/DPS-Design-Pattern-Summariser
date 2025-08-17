@@ -1,0 +1,1 @@
+GetNewApplicationResponse acts as an abstract product for GetNewApplicationResponse, which is inherited by GetNewApplicationResponsePBImpl.

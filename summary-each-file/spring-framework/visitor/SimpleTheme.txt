@@ -1,0 +1,2 @@
+SimpleTheme acts as a visitor for element Advised, which overrides, which gets a Name to, which gets a Message Source to.
+SimpleTheme acts as a visitor for element Decoder, which overrides, which gets a Name to, which gets a Message Source to.

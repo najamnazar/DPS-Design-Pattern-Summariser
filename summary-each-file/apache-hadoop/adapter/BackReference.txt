@@ -1,0 +1,1 @@
+BackReference acts as an adaptee for adapter AbfsInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

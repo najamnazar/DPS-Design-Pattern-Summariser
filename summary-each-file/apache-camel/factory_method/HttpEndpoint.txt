@@ -1,0 +1,4 @@
+HttpEndpoint acts as a factory for CamelPostProcessorHelperTest, which overrides.
+HttpEndpoint acts as a factory for TransformerRouteTest, which overrides.
+HttpEndpoint acts as a factory method for HttpClientConfigurer, which is inherited by HttpEndpoint, HttpComponent.
+HttpEndpoint acts as a factory for HttpEndpoint, which overrides.

@@ -1,0 +1,1 @@
+KafkaAsyncManualCommit acts as a memento.

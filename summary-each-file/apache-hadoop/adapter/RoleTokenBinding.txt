@@ -1,0 +1,1 @@
+RoleTokenBinding acts as an adapter, which adapts to SessionTokenBinding, which adapts to SessionTokenBinding, which adapts to SessionTokenBinding, which adapts to SessionTokenBinding, which adapts to SessionTokenBinding, which adapts to SessionTokenBinding.

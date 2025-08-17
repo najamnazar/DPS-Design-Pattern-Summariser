@@ -1,0 +1,1 @@
+OnFallbackDefinition acts as an observer for publisher CircuitBreakerDefinition, which is inherited by, which gets Outputs, which sets List<ProcessorDefinition<?>> parameter of outputs Outputs, which tos String, which gets Short Name, which gets Label, which gets Fallback Via Network, which sets String parameter of fallbackViaNetwork Fallback Via Network.

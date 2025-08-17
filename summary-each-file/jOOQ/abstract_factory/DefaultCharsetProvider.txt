@@ -1,0 +1,1 @@
+DefaultCharsetProvider acts as a product for Configuration, which overrides provide method of CharsetProvider.

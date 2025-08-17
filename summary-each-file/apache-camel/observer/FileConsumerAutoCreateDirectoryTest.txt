@@ -1,0 +1,2 @@
+FileConsumerAutoCreateDirectoryTest acts as a publisher for observer CamelContext, which tests Create Directory, which tests Create Absolute Directory, which tests Do Not Create Directory, which tests Auto Create Directory With Dot, which tests Starting Directory Must Exist Directory.
+FileConsumerAutoCreateDirectoryTest acts as a publisher for observer Service, which tests Create Directory, which tests Create Absolute Directory, which tests Do Not Create Directory, which tests Auto Create Directory With Dot, which tests Starting Directory Must Exist Directory.

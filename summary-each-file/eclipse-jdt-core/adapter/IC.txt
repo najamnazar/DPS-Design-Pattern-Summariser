@@ -1,0 +1,1 @@
+IC acts as an adaptee for adapter AC.

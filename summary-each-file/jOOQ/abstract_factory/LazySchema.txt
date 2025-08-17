@@ -1,0 +1,4 @@
+LazySchema acts as a product for Catalog, which overrides.
+LazySchema acts as a product for DSLContext, which overrides.
+LazySchema acts as a product for EnumType, which overrides.
+LazySchema acts as a product for Qualified, which overrides.

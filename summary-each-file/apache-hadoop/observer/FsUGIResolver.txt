@@ -1,0 +1,1 @@
+FsUGIResolver acts as an observer, which adds String parameter of name User, which adds String parameter of name Group.

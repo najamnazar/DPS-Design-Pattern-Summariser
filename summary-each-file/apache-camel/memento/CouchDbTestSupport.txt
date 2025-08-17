@@ -1,0 +1,2 @@
+CouchDbTestSupport acts as a caretaker for memento Context.
+CouchDbTestSupport acts as a caretaker for memento Producer.

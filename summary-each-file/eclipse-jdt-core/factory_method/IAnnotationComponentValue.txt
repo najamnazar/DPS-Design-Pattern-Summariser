@@ -1,0 +1,2 @@
+IAnnotationComponentValue acts as a factory for IConstantValueAttribute, which overrides.
+IAnnotationComponentValue acts as an abstract product for AnnotationComponent, which is inherited by AnnotationComponentValue.

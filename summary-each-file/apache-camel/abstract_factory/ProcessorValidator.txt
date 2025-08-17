@@ -1,0 +1,3 @@
+ProcessorValidator acts as a product for ValidatorRegistry, which overrides validate method of Validator, toString method of Validator, doStart method of Validator, doStop method of Validator.
+ProcessorValidator acts as a product for ModelReifierFactory, which overrides validate method of Validator, toString method of Validator, doStart method of Validator, doStop method of Validator.
+ProcessorValidator acts as a product for CamelContext, which overrides validate method of Validator, toString method of Validator, doStart method of Validator, doStop method of Validator.

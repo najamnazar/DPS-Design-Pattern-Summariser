@@ -1,0 +1,2 @@
+ChannelTest acts as a publisher for observer Service, which tests Channel, which creates Route Builder.
+ChannelTest acts as a publisher for observer CamelContext, which tests Channel, which creates Route Builder.

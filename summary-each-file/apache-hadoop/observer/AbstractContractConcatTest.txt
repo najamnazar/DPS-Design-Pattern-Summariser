@@ -1,0 +1,1 @@
+AbstractContractConcatTest acts as a publisher for observer Path, which setups, which tests Concat Empty Files, which tests Concat Missing Target, which tests Concat File On File, which tests Concat On Self, which tests File System Declares Capability.

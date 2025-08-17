@@ -1,0 +1,1 @@
+RouterServiceState acts as an observer for publisher Router, MockRouter, which is inherited by.

@@ -1,0 +1,2 @@
+FileSystem acts as an abstract product for FileSystem, which is inherited by NflyFSystem, AbstractHttpFileSystem, OBSFileSystem, CosNFileSystem, RawLocalFileSystem, ViewFileSystem, SFTPFileSystem, HttpFSFileSystem, AdlFileSystem, DistributedFileSystem, RawFileSystem, HarFileSystem, NativeAzureFileSystem, S3AFileSystem, FTPFileSystem, PseudoLocalFs, FilterFileSystem, WebHdfsFileSystem, AliyunOSSFileSystem, AzureBlobFileSystem.
+FileSystem acts as a factory for BulkDeleteSource, which overrides createBulkDelete method of BulkDeleteSource.

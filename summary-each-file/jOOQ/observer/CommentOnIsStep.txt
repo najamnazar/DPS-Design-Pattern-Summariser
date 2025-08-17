@@ -1,0 +1,1 @@
+CommentOnIsStep acts as a publisher for observer Comment, which is inherited by CommentOnImpl, which is @Stringly.Comment parameter of String, which is Comment parameter of comment.

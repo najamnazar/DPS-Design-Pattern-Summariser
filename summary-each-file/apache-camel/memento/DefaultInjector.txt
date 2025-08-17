@@ -1,0 +1,1 @@
+DefaultInjector acts as a caretaker for memento Context, which news Class<T> parameter of type Instance, which news Class<T> parameter of type, String parameter of factoryMethod Instance, which news Class<T> parameter of type, boolean parameter of postProcessBean Instance, which supports Auto Wiring.

@@ -1,0 +1,1 @@
+ServerHttpResponse acts as an abstract product for DefaultServerWebExchangeBuilder, which is inherited by AbstractServerHttpResponse, ServerHttpResponseDecorator, ZeroDemandResponse, ServletServerHttpResponse, DelegatingServerHttpResponse.

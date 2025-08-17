@@ -1,0 +1,1 @@
+ConsumerEndpointMappingResponseHandlingRouteTest acts as a caretaker for memento Context, which sets Up, which tests Root QName, which tests Soap Action, which tests Uri, which tests Uri Path, which tests Uri Path Wildcard, which tests XPath, which tests Action, which tests To, which creates Application Context, which gets Default Request Source.

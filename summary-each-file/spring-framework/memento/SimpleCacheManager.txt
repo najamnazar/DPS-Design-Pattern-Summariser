@@ -1,0 +1,1 @@
+SimpleCacheManager acts as a caretaker for memento C, which sets Collection<? parameter of extends Caches, which loads Caches.

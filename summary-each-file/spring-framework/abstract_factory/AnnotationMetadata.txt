@@ -1,0 +1,3 @@
+AnnotationMetadata acts as a product for MetadataReader, which overrides.
+AnnotationMetadata acts as an abstract factory for AnnotationMetadata, which is inherited by SimpleAnnotationMetadata, AnnotationMetadataReadingVisitor, StandardAnnotationMetadata.
+AnnotationMetadata acts as an abstract product for AnnotationMetadata, which is inherited by SimpleAnnotationMetadata, AnnotationMetadataReadingVisitor, StandardAnnotationMetadata.

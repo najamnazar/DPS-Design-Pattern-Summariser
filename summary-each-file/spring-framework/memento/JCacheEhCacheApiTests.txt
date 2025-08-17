@@ -1,0 +1,1 @@
+JCacheEhCacheApiTests acts as a caretaker for memento C, which setups, which gets Caching Provider, which shutdowns, which gets Cache, which gets boolean parameter of allowNull Cache, which gets Native Cache.

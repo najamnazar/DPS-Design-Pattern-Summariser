@@ -1,0 +1,2 @@
+OtherTestBean acts as a memento, which is Destroyed, which is Destroyed, which is Destroyed.
+OtherTestBean acts as an originator for memento ITestBean, which gets an ITestBean Other Bean to.

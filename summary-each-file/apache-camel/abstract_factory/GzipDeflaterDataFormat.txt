@@ -1,0 +1,2 @@
+GzipDeflaterDataFormat acts as a product for DataFormatDefinitionAware, which overrides.
+GzipDeflaterDataFormat acts as a product for Model, which overrides.

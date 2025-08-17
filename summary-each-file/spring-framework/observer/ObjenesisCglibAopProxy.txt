@@ -1,0 +1,1 @@
+ObjenesisCglibAopProxy acts as a publisher for observer MethodProxy, which creates Enhancer parameter of enhancer, Callback[] parameter of callbacks Proxy Class And Instance.

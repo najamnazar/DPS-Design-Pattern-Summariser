@@ -1,0 +1,4 @@
+Named acts as a product for Context, which overrides.
+Named acts as an abstract factory for Comment, Name, which is inherited by AbstractNamed.
+Named acts as a product for DiagnosticsContext, which overrides.
+Named acts as a product for VisitContext, which overrides.

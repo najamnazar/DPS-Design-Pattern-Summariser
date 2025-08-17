@@ -1,0 +1,1 @@
+MicroProfileMetricsRouteEventNotifierNamingStrategy acts as an observer for publisher MicroProfileMetricsRouteEventNotifier, which is inherited by, which gets Route Added Name, which gets Route Running Name, which gets Route Added Name, which gets Route Running Name, which gets CamelContext parameter of camelContext Tags.

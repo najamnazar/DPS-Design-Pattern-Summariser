@@ -1,0 +1,1 @@
+Bean acts as an observer for publisher BeanWrapperAutoGrowingTests, which is inherited by.

@@ -1,0 +1,1 @@
+NoContextEncryptionAdapter acts as an observer, which gets Instance, which gets Encoded Key, which gets Encoded Key SHA, which gets Encoded Context, which destroys.

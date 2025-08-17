@@ -1,0 +1,1 @@
+TypeCode acts as a caretaker for memento C, which gets Type, which fors String parameter of name Name, which fors Class<?> parameter of clazz Class.

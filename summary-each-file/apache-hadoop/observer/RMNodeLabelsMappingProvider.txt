@@ -1,0 +1,1 @@
+RMNodeLabelsMappingProvider acts as a publisher for observer Configuration, which gets Set<NodeId> parameter of nodes Node Labels.

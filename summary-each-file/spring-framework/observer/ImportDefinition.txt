@@ -1,0 +1,1 @@
+ImportDefinition acts as an observer for publisher ReaderEventListener, CollectingReaderEventListener, which is inherited by, which gets Imported Resource, which gets Actual Resources, which gets Source.

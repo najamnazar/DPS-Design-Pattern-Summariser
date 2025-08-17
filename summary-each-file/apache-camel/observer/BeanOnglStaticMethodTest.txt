@@ -1,0 +1,2 @@
+BeanOnglStaticMethodTest acts as a publisher for observer CamelContext, which tests Bean Ongl Static Method, which creates Route Builder, which ases Customer.
+BeanOnglStaticMethodTest acts as a publisher for observer Service, which tests Bean Ongl Static Method, which creates Route Builder, which ases Customer.

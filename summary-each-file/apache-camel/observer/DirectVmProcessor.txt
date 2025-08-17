@@ -1,0 +1,2 @@
+DirectVmProcessor acts as a publisher for observer Processor, which processes final parameter of Exchange, final parameter of AsyncCallback, which prepares Exchange parameter of exchange Exchange, which tos String.
+DirectVmProcessor acts as a publisher for observer AsyncProcessor, which processes final parameter of Exchange, final parameter of AsyncCallback, which prepares Exchange parameter of exchange Exchange, which tos String.

@@ -1,0 +1,2 @@
+SimpleMockPlaceholderTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Simple, which tests Simple Two Messages, which creates Route Builder.
+SimpleMockPlaceholderTest acts as a caretaker for memento Context, which creates Camel Context, which tests Simple, which tests Simple Two Messages, which creates Route Builder.

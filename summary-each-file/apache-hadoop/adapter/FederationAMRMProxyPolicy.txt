@@ -1,0 +1,2 @@
+FederationAMRMProxyPolicy acts as an adaptee for adapter FederationInterceptor, which adapts to AbstractRequestInterceptor, which adapts to AbstractRequestInterceptor.
+FederationAMRMProxyPolicy acts as an adaptee for adapter AbstractAMRMProxyPolicy, which adapts to AbstractConfigurableFederationPolicy, which adapts to AbstractConfigurableFederationPolicy.

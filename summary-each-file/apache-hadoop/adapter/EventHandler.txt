@@ -1,0 +1,8 @@
+EventHandler acts as an adaptee for adapter CheckpointAMPreemptionPolicy, which adapts to AMPreemptionPolicy.
+EventHandler acts as an adaptee for adapter KillAMPreemptionPolicy, which adapts to AMPreemptionPolicy.
+EventHandler acts as an adaptee for adapter RMCommunicator, which adapts to AbstractService.
+EventHandler acts as an adaptee for adapter TaskHeartbeatHandler, which adapts to AbstractService.
+EventHandler acts as an adaptee for adapter RMAppAttemptImpl, which adapts to Recoverable.
+EventHandler acts as an adaptee for adapter LocalContainerAllocator, which adapts to RMCommunicator.
+EventHandler acts as an adaptee for adapter RMAppImpl, which adapts to Recoverable.
+EventHandler acts as an adaptee for adapter RMStateStore, which adapts to AbstractService.

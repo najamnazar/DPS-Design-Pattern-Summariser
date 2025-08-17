@@ -1,0 +1,1 @@
+FlightRecorderApplicationStartup acts as a product for AbstractApplicationContext, which overrides start method of ApplicationStartup.

@@ -1,0 +1,1 @@
+CompletionOnQualifiedAllocationExpression acts as an adapter, which adapts to QualifiedAllocationExpression, which adapts to QualifiedAllocationExpression.

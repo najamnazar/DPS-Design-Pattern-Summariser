@@ -1,0 +1,2 @@
+XMLRoutineDefinition acts as a publisher for observer InformationSchema, which is inherited by, which overloads InformationSchema parameter of info, Routine parameter of routine, which init0s.
+XMLRoutineDefinition acts as a publisher for observer ParameterDefinition, which overloads InformationSchema parameter of info, Routine parameter of routine, which init0s.

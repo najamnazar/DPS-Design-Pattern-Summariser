@@ -1,0 +1,1 @@
+AnnotationAttributesReadingVisitor acts as a caretaker for memento A, which visits End, which recursivelies Set<Annotation> parameter of visited, Annotation parameter of annotation Collect Meta Annotations.

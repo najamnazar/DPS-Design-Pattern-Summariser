@@ -1,0 +1,1 @@
+StompClientSupportTests acts as a caretaker for memento C, which defaults Heartbeat Validation, which tries long[] parameter of heartbeat Set Default Heartbeat, which defaults Heartbeat Value, which is Default Heartbeat Enabled, which processes Connect Headers Default, which processes Connect Headers With Explicit Heartbeat.

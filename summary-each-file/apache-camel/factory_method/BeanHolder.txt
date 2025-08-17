@@ -1,0 +1,2 @@
+BeanHolder acts as an abstract product for BeanProcessor, which is inherited by RegistryBean, ConstantBeanHolder, RequestBeanHolder.
+BeanHolder acts as a factory for FaultToleranceProcessorFactory, which overrides.

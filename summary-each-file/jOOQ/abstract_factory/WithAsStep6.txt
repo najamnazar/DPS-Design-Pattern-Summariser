@@ -1,0 +1,3 @@
+WithAsStep6 acts as an abstract product for WithAsStep6, which is inherited by WithImpl, WithImpl, WithImpl, WithImpl.
+WithAsStep6 acts as an abstract factory for WithStep, which is inherited by WithImpl.
+WithAsStep6 acts as an abstract product for WithAsStep6, which is inherited by WithImpl, WithImpl.

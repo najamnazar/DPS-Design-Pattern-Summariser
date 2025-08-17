@@ -1,0 +1,2 @@
+ComparisonFailure acts as a caretaker for memento String, which gets Message.
+ComparisonFailure acts as a caretaker for memento S, which gets Message.

@@ -1,0 +1,2 @@
+AggregateClosedCorrelationKeyTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Aggregate Closed Correlation Key, which tests Aggregate Closed Correlation Key Cache.
+AggregateClosedCorrelationKeyTest acts as a publisher for observer Service, which is Use Route Builder, which tests Aggregate Closed Correlation Key, which tests Aggregate Closed Correlation Key Cache.

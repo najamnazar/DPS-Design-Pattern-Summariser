@@ -1,0 +1,2 @@
+BatchCompilerTest_16 acts as a caretaker for memento String, which suites, which tests Class, which tests Bug571454_001, which tests Bug570399.
+BatchCompilerTest_16 acts as a caretaker for memento S, which suites, which tests Class, which tests Bug571454_001, which tests Bug570399.

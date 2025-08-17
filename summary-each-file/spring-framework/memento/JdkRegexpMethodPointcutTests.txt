@@ -1,0 +1,2 @@
+JdkRegexpMethodPointcutTests acts as a caretaker for memento A, which gets Regexp Method Pointcut.
+JdkRegexpMethodPointcutTests acts as a caretaker for memento Pointcut, which gets Regexp Method Pointcut.

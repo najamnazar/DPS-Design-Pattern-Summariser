@@ -1,0 +1,1 @@
+ProgressListener acts as a publisher for observer ProgressListenerEvent, which is inherited by CountingProgressListener, which progresses ProgressListenerEvent parameter of eventType, long parameter of bytesTransferred Changed.

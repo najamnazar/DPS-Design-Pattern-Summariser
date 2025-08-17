@@ -1,0 +1,1 @@
+Lock acts as an observer for publisher AbstractJavaKeyStoreProvider, KeyStoreProvider, LocalKeyStoreProvider, which is inherited by InstrumentedLock.

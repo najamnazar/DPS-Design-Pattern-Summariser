@@ -1,0 +1,1 @@
+RecordReader acts as an observer, which nexts K parameter of key, V parameter of value, which creates Key, which creates Value, which gets Pos, which closes, which gets Progress.

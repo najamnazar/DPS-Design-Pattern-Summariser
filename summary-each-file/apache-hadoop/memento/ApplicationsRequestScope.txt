@@ -1,0 +1,1 @@
+ApplicationsRequestScope acts as a memento.

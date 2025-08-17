@@ -1,0 +1,5 @@
+XQueryPredicateFilterTest acts as a publisher for observer FluentProducerTemplate, which tests XQuery Splitter, which creates Route Builder.
+XQueryPredicateFilterTest acts as a publisher for observer ConsumerTemplate, which tests XQuery Splitter, which creates Route Builder.
+XQueryPredicateFilterTest acts as a publisher for observer ProducerTemplate, which tests XQuery Splitter, which creates Route Builder.
+XQueryPredicateFilterTest acts as a publisher for observer Service, which tests XQuery Splitter, which creates Route Builder.
+XQueryPredicateFilterTest acts as a publisher for observer CamelContext, which tests XQuery Splitter, which creates Route Builder.

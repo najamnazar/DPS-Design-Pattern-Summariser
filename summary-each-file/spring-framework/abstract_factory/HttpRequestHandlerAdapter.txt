@@ -1,0 +1,1 @@
+HttpRequestHandlerAdapter acts as a factory for HandlerAdapter, which overrides supports method of HandlerAdapter, handle method of HandlerAdapter, getLastModified method of HandlerAdapter.

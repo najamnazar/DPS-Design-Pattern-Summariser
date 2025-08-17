@@ -1,0 +1,4 @@
+ResourceTracker acts as an adaptee for adapter NodeStatusUpdaterImpl, which adapts to NodeStatusUpdater, AbstractService, which adapts to NodeStatusUpdater, AbstractService, which adapts to NodeStatusUpdater, AbstractService.
+ResourceTracker acts as an adaptee for adapter MockNodeStatusUpdater, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl, which adapts to NodeStatusUpdaterImpl.
+ResourceTracker acts as an adaptee for adapter TestNodeStatusUpdater, which adapts to NodeManagerTestBase, which adapts to NodeManagerTestBase, which adapts to NodeManagerTestBase.
+ResourceTracker acts as an adaptee for adapter ResourceTrackerService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

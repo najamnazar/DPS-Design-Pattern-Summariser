@@ -1,0 +1,1 @@
+SimpleAnnotationMetadata acts as a product for ConfigurationClassBeanDefinitionReader, which overrides getAnnotationTypes method of AnnotationMetadata, getAnnotatedMethods method of AnnotationMetadata.

@@ -1,0 +1,1 @@
+AbstractMBeanServerTests acts as a factory for AnnotationNamespaceDrivenTests, which overrides.

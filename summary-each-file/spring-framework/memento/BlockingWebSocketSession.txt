@@ -1,0 +1,4 @@
+BlockingWebSocketSession acts as a caretaker for memento A, which inits Send Latch, which sends WebSocketMessage<?> parameter of message Message, which blocks.
+BlockingWebSocketSession acts as a caretaker for memento Message, which inits Send Latch, which sends WebSocketMessage<?> parameter of message Message, which blocks.
+BlockingWebSocketSession acts as a caretaker for memento Headers, which inits Send Latch, which sends WebSocketMessage<?> parameter of message Message, which blocks.
+BlockingWebSocketSession acts as a caretaker for memento C, which inits Send Latch, which sends WebSocketMessage<?> parameter of message Message, which blocks.

@@ -1,0 +1,2 @@
+ResultSetSupportingSqlParameter acts as a caretaker for memento C, which is inherited by, which is Result Set Supported, which gets Result Set Extractor, which gets Row Callback Handler, which gets Row Mapper, which is Input Value Provided.
+ResultSetSupportingSqlParameter acts as a caretaker for memento Row, which is inherited by, which is Result Set Supported, which gets Result Set Extractor, which gets Row Callback Handler, which gets Row Mapper, which is Input Value Provided.

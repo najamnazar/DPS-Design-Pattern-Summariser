@@ -1,0 +1,4 @@
+BeanNamePointcutAtAspectTests acts as a caretaker for memento ITestBean, which setups, which tests Matching Bean Name, which tests Non Matching Bean Name, which tests Programmatic Proxy Creation, which increment1Fors Anonymous Pointcut.
+BeanNamePointcutAtAspectTests acts as a caretaker for memento B, which setups, which tests Matching Bean Name, which tests Non Matching Bean Name, which tests Programmatic Proxy Creation, which increment1Fors Anonymous Pointcut.
+BeanNamePointcutAtAspectTests acts as a caretaker for memento C, which setups, which tests Matching Bean Name, which tests Non Matching Bean Name, which tests Programmatic Proxy Creation, which increment1Fors Anonymous Pointcut.
+BeanNamePointcutAtAspectTests acts as a caretaker for memento A, which setups, which tests Matching Bean Name, which tests Non Matching Bean Name, which tests Programmatic Proxy Creation, which increment1Fors Anonymous Pointcut.

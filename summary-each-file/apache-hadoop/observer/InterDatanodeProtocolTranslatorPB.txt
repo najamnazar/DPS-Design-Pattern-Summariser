@@ -1,0 +1,1 @@
+InterDatanodeProtocolTranslatorPB acts as an observer, which closes, which inits RecoveringBlock parameter of rBlock Replica Recovery, which updates ExtendedBlock parameter of oldBlock, long parameter of recoveryId, long parameter of newBlockId, long parameter of newLength Replica Under Recovery, which is String parameter of methodName Method Supported.

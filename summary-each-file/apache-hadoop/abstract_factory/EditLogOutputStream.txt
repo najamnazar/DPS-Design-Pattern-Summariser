@@ -1,0 +1,1 @@
+EditLogOutputStream acts as an abstract product for EditLogOutputStream, which is inherited by EditLogBackupOutputStream, EditLogFileOutputStream, QuorumOutputStream.

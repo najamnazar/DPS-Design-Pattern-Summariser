@@ -1,0 +1,2 @@
+SourceRangeVerifier acts as a caretaker for memento S, which processes ASTNode parameter of node, which pres ASTNode parameter of node Visit2, which checks ASTNode parameter of parent, ASTNode parameter of previous, ASTNode parameter of child Child.
+SourceRangeVerifier acts as a caretaker for memento String, which processes ASTNode parameter of node, which pres ASTNode parameter of node Visit2, which checks ASTNode parameter of parent, ASTNode parameter of previous, ASTNode parameter of child Child.

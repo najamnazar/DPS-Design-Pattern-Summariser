@@ -1,0 +1,2 @@
+KubernetesServiceDiscovery acts as a caretaker for memento Context, which gets Configuration.
+KubernetesServiceDiscovery acts as a caretaker for memento Configuration, which is inherited by, which gets Configuration.

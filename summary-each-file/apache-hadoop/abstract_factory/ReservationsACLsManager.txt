@@ -1,0 +1,1 @@
+ReservationsACLsManager acts as an abstract product for ReservationsACLsManager, which is inherited by CapacityReservationsACLsManager, FairReservationsACLsManager.

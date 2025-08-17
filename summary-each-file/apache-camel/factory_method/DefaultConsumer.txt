@@ -1,0 +1,6 @@
+DefaultConsumer acts as a factory for RoundRobinLoadBalancer, which overrides.
+DefaultConsumer acts as a factory for UnitOfWork, which overrides done method of UnitOfWork.
+DefaultConsumer acts as a factory for DefaultEndpoint, which overrides.
+DefaultConsumer acts as a factory for ScheduledJobState, which overrides getRouteId method of ScheduledJobState, getEndpoint method of ScheduledJobState, getProcessor method of ScheduledJobState.
+DefaultConsumer acts as a factory for FaultToleranceProcessorFactory, which overrides.
+DefaultConsumer acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.

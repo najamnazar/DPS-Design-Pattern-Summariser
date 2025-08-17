@@ -1,0 +1,1 @@
+PredictionSkylineStore acts as an observer for publisher LpSolver, which is inherited by SkylineStore, which adds String parameter of pipelineId, RLESparseResourceAllocation parameter of resourceOverTime Estimation, which gets String parameter of pipelineId Estimation.

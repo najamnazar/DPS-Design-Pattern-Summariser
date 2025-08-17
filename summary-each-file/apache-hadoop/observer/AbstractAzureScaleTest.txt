@@ -1,0 +1,1 @@
+AbstractAzureScaleTest acts as a publisher for observer AzureBlobStorageTestAccount, which gets Test Timeout Millis, which sets Up, which creates Test Account, which gets Operation Count.

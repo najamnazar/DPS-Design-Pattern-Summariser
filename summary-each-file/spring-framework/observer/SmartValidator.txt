@@ -1,0 +1,1 @@
+SmartValidator acts as an observer, which validates Object parameter of target, Errors parameter of errors, Object... parameter of validationHints, which validates Class<?> parameter of targetType, String parameter of fieldName, @Nullable parameter of Object, Errors parameter of errors, Object... parameter of validationHints Value.

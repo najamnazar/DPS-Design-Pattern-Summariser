@@ -1,0 +1,1 @@
+MQ2Endpoint acts as a caretaker for memento Configuration, which creates Processor parameter of processor Consumer, which creates Producer, which does Start, which does Stop, which gets Configuration, which gets Amazon Mq Client.

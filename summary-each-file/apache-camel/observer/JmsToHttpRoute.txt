@@ -1,0 +1,7 @@
+JmsToHttpRoute acts as an observer, which configures.
+JmsToHttpRoute acts as a publisher for observer RestsDefinition, which configures.
+JmsToHttpRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+JmsToHttpRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+JmsToHttpRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+JmsToHttpRoute acts as a publisher for observer RoutesDefinition, which configures.
+JmsToHttpRoute acts as a publisher for observer Resource, which configures.

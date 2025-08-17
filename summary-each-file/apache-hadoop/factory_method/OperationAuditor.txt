@@ -1,0 +1,1 @@
+OperationAuditor acts as an abstract product for ActiveAuditManagerS3A, which is inherited by AbstractOperationAuditor.

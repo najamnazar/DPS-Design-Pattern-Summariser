@@ -1,0 +1,1 @@
+JobReport acts as an originator for memento JobState, which is inherited by, which gets a JobState Job State to, which sets JobState parameter of jobState Job State.

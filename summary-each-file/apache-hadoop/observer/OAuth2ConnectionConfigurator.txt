@@ -1,0 +1,1 @@
+OAuth2ConnectionConfigurator acts as an observer, which configures HttpURLConnection parameter of conn.

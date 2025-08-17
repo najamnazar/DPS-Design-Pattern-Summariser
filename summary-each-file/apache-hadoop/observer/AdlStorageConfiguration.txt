@@ -1,0 +1,1 @@
+AdlStorageConfiguration acts as a publisher for observer Configuration, which is inherited by, which gets Configuration, which is Contract Test Enabled, which creates Storage Connector, which creates Configuration parameter of fsConfig Storage Connector.

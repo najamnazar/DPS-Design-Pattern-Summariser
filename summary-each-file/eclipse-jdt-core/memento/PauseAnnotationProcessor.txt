@@ -1,0 +1,2 @@
+PauseAnnotationProcessor acts as a caretaker for memento E, which processes.
+PauseAnnotationProcessor acts as a caretaker for memento AnnotationType, which processes.

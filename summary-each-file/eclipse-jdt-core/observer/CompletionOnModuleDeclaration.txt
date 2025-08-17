@@ -1,0 +1,8 @@
+CompletionOnModuleDeclaration acts as an observer.
+CompletionOnModuleDeclaration acts as a publisher for observer ChildListPropertyDescriptor.
+CompletionOnModuleDeclaration acts as a publisher for observer SimplePropertyDescriptor.
+CompletionOnModuleDeclaration acts as a publisher for observer Javadoc.
+CompletionOnModuleDeclaration acts as a publisher for observer ASTNode.
+CompletionOnModuleDeclaration acts as a publisher for observer AST.
+CompletionOnModuleDeclaration acts as a publisher for observer Name.
+CompletionOnModuleDeclaration acts as a publisher for observer ChildPropertyDescriptor.

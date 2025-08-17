@@ -1,0 +1,3 @@
+GetReservationsHomeSubClusterRequestPBImpl acts as a caretaker for memento GetReservationsHomeSubClusterRequest, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+GetReservationsHomeSubClusterRequestPBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+GetReservationsHomeSubClusterRequestPBImpl acts as an originator for memento GetReservationsHomeSubClusterRequest.

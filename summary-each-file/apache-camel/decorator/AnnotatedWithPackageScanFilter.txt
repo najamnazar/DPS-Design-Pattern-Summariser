@@ -1,0 +1,1 @@
+AnnotatedWithPackageScanFilter acts as a component for decorator InvertingPackageScanFilter, which overrides matchesPackageScanFilter, toStringPackageScanFilter.

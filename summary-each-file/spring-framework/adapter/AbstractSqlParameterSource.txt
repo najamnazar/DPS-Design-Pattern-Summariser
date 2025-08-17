@@ -1,0 +1,1 @@
+AbstractSqlParameterSource acts as a target for adapter BeanPropertySqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource, which adapts to AbstractSqlParameterSource.

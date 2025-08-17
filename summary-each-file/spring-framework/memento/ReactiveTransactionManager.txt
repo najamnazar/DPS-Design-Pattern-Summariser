@@ -1,0 +1,1 @@
+ReactiveTransactionManager acts as a memento, which rollbacks ReactiveTransaction parameter of transaction Reactive Transaction, which rollbacks ReactiveTransaction parameter of transaction Reactive Transaction, which rollbacks ReactiveTransaction parameter of transaction Reactive Transaction.

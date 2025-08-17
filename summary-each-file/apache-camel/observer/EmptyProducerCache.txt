@@ -1,0 +1,3 @@
+EmptyProducerCache acts as a publisher for observer Endpoint, which acquires Endpoint parameter of endpoint Producer, which releases Endpoint parameter of endpoint, AsyncProducer parameter of producer Producer, which gets Capacity, which tos String.
+EmptyProducerCache acts as a publisher for observer Processor, which acquires Endpoint parameter of endpoint Producer, which releases Endpoint parameter of endpoint, AsyncProducer parameter of producer Producer, which gets Capacity, which tos String.
+EmptyProducerCache acts as a publisher for observer CamelContext, which acquires Endpoint parameter of endpoint Producer, which releases Endpoint parameter of endpoint, AsyncProducer parameter of producer Producer, which gets Capacity, which tos String.

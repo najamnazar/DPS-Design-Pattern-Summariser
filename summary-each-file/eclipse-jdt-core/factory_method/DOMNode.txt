@@ -1,0 +1,3 @@
+DOMNode acts as a factory for DOMNode, which overrides.
+DOMNode acts as a factory for IDOMNode, which overrides.
+DOMNode acts as a factory method for IDOMFactory, which is inherited by DOMNode, DOMNode, DOMNode, DOMNode.

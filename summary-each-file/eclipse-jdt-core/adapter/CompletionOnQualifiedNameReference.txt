@@ -1,0 +1,1 @@
+CompletionOnQualifiedNameReference acts as an adapter, which adapts to QualifiedNameReference, which adapts to QualifiedNameReference.

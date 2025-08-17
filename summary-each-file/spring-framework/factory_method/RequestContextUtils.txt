@@ -1,0 +1,1 @@
+RequestContextUtils acts as a factory method for ThemeResolver, which is inherited by WebMvcConfigurationSupport.

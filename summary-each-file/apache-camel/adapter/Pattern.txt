@@ -1,0 +1,11 @@
+Pattern acts as an adaptee for adapter BinaryExpression.
+Pattern acts as an adaptee for adapter SplunkEndpoint.
+Pattern acts as an adaptee for adapter GenerateExecution.
+Pattern acts as an adaptee for adapter VertxPlatformHttpConsumer.
+Pattern acts as an adaptee for adapter RestOpenApiEndpoint.
+Pattern acts as an adaptee for adapter ExpressionReifier.
+Pattern acts as an adaptee for adapter SalesforceComponent.
+Pattern acts as an adaptee for adapter GenericFileEndpoint.
+Pattern acts as an adaptee for adapter AbstractRestProcessor.
+Pattern acts as an adaptee for adapter JettyCustomPlatformHttpConsumer.
+Pattern acts as an adaptee for adapter JasyptPropertiesParser.

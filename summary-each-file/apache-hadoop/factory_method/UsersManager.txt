@@ -1,0 +1,1 @@
+UsersManager acts as a product for AbstractLeafQueue, which overrides activateApplication method of AbstractUsersManager, deactivateApplication method of AbstractUsersManager, getNumActiveUsers method of AbstractUsersManager.

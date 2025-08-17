@@ -1,0 +1,1 @@
+MiniMRClientCluster acts as a memento, which is inherited by MiniMRYarnClusterAdapter, which gets Config, which gets Config, which gets Config, which gets Config.

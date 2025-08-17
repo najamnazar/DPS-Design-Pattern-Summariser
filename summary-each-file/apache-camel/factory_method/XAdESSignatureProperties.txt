@@ -1,0 +1,1 @@
+XAdESSignatureProperties acts as a product for XmlSignerConfiguration, which overrides get method of XmlSignatureProperties.

@@ -1,0 +1,1 @@
+CompletionOnLocalName acts as an adapter, which adapts to LocalDeclaration, which adapts printAsExpression method of CompletionNode to LocalDeclaration, which adapts to LocalDeclaration.

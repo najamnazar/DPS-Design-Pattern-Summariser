@@ -1,0 +1,1 @@
+BeanExpressionContextAccessor acts as a product for ReflectivePropertyAccessor, which overrides.

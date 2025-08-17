@@ -1,0 +1,1 @@
+HazelcastSedaSpringSupportTest acts as a caretaker for memento Context, which simples Send, which creates Application Context.

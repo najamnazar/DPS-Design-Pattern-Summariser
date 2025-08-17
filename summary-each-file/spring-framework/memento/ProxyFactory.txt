@@ -1,0 +1,1 @@
+ProxyFactory acts as a caretaker for memento A, which gets Proxy, which gets @Nullable parameter of ClassLoader Proxy, which gets Class<T> parameter of proxyInterface, Interceptor parameter of interceptor Proxy, which gets Class<T> parameter of proxyInterface, TargetSource parameter of targetSource Proxy, which gets TargetSource parameter of targetSource Proxy.

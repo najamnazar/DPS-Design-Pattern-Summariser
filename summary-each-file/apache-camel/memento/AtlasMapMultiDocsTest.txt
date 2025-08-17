@@ -1,0 +1,1 @@
+AtlasMapMultiDocsTest acts as a caretaker for memento Context, which creates Application Context, which tests, which tests Body, which tests Header Docs, which tests Exchange Property Docs, which verifies Map<?, parameter of ?> Target Docs.

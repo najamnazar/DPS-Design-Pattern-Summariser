@@ -1,0 +1,1 @@
+ModulePathContainer acts as an observer, which gets Classpath Entries, which gets Description, which gets Kind, which gets Path.

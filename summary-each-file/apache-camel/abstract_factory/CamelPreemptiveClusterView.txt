@@ -1,0 +1,2 @@
+CamelPreemptiveClusterView acts as a product for CamelClusterService, which overrides.
+CamelPreemptiveClusterView acts as an abstract product for CamelPreemptiveClusterView, which is inherited by KubernetesClusterView.

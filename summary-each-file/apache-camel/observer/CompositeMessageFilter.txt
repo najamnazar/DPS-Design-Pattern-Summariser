@@ -1,0 +1,1 @@
+CompositeMessageFilter acts as an observer, which filters Exchange parameter of exchange, WebServiceMessage parameter of response Producer, which filters Exchange parameter of exchange, WebServiceMessage parameter of response Consumer, which sets List<MessageFilter> parameter of filters Filters, which gets Filters.

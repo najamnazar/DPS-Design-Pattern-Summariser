@@ -1,0 +1,1 @@
+TransactedAsyncExceptionTest acts as an adapter, which adapts to CamelTestSupport, which adapts dumpThreads method of ArtemisService to CamelTestSupport, which adapts to CamelTestSupport, which adapts getShutdownTimeout method of ArtemisService, getShutdownTimeout method of ArtemisService to CamelTestSupport.

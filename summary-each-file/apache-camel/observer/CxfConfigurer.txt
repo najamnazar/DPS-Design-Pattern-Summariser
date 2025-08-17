@@ -1,0 +1,1 @@
+CxfConfigurer acts as an observer for publisher CxfEndpoint, CxfSpringEndpoint, which is inherited by HostnameVerifierCxfConfigurer, ChainedCxfConfigurer, SslCxfConfigurer, which configures AbstractWSDLBasedEndpointFactory parameter of factoryBean, which configures Client parameter of client Client, which configures Server parameter of server Server.

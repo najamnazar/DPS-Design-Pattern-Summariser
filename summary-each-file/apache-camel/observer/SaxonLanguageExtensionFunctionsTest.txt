@@ -1,0 +1,5 @@
+SaxonLanguageExtensionFunctionsTest acts as a publisher for observer CamelContext, which tests With Extension, which creates Route Builder.
+SaxonLanguageExtensionFunctionsTest acts as a publisher for observer FluentProducerTemplate, which tests With Extension, which creates Route Builder.
+SaxonLanguageExtensionFunctionsTest acts as a publisher for observer ProducerTemplate, which tests With Extension, which creates Route Builder.
+SaxonLanguageExtensionFunctionsTest acts as a publisher for observer ConsumerTemplate, which tests With Extension, which creates Route Builder.
+SaxonLanguageExtensionFunctionsTest acts as a publisher for observer Service, which tests With Extension, which creates Route Builder.

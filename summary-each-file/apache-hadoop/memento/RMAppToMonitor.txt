@@ -1,0 +1,1 @@
+RMAppToMonitor acts as a caretaker for memento ApplicationTimeoutType, which gets Application Id, which gets App Timeout Type, which hashes Code, which equals Object parameter of obj, which tos String.

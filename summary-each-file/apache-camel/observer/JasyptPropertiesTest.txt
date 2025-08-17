@@ -1,0 +1,5 @@
+JasyptPropertiesTest acts as a publisher for observer ConsumerTemplate, which tests Jasypt Properties, which creates Camel Context, which creates Route Builder.
+JasyptPropertiesTest acts as a publisher for observer FluentProducerTemplate, which tests Jasypt Properties, which creates Camel Context, which creates Route Builder.
+JasyptPropertiesTest acts as a publisher for observer ProducerTemplate, which tests Jasypt Properties, which creates Camel Context, which creates Route Builder.
+JasyptPropertiesTest acts as a publisher for observer CamelContext, which tests Jasypt Properties, which creates Camel Context, which creates Route Builder.
+JasyptPropertiesTest acts as a publisher for observer Service, which tests Jasypt Properties, which creates Camel Context, which creates Route Builder.

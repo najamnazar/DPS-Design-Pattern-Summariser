@@ -1,0 +1,1 @@
+ComponentNameResolver acts as an abstract product for ComponentNameResolver, which is inherited by DefaultComponentNameResolver.

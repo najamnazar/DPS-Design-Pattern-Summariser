@@ -1,0 +1,1 @@
+ExceptionWebSocketHandlerDecorator acts as a decorator for decorator WebSocketHandlerDecorator, which overrides afterConnectionEstablished method of WebSocketHandlerDecorator, handleMessage method of WebSocketHandlerDecorator, handleTransportError method of WebSocketHandlerDecorator, afterConnectionClosed method of WebSocketHandlerDecorator.

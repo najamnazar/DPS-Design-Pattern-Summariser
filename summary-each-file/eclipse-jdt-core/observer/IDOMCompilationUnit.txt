@@ -1,0 +1,1 @@
+IDOMCompilationUnit acts as a publisher for observer String, which is inherited by DOMCompilationUnit, which gets Header, which gets Name, which sets String parameter of comment Header, which sets String parameter of name Name.

@@ -1,0 +1,1 @@
+Language acts as an observer for publisher LanguageCustomizer, which is inherited by LanguageSupport, HeaderLanguage, ExchangePropertyLanguage.

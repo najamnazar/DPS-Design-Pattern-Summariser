@@ -1,0 +1,1 @@
+UserOrderBy acts as an observer for publisher UserSearchCriteria, which is inherited by.

@@ -1,0 +1,3 @@
+SimpleTransactionFactory acts as a caretaker for memento Transaction, which creates @Nullable parameter of String, int parameter of timeout Transaction, which supports Resource Adapter Managed Transactions.
+SimpleTransactionFactory acts as an originator for memento Transaction, which creates a Transaction Transaction to.
+SimpleTransactionFactory acts as a caretaker for memento TransactionManager, which creates @Nullable parameter of String, int parameter of timeout Transaction, which supports Resource Adapter Managed Transactions.

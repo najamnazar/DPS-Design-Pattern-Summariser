@@ -1,0 +1,3 @@
+DirectFieldAccessorTests acts as a publisher for observer Address, which creates Object parameter of target Accessor, which withes Shadowed Field.
+DirectFieldAccessorTests acts as a publisher for observer Country, which creates Object parameter of target Accessor, which withes Shadowed Field.
+DirectFieldAccessorTests acts as a publisher for observer Autowire, which creates Object parameter of target Accessor, which withes Shadowed Field.

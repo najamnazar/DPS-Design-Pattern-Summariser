@@ -1,0 +1,1 @@
+JettyWebSocketClient acts as an adapter, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient.

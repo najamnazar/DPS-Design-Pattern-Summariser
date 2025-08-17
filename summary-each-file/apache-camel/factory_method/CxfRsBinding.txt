@@ -1,0 +1,1 @@
+CxfRsBinding acts as an abstract product for CxfRsEndpoint, which is inherited by DefaultCxfRsBinding.

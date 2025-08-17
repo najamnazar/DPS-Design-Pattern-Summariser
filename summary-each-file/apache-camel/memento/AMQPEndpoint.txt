@@ -1,0 +1,1 @@
+AMQPEndpoint acts as a caretaker for memento Configuration.

@@ -1,0 +1,1 @@
+ValueConverter acts as an abstract product for ValueConverter, which is inherited by GenericConverter, NumericValueConverter.

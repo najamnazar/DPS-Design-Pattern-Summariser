@@ -1,0 +1,1 @@
+ConcurrentWriteOperationDetectedException acts as an observer.

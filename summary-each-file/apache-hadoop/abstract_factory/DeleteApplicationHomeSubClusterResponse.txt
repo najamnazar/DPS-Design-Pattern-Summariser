@@ -1,0 +1,1 @@
+DeleteApplicationHomeSubClusterResponse acts as an abstract product for DeleteApplicationHomeSubClusterResponse, which is inherited by DeleteApplicationHomeSubClusterResponsePBImpl.

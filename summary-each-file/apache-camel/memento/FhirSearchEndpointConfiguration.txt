@@ -1,0 +1,1 @@
+FhirSearchEndpointConfiguration acts as a caretaker for memento Context, which gets Extra Parameters, which sets java.util.Map<org.apache.camel.component.fhir.api.ExtraParameters, parameter of Object> Extra Parameters, which gets Url, which sets String parameter of url Url.

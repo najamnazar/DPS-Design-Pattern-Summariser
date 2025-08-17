@@ -1,0 +1,7 @@
+MyEchoRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyEchoRoute acts as a publisher for observer Resource, which configures.
+MyEchoRoute acts as a publisher for observer RoutesDefinition, which configures.
+MyEchoRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyEchoRoute acts as a publisher for observer RestsDefinition, which configures.
+MyEchoRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyEchoRoute acts as an observer, which configures.

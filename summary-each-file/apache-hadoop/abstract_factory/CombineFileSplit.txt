@@ -1,0 +1,2 @@
+CombineFileSplit acts as a product for MapContext, which overrides.
+CombineFileSplit acts as a product for Reporter, which overrides.

@@ -1,0 +1,3 @@
+XMLAttributesImpl acts as a memento, which $attributeses, which $attributeses.
+XMLAttributesImpl acts as a caretaker for memento A, which accepts Context<?> parameter of ctx, which $attributeses.
+XMLAttributesImpl acts as a caretaker for memento XMLAttributes, which accepts Context<?> parameter of ctx, which $attributeses.

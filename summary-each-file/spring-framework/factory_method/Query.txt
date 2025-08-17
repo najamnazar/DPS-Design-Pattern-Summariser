@@ -1,0 +1,1 @@
+Query acts as a factory for CloseableQuery, which overrides.

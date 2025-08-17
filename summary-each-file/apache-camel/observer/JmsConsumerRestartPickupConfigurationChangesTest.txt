@@ -1,0 +1,1 @@
+JmsConsumerRestartPickupConfigurationChangesTest acts as a publisher for observer ArtemisService, which tests Restart Jms Consumer Pickup Changes, which gets Component Name.

@@ -1,0 +1,5 @@
+BasicDisruptorComponentTest acts as a publisher for observer ConsumerTemplate, which tests Produce, which creates Route Builder.
+BasicDisruptorComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Produce, which creates Route Builder.
+BasicDisruptorComponentTest acts as a publisher for observer ProducerTemplate, which tests Produce, which creates Route Builder.
+BasicDisruptorComponentTest acts as a publisher for observer CamelContext, which tests Produce, which creates Route Builder.
+BasicDisruptorComponentTest acts as a publisher for observer Service, which tests Produce, which creates Route Builder.

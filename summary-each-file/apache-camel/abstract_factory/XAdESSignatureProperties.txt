@@ -1,0 +1,1 @@
+XAdESSignatureProperties acts as a factory for XmlSignatureProperties, which overrides get method of XmlSignatureProperties.

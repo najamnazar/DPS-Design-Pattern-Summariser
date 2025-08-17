@@ -1,0 +1,4 @@
+GenClassProc acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts createSourceFile method of Messager to AbstractProcessor.
+GenClassProc acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts createSourceFile method of TypeElement to AbstractProcessor.
+GenClassProc acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts createSourceFile method of Elements to AbstractProcessor.
+GenClassProc acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts createSourceFile method of Filer to AbstractProcessor.

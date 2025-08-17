@@ -1,0 +1,1 @@
+INodeMap acts as a publisher for observer INode, which is inherited by, which news INodeDirectory parameter of rootDir Instance, which gets Map Iterator, which puts INode parameter of inode, which removes INode parameter of inode, which sizes, which gets long parameter of id, which clears.

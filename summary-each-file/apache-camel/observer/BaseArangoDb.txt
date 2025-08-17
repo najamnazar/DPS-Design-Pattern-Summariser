@@ -1,0 +1,5 @@
+BaseArangoDb acts as a publisher for observer CamelContext, which does Before All, which does After All, which creates Camel Context.
+BaseArangoDb acts as a publisher for observer ConsumerTemplate, which does Before All, which does After All, which creates Camel Context.
+BaseArangoDb acts as a publisher for observer Service, which does Before All, which does After All, which creates Camel Context.
+BaseArangoDb acts as a publisher for observer FluentProducerTemplate, which does Before All, which does After All, which creates Camel Context.
+BaseArangoDb acts as a publisher for observer ProducerTemplate, which does Before All, which does After All, which creates Camel Context.

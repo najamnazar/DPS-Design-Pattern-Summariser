@@ -1,0 +1,1 @@
+WebSessionMethodArgumentResolverTests acts as a caretaker for memento A, which supports Parameter, which resolvers Argument, which handles WebSession parameter of user, Mono<WebSession> parameter of userMono, Single<WebSession> parameter of singleUser.

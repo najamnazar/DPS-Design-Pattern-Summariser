@@ -1,0 +1,1 @@
+ContentBasedVersionStrategyTests acts as a caretaker for memento C, which setups, which extracts Version, which removes Version, which gets Resource Version, which adds Version To Url.

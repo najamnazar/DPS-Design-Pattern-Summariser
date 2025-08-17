@@ -1,0 +1,1 @@
+NettyCamelState acts as an observer for publisher NettyCustomCorrelationManagerTest, which is inherited by, which gets Callback, which is Done, which callbacks boolean parameter of doneSync Done Once, which gets Exchange, which ons Exception Caught, which ons boolean parameter of doneSync Exception Caught Once.

@@ -1,0 +1,2 @@
+RssFilterTest acts as a caretaker for memento Producer, which tests Filter Out Non Camel Posts, which binds Registry parameter of registry To Registry, which creates Route Builder, which titles @Body parameter of SyndFeed Contains Camel.
+RssFilterTest acts as a caretaker for memento Context, which tests Filter Out Non Camel Posts, which binds Registry parameter of registry To Registry, which creates Route Builder, which titles @Body parameter of SyndFeed Contains Camel.

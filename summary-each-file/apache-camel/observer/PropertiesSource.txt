@@ -1,0 +1,1 @@
+PropertiesSource acts as an observer for publisher PropertiesComponent, which is inherited by LocationPropertiesSource, LoadablePropertiesSource, BridgePropertyPlaceholderConfigurer, which gets Name, which gets String parameter of name Property.

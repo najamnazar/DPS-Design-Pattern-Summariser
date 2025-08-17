@@ -1,0 +1,2 @@
+Deprecation acts as a caretaker for memento String, which deprecateds Method, which nons Deprecated Method.
+Deprecation acts as a caretaker for memento S, which deprecateds Method, which nons Deprecated Method.

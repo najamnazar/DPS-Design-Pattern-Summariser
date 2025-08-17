@@ -1,0 +1,1 @@
+HelsinkiServiceNowServiceCatalogProcessor acts as a caretaker for memento Configuration, which retrieves Exchange parameter of exchange Catalogs, which retrieves Exchange parameter of exchange Catalogs Categories.

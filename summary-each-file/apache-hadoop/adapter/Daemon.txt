@@ -1,0 +1,4 @@
+Daemon acts as an adaptee for adapter FSNamesystem, which adapts to FSNamesystemMBean, which adapts to FSNamesystemMBean.
+Daemon acts as an adaptee for adapter HeartbeatManager, which adapts to DatanodeStatistics, which adapts to DatanodeStatistics.
+Daemon acts as an adaptee for adapter BlockPoolSliceStorage, which adapts to Storage, which adapts to Storage.
+Daemon acts as an adaptee for adapter DataNode, which adapts to ReconfigurableBase, DataNodeMXBean, which adapts to ReconfigurableBase, DataNodeMXBean.

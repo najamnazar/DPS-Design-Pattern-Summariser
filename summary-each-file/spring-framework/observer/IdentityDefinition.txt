@@ -1,0 +1,1 @@
+IdentityDefinition acts as an observer, which gets Table, which gets Column.

@@ -1,0 +1,1 @@
+ApplicationMasterServiceProtoTestBase acts as a factory for TestAMRMTokens, which overrides.

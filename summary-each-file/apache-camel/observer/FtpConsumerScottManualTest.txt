@@ -1,0 +1,5 @@
+FtpConsumerScottManualTest acts as a publisher for observer ConsumerTemplate, which tests Ftp Consumer Manual, which creates Route Builder.
+FtpConsumerScottManualTest acts as a publisher for observer ProducerTemplate, which tests Ftp Consumer Manual, which creates Route Builder.
+FtpConsumerScottManualTest acts as a publisher for observer FluentProducerTemplate, which tests Ftp Consumer Manual, which creates Route Builder.
+FtpConsumerScottManualTest acts as a publisher for observer CamelContext, which tests Ftp Consumer Manual, which creates Route Builder.
+FtpConsumerScottManualTest acts as a publisher for observer Service, which tests Ftp Consumer Manual, which creates Route Builder.

@@ -1,0 +1,1 @@
+ASTParserTest acts as a caretaker for memento S, which suites, which sets Up, which tears Down, which gets Name, which tests KConstants, which tests Setting.

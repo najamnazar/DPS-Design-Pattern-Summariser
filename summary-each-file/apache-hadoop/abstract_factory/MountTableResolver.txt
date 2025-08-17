@@ -1,0 +1,1 @@
+MountTableResolver acts as a factory for FileSubclusterResolver, which overrides getDefaultNamespace method of FileSubclusterResolver.

@@ -1,0 +1,1 @@
+AnnotationConfigTestNGSpringContextTests acts as a publisher for observer ApplicationContext, which autowirings From Config Class, which employees, which pets.

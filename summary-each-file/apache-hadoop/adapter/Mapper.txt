@@ -1,0 +1,1 @@
+Mapper acts as an adaptee for adapter PipeMapper, which adapts to PipeMapRed.

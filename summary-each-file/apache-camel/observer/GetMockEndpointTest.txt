@@ -1,0 +1,5 @@
+GetMockEndpointTest acts as a publisher for observer FluentProducerTemplate, which tests Mock, which creates Route Builder.
+GetMockEndpointTest acts as a publisher for observer ProducerTemplate, which tests Mock, which creates Route Builder.
+GetMockEndpointTest acts as a publisher for observer ConsumerTemplate, which tests Mock, which creates Route Builder.
+GetMockEndpointTest acts as a publisher for observer Service, which tests Mock, which creates Route Builder.
+GetMockEndpointTest acts as a publisher for observer CamelContext, which tests Mock, which creates Route Builder.

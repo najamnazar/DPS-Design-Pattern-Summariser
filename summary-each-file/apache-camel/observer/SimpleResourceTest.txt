@@ -1,0 +1,2 @@
+SimpleResourceTest acts as a publisher for observer CamelContext, which tests Simple Resource, which creates Route Builder.
+SimpleResourceTest acts as a publisher for observer Service, which tests Simple Resource, which creates Route Builder.

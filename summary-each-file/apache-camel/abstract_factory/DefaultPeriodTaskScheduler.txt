@@ -1,0 +1,1 @@
+DefaultPeriodTaskScheduler acts as a product for ExtendedCamelContext, which overrides schedulePeriodTask method of PeriodTaskScheduler, getTaskByType method of PeriodTaskScheduler.

@@ -1,0 +1,2 @@
+StubConsumerTest acts as a publisher for observer Service, which creates Route Builder, which tests ExchangePattern parameter of mep, which tests In Only, which tests In Out.
+StubConsumerTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests ExchangePattern parameter of mep, which tests In Only, which tests In Out.

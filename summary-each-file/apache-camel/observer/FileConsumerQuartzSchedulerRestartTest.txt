@@ -1,0 +1,5 @@
+FileConsumerQuartzSchedulerRestartTest acts as a publisher for observer ProducerTemplate, which tests Quartz Scheduler Restart, which creates Route Builder.
+FileConsumerQuartzSchedulerRestartTest acts as a publisher for observer FluentProducerTemplate, which tests Quartz Scheduler Restart, which creates Route Builder.
+FileConsumerQuartzSchedulerRestartTest acts as a publisher for observer Service, which tests Quartz Scheduler Restart, which creates Route Builder.
+FileConsumerQuartzSchedulerRestartTest acts as a publisher for observer ConsumerTemplate, which tests Quartz Scheduler Restart, which creates Route Builder.
+FileConsumerQuartzSchedulerRestartTest acts as a publisher for observer CamelContext, which tests Quartz Scheduler Restart, which creates Route Builder.

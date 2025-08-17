@@ -1,0 +1,1 @@
+DefaultDeserializer acts as a caretaker for memento C, which deserializes InputStream parameter of inputStream.

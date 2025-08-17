@@ -1,0 +1,2 @@
+CamelCaseInsentiveHeadersTrueTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Casesensitive, which creates Route Builder.
+CamelCaseInsentiveHeadersTrueTest acts as a caretaker for memento Context, which creates Camel Context, which tests Casesensitive, which creates Route Builder.

@@ -1,0 +1,1 @@
+ConfigurableConversionService acts as an abstract product for ConfigurablePropertyResolver, which is inherited by GenericConversionService.

@@ -1,0 +1,1 @@
+AbstractConditionalEnumConverter acts as a caretaker for memento C, which is inherited by, which matches TypeDescriptor parameter of sourceType, TypeDescriptor parameter of targetType.

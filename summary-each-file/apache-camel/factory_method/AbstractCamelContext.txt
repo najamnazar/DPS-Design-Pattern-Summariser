@@ -1,0 +1,5 @@
+AbstractCamelContext acts as a factory method for CliConnectorFactory, which is inherited by ExtendedCamelContext, ExtendedCamelContext, AbstractCamelContext, SimpleCamelContext, ExtendedCamelContext.
+AbstractCamelContext acts as a factory for FromRestConfigurationTest, which overrides.
+AbstractCamelContext acts as a factory for AbstractCamelContext, which overrides.
+AbstractCamelContext acts as a factory for FaultToleranceProcessorFactory, which overrides.
+AbstractCamelContext acts as a factory for ScheduledJobState, which overrides getDescription method of ScheduledJobState, getRouteController method of ScheduledJobState, getServices method of ScheduledJobState, getInterceptStrategies method of ScheduledJobState, getErrorHandlerFactory method of ScheduledJobState, setErrorHandlerFactory method of ScheduledJobState, getUptime method of ScheduledJobState, getUptimeMillis method of ScheduledJobState, setAutoStartup method of ScheduledJobState, isAutoStartup method of ScheduledJobState.

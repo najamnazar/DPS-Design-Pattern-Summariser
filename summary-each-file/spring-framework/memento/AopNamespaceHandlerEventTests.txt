@@ -1,0 +1,2 @@
+AopNamespaceHandlerEventTests acts as a caretaker for memento C, which setups, which tests Pointcut Events, which tests Advisor Events With Pointcut Ref, which tests Advisor Events With Direct Pointcut, which tests Aspect Event.
+AopNamespaceHandlerEventTests acts as a caretaker for memento B, which setups, which tests Pointcut Events, which tests Advisor Events With Pointcut Ref, which tests Advisor Events With Direct Pointcut, which tests Aspect Event.

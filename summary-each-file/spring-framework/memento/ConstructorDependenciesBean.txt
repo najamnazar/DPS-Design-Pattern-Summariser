@@ -1,0 +1,2 @@
+ConstructorDependenciesBean acts as a caretaker for memento Index, which is inherited by, which gets Age, which gets Name, which gets Spouse1, which gets Spouse2, which gets Other, which sets int parameter of age Age, which sets String parameter of name Name.
+ConstructorDependenciesBean acts as a caretaker for memento B, which is inherited by, which gets Age, which gets Name, which gets Spouse1, which gets Spouse2, which gets Other, which sets int parameter of age Age, which sets String parameter of name Name.

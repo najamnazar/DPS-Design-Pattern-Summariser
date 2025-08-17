@@ -1,0 +1,2 @@
+AttachmentMessage acts as a factory for AttachmentMessage, which overrides.
+AttachmentMessage acts as a factory method for Attachment, which is inherited by AttachmentMessage.

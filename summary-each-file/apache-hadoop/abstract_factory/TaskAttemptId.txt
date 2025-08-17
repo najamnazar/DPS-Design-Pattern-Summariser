@@ -1,0 +1,2 @@
+TaskAttemptId acts as an abstract product for TaskAttemptId, which is inherited by TaskAttemptIdPBImpl, TaskAttemptIdPBImpl.
+TaskAttemptId acts as an abstract product for TaskAttemptId, which is inherited by TaskAttemptIdPBImpl.

@@ -1,0 +1,2 @@
+RuleBasedTransactionAttribute acts as a caretaker for memento A, which sets List<RollbackRuleAttribute> parameter of rollbackRules Rollback Rules, which gets Rollback Rules, which rollbacks Throwable parameter of ex On, which tos String.
+RuleBasedTransactionAttribute acts as a caretaker for memento C, which sets List<RollbackRuleAttribute> parameter of rollbackRules Rollback Rules, which gets Rollback Rules, which rollbacks Throwable parameter of ex On, which tos String.

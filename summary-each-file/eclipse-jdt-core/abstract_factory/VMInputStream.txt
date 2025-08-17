@@ -1,0 +1,1 @@
+VMInputStream acts as a product for FileObject, which overrides available method of InputStream, close method of InputStream, read method of InputStream.

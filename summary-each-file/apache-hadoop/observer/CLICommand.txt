@@ -1,0 +1,1 @@
+CLICommand acts as an observer for publisher CLITestHelper, TestCacheAdminCLI, CLITestHelperDFS, TestCLI, TestErasureCodingCLI, which is inherited by CLITestCmd, which gets String parameter of tag, Configuration parameter of conf Executor, which gets Type, which gets Cmd, which tos String.

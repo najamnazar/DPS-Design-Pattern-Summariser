@@ -1,0 +1,2 @@
+RecipientListNoCacheTest acts as a publisher for observer CamelContext, which tests No Cache, which tests No Thread Pool, which sends String parameter of body Body, which creates Route Builder.
+RecipientListNoCacheTest acts as a publisher for observer Service, which tests No Cache, which tests No Thread Pool, which sends String parameter of body Body, which creates Route Builder.

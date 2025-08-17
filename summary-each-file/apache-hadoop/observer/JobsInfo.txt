@@ -1,0 +1,1 @@
+JobsInfo acts as a publisher for observer JobInfo, which is inherited by, which adds JobInfo parameter of jobInfo, which gets Jobs.

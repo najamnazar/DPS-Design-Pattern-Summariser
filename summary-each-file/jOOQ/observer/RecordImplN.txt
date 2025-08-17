@@ -1,0 +1,3 @@
+RecordImplN acts as a publisher for observer Record, which fieldses Row, which values Row.
+RecordImplN acts as an observer, which fieldses Row, which values Row.
+RecordImplN acts as a publisher for observer AbstractRecord, which fieldses Row, which values Row.

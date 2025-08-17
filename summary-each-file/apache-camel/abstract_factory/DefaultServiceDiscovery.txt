@@ -1,0 +1,2 @@
+DefaultServiceDiscovery acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.
+DefaultServiceDiscovery acts as a product for ServiceDiscoveryAware, which overrides getServices method of ServiceDiscovery.

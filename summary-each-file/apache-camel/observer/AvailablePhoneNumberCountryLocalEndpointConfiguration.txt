@@ -1,0 +1,2 @@
+AvailablePhoneNumberCountryLocalEndpointConfiguration acts as a publisher for observer TwilioApiName, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Path Country Code, which sets String parameter of pathCountryCode Path Country Code.
+AvailablePhoneNumberCountryLocalEndpointConfiguration acts as an observer, which gets Path Account Sid, which sets String parameter of pathAccountSid Path Account Sid, which gets Path Country Code, which sets String parameter of pathCountryCode Path Country Code.

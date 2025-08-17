@@ -1,0 +1,2 @@
+CompositeComponentDefinition acts as an observer for publisher ParserContext, TemplateParserContext, which is inherited by AspectComponentDefinition, which gets Name, which gets Source, which adds ComponentDefinition parameter of component Nested Component, which gets Nested Components.
+CompositeComponentDefinition acts as a publisher for observer ComponentDefinition, which is inherited by AspectComponentDefinition, which gets Name, which gets Source, which adds ComponentDefinition parameter of component Nested Component, which gets Nested Components.

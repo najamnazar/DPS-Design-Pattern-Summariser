@@ -1,0 +1,1 @@
+HttpComponentsClientHttpResponse acts as a product for ClientHttpRequest, which overrides getStatusCode method of ClientHttpResponse, getRawStatusCode method of ClientHttpResponse, getCookies method of ClientHttpResponse.

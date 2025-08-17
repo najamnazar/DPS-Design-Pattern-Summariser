@@ -1,0 +1,2 @@
+ActiveMQTestSupport acts as a caretaker for memento Context.
+ActiveMQTestSupport acts as a caretaker for memento Producer.

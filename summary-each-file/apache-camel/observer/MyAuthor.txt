@@ -1,0 +1,1 @@
+MyAuthor acts as an observer for publisher MyBook, which is inherited by, which gets Author Id, which sets String parameter of authorId Author Id, which gets First Name, which sets String parameter of firstName First Name, which gets Last Name, which sets String parameter of lastName Last Name.

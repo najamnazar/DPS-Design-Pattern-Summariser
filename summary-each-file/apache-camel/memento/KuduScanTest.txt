@@ -1,0 +1,1 @@
+KuduScanTest acts as a caretaker for memento Configuration, which creates Route Builder, which setups, which scans, which scans Table.

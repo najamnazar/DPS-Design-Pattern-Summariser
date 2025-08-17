@@ -1,0 +1,1 @@
+LocalizationProtocolPBClientImpl acts as a factory for LocalizationProtocol, which overrides heartbeat method of LocalizationProtocol.

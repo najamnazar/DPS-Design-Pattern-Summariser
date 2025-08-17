@@ -1,0 +1,1 @@
+XPathLanguageDefaultSettingsTest acts as a caretaker for memento Context, which sets Up, which tears Down, which creates Application Context, which tests Spring DSLXPath Language Default Settings.

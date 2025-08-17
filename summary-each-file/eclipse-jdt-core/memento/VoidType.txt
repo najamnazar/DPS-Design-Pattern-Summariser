@@ -1,0 +1,2 @@
+VoidType acts as a memento, which is inherited by VoidTypeImpl.
+VoidType acts as an originator for memento String.

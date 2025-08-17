@@ -1,0 +1,1 @@
+SettlementBatchSummaryGatewayIT acts as a publisher for observer AuthenticationType, which tests Generate, which tests Generate With Custom Fields, which creates Route Builder.

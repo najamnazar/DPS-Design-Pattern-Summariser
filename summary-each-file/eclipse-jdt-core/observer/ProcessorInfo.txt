@@ -1,0 +1,1 @@
+ProcessorInfo acts as an observer for publisher RoundDispatcher, which is inherited by, which computes Set<TypeElement> parameter of annotations, Set<TypeElement> parameter of result Supported Annotations, which supports Star, which resets, which hashes Code, which equals Object parameter of obj, which tos String, which gets Supported Annotation Types As String.

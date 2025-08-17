@@ -1,0 +1,3 @@
+DefaultUriFactoryResolver acts as a product for ExtendedCamelContext, which overrides.
+DefaultUriFactoryResolver acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultUriFactoryResolver acts as a factory for UriFactoryResolver, which overrides.

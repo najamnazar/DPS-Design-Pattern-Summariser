@@ -1,0 +1,2 @@
+IAptHelpContextIds acts as a caretaker for memento S.
+IAptHelpContextIds acts as a caretaker for memento String.

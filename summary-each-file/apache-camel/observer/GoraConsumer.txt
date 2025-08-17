@@ -1,0 +1,3 @@
+GoraConsumer acts as a publisher for observer PollingConsumerPollStrategy, which polls.
+GoraConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which polls.
+GoraConsumer acts as a publisher for observer LoggingLevel, which polls.

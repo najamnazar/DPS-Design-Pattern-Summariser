@@ -1,0 +1,1 @@
+AnnotationProcessorFactoryLoader acts as a singleton, which gets an AnnotationProcessorFactoryLoader Loader to processAnnotations method of IdeAnnotationProcessorManager.

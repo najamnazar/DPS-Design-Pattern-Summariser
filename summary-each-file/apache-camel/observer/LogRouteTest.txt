@@ -1,0 +1,2 @@
+LogRouteTest acts as a publisher for observer CamelContext, which tests Send Message To Log, which tests Send Message To Info Log, which tests Send Message To Warn Log, which tests Send Message To Bad Level.
+LogRouteTest acts as a publisher for observer Service, which tests Send Message To Log, which tests Send Message To Info Log, which tests Send Message To Warn Log, which tests Send Message To Bad Level.

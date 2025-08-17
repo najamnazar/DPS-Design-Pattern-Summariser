@@ -1,0 +1,2 @@
+Interval acts as an abstract factory for Interval, which is inherited by YearToSecond, DayToSecond, YearToMonth.
+Interval acts as an abstract product for Interval, which is inherited by YearToSecond, YearToSecond, DayToSecond, DayToSecond, YearToMonth, YearToMonth.

@@ -1,0 +1,1 @@
+HandshakeInterceptor acts as an adaptee for adapter HandshakeInterceptorChainTests, which adapts to AbstractHttpRequestTests, which adapts to AbstractHttpRequestTests.

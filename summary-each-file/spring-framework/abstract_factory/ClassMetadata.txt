@@ -1,0 +1,1 @@
+ClassMetadata acts as an abstract product for ClassMetadata, which is inherited by AnnotationMetadata, ClassMetadataReadingVisitor, StandardClassMetadata.

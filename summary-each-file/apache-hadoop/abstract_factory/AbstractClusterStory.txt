@@ -1,0 +1,1 @@
+AbstractClusterStory acts as a factory for ClusterStory, which overrides getMachines method of ClusterStory, getRacks method of ClusterStory, getRandomMachines method of ClusterStory, getMachineByName method of ClusterStory, distance method of ClusterStory, getRackByName method of ClusterStory, getMaximumDistance method of ClusterStory.

@@ -1,0 +1,2 @@
+Person acts as an abstract product for Person, which is inherited by SerializablePerson, SerializablePerson, PersonEntity, PersonEntity.
+Person acts as an abstract product for Person, which is inherited by SerializablePerson, PersonEntity.

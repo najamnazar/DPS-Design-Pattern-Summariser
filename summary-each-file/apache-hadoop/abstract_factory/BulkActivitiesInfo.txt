@@ -1,0 +1,1 @@
+BulkActivitiesInfo acts as an abstract product for BulkActivitiesInfo, which is inherited by FederationBulkActivitiesInfo.

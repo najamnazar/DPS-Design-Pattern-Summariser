@@ -1,0 +1,1 @@
+ZKFederationStateStoreOpDurations acts as a singleton, which gets a ZKFederationStateStoreOpDurations Instance to.

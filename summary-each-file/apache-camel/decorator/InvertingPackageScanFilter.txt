@@ -1,0 +1,1 @@
+InvertingPackageScanFilter acts as a decorator for component PackageScanFilter, which is inherited by.

@@ -1,0 +1,1 @@
+SimpleConnectionHandle acts as a product for JpaDialect, which overrides getConnection method of ConnectionHandle.

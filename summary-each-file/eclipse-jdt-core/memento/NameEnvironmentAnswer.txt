@@ -1,0 +1,4 @@
+NameEnvironmentAnswer acts as a caretaker for memento S, which gets Binary Type, which gets Compilation Unit, which gets Source Types, which is Binary Type, which is Compilation Unit, which is Source Type.
+NameEnvironmentAnswer acts as a caretaker for memento ISourceType, which gets Binary Type, which gets Compilation Unit, which gets Source Types, which is Binary Type, which is Compilation Unit, which is Source Type.
+NameEnvironmentAnswer acts as a caretaker for memento ICompilationUnit, which gets Binary Type, which gets Compilation Unit, which gets Source Types, which is Binary Type, which is Compilation Unit, which is Source Type.
+NameEnvironmentAnswer acts as a caretaker for memento C, which gets Binary Type, which gets Compilation Unit, which gets Source Types, which is Binary Type, which is Compilation Unit, which is Source Type.

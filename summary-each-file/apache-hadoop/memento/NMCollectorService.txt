@@ -1,0 +1,1 @@
+NMCollectorService acts as an originator for memento ReportNewCollectorInfoResponse, which reports a ReportNewCollectorInfoResponse New Collector Info to.

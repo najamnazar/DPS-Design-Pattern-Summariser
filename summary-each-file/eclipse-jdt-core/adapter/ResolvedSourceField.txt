@@ -1,0 +1,2 @@
+ResolvedSourceField acts as a target for adapter AssistSourceField, which adapts to ResolvedSourceField, which adapts to ResolvedSourceField, which adapts to ResolvedSourceField, which adapts to ResolvedSourceField.
+ResolvedSourceField acts as an adapter, which adapts getKey method of String to SourceField, which adapts to SourceField, which adapts to SourceField, which adapts to SourceField.

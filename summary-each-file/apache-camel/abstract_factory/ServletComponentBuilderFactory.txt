@@ -1,0 +1,1 @@
+ServletComponentBuilderFactory acts as an abstract factory for ServletComponent, which is inherited by.

@@ -1,0 +1,2 @@
+SQLCondition acts as a caretaker for memento SQL, which parenthesiseds Context<?> parameter of ctx, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+SQLCondition acts as a caretaker for memento Clause, which parenthesiseds Context<?> parameter of ctx, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

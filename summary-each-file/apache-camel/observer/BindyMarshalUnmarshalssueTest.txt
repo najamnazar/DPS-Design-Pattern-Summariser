@@ -1,0 +1,5 @@
+BindyMarshalUnmarshalssueTest acts as a publisher for observer FluentProducerTemplate, which tests Marshal Unmarshal, which creates Route Builder.
+BindyMarshalUnmarshalssueTest acts as a publisher for observer CamelContext, which tests Marshal Unmarshal, which creates Route Builder.
+BindyMarshalUnmarshalssueTest acts as a publisher for observer ConsumerTemplate, which tests Marshal Unmarshal, which creates Route Builder.
+BindyMarshalUnmarshalssueTest acts as a publisher for observer ProducerTemplate, which tests Marshal Unmarshal, which creates Route Builder.
+BindyMarshalUnmarshalssueTest acts as a publisher for observer Service, which tests Marshal Unmarshal, which creates Route Builder.

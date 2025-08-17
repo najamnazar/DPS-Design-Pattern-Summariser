@@ -1,0 +1,1 @@
+IMethodInfo acts as an originator for memento IExceptionAttribute, which gets an IExceptionAttribute Exception Attribute to.

@@ -1,0 +1,2 @@
+DeletePoliciesConfigurationsResponse acts as an originator for memento DeletePoliciesConfigurationsResponse, which is inherited by, which news a DeletePoliciesConfigurationsResponse Instance to.
+DeletePoliciesConfigurationsResponse acts as a memento, which is inherited by DeletePoliciesConfigurationsResponsePBImpl, which news Instance.

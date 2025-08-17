@@ -1,0 +1,2 @@
+ErasureCoder acts as a factory for HHXORErasureEncoder, which overrides.
+ErasureCoder acts as an abstract product for TestErasureCoderBase, which is inherited by ErasureDecoder, ErasureEncoder.

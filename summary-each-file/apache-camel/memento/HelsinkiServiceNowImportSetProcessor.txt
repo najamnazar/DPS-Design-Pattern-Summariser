@@ -1,0 +1,1 @@
+HelsinkiServiceNowImportSetProcessor acts as a caretaker for memento Configuration, which retrieves Exchange parameter of exchange Record, which creates Exchange parameter of exchange Record.

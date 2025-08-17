@@ -1,0 +1,1 @@
+ExternalReplica acts as a product for BlockSender, which overrides getBlockId method of Replica, getGenerationStamp method of Replica, getState method of Replica, getNumBytes method of Replica, getBytesOnDisk method of Replica, getVisibleLength method of Replica, getStorageUuid method of Replica, isOnTransientStorage method of Replica, getVolume method of Replica.

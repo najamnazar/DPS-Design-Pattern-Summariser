@@ -1,0 +1,3 @@
+CustomEditorConfigurerTests acts as a caretaker for memento A, which gets Application Context Path, which dates In Application Context, which dates In Jmx, which gets Start Date, which gets End Date.
+CustomEditorConfigurerTests acts as a caretaker for memento ApplicationContext, which gets Application Context Path, which dates In Application Context, which dates In Jmx, which gets Start Date, which gets End Date.
+CustomEditorConfigurerTests acts as a caretaker for memento C, which gets Application Context Path, which dates In Application Context, which dates In Jmx, which gets Start Date, which gets End Date.

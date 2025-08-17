@@ -1,0 +1,1 @@
+HealthCheckRegistryRepository acts as a caretaker for memento Context, which gets Id, which sets CamelContext parameter of camelContext Camel Context, which gets Camel Context, which is Enabled, which sets boolean parameter of enabled Enabled, which streams, which tos HealthCheck parameter of hc Health Check.

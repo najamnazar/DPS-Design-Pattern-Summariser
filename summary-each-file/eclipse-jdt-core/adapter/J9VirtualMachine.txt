@@ -1,0 +1,1 @@
+J9VirtualMachine acts as an adapter, which adapts to LocalVirtualMachine.

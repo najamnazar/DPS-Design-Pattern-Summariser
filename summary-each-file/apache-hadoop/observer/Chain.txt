@@ -1,0 +1,1 @@
+Chain acts as an observer, which runs Task<T, parameter of R>, which curs Item, which nexts Item, which closes, which news Item, which runs T parameter of call, which adds ItemFactory<T> parameter of factory First, which adds ItemFactory<T> parameter of factory Last, which shoulds Predicate<IOException> parameter of continueCondition Continue, which builds, which builders.

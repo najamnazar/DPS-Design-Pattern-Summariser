@@ -1,0 +1,2 @@
+MockStreamCachingTest acts as a publisher for observer CamelContext, which tests Mock Stream Caching, which tests Mock Stream Caching Convert To, which creates Route Builder.
+MockStreamCachingTest acts as a publisher for observer Service, which tests Mock Stream Caching, which tests Mock Stream Caching Convert To, which creates Route Builder.

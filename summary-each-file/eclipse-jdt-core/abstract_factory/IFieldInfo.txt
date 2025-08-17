@@ -1,0 +1,1 @@
+IFieldInfo acts as an abstract factory for IConstantValueAttribute, which is inherited by.

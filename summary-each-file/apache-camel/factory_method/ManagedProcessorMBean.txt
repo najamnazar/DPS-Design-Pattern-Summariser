@@ -1,0 +1,1 @@
+ManagedProcessorMBean acts as an abstract product for ManagedCamelContext, which is inherited by ManagedProcessor.

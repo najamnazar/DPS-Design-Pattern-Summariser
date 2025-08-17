@@ -1,0 +1,2 @@
+Trait acts as an abstract factory for, which is inherited by DependencyTrait, PropertyTrait, NameTrait, EnvTrait.
+Trait acts as an abstract product for Trait, which is inherited by DependencyTrait, PropertyTrait, NameTrait, EnvTrait.

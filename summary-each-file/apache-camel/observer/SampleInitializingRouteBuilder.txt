@@ -1,0 +1,7 @@
+SampleInitializingRouteBuilder acts as a publisher for observer RoutesDefinition, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.
+SampleInitializingRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.
+SampleInitializingRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.
+SampleInitializingRouteBuilder acts as a publisher for observer Resource, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.
+SampleInitializingRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.
+SampleInitializingRouteBuilder acts as an observer, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.
+SampleInitializingRouteBuilder acts as a publisher for observer RestsDefinition, which sets String parameter of name Name, which sets List<String> parameter of entries Entries, which afters Properties Set, which configures.

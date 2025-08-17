@@ -1,0 +1,1 @@
+TestYarnPolicySelector acts as a publisher for observer ServiceRecord, which asserts boolean parameter of outcome, RegistryAdminService.NodeSelector parameter of selector Selected, which tests By Container, which tests By App, which tests By App Name.

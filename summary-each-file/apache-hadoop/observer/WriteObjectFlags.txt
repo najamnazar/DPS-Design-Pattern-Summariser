@@ -1,0 +1,1 @@
+WriteObjectFlags acts as an observer for publisher PutObjectOptions, which is inherited by, which is Configuration parameter of options Enabled, which has String parameter of k Key.

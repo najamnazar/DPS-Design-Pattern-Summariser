@@ -1,0 +1,2 @@
+BatchOperation acts as a publisher for observer IJavaElement, which cans Modify Roots, which executes Operation, which verifies.
+BatchOperation acts as a publisher for observer String, which cans Modify Roots, which executes Operation, which verifies.

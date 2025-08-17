@@ -1,0 +1,5 @@
+PahoTestSupport acts as a publisher for observer ConsumerTemplate.
+PahoTestSupport acts as a publisher for observer FluentProducerTemplate.
+PahoTestSupport acts as a publisher for observer CamelContext.
+PahoTestSupport acts as a publisher for observer Service.
+PahoTestSupport acts as a publisher for observer ProducerTemplate.

@@ -1,0 +1,1 @@
+TaskAttemptContextImpl acts as an adapter, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext, which adapts to TaskAttemptContext.

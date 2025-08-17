@@ -1,0 +1,1 @@
+TransactionManagementConfigurer acts as an originator for memento TransactionManager, which annotations a TransactionManager Driven Transaction Manager to.

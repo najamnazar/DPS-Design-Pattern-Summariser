@@ -1,0 +1,1 @@
+LocalResourcesTracker acts as an adaptee for adapter ResourceLocalizationService, which adapts to LocalizationProtocol, CompositeService, which adapts to LocalizationProtocol, CompositeService, which adapts to LocalizationProtocol, CompositeService, which adapts to LocalizationProtocol, CompositeService.

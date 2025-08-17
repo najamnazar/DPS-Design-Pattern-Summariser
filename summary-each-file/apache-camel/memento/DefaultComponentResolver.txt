@@ -1,0 +1,1 @@
+DefaultComponentResolver acts as an originator for memento Component, which resolves a Component Component to.

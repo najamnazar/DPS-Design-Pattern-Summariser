@@ -1,0 +1,2 @@
+SyntheticDaoDefinition acts as an originator for memento Database.
+SyntheticDaoDefinition acts as an originator for memento PackageDefinition.

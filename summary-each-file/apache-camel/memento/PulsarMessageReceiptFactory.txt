@@ -1,0 +1,1 @@
+PulsarMessageReceiptFactory acts as an originator for memento PulsarMessageReceipt, which is inherited by, which news a PulsarMessageReceipt Instance to.

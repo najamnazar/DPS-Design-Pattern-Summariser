@@ -1,0 +1,2 @@
+Resource acts as an abstract product for Resource, which is inherited by WritableResource, HttpResource, ContextResource, AbstractResource.
+Resource acts as an abstract factory for Resource, File, which is inherited by AbstractResource.

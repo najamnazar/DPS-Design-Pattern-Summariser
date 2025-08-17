@@ -1,0 +1,2 @@
+AggregatorLockingTest acts as a caretaker for memento Context, which tests Aggregation Without Parallel Nor Optimistic Should Not Lock Downstream Processors, which creates Route Builder.
+AggregatorLockingTest acts as a caretaker for memento Producer, which tests Aggregation Without Parallel Nor Optimistic Should Not Lock Downstream Processors, which creates Route Builder.

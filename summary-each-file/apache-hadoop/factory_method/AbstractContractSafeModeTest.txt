@@ -1,0 +1,1 @@
+AbstractContractSafeModeTest acts as a factory for TestViewDistributedFileSystem, which overrides.

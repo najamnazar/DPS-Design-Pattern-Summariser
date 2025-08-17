@@ -1,0 +1,1 @@
+SplittableCompressionCodec acts as an observer, which creates InputStream parameter of seekableIn, Decompressor parameter of decompressor, long parameter of start, long parameter of end, READ_MODE parameter of readMode Input Stream.

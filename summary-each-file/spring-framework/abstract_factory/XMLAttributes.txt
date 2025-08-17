@@ -1,0 +1,2 @@
+XMLAttributes acts as a product for VisitContext, which overrides.
+XMLAttributes acts as a product for DiagnosticsContext, which overrides.

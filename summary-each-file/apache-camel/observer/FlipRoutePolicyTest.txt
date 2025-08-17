@@ -1,0 +1,2 @@
+FlipRoutePolicyTest acts as a publisher for observer CamelContext, which tests Flip Route Policy Test, which creates Route Builder.
+FlipRoutePolicyTest acts as a publisher for observer Service, which tests Flip Route Policy Test, which creates Route Builder.

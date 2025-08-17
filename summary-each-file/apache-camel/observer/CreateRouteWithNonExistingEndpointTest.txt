@@ -1,0 +1,2 @@
+CreateRouteWithNonExistingEndpointTest acts as a publisher for observer CamelContext, which tests Create Route With Bad Endpoint, which sets Up, which creates Route Builder.
+CreateRouteWithNonExistingEndpointTest acts as a publisher for observer Service, which tests Create Route With Bad Endpoint, which sets Up, which creates Route Builder.

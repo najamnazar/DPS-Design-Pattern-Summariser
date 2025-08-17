@@ -1,0 +1,1 @@
+SimpleAWSExecutionInterceptor acts as a publisher for observer Configuration, which befores Context.BeforeExecution parameter of context, ExecutionAttributes parameter of executionAttributes Execution, which gets Invocation Count, which gets Static Conf.

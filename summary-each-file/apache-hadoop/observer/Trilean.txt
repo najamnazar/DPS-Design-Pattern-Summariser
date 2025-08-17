@@ -1,0 +1,1 @@
+Trilean acts as an observer for publisher AbfsConfiguration, which is inherited by, which gets final parameter of boolean Trilean, which gets String parameter of str Trilean, which tos Boolean.

@@ -1,0 +1,1 @@
+NettyEndpointConfigurer acts as a target for adapter NettyHttpEndpointConfigurer, which adapts to NettyEndpointConfigurer, which adapts to NettyEndpointConfigurer, which adapts to NettyEndpointConfigurer, which adapts to NettyEndpointConfigurer.

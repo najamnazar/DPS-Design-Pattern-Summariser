@@ -1,0 +1,1 @@
+ResultMatcher acts as an observer for publisher AbstractMockMvcBuilder, which is inherited by, which matches MvcResult parameter of result, which matches ResultMatcher... parameter of matchers All.

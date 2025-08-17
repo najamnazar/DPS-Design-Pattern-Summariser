@@ -1,0 +1,1 @@
+AbstractBeanDefinitionParser acts as a factory for BeanDefinitionParser, which overrides parse method of BeanDefinitionParser.

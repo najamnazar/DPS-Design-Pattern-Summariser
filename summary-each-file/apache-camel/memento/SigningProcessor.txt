@@ -1,0 +1,1 @@
+SigningProcessor acts as a caretaker for memento Configuration, which processes Exchange parameter of exchange, which inits Exchange parameter of exchange Signature Service, which gets Exchange parameter of exchange Private Key From Keystore Or Exchange, which gets Exchange parameter of exchange Key Password.

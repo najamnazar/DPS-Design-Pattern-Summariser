@@ -1,0 +1,2 @@
+GetNewReservationRequest acts as an originator for memento GetNewReservationRequest, which is inherited by, which news a GetNewReservationRequest Instance to.
+GetNewReservationRequest acts as a memento, which is inherited by GetNewReservationRequestPBImpl, which news Instance.

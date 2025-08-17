@@ -1,0 +1,1 @@
+WordpressPostConsumer acts as a caretaker for memento Configuration, which polls, which polls For Post List, which polls For Single.

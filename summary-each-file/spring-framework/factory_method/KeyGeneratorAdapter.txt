@@ -1,0 +1,1 @@
+KeyGeneratorAdapter acts as a product for DefaultJCacheOperationSource, which overrides generate method of KeyGenerator.

@@ -1,0 +1,4 @@
+CatalogImpl acts as a product for Qualified, which overrides getSchema method of Catalog, getSchema method of Catalog, getSchemas method of Catalog, schemaStream method of Catalog.
+CatalogImpl acts as a product for Meta, which overrides getSchema method of Catalog, getSchema method of Catalog, getSchemas method of Catalog, schemaStream method of Catalog.
+CatalogImpl acts as a factory for Catalog, which overrides getSchema method of Catalog, getSchema method of Catalog, getSchemas method of Catalog, schemaStream method of Catalog.
+CatalogImpl acts as a product for EnumType, which overrides getSchema method of Catalog, getSchema method of Catalog, getSchemas method of Catalog, schemaStream method of Catalog.

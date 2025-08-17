@@ -1,0 +1,1 @@
+TestNativeParser acts as a caretaker for memento SkylineStore, which setups, which parses final parameter of String File, which tests Parse, which cleans Up.

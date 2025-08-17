@@ -1,0 +1,1 @@
+EncryptionType acts as an observer for publisher AbfsClient, AbfsBlobClient, AbfsDfsClient, which is inherited by.

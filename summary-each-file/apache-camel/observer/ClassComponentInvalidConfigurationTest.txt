@@ -1,0 +1,2 @@
+ClassComponentInvalidConfigurationTest acts as a publisher for observer Service, which is Use Route Builder, which tests Class Not Found, which tests Property Not Found On Class.
+ClassComponentInvalidConfigurationTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Class Not Found, which tests Property Not Found On Class.

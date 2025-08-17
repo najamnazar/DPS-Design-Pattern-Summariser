@@ -1,0 +1,1 @@
+Context acts as a caretaker for memento A, which is inherited by.

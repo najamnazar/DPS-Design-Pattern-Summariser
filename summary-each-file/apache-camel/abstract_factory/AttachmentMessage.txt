@@ -1,0 +1,11 @@
+AttachmentMessage acts as a product for MessageHistory, which overrides.
+AttachmentMessage acts as an abstract factory for Attachment, which is inherited by DefaultAttachmentMessage.
+AttachmentMessage acts as a product for MessageCreator, which overrides.
+AttachmentMessage acts as a product for CxfMessageMapper, which overrides.
+AttachmentMessage acts as a product for XmlSignatureChecker, which overrides.
+AttachmentMessage acts as a product for Exchange, which overrides.
+AttachmentMessage acts as a product for UnitOfWork, which overrides.
+AttachmentMessage acts as a product for Message, which overrides.
+AttachmentMessage acts as a product for UndertowHttpBinding, which overrides.
+AttachmentMessage acts as a product for XmlSignatureProperties, which overrides.
+AttachmentMessage acts as a product for NettyHttpBinding, which overrides.

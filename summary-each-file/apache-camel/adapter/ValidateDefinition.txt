@@ -1,0 +1,1 @@
+ValidateDefinition acts as an adapter, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode, which adapts to ExpressionNode.

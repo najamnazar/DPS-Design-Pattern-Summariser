@@ -1,0 +1,2 @@
+GmailUsersEndpointConfiguration acts as an observer, which gets Content, which sets com.google.api.services.gmail.model.WatchRequest parameter of content Content, which gets User Id, which sets String parameter of userId User Id.
+GmailUsersEndpointConfiguration acts as a publisher for observer GoogleMailApiName, which gets Content, which sets com.google.api.services.gmail.model.WatchRequest parameter of content Content, which gets User Id, which sets String parameter of userId User Id.

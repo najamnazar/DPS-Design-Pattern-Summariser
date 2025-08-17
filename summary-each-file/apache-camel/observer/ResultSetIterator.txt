@@ -1,0 +1,1 @@
+ResultSetIterator acts as an observer for publisher JdbcProducer, which is inherited by, which has Next, which nexts, which loads Next, which closes, which safes Close Result Set, which safes Close Statement, which safes Close Connection.

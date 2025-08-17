@@ -1,0 +1,5 @@
+CSimpleDecHeaderTest acts as a publisher for observer FluentProducerTemplate, which tests Dec Header, which creates Route Builder.
+CSimpleDecHeaderTest acts as a publisher for observer ConsumerTemplate, which tests Dec Header, which creates Route Builder.
+CSimpleDecHeaderTest acts as a publisher for observer Service, which tests Dec Header, which creates Route Builder.
+CSimpleDecHeaderTest acts as a publisher for observer ProducerTemplate, which tests Dec Header, which creates Route Builder.
+CSimpleDecHeaderTest acts as a publisher for observer CamelContext, which tests Dec Header, which creates Route Builder.

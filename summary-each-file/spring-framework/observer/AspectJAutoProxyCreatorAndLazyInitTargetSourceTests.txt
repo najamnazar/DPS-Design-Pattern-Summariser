@@ -1,0 +1,2 @@
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as an observer, which tests Adrian.
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests acts as a publisher for observer BeanSource, which tests Adrian.

@@ -1,0 +1,1 @@
+TestAdlFileSystemContractLive acts as an adapter, which adapts to FileSystemContractBaseTest, which adapts to FileSystemContractBaseTest, which adapts cleanup method of FileSystem to FileSystemContractBaseTest, which adapts skipTestCheck method of FileSystem to FileSystemContractBaseTest.

@@ -1,0 +1,1 @@
+X17c acts as an originator for memento String, which gets a String Resolved Classpath to.

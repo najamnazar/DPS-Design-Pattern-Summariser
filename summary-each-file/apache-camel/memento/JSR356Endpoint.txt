@@ -1,0 +1,2 @@
+JSR356Endpoint acts as a caretaker for memento Context, which gets Component, which creates final parameter of Processor Consumer, which creates Producer, which gets Uri, which sets URI parameter of uri Uri, which gets Session Count, which sets final parameter of int Session Count.
+JSR356Endpoint acts as a caretaker for memento Component, which gets Component, which creates final parameter of Processor Consumer, which creates Producer, which gets Uri, which sets URI parameter of uri Uri, which gets Session Count, which sets final parameter of int Session Count.

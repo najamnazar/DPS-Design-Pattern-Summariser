@@ -1,0 +1,1 @@
+ComplexWebApplicationContext acts as a factory method for MultipartHttpServletRequest, which is inherited by MultipartResolver.

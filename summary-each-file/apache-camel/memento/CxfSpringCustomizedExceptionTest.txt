@@ -1,0 +1,1 @@
+CxfSpringCustomizedExceptionTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests Invoking Service From Camel, which creates Application Context, which processes Exchange parameter of exchange.

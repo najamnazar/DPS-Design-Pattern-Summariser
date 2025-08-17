@@ -1,0 +1,1 @@
+CompletionEngineProviderTests acts as an adapter, which adapts to AbstractJavaModelCompletionTests, which adapts to AbstractJavaModelCompletionTests, which adapts to AbstractJavaModelCompletionTests, which adapts to AbstractJavaModelCompletionTests, which adapts to AbstractJavaModelCompletionTests.

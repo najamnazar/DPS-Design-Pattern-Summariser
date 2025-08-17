@@ -1,0 +1,2 @@
+ManagedRouteMBean acts as an abstract factory for RouteError, which is inherited by ManagedRoute.
+ManagedRouteMBean acts as an abstract product for ManagedRouteMBean, which is inherited by ManagedRoute, ManagedSuspendableRouteMBean.

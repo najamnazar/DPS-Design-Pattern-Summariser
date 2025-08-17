@@ -1,0 +1,5 @@
+SqlEndpointLikeTest acts as a publisher for observer ProducerTemplate, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.
+SqlEndpointLikeTest acts as a publisher for observer CamelContext, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.
+SqlEndpointLikeTest acts as a publisher for observer FluentProducerTemplate, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.
+SqlEndpointLikeTest acts as a publisher for observer ConsumerTemplate, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.
+SqlEndpointLikeTest acts as a publisher for observer Service, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.

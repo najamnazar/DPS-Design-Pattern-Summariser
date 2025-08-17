@@ -1,0 +1,1 @@
+ColorAnnotationProcessorFactory acts as a factory for AnnotationProcessorFactory, which overrides.

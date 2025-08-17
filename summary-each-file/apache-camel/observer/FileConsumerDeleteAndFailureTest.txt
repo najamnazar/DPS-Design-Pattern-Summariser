@@ -1,0 +1,2 @@
+FileConsumerDeleteAndFailureTest acts as a publisher for observer CamelContext, which tests Move Failed, which creates Route Builder.
+FileConsumerDeleteAndFailureTest acts as a publisher for observer Service, which tests Move Failed, which creates Route Builder.

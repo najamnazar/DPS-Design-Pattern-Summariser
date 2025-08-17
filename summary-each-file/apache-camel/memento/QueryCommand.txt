@@ -1,0 +1,1 @@
+QueryCommand acts as a caretaker for memento Configuration, which executes, which determines Scan Index Forward, which determines Key Conditions.

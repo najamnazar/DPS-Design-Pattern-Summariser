@@ -1,0 +1,2 @@
+BeanSimpleLanguageStaticMethodIssueTest acts as a publisher for observer CamelContext, which tests Static Method, which creates Route Builder.
+BeanSimpleLanguageStaticMethodIssueTest acts as a publisher for observer Service, which tests Static Method, which creates Route Builder.

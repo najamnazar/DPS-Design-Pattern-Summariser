@@ -1,0 +1,1 @@
+TaskAttemptInfo acts as an observer for publisher TaskImpl, MapTaskImpl, ReduceTaskImpl, which is inherited by ReduceTaskAttemptInfo, MapTaskAttemptInfo, which gets Run State, which gets Runtime, which gets Task Info, which gets LoggedTaskAttempt.SplitVectorKind parameter of kind Split Vector.

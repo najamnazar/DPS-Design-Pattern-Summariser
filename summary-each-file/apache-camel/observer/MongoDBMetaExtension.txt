@@ -1,0 +1,2 @@
+MongoDBMetaExtension acts as a publisher for observer Component, which metas Map<String, parameter of Object>.
+MongoDBMetaExtension acts as a publisher for observer CamelContext, which metas Map<String, parameter of Object>.

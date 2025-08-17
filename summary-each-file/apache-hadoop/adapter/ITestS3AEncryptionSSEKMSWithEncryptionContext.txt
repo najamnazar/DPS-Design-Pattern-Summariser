@@ -1,0 +1,1 @@
+ITestS3AEncryptionSSEKMSWithEncryptionContext acts as an adapter, which adapts to AbstractTestS3AEncryption, which adapts to AbstractTestS3AEncryption.

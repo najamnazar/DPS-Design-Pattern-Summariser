@@ -1,0 +1,2 @@
+RegistryBindingSource acts as an adaptee for adapter CuratorService, which adapts to CompositeService.
+RegistryBindingSource acts as an adaptee for adapter MicroZookeeperService, which adapts to AbstractService.

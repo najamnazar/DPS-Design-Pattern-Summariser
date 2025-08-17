@@ -1,0 +1,5 @@
+JsonPathPlatformHttpTest acts as a publisher for observer CamelContext, which tests With Platform Http, which tests Without Platform Http, which creates Camel Context, which creates Route Builder.
+JsonPathPlatformHttpTest acts as a publisher for observer ConsumerTemplate, which tests With Platform Http, which tests Without Platform Http, which creates Camel Context, which creates Route Builder.
+JsonPathPlatformHttpTest acts as a publisher for observer ProducerTemplate, which tests With Platform Http, which tests Without Platform Http, which creates Camel Context, which creates Route Builder.
+JsonPathPlatformHttpTest acts as a publisher for observer Service, which tests With Platform Http, which tests Without Platform Http, which creates Camel Context, which creates Route Builder.
+JsonPathPlatformHttpTest acts as a publisher for observer FluentProducerTemplate, which tests With Platform Http, which tests Without Platform Http, which creates Camel Context, which creates Route Builder.

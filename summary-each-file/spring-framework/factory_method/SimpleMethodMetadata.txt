@@ -1,0 +1,1 @@
+SimpleMethodMetadata acts as a factory method for MergedAnnotations, which is inherited by AnnotatedTypeMetadata, MergedAnnotations, AnnotatedTypeMetadata, MergedAnnotations.

@@ -1,0 +1,1 @@
+FederationPolicyManager acts as an abstract factory for FederationRouterPolicy, SubClusterPolicyConfiguration, FederationAMRMProxyPolicy, which is inherited by AbstractPolicyManager.

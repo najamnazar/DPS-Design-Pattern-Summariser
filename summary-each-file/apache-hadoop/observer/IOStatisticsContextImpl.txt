@@ -1,0 +1,1 @@
+IOStatisticsContextImpl acts as an observer, which tos String, which gets Aggregator, which snapshots, which resets, which gets IOStatistics, which gets ID, which gets Thread ID.

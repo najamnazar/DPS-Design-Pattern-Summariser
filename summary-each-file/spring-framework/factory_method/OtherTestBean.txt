@@ -1,0 +1,1 @@
+OtherTestBean acts as a product for CglibProxyTests, which overrides getOtherBean method of ITestBean, isInitialized method of ITestBean, isDestroyed method of ITestBean.

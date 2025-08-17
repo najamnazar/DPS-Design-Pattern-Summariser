@@ -1,0 +1,1 @@
+RoutesCollector acts as an abstract product for RoutesConfigurer, which is inherited by DefaultRoutesCollector.

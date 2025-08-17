@@ -1,0 +1,1 @@
+ProxyMethodInvocation acts as an observer, which gets Proxy, which invocables Clone, which invocables Object... parameter of arguments Clone, which sets Object... parameter of arguments Arguments, which sets String parameter of key, @Nullable parameter of Object User Attribute, which gets String parameter of key User Attribute.

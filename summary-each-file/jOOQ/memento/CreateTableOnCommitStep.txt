@@ -1,0 +1,1 @@
+CreateTableOnCommitStep acts as a memento, which is inherited by CreateTableImpl, CreateTableAsStep, CreateTableWithDataStep, which ons Commit Drop, which ons Commit Drop, which ons Commit Drop.

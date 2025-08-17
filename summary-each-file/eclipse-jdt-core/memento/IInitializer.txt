@@ -1,0 +1,1 @@
+IInitializer acts as a memento.

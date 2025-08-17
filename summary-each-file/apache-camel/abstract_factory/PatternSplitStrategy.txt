@@ -1,0 +1,1 @@
+PatternSplitStrategy acts as a product for TextProcessingAbstractFactory, which overrides split method of SplitStrategy.

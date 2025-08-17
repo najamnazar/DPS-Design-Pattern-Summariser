@@ -1,0 +1,1 @@
+OutputLogFilter acts as a product for FileInputFormat, which overrides.

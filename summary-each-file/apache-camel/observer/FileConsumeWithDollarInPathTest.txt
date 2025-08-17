@@ -1,0 +1,2 @@
+FileConsumeWithDollarInPathTest acts as a publisher for observer Service, which tests Path With Dollar, which creates Route Builder.
+FileConsumeWithDollarInPathTest acts as a publisher for observer CamelContext, which tests Path With Dollar, which creates Route Builder.

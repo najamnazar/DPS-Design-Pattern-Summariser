@@ -1,0 +1,1 @@
+CodecConfigurerFactory acts as a caretaker for memento C, which creates Class<T> parameter of ifc.

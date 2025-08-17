@@ -1,0 +1,2 @@
+TracingWithDelayTest acts as a publisher for observer CamelContext, which tests Tracing With Delay, which creates Route Builder.
+TracingWithDelayTest acts as a publisher for observer Service, which tests Tracing With Delay, which creates Route Builder.

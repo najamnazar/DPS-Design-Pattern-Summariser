@@ -1,0 +1,1 @@
+NonJavaResource acts as a factory for IJarEntryResource, which overrides getChildren method of IJarEntryResource, getFullPath method of IJarEntryResource, getPackageFragmentRoot method of IJarEntryResource, getParent method of IJarEntryResource, isFile method of IJarEntryResource.

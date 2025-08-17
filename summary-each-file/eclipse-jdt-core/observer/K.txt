@@ -1,0 +1,1 @@
+K acts as an observer for publisher VerboseElementCache, which is inherited by.

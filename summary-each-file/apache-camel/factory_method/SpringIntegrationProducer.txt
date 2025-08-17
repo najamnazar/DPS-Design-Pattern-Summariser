@@ -1,0 +1,1 @@
+SpringIntegrationProducer acts as a product for FaultToleranceProcessorFactory, which overrides.

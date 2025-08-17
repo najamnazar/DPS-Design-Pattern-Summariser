@@ -1,0 +1,1 @@
+TestInMemoryStore acts as a factory method for SkylineStore, which is inherited by TestSkylineStore.

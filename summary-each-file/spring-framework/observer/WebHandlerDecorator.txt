@@ -1,0 +1,1 @@
+WebHandlerDecorator acts as an observer, which gets Delegate, which handles ServerWebExchange parameter of exchange, which tos String.

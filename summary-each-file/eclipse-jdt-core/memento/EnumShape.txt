@@ -1,0 +1,2 @@
+EnumShape acts as a caretaker for memento String.
+EnumShape acts as a caretaker for memento S.

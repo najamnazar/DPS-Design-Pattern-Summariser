@@ -1,0 +1,1 @@
+EventbridgeInternalClient acts as a memento, which is inherited by EventbridgeClientStandardImpl, EventbridgeClientIAMOptimizedImpl, which gets Eventbridge Client.

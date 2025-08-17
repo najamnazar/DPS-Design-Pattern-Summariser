@@ -1,0 +1,1 @@
+WindowSpecificationFinalStep acts as an observer.

@@ -1,0 +1,2 @@
+SplitRefCustomExpressionTest acts as a publisher for observer CamelContext, which creates Registry, which tests Split Custom Expression, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.
+SplitRefCustomExpressionTest acts as a publisher for observer Service, which creates Registry, which tests Split Custom Expression, which creates Route Builder, which evaluates Exchange parameter of exchange, Class<T> parameter of type.

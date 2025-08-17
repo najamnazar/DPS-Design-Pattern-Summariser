@@ -1,0 +1,1 @@
+LanguageContext acts as a memento.

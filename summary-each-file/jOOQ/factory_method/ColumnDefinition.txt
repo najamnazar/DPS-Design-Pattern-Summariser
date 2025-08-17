@@ -1,0 +1,2 @@
+ColumnDefinition acts as a factory for DefaultColumnDefinition, which overrides.
+ColumnDefinition acts as an abstract product for IndexColumnDefinition, which is inherited by DefaultColumnDefinition.

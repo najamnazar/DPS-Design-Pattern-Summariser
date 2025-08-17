@@ -1,0 +1,1 @@
+JmsMQSpecialHeaderTest acts as a publisher for observer ArtemisService, which tests Using Special IBMJMSHeader, which tests Using Special IBMJMSHeader And Standard JMSHeader, which gets Component Name, which creates Route Builder.

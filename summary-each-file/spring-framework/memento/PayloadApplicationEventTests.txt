@@ -1,0 +1,1 @@
+PayloadApplicationEventTests acts as a caretaker for memento A, which tests Event Class With Interface, which tests Programmatic Event Listener, which tests Programmatic Payload Listener, which ons Auditable parameter of event Event.

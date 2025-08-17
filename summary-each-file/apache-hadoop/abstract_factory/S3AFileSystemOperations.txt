@@ -1,0 +1,1 @@
+S3AFileSystemOperations acts as an abstract factory for S3ClientFactory, which is inherited by CSES3AFileSystemOperations, BaseS3AFileSystemOperations.

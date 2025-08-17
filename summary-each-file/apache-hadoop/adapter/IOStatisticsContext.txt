@@ -1,0 +1,1 @@
+IOStatisticsContext acts as an adaptee for adapter ITestS3AIOStatisticsContext, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase.

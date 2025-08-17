@@ -1,0 +1,2 @@
+JGroupsProducerTest acts as a caretaker for memento Context, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Receive Multicasted Body, which shoulds Not Send Null Message, which waits int parameter of attempts For Multicast Channel.
+JGroupsProducerTest acts as a caretaker for memento Producer, which creates Route Builder, which does Pre Setup, which tears Down, which shoulds Receive Multicasted Body, which shoulds Not Send Null Message, which waits int parameter of attempts For Multicast Channel.

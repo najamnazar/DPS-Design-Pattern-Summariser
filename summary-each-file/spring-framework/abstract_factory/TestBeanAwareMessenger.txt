@@ -1,0 +1,1 @@
+TestBeanAwareMessenger acts as an abstract factory for TestBean, which is inherited by.

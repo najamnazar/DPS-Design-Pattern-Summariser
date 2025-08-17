@@ -1,0 +1,1 @@
+Null acts as a memento, which is inherited by NullCondition.

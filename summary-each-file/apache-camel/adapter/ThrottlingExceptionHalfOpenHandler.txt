@@ -1,0 +1,1 @@
+ThrottlingExceptionHalfOpenHandler acts as an adaptee for adapter ThrottlingExceptionRoutePolicy, which adapts to RoutePolicySupport.

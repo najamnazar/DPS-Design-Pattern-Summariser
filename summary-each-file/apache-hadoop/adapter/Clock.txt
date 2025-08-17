@@ -1,0 +1,23 @@
+Clock acts as an adaptee for adapter FederationStateStoreService, which adapts to AbstractService.
+Clock acts as an adaptee for adapter FederationRMAdminInterceptor, which adapts to AbstractRMAdminRequestInterceptor.
+Clock acts as an adaptee for adapter AbstractLivelinessMonitor, which adapts to AbstractService.
+Clock acts as an adaptee for adapter AsyncDispatcher, which adapts to AbstractService.
+Clock acts as an adaptee for adapter CgroupsLCEResourcesHandler, which adapts to LCEResourcesHandler.
+Clock acts as an adaptee for adapter ClientRMService, which adapts to AbstractService, ApplicationClientProtocol.
+Clock acts as an adaptee for adapter AbstractYarnScheduler, which adapts to AbstractService.
+Clock acts as an adaptee for adapter WindowsBasedProcessTree, which adapts to ResourceCalculatorProcessTree.
+Clock acts as an adaptee for adapter AbstractSchedulerPlanFollower, which adapts to PlanFollower.
+Clock acts as an adaptee for adapter EventDispatcher, which adapts to AbstractService.
+Clock acts as an adaptee for adapter RMContainerAllocator, which adapts to RMContainerRequestor.
+Clock acts as an adaptee for adapter FederationClientInterceptor, which adapts to AbstractClientRequestInterceptor.
+Clock acts as an adaptee for adapter TaskHeartbeatHandler, which adapts to AbstractService.
+Clock acts as an adaptee for adapter FederationInterceptorREST, which adapts to AbstractRESTRequestInterceptor.
+Clock acts as an adaptee for adapter AbstractCGroupsResourceCalculator, which adapts to ResourceCalculatorProcessTree.
+Clock acts as an adaptee for adapter MRAppMaster, which adapts to CompositeService.
+Clock acts as an adaptee for adapter NodesListManager, which adapts to CompositeService.
+Clock acts as an adaptee for adapter DefaultSpeculator, which adapts to AbstractService, Speculator.
+Clock acts as an adaptee for adapter AMRMProxyService, which adapts to CompositeService, ApplicationMasterProtocol.
+Clock acts as an adaptee for adapter ProcfsBasedProcessTree, which adapts to ResourceCalculatorProcessTree.
+Clock acts as an adaptee for adapter TestRMWebServicesReservation, which adapts to JerseyTestBase.
+Clock acts as an adaptee for adapter RMAppImpl, which adapts to Recoverable.
+Clock acts as an adaptee for adapter LogAggregationIndexedFileController, which adapts to LogAggregationFileController.

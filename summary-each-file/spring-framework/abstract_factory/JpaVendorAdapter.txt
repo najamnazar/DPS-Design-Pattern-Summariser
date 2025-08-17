@@ -1,0 +1,1 @@
+JpaVendorAdapter acts as an abstract factory for JpaDialect, which is inherited by AbstractJpaVendorAdapter.

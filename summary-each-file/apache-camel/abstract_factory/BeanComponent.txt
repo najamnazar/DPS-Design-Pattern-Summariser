@@ -1,0 +1,1 @@
+BeanComponent acts as an abstract product for BeanComponent, which is inherited by ClassComponent.

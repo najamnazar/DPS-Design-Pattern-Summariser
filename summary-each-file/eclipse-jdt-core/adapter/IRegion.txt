@@ -1,0 +1,1 @@
+IRegion acts as an adaptee for adapter RegionBasedTypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy.

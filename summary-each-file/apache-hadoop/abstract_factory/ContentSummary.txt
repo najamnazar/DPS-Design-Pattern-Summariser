@@ -1,0 +1,2 @@
+ContentSummary acts as a product for WritableFactory, which overrides write method of Writable, readFields method of Writable.
+ContentSummary acts as a product for ClientProtocol, which overrides quota method of QuotaUsage, spaceConsumed method of QuotaUsage, spaceQuota method of QuotaUsage, typeConsumed method of QuotaUsage, typeQuota method of QuotaUsage, typeConsumed method of QuotaUsage, typeQuota method of QuotaUsage, hashCode method of QuotaUsage, toString method of QuotaUsage.

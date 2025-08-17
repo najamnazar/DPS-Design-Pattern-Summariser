@@ -1,0 +1,10 @@
+AlterTableAddStep acts as an abstract product for AlterTableAddStep, which is inherited by AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl.
+AlterTableAddStep acts as a product for AlterTableAddStep, which overrides.
+AlterTableAddStep acts as a product for AlterTableRenameConstraintToStep, which overrides.
+AlterTableAddStep acts as a product for AlterTableDropStep, which overrides.
+AlterTableAddStep acts as a product for AlterTableRenameColumnToStep, which overrides.
+AlterTableAddStep acts as a product for AlterTableRenameIndexToStep, which overrides.
+AlterTableAddStep acts as a product for AlterTableStep, which overrides.
+AlterTableAddStep acts as a product for AlterTableAlterStep, which overrides.
+AlterTableAddStep acts as an abstract factory for AlterTableFinalStep, which is inherited by AlterTableImpl.
+AlterTableAddStep acts as a product for AlterTableAlterConstraintStep, which overrides.

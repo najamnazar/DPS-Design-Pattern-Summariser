@@ -1,0 +1,2 @@
+CompositeInputSplit acts as a product for MapContext, which overrides.
+CompositeInputSplit acts as a product for Reporter, which overrides.

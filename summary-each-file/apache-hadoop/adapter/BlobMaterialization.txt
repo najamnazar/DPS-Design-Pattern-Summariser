@@ -1,0 +1,1 @@
+BlobMaterialization acts as an adaptee for adapter FileMetadata.

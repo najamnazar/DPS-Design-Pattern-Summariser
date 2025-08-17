@@ -1,0 +1,2 @@
+BatchResequencerAllowDuplicatesTest acts as a publisher for observer CamelContext, which tests Batch Resequencer Allow Duplicate, which creates Route Builder.
+BatchResequencerAllowDuplicatesTest acts as a publisher for observer Service, which tests Batch Resequencer Allow Duplicate, which creates Route Builder.

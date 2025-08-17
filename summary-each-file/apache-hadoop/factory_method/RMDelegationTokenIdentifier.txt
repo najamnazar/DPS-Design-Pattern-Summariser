@@ -1,0 +1,1 @@
+RMDelegationTokenIdentifier acts as a factory for TestYarnClient, which overrides.

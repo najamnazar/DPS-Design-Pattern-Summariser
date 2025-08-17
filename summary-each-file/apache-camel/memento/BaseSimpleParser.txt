@@ -1,0 +1,1 @@
+BaseSimpleParser acts as a caretaker for memento Context, which is inherited by, which nexts Token, which nexts TokenType... parameter of filter Token, which clears, which prepares Blocks, which prepares Unary Expressions, which accepts TokenType parameter of accept, which expects TokenType parameter of expect, which expects TokenType parameter of expect And Accept More.

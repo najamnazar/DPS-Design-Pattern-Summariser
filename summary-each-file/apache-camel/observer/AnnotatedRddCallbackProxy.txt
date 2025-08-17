@@ -1,0 +1,1 @@
+AnnotatedRddCallbackProxy acts as an observer, which ons JavaRDDLike parameter of rdd, Object... parameter of payloads Rdd.

@@ -1,0 +1,2 @@
+PollingConsumer acts as an adaptee for adapter DefaultScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.
+PollingConsumer acts as an adaptee for adapter CamelPostProcessorHelperTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

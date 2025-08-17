@@ -1,0 +1,1 @@
+BufferCache acts as a caretaker for memento List, which closes LRUCacheEntry<K, parameter of IBuffer>, which closes Buffers, which news int parameter of size, int parameter of newOverflow Instance.

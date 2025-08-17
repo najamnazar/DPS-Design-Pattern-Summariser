@@ -1,0 +1,1 @@
+RestUndertowHttpBinding acts as a publisher for observer HeaderFilterStrategy, which populates HttpServerExchange parameter of httpExchange, Map<String, parameter of Object>, Exchange parameter of exchange Camel Headers, which uses String parameter of path Rest Matching.

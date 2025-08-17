@@ -1,0 +1,1 @@
+DefaultArrayDefinition acts as a factory for ArrayDefinition, which overrides getElementType method of ArrayDefinition, getElementType method of ArrayDefinition, getIndexType method of ArrayDefinition, getIndexType method of ArrayDefinition.

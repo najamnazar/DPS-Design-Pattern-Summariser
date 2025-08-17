@@ -1,0 +1,1 @@
+DefaultJdbcOptimisticLockingExceptionMapper acts as a product for JdbcAggregationRepository, which overrides isOptimisticLocking method of JdbcOptimisticLockingExceptionMapper.

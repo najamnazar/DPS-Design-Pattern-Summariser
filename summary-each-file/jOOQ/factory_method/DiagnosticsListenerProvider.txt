@@ -1,0 +1,2 @@
+DiagnosticsListenerProvider acts as a factory for DiagnosticsListenerProvider, which overrides.
+DiagnosticsListenerProvider acts as a factory method for DiagnosticsListener, which is inherited by DiagnosticsListenerProvider.

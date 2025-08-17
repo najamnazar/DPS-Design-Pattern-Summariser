@@ -1,0 +1,1 @@
+DelegateAsyncProcessor acts as a decorator for decorator DelegateProcessor, which overrides toString method of DelegateProcessor, doBuild method of DelegateProcessor, doInit method of DelegateProcessor, doStart method of DelegateProcessor, doStop method of DelegateProcessor, hasNext method of DelegateProcessor, next method of DelegateProcessor.

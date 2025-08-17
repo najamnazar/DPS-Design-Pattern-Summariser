@@ -1,0 +1,1 @@
+XMLTablePassingStep acts as an originator for memento XMLTableColumnForOrdinalityStep.

@@ -1,0 +1,1 @@
+ITypeParameter acts as an adaptee for adapter TypeParameterPattern, which adapts to JavaSearchPattern, which adapts to JavaSearchPattern, which adapts to JavaSearchPattern, which adapts to JavaSearchPattern.

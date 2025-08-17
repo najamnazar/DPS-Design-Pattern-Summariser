@@ -1,0 +1,1 @@
+GetClusterMetricsResponse acts as an abstract product for GetClusterMetricsResponse, which is inherited by GetClusterMetricsResponsePBImpl.

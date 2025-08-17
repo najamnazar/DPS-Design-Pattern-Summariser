@@ -1,0 +1,1 @@
+ActiveMQPropagateSerializableHeadersTest acts as a publisher for observer ArtemisService, which setups, which tests Forwarding AMessage Across JMSKeeping Custom JMSHeaders, which gets Component Name, which creates Camel Context, which creates Route Builder.

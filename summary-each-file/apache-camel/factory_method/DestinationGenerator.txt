@@ -1,0 +1,1 @@
+DestinationGenerator acts as an abstract product for AbstractGenerateMojo, which is inherited by DirectToOperationId, DefaultDestinationGenerator, MyDestinationGenerator.

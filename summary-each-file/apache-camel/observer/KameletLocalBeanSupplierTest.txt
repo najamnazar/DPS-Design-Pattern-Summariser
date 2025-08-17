@@ -1,0 +1,5 @@
+KameletLocalBeanSupplierTest acts as a publisher for observer FluentProducerTemplate, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.
+KameletLocalBeanSupplierTest acts as a publisher for observer ProducerTemplate, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.
+KameletLocalBeanSupplierTest acts as a publisher for observer Service, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.
+KameletLocalBeanSupplierTest acts as a publisher for observer CamelContext, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.
+KameletLocalBeanSupplierTest acts as a publisher for observer ConsumerTemplate, which tests Supplier, which creates Route Builder, which wheres String parameter of name To.

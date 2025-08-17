@@ -1,0 +1,2 @@
+ScriptTemplateViewResolver acts as a caretaker for memento C, which requires View Class, which instantiates View.
+ScriptTemplateViewResolver acts as a caretaker for memento B, which requires View Class, which instantiates View.

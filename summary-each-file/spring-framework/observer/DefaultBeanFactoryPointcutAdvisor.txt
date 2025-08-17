@@ -1,0 +1,2 @@
+DefaultBeanFactoryPointcutAdvisor acts as a publisher for observer Advice, which sets @Nullable parameter of Pointcut Pointcut, which gets Pointcut, which tos String.
+DefaultBeanFactoryPointcutAdvisor acts as a publisher for observer BeanFactory, which sets @Nullable parameter of Pointcut Pointcut, which gets Pointcut, which tos String.

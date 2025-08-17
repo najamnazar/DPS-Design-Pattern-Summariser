@@ -1,0 +1,2 @@
+DockerStatsConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which ons Statistics parameter of statistics Next.
+DockerStatsConsumer acts as a caretaker for memento Component, which gets Endpoint, which does Start, which does Stop, which ons Statistics parameter of statistics Next.

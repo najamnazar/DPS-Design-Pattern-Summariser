@@ -1,0 +1,1 @@
+ColorAnnotationProcessorFactory acts as an originator for memento AnnotationProcessor, which gets an AnnotationProcessor Processor For to.

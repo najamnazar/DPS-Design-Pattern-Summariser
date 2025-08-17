@@ -1,0 +1,1 @@
+EndpointRouteBuilderLoaderSupport acts as a publisher for observer CompilePostProcessor, which does Resource parameter of resource Load Route Builder, which does Reader parameter of reader, EndpointRouteBuilder parameter of builder Load Endpoint Route Builder.

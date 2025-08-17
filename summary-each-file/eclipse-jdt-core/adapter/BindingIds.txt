@@ -1,0 +1,1 @@
+BindingIds acts as an adaptee for adapter NameReference.

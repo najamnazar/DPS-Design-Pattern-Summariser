@@ -1,0 +1,1 @@
+EhcacheSpringConfigurationTest acts as a caretaker for memento Context, which creates Application Context, which tests Programmatic Configuration, which tests File Configuration, which gets EhcacheEndpoint parameter of endpoint, String parameter of cacheName Cache.

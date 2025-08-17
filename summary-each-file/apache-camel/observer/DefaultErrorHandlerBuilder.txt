@@ -1,0 +1,4 @@
+DefaultErrorHandlerBuilder acts as a publisher for observer Predicate.
+DefaultErrorHandlerBuilder acts as a publisher for observer Processor.
+DefaultErrorHandlerBuilder acts as a publisher for observer CamelLogger.
+DefaultErrorHandlerBuilder acts as a publisher for observer RedeliveryPolicyDefinition.

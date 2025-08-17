@@ -1,0 +1,1 @@
+ScopedProxyBeanDefinitionDecorator acts as a factory for BeanDefinitionDecorator, which overrides decorate method of BeanDefinitionDecorator.

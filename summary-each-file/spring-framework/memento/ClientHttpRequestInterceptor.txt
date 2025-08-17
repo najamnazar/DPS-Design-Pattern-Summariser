@@ -1,0 +1,1 @@
+ClientHttpRequestInterceptor acts as an originator for memento ClientHttpResponse, which is inherited by, which intercepts ClientHttpResponse.

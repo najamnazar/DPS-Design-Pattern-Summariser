@@ -1,0 +1,2 @@
+CustomAggregationStrategyServiceTest acts as a publisher for observer CamelContext, which tests Custom Aggregation Strategy, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which does Start, which does Stop.
+CustomAggregationStrategyServiceTest acts as a publisher for observer Service, which tests Custom Aggregation Strategy, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which does Start, which does Stop.

@@ -1,0 +1,5 @@
+MulticastDisruptorComponentTest acts as a publisher for observer CamelContext, which tests Multicast Produce, which creates Route Builder.
+MulticastDisruptorComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Multicast Produce, which creates Route Builder.
+MulticastDisruptorComponentTest acts as a publisher for observer Service, which tests Multicast Produce, which creates Route Builder.
+MulticastDisruptorComponentTest acts as a publisher for observer ConsumerTemplate, which tests Multicast Produce, which creates Route Builder.
+MulticastDisruptorComponentTest acts as a publisher for observer ProducerTemplate, which tests Multicast Produce, which creates Route Builder.

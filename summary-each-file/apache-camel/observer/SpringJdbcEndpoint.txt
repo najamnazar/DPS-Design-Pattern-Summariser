@@ -1,0 +1,4 @@
+SpringJdbcEndpoint acts as a publisher for observer ConnectionStrategy.
+SpringJdbcEndpoint acts as a publisher for observer BeanRowMapper.
+SpringJdbcEndpoint acts as a publisher for observer JdbcOutputType.
+SpringJdbcEndpoint acts as a publisher for observer JdbcPrepareStatementStrategy.

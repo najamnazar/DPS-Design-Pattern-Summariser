@@ -1,0 +1,1 @@
+CaseLabel acts as an adaptee for adapter CaseStatement, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts place method of CaseLabel to Statement, which adapts to Statement.

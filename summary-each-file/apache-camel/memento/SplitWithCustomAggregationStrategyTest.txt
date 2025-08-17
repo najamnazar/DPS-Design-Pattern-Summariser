@@ -1,0 +1,2 @@
+SplitWithCustomAggregationStrategyTest acts as a caretaker for memento Context, which tests Split With Custom Aggregator Strategy, which creates Route Builder.
+SplitWithCustomAggregationStrategyTest acts as a caretaker for memento Producer, which tests Split With Custom Aggregator Strategy, which creates Route Builder.

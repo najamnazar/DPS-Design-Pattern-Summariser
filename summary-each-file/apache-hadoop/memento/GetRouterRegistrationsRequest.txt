@@ -1,0 +1,2 @@
+GetRouterRegistrationsRequest acts as an originator for memento GetRouterRegistrationsRequest, which is inherited by, which news a GetRouterRegistrationsRequest Instance to.
+GetRouterRegistrationsRequest acts as a memento, which is inherited by GetRouterRegistrationsRequestPBImpl, which news Instance.

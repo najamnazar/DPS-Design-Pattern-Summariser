@@ -1,0 +1,3 @@
+TableDefinition acts as a factory for TableDefinition, which overrides.
+TableDefinition acts as a factory method for UniqueKeyDefinition, which is inherited by AbstractTableDefinition, AbstractTableDefinition, AbstractTableDefinition, ColumnDefinition, AbstractTableDefinition, AbstractTableDefinition, AbstractTableDefinition, AbstractTableDefinition, AbstractTableDefinition, ForeignKeyDefinition, AbstractTableDefinition, UniqueKeyDefinition, AbstractTableDefinition, AbstractTableDefinition, AbstractTableDefinition, Relations, AbstractTableDefinition, TableDefinition, AbstractTableDefinition.
+TableDefinition acts as a factory for DefaultIndexColumnDefinition, which overrides.

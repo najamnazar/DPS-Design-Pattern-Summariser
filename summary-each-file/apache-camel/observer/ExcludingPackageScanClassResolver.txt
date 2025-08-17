@@ -1,0 +1,1 @@
+ExcludingPackageScanClassResolver acts as a publisher for observer PackageScanFilter, which sets Set<Class<?>> parameter of excludedClasses Excluded Classes.

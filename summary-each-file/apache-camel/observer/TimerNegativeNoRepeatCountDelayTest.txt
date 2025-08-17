@@ -1,0 +1,2 @@
+TimerNegativeNoRepeatCountDelayTest acts as a publisher for observer CamelContext, which tests Negative Delay, which creates Route Builder.
+TimerNegativeNoRepeatCountDelayTest acts as a publisher for observer Service, which tests Negative Delay, which creates Route Builder.

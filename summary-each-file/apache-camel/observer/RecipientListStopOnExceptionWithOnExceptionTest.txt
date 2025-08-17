@@ -1,0 +1,2 @@
+RecipientListStopOnExceptionWithOnExceptionTest acts as a publisher for observer CamelContext, which tests Recipient List Stop On Exception, which creates Route Builder.
+RecipientListStopOnExceptionWithOnExceptionTest acts as a publisher for observer Service, which tests Recipient List Stop On Exception, which creates Route Builder.

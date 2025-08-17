@@ -1,0 +1,2 @@
+PubNubTestBase acts as a caretaker for memento Context, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.
+PubNubTestBase acts as a caretaker for memento Producer, which setups Resources, which cleanups Resources, which gets Pubnub, which creates Pub Nub Instance.

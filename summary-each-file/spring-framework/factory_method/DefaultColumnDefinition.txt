@@ -1,0 +1,1 @@
+DefaultColumnDefinition acts as a product for DefaultIndexColumnDefinition, which overrides getPrimaryKey method of ColumnDefinition, getUniqueKeys method of ColumnDefinition, getKeys method of ColumnDefinition, getForeignKeys method of ColumnDefinition, isIdentity method of ColumnDefinition, isReadonly method of ColumnDefinition.

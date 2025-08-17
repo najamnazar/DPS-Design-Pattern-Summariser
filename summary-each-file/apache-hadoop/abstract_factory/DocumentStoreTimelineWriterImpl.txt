@@ -1,0 +1,1 @@
+DocumentStoreTimelineWriterImpl acts as a factory for TimelineWriter, which overrides.

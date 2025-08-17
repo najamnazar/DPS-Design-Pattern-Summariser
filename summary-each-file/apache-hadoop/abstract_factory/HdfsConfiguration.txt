@@ -1,0 +1,15 @@
+HdfsConfiguration acts as a product for LaunchableService, which overrides.
+HdfsConfiguration acts as a product for RMContext, which overrides.
+HdfsConfiguration acts as a product for MiniMRClientCluster, which overrides.
+HdfsConfiguration acts as a product for SPSService, which overrides.
+HdfsConfiguration acts as a product for FileSystemAccess, which overrides.
+HdfsConfiguration acts as a product for MutableConfScheduler, which overrides.
+HdfsConfiguration acts as a product for WriteOperations, which overrides.
+HdfsConfiguration acts as a product for Job, which overrides.
+HdfsConfiguration acts as a product for CapacitySchedulerContext, which overrides.
+HdfsConfiguration acts as a product for RunningJob, which overrides.
+HdfsConfiguration acts as a product for AMRMProxyApplicationContext, which overrides.
+HdfsConfiguration acts as a product for GetSpaceUsed, which overrides.
+HdfsConfiguration acts as a product for MutableConfigurationProvider, which overrides.
+HdfsConfiguration acts as a product for ObjectStorage, which overrides.
+HdfsConfiguration acts as a product for Configurable, which overrides.

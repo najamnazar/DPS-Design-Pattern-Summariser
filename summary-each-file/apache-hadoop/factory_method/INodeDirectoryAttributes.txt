@@ -1,0 +1,1 @@
+INodeDirectoryAttributes acts as an abstract product for INodeDirectory, which is inherited by INodeDirectory.

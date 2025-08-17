@@ -1,0 +1,2 @@
+EvaluationContext acts as a factory for SimpleEvaluationContext, which overrides.
+EvaluationContext acts as an abstract product for EvalTag, which is inherited by SimpleEvaluationContext, StandardEvaluationContext.

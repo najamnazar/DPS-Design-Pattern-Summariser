@@ -1,0 +1,1 @@
+READLINK3Response acts as a caretaker for memento Attribute, which deserializes XDR parameter of xdr, which serializes XDR parameter of out, int parameter of xid, Verifier parameter of verifier.

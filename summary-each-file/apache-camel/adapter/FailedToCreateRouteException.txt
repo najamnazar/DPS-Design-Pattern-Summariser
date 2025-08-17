@@ -1,0 +1,2 @@
+FailedToCreateRouteException acts as an adaptee for adapter HttpInvalidConfigurationTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+FailedToCreateRouteException acts as an adaptee for adapter HttpInvalidHttpClientConfigurationTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

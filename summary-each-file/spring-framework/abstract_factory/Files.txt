@@ -1,0 +1,1 @@
+Files acts as an abstract factory for Version, which is inherited by FilesImpl.

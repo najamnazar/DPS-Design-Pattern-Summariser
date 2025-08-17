@@ -1,0 +1,2 @@
+DebeziumConsumer acts as a caretaker for memento Configuration, which does Start, which does Stop, which creates Dbz Engine, which ons final parameter of ChangeEvent<SourceRecord, Event Listener.
+DebeziumConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which creates Dbz Engine, which ons final parameter of ChangeEvent<SourceRecord, Event Listener.

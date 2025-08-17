@@ -1,0 +1,2 @@
+StreamingSimpleClientHttpRequestFactoryTests acts as a caretaker for memento C, which creates Request Factory, which interceptors, which larges File Upload.
+StreamingSimpleClientHttpRequestFactoryTests acts as a caretaker for memento ClientHttpRequest, which creates Request Factory, which interceptors, which larges File Upload.

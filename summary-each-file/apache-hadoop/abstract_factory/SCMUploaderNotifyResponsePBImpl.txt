@@ -1,0 +1,1 @@
+SCMUploaderNotifyResponsePBImpl acts as a product for SCMUploaderProtocol, which overrides getAccepted method of SCMUploaderNotifyResponse, setAccepted method of SCMUploaderNotifyResponse.

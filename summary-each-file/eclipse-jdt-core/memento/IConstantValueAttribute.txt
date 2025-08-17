@@ -1,0 +1,1 @@
+IConstantValueAttribute acts as a memento, which is inherited by ConstantValueAttribute, which gets Constant Value, which gets Constant Value.

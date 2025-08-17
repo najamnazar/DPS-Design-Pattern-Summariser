@@ -1,0 +1,1 @@
+SourceFileAttribute acts as a product for IClassFileReader, which overrides getSourceFileIndex method of ISourceAttribute, getSourceFileName method of ISourceAttribute.

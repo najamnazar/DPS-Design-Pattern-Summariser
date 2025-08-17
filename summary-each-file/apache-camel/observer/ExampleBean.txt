@@ -1,0 +1,1 @@
+ExampleBean acts as an observer for publisher IntrospectionSupportTest, which is inherited by, which tos String, which gets Name, which sets String parameter of name Name, which gets Price, which sets double parameter of price Price, which gets Id, which sets String parameter of id Id.

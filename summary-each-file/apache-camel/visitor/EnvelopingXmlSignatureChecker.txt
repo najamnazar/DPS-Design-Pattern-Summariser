@@ -1,0 +1,1 @@
+EnvelopingXmlSignatureChecker acts as a visitor for element ExtendedCamelContext, which overrides, which checks a Before Core Validation to.

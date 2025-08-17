@@ -1,0 +1,1 @@
+ApplicationHistoryStore acts as a memento, which is inherited by NullApplicationHistoryStore, FileSystemApplicationHistoryStore, MemoryApplicationHistoryStore.

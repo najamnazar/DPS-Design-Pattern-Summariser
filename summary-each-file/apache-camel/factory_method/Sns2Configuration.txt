@@ -1,0 +1,2 @@
+Sns2Configuration acts as a factory for Sns2Configuration, which overrides.
+Sns2Configuration acts as a factory method for MessageGroupIdStrategy, which is inherited by Sns2Configuration.

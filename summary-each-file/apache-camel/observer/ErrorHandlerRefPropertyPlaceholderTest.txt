@@ -1,0 +1,2 @@
+ErrorHandlerRefPropertyPlaceholderTest acts as a publisher for observer CamelContext, which tests Ref, which creates Route Builder.
+ErrorHandlerRefPropertyPlaceholderTest acts as a publisher for observer Service, which tests Ref, which creates Route Builder.

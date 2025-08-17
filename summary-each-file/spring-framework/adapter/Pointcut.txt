@@ -1,0 +1,3 @@
+Pointcut acts as an adaptee for adapter DefaultPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor.
+Pointcut acts as an adaptee for adapter DefaultBeanFactoryPointcutAdvisor, which adapts to AbstractBeanFactoryPointcutAdvisor, which adapts to AbstractBeanFactoryPointcutAdvisor.
+Pointcut acts as an adaptee for adapter TransactionProxyFactoryBean, which adapts to AbstractSingletonProxyFactoryBean, which adapts to AbstractSingletonProxyFactoryBean.

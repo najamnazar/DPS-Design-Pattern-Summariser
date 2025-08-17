@@ -1,0 +1,4 @@
+Parser_in acts as a caretaker for memento E.
+Parser_in acts as a caretaker for memento R.
+Parser_in acts as a caretaker for memento C.
+Parser_in acts as a caretaker for memento S.

@@ -1,0 +1,4 @@
+HdfsFileStatus acts as a product for WritableFactory, which overrides.
+HdfsFileStatus acts as an abstract product for HdfsFileStatus, which is inherited by HdfsLocatedFileStatus, HdfsLocatedFileStatus, HdfsLocatedFileStatus, HdfsNamedFileStatus, HdfsNamedFileStatus, HdfsNamedFileStatus.
+HdfsFileStatus acts as an abstract product for HdfsFileStatus, which is inherited by HdfsLocatedFileStatus, HdfsNamedFileStatus.
+HdfsFileStatus acts as an abstract factory for FileStatus, HdfsFileStatus, FsPermission, which is inherited by HdfsLocatedFileStatus, HdfsNamedFileStatus.

@@ -1,0 +1,1 @@
+MockWebSession acts as an observer, which gets Id, which gets Attributes, which starts, which is Started, which changes Session Id, which invalidates, which saves, which is Expired, which gets Creation Time, which gets Last Access Time, which sets Duration parameter of maxIdleTime Max Idle Time, which gets Max Idle Time.

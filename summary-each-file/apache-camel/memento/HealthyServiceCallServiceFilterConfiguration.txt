@@ -1,0 +1,1 @@
+HealthyServiceCallServiceFilterConfiguration acts as a memento.

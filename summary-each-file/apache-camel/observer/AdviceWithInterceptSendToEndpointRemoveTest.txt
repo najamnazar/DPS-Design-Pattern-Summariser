@@ -1,0 +1,2 @@
+AdviceWithInterceptSendToEndpointRemoveTest acts as a publisher for observer Service, which is Use Route Builder, which tests Advice Intercept Remove, which tests Advice Intercept Replace, which creates Route Builder.
+AdviceWithInterceptSendToEndpointRemoveTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Advice Intercept Remove, which tests Advice Intercept Replace, which creates Route Builder.

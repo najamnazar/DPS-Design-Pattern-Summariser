@@ -1,0 +1,1 @@
+ConfigurableObjectInputStream acts as a caretaker for memento C, which resolves ObjectStreamClass parameter of classDesc Class, which resolves String[] parameter of interfaces Proxy Class, which resolves String parameter of className, ClassNotFoundException parameter of ex Fallback If Possible, which gets Fallback Class Loader.

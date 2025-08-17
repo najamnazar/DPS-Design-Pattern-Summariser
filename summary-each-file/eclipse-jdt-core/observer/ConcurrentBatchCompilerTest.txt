@@ -1,0 +1,1 @@
+ConcurrentBatchCompilerTest acts as a publisher for observer String, which suites, which tests Class, which invokes PrintWriter parameter of out, PrintWriter parameter of err, Object parameter of extraArguments, TestCompilationProgress parameter of compilationProgress Compiler, which tests Name, which tests Bug372319.

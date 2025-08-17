@@ -1,0 +1,1 @@
+JsonLibrary acts as an adaptee for adapter JsonDataFormat, which adapts to DataFormatDefinition.

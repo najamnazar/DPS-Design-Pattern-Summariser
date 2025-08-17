@@ -1,0 +1,1 @@
+DefaultResourceResolverChain acts as a caretaker for memento C, which inits ArrayList<? parameter of extends Chain, which resolves @Nullable parameter of HttpServletRequest, String parameter of requestPath, List<? parameter of extends Resource, which resolves String parameter of resourcePath, List<? parameter of extends Url Path.

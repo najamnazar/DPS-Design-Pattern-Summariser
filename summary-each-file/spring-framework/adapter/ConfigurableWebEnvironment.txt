@@ -1,0 +1,1 @@
+ConfigurableWebEnvironment acts as an adaptee for adapter StandardServletEnvironment, which adapts to StandardEnvironment.

@@ -1,0 +1,2 @@
+MemberDeclaration acts as an originator for memento SourcePosition.
+MemberDeclaration acts as an originator for memento String.

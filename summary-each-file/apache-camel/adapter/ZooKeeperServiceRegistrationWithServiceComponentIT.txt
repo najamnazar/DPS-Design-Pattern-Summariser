@@ -1,0 +1,1 @@
+ZooKeeperServiceRegistrationWithServiceComponentIT acts as an adapter, which adapts to ZooKeeperServiceRegistrationITBase, which adapts to ZooKeeperServiceRegistrationITBase.

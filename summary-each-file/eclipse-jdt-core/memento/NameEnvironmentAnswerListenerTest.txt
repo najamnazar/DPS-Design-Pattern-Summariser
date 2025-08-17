@@ -1,0 +1,2 @@
+NameEnvironmentAnswerListenerTest acts as a caretaker for memento S, which gets Library Access, which records NameEnvironmentAnswer parameter of answer Name Environment Answer, which tests Name Environment Answer Listener.
+NameEnvironmentAnswerListenerTest acts as a caretaker for memento String, which gets Library Access, which records NameEnvironmentAnswer parameter of answer Name Environment Answer, which tests Name Environment Answer Listener.

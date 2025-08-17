@@ -1,0 +1,1 @@
+TestRouterAsyncRpc acts as an adapter, which adapts to TestRouterRpc, which adapts to TestRouterRpc, which adapts to TestRouterRpc, which adapts to TestRouterRpc, which adapts to TestRouterRpc.

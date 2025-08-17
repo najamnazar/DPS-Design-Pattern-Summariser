@@ -1,0 +1,2 @@
+XPathResultTypeTest acts as a publisher for observer CamelContext, which xpathes Long And Object, which creates Route Builder.
+XPathResultTypeTest acts as a publisher for observer Service, which xpathes Long And Object, which creates Route Builder.

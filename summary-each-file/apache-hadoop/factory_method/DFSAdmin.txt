@@ -1,0 +1,1 @@
+DFSAdmin acts as a factory method for ClientDatanodeProtocol, which is inherited by Command, Command, Command, Command, Command, Command, Command.

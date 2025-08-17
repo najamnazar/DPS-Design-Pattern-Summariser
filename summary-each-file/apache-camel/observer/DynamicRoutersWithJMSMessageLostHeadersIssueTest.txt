@@ -1,0 +1,1 @@
+DynamicRoutersWithJMSMessageLostHeadersIssueTest acts as a publisher for observer ArtemisService, which sets Up, which gets Component Name, which creates Route Builder, which tests Header Should Existed, which dynamices Exchange parameter of exchange, @Header(Exchange.SLIP_ENDPOINT) parameter of String Route.

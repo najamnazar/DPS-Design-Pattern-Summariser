@@ -1,0 +1,1 @@
+DefaultRouteError acts as a product for ManagedRouteMBean, which overrides getPhase method of RouteError, getException method of RouteError, isUnhealthy method of RouteError.

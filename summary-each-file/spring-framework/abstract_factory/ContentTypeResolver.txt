@@ -1,0 +1,1 @@
+ContentTypeResolver acts as an abstract factory for MimeType, which is inherited by DefaultContentTypeResolver.

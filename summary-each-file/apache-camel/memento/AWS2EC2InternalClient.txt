@@ -1,0 +1,1 @@
+AWS2EC2InternalClient acts as a memento, which is inherited by AWS2EC2ClientStandardImpl, AWS2EC2ClientIAMOptimizedImpl, which gets Ec2Client.

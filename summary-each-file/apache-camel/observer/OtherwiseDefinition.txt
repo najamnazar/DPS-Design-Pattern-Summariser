@@ -1,0 +1,1 @@
+OtherwiseDefinition acts as an observer for publisher ChoiceDefinition, which is inherited by, which gets Outputs, which sets List<ProcessorDefinition<?>> parameter of outputs Outputs, which tos String, which gets Short Name, which gets Label.

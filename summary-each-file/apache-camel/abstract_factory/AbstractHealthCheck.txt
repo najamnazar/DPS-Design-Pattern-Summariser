@@ -1,0 +1,3 @@
+AbstractHealthCheck acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+AbstractHealthCheck acts as a product for HealthCheckResolver, which overrides.
+AbstractHealthCheck acts as a product for HealthCheckAware, which overrides.

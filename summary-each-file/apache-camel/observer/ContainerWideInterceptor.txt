@@ -1,0 +1,1 @@
+ContainerWideInterceptor acts as an observer, which wraps final parameter of CamelContext, final parameter of NamedNode, final parameter of Processor, final parameter of Processor Processor In Interceptors, which gets Count.

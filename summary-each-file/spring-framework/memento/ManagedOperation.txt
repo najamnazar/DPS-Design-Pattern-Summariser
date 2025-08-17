@@ -1,0 +1,1 @@
+ManagedOperation acts as a memento.

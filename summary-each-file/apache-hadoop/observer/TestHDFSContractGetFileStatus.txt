@@ -1,0 +1,2 @@
+TestHDFSContractGetFileStatus acts as a publisher for observer PathFilter, which creates Cluster, which teardowns Cluster, which creates Configuration parameter of conf Contract.
+TestHDFSContractGetFileStatus acts as a publisher for observer Path, which creates Cluster, which teardowns Cluster, which creates Configuration parameter of conf Contract.

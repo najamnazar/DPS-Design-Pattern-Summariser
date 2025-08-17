@@ -1,0 +1,3 @@
+Openable acts as a product for SourceRefElement, which overrides findRecommendedLineSeparator method of IOpenable, getBuffer method of IOpenable, hasUnsavedChanges method of IOpenable, isConsistent method of IOpenable, isOpen method of IOpenable.
+Openable acts as a factory for SourceRefElement, which overrides findRecommendedLineSeparator method of SourceRefElement, getBuffer method of SourceRefElement, hasUnsavedChanges method of SourceRefElement, isConsistent method of SourceRefElement, isOpen method of SourceRefElement.
+Openable acts as a factory for BufferFactoryWrapper, which overrides getUnderlyingResource method of BufferFactoryWrapper, hasUnsavedChanges method of BufferFactoryWrapper.

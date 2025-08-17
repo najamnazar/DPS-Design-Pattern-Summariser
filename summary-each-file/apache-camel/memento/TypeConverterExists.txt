@@ -1,0 +1,1 @@
+TypeConverterExists acts as a memento.

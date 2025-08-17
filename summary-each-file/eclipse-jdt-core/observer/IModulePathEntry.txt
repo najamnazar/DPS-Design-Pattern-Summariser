@@ -1,0 +1,2 @@
+IModulePathEntry acts as a publisher for observer String, which is inherited by JrtPackageFragmentRoot, ClasspathSourceDirectory, which gets Module, which gets char[] parameter of name Module, which serves char[] parameter of name Module, which gets String parameter of qualifiedPackageName, /*@Nullable*/
+String parameter of moduleName Modules Declaring Package, which has String parameter of qualifiedPackageName, String parameter of moduleName Compilation Unit, which lists Packages, which is Automatic Module.

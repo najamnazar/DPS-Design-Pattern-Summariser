@@ -1,0 +1,1 @@
+FhirCreateIT acts as a caretaker for memento Context, which creates Camel Context, which tests Create Resource, which tests Create String Resource, which tests Create String Resource Encode Xml, which creates Route Builder.

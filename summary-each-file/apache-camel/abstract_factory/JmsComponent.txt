@@ -1,0 +1,1 @@
+JmsComponent acts as an abstract product for JmsComponent, which is inherited by ActiveMQComponent, AMQPComponent.

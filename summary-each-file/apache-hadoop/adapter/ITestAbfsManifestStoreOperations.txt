@@ -1,0 +1,1 @@
+ITestAbfsManifestStoreOperations acts as an adapter, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest, which adapts to AbstractManifestCommitterTest.

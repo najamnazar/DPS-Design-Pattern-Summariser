@@ -1,0 +1,2 @@
+DefaultModelineFactory acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultModelineFactory acts as a product for ExtendedCamelContext, which overrides parseModeline method of ModelineFactory.

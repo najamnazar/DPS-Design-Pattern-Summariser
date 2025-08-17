@@ -1,0 +1,1 @@
+ICompilerFactory acts as an abstract factory for Compiler, which is inherited by MockCompilerFactory, DefaultCompilerFactory.

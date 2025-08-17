@@ -1,0 +1,4 @@
+ScalaGenerator acts as a caretaker for memento C.
+ScalaGenerator acts as a caretaker for memento SQL.
+ScalaGenerator acts as a caretaker for memento File.
+ScalaGenerator acts as a caretaker for memento Cat.

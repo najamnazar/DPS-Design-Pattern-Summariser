@@ -1,0 +1,1 @@
+DebuggerFactory acts as an abstract factory for Debugger, which is inherited by CamelDebuggerFactory.

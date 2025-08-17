@@ -1,0 +1,7 @@
+Tool acts as a target for adapter DebugAdmin, which adapts to Tool.
+Tool acts as an adaptee for adapter NodeAttributesCLI, which adapts to Configured.
+Tool acts as an adaptee for adapter HAAdmin, which adapts to Configured.
+Tool acts as an adaptee for adapter SLSRunner, which adapts to Configured.
+Tool acts as an adaptee for adapter HSAdmin, which adapts to Configured.
+Tool acts as an adaptee for adapter TeraSort, which adapts to Configured.
+Tool acts as a target for adapter HadoopLogsAnalyzer, which adapts to Tool.

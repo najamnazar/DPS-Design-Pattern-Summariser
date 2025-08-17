@@ -1,0 +1,1 @@
+AMRMProxyApplicationContext acts as an observer for publisher RequestInterceptor, AbstractRequestInterceptor, which is inherited by AMRMProxyApplicationContextImpl, which gets Conf, which gets Application Attempt Id, which gets User, which gets AMRMToken, which gets Local AMRMToken, which gets NMContext, which gets Credentials, which gets Registry Client.

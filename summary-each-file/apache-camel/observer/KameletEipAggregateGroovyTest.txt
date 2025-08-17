@@ -1,0 +1,5 @@
+KameletEipAggregateGroovyTest acts as a publisher for observer CamelContext, which tests Aggregate, which creates Route Builder.
+KameletEipAggregateGroovyTest acts as a publisher for observer Service, which tests Aggregate, which creates Route Builder.
+KameletEipAggregateGroovyTest acts as a publisher for observer FluentProducerTemplate, which tests Aggregate, which creates Route Builder.
+KameletEipAggregateGroovyTest acts as a publisher for observer ConsumerTemplate, which tests Aggregate, which creates Route Builder.
+KameletEipAggregateGroovyTest acts as a publisher for observer ProducerTemplate, which tests Aggregate, which creates Route Builder.

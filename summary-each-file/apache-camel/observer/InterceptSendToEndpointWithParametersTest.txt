@@ -1,0 +1,2 @@
+InterceptSendToEndpointWithParametersTest acts as a publisher for observer CamelContext, which tests Intercept Send To Endpoint, which creates Route Builder.
+InterceptSendToEndpointWithParametersTest acts as a publisher for observer Service, which tests Intercept Send To Endpoint, which creates Route Builder.

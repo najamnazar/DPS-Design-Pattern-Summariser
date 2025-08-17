@@ -1,0 +1,2 @@
+XsltMessageTerminateTest acts as a publisher for observer Service, which tests Xslt Terminate, which creates Route Builder.
+XsltMessageTerminateTest acts as a publisher for observer CamelContext, which tests Xslt Terminate, which creates Route Builder.

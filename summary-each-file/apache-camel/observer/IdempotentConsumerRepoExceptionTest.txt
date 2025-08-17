@@ -1,0 +1,2 @@
+IdempotentConsumerRepoExceptionTest acts as a publisher for observer Service, which tests Repo Exception, which creates Route Builder, which adds String parameter of key.
+IdempotentConsumerRepoExceptionTest acts as a publisher for observer CamelContext, which tests Repo Exception, which creates Route Builder, which adds String parameter of key.

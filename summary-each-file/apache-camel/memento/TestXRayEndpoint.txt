@@ -1,0 +1,2 @@
+TestXRayEndpoint acts as a caretaker for memento Component, which gets Component, which creates Producer, which creates Processor parameter of processor Consumer.
+TestXRayEndpoint acts as a caretaker for memento Context, which gets Component, which creates Producer, which creates Processor parameter of processor Consumer.

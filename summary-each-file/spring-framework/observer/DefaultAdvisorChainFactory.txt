@@ -1,0 +1,1 @@
+DefaultAdvisorChainFactory acts as an observer, which gets Advised parameter of config, Method parameter of method, @Nullable parameter of Class<?> Interceptors And Dynamic Interception Advice, which has Advisor[] parameter of advisors, Class<?> parameter of actualClass Matching Introductions.

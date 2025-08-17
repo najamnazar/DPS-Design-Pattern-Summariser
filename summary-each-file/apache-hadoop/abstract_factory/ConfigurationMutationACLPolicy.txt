@@ -1,0 +1,1 @@
+ConfigurationMutationACLPolicy acts as an abstract product for ConfigurationMutationACLPolicy, which is inherited by DefaultConfigurationMutationACLPolicy, QueueAdminConfigurationMutationACLPolicy.

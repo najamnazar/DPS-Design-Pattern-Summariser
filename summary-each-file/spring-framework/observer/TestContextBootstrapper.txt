@@ -1,0 +1,1 @@
+TestContextBootstrapper acts as a publisher for observer BootstrapContext, which is inherited by AbstractTestContextBootstrapper, which sets BootstrapContext parameter of bootstrapContext Bootstrap Context, which gets Bootstrap Context, which builds Test Context, which builds Merged Context Configuration, which gets Test Execution Listeners.

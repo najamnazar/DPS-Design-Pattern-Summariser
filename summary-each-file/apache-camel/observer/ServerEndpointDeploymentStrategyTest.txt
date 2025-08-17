@@ -1,0 +1,5 @@
+ServerEndpointDeploymentStrategyTest acts as a publisher for observer Service, which customs Deployment Strategy Test, which creates Camel Context, which creates Route Builder, which gets String parameter of path Endpoint URI.
+ServerEndpointDeploymentStrategyTest acts as a publisher for observer ProducerTemplate, which customs Deployment Strategy Test, which creates Camel Context, which creates Route Builder, which gets String parameter of path Endpoint URI.
+ServerEndpointDeploymentStrategyTest acts as a publisher for observer FluentProducerTemplate, which customs Deployment Strategy Test, which creates Camel Context, which creates Route Builder, which gets String parameter of path Endpoint URI.
+ServerEndpointDeploymentStrategyTest acts as a publisher for observer ConsumerTemplate, which customs Deployment Strategy Test, which creates Camel Context, which creates Route Builder, which gets String parameter of path Endpoint URI.
+ServerEndpointDeploymentStrategyTest acts as a publisher for observer CamelContext, which customs Deployment Strategy Test, which creates Camel Context, which creates Route Builder, which gets String parameter of path Endpoint URI.

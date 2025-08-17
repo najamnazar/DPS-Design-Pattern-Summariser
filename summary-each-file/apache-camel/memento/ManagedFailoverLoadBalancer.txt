@@ -1,0 +1,1 @@
+ManagedFailoverLoadBalancer acts as a caretaker for memento Context, which gets Definition, which resets, which gets Support Extended Information, which gets Size, which is Round Robin, which is Sticky, which gets Maximum Failover Attempts, which gets Exceptions, which gets Last Good Processor Id, which exceptions Statistics.

@@ -1,0 +1,1 @@
+RouteError acts as an abstract product for ManagedRouteMBean, which is inherited by DefaultRouteError.

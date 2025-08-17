@@ -1,0 +1,2 @@
+AbstractSubscribableChannel acts as a caretaker for memento Message, which is inherited by, which gets Subscribers, which has MessageHandler parameter of handler Subscription, which subscribes MessageHandler parameter of handler, which unsubscribes MessageHandler parameter of handler.
+AbstractSubscribableChannel acts as a caretaker for memento C, which gets Subscribers, which has MessageHandler parameter of handler Subscription, which subscribes MessageHandler parameter of handler, which unsubscribes MessageHandler parameter of handler.

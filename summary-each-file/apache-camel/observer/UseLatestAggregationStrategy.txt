@@ -1,0 +1,1 @@
+UseLatestAggregationStrategy acts as an observer, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which propagates Exchange parameter of oldExchange, Exchange parameter of newExchange Exception, which propagates Exchange parameter of oldExchange, Exchange parameter of newExchange Failure, which tos String.

@@ -1,0 +1,1 @@
+ContainerUpdateResponsePBImpl acts as a product for ContainerManagementProtocol, which overrides getSuccessfullyUpdatedContainers method of ContainerUpdateResponse, getFailedRequests method of ContainerUpdateResponse, setFailedRequests method of ContainerUpdateResponse.

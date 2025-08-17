@@ -1,0 +1,2 @@
+StringDecoderBenchmark acts as a caretaker for memento C, which parses SseLinesState parameter of state, Blackhole parameter of blackhole Sse Lines, which setups, which parses Lines.
+StringDecoderBenchmark acts as a caretaker for memento B, which parses SseLinesState parameter of state, Blackhole parameter of blackhole Sse Lines, which setups, which parses Lines.

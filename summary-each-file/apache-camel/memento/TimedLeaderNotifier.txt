@@ -1,0 +1,1 @@
+TimedLeaderNotifier acts as a caretaker for memento Context, which refreshes Optional<String> parameter of leader, Long parameter of timestamp, Long parameter of lease, Set<String> parameter of members Leadership, which starts, which stops, which expirations long parameter of version, which checks long parameter of version And Notify.

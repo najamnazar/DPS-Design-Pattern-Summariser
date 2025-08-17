@@ -1,0 +1,1 @@
+MethodInfoWithTypeAnnotations acts as an adapter, which adapts to MethodInfoWithParameterAnnotations, which adapts to MethodInfoWithParameterAnnotations, which adapts to MethodInfoWithParameterAnnotations.

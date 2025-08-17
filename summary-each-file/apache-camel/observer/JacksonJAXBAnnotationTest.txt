@@ -1,0 +1,5 @@
+JacksonJAXBAnnotationTest acts as a publisher for observer ProducerTemplate, which tests Marshal JAXBObject, which creates Route Builder.
+JacksonJAXBAnnotationTest acts as a publisher for observer Service, which tests Marshal JAXBObject, which creates Route Builder.
+JacksonJAXBAnnotationTest acts as a publisher for observer FluentProducerTemplate, which tests Marshal JAXBObject, which creates Route Builder.
+JacksonJAXBAnnotationTest acts as a publisher for observer ConsumerTemplate, which tests Marshal JAXBObject, which creates Route Builder.
+JacksonJAXBAnnotationTest acts as a publisher for observer CamelContext, which tests Marshal JAXBObject, which creates Route Builder.

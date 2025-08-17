@@ -1,0 +1,1 @@
+MockApps acts as a caretaker for memento YarnApplicationState, which is inherited by, which news App Name, which news User Name, which news Queue, which news int parameter of i App ID, which news App State.

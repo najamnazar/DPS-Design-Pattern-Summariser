@@ -1,0 +1,2 @@
+CounterGroup acts as an abstract factory for Counter, which is inherited by CounterGroupPBImpl.
+CounterGroup acts as an abstract product for CounterGroup, which is inherited by CounterGroupPBImpl.

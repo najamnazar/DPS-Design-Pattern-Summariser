@@ -1,0 +1,1 @@
+CaffeineCacheTests acts as a caretaker for memento C, which sets Up, which gets Cache, which gets boolean parameter of allowNull Cache, which gets Native Cache, which tests Loading Cache Get, which tests Loading Cache Get With Type, which tests Loading Cache Get With Wrong Type, which tests Put If Absent Null Value.

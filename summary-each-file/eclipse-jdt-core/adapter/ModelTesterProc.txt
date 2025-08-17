@@ -1,0 +1,2 @@
+ModelTesterProc acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts round method of ProcessingEnvironment to AbstractProcessor, which adapts to AbstractProcessor, which adapts to AbstractProcessor.
+ModelTesterProc acts as an adapter, which adapts to AbstractProcessor, which adapts to AbstractProcessor, which adapts round method of String to AbstractProcessor, which adapts to AbstractProcessor, which adapts to AbstractProcessor.

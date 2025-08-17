@@ -1,0 +1,1 @@
+ManagedBeanProcessor acts as a caretaker for memento Context, which gets Processor, which gets Instance, which gets Method, which gets Bean Class Name.

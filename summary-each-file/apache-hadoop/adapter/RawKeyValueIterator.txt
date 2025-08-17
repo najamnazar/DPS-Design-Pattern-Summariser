@@ -1,0 +1,2 @@
+RawKeyValueIterator acts as an adaptee for adapter BufferPuller, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver.
+RawKeyValueIterator acts as an adaptee for adapter BufferPullee, which adapts to IDataLoader, which adapts to IDataLoader, which adapts to IDataLoader, which adapts to IDataLoader, which adapts to IDataLoader.

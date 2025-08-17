@@ -1,0 +1,1 @@
+CollectorInfoPBImpl acts as a product for RMApp, which overrides getCollectorAddr method of CollectorInfo, setCollectorAddr method of CollectorInfo, getCollectorToken method of CollectorInfo, setCollectorToken method of CollectorInfo.

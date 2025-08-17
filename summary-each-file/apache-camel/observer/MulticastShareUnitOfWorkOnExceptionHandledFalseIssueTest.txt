@@ -1,0 +1,2 @@
+MulticastShareUnitOfWorkOnExceptionHandledFalseIssueTest acts as a publisher for observer CamelContext, which tests Multicast, which creates Route Builder.
+MulticastShareUnitOfWorkOnExceptionHandledFalseIssueTest acts as a publisher for observer Service, which tests Multicast, which creates Route Builder.

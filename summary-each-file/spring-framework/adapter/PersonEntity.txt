@@ -1,0 +1,1 @@
+PersonEntity acts as an adapter, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person, which adapts to Person.

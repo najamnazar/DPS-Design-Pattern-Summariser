@@ -1,0 +1,1 @@
+ResourceManagingScope acts as an observer, which autos Array parameter of array Free, which autos Blob parameter of blob Free, which autos Clob parameter of clob Free, which autos SQLXML parameter of xml Free, which autos R parameter of closeable Close, which autos R parameter of closeable Close.

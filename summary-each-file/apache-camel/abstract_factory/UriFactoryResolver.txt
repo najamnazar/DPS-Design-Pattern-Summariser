@@ -1,0 +1,2 @@
+UriFactoryResolver acts as an abstract factory for EndpointUriFactory, which is inherited by DefaultUriFactoryResolver.
+UriFactoryResolver acts as an abstract product for UriFactoryResolver, which is inherited by DefaultUriFactoryResolver.

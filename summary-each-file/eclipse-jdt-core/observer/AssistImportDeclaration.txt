@@ -1,0 +1,7 @@
+AssistImportDeclaration acts as a publisher for observer AST, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a publisher for observer Name, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a publisher for observer SimplePropertyDescriptor, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a publisher for observer ChildPropertyDescriptor, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as an observer, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a publisher for observer ChildListPropertyDescriptor, which gets IProgressMonitor parameter of monitor Element Info.
+AssistImportDeclaration acts as a publisher for observer ASTNode, which gets IProgressMonitor parameter of monitor Element Info.

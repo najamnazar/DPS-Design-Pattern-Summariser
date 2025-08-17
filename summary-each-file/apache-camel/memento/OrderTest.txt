@@ -1,0 +1,1 @@
+OrderTest acts as a caretaker for memento Context, which loads Test Support, which creates Application Context, which tests Camel Wsdl, which tests Cxf Wsdl, which checks InputStream parameter of in Wsdl.

@@ -1,0 +1,1 @@
+ComponentDefinition acts as an adaptee for adapter BeanComponentDefinition, which adapts to BeanDefinitionHolder, which adapts to BeanDefinitionHolder, which adapts to BeanDefinitionHolder, which adapts to BeanDefinitionHolder, which adapts to BeanDefinitionHolder.

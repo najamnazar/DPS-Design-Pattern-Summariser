@@ -1,0 +1,1 @@
+ContainerAllocatorEvent acts as an observer for publisher RMContainerAllocator, which is inherited by ContainerFailedEvent, ContainerRequestEvent, which gets Attempt ID.

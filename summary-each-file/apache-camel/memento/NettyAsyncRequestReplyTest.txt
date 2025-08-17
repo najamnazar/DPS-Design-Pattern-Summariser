@@ -1,0 +1,2 @@
+NettyAsyncRequestReplyTest acts as a caretaker for memento Context, which tests Netty, which tests Concurrent, which creates Route Builder, which binds Registry parameter of registry To Registry.
+NettyAsyncRequestReplyTest acts as a caretaker for memento Producer, which tests Netty, which tests Concurrent, which creates Route Builder, which binds Registry parameter of registry To Registry.

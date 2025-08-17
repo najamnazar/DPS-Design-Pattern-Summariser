@@ -1,0 +1,1 @@
+BaseCookieHandler acts as an observer, which stores Exchange parameter of exchange, URI parameter of uri, Map<String, parameter of List<String>> Cookies, which loads Exchange parameter of exchange, URI parameter of uri Cookies, which gets Exchange parameter of exchange Cookie Store, which gets Exchange parameter of exchange Cookie Manager.

@@ -1,0 +1,1 @@
+DefaultGroupFactoryStrategy acts as a product for ZookeeperGroupSupport, which overrides createGroupFactory method of ManagedGroupFactoryStrategy.

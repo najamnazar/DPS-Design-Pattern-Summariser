@@ -1,0 +1,1 @@
+FtpClientActivityListener acts as an abstract product for FtpOperations, which is inherited by DefaultFtpClientActivityListener.

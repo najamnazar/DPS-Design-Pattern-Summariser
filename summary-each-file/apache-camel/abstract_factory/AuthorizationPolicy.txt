@@ -1,0 +1,3 @@
+AuthorizationPolicy acts as a product for ComponentCustomizer, which overrides.
+AuthorizationPolicy acts as a product for LanguageCustomizer, which overrides.
+AuthorizationPolicy acts as a product for DataFormatCustomizer, which overrides.

@@ -1,0 +1,5 @@
+GoogleBigQuerySQLComponentTest acts as a publisher for observer ProducerTemplate, which tests Query Set, which tests Query From Resource Set.
+GoogleBigQuerySQLComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Query Set, which tests Query From Resource Set.
+GoogleBigQuerySQLComponentTest acts as a publisher for observer CamelContext, which tests Query Set, which tests Query From Resource Set.
+GoogleBigQuerySQLComponentTest acts as a publisher for observer Service, which tests Query Set, which tests Query From Resource Set.
+GoogleBigQuerySQLComponentTest acts as a publisher for observer ConsumerTemplate, which tests Query Set, which tests Query From Resource Set.

@@ -1,0 +1,7 @@
+MyRouteBuilder acts as a publisher for observer Resource, which configures.
+MyRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyRouteBuilder acts as an observer, which configures.
+MyRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.

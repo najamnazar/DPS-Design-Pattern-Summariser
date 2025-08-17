@@ -1,0 +1,1 @@
+AbstractAsyncHttpRequestFactoryTests acts as a factory for OkHttp3AsyncClientHttpRequestFactoryTests, which overrides.

@@ -1,0 +1,1 @@
+TestScopeMetadataResolver acts as a factory for ScopeMetadataResolver, which overrides.

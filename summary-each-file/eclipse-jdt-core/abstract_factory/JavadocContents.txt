@@ -1,0 +1,2 @@
+JavadocContents acts as a factory for IJavadocContents, which overrides getTypeDoc method of IJavadocContents, getPackageDoc method of IJavadocContents, getModuleDoc method of IJavadocContents, getFieldDoc method of IJavadocContents, getMethodDoc method of IJavadocContents.
+JavadocContents acts as a product for ExternalJavadocSupport, which overrides getTypeDoc method of IJavadocContents, getPackageDoc method of IJavadocContents, getModuleDoc method of IJavadocContents, getFieldDoc method of IJavadocContents, getMethodDoc method of IJavadocContents.

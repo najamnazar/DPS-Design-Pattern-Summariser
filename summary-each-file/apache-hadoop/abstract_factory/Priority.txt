@@ -1,0 +1,2 @@
+Priority acts as an abstract product for Priority, which is inherited by PriorityPBImpl.
+Priority acts as an abstract product for Priority, which is inherited by PriorityPBImpl, PriorityPBImpl, PriorityPBImpl.

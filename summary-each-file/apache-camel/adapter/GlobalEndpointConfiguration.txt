@@ -1,0 +1,1 @@
+GlobalEndpointConfiguration acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService.

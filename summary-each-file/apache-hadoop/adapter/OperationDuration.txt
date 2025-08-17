@@ -1,0 +1,1 @@
+OperationDuration acts as a target for adapter StatisticDurationTracker, which adapts to OperationDuration, which adapts to OperationDuration, which adapts to OperationDuration, which adapts to OperationDuration, which adapts to OperationDuration, which adapts to OperationDuration, which adapts to OperationDuration.

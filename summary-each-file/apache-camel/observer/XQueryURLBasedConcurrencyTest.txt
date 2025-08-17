@@ -1,0 +1,5 @@
+XQueryURLBasedConcurrencyTest acts as a publisher for observer ProducerTemplate, which tests Concurrency, which creates Route Builder.
+XQueryURLBasedConcurrencyTest acts as a publisher for observer CamelContext, which tests Concurrency, which creates Route Builder.
+XQueryURLBasedConcurrencyTest acts as a publisher for observer FluentProducerTemplate, which tests Concurrency, which creates Route Builder.
+XQueryURLBasedConcurrencyTest acts as a publisher for observer Service, which tests Concurrency, which creates Route Builder.
+XQueryURLBasedConcurrencyTest acts as a publisher for observer ConsumerTemplate, which tests Concurrency, which creates Route Builder.

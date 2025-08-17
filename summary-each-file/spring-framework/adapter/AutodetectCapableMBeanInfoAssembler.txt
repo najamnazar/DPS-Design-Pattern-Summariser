@@ -1,0 +1,1 @@
+AutodetectCapableMBeanInfoAssembler acts as an adaptee for adapter MetadataMBeanInfoAssembler, which adapts to AbstractReflectiveMBeanInfoAssembler.

@@ -1,0 +1,1 @@
+TransportHandlingSockJsService acts as a factory for SockJsServiceConfig, which overrides getMessageCodec method of SockJsServiceConfig.

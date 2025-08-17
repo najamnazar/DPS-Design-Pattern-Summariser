@@ -1,0 +1,1 @@
+BoxEventLogsManagerEndpointConfiguration acts as a caretaker for memento Context, which gets After, which sets java.util.Date parameter of after After, which gets Before, which sets java.util.Date parameter of before Before, which gets Position, which sets String parameter of position Position, which gets Types, which sets com.box.sdk.BoxEvent.Type[] parameter of types Types.

@@ -1,0 +1,2 @@
+MappingJackson2CborHttpMessageConverter acts as a caretaker for memento B, which sets ObjectMapper parameter of objectMapper Object Mapper.
+MappingJackson2CborHttpMessageConverter acts as a caretaker for memento C, which sets ObjectMapper parameter of objectMapper Object Mapper.

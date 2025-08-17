@@ -1,0 +1,1 @@
+PropertyBindingListener acts as an observer for publisher PropertyBindingSupport, which is inherited by DependencyDownloaderPropertyBindingListener, which binds Object parameter of target, String parameter of key, Object parameter of value Property.

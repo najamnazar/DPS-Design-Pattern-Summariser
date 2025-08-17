@@ -1,0 +1,1 @@
+CxfRsEndpointFactoryBean acts as an abstract factory for CxfRsEndpoint, which is inherited by SpringCxfRsEndpointFactoryBean, DefaultCxfRsEndpointFactoryBean.

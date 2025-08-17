@@ -1,0 +1,1 @@
+Relations acts as an originator for memento UniqueKeyDefinition, which is inherited by, which gets an UniqueKeyDefinition Primary Key to.

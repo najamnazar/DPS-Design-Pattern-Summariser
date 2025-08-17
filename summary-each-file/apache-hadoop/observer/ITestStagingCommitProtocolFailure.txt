@@ -1,0 +1,1 @@
+ITestStagingCommitProtocolFailure acts as a publisher for observer AuditSpanSource, which creates Configuration, which tests Create Committer.

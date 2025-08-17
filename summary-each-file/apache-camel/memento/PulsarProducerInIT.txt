@@ -1,0 +1,1 @@
+PulsarProducerInIT acts as a caretaker for memento Producer, which creates Route Builder, which creates Camel Registry, which registers SimpleRegistry parameter of registry Pulsar Beans, which gives Pulsar Client, which tests AMessage To Route Is Sent And Then Consumed, which tests Large Message With Chunking Disabled, which tests Large Message With Chunking Enabled.

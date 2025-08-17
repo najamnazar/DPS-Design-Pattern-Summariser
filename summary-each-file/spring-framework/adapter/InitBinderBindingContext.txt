@@ -1,0 +1,1 @@
+InitBinderBindingContext acts as an adapter, which adapts to BindingContext, which adapts to BindingContext, which adapts to BindingContext, which adapts to BindingContext, which adapts to BindingContext.

@@ -1,0 +1,1 @@
+HeaderFilterStrategy acts as an abstract product for HeaderFilterStrategy, which is inherited by DefaultHeaderFilterStrategy.

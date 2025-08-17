@@ -1,0 +1,2 @@
+StaticTransactionDefinition acts as a factory for TransactionDefinition, which overrides.
+StaticTransactionDefinition acts as a product for TransactionDefinition, which overrides.

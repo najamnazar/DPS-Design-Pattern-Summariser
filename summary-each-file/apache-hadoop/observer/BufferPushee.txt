@@ -1,0 +1,2 @@
+BufferPushee acts as a publisher for observer InputBuffer, which is inherited by, which collects InputBuffer parameter of buffer, which writes InputBuffer parameter of input, which closes.
+BufferPushee acts as an observer, which collects InputBuffer parameter of buffer, which writes InputBuffer parameter of input, which closes.

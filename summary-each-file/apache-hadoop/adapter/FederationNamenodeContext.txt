@@ -1,0 +1,1 @@
+FederationNamenodeContext acts as an adaptee for adapter MembershipState, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord, which adapts to BaseRecord.

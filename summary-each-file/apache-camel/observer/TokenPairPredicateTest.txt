@@ -1,0 +1,2 @@
+TokenPairPredicateTest acts as a publisher for observer Service, which tests Token Pair Predicate, which creates Route Builder.
+TokenPairPredicateTest acts as a publisher for observer CamelContext, which tests Token Pair Predicate, which creates Route Builder.

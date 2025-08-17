@@ -1,0 +1,2 @@
+FileProducerCharsetUTFtoUTFTest acts as a publisher for observer Service, which tests File Producer Charset UTFto UTF, which creates Route Builder.
+FileProducerCharsetUTFtoUTFTest acts as a publisher for observer CamelContext, which tests File Producer Charset UTFto UTF, which creates Route Builder.

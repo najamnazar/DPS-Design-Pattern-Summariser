@@ -1,0 +1,1 @@
+MethodNotFoundException acts as a publisher for observer Exchange, which gets Method Name, which gets Bean.

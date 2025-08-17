@@ -1,0 +1,1 @@
+DebeziumDb2Component acts as a caretaker for memento Configuration, which gets Configuration, which sets Db2ConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, Db2ConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

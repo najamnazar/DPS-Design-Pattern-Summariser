@@ -1,0 +1,3 @@
+ExecutionType acts as an adaptee for adapter ResourceRequestSetKey.
+ExecutionType acts as an adaptee for adapter AbstractYarnScheduler.
+ExecutionType acts as an adaptee for adapter SynthJob.

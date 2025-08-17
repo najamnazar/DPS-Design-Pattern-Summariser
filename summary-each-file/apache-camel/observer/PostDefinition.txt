@@ -1,0 +1,3 @@
+PostDefinition acts as a publisher for observer ToDefinition, which ases Verb.
+PostDefinition acts as an observer, which ases Verb.
+PostDefinition acts as a publisher for observer RestDefinition, which ases Verb.

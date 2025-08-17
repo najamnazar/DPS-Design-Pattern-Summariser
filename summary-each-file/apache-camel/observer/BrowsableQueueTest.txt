@@ -1,0 +1,1 @@
+BrowsableQueueTest acts as a publisher for observer ArtemisService, which tests Send Messages Then Browse Queue, which tests Send Messages Then Browse Queue Limit Not Hit, which tests Send Messages Then Browse Queue No Max, which gets Component Name, which creates Route Builder.

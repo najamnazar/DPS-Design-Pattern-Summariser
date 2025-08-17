@@ -1,0 +1,1 @@
+ResourceRecoveredEvent acts as an observer, which gets Local Path, which gets Size.

@@ -1,0 +1,2 @@
+EhcacheConsumer acts as a caretaker for memento Configuration, which gets Endpoint, which does Start, which does Stop, which ons CacheEvent<?, parameter of ?> Event.
+EhcacheConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which ons CacheEvent<?, parameter of ?> Event.

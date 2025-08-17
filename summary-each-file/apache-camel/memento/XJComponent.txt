@@ -1,0 +1,1 @@
+XJComponent acts as a caretaker for memento Configuration, which creates String parameter of uri Xslt Endpoint.

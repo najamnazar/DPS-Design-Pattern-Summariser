@@ -1,0 +1,3 @@
+RegistryConfiguration acts as an observer.
+RegistryConfiguration acts as a publisher for observer Resource.
+RegistryConfiguration acts as a publisher for observer Configuration.

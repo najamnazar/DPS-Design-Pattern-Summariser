@@ -1,0 +1,1 @@
+HSQLDBTableValuedFunction acts as an adapter, which adapts to AbstractTableDefinition, which adapts to AbstractTableDefinition.

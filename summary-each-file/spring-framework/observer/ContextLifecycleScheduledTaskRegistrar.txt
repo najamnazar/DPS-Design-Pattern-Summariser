@@ -1,0 +1,5 @@
+ContextLifecycleScheduledTaskRegistrar acts as a publisher for observer Trigger, which afters Properties Set, which afters Singletons Instantiated.
+ContextLifecycleScheduledTaskRegistrar acts as a publisher for observer TriggerTask, which afters Properties Set, which afters Singletons Instantiated.
+ContextLifecycleScheduledTaskRegistrar acts as a publisher for observer CronTask, which afters Properties Set, which afters Singletons Instantiated.
+ContextLifecycleScheduledTaskRegistrar acts as a publisher for observer TaskScheduler, which afters Properties Set, which afters Singletons Instantiated.
+ContextLifecycleScheduledTaskRegistrar acts as a publisher for observer IntervalTask, which afters Properties Set, which afters Singletons Instantiated.

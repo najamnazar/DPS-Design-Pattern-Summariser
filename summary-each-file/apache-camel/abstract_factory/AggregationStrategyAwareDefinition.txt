@@ -1,0 +1,1 @@
+AggregationStrategyAwareDefinition acts as an abstract factory for AggregationStrategy, which is inherited by.

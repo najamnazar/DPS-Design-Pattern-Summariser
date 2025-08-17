@@ -1,0 +1,1 @@
+RoundDispatcher acts as a publisher for observer ProcessorInfo, which is inherited by, which rounds, which handles ProcessorInfo parameter of pi Processor.

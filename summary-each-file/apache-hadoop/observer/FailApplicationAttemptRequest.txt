@@ -1,0 +1,1 @@
+FailApplicationAttemptRequest acts as a publisher for observer ApplicationAttemptId, which is inherited by FailApplicationAttemptRequestPBImpl, which news ApplicationAttemptId parameter of attemptId Instance, which gets Application Attempt Id, which sets ApplicationAttemptId parameter of applicationAttemptId Application Attempt Id.

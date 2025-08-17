@@ -1,0 +1,1 @@
+ProducerTemplateAutoRegisterBeanIdExistsTest acts as a caretaker for memento Context, which tests Has No Template, which tests Has Consumer Template.

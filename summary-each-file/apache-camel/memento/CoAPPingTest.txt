@@ -1,0 +1,1 @@
+CoAPPingTest acts as a caretaker for memento Producer, which tests Co AP, which creates Route Builder.

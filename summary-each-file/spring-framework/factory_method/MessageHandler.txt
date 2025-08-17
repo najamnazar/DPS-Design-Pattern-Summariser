@@ -1,0 +1,1 @@
+MessageHandler acts as an abstract product for ExecutorSubscribableChannel, which is inherited by UserRegistryMessageHandler, UserDestinationMessageHandler, AbstractBrokerMessageHandler, SubProtocolWebSocketHandler.

@@ -1,0 +1,6 @@
+Ordered acts as an adaptee for adapter RouteBuilder, which adapts to BuilderSupport.
+Ordered acts as an adaptee for adapter BulkTypeConverters, which adapts to TypeConverter.
+Ordered acts as an adaptee for adapter DefaultAutowiredLifecycleStrategy, which adapts to LifecycleStrategySupport.
+Ordered acts as an adaptee for adapter MainAutowiredLifecycleStrategy, which adapts to LifecycleStrategySupport.
+Ordered acts as an adaptee for adapter DefaultInstrumentationProcessor, which adapts to DelegateAsyncProcessor.
+Ordered acts as an adaptee for adapter SpringCamelContext, which adapts to DefaultCamelContext.

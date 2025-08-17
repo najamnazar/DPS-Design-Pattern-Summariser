@@ -1,0 +1,1 @@
+IdentifiableApplicationEvent acts as an observer, which gets Id, which equals Object parameter of o, which hashes Code.

@@ -1,0 +1,1 @@
+RMAppManagerEvent acts as an observer for publisher TestRMAppTransitions, which is inherited by, which gets Application Id, which gets Target Queue For Move.

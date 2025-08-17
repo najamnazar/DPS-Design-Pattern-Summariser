@@ -1,0 +1,1 @@
+TestNonSerializableObject acts as an observer for publisher TestPartiallySerializableObject, which is inherited by, which gets Description, which sets String parameter of description Description, which gets Name, which sets String parameter of name Name.

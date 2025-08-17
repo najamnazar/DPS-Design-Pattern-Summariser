@@ -1,0 +1,2 @@
+SplitterParallelNoStopOnExceptionTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Split Parallel No Stop On Exception Ok, which tests Split Parallel No Stop On Exception Stop, which creates Route Builder.
+SplitterParallelNoStopOnExceptionTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Split Parallel No Stop On Exception Ok, which tests Split Parallel No Stop On Exception Stop, which creates Route Builder.

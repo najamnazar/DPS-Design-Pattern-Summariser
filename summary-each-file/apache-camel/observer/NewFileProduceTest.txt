@@ -1,0 +1,2 @@
+NewFileProduceTest acts as a publisher for observer Service, which tests New File Producer.
+NewFileProduceTest acts as a publisher for observer CamelContext, which tests New File Producer.

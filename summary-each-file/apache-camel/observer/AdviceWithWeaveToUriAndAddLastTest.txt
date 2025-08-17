@@ -1,0 +1,2 @@
+AdviceWithWeaveToUriAndAddLastTest acts as a publisher for observer Service, which tests Weave By To Uri And Add Last, which creates Route Builder.
+AdviceWithWeaveToUriAndAddLastTest acts as a publisher for observer CamelContext, which tests Weave By To Uri And Add Last, which creates Route Builder.

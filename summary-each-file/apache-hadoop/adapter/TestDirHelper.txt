@@ -1,0 +1,1 @@
+TestDirHelper acts as a target for adapter TestHdfsHelper, which adapts to TestDirHelper, which adapts to TestDirHelper, which adapts to TestDirHelper, which adapts to TestDirHelper, which adapts to TestDirHelper, which adapts to TestDirHelper.

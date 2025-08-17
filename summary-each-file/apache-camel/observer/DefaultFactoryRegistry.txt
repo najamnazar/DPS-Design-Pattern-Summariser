@@ -1,0 +1,1 @@
+DefaultFactoryRegistry acts as an observer, which registers FormatFactoryInterface... parameter of formatFactories, which unregisters Class<? parameter of extends, which finds FormattingOptions parameter of formattingOptions For Formatting Options, which gets Class<?> parameter of clazz By Class.

@@ -1,0 +1,2 @@
+LazyInitTargetSourceCreator acts as a caretaker for memento B, which is Prototype Based, which creates Class<?> parameter of beanClass, String parameter of beanName Bean Factory Based Target Source.
+LazyInitTargetSourceCreator acts as a caretaker for memento C, which is Prototype Based, which creates Class<?> parameter of beanClass, String parameter of beanName Bean Factory Based Target Source.

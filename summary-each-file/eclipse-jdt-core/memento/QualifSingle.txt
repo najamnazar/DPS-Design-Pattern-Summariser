@@ -1,0 +1,2 @@
+QualifSingle acts as a caretaker for memento List.
+QualifSingle acts as a caretaker for memento E.

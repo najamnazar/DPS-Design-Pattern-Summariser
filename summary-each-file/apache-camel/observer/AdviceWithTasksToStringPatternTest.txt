@@ -1,0 +1,2 @@
+AdviceWithTasksToStringPatternTest acts as a publisher for observer Service, which tests Unknown Id, which tests Replace, which tests Remove, which tests Before, which tests After, which creates Route Builder.
+AdviceWithTasksToStringPatternTest acts as a publisher for observer CamelContext, which tests Unknown Id, which tests Replace, which tests Remove, which tests Before, which tests After, which creates Route Builder.

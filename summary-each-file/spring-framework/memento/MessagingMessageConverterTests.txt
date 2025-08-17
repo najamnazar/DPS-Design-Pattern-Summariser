@@ -1,0 +1,2 @@
+MessagingMessageConverterTests acts as a caretaker for memento Message, which onlies Handles Message, which simples Object, which customs Payload Converter, which froms jakarta.jms.Message parameter of message Message.
+MessagingMessageConverterTests acts as a caretaker for memento C, which onlies Handles Message, which simples Object, which customs Payload Converter, which froms jakarta.jms.Message parameter of message Message.

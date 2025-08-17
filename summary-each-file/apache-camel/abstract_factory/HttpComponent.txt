@@ -1,0 +1,3 @@
+HttpComponent acts as a factory for SSLContextParametersAware, which overrides isUseGlobalSslContextParameters method of SSLContextParametersAware, setUseGlobalSslContextParameters method of SSLContextParametersAware.
+HttpComponent acts as an abstract product for HttpComponent, which is inherited by ResteasyComponent.
+HttpComponent acts as a factory for RestProducerFactory, which overrides createProducer method of RestProducerFactory.

@@ -1,0 +1,1 @@
+StageEventCallbacks acts as an observer for publisher StageConfig, which is inherited by ManifestCommitter, which enters String parameter of stage Stage, which exits String parameter of stage Stage.

@@ -1,0 +1,1 @@
+TestUniformQueueResourceCalculation acts as a publisher for observer Resource, which tests Weight Resource Calculation, which tests Percentage Resource Calculation, which tests Absolute Resource Calculation.

@@ -1,0 +1,2 @@
+LogEipBodyWithSimpleTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Log Eip, which creates Route Builder.
+LogEipBodyWithSimpleTest acts as a caretaker for memento Context, which creates Camel Context, which tests Log Eip, which creates Route Builder.

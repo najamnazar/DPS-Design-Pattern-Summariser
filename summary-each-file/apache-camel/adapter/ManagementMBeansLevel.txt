@@ -1,0 +1,1 @@
+ManagementMBeansLevel acts as an adaptee for adapter ManagedMBeansLevelTestSupport, which adapts to ManagementTestSupport, which adapts to ManagementTestSupport.

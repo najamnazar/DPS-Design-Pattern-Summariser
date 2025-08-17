@@ -1,0 +1,1 @@
+RouterAsyncSnapshot acts as an adapter, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot, which adapts to RouterSnapshot.

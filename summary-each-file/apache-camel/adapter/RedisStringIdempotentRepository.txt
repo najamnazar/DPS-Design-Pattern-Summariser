@@ -1,0 +1,1 @@
+RedisStringIdempotentRepository acts as an adaptee for adapter RedisStringIdempotentRepositoryManualIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

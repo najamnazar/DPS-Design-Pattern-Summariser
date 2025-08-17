@@ -1,0 +1,1 @@
+TestLoadGenerator acts as a publisher for observer Configuration, which tests Structure Generator, which tests Load Generator, which mains String[] parameter of args, which runs String[] parameter of args.

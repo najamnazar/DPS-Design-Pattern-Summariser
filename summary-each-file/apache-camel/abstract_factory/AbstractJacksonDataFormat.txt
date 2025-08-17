@@ -1,0 +1,5 @@
+AbstractJacksonDataFormat acts as a product for DataFormatResolver, which overrides marshal method of DataFormat, unmarshal method of DataFormat.
+AbstractJacksonDataFormat acts as a product for CamelContext, which overrides marshal method of DataFormat, unmarshal method of DataFormat.
+AbstractJacksonDataFormat acts as a product for ModelReifierFactory, which overrides marshal method of DataFormat, unmarshal method of DataFormat.
+AbstractJacksonDataFormat acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+AbstractJacksonDataFormat acts as a product for DataFormatFactory, which overrides marshal method of DataFormat, unmarshal method of DataFormat.

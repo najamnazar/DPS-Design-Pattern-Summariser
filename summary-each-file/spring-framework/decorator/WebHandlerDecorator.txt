@@ -1,0 +1,1 @@
+WebHandlerDecorator acts as a decorator for component WebHandler, which is inherited by HttpWebHandlerAdapter, FilteringWebHandler, ExceptionHandlingWebHandler.

@@ -1,0 +1,1 @@
+SharedHttpSessionConfigurer acts as an observer, which afters ConfigurableMockMvcBuilder<?> parameter of builder Configurer Added, which befores ConfigurableMockMvcBuilder<?> parameter of builder, WebApplicationContext parameter of context Mock Mvc Created, which shares Http Session.

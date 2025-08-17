@@ -1,0 +1,1 @@
+TargetSourceCreator acts as an abstract factory for TargetSource, which is inherited by AbstractBeanFactoryBasedTargetSourceCreator.

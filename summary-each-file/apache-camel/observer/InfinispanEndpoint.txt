@@ -1,0 +1,5 @@
+InfinispanEndpoint acts as a publisher for observer ExchangePattern.
+InfinispanEndpoint acts as a publisher for observer CamelContext.
+InfinispanEndpoint acts as a publisher for observer Component.
+InfinispanEndpoint acts as a publisher for observer ExceptionHandler.
+InfinispanEndpoint acts as a publisher for observer Exchange.

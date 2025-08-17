@@ -1,0 +1,3 @@
+RMTimelineCollectorManager acts as a publisher for observer ApplicationId, which does ApplicationId parameter of appId, TimelineCollector parameter of collector Post Put.
+RMTimelineCollectorManager acts as a publisher for observer TimelineCollector, which does ApplicationId parameter of appId, TimelineCollector parameter of collector Post Put.
+RMTimelineCollectorManager acts as an observer for publisher RMServiceContext, which is inherited by, which does ApplicationId parameter of appId, TimelineCollector parameter of collector Post Put.

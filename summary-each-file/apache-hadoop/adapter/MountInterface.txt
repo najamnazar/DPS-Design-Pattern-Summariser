@@ -1,0 +1,1 @@
+MountInterface acts as a target for adapter RpcProgramMountd, which adapts to MountInterface, which adapts to MountInterface, which adapts to MountInterface, which adapts to MountInterface, which adapts to MountInterface, which adapts to MountInterface, which adapts to MountInterface.

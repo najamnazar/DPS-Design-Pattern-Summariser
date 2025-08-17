@@ -1,0 +1,5 @@
+AdditionalMailPropertiesTest acts as a publisher for observer FluentProducerTemplate, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.
+AdditionalMailPropertiesTest acts as a publisher for observer ConsumerTemplate, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.
+AdditionalMailPropertiesTest acts as a publisher for observer ProducerTemplate, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.
+AdditionalMailPropertiesTest acts as a publisher for observer CamelContext, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.
+AdditionalMailPropertiesTest acts as a publisher for observer Service, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.

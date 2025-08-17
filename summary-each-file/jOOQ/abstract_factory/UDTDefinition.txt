@@ -1,0 +1,3 @@
+UDTDefinition acts as a product for Definition, which overrides getRoutines method of PackageDefinition.
+UDTDefinition acts as a product for ArrayDefinition, which overrides getRoutines method of PackageDefinition.
+UDTDefinition acts as an abstract factory for AttributeDefinition, which is inherited by AbstractUDTDefinition.

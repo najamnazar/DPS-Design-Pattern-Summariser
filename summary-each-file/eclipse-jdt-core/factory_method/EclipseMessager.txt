@@ -1,0 +1,1 @@
+EclipseMessager acts as an abstract product for AbstractCompilationEnv, which is inherited by MessagerImpl.

@@ -1,0 +1,1 @@
+RegisterNodeManagerResponse acts as an originator for memento NodeAction, which is inherited by, which gets a NodeAction Node Action to, which sets NodeAction parameter of nodeAction Node Action.

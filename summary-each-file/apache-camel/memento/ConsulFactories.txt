@@ -1,0 +1,1 @@
+ConsulFactories acts as an originator for memento Producer, which creates Producer.

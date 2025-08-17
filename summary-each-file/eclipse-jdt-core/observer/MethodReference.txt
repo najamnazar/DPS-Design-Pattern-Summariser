@@ -1,0 +1,3 @@
+MethodReference acts as an observer, which internals Class parameter of nodeClass Type Arguments Factory, which internals Type Arguments Property, which gets Type Arguments Property, which types Arguments, which resolves Method Binding.
+MethodReference acts as a publisher for observer Constant, which internals Class parameter of nodeClass Type Arguments Factory, which internals Type Arguments Property, which gets Type Arguments Property, which types Arguments, which resolves Method Binding.
+MethodReference acts as a publisher for observer TypeBinding, which internals Class parameter of nodeClass Type Arguments Factory, which internals Type Arguments Property, which gets Type Arguments Property, which types Arguments, which resolves Method Binding.

@@ -1,0 +1,2 @@
+CloseableQuery acts as a factory for AbstractQuery, which overrides bind method of AbstractQuery, bind method of AbstractQuery, poolable method of AbstractQuery, queryTimeout method of AbstractQuery, keepStatement method of AbstractQuery, close method of AbstractQuery.
+CloseableQuery acts as an abstract product for AbstractQuery, which is inherited by AbstractDelegatingQuery, AbstractQuery.

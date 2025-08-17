@@ -1,0 +1,1 @@
+WebsocketEndpoint acts as an adapter, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint, which adapts to ServletEndpoint.

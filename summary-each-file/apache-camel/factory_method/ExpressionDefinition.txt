@@ -1,0 +1,9 @@
+ExpressionDefinition acts as a factory for PredicateFactoryAware, which overrides.
+ExpressionDefinition acts as a product for ExpressionDefinition, which overrides createExpression method of ExpressionFactory.
+ExpressionDefinition acts as a factory for ServiceCallProcessorFactory, which overrides evaluate method of ServiceCallProcessorFactory, init method of ServiceCallProcessorFactory.
+ExpressionDefinition acts as a product for PredicateFactoryAware, which overrides.
+ExpressionDefinition acts as a factory method for ExpressionFactory, which is inherited by ExpressionFactoryAware, ExpressionDefinition, ExpressionDefinition, ExpressionDefinition, ExpressionDefinition, ExpressionDefinition, ExpressionFactoryAware.
+ExpressionDefinition acts as a factory for ErrorHandlerReifier, which overrides matches method of ErrorHandlerReifier, init method of ErrorHandlerReifier, initPredicate method of ErrorHandlerReifier.
+ExpressionDefinition acts as a factory for ExpressionDefinition, which overrides createExpression method of ExpressionDefinition.
+ExpressionDefinition acts as a product for ServiceCallProcessorFactory, which overrides evaluate method of Expression, init method of Expression.
+ExpressionDefinition acts as a product for ErrorHandlerReifier, which overrides matches method of Predicate, init method of Predicate, initPredicate method of Predicate.

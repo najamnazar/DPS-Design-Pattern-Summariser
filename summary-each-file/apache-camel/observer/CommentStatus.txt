@@ -1,0 +1,1 @@
+CommentStatus acts as an observer for publisher CommentSearchCriteria, which is inherited by.

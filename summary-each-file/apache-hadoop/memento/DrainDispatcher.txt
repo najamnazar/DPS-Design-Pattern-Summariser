@@ -1,0 +1,1 @@
+DrainDispatcher acts as a caretaker for memento Clock, which waits For Event Thread To Wait, which awaits, which creates Thread, which gets Event Handler, which is Drained.

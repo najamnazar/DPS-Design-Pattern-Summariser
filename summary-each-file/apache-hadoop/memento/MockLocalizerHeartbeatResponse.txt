@@ -1,0 +1,2 @@
+MockLocalizerHeartbeatResponse acts as an originator for memento LocalizerAction, which gets a LocalizerAction Localizer Action to, which sets LocalizerAction parameter of action Localizer Action.
+MockLocalizerHeartbeatResponse acts as a caretaker for memento LocalizerAction, which gets Localizer Action, which sets LocalizerAction parameter of action Localizer Action, which gets Resource Specs, which sets List<ResourceLocalizationSpec> parameter of resourceSpecs Resource Specs.

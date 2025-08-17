@@ -1,0 +1,1 @@
+Resource acts as an observer for publisher RouteWatcherReloadStrategy, which is inherited by ResourceSupport, JettyClassPathResource, which gets Scheme, which gets Location, which exists, which gets URI, which gets URL, which gets Input Stream, which gets Reader, which gets Charset parameter of charset Reader.

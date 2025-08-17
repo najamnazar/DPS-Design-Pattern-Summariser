@@ -1,0 +1,1 @@
+CamelDirectConnection acts as a publisher for observer CamelContext, which is inherited by, which sends WebServiceMessage parameter of message, which receives WebServiceMessageFactory parameter of messageFactory, which gets Uri, which has Error, which gets Error Message, which closes, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.

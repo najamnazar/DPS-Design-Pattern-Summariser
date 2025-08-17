@@ -1,0 +1,2 @@
+BufferingClientHttpRequestFactoryTests acts as a caretaker for memento ClientHttpRequest, which creates Request Factory, which repeatables Read.
+BufferingClientHttpRequestFactoryTests acts as a caretaker for memento C, which creates Request Factory, which repeatables Read.

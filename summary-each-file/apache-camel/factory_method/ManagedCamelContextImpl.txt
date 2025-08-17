@@ -1,0 +1,1 @@
+ManagedCamelContextImpl acts as a factory method for ManagedStepMBean, which is inherited by ManagedCamelContext.

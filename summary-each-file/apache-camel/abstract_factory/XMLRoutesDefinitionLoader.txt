@@ -1,0 +1,1 @@
+XMLRoutesDefinitionLoader acts as an abstract product for XMLRoutesDefinitionLoader, which is inherited by XmlRoutesDefinitionLoader, JaxbXmlRoutesDefinitionLoader.

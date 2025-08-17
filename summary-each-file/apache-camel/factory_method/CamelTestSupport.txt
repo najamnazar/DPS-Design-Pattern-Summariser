@@ -1,0 +1,4 @@
+CamelTestSupport acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+CamelTestSupport acts as a factory for CamelJmxConsumerObserveAttributeMatchStringTest, which overrides.
+CamelTestSupport acts as a factory for SplunkEndpoint, which overrides.
+CamelTestSupport acts as a factory for FromRestConfigurationTest, which overrides.

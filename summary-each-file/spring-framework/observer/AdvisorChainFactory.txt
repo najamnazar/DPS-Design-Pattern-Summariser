@@ -1,0 +1,1 @@
+AdvisorChainFactory acts as an observer for publisher AdvisedSupport, ProxyCreatorSupport, which is inherited by DefaultAdvisorChainFactory, which gets Advised parameter of config, Method parameter of method, @Nullable parameter of Class<?> Interceptors And Dynamic Interception Advice.

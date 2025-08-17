@@ -1,0 +1,1 @@
+AppRemovedSchedulerEvent acts as an observer, which gets Application ID, which gets Final State.

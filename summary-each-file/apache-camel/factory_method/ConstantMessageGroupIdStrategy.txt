@@ -1,0 +1,1 @@
+ConstantMessageGroupIdStrategy acts as a product for Sns2Configuration, which overrides getMessageGroupId method of MessageGroupIdStrategy.

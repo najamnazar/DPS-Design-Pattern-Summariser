@@ -1,0 +1,5 @@
+DisruptorVmMultipleConsumersIssueTest acts as a publisher for observer CamelContext, which tests Disruptor Vm Multiple Consumers Issue, which creates Route Builder.
+DisruptorVmMultipleConsumersIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Disruptor Vm Multiple Consumers Issue, which creates Route Builder.
+DisruptorVmMultipleConsumersIssueTest acts as a publisher for observer ProducerTemplate, which tests Disruptor Vm Multiple Consumers Issue, which creates Route Builder.
+DisruptorVmMultipleConsumersIssueTest acts as a publisher for observer ConsumerTemplate, which tests Disruptor Vm Multiple Consumers Issue, which creates Route Builder.
+DisruptorVmMultipleConsumersIssueTest acts as a publisher for observer Service, which tests Disruptor Vm Multiple Consumers Issue, which creates Route Builder.

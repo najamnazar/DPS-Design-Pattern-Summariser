@@ -1,0 +1,3 @@
+IsSingleton acts as an adaptee for adapter EventDrivenPollingConsumer, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport.
+IsSingleton acts as an adaptee for adapter ProcessorPollingConsumer, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport.
+IsSingleton acts as an adaptee for adapter SedaPollingConsumer, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport.

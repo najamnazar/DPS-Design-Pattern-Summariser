@@ -1,0 +1,1 @@
+CatalogVersionProvider acts as an adaptee for adapter AbstractDatabase, which adapts to Database.

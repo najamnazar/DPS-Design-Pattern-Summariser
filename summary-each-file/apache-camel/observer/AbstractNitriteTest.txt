@@ -1,0 +1,5 @@
+AbstractNitriteTest acts as a publisher for observer FluentProducerTemplate, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.
+AbstractNitriteTest acts as a publisher for observer Service, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.
+AbstractNitriteTest acts as a publisher for observer CamelContext, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.
+AbstractNitriteTest acts as a publisher for observer ConsumerTemplate, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.
+AbstractNitriteTest acts as a publisher for observer ProducerTemplate, which does Pre Setup, which befores ExtensionContext parameter of context Each, which temps Db, which sorts List<Exchange> parameter of input By Change Timestamp.

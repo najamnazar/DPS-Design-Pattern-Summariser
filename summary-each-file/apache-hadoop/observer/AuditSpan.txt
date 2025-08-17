@@ -1,0 +1,2 @@
+AuditSpan acts as an observer for publisher Listing, which is inherited by AuditSpanS3A, which gets Span Id, which gets Operation Name, which gets Timestamp, which activates, which deactivates, which closes, which is Valid Span, which sets String parameter of key, String parameter of value.
+AuditSpan acts as an observer, which gets Span Id, which gets Operation Name, which gets Timestamp, which activates, which deactivates, which closes, which is Valid Span, which sets String parameter of key, String parameter of value.

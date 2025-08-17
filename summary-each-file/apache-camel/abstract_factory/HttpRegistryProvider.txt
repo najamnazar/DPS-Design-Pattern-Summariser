@@ -1,0 +1,1 @@
+HttpRegistryProvider acts as an abstract product for HttpRegistryProvider, which is inherited by ResteasyCamelServlet, CamelServlet.

@@ -1,0 +1,2 @@
+FtpsComponent acts as a factory for SSLContextParametersAware, which overrides isUseGlobalSslContextParameters method of SSLContextParametersAware, setUseGlobalSslContextParameters method of SSLContextParametersAware.
+FtpsComponent acts as a product for FtpComponentBuilderFactory, which overrides buildFileEndpoint method of FtpComponent.

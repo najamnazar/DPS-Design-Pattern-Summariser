@@ -1,0 +1,1 @@
+TestReturnValueHandler acts as an observer, which gets Last Return Value, which supports MethodParameter parameter of returnType Return Type, which handles @Nullable parameter of Object, MethodParameter parameter of returnType, Message<?> parameter of message Return Value, which saves @Nullable parameter of Object Value.

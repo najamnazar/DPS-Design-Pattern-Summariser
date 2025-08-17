@@ -1,0 +1,1 @@
+SalesforceHeadersIntegrationTest acts as a caretaker for memento Component, which shoulds Send Custom Headers.

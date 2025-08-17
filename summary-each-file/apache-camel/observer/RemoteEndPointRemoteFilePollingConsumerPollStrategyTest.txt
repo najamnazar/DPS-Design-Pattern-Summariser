@@ -1,0 +1,5 @@
+RemoteEndPointRemoteFilePollingConsumerPollStrategyTest acts as a publisher for observer ConsumerTemplate, which tests Poll Strategy.
+RemoteEndPointRemoteFilePollingConsumerPollStrategyTest acts as a publisher for observer FluentProducerTemplate, which tests Poll Strategy.
+RemoteEndPointRemoteFilePollingConsumerPollStrategyTest acts as a publisher for observer ProducerTemplate, which tests Poll Strategy.
+RemoteEndPointRemoteFilePollingConsumerPollStrategyTest acts as a publisher for observer CamelContext, which tests Poll Strategy.
+RemoteEndPointRemoteFilePollingConsumerPollStrategyTest acts as a publisher for observer Service, which tests Poll Strategy.

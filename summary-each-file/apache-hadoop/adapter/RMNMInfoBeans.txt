@@ -1,0 +1,1 @@
+RMNMInfoBeans acts as a target for adapter RMNMInfo, which adapts to RMNMInfoBeans.

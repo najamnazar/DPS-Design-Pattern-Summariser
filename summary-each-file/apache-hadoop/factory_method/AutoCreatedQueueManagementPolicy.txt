@@ -1,0 +1,1 @@
+AutoCreatedQueueManagementPolicy acts as an abstract product for CapacitySchedulerConfiguration, which is inherited by GuaranteedOrZeroCapacityOverTimePolicy.

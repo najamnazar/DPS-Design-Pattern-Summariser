@@ -1,0 +1,1 @@
+SourceFieldWithChildrenInfo acts as a caretaker for memento E, which gets Children.

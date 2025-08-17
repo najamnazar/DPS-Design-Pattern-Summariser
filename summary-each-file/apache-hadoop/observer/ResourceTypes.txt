@@ -1,0 +1,1 @@
+ResourceTypes acts as an observer for publisher ResourceTypeInfo, ResourceTypeInfoPBImpl, which is inherited by.

@@ -1,0 +1,1 @@
+HttpAccessor acts as a target for adapter InterceptingHttpAccessor, which adapts to HttpAccessor, which adapts to HttpAccessor, which adapts to HttpAccessor, which adapts to HttpAccessor, which adapts to HttpAccessor, which adapts to HttpAccessor.

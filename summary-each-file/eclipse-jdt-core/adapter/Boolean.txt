@@ -1,0 +1,1 @@
+Boolean acts as an adaptee for adapter DOMToModelPopulator.

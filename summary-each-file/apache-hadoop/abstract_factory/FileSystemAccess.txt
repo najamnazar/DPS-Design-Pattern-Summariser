@@ -1,0 +1,1 @@
+FileSystemAccess acts as an abstract factory for Configuration, FileSystem, which is inherited by FileSystemAccessService.

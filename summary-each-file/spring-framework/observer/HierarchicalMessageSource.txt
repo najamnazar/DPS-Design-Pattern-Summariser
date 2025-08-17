@@ -1,0 +1,1 @@
+HierarchicalMessageSource acts as an observer, which sets @Nullable parameter of MessageSource Parent Message Source, which gets Parent Message Source.

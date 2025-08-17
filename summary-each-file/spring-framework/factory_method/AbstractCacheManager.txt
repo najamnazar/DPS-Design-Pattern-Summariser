@@ -1,0 +1,2 @@
+AbstractCacheManager acts as a factory for NoOpCacheManager, which overrides.
+AbstractCacheManager acts as a product for JCacheManagerFactoryBean, which overrides getCache method of CacheManager, getCacheNames method of CacheManager.

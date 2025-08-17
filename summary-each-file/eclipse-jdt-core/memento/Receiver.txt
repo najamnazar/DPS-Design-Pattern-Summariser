@@ -1,0 +1,1 @@
+Receiver acts as a caretaker for memento R, which is Receiver, which prints int parameter of indent, StringBuilder parameter of output.

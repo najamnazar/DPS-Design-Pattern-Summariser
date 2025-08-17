@@ -1,0 +1,1 @@
+IdentityDefinition acts as a factory for DefaultIndexColumnDefinition, which overrides.

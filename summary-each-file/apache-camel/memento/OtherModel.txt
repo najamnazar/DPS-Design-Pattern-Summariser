@@ -1,0 +1,1 @@
+OtherModel acts as a memento, which gets Kind.

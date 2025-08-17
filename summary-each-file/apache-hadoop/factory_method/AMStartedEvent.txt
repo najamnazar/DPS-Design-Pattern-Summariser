@@ -1,0 +1,1 @@
+AMStartedEvent acts as a product for ReduceAttempt20LineHistoryEventEmitter, which overrides getEventType method of HistoryEvent, toTimelineEvent method of HistoryEvent, getTimelineMetrics method of HistoryEvent.

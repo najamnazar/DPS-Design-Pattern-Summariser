@@ -1,0 +1,5 @@
+JavaSearchBug565512Test acts as a caretaker for memento R, which gets Project Name, which suites, which sets Up Suite, which tears Down Suite, which gets Java Search Scope, which tests Bug576433, which test576580s.
+JavaSearchBug565512Test acts as a caretaker for memento String, which gets Project Name, which suites, which sets Up Suite, which tears Down Suite, which gets Java Search Scope, which tests Bug576433, which test576580s.
+JavaSearchBug565512Test acts as a caretaker for memento List, which gets Project Name, which suites, which sets Up Suite, which tears Down Suite, which gets Java Search Scope, which tests Bug576433, which test576580s.
+JavaSearchBug565512Test acts as a caretaker for memento S, which gets Project Name, which suites, which sets Up Suite, which tears Down Suite, which gets Java Search Scope, which tests Bug576433, which test576580s.
+JavaSearchBug565512Test acts as a caretaker for memento C, which gets Project Name, which suites, which sets Up Suite, which tears Down Suite, which gets Java Search Scope, which tests Bug576433, which test576580s.

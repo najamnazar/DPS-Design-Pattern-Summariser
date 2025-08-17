@@ -1,0 +1,1 @@
+ErrorHandlerFactory acts as an observer for publisher Route, DefaultRoute, which is inherited by NoErrorHandlerProperties, DefaultErrorHandlerProperties, LegacyErrorHandlerBuilder, BaseErrorHandlerDefinition, ErrorHandlerRefProperties, which supports Transacted, which clones Builder.

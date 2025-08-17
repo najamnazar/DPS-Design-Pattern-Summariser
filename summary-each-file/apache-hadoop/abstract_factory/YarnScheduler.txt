@@ -1,0 +1,1 @@
+YarnScheduler acts as an abstract factory for QueueInfo, ResourceCalculator, QueueMetrics, SchedulerNode, Priority, ApplicationResourceUsageReport, Resource, RMContainer, which is inherited by.

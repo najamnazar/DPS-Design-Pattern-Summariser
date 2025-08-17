@@ -1,0 +1,1 @@
+AWS2DeleteItemRuleIT acts as a caretaker for memento Producer, which puts Item, which creates Route Builder.

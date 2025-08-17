@@ -1,0 +1,7 @@
+ManagedLoop acts as a visitor for element ExtendedExchange, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.
+ManagedLoop acts as a visitor for element ExtendedCamelContext, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.
+ManagedLoop acts as a visitor for element TypeConverterRegistry, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.
+ManagedLoop acts as a visitor for element InternalProcessorFactory, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.
+ManagedLoop acts as a visitor for element BeanIntrospection, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.
+ManagedLoop acts as a visitor for element ModelineParser, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.
+ManagedLoop acts as a visitor for element UnitOfWork, which overrides, which gets a Definition to, which gets a Expression Language to, which gets a Expression to, which is a Copy to.

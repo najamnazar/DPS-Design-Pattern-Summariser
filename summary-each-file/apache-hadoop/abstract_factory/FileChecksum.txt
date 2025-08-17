@@ -1,0 +1,2 @@
+FileChecksum acts as an abstract product for FileChecksum, which is inherited by CompositeCrcFileChecksum, MD5MD5CRC32FileChecksum, TosChecksum, EtagChecksum.
+FileChecksum acts as a product for WritableFactory, which overrides.

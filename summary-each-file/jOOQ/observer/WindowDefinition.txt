@@ -1,0 +1,1 @@
+WindowDefinition acts as an observer for publisher AbstractWindowFunction, which is inherited by WindowDefinitionImpl, which $names, which $windows Specification.

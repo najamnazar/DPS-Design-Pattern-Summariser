@@ -1,0 +1,1 @@
+ContextCustomizerFactory acts as an abstract factory for ContextCustomizer, which is inherited by DynamicPropertiesContextCustomizerFactory, MockServerContainerContextCustomizerFactory.

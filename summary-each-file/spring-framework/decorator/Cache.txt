@@ -1,0 +1,1 @@
+Cache acts as a component for TransactionAwareCacheDecorator, which is inherited by AbstractValueAdaptingCache, AbstractValueAdaptingCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache, NoOpCache.

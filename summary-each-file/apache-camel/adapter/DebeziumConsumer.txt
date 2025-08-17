@@ -1,0 +1,2 @@
+DebeziumConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts createDbzEngine method of EmbeddedDebeziumConfiguration to DefaultConsumer, which adapts to DefaultConsumer.
+DebeziumConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts createDbzEngine method of DebeziumEndpoint to DefaultConsumer, which adapts to DefaultConsumer.

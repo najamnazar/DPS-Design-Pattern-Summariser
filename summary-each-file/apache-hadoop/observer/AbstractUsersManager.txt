@@ -1,0 +1,1 @@
+AbstractUsersManager acts as a publisher for observer ApplicationId, which is inherited by UsersManager, ActiveUsersManager, which activates String parameter of user, ApplicationId parameter of applicationId Application, which deactivates String parameter of user, ApplicationId parameter of applicationId Application, which gets Num Active Users.

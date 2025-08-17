@@ -1,0 +1,1 @@
+NatsService acts as an adaptee for adapter NatsITSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

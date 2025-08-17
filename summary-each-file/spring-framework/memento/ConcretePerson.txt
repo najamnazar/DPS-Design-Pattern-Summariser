@@ -1,0 +1,1 @@
+ConcretePerson acts as a caretaker for memento B, which is inherited by, which gets Balance, which sets BigDecimal parameter of balance Balance.

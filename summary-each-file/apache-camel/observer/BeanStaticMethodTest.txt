@@ -1,0 +1,2 @@
+BeanStaticMethodTest acts as a publisher for observer CamelContext, which tests Bean Static Method, which creates Route Builder.
+BeanStaticMethodTest acts as a publisher for observer Service, which tests Bean Static Method, which creates Route Builder.

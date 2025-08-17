@@ -1,0 +1,1 @@
+ContextScanDefinition acts as an observer for publisher CamelContextFactoryBean, which is inherited by, which gets Include Non Singletons, which sets String parameter of includeNonSingletons Include Non Singletons, which gets Excludes, which sets List<String> parameter of excludes Excludes, which gets Includes, which sets List<String> parameter of includes Includes, which clears.

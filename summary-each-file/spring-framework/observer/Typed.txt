@@ -1,0 +1,1 @@
+Typed acts as an observer, which gets Converter, which gets Binding, which gets Type, which gets Data Type, which gets Configuration parameter of configuration Data Type, which $datas Type.

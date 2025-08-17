@@ -1,0 +1,1 @@
+JmsProducerConcurrentTest acts as a publisher for observer ArtemisService, which tests No Concurrent Producers, which tests Concurrent Producers, which does int parameter of files, int parameter of poolSize Send Messages, which gets Component Name, which creates Route Builder.

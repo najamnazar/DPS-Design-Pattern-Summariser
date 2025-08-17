@@ -1,0 +1,2 @@
+FileSplitInSplitTest acts as a publisher for observer CamelContext, which tests Concurrent Append, which creates Route Builder.
+FileSplitInSplitTest acts as a publisher for observer Service, which tests Concurrent Append, which creates Route Builder.

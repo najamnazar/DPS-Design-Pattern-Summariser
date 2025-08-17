@@ -1,0 +1,2 @@
+GenericWebApplicationContext acts as a product for UiApplicationContextUtils, which overrides getTheme method of ThemeSource.
+GenericWebApplicationContext acts as a factory method for ResourcePatternResolver, which is inherited by StaticWebApplicationContext, AbstractApplicationContext, AbstractRefreshableWebApplicationContext, StaticWebApplicationContext, AbstractApplicationContext, ClassPathScanningCandidateComponentProvider, AbstractRefreshableWebApplicationContext, AbstractRefreshableWebApplicationContext.

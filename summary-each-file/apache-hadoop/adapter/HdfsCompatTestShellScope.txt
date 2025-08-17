@@ -1,0 +1,1 @@
+HdfsCompatTestShellScope acts as an adapter, which adapts to HdfsCompatShellScope, which adapts replace method of HdfsCompatEnvironment to HdfsCompatShellScope, which adapts copyToBin method of HdfsCompatEnvironment to HdfsCompatShellScope, which adapts writeConf method of HdfsCompatEnvironment to HdfsCompatShellScope.

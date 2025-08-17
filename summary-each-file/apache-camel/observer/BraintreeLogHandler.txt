@@ -1,0 +1,1 @@
+BraintreeLogHandler acts as an observer, which flushes, which closes, which publishes LogRecord parameter of record, which gets LogRecord parameter of record Logger, which formats LogRecord parameter of record Message.

@@ -1,0 +1,2 @@
+GetDisabledNameservicesRequest acts as an originator for memento GetDisabledNameservicesRequest, which is inherited by, which news a GetDisabledNameservicesRequest Instance to.
+GetDisabledNameservicesRequest acts as a memento, which is inherited by GetDisabledNameservicesRequestPBImpl, which news Instance.

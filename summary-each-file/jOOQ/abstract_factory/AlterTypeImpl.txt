@@ -1,0 +1,5 @@
+AlterTypeImpl acts as a product for DSLContext, which overrides.
+AlterTypeImpl acts as a product for AlterTypeStep, which overrides.
+AlterTypeImpl acts as a factory for AlterTypeStep, which overrides.
+AlterTypeImpl acts as a product for AlterTypeRenameValueToStep, which overrides.
+AlterTypeImpl acts as a factory for AlterTypeRenameValueToStep, which overrides.

@@ -1,0 +1,1 @@
+ManagedFailoverLoadBalancerMBean acts as an adaptee for adapter ManagedFailoverLoadBalancer, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor.

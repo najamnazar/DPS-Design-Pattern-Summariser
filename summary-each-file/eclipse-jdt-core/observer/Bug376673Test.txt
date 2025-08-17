@@ -1,0 +1,1 @@
+Bug376673Test acts as a publisher for observer String, which suites, which tests Bug376673.

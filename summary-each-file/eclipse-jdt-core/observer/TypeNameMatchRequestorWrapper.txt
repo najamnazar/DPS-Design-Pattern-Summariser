@@ -1,0 +1,1 @@
+TypeNameMatchRequestorWrapper acts as a publisher for observer String, which accepts int parameter of modifiers, char[] parameter of packageName, char[] parameter of simpleTypeName, char[][] parameter of enclosingTypeNames, String parameter of path, AccessRestriction parameter of access Type.

@@ -1,0 +1,1 @@
+QuartzNameCollisionTest acts as a caretaker for memento Context, which tests Dupe Name, which tests Dupe Name Multi Context, which tests No Stateful Collision Error, which tests Restart, which tests Remove Job, which cleans Up.

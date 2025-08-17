@@ -1,0 +1,2 @@
+OnExceptionHandledTest acts as a publisher for observer CamelContext, which tests Handled, which creates Route Builder.
+OnExceptionHandledTest acts as a publisher for observer Service, which tests Handled, which creates Route Builder.

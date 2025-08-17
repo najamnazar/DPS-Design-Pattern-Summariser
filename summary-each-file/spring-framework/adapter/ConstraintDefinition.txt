@@ -1,0 +1,1 @@
+ConstraintDefinition acts as an adaptee for adapter AbstractConstraintDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition.

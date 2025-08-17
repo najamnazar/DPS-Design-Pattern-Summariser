@@ -1,0 +1,1 @@
+Registry acts as an abstract product for FromRestConfigurationTest, which is inherited by SimpleRegistry, DefaultRegistry, ConsulRegistry.

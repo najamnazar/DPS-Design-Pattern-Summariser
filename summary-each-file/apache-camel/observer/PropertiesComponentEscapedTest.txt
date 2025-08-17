@@ -1,0 +1,2 @@
+PropertiesComponentEscapedTest acts as a publisher for observer Service, which tests Escaped, which creates Route Builder, which creates Camel Context.
+PropertiesComponentEscapedTest acts as a publisher for observer CamelContext, which tests Escaped, which creates Route Builder, which creates Camel Context.

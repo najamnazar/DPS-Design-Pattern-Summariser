@@ -1,0 +1,1 @@
+DefaultXsltUriResolverFactory acts as a product for XsltComponent, which overrides createUriResolver method of XsltUriResolverFactory.

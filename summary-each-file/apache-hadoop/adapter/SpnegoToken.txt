@@ -1,0 +1,1 @@
+SpnegoToken acts as an adaptee for adapter SecureWasbRemoteCallHelper, which adapts to WasbRemoteCallHelper, which adapts to WasbRemoteCallHelper, which adapts to WasbRemoteCallHelper.

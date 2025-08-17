@@ -1,0 +1,1 @@
+ProblemBinding acts as an observer, which binds Type, which problems Id, which readables Name.

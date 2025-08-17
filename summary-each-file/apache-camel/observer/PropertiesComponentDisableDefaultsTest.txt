@@ -1,0 +1,2 @@
+PropertiesComponentDisableDefaultsTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Disable Default Value Resolution, which creates Camel Context.
+PropertiesComponentDisableDefaultsTest acts as a publisher for observer Service, which is Use Route Builder, which tests Disable Default Value Resolution, which creates Camel Context.

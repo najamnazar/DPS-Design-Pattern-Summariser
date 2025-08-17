@@ -1,0 +1,1 @@
+ServiceNowRelease acts as an observer for publisher ServiceNowConfiguration, which is inherited by, which gets ServiceNowEndpoint parameter of endpoint, which gets ServiceNowEndpoint parameter of endpoint, which gets ServiceNowEndpoint parameter of endpoint.

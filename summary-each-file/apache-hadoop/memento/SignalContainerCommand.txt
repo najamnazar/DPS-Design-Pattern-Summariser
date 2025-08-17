@@ -1,0 +1,1 @@
+SignalContainerCommand acts as a memento.

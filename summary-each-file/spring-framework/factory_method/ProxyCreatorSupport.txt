@@ -1,0 +1,2 @@
+ProxyCreatorSupport acts as a factory for ProxyCreatorSupport, which overrides.
+ProxyCreatorSupport acts as a factory method for AopProxyFactory, which is inherited by ProxyCreatorSupport, ProxyCreatorSupport.

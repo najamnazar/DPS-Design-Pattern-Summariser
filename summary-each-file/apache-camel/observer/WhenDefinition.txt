@@ -1,0 +1,1 @@
+WhenDefinition acts as an observer for publisher OnCompletionDefinition, which is inherited by WhenSkipSendToEndpointDefinition, which tos String, which descriptions, which gets Short Name, which gets Label, which sets ExpressionDefinition parameter of expression Expression, which ends Parent.

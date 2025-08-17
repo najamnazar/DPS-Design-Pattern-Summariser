@@ -1,0 +1,1 @@
+GeneratedAnnotationType acts as an observer for publisher AbstractGenerator, XMLGenerator, JavaGenerator, which is inherited by, which values, which froms String parameter of v Value.

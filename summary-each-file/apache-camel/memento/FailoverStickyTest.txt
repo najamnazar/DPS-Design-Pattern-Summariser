@@ -1,0 +1,2 @@
+FailoverStickyTest acts as a caretaker for memento Producer, which tests Failover Sticky, which creates Route Builder.
+FailoverStickyTest acts as a caretaker for memento Context, which tests Failover Sticky, which creates Route Builder.

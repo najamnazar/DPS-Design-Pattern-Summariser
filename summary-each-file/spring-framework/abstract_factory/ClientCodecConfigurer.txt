@@ -1,0 +1,3 @@
+ClientCodecConfigurer acts as an abstract product for ClientCodecConfigurer, which is inherited by DefaultClientCodecConfigurer, DefaultClientCodecConfigurer.
+ClientCodecConfigurer acts as an abstract factory for ClientCodecConfigurer, which is inherited by DefaultClientCodecConfigurer.
+ClientCodecConfigurer acts as a product for CodecConfigurer, which overrides.

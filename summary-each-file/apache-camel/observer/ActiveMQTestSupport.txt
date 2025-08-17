@@ -1,0 +1,5 @@
+ActiveMQTestSupport acts as a publisher for observer ProducerTemplate.
+ActiveMQTestSupport acts as a publisher for observer CamelContext.
+ActiveMQTestSupport acts as a publisher for observer FluentProducerTemplate.
+ActiveMQTestSupport acts as a publisher for observer ConsumerTemplate.
+ActiveMQTestSupport acts as a publisher for observer Service.

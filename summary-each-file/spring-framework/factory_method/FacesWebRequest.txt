@@ -1,0 +1,1 @@
+FacesWebRequest acts as a product for ServletWebArgumentResolverAdapter, which overrides getNativeRequest method of NativeWebRequest, getNativeResponse method of NativeWebRequest, getNativeRequest method of NativeWebRequest, getNativeResponse method of NativeWebRequest.

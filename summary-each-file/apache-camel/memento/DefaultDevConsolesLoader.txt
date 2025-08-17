@@ -1,0 +1,2 @@
+DefaultDevConsolesLoader acts as a caretaker for memento Context, which loads Dev Consoles, which accepts Resource parameter of resource Resource, which extracts Resource parameter of resource Id.
+DefaultDevConsolesLoader acts as a caretaker for memento DevConsole, which loads Dev Consoles, which accepts Resource parameter of resource Resource, which extracts Resource parameter of resource Id.

@@ -1,0 +1,1 @@
+RequestMatcher acts as an observer for publisher DefaultRequestExpectation, which is inherited by RequestExpectation, which matches ClientHttpRequest parameter of request.

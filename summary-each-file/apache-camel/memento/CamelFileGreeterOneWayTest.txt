@@ -1,0 +1,1 @@
+CamelFileGreeterOneWayTest acts as a caretaker for memento Context, which tests File With Oneway Operation, which creates Application Context.

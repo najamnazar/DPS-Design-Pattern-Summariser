@@ -1,0 +1,2 @@
+GetAllResourceProfilesRequest acts as an originator for memento GetAllResourceProfilesRequest, which is inherited by, which news a GetAllResourceProfilesRequest Instance to.
+GetAllResourceProfilesRequest acts as a memento, which is inherited by GetAllResourceProfilesRequestPBImpl, which news Instance.

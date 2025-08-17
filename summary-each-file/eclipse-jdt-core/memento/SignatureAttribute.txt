@@ -1,0 +1,2 @@
+SignatureAttribute acts as a caretaker for memento Class, which gets Signature Index, which gets Signature.
+SignatureAttribute acts as a caretaker for memento C, which gets Signature Index, which gets Signature.

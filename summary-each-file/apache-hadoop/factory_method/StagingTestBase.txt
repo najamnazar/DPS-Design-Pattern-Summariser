@@ -1,0 +1,1 @@
+StagingTestBase acts as a factory method for JobContext, which is inherited by AbstractITCommitProtocol, MRAppMaster, AbstractITCommitProtocol, AbstractS3ACommitter, MRAppMaster, AbstractS3ACommitter.

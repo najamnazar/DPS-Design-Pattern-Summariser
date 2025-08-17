@@ -1,0 +1,1 @@
+AttributeValue acts as an observer for publisher RMNodeAttribute, which is inherited by StringAttributeValue, which gets Value, which validates String parameter of value And Initialize Value, which compares AttributeValue parameter of other, AttributeExpressionOperation parameter of op For Operation.

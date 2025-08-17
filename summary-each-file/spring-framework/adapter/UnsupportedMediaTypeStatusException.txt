@@ -1,0 +1,1 @@
+UnsupportedMediaTypeStatusException acts as an adapter, which adapts to ResponseStatusException, which adapts to ResponseStatusException, which adapts to ResponseStatusException, which adapts to ResponseStatusException, which adapts to ResponseStatusException.

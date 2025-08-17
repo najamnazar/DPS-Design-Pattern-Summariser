@@ -1,0 +1,1 @@
+RSLegacyRawErasureCoderFactory acts as a factory for RawErasureCoderFactory, which overrides createEncoder method of RawErasureCoderFactory, createDecoder method of RawErasureCoderFactory, getCoderName method of RawErasureCoderFactory, getCodecName method of RawErasureCoderFactory.

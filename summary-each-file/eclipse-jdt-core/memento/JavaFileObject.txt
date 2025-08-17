@@ -1,0 +1,5 @@
+JavaFileObject acts as an originator for memento Reader.
+JavaFileObject acts as a caretaker for memento String, which is inherited by, which gets Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which gets Nesting Kind, which gets Access Level.
+JavaFileObject acts as an originator for memento String, which is String parameter of simpleName, Kind parameter of kind Name Compatible.
+JavaFileObject acts as a caretaker for memento S, which is inherited by, which gets Kind, which is String parameter of simpleName, Kind parameter of kind Name Compatible, which gets Nesting Kind, which gets Access Level.
+JavaFileObject acts as an originator for memento CharSequence.

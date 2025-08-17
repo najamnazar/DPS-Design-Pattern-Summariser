@@ -1,0 +1,1 @@
+MockConnectionProvider acts as a caretaker for memento C, which acquires, which releases Connection parameter of connection.

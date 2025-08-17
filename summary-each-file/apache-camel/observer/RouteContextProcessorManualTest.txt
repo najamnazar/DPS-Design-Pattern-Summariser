@@ -1,0 +1,2 @@
+RouteContextProcessorManualTest acts as a publisher for observer CamelContext, which tests Fork And Join, which xxxes Test Fork And Join, which creates Route Builder, which processes Exchange parameter of arg0.
+RouteContextProcessorManualTest acts as a publisher for observer Service, which tests Fork And Join, which xxxes Test Fork And Join, which creates Route Builder, which processes Exchange parameter of arg0.

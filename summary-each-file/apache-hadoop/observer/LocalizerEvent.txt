@@ -1,0 +1,1 @@
+LocalizerEvent acts as an observer for publisher TestLocalizedResource, which is inherited by LocalizerResourceRequestEvent, which gets Localizer Id.

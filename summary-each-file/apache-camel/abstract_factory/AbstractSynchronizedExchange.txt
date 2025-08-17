@@ -1,0 +1,1 @@
+AbstractSynchronizedExchange acts as a factory for SynchronizedExchange, which overrides getExchange method of SynchronizedExchange, cancelAndGetOriginalExchange method of SynchronizedExchange.

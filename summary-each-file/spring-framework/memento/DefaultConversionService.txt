@@ -1,0 +1,1 @@
+DefaultConversionService acts as a caretaker for memento C, which gets Shared Instance, which adds ConverterRegistry parameter of converterRegistry Default Converters, which adds ConverterRegistry parameter of converterRegistry Collection Converters, which adds ConverterRegistry parameter of converterRegistry Scalar Converters.

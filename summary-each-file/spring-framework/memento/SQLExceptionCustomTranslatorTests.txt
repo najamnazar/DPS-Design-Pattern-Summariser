@@ -1,0 +1,2 @@
+SQLExceptionCustomTranslatorTests acts as a caretaker for memento C, which bads Sql Grammar Exception, which datas Access Resource Exception.
+SQLExceptionCustomTranslatorTests acts as a caretaker for memento SQL, which bads Sql Grammar Exception, which datas Access Resource Exception.

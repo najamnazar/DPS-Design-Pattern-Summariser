@@ -1,0 +1,5 @@
+VelocitySomeValuesNotInExchangeTest acts as a publisher for observer Service, which tests With All Values, which tests With Some Values, which creates Route Builder.
+VelocitySomeValuesNotInExchangeTest acts as a publisher for observer ConsumerTemplate, which tests With All Values, which tests With Some Values, which creates Route Builder.
+VelocitySomeValuesNotInExchangeTest acts as a publisher for observer ProducerTemplate, which tests With All Values, which tests With Some Values, which creates Route Builder.
+VelocitySomeValuesNotInExchangeTest acts as a publisher for observer CamelContext, which tests With All Values, which tests With Some Values, which creates Route Builder.
+VelocitySomeValuesNotInExchangeTest acts as a publisher for observer FluentProducerTemplate, which tests With All Values, which tests With Some Values, which creates Route Builder.

@@ -1,0 +1,2 @@
+AbstractBrokerRegistration acts as a caretaker for memento C, which is inherited by, which gets Client Inbound Channel, which gets Client Outbound Channel, which gets Destination Prefixes, which gets SubscribableChannel parameter of brokerChannel Message Handler.
+AbstractBrokerRegistration acts as a caretaker for memento Message, which is inherited by, which gets Client Inbound Channel, which gets Client Outbound Channel, which gets Destination Prefixes, which gets SubscribableChannel parameter of brokerChannel Message Handler.

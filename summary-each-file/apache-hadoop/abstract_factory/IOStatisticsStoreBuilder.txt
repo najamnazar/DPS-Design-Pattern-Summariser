@@ -1,0 +1,2 @@
+IOStatisticsStoreBuilder acts as an abstract product for IOStatisticsStoreBuilder, which is inherited by IOStatisticsStoreBuilderImpl, IOStatisticsStoreBuilderImpl, IOStatisticsStoreBuilderImpl, IOStatisticsStoreBuilderImpl, IOStatisticsStoreBuilderImpl, IOStatisticsStoreBuilderImpl, IOStatisticsStoreBuilderImpl.
+IOStatisticsStoreBuilder acts as an abstract factory for IOStatisticsStore, IOStatisticsStoreBuilder, which is inherited by IOStatisticsStoreBuilderImpl.

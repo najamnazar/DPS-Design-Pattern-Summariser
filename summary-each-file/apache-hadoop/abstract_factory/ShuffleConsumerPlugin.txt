@@ -1,0 +1,1 @@
+ShuffleConsumerPlugin acts as an abstract factory for Task, FileSystem, CompressionCodec, TaskStatus, MapOutputFile, TaskUmbilicalProtocol, RawKeyValueIterator, which is inherited by.

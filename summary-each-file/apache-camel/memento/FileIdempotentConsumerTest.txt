@@ -1,0 +1,2 @@
+FileIdempotentConsumerTest acts as a caretaker for memento Context, which tests Duplicate Messages Are Filtered Out, which sends final parameter of Endpoint, final parameter of Object, final parameter of Object Message, which creates Route Builder.
+FileIdempotentConsumerTest acts as a caretaker for memento Producer, which tests Duplicate Messages Are Filtered Out, which sends final parameter of Endpoint, final parameter of Object, final parameter of Object Message, which creates Route Builder.

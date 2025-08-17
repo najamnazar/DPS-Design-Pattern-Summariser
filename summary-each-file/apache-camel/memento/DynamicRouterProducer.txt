@@ -1,0 +1,1 @@
+DynamicRouterProducer acts as a caretaker for memento Configuration, which gets Component, which processes final parameter of Exchange, which processes final parameter of Exchange, final parameter of AsyncCallback, which gets final parameter of DynamicRouterEndpoint Instance.

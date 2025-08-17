@@ -1,0 +1,2 @@
+FsPermissionExtension acts as a product for INodeAttributes, which overrides toExtendedShort method of FsPermission, getAclBit method of FsPermission, getEncryptedBit method of FsPermission, getErasureCodedBit method of FsPermission, hashCode method of FsPermission.
+FsPermissionExtension acts as a product for HdfsFileStatus, which overrides toExtendedShort method of FsPermission, getAclBit method of FsPermission, getEncryptedBit method of FsPermission, getErasureCodedBit method of FsPermission, hashCode method of FsPermission.

@@ -1,0 +1,2 @@
+HL7MLLPNettyDecoderResourceLeakTest acts as a caretaker for memento HL7MLLPNettyDecoderFactory, which enables Netty Resource Leak Detector, which creates Route Builder, which tests Send HL7Message, which sends HL7Message.
+HL7MLLPNettyDecoderResourceLeakTest acts as a caretaker for memento HL7MLLPNettyEncoderFactory, which enables Netty Resource Leak Detector, which creates Route Builder, which tests Send HL7Message, which sends HL7Message.

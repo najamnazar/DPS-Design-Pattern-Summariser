@@ -1,0 +1,1 @@
+RecordUnmapperProvider acts as an observer for publisher DefaultConfiguration, which is inherited by DefaultRecordUnmapperProvider, which provides Class<? parameter of extends, RecordType<R> parameter of recordType.

@@ -1,0 +1,2 @@
+AsyncProcessorAwaitManager acts as an abstract product for AsyncProcessorAwaitManager, which is inherited by DefaultAsyncProcessorAwaitManager.
+AsyncProcessorAwaitManager acts as an abstract factory for Exchange, which is inherited by DefaultAsyncProcessorAwaitManager.

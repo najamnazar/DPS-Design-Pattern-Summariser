@@ -1,0 +1,2 @@
+MessageSource acts as an adaptee for adapter JstlView, which adapts to InternalResourceView, which adapts to InternalResourceView, which adapts to InternalResourceView.
+MessageSource acts as an adaptee for adapter AbstractMessageSource, which adapts to MessageSourceSupport, which adapts to MessageSourceSupport, which adapts to MessageSourceSupport.

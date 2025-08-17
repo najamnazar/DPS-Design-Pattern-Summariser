@@ -1,0 +1,1 @@
+TimelineEntities acts as a publisher for observer TimelineEntity, which is inherited by, which gets Entities, which sets List<TimelineEntity> parameter of timelineEntities Entities, which adds List<TimelineEntity> parameter of timelineEntities Entities, which adds TimelineEntity parameter of entity Entity.

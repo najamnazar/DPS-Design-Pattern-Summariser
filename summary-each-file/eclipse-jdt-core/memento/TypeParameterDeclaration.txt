@@ -1,0 +1,3 @@
+TypeParameterDeclaration acts as an originator for memento String.
+TypeParameterDeclaration acts as an originator for memento SourcePosition.
+TypeParameterDeclaration acts as a memento, which is inherited by TypeParameterDeclarationImpl, which gets Owner, which gets Owner.

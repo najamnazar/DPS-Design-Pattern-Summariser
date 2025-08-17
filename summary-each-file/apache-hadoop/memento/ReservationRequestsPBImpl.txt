@@ -1,0 +1,1 @@
+ReservationRequestsPBImpl acts as an originator for memento ReservationRequestInterpreter, which gets a ReservationRequestInterpreter Interpreter to, which sets ReservationRequestInterpreter parameter of interpreter Interpreter, which converts ReservationRequestInterpreter parameter of r To Proto Format, which converts a ReservationRequestInterpreter From Proto Format to.

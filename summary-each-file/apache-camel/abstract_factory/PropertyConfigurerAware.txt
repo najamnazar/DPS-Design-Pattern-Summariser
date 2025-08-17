@@ -1,0 +1,1 @@
+PropertyConfigurerAware acts as an abstract factory for PropertyConfigurer, which is inherited by ExpressionToPredicateAdapter.

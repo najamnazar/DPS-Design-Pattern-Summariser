@@ -1,0 +1,1 @@
+BZip2DummyDecompressor acts as a product for Lz4Codec, which overrides decompress method of Decompressor, end method of Decompressor, finished method of Decompressor, needsDictionary method of Decompressor, needsInput method of Decompressor, getRemaining method of Decompressor, reset method of Decompressor, setDictionary method of Decompressor, setInput method of Decompressor.

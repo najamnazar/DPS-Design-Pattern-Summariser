@@ -1,0 +1,1 @@
+ContainersInfo acts as a publisher for observer ContainerInfo, which is inherited by, which adds ContainerInfo parameter of containerInfo, which gets Containers, which adds Collection<ContainerInfo> parameter of containersInfo All.

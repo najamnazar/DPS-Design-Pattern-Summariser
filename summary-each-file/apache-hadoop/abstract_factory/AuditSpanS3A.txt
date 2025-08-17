@@ -1,0 +1,3 @@
+AuditSpanS3A acts as an abstract product for AuditSpanS3A, which is inherited by AbstractAuditSpanImpl.
+AuditSpanS3A acts as a product for ContextAccessors, which overrides.
+AuditSpanS3A acts as a product for AuditSpan, which overrides.

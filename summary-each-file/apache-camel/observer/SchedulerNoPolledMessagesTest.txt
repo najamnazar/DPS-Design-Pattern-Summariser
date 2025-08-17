@@ -1,0 +1,2 @@
+SchedulerNoPolledMessagesTest acts as a publisher for observer CamelContext, which tests Scheduler No Polled Messages, which creates Route Builder.
+SchedulerNoPolledMessagesTest acts as a publisher for observer Service, which tests Scheduler No Polled Messages, which creates Route Builder.

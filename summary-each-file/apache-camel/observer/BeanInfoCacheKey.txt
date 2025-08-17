@@ -1,0 +1,1 @@
+BeanInfoCacheKey acts as an observer for publisher BeanComponent, ClassComponent, which is inherited by, which equals Object parameter of o, which hashes Code.

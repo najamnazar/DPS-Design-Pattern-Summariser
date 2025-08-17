@@ -1,0 +1,1 @@
+GroovyFilterTest acts as a caretaker for memento Context, which creates Application Context, which tests Send Matching Message, which tests Send Not Matching Message.

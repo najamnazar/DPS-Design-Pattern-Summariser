@@ -1,0 +1,1 @@
+DeadLetterChannel acts as a caretaker for memento Context, which clones Processor parameter of output, which tos String, which is Run Allowed On Preparing Shutdown, which is Dead Letter Channel.

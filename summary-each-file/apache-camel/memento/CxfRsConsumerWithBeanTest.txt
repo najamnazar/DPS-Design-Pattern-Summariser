@@ -1,0 +1,2 @@
+CxfRsConsumerWithBeanTest acts as a caretaker for memento Context, which binds Registry parameter of registry To Registry, which creates Route Builder, which tests Put Consumer, which sends String parameter of uri Put Request.
+CxfRsConsumerWithBeanTest acts as a caretaker for memento Producer, which binds Registry parameter of registry To Registry, which creates Route Builder, which tests Put Consumer, which sends String parameter of uri Put Request.

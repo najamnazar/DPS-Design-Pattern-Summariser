@@ -1,0 +1,2 @@
+TypeParameterPattern acts as an adaptee for adapter TypeParameterLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator.
+TypeParameterPattern acts as an adapter, which adapts to JavaSearchPattern, which adapts to JavaSearchPattern, which adapts to JavaSearchPattern.

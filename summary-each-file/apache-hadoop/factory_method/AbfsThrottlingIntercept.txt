@@ -1,0 +1,1 @@
+AbfsThrottlingIntercept acts as an abstract product for AbfsThrottlingInterceptFactory, which is inherited by AbfsClientThrottlingIntercept, AbfsNoOpThrottlingIntercept.

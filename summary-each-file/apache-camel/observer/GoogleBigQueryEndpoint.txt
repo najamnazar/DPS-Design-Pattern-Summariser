@@ -1,0 +1,5 @@
+GoogleBigQueryEndpoint acts as a publisher for observer Exchange, which creates Producer, which does Start, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Component.
+GoogleBigQueryEndpoint acts as a publisher for observer ExceptionHandler, which creates Producer, which does Start, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Component.
+GoogleBigQueryEndpoint acts as a publisher for observer Component, which creates Producer, which does Start, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Component.
+GoogleBigQueryEndpoint acts as a publisher for observer CamelContext, which creates Producer, which does Start, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Component.
+GoogleBigQueryEndpoint acts as a publisher for observer ExchangePattern, which creates Producer, which does Start, which creates Processor parameter of processor Consumer, which gets Configuration, which gets Component.

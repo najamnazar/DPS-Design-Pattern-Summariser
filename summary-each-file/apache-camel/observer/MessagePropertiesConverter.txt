@@ -1,0 +1,1 @@
+MessagePropertiesConverter acts as an observer for publisher SpringRabbitMQEndpoint, which is inherited by DefaultMessagePropertiesConverter, which tos Exchange parameter of exchange Message Properties, which froms MessageProperties parameter of messageProperties, Exchange parameter of exchange Message Properties.

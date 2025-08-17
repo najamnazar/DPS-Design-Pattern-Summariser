@@ -1,0 +1,1 @@
+WebClientRequestException acts as a caretaker for memento Headers, which gets Method, which gets Uri, which gets Headers.

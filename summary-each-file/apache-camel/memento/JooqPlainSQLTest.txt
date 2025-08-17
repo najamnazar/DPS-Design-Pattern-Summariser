@@ -1,0 +1,1 @@
+JooqPlainSQLTest acts as a caretaker for memento Context, which tests SQLConsumer, which tests SQLProducer, which creates Route Builder.

@@ -1,0 +1,3 @@
+RefreshMountTableEntriesRequestPBImpl acts as a memento, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance.
+RefreshMountTableEntriesRequestPBImpl acts as an originator for memento RefreshMountTableEntriesRequest.
+RefreshMountTableEntriesRequestPBImpl acts as a caretaker for memento RefreshMountTableEntriesRequest, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance.

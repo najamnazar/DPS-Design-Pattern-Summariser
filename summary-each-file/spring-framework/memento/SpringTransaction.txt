@@ -1,0 +1,3 @@
+SpringTransaction acts as a memento.
+SpringTransaction acts as a caretaker for memento Transaction.
+SpringTransaction acts as a caretaker for memento TransactionStatus.

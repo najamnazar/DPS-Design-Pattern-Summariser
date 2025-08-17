@@ -1,0 +1,3 @@
+TruePointcut acts as a caretaker for memento Pointcut, which gets Class Filter, which gets Method Matcher, which reads Resolve, which tos String.
+TruePointcut acts as a memento, which tos String, which tos String, which tos String, which tos String.
+TruePointcut acts as a caretaker for memento True, which gets Class Filter, which gets Method Matcher, which reads Resolve, which tos String.

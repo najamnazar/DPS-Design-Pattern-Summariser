@@ -1,0 +1,2 @@
+FileInvalidStartingPathTest acts as a caretaker for memento Producer, which tests Invalid Starting Path, which tests Valid Starting Path.
+FileInvalidStartingPathTest acts as a caretaker for memento Context, which tests Invalid Starting Path, which tests Valid Starting Path.

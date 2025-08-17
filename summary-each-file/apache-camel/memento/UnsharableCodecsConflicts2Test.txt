@@ -1,0 +1,1 @@
+UnsharableCodecsConflicts2Test acts as a caretaker for memento ChannelHandlerFactory, which unsharables Codecs Conflicts Test, which creates Route Builder, which gets String parameter of host, int parameter of port Socket, which sends byte[] parameter of buf, Socket parameter of server Buffer, which processes Exchange parameter of exchange.

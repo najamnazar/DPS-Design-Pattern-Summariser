@@ -1,0 +1,2 @@
+TestRouterAsyncRpc acts as a publisher for observer ErasureCodingPolicyInfo, which globals Set Up, which tests Setup, which testgets Groups For User, which tests Concurrent Call Executor Initial, which tests Get Delegation Token Async Rpc.
+TestRouterAsyncRpc acts as a publisher for observer ClientProtocol, which globals Set Up, which tests Setup, which testgets Groups For User, which tests Concurrent Call Executor Initial, which tests Get Delegation Token Async Rpc.

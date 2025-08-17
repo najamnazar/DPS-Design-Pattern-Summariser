@@ -1,0 +1,1 @@
+AvroFSInput acts as an observer, which lengthes, which reads byte[] parameter of b, int parameter of off, int parameter of len, which seeks long parameter of p, which tells, which closes.

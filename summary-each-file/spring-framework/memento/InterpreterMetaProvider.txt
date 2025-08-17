@@ -1,0 +1,2 @@
+InterpreterMetaProvider acts as a caretaker for memento C, which provides, which loads DSLContext parameter of ctx, Source parameter of source, Interpreter parameter of interpreter Source.
+InterpreterMetaProvider acts as a caretaker for memento Configuration, which provides, which loads DSLContext parameter of ctx, Source parameter of source, Interpreter parameter of interpreter Source.

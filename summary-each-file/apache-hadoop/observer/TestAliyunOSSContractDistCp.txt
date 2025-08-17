@@ -1,0 +1,2 @@
+TestAliyunOSSContractDistCp acts as a publisher for observer FileSystem, which creates Configuration, which creates Configuration parameter of conf Contract.
+TestAliyunOSSContractDistCp acts as a publisher for observer Path, which creates Configuration, which creates Configuration parameter of conf Contract.

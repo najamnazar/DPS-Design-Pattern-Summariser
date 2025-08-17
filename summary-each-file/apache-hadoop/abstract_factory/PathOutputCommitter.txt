@@ -1,0 +1,1 @@
+PathOutputCommitter acts as a product for TaskInputOutputContext, which overrides.

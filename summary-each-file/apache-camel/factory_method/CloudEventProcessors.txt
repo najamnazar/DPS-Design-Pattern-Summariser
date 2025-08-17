@@ -1,0 +1,1 @@
+CloudEventProcessors acts as a factory method for CloudEvent, which is inherited by CloudEventProcessor.

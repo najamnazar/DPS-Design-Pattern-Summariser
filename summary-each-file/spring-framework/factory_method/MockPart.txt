@@ -1,0 +1,1 @@
+MockPart acts as a product for DefaultParts, which overrides.

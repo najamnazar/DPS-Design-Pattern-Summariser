@@ -1,0 +1,1 @@
+InstantiationAwareBeanPostProcessor acts as an adaptee for adapter CommonAnnotationBeanPostProcessor, which adapts to InitDestroyAnnotationBeanPostProcessor, which adapts to InitDestroyAnnotationBeanPostProcessor, which adapts to InitDestroyAnnotationBeanPostProcessor, which adapts to InitDestroyAnnotationBeanPostProcessor.

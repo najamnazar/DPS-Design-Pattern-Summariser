@@ -1,0 +1,2 @@
+RequiresStatement acts as a caretaker for memento Binding, which is Transitive, which is Static, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.
+RequiresStatement acts as a caretaker for memento R, which is Transitive, which is Static, which prints int parameter of indent, StringBuilder parameter of output, which resolves Scope parameter of scope.

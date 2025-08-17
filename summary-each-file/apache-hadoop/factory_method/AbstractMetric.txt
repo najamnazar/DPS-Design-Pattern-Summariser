@@ -1,0 +1,2 @@
+AbstractMetric acts as a product for MutableGauge, which overrides name method of MetricsInfo, description method of MetricsInfo.
+AbstractMetric acts as a factory for MutableGauge, which overrides name method of MutableGauge, description method of MutableGauge.

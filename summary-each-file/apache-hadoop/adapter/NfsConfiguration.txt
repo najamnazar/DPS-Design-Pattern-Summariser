@@ -1,0 +1,2 @@
+NfsConfiguration acts as an adaptee for adapter RpcProgramNfs3, which adapts to Nfs3Interface, RpcProgram.
+NfsConfiguration acts as an adaptee for adapter RpcProgramMountd, which adapts to MountInterface.

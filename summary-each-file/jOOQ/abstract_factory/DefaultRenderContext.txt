@@ -1,0 +1,3 @@
+DefaultRenderContext acts as a product for VisitContext, which overrides.
+DefaultRenderContext acts as a product for DSLContext, which overrides.
+DefaultRenderContext acts as a product for BindingSQLContext, which overrides.

@@ -1,0 +1,4 @@
+IOStatistics acts as an adaptee for adapter ObjectInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.
+IOStatistics acts as an adaptee for adapter StorageStatisticsFromIOStatistics, which adapts to StorageStatistics, which adapts to StorageStatistics, which adapts to StorageStatistics, which adapts to StorageStatistics, which adapts to StorageStatistics.
+IOStatistics acts as an adaptee for adapter S3APrefetchingInputStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream, which adapts to ObjectInputStream.
+IOStatistics acts as an adaptee for adapter AbfsInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

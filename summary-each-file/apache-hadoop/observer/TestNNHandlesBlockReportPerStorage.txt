@@ -1,0 +1,1 @@
+TestNNHandlesBlockReportPerStorage acts as a publisher for observer Path, which sends DatanodeRegistration parameter of dnR, String parameter of poolId, StorageBlockReport[] parameter of reports Block Reports.

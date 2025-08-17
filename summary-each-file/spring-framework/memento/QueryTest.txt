@@ -1,0 +1,1 @@
+QueryTest acts as a caretaker for memento C, which tests Join, which tests Active Records.

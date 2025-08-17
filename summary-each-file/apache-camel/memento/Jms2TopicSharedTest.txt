@@ -1,0 +1,1 @@
+Jms2TopicSharedTest acts as a caretaker for memento Producer, which tests Shared Topic, which creates Route Builder.

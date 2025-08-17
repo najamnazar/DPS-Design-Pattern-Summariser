@@ -1,0 +1,1 @@
+ApplicationBaseProtocol acts as an abstract factory for GetDelegationTokenResponse, GetApplicationsResponse, GetApplicationAttemptReportResponse, GetContainerReportResponse, GetContainersResponse, CancelDelegationTokenResponse, GetApplicationReportResponse, RenewDelegationTokenResponse, GetApplicationAttemptsResponse, which is inherited by.

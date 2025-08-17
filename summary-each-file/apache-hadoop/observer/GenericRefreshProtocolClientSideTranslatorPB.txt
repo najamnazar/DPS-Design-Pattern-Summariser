@@ -1,0 +1,1 @@
+GenericRefreshProtocolClientSideTranslatorPB acts as an observer, which closes, which refreshes String parameter of identifier, String[] parameter of args, which unpacks GenericRefreshResponseCollectionProto parameter of collection, which unpacks GenericRefreshResponseProto parameter of proto, which is String parameter of methodName Method Supported.

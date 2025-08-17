@@ -1,0 +1,2 @@
+ComponentInstanceEvent acts as an observer for publisher ComponentInstance, which is inherited by, which gets Container Id, which gets Status, which sets ContainerStatus parameter of status Status, which sets Should Destroy, which shoulds Destroy.
+ComponentInstanceEvent acts as a publisher for observer ContainerStatus, which is inherited by, which gets Container Id, which gets Status, which sets ContainerStatus parameter of status Status, which sets Should Destroy, which shoulds Destroy.

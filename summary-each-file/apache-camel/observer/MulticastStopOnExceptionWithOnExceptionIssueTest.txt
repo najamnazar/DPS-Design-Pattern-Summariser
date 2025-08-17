@@ -1,0 +1,2 @@
+MulticastStopOnExceptionWithOnExceptionIssueTest acts as a publisher for observer CamelContext, which tests End1Failure Test, which tests End2Failure Test, which tests End3Failure Test, which tests OK, which creates Route Builder.
+MulticastStopOnExceptionWithOnExceptionIssueTest acts as a publisher for observer Service, which tests End1Failure Test, which tests End2Failure Test, which tests End3Failure Test, which tests OK, which creates Route Builder.

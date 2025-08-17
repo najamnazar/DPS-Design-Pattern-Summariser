@@ -1,0 +1,2 @@
+CaffeineIdempotentRepositoryTest acts as a caretaker for memento Context, which does Pre Setup, which tests Add, which tests Confirm, which tests Contains, which tests Remove, which tests Clear, which tests Repository In Route, which creates Route Builder, which generates Random String.
+CaffeineIdempotentRepositoryTest acts as a caretaker for memento Producer, which does Pre Setup, which tests Add, which tests Confirm, which tests Contains, which tests Remove, which tests Clear, which tests Repository In Route, which creates Route Builder, which generates Random String.

@@ -1,0 +1,1 @@
+WebsocketEndpointConfigurer acts as an adapter, which adapts to ServletEndpointConfigurer, which adapts to ServletEndpointConfigurer, which adapts to ServletEndpointConfigurer.

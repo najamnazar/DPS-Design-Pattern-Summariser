@@ -1,0 +1,1 @@
+TypeComparator acts as an abstract product for SimpleEvaluationContext, which is inherited by StandardTypeComparator.

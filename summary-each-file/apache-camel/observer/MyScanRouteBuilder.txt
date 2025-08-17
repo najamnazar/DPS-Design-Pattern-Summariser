@@ -1,0 +1,7 @@
+MyScanRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyScanRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyScanRouteBuilder acts as a publisher for observer Resource, which configures.
+MyScanRouteBuilder acts as an observer, which configures.
+MyScanRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyScanRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyScanRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

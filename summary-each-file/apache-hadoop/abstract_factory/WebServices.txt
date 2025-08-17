@@ -1,0 +1,1 @@
+WebServices acts as a factory for AppInfoProvider, which overrides getApp method of AppInfoProvider, getNodeHttpAddress method of AppInfoProvider.

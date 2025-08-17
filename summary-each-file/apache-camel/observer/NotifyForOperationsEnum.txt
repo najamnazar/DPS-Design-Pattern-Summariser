@@ -1,0 +1,1 @@
+NotifyForOperationsEnum acts as an observer for publisher SalesforceEndpointConfig, which is inherited by, which values, which fors String parameter of value Value.

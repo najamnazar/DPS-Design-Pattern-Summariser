@@ -1,0 +1,1 @@
+Range acts as an observer for publisher SortedRanges, which is inherited by, which starts, which ends, which lengthes.

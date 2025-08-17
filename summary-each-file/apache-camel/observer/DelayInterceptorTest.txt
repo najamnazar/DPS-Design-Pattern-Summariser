@@ -1,0 +1,2 @@
+DelayInterceptorTest acts as a publisher for observer Service, which tests Delayer, which creates Route Builder.
+DelayInterceptorTest acts as a publisher for observer CamelContext, which tests Delayer, which creates Route Builder.

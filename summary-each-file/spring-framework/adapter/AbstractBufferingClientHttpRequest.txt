@@ -1,0 +1,2 @@
+AbstractBufferingClientHttpRequest acts as a target for adapter OkHttp3ClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest.
+AbstractBufferingClientHttpRequest acts as a target for adapter BufferingClientHttpRequestWrapper, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest, which adapts to AbstractBufferingClientHttpRequest.

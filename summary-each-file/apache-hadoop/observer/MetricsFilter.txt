@@ -1,0 +1,1 @@
+MetricsFilter acts as an observer for publisher MetricsCollectorImpl, which is inherited by AbstractPatternFilter, which accepts String parameter of name, which accepts MetricsTag parameter of tag, which accepts Iterable<MetricsTag> parameter of tags, which accepts MetricsRecord parameter of record.

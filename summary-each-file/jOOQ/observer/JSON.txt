@@ -1,0 +1,1 @@
+JSON acts as an observer for publisher Tools, which is inherited by, which datas, which values String parameter of data Of, which jsons String parameter of data, which jsons String parameter of data Or Null, which hashes Code, which equals Object parameter of obj, which tos String.

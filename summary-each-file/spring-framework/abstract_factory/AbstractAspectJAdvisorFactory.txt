@@ -1,0 +1,2 @@
+AbstractAspectJAdvisorFactory acts as a factory for AspectJAdvisorFactory, which overrides isAspect method of AspectJAdvisorFactory, validate method of AspectJAdvisorFactory.
+AbstractAspectJAdvisorFactory acts as a product for AbstractAspectJAdvisorFactoryTests, which overrides isAspect method of AspectJAdvisorFactory, validate method of AspectJAdvisorFactory.

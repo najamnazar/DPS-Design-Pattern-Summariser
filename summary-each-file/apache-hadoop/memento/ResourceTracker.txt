@@ -1,0 +1,1 @@
+ResourceTracker acts as an originator for memento UnRegisterNodeManagerResponse, which is inherited by, which uns an UnRegisterNodeManagerResponse Register Node Manager to.

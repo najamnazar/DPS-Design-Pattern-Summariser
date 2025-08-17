@@ -1,0 +1,1 @@
+AnnotationElementDeclarationImpl acts as an adapter, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl, which adapts to MethodDeclarationImpl.

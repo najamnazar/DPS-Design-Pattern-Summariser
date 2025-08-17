@@ -1,0 +1,1 @@
+CamelServlet acts as a product for HttpRegistry, which overrides connect method of HttpRegistryProvider, disconnect method of HttpRegistryProvider, getServletName method of HttpRegistryProvider.

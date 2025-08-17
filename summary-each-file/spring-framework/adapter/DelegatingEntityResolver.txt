@@ -1,0 +1,1 @@
+DelegatingEntityResolver acts as a target for adapter ResourceEntityResolver, which adapts to DelegatingEntityResolver, which adapts to DelegatingEntityResolver.

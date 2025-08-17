@@ -1,0 +1,1 @@
+AMLivelinessMonitor acts as an adaptee for adapter ApplicationMasterService, which adapts to ApplicationMasterProtocol, AbstractService, which adapts to ApplicationMasterProtocol, AbstractService.

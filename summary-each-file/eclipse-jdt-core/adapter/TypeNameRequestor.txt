@@ -1,0 +1,1 @@
+TypeNameRequestor acts as an adaptee for adapter TypeNameRequestorWrapper, which adapts to IRestrictedAccessTypeRequestor.

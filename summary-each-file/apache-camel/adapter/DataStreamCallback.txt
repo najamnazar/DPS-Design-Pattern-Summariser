@@ -1,0 +1,1 @@
+DataStreamCallback acts as an adaptee for adapter FlinkEndpoint, which adapts to DefaultEndpoint.

@@ -1,0 +1,1 @@
+BootstrapTestUtils acts as an originator for memento BootstrapContext, which builds a BootstrapContext Bootstrap Context to, which resolves BootstrapContext parameter of bootstrapContext Test Context Bootstrapper.

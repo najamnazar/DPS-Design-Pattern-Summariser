@@ -1,0 +1,1 @@
+HealthCheckResolver acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultHealthCheckResolver, which resolves String parameter of id Health Check, which resolves String parameter of id Health Check Repository.

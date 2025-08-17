@@ -1,0 +1,1 @@
+InterceptorsBeanDefinitionParser acts as an observer, which parses Element parameter of element, ParserContext parameter of context, which gets Element parameter of interceptor, String parameter of elementName Include Patterns.

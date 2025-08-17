@@ -1,0 +1,2 @@
+DeleteApplicationHomeSubClusterResponse acts as a memento, which is inherited by DeleteApplicationHomeSubClusterResponsePBImpl, which news Instance.
+DeleteApplicationHomeSubClusterResponse acts as an originator for memento DeleteApplicationHomeSubClusterResponse, which is inherited by, which news a DeleteApplicationHomeSubClusterResponse Instance to.

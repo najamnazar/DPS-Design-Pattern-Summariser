@@ -1,0 +1,1 @@
+FacebookMethodsType acts as an observer for publisher FacebookMethodsTypeHelper, which is inherited by, which finds String parameter of name, Class<?>... parameter of args Method, which gets Name, which gets Result Type, which gets Arg Names, which gets Arg Types, which gets Method, which tos String.

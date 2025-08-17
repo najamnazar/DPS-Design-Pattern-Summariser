@@ -1,0 +1,1 @@
+MarketQuoteProvider acts as an observer for publisher TradeExecutor, which is inherited by, which gets String parameter of symbol Bid, which gets String parameter of symbol Ask.

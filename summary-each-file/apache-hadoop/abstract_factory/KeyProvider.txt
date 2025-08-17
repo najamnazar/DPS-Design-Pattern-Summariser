@@ -1,0 +1,1 @@
+KeyProvider acts as an abstract product for KeyProvider, which is inherited by KeyProviderExtension, KMSClientProvider, SimpleKeyProvider, LoadBalancingKMSClientProvider.

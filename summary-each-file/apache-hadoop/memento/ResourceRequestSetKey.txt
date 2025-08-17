@@ -1,0 +1,1 @@
+ResourceRequestSetKey acts as a caretaker for memento ExecutionType, which gets Resource, which gets Exe Type, which equals Object parameter of obj, which hashes Code, which compares SchedulerRequestKey parameter of other To, which extracts Container parameter of container, Set<ResourceRequestSetKey> parameter of keys Matching Key, which tos String.

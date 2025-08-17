@@ -1,0 +1,14 @@
+MockValueBuilder acts as a product for ParameterMappingStrategy, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for EndpointProducerBuilder, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for DefaultErrorHandlerProperties, which overrides init method of Predicate, matches method of Predicate.
+MockValueBuilder acts as a product for ModelReifierFactory, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for ExpressionFactory, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for BinaryPredicate, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for DeadLetterChannelProperties, which overrides init method of Predicate, matches method of Predicate.
+MockValueBuilder acts as a product for ModelReifierFactory, which overrides init method of Predicate, matches method of Predicate.
+MockValueBuilder acts as a product for PredicateFactory, which overrides init method of Predicate, matches method of Predicate.
+MockValueBuilder acts as a product for EndpointConsumerBuilder, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for ModelCamelContext, which overrides init method of Predicate, matches method of Predicate.
+MockValueBuilder acts as a product for SimpleNode, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for AnnotationExpressionFactory, which overrides init method of Expression, evaluate method of Expression.
+MockValueBuilder acts as a product for ModelCamelContext, which overrides init method of Expression, evaluate method of Expression.

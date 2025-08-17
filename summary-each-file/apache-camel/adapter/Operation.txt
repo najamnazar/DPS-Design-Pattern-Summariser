@@ -1,0 +1,4 @@
+Operation acts as a target for adapter EventOperation, which adapts to Operation, which adapts to Operation.
+Operation acts as a target for adapter RefreshOperation, which adapts to Operation, which adapts to Operation.
+Operation acts as a target for adapter GetDataOperation, which adapts to Operation, which adapts to Operation.
+Operation acts as an adaptee for adapter InfluxDb2Endpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

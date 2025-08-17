@@ -1,0 +1,1 @@
+MailBoxPostProcessAction acts as an adaptee for adapter MailEndpoint, which adapts to ScheduledPollEndpoint.

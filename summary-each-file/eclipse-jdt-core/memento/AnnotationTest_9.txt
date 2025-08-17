@@ -1,0 +1,2 @@
+AnnotationTest_9 acts as a caretaker for memento String, which suites, which tests Class, which tests Bug532913, which tests Bug521054a, which tests Bug521054b, which tests Bug521054c, which tests GH1654, which tests GH4059.
+AnnotationTest_9 acts as a caretaker for memento S, which suites, which tests Class, which tests Bug532913, which tests Bug521054a, which tests Bug521054b, which tests Bug521054c, which tests GH1654, which tests GH4059.

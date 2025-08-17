@@ -1,0 +1,1 @@
+OptionTagEnumTests acts as a caretaker for memento C, which ons Set Up, which withes Java Enum, which asserts String parameter of output Option Tag Opened, which asserts String parameter of output Option Tag Closed.

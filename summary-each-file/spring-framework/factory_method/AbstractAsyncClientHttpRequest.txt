@@ -1,0 +1,1 @@
+AbstractAsyncClientHttpRequest acts as a product for SimpleClientHttpRequestFactory, which overrides executeAsync method of AsyncClientHttpRequest.

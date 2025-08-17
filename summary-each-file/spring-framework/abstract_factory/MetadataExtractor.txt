@@ -1,0 +1,1 @@
+MetadataExtractor acts as an abstract product for MetadataExtractor, which is inherited by DefaultMetadataExtractor.

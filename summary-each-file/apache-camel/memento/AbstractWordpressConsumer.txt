@@ -1,0 +1,1 @@
+AbstractWordpressConsumer acts as a caretaker for memento Configuration, which is inherited by, which gets Configuration, which is Greedy, which inits Consumer, which configures WordpressConfiguration parameter of configuration Service, which polls, which processes final parameter of Object.

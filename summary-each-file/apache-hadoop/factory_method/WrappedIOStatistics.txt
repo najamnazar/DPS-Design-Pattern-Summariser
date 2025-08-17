@@ -1,0 +1,1 @@
+WrappedIOStatistics acts as a factory for IOStatisticAssertions, which overrides counters method of IOStatisticAssertions, gauges method of IOStatisticAssertions, minimums method of IOStatisticAssertions, maximums method of IOStatisticAssertions, meanStatistics method of IOStatisticAssertions.

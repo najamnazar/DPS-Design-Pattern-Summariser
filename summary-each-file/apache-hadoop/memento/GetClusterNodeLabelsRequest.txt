@@ -1,0 +1,2 @@
+GetClusterNodeLabelsRequest acts as an originator for memento GetClusterNodeLabelsRequest, which is inherited by, which news a GetClusterNodeLabelsRequest Instance to.
+GetClusterNodeLabelsRequest acts as a memento, which is inherited by GetClusterNodeLabelsRequestPBImpl, which news Instance.

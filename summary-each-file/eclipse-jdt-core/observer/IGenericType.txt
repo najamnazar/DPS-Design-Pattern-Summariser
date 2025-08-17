@@ -1,0 +1,1 @@
+IGenericType acts as an observer for publisher HierarchyResolver, which is inherited by HierarchyType, ISourceType, IBinaryType, which gets Modifiers, which is Binary Type, which is Class, which is Interface.

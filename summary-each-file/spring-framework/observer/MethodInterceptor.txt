@@ -1,0 +1,1 @@
+MethodInterceptor acts as an observer, which invokes @Nonnull parameter of MethodInvocation.

@@ -1,0 +1,1 @@
+User acts as a memento, which is inherited by UserImpl.

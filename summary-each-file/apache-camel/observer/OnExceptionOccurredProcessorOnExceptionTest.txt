@@ -1,0 +1,2 @@
+OnExceptionOccurredProcessorOnExceptionTest acts as a publisher for observer CamelContext, which creates Registry, which tests On Exception Occurred, which creates Route Builder, which processes Exchange parameter of exchange, which gets Invoked.
+OnExceptionOccurredProcessorOnExceptionTest acts as a publisher for observer Service, which creates Registry, which tests On Exception Occurred, which creates Route Builder, which processes Exchange parameter of exchange, which gets Invoked.

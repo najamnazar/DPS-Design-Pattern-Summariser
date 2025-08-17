@@ -1,0 +1,5 @@
+XQueryRecipientListTest acts as a publisher for observer ConsumerTemplate, which tests Send London Message, which tests Send Tampa Message, which sets Up, which creates Route Builder.
+XQueryRecipientListTest acts as a publisher for observer ProducerTemplate, which tests Send London Message, which tests Send Tampa Message, which sets Up, which creates Route Builder.
+XQueryRecipientListTest acts as a publisher for observer Service, which tests Send London Message, which tests Send Tampa Message, which sets Up, which creates Route Builder.
+XQueryRecipientListTest acts as a publisher for observer FluentProducerTemplate, which tests Send London Message, which tests Send Tampa Message, which sets Up, which creates Route Builder.
+XQueryRecipientListTest acts as a publisher for observer CamelContext, which tests Send London Message, which tests Send Tampa Message, which sets Up, which creates Route Builder.

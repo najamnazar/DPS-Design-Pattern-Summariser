@@ -1,0 +1,1 @@
+NoOpCache acts as a product for NoOpCacheManager, which overrides getName method of Cache, getNativeCache method of Cache, get method of Cache, get method of Cache, get method of Cache, put method of Cache, putIfAbsent method of Cache, evict method of Cache, evictIfPresent method of Cache, clear method of Cache, invalidate method of Cache.

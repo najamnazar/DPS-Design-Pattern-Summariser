@@ -1,0 +1,2 @@
+SplitterCollateTest acts as a publisher for observer Service, which tests Splitter Collate, which creates Route Builder.
+SplitterCollateTest acts as a publisher for observer CamelContext, which tests Splitter Collate, which creates Route Builder.

@@ -1,0 +1,7 @@
+JavaJoorClassLoader acts as a visitor for element ExtendedExchange, which overrides, which finds a Class to, which posts a Compile to.
+JavaJoorClassLoader acts as a visitor for element UnitOfWork, which overrides, which finds a Class to, which posts a Compile to.
+JavaJoorClassLoader acts as a visitor for element InternalProcessorFactory, which overrides, which finds a Class to, which posts a Compile to.
+JavaJoorClassLoader acts as a visitor for element ModelineParser, which overrides, which finds a Class to, which posts a Compile to.
+JavaJoorClassLoader acts as a visitor for element ExtendedCamelContext, which overrides, which finds a Class to, which posts a Compile to.
+JavaJoorClassLoader acts as a visitor for element BeanIntrospection, which overrides, which finds a Class to, which posts a Compile to.
+JavaJoorClassLoader acts as a visitor for element TypeConverterRegistry, which overrides, which finds a Class to, which posts a Compile to.

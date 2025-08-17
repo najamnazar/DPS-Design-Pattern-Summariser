@@ -1,0 +1,1 @@
+AbstractHandlerMapping acts as a factory for HandlerMapping, which overrides usesPathPatterns method of HandlerMapping, getHandler method of HandlerMapping.

@@ -1,0 +1,1 @@
+MockMemoryResourceCalculatorProcessTree acts as an observer, which updates Process Tree, which gets Process Tree Dump, which gets Cumulative Cpu Time, which checks Pid Pgrpid For Match, which gets int parameter of olderThanAge Rss Memory Size, which gets int parameter of olderThanAge Virtual Memory Size, which gets Cpu Usage Percent.

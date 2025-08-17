@@ -1,0 +1,2 @@
+ProxyCAManager acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable.
+ProxyCAManager acts as an adapter, which adapts to AbstractService, Recoverable, which adapts to AbstractService, Recoverable, which adapts to AbstractService, Recoverable, which adapts to AbstractService, Recoverable.

@@ -1,0 +1,2 @@
+NoContextEncryptionAdapter acts as a caretaker for memento NoContextEncryptionAdapter, which gets Instance, which gets Encoded Key, which gets Encoded Key SHA, which gets Encoded Context, which destroys.
+NoContextEncryptionAdapter acts as a memento, which destroys Encoded Context, which destroys Encoded Context, which destroys Encoded Context, which destroys Encoded Context, which destroys Encoded Context.

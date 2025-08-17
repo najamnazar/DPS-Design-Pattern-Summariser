@@ -1,0 +1,2 @@
+FileProducerAppendManyMessagesManualTest acts as a publisher for observer CamelContext, which sets Up, which tests Big File, which creates Route Builder.
+FileProducerAppendManyMessagesManualTest acts as a publisher for observer Service, which sets Up, which tests Big File, which creates Route Builder.

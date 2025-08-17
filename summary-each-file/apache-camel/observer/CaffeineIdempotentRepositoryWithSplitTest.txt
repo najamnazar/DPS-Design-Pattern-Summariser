@@ -1,0 +1,5 @@
+CaffeineIdempotentRepositoryWithSplitTest acts as a publisher for observer Service, which does Pre Setup, which idempotents Test, which creates Route Builder, which generates Random String.
+CaffeineIdempotentRepositoryWithSplitTest acts as a publisher for observer ProducerTemplate, which does Pre Setup, which idempotents Test, which creates Route Builder, which generates Random String.
+CaffeineIdempotentRepositoryWithSplitTest acts as a publisher for observer CamelContext, which does Pre Setup, which idempotents Test, which creates Route Builder, which generates Random String.
+CaffeineIdempotentRepositoryWithSplitTest acts as a publisher for observer ConsumerTemplate, which does Pre Setup, which idempotents Test, which creates Route Builder, which generates Random String.
+CaffeineIdempotentRepositoryWithSplitTest acts as a publisher for observer FluentProducerTemplate, which does Pre Setup, which idempotents Test, which creates Route Builder, which generates Random String.

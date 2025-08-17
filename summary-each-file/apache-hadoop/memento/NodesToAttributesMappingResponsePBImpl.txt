@@ -1,0 +1,4 @@
+NodesToAttributesMappingResponsePBImpl acts as a caretaker for memento Attribute, which gets Proto.
+NodesToAttributesMappingResponsePBImpl acts as a memento, which gets Proto.
+NodesToAttributesMappingResponsePBImpl acts as a caretaker for memento NodesToAttributesMappingResponse, which gets Proto.
+NodesToAttributesMappingResponsePBImpl acts as an originator for memento NodesToAttributesMappingResponse.

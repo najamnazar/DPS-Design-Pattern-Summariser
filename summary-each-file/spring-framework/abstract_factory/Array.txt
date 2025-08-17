@@ -1,0 +1,1 @@
+Array acts as an abstract product for Array, which is inherited by MockArray.

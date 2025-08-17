@@ -1,0 +1,1 @@
+ConcurrentLruCache acts as a caretaker for memento C, which gets K parameter of key, which contains K parameter of key, which removes K parameter of key, which clears, which sizes, which sizes Limit.

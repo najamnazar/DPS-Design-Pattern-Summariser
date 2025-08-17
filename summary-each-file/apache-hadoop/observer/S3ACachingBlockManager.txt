@@ -1,0 +1,1 @@
+S3ACachingBlockManager acts as a publisher for observer BufferData, which gets Reader, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.

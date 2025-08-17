@@ -1,0 +1,1 @@
+NettyConsumerExceptionHandler acts as a product for DefaultEndpoint, which overrides handleException method of ExceptionHandler, handleException method of ExceptionHandler, handleException method of ExceptionHandler.

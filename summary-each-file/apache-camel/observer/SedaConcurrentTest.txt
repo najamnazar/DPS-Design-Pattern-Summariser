@@ -1,0 +1,2 @@
+SedaConcurrentTest acts as a publisher for observer CamelContext, which tests Seda Concurrent In Only, which tests Seda Concurrent In Only With Async, which tests Seda Concurrent In Out, which tests Seda Concurrent In Out With Async, which creates Route Builder.
+SedaConcurrentTest acts as a publisher for observer Service, which tests Seda Concurrent In Only, which tests Seda Concurrent In Only With Async, which tests Seda Concurrent In Out, which tests Seda Concurrent In Out With Async, which creates Route Builder.

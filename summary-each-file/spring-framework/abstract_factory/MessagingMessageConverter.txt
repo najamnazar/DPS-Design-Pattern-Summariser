@@ -1,0 +1,2 @@
+MessagingMessageConverter acts as a product for MessageListenerContainer, which overrides.
+MessagingMessageConverter acts as a factory for MessageConverter, which overrides.

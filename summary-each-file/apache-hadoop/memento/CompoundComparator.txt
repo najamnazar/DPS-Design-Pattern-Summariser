@@ -1,0 +1,1 @@
+CompoundComparator acts as a caretaker for memento Schedulable, which compares final parameter of SchedulableEntity, final parameter of SchedulableEntity.

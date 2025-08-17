@@ -1,0 +1,1 @@
+JournalManager acts as an abstract factory for EditLogOutputStream, which is inherited by QuorumJournalManager, JournalSet, BackupJournalManager, FileJournalManager.

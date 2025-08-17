@@ -1,0 +1,2 @@
+CxfConsumerMessageTest acts as a caretaker for memento Producer, which creates Route Builder, which tests Invoking Service From Client.
+CxfConsumerMessageTest acts as a caretaker for memento Context, which creates Route Builder, which tests Invoking Service From Client.

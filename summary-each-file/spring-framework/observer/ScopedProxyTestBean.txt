@@ -1,0 +1,1 @@
+ScopedProxyTestBean acts as an observer, which foos int parameter of id, which asynces int parameter of id Foo, which is Init Called.

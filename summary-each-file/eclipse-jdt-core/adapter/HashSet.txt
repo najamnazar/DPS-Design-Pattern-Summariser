@@ -1,0 +1,2 @@
+HashSet acts as an adaptee for adapter BindingsCollectorVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor, which adapts to ASTVisitor.
+HashSet acts as an adaptee for adapter IndexBasedHierarchyBuilder, which adapts to HierarchyBuilder, which adapts to HierarchyBuilder, which adapts to HierarchyBuilder, which adapts to HierarchyBuilder, which adapts to HierarchyBuilder.

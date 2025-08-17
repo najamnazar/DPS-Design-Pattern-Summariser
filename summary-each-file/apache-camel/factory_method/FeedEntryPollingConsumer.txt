@@ -1,0 +1,1 @@
+FeedEntryPollingConsumer acts as a factory for ResumableReifier, which overrides.

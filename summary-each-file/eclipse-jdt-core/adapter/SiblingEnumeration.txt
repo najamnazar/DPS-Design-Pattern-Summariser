@@ -1,0 +1,1 @@
+SiblingEnumeration acts as an adapter, which adapts to Enumeration, which adapts to Enumeration.

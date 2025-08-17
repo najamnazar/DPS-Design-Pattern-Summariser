@@ -1,0 +1,4 @@
+IModuleDescription acts as an abstract product for IModuleDescription, which is inherited by AbstractModule.
+IModuleDescription acts as a product for ILocalVariable, which overrides.
+IModuleDescription acts as an abstract product for IModuleDescription, which is inherited by AbstractModule, AbstractModule, AbstractModule.
+IModuleDescription acts as a product for ITypeParameter, which overrides.

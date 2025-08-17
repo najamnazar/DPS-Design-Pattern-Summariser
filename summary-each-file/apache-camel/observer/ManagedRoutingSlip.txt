@@ -1,0 +1,1 @@
+ManagedRoutingSlip acts as a publisher for observer Route, which inits ManagementStrategy parameter of strategy, which resets, which gets Support Extended Information, which gets Definition, which gets Expression Language, which gets Expression, which gets Uri Delimiter, which gets Cache Size, which is Ignore Invalid Endpoints, which extends Information.

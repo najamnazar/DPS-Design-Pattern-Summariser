@@ -1,0 +1,2 @@
+GoraTestSupport acts as a caretaker for memento Context.
+GoraTestSupport acts as a caretaker for memento Producer.

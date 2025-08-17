@@ -1,0 +1,5 @@
+JmsLoadBalanceFailoverTest acts as a publisher for observer ProducerTemplate, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.
+JmsLoadBalanceFailoverTest acts as a publisher for observer CamelContext, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.
+JmsLoadBalanceFailoverTest acts as a publisher for observer FluentProducerTemplate, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.
+JmsLoadBalanceFailoverTest acts as a publisher for observer Service, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.
+JmsLoadBalanceFailoverTest acts as a publisher for observer ConsumerTemplate, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.

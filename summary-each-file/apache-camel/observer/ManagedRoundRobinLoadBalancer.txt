@@ -1,0 +1,1 @@
+ManagedRoundRobinLoadBalancer acts as a publisher for observer Route, which gets Definition, which gets Size, which gets Last Chosen Processor Id.

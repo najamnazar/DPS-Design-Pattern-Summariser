@@ -1,0 +1,2 @@
+Ternary acts as a publisher for observer SpelNodeImpl, which gets ExpressionState parameter of state Value Internal, which tos String AST, which computes Exit Type Descriptor, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code.
+Ternary acts as an observer, which gets ExpressionState parameter of state Value Internal, which tos String AST, which computes Exit Type Descriptor, which is Compilable, which generates MethodVisitor parameter of mv, CodeFlow parameter of cf Code.

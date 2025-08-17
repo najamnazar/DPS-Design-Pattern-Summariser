@@ -1,0 +1,1 @@
+NoOpCacheManager acts as a caretaker for memento C, which gets String parameter of name Cache, which gets Cache Names.

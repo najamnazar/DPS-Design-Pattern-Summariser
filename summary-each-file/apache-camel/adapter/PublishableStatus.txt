@@ -1,0 +1,1 @@
+PublishableStatus acts as an adaptee for adapter TextPublishable, which adapts to Publishable.

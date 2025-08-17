@@ -1,0 +1,1 @@
+KnativeProducerFactory acts as an adaptee for adapter KnativeComponent, which adapts to DefaultComponent.

@@ -1,0 +1,1 @@
+ContainerManagementProtocol acts as an adaptee for adapter MockRMWithCustomAMLauncher, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM, which adapts to MockRM.

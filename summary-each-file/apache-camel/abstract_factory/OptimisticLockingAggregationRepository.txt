@@ -1,0 +1,1 @@
+OptimisticLockingAggregationRepository acts as an abstract factory for Exchange, which is inherited by JdbcAggregationRepository, RedisAggregationRepository, Etcd3AggregationRepository, HazelcastAggregationRepository, MemoryAggregationRepository, JCacheAggregationRepository.

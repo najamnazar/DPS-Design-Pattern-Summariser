@@ -1,0 +1,5 @@
+VersionImpl acts as a product for Version, which overrides meta method of Version, migrateTo method of Version.
+VersionImpl acts as a product for Files, which overrides meta method of Version, migrateTo method of Version.
+VersionImpl acts as a factory for Version, which overrides meta method of Version, migrateTo method of Version.
+VersionImpl acts as a product for DSLContext, which overrides meta method of Version, migrateTo method of Version.
+VersionImpl acts as a product for Versions, which overrides meta method of Version, migrateTo method of Version.

@@ -1,0 +1,2 @@
+CaseLabel acts as a publisher for observer CodeStream, which branches, which branches Wide, which is Standard Label, which places, which places Instruction.
+CaseLabel acts as an observer, which branches, which branches Wide, which is Standard Label, which places, which places Instruction.

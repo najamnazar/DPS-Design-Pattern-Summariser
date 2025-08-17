@@ -1,0 +1,3 @@
+CustomRoutePolicyTest acts as a publisher for observer Service, which ons Route parameter of route, Exchange parameter of exchange Exchange Done, which is Stopped, which tests Custom Policy, which creates Route Builder.
+CustomRoutePolicyTest acts as a publisher for observer CamelContext, which ons Route parameter of route, Exchange parameter of exchange Exchange Done, which is Stopped, which tests Custom Policy, which creates Route Builder.
+CustomRoutePolicyTest acts as a publisher for observer Route, which is inherited by, which ons Route parameter of route, Exchange parameter of exchange Exchange Done, which is Stopped, which tests Custom Policy, which creates Route Builder.

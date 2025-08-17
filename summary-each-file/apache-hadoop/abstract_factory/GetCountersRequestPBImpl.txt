@@ -1,0 +1,1 @@
+GetCountersRequestPBImpl acts as a factory for GetCountersRequest, which overrides getJobId method of GetCountersRequest, setJobId method of GetCountersRequest.

@@ -1,0 +1,1 @@
+StandardTypeLocator acts as an observer, which registers String parameter of prefix Import, which removes String parameter of prefix Import, which gets Import Prefixes, which finds String parameter of typeName Type.

@@ -1,0 +1,2 @@
+DefaultClientCodecConfigurer acts as a product for ClientCodecConfigurer, which overrides defaultCodecs method of ClientCodecConfigurer.
+DefaultClientCodecConfigurer acts as a factory for ClientCodecConfigurer, which overrides defaultCodecs method of ClientCodecConfigurer.

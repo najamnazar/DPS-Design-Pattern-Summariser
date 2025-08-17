@@ -1,0 +1,1 @@
+JmsMessageAsOriginalMessageInDefaultUnitOfWorkTest acts as a publisher for observer ArtemisService, which tests Use Original Message, which gets Component Name, which is Use Route Builder.

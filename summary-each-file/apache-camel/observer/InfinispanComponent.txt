@@ -1,0 +1,2 @@
+InfinispanComponent acts as a publisher for observer CamelContext.
+InfinispanComponent acts as a publisher for observer ComponentExtension.

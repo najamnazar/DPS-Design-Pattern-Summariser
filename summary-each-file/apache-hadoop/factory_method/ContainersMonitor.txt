@@ -1,0 +1,1 @@
+ContainersMonitor acts as an abstract product for ContainerManager, which is inherited by ContainersMonitorImpl.

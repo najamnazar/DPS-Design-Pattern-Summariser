@@ -1,0 +1,2 @@
+AbstractBeanFactoryAwareAdvisingPostProcessor acts as a target for adapter AsyncAnnotationBeanPostProcessor, which adapts to AbstractBeanFactoryAwareAdvisingPostProcessor, which adapts to AbstractBeanFactoryAwareAdvisingPostProcessor, which adapts to AbstractBeanFactoryAwareAdvisingPostProcessor.
+AbstractBeanFactoryAwareAdvisingPostProcessor acts as an adapter, which adapts to AbstractAdvisingBeanPostProcessor, which adapts to AbstractAdvisingBeanPostProcessor, which adapts to AbstractAdvisingBeanPostProcessor.

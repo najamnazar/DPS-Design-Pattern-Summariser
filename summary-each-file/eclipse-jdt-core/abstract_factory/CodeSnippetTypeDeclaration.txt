@@ -1,0 +1,3 @@
+CodeSnippetTypeDeclaration acts as a product for MemberDeclaration, which overrides generateCode method of TypeDeclaration.
+CodeSnippetTypeDeclaration acts as a product for DeclaredType, which overrides generateCode method of TypeDeclaration.
+CodeSnippetTypeDeclaration acts as a product for AnnotationProcessorEnvironment, which overrides generateCode method of TypeDeclaration.

@@ -1,0 +1,1 @@
+MemoryResourceHandler acts as an observer.

@@ -1,0 +1,1 @@
+ResourceTracker acts as an abstract factory for NodeHeartbeatResponse, RegisterNodeManagerResponse, UnRegisterNodeManagerResponse, which is inherited by ResourceTrackerService, LocalRMInterface, ResourceTrackerPBClientImpl.

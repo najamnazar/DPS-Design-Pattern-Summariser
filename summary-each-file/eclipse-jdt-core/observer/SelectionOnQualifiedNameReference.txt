@@ -1,0 +1,3 @@
+SelectionOnQualifiedNameReference acts as a publisher for observer FieldBinding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+SelectionOnQualifiedNameReference acts as a publisher for observer SyntheticAccessMethodBinding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+SelectionOnQualifiedNameReference acts as a publisher for observer TypeBinding, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

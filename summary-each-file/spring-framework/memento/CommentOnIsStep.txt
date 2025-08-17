@@ -1,0 +1,1 @@
+CommentOnIsStep acts as an originator for memento CommentOnFinalStep, which is inherited by, which is CommentOnFinalStep, which is CommentOnFinalStep.

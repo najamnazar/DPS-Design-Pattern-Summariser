@@ -1,0 +1,2 @@
+DelayerPerRouteTest acts as a publisher for observer CamelContext, which tests Delayer Per Route, which creates Route Builder.
+DelayerPerRouteTest acts as a publisher for observer Service, which tests Delayer Per Route, which creates Route Builder.

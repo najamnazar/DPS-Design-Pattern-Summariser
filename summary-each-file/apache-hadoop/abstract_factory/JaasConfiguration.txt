@@ -1,0 +1,15 @@
+JaasConfiguration acts as a product for MutableConfScheduler, which overrides.
+JaasConfiguration acts as a product for GetSpaceUsed, which overrides.
+JaasConfiguration acts as a product for CapacitySchedulerContext, which overrides.
+JaasConfiguration acts as a product for Configurable, which overrides.
+JaasConfiguration acts as a product for AMRMProxyApplicationContext, which overrides.
+JaasConfiguration acts as a product for RMContext, which overrides.
+JaasConfiguration acts as a product for WriteOperations, which overrides.
+JaasConfiguration acts as a product for FileSystemAccess, which overrides.
+JaasConfiguration acts as a product for SPSService, which overrides.
+JaasConfiguration acts as a product for LaunchableService, which overrides.
+JaasConfiguration acts as a product for RunningJob, which overrides.
+JaasConfiguration acts as a product for ObjectStorage, which overrides.
+JaasConfiguration acts as a product for MutableConfigurationProvider, which overrides.
+JaasConfiguration acts as a product for MiniMRClientCluster, which overrides.
+JaasConfiguration acts as a product for Job, which overrides.

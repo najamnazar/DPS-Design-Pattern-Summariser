@@ -1,0 +1,2 @@
+StaxConverterTest acts as a caretaker for memento Context, which tests Encoding Xml Event Reader, which tests Encoding Xml Stream Reader, which tests To Reader By Xml Stream Reader, which tests To Input Sream By Xml Stream Reader.
+StaxConverterTest acts as a caretaker for memento Producer, which tests Encoding Xml Event Reader, which tests Encoding Xml Stream Reader, which tests To Reader By Xml Stream Reader, which tests To Input Sream By Xml Stream Reader.

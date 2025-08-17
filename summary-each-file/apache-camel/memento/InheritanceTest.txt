@@ -1,0 +1,1 @@
+InheritanceTest acts as a caretaker for memento Producer, which shoulds Inherit The Annotation, which shoulds Support Nested Test.

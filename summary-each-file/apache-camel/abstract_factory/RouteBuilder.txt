@@ -1,0 +1,2 @@
+RouteBuilder acts as a factory for ResourceAware, which overrides.
+RouteBuilder acts as a product for RoutesBuilderLoader, which overrides addRoutesToCamelContext method of RoutesBuilder, addTemplatedRoutesToCamelContext method of RoutesBuilder, updateRoutesToCamelContext method of RoutesBuilder.

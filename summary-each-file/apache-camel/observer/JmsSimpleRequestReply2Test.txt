@@ -1,0 +1,1 @@
+JmsSimpleRequestReply2Test acts as a publisher for observer ArtemisService, which tests With In Only, which tests With In Out, which gets Component Name, which creates Route Builder.

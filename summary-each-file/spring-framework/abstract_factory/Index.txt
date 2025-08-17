@@ -1,0 +1,1 @@
+Index acts as an abstract factory for Condition, which is inherited by IndexImpl.

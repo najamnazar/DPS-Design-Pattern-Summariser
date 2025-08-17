@@ -1,0 +1,1 @@
+DeferredImportSelector acts as a caretaker for memento A, which gets Import Group, which processes AnnotationMetadata parameter of metadata, DeferredImportSelector parameter of selector, which selects Imports, which gets Metadata, which gets Import Class Name, which equals @Nullable parameter of Object, which hashes Code, which tos String.

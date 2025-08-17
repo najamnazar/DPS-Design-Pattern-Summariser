@@ -1,0 +1,3 @@
+CloseableQuery acts as a factory for CloseableQuery, which overrides bind method of CloseableQuery, bind method of CloseableQuery, poolable method of CloseableQuery, queryTimeout method of CloseableQuery, keepStatement method of CloseableQuery, close method of CloseableQuery.
+CloseableQuery acts as a factory method for CloseableQuery, which is inherited by Query, Query, Query, CloseableQuery, CloseableQuery, CloseableQuery.
+CloseableQuery acts as an abstract product for CloseableQuery, which is inherited by AbstractQuery, AbstractDelegatingQuery.

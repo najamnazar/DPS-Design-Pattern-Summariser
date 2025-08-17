@@ -1,0 +1,1 @@
+ManagedClaimCheckMBean acts as a memento, which gets Filter, which gets Filter, which gets Filter.

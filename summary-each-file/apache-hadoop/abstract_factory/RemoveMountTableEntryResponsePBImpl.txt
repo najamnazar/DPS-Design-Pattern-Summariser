@@ -1,0 +1,1 @@
+RemoveMountTableEntryResponsePBImpl acts as a product for MountTableManager, which overrides getStatus method of RemoveMountTableEntryResponse, setStatus method of RemoveMountTableEntryResponse.

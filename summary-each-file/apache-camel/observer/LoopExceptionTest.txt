@@ -1,0 +1,2 @@
+LoopExceptionTest acts as a publisher for observer CamelContext, which tests Loop Exception, which creates Route Builder.
+LoopExceptionTest acts as a publisher for observer Service, which tests Loop Exception, which creates Route Builder.

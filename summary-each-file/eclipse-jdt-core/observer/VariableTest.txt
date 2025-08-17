@@ -1,0 +1,2 @@
+VariableTest acts as a publisher for observer String, which suites, which tests All Kind Of Values, which tests Class, which tests Code Snippet Var Assign, which tests Code Snippet Var Retrieval, which tests Imports, which tests Several Variable Installations.
+VariableTest acts as a publisher for observer EvaluationResult, which suites, which tests All Kind Of Values, which tests Class, which tests Code Snippet Var Assign, which tests Code Snippet Var Retrieval, which tests Imports, which tests Several Variable Installations.

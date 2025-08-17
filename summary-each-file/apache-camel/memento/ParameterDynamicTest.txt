@@ -1,0 +1,2 @@
+ParameterDynamicTest acts as a caretaker for memento Configuration, which setups, which tests Object Parameter, which tests Boolean Parameter, which tests XQuery Builder.
+ParameterDynamicTest acts as a caretaker for memento Context, which setups, which tests Object Parameter, which tests Boolean Parameter, which tests XQuery Builder.

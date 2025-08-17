@@ -1,0 +1,1 @@
+FailTaskAttemptRequest acts as an abstract factory for TaskAttemptId, which is inherited by FailTaskAttemptRequestPBImpl.

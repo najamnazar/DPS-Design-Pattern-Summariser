@@ -1,0 +1,1 @@
+CxfMixedModeRouterTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts getCXFClient method of Server to CamelTestSupport, which adapts to CamelTestSupport.

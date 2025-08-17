@@ -1,0 +1,1 @@
+ResourceReloadStrategy acts as a publisher for observer ResourceReload, which is inherited by ResourceReloadStrategySupport, which gets Resource Reload, which sets ResourceReload parameter of listener Resource Reload, which gets Reload Counter, which gets Failed Counter, which resets Counters.

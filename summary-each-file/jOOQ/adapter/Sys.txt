@@ -1,0 +1,2 @@
+Sys acts as an adapter, which adapts to SchemaImpl, which adapts to SchemaImpl.
+Sys acts as an adaptee for adapter Sys, which adapts to SchemaImpl, which adapts to SchemaImpl.

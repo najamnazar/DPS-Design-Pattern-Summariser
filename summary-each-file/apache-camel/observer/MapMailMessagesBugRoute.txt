@@ -1,0 +1,7 @@
+MapMailMessagesBugRoute acts as an observer, which mains String... parameter of args, which configures.
+MapMailMessagesBugRoute acts as a publisher for observer Resource, which mains String... parameter of args, which configures.
+MapMailMessagesBugRoute acts as a publisher for observer RoutesDefinition, which mains String... parameter of args, which configures.
+MapMailMessagesBugRoute acts as a publisher for observer TemplatedRoutesDefinition, which mains String... parameter of args, which configures.
+MapMailMessagesBugRoute acts as a publisher for observer RouteTemplatesDefinition, which mains String... parameter of args, which configures.
+MapMailMessagesBugRoute acts as a publisher for observer RestsDefinition, which mains String... parameter of args, which configures.
+MapMailMessagesBugRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which mains String... parameter of args, which configures.

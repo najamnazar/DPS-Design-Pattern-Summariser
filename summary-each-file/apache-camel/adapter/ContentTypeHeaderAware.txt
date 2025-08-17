@@ -1,0 +1,2 @@
+ContentTypeHeaderAware acts as an adaptee for adapter JsonDataFormat, which adapts to DataFormatDefinition, which adapts to DataFormatDefinition.
+ContentTypeHeaderAware acts as an adaptee for adapter ProtobufDataFormat, which adapts to DataFormatDefinition, which adapts to DataFormatDefinition.

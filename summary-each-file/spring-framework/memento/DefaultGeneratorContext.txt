@@ -1,0 +1,3 @@
+DefaultGeneratorContext acts as a caretaker for memento C, which renders Time, which tables, which fields, which statements Type.
+DefaultGeneratorContext acts as a caretaker for memento Configuration, which renders Time, which tables, which fields, which statements Type.
+DefaultGeneratorContext acts as a caretaker for memento GeneratorStatementType, which renders Time, which tables, which fields, which statements Type.

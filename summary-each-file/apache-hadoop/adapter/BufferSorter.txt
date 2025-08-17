@@ -1,0 +1,1 @@
+BufferSorter acts as a target for adapter BasicTypeSorterBase, which adapts to BufferSorter, which adapts to BufferSorter, which adapts to BufferSorter, which adapts to BufferSorter, which adapts to BufferSorter, which adapts to BufferSorter.

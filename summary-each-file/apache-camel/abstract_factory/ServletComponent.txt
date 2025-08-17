@@ -1,0 +1,3 @@
+ServletComponent acts as a factory for RestApiConsumerFactory, which overrides createApiConsumer method of RestApiConsumerFactory.
+ServletComponent acts as a factory for RestConsumerFactory, which overrides createConsumer method of RestConsumerFactory.
+ServletComponent acts as an abstract product for ServletComponent, which is inherited by WebsocketComponent.

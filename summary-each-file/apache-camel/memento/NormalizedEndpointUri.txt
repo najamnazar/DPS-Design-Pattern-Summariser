@@ -1,0 +1,1 @@
+NormalizedEndpointUri acts as a memento, which is inherited by NormalizedUri, which gets Uri.

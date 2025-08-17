@@ -1,0 +1,2 @@
+DefaultExceptionPolicyStrategyUsingWhenTest acts as a publisher for observer Service, which tests No When, which tests With When, which creates Route Builder.
+DefaultExceptionPolicyStrategyUsingWhenTest acts as a publisher for observer CamelContext, which tests No When, which tests With When, which creates Route Builder.

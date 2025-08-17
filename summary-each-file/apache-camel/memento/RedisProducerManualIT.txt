@@ -1,0 +1,1 @@
+RedisProducerManualIT acts as a caretaker for memento Producer, which creates Camel Registry, which shoulds Set AString, which shoulds Get AString.

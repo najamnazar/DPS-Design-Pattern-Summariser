@@ -1,0 +1,2 @@
+RecipientListWithSimpleExpressionTest acts as a publisher for observer Service, which is Use Route Builder, which tests Recipient List, which routes @Header("queue") parameter of String, which tests Static.
+RecipientListWithSimpleExpressionTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Recipient List, which routes @Header("queue") parameter of String, which tests Static.

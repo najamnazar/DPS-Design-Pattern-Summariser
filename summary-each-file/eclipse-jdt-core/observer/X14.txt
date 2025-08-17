@@ -1,0 +1,1 @@
+X14 acts as a publisher for observer String, which is inherited by, which foos Z17 parameter of outerScope, which gets String parameter of name, String parameter of variable, X14 parameter of x17, boolean parameter of b Binding.

@@ -1,0 +1,2 @@
+GetNewApplicationRequest acts as an originator for memento GetNewApplicationRequest, which is inherited by, which news a GetNewApplicationRequest Instance to.
+GetNewApplicationRequest acts as a memento, which is inherited by GetNewApplicationRequestPBImpl, which news Instance.

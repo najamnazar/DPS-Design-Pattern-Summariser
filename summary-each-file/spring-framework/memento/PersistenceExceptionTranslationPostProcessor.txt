@@ -1,0 +1,3 @@
+PersistenceExceptionTranslationPostProcessor acts as a caretaker for memento C, which sets Class<? parameter of extends Repository Annotation Type, which sets BeanFactory parameter of beanFactory Bean Factory.
+PersistenceExceptionTranslationPostProcessor acts as a caretaker for memento A, which sets Class<? parameter of extends Repository Annotation Type, which sets BeanFactory parameter of beanFactory Bean Factory.
+PersistenceExceptionTranslationPostProcessor acts as a caretaker for memento B, which sets Class<? parameter of extends Repository Annotation Type, which sets BeanFactory parameter of beanFactory Bean Factory.

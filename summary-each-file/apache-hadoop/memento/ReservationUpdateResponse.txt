@@ -1,0 +1,2 @@
+ReservationUpdateResponse acts as a memento, which is inherited by ReservationUpdateResponsePBImpl, which news Instance.
+ReservationUpdateResponse acts as an originator for memento ReservationUpdateResponse, which is inherited by, which news a ReservationUpdateResponse Instance to.

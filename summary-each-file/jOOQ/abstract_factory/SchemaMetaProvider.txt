@@ -1,0 +1,2 @@
+SchemaMetaProvider acts as a factory for MetaProvider, which overrides provide method of MetaProvider.
+SchemaMetaProvider acts as a product for Configuration, which overrides provide method of MetaProvider.

@@ -1,0 +1,2 @@
+UniformWeightedLocalityGlobalPolicy acts as a publisher for observer Configuration, which updates String parameter of queueName, Map<SubClusterId, parameter of Map<Class, FederationPolicyManager parameter of currentManager Policy.
+UniformWeightedLocalityGlobalPolicy acts as an observer, which updates String parameter of queueName, Map<SubClusterId, parameter of Map<Class, FederationPolicyManager parameter of currentManager Policy.

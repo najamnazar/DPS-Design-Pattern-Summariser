@@ -1,0 +1,1 @@
+DefaultModelineParser acts as a factory for ModelineParser, which overrides.

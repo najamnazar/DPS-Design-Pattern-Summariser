@@ -1,0 +1,1 @@
+GetSafeModeResponse acts as an abstract product for GetSafeModeResponse, which is inherited by GetSafeModeResponsePBImpl.

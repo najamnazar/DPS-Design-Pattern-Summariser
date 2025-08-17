@@ -1,0 +1,2 @@
+RouteStopTest acts as a publisher for observer Service, which tests Otherwise, which tests Hello, which tests Bye With Stop, which tests Set Property To Stop, which creates Route Builder.
+RouteStopTest acts as a publisher for observer CamelContext, which tests Otherwise, which tests Hello, which tests Bye With Stop, which tests Set Property To Stop, which creates Route Builder.

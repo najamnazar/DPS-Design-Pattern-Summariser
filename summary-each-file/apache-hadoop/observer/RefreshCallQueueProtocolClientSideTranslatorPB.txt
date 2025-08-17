@@ -1,0 +1,1 @@
+RefreshCallQueueProtocolClientSideTranslatorPB acts as an observer, which closes, which refreshes Call Queue, which is String parameter of methodName Method Supported.

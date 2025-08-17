@@ -1,0 +1,2 @@
+ContextLifecycleScheduledTaskRegistrar acts as a caretaker for memento Interval, which afters Properties Set, which afters Singletons Instantiated.
+ContextLifecycleScheduledTaskRegistrar acts as a caretaker for memento C, which afters Properties Set, which afters Singletons Instantiated.

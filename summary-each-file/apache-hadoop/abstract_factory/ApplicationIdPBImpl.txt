@@ -1,0 +1,2 @@
+ApplicationIdPBImpl acts as a product for AppContext, which overrides getId method of ApplicationId, setId method of ApplicationId, getClusterTimestamp method of ApplicationId, setClusterTimestamp method of ApplicationId, build method of ApplicationId.
+ApplicationIdPBImpl acts as a product for RMApp, which overrides getId method of ApplicationId, setId method of ApplicationId, getClusterTimestamp method of ApplicationId, setClusterTimestamp method of ApplicationId, build method of ApplicationId.

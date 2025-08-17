@@ -1,0 +1,1 @@
+ConfigurationProvider acts as an abstract product for ConfigurationProvider, which is inherited by LocalConfigurationProvider, FileSystemBasedConfigurationProvider.

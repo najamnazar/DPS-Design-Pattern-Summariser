@@ -1,0 +1,1 @@
+AbstractFallbackJCacheOperationSource acts as a product for JCacheAspectSupport, which overrides getCacheOperation method of JCacheOperationSource.

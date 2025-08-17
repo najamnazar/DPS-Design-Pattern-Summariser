@@ -1,0 +1,5 @@
+CxfJavaOnlyCamelContextAwareTest acts as a publisher for observer CamelContext, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.
+CxfJavaOnlyCamelContextAwareTest acts as a publisher for observer Service, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.
+CxfJavaOnlyCamelContextAwareTest acts as a publisher for observer ConsumerTemplate, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.
+CxfJavaOnlyCamelContextAwareTest acts as a publisher for observer ProducerTemplate, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.
+CxfJavaOnlyCamelContextAwareTest acts as a publisher for observer FluentProducerTemplate, which tests Cxf Endpoint Has Camel Context, which creates Route Builder.

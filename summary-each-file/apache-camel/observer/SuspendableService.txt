@@ -1,0 +1,1 @@
+SuspendableService acts as an observer, which suspends, which resumes, which is Suspended.

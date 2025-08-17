@@ -1,0 +1,2 @@
+ReductionResult acts as a caretaker for memento Binding, which is inherited by, which reduces InferenceContext18 parameter of context, which tos String, which reduces InferenceContext18 parameter of context, which tos String, which relations int parameter of relation To String.
+ReductionResult acts as a caretaker for memento C, which is inherited by, which reduces InferenceContext18 parameter of context, which tos String, which reduces InferenceContext18 parameter of context, which tos String, which relations int parameter of relation To String.

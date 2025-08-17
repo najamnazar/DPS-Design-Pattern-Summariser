@@ -1,0 +1,1 @@
+CopyFilter acts as an observer for publisher DistCpSync, which is inherited by RegexCopyFilter, RegexpInConfigurationFilter, TrueCopyFilter, which initializes, which shoulds Path parameter of path Copy, which gets Configuration parameter of conf Copy Filter, which gets Configuration parameter of conf Default Copy Filter.

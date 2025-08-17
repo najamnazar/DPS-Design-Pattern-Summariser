@@ -1,0 +1,5 @@
+Record2 acts as a product for RecordContext, which overrides.
+Record2 acts as a product for UpdatableRecord, which overrides.
+Record2 acts as a product for ExecuteContext, which overrides.
+Record2 acts as a product for Record, which overrides.
+Record2 acts as a product for DSLContext, which overrides.

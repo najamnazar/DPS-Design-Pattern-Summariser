@@ -1,0 +1,2 @@
+CamelContextAwareBean acts as a publisher for observer CamelContext, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.
+CamelContextAwareBean acts as a publisher for observer CamelContext, which is inherited by, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.

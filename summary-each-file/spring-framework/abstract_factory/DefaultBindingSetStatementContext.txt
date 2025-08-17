@@ -1,0 +1,1 @@
+DefaultBindingSetStatementContext acts as a factory for ResourceManagingScopeTrait, which overrides.

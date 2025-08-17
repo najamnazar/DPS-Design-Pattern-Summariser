@@ -1,0 +1,1 @@
+ResourcePlugin acts as an abstract factory for NMResourceInfo, NodeResourceUpdaterPlugin, ResourceHandler, DockerCommandPlugin, which is inherited by GpuResourcePlugin, DevicePluginAdapter, FpgaResourcePlugin.

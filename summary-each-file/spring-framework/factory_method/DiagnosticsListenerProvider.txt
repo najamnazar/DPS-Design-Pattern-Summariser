@@ -1,0 +1,1 @@
+DiagnosticsListenerProvider acts as a factory for DefaultDiagnosticsListenerProvider, which overrides.

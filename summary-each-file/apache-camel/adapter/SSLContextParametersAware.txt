@@ -1,0 +1,12 @@
+SSLContextParametersAware acts as an adaptee for adapter FtpsComponent, which adapts to FtpComponent, which adapts to FtpComponent, which adapts to FtpComponent.
+SSLContextParametersAware acts as an adaptee for adapter HttpComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent.
+SSLContextParametersAware acts as an adaptee for adapter UndertowComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter VertxWebsocketComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter CometdComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter MinaComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter JettyHttpComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent, which adapts to HttpCommonComponent.
+SSLContextParametersAware acts as an adaptee for adapter KafkaComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter IrcComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter SalesforceComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter NettyComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.
+SSLContextParametersAware acts as an adaptee for adapter NettyHttpComponent, which adapts to NettyComponent, which adapts to NettyComponent, which adapts to NettyComponent.

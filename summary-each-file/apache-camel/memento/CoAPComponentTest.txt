@@ -1,0 +1,1 @@
+CoAPComponentTest acts as a caretaker for memento Producer, which tests Co APComponent, which tests Co APComponent TLS, which creates Route Builder.

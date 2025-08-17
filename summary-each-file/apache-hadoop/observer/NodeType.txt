@@ -1,0 +1,1 @@
+NodeType acts as an observer for publisher SchedulerApplicationAttempt, FSAppAttempt, which is inherited by, which gets Index.

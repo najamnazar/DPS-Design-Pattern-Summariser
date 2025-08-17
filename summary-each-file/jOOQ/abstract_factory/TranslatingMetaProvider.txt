@@ -1,0 +1,2 @@
+TranslatingMetaProvider acts as a factory for MetaProvider, which overrides provide method of MetaProvider.
+TranslatingMetaProvider acts as a product for Configuration, which overrides provide method of MetaProvider.

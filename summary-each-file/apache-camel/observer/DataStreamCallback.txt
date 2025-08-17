@@ -1,0 +1,1 @@
+DataStreamCallback acts as an observer for publisher FlinkComponent, which is inherited by, which ons DataStream parameter of ds, Object... parameter of payloads Data Stream.

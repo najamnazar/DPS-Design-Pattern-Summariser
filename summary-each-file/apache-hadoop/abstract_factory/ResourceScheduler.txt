@@ -1,0 +1,1 @@
+ResourceScheduler acts as an abstract product for ResourceScheduler, which is inherited by MutableConfScheduler, PreemptableResourceScheduler, AbstractYarnScheduler.

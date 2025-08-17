@@ -1,0 +1,1 @@
+WebSocketHandlerAdapter acts as a product for DispatcherServlet, which overrides supports method of HandlerAdapter.

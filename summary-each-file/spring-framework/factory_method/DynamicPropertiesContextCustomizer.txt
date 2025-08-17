@@ -1,0 +1,1 @@
+DynamicPropertiesContextCustomizer acts as a product for ContextCustomizerFactory, which overrides customizeContext method of ContextCustomizer.

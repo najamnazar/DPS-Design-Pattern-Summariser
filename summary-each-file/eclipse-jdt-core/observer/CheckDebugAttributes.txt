@@ -1,0 +1,1 @@
+CheckDebugAttributes acts as a publisher for observer String, which is inherited by, which executes, which checks IClassFileReader parameter of classFileReader Class File, which sets String parameter of value File, which sets String parameter of value Property.

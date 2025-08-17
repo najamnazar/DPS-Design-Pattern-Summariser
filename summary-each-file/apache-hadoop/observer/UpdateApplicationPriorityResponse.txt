@@ -1,0 +1,1 @@
+UpdateApplicationPriorityResponse acts as a publisher for observer Priority, which is inherited by UpdateApplicationPriorityResponsePBImpl, which news Priority parameter of priority Instance, which gets Application Priority, which sets Priority parameter of priority Application Priority.

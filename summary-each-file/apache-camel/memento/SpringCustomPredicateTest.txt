@@ -1,0 +1,1 @@
+SpringCustomPredicateTest acts as a caretaker for memento Context, which tests Filter My Predicate, which creates Application Context, which matches Exchange parameter of exchange.

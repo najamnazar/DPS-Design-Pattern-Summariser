@@ -1,0 +1,1 @@
+ErrorHandlerRefProperties acts as an adaptee for adapter LegacyErrorHandlerBuilderRef, which adapts to LegacyErrorHandlerBuilderSupport, which adapts to LegacyErrorHandlerBuilderSupport, which adapts to LegacyErrorHandlerBuilderSupport, which adapts to LegacyErrorHandlerBuilderSupport.

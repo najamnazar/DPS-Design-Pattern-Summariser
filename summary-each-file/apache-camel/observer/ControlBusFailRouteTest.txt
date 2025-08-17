@@ -1,0 +1,2 @@
+ControlBusFailRouteTest acts as a publisher for observer Service, which tests Control Bus Fail, which creates Route Builder.
+ControlBusFailRouteTest acts as a publisher for observer CamelContext, which tests Control Bus Fail, which creates Route Builder.

@@ -1,0 +1,5 @@
+ChunkComponentNestedLayersTest acts as a publisher for observer Service, which tests Chunk Double Layers, which creates Route Builder.
+ChunkComponentNestedLayersTest acts as a publisher for observer ProducerTemplate, which tests Chunk Double Layers, which creates Route Builder.
+ChunkComponentNestedLayersTest acts as a publisher for observer CamelContext, which tests Chunk Double Layers, which creates Route Builder.
+ChunkComponentNestedLayersTest acts as a publisher for observer ConsumerTemplate, which tests Chunk Double Layers, which creates Route Builder.
+ChunkComponentNestedLayersTest acts as a publisher for observer FluentProducerTemplate, which tests Chunk Double Layers, which creates Route Builder.

@@ -1,0 +1,2 @@
+ProcessRefBeanIdTest acts as a publisher for observer CamelContext, which tests Process Ref Bean Id, which creates Route Builder.
+ProcessRefBeanIdTest acts as a publisher for observer Service, which tests Process Ref Bean Id, which creates Route Builder.

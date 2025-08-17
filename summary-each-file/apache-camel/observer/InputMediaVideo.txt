@@ -1,0 +1,1 @@
+InputMediaVideo acts as an observer, which gets Width, which sets Integer parameter of width Width, which gets Height, which sets Integer parameter of height Height, which gets Duration, which sets Integer parameter of duration Duration, which gets Supports Streaming, which sets String parameter of supportsStreaming Supports Streaming.

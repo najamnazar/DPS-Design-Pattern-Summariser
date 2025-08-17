@@ -1,0 +1,2 @@
+NamespaceHandlerSupport acts as a factory for NamespaceHandler, which overrides parse method of NamespaceHandler.
+NamespaceHandlerSupport acts as a product for NamespaceHandlerResolver, which overrides parse method of NamespaceHandler.

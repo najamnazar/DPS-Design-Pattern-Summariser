@@ -1,0 +1,1 @@
+TimelineType acts as a singleton, which froms a TimelineType String to.

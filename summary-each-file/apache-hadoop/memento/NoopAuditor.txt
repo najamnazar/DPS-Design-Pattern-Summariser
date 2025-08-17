@@ -1,0 +1,1 @@
+NoopAuditor acts as a caretaker for memento AuditSpanS3A, which is inherited by, which creates final parameter of String, @Nullable parameter of final, @Nullable parameter of final Span, which gets Unbonded Span, which creates Configuration parameter of conf, NoopSpan.SpanActivationCallbacks parameter of activationCallbacks And Start Noop Auditor.

@@ -1,0 +1,1 @@
+TriggerTask acts as an observer for publisher ScheduledTaskRegistrar, ContextLifecycleScheduledTaskRegistrar, which is inherited by CronTask, which gets Trigger.

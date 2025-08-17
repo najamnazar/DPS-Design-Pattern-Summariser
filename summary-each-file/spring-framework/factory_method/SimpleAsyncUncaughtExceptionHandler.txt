@@ -1,0 +1,1 @@
+SimpleAsyncUncaughtExceptionHandler acts as a product for AsyncConfigurerSupport, which overrides handleUncaughtException method of AsyncUncaughtExceptionHandler.

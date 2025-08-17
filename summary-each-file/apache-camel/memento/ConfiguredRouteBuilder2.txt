@@ -1,0 +1,1 @@
+ConfiguredRouteBuilder2 acts as a caretaker for memento Configuration, which configures, which sets String parameter of queueName Queue Name, which gets Queue Name.

@@ -1,0 +1,1 @@
+ProcessorExchangePair acts as an observer for publisher MulticastProcessor, Splitter, RecipientListProcessor, which is inherited by, which gets Index, which gets Exchange, which gets Producer, which gets Processor, which begins, which does.

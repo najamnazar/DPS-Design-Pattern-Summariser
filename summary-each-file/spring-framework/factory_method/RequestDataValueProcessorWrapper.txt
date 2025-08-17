@@ -1,0 +1,1 @@
+RequestDataValueProcessorWrapper acts as a product for AbstractHtmlElementTagTests, which overrides processUrl method of RequestDataValueProcessor, processAction method of RequestDataValueProcessor, getExtraHiddenFields method of RequestDataValueProcessor.

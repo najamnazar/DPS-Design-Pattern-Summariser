@@ -1,0 +1,1 @@
+PassThroughSourceExtractor acts as a product for ReaderContext, which overrides extractSource method of SourceExtractor.

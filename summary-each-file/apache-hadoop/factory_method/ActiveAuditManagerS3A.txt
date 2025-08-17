@@ -1,0 +1,2 @@
+ActiveAuditManagerS3A acts as a factory method for OperationAuditor, which is inherited by AuditManagerS3A, AuditManagerS3A, S3AFileSystem.
+ActiveAuditManagerS3A acts as a product for AuditIntegration, which overrides getAuditor method of AuditManagerS3A, createExecutionInterceptors method of AuditManagerS3A, createTransferListener method of AuditManagerS3A.

@@ -1,0 +1,1 @@
+MockMvcConfigurer acts as an observer for publisher AbstractMockMvcBuilder, which is inherited by MockMvcConfigurerAdapter, SharedHttpSessionConfigurer, which afters ConfigurableMockMvcBuilder<?> parameter of builder Configurer Added, which befores ConfigurableMockMvcBuilder<?> parameter of builder, WebApplicationContext parameter of context Mock Mvc Created.

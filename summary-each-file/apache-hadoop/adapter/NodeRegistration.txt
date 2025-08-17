@@ -1,0 +1,4 @@
+NodeRegistration acts as an adaptee for adapter DatanodeRegistration, which adapts to DatanodeID, NodeRegistration, which adapts to DatanodeID, NodeRegistration, which adapts to DatanodeID, NodeRegistration, which adapts to DatanodeID, NodeRegistration.
+NodeRegistration acts as a target for adapter NamenodeRegistration, which adapts to NodeRegistration, which adapts to NodeRegistration, which adapts to NodeRegistration, which adapts to NodeRegistration.
+NodeRegistration acts as an adaptee for adapter NamenodeRegistration, which adapts to NodeRegistration, StorageInfo, which adapts to NodeRegistration, StorageInfo, which adapts to NodeRegistration, StorageInfo, which adapts to NodeRegistration, StorageInfo.
+NodeRegistration acts as a target for adapter DatanodeRegistration, which adapts to NodeRegistration, which adapts to NodeRegistration, which adapts to NodeRegistration, which adapts to NodeRegistration.

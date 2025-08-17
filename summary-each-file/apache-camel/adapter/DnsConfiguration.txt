@@ -1,0 +1,1 @@
+DnsConfiguration acts as an adaptee for adapter DnsServiceDiscovery, which adapts to DefaultServiceDiscovery, which adapts to DefaultServiceDiscovery, which adapts to DefaultServiceDiscovery, which adapts to DefaultServiceDiscovery.

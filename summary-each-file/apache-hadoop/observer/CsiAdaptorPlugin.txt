@@ -1,0 +1,1 @@
+CsiAdaptorPlugin acts as an observer, which inits String parameter of driverName, Configuration parameter of conf, which gets Driver Name.

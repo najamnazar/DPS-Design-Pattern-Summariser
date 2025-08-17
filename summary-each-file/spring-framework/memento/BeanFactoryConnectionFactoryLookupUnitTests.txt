@@ -1,0 +1,1 @@
+BeanFactoryConnectionFactoryLookupUnitTests acts as a caretaker for memento B, which shoulds Lookup Connection Factory, which shoulds Lookup Where Bean Factory Yields Non Connection Factory Type, which shoulds Lookup Where Bean Factory Has Not Been Supplied.

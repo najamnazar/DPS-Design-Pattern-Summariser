@@ -1,0 +1,1 @@
+AdvisorComponentDefinition acts as an adapter, which adapts to AbstractComponentDefinition, which adapts to AbstractComponentDefinition, which adapts to AbstractComponentDefinition, which adapts to AbstractComponentDefinition, which adapts to AbstractComponentDefinition, which adapts to AbstractComponentDefinition, which adapts to AbstractComponentDefinition.

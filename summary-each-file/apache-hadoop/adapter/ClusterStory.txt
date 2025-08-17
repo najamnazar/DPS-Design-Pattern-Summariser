@@ -1,0 +1,2 @@
+ClusterStory acts as a target for adapter AbstractClusterStory, which adapts to ClusterStory, which adapts to ClusterStory, which adapts to ClusterStory, which adapts to ClusterStory, which adapts to ClusterStory, which adapts to ClusterStory, which adapts to ClusterStory, which adapts to ClusterStory.
+ClusterStory acts as an adaptee for adapter ZombieJob, which adapts to JobStory, which adapts to JobStory, which adapts to JobStory, which adapts to JobStory, which adapts to JobStory, which adapts to JobStory, which adapts to JobStory, which adapts to JobStory.

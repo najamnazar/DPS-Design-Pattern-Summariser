@@ -1,0 +1,1 @@
+StaxSourceTests acts as a caretaker for memento B, which sets Up, which streams Reader Source To Stream Result, which streams Reader Source To DOMResult, which events Reader Source To Stream Result, which events Reader Source To DOMResult.

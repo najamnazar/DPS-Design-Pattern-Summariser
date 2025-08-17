@@ -1,0 +1,1 @@
+ApplicationContextEvent acts as an observer, which gets Application Context.

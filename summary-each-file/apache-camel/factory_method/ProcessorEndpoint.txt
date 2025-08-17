@@ -1,0 +1,3 @@
+ProcessorEndpoint acts as a factory for TransformerRouteTest, which overrides.
+ProcessorEndpoint acts as a factory for FaultToleranceProcessorFactory, which overrides.
+ProcessorEndpoint acts as a factory for CamelPostProcessorHelperTest, which overrides.

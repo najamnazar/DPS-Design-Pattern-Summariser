@@ -1,0 +1,1 @@
+JamonPerformanceMonitorInterceptorTests acts as a caretaker for memento MethodInvocation, which sets Up, which tears Down, which tests Invoke Under Trace With Normal Processing, which tests Invoke Under Trace With Exception Tracking.

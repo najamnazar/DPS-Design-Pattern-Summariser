@@ -1,0 +1,2 @@
+IProblemFactory acts as an originator for memento Locale, which is inherited by, which gets a Locale Locale to.
+IProblemFactory acts as an originator for memento String, which is inherited by, which gets a String Localized Message to.

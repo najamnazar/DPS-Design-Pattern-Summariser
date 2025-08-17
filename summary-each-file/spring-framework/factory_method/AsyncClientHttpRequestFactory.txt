@@ -1,0 +1,2 @@
+AsyncClientHttpRequestFactory acts as an abstract product for OkHttp3AsyncClientHttpRequestFactoryTests, which is inherited by SimpleClientHttpRequestFactory, OkHttp3ClientHttpRequestFactory, InterceptingAsyncClientHttpRequestFactory, Netty4ClientHttpRequestFactory, HttpComponentsAsyncClientHttpRequestFactory.
+AsyncClientHttpRequestFactory acts as a factory for SimpleClientHttpRequestFactory, which overrides.

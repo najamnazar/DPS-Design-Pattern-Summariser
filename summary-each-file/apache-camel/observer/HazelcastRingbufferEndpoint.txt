@@ -1,0 +1,2 @@
+HazelcastRingbufferEndpoint acts as a publisher for observer HazelcastCommand, which creates Processor parameter of processor Consumer, which creates Producer.
+HazelcastRingbufferEndpoint acts as a publisher for observer HazelcastOperation, which creates Processor parameter of processor Consumer, which creates Producer.

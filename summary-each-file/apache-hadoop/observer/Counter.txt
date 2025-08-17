@@ -1,0 +1,1 @@
+Counter acts as an observer for publisher CounterGroupPBImpl, which is inherited by CounterPBImpl, AbstractCounter, which gets Name, which gets Display Name, which gets Value, which sets String parameter of name Name, which sets String parameter of displayName Display Name, which sets long parameter of value Value.

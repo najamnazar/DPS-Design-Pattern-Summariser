@@ -1,0 +1,1 @@
+SjmsConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which prepares And Start Listener Container, which tests Connection On Startup, which gets Destination Name, which starts Listener Container, which stops And Destroy Listener Container.

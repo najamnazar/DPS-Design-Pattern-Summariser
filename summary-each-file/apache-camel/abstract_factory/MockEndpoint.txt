@@ -1,0 +1,1 @@
+MockEndpoint acts as an abstract product for MockEndpoint, which is inherited by DataSetTestEndpoint, DataSetEndpoint, CustomEndpoint.

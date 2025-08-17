@@ -1,0 +1,1 @@
+AWS2EC2ClientFactory acts as an originator for memento AWS2EC2InternalClient, which gets an AWS2EC2InternalClient Ec2Client to.

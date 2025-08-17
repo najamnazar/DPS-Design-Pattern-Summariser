@@ -1,0 +1,1 @@
+SnippetCompletionTests_1_5 acts as an adapter, which adapts to AbstractJavaModelTests, which adapts to AbstractJavaModelTests, which adapts to AbstractJavaModelTests, which adapts to AbstractJavaModelTests, which adapts to AbstractJavaModelTests, which adapts to AbstractJavaModelTests.

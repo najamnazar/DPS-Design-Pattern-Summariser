@@ -1,0 +1,2 @@
+ExpressionPointcut acts as a memento, which gets Expression.
+ExpressionPointcut acts as a caretaker for memento Pointcut, which gets Expression.

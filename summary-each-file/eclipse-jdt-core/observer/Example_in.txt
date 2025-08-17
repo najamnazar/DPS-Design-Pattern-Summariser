@@ -1,0 +1,1 @@
+Example_in acts as a publisher for observer String, which is inherited by, which method1s, which method2s String parameter of argument, which method3s Example parameter of argument1, Example parameter of argument2, Example parameter of argument3, String parameter of argument4, String parameter of argument5, String parameter of argument6.

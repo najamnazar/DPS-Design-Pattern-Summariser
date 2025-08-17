@@ -1,0 +1,1 @@
+JavaMailSender acts as an abstract factory for MailAuthenticator, which is inherited by DefaultJavaMailSender.

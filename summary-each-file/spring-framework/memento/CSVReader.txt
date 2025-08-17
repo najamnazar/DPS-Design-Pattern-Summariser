@@ -1,0 +1,2 @@
+CSVReader acts as a caretaker for memento B, which reads All, which reads Next, which gets Next Line, which closes, which has Next, which nexts, which removes.
+CSVReader acts as a caretaker for memento C, which reads All, which reads Next, which gets Next Line, which closes, which has Next, which nexts, which removes.

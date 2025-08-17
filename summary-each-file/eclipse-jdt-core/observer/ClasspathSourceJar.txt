@@ -1,0 +1,2 @@
+ClasspathSourceJar acts as a publisher for observer String, which is inherited by, which finds char[] parameter of typeName, String parameter of qualifiedPackageName, String parameter of moduleName, String parameter of qualifiedBinaryFileName, boolean parameter of asBinaryOnly Class, which gets Mode.
+ClasspathSourceJar acts as a publisher for observer String, which finds char[] parameter of typeName, String parameter of qualifiedPackageName, String parameter of moduleName, String parameter of qualifiedBinaryFileName, boolean parameter of asBinaryOnly Class, which gets Mode.

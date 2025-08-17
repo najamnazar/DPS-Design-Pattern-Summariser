@@ -1,0 +1,2 @@
+AddingCompositeService acts as an observer, which adds Service parameter of service Service, which removes Service parameter of service Service.
+AddingCompositeService acts as a publisher for observer Service, which adds Service parameter of service Service, which removes Service parameter of service Service.

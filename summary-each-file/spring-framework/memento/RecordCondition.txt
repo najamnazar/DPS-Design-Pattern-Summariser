@@ -1,0 +1,2 @@
+RecordCondition acts as a caretaker for memento C, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+RecordCondition acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

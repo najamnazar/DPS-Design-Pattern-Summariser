@@ -1,0 +1,2 @@
+ThrottlingExceptionRoutePolicyHalfOpenHandlerTest acts as a caretaker for memento Context, which sets Up, which tests Half Open Circuit, which creates Route Builder, which is Ready To Be Closed, which sends String parameter of bodyText Message.
+ThrottlingExceptionRoutePolicyHalfOpenHandlerTest acts as a caretaker for memento Producer, which sets Up, which tests Half Open Circuit, which creates Route Builder, which is Ready To Be Closed, which sends String parameter of bodyText Message.

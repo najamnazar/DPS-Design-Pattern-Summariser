@@ -1,0 +1,1 @@
+CouchbaseConsumer acts as an adapter, which adapts to DefaultScheduledPollConsumer, which adapts to DefaultScheduledPollConsumer, which adapts to DefaultScheduledPollConsumer, which adapts to DefaultScheduledPollConsumer, which adapts to DefaultScheduledPollConsumer, which adapts to DefaultScheduledPollConsumer, which adapts to DefaultScheduledPollConsumer.

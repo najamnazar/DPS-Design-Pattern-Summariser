@@ -1,0 +1,2 @@
+IBinaryModule acts as a publisher for observer String, which gets Annotations, which gets Tag Bits, which gets URI.
+IBinaryModule acts as an observer, which gets Annotations, which gets Tag Bits, which gets URI.

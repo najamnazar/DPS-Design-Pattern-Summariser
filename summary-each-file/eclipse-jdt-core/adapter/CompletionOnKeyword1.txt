@@ -1,0 +1,1 @@
+CompletionOnKeyword1 acts as an adapter, which adapts to SingleTypeReference, which adapts to SingleTypeReference, which adapts to SingleTypeReference, which adapts getTypeBinding method of CompletionOnKeyword to SingleTypeReference, which adapts to SingleTypeReference.

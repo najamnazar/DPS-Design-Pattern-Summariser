@@ -1,0 +1,1 @@
+QuartzTwoCamelContextSuspendResumeTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests Two Camel Context Restart.

@@ -1,0 +1,1 @@
+ServiceConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which does Resume, which does Suspend.

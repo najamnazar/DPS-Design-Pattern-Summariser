@@ -1,0 +1,2 @@
+OperationAuditor acts as an adaptee for adapter AbstractOperationAuditor, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+OperationAuditor acts as an adaptee for adapter ActiveAuditManagerS3A, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

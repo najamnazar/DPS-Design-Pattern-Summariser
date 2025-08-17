@@ -1,0 +1,1 @@
+CoAPRestComponentTest acts as a caretaker for memento Producer, which gets Protocol, which decorates CoapClient parameter of client Client, which decorates RestConfigurationDefinition parameter of restConfig Rest Configuration.

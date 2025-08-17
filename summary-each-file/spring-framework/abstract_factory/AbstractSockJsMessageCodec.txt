@@ -1,0 +1,2 @@
+AbstractSockJsMessageCodec acts as a product for TransportRequest, which overrides encode method of SockJsMessageCodec.
+AbstractSockJsMessageCodec acts as a product for SockJsServiceConfig, which overrides encode method of SockJsMessageCodec.

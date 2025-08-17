@@ -1,0 +1,1 @@
+PackageElementImpl acts as an adapter, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl.

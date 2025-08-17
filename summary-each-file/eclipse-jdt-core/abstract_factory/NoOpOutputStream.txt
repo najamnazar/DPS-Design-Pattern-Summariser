@@ -1,0 +1,2 @@
+NoOpOutputStream acts as a product for FileObject, which overrides write method of OutputStream.
+NoOpOutputStream acts as a product for Filer, which overrides write method of OutputStream.

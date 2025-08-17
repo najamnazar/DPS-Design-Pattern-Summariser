@@ -1,0 +1,1 @@
+DatanodeStorage acts as an observer for publisher ProvidedStorageMap, which is inherited by, which gets Storage ID, which gets State, which gets Storage Type, which generates Uuid, which is final parameter of String Valid Storage Id, which tos String, which equals Object parameter of other, which hashes Code.

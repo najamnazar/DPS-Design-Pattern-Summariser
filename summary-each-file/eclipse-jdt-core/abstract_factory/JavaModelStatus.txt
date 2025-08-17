@@ -1,0 +1,1 @@
+JavaModelStatus acts as a factory for IJavaModelStatus, which overrides getElements method of IJavaModelStatus, getPath method of IJavaModelStatus, getString method of IJavaModelStatus, isDoesNotExist method of IJavaModelStatus.

@@ -1,0 +1,1 @@
+DefaultManagedAwareThreadFactory acts as an adapter, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory.

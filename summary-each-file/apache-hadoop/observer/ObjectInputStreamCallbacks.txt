@@ -1,0 +1,2 @@
+ObjectInputStreamCallbacks acts as an observer for publisher ObjectReadParameters, which is inherited by InputStreamCallbacksImpl, which news String parameter of key Get Request Builder, which gets GetObjectRequest parameter of request Object, which submits CallableRaisingIOE<T> parameter of operation.
+ObjectInputStreamCallbacks acts as an observer, which news String parameter of key Get Request Builder, which gets GetObjectRequest parameter of request Object, which submits CallableRaisingIOE<T> parameter of operation.

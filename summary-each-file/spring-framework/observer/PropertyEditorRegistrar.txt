@@ -1,0 +1,1 @@
+PropertyEditorRegistrar acts as an observer for publisher AbstractBeanFactory, AbstractAutowireCapableBeanFactory, which is inherited by CustomDateEditorRegistrar, ResourceEditorRegistrar, which registers PropertyEditorRegistry parameter of registry Custom Editors.

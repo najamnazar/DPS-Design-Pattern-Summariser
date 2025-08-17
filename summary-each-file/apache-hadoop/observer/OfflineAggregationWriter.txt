@@ -1,0 +1,1 @@
+OfflineAggregationWriter acts as a publisher for observer Configuration, which writes TimelineCollectorContext parameter of context, TimelineEntities parameter of entities, OfflineAggregationInfo parameter of info Aggregated Entity.

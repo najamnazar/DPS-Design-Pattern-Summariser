@@ -1,0 +1,1 @@
+JoinType acts as an observer for publisher JoinTable, which is inherited by, which tos SQL, which tos Keyword, which tos boolean parameter of includeOptionalKeywords Keyword, which qualifies.

@@ -1,0 +1,2 @@
+FileChangedReadLockTest acts as a publisher for observer Service, which sets Up, which tests Changed Read Lock, which writes Slow File, which expects File Length, which creates Route Builder.
+FileChangedReadLockTest acts as a publisher for observer CamelContext, which sets Up, which tests Changed Read Lock, which writes Slow File, which expects File Length, which creates Route Builder.

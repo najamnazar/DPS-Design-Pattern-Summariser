@@ -1,0 +1,1 @@
+Sns2InternalClient acts as a memento, which is inherited by Sns2ClientStandardImpl, Sns2ClientIAMOptimized, which gets SNSClient.

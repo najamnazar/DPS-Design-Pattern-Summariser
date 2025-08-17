@@ -1,0 +1,1 @@
+NodeRemovedSchedulerEvent acts as an observer, which gets Removed RMNode.

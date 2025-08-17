@@ -1,0 +1,2 @@
+IBuffer acts as a factory for SourceRefElement, which overrides.
+IBuffer acts as an abstract product for BufferFactoryWrapper, which is inherited by TestBuffer, Buffer.

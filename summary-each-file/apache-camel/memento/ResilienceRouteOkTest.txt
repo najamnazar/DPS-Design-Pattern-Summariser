@@ -1,0 +1,2 @@
+ResilienceRouteOkTest acts as a caretaker for memento Context, which uses Jmx, which creates Camel Context, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.
+ResilienceRouteOkTest acts as a caretaker for memento Producer, which uses Jmx, which creates Camel Context, which tests Resilience, which tests Resilience With Time Out, which tests String parameter of endPointUri, which creates Route Builder.

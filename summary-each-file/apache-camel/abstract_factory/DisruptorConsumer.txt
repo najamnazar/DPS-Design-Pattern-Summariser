@@ -1,0 +1,12 @@
+DisruptorConsumer acts as a factory for Consumer, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for ExchangeFactory, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for PlatformHttpEngine, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for Endpoint, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for RestApiConsumerFactory, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for RestRegistry, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for Route, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for KafkaClientFactory, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for KnativeConsumerFactory, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for ConsulFactories, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for RestConsumerFactory, which overrides createExchange method of Consumer, releaseExchange method of Consumer.
+DisruptorConsumer acts as a product for RouteStartupOrder, which overrides createExchange method of Consumer, releaseExchange method of Consumer.

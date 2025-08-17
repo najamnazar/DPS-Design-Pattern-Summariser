@@ -1,0 +1,2 @@
+BeanDefinition acts as an abstract product for BeanDefinition, which is inherited by AbstractBeanDefinition, AnnotatedBeanDefinition.
+BeanDefinition acts as an abstract factory for MutablePropertyValues, BeanDefinition, which is inherited by AbstractBeanDefinition.

@@ -1,0 +1,2 @@
+InterceptCustomPredicateAsFilterTest acts as a caretaker for memento Context, which matches Exchange parameter of exchange, which gets Bodies, which tests Intercept Custom Predicate As Filter, which creates Route Builder.
+InterceptCustomPredicateAsFilterTest acts as a caretaker for memento Producer, which matches Exchange parameter of exchange, which gets Bodies, which tests Intercept Custom Predicate As Filter, which creates Route Builder.

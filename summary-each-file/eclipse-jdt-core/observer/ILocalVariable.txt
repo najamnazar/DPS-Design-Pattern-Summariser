@@ -1,0 +1,1 @@
+ILocalVariable acts as an observer, which gets Element Name, which gets Name Range, which gets Type Signature, which is Parameter, which gets Flags, which gets Declaring Member, which gets Type Root.

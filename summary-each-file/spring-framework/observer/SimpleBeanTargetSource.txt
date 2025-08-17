@@ -1,0 +1,1 @@
+SimpleBeanTargetSource acts as a publisher for observer BeanFactory, which gets Target.

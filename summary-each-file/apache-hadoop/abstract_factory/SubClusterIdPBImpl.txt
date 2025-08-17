@@ -1,0 +1,2 @@
+SubClusterIdPBImpl acts as a product for FederationRouterPolicy, which overrides getId method of SubClusterId, setId method of SubClusterId.
+SubClusterIdPBImpl acts as a product for SubClusterResolver, which overrides getId method of SubClusterId, setId method of SubClusterId.

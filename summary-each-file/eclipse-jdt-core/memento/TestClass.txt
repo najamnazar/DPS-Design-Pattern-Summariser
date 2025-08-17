@@ -1,0 +1,4 @@
+TestClass acts as an originator for memento TestClass, which builds TestClass.
+TestClass acts as a caretaker for memento String, which builds.
+TestClass acts as a caretaker for memento S, which builds.
+TestClass acts as a memento, which builds.

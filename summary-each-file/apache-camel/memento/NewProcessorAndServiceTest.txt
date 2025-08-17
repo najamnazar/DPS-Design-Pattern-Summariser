@@ -1,0 +1,2 @@
+NewProcessorAndServiceTest acts as a caretaker for memento Producer, which tests New Processor And Service, which creates Route Builder, which processes Exchange parameter of exchange, which starts, which stops, which is Started.
+NewProcessorAndServiceTest acts as a caretaker for memento Context, which tests New Processor And Service, which creates Route Builder, which processes Exchange parameter of exchange, which starts, which stops, which is Started.

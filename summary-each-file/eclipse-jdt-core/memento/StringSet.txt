@@ -1,0 +1,2 @@
+StringSet acts as a caretaker for memento String, which adds String parameter of value, which clears, which includes String parameter of value, which rehashes, which tos String.
+StringSet acts as a caretaker for memento S, which adds String parameter of value, which clears, which includes String parameter of value, which rehashes, which tos String.

@@ -1,0 +1,1 @@
+ResourceLoader acts as an abstract product for FreeMarkerConfigurationFactory, which is inherited by DefaultResourceLoader.

@@ -1,0 +1,1 @@
+Colour acts as a caretaker for memento C, which tos String.

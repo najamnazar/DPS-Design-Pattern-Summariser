@@ -1,0 +1,2 @@
+FailOverLoadBalanceWithRedeliveryTest acts as a publisher for observer Service, which tests Failover With Redelivery, which creates Route Builder.
+FailOverLoadBalanceWithRedeliveryTest acts as a publisher for observer CamelContext, which tests Failover With Redelivery, which creates Route Builder.

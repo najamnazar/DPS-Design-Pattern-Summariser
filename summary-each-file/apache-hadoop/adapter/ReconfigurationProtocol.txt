@@ -1,0 +1,2 @@
+ReconfigurationProtocol acts as an adaptee for adapter DataNode, which adapts to ReconfigurableBase, DataNodeMXBean, which adapts to ReconfigurableBase, DataNodeMXBean, which adapts to ReconfigurableBase, DataNodeMXBean.
+ReconfigurationProtocol acts as an adaptee for adapter ReconfigurationProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator, which adapts to ProtocolMetaInterface, ProtocolTranslator, which adapts to ProtocolMetaInterface, ProtocolTranslator.

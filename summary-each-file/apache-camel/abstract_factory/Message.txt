@@ -1,0 +1,5 @@
+Message acts as an abstract product for Message, which is inherited by MockMessage, MockMessage, AttachmentMessage, AttachmentMessage, MessageSupport, MessageSupport.
+Message acts as an abstract factory for Exchange, Message, which is inherited by MessageSupport.
+Message acts as an abstract product for Message, which is inherited by MockMessage, MockMessage, MockMessage, MockMessage, AttachmentMessage, AttachmentMessage, AttachmentMessage, AttachmentMessage, MessageSupport, MessageSupport, MessageSupport, MessageSupport.
+Message acts as an abstract product for Message, which is inherited by MockMessage, AttachmentMessage, MessageSupport.
+Message acts as an abstract product for Message, which is inherited by MockMessage, MockMessage, MockMessage, AttachmentMessage, AttachmentMessage, AttachmentMessage, MessageSupport, MessageSupport, MessageSupport.

@@ -1,0 +1,2 @@
+SinglePrototypeInSpringContextTestBean acts as an observer.
+SinglePrototypeInSpringContextTestBean acts as a publisher for observer BeanSource.

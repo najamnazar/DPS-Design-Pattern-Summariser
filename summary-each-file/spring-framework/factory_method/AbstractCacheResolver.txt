@@ -1,0 +1,1 @@
+AbstractCacheResolver acts as a factory for JCacheManagerFactoryBean, which overrides.

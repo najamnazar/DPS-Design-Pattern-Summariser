@@ -1,0 +1,3 @@
+FsVolumeSpi acts as an abstract factory for FsVolumeSpi, which is inherited by ExternalVolumeImpl, FsVolumeImpl.
+FsVolumeSpi acts as an abstract product for FsVolumeSpi, which is inherited by ExternalVolumeImpl, ExternalVolumeImpl, FsVolumeImpl, FsVolumeImpl.
+FsVolumeSpi acts as an abstract product for FsVolumeSpi, which is inherited by ExternalVolumeImpl, FsVolumeImpl.

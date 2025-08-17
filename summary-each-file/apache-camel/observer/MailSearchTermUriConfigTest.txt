@@ -1,0 +1,5 @@
+MailSearchTermUriConfigTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Search Term, which prepares Mailbox, which creates Route Builder.
+MailSearchTermUriConfigTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Search Term, which prepares Mailbox, which creates Route Builder.
+MailSearchTermUriConfigTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Search Term, which prepares Mailbox, which creates Route Builder.
+MailSearchTermUriConfigTest acts as a publisher for observer Service, which sets Up, which tests Search Term, which prepares Mailbox, which creates Route Builder.
+MailSearchTermUriConfigTest acts as a publisher for observer CamelContext, which sets Up, which tests Search Term, which prepares Mailbox, which creates Route Builder.

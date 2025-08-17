@@ -1,0 +1,1 @@
+AsyncCallback acts as an abstract product for AsyncCallback, which is inherited by AsyncCallbackToCompletableFutureAdapter, CamelInternalTask, EmptyAsyncCallback, EventNotifierCallback.

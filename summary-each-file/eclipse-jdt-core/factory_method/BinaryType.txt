@@ -1,0 +1,3 @@
+BinaryType acts as a factory for BinaryType, which overrides.
+BinaryType acts as a factory for CreateTypeHierarchyOperation, which overrides.
+BinaryType acts as a factory method for IJavadocContents, which is inherited by BinaryType.

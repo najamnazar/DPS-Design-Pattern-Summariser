@@ -1,0 +1,1 @@
+JdbcPrepareStatementStrategy acts as an adaptee for adapter JdbcEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

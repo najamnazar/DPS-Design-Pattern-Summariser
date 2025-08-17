@@ -1,0 +1,3 @@
+Route acts as an abstract product for Route, which is inherited by DefaultRoute.
+Route acts as an abstract product for Route, which is inherited by DefaultRoute, DefaultRoute.
+Route acts as an abstract factory for CamelContext, ManagementInterceptStrategy, Processor, Endpoint, Consumer, RouteError, Resource, NamedNode, ErrorHandlerFactory, RouteController, which is inherited by DefaultRoute.

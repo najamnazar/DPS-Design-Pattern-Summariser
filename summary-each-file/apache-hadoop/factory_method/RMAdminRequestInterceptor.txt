@@ -1,0 +1,2 @@
+RMAdminRequestInterceptor acts as an abstract product for RouterRMAdminService, which is inherited by AbstractRMAdminRequestInterceptor.
+RMAdminRequestInterceptor acts as a factory for RouterRMAdminService, which overrides.

@@ -1,0 +1,1 @@
+HandlerStrategies acts as an abstract factory for LocaleContextResolver, which is inherited by.

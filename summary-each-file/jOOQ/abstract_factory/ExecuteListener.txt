@@ -1,0 +1,2 @@
+ExecuteListener acts as an abstract product for ExecuteListener, which is inherited by CallbackExecuteListener, DefaultExecuteListener, StopWatchListener, ExceptionTranslator, FetchServerOutputListener, ExecuteListeners, LoggerListener.
+ExecuteListener acts as an abstract factory for, which is inherited by CallbackExecuteListener, DefaultExecuteListener, StopWatchListener, ExceptionTranslator, FetchServerOutputListener, ExecuteListeners, LoggerListener.

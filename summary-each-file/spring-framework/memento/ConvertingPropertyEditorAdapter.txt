@@ -1,0 +1,1 @@
+ConvertingPropertyEditorAdapter acts as a caretaker for memento C, which sets @Nullable parameter of String As Text, which gets As Text.

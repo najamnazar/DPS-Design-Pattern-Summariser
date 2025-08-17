@@ -1,0 +1,1 @@
+State acts as an abstract product for State, which is inherited by WordList.

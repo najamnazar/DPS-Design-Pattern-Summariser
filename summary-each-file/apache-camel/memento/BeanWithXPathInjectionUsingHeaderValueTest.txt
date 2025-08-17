@@ -1,0 +1,2 @@
+BeanWithXPathInjectionUsingHeaderValueTest acts as a caretaker for memento Context, which tests Constant XPath Headers, which creates Registry, which handlers @XPath("//response/text()") parameter of String, @XPath(headerName parameter of =, @XPath(headerName parameter of =.
+BeanWithXPathInjectionUsingHeaderValueTest acts as a caretaker for memento Producer, which tests Constant XPath Headers, which creates Registry, which handlers @XPath("//response/text()") parameter of String, @XPath(headerName parameter of =, @XPath(headerName parameter of =.

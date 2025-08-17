@@ -1,0 +1,1 @@
+CassandraLocalContainerService acts as an adaptee for adapter BaseCassandra, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,2 @@
+SpringInterceptFromWithStopTest acts as a publisher for observer CamelContext, which tests Set Interceptor With Stop, which creates Camel Context.
+SpringInterceptFromWithStopTest acts as a publisher for observer Service, which tests Set Interceptor With Stop, which creates Camel Context.

@@ -1,0 +1,1 @@
+FakeTimer acts as an observer, which nows, which monotonices Now, which monotonices Now Nanos, which advances long parameter of advMillis, which advances long parameter of advNanos Nanos.

@@ -1,0 +1,2 @@
+RestOpenApiProducer acts as a memento, which is Singleton, which is Singleton, which is Singleton, which is Singleton.
+RestOpenApiProducer acts as a caretaker for memento Producer, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange Async, which gets Endpoint, which is Singleton.

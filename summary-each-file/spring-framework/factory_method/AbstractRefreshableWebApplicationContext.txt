@@ -1,0 +1,3 @@
+AbstractRefreshableWebApplicationContext acts as a factory for GenericWebApplicationContext, which overrides.
+AbstractRefreshableWebApplicationContext acts as a factory for HttpServletBean, which overrides.
+AbstractRefreshableWebApplicationContext acts as a product for UiApplicationContextUtils, which overrides getTheme method of ThemeSource.

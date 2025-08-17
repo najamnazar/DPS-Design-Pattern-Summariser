@@ -1,0 +1,2 @@
+MulticastSingleAggregateIssueTest acts as a caretaker for memento Context, which tests Multicast Single Aggregate Issue, which creates Route Builder, which adds int parameter of num One, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+MulticastSingleAggregateIssueTest acts as a caretaker for memento Producer, which tests Multicast Single Aggregate Issue, which creates Route Builder, which adds int parameter of num One, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

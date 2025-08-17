@@ -1,0 +1,1 @@
+KubernetesClusterView acts as a product for CamelPreemptiveClusterService, which overrides.

@@ -1,0 +1,1 @@
+HandshakeWebSocketService acts as a product for WebFluxConfigurer, which overrides.

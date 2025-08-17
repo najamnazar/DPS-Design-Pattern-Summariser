@@ -1,0 +1,2 @@
+ResourceResolverChain acts as an abstract factory for Resource, which is inherited by DefaultResourceResolverChain.
+ResourceResolverChain acts as an abstract product for ResourceResolverChain, which is inherited by DefaultResourceResolverChain.

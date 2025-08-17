@@ -1,0 +1,1 @@
+ReduceTaskAttemptInfo acts as an observer, which gets Reduce Runtime, which gets Shuffle Runtime, which gets Merge Runtime, which gets Runtime.

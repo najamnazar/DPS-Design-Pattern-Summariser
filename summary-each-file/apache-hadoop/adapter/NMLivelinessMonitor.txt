@@ -1,0 +1,2 @@
+NMLivelinessMonitor acts as an adaptee for adapter ResourceTrackerService, which adapts to AbstractService, which adapts to AbstractService.
+NMLivelinessMonitor acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable.

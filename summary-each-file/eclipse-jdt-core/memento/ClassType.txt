@@ -1,0 +1,2 @@
+ClassType acts as a memento, which gets Superclass, which gets Superclass.
+ClassType acts as a memento, which is inherited by EnumType, ClassDeclarationImpl, which gets Superclass, which gets Superclass.

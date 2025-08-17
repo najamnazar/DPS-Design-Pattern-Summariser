@@ -1,0 +1,1 @@
+StandardTypeConverter acts as a caretaker for memento C, which cans @Nullable parameter of TypeDescriptor, TypeDescriptor parameter of targetType Convert, which converts @Nullable parameter of Object, @Nullable parameter of TypeDescriptor, TypeDescriptor parameter of targetType Value.

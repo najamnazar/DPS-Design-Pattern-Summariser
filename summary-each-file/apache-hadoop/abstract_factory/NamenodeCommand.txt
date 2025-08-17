@@ -1,0 +1,1 @@
+NamenodeCommand acts as an abstract product for NamenodeCommand, which is inherited by CheckpointCommand.

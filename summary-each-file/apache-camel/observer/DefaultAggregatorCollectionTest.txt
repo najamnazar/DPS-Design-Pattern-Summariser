@@ -1,0 +1,2 @@
+DefaultAggregatorCollectionTest acts as a publisher for observer Service, which tests Default Aggregate Collection, which creates Route Builder.
+DefaultAggregatorCollectionTest acts as a publisher for observer CamelContext, which tests Default Aggregate Collection, which creates Route Builder.

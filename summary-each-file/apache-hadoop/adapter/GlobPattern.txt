@@ -1,0 +1,1 @@
+GlobPattern acts as an adaptee for adapter Name, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression, which adapts to BaseExpression.

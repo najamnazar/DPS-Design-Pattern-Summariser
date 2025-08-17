@@ -1,0 +1,1 @@
+ApplicationHistoryManager acts as an abstract factory for ApplicationReport, ApplicationAttemptReport, ContainerReport, which is inherited by ApplicationHistoryManagerImpl, ApplicationHistoryManagerOnTimelineStore.

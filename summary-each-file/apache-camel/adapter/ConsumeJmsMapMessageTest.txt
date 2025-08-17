@@ -1,0 +1,1 @@
+ConsumeJmsMapMessageTest acts as an adapter, which adapts to AbstractJMSTest, which adapts assertCorrectMapReceived method of MockEndpoint, assertCorrectMapReceived method of MockEndpoint to AbstractJMSTest, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest, which adapts to AbstractJMSTest.

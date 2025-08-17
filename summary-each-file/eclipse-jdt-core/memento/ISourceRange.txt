@@ -1,0 +1,1 @@
+ISourceRange acts as a memento, which is inherited by SourceRange, which gets Offset, which gets Offset.

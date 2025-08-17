@@ -1,0 +1,1 @@
+TestJobHistoryEventHandler acts as a factory method for AppContext, which is inherited by RMCommunicator, MRAppMaster, MRAppMaster, RMCommunicator.

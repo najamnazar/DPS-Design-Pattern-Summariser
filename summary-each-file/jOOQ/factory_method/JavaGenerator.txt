@@ -1,0 +1,3 @@
+JavaGenerator acts as a factory for GeneratorStrategy, which overrides.
+JavaGenerator acts as a factory for JavaGenerator, which overrides resolve method of JavaGenerator, classLiteral method of JavaGenerator, constructorCall method of JavaGenerator, ref method of JavaGenerator, ref method of JavaGenerator.
+JavaGenerator acts as a factory method for JavaTypeResolver, which is inherited by JavaGenerator, JavaGenerator.

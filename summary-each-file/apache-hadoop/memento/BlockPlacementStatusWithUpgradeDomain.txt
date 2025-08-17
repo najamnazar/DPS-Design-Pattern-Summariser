@@ -1,0 +1,2 @@
+BlockPlacementStatusWithUpgradeDomain acts as a caretaker for memento BlockPlacementStatus, which is Placement Policy Satisfied, which is Upgrade Domain Policy Satisfied, which gets Error Description, which gets Additional Replicas Required.
+BlockPlacementStatusWithUpgradeDomain acts as a memento, which gets Additional Replicas Required, which gets Additional Replicas Required, which gets Additional Replicas Required, which gets Additional Replicas Required.

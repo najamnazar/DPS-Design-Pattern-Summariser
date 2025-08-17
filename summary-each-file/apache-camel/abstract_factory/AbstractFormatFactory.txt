@@ -1,0 +1,1 @@
+AbstractFormatFactory acts as a product for FactoryRegistry, which overrides supportedClasses method of FormatFactoryInterface, canBuild method of FormatFactoryInterface.

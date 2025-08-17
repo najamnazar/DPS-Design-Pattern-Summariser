@@ -1,0 +1,2 @@
+CreateIndexStep acts as a factory for CreateIndexStep, which overrides.
+CreateIndexStep acts as a factory method for CreateIndexIncludeStep, which is inherited by CreateIndexStep.

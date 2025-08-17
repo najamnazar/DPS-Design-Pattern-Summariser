@@ -1,0 +1,2 @@
+ExpressionFactory acts as an abstract product for ExpressionFactory, which is inherited by ExpressionDefinition.
+ExpressionFactory acts as an abstract factory for Expression, which is inherited by ExpressionDefinition.

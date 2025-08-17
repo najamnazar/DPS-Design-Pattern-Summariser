@@ -1,0 +1,6 @@
+DefaultManagementLifecycleStrategy acts as a publisher for observer Service.
+DefaultManagementLifecycleStrategy acts as a publisher for observer Route.
+DefaultManagementLifecycleStrategy acts as a publisher for observer Processor.
+DefaultManagementLifecycleStrategy acts as a publisher for observer Endpoint.
+DefaultManagementLifecycleStrategy acts as a publisher for observer CamelContext.
+DefaultManagementLifecycleStrategy acts as a publisher for observer Component.

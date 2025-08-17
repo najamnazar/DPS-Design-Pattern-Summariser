@@ -1,0 +1,1 @@
+BeanRepository acts as an abstract product for LocalBeanRepositoryAware, which is inherited by AbstractReifier, JndiBeanRepository, ApplicationContextBeanRepository.

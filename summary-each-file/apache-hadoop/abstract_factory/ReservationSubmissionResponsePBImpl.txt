@@ -1,0 +1,1 @@
+ReservationSubmissionResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides.

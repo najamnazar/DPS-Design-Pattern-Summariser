@@ -1,0 +1,1 @@
+SaveNamespaceContext acts as an observer for publisher FSImage, BackupImage, which is inherited by, which gets Source Namesystem, which gets Tx Id, which reports StorageDirectory parameter of sd Error On Storage Directory, which gets Error SDs, which marks Complete, which checks Cancelled.

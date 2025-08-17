@@ -1,0 +1,1 @@
+SpringRouteNoFromTest acts as a caretaker for memento Context, which sets Up, which tests Route No From, which creates Application Context.

@@ -1,0 +1,1 @@
+ResumeAction acts as an observer for publisher ResumeActionAwareAdapter, which is inherited by, which evals Object parameter of key, Object parameter of value Entry.

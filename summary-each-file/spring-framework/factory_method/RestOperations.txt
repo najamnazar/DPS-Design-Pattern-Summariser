@@ -1,0 +1,1 @@
+RestOperations acts as an abstract product for AsyncRestOperations, which is inherited by RestTemplate.

@@ -1,0 +1,1 @@
+AHSClient acts as an adaptee for adapter YarnClientImpl, which adapts to YarnClient, which adapts to YarnClient, which adapts to YarnClient, which adapts to YarnClient, which adapts to YarnClient, which adapts to YarnClient, which adapts to YarnClient, which adapts to YarnClient.

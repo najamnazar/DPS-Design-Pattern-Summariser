@@ -1,0 +1,3 @@
+MethodDeclarationMatch acts as a publisher for observer Object.
+MethodDeclarationMatch acts as a publisher for observer SearchParticipant.
+MethodDeclarationMatch acts as an observer.

@@ -1,0 +1,2 @@
+BeanReference acts as an adaptee for adapter AdvisorComponentDefinition, which adapts to AbstractComponentDefinition.
+BeanReference acts as an adaptee for adapter BeanComponentDefinition, which adapts to BeanDefinitionHolder.

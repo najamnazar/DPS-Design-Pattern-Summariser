@@ -1,0 +1,1 @@
+RestParamType acts as an observer for publisher ParamDefinition, which is inherited by.

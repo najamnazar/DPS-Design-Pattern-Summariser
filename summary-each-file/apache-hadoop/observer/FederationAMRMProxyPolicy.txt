@@ -1,0 +1,1 @@
+FederationAMRMProxyPolicy acts as an observer, which splits List<ResourceRequest> parameter of resourceRequests, Set<SubClusterId> parameter of timedOutSubClusters Resource Requests, which notifies SubClusterId parameter of subClusterId, AllocateResponse parameter of response Of Response.

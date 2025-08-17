@@ -1,0 +1,4 @@
+TestDecommissionWithStripedBackoffMonitor acts as a publisher for observer Configuration, which creates Configuration.
+TestDecommissionWithStripedBackoffMonitor acts as a publisher for observer FileSystem, which creates Configuration.
+TestDecommissionWithStripedBackoffMonitor acts as a publisher for observer DistributedFileSystem, which creates Configuration.
+TestDecommissionWithStripedBackoffMonitor acts as a publisher for observer Path, which creates Configuration.

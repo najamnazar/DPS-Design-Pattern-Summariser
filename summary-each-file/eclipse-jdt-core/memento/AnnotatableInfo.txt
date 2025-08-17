@@ -1,0 +1,1 @@
+AnnotatableInfo acts as a caretaker for memento IAnnotation, which is inherited by, which gets Name Source End, which gets Name Source Start, which sets int parameter of end Name Source End, which sets int parameter of start Name Source Start, which gets Name Range.

@@ -1,0 +1,2 @@
+MSPTest acts as an observer, which gets Msp Field, which sets MSPEnum[] parameter of mspField Msp Field, which values, which froms String parameter of value Value.
+MSPTest acts as a publisher for observer Attributes, which gets Msp Field, which sets MSPEnum[] parameter of mspField Msp Field, which values, which froms String parameter of value Value.

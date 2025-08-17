@@ -1,0 +1,1 @@
+Attachment acts as an abstract product for Attachment, which is inherited by DefaultAttachment.

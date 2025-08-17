@@ -1,0 +1,2 @@
+FullyQualifiedAnnotationBeanNameGenerator acts as an adapter, which adapts to AnnotationBeanNameGenerator.
+FullyQualifiedAnnotationBeanNameGenerator acts as an adaptee for adapter FullyQualifiedAnnotationBeanNameGenerator, which adapts to AnnotationBeanNameGenerator.

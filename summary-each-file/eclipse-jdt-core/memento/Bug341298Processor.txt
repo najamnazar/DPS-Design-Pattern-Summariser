@@ -1,0 +1,1 @@
+Bug341298Processor acts as a caretaker for memento E, which processes Set<? parameter of extends, RoundEnvironment parameter of rndEnv, which writes Source File, which compiles JavaFileObject parameter of sourceFile, Map<String, parameter of String>, which gets Supported Source Version, which successes.

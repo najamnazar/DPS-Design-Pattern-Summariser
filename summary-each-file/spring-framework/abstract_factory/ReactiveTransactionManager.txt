@@ -1,0 +1,1 @@
+ReactiveTransactionManager acts as a product for TransactionManagementConfigurer, which overrides.

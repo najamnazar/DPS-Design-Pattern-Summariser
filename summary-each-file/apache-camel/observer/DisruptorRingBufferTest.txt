@@ -1,0 +1,5 @@
+DisruptorRingBufferTest acts as a publisher for observer CamelContext, which tests Queue, which creates Route Builder.
+DisruptorRingBufferTest acts as a publisher for observer Service, which tests Queue, which creates Route Builder.
+DisruptorRingBufferTest acts as a publisher for observer ConsumerTemplate, which tests Queue, which creates Route Builder.
+DisruptorRingBufferTest acts as a publisher for observer ProducerTemplate, which tests Queue, which creates Route Builder.
+DisruptorRingBufferTest acts as a publisher for observer FluentProducerTemplate, which tests Queue, which creates Route Builder.

@@ -1,0 +1,1 @@
+JndiObjectLocator acts as a caretaker for memento C, which is inherited by, which sets @Nullable parameter of String Jndi Name, which gets Jndi Name, which sets @Nullable parameter of Class<?> Expected Type, which gets Expected Type, which afters Properties Set, which lookups.

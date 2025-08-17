@@ -1,0 +1,2 @@
+BatchCompilerTest_22 acts as a caretaker for memento String, which suites, which tests Class, which tests Issue3055, which tests Issue3055_2.
+BatchCompilerTest_22 acts as a caretaker for memento S, which suites, which tests Class, which tests Issue3055, which tests Issue3055_2.

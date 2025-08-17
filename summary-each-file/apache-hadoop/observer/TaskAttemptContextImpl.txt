@@ -1,0 +1,1 @@
+TaskAttemptContextImpl acts as an observer, which gets Task Attempt ID, which gets Progressible, which gets Job Conf, which gets Progress, which gets Enum<?> parameter of counterName Counter, which gets String parameter of groupName, String parameter of counterName Counter, which progresses, which sets String parameter of status Status.

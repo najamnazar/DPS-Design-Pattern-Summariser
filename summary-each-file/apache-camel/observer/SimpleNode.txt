@@ -1,0 +1,1 @@
+SimpleNode acts as an observer for publisher UnaryExpression, which is inherited by LiteralNode, BaseSimpleNode, which gets Token, which creates CamelContext parameter of camelContext, String parameter of expression Expression, which creates String parameter of expression Code.

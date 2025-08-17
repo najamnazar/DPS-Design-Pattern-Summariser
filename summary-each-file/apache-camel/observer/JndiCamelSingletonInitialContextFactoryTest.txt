@@ -1,0 +1,2 @@
+JndiCamelSingletonInitialContextFactoryTest acts as a publisher for observer Service, which sets Up, which creates Registry, which tests Singleton Jndi Context, which creates Route Builder.
+JndiCamelSingletonInitialContextFactoryTest acts as a publisher for observer CamelContext, which sets Up, which creates Registry, which tests Singleton Jndi Context, which creates Route Builder.

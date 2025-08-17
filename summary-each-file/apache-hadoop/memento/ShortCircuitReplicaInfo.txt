@@ -1,0 +1,1 @@
+ShortCircuitReplicaInfo acts as a caretaker for memento Replica, which gets Replica, which gets Invalid Token Exception, which tos String.

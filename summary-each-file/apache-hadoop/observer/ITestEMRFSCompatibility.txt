@@ -1,0 +1,1 @@
+ITestEMRFSCompatibility acts as a publisher for observer AuditSpanSource, which tests File System Operation With S3NFolder Marker.

@@ -1,0 +1,1 @@
+WebSocketHandlerDecorator acts as a decorator for component WebSocketHandler, which is inherited by MessageBrokerBeanDefinitionParserTests, LoggingWebSocketHandlerDecorator, ExceptionWebSocketHandlerDecorator.

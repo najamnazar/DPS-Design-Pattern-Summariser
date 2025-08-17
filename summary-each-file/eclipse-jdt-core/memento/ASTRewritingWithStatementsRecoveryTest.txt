@@ -1,0 +1,3 @@
+ASTRewritingWithStatementsRecoveryTest acts as a caretaker for memento String, which suites, which tests Bug272711_01_since_3, which tests Bug272711_02_since_3, which tests Bug272711_03_since_3.
+ASTRewritingWithStatementsRecoveryTest acts as a caretaker for memento S, which suites, which tests Bug272711_01_since_3, which tests Bug272711_02_since_3, which tests Bug272711_03_since_3.
+ASTRewritingWithStatementsRecoveryTest acts as a caretaker for memento R, which suites, which tests Bug272711_01_since_3, which tests Bug272711_02_since_3, which tests Bug272711_03_since_3.

@@ -1,0 +1,2 @@
+IMemberValuePair acts as an adaptee for adapter LocalVariable, which adapts to SourceRefElement, which adapts to SourceRefElement, which adapts to SourceRefElement.
+IMemberValuePair acts as an adaptee for adapter SourceAnnotationMethodInfo, which adapts to SourceMethodInfo, which adapts to SourceMethodInfo, which adapts to SourceMethodInfo.

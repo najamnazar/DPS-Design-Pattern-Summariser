@@ -1,0 +1,5 @@
+PropertiesTest acts as a publisher for observer ConsumerTemplate, which tests Properties Builtin, which creates Route Builder.
+PropertiesTest acts as a publisher for observer FluentProducerTemplate, which tests Properties Builtin, which creates Route Builder.
+PropertiesTest acts as a publisher for observer Service, which tests Properties Builtin, which creates Route Builder.
+PropertiesTest acts as a publisher for observer ProducerTemplate, which tests Properties Builtin, which creates Route Builder.
+PropertiesTest acts as a publisher for observer CamelContext, which tests Properties Builtin, which creates Route Builder.

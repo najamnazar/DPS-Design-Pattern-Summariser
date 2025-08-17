@@ -1,0 +1,1 @@
+DiskValidator acts as an adaptee for adapter ResourceLocalizationService, which adapts to LocalizationProtocol, CompositeService.

@@ -1,0 +1,2 @@
+UpdatedMethodBinding acts as a publisher for observer TypeBinding, which constants Pool Declaring Class.
+UpdatedMethodBinding acts as an observer, which constants Pool Declaring Class.

@@ -1,0 +1,2 @@
+Sqs2ClientStandardImpl acts as a caretaker for memento Configuration, which gets SQSClient, which is Default Aws Host, which gets Aws Endpoint Uri, which gets Fully Qualified AWSHost.
+Sqs2ClientStandardImpl acts as a memento, which gets Fully Qualified AWSHost, which gets Fully Qualified AWSHost, which gets Fully Qualified AWSHost, which gets Fully Qualified AWSHost.

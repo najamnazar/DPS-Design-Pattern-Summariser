@@ -1,0 +1,2 @@
+MethodNotFoundExceptionSimplifiedTest acts as a publisher for observer CamelContext, which is Empty, which is Empty, which creates Route Builder, which tests Method Not Found.
+MethodNotFoundExceptionSimplifiedTest acts as a publisher for observer Service, which is Empty, which is Empty, which creates Route Builder, which tests Method Not Found.

@@ -1,0 +1,2 @@
+AsteriskComponent acts as a caretaker for memento Context, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint.
+AsteriskComponent acts as a caretaker for memento Component, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint.

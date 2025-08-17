@@ -1,0 +1,3 @@
+DeclareParentsAdvisor acts as a caretaker for memento C, which gets Class Filter, which validates Interfaces, which is Per Instance, which gets Advice, which gets Interfaces.
+DeclareParentsAdvisor acts as a caretaker for memento Advice, which gets Class Filter, which validates Interfaces, which is Per Instance, which gets Advice, which gets Interfaces.
+DeclareParentsAdvisor acts as a caretaker for memento A, which gets Class Filter, which validates Interfaces, which is Per Instance, which gets Advice, which gets Interfaces.

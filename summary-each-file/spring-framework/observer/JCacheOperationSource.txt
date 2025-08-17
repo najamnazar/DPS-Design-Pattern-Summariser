@@ -1,0 +1,1 @@
+JCacheOperationSource acts as an observer for publisher BeanFactoryJCacheOperationSourceAdvisor, which is inherited by AbstractFallbackJCacheOperationSource, which gets Method parameter of method, @Nullable parameter of Class<?> Cache Operation.

@@ -1,0 +1,1 @@
+WritableComparable acts as a memento, which is inherited by UserCommandKey, ExternalWritable, Record, IncomparableKey.

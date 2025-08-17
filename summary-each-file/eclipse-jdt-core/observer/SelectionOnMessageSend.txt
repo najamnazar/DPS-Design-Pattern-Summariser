@@ -1,0 +1,2 @@
+SelectionOnMessageSend acts as a publisher for observer TypeBinding, which finds MethodBinding parameter of methodBinding Non Default Abstract Method, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.
+SelectionOnMessageSend acts as an observer, which finds MethodBinding parameter of methodBinding Non Default Abstract Method, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

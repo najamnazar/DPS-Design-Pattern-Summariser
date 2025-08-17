@@ -1,0 +1,1 @@
+CLICommand acts as an originator for memento CLICommandTypes, which is inherited by, which gets a CLICommandTypes Type to.

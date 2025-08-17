@@ -1,0 +1,2 @@
+WebHandlerDecorator acts as a target for adapter FilteringWebHandler, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator.
+WebHandlerDecorator acts as a target for adapter HttpWebHandlerAdapter, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator.

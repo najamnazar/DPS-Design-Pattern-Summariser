@@ -1,0 +1,2 @@
+TaskAttemptListener acts as an adaptee for adapter TaskAttemptListenerImpl, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+TaskAttemptListener acts as an adaptee for adapter MRAppMaster, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

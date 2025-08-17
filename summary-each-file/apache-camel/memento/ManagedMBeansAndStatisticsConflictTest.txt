@@ -1,0 +1,1 @@
+ManagedMBeansAndStatisticsConflictTest acts as a caretaker for memento ManagementMBeansLevel, which creates Camel Context, which asserts Set<ObjectName> parameter of contexts, Set<ObjectName> parameter of routes, Set<ObjectName> parameter of processors Results.

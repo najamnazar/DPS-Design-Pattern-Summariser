@@ -1,0 +1,1 @@
+PTBKeyHashCalculationTest acts as a publisher for observer String, which suites, which sets Up, which tears Down, which tests Hash Calculation.

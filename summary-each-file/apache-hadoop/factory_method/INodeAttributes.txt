@@ -1,0 +1,1 @@
+INodeAttributes acts as an abstract product for INode, which is inherited by INode.

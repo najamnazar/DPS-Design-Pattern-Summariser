@@ -1,0 +1,1 @@
+TestNodeStatusUpdater acts as a factory method for ResourceTracker, which is inherited by NodeManagerTestBase, NodeStatusUpdaterImpl, NodeManagerTestBase.

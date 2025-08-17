@@ -1,0 +1,1 @@
+FinishApplicationMasterResponsePBImpl acts as a product for ApplicationMasterProtocol, which overrides getIsUnregistered method of FinishApplicationMasterResponse, setIsUnregistered method of FinishApplicationMasterResponse.

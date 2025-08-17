@@ -1,0 +1,3 @@
+RecordFactory acts as an observer, which nexts GridmixKey parameter of key, GridmixRecord parameter of val, which gets Progress.
+RecordFactory acts as a publisher for observer GridmixKey, which is inherited by IntermediateRecordFactory, which nexts GridmixKey parameter of key, GridmixRecord parameter of val, which gets Progress.
+RecordFactory acts as an observer for publisher BuilderUtils, which is inherited by AvgRecordFactory, ReadRecordFactory, RecordFactoryPBImpl, IntermediateRecordFactory, which nexts GridmixKey parameter of key, GridmixRecord parameter of val, which gets Progress.

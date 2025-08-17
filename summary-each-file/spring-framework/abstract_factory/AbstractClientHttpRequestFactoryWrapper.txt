@@ -1,0 +1,1 @@
+AbstractClientHttpRequestFactoryWrapper acts as a factory for ClientHttpRequestFactory, which overrides createRequest method of ClientHttpRequestFactory.

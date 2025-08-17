@@ -1,0 +1,3 @@
+AbstractGitHubConsumer acts as a publisher for observer PollingConsumerPollStrategy, which inits GitHubService parameter of service Service, which gets Repository Service, which gets Repository, which polls.
+AbstractGitHubConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which inits GitHubService parameter of service Service, which gets Repository Service, which gets Repository, which polls.
+AbstractGitHubConsumer acts as a publisher for observer LoggingLevel, which inits GitHubService parameter of service Service, which gets Repository Service, which gets Repository, which polls.

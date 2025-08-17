@@ -1,0 +1,1 @@
+CGroupsHandler acts as an abstract product for DefaultOOMHandler, which is inherited by AbstractCGroupsHandler.

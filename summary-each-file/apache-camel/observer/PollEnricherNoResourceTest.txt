@@ -1,0 +1,2 @@
+PollEnricherNoResourceTest acts as a publisher for observer CamelContext, which tests No Resource A, which tests Resource A, which tests Resource B, which creates Route Builder.
+PollEnricherNoResourceTest acts as a publisher for observer Service, which tests No Resource A, which tests Resource A, which tests Resource B, which creates Route Builder.

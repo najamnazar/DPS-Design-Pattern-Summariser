@@ -1,0 +1,2 @@
+HazelcastSedaTransferExchangeTest acts as a caretaker for memento Producer, which befores All, which afters Each, which afters All, which tests Exchange Transfer Enabled, which tests Exchange Transfer Disabled, which creates Camel Context, which creates Route Builder.
+HazelcastSedaTransferExchangeTest acts as a caretaker for memento Context, which befores All, which afters Each, which afters All, which tests Exchange Transfer Enabled, which tests Exchange Transfer Disabled, which creates Camel Context, which creates Route Builder.

@@ -1,0 +1,2 @@
+DefaultMetaProvider acts as a publisher for observer Configuration, which is inherited by, which provides, which metas Configuration parameter of configuration.
+DefaultMetaProvider acts as an observer, which provides, which metas Configuration parameter of configuration.

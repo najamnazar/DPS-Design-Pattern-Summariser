@@ -1,0 +1,1 @@
+RandomLoadBalancerDefinition acts as an observer, which tos String.

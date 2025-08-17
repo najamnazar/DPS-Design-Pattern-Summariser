@@ -1,0 +1,2 @@
+InformationSchemaMetaProvider acts as a caretaker for memento C, which provides.
+InformationSchemaMetaProvider acts as a caretaker for memento Configuration, which provides.

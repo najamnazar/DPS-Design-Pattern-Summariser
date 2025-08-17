@@ -1,0 +1,1 @@
+NoTransactionProvider acts as an observer, which begins TransactionContext parameter of ctx, which commits TransactionContext parameter of ctx, which rollbacks TransactionContext parameter of ctx.

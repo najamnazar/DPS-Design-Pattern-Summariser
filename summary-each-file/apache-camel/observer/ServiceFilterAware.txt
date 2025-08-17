@@ -1,0 +1,1 @@
+ServiceFilterAware acts as a publisher for observer ServiceFilter, which is inherited by DefaultServiceLoadBalancer, which sets ServiceFilter parameter of serviceFilter Service Filter, which gets Service Filter.

@@ -1,0 +1,1 @@
+OperationDuration acts as an originator for memento Duration, which is inherited by, which ases a Duration Duration to.

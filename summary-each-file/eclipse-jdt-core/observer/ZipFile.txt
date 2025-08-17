@@ -1,0 +1,1 @@
+ZipFile acts as an observer for publisher ClasspathLocation, ClasspathJsr199, ClasspathSourceDirectory, ClasspathDirectory, ClasspathJrt, ClasspathJar, which is inherited by, which gets String parameter of s Entry, which gets ZipEntry parameter of zipEntry Input Stream.

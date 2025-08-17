@@ -1,0 +1,1 @@
+CxfRsSpringEndpoint acts as an adapter, which adapts to CxfRsEndpoint, which adapts to CxfRsEndpoint, which adapts to CxfRsEndpoint, which adapts to CxfRsEndpoint, which adapts to CxfRsEndpoint, which adapts to CxfRsEndpoint, which adapts newInstanceWithCommonProperties method of BeanIdAware to CxfRsEndpoint.

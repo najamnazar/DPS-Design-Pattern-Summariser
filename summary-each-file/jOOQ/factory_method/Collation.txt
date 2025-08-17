@@ -1,0 +1,1 @@
+Collation acts as an abstract product for ConvertedDataType, which is inherited by CollationImpl.

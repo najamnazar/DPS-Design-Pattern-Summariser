@@ -1,0 +1,1 @@
+BaseAnnotationProcessorManager acts as a factory for IProcessorProvider, which overrides getDiscoveredProcessors method of IProcessorProvider, getCompilationProgress method of IProcessorProvider.

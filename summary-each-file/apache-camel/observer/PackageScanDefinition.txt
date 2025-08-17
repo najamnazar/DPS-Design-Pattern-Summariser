@@ -1,0 +1,1 @@
+PackageScanDefinition acts as an observer for publisher CamelContextFactoryBean, which is inherited by, which gets Excludes, which gets Includes, which gets Packages, which sets List<String> parameter of packages Packages, which sets List<String> parameter of excludes Excludes, which sets List<String> parameter of includes Includes, which clears.

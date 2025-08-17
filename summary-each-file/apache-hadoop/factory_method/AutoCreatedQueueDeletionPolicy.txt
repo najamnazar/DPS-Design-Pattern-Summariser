@@ -1,0 +1,1 @@
+AutoCreatedQueueDeletionPolicy acts as a product for CapacitySchedulerPreemptionTestBase, which overrides editSchedule method of SchedulingEditPolicy, getMonitoringInterval method of SchedulingEditPolicy, getPolicyName method of SchedulingEditPolicy.

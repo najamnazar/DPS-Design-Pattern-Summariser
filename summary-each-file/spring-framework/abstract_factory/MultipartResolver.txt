@@ -1,0 +1,1 @@
+MultipartResolver acts as an abstract factory for MultipartHttpServletRequest, which is inherited by StandardServletMultipartResolver.

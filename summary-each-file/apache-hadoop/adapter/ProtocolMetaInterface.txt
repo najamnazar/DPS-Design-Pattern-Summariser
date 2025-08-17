@@ -1,0 +1,28 @@
+ProtocolMetaInterface acts as a target for adapter DatanodeProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter RefreshCallQueueProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter RefreshAuthorizationPolicyProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter RouterAdminProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolMetaInterface acts as a target for adapter GetUserMappingsProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter ClientDatanodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolMetaInterface acts as a target for adapter HSAdminRefreshProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter QJournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter ReconfigurationProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolMetaInterface acts as a target for adapter NamenodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter JournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface, JournalProtocol.
+ProtocolMetaInterface acts as an adaptee for adapter ClientNamenodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator.
+ProtocolMetaInterface acts as a target for adapter RefreshUserMappingsProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter GetUserMappingsProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface, GetUserMappingsProtocol.
+ProtocolMetaInterface acts as a target for adapter JournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter ReconfigurationProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter QJournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface, QJournalProtocol.
+ProtocolMetaInterface acts as a target for adapter InterDatanodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter RouterAdminProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter ClientNamenodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter DatanodeProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface, DatanodeProtocol.
+ProtocolMetaInterface acts as a target for adapter DatanodeLifelineProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter RefreshUserMappingsProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface, RefreshUserMappingsProtocol.
+ProtocolMetaInterface acts as a target for adapter ClientDatanodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter NamenodeProtocolTranslatorPB, which adapts to ProtocolMetaInterface, ProtocolTranslator, NamenodeProtocol.
+ProtocolMetaInterface acts as a target for adapter GenericRefreshProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as a target for adapter InterQJournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface.
+ProtocolMetaInterface acts as an adaptee for adapter HSAdminRefreshProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface, HSAdminRefreshProtocol.

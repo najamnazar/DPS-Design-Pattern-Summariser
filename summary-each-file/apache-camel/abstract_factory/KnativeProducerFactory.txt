@@ -1,0 +1,1 @@
+KnativeProducerFactory acts as an abstract factory for Producer, which is inherited by KnativeTransportNoop, KnativeHttpProducerFactory.

@@ -1,0 +1,1 @@
+MultiNodeSorter acts as a publisher for observer Configuration, which gets Multi Node Lookup Policy, which services Configuration parameter of conf Init, which inits String parameter of policyName Policy, which services Start, which services Stop, which res Sort Cluster Nodes, which runs, which is Sorter Thread Running.

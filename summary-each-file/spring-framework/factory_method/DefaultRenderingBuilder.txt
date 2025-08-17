@@ -1,0 +1,1 @@
+DefaultRenderingBuilder acts as a factory method for Rendering, which is inherited by Rendering.

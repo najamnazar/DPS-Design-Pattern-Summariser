@@ -1,0 +1,1 @@
+NameMatchCacheOperationSource acts as a product for CacheOperationSourcePointcut, which overrides getCacheOperations method of CacheOperationSource.

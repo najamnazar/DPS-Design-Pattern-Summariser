@@ -1,0 +1,2 @@
+JavadocScanner acts as a caretaker for memento String, which scans For String Literal, which processes boolean parameter of checkIfUnicode Single Quotes, which scans For Single Quote String Literal, which scans Regex Character.
+JavadocScanner acts as a caretaker for memento S, which scans For String Literal, which processes boolean parameter of checkIfUnicode Single Quotes, which scans For Single Quote String Literal, which scans Regex Character.

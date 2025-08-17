@@ -1,0 +1,1 @@
+MockResourceCalculatorProcessTree acts as an observer, which updates Process Tree, which gets Process Tree Dump, which gets Cumulative Cpu Time, which checks Pid Pgrpid For Match, which sets long parameter of rssMemorySize Rss Memory Size, which gets Rss Memory Size, which gets Virtual Memory Size, which gets Cpu Usage Percent.

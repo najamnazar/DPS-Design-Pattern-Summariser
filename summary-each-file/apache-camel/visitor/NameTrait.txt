@@ -1,0 +1,2 @@
+NameTrait acts as a visitor for element ExtendedCamelContext, which overrides, which gets a Name to, which parses a Trait to.
+NameTrait acts as a visitor for element ModelineParser, which overrides, which gets a Name to, which parses a Trait to.

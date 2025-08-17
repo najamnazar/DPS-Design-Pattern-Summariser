@@ -1,0 +1,1 @@
+CustomLoadBalancerDefinition acts as an adapter, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts getCustomLoadBalancer method of LoadBalancer, getCustomLoadBalancer method of LoadBalancer to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition.

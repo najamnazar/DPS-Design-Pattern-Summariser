@@ -1,0 +1,5 @@
+EndpointUriFactoryTestSupport acts as a publisher for observer CamelContext, which builds Uri, which schemes, which pathes Parameters, which creates Route Builder.
+EndpointUriFactoryTestSupport acts as a publisher for observer ConsumerTemplate, which builds Uri, which schemes, which pathes Parameters, which creates Route Builder.
+EndpointUriFactoryTestSupport acts as a publisher for observer FluentProducerTemplate, which builds Uri, which schemes, which pathes Parameters, which creates Route Builder.
+EndpointUriFactoryTestSupport acts as a publisher for observer ProducerTemplate, which builds Uri, which schemes, which pathes Parameters, which creates Route Builder.
+EndpointUriFactoryTestSupport acts as a publisher for observer Service, which builds Uri, which schemes, which pathes Parameters, which creates Route Builder.

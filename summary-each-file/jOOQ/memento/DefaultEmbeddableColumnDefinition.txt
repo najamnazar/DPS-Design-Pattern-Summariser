@@ -1,0 +1,2 @@
+DefaultEmbeddableColumnDefinition acts as a caretaker for memento ColumnDefinition, which gets Position, which gets Referencing Column, which gets Referencing Column Position, which gets Type, which gets JavaTypeResolver parameter of resolver Type, which gets Defined Type, which tos String, which equals Object parameter of obj, which hashes Code.
+DefaultEmbeddableColumnDefinition acts as a memento, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code.

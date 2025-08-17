@@ -1,0 +1,2 @@
+Duration acts as an observer, which starts, which closes, which finishes, which nows, which gets Interval, which gets Limit Exceeded, which tos String.
+Duration acts as an observer for publisher S3AInstrumentation, which is inherited by, which starts, which closes, which finishes, which nows, which gets Interval, which gets Limit Exceeded, which tos String.

@@ -1,0 +1,1 @@
+ApplicationClientProtocol acts as an abstract product for TestYarnClient, which is inherited by MockResourceManagerFacade, RouterClientRMService, ApplicationClientProtocolPBClientImpl, ClientRMService.

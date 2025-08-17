@@ -1,0 +1,1 @@
+AnnotationMirror acts as an abstract factory for SourcePosition, AnnotationType, which is inherited by AnnotationMirrorImpl.

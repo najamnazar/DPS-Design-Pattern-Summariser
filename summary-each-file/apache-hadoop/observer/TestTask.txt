@@ -1,0 +1,1 @@
+TestTask acts as a publisher for observer TaskUmbilicalProtocol, which is inherited by, which setups, which tests Status Update Does Not Exit In Uber Mode, which tests Status Update Exits In Non Uber Mode, which setups boolean parameter of uberized Test, which runs JobConf parameter of job, TaskUmbilicalProtocol parameter of umbilical, which is Map Task.

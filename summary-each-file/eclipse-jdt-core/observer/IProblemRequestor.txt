@@ -1,0 +1,1 @@
+IProblemRequestor acts as an observer for publisher JavaModelManager, which is inherited by, which accepts IProblem parameter of problem Problem, which begins Reporting, which ends Reporting, which is Active.

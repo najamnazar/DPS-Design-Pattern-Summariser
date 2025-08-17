@@ -1,0 +1,2 @@
+SagaProcessor acts as a factory for SagaProcessor, which overrides.
+SagaProcessor acts as a factory method for CamelSagaService, which is inherited by SagaProcessor, SagaProcessor, BaseMainSupport, SagaProcessor, SagaProcessor, SagaProcessor, SagaProcessor, BaseMainSupport.

@@ -1,0 +1,2 @@
+SedaDefaultUnboundedQueueSizeTest acts as a publisher for observer CamelContext, which tests Seda Default Unbounded Queue Size, which tests Seda Default Bounded Queue Size.
+SedaDefaultUnboundedQueueSizeTest acts as a publisher for observer Service, which tests Seda Default Unbounded Queue Size, which tests Seda Default Bounded Queue Size.

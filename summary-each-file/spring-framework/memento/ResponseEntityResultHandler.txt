@@ -1,0 +1,1 @@
+ResponseEntityResultHandler acts as a caretaker for memento Message, which supports HandlerResult parameter of result, which resolves HandlerResult parameter of result Return Value Type, which is @Nullable parameter of Class<?> Supported Type, which handles ServerWebExchange parameter of exchange, HandlerResult parameter of result Result.

@@ -1,0 +1,1 @@
+CommitterEvent acts as an adaptee for adapter CommitterEventHandler.

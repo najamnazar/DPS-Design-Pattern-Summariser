@@ -1,0 +1,7 @@
+StartAndStopRouteBuilder acts as a publisher for observer Resource, which configures.
+StartAndStopRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+StartAndStopRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+StartAndStopRouteBuilder acts as an observer, which configures.
+StartAndStopRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+StartAndStopRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+StartAndStopRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.

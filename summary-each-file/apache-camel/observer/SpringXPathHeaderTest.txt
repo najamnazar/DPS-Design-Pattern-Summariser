@@ -1,0 +1,2 @@
+SpringXPathHeaderTest acts as a publisher for observer CamelContext, which tests Choice With Header Select Camel, which tests Choice With No Header Select Donkey, which tests Choice With No Header Select Other, which creates Camel Context.
+SpringXPathHeaderTest acts as a publisher for observer Service, which tests Choice With Header Select Camel, which tests Choice With No Header Select Donkey, which tests Choice With No Header Select Other, which creates Camel Context.

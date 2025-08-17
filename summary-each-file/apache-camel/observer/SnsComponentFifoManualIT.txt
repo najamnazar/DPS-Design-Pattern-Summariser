@@ -1,0 +1,5 @@
+SnsComponentFifoManualIT acts as a publisher for observer ProducerTemplate, which sends In Only, which sends In Out, which creates Route Builder.
+SnsComponentFifoManualIT acts as a publisher for observer CamelContext, which sends In Only, which sends In Out, which creates Route Builder.
+SnsComponentFifoManualIT acts as a publisher for observer FluentProducerTemplate, which sends In Only, which sends In Out, which creates Route Builder.
+SnsComponentFifoManualIT acts as a publisher for observer ConsumerTemplate, which sends In Only, which sends In Out, which creates Route Builder.
+SnsComponentFifoManualIT acts as a publisher for observer Service, which sends In Only, which sends In Out, which creates Route Builder.

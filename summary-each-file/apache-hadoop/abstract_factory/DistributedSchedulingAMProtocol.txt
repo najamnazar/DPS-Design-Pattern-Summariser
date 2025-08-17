@@ -1,0 +1,1 @@
+DistributedSchedulingAMProtocol acts as an abstract factory for RegisterDistributedSchedulingAMResponse, DistributedSchedulingAllocateResponse, which is inherited by DistributedSchedulingAMProtocolPBClientImpl, OpportunisticContainerAllocatorAMService.

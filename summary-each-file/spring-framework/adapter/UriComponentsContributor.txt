@@ -1,0 +1,2 @@
+UriComponentsContributor acts as an adaptee for adapter RequestParamMethodArgumentResolver, which adapts to AbstractNamedValueMethodArgumentResolver, which adapts to AbstractNamedValueMethodArgumentResolver.
+UriComponentsContributor acts as an adaptee for adapter PathVariableMethodArgumentResolver, which adapts to AbstractNamedValueMethodArgumentResolver, which adapts to AbstractNamedValueMethodArgumentResolver.

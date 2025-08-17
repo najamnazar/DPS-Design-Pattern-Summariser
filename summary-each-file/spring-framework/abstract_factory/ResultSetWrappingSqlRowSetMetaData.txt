@@ -1,0 +1,1 @@
+ResultSetWrappingSqlRowSetMetaData acts as a product for SqlRowSet, which overrides getColumnCount method of SqlRowSetMetaData, getColumnNames method of SqlRowSetMetaData.

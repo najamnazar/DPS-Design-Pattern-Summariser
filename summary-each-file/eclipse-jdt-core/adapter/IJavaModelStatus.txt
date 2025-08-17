@@ -1,0 +1,1 @@
+IJavaModelStatus acts as an adaptee for adapter JavaProject, which adapts to IJavaProject, Openable, which adapts to IJavaProject, Openable, which adapts to IJavaProject, Openable, which adapts to IJavaProject, Openable.

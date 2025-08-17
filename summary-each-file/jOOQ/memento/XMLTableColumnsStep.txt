@@ -1,0 +1,2 @@
+XMLTableColumnsStep acts as a memento, which is inherited by XMLTableColumnPathStep.
+XMLTableColumnsStep acts as an originator for memento XMLTableColumnForOrdinalityStep.

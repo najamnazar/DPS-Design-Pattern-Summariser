@@ -1,0 +1,2 @@
+BlockCollection acts as an abstract factory for BlockInfo, which is inherited by INodeFile.
+BlockCollection acts as an abstract product for BlockCollection, which is inherited by INodeFile.

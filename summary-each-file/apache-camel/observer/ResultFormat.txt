@@ -1,0 +1,1 @@
+ResultFormat acts as an observer for publisher XQueryEndpoint, which is inherited by.

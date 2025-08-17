@@ -1,0 +1,5 @@
+MyHandlerPredicateBean acts as a product for ModelReifierFactory, which overrides matches method of Predicate.
+MyHandlerPredicateBean acts as a product for ModelCamelContext, which overrides matches method of Predicate.
+MyHandlerPredicateBean acts as a product for DeadLetterChannelProperties, which overrides matches method of Predicate.
+MyHandlerPredicateBean acts as a product for DefaultErrorHandlerProperties, which overrides matches method of Predicate.
+MyHandlerPredicateBean acts as a product for PredicateFactory, which overrides matches method of Predicate.

@@ -1,0 +1,1 @@
+ApplicationTimeout acts as an originator for memento ApplicationTimeoutType, which is inherited by, which news ApplicationTimeoutType parameter of type, String parameter of expiryTime, long parameter of remainingTime Instance, which gets an ApplicationTimeoutType Timeout Type to, which sets ApplicationTimeoutType parameter of timeoutType Timeout Type.

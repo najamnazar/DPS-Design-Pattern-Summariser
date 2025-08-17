@@ -1,0 +1,2 @@
+InterceptSendToEndpointInOnException acts as a caretaker for memento Context, which creates Route Builder, which tests Ok, which tests Another Error, which tests IOError.
+InterceptSendToEndpointInOnException acts as a caretaker for memento Producer, which creates Route Builder, which tests Ok, which tests Another Error, which tests IOError.

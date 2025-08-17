@@ -1,0 +1,1 @@
+ClusteredRouteConfiguration acts as an adaptee for adapter ClusteredRouteController, which adapts to DefaultRouteController, which adapts to DefaultRouteController, which adapts to DefaultRouteController, which adapts to DefaultRouteController, which adapts to DefaultRouteController.

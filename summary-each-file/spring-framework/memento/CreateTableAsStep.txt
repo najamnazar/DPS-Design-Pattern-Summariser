@@ -1,0 +1,1 @@
+CreateTableAsStep acts as a memento, which ases Select<?> parameter of select.

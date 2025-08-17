@@ -1,0 +1,2 @@
+MyAuditServiceProxyTest acts as a publisher for observer Service, which tests My Audit Service Proxy, which creates Route Builder.
+MyAuditServiceProxyTest acts as a publisher for observer CamelContext, which tests My Audit Service Proxy, which creates Route Builder.

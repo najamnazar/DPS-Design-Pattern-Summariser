@@ -1,0 +1,2 @@
+FileConsumerIdempotentOnExceptionHandledTest acts as a publisher for observer CamelContext, which tests Idempotent, which creates Route Builder.
+FileConsumerIdempotentOnExceptionHandledTest acts as a publisher for observer Service, which tests Idempotent, which creates Route Builder.

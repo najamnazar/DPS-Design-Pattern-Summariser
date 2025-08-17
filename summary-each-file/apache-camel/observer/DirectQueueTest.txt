@@ -1,0 +1,2 @@
+DirectQueueTest acts as a publisher for observer Service, which tests Queue, which creates Route Builder.
+DirectQueueTest acts as a publisher for observer CamelContext, which tests Queue, which creates Route Builder.

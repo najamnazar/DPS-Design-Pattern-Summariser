@@ -1,0 +1,2 @@
+ExposedServletEndpointURIToJMXTest acts as a caretaker for memento Context, which uses Jmx, which exposes Endpoint URIShould Contain Context And Options, which checks String parameter of servletEndpointURI Servlet Endpoint URI, which creates Route Builder.
+ExposedServletEndpointURIToJMXTest acts as a caretaker for memento Producer, which uses Jmx, which exposes Endpoint URIShould Contain Context And Options, which checks String parameter of servletEndpointURI Servlet Endpoint URI, which creates Route Builder.

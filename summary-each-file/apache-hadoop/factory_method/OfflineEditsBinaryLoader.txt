@@ -1,0 +1,1 @@
+OfflineEditsBinaryLoader acts as a product for OfflineEditsLoader, which overrides loadEdits method of OfflineEditsLoader.

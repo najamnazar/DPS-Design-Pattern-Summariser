@@ -1,0 +1,2 @@
+FromRestGetPlaceholderParamTest acts as a publisher for observer Service, which creates Registry, which tests From Rest Model Single Param, which tests From Rest Model Multiple Params, which creates Route Builder.
+FromRestGetPlaceholderParamTest acts as a publisher for observer CamelContext, which creates Registry, which tests From Rest Model Single Param, which tests From Rest Model Multiple Params, which creates Route Builder.

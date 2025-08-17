@@ -1,0 +1,1 @@
+DefaultUuidGenerator acts as a memento, which longs char[] parameter of seed, long parameter of v To Hex, which longs char[] parameter of seed, long parameter of v To Hex.

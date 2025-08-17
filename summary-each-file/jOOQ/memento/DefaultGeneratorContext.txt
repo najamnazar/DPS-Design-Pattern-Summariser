@@ -1,0 +1,2 @@
+DefaultGeneratorContext acts as a caretaker for memento GeneratorStatementType, which renders Time, which tables, which fields, which statements Type.
+DefaultGeneratorContext acts as a caretaker for memento Statement, which renders Time, which tables, which fields, which statements Type.

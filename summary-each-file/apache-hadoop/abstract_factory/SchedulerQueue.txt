@@ -1,0 +1,2 @@
+SchedulerQueue acts as an abstract factory for, which is inherited by.
+SchedulerQueue acts as a product for MutableConfScheduler, which overrides.

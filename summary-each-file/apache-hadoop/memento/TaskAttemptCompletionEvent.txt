@@ -1,0 +1,1 @@
+TaskAttemptCompletionEvent acts as an originator for memento TaskAttemptCompletionEventStatus, which is inherited by, which gets a TaskAttemptCompletionEventStatus Status to, which sets TaskAttemptCompletionEventStatus parameter of status Status.

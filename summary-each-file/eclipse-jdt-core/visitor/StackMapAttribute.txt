@@ -1,0 +1,3 @@
+StackMapAttribute acts as a visitor for element TypeVisitor, which overrides, which gets a Number Of Entries to, which gets a Stack Map Frame to, which gets a Bytes to.
+StackMapAttribute acts as a visitor for element AnnotationValueVisitor, which overrides, which gets a Number Of Entries to, which gets a Stack Map Frame to, which gets a Bytes to.
+StackMapAttribute acts as a visitor for element IBytecodeVisitor, which overrides, which gets a Number Of Entries to, which gets a Stack Map Frame to, which gets a Bytes to.

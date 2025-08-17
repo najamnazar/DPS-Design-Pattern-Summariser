@@ -1,0 +1,1 @@
+JpaCronSchedulerTest acts as a caretaker for memento Context, which tests Pre Consumed, which creates Route Builder, which routes Xml, which selects All String.

@@ -1,0 +1,5 @@
+BaseCamelServiceBusTestSupport acts as a publisher for observer CamelContext, which prepares Client, which closes Client, which creates Camel Context.
+BaseCamelServiceBusTestSupport acts as a publisher for observer ConsumerTemplate, which prepares Client, which closes Client, which creates Camel Context.
+BaseCamelServiceBusTestSupport acts as a publisher for observer FluentProducerTemplate, which prepares Client, which closes Client, which creates Camel Context.
+BaseCamelServiceBusTestSupport acts as a publisher for observer Service, which prepares Client, which closes Client, which creates Camel Context.
+BaseCamelServiceBusTestSupport acts as a publisher for observer ProducerTemplate, which prepares Client, which closes Client, which creates Camel Context.

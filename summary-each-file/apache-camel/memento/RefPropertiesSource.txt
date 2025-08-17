@@ -1,0 +1,1 @@
+RefPropertiesSource acts as a caretaker for memento Component, which gets Name, which gets Location, which gets String parameter of name Property, which lookups PropertiesComponent parameter of propertiesComponent, PropertiesLocation parameter of location Properties In Registry.

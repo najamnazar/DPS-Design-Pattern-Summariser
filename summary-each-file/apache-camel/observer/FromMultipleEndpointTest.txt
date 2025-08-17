@@ -1,0 +1,2 @@
+FromMultipleEndpointTest acts as a publisher for observer CamelContext, which tests Multiple From Endpoint, which creates Route Builder.
+FromMultipleEndpointTest acts as a publisher for observer Service, which tests Multiple From Endpoint, which creates Route Builder.

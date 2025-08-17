@@ -1,0 +1,1 @@
+RequestContextHolder acts as a caretaker for memento A, which resets Request Attributes, which sets @Nullable parameter of RequestAttributes Request Attributes, which sets @Nullable parameter of RequestAttributes, boolean parameter of inheritable Request Attributes, which gets Request Attributes, which currents Request Attributes, which gets Faces Request Attributes.

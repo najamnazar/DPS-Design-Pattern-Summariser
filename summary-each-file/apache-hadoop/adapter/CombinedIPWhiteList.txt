@@ -1,0 +1,2 @@
+CombinedIPWhiteList acts as an adaptee for adapter WhitelistBasedResolver, which adapts to SaslPropertiesResolver.
+CombinedIPWhiteList acts as an adaptee for adapter WhitelistBasedTrustedChannelResolver, which adapts to TrustedChannelResolver.

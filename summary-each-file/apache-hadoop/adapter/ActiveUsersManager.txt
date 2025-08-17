@@ -1,0 +1,1 @@
+ActiveUsersManager acts as an adaptee for adapter FSLeafQueue, which adapts to FSQueue, which adapts to FSQueue, which adapts to FSQueue.

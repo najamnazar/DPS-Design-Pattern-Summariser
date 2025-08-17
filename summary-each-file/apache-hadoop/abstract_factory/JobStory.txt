@@ -1,0 +1,2 @@
+JobStory acts as an abstract factory for TaskAttemptInfo, which is inherited by SynthJob, ZombieJob.
+JobStory acts as an abstract product for JobStory, which is inherited by SynthJob, ZombieJob.

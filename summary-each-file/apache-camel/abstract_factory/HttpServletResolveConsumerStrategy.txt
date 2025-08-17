@@ -1,0 +1,1 @@
+HttpServletResolveConsumerStrategy acts as a factory for ServletResolveConsumerStrategy, which overrides resolve method of ServletResolveConsumerStrategy, isHttpMethodAllowed method of ServletResolveConsumerStrategy.
