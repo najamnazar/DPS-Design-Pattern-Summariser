@@ -126,8 +126,10 @@ public class ParseProject {
         }
         parsedProject.put(directory.getName(), extractedCallGraph);
         parsedProject.put("design_pattern", designPatternArrayList);
-        parsedProject.put("summary_NLG", summaryMap);
-        parsedProject.put("final_summary", finalSummary);
+
+        // remove summaries from JSON - large projects create huge JSON files
+        // parsedProject.put("summary_NLG", summaryMap);
+        // parsedProject.put("final_summary", finalSummary);
 
         // return the result, which contains all files of the project, stored in the
         // hashmap, the key is file name, the value is the details.
