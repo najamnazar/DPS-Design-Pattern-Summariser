@@ -3,6 +3,9 @@ package summarise;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 
 import org.apache.commons.collections4.MultiValuedMap;
@@ -74,32 +77,42 @@ public class Summarise {
                     outputDir.mkdirs();
                 }
 
-                FileWriter summaryWriter = new FileWriter(
-                        new File("summary", projectName + "_" + designPattern + ".txt"));
-                summaryWriter.write(designPatternSummary);
-                summaryWriter.close();
+                // Create the directory: summary/projectName/designPattern
+                Path designPatternDir = Paths.get("summary", projectName, designPattern);
+                Files.createDirectories(designPatternDir);
+
+                // // Write each class summary to its own file
+                for (String className : summary.get(designPattern).keySet()) {
+                    Path filePath = designPatternDir.resolve(className + ".txt");
+                    try (FileWriter fileWriter = new FileWriter(filePath.toFile())) {
+                        for (String line : summary.get(designPattern).get(className)) {
+                            fileWriter.write(line + "\n");
+                        }
+                    }
+
+                }
             } catch (IOException e) {
                 e.printStackTrace();
             }
             projectSummary += designPatternSummary;
         }
 
-        try {
-            // use the project name, create txt files to store projects, and write to
-            // projects
+        // try {
+        // // use the project name, create txt files to store projects, and write to
+        // // projects
 
-            File outputDir = new File("summary");
-            if (!outputDir.exists()) {
-                outputDir.mkdirs();
-            }
+        // File outputDir = new File("summary");
+        // if (!outputDir.exists()) {
+        // outputDir.mkdirs();
+        // }
 
-            FileWriter summaryWriter = new FileWriter(
-                    new File("summary", projectName + ".txt"));
-            summaryWriter.write(projectSummary);
-            summaryWriter.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        // FileWriter summaryWriter = new FileWriter(
+        // new File("summary", projectName + ".txt"));
+        // summaryWriter.write(projectSummary);
+        // summaryWriter.close();
+        // } catch (IOException e) {
+        // e.printStackTrace();
+        // }
 
         return projectSummary;
     }

@@ -16,14 +16,10 @@ import utils.*;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.*;
 import java.util.regex.Pattern;
 
 import org.apache.commons.collections4.MultiValuedMap;
-import org.apache.commons.collections4.multimap.HashSetValuedHashMap;
 
 public class ParseProject {
 
@@ -31,7 +27,8 @@ public class ParseProject {
     // 需要跳过的pattern列表
     private List<Pattern> skipPatterns = new ArrayList<Pattern>();
 
-    public HashMap<String, Object> parseProject(File directory) throws FileNotFoundException {
+    public HashMap<String, Object> parseProject(File directory, LanguageLevel languageLevel)
+            throws FileNotFoundException {
 
         ArrayList<File> fileArrayList = new ArrayList<>();
 
@@ -46,7 +43,7 @@ public class ParseProject {
         // referenced from Java Callgraph
         JavaSymbolSolver symbolSolver = SymbolSolverFactory.getJavaSymbolSolver(srcPathList, libPathList);
         StaticJavaParser.getParserConfiguration().setSymbolResolver(symbolSolver);
-        StaticJavaParser.getParserConfiguration().setLanguageLevel(LanguageLevel.BLEEDING_EDGE);
+        StaticJavaParser.getParserConfiguration().setLanguageLevel(languageLevel);
 
         // referenced from Java callgraph
         // 获取src目录中的全部java文件，并进行解析
