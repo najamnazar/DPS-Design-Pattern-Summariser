@@ -1,0 +1,2 @@
+MySentEventNotifier acts as an adaptee for adapter ProducerTemplateDisableEventNotifierTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MySentEventNotifier acts as an adaptee for adapter EventNotifierExchangeSentTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,5 @@
+SameDisruptorVmQueueSizeAndNoSizeTest acts as a publisher for observer ProducerTemplate, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.
+SameDisruptorVmQueueSizeAndNoSizeTest acts as a publisher for observer ConsumerTemplate, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.
+SameDisruptorVmQueueSizeAndNoSizeTest acts as a publisher for observer CamelContext, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.
+SameDisruptorVmQueueSizeAndNoSizeTest acts as a publisher for observer Service, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.
+SameDisruptorVmQueueSizeAndNoSizeTest acts as a publisher for observer FluentProducerTemplate, which tests Same Queue, which tests Same Queue Different Size, which tests Same Queue Different Size Bar, which creates Route Builder.

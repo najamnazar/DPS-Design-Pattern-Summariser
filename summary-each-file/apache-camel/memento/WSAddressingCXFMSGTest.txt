@@ -1,0 +1,2 @@
+WSAddressingCXFMSGTest acts as a caretaker for memento Producer.
+WSAddressingCXFMSGTest acts as a caretaker for memento Context.

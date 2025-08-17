@@ -1,0 +1,1 @@
+AopProxyFactory acts as an observer for publisher ProxyCreatorSupport, ProxyFactory, AspectJProxyFactory, which is inherited by DefaultAopProxyFactory, which creates AdvisedSupport parameter of config Aop Proxy.

@@ -1,0 +1,1 @@
+BindySimpleCsvIntegerMarshallTest acts as a caretaker for memento Producer, which tests Marshall Message, which configures, which gets Instrument, which sets String parameter of instrument Instrument, which gets Quantity, which sets int parameter of quantity Quantity, which gets Price, which sets BigDecimal parameter of price Price.

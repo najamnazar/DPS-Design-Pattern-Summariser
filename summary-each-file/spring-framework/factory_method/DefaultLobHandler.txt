@@ -1,0 +1,1 @@
+DefaultLobHandler acts as a factory method for LobCreator, which is inherited by LobHandler.

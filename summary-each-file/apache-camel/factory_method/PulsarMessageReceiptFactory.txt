@@ -1,0 +1,2 @@
+PulsarMessageReceiptFactory acts as a factory method for PulsarMessageReceipt, which is inherited by PulsarMessageReceiptFactory.
+PulsarMessageReceiptFactory acts as a factory for PulsarMessageReceiptFactory, which overrides.

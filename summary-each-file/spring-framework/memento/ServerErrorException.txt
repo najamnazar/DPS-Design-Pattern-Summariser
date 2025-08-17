@@ -1,0 +1,1 @@
+ServerErrorException acts as a caretaker for memento Parameter, which gets Handler Method, which gets Method Parameter.

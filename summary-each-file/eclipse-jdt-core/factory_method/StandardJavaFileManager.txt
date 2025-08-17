@@ -1,0 +1,1 @@
+StandardJavaFileManager acts as an abstract product for JavaCompiler, which is inherited by ForwardingStandardJavaFileManager.

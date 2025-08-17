@@ -1,0 +1,1 @@
+WebImageViewer acts as an observer, which starts String parameter of fsimage, which inits String parameter of fsimage Server, which gets Port, which closes.

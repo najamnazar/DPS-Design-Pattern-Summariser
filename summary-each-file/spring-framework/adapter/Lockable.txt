@@ -1,0 +1,1 @@
+Lockable acts as an adaptee for adapter LockMixin, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor.

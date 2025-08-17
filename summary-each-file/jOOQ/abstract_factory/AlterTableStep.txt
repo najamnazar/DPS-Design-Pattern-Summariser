@@ -1,0 +1,2 @@
+AlterTableStep acts as an abstract factory for AlterTableUsingIndexStep, AlterTableRenameColumnToStep, AlterTableAddStep, AlterTableFinalStep, AlterTableRenameConstraintToStep, AlterTableRenameIndexToStep, AlterTableDropStep, AlterTableAlterConstraintStep, which is inherited by AlterTableImpl.
+AlterTableStep acts as an abstract product for AlterTableStep, which is inherited by AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl, AlterTableImpl.

@@ -1,0 +1,2 @@
+IDOMField acts as an abstract factory for, which is inherited by DOMField.
+IDOMField acts as an abstract product for IDOMField, which is inherited by DOMField, DOMField.

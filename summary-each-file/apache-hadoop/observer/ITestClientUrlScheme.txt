@@ -1,0 +1,2 @@
+ITestClientUrlScheme acts as a publisher for observer Configuration, which paramses, which tests Client Url Scheme.
+ITestClientUrlScheme acts as a publisher for observer AzureBlobFileSystem, which paramses, which tests Client Url Scheme.

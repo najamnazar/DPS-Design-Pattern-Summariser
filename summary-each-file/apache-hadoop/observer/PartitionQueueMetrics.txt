@@ -1,0 +1,9 @@
+PartitionQueueMetrics acts as a publisher for observer MetricsInfo, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer QueueMetricsForCustomResources, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer QueueMetrics, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer MetricsSystem, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer Queue, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as an observer, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer ApplicationId, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer Resource, which gets String parameter of userName User Metrics.
+PartitionQueueMetrics acts as a publisher for observer Configuration, which gets String parameter of userName User Metrics.

@@ -1,0 +1,1 @@
+YarnApplicationState acts as an observer for publisher ApplicationHistoryData, which is inherited by.

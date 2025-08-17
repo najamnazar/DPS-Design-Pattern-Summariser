@@ -1,0 +1,1 @@
+BBUploadHandle acts as an observer, which froms ByteBuffer parameter of byteBuffer, which hashes Code, which byteses, which equals Object parameter of other.

@@ -1,0 +1,5 @@
+FreemarkerOverrideHeaderTest acts as a publisher for observer FluentProducerTemplate, which is Use Route Builder, which creates Letter, which tests Freemarker Letter, which tests Freemarker Letter Allowed.
+FreemarkerOverrideHeaderTest acts as a publisher for observer Service, which is Use Route Builder, which creates Letter, which tests Freemarker Letter, which tests Freemarker Letter Allowed.
+FreemarkerOverrideHeaderTest acts as a publisher for observer CamelContext, which is Use Route Builder, which creates Letter, which tests Freemarker Letter, which tests Freemarker Letter Allowed.
+FreemarkerOverrideHeaderTest acts as a publisher for observer ProducerTemplate, which is Use Route Builder, which creates Letter, which tests Freemarker Letter, which tests Freemarker Letter Allowed.
+FreemarkerOverrideHeaderTest acts as a publisher for observer ConsumerTemplate, which is Use Route Builder, which creates Letter, which tests Freemarker Letter, which tests Freemarker Letter Allowed.

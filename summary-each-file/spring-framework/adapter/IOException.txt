@@ -1,0 +1,2 @@
+IOException acts as an adaptee for adapter TestHttpSockJsSession, which adapts to StreamingSockJsSession, which adapts to StreamingSockJsSession.
+IOException acts as an adaptee for adapter TestSockJsSession, which adapts to AbstractSockJsSession, which adapts to AbstractSockJsSession.

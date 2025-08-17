@@ -1,0 +1,1 @@
+JavaCoreOptionsTests acts as a publisher for observer String, which suites, which test1s, which test2s, which test3s, which test4s, which test5s.

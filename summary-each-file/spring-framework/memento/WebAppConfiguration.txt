@@ -1,0 +1,1 @@
+WebAppConfiguration acts as a memento.

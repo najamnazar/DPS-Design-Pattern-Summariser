@@ -1,0 +1,1 @@
+HttpClientConfigurer acts as an observer for publisher HttpEndpoint, ResteasyEndpoint, which is inherited by BasicAuthenticationHttpClientConfigurer, ProxyHttpClientConfigurer, CompositeHttpConfigurer, which configures HttpClientBuilder parameter of clientBuilder Http Client.

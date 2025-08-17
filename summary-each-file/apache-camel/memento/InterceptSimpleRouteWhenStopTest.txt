@@ -1,0 +1,2 @@
+InterceptSimpleRouteWhenStopTest acts as a caretaker for memento Context, which tests Intercept Stop, which tests Intercept No Stop, which creates Route Builder.
+InterceptSimpleRouteWhenStopTest acts as a caretaker for memento Producer, which tests Intercept Stop, which tests Intercept No Stop, which creates Route Builder.

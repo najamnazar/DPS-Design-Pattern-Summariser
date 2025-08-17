@@ -1,0 +1,1 @@
+ValidatorDefinition acts as an observer for publisher ValidatorReifier, which is inherited by PredicateValidatorDefinition, CustomValidatorDefinition, EndpointValidatorDefinition, which gets Type, which sets String parameter of type Type, which sets Class<?> parameter of clazz Type.

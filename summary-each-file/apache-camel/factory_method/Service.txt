@@ -1,0 +1,1 @@
+Service acts as an abstract product for SplunkEndpoint, which is inherited by Jt400DataQueueService, KubernetesLeadershipController, MBeanInfoAssembler, LevelDBFile, JmsEndpoint, MDCUnitOfWork, CxfRsEndpoint, DataSetEndpoint, EhcacheManager, YamlDeserializationContext, LimitedPollingConsumerPollStrategy, TimedLeaderNotifier, Jt400MsgQueueService, CxfEndpoint.

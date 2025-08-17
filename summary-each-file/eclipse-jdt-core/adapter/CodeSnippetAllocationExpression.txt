@@ -1,0 +1,1 @@
+CodeSnippetAllocationExpression acts as an adapter, which adapts to AllocationExpression, which adapts to AllocationExpression, which adapts to AllocationExpression, which adapts to AllocationExpression.

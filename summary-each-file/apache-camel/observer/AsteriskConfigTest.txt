@@ -1,0 +1,5 @@
+AsteriskConfigTest acts as a publisher for observer CamelContext, which asterisks Endpoint Data.
+AsteriskConfigTest acts as a publisher for observer FluentProducerTemplate, which asterisks Endpoint Data.
+AsteriskConfigTest acts as a publisher for observer ProducerTemplate, which asterisks Endpoint Data.
+AsteriskConfigTest acts as a publisher for observer ConsumerTemplate, which asterisks Endpoint Data.
+AsteriskConfigTest acts as a publisher for observer Service, which asterisks Endpoint Data.

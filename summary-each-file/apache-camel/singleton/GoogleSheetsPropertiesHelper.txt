@@ -1,0 +1,1 @@
+GoogleSheetsPropertiesHelper acts as a singleton, which gets a GoogleSheetsPropertiesHelper Helper to.

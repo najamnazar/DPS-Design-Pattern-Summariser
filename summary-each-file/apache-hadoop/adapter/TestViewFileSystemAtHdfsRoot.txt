@@ -1,0 +1,1 @@
+TestViewFileSystemAtHdfsRoot acts as an adapter, which adapts to ViewFileSystemBaseTest, which adapts to ViewFileSystemBaseTest, which adapts to ViewFileSystemBaseTest, which adapts to ViewFileSystemBaseTest, which adapts to ViewFileSystemBaseTest, which adapts to ViewFileSystemBaseTest, which adapts to ViewFileSystemBaseTest.

@@ -1,0 +1,2 @@
+AlbertoAggregatorTest acts as a publisher for observer CamelContext, which tests Aggregator, which creates Route Builder.
+AlbertoAggregatorTest acts as a publisher for observer Service, which tests Aggregator, which creates Route Builder.

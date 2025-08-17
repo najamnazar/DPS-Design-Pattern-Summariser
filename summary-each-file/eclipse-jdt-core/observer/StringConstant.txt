@@ -1,0 +1,2 @@
+StringConstant acts as an observer, which compiles StringConstant parameter of right Time Equal, which strings Value, which tos String, which types ID.
+StringConstant acts as a publisher for observer Constant, which compiles StringConstant parameter of right Time Equal, which strings Value, which tos String, which types ID.

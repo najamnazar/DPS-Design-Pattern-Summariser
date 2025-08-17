@@ -1,0 +1,2 @@
+EmbeddableColumnDefinition acts as a factory for IndexColumnDefinition, which overrides.
+EmbeddableColumnDefinition acts as an abstract product for EmbeddableDefinition, which is inherited by DefaultEmbeddableColumnDefinition.

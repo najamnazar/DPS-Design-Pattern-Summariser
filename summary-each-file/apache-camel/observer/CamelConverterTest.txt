@@ -1,0 +1,2 @@
+CamelConverterTest acts as a publisher for observer Service, which tests To Processor Expression, which tests To Processor Predicate.
+CamelConverterTest acts as a publisher for observer CamelContext, which tests To Processor Expression, which tests To Processor Predicate.

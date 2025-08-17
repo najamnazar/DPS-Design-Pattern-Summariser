@@ -1,0 +1,1 @@
+XsltComponentConfigurer acts as a target for adapter XsltSaxonComponentConfigurer, which adapts to XsltComponentConfigurer, which adapts to XsltComponentConfigurer, which adapts to XsltComponentConfigurer.

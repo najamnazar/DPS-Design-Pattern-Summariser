@@ -1,0 +1,1 @@
+CombinedIPList acts as an adaptee for adapter BlackListBasedTrustedChannelResolver, which adapts to TrustedChannelResolver.

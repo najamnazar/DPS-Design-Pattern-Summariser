@@ -1,0 +1,1 @@
+CuratorBasedElectorService acts as a memento, which gets Curator Client, which gets Curator Client, which gets Curator Client, which gets Curator Client, which gets Curator Client, which gets Curator Client, which gets Curator Client, which gets Curator Client, which gets Curator Client.

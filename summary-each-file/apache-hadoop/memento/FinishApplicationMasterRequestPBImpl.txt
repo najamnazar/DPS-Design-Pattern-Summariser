@@ -1,0 +1,1 @@
+FinishApplicationMasterRequestPBImpl acts as an originator for memento FinalApplicationStatus, which gets a FinalApplicationStatus Final Application Status to, which sets FinalApplicationStatus parameter of finalState Final Application Status, which converts a FinalApplicationStatus From Proto Format to, which converts FinalApplicationStatus parameter of s To Proto Format.

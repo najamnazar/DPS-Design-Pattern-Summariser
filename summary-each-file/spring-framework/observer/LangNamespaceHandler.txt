@@ -1,0 +1,2 @@
+LangNamespaceHandler acts as a publisher for observer BeanDefinitionDecorator, which inits, which registers String parameter of key, String parameter of scriptFactoryClassName Script Bean Definition Parser.
+LangNamespaceHandler acts as a publisher for observer BeanDefinitionParser, which inits, which registers String parameter of key, String parameter of scriptFactoryClassName Script Bean Definition Parser.

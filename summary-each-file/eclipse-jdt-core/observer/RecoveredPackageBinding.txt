@@ -1,0 +1,1 @@
+RecoveredPackageBinding acts as an observer, which gets Annotations, which gets Kind, which gets Modifiers, which is Deprecated, which is Recovered, which is Synthetic, which gets Java Element, which gets Key, which is IBinding parameter of other Equal To, which gets Name, which is Unnamed, which gets Name Components, which gets Module, which computes Name And Components.

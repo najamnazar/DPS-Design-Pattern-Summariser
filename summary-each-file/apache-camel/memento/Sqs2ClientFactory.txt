@@ -1,0 +1,1 @@
+Sqs2ClientFactory acts as an originator for memento Sqs2InternalClient, which gets a Sqs2InternalClient Sqs Client to.

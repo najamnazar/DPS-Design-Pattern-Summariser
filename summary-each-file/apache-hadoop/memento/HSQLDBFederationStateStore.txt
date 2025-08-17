@@ -1,0 +1,1 @@
+HSQLDBFederationStateStore acts as a caretaker for memento Clock, which inits Configuration parameter of conf, which inits Configuration parameter of conf Connection, which closes Connection, which extracts String parameter of dbIdentifier, String parameter of regex Create Table SQL, which gets Tables, which sets List<String> parameter of tables Tables.

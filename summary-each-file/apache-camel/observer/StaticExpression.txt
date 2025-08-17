@@ -1,0 +1,1 @@
+StaticExpression acts as an observer, which gets Value, which sets Object parameter of value Value.

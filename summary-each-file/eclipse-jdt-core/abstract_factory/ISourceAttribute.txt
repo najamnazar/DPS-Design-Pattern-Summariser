@@ -1,0 +1,1 @@
+ISourceAttribute acts as an abstract product for ISourceAttribute, which is inherited by SourceFileAttribute.

@@ -1,0 +1,5 @@
+ISearchRequestor acts as an adaptee for adapter SelectionEngine, which adapts to ISearchRequestor, Engine, which adapts to ISearchRequestor, Engine, which adapts to ISearchRequestor, Engine, which adapts to ISearchRequestor, Engine.
+ISearchRequestor acts as a target for adapter SelectionEngine, which adapts to ISearchRequestor, which adapts to ISearchRequestor, which adapts to ISearchRequestor, which adapts to ISearchRequestor.
+ISearchRequestor acts as an adaptee for adapter CompletionEngine, which adapts to ISearchRequestor, ICompletionEngine, Engine, which adapts to ISearchRequestor, ICompletionEngine, Engine, which adapts to ISearchRequestor, ICompletionEngine, Engine, which adapts to ISearchRequestor, ICompletionEngine, Engine.
+ISearchRequestor acts as a target for adapter CompletionEngine, which adapts to ISearchRequestor, which adapts to ISearchRequestor, which adapts to ISearchRequestor, which adapts to ISearchRequestor.
+ISearchRequestor acts as an adaptee for adapter SearchableEnvironmentRequestor, which adapts to JavaElementRequestor, which adapts to JavaElementRequestor, which adapts to JavaElementRequestor, which adapts to JavaElementRequestor.

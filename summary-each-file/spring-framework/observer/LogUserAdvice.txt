@@ -1,0 +1,1 @@
+LogUserAdvice acts as an observer for publisher GroovyAspectTests, which is inherited by, which befores Method parameter of method, Object[] parameter of objects, @Nullable parameter of Object, which afters Exception parameter of e Throwing, which gets Count Before, which gets Count Throws, which resets.

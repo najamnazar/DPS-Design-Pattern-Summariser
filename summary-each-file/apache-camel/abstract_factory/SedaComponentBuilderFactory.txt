@@ -1,0 +1,1 @@
+SedaComponentBuilderFactory acts as an abstract factory for SedaComponent, which is inherited by.

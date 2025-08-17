@@ -1,0 +1,1 @@
+ConnectionStrategy acts as an abstract product for JdbcComponent, which is inherited by DefaultConnectionStrategy, SpringConnectionStrategy.

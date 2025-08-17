@@ -1,0 +1,4 @@
+CapacityScheduler acts as a factory for DefaultAMSProcessor, which overrides getContainerTokenSecretManager method of DefaultAMSProcessor.
+CapacityScheduler acts as a factory for QueueManagementChange, which overrides.
+CapacityScheduler acts as a factory for CapacityScheduler, which overrides.
+CapacityScheduler acts as a factory method for CSConfigurationProvider, which is inherited by CapacityScheduler.

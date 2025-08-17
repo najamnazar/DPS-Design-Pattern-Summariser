@@ -1,0 +1,2 @@
+AutowiredLifecycleStrategy acts as an adaptee for adapter DefaultAutowiredLifecycleStrategy.
+AutowiredLifecycleStrategy acts as an adaptee for adapter MainAutowiredLifecycleStrategy.

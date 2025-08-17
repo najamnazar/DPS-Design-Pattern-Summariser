@@ -1,0 +1,1 @@
+GlobalPolicy acts as a factory for NoOpGlobalPolicy, which overrides.

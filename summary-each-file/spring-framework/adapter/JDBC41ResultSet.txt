@@ -1,0 +1,2 @@
+JDBC41ResultSet acts as a target for adapter DefaultResultSet, which adapts to JDBC41ResultSet, which adapts to JDBC41ResultSet.
+JDBC41ResultSet acts as a target for adapter MockResultSet, which adapts to JDBC41ResultSet, which adapts to JDBC41ResultSet.

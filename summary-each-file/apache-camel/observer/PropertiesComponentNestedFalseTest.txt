@@ -1,0 +1,2 @@
+PropertiesComponentNestedFalseTest acts as a publisher for observer Service, which tests Nested False, which creates Route Builder, which creates Camel Context.
+PropertiesComponentNestedFalseTest acts as a publisher for observer CamelContext, which tests Nested False, which creates Route Builder, which creates Camel Context.

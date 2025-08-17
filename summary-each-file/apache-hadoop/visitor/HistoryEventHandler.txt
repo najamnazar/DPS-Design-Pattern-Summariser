@@ -1,0 +1,18 @@
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by GetTaskAttemptCompletionEventsRequestPBImpl, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by KerberosAuthenticator, PseudoAuthenticator, DelegationTokenAuthenticator, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by ExternalReplicaInPipeline, LocalReplicaInPipeline, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by AbstractCredentialsProvider, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by ScriptBasedMappingWithDependency, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by PageBlobOutputStream, BlockBlobAppendStream, S3ABlockOutputStream, AbfsOutputStream, SyncableDataOutputStream, CryptoOutputStream, DFSOutputStream, BufferedIOStatisticsOutputStream, OBSBlockOutputStream, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by AbstractYarnScheduler, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by TOS, PrefixStorage, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by InMemoryReservationAllocation, which handles a Event to.
+HistoryEventHandler acts as an element for visitor HistoryEventHandler, which is inherited by JobHistoryCopyService, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by AMStartedEvent, NormalizedResourceEvent, JobInitedEvent, MapAttemptFinishedEvent, JobUnsuccessfulCompletionEvent, TaskStartedEvent, TaskAttemptStartedEvent, JobStatusChangedEvent, ReduceAttemptFinishedEvent, TaskFinishedEvent, JobFinishedEvent, JobSubmittedEvent, TaskFailedEvent, TaskUpdatedEvent, JobQueueChangeEvent, JobPriorityChangeEvent, TaskAttemptFinishedEvent, JobInfoChangeEvent, TaskAttemptUnsuccessfulCompletionEvent, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by PlacementConstraintManagerService, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by RMContainerImpl, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by CumulativeCpuUsageEmulatorPlugin, TotalHeapUsageEmulatorPlugin, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by RMInfo, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by RawPathHandle, HdfsPathHandle, LocalFileSystemPathHandle, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by GetDiagnosticsResponsePBImpl, which handles a Event to.
+HistoryEventHandler acts as a visitor for element HistoryEventHandler, which is inherited by INodeDirectory, which handles a Event to.

@@ -1,0 +1,2 @@
+ValidatorBeanCallTest acts as a publisher for observer Service, which tests Call Bean, which sets Up, which creates Registry, which creates Route Builder, which loads File.
+ValidatorBeanCallTest acts as a publisher for observer CamelContext, which tests Call Bean, which sets Up, which creates Registry, which creates Route Builder, which loads File.

@@ -1,0 +1,1 @@
+AmIpFilter acts as an observer, which inits FilterConfig parameter of conf, which gets Proxy Addresses, which destroys, which does ServletRequest parameter of req, ServletResponse parameter of resp, FilterChain parameter of chain Filter, which finds Redirect Url, which is String parameter of url Valid Url, which sets long parameter of updateInterval Update Interval.

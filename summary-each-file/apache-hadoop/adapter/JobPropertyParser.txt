@@ -1,0 +1,1 @@
+JobPropertyParser acts as a target for adapter MapReduceJobPropertiesParser, which adapts to JobPropertyParser.

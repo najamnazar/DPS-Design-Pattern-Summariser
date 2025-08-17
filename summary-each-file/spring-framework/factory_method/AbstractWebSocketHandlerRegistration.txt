@@ -1,0 +1,2 @@
+AbstractWebSocketHandlerRegistration acts as a factory method for WebSocketHandlerRegistration, which is inherited by WebSocketHandlerRegistration, WebSocketHandlerRegistry.
+AbstractWebSocketHandlerRegistration acts as a product for AbstractWebSocketHandlerRegistration, which overrides addHandler method of WebSocketHandlerRegistration, addInterceptors method of WebSocketHandlerRegistration, withSockJS method of WebSocketHandlerRegistration.

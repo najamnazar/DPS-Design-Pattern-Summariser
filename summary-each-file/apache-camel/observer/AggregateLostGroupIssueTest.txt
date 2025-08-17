@@ -1,0 +1,2 @@
+AggregateLostGroupIssueTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Aggregate Lost Group Issue, which gets Aggregation Repository, which creates Route Builder.
+AggregateLostGroupIssueTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Aggregate Lost Group Issue, which gets Aggregation Repository, which creates Route Builder.

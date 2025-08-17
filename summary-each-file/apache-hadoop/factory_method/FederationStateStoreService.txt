@@ -1,0 +1,1 @@
+FederationStateStoreService acts as a product for FederationStateStoreFacade, which overrides getCurrentVersion method of FederationStateStore, loadVersion method of FederationStateStore, storeVersion method of FederationStateStore, checkVersion method of FederationStateStore, deleteStateStore method of FederationStateStore.

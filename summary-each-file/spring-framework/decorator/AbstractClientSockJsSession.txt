@@ -1,0 +1,1 @@
+AbstractClientSockJsSession acts as a component for decorator WebSocketSessionDecorator, which overrides getIdWebSocketSession, getUriWebSocketSession, getHandshakeHeadersWebSocketSession, getAttributesWebSocketSession, getPrincipalWebSocketSession, isOpenWebSocketSession, sendMessageWebSocketSession, closeWebSocketSession, closeWebSocketSession, toStringWebSocketSession.

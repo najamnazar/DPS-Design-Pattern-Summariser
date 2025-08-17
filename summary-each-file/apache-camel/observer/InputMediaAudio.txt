@@ -1,0 +1,1 @@
+InputMediaAudio acts as an observer, which gets Duration, which sets Integer parameter of duration Duration, which gets Performer, which sets String parameter of performer Performer, which gets Title, which sets String parameter of title Title.

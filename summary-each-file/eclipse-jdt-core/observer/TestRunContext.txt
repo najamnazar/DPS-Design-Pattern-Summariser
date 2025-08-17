@@ -1,0 +1,1 @@
+TestRunContext acts as a publisher for observer Test, which is inherited by TestRunner, which handles Test parameter of test Test Selected, which gets Failures.

@@ -1,0 +1,3 @@
+XsltSaxonAggregationStrategy acts as a publisher for observer CamelContext, which creates Xslt Builder.
+XsltSaxonAggregationStrategy acts as a publisher for observer XsltOutput, which creates Xslt Builder.
+XsltSaxonAggregationStrategy acts as a publisher for observer XsltBuilder, which creates Xslt Builder.

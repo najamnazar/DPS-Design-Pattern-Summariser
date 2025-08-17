@@ -1,0 +1,2 @@
+Hash acts as a target for adapter MurmurHash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash.
+Hash acts as a target for adapter JenkinsHash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash, which adapts to Hash.

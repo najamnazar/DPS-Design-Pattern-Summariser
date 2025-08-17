@@ -1,0 +1,1 @@
+JsonSourceHandlerFactoryImpl acts as an observer, which is Fail On Null Body, which sets boolean parameter of failOnNullBody Fail On Null Body, which gets Exchange parameter of exchange Source.

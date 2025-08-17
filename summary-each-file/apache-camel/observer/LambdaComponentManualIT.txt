@@ -1,0 +1,5 @@
+LambdaComponentManualIT acts as a publisher for observer ProducerTemplate, which lambdas List Functions Test, which lambdas Get Function Test, which creates Route Builder.
+LambdaComponentManualIT acts as a publisher for observer FluentProducerTemplate, which lambdas List Functions Test, which lambdas Get Function Test, which creates Route Builder.
+LambdaComponentManualIT acts as a publisher for observer ConsumerTemplate, which lambdas List Functions Test, which lambdas Get Function Test, which creates Route Builder.
+LambdaComponentManualIT acts as a publisher for observer CamelContext, which lambdas List Functions Test, which lambdas Get Function Test, which creates Route Builder.
+LambdaComponentManualIT acts as a publisher for observer Service, which lambdas List Functions Test, which lambdas Get Function Test, which creates Route Builder.

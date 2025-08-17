@@ -1,0 +1,2 @@
+AbstractDirectVmTestSupport acts as an adapter, which adapts to ContextTestSupport, which adapts doPostSetup method of ProducerTemplate to ContextTestSupport, which adapts to ContextTestSupport, which adapts createRouteBuilderForSecondContext method of ProducerTemplate to ContextTestSupport.
+AbstractDirectVmTestSupport acts as an adapter, which adapts to ContextTestSupport, which adapts doPostSetup method of CamelContext to ContextTestSupport, which adapts to ContextTestSupport, which adapts createRouteBuilderForSecondContext method of CamelContext to ContextTestSupport.

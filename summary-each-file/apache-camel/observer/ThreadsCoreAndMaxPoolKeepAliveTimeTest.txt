@@ -1,0 +1,2 @@
+ThreadsCoreAndMaxPoolKeepAliveTimeTest acts as a publisher for observer CamelContext, which tests Threads Core And Max Pool Keep Alive Time, which creates Route Builder.
+ThreadsCoreAndMaxPoolKeepAliveTimeTest acts as a publisher for observer Service, which tests Threads Core And Max Pool Keep Alive Time, which creates Route Builder.

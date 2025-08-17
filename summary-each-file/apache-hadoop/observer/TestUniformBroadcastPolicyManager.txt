@@ -1,0 +1,1 @@
+TestUniformBroadcastPolicyManager acts as a publisher for observer FederationPolicyManager, which setups.

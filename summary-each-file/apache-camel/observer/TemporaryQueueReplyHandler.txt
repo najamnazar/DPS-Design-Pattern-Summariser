@@ -1,0 +1,1 @@
+TemporaryQueueReplyHandler acts as an observer, which ons String parameter of correlationId, Message parameter of reply, Session parameter of session Reply, which ons String parameter of correlationId Timeout.

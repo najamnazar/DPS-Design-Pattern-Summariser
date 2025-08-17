@@ -1,0 +1,2 @@
+CheckpointID acts as a product for WritableFactory, which overrides.
+CheckpointID acts as an abstract product for CheckpointID, which is inherited by TaskCheckpointID, FSCheckpointID.

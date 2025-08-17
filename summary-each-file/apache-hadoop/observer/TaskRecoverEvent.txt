@@ -1,0 +1,1 @@
+TaskRecoverEvent acts as an observer, which gets Task Info, which gets Output Committer, which gets Recover Task Output.

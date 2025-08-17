@@ -1,0 +1,2 @@
+NamespaceHandler acts as an abstract factory for BeanDefinitionHolder, BeanDefinition, which is inherited by NamespaceHandlerSupport, SimplePropertyNamespaceHandler, SimpleConstructorNamespaceHandler.
+NamespaceHandler acts as an abstract product for NamespaceHandler, which is inherited by NamespaceHandlerSupport, SimplePropertyNamespaceHandler, SimpleConstructorNamespaceHandler.

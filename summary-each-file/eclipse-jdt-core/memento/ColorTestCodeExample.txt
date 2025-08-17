@@ -1,0 +1,2 @@
+ColorTestCodeExample acts as a caretaker for memento String.
+ColorTestCodeExample acts as a caretaker for memento S.

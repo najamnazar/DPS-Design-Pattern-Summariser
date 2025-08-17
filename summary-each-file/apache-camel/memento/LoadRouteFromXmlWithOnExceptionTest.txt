@@ -1,0 +1,2 @@
+LoadRouteFromXmlWithOnExceptionTest acts as a caretaker for memento Producer, which creates Registry, which is Use Route Builder, which tests Load Route From Xml Wit On Exception, which processes Exchange parameter of exchange.
+LoadRouteFromXmlWithOnExceptionTest acts as a caretaker for memento Context, which creates Registry, which is Use Route Builder, which tests Load Route From Xml Wit On Exception, which processes Exchange parameter of exchange.

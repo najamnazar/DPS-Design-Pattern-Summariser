@@ -1,0 +1,1 @@
+MQ2ClientFactory acts as an originator for memento MQ2InternalClient, which gets a MQ2InternalClient Mq Client to.

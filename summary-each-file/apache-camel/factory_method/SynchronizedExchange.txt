@@ -1,0 +1,2 @@
+SynchronizedExchange acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+SynchronizedExchange acts as an abstract product for ExchangeEvent, which is inherited by AbstractSynchronizedExchange.

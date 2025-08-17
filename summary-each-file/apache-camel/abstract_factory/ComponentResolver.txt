@@ -1,0 +1,2 @@
+ComponentResolver acts as an abstract factory for Component, which is inherited by DefaultComponentResolver.
+ComponentResolver acts as an abstract product for ComponentResolver, which is inherited by DefaultComponentResolver.

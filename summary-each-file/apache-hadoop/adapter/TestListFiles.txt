@@ -1,0 +1,1 @@
+TestListFiles acts as a target for adapter TestListFilesInDFS, which adapts to TestListFiles, which adapts to TestListFiles, which adapts to TestListFiles, which adapts to TestListFiles, which adapts to TestListFiles, which adapts to TestListFiles.

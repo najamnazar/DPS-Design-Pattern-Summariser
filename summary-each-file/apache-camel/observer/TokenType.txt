@@ -1,0 +1,1 @@
+TokenType acts as an observer for publisher SimpleTokenizer, which is inherited by.

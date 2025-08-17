@@ -1,0 +1,1 @@
+ConstructorPerson acts as a caretaker for memento B, which names, which ages, which birth_dates, which balances.

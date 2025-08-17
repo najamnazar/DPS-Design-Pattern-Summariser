@@ -1,0 +1,1 @@
+CollectorNodemanagerProtocol acts as an originator for memento ReportNewCollectorInfoResponse, which is inherited by, which reports a ReportNewCollectorInfoResponse New Collector Info to.

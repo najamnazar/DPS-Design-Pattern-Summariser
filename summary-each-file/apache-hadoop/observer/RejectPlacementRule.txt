@@ -1,0 +1,1 @@
+RejectPlacementRule acts as a publisher for observer PlacementRule, which sets Object parameter of initArg Config, which initializes ResourceScheduler parameter of scheduler, which gets ApplicationSubmissionContext parameter of asc, String parameter of user Placement For App.

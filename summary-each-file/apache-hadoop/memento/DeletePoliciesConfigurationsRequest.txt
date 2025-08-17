@@ -1,0 +1,2 @@
+DeletePoliciesConfigurationsRequest acts as an originator for memento DeletePoliciesConfigurationsRequest, which is inherited by, which news a DeletePoliciesConfigurationsRequest Instance to.
+DeletePoliciesConfigurationsRequest acts as a memento, which is inherited by DeletePoliciesConfigurationsRequestPBImpl, which news Instance.

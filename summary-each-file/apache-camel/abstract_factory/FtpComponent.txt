@@ -1,0 +1,1 @@
+FtpComponent acts as an abstract product for FtpComponent, which is inherited by FtpsComponent.

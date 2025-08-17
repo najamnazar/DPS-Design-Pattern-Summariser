@@ -1,0 +1,4 @@
+Bug571363Test acts as a caretaker for memento C, which suites, which gets Compiler Tests Plugin Directory Path, which _tests Bug571363.
+Bug571363Test acts as a caretaker for memento E, which suites, which gets Compiler Tests Plugin Directory Path, which _tests Bug571363.
+Bug571363Test acts as a caretaker for memento Test, which suites, which gets Compiler Tests Plugin Directory Path, which _tests Bug571363.
+Bug571363Test acts as a caretaker for memento R, which suites, which gets Compiler Tests Plugin Directory Path, which _tests Bug571363.

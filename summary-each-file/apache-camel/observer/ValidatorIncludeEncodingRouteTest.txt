@@ -1,0 +1,2 @@
+ValidatorIncludeEncodingRouteTest acts as a publisher for observer CamelContext, which tests Valid Message, which sets Up, which creates Route Builder.
+ValidatorIncludeEncodingRouteTest acts as a publisher for observer Service, which tests Valid Message, which sets Up, which creates Route Builder.

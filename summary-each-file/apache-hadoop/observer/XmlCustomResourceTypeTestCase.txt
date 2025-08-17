@@ -1,0 +1,1 @@
+XmlCustomResourceTypeTestCase acts as a publisher for observer BufferedClientResponse, which is inherited by, which verifies BufferedClientResponse parameter of response Status, which verifies Consumer<Document> parameter of verifier, which parses BufferedClientResponse parameter of response Xml, which logs Document parameter of doc Response, which tos Node parameter of node Xml.

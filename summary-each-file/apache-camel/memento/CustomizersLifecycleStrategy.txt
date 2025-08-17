@@ -1,0 +1,1 @@
+CustomizersLifecycleStrategy acts as a caretaker for memento Context, which ons String parameter of name, Component parameter of component Component Add, which ons String parameter of name, DataFormat parameter of dataFormat Data Format Created, which ons String parameter of name, Language parameter of language Language Created.

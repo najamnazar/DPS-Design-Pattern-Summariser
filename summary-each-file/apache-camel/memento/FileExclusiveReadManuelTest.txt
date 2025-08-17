@@ -1,0 +1,2 @@
+FileExclusiveReadManuelTest acts as a caretaker for memento Context, which tests Manually, which creates Route Builder.
+FileExclusiveReadManuelTest acts as a caretaker for memento Producer, which tests Manually, which creates Route Builder.

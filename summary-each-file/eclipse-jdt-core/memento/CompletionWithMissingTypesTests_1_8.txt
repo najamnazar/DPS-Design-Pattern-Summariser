@@ -1,0 +1,5 @@
+CompletionWithMissingTypesTests_1_8 acts as a caretaker for memento C, which sets Up Suite, which suites, which tests Static Interface Method.
+CompletionWithMissingTypesTests_1_8 acts as a caretaker for memento ICompilationUnit, which sets Up Suite, which suites, which tests Static Interface Method.
+CompletionWithMissingTypesTests_1_8 acts as a caretaker for memento S, which sets Up Suite, which suites, which tests Static Interface Method.
+CompletionWithMissingTypesTests_1_8 acts as a caretaker for memento String, which sets Up Suite, which suites, which tests Static Interface Method.
+CompletionWithMissingTypesTests_1_8 acts as a caretaker for memento List, which sets Up Suite, which suites, which tests Static Interface Method.

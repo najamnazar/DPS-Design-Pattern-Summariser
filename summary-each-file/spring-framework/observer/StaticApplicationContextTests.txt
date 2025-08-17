@@ -1,0 +1,1 @@
+StaticApplicationContextTests acts as a publisher for observer TestApplicationListener, which creates Context, which counts.

@@ -1,0 +1,2 @@
+SagaCompletionMode acts as a memento, which defaults Completion Mode.
+SagaCompletionMode acts as an originator for memento SagaCompletionMode, which defaults a SagaCompletionMode Completion Mode to.

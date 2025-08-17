@@ -1,0 +1,5 @@
+BaseServerTestSupport acts as a publisher for observer FluentProducerTemplate.
+BaseServerTestSupport acts as a publisher for observer ProducerTemplate.
+BaseServerTestSupport acts as a publisher for observer Service.
+BaseServerTestSupport acts as a publisher for observer CamelContext.
+BaseServerTestSupport acts as a publisher for observer ConsumerTemplate.

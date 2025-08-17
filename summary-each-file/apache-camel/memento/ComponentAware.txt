@@ -1,0 +1,1 @@
+ComponentAware acts as an originator for memento Component, which is inherited by, which sets Component parameter of component Component, which gets a Component Component to.

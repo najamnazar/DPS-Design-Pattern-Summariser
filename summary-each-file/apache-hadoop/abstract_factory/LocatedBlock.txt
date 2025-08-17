@@ -1,0 +1,1 @@
+LocatedBlock acts as an abstract product for LocatedBlock, which is inherited by LocatedStripedBlock, LocatedStripedBlock, LocatedStripedBlock.

@@ -1,0 +1,1 @@
+PerformanceTests acts as an adapter, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase, which adapts to TestBase.

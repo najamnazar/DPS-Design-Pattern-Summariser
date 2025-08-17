@@ -1,0 +1,5 @@
+MailProducerTest acts as a publisher for observer Service, which tests Producer, which tests Producer Body Is Mime Message, which creates Route Builder.
+MailProducerTest acts as a publisher for observer ProducerTemplate, which tests Producer, which tests Producer Body Is Mime Message, which creates Route Builder.
+MailProducerTest acts as a publisher for observer ConsumerTemplate, which tests Producer, which tests Producer Body Is Mime Message, which creates Route Builder.
+MailProducerTest acts as a publisher for observer CamelContext, which tests Producer, which tests Producer Body Is Mime Message, which creates Route Builder.
+MailProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Producer, which tests Producer Body Is Mime Message, which creates Route Builder.

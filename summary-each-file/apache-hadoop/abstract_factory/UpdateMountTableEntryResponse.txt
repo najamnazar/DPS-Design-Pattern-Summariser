@@ -1,0 +1,1 @@
+UpdateMountTableEntryResponse acts as an abstract product for UpdateMountTableEntryResponse, which is inherited by UpdateMountTableEntryResponsePBImpl.

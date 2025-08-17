@@ -1,0 +1,1 @@
+ImplementsNoInterfaces acts as a publisher for observer TestBean, which is inherited by, which sets TestBean parameter of testBean Dependency, which gets Name, which sets String parameter of name Name.

@@ -1,0 +1,2 @@
+AlterTableRenameConstraintToStep acts as an abstract product for AlterTableRenameConstraintToStep, which is inherited by AlterTableImpl, AlterTableImpl, AlterTableImpl.
+AlterTableRenameConstraintToStep acts as an abstract factory for AlterTableFinalStep, which is inherited by AlterTableImpl.

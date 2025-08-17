@@ -1,0 +1,1 @@
+XmlSignature2Message acts as an abstract product for XmlVerifierConfiguration, which is inherited by DefaultXmlSignature2Message.

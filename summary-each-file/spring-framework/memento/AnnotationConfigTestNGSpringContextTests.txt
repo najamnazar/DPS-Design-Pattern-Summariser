@@ -1,0 +1,3 @@
+AnnotationConfigTestNGSpringContextTests acts as a caretaker for memento A, which autowirings From Config Class, which employees, which pets.
+AnnotationConfigTestNGSpringContextTests acts as a caretaker for memento C, which autowirings From Config Class, which employees, which pets.
+AnnotationConfigTestNGSpringContextTests acts as a caretaker for memento ApplicationContext, which autowirings From Config Class, which employees, which pets.

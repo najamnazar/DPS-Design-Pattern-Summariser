@@ -1,0 +1,1 @@
+CommitManager acts as an abstract factory for KafkaManualCommit, which is inherited by AbstractCommitManager.

@@ -1,0 +1,1 @@
+RestComponentVerifierExtension acts as an adapter, which adapts to DefaultComponentVerifierExtension, which adapts to DefaultComponentVerifierExtension, which adapts to DefaultComponentVerifierExtension, which adapts to DefaultComponentVerifierExtension.

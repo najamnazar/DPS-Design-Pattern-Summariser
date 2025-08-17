@@ -1,0 +1,2 @@
+AsyncEndpointEventNotifierTest acts as a publisher for observer Service, which tests Async Endpoint Event Notifier, which creates Camel Context, which creates Route Builder.
+AsyncEndpointEventNotifierTest acts as a publisher for observer CamelContext, which tests Async Endpoint Event Notifier, which creates Camel Context, which creates Route Builder.

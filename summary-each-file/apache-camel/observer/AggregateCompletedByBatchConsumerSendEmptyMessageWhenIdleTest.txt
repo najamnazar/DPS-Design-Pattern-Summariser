@@ -1,0 +1,2 @@
+AggregateCompletedByBatchConsumerSendEmptyMessageWhenIdleTest acts as a publisher for observer Service, which tests Batch Consumer Send Empty Message When Idle, which creates Route Builder.
+AggregateCompletedByBatchConsumerSendEmptyMessageWhenIdleTest acts as a publisher for observer CamelContext, which tests Batch Consumer Send Empty Message When Idle, which creates Route Builder.

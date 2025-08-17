@@ -1,0 +1,1 @@
+ActiveProfilesUtils acts as a caretaker for memento A, which resolves Class<?> parameter of testClass Active Profiles.

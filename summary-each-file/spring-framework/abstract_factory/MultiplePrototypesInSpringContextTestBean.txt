@@ -1,0 +1,3 @@
+MultiplePrototypesInSpringContextTestBean acts as a product for ContextScriptBean, which overrides.
+MultiplePrototypesInSpringContextTestBean acts as a product for TestBeanAwareMessenger, which overrides.
+MultiplePrototypesInSpringContextTestBean acts as a product for XmlBeanFactoryTestTypes, which overrides.

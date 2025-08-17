@@ -1,0 +1,1 @@
+ServletContextAwareProcessor acts as a caretaker for memento C, which gets Servlet Context, which gets Servlet Config, which posts Object parameter of bean, String parameter of beanName Process Before Initialization, which posts Object parameter of bean, String parameter of beanName Process After Initialization.

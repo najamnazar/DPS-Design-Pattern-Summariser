@@ -1,0 +1,5 @@
+ControlFlowPointcut acts as a product for Pointcut, which overrides matches method of ClassFilter.
+ControlFlowPointcut acts as a product for PointcutAdvisor, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.
+ControlFlowPointcut acts as a product for IntroductionAdvisor, which overrides matches method of ClassFilter.
+ControlFlowPointcut acts as a product for Pointcut, which overrides matches method of MethodMatcher, isRuntime method of MethodMatcher, matches method of MethodMatcher.
+ControlFlowPointcut acts as a factory for Pointcut, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.

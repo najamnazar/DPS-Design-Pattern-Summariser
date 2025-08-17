@@ -1,0 +1,6 @@
+ScalaGenerator acts as a publisher for observer CatalogDefinition.
+ScalaGenerator acts as a publisher for observer Mode.
+ScalaGenerator acts as a publisher for observer JavaWriter.
+ScalaGenerator acts as a publisher for observer Definition.
+ScalaGenerator acts as a publisher for observer SchemaDefinition.
+ScalaGenerator acts as a publisher for observer File.

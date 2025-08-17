@@ -1,0 +1,2 @@
+DirectVmShouldUseSameThreadTest acts as a publisher for observer CamelContext, which tests Use Same Thread, which creates Route Builder.
+DirectVmShouldUseSameThreadTest acts as a publisher for observer Service, which tests Use Same Thread, which creates Route Builder.

@@ -1,0 +1,3 @@
+CamelCatalog acts as a factory method for JSonSchemaResolver, which is inherited by AbstractCamelCatalog, CamelCatalog, AbstractCamelCatalog.
+CamelCatalog acts as an abstract product for RuntimeProvider, which is inherited by DefaultCamelCatalog.
+CamelCatalog acts as a factory for CamelCatalog, which overrides.

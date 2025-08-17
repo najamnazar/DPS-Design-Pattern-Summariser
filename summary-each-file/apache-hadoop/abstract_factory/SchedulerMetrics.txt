@@ -1,0 +1,1 @@
+SchedulerMetrics acts as an abstract product for SchedulerMetrics, which is inherited by FifoSchedulerMetrics, FairSchedulerMetrics, CapacitySchedulerMetrics.

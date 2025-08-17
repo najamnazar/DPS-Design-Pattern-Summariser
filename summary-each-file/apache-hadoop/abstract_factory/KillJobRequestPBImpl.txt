@@ -1,0 +1,1 @@
+KillJobRequestPBImpl acts as a factory for KillJobRequest, which overrides getJobId method of KillJobRequest, setJobId method of KillJobRequest.

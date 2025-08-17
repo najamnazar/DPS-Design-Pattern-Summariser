@@ -1,0 +1,1 @@
+SpringRoutesConfigurationBuilderIdOrPatternTest acts as a caretaker for memento Context, which creates Application Context, which tests Routes Configuration On Exception.

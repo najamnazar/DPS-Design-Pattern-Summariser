@@ -1,0 +1,2 @@
+MimeType acts as an abstract product for MimeType, which is inherited by MediaType.
+MimeType acts as an abstract product for MimeType, which is inherited by MediaType, MediaType.

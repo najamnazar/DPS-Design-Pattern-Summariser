@@ -1,0 +1,2 @@
+RSocketStrategies acts as an abstract product for RSocketStrategies, which is inherited by DefaultRSocketStrategies, DefaultRSocketStrategies.
+RSocketStrategies acts as an abstract factory for RouteMatcher, MetadataExtractor, RSocketStrategies, DataBufferFactory, which is inherited by DefaultRSocketStrategies.

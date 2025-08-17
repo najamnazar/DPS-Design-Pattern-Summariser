@@ -1,0 +1,1 @@
+RestConfiguration acts as an abstract product for RestConfiguration, which is inherited by RestConfigurationProperties.

@@ -1,0 +1,1 @@
+SubmitterUserResolver acts as a factory for UserResolver, which overrides.

@@ -1,0 +1,2 @@
+LoopAsyncCopyTest acts as a publisher for observer Service, which tests Loop Copy, which creates Route Builder.
+LoopAsyncCopyTest acts as a publisher for observer CamelContext, which tests Loop Copy, which creates Route Builder.

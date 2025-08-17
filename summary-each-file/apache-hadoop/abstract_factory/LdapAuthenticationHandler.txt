@@ -1,0 +1,1 @@
+LdapAuthenticationHandler acts as a factory for AuthenticationHandler, which overrides getType method of AuthenticationHandler, init method of AuthenticationHandler, destroy method of AuthenticationHandler, managementOperation method of AuthenticationHandler, authenticate method of AuthenticationHandler.

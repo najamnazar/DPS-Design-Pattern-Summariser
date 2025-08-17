@@ -1,0 +1,2 @@
+ValidatingProcessorNotUseSharedSchemaTest acts as a publisher for observer CamelContext, which sets Up, which tests Valid Message, which tests Valid Message Twice, which tests Invalid Message, which tests No XMLBody, which tests Validating Options, which creates Route Builder.
+ValidatingProcessorNotUseSharedSchemaTest acts as a publisher for observer Service, which sets Up, which tests Valid Message, which tests Valid Message Twice, which tests Invalid Message, which tests No XMLBody, which tests Validating Options, which creates Route Builder.

@@ -1,0 +1,4 @@
+JSONExists acts as a memento, which accepts Context<?> parameter of ctx.
+JSONExists acts as a caretaker for memento C, which accepts Context<?> parameter of ctx.
+JSONExists acts as a caretaker for memento Keyword, which accepts Context<?> parameter of ctx.
+JSONExists acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx.

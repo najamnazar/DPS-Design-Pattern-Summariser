@@ -1,0 +1,1 @@
+QuickfixjConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which ons Exchange parameter of exchange Exchange, which sends Exchange parameter of exchange Out Message, which gets SessionID parameter of messageSessionID Session.

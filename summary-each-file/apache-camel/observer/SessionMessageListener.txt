@@ -1,0 +1,1 @@
+SessionMessageListener acts as an observer for publisher SimpleMessageListenerContainer, SimpleJmsMessageListenerContainer, CamelSimpleMessageListenerContainer, TemporaryQueueMessageListenerContainer, which is inherited by, which ons Message parameter of message, Session parameter of session Message.

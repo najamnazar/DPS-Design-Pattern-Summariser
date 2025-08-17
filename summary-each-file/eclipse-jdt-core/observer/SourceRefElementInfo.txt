@@ -1,0 +1,1 @@
+SourceRefElementInfo acts as an observer, which gets Declaration Source End, which gets Declaration Source Start, which gets Source Range, which sets int parameter of end Source Range End, which sets int parameter of start Source Range Start.

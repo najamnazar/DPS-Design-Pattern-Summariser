@@ -1,0 +1,1 @@
+ArrayDefinition acts as an abstract factory for PackageDefinition, DataTypeDefinition, which is inherited by DefaultArrayDefinition.

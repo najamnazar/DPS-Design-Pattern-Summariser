@@ -1,0 +1,1 @@
+WebHandler acts as an observer for publisher DefaultWebFilterChain, which is inherited by DispatcherHandler, WebHandlerDecorator, ResourceWebHandler, which handles ServerWebExchange parameter of exchange.

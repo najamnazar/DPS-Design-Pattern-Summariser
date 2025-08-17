@@ -1,0 +1,2 @@
+JCacheIdempotentRepository acts as a product for InfinispanIdempotentRepositoryTestSupport, which overrides add method of IdempotentRepository, contains method of IdempotentRepository, remove method of IdempotentRepository, clear method of IdempotentRepository, confirm method of IdempotentRepository.
+JCacheIdempotentRepository acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

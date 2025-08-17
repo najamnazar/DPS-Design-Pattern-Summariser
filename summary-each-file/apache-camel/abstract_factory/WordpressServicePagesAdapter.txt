@@ -1,0 +1,1 @@
+WordpressServicePagesAdapter acts as a factory for WordpressServicePages, which overrides retrieve method of WordpressServicePages.

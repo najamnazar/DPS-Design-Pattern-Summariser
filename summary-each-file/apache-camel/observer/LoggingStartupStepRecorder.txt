@@ -1,0 +1,1 @@
+LoggingStartupStepRecorder acts as a publisher for observer StartupStep, which ons StartupStep parameter of step End Step, which tos String.

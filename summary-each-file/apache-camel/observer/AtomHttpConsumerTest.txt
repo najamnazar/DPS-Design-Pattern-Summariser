@@ -1,0 +1,5 @@
+AtomHttpConsumerTest acts as a publisher for observer ProducerTemplate, which tests Http Consumer, which creates Route Builder.
+AtomHttpConsumerTest acts as a publisher for observer FluentProducerTemplate, which tests Http Consumer, which creates Route Builder.
+AtomHttpConsumerTest acts as a publisher for observer CamelContext, which tests Http Consumer, which creates Route Builder.
+AtomHttpConsumerTest acts as a publisher for observer ConsumerTemplate, which tests Http Consumer, which creates Route Builder.
+AtomHttpConsumerTest acts as a publisher for observer Service, which tests Http Consumer, which creates Route Builder.

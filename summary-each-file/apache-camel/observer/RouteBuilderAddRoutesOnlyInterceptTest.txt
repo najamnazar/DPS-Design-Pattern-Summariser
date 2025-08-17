@@ -1,0 +1,2 @@
+RouteBuilderAddRoutesOnlyInterceptTest acts as a publisher for observer Service, which creates Route Builder, which tests Add Routes.
+RouteBuilderAddRoutesOnlyInterceptTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Add Routes.

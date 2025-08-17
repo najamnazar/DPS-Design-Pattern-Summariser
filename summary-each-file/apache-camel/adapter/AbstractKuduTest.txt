@@ -1,0 +1,1 @@
+AbstractKuduTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts deleteTestTable method of IntegrationKuduConfiguration to CamelTestSupport, which adapts to CamelTestSupport.

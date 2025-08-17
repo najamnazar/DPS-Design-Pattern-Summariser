@@ -1,0 +1,1 @@
+CookieIntegrationTests acts as a publisher for observer HttpServer, which creates Http Handler, which basices HttpServer parameter of httpServer Test, which splits String parameter of value Cookie, which handles ServerHttpRequest parameter of request, ServerHttpResponse parameter of response.

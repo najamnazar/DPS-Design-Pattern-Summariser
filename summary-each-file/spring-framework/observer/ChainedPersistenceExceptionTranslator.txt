@@ -1,0 +1,2 @@
+ChainedPersistenceExceptionTranslator acts as a publisher for observer PersistenceExceptionTranslator, which is inherited by, which adds PersistenceExceptionTranslator parameter of pet Delegate, which gets Delegates, which translates RuntimeException parameter of ex Exception If Possible.
+ChainedPersistenceExceptionTranslator acts as an observer, which adds PersistenceExceptionTranslator parameter of pet Delegate, which gets Delegates, which translates RuntimeException parameter of ex Exception If Possible.

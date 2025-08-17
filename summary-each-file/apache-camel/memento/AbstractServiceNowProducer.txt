@@ -1,0 +1,2 @@
+AbstractServiceNowProducer acts as a caretaker for memento Context, which gets Release, which gets Configuration.
+AbstractServiceNowProducer acts as a memento, which gets Configuration, which gets Configuration.

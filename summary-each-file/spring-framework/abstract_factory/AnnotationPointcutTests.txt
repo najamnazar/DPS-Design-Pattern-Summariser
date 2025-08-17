@@ -1,0 +1,2 @@
+AnnotationPointcutTests acts as a product for AdvisorAdapterRegistrationTests, which overrides.
+AnnotationPointcutTests acts as a product for AdvisorAdapter, which overrides.

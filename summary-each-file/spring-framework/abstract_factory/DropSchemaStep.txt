@@ -1,0 +1,3 @@
+DropSchemaStep acts as an abstract product for DropSchemaStep, which is inherited by DropSchemaImpl, DropSchemaImpl, DropSchemaImpl, DropSchemaImpl, DropSchemaImpl, DropSchemaImpl.
+DropSchemaStep acts as an abstract factory for DropSchemaFinalStep, which is inherited by DropSchemaImpl.
+DropSchemaStep acts as a product for DropSchemaStep, which overrides.

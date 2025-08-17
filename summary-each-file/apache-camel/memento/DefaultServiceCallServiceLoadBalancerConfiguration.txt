@@ -1,0 +1,1 @@
+DefaultServiceCallServiceLoadBalancerConfiguration acts as a memento.

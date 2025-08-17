@@ -1,0 +1,1 @@
+MessageListenerContainer acts as an adaptee for adapter SjmsConsumer, which adapts to DefaultConsumer.

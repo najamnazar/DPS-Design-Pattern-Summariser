@@ -1,0 +1,1 @@
+GetApplicationHomeSubClusterResponsePBImpl acts as a product for FederationApplicationHomeSubClusterStore, which overrides getApplicationHomeSubCluster method of GetApplicationHomeSubClusterResponse.

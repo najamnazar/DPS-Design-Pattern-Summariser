@@ -1,0 +1,1 @@
+DocumentationTool acts as an originator for memento String, which gets a String Name to.

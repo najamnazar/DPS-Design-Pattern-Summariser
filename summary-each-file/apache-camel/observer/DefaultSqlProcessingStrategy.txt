@@ -1,0 +1,1 @@
+DefaultSqlProcessingStrategy acts as an observer, which commits final parameter of DefaultSqlEndpoint, final parameter of Exchange, final parameter of Object, final parameter of JdbcTemplate, final parameter of String, which commits final parameter of DefaultSqlEndpoint, final parameter of JdbcTemplate, final parameter of String Batch Complete.

@@ -1,0 +1,1 @@
+CSimpleCompiler acts as an adaptee for adapter CSimpleLanguage, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport, which adapts to TypedLanguageSupport.

@@ -1,0 +1,1 @@
+DefaultCacheMethodDetails acts as a caretaker for memento A, which gets Method, which gets Annotations, which gets Cache Annotation, which gets Cache Name, which tos String.

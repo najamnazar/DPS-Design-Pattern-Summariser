@@ -1,0 +1,1 @@
+GetJobReportRequest acts as a publisher for observer JobId, which is inherited by GetJobReportRequestPBImpl, which gets Job Id, which sets JobId parameter of jobId Job Id.

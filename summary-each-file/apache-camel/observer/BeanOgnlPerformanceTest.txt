@@ -1,0 +1,2 @@
+BeanOgnlPerformanceTest acts as a publisher for observer CamelContext, which creates Registry, which tests Bean Ognl Performance, which creates Route Builder.
+BeanOgnlPerformanceTest acts as a publisher for observer Service, which creates Registry, which tests Bean Ognl Performance, which creates Route Builder.

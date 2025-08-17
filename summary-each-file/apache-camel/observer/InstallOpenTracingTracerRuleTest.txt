@@ -1,0 +1,5 @@
+InstallOpenTracingTracerRuleTest acts as a publisher for observer FluentProducerTemplate, which inits, which gets Tracer, which is Dump Route Coverage, which tests Send Matching Message, which creates Route Builder.
+InstallOpenTracingTracerRuleTest acts as a publisher for observer ProducerTemplate, which inits, which gets Tracer, which is Dump Route Coverage, which tests Send Matching Message, which creates Route Builder.
+InstallOpenTracingTracerRuleTest acts as a publisher for observer Service, which inits, which gets Tracer, which is Dump Route Coverage, which tests Send Matching Message, which creates Route Builder.
+InstallOpenTracingTracerRuleTest acts as a publisher for observer CamelContext, which inits, which gets Tracer, which is Dump Route Coverage, which tests Send Matching Message, which creates Route Builder.
+InstallOpenTracingTracerRuleTest acts as a publisher for observer ConsumerTemplate, which inits, which gets Tracer, which is Dump Route Coverage, which tests Send Matching Message, which creates Route Builder.

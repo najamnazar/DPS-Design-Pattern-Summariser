@@ -1,0 +1,2 @@
+EnricherDefaultAggregationStrategyTest acts as a publisher for observer CamelContext, which tests Enrich In Only, which tests Enrich In Out, which creates Route Builder.
+EnricherDefaultAggregationStrategyTest acts as a publisher for observer Service, which tests Enrich In Only, which tests Enrich In Out, which creates Route Builder.

@@ -1,0 +1,5 @@
+Meta acts as an abstract product for Meta, which is inherited by AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta.
+Meta acts as an abstract product for Meta, which is inherited by AbstractMeta.
+Meta acts as an abstract product for Meta, which is inherited by AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta, AbstractMeta.
+Meta acts as an abstract factory for Meta, Queries, Catalog, which is inherited by AbstractMeta.
+Meta acts as a product for ConfigurableBeanFactory, which overrides.

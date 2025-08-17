@@ -1,0 +1,2 @@
+ProxyReturnNullIssueTest acts as a publisher for observer CamelContext, which tests Echo, which tests Echo Null, which creates Route Builder, which echoes String parameter of text, which echoes String parameter of text.
+ProxyReturnNullIssueTest acts as a publisher for observer Service, which tests Echo, which tests Echo Null, which creates Route Builder, which echoes String parameter of text, which echoes String parameter of text.

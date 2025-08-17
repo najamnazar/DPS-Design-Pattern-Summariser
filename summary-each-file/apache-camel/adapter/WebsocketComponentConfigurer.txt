@@ -1,0 +1,1 @@
+WebsocketComponentConfigurer acts as an adapter, which adapts to ServletComponentConfigurer, which adapts to ServletComponentConfigurer, which adapts to ServletComponentConfigurer.

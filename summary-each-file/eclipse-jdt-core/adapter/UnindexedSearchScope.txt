@@ -1,0 +1,1 @@
+UnindexedSearchScope acts as an adapter, which adapts to AbstractSearchScope, which adapts to AbstractSearchScope, which adapts isJarFile method of IJavaSearchScope, isJarFile method of IJavaSearchScope to AbstractSearchScope, which adapts to AbstractSearchScope, which adapts to AbstractSearchScope, which adapts to AbstractSearchScope, which adapts to AbstractSearchScope.

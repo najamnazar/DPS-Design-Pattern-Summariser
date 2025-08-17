@@ -1,0 +1,2 @@
+HandlersBeanDefinitionParserTests acts as a component for decorator WebSocketHandlerDecorator, which overrides afterConnectionEstablishedWebSocketHandler, handleMessageWebSocketHandler, handleTransportErrorWebSocketHandler, afterConnectionClosedWebSocketHandler, supportsPartialMessagesWebSocketHandler.
+HandlersBeanDefinitionParserTests acts as a component for decorator WebSocketTransportHandler.

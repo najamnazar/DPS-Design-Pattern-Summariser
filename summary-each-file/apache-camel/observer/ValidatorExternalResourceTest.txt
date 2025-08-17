@@ -1,0 +1,2 @@
+ValidatorExternalResourceTest acts as a publisher for observer CamelContext, which tests External Resource, which creates Route Builder.
+ValidatorExternalResourceTest acts as a publisher for observer Service, which tests External Resource, which creates Route Builder.

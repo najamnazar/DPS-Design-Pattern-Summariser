@@ -1,0 +1,1 @@
+FacebookNameStyle acts as an adaptee for adapter FacebookEndpoint.

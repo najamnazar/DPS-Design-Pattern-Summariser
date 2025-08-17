@@ -1,0 +1,2 @@
+CxfMultipleConsumersSupportTest acts as a caretaker for memento Producer, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.
+CxfMultipleConsumersSupportTest acts as a caretaker for memento Context, which tests Multiple Consumers Not Allowed, which tests No Multiple Consumers, which is Use Route Builder.

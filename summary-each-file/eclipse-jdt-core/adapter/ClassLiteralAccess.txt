@@ -1,0 +1,2 @@
+ClassLiteralAccess acts as an adapter, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression.
+ClassLiteralAccess acts as a target for adapter CompletionOnClassLiteralAccess, which adapts to ClassLiteralAccess, which adapts to ClassLiteralAccess, which adapts to ClassLiteralAccess, which adapts resolveType method of CompletionNode to ClassLiteralAccess, which adapts to ClassLiteralAccess.

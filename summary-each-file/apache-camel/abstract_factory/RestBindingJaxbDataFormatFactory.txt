@@ -1,0 +1,1 @@
+RestBindingJaxbDataFormatFactory acts as an abstract product for RestBindingJaxbDataFormatFactory, which is inherited by JaxbRestBindingJaxbDataFormatFactory.

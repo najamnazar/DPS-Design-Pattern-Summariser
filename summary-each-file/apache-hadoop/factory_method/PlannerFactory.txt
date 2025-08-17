@@ -1,0 +1,1 @@
+PlannerFactory acts as a factory method for Planner, which is inherited by AbstractReservationSystem, PlanContext, PlanContext, AbstractReservationSystem, PlanContext.

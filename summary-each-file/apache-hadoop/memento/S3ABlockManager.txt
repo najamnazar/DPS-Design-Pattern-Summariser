@@ -1,0 +1,2 @@
+S3ABlockManager acts as a caretaker for memento Replica, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.
+S3ABlockManager acts as a caretaker for memento SafeMode, which reads ByteBuffer parameter of buffer, long parameter of startOffset, int parameter of size, which closes.

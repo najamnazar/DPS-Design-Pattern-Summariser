@@ -1,0 +1,1 @@
+WordpressPostConsumer acts as a publisher for observer WordpressConfiguration, which polls, which polls For Post List, which polls For Single.

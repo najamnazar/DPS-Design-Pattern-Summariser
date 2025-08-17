@@ -1,0 +1,2 @@
+KameletProducer acts as an adapter, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+KameletProducer acts as an adaptee for adapter KameletProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.

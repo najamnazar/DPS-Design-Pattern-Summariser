@@ -1,0 +1,1 @@
+EscapedErrors acts as a decorator for component Errors, which is inherited by.

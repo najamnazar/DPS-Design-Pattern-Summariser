@@ -1,0 +1,1 @@
+Location acts as an observer for publisher IncomingInlineQuery, which is inherited by, which gets Latitude, which sets float parameter of latitude Latitude, which gets Longitude, which sets float parameter of longitude Longitude, which tos String.

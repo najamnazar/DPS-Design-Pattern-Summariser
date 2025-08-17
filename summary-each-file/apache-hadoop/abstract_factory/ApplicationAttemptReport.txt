@@ -1,0 +1,1 @@
+ApplicationAttemptReport acts as an abstract product for ApplicationAttemptReport, which is inherited by ApplicationAttemptReportPBImpl.

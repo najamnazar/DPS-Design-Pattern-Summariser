@@ -1,0 +1,1 @@
+InfinispanRemoteComponent acts as a publisher for observer InfinispanRemoteConfiguration, which is inherited by, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which sets InfinispanRemoteConfiguration parameter of configuration Configuration, which gets Configuration.

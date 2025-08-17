@@ -1,0 +1,2 @@
+ContextScopedOnExceptionLoadBalancerStopRouteTest acts as a publisher for observer Service, which tests Ok, which tests Error, which tests Error Ok, which tests Error Ok Error, which creates Route Builder.
+ContextScopedOnExceptionLoadBalancerStopRouteTest acts as a publisher for observer CamelContext, which tests Ok, which tests Error, which tests Error Ok, which tests Error Ok Error, which creates Route Builder.

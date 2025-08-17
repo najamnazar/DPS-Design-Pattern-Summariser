@@ -1,0 +1,1 @@
+WarnGenClass acts as an originator for memento String, which gets String.

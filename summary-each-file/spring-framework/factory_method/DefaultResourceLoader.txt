@@ -1,0 +1,1 @@
+DefaultResourceLoader acts as a product for FreeMarkerConfigurationFactory, which overrides getClassLoader method of ResourceLoader, getResource method of ResourceLoader.

@@ -1,0 +1,1 @@
+TokenizeLanguage acts as a product for PropertyConfigurerAware, which overrides configure method of PropertyConfigurer.

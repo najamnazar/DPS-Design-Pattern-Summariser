@@ -1,0 +1,1 @@
+JobHistoryParser acts as a memento, which is inherited by Hadoop20JHParser, CurrentJHParser, which nexts Event.

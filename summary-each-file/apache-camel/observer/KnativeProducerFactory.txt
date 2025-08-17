@@ -1,0 +1,2 @@
+KnativeProducerFactory acts as an observer for publisher KnativeComponent, which is inherited by KnativeTransportNoop, KnativeHttpProducerFactory, which creates Endpoint parameter of endpoint, KnativeTransportConfiguration parameter of configuration, KnativeResource parameter of service Producer.
+KnativeProducerFactory acts as an observer, which creates Endpoint parameter of endpoint, KnativeTransportConfiguration parameter of configuration, KnativeResource parameter of service Producer.

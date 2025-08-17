@@ -1,0 +1,1 @@
+AuditManagerS3A acts as an abstract factory for OperationAuditor, which is inherited by ActiveAuditManagerS3A, NoopAuditManagerS3A.

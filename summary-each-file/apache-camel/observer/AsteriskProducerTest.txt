@@ -1,0 +1,5 @@
+AsteriskProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Snmp Producer, which creates Route Builder.
+AsteriskProducerTest acts as a publisher for observer CamelContext, which tests Snmp Producer, which creates Route Builder.
+AsteriskProducerTest acts as a publisher for observer Service, which tests Snmp Producer, which creates Route Builder.
+AsteriskProducerTest acts as a publisher for observer ProducerTemplate, which tests Snmp Producer, which creates Route Builder.
+AsteriskProducerTest acts as a publisher for observer ConsumerTemplate, which tests Snmp Producer, which creates Route Builder.

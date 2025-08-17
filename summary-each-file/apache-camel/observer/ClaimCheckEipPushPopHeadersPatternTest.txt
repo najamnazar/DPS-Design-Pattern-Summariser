@@ -1,0 +1,2 @@
+ClaimCheckEipPushPopHeadersPatternTest acts as a publisher for observer Service, which tests Push Pop Headers Pattern, which creates Route Builder.
+ClaimCheckEipPushPopHeadersPatternTest acts as a publisher for observer CamelContext, which tests Push Pop Headers Pattern, which creates Route Builder.

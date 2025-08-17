@@ -1,0 +1,5 @@
+CronPatternsTest acts as a publisher for observer ProducerTemplate, which tests Too Many Parts, which tests Too Little Parts, which tests Plus In URI, which tests Plus In URINok, which is Use Route Builder.
+CronPatternsTest acts as a publisher for observer CamelContext, which tests Too Many Parts, which tests Too Little Parts, which tests Plus In URI, which tests Plus In URINok, which is Use Route Builder.
+CronPatternsTest acts as a publisher for observer Service, which tests Too Many Parts, which tests Too Little Parts, which tests Plus In URI, which tests Plus In URINok, which is Use Route Builder.
+CronPatternsTest acts as a publisher for observer ConsumerTemplate, which tests Too Many Parts, which tests Too Little Parts, which tests Plus In URI, which tests Plus In URINok, which is Use Route Builder.
+CronPatternsTest acts as a publisher for observer FluentProducerTemplate, which tests Too Many Parts, which tests Too Little Parts, which tests Plus In URI, which tests Plus In URINok, which is Use Route Builder.

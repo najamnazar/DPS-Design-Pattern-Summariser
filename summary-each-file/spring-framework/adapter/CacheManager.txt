@@ -1,0 +1,1 @@
+CacheManager acts as an adaptee for adapter JCacheEhCacheAnnotationTests, which adapts to AbstractCacheAnnotationTests, which adapts to AbstractCacheAnnotationTests.

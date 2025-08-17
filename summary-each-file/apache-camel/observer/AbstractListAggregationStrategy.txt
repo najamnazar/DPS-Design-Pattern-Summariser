@@ -1,0 +1,1 @@
+AbstractListAggregationStrategy acts as an observer, which gets Exchange parameter of exchange Value, which is Store As Body On Completion, which ons Exchange parameter of exchange Completion, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange, which gets Exchange parameter of exchange List, which tos String.

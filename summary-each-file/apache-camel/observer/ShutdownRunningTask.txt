@@ -1,0 +1,1 @@
+ShutdownRunningTask acts as an observer for publisher ShutdownAware, ScheduledBatchPollingConsumer, which is inherited by.

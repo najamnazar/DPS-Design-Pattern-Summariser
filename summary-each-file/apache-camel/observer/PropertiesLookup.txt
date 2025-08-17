@@ -1,0 +1,1 @@
+PropertiesLookup acts as an observer for publisher BridgePropertyPlaceholderConfigurer, which is inherited by DefaultPropertiesLookup, which lookups String parameter of name.

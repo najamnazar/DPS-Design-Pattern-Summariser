@@ -1,0 +1,1 @@
+StaticMethodTypeConverter acts as an adapter, which adapts to TypeConverterSupport, which adapts to TypeConverterSupport, which adapts to TypeConverterSupport.

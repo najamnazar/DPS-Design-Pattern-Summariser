@@ -1,0 +1,1 @@
+GetProcessor acts as a component for decorator DelegateProcessor, which overrides processProcessor.

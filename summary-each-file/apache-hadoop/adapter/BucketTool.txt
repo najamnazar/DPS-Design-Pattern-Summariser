@@ -1,0 +1,1 @@
+BucketTool acts as an adaptee for adapter ITestBucketTool, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase.

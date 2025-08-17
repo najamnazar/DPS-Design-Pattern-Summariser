@@ -1,0 +1,1 @@
+AbstractBatch acts as a product for DSLContext, which overrides executeAsync method of Batch, executeAsync method of Batch.

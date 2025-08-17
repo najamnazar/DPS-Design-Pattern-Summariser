@@ -1,0 +1,2 @@
+SedaSuspendConsumerStopRouteTest acts as a publisher for observer CamelContext, which tests Seda Suspend Consumer Stop Route, which creates Route Builder.
+SedaSuspendConsumerStopRouteTest acts as a publisher for observer Service, which tests Seda Suspend Consumer Stop Route, which creates Route Builder.

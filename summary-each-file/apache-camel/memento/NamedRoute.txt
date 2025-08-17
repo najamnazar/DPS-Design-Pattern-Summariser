@@ -1,0 +1,1 @@
+NamedRoute acts as an originator for memento NamedNode, which is inherited by, which gets a NamedNode Input to.

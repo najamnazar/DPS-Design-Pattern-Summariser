@@ -1,0 +1,1 @@
+CommitImpl acts as a factory method for Files, which is inherited by Commit.

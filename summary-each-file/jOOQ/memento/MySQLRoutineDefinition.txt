@@ -1,0 +1,1 @@
+MySQLRoutineDefinition acts as a caretaker for memento ParameterDefinition, which init0s, which init55s, which init54s, which creates Matcher parameter of matcher, int parameter of group, int parameter of columnIndex Parameter, which creates Matcher parameter of matcher, int parameter of group, int parameter of columnIndex, String parameter of paramName Parameter, which is55s.

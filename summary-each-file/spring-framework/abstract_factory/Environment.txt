@@ -1,0 +1,1 @@
+Environment acts as an abstract product for Environment, which is inherited by DummyEnvironment, ConfigurableEnvironment.

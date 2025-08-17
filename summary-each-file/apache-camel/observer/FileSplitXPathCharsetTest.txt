@@ -1,0 +1,2 @@
+FileSplitXPathCharsetTest acts as a publisher for observer CamelContext, which tests Csv, which tests Xml, which creates Route Builder.
+FileSplitXPathCharsetTest acts as a publisher for observer Service, which tests Csv, which tests Xml, which creates Route Builder.

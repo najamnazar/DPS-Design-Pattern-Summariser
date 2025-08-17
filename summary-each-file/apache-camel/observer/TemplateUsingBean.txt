@@ -1,0 +1,1 @@
+TemplateUsingBean acts as a publisher for observer ProducerTemplate, which is inherited by, which gets Template, which sets ProducerTemplate parameter of template Template.

@@ -1,0 +1,2 @@
+AlterTypeFinalStep acts as an abstract product for AlterTypeFinalStep, which is inherited by AlterTypeImpl, AlterTypeImpl, AlterTypeImpl, AlterTypeImpl, AlterTypeImpl, AlterTypeImpl, AlterTypeImpl.
+AlterTypeFinalStep acts as an abstract product for AlterTypeFinalStep, which is inherited by AlterTypeImpl, AlterTypeImpl.

@@ -1,0 +1,1 @@
+AlterTableRenameConstraintToStep acts as a publisher for observer Constraint, which is inherited by AlterTableImpl, which tos Constraint parameter of newName, which tos Name parameter of newName, which tos String parameter of newName.

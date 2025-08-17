@@ -1,0 +1,1 @@
+UserCommandKey acts as a memento, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code, which hashes Code.

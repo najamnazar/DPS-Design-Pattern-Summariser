@@ -1,0 +1,4 @@
+YarnWebParams acts as an adaptee for adapter AHSWebApp.
+YarnWebParams acts as an adaptee for adapter ApplicationPage.
+YarnWebParams acts as an adaptee for adapter RMWebApp.
+YarnWebParams acts as an adaptee for adapter RouterWebApp.

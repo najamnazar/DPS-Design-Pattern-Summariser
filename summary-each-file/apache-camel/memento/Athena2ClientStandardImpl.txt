@@ -1,0 +1,2 @@
+Athena2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Athena Client.
+Athena2ClientStandardImpl acts as a memento, which gets Athena Client.

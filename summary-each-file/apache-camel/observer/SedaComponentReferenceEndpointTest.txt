@@ -1,0 +1,2 @@
+SedaComponentReferenceEndpointTest acts as a publisher for observer Service, which tests Seda Component Reference, which creates Route Builder, which numbers SedaComponent parameter of seda Of References.
+SedaComponentReferenceEndpointTest acts as a publisher for observer CamelContext, which tests Seda Component Reference, which creates Route Builder, which numbers SedaComponent parameter of seda Of References.

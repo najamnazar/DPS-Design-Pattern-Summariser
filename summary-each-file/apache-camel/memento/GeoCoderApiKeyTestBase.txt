@@ -1,0 +1,2 @@
+GeoCoderApiKeyTestBase acts as a caretaker for memento Producer, which gets Api Key.
+GeoCoderApiKeyTestBase acts as a caretaker for memento Context, which gets Api Key.

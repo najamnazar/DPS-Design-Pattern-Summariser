@@ -1,0 +1,1 @@
+AdaptableJobFactory acts as a target for adapter SpringBeanJobFactory, which adapts to AdaptableJobFactory, which adapts to AdaptableJobFactory, which adapts to AdaptableJobFactory.

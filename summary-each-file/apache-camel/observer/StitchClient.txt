@@ -1,0 +1,1 @@
+StitchClient acts as an observer for publisher StitchEndpoint, which is inherited by StitchClientImpl, which batches StitchRequestBody parameter of requestBody.

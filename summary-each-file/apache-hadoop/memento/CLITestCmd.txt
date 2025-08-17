@@ -1,0 +1,2 @@
+CLITestCmd acts as a caretaker for memento CLICommandTypes, which is inherited by, which gets String parameter of tag, Configuration parameter of conf Executor, which gets Type, which gets Cmd, which tos String.
+CLITestCmd acts as an originator for memento CLICommandTypes, which gets a CLICommandTypes Type to.

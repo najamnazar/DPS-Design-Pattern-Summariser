@@ -1,0 +1,1 @@
+CamelSourceAdapterTest acts as a caretaker for memento Context, which tests Sending One Way Message, which tests Sending Two Way Message, which creates Application Context.

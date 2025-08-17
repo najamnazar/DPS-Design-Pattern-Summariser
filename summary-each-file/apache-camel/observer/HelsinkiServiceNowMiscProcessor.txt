@@ -1,0 +1,1 @@
+HelsinkiServiceNowMiscProcessor acts as a publisher for observer ServiceNowDispatcher, which retrieves Exchange parameter of exchange User Role Inheritance, which uploads Exchange parameter of exchange Identify Reconcile.

@@ -1,0 +1,2 @@
+SpringScriptExternalTest acts as a caretaker for memento Context, which tests Script External, which sets Up, which creates Camel Context.
+SpringScriptExternalTest acts as a caretaker for memento Producer, which tests Script External, which sets Up, which creates Camel Context.

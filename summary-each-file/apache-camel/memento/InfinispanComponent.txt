@@ -1,0 +1,2 @@
+InfinispanComponent acts as a caretaker for memento Context.
+InfinispanComponent acts as a caretaker for memento Component.

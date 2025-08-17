@@ -1,0 +1,1 @@
+RunBeforeTestClassCallbacks acts as an observer, which evaluates.

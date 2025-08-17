@@ -1,0 +1,1 @@
+NodeAttributesProvider acts as an adaptee for adapter NodeStatusUpdaterImpl.

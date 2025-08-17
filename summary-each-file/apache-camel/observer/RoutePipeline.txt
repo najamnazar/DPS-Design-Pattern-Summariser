@@ -1,0 +1,3 @@
+RoutePipeline acts as a publisher for observer AsyncCallback.
+RoutePipeline acts as a publisher for observer CamelContext.
+RoutePipeline acts as a publisher for observer Exchange.

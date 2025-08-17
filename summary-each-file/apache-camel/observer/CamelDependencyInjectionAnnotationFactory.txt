@@ -1,0 +1,1 @@
+CamelDependencyInjectionAnnotationFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultDependencyInjectionAnnotationFactory, which creates String parameter of id, Object parameter of bean, String parameter of beanName, boolean parameter of beanPostProcess Bind To Registry Factory.

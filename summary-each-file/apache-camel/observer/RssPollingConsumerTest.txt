@@ -1,0 +1,5 @@
+RssPollingConsumerTest acts as a publisher for observer ConsumerTemplate, which tests Grabbing List Of Entries, which creates Route Builder.
+RssPollingConsumerTest acts as a publisher for observer Service, which tests Grabbing List Of Entries, which creates Route Builder.
+RssPollingConsumerTest acts as a publisher for observer ProducerTemplate, which tests Grabbing List Of Entries, which creates Route Builder.
+RssPollingConsumerTest acts as a publisher for observer FluentProducerTemplate, which tests Grabbing List Of Entries, which creates Route Builder.
+RssPollingConsumerTest acts as a publisher for observer CamelContext, which tests Grabbing List Of Entries, which creates Route Builder.

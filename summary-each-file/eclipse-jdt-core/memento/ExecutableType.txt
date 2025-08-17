@@ -1,0 +1,1 @@
+ExecutableType acts as an originator for memento String.

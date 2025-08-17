@@ -1,0 +1,2 @@
+NamedBindMarkers acts as a product for BindMarkersFactory, which overrides next method of BindMarkers, next method of BindMarkers.
+NamedBindMarkers acts as a factory for BindMarkers, which overrides next method of BindMarkers, next method of BindMarkers.

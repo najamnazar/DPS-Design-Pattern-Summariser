@@ -1,0 +1,2 @@
+HelloWorldAnnotationProcessor acts as a publisher for observer String, which is inherited by, which processes, which gets Declaration parameter of annotatedDecl Type Name, which gets String parameter of typeName Code.
+HelloWorldAnnotationProcessor acts as a publisher for observer String, which processes, which gets Declaration parameter of annotatedDecl Type Name, which gets String parameter of typeName Code.

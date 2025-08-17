@@ -1,0 +1,1 @@
+HSQLDBDataType acts as a caretaker for memento SQL.

@@ -1,0 +1,2 @@
+QuantifiedComparisonCondition acts as a factory for LikeEscapeStep, which overrides.
+QuantifiedComparisonCondition acts as a product for Field, which overrides.

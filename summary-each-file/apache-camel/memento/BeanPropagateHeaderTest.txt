@@ -1,0 +1,2 @@
+BeanPropagateHeaderTest acts as a caretaker for memento Context, which tests Bean In Only Propagate Headers, which creates Registry, which creates Route Builder, which confirms int parameter of id Order.
+BeanPropagateHeaderTest acts as a caretaker for memento Producer, which tests Bean In Only Propagate Headers, which creates Registry, which creates Route Builder, which confirms int parameter of id Order.

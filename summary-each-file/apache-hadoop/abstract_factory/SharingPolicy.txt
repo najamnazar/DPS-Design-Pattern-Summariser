@@ -1,0 +1,2 @@
+SharingPolicy acts as an abstract factory for RLESparseResourceAllocation, which is inherited by NoOverCommitPolicy.
+SharingPolicy acts as an abstract product for SharingPolicy, which is inherited by NoOverCommitPolicy.

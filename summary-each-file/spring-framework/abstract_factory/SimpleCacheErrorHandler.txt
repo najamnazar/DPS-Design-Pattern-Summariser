@@ -1,0 +1,1 @@
+SimpleCacheErrorHandler acts as a product for CachingConfigurer, which overrides handleCacheGetError method of CacheErrorHandler, handleCachePutError method of CacheErrorHandler, handleCacheEvictError method of CacheErrorHandler, handleCacheClearError method of CacheErrorHandler.

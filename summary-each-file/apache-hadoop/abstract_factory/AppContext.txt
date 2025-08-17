@@ -1,0 +1,1 @@
+AppContext acts as an abstract factory for ClusterInfo, ApplicationAttemptId, ApplicationId, Clock, Job, which is inherited by MockAppContext.

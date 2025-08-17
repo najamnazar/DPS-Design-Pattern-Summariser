@@ -1,0 +1,1 @@
+AbstractSingletonProxyFactoryBean acts as a factory for TargetSourceCreator, which overrides.

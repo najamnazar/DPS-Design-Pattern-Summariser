@@ -1,0 +1,1 @@
+IOStatisticsStore acts as an abstract product for TestIOStatisticsSetters, which is inherited by EmptyIOStatisticsStore, ForwardingIOStatisticsStore, IOStatisticsStoreImpl.

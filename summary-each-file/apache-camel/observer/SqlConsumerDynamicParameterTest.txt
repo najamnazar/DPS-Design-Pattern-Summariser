@@ -1,0 +1,5 @@
+SqlConsumerDynamicParameterTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.
+SqlConsumerDynamicParameterTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.
+SqlConsumerDynamicParameterTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.
+SqlConsumerDynamicParameterTest acts as a publisher for observer ProducerTemplate, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.
+SqlConsumerDynamicParameterTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.

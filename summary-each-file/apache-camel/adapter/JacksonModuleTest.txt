@@ -1,0 +1,1 @@
+JacksonModuleTest acts as a target for adapter JacksonModuleRefTest, which adapts to JacksonModuleTest, which adapts to JacksonModuleTest.

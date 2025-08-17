@@ -1,0 +1,2 @@
+RemoveFromIndex acts as a caretaker for memento String, which executes IProgressMonitor parameter of progressMonitor, which tos String.
+RemoveFromIndex acts as a caretaker for memento S, which executes IProgressMonitor parameter of progressMonitor, which tos String.

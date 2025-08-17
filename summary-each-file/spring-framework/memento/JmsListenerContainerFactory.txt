@@ -1,0 +1,1 @@
+JmsListenerContainerFactory acts as an originator for memento C, which creates a C Listener Container to.

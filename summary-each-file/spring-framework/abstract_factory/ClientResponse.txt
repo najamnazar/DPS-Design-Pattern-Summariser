@@ -1,0 +1,2 @@
+ClientResponse acts as an abstract product for ClientResponse, which is inherited by DefaultClientResponse, ClientResponseWrapper.
+ClientResponse acts as an abstract factory for ClientResponse, HttpHeaders, which is inherited by DefaultClientResponse, ClientResponseWrapper.

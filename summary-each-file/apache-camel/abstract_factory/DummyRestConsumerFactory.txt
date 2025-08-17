@@ -1,0 +1,2 @@
+DummyRestConsumerFactory acts as a factory for RestConsumerFactory, which overrides createConsumer method of RestConsumerFactory.
+DummyRestConsumerFactory acts as a factory for RestApiConsumerFactory, which overrides createApiConsumer method of RestApiConsumerFactory.

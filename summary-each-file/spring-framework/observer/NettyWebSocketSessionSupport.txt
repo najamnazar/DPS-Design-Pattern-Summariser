@@ -1,0 +1,1 @@
+NettyWebSocketSessionSupport acts as a publisher for observer WebSocketMessage, which is inherited by, which buffers Factory, which tos WebSocketFrame parameter of frame Message, which tos WebSocketMessage parameter of message Frame.

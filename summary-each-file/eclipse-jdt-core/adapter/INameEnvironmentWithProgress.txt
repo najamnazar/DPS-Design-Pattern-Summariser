@@ -1,0 +1,2 @@
+INameEnvironmentWithProgress acts as an adaptee for adapter NameEnvironmentWithProgress, which adapts to FileSystem.
+INameEnvironmentWithProgress acts as an adaptee for adapter CancelableNameEnvironment, which adapts to SearchableEnvironment.

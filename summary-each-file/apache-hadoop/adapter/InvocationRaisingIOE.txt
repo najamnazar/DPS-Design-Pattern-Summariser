@@ -1,0 +1,2 @@
+InvocationRaisingIOE acts as an adaptee for adapter ITestS3ABlockOutputStreamInterruption, which adapts to S3AScaleTestBase.
+InvocationRaisingIOE acts as an adaptee for adapter StubS3ClientFactory, which adapts to S3ClientFactory.

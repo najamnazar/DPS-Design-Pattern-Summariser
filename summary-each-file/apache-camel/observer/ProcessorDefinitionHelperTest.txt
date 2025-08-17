@@ -1,0 +1,2 @@
+ProcessorDefinitionHelperTest acts as a publisher for observer Service, which tests Filter Type In Outputs, which creates Route Builder.
+ProcessorDefinitionHelperTest acts as a publisher for observer CamelContext, which tests Filter Type In Outputs, which creates Route Builder.

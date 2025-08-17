@@ -1,0 +1,1 @@
+VerifyingProcessor acts as a caretaker for memento Configuration, which processes Exchange parameter of exchange, which gets Exchange parameter of exchange Signature From Exchange, which gets Exchange parameter of exchange Certificate, which gets Exchange parameter of exchange, Class<? parameter of extends, T parameter of defaultsTo Public Key Or Certificate From Header.

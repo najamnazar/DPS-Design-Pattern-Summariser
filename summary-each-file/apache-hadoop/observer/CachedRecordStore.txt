@@ -1,0 +1,1 @@
+CachedRecordStore acts as an observer, which checks Cache Available, which loads boolean parameter of force Cache, which is Update Time, which overrides QueryResult<R> parameter of query Expired Records, which overrides R parameter of record Expired Record, which gets Cached Records, which gets Cached Records And Time Stamp.

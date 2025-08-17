@@ -1,0 +1,1 @@
+DummyDataformat acts as an observer, which marshals Exchange parameter of exchange, Object parameter of graph, OutputStream parameter of stream, which unmarshals Exchange parameter of exchange, InputStream parameter of stream, which gets Data Format Name, which gets Name, which sets String parameter of name Name, which gets Version, which sets String parameter of version Version.

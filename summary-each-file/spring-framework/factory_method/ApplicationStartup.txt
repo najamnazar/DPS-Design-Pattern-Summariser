@@ -1,0 +1,2 @@
+ApplicationStartup acts as an abstract product for AbstractApplicationContext, which is inherited by DefaultApplicationStartup, FlightRecorderApplicationStartup.
+ApplicationStartup acts as a factory for FlightRecorderStartupStep, which overrides.

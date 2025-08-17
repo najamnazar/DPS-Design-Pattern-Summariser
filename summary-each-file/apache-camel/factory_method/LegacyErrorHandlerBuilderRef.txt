@@ -1,0 +1,1 @@
+LegacyErrorHandlerBuilderRef acts as a factory method for LegacyErrorHandlerBuilder, which is inherited by LegacyDefaultErrorHandlerBuilder, LegacyDefaultErrorHandlerBuilder.

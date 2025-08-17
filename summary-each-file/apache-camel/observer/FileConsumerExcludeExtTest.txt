@@ -1,0 +1,2 @@
+FileConsumerExcludeExtTest acts as a publisher for observer CamelContext, which tests File Consumer, which creates Route Builder.
+FileConsumerExcludeExtTest acts as a publisher for observer Service, which tests File Consumer, which creates Route Builder.

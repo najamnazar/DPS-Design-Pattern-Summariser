@@ -1,0 +1,5 @@
+GroovySetHeaderIssueTest acts as a publisher for observer Service, which gets Sub Order Name, which tests Groovy Set Header, which creates Route Builder.
+GroovySetHeaderIssueTest acts as a publisher for observer CamelContext, which gets Sub Order Name, which tests Groovy Set Header, which creates Route Builder.
+GroovySetHeaderIssueTest acts as a publisher for observer ConsumerTemplate, which gets Sub Order Name, which tests Groovy Set Header, which creates Route Builder.
+GroovySetHeaderIssueTest acts as a publisher for observer ProducerTemplate, which gets Sub Order Name, which tests Groovy Set Header, which creates Route Builder.
+GroovySetHeaderIssueTest acts as a publisher for observer FluentProducerTemplate, which gets Sub Order Name, which tests Groovy Set Header, which creates Route Builder.

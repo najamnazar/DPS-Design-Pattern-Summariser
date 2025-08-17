@@ -1,0 +1,2 @@
+CSQueue acts as an abstract product for CSQueue, which is inherited by AbstractCSQueue.
+CSQueue acts as an abstract factory for AbstractUsersManager, Priority, Resource, CSQueue, which is inherited by AbstractCSQueue.

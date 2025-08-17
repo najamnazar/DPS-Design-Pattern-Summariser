@@ -1,0 +1,1 @@
+Statement acts as an abstract product for SpringClassRule, which is inherited by DefaultStatement, AbstractStatement.

@@ -1,0 +1,1 @@
+RegistryOperationsClient acts as a memento.

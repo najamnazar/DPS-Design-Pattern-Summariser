@@ -1,0 +1,1 @@
+ResourceRegion acts as an observer for publisher ResourceHttpMessageWriter, which is inherited by, which gets Resource, which gets Position, which gets Count.

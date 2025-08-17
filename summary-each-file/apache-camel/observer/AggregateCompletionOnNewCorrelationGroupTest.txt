@@ -1,0 +1,2 @@
+AggregateCompletionOnNewCorrelationGroupTest acts as a publisher for observer Service, which tests Completion On New Correlation Group, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+AggregateCompletionOnNewCorrelationGroupTest acts as a publisher for observer CamelContext, which tests Completion On New Correlation Group, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

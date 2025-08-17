@@ -1,0 +1,1 @@
+AbstractRefreshableApplicationContext acts as a factory for AutowiredAnnotationBeanPostProcessorTests, which overrides.

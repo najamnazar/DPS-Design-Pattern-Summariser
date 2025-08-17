@@ -1,0 +1,1 @@
+FederationBulkActivitiesInfo acts as a publisher for observer ActivitiesInfo, which gets List, which sets ArrayList<BulkActivitiesInfo> parameter of list List.

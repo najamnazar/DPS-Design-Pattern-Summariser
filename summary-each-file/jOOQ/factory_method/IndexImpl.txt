@@ -1,0 +1,1 @@
+IndexImpl acts as a product for CreateIndexImpl, which overrides getTable method of Index, getFields method of Index, getWhere method of Index, getUnique method of Index, $table method of Index.

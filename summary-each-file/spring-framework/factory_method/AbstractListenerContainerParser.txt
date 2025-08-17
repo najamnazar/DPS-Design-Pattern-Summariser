@@ -1,0 +1,2 @@
+AbstractListenerContainerParser acts as a product for NamespaceHandlerSupport, which overrides parse method of BeanDefinitionParser.
+AbstractListenerContainerParser acts as a factory for MessageBrokerBeanDefinitionParser, which overrides.

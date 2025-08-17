@@ -1,0 +1,1 @@
+AbstractHandlerExceptionResolver acts as a product for WebMvcConfigurationSupport, which overrides resolveException method of HandlerExceptionResolver.

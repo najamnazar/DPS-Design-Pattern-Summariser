@@ -1,0 +1,2 @@
+AggregateCompletionIntervalTest acts as a publisher for observer Service, which tests Aggregate Interval, which creates Route Builder.
+AggregateCompletionIntervalTest acts as a publisher for observer CamelContext, which tests Aggregate Interval, which creates Route Builder.

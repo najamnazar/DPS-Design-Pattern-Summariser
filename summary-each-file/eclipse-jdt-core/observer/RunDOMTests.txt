@@ -1,0 +1,1 @@
+RunDOMTests acts as a publisher for observer String, which suites.

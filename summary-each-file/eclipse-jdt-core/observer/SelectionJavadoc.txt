@@ -1,0 +1,2 @@
+SelectionJavadoc acts as an observer, which prints int parameter of indent, StringBuilder parameter of output, which internals Scope parameter of scope Resolve, which resolves ClassScope parameter of scope, which resolves MethodScope parameter of scope.
+SelectionJavadoc acts as a publisher for observer Expression, which prints int parameter of indent, StringBuilder parameter of output, which internals Scope parameter of scope Resolve, which resolves ClassScope parameter of scope, which resolves MethodScope parameter of scope.

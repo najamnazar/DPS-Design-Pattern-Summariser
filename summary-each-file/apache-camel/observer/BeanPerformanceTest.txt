@@ -1,0 +1,2 @@
+BeanPerformanceTest acts as a publisher for observer CamelContext, which does String parameter of payload Something, which tests Bean Performance, which creates Route Builder.
+BeanPerformanceTest acts as a publisher for observer Service, which does String parameter of payload Something, which tests Bean Performance, which creates Route Builder.

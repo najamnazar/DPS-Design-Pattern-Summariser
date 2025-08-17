@@ -1,0 +1,1 @@
+JsonParser acts as an originator for memento JsonStructure, which parses JsonStructure, which adds JsonStructure parameter of element, String parameter of key, Stack<JsonStructure> parameter of stack Json.

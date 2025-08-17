@@ -1,0 +1,1 @@
+Hit acts as a publisher for observer Document, which is inherited by, which gets Hit Location, which sets int parameter of value Hit Location, which gets Score, which sets float parameter of value Score, which gets Data, which sets String parameter of value Data, which gets Document, which sets Document parameter of document Document, which tos String.

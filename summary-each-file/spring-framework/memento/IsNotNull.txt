@@ -1,0 +1,2 @@
+IsNotNull acts as a caretaker for memento Clause, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which $arg1s, which $arg1s Field<?> parameter of newValue, which $constructors, which equals Object parameter of that.
+IsNotNull acts as a caretaker for memento C, which is Nullable, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which $arg1s, which $arg1s Field<?> parameter of newValue, which $constructors, which equals Object parameter of that.

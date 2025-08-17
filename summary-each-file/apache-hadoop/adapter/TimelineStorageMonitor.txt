@@ -1,0 +1,3 @@
+TimelineStorageMonitor acts as a target for adapter HBaseStorageMonitor, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor.
+TimelineStorageMonitor acts as an adaptee for adapter HBaseTimelineReaderImpl, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+TimelineStorageMonitor acts as an adaptee for adapter HBaseTimelineWriterImpl, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

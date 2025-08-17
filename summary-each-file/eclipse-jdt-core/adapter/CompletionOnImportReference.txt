@@ -1,0 +1,1 @@
+CompletionOnImportReference acts as a target for adapter CompletionOnPackageVisibilityReference, which adapts to CompletionOnImportReference.

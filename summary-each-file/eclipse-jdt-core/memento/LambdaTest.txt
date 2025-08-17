@@ -1,0 +1,1 @@
+LambdaTest acts as an originator for memento String, which foos String, which defaults a String Method to, which statices a String Method to, which abstracts a String Method to.

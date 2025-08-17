@@ -1,0 +1,1 @@
+SQLCatalogVersionProvider acts as an observer, which versions CatalogDefinition parameter of catalog.

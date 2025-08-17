@@ -1,0 +1,1 @@
+AnnotationComponent acts as a factory method for IAnnotationComponentValue, which is inherited by IAnnotationComponent, IAnnotationDefaultAttribute.

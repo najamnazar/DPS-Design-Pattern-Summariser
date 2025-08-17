@@ -1,0 +1,1 @@
+BufferingClientHttpRequestFactory acts as a publisher for observer ClientHttpRequestFactory, which creates URI parameter of uri, HttpMethod parameter of httpMethod, ClientHttpRequestFactory parameter of requestFactory Request, which shoulds URI parameter of uri, HttpMethod parameter of httpMethod Buffer.

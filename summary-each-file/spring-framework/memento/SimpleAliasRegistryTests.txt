@@ -1,0 +1,1 @@
+SimpleAliasRegistryTests acts as a caretaker for memento A, which aliases Chaining, which aliases Chaining With Multiple Aliases, which removes Alias, which is Alias, which gets Aliases.

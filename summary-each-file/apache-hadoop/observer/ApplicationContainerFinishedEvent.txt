@@ -1,0 +1,1 @@
+ApplicationContainerFinishedEvent acts as an observer, which gets Container ID, which gets Container Status, which gets Container Start Time.

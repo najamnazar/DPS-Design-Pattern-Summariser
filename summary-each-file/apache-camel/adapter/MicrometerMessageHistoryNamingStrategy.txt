@@ -1,0 +1,1 @@
+MicrometerMessageHistoryNamingStrategy acts as an adaptee for adapter MicrometerMessageHistory, which adapts to DefaultMessageHistory, which adapts to DefaultMessageHistory.

@@ -1,0 +1,1 @@
+CatalogCamelContext acts as an observer, which gets String parameter of componentName Component Parameter Json Schema, which gets String parameter of dataFormatName Data Format Parameter Json Schema, which gets String parameter of languageName Language Parameter Json Schema, which gets String parameter of eipName Eip Parameter Json Schema.

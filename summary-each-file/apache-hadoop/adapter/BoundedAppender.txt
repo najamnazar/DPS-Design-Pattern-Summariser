@@ -1,0 +1,1 @@
+BoundedAppender acts as an adaptee for adapter RMAppAttemptImpl, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable.

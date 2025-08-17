@@ -1,0 +1,1 @@
+CompletionOnAnnotationOfType acts as an adaptee for adapter CompletionParser, which adapts to AssistParser.

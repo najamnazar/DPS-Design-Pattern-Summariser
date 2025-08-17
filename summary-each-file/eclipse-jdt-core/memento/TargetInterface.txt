@@ -1,0 +1,2 @@
+TargetInterface acts as a caretaker for memento String, which connects ServerSocket parameter of server, int parameter of timeoutMs, which disconnects, which gets Result, which is Connected, which sends boolean parameter of mustRun, ClassFile[] parameter of classes Classes.
+TargetInterface acts as a caretaker for memento S, which connects ServerSocket parameter of server, int parameter of timeoutMs, which disconnects, which gets Result, which is Connected, which sends boolean parameter of mustRun, ClassFile[] parameter of classes Classes.

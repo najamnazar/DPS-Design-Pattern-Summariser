@@ -1,0 +1,5 @@
+DataFormatDataSetTest acts as a publisher for observer ConsumerTemplate, which tests Concurrent Marshall, which binds Registry parameter of registry To Registry, which creates Route Builder.
+DataFormatDataSetTest acts as a publisher for observer Service, which tests Concurrent Marshall, which binds Registry parameter of registry To Registry, which creates Route Builder.
+DataFormatDataSetTest acts as a publisher for observer ProducerTemplate, which tests Concurrent Marshall, which binds Registry parameter of registry To Registry, which creates Route Builder.
+DataFormatDataSetTest acts as a publisher for observer FluentProducerTemplate, which tests Concurrent Marshall, which binds Registry parameter of registry To Registry, which creates Route Builder.
+DataFormatDataSetTest acts as a publisher for observer CamelContext, which tests Concurrent Marshall, which binds Registry parameter of registry To Registry, which creates Route Builder.

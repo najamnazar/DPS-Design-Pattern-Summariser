@@ -1,0 +1,1 @@
+AbstractAS2ITSupport acts as a target for adapter AS2ServerManagerIT, which adapts to AbstractAS2ITSupport, which adapts to AbstractAS2ITSupport, which adapts to AbstractAS2ITSupport.

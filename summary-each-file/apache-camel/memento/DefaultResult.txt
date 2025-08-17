@@ -1,0 +1,1 @@
+DefaultResult acts as a caretaker for memento Component, which gets Scope, which gets Status, which gets Errors, which tos String.

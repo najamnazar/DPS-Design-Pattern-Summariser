@@ -1,0 +1,1 @@
+RouteContainer acts as an abstract product for XmlTestSupport, which is inherited by AbstractCamelContextFactoryBean, RoutesDefinition.

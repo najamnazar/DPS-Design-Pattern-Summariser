@@ -1,0 +1,3 @@
+RenamedCatalog acts as a caretaker for memento Cat, which gets Schemas.
+RenamedCatalog acts as a caretaker for memento Clause, which gets Schemas.
+RenamedCatalog acts as a caretaker for memento C, which gets Schemas.

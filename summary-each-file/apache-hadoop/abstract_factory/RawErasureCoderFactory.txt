@@ -1,0 +1,1 @@
+RawErasureCoderFactory acts as an abstract factory for RawErasureDecoder, RawErasureEncoder, which is inherited by XORRawErasureCoderFactory, RSRawErasureCoderFactory, NativeRSRawErasureCoderFactory, DummyRawErasureCoderFactory, RSLegacyRawErasureCoderFactory, NativeXORRawErasureCoderFactory.

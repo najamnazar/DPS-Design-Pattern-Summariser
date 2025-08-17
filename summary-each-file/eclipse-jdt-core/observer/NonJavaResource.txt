@@ -1,0 +1,1 @@
+NonJavaResource acts as a publisher for observer Object, which is inherited by, which equals Object parameter of obj, which gets Children, which gets Contents, which gets Entry Name, which gets Full Path, which gets Name, which gets Package Fragment Root, which gets Parent, which hashes Code, which is File, which is Read Only, which tos String.

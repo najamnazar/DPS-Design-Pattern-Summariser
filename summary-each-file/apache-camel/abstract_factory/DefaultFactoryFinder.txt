@@ -1,0 +1,2 @@
+DefaultFactoryFinder acts as a product for ExtendedCamelContext, which overrides getResourcePath method of FactoryFinder, newInstance method of FactoryFinder, newInstance method of FactoryFinder, findClass method of FactoryFinder, findOptionalClass method of FactoryFinder.
+DefaultFactoryFinder acts as a product for FactoryFinderResolver, which overrides getResourcePath method of FactoryFinder, newInstance method of FactoryFinder, newInstance method of FactoryFinder, findClass method of FactoryFinder, findOptionalClass method of FactoryFinder.

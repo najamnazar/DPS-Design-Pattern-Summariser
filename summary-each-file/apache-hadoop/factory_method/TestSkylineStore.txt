@@ -1,0 +1,1 @@
+TestSkylineStore acts as a factory for TestInMemoryStore, which overrides.

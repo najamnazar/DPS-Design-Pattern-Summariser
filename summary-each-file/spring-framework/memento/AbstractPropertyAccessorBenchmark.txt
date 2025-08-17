@@ -1,0 +1,2 @@
+AbstractPropertyAccessorBenchmark acts as a caretaker for memento A, which setups, which sets BenchmarkState parameter of state Property Value, which gets Array, which sets int[] parameter of array Array.
+AbstractPropertyAccessorBenchmark acts as a caretaker for memento B, which setups, which sets BenchmarkState parameter of state Property Value, which gets Array, which sets int[] parameter of array Array.

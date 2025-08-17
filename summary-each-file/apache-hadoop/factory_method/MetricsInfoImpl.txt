@@ -1,0 +1,1 @@
+MetricsInfoImpl acts as a product for MutableGauge, which overrides name method of MetricsInfo, description method of MetricsInfo.

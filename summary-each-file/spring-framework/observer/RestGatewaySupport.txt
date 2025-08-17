@@ -1,0 +1,1 @@
+RestGatewaySupport acts as a publisher for observer RestTemplate, which is inherited by, which sets RestTemplate parameter of restTemplate Rest Template, which gets Rest Template.

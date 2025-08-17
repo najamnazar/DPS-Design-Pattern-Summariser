@@ -1,0 +1,2 @@
+AbstractLeakCheckingTests acts as a caretaker for memento A, which is inherited by, which checks For Leaks.
+AbstractLeakCheckingTests acts as a caretaker for memento B, which is inherited by, which checks For Leaks.

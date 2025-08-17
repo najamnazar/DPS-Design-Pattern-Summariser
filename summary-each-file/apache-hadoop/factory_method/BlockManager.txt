@@ -1,0 +1,3 @@
+BlockManager acts as a factory for BlockManager, which overrides.
+BlockManager acts as a factory method for BlockCollection, which is inherited by Namesystem, BlockManager, BlockManager.
+BlockManager acts as a factory for BlockPlacementPolicyDefault, which overrides.

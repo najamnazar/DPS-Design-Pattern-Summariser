@@ -1,0 +1,1 @@
+ITestS3AMiscOperationCost acts as a publisher for observer OperationCost, which creates Configuration, which withes final parameter of int Audit Count, which tests Mkdir Over Dir, which tests Get Content Summary Root, which tests Get Content Summary Dir, which tests Get Content Missing Path, which gets final parameter of Path Content Summary.

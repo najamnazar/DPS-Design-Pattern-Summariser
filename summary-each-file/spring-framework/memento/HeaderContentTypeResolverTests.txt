@@ -1,0 +1,2 @@
+HeaderContentTypeResolverTests acts as a caretaker for memento ContentType, which resolves Media Types, which resolves Media Types Parse Error.
+HeaderContentTypeResolverTests acts as a caretaker for memento C, which resolves Media Types, which resolves Media Types Parse Error.

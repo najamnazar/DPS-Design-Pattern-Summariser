@@ -1,0 +1,1 @@
+LazySingletonAspectInstanceFactoryDecorator acts as a decorator for component MetadataAwareAspectInstanceFactory, which is inherited by.

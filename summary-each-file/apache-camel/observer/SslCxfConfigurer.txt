@@ -1,0 +1,1 @@
+SslCxfConfigurer acts as an observer, which creates SSLContextParameters parameter of sslContextParameters, CamelContext parameter of camelContext, which configures AbstractWSDLBasedEndpointFactory parameter of factoryBean, which configures Client parameter of client Client, which configures Server parameter of server Server.

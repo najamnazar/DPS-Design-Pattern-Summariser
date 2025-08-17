@@ -1,0 +1,2 @@
+AbstractNamed acts as a factory for CommentOnImpl, which overrides getComment method of CommentOnImpl.
+AbstractNamed acts as a factory for Xmlpi, which overrides.

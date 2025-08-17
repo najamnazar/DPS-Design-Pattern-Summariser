@@ -1,0 +1,1 @@
+GoogleSheetsClientFactory acts as an abstract product for SheetsStreamConsumerIntegrationTest, which is inherited by MockGoogleSheetsClientFactory, BatchGoogleSheetsClientFactory.

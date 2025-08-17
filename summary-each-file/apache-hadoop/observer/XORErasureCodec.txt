@@ -1,0 +1,2 @@
+XORErasureCodec acts as a publisher for observer ErasureCodecOptions, which creates Encoder, which creates Decoder.
+XORErasureCodec acts as a publisher for observer ErasureCoderOptions, which creates Encoder, which creates Decoder.

@@ -1,0 +1,1 @@
+CXFMultiPartTest acts as a caretaker for memento Context, which starts Service, which stops Service, which tests Invoking Service From CXFClient, which invokes String parameter of address, String parameter of in0, String parameter of in1 Multi Part Service, which creates Application Context.

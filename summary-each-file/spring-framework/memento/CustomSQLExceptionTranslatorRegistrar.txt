@@ -1,0 +1,1 @@
+CustomSQLExceptionTranslatorRegistrar acts as a caretaker for memento SQL, which sets Map<String, parameter of SQLExceptionTranslator> Translators, which afters Properties Set.

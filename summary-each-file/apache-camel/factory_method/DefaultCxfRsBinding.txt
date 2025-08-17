@@ -1,0 +1,1 @@
+DefaultCxfRsBinding acts as a product for CxfRsEndpoint, which overrides.

@@ -1,0 +1,2 @@
+ApplicationCleaner acts as a factory method for GPGContext, which is inherited by ApplicationCleaner.
+ApplicationCleaner acts as a factory for ApplicationCleaner, which overrides.

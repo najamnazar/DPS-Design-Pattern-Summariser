@@ -1,0 +1,1 @@
+CheckpointService acts as a target for adapter FSCheckpointService, which adapts to CheckpointService, which adapts to CheckpointService, which adapts to CheckpointService, which adapts to CheckpointService, which adapts to CheckpointService.

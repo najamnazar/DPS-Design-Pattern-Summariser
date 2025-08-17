@@ -1,0 +1,2 @@
+AMRMProxyApplicationContext acts as an abstract product for AMRMProxyApplicationContext, which is inherited by AMRMProxyApplicationContextImpl.
+AMRMProxyApplicationContext acts as an abstract factory for Context, Configuration, ApplicationAttemptId, RegistryOperations, Credentials, which is inherited by AMRMProxyApplicationContextImpl.

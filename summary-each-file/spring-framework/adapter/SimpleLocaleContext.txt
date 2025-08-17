@@ -1,0 +1,1 @@
+SimpleLocaleContext acts as a target for adapter SimpleTimeZoneAwareLocaleContext, which adapts to SimpleLocaleContext, which adapts to SimpleLocaleContext.

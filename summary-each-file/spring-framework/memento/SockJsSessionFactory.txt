@@ -1,0 +1,1 @@
+SockJsSessionFactory acts as an originator for memento SockJsSession, which is inherited by, which creates a SockJsSession Session to.

@@ -1,0 +1,2 @@
+LocalVariableReferenceMatch acts as a caretaker for memento S, which is Read Access, which is Write Access.
+LocalVariableReferenceMatch acts as a caretaker for memento R, which is Read Access, which is Write Access.

@@ -1,0 +1,1 @@
+CatalogImpl acts as a product for CreateDatabaseImpl, which overrides getSchema method of Catalog, getSchema method of Catalog, getSchemas method of Catalog, schemaStream method of Catalog.

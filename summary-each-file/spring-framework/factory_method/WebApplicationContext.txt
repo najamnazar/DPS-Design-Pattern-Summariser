@@ -1,0 +1,1 @@
+WebApplicationContext acts as an abstract product for AbstractAnnotationConfigDispatcherServletInitializer, which is inherited by StubWebApplicationContext.

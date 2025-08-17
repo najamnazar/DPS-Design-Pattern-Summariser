@@ -1,0 +1,1 @@
+MessageResult acts as a publisher for observer IncomingMessage, which is inherited by MessageResultGameScores, which is Ok, which sets boolean parameter of ok Ok, which gets Message, which sets IncomingMessage parameter of message Message, which sets JsonNode parameter of result Result, which is Result, which tos String.

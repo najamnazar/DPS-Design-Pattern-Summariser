@@ -1,0 +1,1 @@
+ServiceStateModel acts as an adaptee for adapter AbstractService, which adapts to Service, which adapts to Service, which adapts to Service, which adapts to Service, which adapts to Service, which adapts to Service, which adapts to Service.

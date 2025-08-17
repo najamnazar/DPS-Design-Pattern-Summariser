@@ -1,0 +1,1 @@
+DatePerson acts as a caretaker for memento B, which gets Last Name, which sets String parameter of lastName Last Name, which gets Age, which sets long parameter of age Age, which gets Birth Date, which sets LocalDate parameter of birthDate Birth Date, which gets Balance, which sets BigDecimal parameter of balance Balance.

@@ -1,0 +1,2 @@
+ReflectiveAspectJAdvisorFactoryTests acts as a caretaker for memento B, which gets Fixture.
+ReflectiveAspectJAdvisorFactoryTests acts as a caretaker for memento ITestBean, which gets Fixture.

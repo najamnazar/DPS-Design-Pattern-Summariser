@@ -1,0 +1,1 @@
+SolrService acts as an adaptee for adapter SolrITSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

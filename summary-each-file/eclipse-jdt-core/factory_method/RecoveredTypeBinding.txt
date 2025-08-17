@@ -1,0 +1,1 @@
+RecoveredTypeBinding acts as a factory method for IPackageBinding, which is inherited by ITypeBinding, PackageDeclaration, BindingResolver, PackageDeclaration, PackageDeclaration.

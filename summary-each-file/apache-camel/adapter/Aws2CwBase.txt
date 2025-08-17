@@ -1,0 +1,1 @@
+Aws2CwBase acts as an adapter, which adapts to CamelTestSupport.

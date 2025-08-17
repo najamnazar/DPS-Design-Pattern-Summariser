@@ -1,0 +1,1 @@
+AlterDatabaseStep acts as a publisher for observer Catalog, which is inherited by AlterDatabaseImpl, which renames @Stringly.Name parameter of String To, which renames Name parameter of renameTo To, which renames Catalog parameter of renameTo To.

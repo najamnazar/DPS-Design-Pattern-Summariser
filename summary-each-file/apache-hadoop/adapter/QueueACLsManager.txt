@@ -1,0 +1,2 @@
+QueueACLsManager acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable.
+QueueACLsManager acts as an adaptee for adapter ClientRMService, which adapts to AbstractService, ApplicationClientProtocol, which adapts to AbstractService, ApplicationClientProtocol, which adapts to AbstractService, ApplicationClientProtocol.

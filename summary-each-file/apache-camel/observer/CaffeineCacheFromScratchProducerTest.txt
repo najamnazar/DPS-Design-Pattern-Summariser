@@ -1,0 +1,5 @@
+CaffeineCacheFromScratchProducerTest acts as a publisher for observer Service, which tests Cache Get, which creates Route Builder.
+CaffeineCacheFromScratchProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Cache Get, which creates Route Builder.
+CaffeineCacheFromScratchProducerTest acts as a publisher for observer CamelContext, which tests Cache Get, which creates Route Builder.
+CaffeineCacheFromScratchProducerTest acts as a publisher for observer ConsumerTemplate, which tests Cache Get, which creates Route Builder.
+CaffeineCacheFromScratchProducerTest acts as a publisher for observer ProducerTemplate, which tests Cache Get, which creates Route Builder.

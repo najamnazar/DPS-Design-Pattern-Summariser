@@ -1,0 +1,2 @@
+SedaUnitOfWorkTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SedaUnitOfWorkTest acts as an adaptee for adapter SedaUnitOfWorkTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

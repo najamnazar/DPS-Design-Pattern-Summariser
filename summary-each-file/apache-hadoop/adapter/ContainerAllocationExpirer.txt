@@ -1,0 +1,2 @@
+ContainerAllocationExpirer acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable.
+ContainerAllocationExpirer acts as an adaptee for adapter RMNodeImpl, which adapts to RMNode, which adapts to RMNode.

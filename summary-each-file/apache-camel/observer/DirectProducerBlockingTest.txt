@@ -1,0 +1,2 @@
+DirectProducerBlockingTest acts as a publisher for observer CamelContext, which tests Producer Blocks For Suspended Consumer, which tests Producer Blocks With No Consumers, which tests Producer Blocks Resume Test, which creates Route Builder.
+DirectProducerBlockingTest acts as a publisher for observer Service, which tests Producer Blocks For Suspended Consumer, which tests Producer Blocks With No Consumers, which tests Producer Blocks Resume Test, which creates Route Builder.

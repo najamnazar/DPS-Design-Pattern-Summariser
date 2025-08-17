@@ -1,0 +1,1 @@
+AzcopyToolHelper acts as a singleton, which gets an AzcopyToolHelper Instance to.

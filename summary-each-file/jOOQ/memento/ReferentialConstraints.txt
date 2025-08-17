@@ -1,0 +1,1 @@
+ReferentialConstraints acts as a caretaker for memento Constraint, which gets Record Type, which gets Schema, which gets References, which referencings Constraint, which referenceds Constraint, which ases String parameter of alias, which ases Name parameter of alias, which renames String parameter of name, which renames Name parameter of name.

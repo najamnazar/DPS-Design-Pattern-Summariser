@@ -1,0 +1,2 @@
+PeriodTaskScheduler acts as an adaptee for adapter AbstractCamelContext, which adapts to BaseService, which adapts to BaseService.
+PeriodTaskScheduler acts as an adaptee for adapter DefaultPeriodTaskScheduler, which adapts to TimerListenerManager, which adapts to TimerListenerManager.

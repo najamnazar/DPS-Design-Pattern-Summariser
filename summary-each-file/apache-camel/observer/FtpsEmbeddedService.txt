@@ -1,0 +1,1 @@
+FtpsEmbeddedService acts as a publisher for observer EmbeddedConfiguration, which creates EmbeddedConfiguration parameter of embeddedConfiguration Ftp Server Factory, which creates EmbeddedConfiguration parameter of embeddedConfiguration Ssl Configuration.

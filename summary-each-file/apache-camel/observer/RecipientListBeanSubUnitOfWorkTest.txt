@@ -1,0 +1,2 @@
+RecipientListBeanSubUnitOfWorkTest acts as a publisher for observer Service, which tests OK, which tests Error, which creates Route Builder, which wheres To Go, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.
+RecipientListBeanSubUnitOfWorkTest acts as a publisher for observer CamelContext, which tests OK, which tests Error, which creates Route Builder, which wheres To Go, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

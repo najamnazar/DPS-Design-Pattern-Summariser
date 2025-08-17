@@ -1,0 +1,1 @@
+MetricsType acts as an adaptee for adapter MetricsComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

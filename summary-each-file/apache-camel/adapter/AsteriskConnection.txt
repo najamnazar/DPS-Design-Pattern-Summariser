@@ -1,0 +1,2 @@
+AsteriskConnection acts as an adaptee for adapter AsteriskConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+AsteriskConnection acts as an adaptee for adapter AsteriskProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer.

@@ -1,0 +1,2 @@
+PropertiesComponentLoadPropertiesFromFileTrimValuesTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Must Trim Values.
+PropertiesComponentLoadPropertiesFromFileTrimValuesTest acts as a publisher for observer Service, which creates Camel Context, which tests Must Trim Values.

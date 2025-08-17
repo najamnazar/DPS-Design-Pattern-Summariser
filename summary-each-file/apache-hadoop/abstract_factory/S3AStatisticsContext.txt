@@ -1,0 +1,2 @@
+S3AStatisticsContext acts as an abstract product for S3AStatisticsContext, which is inherited by BondedS3AStatisticsContext, EmptyS3AStatisticsContext.
+S3AStatisticsContext acts as an abstract factory for S3AMultipartUploaderStatistics, StatisticsFromAwsSdk, BlockOutputStreamStatistics, which is inherited by BondedS3AStatisticsContext, EmptyS3AStatisticsContext.

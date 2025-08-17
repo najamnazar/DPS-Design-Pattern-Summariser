@@ -1,0 +1,1 @@
+Type acts as an observer for publisher DataChecksum, which is inherited by.

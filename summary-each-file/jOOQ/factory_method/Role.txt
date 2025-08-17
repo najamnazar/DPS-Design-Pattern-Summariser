@@ -1,0 +1,1 @@
+Role acts as an abstract product for RevokeImpl, which is inherited by RoleImpl.

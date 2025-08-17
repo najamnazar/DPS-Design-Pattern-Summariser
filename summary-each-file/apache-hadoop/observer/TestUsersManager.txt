@@ -1,0 +1,1 @@
+TestUsersManager acts as a publisher for observer Resource, which is inherited by, which setups, which tests Compute User Limit With Zero Capacity Queue, which tests Compute User Limit With Non Zero Capacity Queue, which checks Resource parameter of expectedLimit Limit.

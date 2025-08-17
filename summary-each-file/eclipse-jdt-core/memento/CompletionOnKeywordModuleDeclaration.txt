@@ -1,0 +1,3 @@
+CompletionOnKeywordModuleDeclaration acts as a caretaker for memento S, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a caretaker for memento List, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a caretaker for memento C, which gets Token, which gets Possible Keywords.

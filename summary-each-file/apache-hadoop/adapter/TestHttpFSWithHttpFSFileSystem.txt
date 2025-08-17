@@ -1,0 +1,1 @@
+TestHttpFSWithHttpFSFileSystem acts as a target for adapter TestHttpFSFWithSWebhdfsFileSystem, which adapts to TestHttpFSWithHttpFSFileSystem, which adapts to TestHttpFSWithHttpFSFileSystem, which adapts to TestHttpFSWithHttpFSFileSystem, which adapts to TestHttpFSWithHttpFSFileSystem.

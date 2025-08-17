@@ -1,0 +1,1 @@
+MountTableManager acts as an abstract factory for GetDestinationResponse, AddMountTableEntryResponse, RefreshMountTableEntriesResponse, AddMountTableEntriesResponse, UpdateMountTableEntryResponse, GetMountTableEntriesResponse, RemoveMountTableEntryResponse, which is inherited by RouterAdminProtocolTranslatorPB, MountTableStore.

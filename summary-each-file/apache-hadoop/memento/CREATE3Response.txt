@@ -1,0 +1,1 @@
+CREATE3Response acts as a caretaker for memento Attribute, which gets Obj Handle, which gets Post Op Obj Attr, which gets Dir Wcc, which deserializes XDR parameter of xdr, which serializes XDR parameter of out, int parameter of xid, Verifier parameter of verifier.

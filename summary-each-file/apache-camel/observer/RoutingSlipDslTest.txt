@@ -1,0 +1,2 @@
+RoutingSlipDslTest acts as a publisher for observer CamelContext, which tests Routing Slip Dsl, which creates Route Builder.
+RoutingSlipDslTest acts as a publisher for observer Service, which tests Routing Slip Dsl, which creates Route Builder.

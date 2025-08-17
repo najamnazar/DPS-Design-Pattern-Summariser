@@ -1,0 +1,4 @@
+MulticastProcessor acts as a factory for EnrichDefinition, which overrides.
+MulticastProcessor acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+MulticastProcessor acts as a factory for FaultToleranceProcessorFactory, which overrides.
+MulticastProcessor acts as a factory for TransformerRouteTest, which overrides.

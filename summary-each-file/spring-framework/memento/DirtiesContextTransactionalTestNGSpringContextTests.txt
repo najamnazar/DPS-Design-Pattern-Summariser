@@ -1,0 +1,3 @@
+DirtiesContextTransactionalTestNGSpringContextTests acts as a caretaker for memento ApplicationContext, which performs Common Assertions, which dirties Context, which verifies Context Was Dirtied, which verifies Context Was Not Dirtied.
+DirtiesContextTransactionalTestNGSpringContextTests acts as a caretaker for memento C, which performs Common Assertions, which dirties Context, which verifies Context Was Dirtied, which verifies Context Was Not Dirtied.
+DirtiesContextTransactionalTestNGSpringContextTests acts as a caretaker for memento A, which performs Common Assertions, which dirties Context, which verifies Context Was Dirtied, which verifies Context Was Not Dirtied.

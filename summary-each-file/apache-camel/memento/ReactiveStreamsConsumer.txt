@@ -1,0 +1,1 @@
+ReactiveStreamsConsumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which ons Complete, which ons Throwable parameter of error Error, which does Exchange parameter of exchange, AsyncCallback parameter of callback Send, which gets Endpoint.

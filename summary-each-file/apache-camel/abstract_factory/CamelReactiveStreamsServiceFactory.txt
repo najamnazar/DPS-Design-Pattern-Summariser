@@ -1,0 +1,1 @@
+CamelReactiveStreamsServiceFactory acts as an abstract factory for CamelReactiveStreamsService, which is inherited by ReactorStreamsServiceFactory, ReactiveStreamsTestServiceFactory, DefaultCamelReactiveStreamsServiceFactory, RxJavaStreamsServiceFactory.

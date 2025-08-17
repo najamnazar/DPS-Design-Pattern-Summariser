@@ -1,0 +1,2 @@
+GitHubComponent acts as a caretaker for memento Context, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Oauth Token, which sets String parameter of oauthToken Oauth Token.
+GitHubComponent acts as a caretaker for memento Component, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which gets Oauth Token, which sets String parameter of oauthToken Oauth Token.

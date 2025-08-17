@@ -1,0 +1,1 @@
+PersonRepository acts as an abstract factory for Person, which is inherited by HibernatePersonRepository.

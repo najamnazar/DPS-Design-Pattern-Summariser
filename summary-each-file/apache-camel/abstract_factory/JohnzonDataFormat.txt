@@ -1,0 +1,5 @@
+JohnzonDataFormat acts as a product for DataFormatResolver, which overrides marshal method of DataFormat, unmarshal method of DataFormat.
+JohnzonDataFormat acts as a product for DataFormatFactory, which overrides marshal method of DataFormat, unmarshal method of DataFormat.
+JohnzonDataFormat acts as a product for CamelContext, which overrides marshal method of DataFormat, unmarshal method of DataFormat.
+JohnzonDataFormat acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.
+JohnzonDataFormat acts as a product for ModelReifierFactory, which overrides marshal method of DataFormat, unmarshal method of DataFormat.

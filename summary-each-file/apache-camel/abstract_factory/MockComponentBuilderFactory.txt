@@ -1,0 +1,1 @@
+MockComponentBuilderFactory acts as an abstract factory for MockComponent, which is inherited by.

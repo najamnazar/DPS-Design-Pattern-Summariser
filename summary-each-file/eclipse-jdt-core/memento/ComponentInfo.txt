@@ -1,0 +1,2 @@
+ComponentInfo acts as a caretaker for memento C, which gets Attribute Count, which gets Attributes, which gets Descriptor, which gets Descriptor Index, which gets Name, which gets Name Index, which sizes In Bytes.
+ComponentInfo acts as a caretaker for memento Class, which gets Attribute Count, which gets Attributes, which gets Descriptor, which gets Descriptor Index, which gets Name, which gets Name Index, which sizes In Bytes.

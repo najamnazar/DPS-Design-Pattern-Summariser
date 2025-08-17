@@ -1,0 +1,1 @@
+NodeState acts as an observer for publisher RMNodeImpl, which is inherited by, which is Unusable, which is Inactive State, which is Active State.

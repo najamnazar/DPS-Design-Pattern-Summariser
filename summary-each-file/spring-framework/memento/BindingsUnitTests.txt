@@ -1,0 +1,1 @@
+BindingsUnitTests acts as a caretaker for memento B, which shoulds Create Bindings, which shoulds Apply Value Binding, which shoulds Apply Simple Value Binding, which shoulds Apply Null Binding, which shoulds Apply Simple Null Binding, which shoulds Consume Bindings, which shoulds Merge Bindings.

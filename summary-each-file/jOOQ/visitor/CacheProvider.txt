@@ -1,0 +1,130 @@
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ConditionProviderImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractPackageDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by JSONTable, which provides CacheContext parameter of context.
+CacheProvider acts as an element for visitor CacheProvider, which is inherited by DefaultCacheProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractBatch, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DivideBy, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by GroupConcat, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by SQLSchemaVersionProvider, ConstantSchemaVersionProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DayToSecond, YearToSecond, YearToMonth, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractUDTDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultRelations, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by Geography, Geometry, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DerivedColumnListImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by RowImplN, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by LoaderErrorImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by WindowDefinitionImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultExecuteListenerProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CharacterSetImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultSequenceDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultDiagnosticsListenerProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultSyntheticDaoDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultRecordContext, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by TableImpl, QueryPartCollectionView, SortFieldImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultTransactionContext, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by PostgresDatabase, FirebirdDatabase, DerbyDatabase, MySQLDatabase, H2Database, HSQLDBDatabase, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CreateTableImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ParserImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractFormattable, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CallbackVisitListener, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by QueryPartCollectionView, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by GrantImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CreateDomainImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AlterIndexImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultDiagnosticsContext, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CommitsImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by WindowSpecificationImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractRoutineDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultRecordListenerProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by RevokeImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultForeignKeyDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AsteriskImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by BlockImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultIdentityDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DiagnosticsListeners, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DropIndexImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ConstantCatalogVersionProvider, SQLCatalogVersionProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultUniqueKeyDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractAttachableQueryPart, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by XMLTable, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ModeDeferred, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AlterSchemaImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by MigrationImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractMeta, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultVisitListenerProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractIndexDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AlterDatabaseImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultDomainDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by JooqLogger, BufferedLog, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AlterDomainImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CollationImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CallbackExecuteListener, FetchServerOutputListener, ExecuteListeners, StopWatchListener, ExceptionTranslator, LoggerListener, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultColumnDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CommitImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by GitCommitProvider, DefaultCommitProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultIndexColumnDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CallbackFormattingProvider, DefaultFormattingProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CreateIndexImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractScope, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ResultsImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by InformationSchemaMetaProvider, CatalogMetaProvider, TableMetaProvider, SchemaMetaProvider, SourceMetaProvider, InterpreterMetaProvider, TranslatingMetaProvider, DefaultMetaProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractTableDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractTable, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CallbackRecordListener, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractConfiguration, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultRecordUnmapperProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractExecuteScope, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultBookService, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractDelegatingQuery, AbstractQuery, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ScopeMarker, AbstractQueryPart, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultJavaTypeResolver, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AlterTableImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by VersionsImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by XMLQuery, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by FilesImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by MigrationListeners, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ConditionProviderImpl, AbstractCondition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by Like, NotSimilarTo, QuantifiedComparisonCondition, SimilarTo, NotLike, NotLikeIgnoreCase, LikeIgnoreCase, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultUnwrapperProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by IndexImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by MockFileDatabase, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by VersionImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CaseImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultCheckConstraintDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by WithImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by QueriesImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultCacheContext, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractNamed, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DropTypeImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by XMLExists, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultExecuteContext, SimpleExecuteContext, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractConstraintDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CatalogImpl, LazyCatalog, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by QualifiedAsteriskImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by RowBetweenCondition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultEmbeddableDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultDataTypeDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultMigrationContext, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractRecord, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by SpringTransactionProvider, ThreadLocalTransactionProvider, DefaultTransactionProvider, NoTransactionProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AlterTypeImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by FileImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultCharsetProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DropDomainImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by ConstraintImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by MatchersCatalogType, MatchersEmbeddableType, Schema, MigrationType, KeyColumnUsage, InterpreterSearchSchema, MatchersSchemaType, SyntheticReadonlyColumnType, Database, ParentType, EmbeddableDefinitionType, Settings, CheckConstraint, ElementType, MigrationsType, MatchersTableType, EmbeddableField, Sequence, Matchers, MatcherRule, SyntheticViewType, SyntheticReadonlyRowidType, CommitType, MatchersSequenceType, Jdbc, MatchersFieldType, SyntheticIdentityType, ForcedType, LambdaConverter, SyntheticDaoMethodType, CatalogMappingType, SyntheticObjectsType, MatchersRoutineType, InformationSchema, IndexColumnUsage, MigrationSchema, CommentType, Target, RenderMapping, Column, Generate, SyntheticUniqueKeyType, RenderFormatting, Property, SyntheticForeignKeyType, SyntheticColumnType, SyntheticPrimaryKeyType, CustomType, MappedSchema, MappedTable, Table, ReferentialConstraint, SchemaMappingType, View, MatchersEnumType, DomainConstraint, MappedCatalog, FileType, SyntheticDaoType, ParseSearchSchema, Strategy, TableConstraint, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultExecutorProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultMigrationListenerProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultEmbeddableColumnDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by BatchSingle, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultParameterDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DropSchemaImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultEnumDefinition, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by AbstractName, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DropTableImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultCacheProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CommentImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CommentOnImpl, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by DefaultTransactionListenerProvider, which provides CacheContext parameter of context.
+CacheProvider acts as a visitor for element CacheProvider, which is inherited by CreateSequenceImpl, which provides CacheContext parameter of context.

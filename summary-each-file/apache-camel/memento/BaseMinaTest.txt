@@ -1,0 +1,2 @@
+BaseMinaTest acts as a caretaker for memento Context, which inits Port, which gets Next Port, which gets Port, which is Use Ssl Context, which creates Ssl Context Parameters.
+BaseMinaTest acts as a caretaker for memento Producer, which inits Port, which gets Next Port, which gets Port, which is Use Ssl Context, which creates Ssl Context Parameters.

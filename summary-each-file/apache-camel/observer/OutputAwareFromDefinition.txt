@@ -1,0 +1,2 @@
+OutputAwareFromDefinition acts as a publisher for observer FromDefinition, which is inherited by, which gets Delegate, which sets FromDefinition parameter of delegate Delegate, which adds ProcessorDefinition<?> parameter of processorDefinition Output, which gets Outputs.
+OutputAwareFromDefinition acts as an observer, which gets Delegate, which sets FromDefinition parameter of delegate Delegate, which adds ProcessorDefinition<?> parameter of processorDefinition Output, which gets Outputs.

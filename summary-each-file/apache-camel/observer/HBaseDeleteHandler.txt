@@ -1,0 +1,1 @@
+HBaseDeleteHandler acts as an observer, which removes Table parameter of table, byte[] parameter of row.

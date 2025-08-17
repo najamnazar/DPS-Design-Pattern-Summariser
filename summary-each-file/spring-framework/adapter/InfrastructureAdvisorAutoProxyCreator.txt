@@ -1,0 +1,1 @@
+InfrastructureAdvisorAutoProxyCreator acts as an adapter, which adapts to AbstractAdvisorAutoProxyCreator, which adapts to AbstractAdvisorAutoProxyCreator.

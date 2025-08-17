@@ -1,0 +1,2 @@
+AbstractHttpRequestTests acts as a caretaker for memento C, which is inherited by, which setups, which sets String parameter of method, String parameter of requestUri Request, which resets Request And Response, which resets Request, which resets Response.
+AbstractHttpRequestTests acts as a caretaker for memento A, which is inherited by, which setups, which sets String parameter of method, String parameter of requestUri Request, which resets Request And Response, which resets Request, which resets Response.

@@ -1,0 +1,2 @@
+WireTapLogTest acts as a publisher for observer Service, which tests Wire Tap Log, which creates Route Builder.
+WireTapLogTest acts as a publisher for observer CamelContext, which tests Wire Tap Log, which creates Route Builder.

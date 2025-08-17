@@ -1,0 +1,1 @@
+TaskAttemptInfo acts as an abstract product for TaskAttemptInfo, which is inherited by MapTaskAttemptInfo, MapTaskAttemptInfo, ReduceTaskAttemptInfo, ReduceTaskAttemptInfo.

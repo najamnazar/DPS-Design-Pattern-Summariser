@@ -1,0 +1,1 @@
+NestMembersAttribute acts as a product for IClassFileReader, which overrides getNumberOfNestMembers method of INestMembersAttribute, getNestMemberAttributesEntries method of INestMembersAttribute.

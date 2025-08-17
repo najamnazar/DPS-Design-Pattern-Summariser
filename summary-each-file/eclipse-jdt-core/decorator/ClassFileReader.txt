@@ -1,0 +1,1 @@
+ClassFileReader acts as a component for decorator ExternalAnnotationDecorator.

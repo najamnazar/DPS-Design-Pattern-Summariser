@@ -1,0 +1,2 @@
+PrivilegedEntity acts as an adaptee for adapter AbstractCSQueue, which adapts to CSQueue, which adapts to CSQueue, which adapts to CSQueue, which adapts to CSQueue.
+PrivilegedEntity acts as an adaptee for adapter FSQueue, which adapts to Queue, which adapts to Queue, which adapts to Queue, which adapts to Queue.

@@ -1,0 +1,1 @@
+ITestS3ARenameCost acts as a publisher for observer OperationCost, which tests Rename File To Different Directory, which tests Rename Same Directory, which tests Cost Of Root File Rename, which tests Cost Of Root File Delete.

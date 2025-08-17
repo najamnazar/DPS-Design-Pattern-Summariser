@@ -1,0 +1,1 @@
+MockRMAdminRequestInterceptor acts as an adapter, which adapts to DefaultRMAdminRequestInterceptor, which adapts to DefaultRMAdminRequestInterceptor.

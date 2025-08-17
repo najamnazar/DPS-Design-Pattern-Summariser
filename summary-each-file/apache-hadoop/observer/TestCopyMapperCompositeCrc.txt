@@ -1,0 +1,2 @@
+TestCopyMapperCompositeCrc acts as a publisher for observer MiniDFSCluster, which setups, which expects Different Block Sizes Multiple Blocks To Succeed, which expects Different Bytes Per Crc To Succeed.
+TestCopyMapperCompositeCrc acts as a publisher for observer Path, which setups, which expects Different Block Sizes Multiple Blocks To Succeed, which expects Different Bytes Per Crc To Succeed.

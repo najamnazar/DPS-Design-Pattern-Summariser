@@ -1,0 +1,2 @@
+DeadLetterChannelLogExhaustedMessageHistoryWithBodyTest acts as a publisher for observer CamelContext, which tests Log Exhausted Message History, which creates Route Builder.
+DeadLetterChannelLogExhaustedMessageHistoryWithBodyTest acts as a publisher for observer Service, which tests Log Exhausted Message History, which creates Route Builder.

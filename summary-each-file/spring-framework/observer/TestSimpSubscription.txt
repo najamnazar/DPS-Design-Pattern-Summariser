@@ -1,0 +1,1 @@
+TestSimpSubscription acts as a publisher for observer TestSimpSession, which is inherited by, which gets Id, which gets Session, which sets TestSimpSession parameter of session Session, which gets Destination, which equals Object parameter of other, which hashes Code, which tos String.

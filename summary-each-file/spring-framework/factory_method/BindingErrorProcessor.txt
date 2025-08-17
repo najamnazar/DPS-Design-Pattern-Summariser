@@ -1,0 +1,1 @@
+BindingErrorProcessor acts as an abstract product for DataBinder, which is inherited by DefaultBindingErrorProcessor.

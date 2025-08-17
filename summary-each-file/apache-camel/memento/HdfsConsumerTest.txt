@@ -1,0 +1,2 @@
+HdfsConsumerTest acts as a caretaker for memento Context, which sets Up, which does Start Without Hdfs Setup, which does Start With Hdfs Setup, which does Poll From Existing Local File, which does Poll From Existing Local File With Stream Download.
+HdfsConsumerTest acts as a caretaker for memento Configuration, which sets Up, which does Start Without Hdfs Setup, which does Start With Hdfs Setup, which does Poll From Existing Local File, which does Poll From Existing Local File With Stream Download.

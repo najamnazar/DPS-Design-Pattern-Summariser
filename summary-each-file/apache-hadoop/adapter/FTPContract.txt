@@ -1,0 +1,1 @@
+FTPContract acts as an adapter, which adapts to AbstractBondedFSContract, which adapts to AbstractBondedFSContract.

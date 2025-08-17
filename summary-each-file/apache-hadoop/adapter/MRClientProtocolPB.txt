@@ -1,0 +1,1 @@
+MRClientProtocolPB acts as an adaptee for adapter MRClientProtocolPBClientImpl.

@@ -1,0 +1,2 @@
+JettyHttpEndpoint11 acts as a publisher for observer SSLContextParameters, which gets Http Binding, which sets HttpBinding parameter of binding Http Binding, which creates Content Exchange.
+JettyHttpEndpoint11 acts as a publisher for observer HttpBinding, which is inherited by, which gets Http Binding, which sets HttpBinding parameter of binding Http Binding, which creates Content Exchange.

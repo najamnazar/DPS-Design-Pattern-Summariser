@@ -1,0 +1,3 @@
+LineNumberAttribute acts as a memento, which gets Line Number Table Length, which gets Line Number Table Length.
+LineNumberAttribute acts as a caretaker for memento C, which gets Line Number Table, which gets Line Number Table Length.
+LineNumberAttribute acts as a caretaker for memento Class, which gets Line Number Table, which gets Line Number Table Length.

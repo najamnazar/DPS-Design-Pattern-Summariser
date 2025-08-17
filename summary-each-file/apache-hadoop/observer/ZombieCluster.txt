@@ -1,0 +1,1 @@
+ZombieCluster acts as a publisher for observer Node, which gets Cluster Topology, which builds LoggedNetworkTopology parameter of topology, MachineNode parameter of defaultNode Cluster.

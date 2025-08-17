@@ -1,0 +1,1 @@
+InitInConstructorLaunchableService acts as an adapter, which adapts to AbstractLaunchableService, which adapts to AbstractLaunchableService, which adapts to AbstractLaunchableService.

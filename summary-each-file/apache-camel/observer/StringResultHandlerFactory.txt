@@ -1,0 +1,1 @@
+StringResultHandlerFactory acts as an observer, which creates Exchange parameter of exchange Result.

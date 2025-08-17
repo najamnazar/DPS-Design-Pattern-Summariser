@@ -1,0 +1,2 @@
+INodeDirectoryAttributes acts as an adapter, which adapts to INodeAttributes, which adapts to INodeAttributes, which adapts to INodeAttributes, which adapts to INodeAttributes, which adapts to INodeAttributes, which adapts to INodeAttributes.
+INodeDirectoryAttributes acts as a target for adapter INodeDirectory, which adapts to INodeDirectoryAttributes, which adapts to INodeDirectoryAttributes, which adapts to INodeDirectoryAttributes, which adapts to INodeDirectoryAttributes, which adapts to INodeDirectoryAttributes, which adapts to INodeDirectoryAttributes.

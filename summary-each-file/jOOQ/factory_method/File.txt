@@ -1,0 +1,1 @@
+File acts as an abstract product for GeneratorStrategy, which is inherited by FileImpl.

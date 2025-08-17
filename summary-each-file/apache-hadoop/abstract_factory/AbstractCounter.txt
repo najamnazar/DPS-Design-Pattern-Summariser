@@ -1,0 +1,3 @@
+AbstractCounter acts as a product for Counters, which overrides.
+AbstractCounter acts as a product for CounterGroup, which overrides.
+AbstractCounter acts as a product for Reporter, which overrides.

@@ -1,0 +1,1 @@
+PmemMappableBlockLoader acts as an originator for memento MappableBlock, which loads MappableBlock, which gets a MappableBlock Recovered Mappable Block to.

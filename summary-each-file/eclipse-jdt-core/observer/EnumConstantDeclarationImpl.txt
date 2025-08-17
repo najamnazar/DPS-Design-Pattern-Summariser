@@ -1,0 +1,7 @@
+EnumConstantDeclarationImpl acts as a publisher for observer AST, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.
+EnumConstantDeclarationImpl acts as a publisher for observer ASTNode, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.
+EnumConstantDeclarationImpl acts as a publisher for observer ChildPropertyDescriptor, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.
+EnumConstantDeclarationImpl acts as an observer, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.
+EnumConstantDeclarationImpl acts as a publisher for observer ChildListPropertyDescriptor, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.
+EnumConstantDeclarationImpl acts as a publisher for observer AnonymousClassDeclaration, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.
+EnumConstantDeclarationImpl acts as a publisher for observer SimpleName, which accepts DeclarationVisitor parameter of visitor, which gets Declaring Type, which kinds.

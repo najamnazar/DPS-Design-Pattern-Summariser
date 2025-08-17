@@ -1,0 +1,1 @@
+NullType acts as an adaptee for adapter NoTypeImpl.

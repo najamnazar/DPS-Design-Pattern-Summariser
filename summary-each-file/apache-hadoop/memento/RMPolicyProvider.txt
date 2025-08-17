@@ -1,0 +1,2 @@
+RMPolicyProvider acts as a caretaker for memento RMPolicyProvider, which gets Instance, which gets Services.
+RMPolicyProvider acts as a memento, which gets Services, which gets Services.

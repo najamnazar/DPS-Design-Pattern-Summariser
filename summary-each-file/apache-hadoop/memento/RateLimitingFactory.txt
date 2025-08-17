@@ -1,0 +1,1 @@
+RateLimitingFactory acts as a caretaker for memento Duration, which acquires int parameter of requestedCapacity, which acquires int parameter of requestedCapacity, which unlimiteds Rate, which creates int parameter of capacity.

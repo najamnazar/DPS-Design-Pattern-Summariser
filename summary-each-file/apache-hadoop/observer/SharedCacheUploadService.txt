@@ -1,0 +1,1 @@
+SharedCacheUploadService acts as a publisher for observer Configuration, which services Configuration parameter of conf Init, which creates Configuration parameter of conf SCMClient, which services Stop, which handles SharedCacheUploadEvent parameter of event, which is Enabled.

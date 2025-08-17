@@ -1,0 +1,1 @@
+ManagedAttribute acts as a caretaker for memento A, which sets @Nullable parameter of Object Default Value, which gets Default Value, which sets @Nullable parameter of String Persist Policy, which gets Persist Policy, which sets int parameter of persistPeriod Persist Period, which gets Persist Period.

@@ -1,0 +1,4 @@
+TransientDataAccessException acts as a product for PersistenceExceptionTranslator, which overrides.
+TransientDataAccessException acts as a product for SQLExceptionTranslator, which overrides.
+TransientDataAccessException acts as a product for ResultOrRows, which overrides.
+TransientDataAccessException acts as a product for LoaderError, which overrides.

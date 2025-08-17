@@ -1,0 +1,2 @@
+FutureDataInputStreamBuilderImpl acts as a factory for FutureDataInputStreamBuilder, which overrides withFileStatus method of FutureDataInputStreamBuilder.
+FutureDataInputStreamBuilderImpl acts as a product for FutureDataInputStreamBuilder, which overrides withFileStatus method of FutureDataInputStreamBuilder.

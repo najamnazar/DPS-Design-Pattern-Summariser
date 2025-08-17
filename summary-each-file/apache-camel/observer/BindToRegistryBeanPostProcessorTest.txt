@@ -1,0 +1,3 @@
+BindToRegistryBeanPostProcessorTest acts as a publisher for observer CamelContext, which mies Other Foo, which tests Post Processor, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.
+BindToRegistryBeanPostProcessorTest acts as a publisher for observer CamelContext, which is inherited by, which mies Other Foo, which tests Post Processor, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.
+BindToRegistryBeanPostProcessorTest acts as a publisher for observer Service, which mies Other Foo, which tests Post Processor, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.

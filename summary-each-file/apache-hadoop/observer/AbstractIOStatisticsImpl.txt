@@ -1,0 +1,1 @@
+AbstractIOStatisticsImpl acts as an observer.

@@ -1,0 +1,2 @@
+DebugTest acts as a publisher for observer CamelContext, which sets Up, which tests Debug, which tests Debug Event, which tests Debug Suspended, which tests Debug Remove Breakpoint, which creates Route Builder.
+DebugTest acts as a publisher for observer Service, which sets Up, which tests Debug, which tests Debug Event, which tests Debug Suspended, which tests Debug Remove Breakpoint, which creates Route Builder.

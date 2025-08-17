@@ -1,0 +1,1 @@
+InlineDispatcher acts as a caretaker for memento Clock, which handles Event parameter of event, which dispatches Event parameter of event, which gets Event Handler, which handles Event parameter of event.

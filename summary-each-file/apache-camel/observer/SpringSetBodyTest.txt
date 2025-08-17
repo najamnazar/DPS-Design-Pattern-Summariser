@@ -1,0 +1,2 @@
+SpringSetBodyTest acts as a publisher for observer CamelContext, which tests Send AMessage Whos In Body Is Transformed, which creates Camel Context.
+SpringSetBodyTest acts as a publisher for observer Service, which tests Send AMessage Whos In Body Is Transformed, which creates Camel Context.

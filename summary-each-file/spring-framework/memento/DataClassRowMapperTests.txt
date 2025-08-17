@@ -1,0 +1,1 @@
+DataClassRowMapperTests acts as a caretaker for memento C, which tests Static Query With Data Class, which tests Static Query With Data Class And Generics, which tests Static Query With Data Class And Setters.

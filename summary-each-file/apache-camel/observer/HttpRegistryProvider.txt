@@ -1,0 +1,2 @@
+HttpRegistryProvider acts as an observer for publisher DefaultHttpRegistry, which is inherited by ResteasyCamelServlet, CamelServlet, which connects HttpConsumer parameter of consumer, which disconnects HttpConsumer parameter of consumer, which gets Servlet Name.
+HttpRegistryProvider acts as a publisher for observer HttpConsumer, which is inherited by ResteasyCamelServlet, CamelServlet, which connects HttpConsumer parameter of consumer, which disconnects HttpConsumer parameter of consumer, which gets Servlet Name.

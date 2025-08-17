@@ -1,0 +1,1 @@
+SpringJettyNoConnectionTest acts as a caretaker for memento Context, which creates Application Context, which gets Translation Properties, which tests Connection Ok, which tests Connection Not Ok.

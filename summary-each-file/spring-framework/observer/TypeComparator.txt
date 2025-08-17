@@ -1,0 +1,1 @@
+TypeComparator acts as an observer for publisher StandardEvaluationContext, MethodBasedEvaluationContext, which is inherited by StandardTypeComparator, which cans @Nullable parameter of Object, @Nullable parameter of Object Compare, which compares @Nullable parameter of Object, @Nullable parameter of Object.

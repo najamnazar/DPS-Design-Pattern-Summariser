@@ -1,0 +1,5 @@
+EhcacheComponentConfigurationTest acts as a publisher for observer ConsumerTemplate, which creates Ehcache Component, which tests Cache Manager, which creates Route Builder.
+EhcacheComponentConfigurationTest acts as a publisher for observer FluentProducerTemplate, which creates Ehcache Component, which tests Cache Manager, which creates Route Builder.
+EhcacheComponentConfigurationTest acts as a publisher for observer ProducerTemplate, which creates Ehcache Component, which tests Cache Manager, which creates Route Builder.
+EhcacheComponentConfigurationTest acts as a publisher for observer CamelContext, which creates Ehcache Component, which tests Cache Manager, which creates Route Builder.
+EhcacheComponentConfigurationTest acts as a publisher for observer Service, which creates Ehcache Component, which tests Cache Manager, which creates Route Builder.

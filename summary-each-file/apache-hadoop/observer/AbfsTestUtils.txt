@@ -1,0 +1,2 @@
+AbfsTestUtils acts as a publisher for observer AzureBlobFileSystem, which checks Containers, which deletes Containers, which disables Configuration parameter of conf Filesystem Caching, which creates AzureBlobFileSystem parameter of fs, Path parameter of path, int parameter of numFiles Files.
+AbfsTestUtils acts as a publisher for observer Configuration, which checks Containers, which deletes Containers, which disables Configuration parameter of conf Filesystem Caching, which creates AzureBlobFileSystem parameter of fs, Path parameter of path, int parameter of numFiles Files.

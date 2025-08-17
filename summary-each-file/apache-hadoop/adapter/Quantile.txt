@@ -1,0 +1,1 @@
+Quantile acts as an adaptee for adapter MutableInverseQuantiles, which adapts to MutableQuantiles, which adapts to MutableQuantiles, which adapts to MutableQuantiles, which adapts to MutableQuantiles.

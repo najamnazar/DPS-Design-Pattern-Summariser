@@ -1,0 +1,2 @@
+AnnotationMetadata acts as an abstract product for ConfigurationClassBeanDefinitionReader, which is inherited by SimpleAnnotationMetadata, AnnotationMetadataReadingVisitor, StandardAnnotationMetadata.
+AnnotationMetadata acts as a factory for ConfigurationClassBeanDefinitionReader, which overrides.

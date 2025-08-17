@@ -1,0 +1,1 @@
+AbstractQuery acts as a product for CloseableQuery, which overrides bind method of CloseableQuery, bind method of CloseableQuery, close method of CloseableQuery.

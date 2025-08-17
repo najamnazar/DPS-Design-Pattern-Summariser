@@ -1,0 +1,1 @@
+LockMixin acts as an observer, which locks, which unlocks, which locks, which invokes MethodInvocation parameter of invocation.

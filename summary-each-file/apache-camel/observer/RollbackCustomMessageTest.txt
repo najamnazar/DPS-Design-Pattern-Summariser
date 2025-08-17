@@ -1,0 +1,2 @@
+RollbackCustomMessageTest acts as a publisher for observer Service, which tests Rollback Custom Message, which creates Route Builder.
+RollbackCustomMessageTest acts as a publisher for observer CamelContext, which tests Rollback Custom Message, which creates Route Builder.

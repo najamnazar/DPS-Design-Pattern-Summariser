@@ -1,0 +1,1 @@
+CustomerList acts as a caretaker for memento Customer, which adds Customer parameter of customer Customer, which gets Integer parameter of id Customer, which deletes Integer parameter of id Customer, which adds, which gets Customer List.

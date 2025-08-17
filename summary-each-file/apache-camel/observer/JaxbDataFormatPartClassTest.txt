@@ -1,0 +1,5 @@
+JaxbDataFormatPartClassTest acts as a publisher for observer FluentProducerTemplate, which tests Marshall Multiple Namespaces, which creates Route Builder.
+JaxbDataFormatPartClassTest acts as a publisher for observer ConsumerTemplate, which tests Marshall Multiple Namespaces, which creates Route Builder.
+JaxbDataFormatPartClassTest acts as a publisher for observer Service, which tests Marshall Multiple Namespaces, which creates Route Builder.
+JaxbDataFormatPartClassTest acts as a publisher for observer ProducerTemplate, which tests Marshall Multiple Namespaces, which creates Route Builder.
+JaxbDataFormatPartClassTest acts as a publisher for observer CamelContext, which tests Marshall Multiple Namespaces, which creates Route Builder.

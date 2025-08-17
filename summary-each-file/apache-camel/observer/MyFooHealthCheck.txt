@@ -1,0 +1,1 @@
+MyFooHealthCheck acts as a publisher for observer CamelContext, which does HealthCheckResultBuilder parameter of builder, Map<String, parameter of Object> Call.

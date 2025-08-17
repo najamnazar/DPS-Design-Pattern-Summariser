@@ -1,0 +1,2 @@
+TaskId acts as an abstract product for TaskId, which is inherited by TaskIdPBImpl.
+TaskId acts as a product for WritableFactory, which overrides.

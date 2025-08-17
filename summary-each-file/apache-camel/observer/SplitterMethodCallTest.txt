@@ -1,0 +1,2 @@
+SplitterMethodCallTest acts as a publisher for observer CamelContext, which tests Split Using Method Call, which creates Registry, which creates Route Builder, which splits String parameter of body Words.
+SplitterMethodCallTest acts as a publisher for observer Service, which tests Split Using Method Call, which creates Registry, which creates Route Builder, which splits String parameter of body Words.

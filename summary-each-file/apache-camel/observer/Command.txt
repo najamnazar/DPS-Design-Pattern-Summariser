@@ -1,0 +1,1 @@
+Command acts as an observer for publisher WekaConfiguration, which is inherited by AbstractCamelCommand.

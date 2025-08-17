@@ -1,0 +1,1 @@
+QueueLimitCalculator acts as an observer for publisher RMActiveServiceContext, which is inherited by, which updates, which gets NodeId parameter of nId Node, which gets ClusterNode parameter of cn Metric, which gets Mean, which gets Stdev, which determines Threshold, which updates, which gets Threshold, which creates Container Queuing Limit.

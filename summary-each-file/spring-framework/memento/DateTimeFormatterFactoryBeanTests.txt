@@ -1,0 +1,1 @@
+DateTimeFormatterFactoryBeanTests acts as a caretaker for memento B, which is Singleton, which gets Object Type, which gets Object, which gets Object Is Always Singleton.

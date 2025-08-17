@@ -1,0 +1,3 @@
+SimpleNode acts as an adaptee for adapter UnaryExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+SimpleNode acts as an adaptee for adapter BinaryExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.
+SimpleNode acts as an adaptee for adapter LogicalExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.

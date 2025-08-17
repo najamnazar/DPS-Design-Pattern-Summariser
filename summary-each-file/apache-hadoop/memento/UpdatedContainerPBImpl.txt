@@ -1,0 +1,1 @@
+UpdatedContainerPBImpl acts as an originator for memento ContainerUpdateType, which gets a ContainerUpdateType Update Type to, which sets ContainerUpdateType parameter of updateType Update Type.

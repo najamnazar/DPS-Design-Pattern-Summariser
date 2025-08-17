@@ -1,0 +1,1 @@
+ExchangeFormatter acts as an observer for publisher LogEndpoint, which is inherited by TestExchangeFormatter, DefaultExchangeFormatter, which formats Exchange parameter of exchange.

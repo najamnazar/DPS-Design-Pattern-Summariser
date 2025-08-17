@@ -1,0 +1,3 @@
+FenceMethod acts as a target for adapter PowerShellFencer, which adapts to FenceMethod, which adapts to FenceMethod.
+FenceMethod acts as a target for adapter SshFenceByTcpPort, which adapts to FenceMethod, which adapts to FenceMethod.
+FenceMethod acts as a target for adapter ShellCommandFencer, which adapts to FenceMethod, which adapts to FenceMethod.

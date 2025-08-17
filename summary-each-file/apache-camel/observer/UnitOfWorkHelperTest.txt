@@ -1,0 +1,2 @@
+UnitOfWorkHelperTest acts as a publisher for observer CamelContext, which tests Uo WShould Be Cleared On Job Done, which creates String parameter of fileName Exchange, which creates final parameter of String File, which notifies final parameter of CamelEvent.
+UnitOfWorkHelperTest acts as a publisher for observer Service, which tests Uo WShould Be Cleared On Job Done, which creates String parameter of fileName Exchange, which creates final parameter of String File, which notifies final parameter of CamelEvent.

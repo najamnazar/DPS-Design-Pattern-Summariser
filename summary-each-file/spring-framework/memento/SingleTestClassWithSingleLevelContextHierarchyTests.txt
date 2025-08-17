@@ -1,0 +1,3 @@
+SingleTestClassWithSingleLevelContextHierarchyTests acts as a caretaker for memento ApplicationContext, which foos, which loads Context Hierarchy.
+SingleTestClassWithSingleLevelContextHierarchyTests acts as a caretaker for memento C, which foos, which loads Context Hierarchy.
+SingleTestClassWithSingleLevelContextHierarchyTests acts as a caretaker for memento A, which foos, which loads Context Hierarchy.

@@ -1,0 +1,1 @@
+BooleanConstant acts as a caretaker for memento C, which booleans Value, which strings Value, which tos String, which types ID.

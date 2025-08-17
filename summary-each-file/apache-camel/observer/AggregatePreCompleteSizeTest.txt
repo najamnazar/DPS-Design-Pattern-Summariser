@@ -1,0 +1,2 @@
+AggregatePreCompleteSizeTest acts as a publisher for observer CamelContext, which tests Aggregate Pre Complete, which creates Route Builder.
+AggregatePreCompleteSizeTest acts as a publisher for observer Service, which tests Aggregate Pre Complete, which creates Route Builder.

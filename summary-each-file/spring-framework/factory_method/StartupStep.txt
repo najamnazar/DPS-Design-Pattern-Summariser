@@ -1,0 +1,2 @@
+StartupStep acts as an abstract product for FlightRecorderStartupStep, which is inherited by FlightRecorderStartupStep.
+StartupStep acts as a factory for FlightRecorderStartupStep, which overrides.

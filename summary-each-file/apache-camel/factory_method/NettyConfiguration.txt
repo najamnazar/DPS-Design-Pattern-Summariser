@@ -1,0 +1,2 @@
+NettyConfiguration acts as a factory for NettyConfiguration, which overrides.
+NettyConfiguration acts as a factory method for NettyCamelStateCorrelationManager, which is inherited by NettyConfiguration, NettyProducer.

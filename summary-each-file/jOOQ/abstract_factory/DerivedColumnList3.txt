@@ -1,0 +1,4 @@
+DerivedColumnList3 acts as a product for Context, which overrides.
+DerivedColumnList3 acts as a product for VisitContext, which overrides.
+DerivedColumnList3 acts as an abstract product for DerivedColumnList3, which is inherited by DerivedColumnListImpl, DerivedColumnListImpl.
+DerivedColumnList3 acts as a product for DiagnosticsContext, which overrides.

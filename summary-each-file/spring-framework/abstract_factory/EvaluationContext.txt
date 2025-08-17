@@ -1,0 +1,1 @@
+EvaluationContext acts as an abstract factory for TypeConverter, TypeLocator, TypeComparator, BeanResolver, OperatorOverloader, TypedValue, which is inherited by SimpleEvaluationContext, StandardEvaluationContext.

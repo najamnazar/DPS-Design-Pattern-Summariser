@@ -1,0 +1,1 @@
+DelegatingServerHttpResponse acts as an observer, which gets Delegate, which sets HttpStatus parameter of status Status Code, which flushes, which closes, which gets Body, which gets Headers.

@@ -1,0 +1,1 @@
+InfinispanEmbeddedCustomListener acts as a memento.

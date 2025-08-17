@@ -1,0 +1,1 @@
+DefaultJavaTypeResolver acts as a product for JavaGenerator, which overrides resolve method of JavaTypeResolver, ref method of JavaTypeResolver, ref method of JavaTypeResolver, classLiteral method of JavaTypeResolver, constructorCall method of JavaTypeResolver.

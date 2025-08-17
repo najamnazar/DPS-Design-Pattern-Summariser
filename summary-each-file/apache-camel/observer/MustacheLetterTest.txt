@@ -1,0 +1,5 @@
+MustacheLetterTest acts as a publisher for observer FluentProducerTemplate, which creates Letter, which tests Mustache Letter, which creates Route Builder.
+MustacheLetterTest acts as a publisher for observer Service, which creates Letter, which tests Mustache Letter, which creates Route Builder.
+MustacheLetterTest acts as a publisher for observer ProducerTemplate, which creates Letter, which tests Mustache Letter, which creates Route Builder.
+MustacheLetterTest acts as a publisher for observer CamelContext, which creates Letter, which tests Mustache Letter, which creates Route Builder.
+MustacheLetterTest acts as a publisher for observer ConsumerTemplate, which creates Letter, which tests Mustache Letter, which creates Route Builder.

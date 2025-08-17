@@ -1,0 +1,5 @@
+InterceptingAsyncClientHttpRequestFactory acts as a caretaker for memento C, which creates URI parameter of uri, HttpMethod parameter of method Async Request.
+InterceptingAsyncClientHttpRequestFactory acts as a caretaker for memento AsyncClientHttpRequest, which creates URI parameter of uri, HttpMethod parameter of method Async Request.
+InterceptingAsyncClientHttpRequestFactory acts as a caretaker for memento ClientHttpRequest, which creates URI parameter of uri, HttpMethod parameter of method Async Request.
+InterceptingAsyncClientHttpRequestFactory acts as a caretaker for memento A, which creates URI parameter of uri, HttpMethod parameter of method Async Request.
+InterceptingAsyncClientHttpRequestFactory acts as an originator for memento AsyncClientHttpRequest, which creates an AsyncClientHttpRequest Async Request to.

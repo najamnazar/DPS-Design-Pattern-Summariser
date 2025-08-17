@@ -1,0 +1,1 @@
+OpenApiRestProducerFactory acts as an originator for memento Producer, which creates a Producer Producer to, which creates a Producer Http Producer to.

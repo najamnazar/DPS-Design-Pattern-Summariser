@@ -1,0 +1,2 @@
+XPathAnotherRouteConcurrentTest acts as a publisher for observer Service, which tests Concurrent, which does int parameter of files, int parameter of poolSize Send Messages, which creates int parameter of index, String parameter of name Xml Body, which creates Route Builder.
+XPathAnotherRouteConcurrentTest acts as a publisher for observer CamelContext, which tests Concurrent, which does int parameter of files, int parameter of poolSize Send Messages, which creates int parameter of index, String parameter of name Xml Body, which creates Route Builder.

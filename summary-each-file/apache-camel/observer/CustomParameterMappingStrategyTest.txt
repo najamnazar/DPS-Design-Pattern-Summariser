@@ -1,0 +1,2 @@
+CustomParameterMappingStrategyTest acts as a publisher for observer CamelContext, which creates Registry, which tests Exchange, which creates Route Builder, which cheeses String parameter of body, which gets Class<?> parameter of parameterType Default Parameter Type Expression.
+CustomParameterMappingStrategyTest acts as a publisher for observer Service, which creates Registry, which tests Exchange, which creates Route Builder, which cheeses String parameter of body, which gets Class<?> parameter of parameterType Default Parameter Type Expression.

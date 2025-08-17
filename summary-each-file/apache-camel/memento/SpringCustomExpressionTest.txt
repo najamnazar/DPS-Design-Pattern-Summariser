@@ -1,0 +1,1 @@
+SpringCustomExpressionTest acts as a caretaker for memento Context, which tests Transform My Expression, which creates Application Context, which evaluates Exchange parameter of exchange.

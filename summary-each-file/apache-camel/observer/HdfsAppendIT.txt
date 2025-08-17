@@ -1,0 +1,5 @@
+HdfsAppendIT acts as a publisher for observer ProducerTemplate, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.
+HdfsAppendIT acts as a publisher for observer ConsumerTemplate, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.
+HdfsAppendIT acts as a publisher for observer CamelContext, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.
+HdfsAppendIT acts as a publisher for observer Service, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.
+HdfsAppendIT acts as a publisher for observer FluentProducerTemplate, which is Use Route Builder, which sets Up, which tests Append, which tests Append With Dynamic File Name, which tears Down.

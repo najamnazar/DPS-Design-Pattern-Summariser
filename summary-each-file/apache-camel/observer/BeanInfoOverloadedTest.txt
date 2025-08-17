@@ -1,0 +1,2 @@
+BeanInfoOverloadedTest acts as a publisher for observer CamelContext, which tests Bean Info Overloaded, which does RequestA parameter of request Something, which does RequestB parameter of request Something.
+BeanInfoOverloadedTest acts as a publisher for observer Service, which tests Bean Info Overloaded, which does RequestA parameter of request Something, which does RequestB parameter of request Something.

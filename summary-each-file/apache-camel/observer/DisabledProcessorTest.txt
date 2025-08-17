@@ -1,0 +1,2 @@
+DisabledProcessorTest acts as a publisher for observer Service, which tests Disabled, which creates Route Builder.
+DisabledProcessorTest acts as a publisher for observer CamelContext, which tests Disabled, which creates Route Builder.

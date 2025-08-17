@@ -1,0 +1,1 @@
+SpanKind acts as an observer for publisher SpanTestData, which is inherited by.

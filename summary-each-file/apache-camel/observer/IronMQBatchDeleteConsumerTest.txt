@@ -1,0 +1,5 @@
+IronMQBatchDeleteConsumerTest acts as a publisher for observer ConsumerTemplate, which tests Consume Batch, which creates Camel Context, which creates Route Builder.
+IronMQBatchDeleteConsumerTest acts as a publisher for observer FluentProducerTemplate, which tests Consume Batch, which creates Camel Context, which creates Route Builder.
+IronMQBatchDeleteConsumerTest acts as a publisher for observer Service, which tests Consume Batch, which creates Camel Context, which creates Route Builder.
+IronMQBatchDeleteConsumerTest acts as a publisher for observer CamelContext, which tests Consume Batch, which creates Camel Context, which creates Route Builder.
+IronMQBatchDeleteConsumerTest acts as a publisher for observer ProducerTemplate, which tests Consume Batch, which creates Camel Context, which creates Route Builder.

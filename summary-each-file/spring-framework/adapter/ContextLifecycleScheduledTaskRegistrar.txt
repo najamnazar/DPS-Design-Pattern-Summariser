@@ -1,0 +1,1 @@
+ContextLifecycleScheduledTaskRegistrar acts as an adapter, which adapts to ScheduledTaskRegistrar, which adapts to ScheduledTaskRegistrar.

@@ -1,0 +1,2 @@
+DurationRoutePolicyFactoryTest acts as a publisher for observer Service, which tests Duration Route Policy Factory, which creates Route Builder.
+DurationRoutePolicyFactoryTest acts as a publisher for observer CamelContext, which tests Duration Route Policy Factory, which creates Route Builder.

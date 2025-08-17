@@ -1,0 +1,2 @@
+RecordContext acts as an observer for publisher RecordListener, CallbackRecordListener, which is inherited by DefaultRecordContext, which types, which records, which records Type, which batches Records, which exceptions.
+RecordContext acts as an observer, which types, which records, which records Type, which batches Records, which exceptions.

@@ -1,0 +1,1 @@
+ExplicitCamelContextNameStrategy acts as an observer, which gets Name, which gets Next Name, which is Fixed Name.

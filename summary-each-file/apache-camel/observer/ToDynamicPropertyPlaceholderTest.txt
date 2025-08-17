@@ -1,0 +1,2 @@
+ToDynamicPropertyPlaceholderTest acts as a publisher for observer Service, which creates Camel Context, which tests To Dynamic, which tests To Dynamic No Header, which creates Route Builder.
+ToDynamicPropertyPlaceholderTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests To Dynamic, which tests To Dynamic No Header, which creates Route Builder.

@@ -1,0 +1,1 @@
+TraceAnnotatedTracingStrategy acts as a product for CamelAwsXRayTestSupport, which overrides.

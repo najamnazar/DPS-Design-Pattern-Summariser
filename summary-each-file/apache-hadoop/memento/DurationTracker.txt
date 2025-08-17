@@ -1,0 +1,1 @@
+DurationTracker acts as a memento, which is inherited by StubDurationTracker, StatisticDurationTracker, which ases Duration, which ases Duration, which ases Duration.

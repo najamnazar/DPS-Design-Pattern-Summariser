@@ -1,0 +1,1 @@
+DevicePluginScheduler acts as an observer for publisher DeviceMappingManager, which is inherited by NvidiaGPUPluginForRuntimeV2, NECVEPlugin, FakeTestDevicePlugin1, which allocates Set<Device> parameter of availableDevices, int parameter of count, Map<String, parameter of String> Devices.

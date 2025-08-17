@@ -1,0 +1,2 @@
+TriggerTask acts as a factory for TriggerTask, which overrides.
+TriggerTask acts as a factory method for Trigger, which is inherited by TriggerTask.

@@ -1,0 +1,1 @@
+DefaultSpringErrorHandler acts as a product for JmsConfiguration, which overrides.

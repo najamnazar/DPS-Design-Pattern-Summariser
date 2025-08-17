@@ -1,0 +1,5 @@
+InvalidConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.
+InvalidConfigurationTest acts as a publisher for observer Service, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.
+InvalidConfigurationTest acts as a publisher for observer ProducerTemplate, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.
+InvalidConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.
+InvalidConfigurationTest acts as a publisher for observer CamelContext, which tests SMTPCan Not Be Used For Consuming Mails, which tests SMTPSCan Not Be Used For Consuming Mails.

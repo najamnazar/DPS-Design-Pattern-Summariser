@@ -1,0 +1,2 @@
+AdviceWithWeaveByToUriToDTest acts as a publisher for observer CamelContext, which tests Advice To DTo Uri, which tests Advice To DTo String, which creates Route Builder.
+AdviceWithWeaveByToUriToDTest acts as a publisher for observer Service, which tests Advice To DTo Uri, which tests Advice To DTo String, which creates Route Builder.

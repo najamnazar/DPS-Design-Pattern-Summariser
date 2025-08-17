@@ -1,0 +1,2 @@
+WireTapOnPrepareTest acts as a publisher for observer Service, which tests Wire Tap On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.
+WireTapOnPrepareTest acts as a publisher for observer CamelContext, which tests Wire Tap On Prepare, which creates Route Builder, which processes Exchange parameter of exchange, which processes Exchange parameter of exchange.

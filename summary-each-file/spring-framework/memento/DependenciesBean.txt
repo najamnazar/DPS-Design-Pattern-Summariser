@@ -1,0 +1,1 @@
+DependenciesBean acts as a caretaker for memento B, which sets int parameter of age Age, which gets Age, which sets String parameter of name Name, which gets Name, which sets TestBean parameter of spouse Spouse, which gets Spouse, which sets BeanFactory parameter of beanFactory Bean Factory, which gets Bean Factory.

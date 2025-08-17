@@ -1,0 +1,3 @@
+StepEventNotifierTest acts as a publisher for observer Service, which tests Step Event Notifier, which creates Route Builder, which notifies CamelEvent parameter of event, which gets Events.
+StepEventNotifierTest acts as a publisher for observer CamelContext, which tests Step Event Notifier, which creates Route Builder, which notifies CamelEvent parameter of event, which gets Events.
+StepEventNotifierTest acts as a publisher for observer CamelEvent, which is inherited by, which tests Step Event Notifier, which creates Route Builder, which notifies CamelEvent parameter of event, which gets Events.

@@ -1,0 +1,4 @@
+AnnotationMBeanExporter acts as a publisher for observer BeanFactory, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.
+AnnotationMBeanExporter acts as a publisher for observer ObjectNamingStrategy, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.
+AnnotationMBeanExporter acts as a publisher for observer MBeanInfoAssembler, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.
+AnnotationMBeanExporter acts as a publisher for observer ListableBeanFactory, which sets String parameter of defaultDomain Default Domain, which sets BeanFactory parameter of beanFactory Bean Factory.

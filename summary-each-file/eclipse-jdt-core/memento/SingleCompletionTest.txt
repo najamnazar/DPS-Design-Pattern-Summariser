@@ -1,0 +1,2 @@
+SingleCompletionTest acts as a caretaker for memento S, which runs Class parameter of testClass, String parameter of methodName, which tests.
+SingleCompletionTest acts as a caretaker for memento String, which runs Class parameter of testClass, String parameter of methodName, which tests.

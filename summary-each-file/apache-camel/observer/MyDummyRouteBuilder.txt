@@ -1,0 +1,7 @@
+MyDummyRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyDummyRouteBuilder acts as an observer, which configures.
+MyDummyRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyDummyRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MyDummyRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyDummyRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MyDummyRouteBuilder acts as a publisher for observer Resource, which configures.

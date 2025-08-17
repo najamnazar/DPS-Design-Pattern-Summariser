@@ -1,0 +1,2 @@
+AggregatorTest acts as a publisher for observer CamelContext, which tests Sending Lots Of Messages Get Aggregated To The Latest Message, which tests One Message, which tests Batch Timeout Expiry, which tests Aggregator Not At Start, which creates Route Builder.
+AggregatorTest acts as a publisher for observer Service, which tests Sending Lots Of Messages Get Aggregated To The Latest Message, which tests One Message, which tests Batch Timeout Expiry, which tests Aggregator Not At Start, which creates Route Builder.

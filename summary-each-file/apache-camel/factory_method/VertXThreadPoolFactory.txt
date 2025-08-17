@@ -1,0 +1,1 @@
+VertXThreadPoolFactory acts as a product for ExecutorServiceManager, which overrides newThreadPool method of ThreadPoolFactory, newCachedThreadPool method of ThreadPoolFactory.

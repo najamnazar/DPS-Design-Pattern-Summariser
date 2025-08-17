@@ -1,0 +1,1 @@
+BlockEntry acts as a publisher for observer AbfsBlockStatus, which is inherited by, which gets Block Id, which gets Position, which gets Status, which sets AbfsBlockStatus parameter of status Status, which sets final parameter of long Position.

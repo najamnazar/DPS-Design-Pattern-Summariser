@@ -1,0 +1,1 @@
+FSEditLogOpCodes acts as an observer for publisher FSEditLogOp, which is inherited by, which gets Op Code, which gets Op Class, which froms byte parameter of opCode Byte.

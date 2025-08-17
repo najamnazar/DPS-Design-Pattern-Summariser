@@ -1,0 +1,2 @@
+ModuleLegacy acts as a caretaker for memento String.
+ModuleLegacy acts as a caretaker for memento S.

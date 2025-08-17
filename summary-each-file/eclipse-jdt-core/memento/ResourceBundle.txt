@@ -1,0 +1,2 @@
+ResourceBundle acts as an originator for memento String, which is inherited by, which gets String parameter of baseName, Locale parameter of locale Bundle, which gets String parameter of key String, which gets String parameter of key String.
+ResourceBundle acts as an originator for memento Enumeration, which is inherited by, which gets an Enumeration Keys to.

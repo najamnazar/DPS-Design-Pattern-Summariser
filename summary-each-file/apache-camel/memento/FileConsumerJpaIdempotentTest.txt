@@ -1,0 +1,1 @@
+FileConsumerJpaIdempotentTest acts as a caretaker for memento Context, which sets Up, which creates Route Builder, which cleanups Repository, which tests File Consumer Jpa Idempotent, which routes Xml, which selects All String.

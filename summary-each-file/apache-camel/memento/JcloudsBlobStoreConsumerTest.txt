@@ -1,0 +1,2 @@
+JcloudsBlobStoreConsumerTest acts as a caretaker for memento Producer, which tests Blob Store Get One Blob, which tests Blob Store Get Two Blobs, which tests Blob Store With Directory, which tests Blob Store With Multiple Directories, which creates Route Builder.
+JcloudsBlobStoreConsumerTest acts as a caretaker for memento Context, which tests Blob Store Get One Blob, which tests Blob Store Get Two Blobs, which tests Blob Store With Directory, which tests Blob Store With Multiple Directories, which creates Route Builder.

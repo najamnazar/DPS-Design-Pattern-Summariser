@@ -1,0 +1,4 @@
+DefaultServiceLoadBalancer acts as a factory for ServiceFilterAware, which overrides setServiceFilter method of ServiceFilterAware, getServiceFilter method of ServiceFilterAware.
+DefaultServiceLoadBalancer acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultServiceLoadBalancer acts as a factory for ServiceChooserAware, which overrides getServiceChooser method of ServiceChooserAware.
+DefaultServiceLoadBalancer acts as a factory for ServiceDiscoveryAware, which overrides getServiceDiscovery method of ServiceDiscoveryAware.

@@ -1,0 +1,1 @@
+MixedModeTesting acts as an adapter, which adapts to APTTestBase, which adapts to APTTestBase, which adapts to APTTestBase, which adapts to APTTestBase, which adapts to APTTestBase.

@@ -1,0 +1,2 @@
+S3AInputPolicy acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.
+S3AInputPolicy acts as an adaptee for adapter ObjectInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream, which adapts to FSInputStream.

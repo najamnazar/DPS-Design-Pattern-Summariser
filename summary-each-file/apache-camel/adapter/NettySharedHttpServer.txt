@@ -1,0 +1,1 @@
+NettySharedHttpServer acts as an adaptee for adapter NettyHttpEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint.

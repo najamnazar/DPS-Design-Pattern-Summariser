@@ -1,0 +1,1 @@
+AbstractSubClusterResolver acts as an observer, which gets String parameter of nodename Sub Cluster For Node, which gets String parameter of rackname Sub Clusters For Rack, which gets Node To Sub Cluster, which gets Rack To Sub Clusters.

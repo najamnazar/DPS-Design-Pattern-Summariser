@@ -1,0 +1,1 @@
+TimedSpringRuleTests acts as a caretaker for memento C, which gets Test Case, which gets Runner Class, which springs And JUnit Timeouts.

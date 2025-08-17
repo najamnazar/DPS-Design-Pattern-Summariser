@@ -1,0 +1,1 @@
+WritableComparator acts as a factory for MapFile, which overrides.

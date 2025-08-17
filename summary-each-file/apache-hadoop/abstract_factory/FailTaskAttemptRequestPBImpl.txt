@@ -1,0 +1,1 @@
+FailTaskAttemptRequestPBImpl acts as a factory for FailTaskAttemptRequest, which overrides getTaskAttemptId method of FailTaskAttemptRequest, setTaskAttemptId method of FailTaskAttemptRequest.

@@ -1,0 +1,5 @@
+ClassDeclaration acts as a product for AnnotationProcessorEnvironment, which overrides.
+ClassDeclaration acts as a product for DeclaredType, which overrides.
+ClassDeclaration acts as a product for MemberDeclaration, which overrides.
+ClassDeclaration acts as an abstract factory for ClassType, which is inherited by ClassDeclarationImpl.
+ClassDeclaration acts as an abstract product for ClassDeclaration, which is inherited by ClassDeclarationImpl.

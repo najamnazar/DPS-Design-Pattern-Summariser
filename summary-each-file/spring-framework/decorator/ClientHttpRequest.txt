@@ -1,0 +1,1 @@
+ClientHttpRequest acts as a component for ClientHttpRequestDecorator, which is inherited by AbstractClientHttpRequest, Netty4ClientHttpRequest, Netty4ClientHttpRequest.

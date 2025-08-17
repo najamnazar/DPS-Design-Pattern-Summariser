@@ -1,0 +1,1 @@
+ITUseHadoopCodecs acts as a publisher for observer Configuration, which is inherited by, which tests Gzip Codec, which tests Snappy Codec, which tests Lz4Codec, which codeces Configuration parameter of conf, int parameter of seed, int parameter of count, String parameter of codecClass Test.

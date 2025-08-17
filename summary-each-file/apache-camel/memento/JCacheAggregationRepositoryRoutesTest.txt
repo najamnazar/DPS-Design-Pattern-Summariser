@@ -1,0 +1,1 @@
+JCacheAggregationRepositoryRoutesTest acts as a caretaker for memento Producer, which checks Aggregation From Two Routes, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

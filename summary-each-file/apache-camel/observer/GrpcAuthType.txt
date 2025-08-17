@@ -1,0 +1,1 @@
+GrpcAuthType acts as an observer for publisher GrpcConfiguration, which is inherited by.

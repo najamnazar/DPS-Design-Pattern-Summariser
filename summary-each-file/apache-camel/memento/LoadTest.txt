@@ -1,0 +1,2 @@
+LoadTest acts as a caretaker for memento Context, which clears Queue, which tests Data Set, which binds Registry parameter of registry To Registry, which creates Route Builder, which creates long parameter of messageIndex Message Body.
+LoadTest acts as a caretaker for memento Producer, which clears Queue, which tests Data Set, which binds Registry parameter of registry To Registry, which creates Route Builder, which creates long parameter of messageIndex Message Body.

@@ -1,0 +1,1 @@
+CommonsLogWriter acts as a caretaker for memento B, which writes char parameter of ch, which writes char[] parameter of buffer, int parameter of offset, int parameter of length, which flushes, which closes.

@@ -1,0 +1,2 @@
+CommitProvider acts as an abstract product for CommitProvider, which is inherited by GitCommitProvider, DefaultCommitProvider.
+CommitProvider acts as an abstract factory for Commits, which is inherited by GitCommitProvider, DefaultCommitProvider.

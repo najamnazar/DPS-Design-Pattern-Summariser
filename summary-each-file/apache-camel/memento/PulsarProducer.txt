@@ -1,0 +1,1 @@
+PulsarProducer acts as a caretaker for memento Producer, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which serializes Exchange parameter of exchange, Object parameter of content, which creates Producer, which does Start, which does Stop.

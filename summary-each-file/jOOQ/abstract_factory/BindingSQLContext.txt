@@ -1,0 +1,1 @@
+BindingSQLContext acts as an abstract factory for RenderContext, which is inherited by.

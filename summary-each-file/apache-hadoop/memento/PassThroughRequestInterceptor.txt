@@ -1,0 +1,1 @@
+PassThroughRequestInterceptor acts as a caretaker for memento AMRMProxyApplicationContext, which registers RegisterApplicationMasterRequest parameter of request Application Master, which finishes FinishApplicationMasterRequest parameter of request Application Master, which allocates AllocateRequest parameter of request.

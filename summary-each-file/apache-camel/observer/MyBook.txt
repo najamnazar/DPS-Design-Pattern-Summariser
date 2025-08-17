@@ -1,0 +1,1 @@
+MyBook acts as a publisher for observer MyAuthor, which is inherited by, which gets Isbn, which sets String parameter of isbn Isbn, which gets Title, which sets String parameter of title Title, which gets Author, which sets MyAuthor parameter of author Author.

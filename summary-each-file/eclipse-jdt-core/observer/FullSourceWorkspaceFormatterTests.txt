@@ -1,0 +1,5 @@
+FullSourceWorkspaceFormatterTests acts as a publisher for observer String, which suites, which tests Class, which sets Up, which tears Down, which tests Format Default, which tests Format Default Big File, which resets Counters.
+FullSourceWorkspaceFormatterTests acts as a publisher for observer Map, which suites, which tests Class, which sets Up, which tears Down, which tests Format Default, which tests Format Default Big File, which resets Counters.
+FullSourceWorkspaceFormatterTests acts as a publisher for observer File, which suites, which tests Class, which sets Up, which tears Down, which tests Format Default, which tests Format Default Big File, which resets Counters.
+FullSourceWorkspaceFormatterTests acts as a publisher for observer List, which suites, which tests Class, which sets Up, which tears Down, which tests Format Default, which tests Format Default Big File, which resets Counters.
+FullSourceWorkspaceFormatterTests acts as a publisher for observer IJavaProject, which suites, which tests Class, which sets Up, which tears Down, which tests Format Default, which tests Format Default Big File, which resets Counters.

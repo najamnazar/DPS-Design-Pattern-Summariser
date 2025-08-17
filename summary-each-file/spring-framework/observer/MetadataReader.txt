@@ -1,0 +1,1 @@
+MetadataReader acts as an observer for publisher ClassPathScanningCandidateComponentProvider, ClassPathBeanDefinitionScanner, which is inherited by SimpleMetadataReader, which gets Resource, which gets Class Metadata, which gets Annotation Metadata.

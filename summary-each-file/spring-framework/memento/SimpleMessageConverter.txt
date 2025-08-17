@@ -1,0 +1,1 @@
+SimpleMessageConverter acts as an originator for memento Message, which tos a Message Message to, which froms Message parameter of message Message.

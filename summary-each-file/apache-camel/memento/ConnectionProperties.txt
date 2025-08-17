@@ -1,0 +1,1 @@
+ConnectionProperties acts as a memento, which ports, which ports, which ports, which ports.

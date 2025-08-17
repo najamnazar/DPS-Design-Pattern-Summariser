@@ -1,0 +1,2 @@
+MulticastUnitOfWorkTest acts as a publisher for observer CamelContext, which tests Multicast UOW, which creates Route Builder, which processes Exchange parameter of exchange.
+MulticastUnitOfWorkTest acts as a publisher for observer Service, which tests Multicast UOW, which creates Route Builder, which processes Exchange parameter of exchange.

@@ -1,0 +1,1 @@
+StateStoreSerializer acts as a singleton, which gets a StateStoreSerializer Serializer to, which gets a StateStoreSerializer Serializer to.

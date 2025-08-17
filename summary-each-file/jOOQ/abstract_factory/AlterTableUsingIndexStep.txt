@@ -1,0 +1,9 @@
+AlterTableUsingIndexStep acts as a product for AlterTableAddStep, which overrides.
+AlterTableUsingIndexStep acts as a product for AlterTableRenameColumnToStep, which overrides.
+AlterTableUsingIndexStep acts as a product for AlterTableAlterStep, which overrides.
+AlterTableUsingIndexStep acts as a product for AlterTableDropStep, which overrides.
+AlterTableUsingIndexStep acts as a product for AlterTableRenameConstraintToStep, which overrides.
+AlterTableUsingIndexStep acts as a product for AlterTableAlterConstraintStep, which overrides.
+AlterTableUsingIndexStep acts as an abstract product for AlterTableUsingIndexStep, which is inherited by AlterTableImpl.
+AlterTableUsingIndexStep acts as a product for AlterTableStep, which overrides.
+AlterTableUsingIndexStep acts as a product for AlterTableRenameIndexToStep, which overrides.

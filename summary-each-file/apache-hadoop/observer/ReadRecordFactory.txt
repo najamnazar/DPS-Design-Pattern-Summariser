@@ -1,0 +1,1 @@
+ReadRecordFactory acts as an observer, which nexts GridmixKey parameter of key, GridmixRecord parameter of val, which gets Progress, which closes.

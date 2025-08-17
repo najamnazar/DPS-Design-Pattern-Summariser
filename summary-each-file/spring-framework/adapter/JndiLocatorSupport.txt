@@ -1,0 +1,1 @@
+JndiLocatorSupport acts as a target for adapter JndiObjectLocator, which adapts to JndiLocatorSupport, which adapts to JndiLocatorSupport, which adapts to JndiLocatorSupport, which adapts to JndiLocatorSupport, which adapts to JndiLocatorSupport.

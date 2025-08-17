@@ -1,0 +1,1 @@
+MessageSourceResourceBundleLocator acts as a caretaker for memento Message, which gets Locale parameter of locale Resource Bundle.

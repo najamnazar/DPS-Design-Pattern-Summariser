@@ -1,0 +1,2 @@
+EnricherBiFunctionTest acts as a publisher for observer Service, which creates Registry, which tests Enrich Ref, which creates Route Builder.
+EnricherBiFunctionTest acts as a publisher for observer CamelContext, which creates Registry, which tests Enrich Ref, which creates Route Builder.

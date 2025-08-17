@@ -1,0 +1,2 @@
+SimpleDecHeaderTest acts as a publisher for observer CamelContext, which tests Dec Header, which creates Route Builder.
+SimpleDecHeaderTest acts as a publisher for observer Service, which tests Dec Header, which creates Route Builder.

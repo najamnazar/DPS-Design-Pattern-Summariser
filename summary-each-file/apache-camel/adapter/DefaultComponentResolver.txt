@@ -1,0 +1,1 @@
+DefaultComponentResolver acts as a target for adapter DependencyDownloaderComponentResolver, which adapts to DefaultComponentResolver, which adapts to DefaultComponentResolver, which adapts to DefaultComponentResolver.

@@ -1,0 +1,5 @@
+CreateBucketTest acts as a publisher for observer FluentProducerTemplate, which creates Route Builder, which tests Create Bucket.
+CreateBucketTest acts as a publisher for observer ProducerTemplate, which creates Route Builder, which tests Create Bucket.
+CreateBucketTest acts as a publisher for observer Service, which creates Route Builder, which tests Create Bucket.
+CreateBucketTest acts as a publisher for observer ConsumerTemplate, which creates Route Builder, which tests Create Bucket.
+CreateBucketTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Create Bucket.

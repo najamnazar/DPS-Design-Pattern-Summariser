@@ -1,0 +1,2 @@
+FSCachingGetSpaceUsed acts as a factory for FSCachingGetSpaceUsed, which overrides build method of FSCachingGetSpaceUsed.
+FSCachingGetSpaceUsed acts as a factory method for GetSpaceUsed, which is inherited by GetSpaceUsed, FSCachingGetSpaceUsed.

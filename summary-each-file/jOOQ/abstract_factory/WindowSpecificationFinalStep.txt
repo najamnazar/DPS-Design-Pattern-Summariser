@@ -1,0 +1,2 @@
+WindowSpecificationFinalStep acts as a product for WindowDefinition, which overrides.
+WindowSpecificationFinalStep acts as an abstract product for WindowSpecificationFinalStep, which is inherited by WindowSpecificationExcludeStep, WindowSpecificationExcludeStep, WindowSpecificationExcludeStep, WindowSpecificationExcludeStep, WindowSpecificationRowsStep, WindowSpecificationRowsStep, WindowSpecificationRowsStep, WindowSpecificationRowsStep.

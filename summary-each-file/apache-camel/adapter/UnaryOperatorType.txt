@@ -1,0 +1,1 @@
+UnaryOperatorType acts as an adaptee for adapter UnaryExpression, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode, which adapts to BaseSimpleNode.

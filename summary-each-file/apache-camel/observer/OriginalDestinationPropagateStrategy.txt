@@ -1,0 +1,1 @@
+OriginalDestinationPropagateStrategy acts as an observer, which ons Message parameter of message, Session parameter of session, Exchange parameter of exchange, Throwable parameter of cause Message Created.

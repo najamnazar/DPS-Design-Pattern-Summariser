@@ -1,0 +1,1 @@
+ReaderCache acts as a visitor for element ExtendedCamelContext, which overrides, which closes, which resets, which writes a To to, which copies Exchange parameter of exchange, which ins a Memory to, which lengthes, which gets a Data to.

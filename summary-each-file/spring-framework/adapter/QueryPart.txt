@@ -1,0 +1,1 @@
+QueryPart acts as an adaptee for adapter AbstractContext, which adapts to AbstractScope, which adapts to AbstractScope, which adapts to AbstractScope.

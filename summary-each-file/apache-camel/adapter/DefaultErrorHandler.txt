@@ -1,0 +1,1 @@
+DefaultErrorHandler acts as an adapter, which adapts to RedeliveryErrorHandler, which adapts to RedeliveryErrorHandler.

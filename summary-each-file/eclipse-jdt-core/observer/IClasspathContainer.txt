@@ -1,0 +1,1 @@
+IClasspathContainer acts as an observer for publisher JavaModelManager, which is inherited by ModulePathContainer, UserLibraryClasspathContainer, which gets Classpath Entries, which gets Description, which gets Kind, which gets Path, which gets Registered Container Ids.

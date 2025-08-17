@@ -1,0 +1,1 @@
+CustomOutputCommitter acts as a product for TaskInputOutputContext, which overrides setupJob method of OutputCommitter, commitJob method of OutputCommitter, abortJob method of OutputCommitter, setupTask method of OutputCommitter, needsTaskCommit method of OutputCommitter, commitTask method of OutputCommitter, abortTask method of OutputCommitter.

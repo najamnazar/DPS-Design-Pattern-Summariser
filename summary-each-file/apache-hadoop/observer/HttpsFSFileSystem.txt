@@ -1,0 +1,2 @@
+HttpsFSFileSystem acts as a publisher for observer Path, which gets Scheme.
+HttpsFSFileSystem acts as a publisher for observer URL, which gets Scheme.

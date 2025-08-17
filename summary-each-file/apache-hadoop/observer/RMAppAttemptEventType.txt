@@ -1,0 +1,1 @@
+RMAppAttemptEventType acts as an observer for publisher RMAppAttemptImpl, which is inherited by.

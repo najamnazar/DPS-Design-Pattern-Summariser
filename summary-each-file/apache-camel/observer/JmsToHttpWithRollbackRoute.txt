@@ -1,0 +1,7 @@
+JmsToHttpWithRollbackRoute acts as an observer, which configures.
+JmsToHttpWithRollbackRoute acts as a publisher for observer RestsDefinition, which configures.
+JmsToHttpWithRollbackRoute acts as a publisher for observer Resource, which configures.
+JmsToHttpWithRollbackRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+JmsToHttpWithRollbackRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+JmsToHttpWithRollbackRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+JmsToHttpWithRollbackRoute acts as a publisher for observer RoutesDefinition, which configures.

@@ -1,0 +1,1 @@
+ExtractAdapter acts as an observer for publisher OpenTelemetryGetter, which is inherited by CamelMessagingHeadersExtractAdapter, CamelHeadersExtractAdapter, which iterators, which gets String parameter of key, which keyses.

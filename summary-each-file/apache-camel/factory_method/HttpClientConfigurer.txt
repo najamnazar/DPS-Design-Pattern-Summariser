@@ -1,0 +1,1 @@
+HttpClientConfigurer acts as an abstract product for HttpEndpoint, which is inherited by BasicAuthenticationHttpClientConfigurer, ProxyHttpClientConfigurer, CompositeHttpConfigurer.

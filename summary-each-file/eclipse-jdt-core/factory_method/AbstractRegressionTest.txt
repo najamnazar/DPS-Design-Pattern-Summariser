@@ -1,0 +1,2 @@
+AbstractRegressionTest acts as a factory for CodeSnippetEvaluator, which overrides.
+AbstractRegressionTest acts as a factory for EvaluationTest, which overrides getLocale method of EvaluationTest.

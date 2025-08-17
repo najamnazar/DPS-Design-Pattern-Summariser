@@ -1,0 +1,1 @@
+TaskInfo acts as an observer for publisher TasksInfo, which is inherited by, which gets Input Bytes, which gets Input Records, which gets Output Bytes, which gets Output Records, which gets Task Memory, which gets Task VCores, which gets Resource Usage Metrics.

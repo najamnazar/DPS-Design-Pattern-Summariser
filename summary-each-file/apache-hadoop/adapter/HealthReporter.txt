@@ -1,0 +1,3 @@
+HealthReporter acts as an adaptee for adapter TimedHealthReporterService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.
+HealthReporter acts as an adaptee for adapter NodeHealthCheckerService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.
+HealthReporter acts as an adaptee for adapter LocalDirsHandlerService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

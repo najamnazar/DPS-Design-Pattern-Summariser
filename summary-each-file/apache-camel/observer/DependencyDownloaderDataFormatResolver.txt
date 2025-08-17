@@ -1,0 +1,2 @@
+DependencyDownloaderDataFormatResolver acts as a publisher for observer CamelContext, which creates String parameter of name, CamelContext parameter of context Data Format.
+DependencyDownloaderDataFormatResolver acts as a publisher for observer CamelContext, which is inherited by, which creates String parameter of name, CamelContext parameter of context Data Format.

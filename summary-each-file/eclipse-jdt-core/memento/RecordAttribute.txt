@@ -1,0 +1,2 @@
+RecordAttribute acts as a caretaker for memento Class, which gets Number Of Components, which gets Component Infos.
+RecordAttribute acts as a caretaker for memento C, which gets Number Of Components, which gets Component Infos.

@@ -1,0 +1,1 @@
+PeriodicTrigger acts as a product for TriggerTask, which overrides nextExecutionTime method of Trigger.

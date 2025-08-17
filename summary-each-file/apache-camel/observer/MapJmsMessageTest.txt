@@ -1,0 +1,1 @@
+MapJmsMessageTest acts as a publisher for observer ArtemisService, which gets Component Name, which tests Text Message, which tests Bytes Message, which creates Route Builder.

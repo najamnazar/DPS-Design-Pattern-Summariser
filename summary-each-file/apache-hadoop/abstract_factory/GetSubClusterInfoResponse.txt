@@ -1,0 +1,1 @@
+GetSubClusterInfoResponse acts as an abstract product for GetSubClusterInfoResponse, which is inherited by GetSubClusterInfoResponsePBImpl.

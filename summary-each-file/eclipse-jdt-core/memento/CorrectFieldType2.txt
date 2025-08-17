@@ -1,0 +1,2 @@
+CorrectFieldType2 acts as a caretaker for memento C.
+CorrectFieldType2 acts as a caretaker for memento Class.

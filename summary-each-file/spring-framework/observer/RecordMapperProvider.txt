@@ -1,0 +1,1 @@
+RecordMapperProvider acts as an observer for publisher DefaultConfiguration, which is inherited by DefaultRecordMapperProvider, which provides RecordType<R> parameter of recordType, Class<? parameter of extends.

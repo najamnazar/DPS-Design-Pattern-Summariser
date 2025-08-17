@@ -1,0 +1,2 @@
+TypeMismatchException acts as a caretaker for memento C, which is inherited by, which inits String parameter of propertyName Property Name, which gets Property Name, which gets Value, which gets Required Type, which gets Error Code.
+TypeMismatchException acts as a caretaker for memento C, which inits String parameter of propertyName Property Name, which gets Property Name, which gets Value, which gets Required Type, which gets Error Code.

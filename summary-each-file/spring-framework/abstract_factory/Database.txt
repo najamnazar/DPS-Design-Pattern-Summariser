@@ -1,0 +1,1 @@
+Database acts as an abstract product for Database, which is inherited by AbstractDatabase, ResultQueryDatabase.

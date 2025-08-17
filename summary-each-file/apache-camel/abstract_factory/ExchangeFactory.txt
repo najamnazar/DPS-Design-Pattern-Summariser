@@ -1,0 +1,2 @@
+ExchangeFactory acts as an abstract product for ExchangeFactory, which is inherited by PrototypeExchangeFactory.
+ExchangeFactory acts as an abstract factory for Exchange, Consumer, ExchangeFactory, which is inherited by PrototypeExchangeFactory.

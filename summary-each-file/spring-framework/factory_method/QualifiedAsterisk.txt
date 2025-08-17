@@ -1,0 +1,3 @@
+QualifiedAsterisk acts as a factory for QualifiedAsterisk, which overrides.
+QualifiedAsterisk acts as a factory method for QualifiedAsterisk, which is inherited by QualifiedAsterisk.
+QualifiedAsterisk acts as an abstract product for QualifiedAsterisk, which is inherited by QualifiedAsteriskImpl.

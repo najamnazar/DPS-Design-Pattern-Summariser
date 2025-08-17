@@ -1,0 +1,2 @@
+NestHostAttribute acts as a caretaker for memento Class, which gets Nest Host Name, which gets Nest Host Index, which tos String.
+NestHostAttribute acts as a caretaker for memento C, which gets Nest Host Name, which gets Nest Host Index, which tos String.

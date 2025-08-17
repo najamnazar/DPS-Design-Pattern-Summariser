@@ -1,0 +1,5 @@
+SpringMainStartFailedIssueTest acts as a publisher for observer CamelContext, which tests Startup Failed.
+SpringMainStartFailedIssueTest acts as a publisher for observer ConsumerTemplate, which tests Startup Failed.
+SpringMainStartFailedIssueTest acts as a publisher for observer Service, which tests Startup Failed.
+SpringMainStartFailedIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Startup Failed.
+SpringMainStartFailedIssueTest acts as a publisher for observer ProducerTemplate, which tests Startup Failed.

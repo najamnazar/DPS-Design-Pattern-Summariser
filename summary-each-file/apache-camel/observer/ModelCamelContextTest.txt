@@ -1,0 +1,2 @@
+ModelCamelContextTest acts as a publisher for observer CamelContext, which tests Adapt, which creates Route Builder.
+ModelCamelContextTest acts as a publisher for observer Service, which tests Adapt, which creates Route Builder.

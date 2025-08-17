@@ -1,0 +1,1 @@
+AbstractCounter acts as a product for ByteArrayManager, which overrides.

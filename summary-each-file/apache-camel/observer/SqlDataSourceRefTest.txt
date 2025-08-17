@@ -1,0 +1,5 @@
+SqlDataSourceRefTest acts as a publisher for observer Service, which creates Camel Registry, which tests Simple Body, which tears Down, which creates Route Builder.
+SqlDataSourceRefTest acts as a publisher for observer ProducerTemplate, which creates Camel Registry, which tests Simple Body, which tears Down, which creates Route Builder.
+SqlDataSourceRefTest acts as a publisher for observer ConsumerTemplate, which creates Camel Registry, which tests Simple Body, which tears Down, which creates Route Builder.
+SqlDataSourceRefTest acts as a publisher for observer FluentProducerTemplate, which creates Camel Registry, which tests Simple Body, which tears Down, which creates Route Builder.
+SqlDataSourceRefTest acts as a publisher for observer CamelContext, which creates Camel Registry, which tests Simple Body, which tears Down, which creates Route Builder.

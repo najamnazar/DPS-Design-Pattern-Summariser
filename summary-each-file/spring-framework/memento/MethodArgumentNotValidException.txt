@@ -1,0 +1,2 @@
+MethodArgumentNotValidException acts as a caretaker for memento B, which gets Parameter, which gets Message.
+MethodArgumentNotValidException acts as a caretaker for memento Parameter, which gets Parameter, which gets Message.

@@ -1,0 +1,1 @@
+MutableInverseQuantiles acts as an adapter, which adapts to MutableQuantiles, which adapts to MutableQuantiles.

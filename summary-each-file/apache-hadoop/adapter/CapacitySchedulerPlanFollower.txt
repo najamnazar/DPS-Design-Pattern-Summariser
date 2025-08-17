@@ -1,0 +1,1 @@
+CapacitySchedulerPlanFollower acts as an adapter, which adapts to AbstractSchedulerPlanFollower, which adapts to AbstractSchedulerPlanFollower, which adapts to AbstractSchedulerPlanFollower, which adapts to AbstractSchedulerPlanFollower, which adapts to AbstractSchedulerPlanFollower, which adapts to AbstractSchedulerPlanFollower, which adapts to AbstractSchedulerPlanFollower.

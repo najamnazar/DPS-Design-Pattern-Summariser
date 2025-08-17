@@ -1,0 +1,2 @@
+DefaultProducerTemplateWithCustomCacheMaxSizeTest acts as a publisher for observer Service, which creates Camel Context, which tests Cache Producers, which tests Invalid Size ABC, which tests Invalid Size Zero.
+DefaultProducerTemplateWithCustomCacheMaxSizeTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Cache Producers, which tests Invalid Size ABC, which tests Invalid Size Zero.

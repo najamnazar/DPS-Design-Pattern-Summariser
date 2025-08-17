@@ -1,0 +1,1 @@
+ManagedCamelContextImpl acts as a factory for ManagedCamelContext, which overrides getManagedProcessor method of ManagedCamelContext, getManagedStep method of ManagedCamelContext, getManagedRoute method of ManagedCamelContext, getManagedCamelContext method of ManagedCamelContext.

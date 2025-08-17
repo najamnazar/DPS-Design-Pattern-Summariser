@@ -1,0 +1,1 @@
+SessionFlashMapManager acts as a publisher for observer UrlPathHelper, which retrieves HttpServletRequest parameter of request Flash Maps, which updates List<FlashMap> parameter of flashMaps, HttpServletRequest parameter of request, HttpServletResponse parameter of response Flash Maps, which gets HttpServletRequest parameter of request Flash Maps Mutex.

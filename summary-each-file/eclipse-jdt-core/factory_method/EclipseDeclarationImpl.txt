@@ -1,0 +1,1 @@
+EclipseDeclarationImpl acts as a product for TypeParameterDeclarationImpl, which overrides.

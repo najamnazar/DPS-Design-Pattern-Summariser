@@ -1,0 +1,1 @@
+PersistenceInjectionIntegrationTests acts as a publisher for observer PlatformTransactionManager, which tests Default Persistence Context Setter Injection, which tests Setter Injection Of Named Persistence Context.

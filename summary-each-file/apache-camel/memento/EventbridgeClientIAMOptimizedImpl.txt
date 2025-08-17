@@ -1,0 +1,2 @@
+EventbridgeClientIAMOptimizedImpl acts as a caretaker for memento Configuration, which gets Eventbridge Client.
+EventbridgeClientIAMOptimizedImpl acts as a memento, which gets Eventbridge Client.

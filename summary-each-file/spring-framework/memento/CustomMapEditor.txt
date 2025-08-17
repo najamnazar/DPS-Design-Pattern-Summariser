@@ -1,0 +1,1 @@
+CustomMapEditor acts as a caretaker for memento C, which sets String parameter of text As Text, which sets @Nullable parameter of Object Value, which creates Class<? parameter of extends, int parameter of initialCapacity Map, which alwayses Create New Map, which converts Object parameter of key Key, which converts Object parameter of value Value, which gets As Text.

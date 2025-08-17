@@ -1,0 +1,6 @@
+MyServiceBean acts as an adaptee for adapter OnExceptionRouteWithDefaultErrorHandlerTest, which adapts to ContextTestSupport.
+MyServiceBean acts as an adaptee for adapter OnExceptionRouteTest, which adapts to ContextTestSupport.
+MyServiceBean acts as an adaptee for adapter RouteServicesStartupOrderTest, which adapts to ContextTestSupport.
+MyServiceBean acts as an adaptee for adapter OnExceptionFromChoiceTest, which adapts to ContextTestSupport.
+MyServiceBean acts as an adaptee for adapter OnExceptionComplexRouteTest, which adapts to ContextTestSupport.
+MyServiceBean acts as an adaptee for adapter OnExceptionFromChoiceUseOriginalBodyTest, which adapts to ContextTestSupport.

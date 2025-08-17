@@ -1,0 +1,1 @@
+CacheResolverAdapter acts as an observer, which gets Target, which resolves CacheOperationInvocationContext<?> parameter of context Caches.

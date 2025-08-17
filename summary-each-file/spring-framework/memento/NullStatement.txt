@@ -1,0 +1,1 @@
+NullStatement acts as a caretaker for memento Null, which accepts Context<?> parameter of ctx.

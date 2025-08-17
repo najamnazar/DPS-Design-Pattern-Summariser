@@ -1,0 +1,2 @@
+Netty4ClientHttpRequestFactory acts as a factory for ClientHttpRequestFactory, which overrides createRequest method of ClientHttpRequestFactory.
+Netty4ClientHttpRequestFactory acts as a factory for AsyncClientHttpRequestFactory, which overrides createAsyncRequest method of AsyncClientHttpRequestFactory.

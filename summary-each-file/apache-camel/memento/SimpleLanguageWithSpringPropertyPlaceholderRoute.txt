@@ -1,0 +1,1 @@
+SimpleLanguageWithSpringPropertyPlaceholderRoute acts as a caretaker for memento Configuration, which configures, which sets String parameter of fromEndpoint From Endpoint, which sets String parameter of toEndpoint To Endpoint.

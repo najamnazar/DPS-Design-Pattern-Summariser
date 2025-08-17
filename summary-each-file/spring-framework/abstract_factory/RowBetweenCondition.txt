@@ -1,0 +1,2 @@
+RowBetweenCondition acts as a factory for BetweenAndStepN, which overrides.
+RowBetweenCondition acts as a product for RowN, which overrides.

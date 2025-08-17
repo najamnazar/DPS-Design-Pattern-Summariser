@@ -1,0 +1,1 @@
+Migration acts as an observer, which froms, which tos, which querieses, which validates, which executes.

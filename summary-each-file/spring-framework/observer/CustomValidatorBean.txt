@@ -1,0 +1,1 @@
+CustomValidatorBean acts as an observer, which sets ValidatorFactory parameter of validatorFactory Validator Factory, which sets MessageInterpolator parameter of messageInterpolator Message Interpolator, which sets TraversableResolver parameter of traversableResolver Traversable Resolver, which afters Properties Set.

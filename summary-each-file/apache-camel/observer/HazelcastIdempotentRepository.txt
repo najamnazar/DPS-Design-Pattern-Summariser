@@ -1,0 +1,1 @@
+HazelcastIdempotentRepository acts as an observer, which does Start, which does Stop, which adds String parameter of key, which confirms String parameter of key, which contains String parameter of key, which removes String parameter of key, which clears, which gets Repository Name.

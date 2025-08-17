@@ -1,0 +1,1 @@
+PropagatedHeadersProvider acts as a caretaker for memento Producer, which gets Default Headers, which gets Exchange parameter of childExchange, Message parameter of childMessage Headers.

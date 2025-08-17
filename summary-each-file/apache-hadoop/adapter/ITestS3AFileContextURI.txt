@@ -1,0 +1,1 @@
+ITestS3AFileContextURI acts as an adapter, which adapts to FileContextURIBase, which adapts to FileContextURIBase.

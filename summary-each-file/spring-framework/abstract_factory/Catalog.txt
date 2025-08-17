@@ -1,0 +1,3 @@
+Catalog acts as an abstract product for Catalog, which is inherited by LazyCatalog, CatalogImpl.
+Catalog acts as an abstract factory for Schema, which is inherited by LazyCatalog, CatalogImpl.
+Catalog acts as an abstract product for Catalog, which is inherited by LazyCatalog, LazyCatalog, CatalogImpl, CatalogImpl.

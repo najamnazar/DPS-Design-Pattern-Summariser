@@ -1,0 +1,1 @@
+MockCallbackPreferringTransactionManager acts as a factory method for TransactionDefinition, which is inherited by TransactionDefinition, TransactionDefinition, TransactionDefinition, TransactionDefinition, TransactionDefinition.

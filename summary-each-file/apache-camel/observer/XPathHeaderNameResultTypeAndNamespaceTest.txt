@@ -1,0 +1,2 @@
+XPathHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer CamelContext, which tests XPath With Namespace, which creates Route Builder.
+XPathHeaderNameResultTypeAndNamespaceTest acts as a publisher for observer Service, which tests XPath With Namespace, which creates Route Builder.

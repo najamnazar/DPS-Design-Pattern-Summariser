@@ -1,0 +1,1 @@
+ModuleDirective acts as a caretaker for memento C.

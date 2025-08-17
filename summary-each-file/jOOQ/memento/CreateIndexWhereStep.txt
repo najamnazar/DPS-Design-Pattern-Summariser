@@ -1,0 +1,1 @@
+CreateIndexWhereStep acts as a memento, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys, which excludes Null Keys.

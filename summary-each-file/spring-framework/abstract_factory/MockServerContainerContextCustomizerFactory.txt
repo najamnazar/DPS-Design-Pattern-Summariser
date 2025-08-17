@@ -1,0 +1,1 @@
+MockServerContainerContextCustomizerFactory acts as a factory for ContextCustomizerFactory, which overrides createContextCustomizer method of ContextCustomizerFactory.

@@ -1,0 +1,1 @@
+TrendsType acts as a singleton, which froms a TrendsType String to.

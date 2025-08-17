@@ -1,0 +1,1 @@
+ApplicationMasterProtocol acts as an abstract product for TestAMRMTokens, which is inherited by MockResourceManagerFacade, AMRMClientRelayer, ApplicationMasterProtocolPBClientImpl, ApplicationMasterService, AMRMProxyService.

@@ -1,0 +1,1 @@
+AppsBlockWithMetrics acts as a publisher for observer Block, which renders Block parameter of html.

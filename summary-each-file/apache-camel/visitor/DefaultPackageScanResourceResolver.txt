@@ -1,0 +1,1 @@
+DefaultPackageScanResourceResolver acts as a visitor for element ExtendedCamelContext, which overrides, which finds a Resources to, which does a Find Resources to, which finds a In File System to, which finds a In Classpath to, which does a Find to, which loads a Implementations In Jar to, which does a Load Implementations In Jar to, which loads a Implementations In Directory to.

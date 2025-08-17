@@ -1,0 +1,2 @@
+AbstractGenericProcessor acts as a publisher for observer AnnotationProcessorEnvironment, which is inherited by, which sets AnnotationProcessorEnvironment parameter of env Env, which _processes, which processes.
+AbstractGenericProcessor acts as an observer for publisher GenericFactory, which is inherited by, which sets AnnotationProcessorEnvironment parameter of env Env, which _processes, which processes.

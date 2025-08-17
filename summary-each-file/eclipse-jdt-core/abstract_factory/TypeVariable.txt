@@ -1,0 +1,2 @@
+TypeVariable acts as an abstract factory for TypeParameterDeclaration, which is inherited by TypeParameterDeclarationImpl, TypeVariableImpl.
+TypeVariable acts as an abstract product for TypeVariable, which is inherited by TypeParameterDeclarationImpl, TypeVariableImpl.

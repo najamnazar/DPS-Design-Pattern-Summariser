@@ -1,0 +1,6 @@
+HdfsConfiguration acts as an adaptee for adapter TestViewFsAtHdfsRoot, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest.
+HdfsConfiguration acts as an adaptee for adapter TestSWebHdfsFileContextMainOperations, which adapts to TestWebHdfsFileContextMainOperations, which adapts to TestWebHdfsFileContextMainOperations, which adapts to TestWebHdfsFileContextMainOperations.
+HdfsConfiguration acts as an adaptee for adapter NNHAServiceTarget, which adapts to HAServiceTarget, which adapts to HAServiceTarget, which adapts to HAServiceTarget.
+HdfsConfiguration acts as an adaptee for adapter TestWebHdfsFileContextMainOperations, which adapts to FileContextMainOperationsBaseTest, which adapts to FileContextMainOperationsBaseTest, which adapts to FileContextMainOperationsBaseTest.
+HdfsConfiguration acts as an adaptee for adapter TestHDFSFileContextMainOperations, which adapts to FileContextMainOperationsBaseTest, which adapts to FileContextMainOperationsBaseTest, which adapts to FileContextMainOperationsBaseTest.
+HdfsConfiguration acts as an adaptee for adapter TestViewFsHdfs, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest.

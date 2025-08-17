@@ -1,0 +1,1 @@
+EntityResponse acts as an originator for memento B.

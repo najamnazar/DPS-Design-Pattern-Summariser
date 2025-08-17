@@ -1,0 +1,1 @@
+ExistenceChangedOperation acts as a memento, which gets Result, which gets Result.

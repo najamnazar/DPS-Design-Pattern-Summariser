@@ -1,0 +1,1 @@
+MultipleCodecsTest acts as a caretaker for memento ChannelHandlerFactory, which adds Encoders, which adds Decoders, which cans Supply Multiple Codecs To Endpoint Pipeline, which creates Route Builder.

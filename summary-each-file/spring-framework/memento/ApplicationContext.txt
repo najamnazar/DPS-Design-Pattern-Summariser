@@ -1,0 +1,1 @@
+ApplicationContext acts as a memento, which is inherited by ConfigurableApplicationContext, WebApplicationContext, which gets Autowire Capable Bean Factory, which gets Autowire Capable Bean Factory, which gets Autowire Capable Bean Factory, which gets Autowire Capable Bean Factory, which gets Autowire Capable Bean Factory, which gets Autowire Capable Bean Factory.

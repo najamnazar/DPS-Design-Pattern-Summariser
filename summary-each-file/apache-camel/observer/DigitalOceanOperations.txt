@@ -1,0 +1,1 @@
+DigitalOceanOperations acts as an observer for publisher DigitalOceanConfiguration, which is inherited by.

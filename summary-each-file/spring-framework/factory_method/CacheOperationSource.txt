@@ -1,0 +1,1 @@
+CacheOperationSource acts as an abstract product for CacheOperationSourcePointcut, which is inherited by CompositeCacheOperationSource, NameMatchCacheOperationSource, AbstractFallbackCacheOperationSource.

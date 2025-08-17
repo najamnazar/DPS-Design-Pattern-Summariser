@@ -1,0 +1,2 @@
+CompositePackageScanFilter acts as a publisher for observer PackageScanFilter, which is inherited by, which adds PackageScanFilter parameter of filter Filter, which matches Class<?> parameter of type.
+CompositePackageScanFilter acts as an observer, which adds PackageScanFilter parameter of filter Filter, which matches Class<?> parameter of type.

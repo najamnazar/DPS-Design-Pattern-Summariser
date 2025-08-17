@@ -1,0 +1,1 @@
+SQL acts as a memento, which is inherited by SQLImpl, SQLConcatenationImpl.

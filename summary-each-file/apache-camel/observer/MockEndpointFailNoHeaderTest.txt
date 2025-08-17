@@ -1,0 +1,5 @@
+MockEndpointFailNoHeaderTest acts as a publisher for observer CamelContext, which is Dump Route Coverage, which withes Header Test Case, which nos Header Test Case, which creates Route Builder.
+MockEndpointFailNoHeaderTest acts as a publisher for observer ConsumerTemplate, which is Dump Route Coverage, which withes Header Test Case, which nos Header Test Case, which creates Route Builder.
+MockEndpointFailNoHeaderTest acts as a publisher for observer FluentProducerTemplate, which is Dump Route Coverage, which withes Header Test Case, which nos Header Test Case, which creates Route Builder.
+MockEndpointFailNoHeaderTest acts as a publisher for observer Service, which is Dump Route Coverage, which withes Header Test Case, which nos Header Test Case, which creates Route Builder.
+MockEndpointFailNoHeaderTest acts as a publisher for observer ProducerTemplate, which is Dump Route Coverage, which withes Header Test Case, which nos Header Test Case, which creates Route Builder.

@@ -1,0 +1,1 @@
+SharedNameGenerator acts as an adaptee for adapter Aws2SQSBaseTest, which adapts to CamelTestSupport.

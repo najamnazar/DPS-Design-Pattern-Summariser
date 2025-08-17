@@ -1,0 +1,1 @@
+ExtendedPerson acts as a caretaker for memento B, which gets Some Field, which sets Object parameter of someField Some Field.

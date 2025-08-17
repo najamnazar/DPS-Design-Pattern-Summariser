@@ -1,0 +1,1 @@
+FixedBackOffStrategy acts as an observer, which calculates int parameter of iteration Interval.

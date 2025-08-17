@@ -1,0 +1,2 @@
+ThreadsDoTryCatchInterceptSendToAllEndpointIssueTest acts as a publisher for observer CamelContext, which tests Threads Try Catch, which creates Route Builder.
+ThreadsDoTryCatchInterceptSendToAllEndpointIssueTest acts as a publisher for observer Service, which tests Threads Try Catch, which creates Route Builder.

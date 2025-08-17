@@ -1,0 +1,1 @@
+MainIoCNewRouteBuilderTest acts as a publisher for observer CamelContext, which is inherited by, which tests Main Io C, which gets Name, which sets String parameter of name Name, which configures CamelContext parameter of camel, which tos String, which creates @PropertyInject("hello") parameter of String Bar, which configures.

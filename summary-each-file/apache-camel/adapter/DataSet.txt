@@ -1,0 +1,3 @@
+DataSet acts as an adaptee for adapter DataSetEndpoint, which adapts to MockEndpoint, which adapts to MockEndpoint, which adapts to MockEndpoint, which adapts to MockEndpoint.
+DataSet acts as an adaptee for adapter CustomDataSetTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+DataSet acts as an adaptee for adapter FlinkEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

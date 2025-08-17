@@ -1,0 +1,1 @@
+ASTConverterSuperAfterStatements acts as an adapter, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup, which adapts to ConverterTestSetup.

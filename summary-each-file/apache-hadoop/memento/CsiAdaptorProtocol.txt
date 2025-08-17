@@ -1,0 +1,2 @@
+CsiAdaptorProtocol acts as an originator for memento NodeUnpublishVolumeResponse, which is inherited by, which nodes a NodeUnpublishVolumeResponse Unpublish Volume to.
+CsiAdaptorProtocol acts as an originator for memento NodePublishVolumeResponse, which is inherited by, which nodes a NodePublishVolumeResponse Publish Volume to.

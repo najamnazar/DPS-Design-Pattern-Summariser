@@ -1,0 +1,1 @@
+PackageImpl acts as a publisher for observer Name, which gets Catalog, which gets Schema, which accepts Context<?> parameter of ctx, which $schemas.

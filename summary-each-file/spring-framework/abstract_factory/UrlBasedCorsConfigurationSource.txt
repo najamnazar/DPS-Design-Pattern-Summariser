@@ -1,0 +1,1 @@
+UrlBasedCorsConfigurationSource acts as a factory for CorsConfigurationSource, which overrides getCorsConfiguration method of CorsConfigurationSource.

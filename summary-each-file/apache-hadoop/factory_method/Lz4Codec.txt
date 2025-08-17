@@ -1,0 +1,1 @@
+Lz4Codec acts as a factory method for Decompressor, which is inherited by CompressionCodec, CompressionCodec, CompressionCodec, DefaultCodec, CompressionCodec, CompressionCodec, CompressionCodec, DefaultCodec, CompressionCodec.

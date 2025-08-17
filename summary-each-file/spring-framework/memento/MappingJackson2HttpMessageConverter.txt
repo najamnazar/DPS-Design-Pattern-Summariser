@@ -1,0 +1,2 @@
+MappingJackson2HttpMessageConverter acts as a caretaker for memento B, which sets String parameter of jsonPrefix Json Prefix, which sets boolean parameter of prefixJson Prefix Json, which writes JsonGenerator parameter of generator, Object parameter of object Prefix.
+MappingJackson2HttpMessageConverter acts as a caretaker for memento C, which sets String parameter of jsonPrefix Json Prefix, which sets boolean parameter of prefixJson Prefix Json, which writes JsonGenerator parameter of generator, Object parameter of object Prefix.

@@ -1,0 +1,2 @@
+S3AFileStatus acts as a product for FSWrapper, which overrides equals method of FileStatus, hashCode method of FileStatus, getModificationTime method of FileStatus, toString method of FileStatus.
+S3AFileStatus acts as a product for HdfsFileStatus, which overrides equals method of FileStatus, hashCode method of FileStatus, getModificationTime method of FileStatus, toString method of FileStatus.

@@ -1,0 +1,1 @@
+SchemaVersionProvider acts as an observer for publisher AbstractDatabase, PostgresDatabase, AbstractMetaDatabase, FirebirdDatabase, CUBRIDDatabase, SQLiteDatabase, DerbyDatabase, MySQLDatabase, XMLDatabase, H2Database, HSQLDBDatabase, which is inherited by SQLSchemaVersionProvider, ConstantSchemaVersionProvider, which versions SchemaDefinition parameter of schema.

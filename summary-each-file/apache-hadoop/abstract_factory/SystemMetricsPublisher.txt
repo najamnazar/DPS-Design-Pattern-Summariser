@@ -1,0 +1,1 @@
+SystemMetricsPublisher acts as an abstract product for SystemMetricsPublisher, which is inherited by AbstractSystemMetricsPublisher, CombinedSystemMetricsPublisher, NoOpSystemMetricPublisher.

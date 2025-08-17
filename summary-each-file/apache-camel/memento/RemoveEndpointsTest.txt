@@ -1,0 +1,2 @@
+RemoveEndpointsTest acts as a caretaker for memento Producer, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.
+RemoveEndpointsTest acts as a caretaker for memento Context, which tests Remove All Endpoints, which binds Registry parameter of registry To Registry, which creates Route Builder.

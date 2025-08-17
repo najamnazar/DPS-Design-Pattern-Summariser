@@ -1,0 +1,1 @@
+AppAttemptRemovedSchedulerEvent acts as an observer, which gets Application Attempt ID, which gets Final Attempt State, which gets Keep Containers Across App Attempts.

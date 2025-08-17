@@ -1,0 +1,1 @@
+KubernetesServiceDiscovery acts as a publisher for observer CamelContext, which gets Configuration.

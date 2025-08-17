@@ -1,0 +1,3 @@
+AssistCompilationUnit acts as a product for ICompilationUnitResolver, which overrides.
+AssistCompilationUnit acts as a product for EclipseAnnotationProcessorEnvironment, which overrides.
+AssistCompilationUnit acts as a product for IJavaElementDelta, which overrides.

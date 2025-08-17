@@ -1,0 +1,3 @@
+AbstractSockJsSession acts as a product for SockJsSessionFactory, which overrides getTimeSinceLastActive method of SockJsSession, disableHeartbeat method of SockJsSession.
+AbstractSockJsSession acts as a factory for SockJsServiceConfig, which overrides.
+AbstractSockJsSession acts as a factory for SockJsWebSocketHandler, which overrides.

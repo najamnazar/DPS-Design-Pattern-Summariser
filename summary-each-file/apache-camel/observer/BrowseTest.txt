@@ -1,0 +1,2 @@
+BrowseTest acts as a publisher for observer CamelContext, which tests List Endpoints, which creates Route Builder.
+BrowseTest acts as a publisher for observer Service, which tests List Endpoints, which creates Route Builder.

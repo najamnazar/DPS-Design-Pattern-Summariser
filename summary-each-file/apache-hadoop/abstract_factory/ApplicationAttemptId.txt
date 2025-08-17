@@ -1,0 +1,1 @@
+ApplicationAttemptId acts as an abstract product for ApplicationAttemptId, which is inherited by ApplicationAttemptIdPBImpl.

@@ -1,0 +1,1 @@
+SalesforceException acts as an observer for publisher SyncResponseCallback, which is inherited by SalesforceMultipleChoicesException, NoSuchSObjectException, which gets Errors, which gets Status Code, which gets Response Content, which tos List<RestError> parameter of errors, int parameter of statusCode Error Message.

@@ -1,0 +1,1 @@
+WebSocketTransportHandler acts as a decorator for component HandshakeHandler, which is inherited by.

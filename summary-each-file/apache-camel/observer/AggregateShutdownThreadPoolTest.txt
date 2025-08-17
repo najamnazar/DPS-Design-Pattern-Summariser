@@ -1,0 +1,2 @@
+AggregateShutdownThreadPoolTest acts as a publisher for observer Service, which tests Aggregate Shutdown Default Thread Pool Test, which tests Aggregate Shutdown Custom Thread Pool Test, which creates Route Builder.
+AggregateShutdownThreadPoolTest acts as a publisher for observer CamelContext, which tests Aggregate Shutdown Default Thread Pool Test, which tests Aggregate Shutdown Custom Thread Pool Test, which creates Route Builder.

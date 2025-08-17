@@ -1,0 +1,2 @@
+RouteFormattedUriTest acts as a publisher for observer CamelContext, which tests Formatted Uri, which creates Route Builder.
+RouteFormattedUriTest acts as a publisher for observer Service, which tests Formatted Uri, which creates Route Builder.

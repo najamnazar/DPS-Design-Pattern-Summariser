@@ -1,0 +1,1 @@
+AbstractAuditSpanImpl acts as a memento, which closes Timestamp, which closes Timestamp, which closes Timestamp, which closes Timestamp, which closes Timestamp.

@@ -1,0 +1,1 @@
+AbstractContextLoader acts as a product for AbstractDelegatingSmartContextLoader, which overrides processContextConfiguration method of SmartContextLoader.

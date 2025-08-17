@@ -1,0 +1,1 @@
+ConfigurationCondition acts as an observer, which gets Configuration Phase.

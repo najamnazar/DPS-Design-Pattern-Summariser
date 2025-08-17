@@ -1,0 +1,7 @@
+ITestAbfsManifestCommitProtocol acts as a publisher for observer JobContext, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.
+ITestAbfsManifestCommitProtocol acts as a publisher for observer CommitterFactory, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.
+ITestAbfsManifestCommitProtocol acts as a publisher for observer TaskAttemptContext, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.
+ITestAbfsManifestCommitProtocol acts as a publisher for observer Job, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.
+ITestAbfsManifestCommitProtocol acts as a publisher for observer Configuration, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.
+ITestAbfsManifestCommitProtocol acts as a publisher for observer Path, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.
+ITestAbfsManifestCommitProtocol acts as a publisher for observer ManifestCommitter, which setups, which creates Configuration, which creates final parameter of Configuration Contract, which suitenames.

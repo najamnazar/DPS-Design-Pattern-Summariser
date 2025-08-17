@@ -1,0 +1,1 @@
+AspectInstanceFactory acts as an abstract product for AbstractAspectJAdvice, which is inherited by SingletonAspectInstanceFactory, SimpleBeanFactoryAwareAspectInstanceFactory, SimpleAspectInstanceFactory.

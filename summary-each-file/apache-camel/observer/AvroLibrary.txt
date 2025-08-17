@@ -1,0 +1,1 @@
+AvroLibrary acts as an observer for publisher AvroDataFormat, which is inherited by, which gets Data Format Name.

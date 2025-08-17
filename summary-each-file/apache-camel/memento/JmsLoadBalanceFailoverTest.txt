@@ -1,0 +1,2 @@
+JmsLoadBalanceFailoverTest acts as a caretaker for memento Context, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.
+JmsLoadBalanceFailoverTest acts as a caretaker for memento Producer, which configures Test, which tests Failover, which creates Route Builder, which creates Camel Context.

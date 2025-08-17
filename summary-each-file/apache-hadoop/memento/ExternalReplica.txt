@@ -1,0 +1,1 @@
+ExternalReplica acts as a memento, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume, which gets Volume.

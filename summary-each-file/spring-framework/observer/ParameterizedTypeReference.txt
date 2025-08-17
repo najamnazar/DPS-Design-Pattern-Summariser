@@ -1,0 +1,1 @@
+ParameterizedTypeReference acts as a publisher for observer Type, which is inherited by, which gets Type, which equals @Nullable parameter of Object, which hashes Code, which tos String, which fors Type parameter of type Type, which finds Class<?> parameter of child Parameterized Type Reference Subclass.

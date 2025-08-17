@@ -1,0 +1,1 @@
+RoutineDefinition acts as an observer, which gets In Parameters, which gets Out Parameters, which gets All Parameters, which gets Return Value, which gets Return Type, which gets JavaTypeResolver parameter of resolver Return Type, which is SQLUsable, which is Aggregate.

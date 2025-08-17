@@ -1,0 +1,1 @@
+WebSocketService acts as an abstract product for WebSocketService, which is inherited by HandshakeWebSocketService.

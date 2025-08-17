@@ -1,0 +1,2 @@
+PollEnricherRefTest acts as a publisher for observer Service, which creates Registry, which creates Camel Context, which tests Poll Enrich Ref, which creates Route Builder.
+PollEnricherRefTest acts as a publisher for observer CamelContext, which creates Registry, which creates Camel Context, which tests Poll Enrich Ref, which creates Route Builder.

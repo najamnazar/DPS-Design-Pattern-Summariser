@@ -1,0 +1,2 @@
+FederationPolicyManager acts as an abstract product for NoOpGlobalPolicy, which is inherited by AbstractPolicyManager.
+FederationPolicyManager acts as a factory for TestFederationPolicyInitializationContextValidator, which overrides.

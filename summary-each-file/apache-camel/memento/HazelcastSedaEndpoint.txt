@@ -1,0 +1,1 @@
+HazelcastSedaEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates final parameter of Processor Consumer, which gets Queue, which gets Configuration.

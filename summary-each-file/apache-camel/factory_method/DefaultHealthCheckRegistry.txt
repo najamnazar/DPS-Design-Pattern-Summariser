@@ -1,0 +1,2 @@
+DefaultHealthCheckRegistry acts as a factory method for HealthCheckRepository, which is inherited by HealthCheckResolver, DefaultHealthCheckRegistry.
+DefaultHealthCheckRegistry acts as a factory for DefaultHealthCheckRegistry, which overrides isEnabled method of DefaultHealthCheckRegistry, setEnabled method of DefaultHealthCheckRegistry.

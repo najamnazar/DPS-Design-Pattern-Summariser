@@ -1,0 +1,1 @@
+CapacitySchedulerContext acts as an abstract factory for RMContext, ResourceCalculator, Configuration, Priority, FiCaSchedulerApp, Resource, Clock, which is inherited by CapacityScheduler.

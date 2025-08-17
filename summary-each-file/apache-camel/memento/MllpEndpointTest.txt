@@ -1,0 +1,2 @@
+MllpEndpointTest acts as a caretaker for memento Producer, which tests Create Endpoint With Default Configurations, which tests Create Endpoint With Custom Max Concurrent Consumers, which tests Create Endpoint With Idletimeout Strategy.
+MllpEndpointTest acts as a caretaker for memento Context, which tests Create Endpoint With Default Configurations, which tests Create Endpoint With Custom Max Concurrent Consumers, which tests Create Endpoint With Idletimeout Strategy.

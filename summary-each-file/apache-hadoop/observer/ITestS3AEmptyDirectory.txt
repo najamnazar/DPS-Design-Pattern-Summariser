@@ -1,0 +1,1 @@
+ITestS3AEmptyDirectory acts as a publisher for observer AuditSpanSource, which tests Directory Becomes Empty, which asserts boolean parameter of isEmpty, S3AFileStatus parameter of s Empty Directory, which tests Directory Becomes Non Empty, which gets S3AFileSystem parameter of fs, Path parameter of p S3AFile Status.

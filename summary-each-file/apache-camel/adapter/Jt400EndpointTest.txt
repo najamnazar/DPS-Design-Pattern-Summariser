@@ -1,0 +1,1 @@
+Jt400EndpointTest acts as an adapter, which adapts to Jt400TestSupport, which adapts to Jt400TestSupport.

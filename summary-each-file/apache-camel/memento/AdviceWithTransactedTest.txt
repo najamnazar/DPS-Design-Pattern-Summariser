@@ -1,0 +1,2 @@
+AdviceWithTransactedTest acts as a caretaker for memento Producer, which tests Advice Transacted, which creates Route Builder, which befores Route parameter of route, NamedNode parameter of definition Wrap, which wraps Route parameter of route, Processor parameter of processor.
+AdviceWithTransactedTest acts as a caretaker for memento Context, which tests Advice Transacted, which creates Route Builder, which befores Route parameter of route, NamedNode parameter of definition Wrap, which wraps Route parameter of route, Processor parameter of processor.

@@ -1,0 +1,2 @@
+SpringAggregatorWithCustomStrategyTest acts as a publisher for observer CamelContext, which tests Sending Messages With Custom Aggregator, which creates Camel Context.
+SpringAggregatorWithCustomStrategyTest acts as a publisher for observer Service, which tests Sending Messages With Custom Aggregator, which creates Camel Context.

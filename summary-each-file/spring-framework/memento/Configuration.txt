@@ -1,0 +1,1 @@
+Configuration acts as a memento, which is inherited by AbstractConfiguration, LocalSessionFactoryBuilder.

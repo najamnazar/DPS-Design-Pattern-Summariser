@@ -1,0 +1,2 @@
+MulticastParallelLastTimeoutTest acts as a publisher for observer CamelContext, which tests Multicast Parallel Last Timeout, which creates Route Builder.
+MulticastParallelLastTimeoutTest acts as a publisher for observer Service, which tests Multicast Parallel Last Timeout, which creates Route Builder.

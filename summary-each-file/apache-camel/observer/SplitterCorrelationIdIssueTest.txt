@@ -1,0 +1,2 @@
+SplitterCorrelationIdIssueTest acts as a publisher for observer CamelContext, which tests Split Correlation Id, which creates Route Builder.
+SplitterCorrelationIdIssueTest acts as a publisher for observer Service, which tests Split Correlation Id, which creates Route Builder.

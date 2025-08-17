@@ -1,0 +1,2 @@
+InterceptEndpointProcessor acts as a publisher for observer AsyncProcessor, which tos String.
+InterceptEndpointProcessor acts as a publisher for observer Processor, which tos String.

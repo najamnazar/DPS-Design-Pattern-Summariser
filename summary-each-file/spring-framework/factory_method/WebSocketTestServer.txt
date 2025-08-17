@@ -1,0 +1,1 @@
+WebSocketTestServer acts as an abstract product for AbstractSockJsIntegrationTests, which is inherited by JettyWebSocketTestServer, UndertowTestServer, TomcatWebSocketTestServer.

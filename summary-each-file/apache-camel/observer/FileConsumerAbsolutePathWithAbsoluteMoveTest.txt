@@ -1,0 +1,2 @@
+FileConsumerAbsolutePathWithAbsoluteMoveTest acts as a publisher for observer CamelContext, which tests Consume From Absolute Path, which creates Route Builder.
+FileConsumerAbsolutePathWithAbsoluteMoveTest acts as a publisher for observer Service, which tests Consume From Absolute Path, which creates Route Builder.

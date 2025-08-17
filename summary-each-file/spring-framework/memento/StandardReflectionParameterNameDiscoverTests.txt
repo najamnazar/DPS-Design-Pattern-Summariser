@@ -1,0 +1,1 @@
+StandardReflectionParameterNameDiscoverTests acts as a caretaker for memento Parameter, which setups, which gets Parameter Names On Interface, which sends String parameter of message Message.

@@ -1,0 +1,1 @@
+EventbridgeClientFactory acts as an originator for memento EventbridgeInternalClient, which gets an EventbridgeInternalClient Eventbridge Client to.

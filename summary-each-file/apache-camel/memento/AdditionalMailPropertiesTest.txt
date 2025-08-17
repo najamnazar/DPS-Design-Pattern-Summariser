@@ -1,0 +1,2 @@
+AdditionalMailPropertiesTest acts as a caretaker for memento Context, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.
+AdditionalMailPropertiesTest acts as a caretaker for memento Producer, which tests Additional Mail Properties, which tests Consume With Additional Properties, which creates Route Builder.

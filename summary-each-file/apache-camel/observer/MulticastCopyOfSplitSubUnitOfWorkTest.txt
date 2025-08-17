@@ -1,0 +1,2 @@
+MulticastCopyOfSplitSubUnitOfWorkTest acts as a publisher for observer CamelContext, which tests OK, which tests Error, which creates Route Builder, which processes Exchange parameter of exchange.
+MulticastCopyOfSplitSubUnitOfWorkTest acts as a publisher for observer Service, which tests OK, which tests Error, which creates Route Builder, which processes Exchange parameter of exchange.

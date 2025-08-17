@@ -1,0 +1,1 @@
+BinaryTypeFormatter acts as an originator for memento String, which annotations a String To String to, which annotations a String To String to, which methods a String To String to.

@@ -1,0 +1,2 @@
+CBRConcurrencyIssueTest acts as a publisher for observer CamelContext, which tests CBRConcurrency Issue, which tests CBRConcurrency Many Messages Issue, which creates Route Builder.
+CBRConcurrencyIssueTest acts as a publisher for observer Service, which tests CBRConcurrency Issue, which tests CBRConcurrency Many Messages Issue, which creates Route Builder.

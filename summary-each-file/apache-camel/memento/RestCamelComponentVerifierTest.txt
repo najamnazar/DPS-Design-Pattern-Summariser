@@ -1,0 +1,1 @@
+RestCamelComponentVerifierTest acts as a caretaker for memento Component, which sets Up, which tears Down, which is Use Route Builder, which gets Http Processor, which gets String parameter of contextPath Local Server Uri, which tests Parameters, which tests Missing Rest Parameters, which tests Wrong Component Parameters, which tests Connectivity.

@@ -1,0 +1,2 @@
+DefaultTransportRequestTests acts as a caretaker for memento C, which setups, which connects, which fallbacks After Transport Error, which fallbacks After Timeout, which creates Transport parameter of transport, TransportType parameter of type Transport Request.
+DefaultTransportRequestTests acts as a caretaker for memento Message, which setups, which connects, which fallbacks After Transport Error, which fallbacks After Timeout, which creates Transport parameter of transport, TransportType parameter of type Transport Request.

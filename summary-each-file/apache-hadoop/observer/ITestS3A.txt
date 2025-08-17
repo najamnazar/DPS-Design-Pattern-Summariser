@@ -1,0 +1,1 @@
+ITestS3A acts as a publisher for observer AuditSpanSource, which setups, which tests S3AStatus, which tests S3ACreate File In Sub Dir.

@@ -1,0 +1,2 @@
+DefaultManagementStrategy acts as a factory for DefaultManagementStrategy, which overrides.
+DefaultManagementStrategy acts as a factory method for ManagementObjectStrategy, which is inherited by JmxManagementStrategy, JmxManagementLifecycleStrategy, ManagementStrategy, DefaultManagementStrategy.

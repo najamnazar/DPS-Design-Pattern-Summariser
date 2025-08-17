@@ -1,0 +1,2 @@
+SpringScriptExternalTest acts as a publisher for observer CamelContext, which tests Script External, which sets Up, which creates Camel Context.
+SpringScriptExternalTest acts as a publisher for observer Service, which tests Script External, which sets Up, which creates Camel Context.

@@ -1,0 +1,6 @@
+ISourceReference acts as an adaptee for adapter SourceRefElement, which adapts to JavaElement, which adapts to JavaElement, which adapts to JavaElement, which adapts to JavaElement.
+ISourceReference acts as an adaptee for adapter IAnnotation, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.
+ISourceReference acts as an adaptee for adapter ILocalVariable, which adapts to IJavaElement, ISourceReference, which adapts to IJavaElement, ISourceReference, which adapts to IJavaElement, ISourceReference, which adapts to IJavaElement, ISourceReference.
+ISourceReference acts as a target for adapter ILocalVariable, which adapts to ISourceReference, which adapts to ISourceReference, which adapts to ISourceReference, which adapts to ISourceReference.
+ISourceReference acts as an adaptee for adapter IPackageDeclaration, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.
+ISourceReference acts as an adaptee for adapter IImportDeclaration, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement, which adapts to IJavaElement.

@@ -1,0 +1,1 @@
+SchedulerService acts as an adapter, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts to BaseService, which adapts schedule method of Scheduler, schedule method of Scheduler to BaseService, which adapts schedule method of Scheduler, schedule method of Scheduler to BaseService.

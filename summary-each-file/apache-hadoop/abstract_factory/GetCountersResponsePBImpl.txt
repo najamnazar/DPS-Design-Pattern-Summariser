@@ -1,0 +1,2 @@
+GetCountersResponsePBImpl acts as a factory for GetCountersResponse, which overrides getCounters method of GetCountersResponse, setCounters method of GetCountersResponse.
+GetCountersResponsePBImpl acts as a product for MRClientProtocol, which overrides getCounters method of GetCountersResponse, setCounters method of GetCountersResponse.

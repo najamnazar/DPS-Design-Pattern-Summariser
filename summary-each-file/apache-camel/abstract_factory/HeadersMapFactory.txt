@@ -1,0 +1,1 @@
+HeadersMapFactory acts as an abstract product for HeadersMapFactory, which is inherited by DefaultHeadersMapFactory, HashMapHeadersMapFactory, FastHeadersMapFactory.

@@ -1,0 +1,2 @@
+MappingJackson2XmlHttpMessageConverter acts as a caretaker for memento B, which sets ObjectMapper parameter of objectMapper Object Mapper.
+MappingJackson2XmlHttpMessageConverter acts as a caretaker for memento C, which sets ObjectMapper parameter of objectMapper Object Mapper.

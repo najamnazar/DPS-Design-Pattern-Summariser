@@ -1,0 +1,2 @@
+SyntheticFieldBinding acts as a caretaker for memento R.
+SyntheticFieldBinding acts as a caretaker for memento Binding.

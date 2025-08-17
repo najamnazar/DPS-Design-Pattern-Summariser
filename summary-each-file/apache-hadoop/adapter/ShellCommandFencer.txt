@@ -1,0 +1,1 @@
+ShellCommandFencer acts as an adapter, which adapts to FenceMethod, which adapts to FenceMethod, which adapts to FenceMethod, which adapts to FenceMethod, which adapts to FenceMethod, which adapts to FenceMethod, which adapts to FenceMethod.

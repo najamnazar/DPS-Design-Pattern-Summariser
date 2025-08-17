@@ -1,0 +1,2 @@
+LogDebugBodyMaxCharsOffTest acts as a publisher for observer Service, which sets Up, which creates Registry, which tests Log Body Max Length Test, which creates Route Builder.
+LogDebugBodyMaxCharsOffTest acts as a publisher for observer CamelContext, which sets Up, which creates Registry, which tests Log Body Max Length Test, which creates Route Builder.

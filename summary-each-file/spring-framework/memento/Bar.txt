@@ -1,0 +1,1 @@
+Bar acts as a memento, which is inherited by SubtypeSensitiveMatchingTests, which gets Value.

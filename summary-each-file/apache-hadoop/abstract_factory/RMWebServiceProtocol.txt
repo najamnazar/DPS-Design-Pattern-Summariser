@@ -1,0 +1,1 @@
+RMWebServiceProtocol acts as an abstract factory for SchedulerTypeInfo, ClusterInfo, BulkActivitiesInfo, ClusterUserInfo, RMQueueAclInfo, which is inherited by RouterWebServices, RMWebServices.

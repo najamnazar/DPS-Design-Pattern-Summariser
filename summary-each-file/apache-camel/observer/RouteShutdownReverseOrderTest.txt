@@ -1,0 +1,2 @@
+RouteShutdownReverseOrderTest acts as a publisher for observer Service, which tests Route Shutdown Reverse Order, which creates Route Builder.
+RouteShutdownReverseOrderTest acts as a publisher for observer CamelContext, which tests Route Shutdown Reverse Order, which creates Route Builder.

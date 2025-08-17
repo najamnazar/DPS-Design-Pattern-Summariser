@@ -1,0 +1,1 @@
+PostgresTableMetaDataProvider acts as a caretaker for memento Parameter, which is Get Generated Keys Simulated, which gets String parameter of tableName, String parameter of keyColumnName Simple Query For Get Generated Key.

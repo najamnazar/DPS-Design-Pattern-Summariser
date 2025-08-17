@@ -1,0 +1,3 @@
+FluxExchangeResult acts as a caretaker for memento ClientHttpRequest, which gets Response Body, which consumes Consumer<FluxExchangeResult<T>> parameter of consumer With.
+FluxExchangeResult acts as a caretaker for memento C, which gets Response Body, which consumes Consumer<FluxExchangeResult<T>> parameter of consumer With.
+FluxExchangeResult acts as a caretaker for memento ClientHttpResponse, which gets Response Body, which consumes Consumer<FluxExchangeResult<T>> parameter of consumer With.

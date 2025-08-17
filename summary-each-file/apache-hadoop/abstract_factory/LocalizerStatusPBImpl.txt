@@ -1,0 +1,1 @@
+LocalizerStatusPBImpl acts as a factory for LocalizerStatus, which overrides getLocalizerId method of LocalizerStatus, getResources method of LocalizerStatus, addAllResources method of LocalizerStatus, getResourceStatus method of LocalizerStatus, addResourceStatus method of LocalizerStatus, removeResource method of LocalizerStatus, clearResources method of LocalizerStatus.

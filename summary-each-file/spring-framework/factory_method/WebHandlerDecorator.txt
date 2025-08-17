@@ -1,0 +1,2 @@
+WebHandlerDecorator acts as a product for DefaultWebFilterChain, which overrides handle method of WebHandler.
+WebHandlerDecorator acts as a factory for DefaultWebFilterChain, which overrides handle method of DefaultWebFilterChain.

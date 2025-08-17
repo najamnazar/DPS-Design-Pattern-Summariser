@@ -1,0 +1,2 @@
+HeaderFilterStrategyComponent acts as a caretaker for memento Component, which gets Header Filter Strategy, which sets HeaderFilterStrategy parameter of strategy Header Filter Strategy, which sets Endpoint parameter of endpoint Endpoint Header Filter Strategy.
+HeaderFilterStrategyComponent acts as a caretaker for memento Context, which gets Header Filter Strategy, which sets HeaderFilterStrategy parameter of strategy Header Filter Strategy, which sets Endpoint parameter of endpoint Endpoint Header Filter Strategy.

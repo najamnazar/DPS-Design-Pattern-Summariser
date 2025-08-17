@@ -1,0 +1,5 @@
+CaffeineLoadCacheTestSupport acts as a publisher for observer ProducerTemplate, which creates Cache, which gets Test Cache.
+CaffeineLoadCacheTestSupport acts as a publisher for observer FluentProducerTemplate, which creates Cache, which gets Test Cache.
+CaffeineLoadCacheTestSupport acts as a publisher for observer Service, which creates Cache, which gets Test Cache.
+CaffeineLoadCacheTestSupport acts as a publisher for observer CamelContext, which creates Cache, which gets Test Cache.
+CaffeineLoadCacheTestSupport acts as a publisher for observer ConsumerTemplate, which creates Cache, which gets Test Cache.

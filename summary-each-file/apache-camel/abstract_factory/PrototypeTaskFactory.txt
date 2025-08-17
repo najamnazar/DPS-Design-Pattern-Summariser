@@ -1,0 +1,1 @@
+PrototypeTaskFactory acts as a factory for PooledExchangeTaskFactory, which overrides acquire method of PooledExchangeTaskFactory, release method of PooledExchangeTaskFactory.

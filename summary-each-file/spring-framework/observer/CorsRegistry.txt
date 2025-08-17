@@ -1,0 +1,1 @@
+CorsRegistry acts as an observer for publisher DefaultControllerSpec, which is inherited by, which adds String parameter of pathPattern Mapping, which gets Cors Configurations.

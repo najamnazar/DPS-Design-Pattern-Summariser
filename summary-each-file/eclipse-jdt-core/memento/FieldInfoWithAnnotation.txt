@@ -1,0 +1,1 @@
+FieldInfoWithAnnotation acts as a caretaker for memento C, which gets Annotations, which initializes, which resets, which tos String.

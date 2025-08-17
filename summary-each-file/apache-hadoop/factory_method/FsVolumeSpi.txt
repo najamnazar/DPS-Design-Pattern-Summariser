@@ -1,0 +1,2 @@
+FsVolumeSpi acts as an abstract product for FsVolumeReference, which is inherited by ExternalVolumeImpl, FsVolumeImpl.
+FsVolumeSpi acts as a factory for FsVolumeReference, which overrides compareTo method of FsVolumeReference, equals method of FsVolumeReference, hashCode method of FsVolumeReference.

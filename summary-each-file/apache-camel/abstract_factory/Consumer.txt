@@ -1,0 +1,2 @@
+Consumer acts as an abstract product for Consumer, which is inherited by DefaultConsumer, DisruptorConsumer, PollingConsumer, BatchConsumer.
+Consumer acts as an abstract factory for Exchange, Processor, AsyncCallback, which is inherited by DefaultConsumer, DisruptorConsumer.

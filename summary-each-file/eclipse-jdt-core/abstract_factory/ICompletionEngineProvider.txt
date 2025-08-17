@@ -1,0 +1,1 @@
+ICompletionEngineProvider acts as an abstract factory for ICompletionEngine, which is inherited by TestCompletionEngineProvider.

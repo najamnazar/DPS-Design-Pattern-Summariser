@@ -1,0 +1,1 @@
+GetLabelsToNodesResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides setLabelsToNodes method of GetLabelsToNodesResponse, getLabelsToNodes method of GetLabelsToNodesResponse.

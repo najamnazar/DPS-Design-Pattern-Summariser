@@ -1,0 +1,2 @@
+JavadocSingleNameReference acts as a publisher for observer MethodBinding, which resolves BlockScope parameter of scope, which resolves BlockScope parameter of scope, boolean parameter of warn, which traverses ASTVisitor parameter of visitor, BlockScope parameter of scope.
+JavadocSingleNameReference acts as a publisher for observer TypeBinding, which resolves BlockScope parameter of scope, which resolves BlockScope parameter of scope, boolean parameter of warn, which traverses ASTVisitor parameter of visitor, BlockScope parameter of scope.

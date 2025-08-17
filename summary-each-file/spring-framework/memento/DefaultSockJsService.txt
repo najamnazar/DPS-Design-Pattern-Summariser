@@ -1,0 +1,3 @@
+DefaultSockJsService acts as a caretaker for memento C, which gets @Nullable parameter of Collection<TransportHandler> Default Transport Handlers, which sets ServletContext parameter of servletContext Servlet Context.
+DefaultSockJsService acts as a caretaker for memento Message, which gets @Nullable parameter of Collection<TransportHandler> Default Transport Handlers, which sets ServletContext parameter of servletContext Servlet Context.
+DefaultSockJsService acts as a caretaker for memento SockJsSession, which gets @Nullable parameter of Collection<TransportHandler> Default Transport Handlers, which sets ServletContext parameter of servletContext Servlet Context.

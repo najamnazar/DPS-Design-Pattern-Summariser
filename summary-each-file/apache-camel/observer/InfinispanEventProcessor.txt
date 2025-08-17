@@ -1,0 +1,1 @@
+InfinispanEventProcessor acts as an observer for publisher InfinispanEventListener, which is inherited by InfinispanConsumer, which processes String parameter of eventType, String parameter of cacheName, Object parameter of key, Object parameter of eventData, Consumer<Exchange> parameter of consumer Event.

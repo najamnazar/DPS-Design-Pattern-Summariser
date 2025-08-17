@@ -1,0 +1,2 @@
+ExceptionCamel4022Test acts as a caretaker for memento Producer, which tests Exception With Fatal Exception, which processes Exchange parameter of exchange, which creates Route Builder.
+ExceptionCamel4022Test acts as a caretaker for memento Context, which tests Exception With Fatal Exception, which processes Exchange parameter of exchange, which creates Route Builder.

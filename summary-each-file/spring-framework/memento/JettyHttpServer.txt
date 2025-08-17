@@ -1,0 +1,1 @@
+JettyHttpServer acts as a caretaker for memento C, which inits Server, which creates Servlet Adapter, which starts Internal, which stops Internal, which resets Internal.

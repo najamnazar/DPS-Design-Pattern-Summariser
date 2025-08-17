@@ -1,0 +1,3 @@
+IIndexConstants acts as an adaptee for adapter IndexManager.
+IIndexConstants acts as an adaptee for adapter OrPattern.
+IIndexConstants acts as an adaptee for adapter PatternLocator.

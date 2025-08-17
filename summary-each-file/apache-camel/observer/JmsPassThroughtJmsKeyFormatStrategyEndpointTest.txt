@@ -1,0 +1,1 @@
+JmsPassThroughtJmsKeyFormatStrategyEndpointTest acts as a publisher for observer ArtemisService, which tests Send With Headers, which gets Component Name, which creates Route Builder.

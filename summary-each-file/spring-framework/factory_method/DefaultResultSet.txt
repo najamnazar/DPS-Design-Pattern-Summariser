@@ -1,0 +1,2 @@
+DefaultResultSet acts as a factory for DiagnosticsResultSet, which overrides.
+DefaultResultSet acts as a factory for SpringClassRule, which overrides.

@@ -1,0 +1,1 @@
+CodeSnippetFieldReference acts as an adapter, which adapts to FieldReference, which adapts to FieldReference, which adapts to FieldReference, which adapts to FieldReference, which adapts to FieldReference, which adapts to FieldReference.

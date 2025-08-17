@@ -1,0 +1,3 @@
+DefaultComponentVerifierExtension acts as a factory for ComponentVerifierExtension, which overrides verify method of ComponentVerifierExtension.
+DefaultComponentVerifierExtension acts as a factory for ComponentAware, which overrides getComponent method of ComponentAware, setComponent method of ComponentAware.
+DefaultComponentVerifierExtension acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.

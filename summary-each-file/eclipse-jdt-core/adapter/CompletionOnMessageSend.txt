@@ -1,0 +1,1 @@
+CompletionOnMessageSend acts as an adapter, which adapts to MessageSend, which adapts to MessageSend.

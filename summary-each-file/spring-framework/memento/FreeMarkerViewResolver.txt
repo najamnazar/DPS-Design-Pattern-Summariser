@@ -1,0 +1,1 @@
+FreeMarkerViewResolver acts as a memento, which instantiates View, which instantiates View.

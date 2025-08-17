@@ -1,0 +1,2 @@
+MockComponentLogTest acts as a caretaker for memento Producer, which tests Log, which creates Route Builder.
+MockComponentLogTest acts as a caretaker for memento Context, which tests Log, which creates Route Builder.

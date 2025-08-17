@@ -1,0 +1,1 @@
+AbstractServerHttpRequest acts as a component for decorator ServerHttpRequestDecorator, which overrides getIdServerHttpRequest, getURIServerHttpRequest, getPathServerHttpRequest, getHeadersServerHttpRequest, getQueryParamsServerHttpRequest, getCookiesServerHttpRequest, getSslInfoServerHttpRequest.

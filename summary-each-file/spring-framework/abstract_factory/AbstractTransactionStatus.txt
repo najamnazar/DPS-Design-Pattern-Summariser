@@ -1,0 +1,1 @@
+AbstractTransactionStatus acts as a product for PlatformTransactionManager, which overrides hasSavepoint method of TransactionStatus, flush method of TransactionStatus.

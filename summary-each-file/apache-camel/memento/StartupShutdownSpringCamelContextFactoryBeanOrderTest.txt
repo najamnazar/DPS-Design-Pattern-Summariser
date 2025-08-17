@@ -1,0 +1,1 @@
+StartupShutdownSpringCamelContextFactoryBeanOrderTest acts as a caretaker for memento Context, which camels Context, which creates Context.

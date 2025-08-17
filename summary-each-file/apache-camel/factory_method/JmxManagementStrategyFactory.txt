@@ -1,0 +1,1 @@
+JmxManagementStrategyFactory acts as a factory method for LifecycleStrategy, which is inherited by LifecycleStrategySupport, ManagementStrategyFactory, LifecycleStrategySupport, LifecycleStrategySupport, LifecycleStrategySupport, LifecycleStrategySupport, ManagementStrategyFactory, LifecycleStrategySupport, LifecycleStrategySupport.

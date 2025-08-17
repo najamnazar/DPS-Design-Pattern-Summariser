@@ -1,0 +1,2 @@
+OnExceptionWhenSimpleOgnlTest acts as a publisher for observer CamelContext, which tests On Exception When Simple Ognl, which creates Route Builder, which gets Info, which gets State.
+OnExceptionWhenSimpleOgnlTest acts as a publisher for observer Service, which tests On Exception When Simple Ognl, which creates Route Builder, which gets Info, which gets State.

@@ -1,0 +1,2 @@
+FileProducerFilenameConstantTest acts as a publisher for observer CamelContext, which tests File Producer Filename Constant.
+FileProducerFilenameConstantTest acts as a publisher for observer Service, which tests File Producer Filename Constant.

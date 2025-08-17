@@ -1,0 +1,2 @@
+JGroupsLockClusterView acts as a publisher for observer CamelContext, which gets Leader, which gets Local Member, which gets Members, which does Start, which does Stop, which does Shutdown, which clears Lock, which shutdowns Executor, which is Leader, which is Local, which gets Id.
+JGroupsLockClusterView acts as a publisher for observer CamelClusterEventListener, which gets Leader, which gets Local Member, which gets Members, which does Start, which does Stop, which does Shutdown, which clears Lock, which shutdowns Executor, which is Leader, which is Local, which gets Id.

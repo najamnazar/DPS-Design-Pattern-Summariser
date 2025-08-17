@@ -1,0 +1,2 @@
+TryProcessorMultipleExceptionTest acts as a publisher for observer CamelContext, which tests IOException, which tests Illegal State Exception, which tests Ok, which creates Route Builder, which processes Exchange parameter of exchange.
+TryProcessorMultipleExceptionTest acts as a publisher for observer Service, which tests IOException, which tests Illegal State Exception, which tests Ok, which creates Route Builder, which processes Exchange parameter of exchange.

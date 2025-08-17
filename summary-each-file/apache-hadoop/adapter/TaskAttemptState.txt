@@ -1,0 +1,1 @@
+TaskAttemptState acts as an adaptee for adapter CompletedTaskAttempt.

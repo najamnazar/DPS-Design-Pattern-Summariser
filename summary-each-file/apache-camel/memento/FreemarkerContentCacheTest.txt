@@ -1,0 +1,2 @@
+FreemarkerContentCacheTest acts as a caretaker for memento Context, which uses Jmx, which sets Up, which tests Not Cached, which tests Cached, which tests Template Update Delay, which tests Clear Cache Via Jmx, which creates Route Builder.
+FreemarkerContentCacheTest acts as a caretaker for memento Producer, which uses Jmx, which sets Up, which tests Not Cached, which tests Cached, which tests Template Update Delay, which tests Clear Cache Via Jmx, which creates Route Builder.

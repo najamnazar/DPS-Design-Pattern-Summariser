@@ -1,0 +1,2 @@
+CompilationGroup acts as an adaptee for adapter BatchImageBuilder.
+CompilationGroup acts as an adaptee for adapter AbstractImageBuilder.

@@ -1,0 +1,1 @@
+ModularClassFile acts as a product for IPackageFragment, which overrides getModule method of IModularClassFile.

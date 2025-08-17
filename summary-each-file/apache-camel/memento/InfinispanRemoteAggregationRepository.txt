@@ -1,0 +1,2 @@
+InfinispanRemoteAggregationRepository acts as a caretaker for memento Configuration, which does Start, which does Stop, which gets Cache, which gets Configuration, which sets InfinispanRemoteConfiguration parameter of configuration Configuration.
+InfinispanRemoteAggregationRepository acts as a caretaker for memento Context, which does Start, which does Stop, which gets Cache, which gets Configuration, which sets InfinispanRemoteConfiguration parameter of configuration Configuration.

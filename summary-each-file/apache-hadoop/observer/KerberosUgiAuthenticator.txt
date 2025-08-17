@@ -1,0 +1,2 @@
+KerberosUgiAuthenticator acts as a publisher for observer ConnectionConfigurator, which gets Fall Back Authenticator.
+KerberosUgiAuthenticator acts as a publisher for observer URL, which gets Fall Back Authenticator.

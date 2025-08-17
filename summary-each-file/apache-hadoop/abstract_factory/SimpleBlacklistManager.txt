@@ -1,0 +1,2 @@
+SimpleBlacklistManager acts as a factory for BlacklistManager, which overrides addNode method of BlacklistManager, refreshNodeHostCount method of BlacklistManager, getBlacklistUpdates method of BlacklistManager.
+SimpleBlacklistManager acts as a product for RMAppAttempt, which overrides addNode method of BlacklistManager, refreshNodeHostCount method of BlacklistManager, getBlacklistUpdates method of BlacklistManager.

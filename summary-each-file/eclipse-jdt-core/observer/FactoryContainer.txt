@@ -1,0 +1,1 @@
+FactoryContainer acts as an observer for publisher FactoryPath, which is inherited by PluginFactoryContainer, JarFactoryContainer, which gets Id, which tos String, which gets Type, which exists, which loads Factory Names, which gets Factory Names, which hashes Code, which equals Object parameter of o.

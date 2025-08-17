@@ -1,0 +1,3 @@
+PathMatchingResourcePatternResolver acts as a factory for MessageBrokerRegistry, which overrides.
+PathMatchingResourcePatternResolver acts as a product for GenericWebApplicationContext, which overrides getResources method of ResourcePatternResolver.
+PathMatchingResourcePatternResolver acts as a factory for FreeMarkerConfigurationFactory, which overrides getClassLoader method of FreeMarkerConfigurationFactory, getResource method of FreeMarkerConfigurationFactory.

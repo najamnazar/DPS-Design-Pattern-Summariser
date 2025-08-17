@@ -1,0 +1,5 @@
+KameletRouteDumpTest acts as a publisher for observer ProducerTemplate, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.
+KameletRouteDumpTest acts as a publisher for observer Service, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.
+KameletRouteDumpTest acts as a publisher for observer FluentProducerTemplate, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.
+KameletRouteDumpTest acts as a publisher for observer CamelContext, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.
+KameletRouteDumpTest acts as a publisher for observer ConsumerTemplate, which posts Process Test, which cans Produce To Kamelet, which creates Route Builder.

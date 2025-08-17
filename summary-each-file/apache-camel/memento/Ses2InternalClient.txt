@@ -1,0 +1,1 @@
+Ses2InternalClient acts as a memento, which is inherited by Ses2ClientOptimizedImpl, Ses2ClientStandardImpl, which gets Ses Client.

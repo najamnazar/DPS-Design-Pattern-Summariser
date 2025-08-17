@@ -1,0 +1,2 @@
+StopRouteShouldNotStopRouteScopedErrorHandlerIssueTest acts as a publisher for observer Service, which tests Issue, which creates Route Builder.
+StopRouteShouldNotStopRouteScopedErrorHandlerIssueTest acts as a publisher for observer CamelContext, which tests Issue, which creates Route Builder.

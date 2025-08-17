@@ -1,0 +1,1 @@
+AuditingFunctions acts as an originator for memento InvocationRaisingIOE, which withins @Nullable parameter of AuditSpan, InvocationRaisingIOE parameter of operation Audit Span, which withins @Nullable parameter of AuditSpan, InvocationRaisingIOE parameter of operation Audit Span.

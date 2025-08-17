@@ -1,0 +1,3 @@
+SimpleThreadScopeTests acts as a caretaker for memento ApplicationContext, which gets From Scope, which gets Multiple Instances.
+SimpleThreadScopeTests acts as a caretaker for memento C, which gets From Scope, which gets Multiple Instances.
+SimpleThreadScopeTests acts as a caretaker for memento A, which gets From Scope, which gets Multiple Instances.

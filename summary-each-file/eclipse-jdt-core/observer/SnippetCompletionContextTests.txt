@@ -1,0 +1,2 @@
+SnippetCompletionContextTests acts as a publisher for observer ICompilationUnit, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.
+SnippetCompletionContextTests acts as a publisher for observer String, which sets Up Suite, which suites, which test0001s, which test0002s, which test0003s, which test0004s.

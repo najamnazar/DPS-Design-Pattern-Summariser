@@ -1,0 +1,2 @@
+VarJarFactoryContainer acts as a caretaker for memento String, which gets Type, which gets Jar File, which gets Id.
+VarJarFactoryContainer acts as a caretaker for memento S, which gets Type, which gets Jar File, which gets Id.

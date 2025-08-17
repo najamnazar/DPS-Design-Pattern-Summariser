@@ -1,0 +1,5 @@
+RestOpenApiReaderPropertyPlaceholderTest acts as a publisher for observer ConsumerTemplate, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.
+RestOpenApiReaderPropertyPlaceholderTest acts as a publisher for observer Service, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.
+RestOpenApiReaderPropertyPlaceholderTest acts as a publisher for observer ProducerTemplate, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.
+RestOpenApiReaderPropertyPlaceholderTest acts as a publisher for observer CamelContext, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.
+RestOpenApiReaderPropertyPlaceholderTest acts as a publisher for observer FluentProducerTemplate, which uses Jmx, which uses Override Properties With Properties Component, which creates Route Builder, which tests Reader Read.

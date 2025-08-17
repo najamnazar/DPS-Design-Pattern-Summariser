@@ -1,0 +1,2 @@
+ZipDeflaterDataFormat acts as an observer, which gets Compression Level, which sets String parameter of compressionLevel Compression Level, which compressions String parameter of compressionLevel Level, which compressions int parameter of compressionLevel Level, which ends.
+ZipDeflaterDataFormat acts as a publisher for observer DataFormat, which gets Compression Level, which sets String parameter of compressionLevel Compression Level, which compressions String parameter of compressionLevel Level, which compressions int parameter of compressionLevel Level, which ends.

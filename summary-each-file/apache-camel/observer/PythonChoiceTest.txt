@@ -1,0 +1,5 @@
+PythonChoiceTest acts as a publisher for observer CamelContext, which tests Python Choice, which creates Route Builder.
+PythonChoiceTest acts as a publisher for observer Service, which tests Python Choice, which creates Route Builder.
+PythonChoiceTest acts as a publisher for observer ProducerTemplate, which tests Python Choice, which creates Route Builder.
+PythonChoiceTest acts as a publisher for observer ConsumerTemplate, which tests Python Choice, which creates Route Builder.
+PythonChoiceTest acts as a publisher for observer FluentProducerTemplate, which tests Python Choice, which creates Route Builder.

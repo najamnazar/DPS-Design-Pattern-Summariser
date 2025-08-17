@@ -1,0 +1,2 @@
+CompilerTestSetup acts as a publisher for observer Vector, which inits Object parameter of test Test, which runs TestResult parameter of result, which sets Up, which tears Down.
+CompilerTestSetup acts as a publisher for observer String, which inits Object parameter of test Test, which runs TestResult parameter of result, which sets Up, which tears Down.

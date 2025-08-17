@@ -1,0 +1,1 @@
+PropertiesLocation acts as an observer for publisher PropertiesComponent, which is inherited by, which gets Resolver, which gets Path, which is Optional, which equals Object parameter of o, which hashes Code, which tos String.

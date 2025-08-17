@@ -1,0 +1,3 @@
+BatchProcessor acts as a memento, which processes.
+BatchProcessor acts as a caretaker for memento AnnotationProcessor, which processes.
+BatchProcessor acts as a caretaker for memento E, which processes.

@@ -1,0 +1,1 @@
+CreateIndexFinalStep acts as an abstract product for CreateIndexWhereStep, which is inherited by CreateIndexImpl.

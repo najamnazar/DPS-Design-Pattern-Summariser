@@ -1,0 +1,2 @@
+RefreshUserMappingsProtocolPB acts as an adaptee for adapter RouterRefreshUserMappingsProtocolTranslatorPB.
+RefreshUserMappingsProtocolPB acts as an adaptee for adapter RefreshUserMappingsProtocolClientSideTranslatorPB.

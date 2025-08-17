@@ -1,0 +1,1 @@
+HttpMethodHelper acts as an originator for memento HttpMethods, which creates a HttpMethods Method to.

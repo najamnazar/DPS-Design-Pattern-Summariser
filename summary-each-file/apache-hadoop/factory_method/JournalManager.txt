@@ -1,0 +1,1 @@
+JournalManager acts as an abstract product for TestEditLogJournalFailures, which is inherited by QuorumJournalManager, JournalSet, BackupJournalManager, FileJournalManager.

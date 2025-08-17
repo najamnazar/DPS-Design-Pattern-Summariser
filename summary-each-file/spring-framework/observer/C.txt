@@ -1,0 +1,1 @@
+C acts as an observer for publisher TypeMappedAnnotations, which is inherited by.

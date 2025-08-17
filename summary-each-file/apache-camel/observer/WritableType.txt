@@ -1,0 +1,1 @@
+WritableType acts as an observer for publisher HdfsConfiguration, which is inherited by, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class, which gets Writable Class.

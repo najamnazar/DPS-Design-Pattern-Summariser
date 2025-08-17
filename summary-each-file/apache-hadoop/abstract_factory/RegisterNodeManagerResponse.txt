@@ -1,0 +1,1 @@
+RegisterNodeManagerResponse acts as an abstract product for RegisterNodeManagerResponse, which is inherited by RegisterNodeManagerResponsePBImpl.

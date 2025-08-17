@@ -1,0 +1,1 @@
+WorkQueue acts as a caretaker for memento S, which adds SourceFile parameter of element, which adds SourceFile[] parameter of elements All, which clears, which finishes SourceFile parameter of element, which is SourceFile parameter of element Compiled, which is SourceFile parameter of element Waiting, which tos String.

@@ -1,0 +1,1 @@
+HeaderAndCookieTests acts as a caretaker for memento C, which requests Response Header Pair, which headers Multiple Values, which sets Cookies, which handles @RequestHeader("h1") parameter of String Header, which multis Value, which handles @CookieValue("k1") parameter of String Cookie.

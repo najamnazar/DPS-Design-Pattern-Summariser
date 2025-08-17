@@ -1,0 +1,1 @@
+AbstractMultipartUploader acts as a product for AbstractContractMultipartUploaderTest, which overrides.

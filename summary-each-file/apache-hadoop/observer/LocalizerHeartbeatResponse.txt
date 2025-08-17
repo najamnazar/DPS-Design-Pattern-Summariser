@@ -1,0 +1,1 @@
+LocalizerHeartbeatResponse acts as a publisher for observer LocalizerAction, which is inherited by MockLocalizerHeartbeatResponse, which gets Localizer Action, which sets LocalizerAction parameter of action Localizer Action, which gets Resource Specs, which sets List<ResourceLocalizationSpec> parameter of rsrcs Resource Specs.

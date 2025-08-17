@@ -1,0 +1,1 @@
+Authenticator acts as a component for DelegationTokenAuthenticator, which is inherited by PseudoAuthenticator, PseudoAuthenticator, KerberosAuthenticator, KerberosAuthenticator.

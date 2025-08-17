@@ -1,0 +1,1 @@
+Binding acts as an observer for publisher TypeReferenceLocator, which is inherited by TypeBinding, MethodBinding, PackageBinding, ImportBinding, ProblemBinding, VariableBinding, which binds Type, which is Valid Binding, which problems Id, which readables Name, which shorts Readable Name.

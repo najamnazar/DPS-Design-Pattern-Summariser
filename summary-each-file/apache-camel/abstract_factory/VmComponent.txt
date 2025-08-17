@@ -1,0 +1,2 @@
+VmComponent acts as a product for SedaComponentBuilderFactory, which overrides getQueues method of SedaComponent, getQueueReference method of SedaComponent, doStop method of SedaComponent, createEndpoint method of SedaComponent.
+VmComponent acts as an abstract product for VmComponent, which is inherited by StubComponent.

@@ -1,0 +1,1 @@
+PipesMapRunner acts as a publisher for observer JobConf, which is inherited by, which configures JobConf parameter of job, which runs RecordReader<K1, parameter of V1>, OutputCollector<K2, parameter of V2>, Reporter parameter of reporter.

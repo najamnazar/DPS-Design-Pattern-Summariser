@@ -1,0 +1,15 @@
+JobConf acts as a product for GetSpaceUsed, which overrides.
+JobConf acts as a product for Configurable, which overrides.
+JobConf acts as a product for MutableConfScheduler, which overrides.
+JobConf acts as a product for SPSService, which overrides.
+JobConf acts as a product for MutableConfigurationProvider, which overrides.
+JobConf acts as a product for CapacitySchedulerContext, which overrides.
+JobConf acts as a product for Job, which overrides.
+JobConf acts as a product for FileSystemAccess, which overrides.
+JobConf acts as a product for LaunchableService, which overrides.
+JobConf acts as a product for RMContext, which overrides.
+JobConf acts as a product for RunningJob, which overrides.
+JobConf acts as a product for WriteOperations, which overrides.
+JobConf acts as a product for MiniMRClientCluster, which overrides.
+JobConf acts as a product for ObjectStorage, which overrides.
+JobConf acts as a product for AMRMProxyApplicationContext, which overrides.

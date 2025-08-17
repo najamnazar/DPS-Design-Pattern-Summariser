@@ -1,0 +1,1 @@
+LanguageContext acts as an adaptee for adapter AbstractContext.

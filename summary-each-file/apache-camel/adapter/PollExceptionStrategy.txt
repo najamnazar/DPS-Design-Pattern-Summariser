@@ -1,0 +1,1 @@
+PollExceptionStrategy acts as an adaptee for adapter KafkaComponent, which adapts to DefaultComponent, which adapts to DefaultComponent, which adapts to DefaultComponent.

@@ -1,0 +1,1 @@
+ICompletionEngine acts as a publisher for observer ITypeRoot, which is inherited by CompletionEngine, which completes ICompilationUnit parameter of sourceUnit, int parameter of completionPosition, int parameter of adjustment, ITypeRoot parameter of root.

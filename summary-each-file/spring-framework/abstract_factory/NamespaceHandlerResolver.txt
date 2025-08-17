@@ -1,0 +1,1 @@
+NamespaceHandlerResolver acts as an abstract factory for NamespaceHandler, which is inherited by DefaultNamespaceHandlerResolver.

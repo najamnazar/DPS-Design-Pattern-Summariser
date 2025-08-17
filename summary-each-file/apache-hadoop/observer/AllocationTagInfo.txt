@@ -1,0 +1,1 @@
+AllocationTagInfo acts as an observer for publisher AllocationTagsInfo, which is inherited by, which gets Allocation Tag, which gets Allocations Count, which tos String.

@@ -1,0 +1,1 @@
+CompositeAuthenticationHandler acts as an observer, which gets Token Types.

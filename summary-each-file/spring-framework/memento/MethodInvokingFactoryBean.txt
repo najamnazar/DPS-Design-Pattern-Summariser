@@ -1,0 +1,2 @@
+MethodInvokingFactoryBean acts as a caretaker for memento B, which sets boolean parameter of singleton Singleton, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.
+MethodInvokingFactoryBean acts as a caretaker for memento C, which sets boolean parameter of singleton Singleton, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.

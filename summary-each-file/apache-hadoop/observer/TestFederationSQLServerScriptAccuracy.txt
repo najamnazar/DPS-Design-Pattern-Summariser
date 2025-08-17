@@ -1,0 +1,1 @@
+TestFederationSQLServerScriptAccuracy acts as a publisher for observer Configuration, which creates State Store, which gets SQLURL, which checks Sql Server Script Accuracy.

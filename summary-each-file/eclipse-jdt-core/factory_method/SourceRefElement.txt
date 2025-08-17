@@ -1,0 +1,4 @@
+SourceRefElement acts as a factory for ImportContainer, which overrides.
+SourceRefElement acts as a factory for ResolveTests, which overrides.
+SourceRefElement acts as a factory for SourceRefElement, which overrides.
+SourceRefElement acts as a factory method for IOpenable, which is inherited by IJavaElement, Openable, SourceRefElement, IJavaElement, Openable, SourceRefElement, JavaElement, IJavaElement, Openable, IJavaElement, IBuffer, IJavaElement, Buffer, IJavaElement, IJavaElement, IJavaElement, IJavaElement, JavaElement, IJavaElement, IJavaElement, IJavaElement, IBuffer, Openable, IJavaElement, Openable, SourceRefElement.

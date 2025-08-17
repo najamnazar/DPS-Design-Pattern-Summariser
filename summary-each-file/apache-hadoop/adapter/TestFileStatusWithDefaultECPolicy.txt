@@ -1,0 +1,1 @@
+TestFileStatusWithDefaultECPolicy acts as a target for adapter TestFileStatusWithRandomECPolicy, which adapts to TestFileStatusWithDefaultECPolicy, which adapts to TestFileStatusWithDefaultECPolicy, which adapts to TestFileStatusWithDefaultECPolicy, which adapts to TestFileStatusWithDefaultECPolicy.

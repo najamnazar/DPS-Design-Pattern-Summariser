@@ -1,0 +1,2 @@
+RelativePathSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer Employee.
+RelativePathSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer ApplicationContext.

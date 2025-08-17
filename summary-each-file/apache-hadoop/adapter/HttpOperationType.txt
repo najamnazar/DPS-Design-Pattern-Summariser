@@ -1,0 +1,2 @@
+HttpOperationType acts as an adaptee for adapter ITestAbfsRestOperation.
+HttpOperationType acts as an adaptee for adapter ITestAbfsOutputStream.

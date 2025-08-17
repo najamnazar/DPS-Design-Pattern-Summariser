@@ -1,0 +1,2 @@
+SedaQueueTest acts as a publisher for observer Service, which tests Queue, which tests Queue Ref, which creates Route Builder.
+SedaQueueTest acts as a publisher for observer CamelContext, which tests Queue, which tests Queue Ref, which creates Route Builder.

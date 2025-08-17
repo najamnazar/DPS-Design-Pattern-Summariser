@@ -1,0 +1,1 @@
+CountingProgressListener acts as a product for Options, which overrides progress method of Progressable.

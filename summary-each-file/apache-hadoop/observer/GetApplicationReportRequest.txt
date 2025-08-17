@@ -1,0 +1,1 @@
+GetApplicationReportRequest acts as a publisher for observer ApplicationId, which is inherited by GetApplicationReportRequestPBImpl, which news ApplicationId parameter of applicationId Instance, which gets Application Id, which sets ApplicationId parameter of applicationId Application Id.

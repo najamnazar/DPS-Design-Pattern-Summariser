@@ -1,0 +1,1 @@
+NetworkTopology acts as an abstract product for NetworkTopology, which is inherited by NetworkTopologyWithNodeGroup, DFSNetworkTopology.

@@ -1,0 +1,1 @@
+NullPrintWriter acts as an observer, which flushes, which writes char[] parameter of buf, int parameter of off, int parameter of len, which writes int parameter of c, which writes String parameter of s, int parameter of off, int parameter of len.

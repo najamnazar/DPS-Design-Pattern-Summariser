@@ -1,0 +1,2 @@
+SimpleLanguageBeanFunctionScopeTest acts as a publisher for observer CamelContext, which tests Singleton, which tests Prototype, which tests Request, which creates Registry, which creates Route Builder, which bars String parameter of body.
+SimpleLanguageBeanFunctionScopeTest acts as a publisher for observer Service, which tests Singleton, which tests Prototype, which tests Request, which creates Registry, which creates Route Builder, which bars String parameter of body.

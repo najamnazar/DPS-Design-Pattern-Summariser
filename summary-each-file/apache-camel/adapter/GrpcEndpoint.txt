@@ -1,0 +1,3 @@
+GrpcEndpoint acts as an adaptee for adapter GrpcProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer, which adapts to DefaultAsyncProducer.
+GrpcEndpoint acts as an adapter, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+GrpcEndpoint acts as an adaptee for adapter GrpcConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

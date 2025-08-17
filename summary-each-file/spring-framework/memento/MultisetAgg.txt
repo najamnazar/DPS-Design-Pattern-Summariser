@@ -1,0 +1,2 @@
+MultisetAgg acts as a caretaker for memento A, which accepts Context<?> parameter of ctx, which accept0s Context<?> parameter of ctx, boolean parameter of multisetCondition, which $rows.
+MultisetAgg acts as a caretaker for memento Row, which accepts Context<?> parameter of ctx, which accept0s Context<?> parameter of ctx, boolean parameter of multisetCondition, which $rows.

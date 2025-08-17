@@ -1,0 +1,1 @@
+MissingRequestHeaderException acts as a caretaker for memento Parameter, which gets Message, which gets Header Name, which gets Parameter.

@@ -1,0 +1,2 @@
+ICompletionEngine acts as an adaptee for adapter CompletionEngine, which adapts to ISearchRequestor, ICompletionEngine, Engine.
+ICompletionEngine acts as a target for adapter CompletionEngine, which adapts to ICompletionEngine.

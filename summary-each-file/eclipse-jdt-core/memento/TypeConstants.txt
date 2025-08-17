@@ -1,0 +1,3 @@
+TypeConstants acts as a caretaker for memento Binding, which is inherited by.
+TypeConstants acts as a caretaker for memento R, which is inherited by.
+TypeConstants acts as a caretaker for memento TypeVariable, which is inherited by.

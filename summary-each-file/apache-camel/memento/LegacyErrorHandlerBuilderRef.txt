@@ -1,0 +1,1 @@
+LegacyErrorHandlerBuilderRef acts as a caretaker for memento Configuration, which supports Transacted, which clones Builder, which clones LegacyErrorHandlerBuilderRef parameter of other Builder, which gets Ref, which sets String parameter of ref Ref, which is Support Transacted, which sets boolean parameter of supportTransacted Support Transacted, which tos String.

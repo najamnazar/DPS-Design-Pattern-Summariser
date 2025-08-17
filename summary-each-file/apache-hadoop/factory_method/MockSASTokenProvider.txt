@@ -1,0 +1,1 @@
+MockSASTokenProvider acts as a product for AbfsConfiguration, which overrides initialize method of SASTokenProvider.

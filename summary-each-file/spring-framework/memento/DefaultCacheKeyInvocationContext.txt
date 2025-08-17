@@ -1,0 +1,2 @@
+DefaultCacheKeyInvocationContext acts as a caretaker for memento C, which gets Key Parameters, which gets Value Parameter.
+DefaultCacheKeyInvocationContext acts as a caretaker for memento Parameter, which gets Key Parameters, which gets Value Parameter.

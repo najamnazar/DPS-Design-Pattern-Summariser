@@ -1,0 +1,2 @@
+SpringOnExceptionNotNormalizedClassNameTest acts as a publisher for observer CamelContext, which tests Order Error, which creates Camel Context.
+SpringOnExceptionNotNormalizedClassNameTest acts as a publisher for observer Service, which tests Order Error, which creates Camel Context.

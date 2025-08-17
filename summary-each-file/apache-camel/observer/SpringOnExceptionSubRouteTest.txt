@@ -1,0 +1,2 @@
+SpringOnExceptionSubRouteTest acts as a publisher for observer CamelContext, which tests Order Ok, which tests Order Error, which tests Order Error With No Exception Clause, which creates Camel Context.
+SpringOnExceptionSubRouteTest acts as a publisher for observer Service, which tests Order Ok, which tests Order Error, which tests Order Error With No Exception Clause, which creates Camel Context.

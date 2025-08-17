@@ -1,0 +1,2 @@
+EntityManagerHolder acts as a factory for EntityManagerHolder, which overrides.
+EntityManagerHolder acts as a factory method for SavepointManager, which is inherited by AbstractTransactionStatus, AbstractTransactionStatus, EntityManagerHolder.

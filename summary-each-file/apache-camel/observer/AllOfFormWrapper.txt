@@ -1,0 +1,1 @@
+AllOfFormWrapper acts as a publisher for observer AllOfForm, which is inherited by, which gets Full Form, which sets AllOfForm parameter of fullForm Full Form.

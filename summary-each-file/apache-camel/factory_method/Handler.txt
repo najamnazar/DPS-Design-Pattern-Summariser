@@ -1,0 +1,1 @@
+Handler acts as a factory for CamelCoapResource, which overrides.

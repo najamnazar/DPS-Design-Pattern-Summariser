@@ -1,0 +1,1 @@
+CamelHeadersInjectAdapter acts as a product for SpanDecorator, which overrides put method of InjectAdapter.

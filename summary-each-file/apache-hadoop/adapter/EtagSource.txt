@@ -1,0 +1,4 @@
+EtagSource acts as an adaptee for adapter AbfsLocatedFileStatus, which adapts to LocatedFileStatus.
+EtagSource acts as an adaptee for adapter S3ALocatedFileStatus, which adapts to LocatedFileStatus.
+EtagSource acts as an adaptee for adapter S3AFileStatus, which adapts to FileStatus.
+EtagSource acts as an adaptee for adapter VersionedFileStatus, which adapts to FileStatus.

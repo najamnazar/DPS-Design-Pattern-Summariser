@@ -1,0 +1,1 @@
+RowCountCallbackHandler acts as a product for ResultSetSupportingSqlParameter, which overrides processRow method of RowCallbackHandler.

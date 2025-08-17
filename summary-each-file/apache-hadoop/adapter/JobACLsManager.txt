@@ -1,0 +1,1 @@
+JobACLsManager acts as an adaptee for adapter HistoryFileManager, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService, which adapts to AbstractService.

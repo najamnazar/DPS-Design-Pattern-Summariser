@@ -1,0 +1,1 @@
+SimpleBufferedOutputStream acts as an adaptee for adapter LogAggregationIndexedFileController, which adapts to LogAggregationFileController, which adapts to LogAggregationFileController, which adapts to LogAggregationFileController, which adapts to LogAggregationFileController, which adapts to LogAggregationFileController.

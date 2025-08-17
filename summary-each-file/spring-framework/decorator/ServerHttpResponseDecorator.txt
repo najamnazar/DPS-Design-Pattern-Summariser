@@ -1,0 +1,1 @@
+ServerHttpResponseDecorator acts as a decorator for component ServerHttpResponse, which is inherited by HttpHeadResponseDecorator.

@@ -1,0 +1,2 @@
+RemoteEditLog acts as an observer for publisher RemoteEditLog, which is inherited by, which gets Start Tx Id, which gets End Tx Id, which is In Progress, which tos String, which compares RemoteEditLog parameter of log To, which equals Object parameter of o, which hashes Code.
+RemoteEditLog acts as a publisher for observer RemoteEditLog, which is inherited by, which gets Start Tx Id, which gets End Tx Id, which is In Progress, which tos String, which compares RemoteEditLog parameter of log To, which equals Object parameter of o, which hashes Code.

@@ -1,0 +1,1 @@
+ITestAbfsContractBulkDelete acts as an adapter, which adapts to AbstractContractBulkDeleteTest, which adapts to AbstractContractBulkDeleteTest, which adapts to AbstractContractBulkDeleteTest.

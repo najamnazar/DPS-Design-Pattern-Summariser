@@ -1,0 +1,1 @@
+SplitStrategy acts as an abstract product for SplitStrategy, which is inherited by WordSplitStrategy, PatternSplitStrategy.

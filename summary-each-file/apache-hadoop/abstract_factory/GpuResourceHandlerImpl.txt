@@ -1,0 +1,1 @@
+GpuResourceHandlerImpl acts as a product for ResourcePlugin, which overrides bootstrap method of ResourceHandler, preStart method of ResourceHandler, reacquireContainer method of ResourceHandler, updateContainer method of ResourceHandler, postComplete method of ResourceHandler, teardown method of ResourceHandler.

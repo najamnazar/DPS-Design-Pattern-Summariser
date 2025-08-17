@@ -1,0 +1,1 @@
+ITestAuditManagerDisabled acts as a publisher for observer OperationCost, which creates Configuration, which tests Auditor Disabled, which tests Audit Spans Are All The Same.

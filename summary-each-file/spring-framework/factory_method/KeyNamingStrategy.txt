@@ -1,0 +1,1 @@
+KeyNamingStrategy acts as a product for PropertiesFileNamingStrategyTests, which overrides getObjectName method of ObjectNamingStrategy.

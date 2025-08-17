@@ -1,0 +1,2 @@
+ValidatorErrorHandler acts as an observer for publisher ValidatorEndpoint, which is inherited by DefaultValidationErrorHandler, which resets, which handles Exchange parameter of exchange, Schema parameter of schema, Result parameter of result Errors.
+ValidatorErrorHandler acts as an observer, which resets, which handles Exchange parameter of exchange, Schema parameter of schema, Result parameter of result Errors.

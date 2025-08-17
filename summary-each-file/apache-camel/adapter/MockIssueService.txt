@@ -1,0 +1,1 @@
+MockIssueService acts as an adaptee for adapter GitHubComponentTestBase, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

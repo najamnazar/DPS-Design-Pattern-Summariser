@@ -1,0 +1,1 @@
+PersonService acts as a publisher for observer Person, which is inherited by StandardPersonService, which finds String parameter of name By Name, which saves Person parameter of person.

@@ -1,0 +1,2 @@
+AbstractRMAdminRequestInterceptor acts as a factory for RMAdminRequestInterceptor, which overrides setNextInterceptor method of RMAdminRequestInterceptor, shutdown method of RMAdminRequestInterceptor, getNextInterceptor method of RMAdminRequestInterceptor.
+AbstractRMAdminRequestInterceptor acts as a product for RMAdminRequestInterceptor, which overrides setNextInterceptor method of RMAdminRequestInterceptor, shutdown method of RMAdminRequestInterceptor, getNextInterceptor method of RMAdminRequestInterceptor.

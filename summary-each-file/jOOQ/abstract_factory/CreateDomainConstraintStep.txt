@@ -1,0 +1,2 @@
+CreateDomainConstraintStep acts as an abstract product for CreateDomainConstraintStep, which is inherited by CreateDomainDefaultStep, CreateDomainDefaultStep, CreateDomainImpl, CreateDomainImpl.
+CreateDomainConstraintStep acts as an abstract factory for CreateDomainConstraintStep, which is inherited by CreateDomainImpl.

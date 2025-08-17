@@ -1,0 +1,1 @@
+TimeBudget acts as an observer for publisher BackgroundTask, which is inherited by IterationTimeBoundedBudget, TimeBoundedBudget, which maxes Duration.

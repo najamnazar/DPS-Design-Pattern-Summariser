@@ -1,0 +1,2 @@
+AdminACLsManager acts as an observer for publisher TimelineACLsManager, which is inherited by, which gets Owner, which is ACLs Enabled, which is UserGroupInformation parameter of callerUGI Admin.
+AdminACLsManager acts as a publisher for observer UserGroupInformation, which is inherited by, which gets Owner, which is ACLs Enabled, which is UserGroupInformation parameter of callerUGI Admin.

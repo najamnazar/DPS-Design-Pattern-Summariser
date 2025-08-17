@@ -1,0 +1,1 @@
+PeriodTaskScheduler acts as an abstract product for PeriodTaskScheduler, which is inherited by DefaultPeriodTaskScheduler.

@@ -1,0 +1,1 @@
+DnsServiceDiscovery acts as a publisher for observer CamelContext, which gets String parameter of name Services, which creates String parameter of name Lookup, which comparators, which ases String parameter of serviceName, SRVRecord parameter of record Service.

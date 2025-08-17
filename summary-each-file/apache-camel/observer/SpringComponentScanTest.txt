@@ -1,0 +1,2 @@
+SpringComponentScanTest acts as a publisher for observer Service, which sets Up, which tears Down, which tests Excluded Route, which tests Spring Component Scan Feature.
+SpringComponentScanTest acts as a publisher for observer CamelContext, which sets Up, which tears Down, which tests Excluded Route, which tests Spring Component Scan Feature.

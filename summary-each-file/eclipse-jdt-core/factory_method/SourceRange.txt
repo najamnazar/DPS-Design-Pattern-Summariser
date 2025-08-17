@@ -1,0 +1,1 @@
+SourceRange acts as a product for ImportContainer, which overrides getLength method of ISourceRange, getOffset method of ISourceRange.

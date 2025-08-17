@@ -1,0 +1,1 @@
+PropertiesBeanDefinitionReaderTests acts as a caretaker for memento B, which withes Simple Constructor Arg, which withes Constructor Arg Ref, which withes Multiple Constructors Args.

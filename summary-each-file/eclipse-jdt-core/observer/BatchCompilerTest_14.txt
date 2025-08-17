@@ -1,0 +1,1 @@
+BatchCompilerTest_14 acts as a publisher for observer String, which suites, which tests Class, which tests Batch Bug565787_001.

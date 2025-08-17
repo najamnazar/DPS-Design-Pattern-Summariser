@@ -1,0 +1,2 @@
+CamelProduceInterfaceEventNotifierTest acts as a caretaker for memento Context, which creates Camel Context, which tests Post Processor, which sets Up, which says String parameter of hello Hello.
+CamelProduceInterfaceEventNotifierTest acts as a caretaker for memento Producer, which creates Camel Context, which tests Post Processor, which sets Up, which says String parameter of hello Hello.

@@ -1,0 +1,1 @@
+CodeSnippetCompiler acts as a product for ICompilerFactory, which overrides initializeParser method of Compiler.

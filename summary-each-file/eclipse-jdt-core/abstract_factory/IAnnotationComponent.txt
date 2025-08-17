@@ -1,0 +1,1 @@
+IAnnotationComponent acts as an abstract factory for IAnnotationComponentValue, which is inherited by AnnotationComponent.

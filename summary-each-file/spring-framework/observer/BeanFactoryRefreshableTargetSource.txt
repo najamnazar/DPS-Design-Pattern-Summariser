@@ -1,0 +1,1 @@
+BeanFactoryRefreshableTargetSource acts as a publisher for observer BeanFactory, which is inherited by RefreshableScriptTargetSource, which freshes Target, which obtains BeanFactory parameter of beanFactory, String parameter of beanName Fresh Bean.

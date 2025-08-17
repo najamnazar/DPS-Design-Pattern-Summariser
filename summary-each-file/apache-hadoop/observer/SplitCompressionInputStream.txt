@@ -1,0 +1,2 @@
+SplitCompressionInputStream acts as a publisher for observer Decompressor, which sets long parameter of start Start, which sets long parameter of end End, which gets Adjusted Start, which gets Adjusted End.
+SplitCompressionInputStream acts as an observer, which sets long parameter of start Start, which sets long parameter of end End, which gets Adjusted Start, which gets Adjusted End.

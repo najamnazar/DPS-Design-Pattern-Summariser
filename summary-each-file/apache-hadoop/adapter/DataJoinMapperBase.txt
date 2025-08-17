@@ -1,0 +1,1 @@
+DataJoinMapperBase acts as an adapter, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase.

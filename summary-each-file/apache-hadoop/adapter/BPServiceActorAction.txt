@@ -1,0 +1,1 @@
+BPServiceActorAction acts as a target for adapter ReportBadBlockAction, which adapts to BPServiceActorAction.

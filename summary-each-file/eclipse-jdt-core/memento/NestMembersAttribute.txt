@@ -1,0 +1,3 @@
+NestMembersAttribute acts as a caretaker for memento C, which gets Number Of Nest Members, which gets Nest Member Attributes Entries.
+NestMembersAttribute acts as a caretaker for memento Class, which gets Number Of Nest Members, which gets Nest Member Attributes Entries.
+NestMembersAttribute acts as a caretaker for memento E, which gets Number Of Nest Members, which gets Nest Member Attributes Entries.

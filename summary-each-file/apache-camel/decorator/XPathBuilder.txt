@@ -1,0 +1,2 @@
+XPathBuilder acts as a component for decorator MockValueBuilder, which overrides initExpression, toStringExpression, matchesExpression, evaluateExpression.
+XPathBuilder acts as a component for decorator ExpressionDefinition, which overrides initPredicate, toStringPredicate, matchesPredicate, evaluatePredicate.

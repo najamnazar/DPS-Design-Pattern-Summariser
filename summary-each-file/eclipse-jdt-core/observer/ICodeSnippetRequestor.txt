@@ -1,0 +1,1 @@
+ICodeSnippetRequestor acts as a publisher for observer String, which is inherited by, which accepts byte[][] parameter of classFileBytes, String[][] parameter of classFileCompoundNames, String parameter of codeSnippetClassName Class Files, which accepts IMarker parameter of problemMarker, String parameter of fragmentSource, int parameter of fragmentKind Problem.

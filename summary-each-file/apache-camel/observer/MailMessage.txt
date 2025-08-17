@@ -1,0 +1,1 @@
+MailMessage acts as a publisher for observer Message, which is inherited by, which tos String, which copies, which gets Original Message, which gets Message, which sets Message parameter of mailMessage Message, which news Instance, which creates Body, which populates Map<String, parameter of Object> Initial Headers, which copies org.apache.camel.Message parameter of that From.

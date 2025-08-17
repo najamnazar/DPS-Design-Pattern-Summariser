@@ -1,0 +1,2 @@
+IdempotentConsumerDslTest acts as a publisher for observer CamelContext, which tests Duplicate Messages, which creates Repo, which creates Route Builder.
+IdempotentConsumerDslTest acts as a publisher for observer Service, which tests Duplicate Messages, which creates Repo, which creates Route Builder.

@@ -1,0 +1,1 @@
+LazyStartProducer acts as a decorator for decorator DelegateProcessor, which overrides doBuild method of DelegateProcessor, doInit method of DelegateProcessor, doStart method of DelegateProcessor, doStop method of DelegateProcessor, getProcessor method of DelegateProcessor.

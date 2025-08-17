@@ -1,0 +1,1 @@
+MutableGaugeFloat acts as an adaptee for adapter CSQueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics, which adapts to QueueMetrics.

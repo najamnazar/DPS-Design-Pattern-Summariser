@@ -1,0 +1,1 @@
+ReplaceBeanFromMethodWithMockTest acts as a caretaker for memento Producer, which configures MainConfigurationProperties parameter of configuration, which mies Greetings, which shoulds Replace The Bean With AMock.

@@ -1,0 +1,2 @@
+KameletConsumeOnlyTest acts as a caretaker for memento Context, which cans Consume From Kamelet, which creates Route Builder.
+KameletConsumeOnlyTest acts as a caretaker for memento Producer, which cans Consume From Kamelet, which creates Route Builder.

@@ -1,0 +1,5 @@
+RoasterJavaRestDslTest acts as a publisher for observer CamelContext, which is Dump Route Coverage, which parses Rest Configuration, which parses Rest Service.
+RoasterJavaRestDslTest acts as a publisher for observer FluentProducerTemplate, which is Dump Route Coverage, which parses Rest Configuration, which parses Rest Service.
+RoasterJavaRestDslTest acts as a publisher for observer ProducerTemplate, which is Dump Route Coverage, which parses Rest Configuration, which parses Rest Service.
+RoasterJavaRestDslTest acts as a publisher for observer Service, which is Dump Route Coverage, which parses Rest Configuration, which parses Rest Service.
+RoasterJavaRestDslTest acts as a publisher for observer ConsumerTemplate, which is Dump Route Coverage, which parses Rest Configuration, which parses Rest Service.

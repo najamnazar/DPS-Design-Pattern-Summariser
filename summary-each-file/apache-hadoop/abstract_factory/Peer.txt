@@ -1,0 +1,2 @@
+Peer acts as an abstract factory for, which is inherited by BasicInetPeer, NioInetPeer, EncryptedPeer, DomainPeer.
+Peer acts as an abstract product for Peer, which is inherited by BasicInetPeer, NioInetPeer, EncryptedPeer, DomainPeer.

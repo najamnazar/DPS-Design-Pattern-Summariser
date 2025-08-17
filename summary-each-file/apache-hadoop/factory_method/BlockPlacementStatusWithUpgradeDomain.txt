@@ -1,0 +1,1 @@
+BlockPlacementStatusWithUpgradeDomain acts as a product for BlockPlacementPolicyDefault, which overrides isPlacementPolicySatisfied method of BlockPlacementStatus, getErrorDescription method of BlockPlacementStatus, getAdditionalReplicasRequired method of BlockPlacementStatus.

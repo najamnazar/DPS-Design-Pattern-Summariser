@@ -1,0 +1,3 @@
+ReservationSubmissionResponsePBImpl acts as a caretaker for memento ReservationSubmissionResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+ReservationSubmissionResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+ReservationSubmissionResponsePBImpl acts as an originator for memento ReservationSubmissionResponse.

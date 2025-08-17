@@ -1,0 +1,1 @@
+ErrorMessage acts as a caretaker for memento Message, which gets Original Message, which tos String.

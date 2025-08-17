@@ -1,0 +1,2 @@
+SplitTokenizerXmlMultilineTest acts as a publisher for observer Service, which tests Single Line, which tests Multiple Lines, which creates Route Builder.
+SplitTokenizerXmlMultilineTest acts as a publisher for observer CamelContext, which tests Single Line, which tests Multiple Lines, which creates Route Builder.

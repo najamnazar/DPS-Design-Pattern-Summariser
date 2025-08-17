@@ -1,0 +1,1 @@
+MicroZookeeperService acts as a product for CuratorService, which overrides supplyBindingInformation method of RegistryBindingSource.

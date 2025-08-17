@@ -1,0 +1,6 @@
+Configuration acts as an adaptee for adapter XQueryLanguage.
+Configuration acts as an adaptee for adapter XsltSaxonEndpoint.
+Configuration acts as an adaptee for adapter GoraComponent.
+Configuration acts as an adaptee for adapter HBaseComponent.
+Configuration acts as an adaptee for adapter FreemarkerEndpoint.
+Configuration acts as an adaptee for adapter XsltSaxonComponent.

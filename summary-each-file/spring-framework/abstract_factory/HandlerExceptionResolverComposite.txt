@@ -1,0 +1,1 @@
+HandlerExceptionResolverComposite acts as a factory for HandlerExceptionResolver, which overrides resolveException method of HandlerExceptionResolver.

@@ -1,0 +1,1 @@
+CamelJobExecutionListener acts as a caretaker for memento Producer, which befores JobExecution parameter of jobExecution Job, which afters JobExecution parameter of jobExecution Job.

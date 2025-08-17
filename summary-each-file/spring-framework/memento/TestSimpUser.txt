@@ -1,0 +1,2 @@
+TestSimpUser acts as an originator for memento SimpSession, which gets a SimpSession Session to.
+TestSimpUser acts as a caretaker for memento SimpSession, which gets Name, which gets Principal, which gets Sessions, which has Sessions, which gets String parameter of sessionId Session, which adds TestSimpSession... parameter of sessions Sessions, which equals Object parameter of other, which hashes Code, which tos String.

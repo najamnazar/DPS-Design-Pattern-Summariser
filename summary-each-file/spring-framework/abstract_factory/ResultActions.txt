@@ -1,0 +1,1 @@
+ResultActions acts as an abstract factory for MvcResult, which is inherited by.

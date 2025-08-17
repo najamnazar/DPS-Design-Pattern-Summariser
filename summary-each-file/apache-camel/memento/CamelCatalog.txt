@@ -1,0 +1,1 @@
+CamelCatalog acts as an originator for memento OtherModel, which is inherited by, which others an OtherModel Model to.

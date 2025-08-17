@@ -1,0 +1,1 @@
+LOOKUP3Response acts as a caretaker for memento Attribute, which serializes XDR parameter of out, int parameter of xid, Verifier parameter of verifier.

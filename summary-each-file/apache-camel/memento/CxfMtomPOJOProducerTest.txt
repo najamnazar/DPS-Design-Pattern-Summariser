@@ -1,0 +1,1 @@
+CxfMtomPOJOProducerTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests Invoking Service From Cxf Producer, which gets String parameter of name Image, which gets Impl.

@@ -1,0 +1,1 @@
+MBeanProxyFactoryBean acts as an adapter, which adapts to MBeanClientInterceptor, which adapts to MBeanClientInterceptor, which adapts to MBeanClientInterceptor, which adapts to MBeanClientInterceptor, which adapts to MBeanClientInterceptor, which adapts to MBeanClientInterceptor.

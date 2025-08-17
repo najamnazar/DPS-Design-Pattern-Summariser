@@ -1,0 +1,1 @@
+KinesisFirehoseInternalClient acts as a memento, which is inherited by KinesisFirehoseClientStandardImpl, KinesisFirehoseClientIAMOptimizedImpl, which gets Kinesis Firehose Client.

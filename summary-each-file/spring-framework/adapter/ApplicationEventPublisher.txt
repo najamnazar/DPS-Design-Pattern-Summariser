@@ -1,0 +1,1 @@
+ApplicationEventPublisher acts as an adaptee for adapter ApplicationContextEventTests, which adapts to AbstractApplicationEventListenerTests, which adapts to AbstractApplicationEventListenerTests.

@@ -1,0 +1,2 @@
+ReplaceLabelsOnNodeResponse acts as a memento, which is inherited by ReplaceLabelsOnNodeResponsePBImpl, which news Instance.
+ReplaceLabelsOnNodeResponse acts as an originator for memento ReplaceLabelsOnNodeResponse, which is inherited by, which news a ReplaceLabelsOnNodeResponse Instance to.

@@ -1,0 +1,1 @@
+BeanIdAware acts as an adaptee for adapter CxfRsSpringEndpoint, which adapts to CxfRsEndpoint, which adapts to CxfRsEndpoint.

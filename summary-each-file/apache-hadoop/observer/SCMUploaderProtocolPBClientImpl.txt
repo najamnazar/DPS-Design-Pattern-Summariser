@@ -1,0 +1,1 @@
+SCMUploaderProtocolPBClientImpl acts as an observer, which closes, which notifies SCMUploaderNotifyRequest parameter of request, which cans SCMUploaderCanUploadRequest parameter of request Upload.

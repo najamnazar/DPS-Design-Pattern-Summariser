@@ -1,0 +1,1 @@
+MyDummyFactory2 acts as a product for XmlBeanFactoryTestTypes, which overrides getString method of DummyFactory.

@@ -1,0 +1,1 @@
+QueryPartInternal acts as an observer, which renders Context<?> parameter of ctx Content, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx, which declares Fields, which declares Tables, which declares Windows, which declares CTE, which generates Cast.

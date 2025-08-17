@@ -1,0 +1,1 @@
+InputSplitWithLocationInfo acts as a memento, which gets Location Info.

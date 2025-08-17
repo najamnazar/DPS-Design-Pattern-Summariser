@@ -1,0 +1,6 @@
+SimpleCodeSnippetTest acts as a caretaker for memento E, which gets Code Snippet Source, which mains String[] parameter of args, which runs Code Snippet.
+SimpleCodeSnippetTest acts as a caretaker for memento R, which gets Code Snippet Source, which mains String[] parameter of args, which runs Code Snippet.
+SimpleCodeSnippetTest acts as a caretaker for memento String, which gets Code Snippet Source, which mains String[] parameter of args, which runs Code Snippet.
+SimpleCodeSnippetTest acts as a caretaker for memento S, which gets Code Snippet Source, which mains String[] parameter of args, which runs Code Snippet.
+SimpleCodeSnippetTest acts as a caretaker for memento LocalVirtualMachine, which gets Code Snippet Source, which mains String[] parameter of args, which runs Code Snippet.
+SimpleCodeSnippetTest acts as a caretaker for memento C, which gets Code Snippet Source, which mains String[] parameter of args, which runs Code Snippet.

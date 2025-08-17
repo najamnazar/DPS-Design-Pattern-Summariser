@@ -1,0 +1,6 @@
+ExceptionHandler acts as an adaptee for adapter StreamResequencer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExceptionHandler acts as an adaptee for adapter AggregateProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExceptionHandler acts as an adaptee for adapter GenericFileEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint.
+ExceptionHandler acts as an adaptee for adapter EventDrivenPollingConsumer, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport, which adapts to PollingConsumerSupport.
+ExceptionHandler acts as an adaptee for adapter Resequencer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ExceptionHandler acts as an adaptee for adapter DnsActivationPolicy, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport, which adapts to RoutePolicySupport.

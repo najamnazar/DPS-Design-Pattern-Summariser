@@ -1,0 +1,11 @@
+HeaderFilterStrategyAware acts as an adaptee for adapter CxfRsEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter NettyHttpEndpoint, which adapts to NettyEndpoint, which adapts to NettyEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter SjmsEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter NettyHttpComponent, which adapts to NettyComponent, which adapts to NettyComponent.
+HeaderFilterStrategyAware acts as an adaptee for adapter CxfEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter UndertowEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter MailEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter XmppEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter StompEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter HttpCommonEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+HeaderFilterStrategyAware acts as an adaptee for adapter JmsEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.

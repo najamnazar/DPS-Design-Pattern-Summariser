@@ -1,0 +1,1 @@
+TestViewFsHdfs acts as an adapter, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest, which adapts to ViewFsBaseTest.

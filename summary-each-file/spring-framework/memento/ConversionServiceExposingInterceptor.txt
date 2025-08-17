@@ -1,0 +1,1 @@
+ConversionServiceExposingInterceptor acts as a caretaker for memento C, which pres HttpServletRequest parameter of request, HttpServletResponse parameter of response, Object parameter of handler Handle.

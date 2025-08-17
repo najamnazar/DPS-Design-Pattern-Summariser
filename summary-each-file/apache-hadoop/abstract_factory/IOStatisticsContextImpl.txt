@@ -1,0 +1,2 @@
+IOStatisticsContextImpl acts as a product for IOStatisticsContext, which overrides getAggregator method of IOStatisticsContext, snapshot method of IOStatisticsContext, reset method of IOStatisticsContext, getID method of IOStatisticsContext.
+IOStatisticsContextImpl acts as a factory for IOStatisticsContext, which overrides getAggregator method of IOStatisticsContext, snapshot method of IOStatisticsContext, reset method of IOStatisticsContext, getID method of IOStatisticsContext.

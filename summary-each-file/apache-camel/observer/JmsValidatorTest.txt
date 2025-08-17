@@ -1,0 +1,5 @@
+JmsValidatorTest acts as a publisher for observer Service, which tests Jms Validator, which tests Jms Validator Invalid, which binds Registry parameter of registry To Registry, which creates Route Builder.
+JmsValidatorTest acts as a publisher for observer FluentProducerTemplate, which tests Jms Validator, which tests Jms Validator Invalid, which binds Registry parameter of registry To Registry, which creates Route Builder.
+JmsValidatorTest acts as a publisher for observer CamelContext, which tests Jms Validator, which tests Jms Validator Invalid, which binds Registry parameter of registry To Registry, which creates Route Builder.
+JmsValidatorTest acts as a publisher for observer ConsumerTemplate, which tests Jms Validator, which tests Jms Validator Invalid, which binds Registry parameter of registry To Registry, which creates Route Builder.
+JmsValidatorTest acts as a publisher for observer ProducerTemplate, which tests Jms Validator, which tests Jms Validator Invalid, which binds Registry parameter of registry To Registry, which creates Route Builder.

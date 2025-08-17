@@ -1,0 +1,2 @@
+MDCSplitTest acts as a publisher for observer Service, which tests Mdc Preserved, which creates Route Builder, which processes Exchange parameter of exchange.
+MDCSplitTest acts as a publisher for observer CamelContext, which tests Mdc Preserved, which creates Route Builder, which processes Exchange parameter of exchange.

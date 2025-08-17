@@ -1,0 +1,2 @@
+TagSearchCriteria acts as a publisher for observer TagOrderBy, which is inherited by, which gets Offset, which sets List<Integer> parameter of offset Offset, which gets Order By, which sets TagOrderBy parameter of orderBy Order By.
+TagSearchCriteria acts as a publisher for observer Context, which gets Offset, which sets List<Integer> parameter of offset Offset, which gets Order By, which sets TagOrderBy parameter of orderBy Order By.

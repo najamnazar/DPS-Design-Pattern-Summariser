@@ -1,0 +1,5 @@
+BatchOperation acts as a caretaker for memento E, which cans Modify Roots, which executes Operation, which verifies.
+BatchOperation acts as a caretaker for memento S, which cans Modify Roots, which executes Operation, which verifies.
+BatchOperation acts as a caretaker for memento String, which cans Modify Roots, which executes Operation, which verifies.
+BatchOperation acts as a caretaker for memento Map, which cans Modify Roots, which executes Operation, which verifies.
+BatchOperation acts as a caretaker for memento R, which cans Modify Roots, which executes Operation, which verifies.

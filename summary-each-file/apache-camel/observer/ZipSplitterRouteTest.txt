@@ -1,0 +1,5 @@
+ZipSplitterRouteTest acts as a publisher for observer CamelContext, which tests Splitter, which creates Route Builder.
+ZipSplitterRouteTest acts as a publisher for observer ProducerTemplate, which tests Splitter, which creates Route Builder.
+ZipSplitterRouteTest acts as a publisher for observer ConsumerTemplate, which tests Splitter, which creates Route Builder.
+ZipSplitterRouteTest acts as a publisher for observer Service, which tests Splitter, which creates Route Builder.
+ZipSplitterRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Splitter, which creates Route Builder.

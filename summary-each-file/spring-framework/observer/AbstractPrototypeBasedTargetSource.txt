@@ -1,0 +1,1 @@
+AbstractPrototypeBasedTargetSource acts as a publisher for observer BeanFactory, which sets BeanFactory parameter of beanFactory Bean Factory, which news Prototype Instance, which destroys Object parameter of target Prototype Instance, which reads ObjectInputStream parameter of ois Object, which writes Replace.

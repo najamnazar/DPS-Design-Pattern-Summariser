@@ -1,0 +1,1 @@
+MetricsCollectorImpl acts as a caretaker for memento MetricsRecord, which adds MetricsInfo parameter of info Record, which adds String parameter of name Record, which gets Records, which iterators, which clears, which sets MetricsFilter parameter of rf Record Filter, which sets MetricsFilter parameter of mf Metric Filter.

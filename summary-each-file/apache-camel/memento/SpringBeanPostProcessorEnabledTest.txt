@@ -1,0 +1,2 @@
+SpringBeanPostProcessorEnabledTest acts as a caretaker for memento Context, which creates Application Context, which tests Enabled, which somewheres String parameter of input.
+SpringBeanPostProcessorEnabledTest acts as a caretaker for memento Producer, which creates Application Context, which tests Enabled, which somewheres String parameter of input.

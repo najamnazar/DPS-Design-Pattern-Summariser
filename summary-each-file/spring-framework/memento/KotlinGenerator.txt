@@ -1,0 +1,4 @@
+KotlinGenerator acts as a caretaker for memento Cat.
+KotlinGenerator acts as a caretaker for memento File.
+KotlinGenerator acts as a caretaker for memento C.
+KotlinGenerator acts as a caretaker for memento SQL.

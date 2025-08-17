@@ -1,0 +1,1 @@
+HashSet acts as an observer for publisher IndexBasedHierarchyBuilder, which is inherited by, which iterators, which adds Collection<E> parameter of c All, which gets int parameter of index, which sizes, which tos T[] parameter of o Array.

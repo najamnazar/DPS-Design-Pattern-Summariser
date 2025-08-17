@@ -1,0 +1,1 @@
+AbstractCXFGreeterRouterTest acts as a caretaker for memento Context, which gets Port1, which gets Port2, which tears Down, which tests Invoking Service From CXFClient, which tests Routing SOAPFault, which tests Publish Endpoint Url.

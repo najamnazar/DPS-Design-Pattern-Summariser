@@ -1,0 +1,4 @@
+WindowDefinition acts as an abstract product for WindowDefinition, which is inherited by WindowDefinitionImpl, WindowDefinitionImpl.
+WindowDefinition acts as an abstract factory for WindowSpecification, Name, which is inherited by WindowDefinitionImpl.
+WindowDefinition acts as an abstract product for WindowDefinition, which is inherited by WindowDefinitionImpl.
+WindowDefinition acts as a product for WindowSpecificationPartitionByStep, which overrides.

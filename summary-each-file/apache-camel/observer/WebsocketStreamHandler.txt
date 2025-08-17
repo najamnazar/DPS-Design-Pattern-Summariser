@@ -1,0 +1,1 @@
+WebsocketStreamHandler acts as a publisher for observer WebsocketConsumer, which ons WebSocket parameter of webSocket, Reader parameter of data Text Stream, which ons WebSocket parameter of webSocket, InputStream parameter of data Binary Stream.

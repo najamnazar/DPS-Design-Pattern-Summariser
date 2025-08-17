@@ -1,0 +1,1 @@
+SearchableEnvironmentRequestor acts as an adapter, which adapts to JavaElementRequestor, which adapts to JavaElementRequestor, which adapts to JavaElementRequestor, which adapts to JavaElementRequestor.

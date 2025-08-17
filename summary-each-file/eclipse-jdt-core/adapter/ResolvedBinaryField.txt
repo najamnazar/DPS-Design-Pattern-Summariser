@@ -1,0 +1,1 @@
+ResolvedBinaryField acts as an adapter, which adapts to BinaryField, which adapts to BinaryField, which adapts to BinaryField, which adapts to BinaryField, which adapts to BinaryField.

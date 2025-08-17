@@ -1,0 +1,2 @@
+ContainerAnnotation acts as an observer, which adds Annotation parameter of repeatingAnnotation Containee, which resolves BlockScope parameter of scope Type.
+ContainerAnnotation acts as a publisher for observer Annotation, which is inherited by, which adds Annotation parameter of repeatingAnnotation Containee, which resolves BlockScope parameter of scope Type.

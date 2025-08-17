@@ -1,0 +1,2 @@
+TestErasureCoderBase acts as a factory method for ErasureCoder, which is inherited by TestErasureCoderBase, TestErasureCoderBase, TestErasureCoderBase.
+TestErasureCoderBase acts as a factory for TestErasureCoderBase, which overrides.

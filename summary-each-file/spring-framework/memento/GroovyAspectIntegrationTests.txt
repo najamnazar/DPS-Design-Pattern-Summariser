@@ -1,0 +1,3 @@
+GroovyAspectIntegrationTests acts as a caretaker for memento A, which tests Java Bean, which tests Groovy Bean Interface, which tests Groovy Bean Dynamic, which tests Groovy Bean Proxy Target Class, which closes.
+GroovyAspectIntegrationTests acts as a caretaker for memento C, which tests Java Bean, which tests Groovy Bean Interface, which tests Groovy Bean Dynamic, which tests Groovy Bean Proxy Target Class, which closes.
+GroovyAspectIntegrationTests acts as a caretaker for memento ApplicationContext, which tests Java Bean, which tests Groovy Bean Interface, which tests Groovy Bean Dynamic, which tests Groovy Bean Proxy Target Class, which closes.

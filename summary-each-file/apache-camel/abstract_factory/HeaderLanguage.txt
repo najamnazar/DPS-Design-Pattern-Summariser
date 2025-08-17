@@ -1,0 +1,2 @@
+HeaderLanguage acts as a product for CamelContext, which overrides.
+HeaderLanguage acts as a product for LanguageResolver, which overrides.

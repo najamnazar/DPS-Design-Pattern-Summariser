@@ -1,0 +1,2 @@
+BaseFederationPoliciesTest acts as a factory method for ConfigurableFederationPolicy, which is inherited by AbstractPolicyManager, AbstractPolicyManager, BaseFederationPoliciesTest, BaseFederationPoliciesTest, BaseFederationPoliciesTest, AbstractPolicyManager, AbstractPolicyManager, AbstractPolicyManager, AbstractPolicyManager, BaseFederationPoliciesTest, BaseFederationPoliciesTest, AbstractPolicyManager, AbstractPolicyManager.
+BaseFederationPoliciesTest acts as a factory for BaseFederationPoliciesTest, which overrides.

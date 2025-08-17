@@ -1,0 +1,2 @@
+ResourceLocalizationResponse acts as an originator for memento ResourceLocalizationResponse, which is inherited by, which news a ResourceLocalizationResponse Instance to.
+ResourceLocalizationResponse acts as a memento, which is inherited by ResourceLocalizationResponsePBImpl, which news Instance.

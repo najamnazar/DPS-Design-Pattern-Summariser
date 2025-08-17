@@ -1,0 +1,1 @@
+CombinedFileRange acts as a publisher for observer FileRange, which is inherited by, which appends final parameter of FileRange, which gets Underlying, which merges long parameter of otherOffset, long parameter of otherEnd, FileRange parameter of other, int parameter of minSeek, int parameter of maxSize, which tos String, which gets Data Size.

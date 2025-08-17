@@ -1,0 +1,2 @@
+ThroughputLogger acts as a product for AnnotationBasedProcessorFactory, which overrides process method of AsyncProcessor.
+ThroughputLogger acts as a product for InternalProcessorFactory, which overrides process method of AsyncProcessor.

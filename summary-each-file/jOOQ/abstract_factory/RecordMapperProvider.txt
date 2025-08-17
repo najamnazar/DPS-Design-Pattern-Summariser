@@ -1,0 +1,1 @@
+RecordMapperProvider acts as an abstract product for RecordMapperProvider, which is inherited by DefaultRecordMapperProvider.

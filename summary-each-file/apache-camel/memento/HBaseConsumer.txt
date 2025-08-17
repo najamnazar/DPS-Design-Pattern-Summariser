@@ -1,0 +1,1 @@
+HBaseConsumer acts as a caretaker for memento ShutdownRunningTask, which polls, which processes Queue<Object> parameter of exchanges Batch, which removes byte[] parameter of row, which gets Row Model, which sets HBaseRow parameter of rowModel Row Model.

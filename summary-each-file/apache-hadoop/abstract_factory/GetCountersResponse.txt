@@ -1,0 +1,2 @@
+GetCountersResponse acts as an abstract factory for Counters, which is inherited by GetCountersResponsePBImpl.
+GetCountersResponse acts as an abstract product for GetCountersResponse, which is inherited by GetCountersResponsePBImpl.

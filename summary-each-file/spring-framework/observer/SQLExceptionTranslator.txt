@@ -1,0 +1,1 @@
+SQLExceptionTranslator acts as an observer for publisher JdbcAccessor, JdbcTemplate, which is inherited by AbstractFallbackSQLExceptionTranslator, CustomSqlExceptionTranslator, which translates String parameter of task, @Nullable parameter of String, SQLException parameter of ex.

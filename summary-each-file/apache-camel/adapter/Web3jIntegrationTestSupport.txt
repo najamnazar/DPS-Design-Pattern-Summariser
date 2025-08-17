@@ -1,0 +1,1 @@
+Web3jIntegrationTestSupport acts as a target for adapter Web3jProducerMainnetTest, which adapts to Web3jIntegrationTestSupport, which adapts to Web3jIntegrationTestSupport.

@@ -1,0 +1,5 @@
+JCachePolicyTestBase acts as a publisher for observer CamelContext, which befores, which randoms String, which lookups String parameter of cacheName Cache, which generates String parameter of key Value, which afters.
+JCachePolicyTestBase acts as a publisher for observer Service, which befores, which randoms String, which lookups String parameter of cacheName Cache, which generates String parameter of key Value, which afters.
+JCachePolicyTestBase acts as a publisher for observer FluentProducerTemplate, which befores, which randoms String, which lookups String parameter of cacheName Cache, which generates String parameter of key Value, which afters.
+JCachePolicyTestBase acts as a publisher for observer ConsumerTemplate, which befores, which randoms String, which lookups String parameter of cacheName Cache, which generates String parameter of key Value, which afters.
+JCachePolicyTestBase acts as a publisher for observer ProducerTemplate, which befores, which randoms String, which lookups String parameter of cacheName Cache, which generates String parameter of key Value, which afters.

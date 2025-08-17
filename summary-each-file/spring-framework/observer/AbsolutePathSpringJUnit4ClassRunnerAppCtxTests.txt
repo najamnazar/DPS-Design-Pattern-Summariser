@@ -1,0 +1,2 @@
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer ApplicationContext.
+AbsolutePathSpringJUnit4ClassRunnerAppCtxTests acts as a publisher for observer Employee.

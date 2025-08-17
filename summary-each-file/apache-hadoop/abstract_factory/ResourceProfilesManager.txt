@@ -1,0 +1,2 @@
+ResourceProfilesManager acts as an abstract product for ResourceProfilesManager, which is inherited by ResourceProfilesManagerImpl.
+ResourceProfilesManager acts as an abstract factory for Resource, which is inherited by ResourceProfilesManagerImpl.

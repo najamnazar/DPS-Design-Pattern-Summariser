@@ -1,0 +1,1 @@
+ConsulServiceDiscovery acts as a publisher for observer CamelContext, which gets String parameter of name Services, which is ServiceHealth parameter of serviceHealth Healthy, which news String parameter of serviceName, CatalogService parameter of service, List<ServiceHealth> parameter of serviceHealthList Service.

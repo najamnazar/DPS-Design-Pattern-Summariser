@@ -1,0 +1,2 @@
+JmsConfiguration acts as a factory for JmsConfiguration, which overrides.
+JmsConfiguration acts as a factory method for ErrorHandler, which is inherited by JmsEndpoint, JmsConfiguration, ErrorHandlerSupport, JmsEndpoint, JmsEndpoint, ErrorHandlerSupport, JmsComponent, JmsConfiguration, JettyHttpComponent, JmsEndpoint, JmsComponent.

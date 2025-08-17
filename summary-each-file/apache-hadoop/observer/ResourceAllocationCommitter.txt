@@ -1,0 +1,2 @@
+ResourceAllocationCommitter acts as a publisher for observer ResourceCommitRequest, which is inherited by CapacityScheduler, which tries Resource parameter of cluster, ResourceCommitRequest parameter of proposal, boolean parameter of updatePending Commit.
+ResourceAllocationCommitter acts as a publisher for observer Resource, which is inherited by CapacityScheduler, which tries Resource parameter of cluster, ResourceCommitRequest parameter of proposal, boolean parameter of updatePending Commit.

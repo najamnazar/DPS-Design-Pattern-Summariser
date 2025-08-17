@@ -1,0 +1,1 @@
+ResourceLocalizedEvent acts as an observer, which gets Location, which gets Size.

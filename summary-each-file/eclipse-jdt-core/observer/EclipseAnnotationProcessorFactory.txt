@@ -1,0 +1,1 @@
+EclipseAnnotationProcessorFactory acts as an observer, which gets Set<AnnotationTypeDeclaration> parameter of atds, EclipseAnnotationProcessorEnvironment parameter of env Processor For.

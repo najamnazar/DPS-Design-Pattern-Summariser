@@ -1,0 +1,2 @@
+ServerHttpRequest acts as an observer for publisher ContextPathCompositeHandlerTests, which is inherited by ServletServerHttpRequest, ServerHttpRequestDecorator, AbstractServerHttpRequest, which gets Principal, which gets Local Address, which gets Remote Address, which gets ServerHttpResponse parameter of response Async Request Control.
+ServerHttpRequest acts as an observer, which gets Principal, which gets Local Address, which gets Remote Address, which gets ServerHttpResponse parameter of response Async Request Control.

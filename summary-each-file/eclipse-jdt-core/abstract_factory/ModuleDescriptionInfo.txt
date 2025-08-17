@@ -1,0 +1,1 @@
+ModuleDescriptionInfo acts as a factory for ISourceModule, which overrides getCompilationUnit method of ISourceModule.

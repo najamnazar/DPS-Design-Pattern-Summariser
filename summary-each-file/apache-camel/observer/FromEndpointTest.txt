@@ -1,0 +1,2 @@
+FromEndpointTest acts as a publisher for observer CamelContext, which tests Received Message Has From Endpoint Set, which creates Route Builder.
+FromEndpointTest acts as a publisher for observer Service, which tests Received Message Has From Endpoint Set, which creates Route Builder.

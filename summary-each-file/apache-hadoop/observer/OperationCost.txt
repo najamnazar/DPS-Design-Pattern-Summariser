@@ -1,0 +1,2 @@
+OperationCost acts as an observer for publisher OperationCost, which is inherited by, which heads, which lists, which pluses OperationCost parameter of that, which tos String.
+OperationCost acts as a publisher for observer OperationCost, which is inherited by, which heads, which lists, which pluses OperationCost parameter of that, which tos String.

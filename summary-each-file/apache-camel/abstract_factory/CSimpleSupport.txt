@@ -1,0 +1,1 @@
+CSimpleSupport acts as a product for CSimpleCompiler, which overrides.

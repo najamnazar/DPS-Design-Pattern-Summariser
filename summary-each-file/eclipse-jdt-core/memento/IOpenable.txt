@@ -1,0 +1,1 @@
+IOpenable acts as an originator for memento String, which is inherited by, which finds a String Recommended Line Separator to.

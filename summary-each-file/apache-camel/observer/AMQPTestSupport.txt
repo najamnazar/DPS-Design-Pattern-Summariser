@@ -1,0 +1,5 @@
+AMQPTestSupport acts as a publisher for observer ProducerTemplate, which befores All.
+AMQPTestSupport acts as a publisher for observer ConsumerTemplate, which befores All.
+AMQPTestSupport acts as a publisher for observer FluentProducerTemplate, which befores All.
+AMQPTestSupport acts as a publisher for observer CamelContext, which befores All.
+AMQPTestSupport acts as a publisher for observer Service, which befores All.

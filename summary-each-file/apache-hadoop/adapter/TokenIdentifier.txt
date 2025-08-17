@@ -1,0 +1,2 @@
+TokenIdentifier acts as a target for adapter AbstractDelegationTokenIdentifier, which adapts to TokenIdentifier, which adapts to TokenIdentifier, which adapts to TokenIdentifier, which adapts to TokenIdentifier.
+TokenIdentifier acts as a target for adapter BlockTokenIdentifier, which adapts to TokenIdentifier, which adapts to TokenIdentifier, which adapts to TokenIdentifier, which adapts to TokenIdentifier.

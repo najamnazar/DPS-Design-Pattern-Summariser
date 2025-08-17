@@ -1,0 +1,1 @@
+MockMvcClientHttpRequestFactory acts as an originator for memento ClientHttpRequest, which creates a ClientHttpRequest Request to.

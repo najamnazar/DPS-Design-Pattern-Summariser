@@ -1,0 +1,2 @@
+AbstractSockJsIntegrationTests acts as a factory for AbstractSockJsIntegrationTests, which overrides.
+AbstractSockJsIntegrationTests acts as a factory method for WebSocketTestServer, which is inherited by AbstractSockJsIntegrationTests, AbstractSockJsIntegrationTests.

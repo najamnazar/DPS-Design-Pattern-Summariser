@@ -1,0 +1,3 @@
+Message acts as a factory for JBPMProducer, which overrides.
+Message acts as an abstract product for JBPMProducer, which is inherited by MessageSupport.
+Message acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.

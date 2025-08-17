@@ -1,0 +1,1 @@
+SomeCustomKeyGenerator acts as an observer, which generates Object parameter of target, Method parameter of method, Object... parameter of params, which generates String parameter of methodName, Object... parameter of params Key.

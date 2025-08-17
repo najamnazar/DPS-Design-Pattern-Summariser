@@ -1,0 +1,1 @@
+SimpleBean acts as an observer for publisher RequestPartMethodArgumentResolverTests, which is inherited by ProceedTests, which gets Public Instance.

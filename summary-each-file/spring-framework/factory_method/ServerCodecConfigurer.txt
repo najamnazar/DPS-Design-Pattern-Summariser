@@ -1,0 +1,2 @@
+ServerCodecConfigurer acts as an abstract product for HttpWebHandlerAdapter, which is inherited by DefaultServerCodecConfigurer.
+ServerCodecConfigurer acts as a factory for HttpWebHandlerAdapter, which overrides defaultCodecs method of HttpWebHandlerAdapter, clone method of HttpWebHandlerAdapter.

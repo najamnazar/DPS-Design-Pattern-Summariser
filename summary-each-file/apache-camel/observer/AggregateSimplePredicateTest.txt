@@ -1,0 +1,2 @@
+AggregateSimplePredicateTest acts as a publisher for observer Service, which tests Aggregate Simple Predicate, which creates Route Builder.
+AggregateSimplePredicateTest acts as a publisher for observer CamelContext, which tests Aggregate Simple Predicate, which creates Route Builder.

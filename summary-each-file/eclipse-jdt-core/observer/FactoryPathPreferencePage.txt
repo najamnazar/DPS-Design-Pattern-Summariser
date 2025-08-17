@@ -1,0 +1,1 @@
+FactoryPathPreferencePage acts as a publisher for observer BaseConfigurationBlock, which creates Composite parameter of parent Control, which gets Preference Page ID, which gets Property Page ID, which gets Context Help Id.

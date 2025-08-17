@@ -1,0 +1,3 @@
+StateStoreOperationResult acts as a caretaker for memento StateStoreOperationResult, which gets Failed Records Keys, which is Operation Successful, which gets Default Success Result.
+StateStoreOperationResult acts as an originator for memento StateStoreOperationResult, which gets a StateStoreOperationResult Default Success Result to.
+StateStoreOperationResult acts as a memento, which gets Default Success Result, which gets Default Success Result, which gets Default Success Result.

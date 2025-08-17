@@ -1,0 +1,3 @@
+PropertyValues acts as an abstract product for PropertyValues, which is inherited by MutablePropertyValues.
+PropertyValues acts as an abstract factory for PropertyValues, which is inherited by MutablePropertyValues.
+PropertyValues acts as an abstract product for PropertyValues, which is inherited by MutablePropertyValues, MutablePropertyValues.

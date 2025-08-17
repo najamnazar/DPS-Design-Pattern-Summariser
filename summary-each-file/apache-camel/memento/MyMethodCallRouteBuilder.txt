@@ -1,0 +1,1 @@
+MyMethodCallRouteBuilder acts as a caretaker for memento Configuration, which whats To Do When Exists, which configures.

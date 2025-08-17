@@ -1,0 +1,2 @@
+SimpleDirectTest acts as a publisher for observer CamelContext, which tests Simple Direct, which creates Route Builder.
+SimpleDirectTest acts as a publisher for observer Service, which tests Simple Direct, which creates Route Builder.

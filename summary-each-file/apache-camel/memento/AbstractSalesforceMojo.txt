@@ -1,0 +1,1 @@
+AbstractSalesforceMojo acts as a caretaker for memento Context, which is inherited by, which executes, which gets Salesforce Execution, which setups.

@@ -1,0 +1,2 @@
+KeyProvider acts as an adaptee for adapter KeyShell, which adapts to CommandShell.
+KeyProvider acts as an adaptee for adapter WebHdfsFileSystem, which adapts to FileSystem.

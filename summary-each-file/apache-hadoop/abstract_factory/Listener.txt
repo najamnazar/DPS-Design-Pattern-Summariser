@@ -1,0 +1,2 @@
+Listener acts as an abstract factory for Listener, which is inherited by TracingHeaderValidator.
+Listener acts as an abstract product for Listener, which is inherited by TracingHeaderValidator.

@@ -1,0 +1,1 @@
+Relations acts as an abstract factory for UniqueKeyDefinition, which is inherited by DefaultRelations.

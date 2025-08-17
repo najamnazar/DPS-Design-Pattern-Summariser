@@ -1,0 +1,2 @@
+AbstractTransactionStatus acts as a product for PlatformTransactionManagerFacade, which overrides hasSavepoint method of TransactionStatus, flush method of TransactionStatus.
+AbstractTransactionStatus acts as a factory for EntityManagerHolder, which overrides createSavepoint method of EntityManagerHolder, rollbackToSavepoint method of EntityManagerHolder, releaseSavepoint method of EntityManagerHolder.

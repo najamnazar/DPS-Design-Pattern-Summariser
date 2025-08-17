@@ -1,0 +1,1 @@
+AbstractTwitterEndpoint acts as a factory for TwitterEndpoint, which overrides getProperties method of TwitterEndpoint, getEndpointType method of TwitterEndpoint.

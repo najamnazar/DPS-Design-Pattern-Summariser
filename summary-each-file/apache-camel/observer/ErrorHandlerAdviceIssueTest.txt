@@ -1,0 +1,2 @@
+ErrorHandlerAdviceIssueTest acts as a publisher for observer CamelContext, which tests Error Handler Advice, which creates Route Builder.
+ErrorHandlerAdviceIssueTest acts as a publisher for observer Service, which tests Error Handler Advice, which creates Route Builder.

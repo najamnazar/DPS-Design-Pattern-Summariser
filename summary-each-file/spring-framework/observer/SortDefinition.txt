@@ -1,0 +1,1 @@
+SortDefinition acts as an observer for publisher PagedListHolder, which is inherited by MutableSortDefinition, which gets Property, which is Ignore Case, which is Ascending.

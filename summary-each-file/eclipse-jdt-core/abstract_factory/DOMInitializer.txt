@@ -1,0 +1,2 @@
+DOMInitializer acts as a factory for IDOMInitializer, which overrides getBody method of IDOMInitializer, setBody method of IDOMInitializer, setName method of IDOMInitializer.
+DOMInitializer acts as a product for IDOMFactory, which overrides getBody method of IDOMInitializer, setBody method of IDOMInitializer, setName method of IDOMInitializer.

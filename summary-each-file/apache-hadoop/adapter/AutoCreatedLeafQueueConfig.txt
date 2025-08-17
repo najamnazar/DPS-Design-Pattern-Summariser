@@ -1,0 +1,1 @@
+AutoCreatedLeafQueueConfig acts as an adaptee for adapter AbstractManagedParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue, which adapts to AbstractParentQueue.

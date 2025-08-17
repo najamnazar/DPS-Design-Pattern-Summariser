@@ -1,0 +1,2 @@
+BodyOnlyAggregationStrategyTest acts as a publisher for observer CamelContext, which exceptions Route Test, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+BodyOnlyAggregationStrategyTest acts as a publisher for observer Service, which exceptions Route Test, which creates Route Builder, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

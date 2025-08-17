@@ -1,0 +1,2 @@
+AggregateConcurrentPerCorrelationKeyTest acts as a publisher for observer CamelContext, which tests Aggregate Concurrent Per Correlation Key, which creates Route Builder.
+AggregateConcurrentPerCorrelationKeyTest acts as a publisher for observer Service, which tests Aggregate Concurrent Per Correlation Key, which creates Route Builder.

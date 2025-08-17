@@ -1,0 +1,1 @@
+RequestExpectation acts as an originator for memento ClientHttpResponse.

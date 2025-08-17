@@ -1,0 +1,2 @@
+AbstractLaunchableService acts as a publisher for observer Configuration, which is inherited by InitInConstructorLaunchableService, which binds Configuration parameter of config, List<String> parameter of args Args, which executes.
+AbstractLaunchableService acts as a publisher for observer Configuration, which binds Configuration parameter of config, List<String> parameter of args Args, which executes.

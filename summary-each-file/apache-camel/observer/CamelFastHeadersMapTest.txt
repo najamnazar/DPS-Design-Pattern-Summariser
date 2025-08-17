@@ -1,0 +1,5 @@
+CamelFastHeadersMapTest acts as a publisher for observer ConsumerTemplate, which tests Simple, which creates Route Builder.
+CamelFastHeadersMapTest acts as a publisher for observer Service, which tests Simple, which creates Route Builder.
+CamelFastHeadersMapTest acts as a publisher for observer CamelContext, which tests Simple, which creates Route Builder.
+CamelFastHeadersMapTest acts as a publisher for observer ProducerTemplate, which tests Simple, which creates Route Builder.
+CamelFastHeadersMapTest acts as a publisher for observer FluentProducerTemplate, which tests Simple, which creates Route Builder.

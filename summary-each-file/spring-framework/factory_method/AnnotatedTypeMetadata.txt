@@ -1,0 +1,1 @@
+AnnotatedTypeMetadata acts as a factory for SimpleMethodMetadata, which overrides.

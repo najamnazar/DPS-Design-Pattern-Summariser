@@ -1,0 +1,1 @@
+ITestLocatedFileStatusFetcher acts as a publisher for observer AuditSpanSource, which setups, which asserts final parameter of LocatedFileStatusFetcher, final parameter of int List Count, which tests Single Threaded Located File Status, which tests Located File Status Four Threads, which tests Located File Status Scan File.

@@ -1,0 +1,4 @@
+IModularClassFile acts as a product for IMember, which overrides.
+IModularClassFile acts as an abstract factory for IModuleDescription, which is inherited by ModularClassFile.
+IModularClassFile acts as a product for IPackageFragment, which overrides.
+IModularClassFile acts as an abstract product for IModularClassFile, which is inherited by ModularClassFile.

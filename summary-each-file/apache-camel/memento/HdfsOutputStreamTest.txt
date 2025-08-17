@@ -1,0 +1,1 @@
+HdfsOutputStreamTest acts as a caretaker for memento Configuration, which sets Up, which creates Output Stream For Existing Normal File With Append, which creates Output Stream For Missing Normal File With Append, which creates Output Stream Overwrite Existing Normal File, which creates Output Stream Will Fail For Existing Normal File No Overwrite.

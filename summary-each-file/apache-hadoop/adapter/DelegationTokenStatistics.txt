@@ -1,0 +1,1 @@
+DelegationTokenStatistics acts as an adaptee for adapter S3ADelegationTokens, which adapts to AbstractDTService.

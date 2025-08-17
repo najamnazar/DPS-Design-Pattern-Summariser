@@ -1,0 +1,7 @@
+Condition acts as an adaptee for adapter StreamResequencer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+Condition acts as an adaptee for adapter JpaRouteSkipLockedEntityTest, which adapts to AbstractJpaTest, which adapts to AbstractJpaTest.
+Condition acts as an adaptee for adapter DebugExceptionBreakpointTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Condition acts as an adaptee for adapter DebugSingleStepConditionTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Condition acts as an adaptee for adapter DebugExceptionEventBreakpointTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+Condition acts as an adaptee for adapter Resequencer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+Condition acts as an adaptee for adapter DebugTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

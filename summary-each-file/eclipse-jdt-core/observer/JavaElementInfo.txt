@@ -1,0 +1,2 @@
+JavaElementInfo acts as an observer, which clones, which gets Children, which gets Extended Children.
+JavaElementInfo acts as an observer for publisher DOMToModelPopulator, which is inherited by ImportContainerInfo, SourceRefElementInfo, OpenableElementInfo, which clones, which gets Children, which gets Extended Children.

@@ -1,0 +1,1 @@
+AbstractProviderService acts as a target for adapter DockerProviderService, which adapts to AbstractProviderService, which adapts to AbstractProviderService, which adapts to AbstractProviderService, which adapts to AbstractProviderService, which adapts to AbstractProviderService, which adapts to AbstractProviderService.

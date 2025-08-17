@@ -1,0 +1,2 @@
+RMApp acts as an abstract product for TestCapacitySchedulerApps, which is inherited by MockRMApp, RMAppImpl.
+RMApp acts as a factory for RMAppAttemptBlock, which overrides.

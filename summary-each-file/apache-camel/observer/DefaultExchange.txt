@@ -1,0 +1,8 @@
+DefaultExchange acts as a publisher for observer Exchange.
+DefaultExchange acts as a publisher for observer ExchangePattern.
+DefaultExchange acts as a publisher for observer Message.
+DefaultExchange acts as a publisher for observer AsyncCallback.
+DefaultExchange acts as a publisher for observer Synchronization.
+DefaultExchange acts as a publisher for observer UnitOfWork.
+DefaultExchange acts as a publisher for observer SafeCopyProperty.
+DefaultExchange acts as a publisher for observer Endpoint.

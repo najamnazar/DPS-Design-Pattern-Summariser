@@ -1,0 +1,1 @@
+IronMQClientMock acts as an observer, which queues String parameter of name.

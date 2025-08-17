@@ -1,0 +1,2 @@
+TransformXpathTest acts as a publisher for observer Service, which tests Transform With Xpath, which creates Route Builder.
+TransformXpathTest acts as a publisher for observer CamelContext, which tests Transform With Xpath, which creates Route Builder.

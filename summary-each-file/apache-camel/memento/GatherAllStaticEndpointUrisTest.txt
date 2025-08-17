@@ -1,0 +1,2 @@
+GatherAllStaticEndpointUrisTest acts as a caretaker for memento Context, which tests Gather All Static Endpoint Uris, which creates Route Builder.
+GatherAllStaticEndpointUrisTest acts as a caretaker for memento Producer, which tests Gather All Static Endpoint Uris, which creates Route Builder.

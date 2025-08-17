@@ -1,0 +1,2 @@
+BatchConsumerPooledExchangeTest acts as a publisher for observer Service, which creates Camel Context, which sets Up, which tests Not Same Exchange, which creates Route Builder.
+BatchConsumerPooledExchangeTest acts as a publisher for observer CamelContext, which creates Camel Context, which sets Up, which tests Not Same Exchange, which creates Route Builder.

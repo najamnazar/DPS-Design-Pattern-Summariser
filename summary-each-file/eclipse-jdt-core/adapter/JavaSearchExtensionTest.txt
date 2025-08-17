@@ -1,0 +1,1 @@
+JavaSearchExtensionTest acts as an adapter, which adapts to AbstractJavaSearchTests, which adapts to AbstractJavaSearchTests, which adapts to AbstractJavaSearchTests, which adapts to AbstractJavaSearchTests, which adapts to AbstractJavaSearchTests.

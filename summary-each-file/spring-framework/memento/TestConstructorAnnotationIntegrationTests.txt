@@ -1,0 +1,4 @@
+TestConstructorAnnotationIntegrationTests acts as a caretaker for memento A, which applications Context Injected, which beanses Injected, which properties Placeholder Injected.
+TestConstructorAnnotationIntegrationTests acts as a caretaker for memento C, which applications Context Injected, which beanses Injected, which properties Placeholder Injected.
+TestConstructorAnnotationIntegrationTests acts as a caretaker for memento ApplicationContext, which applications Context Injected, which beanses Injected, which properties Placeholder Injected.
+TestConstructorAnnotationIntegrationTests acts as a caretaker for memento Dog, which applications Context Injected, which beanses Injected, which properties Placeholder Injected.

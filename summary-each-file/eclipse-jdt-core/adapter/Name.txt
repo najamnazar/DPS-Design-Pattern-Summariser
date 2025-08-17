@@ -1,0 +1,2 @@
+Name acts as an adaptee for adapter SuperMethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference.
+Name acts as an adaptee for adapter ExecutableElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl.

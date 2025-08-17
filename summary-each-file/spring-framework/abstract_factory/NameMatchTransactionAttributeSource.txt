@@ -1,0 +1,1 @@
+NameMatchTransactionAttributeSource acts as a factory for TransactionAttributeSource, which overrides getTransactionAttribute method of TransactionAttributeSource.

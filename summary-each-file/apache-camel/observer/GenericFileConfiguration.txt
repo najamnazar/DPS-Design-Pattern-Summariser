@@ -1,0 +1,1 @@
+GenericFileConfiguration acts as an observer for publisher GenericFileEndpoint, which is inherited by RemoteFileConfiguration, which needs To Normalize, which configures URI parameter of uri, which gets Directory, which sets String parameter of directory Directory, which tos String.

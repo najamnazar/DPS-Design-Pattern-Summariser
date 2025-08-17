@@ -1,0 +1,1 @@
+SpanDecorator acts as an abstract factory for InjectAdapter, ExtractAdapter, which is inherited by AbstractSpanDecorator.

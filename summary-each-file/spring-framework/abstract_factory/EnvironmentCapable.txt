@@ -1,0 +1,1 @@
+EnvironmentCapable acts as an abstract factory for Environment, which is inherited by HttpServletBean, ClassPathScanningCandidateComponentProvider, AbstractBeanDefinitionReader, GenericFilterBean.

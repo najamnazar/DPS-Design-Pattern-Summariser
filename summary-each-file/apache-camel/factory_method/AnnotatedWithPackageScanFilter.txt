@@ -1,0 +1,1 @@
+AnnotatedWithPackageScanFilter acts as a product for DefaultPackageScanClassResolver, which overrides matches method of PackageScanFilter.

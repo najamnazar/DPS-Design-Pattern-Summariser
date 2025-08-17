@@ -1,0 +1,1 @@
+RowCallbackHandler acts as an observer for publisher JdbcTemplate, which is inherited by SimpleRowCountCallbackHandler, RowCountCallbackHandler, which processes ResultSet parameter of rs Row.

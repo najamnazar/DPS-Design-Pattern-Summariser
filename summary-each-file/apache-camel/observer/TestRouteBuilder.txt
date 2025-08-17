@@ -1,0 +1,7 @@
+TestRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+TestRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+TestRouteBuilder acts as an observer, which configures.
+TestRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+TestRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+TestRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+TestRouteBuilder acts as a publisher for observer Resource, which configures.

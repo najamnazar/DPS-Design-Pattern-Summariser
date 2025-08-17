@@ -1,0 +1,2 @@
+AggregatorExceptionInPredicateTest acts as a caretaker for memento Producer, which tests Exception In Aggregation Strategy, which tests Exception In Predicate, which tests String parameter of startUri Exception In Flow, which creates Route Builder.
+AggregatorExceptionInPredicateTest acts as a caretaker for memento Context, which tests Exception In Aggregation Strategy, which tests Exception In Predicate, which tests String parameter of startUri Exception In Flow, which creates Route Builder.

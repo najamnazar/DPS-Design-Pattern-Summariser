@@ -1,0 +1,3 @@
+JavaElement acts as a factory for IMember, which overrides.
+JavaElement acts as a factory for ResolveTests, which overrides.
+JavaElement acts as a factory for SourceRefElement, which overrides.

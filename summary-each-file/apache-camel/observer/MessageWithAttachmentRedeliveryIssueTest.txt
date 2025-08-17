@@ -1,0 +1,5 @@
+MessageWithAttachmentRedeliveryIssueTest acts as a publisher for observer Service, which tests Message With Attachment Redelivery Issue, which creates Route Builder.
+MessageWithAttachmentRedeliveryIssueTest acts as a publisher for observer CamelContext, which tests Message With Attachment Redelivery Issue, which creates Route Builder.
+MessageWithAttachmentRedeliveryIssueTest acts as a publisher for observer ConsumerTemplate, which tests Message With Attachment Redelivery Issue, which creates Route Builder.
+MessageWithAttachmentRedeliveryIssueTest acts as a publisher for observer FluentProducerTemplate, which tests Message With Attachment Redelivery Issue, which creates Route Builder.
+MessageWithAttachmentRedeliveryIssueTest acts as a publisher for observer ProducerTemplate, which tests Message With Attachment Redelivery Issue, which creates Route Builder.

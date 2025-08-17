@@ -1,0 +1,1 @@
+KafkaResumeStrategy acts as an observer.

@@ -1,0 +1,1 @@
+OnFailureRestartPolicy acts as a singleton, which gets an OnFailureRestartPolicy Instance to.

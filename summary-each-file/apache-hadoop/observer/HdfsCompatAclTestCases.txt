@@ -1,0 +1,3 @@
+HdfsCompatAclTestCases acts as a publisher for observer Path, which modifies Acl Entries, which removes Acl Entries, which removes Default Acl, which removes Acl, which sets Acl, which gets Acl Status.
+HdfsCompatAclTestCases acts as a publisher for observer HdfsCompatEnvironment, which modifies Acl Entries, which removes Acl Entries, which removes Default Acl, which removes Acl, which sets Acl, which gets Acl Status.
+HdfsCompatAclTestCases acts as an observer, which modifies Acl Entries, which removes Acl Entries, which removes Default Acl, which removes Acl, which sets Acl, which gets Acl Status.

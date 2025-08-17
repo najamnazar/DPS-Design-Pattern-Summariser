@@ -1,0 +1,2 @@
+ConfigurableResource acts as an adaptee for adapter AllocationConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration, which adapts to ReservationSchedulerConfiguration.
+ConfigurableResource acts as an adaptee for adapter FSQueue, which adapts to Queue, which adapts to Queue, which adapts to Queue, which adapts to Queue, which adapts to Queue, which adapts to Queue.

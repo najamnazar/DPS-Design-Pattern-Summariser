@@ -1,0 +1,2 @@
+BundleChain_out acts as an originator for memento Enumeration.
+BundleChain_out acts as an originator for memento String.

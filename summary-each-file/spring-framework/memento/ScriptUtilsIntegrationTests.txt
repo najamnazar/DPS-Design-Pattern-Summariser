@@ -1,0 +1,2 @@
+ScriptUtilsIntegrationTests acts as a caretaker for memento Database, which gets Embedded Database Type, which sets Up Schema, which executes Sql Script Containing Multi Line Comments, which executes Sql Script Containing Single Quotes Nested Inside Double Quotes.
+ScriptUtilsIntegrationTests acts as a caretaker for memento C, which gets Embedded Database Type, which sets Up Schema, which executes Sql Script Containing Multi Line Comments, which executes Sql Script Containing Single Quotes Nested Inside Double Quotes.

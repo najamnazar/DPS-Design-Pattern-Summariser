@@ -1,0 +1,1 @@
+ResourceReloadStrategySupport acts as a factory for ResourceReloadStrategy, which overrides getResourceReload method of ResourceReloadStrategy.

@@ -1,0 +1,1 @@
+MockRMAdminRequestInterceptor acts as a publisher for observer ResourceManagerAdministrationProtocol, which inits String parameter of user, which shutdowns.

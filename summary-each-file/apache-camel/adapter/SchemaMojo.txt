@@ -1,0 +1,1 @@
+SchemaMojo acts as an adapter, which adapts to AbstractSalesforceMojo, which adapts to AbstractSalesforceMojo.

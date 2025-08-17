@@ -1,0 +1,5 @@
+PeriodicRLESparseResourceAllocation acts as a product for Solver, which overrides toString method of RLESparseResourceAllocation, getRangeOverlapping method of RLESparseResourceAllocation.
+PeriodicRLESparseResourceAllocation acts as a product for PlanView, which overrides toString method of RLESparseResourceAllocation, getRangeOverlapping method of RLESparseResourceAllocation.
+PeriodicRLESparseResourceAllocation acts as a product for ReservationAllocation, which overrides toString method of RLESparseResourceAllocation, getRangeOverlapping method of RLESparseResourceAllocation.
+PeriodicRLESparseResourceAllocation acts as a product for PredictionSkylineStore, which overrides toString method of RLESparseResourceAllocation, getRangeOverlapping method of RLESparseResourceAllocation.
+PeriodicRLESparseResourceAllocation acts as a product for SharingPolicy, which overrides toString method of RLESparseResourceAllocation, getRangeOverlapping method of RLESparseResourceAllocation.

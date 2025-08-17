@@ -1,0 +1,1 @@
+AttachmentMap acts as an observer, which safes Copy.

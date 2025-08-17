@@ -1,0 +1,2 @@
+Sns2ClientIAMOptimized acts as a caretaker for memento Configuration, which gets SNSClient.
+Sns2ClientIAMOptimized acts as a memento, which gets SNSClient.

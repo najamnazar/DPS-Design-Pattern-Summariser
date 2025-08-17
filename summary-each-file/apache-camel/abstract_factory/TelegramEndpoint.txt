@@ -1,0 +1,1 @@
+TelegramEndpoint acts as a factory for WebhookCapableEndpoint, which overrides createWebhookHandler method of WebhookCapableEndpoint, registerWebhook method of WebhookCapableEndpoint, unregisterWebhook method of WebhookCapableEndpoint, setWebhookConfiguration method of WebhookCapableEndpoint, getWebhookMethods method of WebhookCapableEndpoint.

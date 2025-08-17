@@ -1,0 +1,1 @@
+Jsr250LifecycleTests acts as a caretaker for memento B, which lifecycles Bean, which befores All Tests, which afters Test Suite, which sets Up, which tears Down, which test1s, which test2s.

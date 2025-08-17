@@ -1,0 +1,2 @@
+MockXpathTest acts as a publisher for observer CamelContext, which tests Xpath Assertion, which creates Route Builder.
+MockXpathTest acts as a publisher for observer Service, which tests Xpath Assertion, which creates Route Builder.

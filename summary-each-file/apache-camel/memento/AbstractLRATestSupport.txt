@@ -1,0 +1,2 @@
+AbstractLRATestSupport acts as a caretaker for memento Context, which gets Active LRAs, which checks Active LRAs, which creates Camel Context, which creates LRASaga Service, which gets Number Of Active LRAs, which gets Coordinator URL, which gets Server Port.
+AbstractLRATestSupport acts as a caretaker for memento Producer, which gets Active LRAs, which checks Active LRAs, which creates Camel Context, which creates LRASaga Service, which gets Number Of Active LRAs, which gets Coordinator URL, which gets Server Port.

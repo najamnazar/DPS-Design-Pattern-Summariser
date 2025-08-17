@@ -1,0 +1,1 @@
+AbstractUsersManager acts as an abstract product for AbstractLeafQueue, which is inherited by UsersManager, ActiveUsersManager.

@@ -1,0 +1,1 @@
+KerberosInfo acts as a memento.

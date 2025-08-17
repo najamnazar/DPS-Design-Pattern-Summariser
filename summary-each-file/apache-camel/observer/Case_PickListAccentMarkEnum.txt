@@ -1,0 +1,1 @@
+Case_PickListAccentMarkEnum acts as an observer for publisher Case, which is inherited by, which values, which froms String parameter of value Value.

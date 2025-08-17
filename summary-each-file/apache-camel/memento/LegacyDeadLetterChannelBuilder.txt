@@ -1,0 +1,1 @@
+LegacyDeadLetterChannelBuilder acts as a caretaker for memento Configuration, which creates Configuration, which clones Builder, which creates Logger, which tos String.

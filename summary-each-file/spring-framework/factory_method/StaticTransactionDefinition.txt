@@ -1,0 +1,1 @@
+StaticTransactionDefinition acts as a product for MockCallbackPreferringTransactionManager, which overrides.

@@ -1,0 +1,2 @@
+EmbeddedDatabaseFactoryBean acts as a caretaker for memento Database, which sets DatabasePopulator parameter of databaseCleaner Database Cleaner, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton, which destroys.
+EmbeddedDatabaseFactoryBean acts as a caretaker for memento C, which sets DatabasePopulator parameter of databaseCleaner Database Cleaner, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton, which destroys.

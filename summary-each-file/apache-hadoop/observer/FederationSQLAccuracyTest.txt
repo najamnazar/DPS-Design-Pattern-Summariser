@@ -1,0 +1,1 @@
+FederationSQLAccuracyTest acts as a publisher for observer Configuration, which is inherited by TestFederationMySQLScriptAccuracy, TestFederationSQLServerScriptAccuracy, which creates State Store, which befores, which afters, which gets SQLURL, which sets Configuration parameter of conf Conf, which gets Conf, which gets State Store.

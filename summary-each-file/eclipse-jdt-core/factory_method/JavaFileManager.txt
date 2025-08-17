@@ -1,0 +1,3 @@
+JavaFileManager acts as an abstract product for BatchProcessingEnvImpl, which is inherited by ForwardingJavaFileManager.
+JavaFileManager acts as a factory for CompilerInvocationTests, which overrides.
+JavaFileManager acts as a factory for Bug341298Processor, which overrides.

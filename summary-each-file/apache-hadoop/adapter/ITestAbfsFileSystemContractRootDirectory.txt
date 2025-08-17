@@ -1,0 +1,1 @@
+ITestAbfsFileSystemContractRootDirectory acts as an adapter, which adapts to AbstractContractRootDirectoryTest, which adapts to AbstractContractRootDirectoryTest, which adapts to AbstractContractRootDirectoryTest, which adapts to AbstractContractRootDirectoryTest.

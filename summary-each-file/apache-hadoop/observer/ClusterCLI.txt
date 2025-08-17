@@ -1,0 +1,1 @@
+ClusterCLI acts as a publisher for observer YarnClient, which mains String[] parameter of args, which runs String[] parameter of args, which prints Cluster Node Attributes, which prints Cluster Node Labels, which gets Configuration parameter of conf Node Label Manager Instance, which prints Options parameter of opts Usage.

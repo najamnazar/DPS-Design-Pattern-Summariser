@@ -1,0 +1,1 @@
+HotSwappableTargetSourceTests acts as a caretaker for memento B, which setups, which closes, which tests Basic Functionality, which tests Valid Swaps, which tests Rejects Swap To Null, which tests Serialization.

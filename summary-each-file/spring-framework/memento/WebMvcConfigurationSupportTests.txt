@@ -1,0 +1,1 @@
+WebMvcConfigurationSupportTests acts as an originator for memento ApplicationContext, which inits an ApplicationContext Context to.

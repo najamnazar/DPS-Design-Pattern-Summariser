@@ -1,0 +1,1 @@
+FormatType acts as a caretaker for memento Parameter, which set__1s Long parameter of value, which set__1s Field<Long> parameter of field, which set__2s Integer parameter of value, which set__2s Field<Integer> parameter of field.

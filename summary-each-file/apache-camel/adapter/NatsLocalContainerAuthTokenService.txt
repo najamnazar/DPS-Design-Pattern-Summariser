@@ -1,0 +1,1 @@
+NatsLocalContainerAuthTokenService acts as an adaptee for adapter NatsAuthTokenITSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

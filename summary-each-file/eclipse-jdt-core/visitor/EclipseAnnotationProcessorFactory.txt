@@ -1,0 +1,44 @@
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by LocalVariable, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by CodeSnippetSuperReference, CodeSnippetThisReference, CodeSnippetReturnStatement, ReferenceExpression, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by CompletionRequestorAdapter, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by SourceFieldElementInfo, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by NestMembersAttribute, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ModuleAttribute, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by Openable, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ProjectEntry, JrtPackageFragmentRoot, ClasspathSourceDirectory, ModulePathEntry, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by SelectionEngine, CompletionEngine, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by Modifier, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ClassServiceFactory, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by TypeNameRequestorWrapper, TypeNameMatchRequestorWrapper, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by JavadocContents, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by TypeHierarchy, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ExecutableDeclarationImpl, ASTBasedExecutableDeclarationImpl, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by NestMembersAttributeEntry, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by LocalVariableTableEntry, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by DOMBuilder, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by FactoryPath, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by BinaryMethod, SourceMethod, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ModuleMainClassAttribute, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by SourceParameterDeclarationImpl, BinaryParameterDeclarationImpl, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by Region, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by PackageVisibilityInfo, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by AnnotationComponent, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ReferenceExpression, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by ModulePackagesAttribute, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by AnnotationDefaultAttribute, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as an element for visitor EclipseAnnotationProcessorFactory, which is inherited by, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by DOMInitializer, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by TypeAnnotationWalker, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by DOMPackage, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by EnumDeclarationImpl, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by TypeParameterDeclarationImpl, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by EvaluationContextWrapper, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by NonJavaResource, JarEntryResource, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by RecordComponentElementImpl, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by IdeOutputJavaFileObject, IdeOutputClassFileObject, ArchiveFileObject, ForwardingJavaFileObject, PathFileObject, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by AbstractCompilationEnv, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by AbstractSearchScope, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by PermittedSubclassesAttributeEntry, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by OrderPreservingImportAdder, ReorderingImportAdder, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by CodeSnippetEnvironment, which gets a Processor For to.
+EclipseAnnotationProcessorFactory acts as a visitor for element EclipseAnnotationProcessorFactory, which is inherited by AbstractProcessor, which gets a Processor For to.

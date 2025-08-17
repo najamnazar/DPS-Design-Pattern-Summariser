@@ -1,0 +1,2 @@
+WikipediaEndpointSpringTest acts as a caretaker for memento Context, which tests Wikipedia For Monkey, which creates Application Context.
+WikipediaEndpointSpringTest acts as a caretaker for memento Producer, which tests Wikipedia For Monkey, which creates Application Context.

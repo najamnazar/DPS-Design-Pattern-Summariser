@@ -1,0 +1,1 @@
+WeakRefMetricsSource acts as an observer, which gets final parameter of MetricsCollector, final parameter of boolean Metrics, which gets Name, which gets Source, which tos String.

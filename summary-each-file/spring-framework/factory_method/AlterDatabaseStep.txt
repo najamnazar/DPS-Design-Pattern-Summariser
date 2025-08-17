@@ -1,0 +1,2 @@
+AlterDatabaseStep acts as a factory method for AlterDatabaseFinalStep, which is inherited by AlterDatabaseStep.
+AlterDatabaseStep acts as a factory for AlterDatabaseStep, which overrides.

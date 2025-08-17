@@ -1,0 +1,1 @@
+ConsumerCreationStrategyFactory acts as a publisher for observer PulsarConsumer, which is inherited by, which creates PulsarConsumer parameter of pulsarConsumer, which validates PulsarConsumer parameter of pulsarConsumer, which gets final parameter of SubscriptionType Strategy.

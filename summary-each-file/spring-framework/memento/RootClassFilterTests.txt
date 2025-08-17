@@ -1,0 +1,1 @@
+RootClassFilterTests acts as a caretaker for memento C, which matches, which tests Equals, which tests Hash Code, which tests To String.

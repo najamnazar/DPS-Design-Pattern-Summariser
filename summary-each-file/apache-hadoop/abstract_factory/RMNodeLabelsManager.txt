@@ -1,0 +1,1 @@
+RMNodeLabelsManager acts as an abstract product for RMNodeLabelsManager, which is inherited by NullRMNodeLabelsManager.

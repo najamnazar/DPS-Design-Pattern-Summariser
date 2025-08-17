@@ -1,0 +1,1 @@
+StatementType acts as an observer for publisher Settings, which is inherited by, which values, which froms String parameter of v Value.

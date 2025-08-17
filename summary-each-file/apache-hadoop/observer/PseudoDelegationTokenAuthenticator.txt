@@ -1,0 +1,2 @@
+PseudoDelegationTokenAuthenticator acts as a publisher for observer ConnectionConfigurator, which gets User Name.
+PseudoDelegationTokenAuthenticator acts as an observer, which gets User Name.

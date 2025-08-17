@@ -1,0 +1,2 @@
+IOStatisticsStoreBuilderImpl acts as a product for IOStatisticsStoreBuilder, which overrides build method of IOStatisticsStoreBuilder.
+IOStatisticsStoreBuilderImpl acts as a factory for IOStatisticsStoreBuilder, which overrides build method of IOStatisticsStoreBuilder.

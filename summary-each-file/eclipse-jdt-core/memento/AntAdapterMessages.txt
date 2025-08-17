@@ -1,0 +1,3 @@
+AntAdapterMessages acts as a caretaker for memento String, which gets String parameter of key String, which gets String parameter of key, String parameter of argument String.
+AntAdapterMessages acts as a caretaker for memento R, which gets String parameter of key String, which gets String parameter of key, String parameter of argument String.
+AntAdapterMessages acts as a caretaker for memento S, which gets String parameter of key String, which gets String parameter of key, String parameter of argument String.

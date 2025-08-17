@@ -1,0 +1,1 @@
+QuotaByStorageTypeEntry acts as a publisher for observer StorageType, which is inherited by, which gets Storage Type, which gets Quota, which equals Object parameter of o, which hashes Code, which tos String, which sets StorageType parameter of type Storage Type, which sets long parameter of quota Quota, which builds.

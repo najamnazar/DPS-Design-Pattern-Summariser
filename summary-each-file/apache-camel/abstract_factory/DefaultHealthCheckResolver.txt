@@ -1,0 +1,3 @@
+DefaultHealthCheckResolver acts as a factory for HealthCheckResolver, which overrides resolveHealthCheck method of HealthCheckResolver, resolveHealthCheckRepository method of HealthCheckResolver.
+DefaultHealthCheckResolver acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+DefaultHealthCheckResolver acts as a product for ExtendedCamelContext, which overrides resolveHealthCheck method of HealthCheckResolver, resolveHealthCheckRepository method of HealthCheckResolver.

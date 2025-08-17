@@ -1,0 +1,1 @@
+TestHttpServerLogs acts as a publisher for observer URL, which setups, which starts Configuration parameter of conf Server, which cleanups, which tests Logs Enabled, which tests Logs Disabled.

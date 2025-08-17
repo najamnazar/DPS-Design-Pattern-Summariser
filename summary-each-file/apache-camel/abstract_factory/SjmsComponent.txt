@@ -1,0 +1,1 @@
+SjmsComponent acts as an abstract product for SjmsComponent, which is inherited by Sjms2Component.

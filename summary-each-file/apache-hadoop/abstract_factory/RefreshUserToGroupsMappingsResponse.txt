@@ -1,0 +1,1 @@
+RefreshUserToGroupsMappingsResponse acts as an abstract product for RefreshUserToGroupsMappingsResponse, which is inherited by RefreshUserToGroupsMappingsResponsePBImpl.

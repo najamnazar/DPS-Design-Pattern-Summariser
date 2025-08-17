@@ -1,0 +1,2 @@
+Messages acts as a caretaker for memento String.
+Messages acts as a caretaker for memento S.

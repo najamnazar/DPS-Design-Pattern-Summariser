@@ -1,0 +1,2 @@
+BeanInvokeWithNullBodyTest acts as a publisher for observer CamelContext, which tests With Hello World, which tests With Empty Body, which tests With Null Body, which creates Registry, which creates Route Builder, which does String parameter of s Something.
+BeanInvokeWithNullBodyTest acts as a publisher for observer Service, which tests With Hello World, which tests With Empty Body, which tests With Null Body, which creates Registry, which creates Route Builder, which does String parameter of s Something.

@@ -1,0 +1,5 @@
+HazelcastSedaInOutTest acts as a publisher for observer CamelContext, which befores Each, which afters Each, which sends In Out, which creates Camel Context, which creates Route Builder.
+HazelcastSedaInOutTest acts as a publisher for observer ConsumerTemplate, which befores Each, which afters Each, which sends In Out, which creates Camel Context, which creates Route Builder.
+HazelcastSedaInOutTest acts as a publisher for observer FluentProducerTemplate, which befores Each, which afters Each, which sends In Out, which creates Camel Context, which creates Route Builder.
+HazelcastSedaInOutTest acts as a publisher for observer ProducerTemplate, which befores Each, which afters Each, which sends In Out, which creates Camel Context, which creates Route Builder.
+HazelcastSedaInOutTest acts as a publisher for observer Service, which befores Each, which afters Each, which sends In Out, which creates Camel Context, which creates Route Builder.

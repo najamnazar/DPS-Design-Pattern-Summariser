@@ -1,0 +1,1 @@
+SequentialBlockGroupIdGenerator acts as an adapter, which adapts to SequentialNumber, which adapts to SequentialNumber.

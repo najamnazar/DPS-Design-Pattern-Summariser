@@ -1,0 +1,2 @@
+FileConsumerBeginAndCommitExpressionRenameStrategyTest acts as a caretaker for memento Producer, which tests Rename Success, which tests Illegal Options, which creates Route Builder.
+FileConsumerBeginAndCommitExpressionRenameStrategyTest acts as a caretaker for memento Context, which tests Rename Success, which tests Illegal Options, which creates Route Builder.

@@ -1,0 +1,2 @@
+ChoiceWhenNotPredicateTest acts as a publisher for observer Service, which tests People, which tests Animals, which creates Route Builder.
+ChoiceWhenNotPredicateTest acts as a publisher for observer CamelContext, which tests People, which tests Animals, which creates Route Builder.

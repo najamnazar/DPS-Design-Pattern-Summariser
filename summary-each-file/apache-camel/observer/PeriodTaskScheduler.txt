@@ -1,0 +1,1 @@
+PeriodTaskScheduler acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultPeriodTaskScheduler, which schedules Runnable parameter of task, long parameter of period Period Task, which gets Class<T> parameter of type Task By Type.

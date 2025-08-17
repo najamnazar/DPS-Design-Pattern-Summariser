@@ -1,0 +1,1 @@
+CorsWebFilter acts as an observer, which filters ServerWebExchange parameter of exchange, WebFilterChain parameter of chain.

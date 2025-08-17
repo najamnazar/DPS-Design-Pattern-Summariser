@@ -1,0 +1,2 @@
+FieldDeclarationImpl acts as a factory for IVariableBinding, which overrides getConstantValue method of IVariableBinding.
+FieldDeclarationImpl acts as a factory for TypesUtil, which overrides toString method of TypesUtil.

@@ -1,0 +1,2 @@
+StatisticDurationTracker acts as an originator for memento Duration.
+StatisticDurationTracker acts as a memento, which tos String, which tos String, which tos String.

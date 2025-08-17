@@ -1,0 +1,2 @@
+IF acts as a caretaker for memento S.
+IF acts as a caretaker for memento String.

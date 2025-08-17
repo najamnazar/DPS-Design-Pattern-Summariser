@@ -1,0 +1,2 @@
+ObjectInputStream acts as an abstract product for ObjectInputStream, which is inherited by S3APrefetchingInputStream, S3AInputStream, AnalyticsStream.
+ObjectInputStream acts as a factory for IOStatisticsSource, which overrides getIOStatistics method of IOStatisticsSource.

@@ -1,0 +1,2 @@
+IExtendedAnnotation acts as a product for IAnnotationComponentValue, which overrides.
+IExtendedAnnotation acts as a product for IAnnotatable, which overrides.

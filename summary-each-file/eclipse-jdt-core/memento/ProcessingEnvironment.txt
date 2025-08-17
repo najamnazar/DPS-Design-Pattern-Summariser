@@ -1,0 +1,1 @@
+ProcessingEnvironment acts as an originator for memento Locale, which is inherited by, which gets a Locale Locale to.

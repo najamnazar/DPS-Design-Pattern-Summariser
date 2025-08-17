@@ -1,0 +1,1 @@
+InnerEmulationDependency acts as an adaptee for adapter LocalTypeBinding.

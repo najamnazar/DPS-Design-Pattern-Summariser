@@ -1,0 +1,1 @@
+ServletServerHttpResponse acts as a product for DefaultServerWebExchangeBuilder, which overrides setStatusCode method of ServerHttpResponse, flush method of ServerHttpResponse, close method of ServerHttpResponse.

@@ -1,0 +1,2 @@
+RoutePolicySupportTest acts as a publisher for observer CamelContext, which tests Lifecycle Callbacks, which creates Route Builder.
+RoutePolicySupportTest acts as a publisher for observer Service, which tests Lifecycle Callbacks, which creates Route Builder.

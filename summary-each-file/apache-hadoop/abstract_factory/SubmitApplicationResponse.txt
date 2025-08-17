@@ -1,0 +1,1 @@
+SubmitApplicationResponse acts as an abstract product for SubmitApplicationResponse, which is inherited by SubmitApplicationResponsePBImpl.

@@ -1,0 +1,2 @@
+AddRoutesAtRuntimeTest acts as a publisher for observer Service, which tests Add Routes At Runtime, which creates Route Builder, which configures.
+AddRoutesAtRuntimeTest acts as a publisher for observer CamelContext, which tests Add Routes At Runtime, which creates Route Builder, which configures.

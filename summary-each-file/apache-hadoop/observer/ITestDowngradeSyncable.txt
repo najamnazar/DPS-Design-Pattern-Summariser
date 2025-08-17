@@ -1,0 +1,1 @@
+ITestDowngradeSyncable acts as a publisher for observer OperationCost, which creates Configuration, which tests HFlush Downgrade, which tests HSync Downgrade.

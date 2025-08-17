@@ -1,0 +1,1 @@
+VaultConfigurationProperties acts as a caretaker for memento Configuration, which ends, which closes, which awses, which gcps, which azures, which hashicorps.

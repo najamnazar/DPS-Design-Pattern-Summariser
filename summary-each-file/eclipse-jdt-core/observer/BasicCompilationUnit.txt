@@ -1,0 +1,1 @@
+BasicCompilationUnit acts as an observer, which inits IJavaElement parameter of javaElement Attributes, which gets Contents, which gets File Name, which gets Main Type Name, which gets Package Name, which ignores Optional Problems, which tos String, which gets Module Name.

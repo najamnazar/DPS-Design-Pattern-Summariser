@@ -1,0 +1,5 @@
+DefaultErrorHandlerProperties acts as a product for ModelReifierFactory, which overrides.
+DefaultErrorHandlerProperties acts as a product for ExtendedCamelContext, which overrides.
+DefaultErrorHandlerProperties acts as a product for Route, which overrides.
+DefaultErrorHandlerProperties acts as a product for ErrorHandlerFactory, which overrides.
+DefaultErrorHandlerProperties acts as an abstract factory for Processor, Predicate, which is inherited by DefaultErrorHandlerConfiguration, LegacyDefaultErrorHandlerBuilder.

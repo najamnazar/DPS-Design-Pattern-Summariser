@@ -1,0 +1,1 @@
+KVGenerator acts as a publisher for observer BytesWritable, which is inherited by, which fills BytesWritable parameter of o Key, which fills BytesWritable parameter of o Value, which increments Prefix, which nexts BytesWritable parameter of key, BytesWritable parameter of value, boolean parameter of dupKey.

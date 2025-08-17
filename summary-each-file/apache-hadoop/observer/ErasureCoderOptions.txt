@@ -1,0 +1,1 @@
+ErasureCoderOptions acts as an observer for publisher ErasureCodec, RSErasureCodec, HHXORErasureCodec, XORErasureCodec, DummyErasureCodec, which is inherited by, which gets Num Data Units, which gets Num Parity Units, which gets Num All Units, which allows Change Inputs, which allows Verbose Dump.

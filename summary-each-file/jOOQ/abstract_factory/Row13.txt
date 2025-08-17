@@ -1,0 +1,6 @@
+Row13 acts as a product for Fields, which overrides.
+Row13 acts as a product for ResultQueryTrait, which overrides.
+Row13 acts as a product for Record, which overrides.
+Row13 acts as a product for Parser, which overrides.
+Row13 acts as an abstract factory for Condition, which is inherited by.
+Row13 acts as a product for DataType, which overrides.

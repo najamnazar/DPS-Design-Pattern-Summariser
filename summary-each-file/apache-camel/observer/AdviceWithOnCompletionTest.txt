@@ -1,0 +1,2 @@
+AdviceWithOnCompletionTest acts as a publisher for observer CamelContext, which tests Advice On Completion, which creates Route Builder.
+AdviceWithOnCompletionTest acts as a publisher for observer Service, which tests Advice On Completion, which creates Route Builder.

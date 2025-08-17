@@ -1,0 +1,2 @@
+DropTypeImpl acts as a factory for DropTypeStep, which overrides cascade method of DropTypeStep, restrict method of DropTypeStep.
+DropTypeImpl acts as a product for DSLContext, which overrides cascade method of DropTypeStep, restrict method of DropTypeStep.

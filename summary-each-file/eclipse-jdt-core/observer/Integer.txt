@@ -1,0 +1,1 @@
+Integer acts as an observer for publisher TypeHierarchy, RegionBasedTypeHierarchy, which is inherited by, which parses String parameter of s Int, which tos int parameter of i Hex String, which tos int parameter of i String, which doubles Value, which floats Value, which ints Value, which longs Value, which compares Integer parameter of i To.

@@ -1,0 +1,1 @@
+IClassFileAttribute acts as an adaptee for adapter ComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo.

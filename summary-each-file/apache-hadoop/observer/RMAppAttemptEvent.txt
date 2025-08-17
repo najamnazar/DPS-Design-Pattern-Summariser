@@ -1,0 +1,1 @@
+RMAppAttemptEvent acts as an observer for publisher RMAppAttemptImpl, which is inherited by RMAppAttemptStatusupdateEvent, RMAppStartAttemptEvent, RMAppAttemptContainerFinishedEvent, RMAppAttemptRegistrationEvent, RMAppAttemptUnregistrationEvent, which gets Application Attempt Id, which gets Diagnostic Msg.

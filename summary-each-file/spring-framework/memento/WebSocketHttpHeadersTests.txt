@@ -1,0 +1,1 @@
+WebSocketHttpHeadersTests acts as a caretaker for memento Headers, which sets Up, which parses Web Socket Extensions.

@@ -1,0 +1,2 @@
+WasbAuthorizerInterface acts as a target for adapter RemoteWasbAuthorizerImpl, which adapts to WasbAuthorizerInterface, which adapts to WasbAuthorizerInterface.
+WasbAuthorizerInterface acts as an adaptee for adapter NativeAzureFileSystem, which adapts to FileSystem, which adapts to FileSystem.

@@ -1,0 +1,2 @@
+JournalProtocol acts as a target for adapter JournalProtocolTranslatorPB, which adapts to JournalProtocol, which adapts to JournalProtocol, which adapts to JournalProtocol.
+JournalProtocol acts as an adaptee for adapter JournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface, JournalProtocol, which adapts to ProtocolMetaInterface, JournalProtocol, which adapts to ProtocolMetaInterface, JournalProtocol.

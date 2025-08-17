@@ -1,0 +1,1 @@
+BaseSharingPolicyTest acts as a factory for TestCapacityOverTimePolicy, which overrides.

@@ -1,0 +1,1 @@
+BeanFactoryDestinationResolver acts as a product for MessageListenerContainer, which overrides resolveDestinationName method of DestinationResolver.

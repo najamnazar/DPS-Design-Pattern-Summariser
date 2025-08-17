@@ -1,0 +1,1 @@
+ServicePortPropertiesFunction acts as a product for PropertiesFunctionResolver, which overrides.

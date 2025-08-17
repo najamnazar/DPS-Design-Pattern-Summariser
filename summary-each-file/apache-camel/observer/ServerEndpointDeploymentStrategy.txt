@@ -1,0 +1,1 @@
+ServerEndpointDeploymentStrategy acts as an observer for publisher JSR356WebSocketComponent, which is inherited by DefaultServerEndpointDeploymentStrategy, which deploys ServerContainer parameter of container, Builder parameter of configBuilder.

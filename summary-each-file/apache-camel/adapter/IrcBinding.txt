@@ -1,0 +1,1 @@
+IrcBinding acts as an adaptee for adapter IrcEndpoint, which adapts to DefaultEndpoint.

@@ -1,0 +1,24 @@
+Producer acts as a product for CloudEventProcessor, which overrides.
+Producer acts as a product for WebhookCapableEndpoint, which overrides.
+Producer acts as a product for SendDynamicAware, which overrides.
+Producer acts as a product for Route, which overrides.
+Producer acts as a product for BeanHolder, which overrides.
+Producer acts as a product for ExtendedCamelContext, which overrides.
+Producer acts as a product for Policy, which overrides.
+Producer acts as a product for ErrorHandlerRedeliveryCustomizer, which overrides.
+Producer acts as a product for Consumer, which overrides.
+Producer acts as a product for ModelReifierFactory, which overrides.
+Producer acts as a product for ProcessorExchangeFactory, which overrides.
+Producer acts as a product for Channel, which overrides.
+Producer acts as a product for InterceptSendToEndpoint, which overrides.
+Producer acts as a product for ErrorHandlerAware, which overrides.
+Producer acts as a product for InterceptStrategy, which overrides.
+Producer acts as an abstract product for Producer, which is inherited by DefaultProducer, DeferProducer, ServiceNowProducer, SynchronousDelegateProducer, AsyncProducer.
+Producer acts as a product for CamelContext, which overrides.
+Producer acts as a product for CamelEvent, which overrides.
+Producer acts as a product for DefaultErrorHandlerProperties, which overrides.
+Producer acts as a product for BeanProcessorFactory, which overrides.
+Producer acts as a product for RestApiProcessorFactory, which overrides.
+Producer acts as a product for WrapAwareProcessor, which overrides.
+Producer acts as a product for ProcessorFactory, which overrides.
+Producer acts as a product for ProcessorExchangePair, which overrides.

@@ -1,0 +1,1 @@
+TransactionListener acts as an abstract product for TransactionListenerProvider, which is inherited by TransactionListeners, CallbackTransactionListener, DefaultTransactionListener.

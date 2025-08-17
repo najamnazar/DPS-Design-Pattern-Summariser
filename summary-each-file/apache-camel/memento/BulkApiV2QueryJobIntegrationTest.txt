@@ -1,0 +1,1 @@
+BulkApiV2QueryJobIntegrationTest acts as a caretaker for memento Component, which setups, which teardowns, which tests Query Lifecycle, which tests Query All Lifecycle, which tests Abort, which tests Delete, which tests Get All, which creates Contacts, which deletes Contacts.

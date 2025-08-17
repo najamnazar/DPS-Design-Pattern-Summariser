@@ -1,0 +1,2 @@
+MessageHistoryDumpRoutingTest acts as a publisher for observer Service, which tests Reduce Stacks Needed, which creates Route Builder.
+MessageHistoryDumpRoutingTest acts as a publisher for observer CamelContext, which tests Reduce Stacks Needed, which creates Route Builder.

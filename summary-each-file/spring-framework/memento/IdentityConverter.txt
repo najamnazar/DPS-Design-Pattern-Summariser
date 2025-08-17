@@ -1,0 +1,1 @@
+IdentityConverter acts as a caretaker for memento C, which froms T parameter of t, which tos T parameter of t, which froms Type, which tos Type, which tos String.

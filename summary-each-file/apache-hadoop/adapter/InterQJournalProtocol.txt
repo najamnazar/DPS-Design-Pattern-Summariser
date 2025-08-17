@@ -1,0 +1,2 @@
+InterQJournalProtocol acts as an adaptee for adapter JournalNodeRpcServer, which adapts to QJournalProtocol, which adapts to QJournalProtocol.
+InterQJournalProtocol acts as an adaptee for adapter InterQJournalProtocolTranslatorPB, which adapts to ProtocolMetaInterface, which adapts to ProtocolMetaInterface.

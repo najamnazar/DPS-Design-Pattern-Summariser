@@ -1,0 +1,5 @@
+JsltQueryTest acts as a publisher for observer ProducerTemplate, which tests Simple Query, which creates Route Builder.
+JsltQueryTest acts as a publisher for observer ConsumerTemplate, which tests Simple Query, which creates Route Builder.
+JsltQueryTest acts as a publisher for observer CamelContext, which tests Simple Query, which creates Route Builder.
+JsltQueryTest acts as a publisher for observer FluentProducerTemplate, which tests Simple Query, which creates Route Builder.
+JsltQueryTest acts as a publisher for observer Service, which tests Simple Query, which creates Route Builder.

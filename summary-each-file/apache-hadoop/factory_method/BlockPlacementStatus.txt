@@ -1,0 +1,1 @@
+BlockPlacementStatus acts as an abstract product for BlockPlacementPolicyDefault, which is inherited by BlockPlacementStatusDefault, BlockPlacementStatusWithUpgradeDomain, BlockPlacementStatusWithNodeGroup.

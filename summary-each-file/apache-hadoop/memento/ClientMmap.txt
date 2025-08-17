@@ -1,0 +1,1 @@
+ClientMmap acts as a caretaker for memento Replica, which closes, which gets Mapped Byte Buffer.

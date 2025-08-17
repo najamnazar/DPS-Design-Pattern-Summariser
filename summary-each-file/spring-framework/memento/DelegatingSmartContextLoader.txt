@@ -1,0 +1,1 @@
+DelegatingSmartContextLoader acts as a caretaker for memento C, which gets Xml Loader, which gets Annotation Config Loader.

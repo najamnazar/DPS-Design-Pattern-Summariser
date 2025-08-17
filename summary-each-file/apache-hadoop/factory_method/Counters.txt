@@ -1,0 +1,4 @@
+Counters acts as a factory method for CounterGroup, which is inherited by Counters.
+Counters acts as a factory for ByteArrayManager, which overrides.
+Counters acts as an abstract product for PartialJob, which is inherited by CountersPBImpl.
+Counters acts as a factory for Counters, which overrides.

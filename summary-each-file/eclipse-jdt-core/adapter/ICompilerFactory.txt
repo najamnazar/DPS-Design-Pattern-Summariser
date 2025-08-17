@@ -1,0 +1,1 @@
+ICompilerFactory acts as a target for adapter MockCompilerFactory, which adapts to ICompilerFactory.

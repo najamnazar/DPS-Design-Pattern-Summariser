@@ -1,0 +1,2 @@
+DefaultPackageScanResourceResolver acts as a product for ExtendedCamelContext, which overrides findResources method of PackageScanResourceResolver.
+DefaultPackageScanResourceResolver acts as a factory for CamelContextAware, which overrides.

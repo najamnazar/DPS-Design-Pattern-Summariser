@@ -1,0 +1,1 @@
+ValidateVolumeCapabilitiesResponse acts as an abstract product for ValidateVolumeCapabilitiesResponse, which is inherited by ValidateVolumeCapabilitiesResponsePBImpl.

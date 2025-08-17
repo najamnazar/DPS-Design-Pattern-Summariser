@@ -1,0 +1,3 @@
+GoraEndpoint acts as a caretaker for memento Component, which creates Producer, which creates final parameter of Processor Consumer, which gets Configuration.
+GoraEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates final parameter of Processor Consumer, which gets Configuration.
+GoraEndpoint acts as a caretaker for memento Context, which creates Producer, which creates final parameter of Processor Consumer, which gets Configuration.

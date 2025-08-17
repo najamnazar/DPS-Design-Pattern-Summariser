@@ -1,0 +1,1 @@
+SimpleBeanFactoryAwareAspectInstanceFactory acts as a product for AbstractAspectJAdvice, which overrides getAspectInstance method of AspectInstanceFactory, getAspectClassLoader method of AspectInstanceFactory.

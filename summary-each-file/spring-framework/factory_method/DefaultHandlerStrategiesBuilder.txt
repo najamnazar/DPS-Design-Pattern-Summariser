@@ -1,0 +1,1 @@
+DefaultHandlerStrategiesBuilder acts as a factory method for LocaleContextResolver, which is inherited by WebFluxConfigurationSupport.

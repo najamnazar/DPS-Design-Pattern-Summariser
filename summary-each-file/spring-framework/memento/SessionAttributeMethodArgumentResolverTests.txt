@@ -1,0 +1,1 @@
+SessionAttributeMethodArgumentResolverTests acts as a caretaker for memento A, which creates Resolver, which gets Handle Method Name, which gets Scope.

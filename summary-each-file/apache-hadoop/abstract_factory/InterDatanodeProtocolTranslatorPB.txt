@@ -1,0 +1,1 @@
+InterDatanodeProtocolTranslatorPB acts as a factory for InterDatanodeProtocol, which overrides initReplicaRecovery method of InterDatanodeProtocol, updateReplicaUnderRecovery method of InterDatanodeProtocol.

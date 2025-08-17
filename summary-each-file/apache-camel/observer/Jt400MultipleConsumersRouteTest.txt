@@ -1,0 +1,5 @@
+Jt400MultipleConsumersRouteTest acts as a publisher for observer ProducerTemplate, which tests Basic Test, which creates Route Builder.
+Jt400MultipleConsumersRouteTest acts as a publisher for observer Service, which tests Basic Test, which creates Route Builder.
+Jt400MultipleConsumersRouteTest acts as a publisher for observer CamelContext, which tests Basic Test, which creates Route Builder.
+Jt400MultipleConsumersRouteTest acts as a publisher for observer ConsumerTemplate, which tests Basic Test, which creates Route Builder.
+Jt400MultipleConsumersRouteTest acts as a publisher for observer FluentProducerTemplate, which tests Basic Test, which creates Route Builder.

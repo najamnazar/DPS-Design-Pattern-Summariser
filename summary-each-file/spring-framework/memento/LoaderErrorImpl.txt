@@ -1,0 +1,1 @@
+LoaderErrorImpl acts as a caretaker for memento A, which stringses Object[] parameter of row, which exceptions, which rows Index, which rows, which queries.

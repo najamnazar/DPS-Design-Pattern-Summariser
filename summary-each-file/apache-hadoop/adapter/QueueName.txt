@@ -1,0 +1,1 @@
+QueueName acts as an adaptee for adapter LoggedJob, which adapts to DeepCompare, which adapts to DeepCompare.

@@ -1,0 +1,4 @@
+RowCondition acts as a caretaker for memento Clause, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+RowCondition acts as a caretaker for memento Comparator, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+RowCondition acts as a caretaker for memento SQL, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.
+RowCondition acts as a caretaker for memento Row, which accepts Context<?> parameter of ctx, which clauseses Context<?> parameter of ctx.

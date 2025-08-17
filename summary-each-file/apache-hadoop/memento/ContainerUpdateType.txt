@@ -1,0 +1,1 @@
+ContainerUpdateType acts as a memento.

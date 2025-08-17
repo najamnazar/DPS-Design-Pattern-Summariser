@@ -1,0 +1,1 @@
+RejectedSchedulingRequestPBImpl acts as an originator for memento RejectionReason, which gets a RejectionReason Reason to, which sets RejectionReason parameter of reason Reason.

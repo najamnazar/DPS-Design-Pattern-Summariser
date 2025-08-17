@@ -1,0 +1,1 @@
+CommentImpl acts as a product for Named, which overrides getComment method of Comment, $comment method of Comment.

@@ -1,0 +1,2 @@
+InList acts as a caretaker for memento C, which clauseses Context<?> parameter of ctx, which rows Condition, which $constructors.
+InList acts as a caretaker for memento Clause, which clauseses Context<?> parameter of ctx, which rows Condition, which $constructors.

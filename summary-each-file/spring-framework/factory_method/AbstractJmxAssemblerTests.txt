@@ -1,0 +1,1 @@
+AbstractJmxAssemblerTests acts as a factory for AbstractMetadataAssemblerTests, which overrides.

@@ -1,0 +1,3 @@
+TestableCacheResolver acts as a product for JCacheOperation, which overrides.
+TestableCacheResolver acts as a product for JCacheConfigurer, which overrides.
+TestableCacheResolver acts as a product for CachingConfigurer, which overrides.

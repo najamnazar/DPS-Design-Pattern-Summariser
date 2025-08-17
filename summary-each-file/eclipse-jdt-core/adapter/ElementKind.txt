@@ -1,0 +1,2 @@
+ElementKind acts as an adaptee for adapter TypeElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl, which adapts to ElementImpl.
+ElementKind acts as an adaptee for adapter DeclaredTypeImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl, which adapts to TypeMirrorImpl.

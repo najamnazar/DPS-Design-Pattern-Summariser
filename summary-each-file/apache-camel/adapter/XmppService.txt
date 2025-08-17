@@ -1,0 +1,1 @@
+XmppService acts as an adaptee for adapter XmppBaseIT, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

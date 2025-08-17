@@ -1,0 +1,2 @@
+BeanNoCacheTest acts as a publisher for observer Service, which tests Bean Ref No Cache, which creates Route Builder, which gets Count, which does String parameter of s Something.
+BeanNoCacheTest acts as a publisher for observer CamelContext, which tests Bean Ref No Cache, which creates Route Builder, which gets Count, which does String parameter of s Something.

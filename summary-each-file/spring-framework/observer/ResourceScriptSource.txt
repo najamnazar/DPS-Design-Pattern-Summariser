@@ -1,0 +1,1 @@
+ResourceScriptSource acts as an observer, which gets Resource, which sets @Nullable parameter of String Encoding, which gets Script As String, which is Modified, which retrieves Last Modified Time, which suggests Class Name, which tos String.

@@ -1,0 +1,1 @@
+NodeIdPBImpl acts as an observer, which gets Proto, which gets Host, which sets String parameter of host Host, which gets Port, which sets int parameter of port Port, which builds.

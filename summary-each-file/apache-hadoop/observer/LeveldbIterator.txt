@@ -1,0 +1,2 @@
+LeveldbIterator acts as an observer, which seeks byte[] parameter of key, which seeks To First, which seeks To Last, which has Next, which nexts, which peeks Next, which has Prev, which prevs, which peeks Prev, which removes, which closes.
+LeveldbIterator acts as an observer for publisher NMLeveldbStateStoreService, which is inherited by, which seeks byte[] parameter of key, which seeks To First, which seeks To Last, which has Next, which nexts, which peeks Next, which has Prev, which prevs, which peeks Prev, which removes, which closes.

@@ -1,0 +1,1 @@
+CapacitySchedulerConfiguration acts as a factory method for AutoCreatedQueueManagementPolicy, which is inherited by AbstractManagedParentQueue, AbstractManagedParentQueue.

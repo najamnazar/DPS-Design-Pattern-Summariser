@@ -1,0 +1,1 @@
+IImportDeclaration acts as an observer, which gets Element Name, which gets Flags, which is On Demand.

@@ -1,0 +1,1 @@
+UnitOfWorkProducer acts as a caretaker for memento Producer, which gets Endpoint, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which does Build, which does Init, which does Start, which does Stop, which is Singleton, which tos String.

@@ -1,0 +1,1 @@
+CompressorStream acts as a product for CompressionCodec, which overrides write method of CompressionOutputStream, finish method of CompressionOutputStream, resetState method of CompressionOutputStream, close method of CompressionOutputStream.

@@ -1,0 +1,2 @@
+LocalResourceStatus acts as an abstract product for LocalResourceStatus, which is inherited by LocalResourceStatusPBImpl, MockLocalResourceStatus.
+LocalResourceStatus acts as an abstract factory for SerializedException, URL, LocalResource, which is inherited by LocalResourceStatusPBImpl, MockLocalResourceStatus.

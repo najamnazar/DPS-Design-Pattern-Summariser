@@ -1,0 +1,1 @@
+VolumeStates acts as an adaptee for adapter VolumeManagerImpl, which adapts to AbstractService, which adapts to AbstractService.

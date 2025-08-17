@@ -1,0 +1,1 @@
+MinioListObjectsOperationIT acts as a caretaker for memento Producer, which sends In, which deletes Objects Test, which creates Route Builder.

@@ -1,0 +1,1 @@
+ClientManager acts as an observer, which gets Or Create Transfer Manager, which gets Or Create S3Client, which gets Or Create S3Client Unchecked, which gets Or Create Async Client, which gets Or Create Unencrypted S3Client, which gets Or Create Async S3Client Unchecked.

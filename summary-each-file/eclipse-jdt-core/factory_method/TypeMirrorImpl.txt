@@ -1,0 +1,1 @@
+TypeMirrorImpl acts as a product for TypesUtil, which overrides toString method of TypeMirror, equals method of TypeMirror.

@@ -1,0 +1,1 @@
+EmbeddedDatabaseFactoryBeanTests acts as a caretaker for memento C, which resources String parameter of path, which tests Factory Bean Lifecycle.

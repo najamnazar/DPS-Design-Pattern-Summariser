@@ -1,0 +1,2 @@
+Etcd3Consumer acts as a caretaker for memento Configuration, which does Start, which does Stop, which does Watch, which ons WatchResponse parameter of response Next, which ons Throwable parameter of throwable Error, which ons Completed.
+Etcd3Consumer acts as a caretaker for memento HealthCheck, which does Start, which does Stop, which does Watch, which ons WatchResponse parameter of response Next, which ons Throwable parameter of throwable Error, which ons Completed.

@@ -1,0 +1,2 @@
+UriFactoryResolver acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultUriFactoryResolver, which resolves String parameter of name, CamelContext parameter of context Factory.
+UriFactoryResolver acts as a publisher for observer CamelContext, which is inherited by DefaultUriFactoryResolver, which resolves String parameter of name, CamelContext parameter of context Factory.

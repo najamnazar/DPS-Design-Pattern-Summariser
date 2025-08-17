@@ -1,0 +1,1 @@
+ConstraintExceptionFormula acts as an adapter, which adapts to ConstraintFormula, which adapts to ConstraintFormula, which adapts to ConstraintFormula.

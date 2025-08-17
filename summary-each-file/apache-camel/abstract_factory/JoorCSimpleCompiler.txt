@@ -1,0 +1,1 @@
+JoorCSimpleCompiler acts as a factory for CSimpleCompiler, which overrides addImport method of CSimpleCompiler, addAliases method of CSimpleCompiler, compileExpression method of CSimpleCompiler, compilePredicate method of CSimpleCompiler.

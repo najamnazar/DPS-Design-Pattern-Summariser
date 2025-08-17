@@ -1,0 +1,1 @@
+TaskAttemptInfo acts as an adaptee for adapter CompletedTaskAttempt, which adapts to TaskAttempt, which adapts to TaskAttempt, which adapts to TaskAttempt, which adapts to TaskAttempt.

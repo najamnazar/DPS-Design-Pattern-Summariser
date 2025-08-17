@@ -1,0 +1,1 @@
+AccessRuleSet acts as an adaptee for adapter PatternSearchJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob, which adapts to IJob.

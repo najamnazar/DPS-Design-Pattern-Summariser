@@ -1,0 +1,1 @@
+FtpsOperations acts as a caretaker for memento Configuration, which connects RemoteFileConfiguration parameter of configuration, Exchange parameter of exchange, which gets Ftp Client.

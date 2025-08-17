@@ -1,0 +1,2 @@
+IOpenable acts as an abstract product for SourceRefElement, which is inherited by Openable.
+IOpenable acts as a factory for BufferFactoryWrapper, which overrides.

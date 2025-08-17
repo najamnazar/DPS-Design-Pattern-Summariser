@@ -1,0 +1,1 @@
+MyService acts as an adaptee for adapter RouteSuspendResumeWarmUpTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

@@ -1,0 +1,1 @@
+Key acts as an observer for publisher DefaultRelations, which is inherited by, which gets Table, which gets Fields, which gets Fields Array, which constraints, which enforces, which nullables.

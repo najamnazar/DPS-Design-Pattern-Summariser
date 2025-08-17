@@ -1,0 +1,2 @@
+BeanInvocationThrowsExceptionTest acts as a publisher for observer Service, which tests Bean Invocation, which tests Bean Invocation Failure, which creates Route Builder, which does String parameter of request Something.
+BeanInvocationThrowsExceptionTest acts as a publisher for observer CamelContext, which tests Bean Invocation, which tests Bean Invocation Failure, which creates Route Builder, which does String parameter of request Something.

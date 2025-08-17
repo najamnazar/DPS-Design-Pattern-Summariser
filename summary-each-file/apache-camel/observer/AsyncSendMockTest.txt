@@ -1,0 +1,5 @@
+AsyncSendMockTest acts as a publisher for observer ProducerTemplate, which is Mock Endpoints, which testmakes Async Api Call.
+AsyncSendMockTest acts as a publisher for observer ConsumerTemplate, which is Mock Endpoints, which testmakes Async Api Call.
+AsyncSendMockTest acts as a publisher for observer Service, which is Mock Endpoints, which testmakes Async Api Call.
+AsyncSendMockTest acts as a publisher for observer CamelContext, which is Mock Endpoints, which testmakes Async Api Call.
+AsyncSendMockTest acts as a publisher for observer FluentProducerTemplate, which is Mock Endpoints, which testmakes Async Api Call.

@@ -1,0 +1,1 @@
+LocaleContext acts as a memento, which is inherited by SimpleLocaleContext, TimeZoneAwareLocaleContext, which gets Locale.

@@ -1,0 +1,1 @@
+WriteStrategy acts as an abstract product for LineTerminationWriterAbstractFactory, which is inherited by DefaultWriteStrategy.

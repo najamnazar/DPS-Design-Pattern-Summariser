@@ -1,0 +1,1 @@
+CleanerService acts as a caretaker for memento CleanerMetrics, which services Configuration parameter of conf Init, which services Start, which services Stop, which runs Cleaner Task, which writes Global Cleaner Pid File, which removes Global Cleaner Pid File, which gets Configuration parameter of conf Initial Delay, which gets Configuration parameter of conf Period.

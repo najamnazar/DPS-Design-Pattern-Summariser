@@ -1,0 +1,2 @@
+MockEndpointWithParametersTest acts as a publisher for observer CamelContext, which tests Mock Endpoint With Parameter, which creates Camel Context, which creates Route Builder.
+MockEndpointWithParametersTest acts as a publisher for observer Service, which tests Mock Endpoint With Parameter, which creates Camel Context, which creates Route Builder.

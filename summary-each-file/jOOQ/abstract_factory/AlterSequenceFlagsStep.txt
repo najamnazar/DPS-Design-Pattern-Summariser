@@ -1,0 +1,1 @@
+AlterSequenceFlagsStep acts as a product for AlterSequenceStep, which overrides.

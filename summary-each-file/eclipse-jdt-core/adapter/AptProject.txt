@@ -1,0 +1,1 @@
+AptProject acts as an adaptee for adapter IdeProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl, which adapts to BaseProcessingEnvImpl.

@@ -1,0 +1,1 @@
+AlterTableAlterStep acts as an abstract factory for AlterTableFinalStep, which is inherited by AlterTableImpl.

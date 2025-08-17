@@ -1,0 +1,1 @@
+LocalResourcesTrackerImpl acts as a factory for LocalResourcesTracker, which overrides getUser method of LocalResourcesTracker, getPathForLocalization method of LocalResourcesTracker, getLocalizedResource method of LocalResourcesTracker.

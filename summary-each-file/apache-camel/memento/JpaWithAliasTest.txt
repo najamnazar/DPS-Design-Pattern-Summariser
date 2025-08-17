@@ -1,0 +1,3 @@
+JpaWithAliasTest acts as a caretaker for memento Context, which gets Endpoint Uri, which sets Up Component.
+JpaWithAliasTest acts as a caretaker for memento Producer, which gets Endpoint Uri, which sets Up Component.
+JpaWithAliasTest acts as a caretaker for memento Component, which gets Endpoint Uri, which sets Up Component.

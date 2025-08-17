@@ -1,0 +1,5 @@
+Record7 acts as a product for Record, which overrides.
+Record7 acts as a product for UpdatableRecord, which overrides.
+Record7 acts as a product for DSLContext, which overrides.
+Record7 acts as a product for RecordContext, which overrides.
+Record7 acts as a product for ExecuteContext, which overrides.

@@ -1,0 +1,1 @@
+QueueCapacityVectorInfo acts as an observer for publisher PartitionQueueCapacitiesInfo, which is inherited by, which gets Configured Capacity Vector, which sets String parameter of configuredCapacityVector Configured Capacity Vector, which gets Capacity Vector Entries, which sets List<QueueCapacityVectorEntryInfo> parameter of capacityVectorEntries Capacity Vector Entries.

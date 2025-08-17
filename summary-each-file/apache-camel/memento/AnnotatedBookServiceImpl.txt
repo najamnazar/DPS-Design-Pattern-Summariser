@@ -1,0 +1,1 @@
+AnnotatedBookServiceImpl acts as a caretaker for memento Producer, which orders String parameter of title Book.

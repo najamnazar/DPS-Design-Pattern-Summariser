@@ -1,0 +1,1 @@
+LocalJobRunner acts as a product for RouterWebHdfsMethods, which overrides cancelDelegationToken method of ClientProtocol, getDelegationToken method of ClientProtocol, renewDelegationToken method of ClientProtocol.

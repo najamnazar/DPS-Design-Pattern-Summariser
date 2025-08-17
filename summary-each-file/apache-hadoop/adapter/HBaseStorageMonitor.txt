@@ -1,0 +1,1 @@
+HBaseStorageMonitor acts as an adapter, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor, which adapts to TimelineStorageMonitor.

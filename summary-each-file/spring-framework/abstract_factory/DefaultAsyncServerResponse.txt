@@ -1,0 +1,2 @@
+DefaultAsyncServerResponse acts as a product for AsyncServerResponse, which overrides block method of AsyncServerResponse.
+DefaultAsyncServerResponse acts as a factory for AsyncServerResponse, which overrides block method of AsyncServerResponse.

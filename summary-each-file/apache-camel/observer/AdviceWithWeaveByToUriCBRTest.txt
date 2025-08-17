@@ -1,0 +1,2 @@
+AdviceWithWeaveByToUriCBRTest acts as a publisher for observer Service, which tests Advice CBR, which creates Route Builder.
+AdviceWithWeaveByToUriCBRTest acts as a publisher for observer CamelContext, which tests Advice CBR, which creates Route Builder.

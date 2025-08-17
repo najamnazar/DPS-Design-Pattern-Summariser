@@ -1,0 +1,1 @@
+StAXJAXBIteratorExpression acts as a caretaker for memento Context, which jaxbs Class<?> parameter of handled Context, which evaluates Exchange parameter of exchange, which creates XMLEventReader parameter of reader, Class<T> parameter of clazz, InputStream parameter of inputStream Iterator, which has Next, which nexts, which removes, which gets Next Element, which closes.

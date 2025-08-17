@@ -1,0 +1,1 @@
+ServiceStopFailureEvent acts as a caretaker for memento Context, which gets Context, which gets Service, which gets Cause, which gets Timestamp, which sets long parameter of timestamp Timestamp, which tos String.

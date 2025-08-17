@@ -1,0 +1,1 @@
+DefaultErrorHandler acts as a caretaker for memento Context, which clones Processor parameter of output, which tos String.

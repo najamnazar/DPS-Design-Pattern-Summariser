@@ -1,0 +1,1 @@
+StringWriter acts as a product for FileObject, which overrides.

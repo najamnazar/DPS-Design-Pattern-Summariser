@@ -1,0 +1,1 @@
+JooqXMLTest acts as a caretaker for memento Context, which tests Insert, which tests Execute, which tests Fetch, which tests SQLSelect, which tests SQLDelete.

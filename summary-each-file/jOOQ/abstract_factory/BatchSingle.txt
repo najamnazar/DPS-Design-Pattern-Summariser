@@ -1,0 +1,3 @@
+BatchSingle acts as a product for BatchBindStep, which overrides.
+BatchSingle acts as a factory for BatchBindStep, which overrides.
+BatchSingle acts as a product for DSLContext, which overrides.

@@ -1,0 +1,1 @@
+ContainerManager acts as an adaptee for adapter ContainerManagerImpl, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService, which adapts to CompositeService.

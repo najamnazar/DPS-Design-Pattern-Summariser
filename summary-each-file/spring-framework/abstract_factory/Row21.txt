@@ -1,0 +1,5 @@
+Row21 acts as a product for ResultQueryTrait, which overrides.
+Row21 acts as a product for Fields, which overrides.
+Row21 acts as an abstract factory for Condition, which is inherited by.
+Row21 acts as a product for Record, which overrides.
+Row21 acts as a product for DataType, which overrides.

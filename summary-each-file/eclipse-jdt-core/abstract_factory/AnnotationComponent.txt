@@ -1,0 +1,1 @@
+AnnotationComponent acts as a factory for IAnnotationComponent, which overrides getComponentNameIndex method of IAnnotationComponent, getComponentName method of IAnnotationComponent, getComponentValue method of IAnnotationComponent.

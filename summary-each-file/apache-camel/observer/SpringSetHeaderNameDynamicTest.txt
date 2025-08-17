@@ -1,0 +1,2 @@
+SpringSetHeaderNameDynamicTest acts as a publisher for observer CamelContext, which tests Set Header Name With Expression, which creates Camel Context.
+SpringSetHeaderNameDynamicTest acts as a publisher for observer Service, which tests Set Header Name With Expression, which creates Camel Context.

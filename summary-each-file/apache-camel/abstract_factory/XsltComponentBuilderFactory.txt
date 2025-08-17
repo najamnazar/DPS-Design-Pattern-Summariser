@@ -1,0 +1,1 @@
+XsltComponentBuilderFactory acts as an abstract factory for XsltComponent, which is inherited by.

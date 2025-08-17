@@ -1,0 +1,1 @@
+RpcReply acts as a publisher for observer Type, which gets Value, which froms int parameter of value Value, which gets Verifier, which reads XDR parameter of xdr, which gets State.

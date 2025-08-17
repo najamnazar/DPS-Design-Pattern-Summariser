@@ -1,0 +1,4 @@
+ClassComponent acts as a publisher for observer BeanInfo, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which does Init.
+ClassComponent acts as a publisher for observer BeanScope, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which does Init.
+ClassComponent acts as a publisher for observer BeanInfoCacheKey, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which does Init.
+ClassComponent acts as an observer, which creates String parameter of uri, String parameter of remaining, Map<String, parameter of Object> Endpoint, which does Init.

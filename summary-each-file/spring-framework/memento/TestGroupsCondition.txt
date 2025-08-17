@@ -1,0 +1,1 @@
+TestGroupsCondition acts as a caretaker for memento C, which evaluates ExtensionContext parameter of context Execution Condition.

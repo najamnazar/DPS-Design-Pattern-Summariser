@@ -1,0 +1,2 @@
+CombinedServiceFilterTest acts as a publisher for observer Service, which tests Multi Service Filter Configuration, which tests Multi Service Filter, which tests Content Based Service Filter Combined With Service Filter.
+CombinedServiceFilterTest acts as a publisher for observer CamelContext, which tests Multi Service Filter Configuration, which tests Multi Service Filter, which tests Content Based Service Filter Combined With Service Filter.

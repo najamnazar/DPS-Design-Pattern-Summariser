@@ -1,0 +1,1 @@
+DefaultServiceHealth acts as an observer, which is Healthy, which gets Metadata.

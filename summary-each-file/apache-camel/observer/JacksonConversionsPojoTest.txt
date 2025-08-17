@@ -1,0 +1,5 @@
+JacksonConversionsPojoTest acts as a publisher for observer ProducerTemplate, which shoulds Convert Pojo To String, which shoulds Convert JAXBPojo To String, which creates Route Builder.
+JacksonConversionsPojoTest acts as a publisher for observer Service, which shoulds Convert Pojo To String, which shoulds Convert JAXBPojo To String, which creates Route Builder.
+JacksonConversionsPojoTest acts as a publisher for observer CamelContext, which shoulds Convert Pojo To String, which shoulds Convert JAXBPojo To String, which creates Route Builder.
+JacksonConversionsPojoTest acts as a publisher for observer ConsumerTemplate, which shoulds Convert Pojo To String, which shoulds Convert JAXBPojo To String, which creates Route Builder.
+JacksonConversionsPojoTest acts as a publisher for observer FluentProducerTemplate, which shoulds Convert Pojo To String, which shoulds Convert JAXBPojo To String, which creates Route Builder.

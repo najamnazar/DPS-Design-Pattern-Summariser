@@ -1,0 +1,4 @@
+JCachePolicy acts as a product for ComponentCustomizer, which overrides wrap method of Policy.
+JCachePolicy acts as a factory for Policy, which overrides wrap method of Policy.
+JCachePolicy acts as a product for LanguageCustomizer, which overrides wrap method of Policy.
+JCachePolicy acts as a product for DataFormatCustomizer, which overrides wrap method of Policy.

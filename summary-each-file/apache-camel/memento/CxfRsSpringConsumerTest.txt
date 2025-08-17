@@ -1,0 +1,1 @@
+CxfRsSpringConsumerTest acts as a caretaker for memento Context, which creates Route Builder, which creates Application Context, which tests Mapping Exception, which tests Mapping Exception2, which tests Invoke Cxf Rs Consumer, which does String parameter of address Test Mapping Exception.

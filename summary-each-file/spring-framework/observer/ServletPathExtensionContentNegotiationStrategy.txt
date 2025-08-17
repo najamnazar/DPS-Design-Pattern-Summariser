@@ -1,0 +1,1 @@
+ServletPathExtensionContentNegotiationStrategy acts as a publisher for observer UrlPathHelper, which handles NativeWebRequest parameter of webRequest, String parameter of extension No Match, which gets Resource parameter of resource Media Type For Resource.

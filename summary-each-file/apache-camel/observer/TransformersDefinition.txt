@@ -1,0 +1,1 @@
+TransformersDefinition acts as an observer for publisher CamelContextFactoryBean, which is inherited by, which sets List<TransformerDefinition> parameter of transformers Transformers, which gets Transformers.

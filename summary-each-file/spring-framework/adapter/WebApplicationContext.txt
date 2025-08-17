@@ -1,0 +1,3 @@
+WebApplicationContext acts as an adaptee for adapter DispatcherWacRootWacEarTests, which adapts to RootWacEarTests.
+WebApplicationContext acts as an adaptee for adapter RootWacEarTests, which adapts to EarTests.
+WebApplicationContext acts as an adaptee for adapter DelegatingFilterProxy, which adapts to GenericFilterBean.

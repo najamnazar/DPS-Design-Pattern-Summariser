@@ -1,0 +1,1 @@
+HHErasureCodingStep acts as a product for HHXORErasureEncoder, which overrides getInputBlocks method of ErasureCodingStep, getOutputBlocks method of ErasureCodingStep, finish method of ErasureCodingStep.

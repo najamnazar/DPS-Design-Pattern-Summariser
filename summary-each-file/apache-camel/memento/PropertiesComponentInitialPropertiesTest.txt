@@ -1,0 +1,2 @@
+PropertiesComponentInitialPropertiesTest acts as a caretaker for memento Context, which is Use Route Builder, which tests Properties Component Endpoint, which creates Camel Context.
+PropertiesComponentInitialPropertiesTest acts as a caretaker for memento Producer, which is Use Route Builder, which tests Properties Component Endpoint, which creates Camel Context.

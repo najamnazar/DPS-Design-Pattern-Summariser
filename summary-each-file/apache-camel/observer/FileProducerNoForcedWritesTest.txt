@@ -1,0 +1,2 @@
+FileProducerNoForcedWritesTest acts as a publisher for observer CamelContext, which tests No Forced Writes, which creates Route Builder.
+FileProducerNoForcedWritesTest acts as a publisher for observer Service, which tests No Forced Writes, which creates Route Builder.

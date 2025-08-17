@@ -1,0 +1,1 @@
+ManagedEndpointRegistry acts as a publisher for observer Route, which inits ManagementStrategy parameter of strategy, which gets Endpoint Registry, which gets Source, which gets Dynamic Size, which gets Static Size, which gets Size, which gets Maximum Cache Size, which purges, which lists Endpoints.

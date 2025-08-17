@@ -1,0 +1,1 @@
+ResponseBodyResultHandler acts as a caretaker for memento Message, which supports HandlerResult parameter of result, which handles ServerWebExchange parameter of exchange, HandlerResult parameter of result Result.

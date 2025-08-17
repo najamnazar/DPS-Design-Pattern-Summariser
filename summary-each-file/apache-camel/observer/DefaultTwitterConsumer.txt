@@ -1,0 +1,3 @@
+DefaultTwitterConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which gets Endpoint, which does Start, which does Stop, which polls, which ons Exchange parameter of exchange Event.
+DefaultTwitterConsumer acts as a publisher for observer PollingConsumerPollStrategy, which gets Endpoint, which does Start, which does Stop, which polls, which ons Exchange parameter of exchange Event.
+DefaultTwitterConsumer acts as a publisher for observer LoggingLevel, which gets Endpoint, which does Start, which does Stop, which polls, which ons Exchange parameter of exchange Event.

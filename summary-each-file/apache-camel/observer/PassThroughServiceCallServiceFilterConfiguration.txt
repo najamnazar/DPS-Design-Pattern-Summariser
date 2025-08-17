@@ -1,0 +1,1 @@
+PassThroughServiceCallServiceFilterConfiguration acts as an observer.

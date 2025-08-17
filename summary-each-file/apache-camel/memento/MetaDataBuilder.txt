@@ -1,0 +1,1 @@
+MetaDataBuilder acts as a caretaker for memento Context, which withes Object parameter of payload Payload, which withes String parameter of name, Object parameter of value Attribute, which builds, which ons CamelContext parameter of camelContext.

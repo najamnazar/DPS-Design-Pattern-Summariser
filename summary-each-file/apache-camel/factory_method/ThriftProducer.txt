@@ -1,0 +1,1 @@
+ThriftProducer acts as a product for EmptyProducerCache, which overrides.

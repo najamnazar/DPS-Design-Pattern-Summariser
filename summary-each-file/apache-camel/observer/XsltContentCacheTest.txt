@@ -1,0 +1,2 @@
+XsltContentCacheTest acts as a publisher for observer CamelContext, which is Use Route Builder, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Cached Is Default, which tests Clear Cached Stylesheet Via Jmx.
+XsltContentCacheTest acts as a publisher for observer Service, which is Use Route Builder, which sets Up, which uses Jmx, which tests Not Cached, which tests Cached, which tests Cached Is Default, which tests Clear Cached Stylesheet Via Jmx.

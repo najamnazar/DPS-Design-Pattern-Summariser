@@ -1,0 +1,1 @@
+TaskFinishedEvent acts as a caretaker for memento TaskType, which gets Datum, which sets Object parameter of oDatum Datum, which gets Task Id, which gets Successful Task Attempt Id, which gets Finish Time, which gets Start Time, which gets Counters, which gets Task Type, which gets Task Status, which gets Event Type, which tos Timeline Event, which gets Timeline Metrics.

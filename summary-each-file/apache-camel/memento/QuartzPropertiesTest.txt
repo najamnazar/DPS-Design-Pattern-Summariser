@@ -1,0 +1,1 @@
+QuartzPropertiesTest acts as a caretaker for memento Component, which is Use Route Builder, which tears Down, which tests Quartz Properties File, which tests Quartz Properties File Not Found, which tests Quartz Properties.

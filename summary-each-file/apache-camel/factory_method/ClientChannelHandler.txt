@@ -1,0 +1,1 @@
+ClientChannelHandler acts as a factory for JBPMProducer, which overrides.

@@ -1,0 +1,1 @@
+HeaderRowProcessor acts as an observer for publisher Unmarshaller, which is inherited by, which processes ParsingContext parameter of context Started, which rows String[] parameter of row, ParsingContext parameter of context Processed, which processes ParsingContext parameter of context Ended, which gets Headers.

@@ -1,0 +1,1 @@
+DefaultUserDestinationResolver acts as a factory for UserDestinationResolver, which overrides resolveDestination method of UserDestinationResolver.

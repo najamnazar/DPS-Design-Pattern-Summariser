@@ -1,0 +1,5 @@
+QueueOperationsTest acts as a publisher for observer FluentProducerTemplate, which setups, which tests Delete Message, which tests Update Message.
+QueueOperationsTest acts as a publisher for observer ProducerTemplate, which setups, which tests Delete Message, which tests Update Message.
+QueueOperationsTest acts as a publisher for observer Service, which setups, which tests Delete Message, which tests Update Message.
+QueueOperationsTest acts as a publisher for observer CamelContext, which setups, which tests Delete Message, which tests Update Message.
+QueueOperationsTest acts as a publisher for observer ConsumerTemplate, which setups, which tests Delete Message, which tests Update Message.

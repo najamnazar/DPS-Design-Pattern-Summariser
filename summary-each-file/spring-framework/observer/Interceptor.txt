@@ -1,0 +1,2 @@
+Interceptor acts as an observer for publisher LocalSessionFactoryBean, which is inherited by MethodInterceptor, ConstructorInterceptor.
+Interceptor acts as an observer.

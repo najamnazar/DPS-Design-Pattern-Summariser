@@ -1,0 +1,1 @@
+ManagedSetProperty acts as a publisher for observer Route, which gets Definition, which gets Property Name, which gets Expression Language, which gets Expression.

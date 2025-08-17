@@ -1,0 +1,1 @@
+ManagedProcess acts as a publisher for observer Route, which gets Definition, which gets Ref, which gets Processor Class Name.

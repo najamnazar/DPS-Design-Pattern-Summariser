@@ -1,0 +1,7 @@
+MyBarRoute acts as a publisher for observer RoutesDefinition, which configures.
+MyBarRoute acts as a publisher for observer Resource, which configures.
+MyBarRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MyBarRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+MyBarRoute acts as an observer, which configures.
+MyBarRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MyBarRoute acts as a publisher for observer RestsDefinition, which configures.

@@ -1,0 +1,1 @@
+CosmosDbProducerIT acts as a caretaker for memento Producer, which removes All Databases, which tests List Databases, which tests Create And Delete Database, which tests Create And Delete Container, which tests Replace Database Throughput, which tests Query Containers, which tests Create Upsert Replace And Delete Item, which tests Query Items, which creates Route Builder.

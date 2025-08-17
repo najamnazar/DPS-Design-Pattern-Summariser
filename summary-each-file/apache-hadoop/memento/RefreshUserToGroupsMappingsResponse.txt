@@ -1,0 +1,2 @@
+RefreshUserToGroupsMappingsResponse acts as a memento, which is inherited by RefreshUserToGroupsMappingsResponsePBImpl, which news Instance.
+RefreshUserToGroupsMappingsResponse acts as an originator for memento RefreshUserToGroupsMappingsResponse, which is inherited by, which news a RefreshUserToGroupsMappingsResponse Instance to.

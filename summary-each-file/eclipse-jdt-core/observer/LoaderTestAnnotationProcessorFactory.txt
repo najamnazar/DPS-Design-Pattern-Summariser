@@ -1,0 +1,1 @@
+LoaderTestAnnotationProcessorFactory acts as an observer, which supports Options, which supports Annotation Types, which gets Set<AnnotationTypeDeclaration> parameter of atds, AnnotationProcessorEnvironment parameter of env Processor For.

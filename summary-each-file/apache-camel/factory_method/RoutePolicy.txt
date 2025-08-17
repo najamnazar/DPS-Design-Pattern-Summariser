@@ -1,0 +1,1 @@
+RoutePolicy acts as an abstract product for MicrometerRoutePolicyFactory, which is inherited by RoutePolicySupport.

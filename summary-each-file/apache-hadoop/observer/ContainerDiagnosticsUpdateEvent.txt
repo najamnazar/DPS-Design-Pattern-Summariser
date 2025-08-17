@@ -1,0 +1,1 @@
+ContainerDiagnosticsUpdateEvent acts as an observer, which gets Diagnostics Update.

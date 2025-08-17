@@ -1,0 +1,1 @@
+SourcePackage acts as an adaptee for adapter SourceElementParserTest, which adapts to AbstractCompilerTest.

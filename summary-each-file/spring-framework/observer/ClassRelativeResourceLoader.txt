@@ -1,0 +1,1 @@
+ClassRelativeResourceLoader acts as a publisher for observer ProtocolResolver, which gets String parameter of path Resource By Path, which gets Path Within Context, which creates String parameter of relativePath Relative.

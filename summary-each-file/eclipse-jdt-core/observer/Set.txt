@@ -1,0 +1,1 @@
+Set acts as an observer for publisher RewriteEventStore, which is inherited by, which iterators.

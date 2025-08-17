@@ -1,0 +1,2 @@
+Jms2RequiresNewTest acts as a caretaker for memento Producer, which sets Up Route, which tests Send Throwing Exception, which tests Send.
+Jms2RequiresNewTest acts as a caretaker for memento Context, which sets Up Route, which tests Send Throwing Exception, which tests Send.

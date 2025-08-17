@@ -1,0 +1,1 @@
+ExplicitCamelContextNameStrategy acts as a memento, which is Fixed Name, which is Fixed Name, which is Fixed Name.

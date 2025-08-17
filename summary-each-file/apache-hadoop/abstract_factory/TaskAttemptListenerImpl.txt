@@ -1,0 +1,2 @@
+TaskAttemptListenerImpl acts as a factory for TaskUmbilicalProtocol, which overrides getTask method of TaskUmbilicalProtocol.
+TaskAttemptListenerImpl acts as a product for ShuffleConsumerPlugin, which overrides getTask method of TaskUmbilicalProtocol.

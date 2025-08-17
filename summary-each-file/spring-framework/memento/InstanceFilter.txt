@@ -1,0 +1,1 @@
+InstanceFilter acts as a caretaker for memento C, which matches T parameter of instance, which matches T parameter of instance, T parameter of candidate, which matches T parameter of instance, Collection<? parameter of extends, which tos String.

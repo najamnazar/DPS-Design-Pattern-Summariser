@@ -1,0 +1,1 @@
+Quantifier acts as a caretaker for memento Keyword, which tos SQL, which tos Keyword, which applies Select<R> parameter of select.

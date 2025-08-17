@@ -1,0 +1,1 @@
+SharedCacheResourceReference acts as an observer for publisher SharedCacheResource, which is inherited by, which gets App Id, which gets Short User Name, which hashes Code, which equals Object parameter of obj.

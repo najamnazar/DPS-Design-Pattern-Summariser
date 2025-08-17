@@ -1,0 +1,7 @@
+MyRoutesWithBeans acts as a publisher for observer RouteTemplatesDefinition, which configures, which mies Bean.
+MyRoutesWithBeans acts as an observer, which configures, which mies Bean.
+MyRoutesWithBeans acts as a publisher for observer RestsDefinition, which configures, which mies Bean.
+MyRoutesWithBeans acts as a publisher for observer TemplatedRoutesDefinition, which configures, which mies Bean.
+MyRoutesWithBeans acts as a publisher for observer RoutesDefinition, which configures, which mies Bean.
+MyRoutesWithBeans acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures, which mies Bean.
+MyRoutesWithBeans acts as a publisher for observer Resource, which configures, which mies Bean.

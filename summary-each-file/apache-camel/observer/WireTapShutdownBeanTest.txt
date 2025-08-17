@@ -1,0 +1,2 @@
+WireTapShutdownBeanTest acts as a publisher for observer CamelContext, which tests Wire Tap Shutdown, which creates Registry, which creates Route Builder, which taps String parameter of body Something, which gets Tapped.
+WireTapShutdownBeanTest acts as a publisher for observer Service, which tests Wire Tap Shutdown, which creates Registry, which creates Route Builder, which taps String parameter of body Something, which gets Tapped.

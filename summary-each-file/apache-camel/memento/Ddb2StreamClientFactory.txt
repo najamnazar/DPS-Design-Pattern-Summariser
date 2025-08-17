@@ -1,0 +1,1 @@
+Ddb2StreamClientFactory acts as an originator for memento Ddb2StreamInternalClient, which gets a Ddb2StreamInternalClient Dynamo DBStream Client to.

@@ -1,0 +1,3 @@
+IAnnotationBinding acts as a product for ITypeBinding, which overrides getName method of IBinding.
+IAnnotationBinding acts as an abstract factory for ITypeBinding, which is inherited by AnnotationBinding.
+IAnnotationBinding acts as a product for IMethodBinding, which overrides getName method of IBinding.

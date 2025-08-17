@@ -1,0 +1,1 @@
+ChangeClasspathOperation acts as a target for adapter SetClasspathOperation, which adapts to ChangeClasspathOperation, which adapts to ChangeClasspathOperation, which adapts to ChangeClasspathOperation, which adapts to ChangeClasspathOperation.

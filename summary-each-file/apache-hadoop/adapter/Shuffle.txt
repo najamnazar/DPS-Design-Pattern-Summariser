@@ -1,0 +1,1 @@
+Shuffle acts as an adapter, which adapts to ExceptionReporter, which adapts to ExceptionReporter, which adapts to ExceptionReporter, which adapts to ExceptionReporter, which adapts to ExceptionReporter.

@@ -1,0 +1,2 @@
+BaseUndertowTest acts as a caretaker for memento Context, which inits Port, which gets Port, which gets Port2, which creates Camel Context, which loads Properties, which gets Next Port, which gets int parameter of startWithPort Next Port.
+BaseUndertowTest acts as a caretaker for memento Producer, which inits Port, which gets Port, which gets Port2, which creates Camel Context, which loads Properties, which gets Next Port, which gets int parameter of startWithPort Next Port.

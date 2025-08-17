@@ -1,0 +1,2 @@
+CustomProblemReporterTests acts as a caretaker for memento B, which setups, which tests Errors Are Collated, which fatals Problem parameter of problem, which errors Problem parameter of problem, which gets Errors, which warns Problem parameter of problem.
+CustomProblemReporterTests acts as a caretaker for memento C, which setups, which tests Errors Are Collated, which fatals Problem parameter of problem, which errors Problem parameter of problem, which gets Errors, which warns Problem parameter of problem.

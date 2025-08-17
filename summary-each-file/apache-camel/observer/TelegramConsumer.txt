@@ -1,0 +1,3 @@
+TelegramConsumer acts as a publisher for observer LoggingLevel, which polls, which processes List<Update> parameter of updates Updates, which updates List<Update> parameter of updates Offset, which creates Update parameter of update Exchange.
+TelegramConsumer acts as a publisher for observer ScheduledPollConsumerScheduler, which polls, which processes List<Update> parameter of updates Updates, which updates List<Update> parameter of updates Offset, which creates Update parameter of update Exchange.
+TelegramConsumer acts as a publisher for observer PollingConsumerPollStrategy, which polls, which processes List<Update> parameter of updates Updates, which updates List<Update> parameter of updates Offset, which creates Update parameter of update Exchange.

@@ -1,0 +1,1 @@
+DefaultDataBufferFactory acts as a caretaker for memento B, which allocates Buffer, which allocates int parameter of initialCapacity Buffer, which wraps ByteBuffer parameter of byteBuffer, which wraps byte[] parameter of bytes, which joins List<? parameter of extends, which tos String.

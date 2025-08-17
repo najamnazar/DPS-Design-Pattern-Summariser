@@ -1,0 +1,1 @@
+FileDataSetProducerTest acts as an adapter, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts createFileDataset method of FileDataSet to ContextTestSupport, which adapts to ContextTestSupport.

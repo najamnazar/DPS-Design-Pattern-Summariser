@@ -1,0 +1,1 @@
+SimpleTransactionFactory acts as an observer, which creates @Nullable parameter of String, int parameter of timeout Transaction, which supports Resource Adapter Managed Transactions.

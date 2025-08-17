@@ -1,0 +1,2 @@
+TransactionAttributeSource acts as a factory for MapTransactionAttributeSource, which overrides.
+TransactionAttributeSource acts as an abstract product for TransactionAttributeSourceAdvisor, which is inherited by MatchAlwaysTransactionAttributeSource, CompositeTransactionAttributeSource, NameMatchTransactionAttributeSource, MethodMapTransactionAttributeSource, AbstractFallbackTransactionAttributeSource.

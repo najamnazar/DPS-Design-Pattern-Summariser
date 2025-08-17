@@ -1,0 +1,5 @@
+FacebookEndpointConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests Configuration Bean Uri Param, which creates Conf.
+FacebookEndpointConfigurationTest acts as a publisher for observer ProducerTemplate, which tests Configuration Bean Uri Param, which creates Conf.
+FacebookEndpointConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests Configuration Bean Uri Param, which creates Conf.
+FacebookEndpointConfigurationTest acts as a publisher for observer CamelContext, which tests Configuration Bean Uri Param, which creates Conf.
+FacebookEndpointConfigurationTest acts as a publisher for observer Service, which tests Configuration Bean Uri Param, which creates Conf.

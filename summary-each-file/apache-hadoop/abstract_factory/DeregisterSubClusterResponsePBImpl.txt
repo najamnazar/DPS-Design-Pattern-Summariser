@@ -1,0 +1,1 @@
+DeregisterSubClusterResponsePBImpl acts as a product for ResourceManagerAdministrationProtocol, which overrides setDeregisterSubClusters method of DeregisterSubClusterResponse, getDeregisterSubClusters method of DeregisterSubClusterResponse.

@@ -1,0 +1,2 @@
+NettyComponent acts as an abstract product for NettyComponent, which is inherited by NettyHttpComponent.
+NettyComponent acts as a factory for SSLContextParametersAware, which overrides isUseGlobalSslContextParameters method of SSLContextParametersAware, setUseGlobalSslContextParameters method of SSLContextParametersAware.

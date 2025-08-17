@@ -1,0 +1,4 @@
+XsltSaxonBuilder acts as a publisher for observer SourceHandlerFactory, which prepares Source parameter of source Source, which is Allow St AX, which sets boolean parameter of allowStAX Allow St AX, which creates Xml Source Handler Factory Impl.
+XsltSaxonBuilder acts as an observer, which prepares Source parameter of source Source, which is Allow St AX, which sets boolean parameter of allowStAX Allow St AX, which creates Xml Source Handler Factory Impl.
+XsltSaxonBuilder acts as a publisher for observer Transformer, which prepares Source parameter of source Source, which is Allow St AX, which sets boolean parameter of allowStAX Allow St AX, which creates Xml Source Handler Factory Impl.
+XsltSaxonBuilder acts as a publisher for observer ResultHandlerFactory, which prepares Source parameter of source Source, which is Allow St AX, which sets boolean parameter of allowStAX Allow St AX, which creates Xml Source Handler Factory Impl.

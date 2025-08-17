@@ -1,0 +1,1 @@
+MessageOrderingIT acts as an adapter, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport, which adapts to PubsubTestSupport.

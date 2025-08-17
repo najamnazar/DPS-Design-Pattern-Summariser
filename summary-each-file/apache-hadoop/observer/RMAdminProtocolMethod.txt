@@ -1,0 +1,1 @@
+RMAdminProtocolMethod acts as a publisher for observer FederationRMAdminInterceptor, which is inherited by, which invokes FederationRMAdminInterceptor parameter of interceptor, Class<R> parameter of clazz, String parameter of subClusterId Concurrent, which invokes Class<R> parameter of clazz Concurrent, which invokes Class<R> parameter of clazz, String parameter of subClusterId.

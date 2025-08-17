@@ -1,0 +1,1 @@
+HttpComponentConfigurer acts as a target for adapter ResteasyComponentConfigurer, which adapts to HttpComponentConfigurer, which adapts to HttpComponentConfigurer, which adapts to HttpComponentConfigurer.

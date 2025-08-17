@@ -1,0 +1,2 @@
+RMContainer acts as an abstract product for RMContainer, which is inherited by RMContainerImpl.
+RMContainer acts as an abstract factory for Container, ContainerId, ContainerReport, Priority, NodeId, Resource, ApplicationAttemptId, SchedulerRequestKey, which is inherited by RMContainerImpl.

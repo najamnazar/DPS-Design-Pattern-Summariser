@@ -1,0 +1,2 @@
+AbstractAbfsScaleTest acts as a publisher for observer AzureBlobFileSystem, which gets Test Timeout Millis, which setups, which gets Operation Count.
+AbstractAbfsScaleTest acts as a publisher for observer Configuration, which gets Test Timeout Millis, which setups, which gets Operation Count.

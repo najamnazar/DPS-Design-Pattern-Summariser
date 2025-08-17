@@ -1,0 +1,1 @@
+DefaultNamespaceHandlerResolver acts as a caretaker for memento C, which resolves String parameter of namespaceUri, which gets Handler Mappings, which tos String.

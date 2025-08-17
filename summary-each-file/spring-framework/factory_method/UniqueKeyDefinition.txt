@@ -1,0 +1,2 @@
+UniqueKeyDefinition acts as a factory for TableDefinition, which overrides.
+UniqueKeyDefinition acts as an abstract product for TableDefinition, which is inherited by DefaultUniqueKeyDefinition.

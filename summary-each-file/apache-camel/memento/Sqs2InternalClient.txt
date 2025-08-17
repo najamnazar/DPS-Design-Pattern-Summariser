@@ -1,0 +1,1 @@
+Sqs2InternalClient acts as a memento, which is inherited by Sqs2ClientStandardImpl, Sqs2ClientIAMOptimized, which gets SQSClient.

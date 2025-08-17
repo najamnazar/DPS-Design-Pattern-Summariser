@@ -1,0 +1,3 @@
+MockEndpoint acts as a factory for FaultToleranceProcessorFactory, which overrides.
+MockEndpoint acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+MockEndpoint acts as a factory for TransformerRouteTest, which overrides.

@@ -1,0 +1,1 @@
+PackageElement acts as an observer, which ases Type, which gets Qualified Name, which gets Simple Name, which gets Enclosed Elements, which is Unnamed, which gets Enclosing Element.

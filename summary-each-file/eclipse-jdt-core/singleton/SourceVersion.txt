@@ -1,0 +1,1 @@
+SourceVersion acts as a singleton, which latests SourceVersion, which latests a SourceVersion Supported to.

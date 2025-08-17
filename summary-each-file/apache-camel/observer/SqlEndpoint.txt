@@ -1,0 +1,3 @@
+SqlEndpoint acts as a publisher for observer SqlOutputType, which creates Processor parameter of processor Consumer, which creates Producer, which creates Endpoint Uri, which gets Query, which sets String parameter of query Query.
+SqlEndpoint acts as a publisher for observer SqlProcessingStrategy, which creates Processor parameter of processor Consumer, which creates Producer, which creates Endpoint Uri, which gets Query, which sets String parameter of query Query.
+SqlEndpoint acts as a publisher for observer SqlPrepareStatementStrategy, which creates Processor parameter of processor Consumer, which creates Producer, which creates Endpoint Uri, which gets Query, which sets String parameter of query Query.

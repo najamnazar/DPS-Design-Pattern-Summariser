@@ -1,0 +1,1 @@
+JmsTemplateTransactedTests acts as a caretaker for memento C, which setups Mocks, which gets Local Session, which uses Transacted Session, which uses Transacted Template.

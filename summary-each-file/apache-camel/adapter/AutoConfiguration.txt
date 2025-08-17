@@ -1,0 +1,1 @@
+AutoConfiguration acts as an adaptee for adapter PulsarComponentTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

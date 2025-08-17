@@ -1,0 +1,2 @@
+App acts as an adaptee for adapter HsTaskPage, which adapts to HsView, which adapts to HsView, which adapts to HsView, which adapts to HsView.
+App acts as an adaptee for adapter TaskPage, which adapts to AppView, which adapts to AppView, which adapts to AppView, which adapts to AppView.

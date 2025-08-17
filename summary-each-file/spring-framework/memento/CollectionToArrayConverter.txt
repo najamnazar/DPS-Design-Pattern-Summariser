@@ -1,0 +1,1 @@
+CollectionToArrayConverter acts as a caretaker for memento C, which gets Convertible Types, which matches TypeDescriptor parameter of sourceType, TypeDescriptor parameter of targetType, which converts @Nullable parameter of Object, TypeDescriptor parameter of sourceType, TypeDescriptor parameter of targetType.

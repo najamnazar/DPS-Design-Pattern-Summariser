@@ -1,0 +1,3 @@
+RouterDistCpProcedure acts as a publisher for observer Path, which disables FedBalanceContext parameter of context Write, which enables Write.
+RouterDistCpProcedure acts as a publisher for observer FedBalanceContext, which disables FedBalanceContext parameter of context Write, which enables Write.
+RouterDistCpProcedure acts as a publisher for observer DistributedFileSystem, which disables FedBalanceContext parameter of context Write, which enables Write.

@@ -1,0 +1,2 @@
+RouteTemplatePreconditionTest acts as a publisher for observer CamelContext, which tests Route Included, which tests Route Excluded, which tests Route Included By Default, which creates Route Builder.
+RouteTemplatePreconditionTest acts as a publisher for observer Service, which tests Route Included, which tests Route Excluded, which tests Route Included By Default, which creates Route Builder.

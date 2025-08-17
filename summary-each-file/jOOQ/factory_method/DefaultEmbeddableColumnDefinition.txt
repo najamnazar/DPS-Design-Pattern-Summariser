@@ -1,0 +1,1 @@
+DefaultEmbeddableColumnDefinition acts as a product for EmbeddableDefinition, which overrides getReferencingColumn method of EmbeddableColumnDefinition, getReferencingColumnPosition method of EmbeddableColumnDefinition.

@@ -1,0 +1,8 @@
+StaticService acts as an adaptee for adapter DefaultReactiveExecutor.
+StaticService acts as an adaptee for adapter CSimpleLanguage.
+StaticService acts as an adaptee for adapter BeanLanguage.
+StaticService acts as an adaptee for adapter ExecutorServiceManager.
+StaticService acts as an adaptee for adapter TomcatReactiveExecutor.
+StaticService acts as an adaptee for adapter JqLanguage.
+StaticService acts as an adaptee for adapter JoorLanguage.
+StaticService acts as an adaptee for adapter SpelLanguage.

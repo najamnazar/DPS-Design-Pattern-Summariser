@@ -1,0 +1,1 @@
+JCacheNamespaceDrivenTests acts as a publisher for observer Cache, which gets Application Context, which caches Resolver, which tests Cache Error Handler.

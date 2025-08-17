@@ -1,0 +1,1 @@
+HttpRegistry acts as an abstract factory for HttpRegistryProvider, which is inherited by DefaultHttpRegistry.

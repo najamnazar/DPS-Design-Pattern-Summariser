@@ -1,0 +1,1 @@
+AlterDomainStep acts as an abstract factory for AlterDomainRenameConstraintStep, AlterDomainDropConstraintCascadeStep, AlterDomainFinalStep, which is inherited by.

@@ -1,0 +1,1 @@
+ResteasyComponent acts as an adapter, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent, which adapts to HttpComponent.

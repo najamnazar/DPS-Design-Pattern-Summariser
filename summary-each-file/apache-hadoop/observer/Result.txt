@@ -1,0 +1,2 @@
+Result acts as a publisher for observer Result, which is inherited by, which is Descend, which is Pass, which combines Result parameter of other, which negates, which tos String, which hashes Code, which equals Object parameter of obj.
+Result acts as an observer for publisher Result, which is inherited by, which is Descend, which is Pass, which combines Result parameter of other, which negates, which tos String, which hashes Code, which equals Object parameter of obj.

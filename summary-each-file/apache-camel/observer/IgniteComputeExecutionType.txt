@@ -1,0 +1,1 @@
+IgniteComputeExecutionType acts as an observer for publisher IgniteComputeEndpoint, which is inherited by.

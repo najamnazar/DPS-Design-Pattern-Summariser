@@ -1,0 +1,2 @@
+ErrorHandlerOnRedeliveryStopTest acts as a publisher for observer Service, which tests Retry While, which creates Route Builder, which processes Exchange parameter of exchange.
+ErrorHandlerOnRedeliveryStopTest acts as a publisher for observer CamelContext, which tests Retry While, which creates Route Builder, which processes Exchange parameter of exchange.

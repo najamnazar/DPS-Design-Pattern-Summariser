@@ -1,0 +1,1 @@
+ManagedBeanProcessor acts as a publisher for observer Route, which gets Processor, which gets Instance, which gets Method, which gets Bean Class Name.

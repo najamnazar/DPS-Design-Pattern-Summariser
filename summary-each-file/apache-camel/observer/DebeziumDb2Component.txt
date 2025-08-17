@@ -1,0 +1,1 @@
+DebeziumDb2Component acts as a publisher for observer Db2ConnectorEmbeddedDebeziumConfiguration, which is inherited by, which gets Configuration, which sets Db2ConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, Db2ConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

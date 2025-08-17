@@ -1,0 +1,1 @@
+WritableComparable acts as an adaptee for adapter WritableComparator.

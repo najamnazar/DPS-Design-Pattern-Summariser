@@ -1,0 +1,3 @@
+PersonListener acts as a caretaker for memento C, which posts Person parameter of person Load.
+PersonListener acts as a caretaker for memento ApplicationContext, which posts Person parameter of person Load.
+PersonListener acts as a caretaker for memento A, which posts Person parameter of person Load.

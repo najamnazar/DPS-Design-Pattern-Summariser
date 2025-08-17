@@ -1,0 +1,2 @@
+ToDynamicIgnoreTest acts as a publisher for observer CamelContext, which tests To Dynamic, which tests To Dynamic Invalid, which creates Route Builder.
+ToDynamicIgnoreTest acts as a publisher for observer Service, which tests To Dynamic, which tests To Dynamic Invalid, which creates Route Builder.

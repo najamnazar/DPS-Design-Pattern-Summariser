@@ -1,0 +1,1 @@
+LevelDBAggregateNotLostRemovedWhenConfirmedTest acts as an adapter, which adapts to LevelDBTestSupport, which adapts to LevelDBTestSupport, which adapts to LevelDBTestSupport, which adapts to LevelDBTestSupport.

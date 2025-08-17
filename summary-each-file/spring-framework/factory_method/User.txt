@@ -1,0 +1,1 @@
+User acts as an abstract product for SpringHandlerInstantiatorTests, which is inherited by UserImpl.

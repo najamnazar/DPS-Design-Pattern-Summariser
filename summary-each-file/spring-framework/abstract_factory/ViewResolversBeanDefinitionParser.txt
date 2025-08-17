@@ -1,0 +1,1 @@
+ViewResolversBeanDefinitionParser acts as a factory for BeanDefinitionParser, which overrides.

@@ -1,0 +1,2 @@
+TypeConverterSupport acts as a product for ConfigurableBeanFactory, which overrides convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter.
+TypeConverterSupport acts as a product for EvaluationContext, which overrides convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter, convertIfNecessary method of TypeConverter.

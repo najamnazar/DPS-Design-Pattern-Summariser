@@ -1,0 +1,1 @@
+GrpcSimpleExchangeForwarder acts as a caretaker for memento Configuration, which forwards Exchange parameter of exchange, StreamObserver<Object> parameter of responseObserver, AsyncCallback parameter of callback, which forwards Exchange parameter of exchange, which shutdowns.

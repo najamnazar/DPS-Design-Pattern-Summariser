@@ -1,0 +1,1 @@
+ErrorHandler acts as an abstract product for JmsConfiguration, which is inherited by DefaultTransformErrorHandler, NoErrorHandler, ErrorHandlerSupport, DefaultSpringErrorHandler, FatalFallbackErrorHandler.

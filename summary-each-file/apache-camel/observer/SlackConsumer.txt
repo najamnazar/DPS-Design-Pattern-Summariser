@@ -1,0 +1,1 @@
+SlackConsumer acts as a publisher for observer ShutdownRunningTask, which does Start, which does Stop, which polls, which creates final parameter of List<Message> Exchanges, which processes Queue<Object> parameter of exchanges Batch, which gets final parameter of String, final parameter of String Channel Id, which creates Message parameter of object Exchange.

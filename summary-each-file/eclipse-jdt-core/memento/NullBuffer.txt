@@ -1,0 +1,2 @@
+NullBuffer acts as a caretaker for memento List.
+NullBuffer acts as a caretaker for memento C.

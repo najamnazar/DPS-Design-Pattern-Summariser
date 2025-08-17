@@ -1,0 +1,1 @@
+SerializedException acts as an abstract product for SerializedException, which is inherited by SerializedExceptionPBImpl.

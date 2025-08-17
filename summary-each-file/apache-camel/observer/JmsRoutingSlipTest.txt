@@ -1,0 +1,1 @@
+JmsRoutingSlipTest acts as a publisher for observer ArtemisService, which tests Jms Routing Slip, which gets Component Name, which creates Route Builder.

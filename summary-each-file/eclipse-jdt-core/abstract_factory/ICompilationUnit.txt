@@ -1,0 +1,2 @@
+ICompilationUnit acts as an abstract product for ICompilationUnit, which is inherited by ResourceCompilationUnit, ResourceCompilationUnit, PossibleMatch, PossibleMatch, SourceFile, SourceFile, BasicCompilationUnit, BasicCompilationUnit.
+ICompilationUnit acts as an abstract product for ICompilationUnit, which is inherited by ResourceCompilationUnit, PossibleMatch, SourceFile, BasicCompilationUnit.

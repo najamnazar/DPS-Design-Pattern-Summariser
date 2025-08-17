@@ -1,0 +1,1 @@
+DefaultHeadersMapFactory acts as a product for ExtendedCamelContext, which overrides newMap method of HeadersMapFactory, newMap method of HeadersMapFactory, isInstanceOf method of HeadersMapFactory, isCaseInsensitive method of HeadersMapFactory.

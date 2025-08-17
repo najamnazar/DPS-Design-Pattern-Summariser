@@ -1,0 +1,1 @@
+ResourceLocalizationSpec acts as a target for adapter ResourceLocalizationSpecPBImpl, which adapts to ResourceLocalizationSpec, which adapts to ResourceLocalizationSpec, which adapts to ResourceLocalizationSpec, which adapts to ResourceLocalizationSpec.

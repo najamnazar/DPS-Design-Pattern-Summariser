@@ -1,0 +1,1 @@
+ClusteredRouteFilter acts as an observer for publisher ClusteredRouteController, which is inherited by, which tests CamelContext parameter of camelContext, String parameter of routeId, NamedNode parameter of route.

@@ -1,0 +1,1 @@
+EnableNameserviceResponse acts as an abstract product for EnableNameserviceResponse, which is inherited by EnableNameserviceResponsePBImpl.

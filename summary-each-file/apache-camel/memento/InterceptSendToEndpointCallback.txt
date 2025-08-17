@@ -1,0 +1,1 @@
+InterceptSendToEndpointCallback acts as a caretaker for memento Context, which registers String parameter of uri, Endpoint parameter of endpoint Endpoint, which matches String parameter of uri, String parameter of pattern Pattern.

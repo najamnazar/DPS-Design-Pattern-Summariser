@@ -1,0 +1,2 @@
+FileObject acts as an abstract product for FileObject, which is inherited by IdeInputFileObject, IdeInputFileObject, IdeInputFileObject, IdeInputFileObject, ForwardingFileObject, ForwardingFileObject, ForwardingFileObject, ForwardingFileObject, IdeOutputFileObject, IdeOutputFileObject, IdeOutputFileObject, IdeOutputFileObject, JavaFileObject, JavaFileObject, JavaFileObject, JavaFileObject.
+FileObject acts as an abstract factory for InputStream, OutputStream, CharSequence, Reader, Writer, which is inherited by IdeInputFileObject, ForwardingFileObject, IdeOutputFileObject.

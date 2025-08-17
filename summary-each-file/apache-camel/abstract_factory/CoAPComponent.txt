@@ -1,0 +1,1 @@
+CoAPComponent acts as a factory for RestConsumerFactory, which overrides createConsumer method of RestConsumerFactory.

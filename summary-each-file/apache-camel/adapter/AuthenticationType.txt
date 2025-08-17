@@ -1,0 +1,2 @@
+AuthenticationType acts as an adaptee for adapter AbstractBraintreeTestSupport.
+AuthenticationType acts as an adaptee for adapter SalesforceComponent.

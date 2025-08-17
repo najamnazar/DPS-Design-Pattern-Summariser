@@ -1,0 +1,1 @@
+DefaultAsyncServerResponse acts as a factory method for ServerResponse, which is inherited by AsyncServerResponse, ErrorHandlingServerResponse, ServerResponse, ErrorHandlingServerResponse, ServerResponse, ServerResponse, ServerResponse.

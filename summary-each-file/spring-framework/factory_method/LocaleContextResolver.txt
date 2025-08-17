@@ -1,0 +1,2 @@
+LocaleContextResolver acts as a factory for ServerWebExchangeDecorator, which overrides.
+LocaleContextResolver acts as an abstract product for DefaultHandlerStrategiesBuilder, which is inherited by CookieLocaleResolver, AcceptHeaderLocaleContextResolver, FixedLocaleContextResolver, AbstractLocaleContextResolver.

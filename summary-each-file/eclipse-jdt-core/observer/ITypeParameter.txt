@@ -1,0 +1,1 @@
+ITypeParameter acts as an observer, which gets Bounds, which gets Bounds Signatures, which gets Declaring Member, which gets Type Root.

@@ -1,0 +1,1 @@
+HelsinkiServiceNowAggregateProcessor acts as a caretaker for memento Configuration, which retrieves Exchange parameter of exchange Stats.

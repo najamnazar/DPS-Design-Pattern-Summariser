@@ -1,0 +1,1 @@
+CamelContextFactoryBeanTest acts as a caretaker for memento Context, which sets Up, which tests Get Default Uuid Generator, which tests Get Custom Uuid Generator, which tests Custom Model JAXBContext Factory.

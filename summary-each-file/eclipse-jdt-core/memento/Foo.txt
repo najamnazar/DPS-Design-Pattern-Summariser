@@ -1,0 +1,1 @@
+Foo acts as a caretaker for memento C, which foo1s, which foo2s.

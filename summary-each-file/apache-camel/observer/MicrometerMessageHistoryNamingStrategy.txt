@@ -1,0 +1,1 @@
+MicrometerMessageHistoryNamingStrategy acts as an observer for publisher MicrometerMessageHistoryFactory, which is inherited by, which gets Route parameter of route, NamedNode parameter of node Name, which gets Route parameter of route, NamedNode parameter of node Tags.

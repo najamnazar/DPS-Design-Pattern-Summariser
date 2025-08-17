@@ -1,0 +1,1 @@
+NLSLine acts as a caretaker for memento List, which adds StringLiteral parameter of element, which iterators, which gets int parameter of index, which sets int parameter of index, StringLiteral parameter of literal, which exists int parameter of index, which sizes, which tos String.

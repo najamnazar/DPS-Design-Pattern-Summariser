@@ -1,0 +1,2 @@
+IPackageBinding acts as an observer for publisher IModuleBinding, ModuleBinding, which is inherited by RecoveredPackageBinding, which gets Name, which is Unnamed, which gets Name Components, which gets Module.
+IPackageBinding acts as an observer, which gets Name, which is Unnamed, which gets Name Components, which gets Module.

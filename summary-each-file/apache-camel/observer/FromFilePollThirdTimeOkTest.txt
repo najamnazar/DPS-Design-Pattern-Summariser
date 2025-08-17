@@ -1,0 +1,2 @@
+FromFilePollThirdTimeOkTest acts as a publisher for observer CamelContext, which tests Poll File And Should Be Deleted At Third Poll, which creates Route Builder.
+FromFilePollThirdTimeOkTest acts as a publisher for observer Service, which tests Poll File And Should Be Deleted At Third Poll, which creates Route Builder.

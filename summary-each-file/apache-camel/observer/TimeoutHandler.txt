@@ -1,0 +1,2 @@
+TimeoutHandler acts as a publisher for observer Timeout, which is inherited by Element, which timeouts Timeout parameter of timeout.
+TimeoutHandler acts as an observer for publisher Timeout, which is inherited by Element, which timeouts Timeout parameter of timeout.

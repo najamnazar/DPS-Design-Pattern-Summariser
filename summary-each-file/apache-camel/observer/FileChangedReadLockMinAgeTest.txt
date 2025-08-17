@@ -1,0 +1,2 @@
+FileChangedReadLockMinAgeTest acts as a publisher for observer Service, which tests Changed Read Lock Min Age, which writes Slow File, which creates Route Builder.
+FileChangedReadLockMinAgeTest acts as a publisher for observer CamelContext, which tests Changed Read Lock Min Age, which writes Slow File, which creates Route Builder.

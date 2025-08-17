@@ -1,0 +1,2 @@
+FileProducerFileBodyGetsMovedTest acts as a publisher for observer Service, which tests Store File Exchange Body Is File, which tests Store File Exchange Body Is Wrapped File, which creates Route Builder.
+FileProducerFileBodyGetsMovedTest acts as a publisher for observer CamelContext, which tests Store File Exchange Body Is File, which tests Store File Exchange Body Is Wrapped File, which creates Route Builder.

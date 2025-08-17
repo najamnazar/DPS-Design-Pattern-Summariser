@@ -1,0 +1,1 @@
+ManagedTransactionAdapter acts as a product for TransactionFactory, which overrides.

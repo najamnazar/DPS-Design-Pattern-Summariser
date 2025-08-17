@@ -1,0 +1,1 @@
+RoutesConfigurer acts as a factory method for RoutesCollector, which is inherited by BaseMainSupport, BaseMainSupport.

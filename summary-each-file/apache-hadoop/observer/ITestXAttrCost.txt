@@ -1,0 +1,1 @@
+ITestXAttrCost acts as a publisher for observer OperationCost, which tests XAttr Root, which logs final parameter of Map<String, XAttrs, which tests XAttr File, which tests XAttr Dir, which tests XAttr Missing File, which asserts Map<String, parameter of byte[]>, String parameter of key Header Entry, which asserts final parameter of String, final parameter of byte[] Header.

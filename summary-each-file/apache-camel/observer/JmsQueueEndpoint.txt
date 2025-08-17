@@ -1,0 +1,4 @@
+JmsQueueEndpoint acts as a publisher for observer JmsBinding, which gets Maximum Browse Size, which sets int parameter of maximumBrowseSize Maximum Browse Size, which gets Exchanges, which creates Queue Browse Strategy.
+JmsQueueEndpoint acts as an observer, which gets Maximum Browse Size, which sets int parameter of maximumBrowseSize Maximum Browse Size, which gets Exchanges, which creates Queue Browse Strategy.
+JmsQueueEndpoint acts as a publisher for observer JmsConfiguration, which gets Maximum Browse Size, which sets int parameter of maximumBrowseSize Maximum Browse Size, which gets Exchanges, which creates Queue Browse Strategy.
+JmsQueueEndpoint acts as a publisher for observer HeaderFilterStrategy, which gets Maximum Browse Size, which sets int parameter of maximumBrowseSize Maximum Browse Size, which gets Exchanges, which creates Queue Browse Strategy.

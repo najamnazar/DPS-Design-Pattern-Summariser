@@ -1,0 +1,1 @@
+DefaultStompSession acts as a product for WebSocketStompClientTests, which overrides getSessionFuture method of ConnectionHandlingStompSession.

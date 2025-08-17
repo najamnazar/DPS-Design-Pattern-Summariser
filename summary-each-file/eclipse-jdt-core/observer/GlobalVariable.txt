@@ -1,0 +1,1 @@
+GlobalVariable acts as an observer for publisher EvaluationContext, which is inherited by, which gets Initializer, which gets Name, which gets Type Name, which tos String.

@@ -1,0 +1,2 @@
+SimpleSetHeaderPredicateTest acts as a publisher for observer CamelContext, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.
+SimpleSetHeaderPredicateTest acts as a publisher for observer Service, which tests Set Header Predicate False, which tests Set Header Predicate True, which tests Other, which creates Route Builder.

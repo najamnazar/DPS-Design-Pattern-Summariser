@@ -1,0 +1,1 @@
+GoogleSheetsApiName acts as an observer for publisher GoogleSheetsConfiguration, SheetsSpreadsheetsEndpointConfiguration, SheetsSpreadsheetsValuesEndpointConfiguration, which is inherited by, which gets Name.

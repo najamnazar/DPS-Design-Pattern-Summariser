@@ -1,0 +1,1 @@
+AsyncDataService acts as a publisher for observer OpenFileCtx, which is inherited by, which news Runnable parameter of r Thread, which executes Runnable parameter of task, which shutdowns, which writes OpenFileCtx parameter of openFileCtx Async, which gets Open File Ctx, which tos String, which runs.

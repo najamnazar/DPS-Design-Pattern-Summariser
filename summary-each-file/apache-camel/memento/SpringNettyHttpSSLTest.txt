@@ -1,0 +1,1 @@
+SpringNettyHttpSSLTest acts as a caretaker for memento Producer, which gets Port, which sets Integer parameter of port Port, which sets Up JSSE, which tears Down JSSE, which tests SSLIn Out With Netty Consumer.

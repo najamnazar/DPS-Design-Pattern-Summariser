@@ -1,0 +1,2 @@
+FtpIllegalOptionsTest acts as a caretaker for memento Producer, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.
+FtpIllegalOptionsTest acts as a caretaker for memento Context, which tests Illegal Options File Endpoint, which tests Illegal Options Ftp Endpoint.

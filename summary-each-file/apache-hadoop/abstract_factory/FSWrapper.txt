@@ -1,0 +1,1 @@
+FSWrapper acts as an abstract factory for FileStatus, FSDataInputStream, FSDataOutputStream, FileChecksum, which is inherited by FSTestWrapper.

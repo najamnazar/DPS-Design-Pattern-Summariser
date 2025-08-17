@@ -1,0 +1,1 @@
+Checkpointer acts as an adaptee for adapter BackupNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode, which adapts to NameNode.

@@ -1,0 +1,1 @@
+AspectJEnableCachingIsolatedTests acts as a factory method for CacheErrorHandler, which is inherited by AbstractCacheInvoker, CachingConfigurer, AbstractCacheInvoker, AbstractCacheInvoker, CachingConfigurer, CachingConfigurerSupport.

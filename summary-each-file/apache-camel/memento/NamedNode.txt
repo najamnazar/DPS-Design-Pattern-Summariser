@@ -1,0 +1,1 @@
+NamedNode acts as a memento, which is inherited by OptionalIdentifiedDefinition, PreconditionContainer, which gets Parent, which gets Parent, which gets Parent, which gets Parent, which gets Parent.

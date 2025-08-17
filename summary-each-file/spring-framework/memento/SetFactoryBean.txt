@@ -1,0 +1,1 @@
+SetFactoryBean acts as a caretaker for memento C, which sets Set<?> parameter of sourceSet Source Set, which sets @Nullable parameter of Class<? Target Set Class, which gets Object Type, which creates Instance.

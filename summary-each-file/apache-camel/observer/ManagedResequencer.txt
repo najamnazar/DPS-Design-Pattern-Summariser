@@ -1,0 +1,1 @@
+ManagedResequencer acts as a publisher for observer Route, which gets Expression, which gets Batch Size, which gets Timeout, which is Allow Duplicates, which is Reverse, which is Ignore Invalid Exchanges, which gets Capacity, which is Reject Old.

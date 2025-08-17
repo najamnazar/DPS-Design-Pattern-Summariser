@@ -1,0 +1,2 @@
+BeanWithXPathInjectionUsingResultTypeTest acts as a publisher for observer CamelContext, which tests Send Message, which creates Registry, which reads @XPath("//a/b/text()") parameter of String, @XPath(value parameter of =.
+BeanWithXPathInjectionUsingResultTypeTest acts as a publisher for observer Service, which tests Send Message, which creates Registry, which reads @XPath("//a/b/text()") parameter of String, @XPath(value parameter of =.

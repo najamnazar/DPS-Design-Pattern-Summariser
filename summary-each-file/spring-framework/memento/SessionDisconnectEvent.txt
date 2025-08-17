@@ -1,0 +1,2 @@
+SessionDisconnectEvent acts as a caretaker for memento Message, which gets Session Id, which gets Close Status, which tos String.
+SessionDisconnectEvent acts as a caretaker for memento C, which gets Session Id, which gets Close Status, which tos String.

@@ -1,0 +1,1 @@
+RegionBasedTypeHierarchy acts as an adapter, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy, which adapts to TypeHierarchy.

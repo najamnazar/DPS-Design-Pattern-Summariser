@@ -1,0 +1,3 @@
+FSQueue acts as a factory for Queue, which overrides getQueueName method of Queue, getQueueInfo method of Queue, getAccessibleNodeLabels method of Queue, getDefaultNodeLabelExpression method of Queue, incPendingResource method of Queue, decPendingResource method of Queue, getDefaultApplicationPriority method of Queue.
+FSQueue acts as a product for MutableConfScheduler, which overrides getQueueName method of Queue, getQueueInfo method of Queue, getAccessibleNodeLabels method of Queue, getDefaultNodeLabelExpression method of Queue, incPendingResource method of Queue, decPendingResource method of Queue, getDefaultApplicationPriority method of Queue.
+FSQueue acts as a factory for Schedulable, which overrides.

@@ -1,0 +1,2 @@
+SchemaMetaProvider acts as a caretaker for memento Configuration, which provides.
+SchemaMetaProvider acts as a caretaker for memento C, which provides.

@@ -1,0 +1,1 @@
+ServletServerHttpAsyncRequestControl acts as a product for ServerHttpRequest, which overrides isStarted method of ServerHttpAsyncRequestControl, isCompleted method of ServerHttpAsyncRequestControl, start method of ServerHttpAsyncRequestControl, start method of ServerHttpAsyncRequestControl, complete method of ServerHttpAsyncRequestControl.

@@ -1,0 +1,1 @@
+ClasspathAttributeDelta acts as a factory for IClasspathAttributeDelta, which overrides getKind method of IClasspathAttributeDelta, getAttributeName method of IClasspathAttributeDelta, getAttributeValue method of IClasspathAttributeDelta.

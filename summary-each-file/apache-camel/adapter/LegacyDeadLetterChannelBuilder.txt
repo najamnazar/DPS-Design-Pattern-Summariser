@@ -1,0 +1,1 @@
+LegacyDeadLetterChannelBuilder acts as an adapter, which adapts to LegacyDefaultErrorHandlerBuilder, which adapts to LegacyDefaultErrorHandlerBuilder, which adapts to LegacyDefaultErrorHandlerBuilder, which adapts to LegacyDefaultErrorHandlerBuilder.

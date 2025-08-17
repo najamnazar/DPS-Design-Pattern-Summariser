@@ -1,0 +1,1 @@
+MiloClientCachingConnectionManager acts as a factory for MiloClientConnectionManager, which overrides createConnection method of MiloClientConnectionManager, releaseConnection method of MiloClientConnectionManager.

@@ -1,0 +1,1 @@
+IrcBinding acts as an observer for publisher IrcEndpoint, which is inherited by, which extracts IrcMessage parameter of message Body From Irc.

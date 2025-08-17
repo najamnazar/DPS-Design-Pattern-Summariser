@@ -1,0 +1,1 @@
+GetApplicationAttemptReportResponse acts as an abstract product for GetApplicationAttemptReportResponse, which is inherited by GetApplicationAttemptReportResponsePBImpl.

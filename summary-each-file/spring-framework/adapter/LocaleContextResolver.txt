@@ -1,0 +1,1 @@
+LocaleContextResolver acts as an adaptee for adapter HttpWebHandlerAdapter, which adapts to WebHandlerDecorator, which adapts to WebHandlerDecorator.

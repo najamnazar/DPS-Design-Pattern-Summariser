@@ -1,0 +1,8 @@
+Configurable acts as an adaptee for adapter FixedBlockResolver, which adapts to BlockResolver, which adapts to BlockResolver.
+Configurable acts as an adaptee for adapter SLSFairScheduler, which adapts to FairScheduler, which adapts to FairScheduler.
+Configurable acts as an adaptee for adapter BaseExpression, which adapts to Expression, which adapts to Expression.
+Configurable acts as an adaptee for adapter CompositeGroupsMapping, which adapts to GroupMappingServiceProvider, which adapts to GroupMappingServiceProvider.
+Configurable acts as an adaptee for adapter LdapGroupsMapping, which adapts to GroupMappingServiceProvider, which adapts to GroupMappingServiceProvider.
+Configurable acts as an adaptee for adapter SLSCapacityScheduler, which adapts to CapacityScheduler, which adapts to CapacityScheduler.
+Configurable acts as an adaptee for adapter WritableComparator, which adapts to RawComparator, which adapts to RawComparator.
+Configurable acts as an adaptee for adapter FilterExpression, which adapts to Expression, which adapts to Expression.

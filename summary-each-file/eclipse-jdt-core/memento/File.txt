@@ -1,0 +1,2 @@
+File acts as a caretaker for memento String, which exists, which is Directory, which gets Absolute Path, which mkdirses, which mkdirs, which gets Name, which lengthes.
+File acts as a caretaker for memento S, which exists, which is Directory, which gets Absolute Path, which mkdirses, which mkdirs, which gets Name, which lengthes.

@@ -1,0 +1,5 @@
+TransactedOnCompletionTest acts as a publisher for observer CamelContext, which tests On Completion, which creates Camel Context, which creates Route Builder.
+TransactedOnCompletionTest acts as a publisher for observer FluentProducerTemplate, which tests On Completion, which creates Camel Context, which creates Route Builder.
+TransactedOnCompletionTest acts as a publisher for observer ProducerTemplate, which tests On Completion, which creates Camel Context, which creates Route Builder.
+TransactedOnCompletionTest acts as a publisher for observer ConsumerTemplate, which tests On Completion, which creates Camel Context, which creates Route Builder.
+TransactedOnCompletionTest acts as a publisher for observer Service, which tests On Completion, which creates Camel Context, which creates Route Builder.

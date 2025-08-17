@@ -1,0 +1,2 @@
+OnExceptionLoadBalancerDoubleIssueTest acts as a publisher for observer CamelContext, which tests Not Double, which creates Route Builder.
+OnExceptionLoadBalancerDoubleIssueTest acts as a publisher for observer Service, which tests Not Double, which creates Route Builder.

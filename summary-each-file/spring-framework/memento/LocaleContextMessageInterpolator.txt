@@ -1,0 +1,1 @@
+LocaleContextMessageInterpolator acts as a caretaker for memento Message, which interpolates String parameter of message, Context parameter of context, which interpolates String parameter of message, Context parameter of context, Locale parameter of locale.

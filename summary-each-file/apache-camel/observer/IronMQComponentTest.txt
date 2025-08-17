@@ -1,0 +1,5 @@
+IronMQComponentTest acts as a publisher for observer FluentProducerTemplate, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.
+IronMQComponentTest acts as a publisher for observer Service, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.
+IronMQComponentTest acts as a publisher for observer CamelContext, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.
+IronMQComponentTest acts as a publisher for observer ProducerTemplate, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.
+IronMQComponentTest acts as a publisher for observer ConsumerTemplate, which tests Iron MQ, which sends In Only, which sends In Out, which creates Camel Context, which creates Route Builder.

@@ -1,0 +1,2 @@
+AnnotationDeclarationImpl acts as a caretaker for memento AnnotationType, which accepts DeclarationVisitor parameter of visitor, which gets Methods, which accepts TypeVisitor parameter of visitor, which gets Declaration, which kinds.
+AnnotationDeclarationImpl acts as a memento, which kinds Declaration, which kinds Declaration, which kinds Declaration, which kinds Declaration, which kinds Declaration.

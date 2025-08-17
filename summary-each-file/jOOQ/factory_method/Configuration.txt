@@ -1,0 +1,1 @@
+Configuration acts as a factory for MockConfiguration, which overrides.

@@ -1,0 +1,2 @@
+TranslatingMetaProvider acts as a caretaker for memento C, which provides, which loads Source parameter of source Script, which closes.
+TranslatingMetaProvider acts as a caretaker for memento Configuration, which provides, which loads Source parameter of source Script, which closes.

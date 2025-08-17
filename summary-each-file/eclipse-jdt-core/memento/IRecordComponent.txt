@@ -1,0 +1,1 @@
+IRecordComponent acts as a memento.

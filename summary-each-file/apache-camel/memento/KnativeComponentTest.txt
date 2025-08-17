@@ -1,0 +1,1 @@
+KnativeComponentTest acts as a caretaker for memento Context, which befores, which afters, which tests String parameter of resource Load Environment.

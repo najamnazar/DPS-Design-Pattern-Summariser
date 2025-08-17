@@ -1,0 +1,2 @@
+RouteStartupOrderSuspendResumeNoAutoStartupTest acts as a publisher for observer CamelContext, which tests Route Startup Order Suspend Resume No Auto Startup, which tests Route Startup Order Suspend Resume Start C, which creates Route Builder.
+RouteStartupOrderSuspendResumeNoAutoStartupTest acts as a publisher for observer Service, which tests Route Startup Order Suspend Resume No Auto Startup, which tests Route Startup Order Suspend Resume Start C, which creates Route Builder.

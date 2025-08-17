@@ -1,0 +1,1 @@
+KafkaProducerCallBack acts as a component for decorator DelegatingCallback.

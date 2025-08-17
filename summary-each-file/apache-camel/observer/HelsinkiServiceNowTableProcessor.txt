@@ -1,0 +1,1 @@
+HelsinkiServiceNowTableProcessor acts as a publisher for observer ServiceNowDispatcher, which retrieves Exchange parameter of exchange Record, which creates Exchange parameter of exchange Record, which modifies Exchange parameter of exchange Record, which deletes Exchange parameter of exchange Record, which updates Exchange parameter of exchange Record.

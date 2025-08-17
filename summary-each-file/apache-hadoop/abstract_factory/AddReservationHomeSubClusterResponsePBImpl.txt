@@ -1,0 +1,1 @@
+AddReservationHomeSubClusterResponsePBImpl acts as a product for FederationReservationHomeSubClusterStore, which overrides setHomeSubCluster method of AddReservationHomeSubClusterResponse, getHomeSubCluster method of AddReservationHomeSubClusterResponse.

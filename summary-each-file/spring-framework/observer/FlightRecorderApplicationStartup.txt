@@ -1,0 +1,1 @@
+FlightRecorderApplicationStartup acts as an observer, which starts String parameter of name.

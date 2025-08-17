@@ -1,0 +1,1 @@
+LoggingLevel acts as an observer for publisher SftpConfiguration, which is inherited by, which is LoggingLevel parameter of level Enabled.

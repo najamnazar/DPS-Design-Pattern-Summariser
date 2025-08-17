@@ -1,0 +1,1 @@
+SmppSplittingPolicy acts as an observer for publisher SmppConfiguration, which is inherited by, which froms String parameter of policyName String.

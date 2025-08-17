@@ -1,0 +1,1 @@
+Bug510118Processor acts as a factory method for DeclaredType, which is inherited by Types, ErrorType, DeclaredType, TypeDeclarationImpl, DeclaredType, DeclaredType, TypeDeclarationImpl, DeclaredType, DeclaredType, Types.

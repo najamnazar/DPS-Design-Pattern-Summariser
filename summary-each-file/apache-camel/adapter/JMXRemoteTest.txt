@@ -1,0 +1,1 @@
+JMXRemoteTest acts as an adapter, which adapts to SimpleBeanFixture, which adapts to SimpleBeanFixture, which adapts to SimpleBeanFixture, which adapts to SimpleBeanFixture.

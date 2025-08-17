@@ -1,0 +1,2 @@
+PolymorphicMethodBinding acts as an observer, which originals, which is Polymorphic, which matches TypeBinding[] parameter of matchingParameters, TypeBinding parameter of matchingReturnType, which is Varargs.
+PolymorphicMethodBinding acts as a publisher for observer TypeBinding, which originals, which is Polymorphic, which matches TypeBinding[] parameter of matchingParameters, TypeBinding parameter of matchingReturnType, which is Varargs.

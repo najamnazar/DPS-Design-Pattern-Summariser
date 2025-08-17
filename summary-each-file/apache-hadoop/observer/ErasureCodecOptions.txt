@@ -1,0 +1,1 @@
+ErasureCodecOptions acts as an observer for publisher ErasureCodec, RSErasureCodec, HHXORErasureCodec, XORErasureCodec, DummyErasureCodec, which is inherited by, which gets Schema.

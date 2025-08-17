@@ -1,0 +1,6 @@
+StubDurationTracker acts as a product for DurationTrackerFactory, which overrides failed method of DurationTracker, close method of DurationTracker, asDuration method of DurationTracker.
+StubDurationTracker acts as a product for S3AInputStreamStatistics, which overrides failed method of DurationTracker, close method of DurationTracker, asDuration method of DurationTracker.
+StubDurationTracker acts as a product for PrefetchingStatistics, which overrides failed method of DurationTracker, close method of DurationTracker, asDuration method of DurationTracker.
+StubDurationTracker acts as a product for AbfsOutputStreamStatistics, which overrides failed method of DurationTracker, close method of DurationTracker, asDuration method of DurationTracker.
+StubDurationTracker acts as a product for AbfsCounters, which overrides failed method of DurationTracker, close method of DurationTracker, asDuration method of DurationTracker.
+StubDurationTracker acts as a factory for DurationTracker, which overrides failed method of DurationTracker, close method of DurationTracker, asDuration method of DurationTracker.

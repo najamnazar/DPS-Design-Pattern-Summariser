@@ -1,0 +1,2 @@
+AdviceWithTwoRoutesOnExceptionTest acts as a publisher for observer Service, which tests Advice With A, which tests Advice With B, which tests Advice With AB, which creates Route Builder.
+AdviceWithTwoRoutesOnExceptionTest acts as a publisher for observer CamelContext, which tests Advice With A, which tests Advice With B, which tests Advice With AB, which creates Route Builder.

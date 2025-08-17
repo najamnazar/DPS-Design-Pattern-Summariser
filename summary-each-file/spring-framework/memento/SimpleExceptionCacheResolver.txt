@@ -1,0 +1,1 @@
+SimpleExceptionCacheResolver acts as a caretaker for memento C, which gets CacheOperationInvocationContext<?> parameter of context Cache Names.

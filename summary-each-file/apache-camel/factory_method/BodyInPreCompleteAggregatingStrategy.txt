@@ -1,0 +1,1 @@
+BodyInPreCompleteAggregatingStrategy acts as a product for EnrichDefinition, which overrides aggregate method of AggregationStrategy, canPreComplete method of AggregationStrategy, preComplete method of AggregationStrategy.

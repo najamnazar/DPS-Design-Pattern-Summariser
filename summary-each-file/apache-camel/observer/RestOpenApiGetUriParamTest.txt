@@ -1,0 +1,5 @@
+RestOpenApiGetUriParamTest acts as a publisher for observer CamelContext, which tests Open Api Get, which creates Route Builder.
+RestOpenApiGetUriParamTest acts as a publisher for observer ConsumerTemplate, which tests Open Api Get, which creates Route Builder.
+RestOpenApiGetUriParamTest acts as a publisher for observer Service, which tests Open Api Get, which creates Route Builder.
+RestOpenApiGetUriParamTest acts as a publisher for observer ProducerTemplate, which tests Open Api Get, which creates Route Builder.
+RestOpenApiGetUriParamTest acts as a publisher for observer FluentProducerTemplate, which tests Open Api Get, which creates Route Builder.

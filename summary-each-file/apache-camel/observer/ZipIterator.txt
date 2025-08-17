@@ -1,0 +1,1 @@
+ZipIterator acts as a publisher for observer Message, which is inherited by, which has Next, which nexts, which gets Next Element, which checks Message parameter of answer Null Answer, which gets Next Entry, which removes, which closes, which is Support Iterator For Empty Directory, which sets boolean parameter of allowEmptyDirectory Allow Empty Directory.

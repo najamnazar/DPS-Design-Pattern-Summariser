@@ -1,0 +1,2 @@
+PgEventITSupport acts as a caretaker for memento Context, which creates Local Service, which gets Mapped Port, which gets Host.
+PgEventITSupport acts as a caretaker for memento Producer, which creates Local Service, which gets Mapped Port, which gets Host.

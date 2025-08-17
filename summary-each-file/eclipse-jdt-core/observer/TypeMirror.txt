@@ -1,0 +1,1 @@
+TypeMirror acts as an observer for publisher TypeVisitorTests, which is inherited by VoidType, ExecutableType, EclipseMirrorType, NoType, TypeMirrorImpl, ReferenceType, which tos String, which equals Object parameter of obj, which accepts TypeVisitor parameter of v.

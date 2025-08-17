@@ -1,0 +1,5 @@
+SoapToSoapDontIgnoreTest acts as a publisher for observer ProducerTemplate, which setups, which teardowns, which tests Soap Marshal, which creates Request, which creates Route Builder.
+SoapToSoapDontIgnoreTest acts as a publisher for observer Service, which setups, which teardowns, which tests Soap Marshal, which creates Request, which creates Route Builder.
+SoapToSoapDontIgnoreTest acts as a publisher for observer FluentProducerTemplate, which setups, which teardowns, which tests Soap Marshal, which creates Request, which creates Route Builder.
+SoapToSoapDontIgnoreTest acts as a publisher for observer CamelContext, which setups, which teardowns, which tests Soap Marshal, which creates Request, which creates Route Builder.
+SoapToSoapDontIgnoreTest acts as a publisher for observer ConsumerTemplate, which setups, which teardowns, which tests Soap Marshal, which creates Request, which creates Route Builder.

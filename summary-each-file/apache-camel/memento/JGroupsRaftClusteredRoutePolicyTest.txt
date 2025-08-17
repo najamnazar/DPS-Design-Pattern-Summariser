@@ -1,0 +1,1 @@
+JGroupsRaftClusteredRoutePolicyTest acts as a caretaker for memento Context, which tests, which creates String parameter of id, RaftHandle parameter of rh Context, which counts ArrayList<CamelContext> parameter of lcc, ArrayList<String> parameter of rn Active From Endpoints.

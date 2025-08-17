@@ -1,0 +1,1 @@
+FederationClusterInfo acts as an observer, which gets List, which sets List<ClusterInfo> parameter of list List.

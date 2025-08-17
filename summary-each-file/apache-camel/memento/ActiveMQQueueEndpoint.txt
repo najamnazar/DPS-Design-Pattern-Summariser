@@ -1,0 +1,1 @@
+ActiveMQQueueEndpoint acts as a memento, which creates Queue Browse Strategy, which creates Queue Browse Strategy, which creates Queue Browse Strategy, which creates Queue Browse Strategy.

@@ -1,0 +1,2 @@
+SpringSagaTest acts as a publisher for observer Service, which tests Send AMessage Within ASaga, which tests Compensation Within ASaga, which creates Camel Context.
+SpringSagaTest acts as a publisher for observer CamelContext, which tests Send AMessage Within ASaga, which tests Compensation Within ASaga, which creates Camel Context.

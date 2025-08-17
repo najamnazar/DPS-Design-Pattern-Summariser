@@ -1,0 +1,2 @@
+ClassType acts as a factory for ClassType, which overrides.
+ClassType acts as a factory method for ClassDeclaration, which is inherited by ErrorType, ClassDeclarationImpl, ClassType, ClassType.

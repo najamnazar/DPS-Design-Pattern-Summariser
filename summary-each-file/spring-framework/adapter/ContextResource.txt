@@ -1,0 +1,1 @@
+ContextResource acts as an adaptee for adapter ServletContextResource, which adapts to AbstractFileResolvingResource.

@@ -1,0 +1,2 @@
+RetryWhilePredicateExpressionIssueTest acts as a publisher for observer CamelContext, which tests Retry While Predicate, which creates Route Builder, which is We Cool, which gets Counter.
+RetryWhilePredicateExpressionIssueTest acts as a publisher for observer Service, which tests Retry While Predicate, which creates Route Builder, which is We Cool, which gets Counter.

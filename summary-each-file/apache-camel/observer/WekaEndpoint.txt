@@ -1,0 +1,5 @@
+WekaEndpoint acts as a publisher for observer CamelContext, which gets Configuration, which gets Component, which creates Processor parameter of processor Consumer, which creates Producer, which wekas Version.
+WekaEndpoint acts as a publisher for observer ExceptionHandler, which gets Configuration, which gets Component, which creates Processor parameter of processor Consumer, which creates Producer, which wekas Version.
+WekaEndpoint acts as a publisher for observer Exchange, which gets Configuration, which gets Component, which creates Processor parameter of processor Consumer, which creates Producer, which wekas Version.
+WekaEndpoint acts as a publisher for observer ExchangePattern, which gets Configuration, which gets Component, which creates Processor parameter of processor Consumer, which creates Producer, which wekas Version.
+WekaEndpoint acts as a publisher for observer Component, which gets Configuration, which gets Component, which creates Processor parameter of processor Consumer, which creates Producer, which wekas Version.

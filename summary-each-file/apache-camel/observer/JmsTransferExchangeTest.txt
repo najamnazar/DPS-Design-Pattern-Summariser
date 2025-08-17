@@ -1,0 +1,1 @@
+JmsTransferExchangeTest acts as a publisher for observer ArtemisService, which gets Uri, which tests Body Only, which tests Body And Header Only, which tests Send Exchange, which gets Component Name, which creates Route Builder.

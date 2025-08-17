@@ -1,0 +1,1 @@
+WebMvcConfigurer acts as an abstract factory for MessageCodesResolver, Validator, which is inherited by WebMvcConfigurerAdapter, WebMvcConfigurerComposite.

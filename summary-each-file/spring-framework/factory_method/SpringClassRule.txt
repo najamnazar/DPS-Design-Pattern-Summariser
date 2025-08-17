@@ -1,0 +1,1 @@
+SpringClassRule acts as a factory method for Statement, which is inherited by DefaultStatement, DefaultResultSet, DefaultStatement, DefaultConnection, DefaultConnection, SpringJUnit4ClassRunner, DefaultConnection, DefaultStatement, DefaultConnection, DefaultConnection, DefaultConnection, DefaultStatement.

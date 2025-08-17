@@ -1,0 +1,4 @@
+CommandDispatcher acts as an adaptee for adapter NativeBatchProcessor, which adapts to INativeHandler.
+CommandDispatcher acts as an adaptee for adapter CombinerHandler, which adapts to CommandDispatcher, ICombineHandler.
+CommandDispatcher acts as a target for adapter NativeCollectorOnlyHandler, which adapts to CommandDispatcher.
+CommandDispatcher acts as a target for adapter CombinerHandler, which adapts to CommandDispatcher.

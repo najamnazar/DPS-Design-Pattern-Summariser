@@ -1,0 +1,1 @@
+LinuxContainerRuntimeConstants acts as a caretaker for memento Attribute.

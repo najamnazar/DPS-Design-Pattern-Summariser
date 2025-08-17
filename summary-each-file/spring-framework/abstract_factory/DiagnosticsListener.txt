@@ -1,0 +1,1 @@
+DiagnosticsListener acts as an abstract product for DiagnosticsListener, which is inherited by DiagnosticsListeners, DefaultDiagnosticsListener.

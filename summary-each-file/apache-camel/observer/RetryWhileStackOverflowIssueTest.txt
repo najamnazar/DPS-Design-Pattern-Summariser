@@ -1,0 +1,2 @@
+RetryWhileStackOverflowIssueTest acts as a publisher for observer Service, which tests Retry, which creates Route Builder, which is We Cool, which gets Counter, which currents Stack Size.
+RetryWhileStackOverflowIssueTest acts as a publisher for observer CamelContext, which tests Retry, which creates Route Builder, which is We Cool, which gets Counter, which currents Stack Size.

@@ -1,0 +1,1 @@
+DummySharedResource acts as an adaptee for adapter DummyHAService, which adapts to HAServiceTarget, which adapts to HAServiceTarget, which adapts to HAServiceTarget.

@@ -1,0 +1,2 @@
+BeanComponentWithPropertiesLookupSetFromEndpointTest acts as a publisher for observer Service, which creates Registry, which tests Bean Component, which creates Route Builder.
+BeanComponentWithPropertiesLookupSetFromEndpointTest acts as a publisher for observer CamelContext, which creates Registry, which tests Bean Component, which creates Route Builder.

@@ -1,0 +1,1 @@
+DistributedSchedulingAMProtocolPBClientImpl acts as a factory for DistributedSchedulingAMProtocol, which overrides registerApplicationMasterForDistributedScheduling method of DistributedSchedulingAMProtocol, allocateForDistributedScheduling method of DistributedSchedulingAMProtocol.

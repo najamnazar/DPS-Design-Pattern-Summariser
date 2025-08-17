@@ -1,0 +1,2 @@
+OnExceptionRetryUntilTest acts as a publisher for observer CamelContext, which creates Registry, which tests Retry Until, which retries @Header(Exchange.REDELIVERY_COUNTER) parameter of Integer, @Body parameter of String, @ExchangeException parameter of Exception.
+OnExceptionRetryUntilTest acts as a publisher for observer Service, which creates Registry, which tests Retry Until, which retries @Header(Exchange.REDELIVERY_COUNTER) parameter of Integer, @Body parameter of String, @ExchangeException parameter of Exception.

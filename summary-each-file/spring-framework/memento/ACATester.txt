@@ -1,0 +1,3 @@
+ACATester acts as a caretaker for memento ApplicationContext, which sets ApplicationContext parameter of ctx Application Context, which gets Application Context.
+ACATester acts as a caretaker for memento A, which sets ApplicationContext parameter of ctx Application Context, which gets Application Context.
+ACATester acts as a caretaker for memento C, which sets ApplicationContext parameter of ctx Application Context, which gets Application Context.

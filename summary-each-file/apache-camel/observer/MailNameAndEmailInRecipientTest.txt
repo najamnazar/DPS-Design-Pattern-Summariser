@@ -1,0 +1,5 @@
+MailNameAndEmailInRecipientTest acts as a publisher for observer ConsumerTemplate, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.
+MailNameAndEmailInRecipientTest acts as a publisher for observer FluentProducerTemplate, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.
+MailNameAndEmailInRecipientTest acts as a publisher for observer ProducerTemplate, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.
+MailNameAndEmailInRecipientTest acts as a publisher for observer CamelContext, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.
+MailNameAndEmailInRecipientTest acts as a publisher for observer Service, which tests Send With Name And Email In Recipient, which asserts String parameter of name Mailbox, which creates Route Builder.

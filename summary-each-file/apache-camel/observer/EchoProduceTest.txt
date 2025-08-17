@@ -1,0 +1,5 @@
+EchoProduceTest acts as a publisher for observer ConsumerTemplate, which tests Echo Produce, which creates Route Builder.
+EchoProduceTest acts as a publisher for observer CamelContext, which tests Echo Produce, which creates Route Builder.
+EchoProduceTest acts as a publisher for observer ProducerTemplate, which tests Echo Produce, which creates Route Builder.
+EchoProduceTest acts as a publisher for observer FluentProducerTemplate, which tests Echo Produce, which creates Route Builder.
+EchoProduceTest acts as a publisher for observer Service, which tests Echo Produce, which creates Route Builder.

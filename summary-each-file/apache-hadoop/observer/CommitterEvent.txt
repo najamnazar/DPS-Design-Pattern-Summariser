@@ -1,0 +1,1 @@
+CommitterEvent acts as an observer for publisher CommitterEventHandler, which is inherited by CommitterTaskAbortEvent, CommitterJobAbortEvent, CommitterJobSetupEvent, CommitterJobCommitEvent.

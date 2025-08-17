@@ -1,0 +1,2 @@
+TestOBSContractGetFileStatus acts as a publisher for observer Path, which creates final parameter of Configuration Contract.
+TestOBSContractGetFileStatus acts as a publisher for observer PathFilter, which creates final parameter of Configuration Contract.

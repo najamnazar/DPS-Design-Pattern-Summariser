@@ -1,0 +1,1 @@
+GroupStrategy acts as an observer for publisher StreamEndpoint, which is inherited by DefaultGroupStrategy, which groups List<String> parameter of lines Lines.

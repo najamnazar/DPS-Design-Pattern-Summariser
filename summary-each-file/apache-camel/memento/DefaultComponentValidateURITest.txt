@@ -1,0 +1,2 @@
+DefaultComponentValidateURITest acts as a caretaker for memento Context, which tests No Parameters, which tests Unknown Parameter, which tests Double Ampersand, which tests Trailing Ampersand, which tests Scheduled Poll Consumer Options.
+DefaultComponentValidateURITest acts as a caretaker for memento Producer, which tests No Parameters, which tests Unknown Parameter, which tests Double Ampersand, which tests Trailing Ampersand, which tests Scheduled Poll Consumer Options.

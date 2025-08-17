@@ -1,0 +1,2 @@
+InflightRepositoryRouteTest acts as a publisher for observer CamelContext, which tests Inflight, which creates Route Builder, which adds Exchange parameter of exchange, which adds Exchange parameter of exchange, String parameter of routeId.
+InflightRepositoryRouteTest acts as a publisher for observer Service, which tests Inflight, which creates Route Builder, which adds Exchange parameter of exchange, which adds Exchange parameter of exchange, String parameter of routeId.

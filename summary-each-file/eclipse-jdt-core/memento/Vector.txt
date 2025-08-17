@@ -1,0 +1,1 @@
+Vector acts as an originator for memento E, which gets E, which adds E parameter of o.

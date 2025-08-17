@@ -1,0 +1,9 @@
+IImportContainer acts as a product for IBinding, which overrides.
+IImportContainer acts as an abstract factory for, which is inherited by ImportContainer.
+IImportContainer acts as a product for ITypeRoot, which overrides.
+IImportContainer acts as a product for IWorkingCopy, which overrides.
+IImportContainer acts as a product for IJavaProject, which overrides.
+IImportContainer acts as a product for IDOMNode, which overrides.
+IImportContainer acts as a product for IJavaElementDelta, which overrides.
+IImportContainer acts as a product for IClassFile, which overrides.
+IImportContainer acts as a product for IJavaElement, which overrides.

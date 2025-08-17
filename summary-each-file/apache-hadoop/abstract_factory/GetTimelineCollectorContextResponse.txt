@@ -1,0 +1,1 @@
+GetTimelineCollectorContextResponse acts as an abstract product for GetTimelineCollectorContextResponse, which is inherited by GetTimelineCollectorContextResponsePBImpl.

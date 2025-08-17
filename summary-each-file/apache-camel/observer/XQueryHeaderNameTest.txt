@@ -1,0 +1,5 @@
+XQueryHeaderNameTest acts as a publisher for observer FluentProducerTemplate, which tests Choice With Header Name Premium, which tests Choice With Header Name Standard, which tests Choice With Header Name Unknown, which creates Route Builder.
+XQueryHeaderNameTest acts as a publisher for observer ProducerTemplate, which tests Choice With Header Name Premium, which tests Choice With Header Name Standard, which tests Choice With Header Name Unknown, which creates Route Builder.
+XQueryHeaderNameTest acts as a publisher for observer CamelContext, which tests Choice With Header Name Premium, which tests Choice With Header Name Standard, which tests Choice With Header Name Unknown, which creates Route Builder.
+XQueryHeaderNameTest acts as a publisher for observer Service, which tests Choice With Header Name Premium, which tests Choice With Header Name Standard, which tests Choice With Header Name Unknown, which creates Route Builder.
+XQueryHeaderNameTest acts as a publisher for observer ConsumerTemplate, which tests Choice With Header Name Premium, which tests Choice With Header Name Standard, which tests Choice With Header Name Unknown, which creates Route Builder.

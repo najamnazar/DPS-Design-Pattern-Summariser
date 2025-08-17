@@ -1,0 +1,1 @@
+StatsDSink acts as an observer, which inits SubsetConfiguration parameter of conf, which puts MetricsRecord parameter of record Metrics, which writes String parameter of line Metric, which flushes, which closes, which creates Socket, which writes String parameter of msg, which closes, which sets StatsD parameter of statsd Statsd.

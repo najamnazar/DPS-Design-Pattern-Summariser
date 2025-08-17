@@ -1,0 +1,1 @@
+CSConfigurationProvider acts as an abstract product for CapacityScheduler, which is inherited by FileBasedCSConfigurationProvider, MutableCSConfigurationProvider.

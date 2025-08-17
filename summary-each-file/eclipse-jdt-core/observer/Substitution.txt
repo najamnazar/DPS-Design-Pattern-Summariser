@@ -1,0 +1,1 @@
+Substitution acts as a publisher for observer TypeBinding, which is inherited by ParameterizedTypeBinding, ParameterizedGenericMethodBinding, which substitutes TypeBinding parameter of originalType.

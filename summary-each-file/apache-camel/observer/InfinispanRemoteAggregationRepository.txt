@@ -1,0 +1,2 @@
+InfinispanRemoteAggregationRepository acts as a publisher for observer CamelContext, which does Start, which does Stop, which gets Cache, which gets Configuration, which sets InfinispanRemoteConfiguration parameter of configuration Configuration.
+InfinispanRemoteAggregationRepository acts as a publisher for observer InfinispanRemoteConfiguration, which is inherited by, which does Start, which does Stop, which gets Cache, which gets Configuration, which sets InfinispanRemoteConfiguration parameter of configuration Configuration.

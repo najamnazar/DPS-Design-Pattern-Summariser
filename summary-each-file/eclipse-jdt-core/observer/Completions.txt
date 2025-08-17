@@ -1,0 +1,1 @@
+Completions acts as a publisher for observer String, which is inherited by, which gets Value, which gets Message, which tos String, which ofs String parameter of value, String parameter of message, which ofs String parameter of value.

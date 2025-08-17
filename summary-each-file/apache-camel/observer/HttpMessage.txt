@@ -1,0 +1,1 @@
+HttpMessage acts as a publisher for observer HttpCommonEndpoint, which is inherited by, which inits Exchange parameter of exchange, HttpCommonEndpoint parameter of endpoint, HttpServletRequest parameter of request, HttpServletResponse parameter of response, which resets, which gets Request, which gets Response, which creates Body, which news Instance, which tos String.

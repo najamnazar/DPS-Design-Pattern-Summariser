@@ -1,0 +1,5 @@
+MinaComponentWithConfigurationTest acts as a publisher for observer FluentProducerTemplate, which tests Mina Component With Configuration.
+MinaComponentWithConfigurationTest acts as a publisher for observer Service, which tests Mina Component With Configuration.
+MinaComponentWithConfigurationTest acts as a publisher for observer ProducerTemplate, which tests Mina Component With Configuration.
+MinaComponentWithConfigurationTest acts as a publisher for observer ConsumerTemplate, which tests Mina Component With Configuration.
+MinaComponentWithConfigurationTest acts as a publisher for observer CamelContext, which tests Mina Component With Configuration.

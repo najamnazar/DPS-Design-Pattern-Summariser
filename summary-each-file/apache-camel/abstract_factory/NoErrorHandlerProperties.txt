@@ -1,0 +1,4 @@
+NoErrorHandlerProperties acts as a product for ExtendedCamelContext, which overrides.
+NoErrorHandlerProperties acts as a product for Route, which overrides.
+NoErrorHandlerProperties acts as a product for ModelReifierFactory, which overrides.
+NoErrorHandlerProperties acts as a product for ErrorHandlerFactory, which overrides.

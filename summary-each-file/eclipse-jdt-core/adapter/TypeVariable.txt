@@ -1,0 +1,2 @@
+TypeVariable acts as an adaptee for adapter TypeParameterDeclarationImpl, which adapts to EclipseMirrorType, DeclarationImpl.
+TypeVariable acts as an adaptee for adapter TypeVariableImpl, which adapts to TypeMirrorImpl.

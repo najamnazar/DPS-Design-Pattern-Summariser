@@ -1,0 +1,1 @@
+InputMessageContent acts as an observer for publisher InlineQueryResultAudio, which is inherited by InputLocationMessageContent, InputTextMessageContent, InputContactMessageContent, InputVenueMessageContent.

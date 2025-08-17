@@ -1,0 +1,2 @@
+FileConsumerDirectoryNotMatchedTest acts as a publisher for observer Service, which tests Skip Directories, which creates Route Builder.
+FileConsumerDirectoryNotMatchedTest acts as a publisher for observer CamelContext, which tests Skip Directories, which creates Route Builder.

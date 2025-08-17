@@ -1,0 +1,1 @@
+Ddb2ClientFactory acts as an originator for memento Ddb2InternalClient, which gets a Ddb2InternalClient Dynamo DBClient to.

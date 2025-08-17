@@ -1,0 +1,3 @@
+ReservationIdPBImpl acts as a product for ReservationAllocation, which overrides getId method of ReservationId, setId method of ReservationId, getClusterTimestamp method of ReservationId, setClusterTimestamp method of ReservationId, build method of ReservationId.
+ReservationIdPBImpl acts as a product for RMApp, which overrides getId method of ReservationId, setId method of ReservationId, getClusterTimestamp method of ReservationId, setClusterTimestamp method of ReservationId, build method of ReservationId.
+ReservationIdPBImpl acts as a product for ReservationSystem, which overrides getId method of ReservationId, setId method of ReservationId, getClusterTimestamp method of ReservationId, setClusterTimestamp method of ReservationId, build method of ReservationId.

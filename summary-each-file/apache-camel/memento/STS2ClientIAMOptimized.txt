@@ -1,0 +1,2 @@
+STS2ClientIAMOptimized acts as a caretaker for memento Configuration, which gets Sts Client.
+STS2ClientIAMOptimized acts as a memento, which gets Sts Client.

@@ -1,0 +1,1 @@
+CloudEventProcessor acts as an abstract factory for Processor, CloudEvent, which is inherited by AbstractCloudEventProcessor.

@@ -1,0 +1,1 @@
+JCacheOperation acts as an abstract factory for CacheResolver, which is inherited by.

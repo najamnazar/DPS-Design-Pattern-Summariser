@@ -1,0 +1,1 @@
+AutoCloseableLock acts as a target for adapter AutoCloseDataSetLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock, which adapts to AutoCloseableLock.

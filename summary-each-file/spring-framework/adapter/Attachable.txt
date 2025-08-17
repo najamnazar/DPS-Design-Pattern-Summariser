@@ -1,0 +1,1 @@
+Attachable acts as a target for adapter Result, which adapts to Attachable, which adapts to Attachable, which adapts to Attachable.

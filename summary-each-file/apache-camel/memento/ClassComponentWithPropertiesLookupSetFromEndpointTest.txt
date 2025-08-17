@@ -1,0 +1,2 @@
+ClassComponentWithPropertiesLookupSetFromEndpointTest acts as a caretaker for memento Context, which creates Registry, which tests Class Component, which creates Route Builder.
+ClassComponentWithPropertiesLookupSetFromEndpointTest acts as a caretaker for memento Producer, which creates Registry, which tests Class Component, which creates Route Builder.

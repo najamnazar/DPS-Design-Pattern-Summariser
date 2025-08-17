@@ -1,0 +1,5 @@
+PgReplicationITSupport acts as a publisher for observer ConsumerTemplate.
+PgReplicationITSupport acts as a publisher for observer ProducerTemplate.
+PgReplicationITSupport acts as a publisher for observer CamelContext.
+PgReplicationITSupport acts as a publisher for observer FluentProducerTemplate.
+PgReplicationITSupport acts as a publisher for observer Service.

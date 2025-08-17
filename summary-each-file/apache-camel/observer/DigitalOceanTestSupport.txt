@@ -1,0 +1,5 @@
+DigitalOceanTestSupport acts as a publisher for observer FluentProducerTemplate, which has Credentials, which loads Properties, which uses Override Properties With Properties Component.
+DigitalOceanTestSupport acts as a publisher for observer CamelContext, which has Credentials, which loads Properties, which uses Override Properties With Properties Component.
+DigitalOceanTestSupport acts as a publisher for observer ProducerTemplate, which has Credentials, which loads Properties, which uses Override Properties With Properties Component.
+DigitalOceanTestSupport acts as a publisher for observer Service, which has Credentials, which loads Properties, which uses Override Properties With Properties Component.
+DigitalOceanTestSupport acts as a publisher for observer ConsumerTemplate, which has Credentials, which loads Properties, which uses Override Properties With Properties Component.

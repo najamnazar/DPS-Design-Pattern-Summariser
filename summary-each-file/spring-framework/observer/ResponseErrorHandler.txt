@@ -1,0 +1,1 @@
+ResponseErrorHandler acts as an observer for publisher RestTemplate, which is inherited by DefaultResponseErrorHandler, which has ClientHttpResponse parameter of response Error, which handles ClientHttpResponse parameter of response Error, which handles URI parameter of url, HttpMethod parameter of method, ClientHttpResponse parameter of response Error.

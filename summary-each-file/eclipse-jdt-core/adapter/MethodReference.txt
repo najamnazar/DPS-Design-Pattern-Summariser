@@ -1,0 +1,4 @@
+MethodReference acts as a target for adapter CreationReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference.
+MethodReference acts as a target for adapter TypeMethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference.
+MethodReference acts as a target for adapter ExpressionMethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference.
+MethodReference acts as a target for adapter SuperMethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference, which adapts to MethodReference.

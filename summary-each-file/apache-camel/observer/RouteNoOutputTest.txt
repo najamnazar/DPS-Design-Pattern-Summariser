@@ -1,0 +1,2 @@
+RouteNoOutputTest acts as a publisher for observer CamelContext, which sets Up, which tests Dummy, which creates Route Builder.
+RouteNoOutputTest acts as a publisher for observer Service, which sets Up, which tests Dummy, which creates Route Builder.

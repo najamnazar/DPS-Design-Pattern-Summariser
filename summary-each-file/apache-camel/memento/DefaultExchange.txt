@@ -1,0 +1,2 @@
+DefaultExchange acts as a caretaker for memento SafeCopyProperty.
+DefaultExchange acts as a caretaker for memento Context.

@@ -1,0 +1,1 @@
+NettyServerBootstrapFactory acts as an abstract product for NettyConsumer, which is inherited by SingleUDPNettyServerBootstrapFactory, ClientModeTCPNettyServerBootstrapFactory, SingleTCPNettyServerBootstrapFactory.

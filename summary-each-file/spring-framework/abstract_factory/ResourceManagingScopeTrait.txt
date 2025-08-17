@@ -1,0 +1,1 @@
+ResourceManagingScopeTrait acts as an abstract factory for Array, which is inherited by DefaultBindingSetSQLOutputContext, DefaultBindingSetStatementContext.

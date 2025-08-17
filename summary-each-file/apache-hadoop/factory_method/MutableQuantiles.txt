@@ -1,0 +1,2 @@
+MutableQuantiles acts as a factory method for QuantileEstimator, which is inherited by MutableQuantiles.
+MutableQuantiles acts as a factory for MutableQuantiles, which overrides.

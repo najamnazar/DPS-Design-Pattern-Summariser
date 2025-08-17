@@ -1,0 +1,1 @@
+TransactionalSqlScriptsSpringRuleTests acts as a caretaker for memento C, which classes Level Scripts, which methods Level Scripts, which asserts int parameter of expected Num Users, which counts String parameter of tableName Rows In Table.

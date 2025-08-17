@@ -1,0 +1,2 @@
+StompClientSupport acts as a factory for AbstractAdaptableMessageListener, which overrides.
+StompClientSupport acts as a factory for WebSocketStompClientTests, which overrides.

@@ -1,0 +1,6 @@
+IType acts as an abstract product for IType, which is inherited by BinaryType, SourceType.
+IType acts as a product for ILocalVariable, which overrides.
+IType acts as an abstract product for IType, which is inherited by BinaryType, BinaryType, BinaryType, BinaryType, BinaryType, BinaryType, BinaryType, BinaryType, SourceType, SourceType, SourceType, SourceType, SourceType, SourceType, SourceType, SourceType.
+IType acts as an abstract factory for ITypeHierarchy, IPackageFragment, IMethod, IField, IType, which is inherited by BinaryType, SourceType.
+IType acts as a product for ITypeParameter, which overrides.
+IType acts as an abstract product for IType, which is inherited by BinaryType, BinaryType, SourceType, SourceType.

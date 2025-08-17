@@ -1,0 +1,1 @@
+CxfPayLoadMessageXmlBindingRouterTest acts as a factory method for HelloService, which is inherited by CxfSimpleRouterTest, CxfSimpleRouterTest, CxfSimpleRouterTest, CxfSimpleRouterTest, CxfSimpleRouterTest.

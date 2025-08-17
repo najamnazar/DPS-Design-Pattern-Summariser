@@ -1,0 +1,1 @@
+AbstractConstraintDefinition acts as a factory for AbstractIndexDefinition, which overrides.

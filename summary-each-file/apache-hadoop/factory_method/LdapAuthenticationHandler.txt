@@ -1,0 +1,1 @@
+LdapAuthenticationHandler acts as a product for AuthenticationFilter, which overrides getType method of AuthenticationHandler, init method of AuthenticationHandler, destroy method of AuthenticationHandler, managementOperation method of AuthenticationHandler, authenticate method of AuthenticationHandler.

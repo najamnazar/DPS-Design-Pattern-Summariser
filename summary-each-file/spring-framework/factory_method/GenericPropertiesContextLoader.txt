@@ -1,0 +1,1 @@
+GenericPropertiesContextLoader acts as a factory method for BeanDefinitionReader, which is inherited by AbstractGenericContextLoader, AbstractGenericContextLoader, AbstractGenericContextLoader, GenericXmlContextLoader, AbstractGenericContextLoader.

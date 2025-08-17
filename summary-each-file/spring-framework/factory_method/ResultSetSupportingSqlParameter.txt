@@ -1,0 +1,2 @@
+ResultSetSupportingSqlParameter acts as a factory for ResultSetSupportingSqlParameter, which overrides.
+ResultSetSupportingSqlParameter acts as a factory method for RowCallbackHandler, which is inherited by ResultSetSupportingSqlParameter, ResultSetSupportingSqlParameter.

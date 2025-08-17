@@ -1,0 +1,1 @@
+SimpleRouteMatcher acts as a product for MessageMappingMessageHandler, which overrides isPattern method of RouteMatcher, combine method of RouteMatcher, match method of RouteMatcher, matchAndExtract method of RouteMatcher, getPatternComparator method of RouteMatcher, value method of RouteMatcher.

@@ -1,0 +1,1 @@
+CompilationUnitElementInfo acts as a publisher for observer IModuleDescription, which gets Source Length, which gets Source Range, which sets int parameter of newSourceLength Source Length, which gets Custom Options, which sets Map<String, parameter of String> Custom Options.

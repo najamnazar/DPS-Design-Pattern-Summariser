@@ -1,0 +1,1 @@
+XsltUriResolverFactory acts as an observer for publisher XsltComponent, XsltSaxonComponent, which is inherited by DefaultXsltUriResolverFactory, which creates CamelContext parameter of camelContext, String parameter of resourceUri Uri Resolver.

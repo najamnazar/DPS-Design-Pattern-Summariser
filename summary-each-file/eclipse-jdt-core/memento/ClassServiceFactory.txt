@@ -1,0 +1,2 @@
+ClassServiceFactory acts as a caretaker for memento Class, which news Instance, which tos String.
+ClassServiceFactory acts as a caretaker for memento C, which news Instance, which tos String.

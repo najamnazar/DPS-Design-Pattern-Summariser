@@ -1,0 +1,2 @@
+OutputStream acts as an abstract product for OutputStream, which is inherited by ByteArrayOutputStream, ByteArrayOutputStream, BufferedOutputStream, BufferedOutputStream, FileOutputStream, FileOutputStream, NoOpOutputStream, NoOpOutputStream.
+OutputStream acts as an abstract product for OutputStream, which is inherited by ByteArrayOutputStream, BufferedOutputStream, FileOutputStream, NoOpOutputStream.

@@ -1,0 +1,1 @@
+Msg acts as a singleton, which gets a Msg Default Instance to.

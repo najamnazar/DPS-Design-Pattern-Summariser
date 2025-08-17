@@ -1,0 +1,1 @@
+MessageChannel acts as an observer for publisher AbstractBrokerMessageHandler, SimpleBrokerMessageHandler, StompBrokerRelayMessageHandler, which is inherited by AbstractMessageChannel, OrderedMessageChannelDecorator, PollableChannel, SubscribableChannel, which sends Message<?> parameter of message, which sends Message<?> parameter of message, long parameter of timeout.

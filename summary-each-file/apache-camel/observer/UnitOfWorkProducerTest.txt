@@ -1,0 +1,2 @@
+UnitOfWorkProducerTest acts as a publisher for observer CamelContext, which creates Camel Context, which tears Down, which tests Seda Based Unit Of Work Producer, which tests Direct Based Unit Of Work Producer, which creates Route Builder.
+UnitOfWorkProducerTest acts as a publisher for observer Service, which creates Camel Context, which tears Down, which tests Seda Based Unit Of Work Producer, which tests Direct Based Unit Of Work Producer, which creates Route Builder.

@@ -1,0 +1,1 @@
+ConcurrentWebSocketSessionDecorator acts as a decorator for decorator WebSocketSessionDecorator, which overrides sendMessage method of WebSocketSessionDecorator, close method of WebSocketSessionDecorator, toString method of WebSocketSessionDecorator.

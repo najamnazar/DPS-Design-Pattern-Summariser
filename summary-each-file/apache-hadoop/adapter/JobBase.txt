@@ -1,0 +1,2 @@
+JobBase acts as a target for adapter DataJoinMapperBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase.
+JobBase acts as a target for adapter DataJoinReducerBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase, which adapts to JobBase.

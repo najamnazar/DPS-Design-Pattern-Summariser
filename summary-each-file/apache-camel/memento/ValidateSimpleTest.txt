@@ -1,0 +1,2 @@
+ValidateSimpleTest acts as a caretaker for memento Context, which sets Up, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+ValidateSimpleTest acts as a caretaker for memento Producer, which sets Up, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.

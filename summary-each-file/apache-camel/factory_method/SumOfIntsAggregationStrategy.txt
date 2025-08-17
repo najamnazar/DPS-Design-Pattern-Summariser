@@ -1,0 +1,1 @@
+SumOfIntsAggregationStrategy acts as a product for EnrichDefinition, which overrides aggregate method of AggregationStrategy.

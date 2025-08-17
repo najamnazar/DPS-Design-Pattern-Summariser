@@ -1,0 +1,3 @@
+ApplicationContextAware acts as an adaptee for adapter ExceptionHandlerExceptionResolver, which adapts to AbstractHandlerMethodExceptionResolver.
+ApplicationContextAware acts as an adaptee for adapter SpringBeanJobFactory, which adapts to AdaptableJobFactory.
+ApplicationContextAware acts as an adaptee for adapter LocalValidatorFactoryBean, which adapts to SpringValidatorAdapter.

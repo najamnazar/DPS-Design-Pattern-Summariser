@@ -1,0 +1,2 @@
+GetSpaceUsed acts as an abstract product for GetSpaceUsed, which is inherited by CachingGetSpaceUsed.
+GetSpaceUsed acts as an abstract factory for GetSpaceUsed, Configuration, which is inherited by CachingGetSpaceUsed.

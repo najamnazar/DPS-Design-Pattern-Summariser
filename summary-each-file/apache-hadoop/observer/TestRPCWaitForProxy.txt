@@ -1,0 +1,3 @@
+TestRPCWaitForProxy acts as a publisher for observer Configuration, which setups Protocol Engine, which tests Wait For Proxy, which tests Interrupted Wait For Proxy, which runs, which gets Caught.
+TestRPCWaitForProxy acts as a publisher for observer Text, which setups Protocol Engine, which tests Wait For Proxy, which tests Interrupted Wait For Proxy, which runs, which gets Caught.
+TestRPCWaitForProxy acts as a publisher for observer Server, which setups Protocol Engine, which tests Wait For Proxy, which tests Interrupted Wait For Proxy, which runs, which gets Caught.

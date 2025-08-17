@@ -1,0 +1,8 @@
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer ChildListPropertyDescriptor, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as an observer, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer ASTNode, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer SimplePropertyDescriptor, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer ChildPropertyDescriptor, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer Name, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer AST, which gets Token, which gets Possible Keywords.
+CompletionOnKeywordModuleDeclaration acts as a publisher for observer Javadoc, which gets Token, which gets Possible Keywords.

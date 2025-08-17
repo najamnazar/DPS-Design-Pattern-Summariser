@@ -1,0 +1,5 @@
+MailContentTypeTest acts as a publisher for observer CamelContext, which tests Send Html Mail, which tests Send Plain Mail, which tests Send Multipart Mail, which creates Route Builder.
+MailContentTypeTest acts as a publisher for observer ConsumerTemplate, which tests Send Html Mail, which tests Send Plain Mail, which tests Send Multipart Mail, which creates Route Builder.
+MailContentTypeTest acts as a publisher for observer FluentProducerTemplate, which tests Send Html Mail, which tests Send Plain Mail, which tests Send Multipart Mail, which creates Route Builder.
+MailContentTypeTest acts as a publisher for observer ProducerTemplate, which tests Send Html Mail, which tests Send Plain Mail, which tests Send Multipart Mail, which creates Route Builder.
+MailContentTypeTest acts as a publisher for observer Service, which tests Send Html Mail, which tests Send Plain Mail, which tests Send Multipart Mail, which creates Route Builder.

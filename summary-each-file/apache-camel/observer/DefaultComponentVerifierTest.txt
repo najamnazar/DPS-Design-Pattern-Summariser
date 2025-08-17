@@ -1,0 +1,2 @@
+DefaultComponentVerifierTest acts as a publisher for observer CamelContext, which is Use Route Builder, which sets Up, which tests Parameters, which tests Parameters With Missing Mandatory Options, which tests Parameters With Wrong Options.
+DefaultComponentVerifierTest acts as a publisher for observer Service, which is Use Route Builder, which sets Up, which tests Parameters, which tests Parameters With Missing Mandatory Options, which tests Parameters With Wrong Options.

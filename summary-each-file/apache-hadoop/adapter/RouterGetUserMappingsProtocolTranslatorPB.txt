@@ -1,0 +1,1 @@
+RouterGetUserMappingsProtocolTranslatorPB acts as an adapter, which adapts to GetUserMappingsProtocolClientSideTranslatorPB.

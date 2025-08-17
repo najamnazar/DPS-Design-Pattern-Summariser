@@ -1,0 +1,1 @@
+READDIRPLUS3Response acts as a caretaker for memento Attribute, which gets Name, which deseralizes XDR parameter of xdr, which seralizes XDR parameter of xdr, which gets Entries, which gets Eof, which gets Dir List Plus, which deserializes XDR parameter of xdr, which serializes XDR parameter of out, int parameter of xid, Verifier parameter of verifier.

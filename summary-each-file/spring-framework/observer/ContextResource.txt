@@ -1,0 +1,2 @@
+ContextResource acts as an observer for publisher ResourceTestBean, which is inherited by ServletContextResource, which gets Path Within Context.
+ContextResource acts as an observer, which gets Path Within Context.

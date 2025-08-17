@@ -1,0 +1,2 @@
+MultipartResolver acts as a factory for ComplexWebApplicationContext, which overrides.
+MultipartResolver acts as an abstract product for RequestPartIntegrationTests, which is inherited by StandardServletMultipartResolver.

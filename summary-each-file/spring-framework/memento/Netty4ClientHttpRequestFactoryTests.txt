@@ -1,0 +1,2 @@
+Netty4ClientHttpRequestFactoryTests acts as a caretaker for memento ClientHttpRequest, which creates Event Loop Group, which shutdowns Event Loop Group, which creates Request Factory, which https Methods.
+Netty4ClientHttpRequestFactoryTests acts as a caretaker for memento C, which creates Event Loop Group, which shutdowns Event Loop Group, which creates Request Factory, which https Methods.

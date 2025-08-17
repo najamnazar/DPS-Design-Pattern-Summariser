@@ -1,0 +1,1 @@
+ReturnValueHandlerConfigurer acts as an observer for publisher AbstractMethodMessageHandler, which is inherited by, which adds HandlerMethodReturnValueHandler... parameter of handlers Custom Handler, which gets Custom Handlers.

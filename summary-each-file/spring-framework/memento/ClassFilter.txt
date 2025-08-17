@@ -1,0 +1,1 @@
+ClassFilter acts as a caretaker for memento C, which is inherited by, which matches Class<?> parameter of clazz.

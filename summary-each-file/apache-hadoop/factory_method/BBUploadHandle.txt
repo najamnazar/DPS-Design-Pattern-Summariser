@@ -1,0 +1,2 @@
+BBUploadHandle acts as a factory method for UploadHandle, which is inherited by AbstractContractMultipartUploaderTest, AbstractContractMultipartUploaderTest.
+BBUploadHandle acts as a product for BBUploadHandle, which overrides bytes method of UploadHandle, equals method of UploadHandle.

@@ -1,0 +1,1 @@
+EntryFilter acts as a memento, which resumes Valid Entry, which resumes Valid Entry.

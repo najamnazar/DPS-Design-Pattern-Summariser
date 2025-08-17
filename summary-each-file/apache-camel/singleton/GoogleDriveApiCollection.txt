@@ -1,0 +1,1 @@
+GoogleDriveApiCollection acts as a singleton, which gets a GoogleDriveApiCollection Collection to.

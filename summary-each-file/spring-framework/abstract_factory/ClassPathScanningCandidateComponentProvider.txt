@@ -1,0 +1,1 @@
+ClassPathScanningCandidateComponentProvider acts as a factory for EnvironmentCapable, which overrides getEnvironment method of EnvironmentCapable.

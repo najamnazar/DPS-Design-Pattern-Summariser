@@ -1,0 +1,1 @@
+CancelDelegationTokenRequest acts as a publisher for observer Token, which is inherited by CancelDelegationTokenRequestPBImpl, which news Token parameter of dToken Instance, which gets Delegation Token, which sets Token parameter of dToken Delegation Token.

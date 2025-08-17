@@ -1,0 +1,1 @@
+RecoveredRequiresStatement acts as an adaptee for adapter RecoveredModule, which adapts toString method of RecoveredRequiresStatement to RecoveredElement, which adapts updatedRequiresStatement method of RecoveredRequiresStatement to RecoveredElement.

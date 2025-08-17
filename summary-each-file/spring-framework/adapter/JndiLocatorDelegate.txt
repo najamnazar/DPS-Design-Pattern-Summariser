@@ -1,0 +1,1 @@
+JndiLocatorDelegate acts as an adaptee for adapter DefaultManagedAwareThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory, which adapts to CustomizableThreadFactory.

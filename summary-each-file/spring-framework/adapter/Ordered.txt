@@ -1,0 +1,5 @@
+Ordered acts as an adaptee for adapter UrlBasedViewResolver, which adapts to AbstractCachingViewResolver.
+Ordered acts as an adaptee for adapter AbstractHandlerMapping, which adapts to WebApplicationObjectSupport.
+Ordered acts as an adaptee for adapter XmlViewResolver, which adapts to AbstractCachingViewResolver.
+Ordered acts as an adaptee for adapter ContentNegotiatingViewResolver, which adapts to WebApplicationObjectSupport.
+Ordered acts as an adaptee for adapter AsyncExecutionInterceptor, which adapts to AsyncExecutionAspectSupport.

@@ -1,0 +1,1 @@
+AzureKeyVaultManagerDevConsole acts as a publisher for observer CamelContext, which does Start, which does Map<String, parameter of Object> Call Text, which does Map<String, parameter of Object> Call Json.

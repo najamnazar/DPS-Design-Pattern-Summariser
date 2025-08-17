@@ -1,0 +1,1 @@
+RouteMatcher acts as an abstract product for RouteMatcher, which is inherited by PathPatternRouteMatcher, SimpleRouteMatcher.

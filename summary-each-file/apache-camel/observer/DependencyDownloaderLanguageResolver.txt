@@ -1,0 +1,2 @@
+DependencyDownloaderLanguageResolver acts as a publisher for observer CamelContext, which is inherited by, which resolves String parameter of name, CamelContext parameter of context Language, which downloads String parameter of artifactId, String parameter of version Loader.
+DependencyDownloaderLanguageResolver acts as a publisher for observer CamelContext, which resolves String parameter of name, CamelContext parameter of context Language, which downloads String parameter of artifactId, String parameter of version Loader.

@@ -1,0 +1,1 @@
+ClientHttpRequestDecorator acts as a product for MockMvcClientHttpRequestFactory, which overrides.

@@ -1,0 +1,2 @@
+JtaTransactionManagerFactoryBean acts as a caretaker for memento TransactionManager, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.
+JtaTransactionManagerFactoryBean acts as a caretaker for memento Transaction, which afters Properties Set, which gets Object, which gets Object Type, which is Singleton.

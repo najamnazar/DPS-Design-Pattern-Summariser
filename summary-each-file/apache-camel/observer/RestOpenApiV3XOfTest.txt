@@ -1,0 +1,5 @@
+RestOpenApiV3XOfTest acts as a publisher for observer FluentProducerTemplate, which creates Route Builder, which tests Reader Read One Of, which tests Reader Read All Of, which tests Reader Read Any Of.
+RestOpenApiV3XOfTest acts as a publisher for observer ConsumerTemplate, which creates Route Builder, which tests Reader Read One Of, which tests Reader Read All Of, which tests Reader Read Any Of.
+RestOpenApiV3XOfTest acts as a publisher for observer Service, which creates Route Builder, which tests Reader Read One Of, which tests Reader Read All Of, which tests Reader Read Any Of.
+RestOpenApiV3XOfTest acts as a publisher for observer ProducerTemplate, which creates Route Builder, which tests Reader Read One Of, which tests Reader Read All Of, which tests Reader Read Any Of.
+RestOpenApiV3XOfTest acts as a publisher for observer CamelContext, which creates Route Builder, which tests Reader Read One Of, which tests Reader Read All Of, which tests Reader Read Any Of.

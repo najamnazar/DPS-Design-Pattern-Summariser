@@ -1,0 +1,1 @@
+ServletContextAware acts as an adaptee for adapter WebApplicationObjectSupport, which adapts to ApplicationObjectSupport.

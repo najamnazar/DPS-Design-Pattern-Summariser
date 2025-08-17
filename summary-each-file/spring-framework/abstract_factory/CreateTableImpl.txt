@@ -1,0 +1,13 @@
+CreateTableImpl acts as a factory for CreateTableWithDataStep, which overrides.
+CreateTableImpl acts as a factory for CreateTableElementListStep, which overrides.
+CreateTableImpl acts as a product for CreateTableStorageStep, which overrides.
+CreateTableImpl acts as a product for DSLContext, which overrides.
+CreateTableImpl acts as a factory for CreateTableCommentStep, which overrides.
+CreateTableImpl acts as a product for CreateTableElementListStep, which overrides.
+CreateTableImpl acts as a factory for CreateTableAsStep, which overrides.
+CreateTableImpl acts as a product for CreateTableCommentStep, which overrides.
+CreateTableImpl acts as a product for CreateTableOnCommitStep, which overrides.
+CreateTableImpl acts as a factory for CreateTableOnCommitStep, which overrides.
+CreateTableImpl acts as a product for CreateTableWithDataStep, which overrides.
+CreateTableImpl acts as a factory for CreateTableStorageStep, which overrides.
+CreateTableImpl acts as a product for CreateTableAsStep, which overrides.

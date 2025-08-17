@@ -1,0 +1,1 @@
+ControlledClock acts as an observer, which sets long parameter of time Time, which resets, which ticks int parameter of seconds Sec, which ticks long parameter of millisec Msec, which gets Time.

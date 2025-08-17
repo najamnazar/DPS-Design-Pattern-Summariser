@@ -1,0 +1,4 @@
+GetSafeModeRequestPBImpl acts as a caretaker for memento SafeMode, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance.
+GetSafeModeRequestPBImpl acts as a memento, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance, which reads String parameter of base64String Instance.
+GetSafeModeRequestPBImpl acts as a caretaker for memento GetSafeModeRequest, which gets Proto, which sets Message parameter of proto Proto, which reads String parameter of base64String Instance.
+GetSafeModeRequestPBImpl acts as an originator for memento GetSafeModeRequest.

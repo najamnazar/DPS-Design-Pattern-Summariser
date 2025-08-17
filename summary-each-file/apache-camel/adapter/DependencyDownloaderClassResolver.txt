@@ -1,0 +1,1 @@
+DependencyDownloaderClassResolver acts as an adapter, which adapts to DefaultClassResolver, which adapts to DefaultClassResolver.

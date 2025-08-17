@@ -1,0 +1,2 @@
+DavidSiefertTest acts as a publisher for observer Service, which tests Works, which tests Header Predicate Fails, which creates Route Builder, which processes Exchange parameter of exchange.
+DavidSiefertTest acts as a publisher for observer CamelContext, which tests Works, which tests Header Predicate Fails, which creates Route Builder, which processes Exchange parameter of exchange.

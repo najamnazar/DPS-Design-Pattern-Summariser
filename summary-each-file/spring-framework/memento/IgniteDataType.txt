@@ -1,0 +1,2 @@
+IgniteDataType acts as a caretaker for memento B.
+IgniteDataType acts as a caretaker for memento SQL.

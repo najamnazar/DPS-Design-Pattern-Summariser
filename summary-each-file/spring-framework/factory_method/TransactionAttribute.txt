@@ -1,0 +1,1 @@
+TransactionAttribute acts as an abstract product for MapTransactionAttributeSource, which is inherited by DelegatingTransactionAttribute, DefaultTransactionAttribute.

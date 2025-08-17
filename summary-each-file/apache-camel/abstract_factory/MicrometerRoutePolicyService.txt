@@ -1,0 +1,1 @@
+MicrometerRoutePolicyService acts as a factory for CamelContextAware, which overrides.

@@ -1,0 +1,2 @@
+PropertiesComponentNegateTest acts as a publisher for observer CamelContext, which tests Negate, which creates Route Builder, which creates Camel Context.
+PropertiesComponentNegateTest acts as a publisher for observer Service, which tests Negate, which creates Route Builder, which creates Camel Context.

@@ -1,0 +1,2 @@
+ErrorHandlerAware acts as an adaptee for adapter RecipientList, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+ErrorHandlerAware acts as an adaptee for adapter MulticastProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.

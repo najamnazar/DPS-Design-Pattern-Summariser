@@ -1,0 +1,1 @@
+CustomSQLExceptionTranslatorRegistry acts as a publisher for observer SQLExceptionTranslator, which is inherited by, which gets Instance, which registers String parameter of dbName, SQLExceptionTranslator parameter of translator Translator, which finds String parameter of dbName Translator For Database.

@@ -1,0 +1,1 @@
+ExternalReplica acts as an observer, which gets Block Id, which gets Generation Stamp, which gets State, which gets Num Bytes, which gets Bytes On Disk, which gets Visible Length, which gets Storage Uuid, which is On Transient Storage, which gets Volume.

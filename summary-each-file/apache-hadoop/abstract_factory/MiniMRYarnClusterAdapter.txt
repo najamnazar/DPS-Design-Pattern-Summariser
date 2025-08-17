@@ -1,0 +1,1 @@
+MiniMRYarnClusterAdapter acts as a factory for MiniMRClientCluster, which overrides getConfig method of MiniMRClientCluster, start method of MiniMRClientCluster, stop method of MiniMRClientCluster, restart method of MiniMRClientCluster.

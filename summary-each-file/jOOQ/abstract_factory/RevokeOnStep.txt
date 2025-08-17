@@ -1,0 +1,2 @@
+RevokeOnStep acts as an abstract factory for RevokeFromStep, which is inherited by RevokeImpl.
+RevokeOnStep acts as an abstract product for RevokeOnStep, which is inherited by RevokeImpl, RevokeImpl, RevokeImpl, RevokeImpl, RevokeImpl, RevokeImpl.

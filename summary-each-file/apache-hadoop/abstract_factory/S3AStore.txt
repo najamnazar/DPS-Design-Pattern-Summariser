@@ -1,0 +1,3 @@
+S3AStore acts as a product for S3AStore, which overrides.
+S3AStore acts as an abstract factory for S3AStatisticsContext, DurationTrackerFactory, RequestFactory, ClientManager, which is inherited by S3AStoreImpl.
+S3AStore acts as an abstract product for S3AStore, which is inherited by S3AStoreImpl.

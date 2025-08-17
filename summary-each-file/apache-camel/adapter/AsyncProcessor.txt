@@ -1,0 +1,18 @@
+AsyncProcessor acts as an adaptee for adapter Splitter, which adapts to MulticastProcessor, which adapts to MulticastProcessor.
+AsyncProcessor acts as an adaptee for adapter DataFormatEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+AsyncProcessor acts as an adaptee for adapter HazelcastSedaConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.
+AsyncProcessor acts as an adaptee for adapter RoutingSlip, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter Resequencer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter WireTapProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter DefaultServiceCallProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter SedaEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+AsyncProcessor acts as an adaptee for adapter QuartzEndpoint, which adapts to DefaultEndpoint, which adapts to DefaultEndpoint.
+AsyncProcessor acts as an adaptee for adapter DelegateAsyncProcessor, which adapts to AsyncProcessorSupport, DelegateProcessor, which adapts to AsyncProcessorSupport, DelegateProcessor.
+AsyncProcessor acts as an adaptee for adapter KameletProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter ChoiceProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter ThroughputLogger, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter RestProducerBindingProcessor, which adapts to DelegateAsyncProcessor, which adapts to DelegateAsyncProcessor.
+AsyncProcessor acts as an adaptee for adapter IdempotentConsumer, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter AggregateProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter ResumableProcessor, which adapts to AsyncProcessorSupport, which adapts to AsyncProcessorSupport.
+AsyncProcessor acts as an adaptee for adapter FailOverLoadBalancer, which adapts to LoadBalancerSupport, which adapts to LoadBalancerSupport.

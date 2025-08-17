@@ -1,0 +1,2 @@
+ThreadsRequestReplyTest acts as a publisher for observer Service, which tests Threads In Out, which creates Route Builder.
+ThreadsRequestReplyTest acts as a publisher for observer CamelContext, which tests Threads In Out, which creates Route Builder.

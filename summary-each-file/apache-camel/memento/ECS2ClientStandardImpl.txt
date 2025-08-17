@@ -1,0 +1,2 @@
+ECS2ClientStandardImpl acts as a memento, which gets Ecs Client.
+ECS2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Ecs Client.

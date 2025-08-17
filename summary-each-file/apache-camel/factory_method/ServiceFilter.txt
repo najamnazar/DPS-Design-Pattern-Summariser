@@ -1,0 +1,1 @@
+ServiceFilter acts as an abstract product for CombinedServiceFilterFactory, which is inherited by HealthyServiceFilter, BlacklistServiceFilter, PassThroughServiceFilter, CombinedServiceFilter, DefaultServiceFilter.

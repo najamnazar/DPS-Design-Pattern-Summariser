@@ -1,0 +1,1 @@
+File acts as an observer for publisher Source, which is inherited by FileImpl, which pathes, which names, which contents, which types.

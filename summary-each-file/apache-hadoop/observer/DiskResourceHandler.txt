@@ -1,0 +1,1 @@
+DiskResourceHandler acts as an observer.

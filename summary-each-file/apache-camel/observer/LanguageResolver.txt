@@ -1,0 +1,1 @@
+LanguageResolver acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultLanguageResolver, which resolves String parameter of name, CamelContext parameter of context Language.

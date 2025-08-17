@@ -1,0 +1,5 @@
+JCacheAggregationRepositoryTestSupport acts as a publisher for observer FluentProducerTemplate, which creates boolean parameter of optimistic Repository.
+JCacheAggregationRepositoryTestSupport acts as a publisher for observer ConsumerTemplate, which creates boolean parameter of optimistic Repository.
+JCacheAggregationRepositoryTestSupport acts as a publisher for observer Service, which creates boolean parameter of optimistic Repository.
+JCacheAggregationRepositoryTestSupport acts as a publisher for observer ProducerTemplate, which creates boolean parameter of optimistic Repository.
+JCacheAggregationRepositoryTestSupport acts as a publisher for observer CamelContext, which creates boolean parameter of optimistic Repository.

@@ -1,0 +1,2 @@
+SplitterWireTapStreamCacheTest acts as a publisher for observer CamelContext, which sets Up, which tests Wire Tap After Split Deletes Stream Cache File When Split Finishes, which creates Route Builder.
+SplitterWireTapStreamCacheTest acts as a publisher for observer Service, which sets Up, which tests Wire Tap After Split Deletes Stream Cache File When Split Finishes, which creates Route Builder.

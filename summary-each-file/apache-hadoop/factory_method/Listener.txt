@@ -1,0 +1,2 @@
+Listener acts as an abstract product for AbstractFuture, which is inherited by TracingHeaderValidator.
+Listener acts as a factory for AbstractFuture, which overrides.

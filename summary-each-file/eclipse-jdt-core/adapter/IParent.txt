@@ -1,0 +1,2 @@
+IParent acts as an adaptee for adapter IJavaModel, which adapts to IJavaElement, which adapts to IJavaElement.
+IParent acts as an adaptee for adapter IPackageFragment, which adapts to IJavaElement, which adapts to IJavaElement.

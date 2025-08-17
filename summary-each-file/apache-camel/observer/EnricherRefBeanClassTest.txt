@@ -1,0 +1,2 @@
+EnricherRefBeanClassTest acts as a publisher for observer Service, which creates Registry, which tests Enrich Ref, which creates Route Builder.
+EnricherRefBeanClassTest acts as a publisher for observer CamelContext, which creates Registry, which tests Enrich Ref, which creates Route Builder.

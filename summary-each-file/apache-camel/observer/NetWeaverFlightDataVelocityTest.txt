@@ -1,0 +1,5 @@
+NetWeaverFlightDataVelocityTest acts as a publisher for observer ProducerTemplate, which tests Net Weaver Flight, which creates Route Builder.
+NetWeaverFlightDataVelocityTest acts as a publisher for observer Service, which tests Net Weaver Flight, which creates Route Builder.
+NetWeaverFlightDataVelocityTest acts as a publisher for observer ConsumerTemplate, which tests Net Weaver Flight, which creates Route Builder.
+NetWeaverFlightDataVelocityTest acts as a publisher for observer CamelContext, which tests Net Weaver Flight, which creates Route Builder.
+NetWeaverFlightDataVelocityTest acts as a publisher for observer FluentProducerTemplate, which tests Net Weaver Flight, which creates Route Builder.

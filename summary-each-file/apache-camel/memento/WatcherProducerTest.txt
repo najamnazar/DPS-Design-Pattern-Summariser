@@ -1,0 +1,2 @@
+WatcherProducerTest acts as a caretaker for memento Context, which binds Registry parameter of registry To Registry, which sets Mocks, which creates Camel Context, which creates Route Builder, which adds Watchers, which removes Watchers, which adds Remove Watchers.
+WatcherProducerTest acts as a caretaker for memento Producer, which binds Registry parameter of registry To Registry, which sets Mocks, which creates Camel Context, which creates Route Builder, which adds Watchers, which removes Watchers, which adds Remove Watchers.

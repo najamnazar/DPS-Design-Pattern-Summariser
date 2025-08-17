@@ -1,0 +1,2 @@
+AnnotationMatchingPointcut acts as a factory method for MethodMatcher, which is inherited by Pointcut, Pointcut, Pointcut, StaticMethodMatcherPointcut, StaticMethodMatcherPointcut, Pointcut, Pointcut, StaticMethodMatcherPointcut, Pointcut, Pointcut, StaticMethodMatcherPointcut, StaticMethodMatcherPointcut, StaticMethodMatcherPointcut.
+AnnotationMatchingPointcut acts as a product for AspectJExpressionPointcutAdvisor, which overrides getClassFilter method of Pointcut, getMethodMatcher method of Pointcut.

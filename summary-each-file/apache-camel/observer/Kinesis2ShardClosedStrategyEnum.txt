@@ -1,0 +1,1 @@
+Kinesis2ShardClosedStrategyEnum acts as an observer for publisher Kinesis2Configuration, which is inherited by.

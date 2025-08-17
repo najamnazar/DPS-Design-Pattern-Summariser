@@ -1,0 +1,2 @@
+ServletServerHttpResponse acts as a component for decorator DelegatingServerHttpResponse, which overrides setStatusCodeServerHttpResponse, getHeadersServerHttpResponse, getBodyServerHttpResponse, flushServerHttpResponse, closeServerHttpResponse.
+ServletServerHttpResponse acts as a component for decorator ServerHttpResponseDecorator, which overrides getHeadersServerHttpResponse.

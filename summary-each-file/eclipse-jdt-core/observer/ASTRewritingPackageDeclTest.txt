@@ -1,0 +1,1 @@
+ASTRewritingPackageDeclTest acts as a publisher for observer String, which suites, which tests Annotations_since_3.

@@ -1,0 +1,2 @@
+SchedulerBlockingManualTest acts as a publisher for observer Service, which tests Scheduler, which creates Route Builder.
+SchedulerBlockingManualTest acts as a publisher for observer CamelContext, which tests Scheduler, which creates Route Builder.

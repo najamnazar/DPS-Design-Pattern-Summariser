@@ -1,0 +1,1 @@
+ASTBasedMethodDeclarationImpl acts as a caretaker for memento R, which accepts DeclarationVisitor parameter of visitor, which gets Return Type, which kinds.

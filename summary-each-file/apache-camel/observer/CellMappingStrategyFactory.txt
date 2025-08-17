@@ -1,0 +1,1 @@
+CellMappingStrategyFactory acts as an observer for publisher HBaseEndpoint, which is inherited by, which gets Message parameter of message Strategy, which loads String parameter of strategyClassName Strategy From Class Name.

@@ -1,0 +1,2 @@
+EndpointRegistryKeepRouteEndpointsRemoteRouteTest acts as a publisher for observer Service, which creates Camel Context, which tests Endpoint Registry Keep Route Endpoints Remove Route, which creates Route Builder.
+EndpointRegistryKeepRouteEndpointsRemoteRouteTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Endpoint Registry Keep Route Endpoints Remove Route, which creates Route Builder.

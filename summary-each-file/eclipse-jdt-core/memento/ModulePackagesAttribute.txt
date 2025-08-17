@@ -1,0 +1,2 @@
+ModulePackagesAttribute acts as a caretaker for memento C, which gets Packages Count, which gets Package Indices, which gets Package Names.
+ModulePackagesAttribute acts as a caretaker for memento Class, which gets Packages Count, which gets Package Indices, which gets Package Names.

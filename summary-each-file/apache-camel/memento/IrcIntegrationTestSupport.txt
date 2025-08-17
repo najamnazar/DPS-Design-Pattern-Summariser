@@ -1,0 +1,2 @@
+IrcIntegrationTestSupport acts as a caretaker for memento Context, which does Before, which resets MockEndpoint parameter of mock Mock, which loads Properties, which uses Override Properties With Properties Component, which sends Uri, which froms Uri.
+IrcIntegrationTestSupport acts as a caretaker for memento Producer, which does Before, which resets MockEndpoint parameter of mock Mock, which loads Properties, which uses Override Properties With Properties Component, which sends Uri, which froms Uri.

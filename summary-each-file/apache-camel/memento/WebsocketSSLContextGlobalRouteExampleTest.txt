@@ -1,0 +1,2 @@
+WebsocketSSLContextGlobalRouteExampleTest acts as a caretaker for memento Context, which sets Up, which creates Camel Context, which creates SSLContext, which tests WSHttp Call, which creates Route Builder.
+WebsocketSSLContextGlobalRouteExampleTest acts as a caretaker for memento Producer, which sets Up, which creates Camel Context, which creates SSLContext, which tests WSHttp Call, which creates Route Builder.

@@ -1,0 +1,1 @@
+ErrorHandlerAware acts as a publisher for observer Processor, which is inherited by BeanProcessor, RecipientList, MulticastProcessor, which sets Processor parameter of errorHandler Error Handler, which gets Error Handler.

@@ -1,0 +1,4 @@
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento B.
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento ApplicationContext.
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento C.
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests acts as a caretaker for memento A.

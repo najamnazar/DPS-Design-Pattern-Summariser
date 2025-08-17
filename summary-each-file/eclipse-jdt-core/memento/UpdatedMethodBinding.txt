@@ -1,0 +1,3 @@
+UpdatedMethodBinding acts as a caretaker for memento TypeVariable, which constants Pool Declaring Class.
+UpdatedMethodBinding acts as a caretaker for memento R, which constants Pool Declaring Class.
+UpdatedMethodBinding acts as a caretaker for memento Binding, which constants Pool Declaring Class.

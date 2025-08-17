@@ -1,0 +1,1 @@
+JmsConcurrentConsumersTest acts as a publisher for observer ArtemisService, which tests Concurrent Consumers With Reply, which gets Component Name, which creates Route Builder.

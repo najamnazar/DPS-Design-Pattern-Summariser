@@ -1,0 +1,1 @@
+MiloClientConsumer acts as a caretaker for memento HealthCheck, which gets Endpoint, which does Start, which does Stop, which handles final parameter of DataValue Value Update, which maps final parameter of DataValue, final parameter of Message To Message.

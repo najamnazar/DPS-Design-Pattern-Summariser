@@ -1,0 +1,2 @@
+OnCompletionBeforeChainedSedaRoutesTest acts as a publisher for observer Service, which tests On Completion Chained, which creates Route Builder.
+OnCompletionBeforeChainedSedaRoutesTest acts as a publisher for observer CamelContext, which tests On Completion Chained, which creates Route Builder.

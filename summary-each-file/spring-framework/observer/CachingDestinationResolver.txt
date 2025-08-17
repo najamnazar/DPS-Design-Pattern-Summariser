@@ -1,0 +1,1 @@
+CachingDestinationResolver acts as an observer, which removes String parameter of destinationName From Cache, which clears Cache.

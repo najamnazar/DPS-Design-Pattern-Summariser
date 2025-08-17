@@ -1,0 +1,1 @@
+ITestS3AFileSystemStatistic acts as a publisher for observer AuditSpanSource, which tests Bytes Read With Stream.

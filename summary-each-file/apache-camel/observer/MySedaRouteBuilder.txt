@@ -1,0 +1,7 @@
+MySedaRouteBuilder acts as a publisher for observer RoutesDefinition, which configures.
+MySedaRouteBuilder acts as a publisher for observer Resource, which configures.
+MySedaRouteBuilder acts as an observer, which configures.
+MySedaRouteBuilder acts as a publisher for observer RestsDefinition, which configures.
+MySedaRouteBuilder acts as a publisher for observer RouteTemplatesDefinition, which configures.
+MySedaRouteBuilder acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+MySedaRouteBuilder acts as a publisher for observer TemplatedRoutesDefinition, which configures.

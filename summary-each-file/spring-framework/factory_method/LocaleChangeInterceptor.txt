@@ -1,0 +1,1 @@
+LocaleChangeInterceptor acts as a product for MappedInterceptor, which overrides preHandle method of HandlerInterceptor.

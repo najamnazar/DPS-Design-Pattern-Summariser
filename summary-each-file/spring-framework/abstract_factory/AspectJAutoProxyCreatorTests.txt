@@ -1,0 +1,5 @@
+AspectJAutoProxyCreatorTests acts as a product for XmlBeanFactoryTestTypes, which overrides.
+AspectJAutoProxyCreatorTests acts as an abstract factory for, which is inherited by.
+AspectJAutoProxyCreatorTests acts as a product for TestBeanAwareMessenger, which overrides.
+AspectJAutoProxyCreatorTests acts as a product for ContextScriptBean, which overrides.
+AspectJAutoProxyCreatorTests acts as a product for ITestBean, which overrides.

@@ -1,0 +1,1 @@
+UrlAssertionTests acts as a caretaker for memento C, which tests Redirect, which tests Redirect Pattern, which tests Forward, which tests Forward Pattern, which saves, which forwards.

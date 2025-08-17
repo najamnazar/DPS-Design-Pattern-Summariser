@@ -1,0 +1,2 @@
+DefaultErrorHandlerOnPrepareTest acts as a publisher for observer CamelContext, which tests Default Error Handler On Prepare, which creates Route Builder, which processes Exchange parameter of exchange.
+DefaultErrorHandlerOnPrepareTest acts as a publisher for observer Service, which tests Default Error Handler On Prepare, which creates Route Builder, which processes Exchange parameter of exchange.

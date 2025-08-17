@@ -1,0 +1,1 @@
+RejectionReason acts as a memento.

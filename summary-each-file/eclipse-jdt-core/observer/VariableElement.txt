@@ -1,0 +1,1 @@
+VariableElement acts as an observer, which ases Type, which gets Constant Value, which gets Simple Name, which gets Enclosing Element.

@@ -1,0 +1,1 @@
+DummyFactory acts as an adaptee for adapter XmlBeanFactoryTestTypes, which adapts to ConstructorDependenciesBean.

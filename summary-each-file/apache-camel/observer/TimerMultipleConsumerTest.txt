@@ -1,0 +1,2 @@
+TimerMultipleConsumerTest acts as a publisher for observer CamelContext, which tests Multiple Consumers, which creates Route Builder.
+TimerMultipleConsumerTest acts as a publisher for observer Service, which tests Multiple Consumers, which creates Route Builder.

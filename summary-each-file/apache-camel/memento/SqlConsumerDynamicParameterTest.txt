@@ -1,0 +1,2 @@
+SqlConsumerDynamicParameterTest acts as a caretaker for memento Producer, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.
+SqlConsumerDynamicParameterTest acts as a caretaker for memento Context, which sets Up, which tears Down, which tests Dynamic Consume, which creates Route Builder, which nexts Id, which gets Id.

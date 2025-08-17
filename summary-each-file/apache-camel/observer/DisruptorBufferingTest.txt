@@ -1,0 +1,5 @@
+DisruptorBufferingTest acts as a publisher for observer FluentProducerTemplate, which tests Disruptor Buffering While Waiting On First Consumer, which tests Disruptor Buffering While Waiting On Next Consumer, which creates Route Builder.
+DisruptorBufferingTest acts as a publisher for observer CamelContext, which tests Disruptor Buffering While Waiting On First Consumer, which tests Disruptor Buffering While Waiting On Next Consumer, which creates Route Builder.
+DisruptorBufferingTest acts as a publisher for observer ProducerTemplate, which tests Disruptor Buffering While Waiting On First Consumer, which tests Disruptor Buffering While Waiting On Next Consumer, which creates Route Builder.
+DisruptorBufferingTest acts as a publisher for observer Service, which tests Disruptor Buffering While Waiting On First Consumer, which tests Disruptor Buffering While Waiting On Next Consumer, which creates Route Builder.
+DisruptorBufferingTest acts as a publisher for observer ConsumerTemplate, which tests Disruptor Buffering While Waiting On First Consumer, which tests Disruptor Buffering While Waiting On Next Consumer, which creates Route Builder.

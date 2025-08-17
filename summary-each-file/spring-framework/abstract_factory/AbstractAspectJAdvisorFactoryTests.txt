@@ -1,0 +1,1 @@
+AbstractAspectJAdvisorFactoryTests acts as an abstract factory for AspectJAdvisorFactory, which is inherited by.

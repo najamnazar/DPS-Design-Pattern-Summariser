@@ -1,0 +1,1 @@
+MicrosoftExchangeOnlineOAuth2MailAuthenticator acts as a product for JavaMailSender, which overrides getPasswordAuthentication method of MailAuthenticator.

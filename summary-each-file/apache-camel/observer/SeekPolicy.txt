@@ -1,0 +1,1 @@
+SeekPolicy acts as an observer for publisher KafkaConsumerListener, which is inherited by.

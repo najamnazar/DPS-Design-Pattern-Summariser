@@ -1,0 +1,1 @@
+ASTRewritingTrackingTest acts as an adapter, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest.

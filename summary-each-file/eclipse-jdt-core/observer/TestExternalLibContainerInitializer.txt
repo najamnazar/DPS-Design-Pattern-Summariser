@@ -1,0 +1,1 @@
+TestExternalLibContainerInitializer acts as an observer, which initializes final parameter of IPath, IJavaProject parameter of project.

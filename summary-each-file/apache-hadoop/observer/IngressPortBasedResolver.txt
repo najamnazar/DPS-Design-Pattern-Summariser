@@ -1,0 +1,1 @@
+IngressPortBasedResolver acts as a publisher for observer Configuration, which sets Configuration parameter of conf Conf, which gets InetAddress parameter of clientAddress, int parameter of ingressPort Server Properties.

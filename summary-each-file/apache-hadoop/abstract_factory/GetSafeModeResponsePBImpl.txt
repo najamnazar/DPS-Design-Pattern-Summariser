@@ -1,0 +1,1 @@
+GetSafeModeResponsePBImpl acts as a product for RouterStateManager, which overrides isInSafeMode method of GetSafeModeResponse, setSafeMode method of GetSafeModeResponse.

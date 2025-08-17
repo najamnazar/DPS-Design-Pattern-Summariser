@@ -1,0 +1,1 @@
+Content acts as an observer for publisher TextPublishable, Post, Page, which is inherited by, which gets Rendered, which sets String parameter of rendered Rendered, which gets Protect, which sets Boolean parameter of protect Protect, which gets Raw, which sets String parameter of raw Raw, which tos String.

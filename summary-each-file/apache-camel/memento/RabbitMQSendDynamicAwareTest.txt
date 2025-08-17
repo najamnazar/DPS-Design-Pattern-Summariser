@@ -1,0 +1,2 @@
+RabbitMQSendDynamicAwareTest acts as a caretaker for memento Context, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.
+RabbitMQSendDynamicAwareTest acts as a caretaker for memento Producer, which sets Up, which tests Uri Parsing, which tests Slashed Uri Parsing.

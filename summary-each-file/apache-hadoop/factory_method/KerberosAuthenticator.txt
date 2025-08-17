@@ -1,0 +1,2 @@
+KerberosAuthenticator acts as a product for KerberosUgiAuthenticator, which overrides setConnectionConfigurator method of Authenticator, authenticate method of Authenticator.
+KerberosAuthenticator acts as a factory for KerberosUgiAuthenticator, which overrides setConnectionConfigurator method of KerberosUgiAuthenticator, authenticate method of KerberosUgiAuthenticator.

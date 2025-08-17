@@ -1,0 +1,1 @@
+DataLakeDirectoryOperations acts as a caretaker for memento Configuration, which creates final parameter of Exchange File, which deletes final parameter of Exchange Directory.

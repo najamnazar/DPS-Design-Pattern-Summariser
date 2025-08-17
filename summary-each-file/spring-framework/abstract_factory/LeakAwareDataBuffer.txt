@@ -1,0 +1,2 @@
+LeakAwareDataBuffer acts as a product for PooledDataBuffer, which overrides isAllocated method of PooledDataBuffer, retain method of PooledDataBuffer, touch method of PooledDataBuffer, release method of PooledDataBuffer.
+LeakAwareDataBuffer acts as a factory for PooledDataBuffer, which overrides isAllocated method of PooledDataBuffer, retain method of PooledDataBuffer, touch method of PooledDataBuffer, release method of PooledDataBuffer.

@@ -1,0 +1,2 @@
+HandshakeInterceptorChainTests acts as a caretaker for memento A, which setups, which successes, which applies Before Handshake With False Return Value, which applies After Handshake Only.
+HandshakeInterceptorChainTests acts as a caretaker for memento C, which setups, which successes, which applies Before Handshake With False Return Value, which applies After Handshake Only.

@@ -1,0 +1,1 @@
+ReactiveStreamsConverter acts as a caretaker for memento Context, which converts Class<?> parameter of type, Exchange parameter of exchange, Object parameter of value, TypeConverterRegistry parameter of registry To Publisher, which gets Camel Context, which sets CamelContext parameter of camelContext Camel Context.

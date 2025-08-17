@@ -1,0 +1,1 @@
+ResizableByteArrayOutputStream acts as an observer for publisher ResizableByteArrayOutputStreamTests, which is inherited by, which resizes int parameter of targetCapacity, which grows int parameter of additionalCapacity, which capacities.

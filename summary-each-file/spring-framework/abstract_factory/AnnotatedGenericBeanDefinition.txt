@@ -1,0 +1,1 @@
+AnnotatedGenericBeanDefinition acts as a factory for AnnotatedBeanDefinition, which overrides getMetadata method of AnnotatedBeanDefinition, getFactoryMethodMetadata method of AnnotatedBeanDefinition.

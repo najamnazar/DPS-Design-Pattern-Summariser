@@ -1,0 +1,1 @@
+GraphiteSink acts as an observer, which inits SubsetConfiguration parameter of conf, which puts MetricsRecord parameter of record Metrics, which flushes, which closes, which connects, which writes String parameter of msg, which flushes, which is Connected, which closes, which toos Many Connection Failures, which sets Graphite parameter of graphite Graphite.

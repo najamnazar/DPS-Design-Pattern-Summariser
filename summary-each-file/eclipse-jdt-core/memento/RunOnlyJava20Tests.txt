@@ -1,0 +1,2 @@
+RunOnlyJava20Tests acts as a caretaker for memento String, which gets All Test Classes, which gets Converter Test Classes, which suites, which adds TestSuite parameter of suite, Class[] parameter of testClasses Tests To Suite, which tears Down.
+RunOnlyJava20Tests acts as a caretaker for memento S, which gets All Test Classes, which gets Converter Test Classes, which suites, which adds TestSuite parameter of suite, Class[] parameter of testClasses Tests To Suite, which tears Down.

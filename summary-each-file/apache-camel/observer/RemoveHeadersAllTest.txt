@@ -1,0 +1,2 @@
+RemoveHeadersAllTest acts as a publisher for observer CamelContext, which tests Remove Headers All, which tests Remove Headers All Exclude, which tests Remove Headers All Exclude No Match, which creates Route Builder.
+RemoveHeadersAllTest acts as a publisher for observer Service, which tests Remove Headers All, which tests Remove Headers All Exclude, which tests Remove Headers All Exclude No Match, which creates Route Builder.

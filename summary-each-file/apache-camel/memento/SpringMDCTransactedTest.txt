@@ -1,0 +1,2 @@
+SpringMDCTransactedTest acts as a caretaker for memento Context, which creates Camel Registry, which tests MDCTransacted, which creates Route Builder.
+SpringMDCTransactedTest acts as a caretaker for memento Producer, which creates Camel Registry, which tests MDCTransacted, which creates Route Builder.

@@ -1,0 +1,1 @@
+JcloudsCommand acts as an observer for publisher JcloudsConfiguration, which is inherited by.

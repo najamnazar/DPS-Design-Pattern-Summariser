@@ -1,0 +1,1 @@
+SQLFederationStateStore acts as a product for FederationStateStoreFacade, which overrides init method of FederationStateStore, getCurrentVersion method of FederationStateStore, loadVersion method of FederationStateStore, storeVersion method of FederationStateStore, deleteStateStore method of FederationStateStore, close method of FederationStateStore.

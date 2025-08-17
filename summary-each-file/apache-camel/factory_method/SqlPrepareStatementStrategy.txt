@@ -1,0 +1,1 @@
+SqlPrepareStatementStrategy acts as an abstract product for DefaultSqlEndpoint, which is inherited by DefaultSqlPrepareStatementStrategy.

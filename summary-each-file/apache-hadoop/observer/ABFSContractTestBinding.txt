@@ -1,0 +1,2 @@
+ABFSContractTestBinding acts as a publisher for observer Configuration, which is Secure Mode.
+ABFSContractTestBinding acts as a publisher for observer AzureBlobFileSystem, which is Secure Mode.

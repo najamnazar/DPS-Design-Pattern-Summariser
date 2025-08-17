@@ -1,0 +1,2 @@
+ZKFailoverController acts as a factory method for ZKFCProtocol, which is inherited by HAServiceTarget, HAServiceTarget, HAServiceTarget, ZKFailoverController.
+ZKFailoverController acts as a factory for ZKFailoverController, which overrides.

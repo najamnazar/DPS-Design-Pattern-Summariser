@@ -1,0 +1,2 @@
+FileConsumerRestartNotLeakThreadTest acts as a publisher for observer Service, which tests Leak, which creates Route Builder.
+FileConsumerRestartNotLeakThreadTest acts as a publisher for observer CamelContext, which tests Leak, which creates Route Builder.

@@ -1,0 +1,1 @@
+ManagedBeanMBean acts as a memento, which gets Bean Class Name, which gets Bean Class Name.

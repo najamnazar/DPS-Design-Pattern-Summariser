@@ -1,0 +1,1 @@
+SObjectDescriptionUrls acts as an adaptee for adapter SObjectDescription, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject, which adapts to SObject.

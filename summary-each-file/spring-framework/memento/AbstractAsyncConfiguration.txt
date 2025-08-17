@@ -1,0 +1,1 @@
+AbstractAsyncConfiguration acts as a caretaker for memento A, which is inherited by, which sets AnnotationMetadata parameter of importMetadata Import Metadata, which sets Collection<AsyncConfigurer> parameter of configurers Configurers.

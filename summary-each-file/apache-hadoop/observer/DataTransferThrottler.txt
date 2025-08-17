@@ -1,0 +1,1 @@
+DataTransferThrottler acts as an observer for publisher DataXceiverServer, which is inherited by, which gets Bandwidth, which sets long parameter of bytesPerSecond Bandwidth, which throttles long parameter of numOfBytes, which throttles long parameter of numOfBytes, Canceler parameter of canceler.

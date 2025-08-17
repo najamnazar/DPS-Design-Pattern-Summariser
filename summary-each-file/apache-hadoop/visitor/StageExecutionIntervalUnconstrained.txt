@@ -1,0 +1,2 @@
+StageExecutionIntervalUnconstrained acts as a visitor for element SchedulableEntity, which overrides, which computes a Execution Interval to.
+StageExecutionIntervalUnconstrained acts as a visitor for element RMContext, which overrides, which computes a Execution Interval to.

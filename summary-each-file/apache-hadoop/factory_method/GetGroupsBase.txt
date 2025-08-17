@@ -1,0 +1,2 @@
+GetGroupsBase acts as a product for TestGetGroupsWithHA, which overrides run method of Tool.
+GetGroupsBase acts as a factory for GetGroups, which overrides.

@@ -1,0 +1,1 @@
+SharedNameRegistry acts as a publisher for observer SharedNameGenerator, which is inherited by, which gets Shared Name Generator, which sets SharedNameGenerator parameter of sharedNameGenerator Shared Name Generator, which gets Instance.

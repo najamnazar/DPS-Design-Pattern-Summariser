@@ -1,0 +1,1 @@
+SmartRequestBuilder acts as an abstract factory for MockHttpServletRequest, which is inherited by.

@@ -1,0 +1,2 @@
+FileProducerRenameUsingCopyTest acts as a publisher for observer CamelContext, which tests Move, which creates Route Builder.
+FileProducerRenameUsingCopyTest acts as a publisher for observer Service, which tests Move, which creates Route Builder.

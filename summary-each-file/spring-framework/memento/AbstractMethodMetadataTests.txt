@@ -1,0 +1,1 @@
+AbstractMethodMetadataTests acts as an originator for memento MethodMetadata, which is inherited by, which gets a MethodMetadata Tagged to, which gets MethodMetadata.

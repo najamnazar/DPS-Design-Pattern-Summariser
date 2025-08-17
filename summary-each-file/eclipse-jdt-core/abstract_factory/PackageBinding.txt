@@ -1,0 +1,1 @@
+PackageBinding acts as an abstract product for PackageBinding, which is inherited by PlainPackageBinding, ProblemPackageBinding, SplitPackageBinding.

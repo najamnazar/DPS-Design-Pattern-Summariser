@@ -1,0 +1,1 @@
+DefaultTransactionStrategy acts as an observer, which executes Runnable parameter of runnable In Transaction, which gets Transaction Manager, which creates EntityManagerFactory parameter of entityManagerFactory Transaction Manager, which creates Transaction Template.

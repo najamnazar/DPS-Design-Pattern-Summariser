@@ -1,0 +1,2 @@
+SpringComplexBlockWithEndTest acts as a caretaker for memento Producer, which tests Hello, which tests Bye, which tests Other, which creates Camel Context, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+SpringComplexBlockWithEndTest acts as a caretaker for memento Context, which tests Hello, which tests Bye, which tests Other, which creates Camel Context, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

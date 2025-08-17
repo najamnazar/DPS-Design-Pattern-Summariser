@@ -1,0 +1,6 @@
+Resource acts as an abstract product for Resource, which is inherited by LightWeightResource, LightWeightResource, LightWeightResource, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl.
+Resource acts as an abstract product for Resource, which is inherited by LightWeightResource, ResourcePBImpl.
+Resource acts as an abstract product for Resource, which is inherited by LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl.
+Resource acts as an abstract product for Resource, which is inherited by LightWeightResource, LightWeightResource, ResourcePBImpl, ResourcePBImpl.
+Resource acts as an abstract product for Resource, which is inherited by LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl.
+Resource acts as an abstract product for Resource, which is inherited by LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, LightWeightResource, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl, ResourcePBImpl.

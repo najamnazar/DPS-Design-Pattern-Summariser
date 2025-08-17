@@ -1,0 +1,2 @@
+MailDoNotDeleteIfProcessFailsTest acts as a caretaker for memento Context, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.
+MailDoNotDeleteIfProcessFailsTest acts as a caretaker for memento Producer, which sets Up, which tests Roolback If Process Fails, which prepares Mailbox, which creates Route Builder.

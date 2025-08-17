@@ -1,0 +1,2 @@
+JsonataFirstSampleTest acts as a caretaker for memento Context, which tests First Sample Jsonata, which creates Route Builder.
+JsonataFirstSampleTest acts as a caretaker for memento Producer, which tests First Sample Jsonata, which creates Route Builder.

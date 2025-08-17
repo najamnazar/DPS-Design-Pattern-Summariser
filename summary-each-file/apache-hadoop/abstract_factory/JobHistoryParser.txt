@@ -1,0 +1,1 @@
+JobHistoryParser acts as an abstract factory for HistoryEvent, which is inherited by CurrentJHParser, Hadoop20JHParser.

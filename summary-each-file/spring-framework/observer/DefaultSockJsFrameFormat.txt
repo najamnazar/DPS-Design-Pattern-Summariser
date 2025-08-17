@@ -1,0 +1,1 @@
+DefaultSockJsFrameFormat acts as an observer, which formats SockJsFrame parameter of frame, which pres String parameter of content Process Content.

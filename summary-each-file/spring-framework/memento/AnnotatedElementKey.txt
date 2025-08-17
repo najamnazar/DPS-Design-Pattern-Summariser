@@ -1,0 +1,2 @@
+AnnotatedElementKey acts as a caretaker for memento C, which equals @Nullable parameter of Object, which hashes Code, which tos String, which compares AnnotatedElementKey parameter of other To.
+AnnotatedElementKey acts as a caretaker for memento A, which equals @Nullable parameter of Object, which hashes Code, which tos String, which compares AnnotatedElementKey parameter of other To.

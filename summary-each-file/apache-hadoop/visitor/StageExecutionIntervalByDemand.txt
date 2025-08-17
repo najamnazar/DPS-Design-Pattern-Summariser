@@ -1,0 +1,2 @@
+StageExecutionIntervalByDemand acts as a visitor for element SchedulableEntity, which overrides, which computes a Execution Interval to, which calces a Weight to, which gets a Rounded Duration to, which steps a Round Down to, which steps a Round Up to.
+StageExecutionIntervalByDemand acts as a visitor for element RMContext, which overrides, which computes a Execution Interval to, which calces a Weight to, which gets a Rounded Duration to, which steps a Round Down to, which steps a Round Up to.

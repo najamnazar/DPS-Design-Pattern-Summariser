@@ -1,0 +1,1 @@
+JmsListenerEndpointRegistrarTests acts as a caretaker for memento C, which setups, which registers Null Endpoint, which registers Null Endpoint Id, which registers Empty Endpoint Id, which registers Null Container Factory Is Allowed, which registers Null Container Factory With No Default, which registers Container Without Factory.

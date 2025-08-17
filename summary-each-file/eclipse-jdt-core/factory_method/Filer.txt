@@ -1,0 +1,1 @@
+Filer acts as an abstract product for BuildEnv, which is inherited by IdeFilerImpl, BatchFilerImpl, FilerImpl.

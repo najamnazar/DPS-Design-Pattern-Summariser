@@ -1,0 +1,1 @@
+OperatorOverloaderTests acts as a caretaker for memento C, which tests Simple Operations, which operates Operation parameter of operation, Object parameter of leftOperand, Object parameter of rightOperand, which overrideses Operation parameter of operation, Object parameter of leftOperand, Object parameter of rightOperand Operation.

@@ -1,0 +1,1 @@
+ISourceRange acts as an abstract product for ImportContainer, which is inherited by SourceRange.

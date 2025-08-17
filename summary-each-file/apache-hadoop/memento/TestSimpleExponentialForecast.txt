@@ -1,0 +1,1 @@
+TestSimpleExponentialForecast acts as a caretaker for memento Clock, which inces Test Simple Exponential Forecast, which deces Test Simple Exponential Forecast, which zeros Test Simple Exponential Forecast, which tests Simple Exponential Forecast Linear Inc, which tests Simple Exponential Forecast Linear Dec, which tests Simple Exponential Forecast Zeros.

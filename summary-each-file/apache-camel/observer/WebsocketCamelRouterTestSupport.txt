@@ -1,0 +1,5 @@
+WebsocketCamelRouterTestSupport acts as a publisher for observer CamelContext, which setups Jetty, which tears Down Jetty.
+WebsocketCamelRouterTestSupport acts as a publisher for observer ConsumerTemplate, which setups Jetty, which tears Down Jetty.
+WebsocketCamelRouterTestSupport acts as a publisher for observer Service, which setups Jetty, which tears Down Jetty.
+WebsocketCamelRouterTestSupport acts as a publisher for observer FluentProducerTemplate, which setups Jetty, which tears Down Jetty.
+WebsocketCamelRouterTestSupport acts as a publisher for observer ProducerTemplate, which setups Jetty, which tears Down Jetty.

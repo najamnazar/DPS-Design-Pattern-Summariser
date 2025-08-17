@@ -1,0 +1,1 @@
+Groupings acts as an observer for publisher AbstractReportResultsBase, AsyncReportResults, SyncReportResults, which is inherited by, which gets Groupings, which sets GroupingValue[] parameter of groupings Groupings.

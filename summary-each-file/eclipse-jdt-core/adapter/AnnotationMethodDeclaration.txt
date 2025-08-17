@@ -1,0 +1,1 @@
+AnnotationMethodDeclaration acts as an adapter, which adapts to MethodDeclaration, which adapts to MethodDeclaration, which adapts to MethodDeclaration, which adapts to MethodDeclaration, which adapts to MethodDeclaration, which adapts to MethodDeclaration, which adapts to MethodDeclaration.

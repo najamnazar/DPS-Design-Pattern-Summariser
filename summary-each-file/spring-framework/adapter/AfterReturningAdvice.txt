@@ -1,0 +1,1 @@
+AfterReturningAdvice acts as an adaptee for adapter AspectJAfterReturningAdvice, which adapts to AbstractAspectJAdvice.

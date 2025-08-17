@@ -1,0 +1,1 @@
+GetApplicationsHomeSubClusterResponse acts as an abstract product for GetApplicationsHomeSubClusterResponse, which is inherited by GetApplicationsHomeSubClusterResponsePBImpl.

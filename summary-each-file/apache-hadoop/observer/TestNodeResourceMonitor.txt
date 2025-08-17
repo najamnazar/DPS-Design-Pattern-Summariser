@@ -1,0 +1,4 @@
+TestNodeResourceMonitor acts as a publisher for observer DeletionService, which setups, which tests Metrics Update.
+TestNodeResourceMonitor acts as a publisher for observer ContainerManagerImpl, which setups, which tests Metrics Update.
+TestNodeResourceMonitor acts as a publisher for observer NodeStatusUpdater, which setups, which tests Metrics Update.
+TestNodeResourceMonitor acts as a publisher for observer Resource, which setups, which tests Metrics Update.

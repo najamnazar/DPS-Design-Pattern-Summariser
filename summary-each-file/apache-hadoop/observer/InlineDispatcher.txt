@@ -1,0 +1,4 @@
+InlineDispatcher acts as a publisher for observer Event, which handles Event parameter of event, which dispatches Event parameter of event, which gets Event Handler, which handles Event parameter of event.
+InlineDispatcher acts as a publisher for observer EventHandler, which handles Event parameter of event, which dispatches Event parameter of event, which gets Event Handler, which handles Event parameter of event.
+InlineDispatcher acts as an observer, which handles Event parameter of event, which dispatches Event parameter of event, which gets Event Handler, which handles Event parameter of event.
+InlineDispatcher acts as a publisher for observer EventTypeMetrics, which handles Event parameter of event, which dispatches Event parameter of event, which gets Event Handler, which handles Event parameter of event.

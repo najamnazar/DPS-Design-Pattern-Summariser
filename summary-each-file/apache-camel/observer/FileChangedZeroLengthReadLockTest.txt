@@ -1,0 +1,2 @@
+FileChangedZeroLengthReadLockTest acts as a publisher for observer CamelContext, which tests Changed Read Lock, which writes Zero Length File, which creates Route Builder.
+FileChangedZeroLengthReadLockTest acts as a publisher for observer Service, which tests Changed Read Lock, which writes Zero Length File, which creates Route Builder.

@@ -1,0 +1,2 @@
+JobId acts as a product for WritableFactory, which overrides.
+JobId acts as an abstract product for JobId, which is inherited by JobIdPBImpl.

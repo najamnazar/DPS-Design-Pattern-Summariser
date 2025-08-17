@@ -1,0 +1,4 @@
+LoaderTestAnnotationProcessorFactory acts as a caretaker for memento String, which supports Options, which supports Annotation Types, which gets Set<AnnotationTypeDeclaration> parameter of atds, AnnotationProcessorEnvironment parameter of env Processor For.
+LoaderTestAnnotationProcessorFactory acts as a caretaker for memento S, which supports Options, which supports Annotation Types, which gets Set<AnnotationTypeDeclaration> parameter of atds, AnnotationProcessorEnvironment parameter of env Processor For.
+LoaderTestAnnotationProcessorFactory acts as an originator for memento AnnotationProcessor, which gets an AnnotationProcessor Processor For to.
+LoaderTestAnnotationProcessorFactory acts as a caretaker for memento List, which supports Options, which supports Annotation Types, which gets Set<AnnotationTypeDeclaration> parameter of atds, AnnotationProcessorEnvironment parameter of env Processor For.

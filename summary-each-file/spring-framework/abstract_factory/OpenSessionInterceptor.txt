@@ -1,0 +1,2 @@
+OpenSessionInterceptor acts as a product for AdvisorAdapter, which overrides.
+OpenSessionInterceptor acts as a product for AdvisorAdapterRegistrationTests, which overrides.

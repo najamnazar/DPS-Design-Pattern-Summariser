@@ -1,0 +1,1 @@
+ManagedRollbackMBean acts as a memento, which is Mark Rollback Only Last, which is Mark Rollback Only Last, which is Mark Rollback Only Last.

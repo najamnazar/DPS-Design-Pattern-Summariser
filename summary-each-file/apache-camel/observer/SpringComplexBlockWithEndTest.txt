@@ -1,0 +1,2 @@
+SpringComplexBlockWithEndTest acts as a publisher for observer CamelContext, which tests Hello, which tests Bye, which tests Other, which creates Camel Context, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.
+SpringComplexBlockWithEndTest acts as a publisher for observer Service, which tests Hello, which tests Bye, which tests Other, which creates Camel Context, which aggregates Exchange parameter of oldExchange, Exchange parameter of newExchange.

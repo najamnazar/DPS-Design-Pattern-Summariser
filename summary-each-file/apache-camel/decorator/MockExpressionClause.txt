@@ -1,0 +1,2 @@
+MockExpressionClause acts as a component for decorator ExpressionDefinition, which overrides initPredicate, evaluatePredicate, matchesPredicate.
+MockExpressionClause acts as a component for decorator MockValueBuilder, which overrides initExpression, evaluateExpression, matchesExpression.

@@ -1,0 +1,1 @@
+WebsocketComponent acts as a publisher for observer HttpRegistry, which creates String parameter of endpointUri, ServletComponent parameter of component, URI parameter of httpUri Servlet Endpoint, which gets String parameter of name Web Socket Store.

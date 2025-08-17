@@ -1,0 +1,2 @@
+PahoTestSupport acts as a caretaker for memento Producer.
+PahoTestSupport acts as a caretaker for memento Context.

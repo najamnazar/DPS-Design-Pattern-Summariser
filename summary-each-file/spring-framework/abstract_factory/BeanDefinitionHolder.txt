@@ -1,0 +1,1 @@
+BeanDefinitionHolder acts as an abstract product for BeanDefinitionHolder, which is inherited by BeanComponentDefinition.

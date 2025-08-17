@@ -1,0 +1,1 @@
+RunBug563501Tests acts as a publisher for observer String, which suites.

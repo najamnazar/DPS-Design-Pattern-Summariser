@@ -1,0 +1,2 @@
+AdviceWithWeaveAfterLastSplitTest acts as a publisher for observer CamelContext, which tests After Last Split, which creates Route Builder.
+AdviceWithWeaveAfterLastSplitTest acts as a publisher for observer Service, which tests After Last Split, which creates Route Builder.

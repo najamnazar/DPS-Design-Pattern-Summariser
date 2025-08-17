@@ -1,0 +1,1 @@
+VersionStrategy acts as an observer for publisher VersionResourceResolver, which is inherited by AbstractFileNameVersionStrategy, AbstractVersionStrategy, AbstractPrefixVersionStrategy, which gets Resource parameter of resource Resource Version.

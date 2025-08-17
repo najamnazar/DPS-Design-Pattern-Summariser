@@ -1,0 +1,1 @@
+StatisticsItemInfo acts as a caretaker for memento YarnApplicationState, which gets State, which gets Type, which gets Count, which sets long parameter of count Count.

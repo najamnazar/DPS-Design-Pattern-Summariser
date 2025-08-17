@@ -1,0 +1,1 @@
+DateTimeFormatAnnotationFormatterFactory acts as a caretaker for memento C, which gets Field Types, which gets DateTimeFormat parameter of annotation, Class<?> parameter of fieldType Printer, which gets DateTimeFormat parameter of annotation, Class<?> parameter of fieldType Parser, which gets DateTimeFormat parameter of annotation, Class<?> parameter of fieldType Formatter.

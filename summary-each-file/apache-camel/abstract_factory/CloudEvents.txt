@@ -1,0 +1,1 @@
+CloudEvents acts as a product for CloudEventProcessor, which overrides version method of CloudEvent, attributes method of CloudEvent, version method of CloudEvent, attributes method of CloudEvent.

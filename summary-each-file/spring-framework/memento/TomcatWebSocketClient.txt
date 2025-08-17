@@ -1,0 +1,3 @@
+TomcatWebSocketClient acts as a caretaker for memento A, which creates Session parameter of session, HandshakeInfo parameter of info, Sinks.Empty<Void> parameter of completionSink Web Socket Session.
+TomcatWebSocketClient acts as a caretaker for memento C, which creates Session parameter of session, HandshakeInfo parameter of info, Sinks.Empty<Void> parameter of completionSink Web Socket Session.
+TomcatWebSocketClient acts as a caretaker for memento Headers, which creates Session parameter of session, HandshakeInfo parameter of info, Sinks.Empty<Void> parameter of completionSink Web Socket Session.

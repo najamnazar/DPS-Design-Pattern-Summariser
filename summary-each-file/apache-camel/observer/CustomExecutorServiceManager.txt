@@ -1,0 +1,2 @@
+CustomExecutorServiceManager acts as a publisher for observer ThreadPoolFactory.
+CustomExecutorServiceManager acts as a publisher for observer ThreadPoolProfile.

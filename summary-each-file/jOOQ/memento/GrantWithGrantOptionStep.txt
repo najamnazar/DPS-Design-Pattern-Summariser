@@ -1,0 +1,2 @@
+GrantWithGrantOptionStep acts as a memento, which withes Grant Option.
+GrantWithGrantOptionStep acts as a memento, which is inherited by GrantImpl, which withes Grant Option.

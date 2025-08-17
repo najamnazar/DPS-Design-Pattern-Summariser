@@ -1,0 +1,1 @@
+ObjectError acts as an abstract product for ObjectError, which is inherited by FieldError.

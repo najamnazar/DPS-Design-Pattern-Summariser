@@ -1,0 +1,2 @@
+MSK2ClientStandardImpl acts as a memento, which gets Kafka Client.
+MSK2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Kafka Client.

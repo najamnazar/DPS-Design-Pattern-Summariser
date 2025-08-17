@@ -1,0 +1,2 @@
+InputBuffer acts as an adaptee for adapter BufferPuller, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver, which adapts to DataReceiver.
+InputBuffer acts as an adaptee for adapter NativeBatchProcessor, which adapts to INativeHandler, which adapts to INativeHandler, which adapts to INativeHandler, which adapts to INativeHandler, which adapts to INativeHandler, which adapts to INativeHandler, which adapts to INativeHandler.

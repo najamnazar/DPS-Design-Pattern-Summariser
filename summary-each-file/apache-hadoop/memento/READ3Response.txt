@@ -1,0 +1,1 @@
+READ3Response acts as a caretaker for memento Attribute, which gets Post Op Attr, which gets Count, which is Eof, which gets Data, which deserializes XDR parameter of xdr, which serializes XDR parameter of out, int parameter of xid, Verifier parameter of verifier.

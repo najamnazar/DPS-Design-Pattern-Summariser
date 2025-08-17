@@ -1,0 +1,13 @@
+MapTaskAttemptImpl acts as a publisher for observer Locality, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer WrappedJvmID, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer TaskAttemptStateInternal, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer TaskType, which creates Remote Task.
+MapTaskAttemptImpl acts as an observer, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer TaskAttemptImpl, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer Path, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer Credentials, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer Task, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer JobConf, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer Avataar, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer TaskAttemptListener, which creates Remote Task.
+MapTaskAttemptImpl acts as a publisher for observer TaskAttemptEvent, which creates Remote Task.

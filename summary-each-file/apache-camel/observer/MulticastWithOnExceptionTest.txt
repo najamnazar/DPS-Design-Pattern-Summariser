@@ -1,0 +1,2 @@
+MulticastWithOnExceptionTest acts as a publisher for observer Service, which tests Multicast Ok, which tests Multicast Fail, which creates Route Builder, which processes Exchange parameter of exchange.
+MulticastWithOnExceptionTest acts as a publisher for observer CamelContext, which tests Multicast Ok, which tests Multicast Fail, which creates Route Builder, which processes Exchange parameter of exchange.

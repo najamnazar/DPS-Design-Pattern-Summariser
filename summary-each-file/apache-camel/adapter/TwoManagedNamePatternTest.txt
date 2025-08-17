@@ -1,0 +1,1 @@
+TwoManagedNamePatternTest acts as an adapter, which adapts createCamelContext method of CamelContext, createCamelContext method of CamelContext to TestSupport, which adapts to TestSupport, which adapts to TestSupport.

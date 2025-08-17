@@ -1,0 +1,1 @@
+WebSessionMethodArgumentResolverTests acts as a publisher for observer WebSession, which is inherited by, which supports Parameter, which resolvers Argument, which handles WebSession parameter of user, Mono<WebSession> parameter of userMono, Single<WebSession> parameter of singleUser.

@@ -1,0 +1,2 @@
+BaseTypeBinding acts as a product for IPolyExpression, which overrides.
+BaseTypeBinding acts as a product for Substitution, which overrides.

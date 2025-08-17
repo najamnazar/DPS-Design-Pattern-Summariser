@@ -1,0 +1,3 @@
+PrimitiveTypeImpl acts as a publisher for observer ChildListPropertyDescriptor, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a publisher for observer String, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.
+PrimitiveTypeImpl acts as a publisher for observer SimplePropertyDescriptor, which accepts TypeVisitor<R, parameter of P>, P parameter of p, which gets Kind, which gets BaseTypeBinding parameter of binding Kind.

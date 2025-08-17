@@ -1,0 +1,1 @@
+DataTypeAware acts as a publisher for observer DataType, which is inherited by MessageSupport, which sets DataType parameter of type Data Type, which gets Data Type, which has Data Type, which sets Object parameter of body, DataType parameter of type Body.

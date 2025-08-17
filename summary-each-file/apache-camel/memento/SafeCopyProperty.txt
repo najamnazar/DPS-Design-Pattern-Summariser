@@ -1,0 +1,2 @@
+SafeCopyProperty acts as a memento, which is inherited by AttachmentMap, which safes Copy.
+SafeCopyProperty acts as an originator for memento SafeCopyProperty, which is inherited by, which safes a SafeCopyProperty Copy to.

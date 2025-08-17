@@ -1,0 +1,1 @@
+FluentProduceTemplateTest acts as a caretaker for memento Producer, which tests Producer Template.

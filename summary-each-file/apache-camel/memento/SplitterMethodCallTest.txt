@@ -1,0 +1,2 @@
+SplitterMethodCallTest acts as a caretaker for memento Context, which tests Split Using Method Call, which creates Registry, which creates Route Builder, which splits String parameter of body Words.
+SplitterMethodCallTest acts as a caretaker for memento Producer, which tests Split Using Method Call, which creates Registry, which creates Route Builder, which splits String parameter of body Words.

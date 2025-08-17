@@ -1,0 +1,1 @@
+AlterIndexStep acts as an originator for memento AlterIndexFinalStep, which is inherited by, which renames an AlterIndexFinalStep To to, which renames an AlterIndexFinalStep To to, which renames an AlterIndexFinalStep To to.

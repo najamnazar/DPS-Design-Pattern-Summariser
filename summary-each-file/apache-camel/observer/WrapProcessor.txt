@@ -1,0 +1,2 @@
+WrapProcessor acts as a publisher for observer Processor, which tos String, which gets Wrapped, which nexts, which does Build, which does Init, which does Start, which does Stop.
+WrapProcessor acts as a publisher for observer AsyncProcessor, which tos String, which gets Wrapped, which nexts, which does Build, which does Init, which does Start, which does Stop.

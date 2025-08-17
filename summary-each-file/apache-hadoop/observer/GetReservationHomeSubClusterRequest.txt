@@ -1,0 +1,1 @@
+GetReservationHomeSubClusterRequest acts as a publisher for observer ReservationId, which is inherited by GetReservationHomeSubClusterRequestPBImpl, which news ReservationId parameter of reservationId Instance, which gets Reservation Id, which sets ReservationId parameter of reservationId Reservation Id.

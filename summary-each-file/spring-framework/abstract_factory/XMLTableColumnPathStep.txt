@@ -1,0 +1,5 @@
+XMLTableColumnPathStep acts as a product for XMLTableColumnsFirstStep, which overrides.
+XMLTableColumnPathStep acts as an abstract product for XMLTableColumnPathStep, which is inherited by XMLTable, XMLTable, XMLTable, XMLTable.
+XMLTableColumnPathStep acts as an abstract factory for XMLTableColumnsStep, which is inherited by XMLTable.
+XMLTableColumnPathStep acts as a product for XMLTableColumnForOrdinalityStep, which overrides.
+XMLTableColumnPathStep acts as a product for XMLTableColumnPathStep, which overrides.

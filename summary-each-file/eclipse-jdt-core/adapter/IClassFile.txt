@@ -1,0 +1,2 @@
+IClassFile acts as an adaptee for adapter AbstractClassFile, which adapts to Openable, which adapts to Openable, which adapts to Openable, which adapts to Openable, which adapts to Openable, which adapts to Openable.
+IClassFile acts as an adaptee for adapter PackageFragment, which adapts to Openable, which adapts to Openable, which adapts to Openable, which adapts to Openable, which adapts to Openable, which adapts to Openable.

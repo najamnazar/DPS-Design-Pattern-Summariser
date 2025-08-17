@@ -1,0 +1,5 @@
+BaseJooqTest acts as a publisher for observer CamelContext, which inits.
+BaseJooqTest acts as a publisher for observer FluentProducerTemplate, which inits.
+BaseJooqTest acts as a publisher for observer ConsumerTemplate, which inits.
+BaseJooqTest acts as a publisher for observer Service, which inits.
+BaseJooqTest acts as a publisher for observer ProducerTemplate, which inits.

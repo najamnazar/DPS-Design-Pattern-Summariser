@@ -1,0 +1,1 @@
+SeparatorPathElement acts as an observer, which matches int parameter of pathIndex, MatchingContext parameter of matchingContext, which gets Normalized Length, which tos String, which gets Chars.

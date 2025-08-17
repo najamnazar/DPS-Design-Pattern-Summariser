@@ -1,0 +1,1 @@
+RecordComponentElement acts as an adaptee for adapter RecordComponentElementImpl, which adapts to VariableElementImpl, which adapts to VariableElementImpl, which adapts to VariableElementImpl.

@@ -1,0 +1,2 @@
+SpringTransactionProvider acts as a caretaker for memento TransactionManager, which begins TransactionContext parameter of ctx, which commits TransactionContext parameter of ctx, which rollbacks TransactionContext parameter of ctx.
+SpringTransactionProvider acts as a caretaker for memento Transaction, which begins TransactionContext parameter of ctx, which commits TransactionContext parameter of ctx, which rollbacks TransactionContext parameter of ctx.

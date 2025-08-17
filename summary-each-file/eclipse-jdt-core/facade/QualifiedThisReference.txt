@@ -1,0 +1,1 @@
+QualifiedThisReference acts as a subsystem for facade QualifiedSuperReference, which resolveType method of QualifiedSuperReference calls resolveType.

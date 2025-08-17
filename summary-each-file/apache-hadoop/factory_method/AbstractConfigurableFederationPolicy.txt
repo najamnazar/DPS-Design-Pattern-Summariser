@@ -1,0 +1,1 @@
+AbstractConfigurableFederationPolicy acts as a product for BaseFederationPoliciesTest, which overrides.

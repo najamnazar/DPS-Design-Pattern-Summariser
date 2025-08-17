@@ -1,0 +1,1 @@
+BeanComponentBuilderFactory acts as an abstract factory for BeanComponent, which is inherited by.

@@ -1,0 +1,1 @@
+NitriteConsumer acts as a caretaker for memento HealthCheck, which does Init, which does Start, which does Stop, which ons ChangeInfo parameter of changeInfo Change.

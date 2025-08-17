@@ -1,0 +1,1 @@
+UInteger acts as a singleton, which values an UInteger Of to subtract method of UInteger, add method of UInteger, which values an UInteger Of to subtract method of UInteger, add method of UInteger, which values an UInteger Of to subtract method of UInteger, add method of UInteger.

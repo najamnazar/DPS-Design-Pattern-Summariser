@@ -1,0 +1,1 @@
+SimpleConnectionHandle acts as a caretaker for memento C, which gets Connection, which tos String.

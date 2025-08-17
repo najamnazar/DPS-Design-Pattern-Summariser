@@ -1,0 +1,1 @@
+MessageSourceAware acts as a publisher for observer MessageSource, which is inherited by ResponseStatusExceptionResolver, Service, which sets MessageSource parameter of messageSource Message Source.

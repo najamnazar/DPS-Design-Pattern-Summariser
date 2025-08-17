@@ -1,0 +1,2 @@
+RemoveRouteStopEndpointTest acts as a caretaker for memento Context, which tests Endpoint Registry Stop Route Endpoints, which tests Endpoint Registry Stop Route Endpoints Context Stop, which creates Route Builder.
+RemoveRouteStopEndpointTest acts as a caretaker for memento Producer, which tests Endpoint Registry Stop Route Endpoints, which tests Endpoint Registry Stop Route Endpoints Context Stop, which creates Route Builder.

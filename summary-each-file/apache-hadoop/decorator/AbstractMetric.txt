@@ -1,0 +1,1 @@
+AbstractMetric acts as a component for decorator MetricsTag, which overrides nameMetricsInfo, descriptionMetricsInfo, equalsMetricsInfo, hashCodeMetricsInfo, toStringMetricsInfo.

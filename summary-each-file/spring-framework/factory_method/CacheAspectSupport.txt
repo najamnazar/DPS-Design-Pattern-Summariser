@@ -1,0 +1,3 @@
+CacheAspectSupport acts as a factory for CacheOperationSourcePointcut, which overrides.
+CacheAspectSupport acts as a factory for DefaultJCacheOperationSource, which overrides.
+CacheAspectSupport acts as a factory for EvalTag, which overrides.

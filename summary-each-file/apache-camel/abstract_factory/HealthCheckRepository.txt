@@ -1,0 +1,1 @@
+HealthCheckRepository acts as an abstract product for HealthCheckRepository, which is inherited by ConsumersHealthCheckRepository, WritableHealthCheckRepository, RoutesHealthCheckRepository, HealthCheckRegistryRepository.

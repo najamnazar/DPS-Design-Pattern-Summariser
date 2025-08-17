@@ -1,0 +1,3 @@
+TestWebHDFSXAttr acts as a publisher for observer Path, which creates File System.
+TestWebHDFSXAttr acts as a publisher for observer FileSystem, which creates File System.
+TestWebHDFSXAttr acts as a publisher for observer UserGroupInformation, which creates File System.

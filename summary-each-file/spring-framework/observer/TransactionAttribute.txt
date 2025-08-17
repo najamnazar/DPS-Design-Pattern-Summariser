@@ -1,0 +1,2 @@
+TransactionAttribute acts as an observer, which gets Qualifier, which gets Labels, which rollbacks Throwable parameter of ex On.
+TransactionAttribute acts as an observer for publisher MatchAlwaysTransactionAttributeSource, which is inherited by DelegatingTransactionAttribute, DefaultTransactionAttribute, which gets Qualifier, which gets Labels, which rollbacks Throwable parameter of ex On.

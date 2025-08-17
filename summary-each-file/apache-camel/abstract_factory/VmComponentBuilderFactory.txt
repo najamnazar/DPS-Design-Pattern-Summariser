@@ -1,0 +1,1 @@
+VmComponentBuilderFactory acts as an abstract factory for VmComponent, which is inherited by.

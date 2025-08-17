@@ -1,0 +1,1 @@
+ReservationListResponse acts as an abstract product for ReservationListResponse, which is inherited by ReservationListResponsePBImpl.

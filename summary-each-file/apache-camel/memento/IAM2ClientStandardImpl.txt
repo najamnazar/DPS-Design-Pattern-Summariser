@@ -1,0 +1,2 @@
+IAM2ClientStandardImpl acts as a memento, which gets Iam Client.
+IAM2ClientStandardImpl acts as a caretaker for memento Configuration, which gets Iam Client.

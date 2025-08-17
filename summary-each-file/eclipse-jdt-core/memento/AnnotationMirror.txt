@@ -1,0 +1,2 @@
+AnnotationMirror acts as an originator for memento SourcePosition, which is inherited by, which gets a SourcePosition Position to.
+AnnotationMirror acts as an originator for memento AnnotationType, which is inherited by, which gets an AnnotationType Annotation Type to.

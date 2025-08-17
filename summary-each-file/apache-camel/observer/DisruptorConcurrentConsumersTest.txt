@@ -1,0 +1,5 @@
+DisruptorConcurrentConsumersTest acts as a publisher for observer ProducerTemplate, which tests Send To Disruptor, which creates Route Builder.
+DisruptorConcurrentConsumersTest acts as a publisher for observer FluentProducerTemplate, which tests Send To Disruptor, which creates Route Builder.
+DisruptorConcurrentConsumersTest acts as a publisher for observer CamelContext, which tests Send To Disruptor, which creates Route Builder.
+DisruptorConcurrentConsumersTest acts as a publisher for observer Service, which tests Send To Disruptor, which creates Route Builder.
+DisruptorConcurrentConsumersTest acts as a publisher for observer ConsumerTemplate, which tests Send To Disruptor, which creates Route Builder.

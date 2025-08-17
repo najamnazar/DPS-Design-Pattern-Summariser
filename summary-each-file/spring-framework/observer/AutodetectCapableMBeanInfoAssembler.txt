@@ -1,0 +1,1 @@
+AutodetectCapableMBeanInfoAssembler acts as an observer, which includes Class<?> parameter of beanClass, String parameter of beanName Bean.

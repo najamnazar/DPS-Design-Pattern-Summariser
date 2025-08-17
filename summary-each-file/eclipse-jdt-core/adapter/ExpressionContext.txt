@@ -1,0 +1,1 @@
+ExpressionContext acts as an adaptee for adapter FunctionalExpression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression, which adapts to Expression.

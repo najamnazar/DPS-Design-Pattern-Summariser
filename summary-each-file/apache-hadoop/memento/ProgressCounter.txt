@@ -1,0 +1,1 @@
+ProgressCounter acts as a memento, which asserts String parameter of message, int parameter of expected Count, which asserts String parameter of message, int parameter of expected Count, which asserts String parameter of message, int parameter of expected Count.

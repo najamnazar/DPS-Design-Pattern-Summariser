@@ -1,0 +1,1 @@
+CustomizableThreadFactory acts as a caretaker for memento A, which news Runnable parameter of runnable Thread.

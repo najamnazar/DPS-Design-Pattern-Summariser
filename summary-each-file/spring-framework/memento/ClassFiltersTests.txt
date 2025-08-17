@@ -1,0 +1,1 @@
+ClassFiltersTests acts as a caretaker for memento C, which unions, which intersections.

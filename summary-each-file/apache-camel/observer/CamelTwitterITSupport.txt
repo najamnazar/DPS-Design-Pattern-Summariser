@@ -1,0 +1,5 @@
+CamelTwitterITSupport acts as a publisher for observer CamelContext, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.
+CamelTwitterITSupport acts as a publisher for observer ProducerTemplate, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.
+CamelTwitterITSupport acts as a publisher for observer ConsumerTemplate, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.
+CamelTwitterITSupport acts as a publisher for observer FluentProducerTemplate, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.
+CamelTwitterITSupport acts as a publisher for observer Service, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.

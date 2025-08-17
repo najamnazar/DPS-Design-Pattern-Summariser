@@ -1,0 +1,1 @@
+Index acts as an observer for publisher DropIndexImpl, which is inherited by IndexImpl, which gets Table, which gets Fields, which gets Where, which gets Unique, which $tables.

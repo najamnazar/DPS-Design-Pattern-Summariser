@@ -1,0 +1,1 @@
+RMAppAttemptUnregistrationEvent acts as an observer, which gets Final Tracking Url, which gets Final Application Status.

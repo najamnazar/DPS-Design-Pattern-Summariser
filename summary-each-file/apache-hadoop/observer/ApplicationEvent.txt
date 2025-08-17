@@ -1,0 +1,1 @@
+ApplicationEvent acts as an observer for publisher ApplicationImpl, which is inherited by ApplicationFinishEvent, ApplicationContainerInitEvent, ApplicationInitEvent, ApplicationInitedEvent, ApplicationContainerFinishedEvent, which gets Application ID.

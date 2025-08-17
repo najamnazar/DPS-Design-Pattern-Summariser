@@ -1,0 +1,2 @@
+ChoicePredicateSimpleHeaderTest acts as a publisher for observer CamelContext, which tests AAE, which tests PCA, which tests Error, which tests No Header, which creates Route Builder.
+ChoicePredicateSimpleHeaderTest acts as a publisher for observer Service, which tests AAE, which tests PCA, which tests Error, which tests No Header, which creates Route Builder.

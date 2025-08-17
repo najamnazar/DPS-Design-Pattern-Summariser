@@ -1,0 +1,1 @@
+Groups acts as an observer for publisher CSMappingPlacementRule, which is inherited by GroupsService, which gets String parameter of user Groups, which gets String parameter of user Groups Set.

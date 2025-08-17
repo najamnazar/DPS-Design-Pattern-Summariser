@@ -1,0 +1,3 @@
+AsyncLogger acts as a factory for AsyncLogger, which overrides.
+AsyncLogger acts as a factory method for AsyncLogger, which is inherited by AsyncLogger.
+AsyncLogger acts as an abstract product for AsyncLogger, which is inherited by IPCLoggerChannel.

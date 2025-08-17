@@ -1,0 +1,2 @@
+DefaultIndexColumnDefinition acts as a caretaker for memento C, which gets Type, which gets JavaTypeResolver parameter of resolver Type, which gets Defined Type, which gets Position, which gets Sort Order, which gets Column.
+DefaultIndexColumnDefinition acts as a caretaker for memento ColumnDefinition, which gets Type, which gets JavaTypeResolver parameter of resolver Type, which gets Defined Type, which gets Position, which gets Sort Order, which gets Column.

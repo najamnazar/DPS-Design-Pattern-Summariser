@@ -1,0 +1,1 @@
+ITypeHierarchy acts as an abstract product for CreateTypeHierarchyOperation, which is inherited by TypeHierarchy.

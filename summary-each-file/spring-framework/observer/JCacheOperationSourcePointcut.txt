@@ -1,0 +1,1 @@
+JCacheOperationSourcePointcut acts as a publisher for observer ClassFilter, which matches Method parameter of method, Class<?> parameter of targetClass, which gets Cache Operation Source, which equals @Nullable parameter of Object, which hashes Code, which tos String.

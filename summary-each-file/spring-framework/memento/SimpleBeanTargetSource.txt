@@ -1,0 +1,2 @@
+SimpleBeanTargetSource acts as a caretaker for memento B, which gets Target.
+SimpleBeanTargetSource acts as a caretaker for memento C, which gets Target.

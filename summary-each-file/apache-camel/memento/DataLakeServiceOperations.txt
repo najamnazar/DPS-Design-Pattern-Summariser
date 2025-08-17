@@ -1,0 +1,1 @@
+DataLakeServiceOperations acts as a caretaker for memento Configuration, which lists final parameter of Exchange File Systems.

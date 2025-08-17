@@ -1,0 +1,1 @@
+JettyCustomPlatformHttpConsumer acts as an adapter, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts getEndpoint method of Pattern, getEndpoint method of Pattern to DefaultConsumer, which adapts to DefaultConsumer.

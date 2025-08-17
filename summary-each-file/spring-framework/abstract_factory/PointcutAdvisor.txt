@@ -1,0 +1,3 @@
+PointcutAdvisor acts as a product for AspectJAdvisorFactory, which overrides.
+PointcutAdvisor acts as an abstract factory for Pointcut, which is inherited by AspectJPointcutAdvisor, StaticMethodMatcherPointcutAdvisor, AbstractPointcutAdvisor.
+PointcutAdvisor acts as a product for AdvisorAdapterRegistry, which overrides.

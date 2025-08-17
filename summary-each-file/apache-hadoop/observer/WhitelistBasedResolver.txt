@@ -1,0 +1,1 @@
+WhitelistBasedResolver acts as a publisher for observer Configuration, which sets Configuration parameter of conf Conf, which gets InetAddress parameter of clientAddress Server Properties, which gets String parameter of clientAddress Server Properties, which gets Configuration parameter of conf Sasl Properties.

@@ -1,0 +1,1 @@
+Body acts as an observer for publisher InteractiveMessage, which is inherited by.

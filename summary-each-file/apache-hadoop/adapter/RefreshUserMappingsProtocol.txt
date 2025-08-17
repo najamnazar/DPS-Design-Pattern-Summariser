@@ -1,0 +1,6 @@
+RefreshUserMappingsProtocol acts as a target for adapter RouterUserProtocol, which adapts to RefreshUserMappingsProtocol, which adapts to RefreshUserMappingsProtocol.
+RefreshUserMappingsProtocol acts as a target for adapter RefreshUserMappingsProtocolClientSideTranslatorPB, which adapts to RefreshUserMappingsProtocol, which adapts to RefreshUserMappingsProtocol.
+RefreshUserMappingsProtocol acts as an adaptee for adapter RouterUserProtocol, which adapts to GetUserMappingsProtocol, RefreshUserMappingsProtocol, which adapts to GetUserMappingsProtocol, RefreshUserMappingsProtocol.
+RefreshUserMappingsProtocol acts as an adaptee for adapter RefreshUserMappingsProtocolClientSideTranslatorPB, which adapts to ProtocolMetaInterface, RefreshUserMappingsProtocol, which adapts to ProtocolMetaInterface, RefreshUserMappingsProtocol.
+RefreshUserMappingsProtocol acts as an adaptee for adapter RouterRpcServer, which adapts to GetUserMappingsProtocol, RefreshUserMappingsProtocol, AbstractService, NamenodeProtocol, which adapts to GetUserMappingsProtocol, RefreshUserMappingsProtocol, AbstractService, NamenodeProtocol.
+RefreshUserMappingsProtocol acts as a target for adapter RouterRpcServer, which adapts to RefreshUserMappingsProtocol, which adapts to RefreshUserMappingsProtocol.

@@ -1,0 +1,2 @@
+PointcutAdvisor acts as a caretaker for memento Advice, which gets Pointcut.
+PointcutAdvisor acts as a caretaker for memento A, which gets Pointcut.

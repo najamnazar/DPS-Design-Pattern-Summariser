@@ -1,0 +1,1 @@
+BonitaAPIUtil acts as a singleton, which gets a BonitaAPIUtil Instance to.

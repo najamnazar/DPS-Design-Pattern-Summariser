@@ -1,0 +1,8 @@
+BootstrapMethodAttributeTest acts as a caretaker for memento R, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento String, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento S, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento C, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento Test, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento Map, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento List, which tests Class, which suites, which test001s.
+BootstrapMethodAttributeTest acts as a caretaker for memento E, which tests Class, which suites, which test001s.

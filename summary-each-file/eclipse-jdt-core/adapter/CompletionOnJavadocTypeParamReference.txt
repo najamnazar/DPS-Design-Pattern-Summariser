@@ -1,0 +1,1 @@
+CompletionOnJavadocTypeParamReference acts as an adapter, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc, which adapts to CompletionOnJavadoc.

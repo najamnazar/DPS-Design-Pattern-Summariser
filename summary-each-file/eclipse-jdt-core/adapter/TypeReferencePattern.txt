@@ -1,0 +1,1 @@
+TypeReferencePattern acts as an adaptee for adapter TypeReferenceLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator, which adapts to PatternLocator.

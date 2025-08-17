@@ -1,0 +1,1 @@
+HttpCommonEndpoint acts as a factory for UndertowEndpoint, which overrides.

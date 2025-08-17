@@ -1,0 +1,5 @@
+SqsDoesNotExtendMessageVisibilityTest acts as a publisher for observer FluentProducerTemplate, which defaultses To Disabled, which creates Route Builder.
+SqsDoesNotExtendMessageVisibilityTest acts as a publisher for observer CamelContext, which defaultses To Disabled, which creates Route Builder.
+SqsDoesNotExtendMessageVisibilityTest acts as a publisher for observer ConsumerTemplate, which defaultses To Disabled, which creates Route Builder.
+SqsDoesNotExtendMessageVisibilityTest acts as a publisher for observer Service, which defaultses To Disabled, which creates Route Builder.
+SqsDoesNotExtendMessageVisibilityTest acts as a publisher for observer ProducerTemplate, which defaultses To Disabled, which creates Route Builder.

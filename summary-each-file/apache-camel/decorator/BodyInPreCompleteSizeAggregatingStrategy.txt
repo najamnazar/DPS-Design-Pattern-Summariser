@@ -1,0 +1,1 @@
+BodyInPreCompleteSizeAggregatingStrategy acts as a component for decorator ShareUnitOfWorkAggregationStrategy, which overrides aggregateAggregationStrategy, canPreCompleteAggregationStrategy, preCompleteAggregationStrategy.

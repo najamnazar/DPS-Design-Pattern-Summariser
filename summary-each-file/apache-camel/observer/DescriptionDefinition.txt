@@ -1,0 +1,1 @@
+DescriptionDefinition acts as an observer for publisher OptionalIdentifiedDefinition, RouteTemplateDefinition, which is inherited by, which gets Lang, which sets String parameter of lang Lang, which gets Text, which sets String parameter of text Text.

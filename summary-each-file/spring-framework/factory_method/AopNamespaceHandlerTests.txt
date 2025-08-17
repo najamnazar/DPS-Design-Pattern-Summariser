@@ -1,0 +1,1 @@
+AopNamespaceHandlerTests acts as a factory for CglibProxyTests, which overrides.

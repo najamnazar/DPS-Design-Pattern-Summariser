@@ -1,0 +1,5 @@
+XQueryFromFileTest acts as a publisher for observer FluentProducerTemplate, which tests XQuery From File, which creates Route Builder.
+XQueryFromFileTest acts as a publisher for observer CamelContext, which tests XQuery From File, which creates Route Builder.
+XQueryFromFileTest acts as a publisher for observer ConsumerTemplate, which tests XQuery From File, which creates Route Builder.
+XQueryFromFileTest acts as a publisher for observer ProducerTemplate, which tests XQuery From File, which creates Route Builder.
+XQueryFromFileTest acts as a publisher for observer Service, which tests XQuery From File, which creates Route Builder.

@@ -1,0 +1,1 @@
+HttpLogging acts as a publisher for observer Log, which is inherited by, which fors Class<?> parameter of primaryLoggerClass Log Name, which fors Log parameter of primaryLogger Log.

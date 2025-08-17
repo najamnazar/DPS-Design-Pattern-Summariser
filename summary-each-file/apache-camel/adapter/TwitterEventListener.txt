@@ -1,0 +1,1 @@
+TwitterEventListener acts as an adaptee for adapter DefaultTwitterConsumer, which adapts to ScheduledPollConsumer.

@@ -1,0 +1,1 @@
+LockMixin acts as an adapter, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor, which adapts to DelegatingIntroductionInterceptor.

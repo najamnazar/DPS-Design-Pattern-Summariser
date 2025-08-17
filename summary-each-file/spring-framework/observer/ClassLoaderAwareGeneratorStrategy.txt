@@ -1,0 +1,1 @@
+ClassLoaderAwareGeneratorStrategy acts as a publisher for observer Language, which generates ClassGenerator parameter of cg.

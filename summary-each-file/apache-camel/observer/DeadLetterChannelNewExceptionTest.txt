@@ -1,0 +1,2 @@
+DeadLetterChannelNewExceptionTest acts as a publisher for observer CamelContext, which ons Exchange parameter of exchange, Exception parameter of exception Exception, which tests Dead Letter Channel New Exception, which creates Route Builder.
+DeadLetterChannelNewExceptionTest acts as a publisher for observer Service, which ons Exchange parameter of exchange, Exception parameter of exception Exception, which tests Dead Letter Channel New Exception, which creates Route Builder.

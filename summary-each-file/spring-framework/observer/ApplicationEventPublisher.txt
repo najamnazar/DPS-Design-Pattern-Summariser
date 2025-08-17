@@ -1,0 +1,1 @@
+ApplicationEventPublisher acts as an observer for publisher EventPublicationInterceptor, which is inherited by ApplicationContext, which publishes ApplicationEvent parameter of event Event, which publishes Object parameter of event Event.

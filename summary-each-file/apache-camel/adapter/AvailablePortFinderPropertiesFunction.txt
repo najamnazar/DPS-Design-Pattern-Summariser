@@ -1,0 +1,1 @@
+AvailablePortFinderPropertiesFunction acts as an adaptee for adapter SpringZooKeeperServiceCallRouteIT, which adapts to CamelSpringTestSupport, which adapts to CamelSpringTestSupport.

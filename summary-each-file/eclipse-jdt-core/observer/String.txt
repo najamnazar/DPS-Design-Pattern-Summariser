@@ -1,0 +1,1 @@
+String acts as an observer for publisher LocalVMLauncher, StandardVMLauncher, JRockitVMLauncher, J9VMLauncher, which is inherited by, which lengthes.

@@ -1,0 +1,1 @@
+SuggestionStrategy acts as an observer for publisher AbstractCamelCatalog, DefaultRuntimeCamelCatalog, DefaultCamelCatalog, which is inherited by LuceneSuggestionStrategy, which suggests Set<String> parameter of names, String parameter of unknownOption Endpoint Options.

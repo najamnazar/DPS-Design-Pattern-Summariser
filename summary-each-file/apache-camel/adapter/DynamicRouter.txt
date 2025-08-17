@@ -1,0 +1,2 @@
+DynamicRouter acts as an adaptee for adapter ManagedDynamicRouter, which adapts to ManagedProcessor, which adapts to ManagedProcessor, which adapts to ManagedProcessor.
+DynamicRouter acts as an adapter, which adapts to RoutingSlip, which adapts to RoutingSlip, which adapts to RoutingSlip.

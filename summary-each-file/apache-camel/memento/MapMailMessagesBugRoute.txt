@@ -1,0 +1,1 @@
+MapMailMessagesBugRoute acts as a caretaker for memento Configuration, which mains String... parameter of args, which configures.

@@ -1,0 +1,1 @@
+DnsType acts as an observer for publisher DnsEndpoint, which is inherited by.

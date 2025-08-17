@@ -1,0 +1,1 @@
+TracingMulticastParallelRouteTest acts as an adapter, which adapts to CamelOpenTracingTestSupport, which adapts to CamelOpenTracingTestSupport, which adapts to CamelOpenTracingTestSupport.

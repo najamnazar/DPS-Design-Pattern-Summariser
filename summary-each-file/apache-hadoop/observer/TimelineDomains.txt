@@ -1,0 +1,1 @@
+TimelineDomains acts as a publisher for observer TimelineDomain, which is inherited by, which gets Domains, which adds TimelineDomain parameter of domain Domain, which adds List<TimelineDomain> parameter of domains Domains, which sets List<TimelineDomain> parameter of domains Domains.

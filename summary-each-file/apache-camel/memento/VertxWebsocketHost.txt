@@ -1,0 +1,2 @@
+VertxWebsocketHost acts as a caretaker for memento Configuration, which connects VertxWebsocketConsumer parameter of consumer, which disconnects String parameter of path, which starts, which stops, which gets Connected Peers, which gets Port.
+VertxWebsocketHost acts as a caretaker for memento Context, which connects VertxWebsocketConsumer parameter of consumer, which disconnects String parameter of path, which starts, which stops, which gets Connected Peers, which gets Port.

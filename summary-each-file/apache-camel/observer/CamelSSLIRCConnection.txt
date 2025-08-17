@@ -1,0 +1,1 @@
+CamelSSLIRCConnection acts as a publisher for observer SSLContextParameters, which is inherited by, which connects, which gets Ssl Context Parameters, which sets SSLContextParameters parameter of sslContextParameters Ssl Context Parameters.

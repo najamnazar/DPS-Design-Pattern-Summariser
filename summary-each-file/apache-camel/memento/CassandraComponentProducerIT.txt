@@ -1,0 +1,1 @@
+CassandraComponentProducerIT acts as a caretaker for memento Producer, which creates Route Builder, which tests Request Uri Cql, which tests Request No Parameter Null, which tests Request No Parameter Empty, which tests Request Message Cql, which tests Load Balancing, which tests Request Message Statement, which tests Endpoint No Cql Parameter, which tests Request Not Consistent.

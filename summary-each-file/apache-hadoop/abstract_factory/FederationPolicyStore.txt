@@ -1,0 +1,1 @@
+FederationPolicyStore acts as an abstract factory for DeletePoliciesConfigurationsResponse, DeleteSubClusterPoliciesConfigurationsResponse, GetSubClusterPolicyConfigurationResponse, SetSubClusterPolicyConfigurationResponse, GetSubClusterPoliciesConfigurationsResponse, which is inherited by.

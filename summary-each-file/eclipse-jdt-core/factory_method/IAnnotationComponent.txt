@@ -1,0 +1,1 @@
+IAnnotationComponent acts as a factory for AnnotationComponent, which overrides.

@@ -1,0 +1,1 @@
+DefaultParameterMappingStrategy acts as a factory for ParameterMappingStrategy, which overrides getDefaultParameterTypeExpression method of ParameterMappingStrategy.

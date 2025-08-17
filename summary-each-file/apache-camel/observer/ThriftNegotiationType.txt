@@ -1,0 +1,1 @@
+ThriftNegotiationType acts as an observer for publisher ThriftConfiguration, which is inherited by.

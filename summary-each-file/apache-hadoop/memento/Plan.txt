@@ -1,0 +1,1 @@
+Plan acts as a memento, which is inherited by InMemoryPlan.

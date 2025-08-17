@@ -1,0 +1,1 @@
+Mountd acts as an adaptee for adapter Nfs3, which adapts to Nfs3Base.

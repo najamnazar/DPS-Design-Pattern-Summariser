@@ -1,0 +1,1 @@
+LeaderFollowerResolver acts as an observer, which gets String parameter of path, PathLocation parameter of loc First Namespace.

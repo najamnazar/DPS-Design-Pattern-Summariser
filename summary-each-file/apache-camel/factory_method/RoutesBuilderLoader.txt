@@ -1,0 +1,2 @@
+RoutesBuilderLoader acts as a factory for CamelJmxConsumerObserveAttributeMatchStringTest, which overrides.
+RoutesBuilderLoader acts as an abstract product for DependencyDownloaderRoutesLoader, which is inherited by RoutesBuilderLoaderSupport.

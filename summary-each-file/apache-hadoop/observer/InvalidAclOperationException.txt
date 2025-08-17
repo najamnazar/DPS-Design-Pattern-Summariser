@@ -1,0 +1,1 @@
+InvalidAclOperationException acts as an observer.

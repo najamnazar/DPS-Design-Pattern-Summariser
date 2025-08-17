@@ -1,0 +1,2 @@
+RunJDTCoreTests acts as a caretaker for memento S, which suites.
+RunJDTCoreTests acts as a caretaker for memento String, which suites.

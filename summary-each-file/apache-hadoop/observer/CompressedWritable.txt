@@ -1,0 +1,1 @@
+CompressedWritable acts as an observer, which reads DataInput parameter of in Fields, which ensures Inflated, which reads DataInput parameter of in Fields Compressed, which writes DataOutput parameter of out, which writes DataOutput parameter of out Compressed.

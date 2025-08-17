@@ -1,0 +1,1 @@
+BatchConsumer acts as an adaptee for adapter ScheduledBatchPollingConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer, which adapts to ScheduledPollConsumer.

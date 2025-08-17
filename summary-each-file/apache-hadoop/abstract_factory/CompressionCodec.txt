@@ -1,0 +1,2 @@
+CompressionCodec acts as an abstract product for CompressionCodec, which is inherited by DirectDecompressionCodec, SplittableCompressionCodec, Lz4Codec, ZStandardCodec, SnappyCodec, PassthroughCodec, DefaultCodec.
+CompressionCodec acts as an abstract factory for Decompressor, CompressionOutputStream, CompressionInputStream, Compressor, which is inherited by Lz4Codec, ZStandardCodec, SnappyCodec, PassthroughCodec, DefaultCodec.

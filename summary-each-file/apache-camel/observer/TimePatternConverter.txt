@@ -1,0 +1,1 @@
+TimePatternConverter acts as a publisher for observer Pattern, which is inherited by, which tos String parameter of source Milli Seconds, which checks String parameter of source Correctness Of Pattern, which creates Pattern parameter of pattern, String parameter of source Matcher.

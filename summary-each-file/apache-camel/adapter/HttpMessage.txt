@@ -1,0 +1,1 @@
+HttpMessage acts as an adapter, which adapts to DefaultMessage, which adapts to DefaultMessage, which adapts to DefaultMessage, which adapts to DefaultMessage, which adapts to DefaultMessage, which adapts to DefaultMessage, which adapts to DefaultMessage.

@@ -1,0 +1,1 @@
+AptTestsPlugin acts as a caretaker for memento Test, which starts BundleContext parameter of context, which stops BundleContext parameter of context, which gets Default.

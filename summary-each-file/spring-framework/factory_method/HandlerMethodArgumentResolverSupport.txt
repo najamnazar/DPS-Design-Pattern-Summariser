@@ -1,0 +1,1 @@
+HandlerMethodArgumentResolverSupport acts as a product for SessionAttributeMethodArgumentResolverTests, which overrides.

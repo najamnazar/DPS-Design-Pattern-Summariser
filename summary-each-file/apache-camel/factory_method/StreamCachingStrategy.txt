@@ -1,0 +1,1 @@
+StreamCachingStrategy acts as a factory for SourceCache, which overrides.

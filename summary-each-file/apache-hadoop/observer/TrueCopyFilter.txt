@@ -1,0 +1,1 @@
+TrueCopyFilter acts as an observer, which shoulds Path parameter of path Copy.

@@ -1,0 +1,1 @@
+AbstractCommitManager acts as a factory for KafkaManualCommitFactory, which overrides.

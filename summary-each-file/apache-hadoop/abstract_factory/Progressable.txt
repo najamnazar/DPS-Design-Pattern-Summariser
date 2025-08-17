@@ -1,0 +1,1 @@
+Progressable acts as an abstract product for Progressable, which is inherited by Reporter, CountingProgressListener, ProgressCounter.

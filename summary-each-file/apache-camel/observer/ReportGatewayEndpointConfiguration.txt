@@ -1,0 +1,2 @@
+ReportGatewayEndpointConfiguration acts as a publisher for observer BraintreeApiName, which gets Request, which sets com.braintreegateway.TransactionLevelFeeReportRequest parameter of request Request.
+ReportGatewayEndpointConfiguration acts as an observer, which gets Request, which sets com.braintreegateway.TransactionLevelFeeReportRequest parameter of request Request.

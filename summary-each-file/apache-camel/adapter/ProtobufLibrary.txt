@@ -1,0 +1,1 @@
+ProtobufLibrary acts as an adaptee for adapter ProtobufDataFormat, which adapts to DataFormatDefinition.

@@ -1,0 +1,2 @@
+BaseErrorHandlerDefinition acts as an originator for memento ErrorHandlerFactory.
+BaseErrorHandlerDefinition acts as a memento.

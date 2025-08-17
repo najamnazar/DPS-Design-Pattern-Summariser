@@ -1,0 +1,1 @@
+RMAppBlock acts as an adapter, which adapts to AppBlock, which adapts to AppBlock, which adapts to AppBlock, which adapts to AppBlock, which adapts to AppBlock, which adapts to AppBlock, which adapts to AppBlock.

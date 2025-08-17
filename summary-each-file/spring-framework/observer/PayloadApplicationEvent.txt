@@ -1,0 +1,1 @@
+PayloadApplicationEvent acts as an observer, which gets Resolvable Type, which gets Payload.

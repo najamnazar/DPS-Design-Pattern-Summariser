@@ -1,0 +1,5 @@
+DataLakeComponentTest acts as a publisher for observer ConsumerTemplate, which tests With Service Client, which tests With Shared Key Credentials, which tests Producer Without File Name, which storages Shared Key Credentials.
+DataLakeComponentTest acts as a publisher for observer CamelContext, which tests With Service Client, which tests With Shared Key Credentials, which tests Producer Without File Name, which storages Shared Key Credentials.
+DataLakeComponentTest acts as a publisher for observer Service, which tests With Service Client, which tests With Shared Key Credentials, which tests Producer Without File Name, which storages Shared Key Credentials.
+DataLakeComponentTest acts as a publisher for observer ProducerTemplate, which tests With Service Client, which tests With Shared Key Credentials, which tests Producer Without File Name, which storages Shared Key Credentials.
+DataLakeComponentTest acts as a publisher for observer FluentProducerTemplate, which tests With Service Client, which tests With Shared Key Credentials, which tests Producer Without File Name, which storages Shared Key Credentials.

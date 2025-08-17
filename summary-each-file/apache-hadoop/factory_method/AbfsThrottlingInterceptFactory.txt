@@ -1,0 +1,1 @@
+AbfsThrottlingInterceptFactory acts as a factory method for AbfsThrottlingIntercept, which is inherited by AbfsClient, AbfsClient.

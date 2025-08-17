@@ -1,0 +1,2 @@
+SchematronEndpointTest acts as a caretaker for memento Context, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.
+SchematronEndpointTest acts as a caretaker for memento Producer, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.

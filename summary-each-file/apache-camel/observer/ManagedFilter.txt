@@ -1,0 +1,1 @@
+ManagedFilter acts as a publisher for observer Route, which gets Definition, which resets, which gets Predicate, which gets Predicate Language, which gets Filtered Count.

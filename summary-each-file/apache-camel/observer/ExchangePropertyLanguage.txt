@@ -1,0 +1,1 @@
+ExchangePropertyLanguage acts as an observer, which exchanges String parameter of propertyName Property, which creates String parameter of expression Predicate, which creates String parameter of expression Expression, which is Singleton.

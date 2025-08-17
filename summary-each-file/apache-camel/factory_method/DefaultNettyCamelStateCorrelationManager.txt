@@ -1,0 +1,1 @@
+DefaultNettyCamelStateCorrelationManager acts as a product for NettyConfiguration, which overrides putState method of NettyCamelStateCorrelationManager, removeState method of NettyCamelStateCorrelationManager, getState method of NettyCamelStateCorrelationManager, getState method of NettyCamelStateCorrelationManager.

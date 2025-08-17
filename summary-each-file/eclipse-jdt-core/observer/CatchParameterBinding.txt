@@ -1,0 +1,2 @@
+CatchParameterBinding acts as a publisher for observer TypeBinding, which is inherited by, which gets Precise Types, which sets TypeBinding parameter of raisedException Precise Type, which is Catch Parameter.
+CatchParameterBinding acts as an observer, which gets Precise Types, which sets TypeBinding parameter of raisedException Precise Type, which is Catch Parameter.

@@ -1,0 +1,1 @@
+CloudtrailEndpoint acts as an adapter, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint, which adapts to ScheduledPollEndpoint.

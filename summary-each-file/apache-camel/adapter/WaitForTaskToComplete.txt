@@ -1,0 +1,2 @@
+WaitForTaskToComplete acts as an adaptee for adapter SedaEndpoint.
+WaitForTaskToComplete acts as an adaptee for adapter DisruptorEndpoint.

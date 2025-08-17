@@ -1,0 +1,2 @@
+TestAzcopyToolHelper acts as a publisher for observer AzureBlobFileSystem, which tests Get Azcopy Tool Command.
+TestAzcopyToolHelper acts as a publisher for observer Configuration, which tests Get Azcopy Tool Command.

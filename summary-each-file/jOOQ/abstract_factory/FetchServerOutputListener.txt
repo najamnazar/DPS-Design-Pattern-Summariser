@@ -1,0 +1,2 @@
+FetchServerOutputListener acts as a product for ExecuteListenerProvider, which overrides executeStart method of ExecuteListener, executeEnd method of ExecuteListener.
+FetchServerOutputListener acts as a factory for ExecuteListener, which overrides executeStart method of ExecuteListener, executeEnd method of ExecuteListener.

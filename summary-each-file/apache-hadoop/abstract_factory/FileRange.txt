@@ -1,0 +1,2 @@
+FileRange acts as an abstract product for FileRange, which is inherited by FileRangeImpl, FileRangeImpl.
+FileRange acts as an abstract factory for FileRange, which is inherited by FileRangeImpl.

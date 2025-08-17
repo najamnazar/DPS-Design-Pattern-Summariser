@@ -1,0 +1,1 @@
+CustomProblemReporterTests acts as a publisher for observer Problem, which is inherited by, which setups, which tests Errors Are Collated, which fatals Problem parameter of problem, which errors Problem parameter of problem, which gets Errors, which warns Problem parameter of problem.

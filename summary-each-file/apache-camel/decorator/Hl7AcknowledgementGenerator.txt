@@ -1,0 +1,1 @@
+Hl7AcknowledgementGenerator acts as a component for decorator DelegateProcessor, which overrides doStartProcessor, processProcessor.

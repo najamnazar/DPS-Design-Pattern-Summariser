@@ -1,0 +1,2 @@
+CamelTwitterITSupport acts as a caretaker for memento Producer, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.
+CamelTwitterITSupport acts as a caretaker for memento Context, which gets Uri Tokens, which gets Parameters, which adds Properties parameter of properties, String parameter of name, String parameter of envName Property.

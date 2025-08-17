@@ -1,0 +1,2 @@
+FsPermission acts as an abstract product for FsPermission, which is inherited by FsPermissionExtension, FsPermissionExtension, FsCreateModes, FsCreateModes, AdlPermission, AdlPermission, AbfsPermission, AbfsPermission.
+FsPermission acts as a product for WritableFactory, which overrides write method of Writable, readFields method of Writable, readFields method of Writable.

@@ -1,0 +1,1 @@
+RouterQuotaUsage acts as a product for ClientProtocol, which overrides fileAndDirectoryCount method of QuotaUsage, quota method of QuotaUsage, spaceConsumed method of QuotaUsage, spaceQuota method of QuotaUsage, typeConsumed method of QuotaUsage, typeQuota method of QuotaUsage, typeQuota method of QuotaUsage, toString method of QuotaUsage.

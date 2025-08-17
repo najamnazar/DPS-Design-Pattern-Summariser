@@ -1,0 +1,1 @@
+CitextBinding acts as a caretaker for memento C, which converters, which casts Type.

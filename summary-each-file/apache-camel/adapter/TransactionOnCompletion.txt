@@ -1,0 +1,1 @@
+TransactionOnCompletion acts as an adapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter, which adapts to SynchronizationAdapter.

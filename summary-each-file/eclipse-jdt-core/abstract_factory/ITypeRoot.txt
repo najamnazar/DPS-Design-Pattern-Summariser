@@ -1,0 +1,11 @@
+ITypeRoot acts as a product for ITypeRoot, which overrides.
+ITypeRoot acts as an abstract factory for IJavaElement, ICompilationUnit, IModuleDescription, IType, which is inherited by.
+ITypeRoot acts as a product for IJavaElementDelta, which overrides.
+ITypeRoot acts as a product for IJavaElement, which overrides.
+ITypeRoot acts as a product for IBuffer, which overrides.
+ITypeRoot acts as a product for IJavaProject, which overrides.
+ITypeRoot acts as a product for IWorkingCopy, which overrides.
+ITypeRoot acts as a product for IBinding, which overrides.
+ITypeRoot acts as a product for IClassFile, which overrides.
+ITypeRoot acts as an abstract product for ITypeRoot, which is inherited by IClassFile.
+ITypeRoot acts as a product for IDOMNode, which overrides.

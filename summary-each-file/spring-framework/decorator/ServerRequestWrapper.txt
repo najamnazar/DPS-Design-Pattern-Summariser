@@ -1,0 +1,1 @@
+ServerRequestWrapper acts as a decorator for component ServerRequest, which is inherited by.

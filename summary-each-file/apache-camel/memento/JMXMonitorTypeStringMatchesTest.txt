@@ -1,0 +1,1 @@
+JMXMonitorTypeStringMatchesTest acts as a caretaker for memento Context, which matches, which builds From URI.

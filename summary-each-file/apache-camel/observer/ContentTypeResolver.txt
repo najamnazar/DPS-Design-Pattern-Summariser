@@ -1,0 +1,1 @@
+ContentTypeResolver acts as an observer for publisher MailEndpoint, which is inherited by, which resolves String parameter of fileName Content Type.

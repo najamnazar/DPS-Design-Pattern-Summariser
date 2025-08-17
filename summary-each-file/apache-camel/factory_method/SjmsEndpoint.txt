@@ -1,0 +1,5 @@
+SjmsEndpoint acts as a factory for CamelPostProcessorHelperTest, which overrides.
+SjmsEndpoint acts as a factory for AggregateCompletionOnlyTwoTest, which overrides.
+SjmsEndpoint acts as a factory for SjmsEndpoint, which overrides.
+SjmsEndpoint acts as a factory for TransformerRouteTest, which overrides.
+SjmsEndpoint acts as a factory method for JmsObjectFactory, which is inherited by SjmsEndpoint.

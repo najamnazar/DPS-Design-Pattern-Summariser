@@ -1,0 +1,3 @@
+LoadBalancer acts as an observer, which adds AsyncProcessor parameter of processor Processor, which removes AsyncProcessor parameter of processor Processor, which gets Processors.
+LoadBalancer acts as a publisher for observer AsyncProcessor, which is inherited by LoadBalancerSupport, which adds AsyncProcessor parameter of processor Processor, which removes AsyncProcessor parameter of processor Processor, which gets Processors.
+LoadBalancer acts as an observer for publisher CustomLoadBalancerDefinition, which is inherited by LoadBalancerSupport, which adds AsyncProcessor parameter of processor Processor, which removes AsyncProcessor parameter of processor Processor, which gets Processors.

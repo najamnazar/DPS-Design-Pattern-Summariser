@@ -1,0 +1,2 @@
+VolumeManager acts as an abstract factory for Volume, CsiAdaptorProtocol, which is inherited by VolumeManagerImpl.
+VolumeManager acts as an abstract product for VolumeManager, which is inherited by VolumeManagerImpl.

@@ -1,0 +1,1 @@
+WebMvcStompWebSocketEndpointRegistration acts as a product for StompWebSocketEndpointRegistration, which overrides setHandshakeHandler method of StompWebSocketEndpointRegistration, addInterceptors method of StompWebSocketEndpointRegistration, withSockJS method of StompWebSocketEndpointRegistration.

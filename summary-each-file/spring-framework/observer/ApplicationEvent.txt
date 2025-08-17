@@ -1,0 +1,1 @@
+ApplicationEvent acts as an observer for publisher CapturingSynchronizationCallback, which is inherited by RequestHandledEvent, TestContextEvent, IdentifiableApplicationEvent, BrokerAvailabilityEvent, AbstractSubProtocolEvent, PayloadApplicationEvent, ApplicationContextEvent, which gets Timestamp.

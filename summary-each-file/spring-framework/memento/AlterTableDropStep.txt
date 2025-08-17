@@ -1,0 +1,2 @@
+AlterTableDropStep acts as a memento, which is inherited by AlterTableImpl, which restricts, which restricts.
+AlterTableDropStep acts as a memento, which restricts, which restricts.

@@ -1,0 +1,1 @@
+PollOnError acts as an observer for publisher KafkaConfiguration, which is inherited by.

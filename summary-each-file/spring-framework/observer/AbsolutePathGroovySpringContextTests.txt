@@ -1,0 +1,1 @@
+AbsolutePathGroovySpringContextTests acts as a publisher for observer Employee.

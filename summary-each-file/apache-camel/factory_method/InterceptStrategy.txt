@@ -1,0 +1,2 @@
+InterceptStrategy acts as an abstract product for CamelAwsXRayTestSupport, which is inherited by TraceAnnotatedTracingStrategy, EIPTracingStrategy, NoopTracingStrategy, DummyInterceptor, ContainerWideInterceptor, OpenTracingTracingStrategy.
+InterceptStrategy acts as a factory for FaultToleranceProcessorFactory, which overrides.

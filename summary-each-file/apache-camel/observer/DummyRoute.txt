@@ -1,0 +1,7 @@
+DummyRoute acts as a publisher for observer RoutesDefinition, which configures.
+DummyRoute acts as an observer, which configures.
+DummyRoute acts as a publisher for observer RestsDefinition, which configures.
+DummyRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+DummyRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+DummyRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.
+DummyRoute acts as a publisher for observer Resource, which configures.

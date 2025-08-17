@@ -1,0 +1,2 @@
+MiniDFSCluster acts as a factory for MiniDFSCluster, which overrides.
+MiniDFSCluster acts as a factory method for FsDatasetTestUtils, which is inherited by MiniDFSCluster.

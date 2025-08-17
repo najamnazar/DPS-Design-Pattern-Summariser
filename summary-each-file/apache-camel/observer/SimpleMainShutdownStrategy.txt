@@ -1,0 +1,1 @@
+SimpleMainShutdownStrategy acts as an observer, which is Run Allowed, which adds ShutdownEventListener parameter of listener Shutdown Listener, which shutdowns, which awaits, which awaits long parameter of timeout, TimeUnit parameter of unit, which restarts Await, which gets Extra Shutdown Timeout, which sets int parameter of extraShutdownTimeout Extra Shutdown Timeout.

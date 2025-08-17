@@ -1,0 +1,1 @@
+OnError acts as an adaptee for adapter AbstractDatabase, which adapts to Database, which adapts to Database.

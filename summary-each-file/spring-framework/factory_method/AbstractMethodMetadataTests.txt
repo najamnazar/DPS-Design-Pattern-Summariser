@@ -1,0 +1,1 @@
+AbstractMethodMetadataTests acts as a factory for ConfigurationClassBeanDefinitionReader, which overrides.

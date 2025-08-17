@@ -1,0 +1,4 @@
+AnnotationValueImpl acts as a caretaker for memento E, which is inherited by, which converts Object parameter of value, TypeBinding parameter of type, int[] parameter of kind To Mirror Type, which accepts AnnotationValueVisitor<R, parameter of P>, P parameter of p, which gets Value, which equals Object parameter of obj, which hashes Code, which tos String.
+AnnotationValueImpl acts as an originator for memento SourcePosition.
+AnnotationValueImpl acts as a memento, which tos String, which tos String, which tos String, which tos String, which tos String, which tos String.
+AnnotationValueImpl acts as an originator for memento String, which tos a String String to.

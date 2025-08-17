@@ -1,0 +1,2 @@
+TryFlowContext acts as an observer, which marks LocalVariableBinding parameter of local, int parameter of nullStatus Finally Null Status, which merges FlowInfo parameter of flowInfo Finally Null Info.
+TryFlowContext acts as a publisher for observer ASTNode, which marks LocalVariableBinding parameter of local, int parameter of nullStatus Finally Null Status, which merges FlowInfo parameter of flowInfo Finally Null Info.

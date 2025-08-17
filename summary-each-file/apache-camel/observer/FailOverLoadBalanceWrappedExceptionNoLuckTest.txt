@@ -1,0 +1,2 @@
+FailOverLoadBalanceWrappedExceptionNoLuckTest acts as a publisher for observer CamelContext, which sets Up, which creates Route Builder, which tests Wrapped Exception.
+FailOverLoadBalanceWrappedExceptionNoLuckTest acts as a publisher for observer Service, which sets Up, which creates Route Builder, which tests Wrapped Exception.

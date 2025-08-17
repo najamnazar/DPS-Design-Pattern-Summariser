@@ -1,0 +1,1 @@
+BeanComponentDefinition acts as a caretaker for memento B, which gets Name, which gets Description, which gets Bean Definitions, which gets Inner Bean Definitions, which gets Bean References, which tos String, which equals @Nullable parameter of Object.

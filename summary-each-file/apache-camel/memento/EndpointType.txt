@@ -1,0 +1,1 @@
+EndpointType acts as a memento.

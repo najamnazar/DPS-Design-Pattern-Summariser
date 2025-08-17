@@ -1,0 +1,1 @@
+MessageHistory acts as an observer for publisher CamelInternalProcessor, DefaultChannel, which is inherited by DefaultMessageHistory, which gets Route Id, which gets Node, which gets Time, which gets Elapsed, which nodes Processing Done, which gets Message.

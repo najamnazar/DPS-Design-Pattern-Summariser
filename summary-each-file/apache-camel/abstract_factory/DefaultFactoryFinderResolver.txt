@@ -1,0 +1,2 @@
+DefaultFactoryFinderResolver acts as a product for ExtendedCamelContext, which overrides resolveFactoryFinder method of FactoryFinderResolver, resolveBootstrapFactoryFinder method of FactoryFinderResolver.
+DefaultFactoryFinderResolver acts as a factory for FactoryFinderResolver, which overrides resolveFactoryFinder method of FactoryFinderResolver, resolveBootstrapFactoryFinder method of FactoryFinderResolver.

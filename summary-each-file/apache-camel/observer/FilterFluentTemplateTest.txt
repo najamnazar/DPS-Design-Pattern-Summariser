@@ -1,0 +1,5 @@
+FilterFluentTemplateTest acts as a publisher for observer Service, which is Dump Route Coverage, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterFluentTemplateTest acts as a publisher for observer ProducerTemplate, which is Dump Route Coverage, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterFluentTemplateTest acts as a publisher for observer FluentProducerTemplate, which is Dump Route Coverage, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterFluentTemplateTest acts as a publisher for observer CamelContext, which is Dump Route Coverage, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.
+FilterFluentTemplateTest acts as a publisher for observer ConsumerTemplate, which is Dump Route Coverage, which tests Send Matching Message, which tests Send Not Matching Message, which creates Route Builder.

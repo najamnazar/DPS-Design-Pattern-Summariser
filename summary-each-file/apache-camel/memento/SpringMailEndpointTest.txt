@@ -1,0 +1,1 @@
+SpringMailEndpointTest acts as a caretaker for memento Producer, which tests Mail Endpoint As Spring Bean.

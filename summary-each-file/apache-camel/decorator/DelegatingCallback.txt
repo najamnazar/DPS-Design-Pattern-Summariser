@@ -1,0 +1,1 @@
+DelegatingCallback acts as a decorator for component Callback, which is inherited by.

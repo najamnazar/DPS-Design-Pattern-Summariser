@@ -1,0 +1,1 @@
+TestGetGroupsWithHA acts as a factory method for Tool, which is inherited by GetGroupsTestBase, GetGroupsTestBase.

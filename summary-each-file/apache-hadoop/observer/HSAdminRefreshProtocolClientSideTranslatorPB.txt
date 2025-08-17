@@ -1,0 +1,1 @@
+HSAdminRefreshProtocolClientSideTranslatorPB acts as an observer, which closes, which refreshes Admin Acls, which refreshes Loaded Job Cache, which refreshes Job Retention Settings, which refreshes Log Retention Settings, which is String parameter of methodName Method Supported.

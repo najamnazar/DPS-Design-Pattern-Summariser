@@ -1,0 +1,1 @@
+SavepointManager acts as an adaptee for adapter EntityManagerHolder, which adapts to ResourceHolderSupport, which adapts to ResourceHolderSupport, which adapts to ResourceHolderSupport.

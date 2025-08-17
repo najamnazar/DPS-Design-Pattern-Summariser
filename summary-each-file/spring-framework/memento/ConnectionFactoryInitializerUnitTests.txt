@@ -1,0 +1,4 @@
+ConnectionFactoryInitializerUnitTests acts as a caretaker for memento B, which shoulds Initialize Connection Factory, which shoulds Clean Connection Factory.
+ConnectionFactoryInitializerUnitTests acts as a caretaker for memento A, which shoulds Initialize Connection Factory, which shoulds Clean Connection Factory.
+ConnectionFactoryInitializerUnitTests acts as a caretaker for memento C, which shoulds Initialize Connection Factory, which shoulds Clean Connection Factory.
+ConnectionFactoryInitializerUnitTests acts as a caretaker for memento Database, which shoulds Initialize Connection Factory, which shoulds Clean Connection Factory.

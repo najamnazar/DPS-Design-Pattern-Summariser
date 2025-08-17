@@ -1,0 +1,5 @@
+GzipDataFormatFileDeleteTest acts as a publisher for observer ProducerTemplate, which sets Up, which tests Gzip File Delete, which creates Route Builder.
+GzipDataFormatFileDeleteTest acts as a publisher for observer FluentProducerTemplate, which sets Up, which tests Gzip File Delete, which creates Route Builder.
+GzipDataFormatFileDeleteTest acts as a publisher for observer Service, which sets Up, which tests Gzip File Delete, which creates Route Builder.
+GzipDataFormatFileDeleteTest acts as a publisher for observer ConsumerTemplate, which sets Up, which tests Gzip File Delete, which creates Route Builder.
+GzipDataFormatFileDeleteTest acts as a publisher for observer CamelContext, which sets Up, which tests Gzip File Delete, which creates Route Builder.

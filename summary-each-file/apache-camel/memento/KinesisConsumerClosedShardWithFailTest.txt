@@ -1,0 +1,2 @@
+KinesisConsumerClosedShardWithFailTest acts as a caretaker for memento Context, which setups, which it Obtains AShard Iterator On First Poll.
+KinesisConsumerClosedShardWithFailTest acts as a caretaker for memento Component, which setups, which it Obtains AShard Iterator On First Poll.

@@ -1,0 +1,1 @@
+ManagementNameStrategy acts as an abstract product for ManagementNameStrategy, which is inherited by DefaultManagementNameStrategy.

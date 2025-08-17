@@ -1,0 +1,2 @@
+CategorySearchCriteria acts as a publisher for observer Context, which gets Order By, which sets CategoryOrderBy parameter of orderBy Order By, which gets Parent, which sets Integer parameter of parent Parent.
+CategorySearchCriteria acts as a publisher for observer CategoryOrderBy, which is inherited by, which gets Order By, which sets CategoryOrderBy parameter of orderBy Order By, which gets Parent, which sets Integer parameter of parent Parent.

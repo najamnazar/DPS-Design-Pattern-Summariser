@@ -1,0 +1,3 @@
+WritableResource acts as an adaptee for adapter FileUrlResource, which adapts to UrlResource, which adapts to UrlResource, which adapts to UrlResource.
+WritableResource acts as an adaptee for adapter FileSystemResource, which adapts to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource.
+WritableResource acts as an adaptee for adapter PathResource, which adapts to AbstractResource, which adapts to AbstractResource, which adapts to AbstractResource.

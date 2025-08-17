@@ -1,0 +1,2 @@
+AbstractManagedParentQueue acts as a factory for QueueManagementChange, which overrides reinitialize method of QueueManagementChange.
+AbstractManagedParentQueue acts as a factory for CapacitySchedulerConfiguration, which overrides.

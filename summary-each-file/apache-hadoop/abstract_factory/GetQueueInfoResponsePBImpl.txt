@@ -1,0 +1,1 @@
+GetQueueInfoResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getQueueInfo method of GetQueueInfoResponse, setQueueInfo method of GetQueueInfoResponse.

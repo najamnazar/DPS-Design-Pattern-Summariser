@@ -1,0 +1,1 @@
+GetUserMappingsProtocolClientSideTranslatorPB acts as a product for GetGroups, which overrides getGroupsForUser method of GetUserMappingsProtocol.

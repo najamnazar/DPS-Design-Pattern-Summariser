@@ -1,0 +1,2 @@
+ISourceRange acts as an abstract product for ISourceRange, which is inherited by SourceRange, SourceRange.
+ISourceRange acts as an abstract product for ISourceRange, which is inherited by SourceRange.

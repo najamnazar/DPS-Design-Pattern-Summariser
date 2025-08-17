@@ -1,0 +1,1 @@
+Ddb2InternalClient acts as a memento, which is inherited by Ddb2ClientStandardImpl, Ddb2ClientIAMOptimizedImpl, which gets Dynamo DBClient.

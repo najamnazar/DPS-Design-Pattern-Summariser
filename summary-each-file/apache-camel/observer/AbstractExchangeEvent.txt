@@ -1,0 +1,2 @@
+AbstractExchangeEvent acts as an observer, which gets Exchange, which gets Timestamp, which sets long parameter of timestamp Timestamp.
+AbstractExchangeEvent acts as a publisher for observer Exchange, which gets Exchange, which gets Timestamp, which sets long parameter of timestamp Timestamp.

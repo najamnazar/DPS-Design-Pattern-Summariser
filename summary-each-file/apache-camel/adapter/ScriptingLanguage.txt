@@ -1,0 +1,6 @@
+ScriptingLanguage acts as an adaptee for adapter JoorLanguage, which adapts to TypedLanguageSupport.
+ScriptingLanguage acts as an adaptee for adapter OgnlLanguage, which adapts to TypedLanguageSupport.
+ScriptingLanguage acts as an adaptee for adapter JavaScriptLanguage, which adapts to TypedLanguageSupport.
+ScriptingLanguage acts as an adaptee for adapter MvelLanguage, which adapts to TypedLanguageSupport.
+ScriptingLanguage acts as an adaptee for adapter BeanLanguage, which adapts to TypedLanguageSupport.
+ScriptingLanguage acts as an adaptee for adapter PythonLanguage, which adapts to TypedLanguageSupport.

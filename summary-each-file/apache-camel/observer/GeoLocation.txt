@@ -1,0 +1,1 @@
+GeoLocation acts as an observer for publisher FacebookEndpointConfiguration, which is inherited by, which gets Latitude, which sets Double parameter of latitude Latitude, which gets Longitude, which sets Double parameter of longitude Longitude.

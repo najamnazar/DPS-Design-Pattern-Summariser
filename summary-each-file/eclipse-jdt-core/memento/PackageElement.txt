@@ -1,0 +1,1 @@
+PackageElement acts as a memento, which is inherited by PackageElementImpl, which gets Enclosing Element, which gets Enclosing Element, which gets Enclosing Element, which gets Enclosing Element, which gets Enclosing Element, which gets Enclosing Element.

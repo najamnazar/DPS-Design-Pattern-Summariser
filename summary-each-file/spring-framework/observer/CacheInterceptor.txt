@@ -1,0 +1,5 @@
+CacheInterceptor acts as a publisher for observer Cache, which invokes final parameter of MethodInvocation.
+CacheInterceptor acts as a publisher for observer CacheResolver, which invokes final parameter of MethodInvocation.
+CacheInterceptor acts as a publisher for observer CacheOperation, which invokes final parameter of MethodInvocation.
+CacheInterceptor acts as a publisher for observer BeanFactory, which invokes final parameter of MethodInvocation.
+CacheInterceptor acts as a publisher for observer KeyGenerator, which invokes final parameter of MethodInvocation.

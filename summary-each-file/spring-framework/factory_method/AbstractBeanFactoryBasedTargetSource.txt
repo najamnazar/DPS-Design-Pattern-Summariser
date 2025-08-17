@@ -1,0 +1,2 @@
+AbstractBeanFactoryBasedTargetSource acts as a factory for ControllerAdviceBean, which overrides.
+AbstractBeanFactoryBasedTargetSource acts as a product for TargetSourceCreator, which overrides getTargetClass method of TargetSource, isStatic method of TargetSource, releaseTarget method of TargetSource.

@@ -1,0 +1,1 @@
+RefreshUserMappingsProtocolClientSideTranslatorPB acts as an observer, which closes, which refreshes User To Groups Mappings, which refreshes Super User Groups Configuration, which is String parameter of methodName Method Supported.

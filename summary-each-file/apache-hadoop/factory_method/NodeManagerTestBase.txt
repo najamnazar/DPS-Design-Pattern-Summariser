@@ -1,0 +1,1 @@
+NodeManagerTestBase acts as a factory for TestNodeStatusUpdater, which overrides registerNodeManager method of TestNodeStatusUpdater, nodeHeartbeat method of TestNodeStatusUpdater, unRegisterNodeManager method of TestNodeStatusUpdater.

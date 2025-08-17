@@ -1,0 +1,3 @@
+MyRoutePolicy acts as an adaptee for adapter RoutePolicySupportTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyRoutePolicy acts as an adaptee for adapter RoutePolicyCallbackTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+MyRoutePolicy acts as an adaptee for adapter ControlBusRestartRouteTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

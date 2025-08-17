@@ -1,0 +1,1 @@
+OAuth2ConnectionConfigurator acts as a decorator for component ConnectionConfigurator, which is inherited by.

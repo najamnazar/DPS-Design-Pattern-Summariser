@@ -1,0 +1,2 @@
+FsPermissionExtension acts as an observer, which tos Extended Short, which gets Acl Bit, which gets Encrypted Bit, which gets Erasure Coded Bit, which equals Object parameter of o, which hashes Code.
+FsPermissionExtension acts as a publisher for observer FsAction, which tos Extended Short, which gets Acl Bit, which gets Encrypted Bit, which gets Erasure Coded Bit, which equals Object parameter of o, which hashes Code.

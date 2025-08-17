@@ -1,0 +1,1 @@
+ITestAbfsFileSystemContractVectoredRead acts as an adapter, which adapts to AbstractContractVectoredReadTest, which adapts to AbstractContractVectoredReadTest, which adapts to AbstractContractVectoredReadTest.

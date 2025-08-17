@@ -1,0 +1,2 @@
+BooleanConstant acts as an observer, which booleans Value, which strings Value, which tos String, which types ID.
+BooleanConstant acts as a publisher for observer Constant, which booleans Value, which strings Value, which tos String, which types ID.

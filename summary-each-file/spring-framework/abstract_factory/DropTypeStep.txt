@@ -1,0 +1,3 @@
+DropTypeStep acts as a product for DropTypeStep, which overrides.
+DropTypeStep acts as an abstract product for DropTypeStep, which is inherited by DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl, DropTypeImpl.
+DropTypeStep acts as an abstract factory for DropTypeFinalStep, which is inherited by DropTypeImpl.

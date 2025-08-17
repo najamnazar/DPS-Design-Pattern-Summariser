@@ -1,0 +1,1 @@
+DocumentationTool acts as an abstract factory for StandardJavaFileManager, which is inherited by.

@@ -1,0 +1,2 @@
+BundleChain_in acts as an originator for memento String.
+BundleChain_in acts as an originator for memento Enumeration.

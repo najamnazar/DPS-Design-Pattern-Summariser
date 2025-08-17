@@ -1,0 +1,2 @@
+RegressionTestSetup acts as a caretaker for memento Test, which sets Up, which tears Down.
+RegressionTestSetup acts as a caretaker for memento E, which sets Up, which tears Down.

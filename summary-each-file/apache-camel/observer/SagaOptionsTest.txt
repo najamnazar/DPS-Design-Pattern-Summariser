@@ -1,0 +1,2 @@
+SagaOptionsTest acts as a publisher for observer CamelContext, which tests Header Forwarded To Complete, which tests Header Forwarded To Compensate, which creates Route Builder.
+SagaOptionsTest acts as a publisher for observer Service, which tests Header Forwarded To Complete, which tests Header Forwarded To Compensate, which creates Route Builder.

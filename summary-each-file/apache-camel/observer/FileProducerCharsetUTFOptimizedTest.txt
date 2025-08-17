@@ -1,0 +1,2 @@
+FileProducerCharsetUTFOptimizedTest acts as a publisher for observer CamelContext, which tests File Producer Charset UTFOptimized, which creates Route Builder.
+FileProducerCharsetUTFOptimizedTest acts as a publisher for observer Service, which tests File Producer Charset UTFOptimized, which creates Route Builder.

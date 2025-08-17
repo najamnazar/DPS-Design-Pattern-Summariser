@@ -1,0 +1,1 @@
+AbstractTypedNamed acts as a publisher for observer Name, which gets Converter, which gets Binding, which gets Type, which gets Expression Data Type, which gets Data Type, which gets Configuration parameter of configuration Data Type, which $datas Type.

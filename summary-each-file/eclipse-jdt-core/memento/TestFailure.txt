@@ -1,0 +1,2 @@
+TestFailure acts as an originator for memento String, which tos a String String to, which traces String, which exceptions a String Message to.
+TestFailure acts as a caretaker for memento Test, which fails Test, which throws Exception, which tos String, which traces, which exceptions Message, which is Failure.

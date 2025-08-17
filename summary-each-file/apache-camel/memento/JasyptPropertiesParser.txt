@@ -1,0 +1,1 @@
+JasyptPropertiesParser acts as a caretaker for memento Component, which parses String parameter of key, String parameter of value, PropertiesLookup parameter of properties Property, which inits Encryptor, which sets StringEncryptor parameter of encryptor Encryptor, which sets String parameter of algorithm Algorithm, which sets String parameter of password Password.

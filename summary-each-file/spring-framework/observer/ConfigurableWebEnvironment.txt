@@ -1,0 +1,1 @@
+ConfigurableWebEnvironment acts as an observer, which inits @Nullable parameter of ServletContext, @Nullable parameter of ServletConfig Property Sources.

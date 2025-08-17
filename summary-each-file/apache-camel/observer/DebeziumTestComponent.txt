@@ -1,0 +1,1 @@
+DebeziumTestComponent acts as a publisher for observer FileConnectorEmbeddedDebeziumConfiguration, which is inherited by, which gets Configuration, which sets FileConnectorEmbeddedDebeziumConfiguration parameter of configuration Configuration, which initializes String parameter of uri, FileConnectorEmbeddedDebeziumConfiguration parameter of configuration Debezium Endpoint.

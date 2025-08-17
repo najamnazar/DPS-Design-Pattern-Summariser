@@ -1,0 +1,1 @@
+RMQueueAclInfo acts as an abstract product for RMQueueAclInfo, which is inherited by FederationRMQueueAclInfo.

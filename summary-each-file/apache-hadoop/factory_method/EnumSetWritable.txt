@@ -1,0 +1,1 @@
+EnumSetWritable acts as a product for TestIPC, which overrides readFields method of Writable, write method of Writable.

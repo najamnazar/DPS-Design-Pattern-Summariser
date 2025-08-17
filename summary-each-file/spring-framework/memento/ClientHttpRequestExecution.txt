@@ -1,0 +1,1 @@
+ClientHttpRequestExecution acts as an originator for memento ClientHttpResponse, which executes ClientHttpResponse.

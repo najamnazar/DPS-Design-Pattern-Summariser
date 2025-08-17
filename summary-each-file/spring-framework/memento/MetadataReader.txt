@@ -1,0 +1,2 @@
+MetadataReader acts as a memento, which is inherited by SimpleMetadataReader, which gets Annotation Metadata, which gets Annotation Metadata, which gets Annotation Metadata.
+MetadataReader acts as an originator for memento ClassMetadata, which is inherited by, which gets a ClassMetadata Class Metadata to.

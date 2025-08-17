@@ -1,0 +1,1 @@
+PipesReducer acts as a publisher for observer JobConf, which is inherited by, which configures JobConf parameter of job, which reduces K2 parameter of key, Iterator<V2> parameter of values, OutputCollector<K3, parameter of V3>, Reporter parameter of reporter, which starts OutputCollector<K3, parameter of V3>, Reporter parameter of reporter Application, which closes.

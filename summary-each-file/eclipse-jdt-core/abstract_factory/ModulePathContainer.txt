@@ -1,0 +1,1 @@
+ModulePathContainer acts as a factory for IClasspathContainer, which overrides getClasspathEntries method of IClasspathContainer, getDescription method of IClasspathContainer, getKind method of IClasspathContainer, getPath method of IClasspathContainer.

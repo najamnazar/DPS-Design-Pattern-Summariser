@@ -1,0 +1,3 @@
+SubClusterRegisterResponsePBImpl acts as a caretaker for memento SubClusterRegisterResponse, which gets Proto, which hashes Code, which equals Object parameter of other, which tos String.
+SubClusterRegisterResponsePBImpl acts as a memento, which tos String, which tos String, which tos String, which tos String.
+SubClusterRegisterResponsePBImpl acts as an originator for memento SubClusterRegisterResponse.

@@ -1,0 +1,6 @@
+NettyHttpComponent acts as a factory for RestApiConsumerFactory, which overrides createApiConsumer method of RestApiConsumerFactory.
+NettyHttpComponent acts as a factory for RestProducerFactory, which overrides createProducer method of RestProducerFactory.
+NettyHttpComponent acts as a product for NettyComponentBuilderFactory, which overrides createEndpoint method of NettyComponent, isUseGlobalSslContextParameters method of NettyComponent, setUseGlobalSslContextParameters method of NettyComponent, doStop method of NettyComponent.
+NettyHttpComponent acts as a factory for RestConsumerFactory, which overrides createConsumer method of RestConsumerFactory.
+NettyHttpComponent acts as a factory for HeaderFilterStrategyAware, which overrides getHeaderFilterStrategy method of HeaderFilterStrategyAware.
+NettyHttpComponent acts as a factory for SSLContextParametersAware, which overrides isUseGlobalSslContextParameters method of SSLContextParametersAware, setUseGlobalSslContextParameters method of SSLContextParametersAware.

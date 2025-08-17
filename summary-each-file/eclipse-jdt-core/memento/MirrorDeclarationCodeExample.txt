@@ -1,0 +1,2 @@
+MirrorDeclarationCodeExample acts as a caretaker for memento String.
+MirrorDeclarationCodeExample acts as a caretaker for memento S.

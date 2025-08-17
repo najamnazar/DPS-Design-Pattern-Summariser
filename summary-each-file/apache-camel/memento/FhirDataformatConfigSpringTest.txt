@@ -1,0 +1,1 @@
+FhirDataformatConfigSpringTest acts as a caretaker for memento Context, which sets Up, which defaults Fhir Json Config Test, which defaults Fhir Xml Config Test, which asserts FhirDataFormat parameter of fhirJson Config, which asserts Collection<String> parameter of encodeElements Collection, which gets String parameter of name Dataformat, which creates Application Context.

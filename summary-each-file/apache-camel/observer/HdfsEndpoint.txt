@@ -1,0 +1,3 @@
+HdfsEndpoint acts as a publisher for observer Consumer, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config.
+HdfsEndpoint acts as a publisher for observer LoggingLevel, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config.
+HdfsEndpoint acts as a publisher for observer PollingConsumerPollStrategy, which creates Processor parameter of processor Consumer, which creates Producer, which gets Config.

@@ -1,0 +1,1 @@
+MasterKey acts as an observer for publisher NMMemoryStateStoreService, which is inherited by MasterKeyPBImpl, which gets Key Id, which sets int parameter of keyId Key Id, which gets Bytes, which sets ByteBuffer parameter of bytes Bytes.

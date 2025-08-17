@@ -1,0 +1,2 @@
+NotifyBuilderWhenDoneByIndexTest acts as a publisher for observer CamelContext, which tests Done By Index, which creates Route Builder.
+NotifyBuilderWhenDoneByIndexTest acts as a publisher for observer Service, which tests Done By Index, which creates Route Builder.

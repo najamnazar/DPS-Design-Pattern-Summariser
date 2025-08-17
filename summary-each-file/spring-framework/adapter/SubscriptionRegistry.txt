@@ -1,0 +1,1 @@
+SubscriptionRegistry acts as an adaptee for adapter SimpleBrokerMessageHandler, which adapts to AbstractBrokerMessageHandler, which adapts to AbstractBrokerMessageHandler, which adapts to AbstractBrokerMessageHandler, which adapts to AbstractBrokerMessageHandler.

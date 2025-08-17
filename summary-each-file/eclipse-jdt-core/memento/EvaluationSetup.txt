@@ -1,0 +1,5 @@
+EvaluationSetup acts as a caretaker for memento E, which is inherited by, which sets Up, which starts String parameter of name, final parameter of InputStream, final parameter of PrintStream Reader, which tears Down.
+EvaluationSetup acts as a caretaker for memento String, which is inherited by, which sets Up, which starts String parameter of name, final parameter of InputStream, final parameter of PrintStream Reader, which tears Down.
+EvaluationSetup acts as a caretaker for memento C, which is inherited by, which sets Up, which starts String parameter of name, final parameter of InputStream, final parameter of PrintStream Reader, which tears Down.
+EvaluationSetup acts as a caretaker for memento S, which is inherited by, which sets Up, which starts String parameter of name, final parameter of InputStream, final parameter of PrintStream Reader, which tears Down.
+EvaluationSetup acts as a caretaker for memento LocalVirtualMachine, which is inherited by, which sets Up, which starts String parameter of name, final parameter of InputStream, final parameter of PrintStream Reader, which tears Down.

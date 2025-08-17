@@ -1,0 +1,2 @@
+JpaWithNativeQueryTest acts as a caretaker for memento Producer, which asserts Exchange parameter of exchange Received Result, which gets Updated Step Value, which asserts JpaConsumer parameter of jpaConsumer URIQuery Option, which gets Endpoint Uri.
+JpaWithNativeQueryTest acts as a caretaker for memento Context, which asserts Exchange parameter of exchange Received Result, which gets Updated Step Value, which asserts JpaConsumer parameter of jpaConsumer URIQuery Option, which gets Endpoint Uri.

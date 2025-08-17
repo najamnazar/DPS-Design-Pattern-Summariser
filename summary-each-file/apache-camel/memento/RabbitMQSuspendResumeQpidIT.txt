@@ -1,0 +1,1 @@
+RabbitMQSuspendResumeQpidIT acts as a caretaker for memento Producer.

@@ -1,0 +1,3 @@
+CounterPBImpl acts as a product for Reporter, which overrides getName method of Counter, setName method of Counter, getValue method of Counter, setValue method of Counter, getDisplayName method of Counter, setDisplayName method of Counter.
+CounterPBImpl acts as a product for Counters, which overrides getName method of Counter, setName method of Counter, getValue method of Counter, setValue method of Counter, getDisplayName method of Counter, setDisplayName method of Counter.
+CounterPBImpl acts as a product for CounterGroup, which overrides getName method of Counter, setName method of Counter, getValue method of Counter, setValue method of Counter, getDisplayName method of Counter, setDisplayName method of Counter.

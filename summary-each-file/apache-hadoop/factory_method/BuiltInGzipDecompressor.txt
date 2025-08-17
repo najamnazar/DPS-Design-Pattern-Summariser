@@ -1,0 +1,1 @@
+BuiltInGzipDecompressor acts as a product for Lz4Codec, which overrides needsInput method of Decompressor, setInput method of Decompressor, decompress method of Decompressor, getRemaining method of Decompressor, needsDictionary method of Decompressor, setDictionary method of Decompressor, finished method of Decompressor, reset method of Decompressor, end method of Decompressor.

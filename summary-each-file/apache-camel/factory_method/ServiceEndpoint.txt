@@ -1,0 +1,1 @@
+ServiceEndpoint acts as a factory method for ServiceDefinition, which is inherited by DefaultServiceDefinition, ServiceChooser, ServiceChooser.

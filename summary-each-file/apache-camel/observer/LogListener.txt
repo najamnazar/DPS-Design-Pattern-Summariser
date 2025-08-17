@@ -1,0 +1,1 @@
+LogListener acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by, which ons Exchange parameter of exchange, CamelLogger parameter of camelLogger, String parameter of message Log.

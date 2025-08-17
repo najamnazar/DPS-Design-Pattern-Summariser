@@ -1,0 +1,1 @@
+SchedulerTypeInfo acts as an abstract product for SchedulerTypeInfo, which is inherited by FederationSchedulerTypeInfo.

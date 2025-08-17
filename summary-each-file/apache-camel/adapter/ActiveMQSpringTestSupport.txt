@@ -1,0 +1,3 @@
+ActiveMQSpringTestSupport acts as a target for adapter DlqTest, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.
+ActiveMQSpringTestSupport acts as a target for adapter TransactedConsumeTest, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.
+ActiveMQSpringTestSupport acts as a target for adapter JmsBridge, which adapts to ActiveMQSpringTestSupport, which adapts to ActiveMQSpringTestSupport.

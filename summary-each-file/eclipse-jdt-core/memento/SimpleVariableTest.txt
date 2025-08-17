@@ -1,0 +1,6 @@
+SimpleVariableTest acts as a caretaker for memento LocalVirtualMachine, which evaluates Variable, which gets Variable, which mains String[] parameter of args.
+SimpleVariableTest acts as a caretaker for memento String, which evaluates Variable, which gets Variable, which mains String[] parameter of args.
+SimpleVariableTest acts as a caretaker for memento E, which evaluates Variable, which gets Variable, which mains String[] parameter of args.
+SimpleVariableTest acts as a caretaker for memento R, which evaluates Variable, which gets Variable, which mains String[] parameter of args.
+SimpleVariableTest acts as a caretaker for memento S, which evaluates Variable, which gets Variable, which mains String[] parameter of args.
+SimpleVariableTest acts as a caretaker for memento C, which evaluates Variable, which gets Variable, which mains String[] parameter of args.

@@ -1,0 +1,1 @@
+KafkaPausableConsumerIT acts as a caretaker for memento Producer, which afters Object parameter of ignored Consume, which afters ProcessingResult parameter of result Process, which befores, which afters, which cans Continue, which increments, which gets Count, which creates Route Builder, which kafkas Message Is Consumed By Camel.

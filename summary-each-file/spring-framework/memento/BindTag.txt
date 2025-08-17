@@ -1,0 +1,1 @@
+BindTag acts as a caretaker for memento B, which sets String parameter of path Path, which gets Path, which sets boolean parameter of ignoreNestedPath Ignore Nested Path, which is Ignore Nested Path, which does Start Tag Internal, which does End Tag, which gets Status, which gets Property, which gets Errors, which gets Editor, which does Finally.

@@ -1,0 +1,1 @@
+ManagedDelayer acts as a publisher for observer Route, which gets Delayer, which gets Delay, which constants Integer parameter of millis Delay, which gets Delayed Count, which is Async Delayed, which is Caller Runs When Rejected.

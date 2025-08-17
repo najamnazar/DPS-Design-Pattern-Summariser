@@ -1,0 +1,1 @@
+DefaultPointcutAdvisor acts as an adapter, which adapts to AbstractGenericPointcutAdvisor, which adapts getPointcut method of Pointcut to AbstractGenericPointcutAdvisor, which adapts to AbstractGenericPointcutAdvisor.

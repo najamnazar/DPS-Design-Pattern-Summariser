@@ -1,0 +1,1 @@
+CompletionOnKeyword3 acts as a caretaker for memento Binding, which gets Token, which gets Possible Keywords, which afters Try Or Catch, which prints int parameter of indent, StringBuilder parameter of output Expression, which resolves BlockScope parameter of scope Type.

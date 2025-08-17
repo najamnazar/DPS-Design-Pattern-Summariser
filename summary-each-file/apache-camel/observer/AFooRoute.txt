@@ -1,0 +1,7 @@
+AFooRoute acts as a publisher for observer Resource, which configures.
+AFooRoute acts as a publisher for observer RestsDefinition, which configures.
+AFooRoute acts as an observer, which configures.
+AFooRoute acts as a publisher for observer RouteTemplatesDefinition, which configures.
+AFooRoute acts as a publisher for observer RouteBuilderLifecycleStrategy, which configures.
+AFooRoute acts as a publisher for observer RoutesDefinition, which configures.
+AFooRoute acts as a publisher for observer TemplatedRoutesDefinition, which configures.

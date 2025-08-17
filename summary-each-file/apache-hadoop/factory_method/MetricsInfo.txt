@@ -1,0 +1,1 @@
+MetricsInfo acts as an abstract product for MutableGauge, which is inherited by AbstractMetric, MetricsInfoImpl, MetricsTag.

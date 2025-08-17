@@ -1,0 +1,3 @@
+SelectionOnModuleDeclaration acts as a caretaker for memento List, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a caretaker for memento C, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.
+SelectionOnModuleDeclaration acts as a caretaker for memento S, which sets SourceModuleBinding parameter of sourceModuleBinding Binding.

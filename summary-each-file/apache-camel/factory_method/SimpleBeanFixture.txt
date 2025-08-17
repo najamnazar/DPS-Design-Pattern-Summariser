@@ -1,0 +1,2 @@
+SimpleBeanFixture acts as a factory method for ISimpleMXBean, which is inherited by SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture, SimpleBeanFixture.
+SimpleBeanFixture acts as a factory for SimpleBeanFixture, which overrides.

@@ -1,0 +1,1 @@
+JmsAllowNullBodyTest acts as a publisher for observer ArtemisService, which tests Allow Null Body Default, which tests Allow Null Body, which tests Allow Null Text Body, which tests No Allow Null Body, which gets Component Name, which creates Route Builder.

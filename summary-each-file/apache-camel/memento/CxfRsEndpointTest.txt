@@ -1,0 +1,2 @@
+CxfRsEndpointTest acts as a caretaker for memento Producer, which tests Create Cxf Rs Endpoint, which tests Cxf Rs Endpoint Parameters, which tests Cxf Rs Endpoint Resource Class, which tests Cxf Rs Endpoint Set Provider, which tests Cxf Rs Endpoint Camel Context Aware.
+CxfRsEndpointTest acts as a caretaker for memento Context, which tests Create Cxf Rs Endpoint, which tests Cxf Rs Endpoint Parameters, which tests Cxf Rs Endpoint Resource Class, which tests Cxf Rs Endpoint Set Provider, which tests Cxf Rs Endpoint Camel Context Aware.

@@ -1,0 +1,1 @@
+InputSplit acts as a memento, which is inherited by InputSplitWithLocationInfo, CompositeInputSplit, TaggedInputSplit, CombineFileSplit, TestMROutputFormat, VirtualInputSplit, which gets Locations, which gets Locations.

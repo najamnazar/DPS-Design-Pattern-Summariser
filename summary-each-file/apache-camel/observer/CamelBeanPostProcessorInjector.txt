@@ -1,0 +1,1 @@
+CamelBeanPostProcessorInjector acts as an observer for publisher DefaultCamelBeanPostProcessor, which is inherited by, which ons Field parameter of field, Object parameter of bean, String parameter of beanName Field Inject, which ons Method parameter of method, Object parameter of bean, String parameter of beanName Method Inject.

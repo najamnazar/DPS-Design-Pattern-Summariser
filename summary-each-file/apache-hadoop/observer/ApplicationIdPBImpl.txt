@@ -1,0 +1,1 @@
+ApplicationIdPBImpl acts as an observer, which gets Proto, which gets Id, which sets int parameter of id Id, which gets Cluster Timestamp, which sets long parameter of clusterTimestamp Cluster Timestamp, which builds.

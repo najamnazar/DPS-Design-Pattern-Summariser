@@ -1,0 +1,1 @@
+AtomPollingConsumerWithBasicAuthTest acts as an adapter, which adapts to AtomPollingConsumerTest.

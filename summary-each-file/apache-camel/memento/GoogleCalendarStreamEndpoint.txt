@@ -1,0 +1,1 @@
+GoogleCalendarStreamEndpoint acts as a caretaker for memento Configuration, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Configuration, which creates ExchangePattern parameter of pattern, Event parameter of event Exchange.

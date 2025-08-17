@@ -1,0 +1,12 @@
+IPackageFragmentRoot acts as a product for IWorkingCopy, which overrides.
+IPackageFragmentRoot acts as a product for IJavaProject, which overrides.
+IPackageFragmentRoot acts as an abstract product for IPackageFragmentRoot, which is inherited by PackageFragmentRoot, PackageFragmentRoot, PackageFragmentRoot.
+IPackageFragmentRoot acts as a product for IDOMNode, which overrides.
+IPackageFragmentRoot acts as an abstract product for IPackageFragmentRoot, which is inherited by PackageFragmentRoot.
+IPackageFragmentRoot acts as a product for ITypeRoot, which overrides.
+IPackageFragmentRoot acts as a product for IBuffer, which overrides.
+IPackageFragmentRoot acts as an abstract factory for IPackageFragment, IClasspathEntry, IModuleDescription, which is inherited by PackageFragmentRoot.
+IPackageFragmentRoot acts as a product for IClassFile, which overrides.
+IPackageFragmentRoot acts as a product for IJavaElementDelta, which overrides.
+IPackageFragmentRoot acts as a product for IJavaElement, which overrides.
+IPackageFragmentRoot acts as a product for IBinding, which overrides.

@@ -1,0 +1,1 @@
+MessageHandlerMethodFactory acts as an adaptee for adapter MethodJmsListenerEndpoint, which adapts to AbstractJmsListenerEndpoint.

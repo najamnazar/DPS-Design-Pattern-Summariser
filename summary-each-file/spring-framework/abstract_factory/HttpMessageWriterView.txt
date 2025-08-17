@@ -1,0 +1,1 @@
+HttpMessageWriterView acts as a product for ViewResolver, which overrides.

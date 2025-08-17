@@ -1,0 +1,1 @@
+AbortCompilation acts as a publisher for observer CompilationResult, which is inherited by AbortCompilationUnit, which updates InvocationSite parameter of invocationSite, CompilationResult parameter of unitResult Context, which updates ASTNode parameter of astNode, CompilationResult parameter of unitResult Context.

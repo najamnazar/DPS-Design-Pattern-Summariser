@@ -1,0 +1,1 @@
+ComponentInfo acts as an adapter, which adapts to IComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo, which adapts to IComponentInfo.

@@ -1,0 +1,2 @@
+MultipleFromTest acts as a publisher for observer CamelContext, which tests Multiple From, which creates Route Builder.
+MultipleFromTest acts as a publisher for observer Service, which tests Multiple From, which creates Route Builder.

@@ -1,0 +1,1 @@
+OperatorOverloader acts as an abstract product for OperatorOverloader, which is inherited by StandardOperatorOverloader.

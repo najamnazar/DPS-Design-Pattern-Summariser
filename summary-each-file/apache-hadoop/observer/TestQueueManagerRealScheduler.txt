@@ -1,0 +1,1 @@
+TestQueueManagerRealScheduler acts as a publisher for observer Resource, which setups, which teardowns, which writes int parameter of defaultFairShareTimeout Alloc File, which tests Backwards Compatible Preemption Configuration.

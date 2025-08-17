@@ -1,0 +1,1 @@
+HiddenInputTagTests acts as a caretaker for memento B, which ons Set Up, which renders, which withes Custom Binder, which dynamices Type Attribute, which disableds True, which disableds False, which asserts String parameter of output Tag Closed, which asserts String parameter of output Tag Opened, which creates Test Bean.

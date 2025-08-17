@@ -1,0 +1,1 @@
+Z210070 acts as a facade for subsystem X210070, which foo calls foo method of X210070.

@@ -1,0 +1,5 @@
+SlackProducerTest acts as a publisher for observer ConsumerTemplate, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.
+SlackProducerTest acts as a publisher for observer Service, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.
+SlackProducerTest acts as a publisher for observer ProducerTemplate, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.
+SlackProducerTest acts as a publisher for observer CamelContext, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.
+SlackProducerTest acts as a publisher for observer FluentProducerTemplate, which tests Slack Message, which tests Slack APIModel Message, which creates Route Builder.

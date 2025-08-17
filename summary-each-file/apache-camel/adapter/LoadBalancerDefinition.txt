@@ -1,0 +1,2 @@
+LoadBalancerDefinition acts as a target for adapter CustomLoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition.
+LoadBalancerDefinition acts as a target for adapter StickyLoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition, which adapts to LoadBalancerDefinition.

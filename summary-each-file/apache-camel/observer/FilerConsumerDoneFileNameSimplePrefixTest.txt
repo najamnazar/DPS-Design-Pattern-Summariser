@@ -1,0 +1,2 @@
+FilerConsumerDoneFileNameSimplePrefixTest acts as a publisher for observer Service, which tests Done File, which creates Route Builder.
+FilerConsumerDoneFileNameSimplePrefixTest acts as a publisher for observer CamelContext, which tests Done File, which creates Route Builder.

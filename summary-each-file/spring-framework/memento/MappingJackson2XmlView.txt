@@ -1,0 +1,1 @@
+MappingJackson2XmlView acts as a caretaker for memento B, which sets String parameter of modelKey Model Key, which filters Map<String, parameter of Object> Model.

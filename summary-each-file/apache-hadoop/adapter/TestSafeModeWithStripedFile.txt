@@ -1,0 +1,1 @@
+TestSafeModeWithStripedFile acts as a target for adapter TestSafeModeWithStripedFileWithRandomECPolicy, which adapts to TestSafeModeWithStripedFile, which adapts to TestSafeModeWithStripedFile, which adapts to TestSafeModeWithStripedFile, which adapts to TestSafeModeWithStripedFile, which adapts to TestSafeModeWithStripedFile, which adapts to TestSafeModeWithStripedFile.

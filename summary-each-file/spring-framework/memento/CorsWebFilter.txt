@@ -1,0 +1,2 @@
+CorsWebFilter acts as a caretaker for memento Configuration, which filters ServerWebExchange parameter of exchange, WebFilterChain parameter of chain.
+CorsWebFilter acts as a caretaker for memento C, which filters ServerWebExchange parameter of exchange, WebFilterChain parameter of chain.

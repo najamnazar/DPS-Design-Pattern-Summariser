@@ -1,0 +1,1 @@
+KafkaConsumerTopicIsPatternIT acts as a caretaker for memento Producer, which befores, which afters, which creates Route Builder, which kafkas Topic Is Pattern.

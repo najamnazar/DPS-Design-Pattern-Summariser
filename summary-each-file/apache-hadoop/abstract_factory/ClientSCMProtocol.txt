@@ -1,0 +1,1 @@
+ClientSCMProtocol acts as an abstract factory for ReleaseSharedCacheResourceResponse, UseSharedCacheResourceResponse, which is inherited by ClientProtocolService, ClientSCMProtocolPBClientImpl.

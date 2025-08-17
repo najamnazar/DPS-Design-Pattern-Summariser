@@ -1,0 +1,2 @@
+AbfsPermission acts as an observer, which gets Acl Bit, which equals Object parameter of obj, which values final parameter of String Of, which is final parameter of String Extended Acl, which hashes Code.
+AbfsPermission acts as a publisher for observer FsAction, which gets Acl Bit, which equals Object parameter of obj, which values final parameter of String Of, which is final parameter of String Extended Acl, which hashes Code.

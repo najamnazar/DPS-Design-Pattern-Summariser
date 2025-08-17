@@ -1,0 +1,1 @@
+DefaultPeriodTaskResolver acts as a product for ExtendedCamelContext, which overrides newInstance method of PeriodTaskResolver, newInstance method of PeriodTaskResolver.

@@ -1,0 +1,2 @@
+Lambda2ClientOptimizedImpl acts as a memento, which gets Lambda Client.
+Lambda2ClientOptimizedImpl acts as a caretaker for memento Configuration, which gets Lambda Client.

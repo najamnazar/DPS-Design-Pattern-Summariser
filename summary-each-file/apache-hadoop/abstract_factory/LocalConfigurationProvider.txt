@@ -1,0 +1,1 @@
+LocalConfigurationProvider acts as a product for RMContext, which overrides getConfigurationInputStream method of ConfigurationProvider, initInternal method of ConfigurationProvider, closeInternal method of ConfigurationProvider.

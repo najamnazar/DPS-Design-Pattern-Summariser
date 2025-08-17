@@ -1,0 +1,1 @@
+UploadMediaRequest acts as a publisher for observer UploadMedia, which is inherited by, which gets Upload Media, which sets UploadMedia parameter of uploadMedia Upload Media.

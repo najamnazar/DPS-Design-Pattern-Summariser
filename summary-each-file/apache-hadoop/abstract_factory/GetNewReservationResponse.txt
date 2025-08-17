@@ -1,0 +1,1 @@
+GetNewReservationResponse acts as an abstract product for GetNewReservationResponse, which is inherited by GetNewReservationResponsePBImpl.

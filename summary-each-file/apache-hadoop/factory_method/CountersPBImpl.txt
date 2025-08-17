@@ -1,0 +1,1 @@
+CountersPBImpl acts as a product for PartialJob, which overrides getAllCounterGroups method of Counters, getCounterGroup method of Counters, getCounter method of Counters, incrCounter method of Counters, removeCounterGroup method of Counters, clearCounterGroups method of Counters.

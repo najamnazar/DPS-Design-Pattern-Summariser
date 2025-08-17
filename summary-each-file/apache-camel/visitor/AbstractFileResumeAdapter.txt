@@ -1,0 +1,2 @@
+AbstractFileResumeAdapter acts as a visitor for element ExtendedCamelContext, which overrides, which sets a Cache to, which gets a Cache to, which adds OffsetKey<?> parameter of key, Offset<?> parameter of offset, which adds Object parameter of key, Object parameter of offset.
+AbstractFileResumeAdapter acts as a visitor for element ModelineParser, which overrides, which sets a Cache to, which gets a Cache to, which adds OffsetKey<?> parameter of key, Offset<?> parameter of offset, which adds Object parameter of key, Object parameter of offset.

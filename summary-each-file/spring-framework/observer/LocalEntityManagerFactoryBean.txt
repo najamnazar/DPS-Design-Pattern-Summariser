@@ -1,0 +1,1 @@
+LocalEntityManagerFactoryBean acts as a publisher for observer BeanFactory, which creates Native Entity Manager Factory.

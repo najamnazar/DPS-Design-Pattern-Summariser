@@ -1,0 +1,1 @@
+NotifyForFieldsEnum acts as an observer for publisher SalesforceEndpointConfig, which is inherited by, which values, which froms String parameter of value Value.

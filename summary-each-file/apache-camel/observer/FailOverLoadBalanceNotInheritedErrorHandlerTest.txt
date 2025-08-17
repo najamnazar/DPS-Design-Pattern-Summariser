@@ -1,0 +1,2 @@
+FailOverLoadBalanceNotInheritedErrorHandlerTest acts as a publisher for observer Service, which tests Fail Over Load Balance Not Inherited Error Handler, which creates Route Builder.
+FailOverLoadBalanceNotInheritedErrorHandlerTest acts as a publisher for observer CamelContext, which tests Fail Over Load Balance Not Inherited Error Handler, which creates Route Builder.

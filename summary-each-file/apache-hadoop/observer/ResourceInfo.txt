@@ -1,0 +1,1 @@
+ResourceInfo acts as an observer for publisher ApplicationSubmissionContextInfo, which is inherited by, which gets Memory Size, which getvs Cores, which tos String, which tos Formatted String, which sets int parameter of memory Memory, which setvs int parameter of vCores Cores, which gets Resource, which gets Resources Informations.

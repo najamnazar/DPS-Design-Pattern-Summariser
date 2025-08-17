@@ -1,0 +1,3 @@
+NodeIdPBImpl acts as a product for RMNode, which overrides getHost method of NodeId, setHost method of NodeId, getPort method of NodeId, setPort method of NodeId, build method of NodeId.
+NodeIdPBImpl acts as a product for TaskAttempt, which overrides getHost method of NodeId, setHost method of NodeId, getPort method of NodeId, setPort method of NodeId, build method of NodeId.
+NodeIdPBImpl acts as a product for RMContainer, which overrides getHost method of NodeId, setHost method of NodeId, getPort method of NodeId, setPort method of NodeId, build method of NodeId.

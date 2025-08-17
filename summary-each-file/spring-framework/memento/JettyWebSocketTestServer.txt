@@ -1,0 +1,1 @@
+JettyWebSocketTestServer acts as a caretaker for memento C, which setups, which deploys WebApplicationContext parameter of wac, Filter... parameter of filters Config, which gets Dispatcher Types, which undeploys Config, which starts, which stops, which gets Port, which gets Servlet Context.

@@ -1,0 +1,2 @@
+SetBodyProcessorTest acts as a publisher for observer Service, which tests Set Body, which tests Set Body With Header, which creates Route Builder, which news Instance.
+SetBodyProcessorTest acts as a publisher for observer CamelContext, which tests Set Body, which tests Set Body With Header, which creates Route Builder, which news Instance.

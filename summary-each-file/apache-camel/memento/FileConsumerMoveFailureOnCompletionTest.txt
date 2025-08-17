@@ -1,0 +1,2 @@
+FileConsumerMoveFailureOnCompletionTest acts as a caretaker for memento Context, which tests Move Failed Rollback Only, which tests Move Failed Commit And Failure, which creates Route Builder.
+FileConsumerMoveFailureOnCompletionTest acts as a caretaker for memento Producer, which tests Move Failed Rollback Only, which tests Move Failed Commit And Failure, which creates Route Builder.

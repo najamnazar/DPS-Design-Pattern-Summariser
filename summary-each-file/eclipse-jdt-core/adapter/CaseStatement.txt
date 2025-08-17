@@ -1,0 +1,4 @@
+CaseStatement acts as an adaptee for adapter LocalTypeBinding, which adapts to NestedTypeBinding, which adapts to NestedTypeBinding, which adapts to NestedTypeBinding, which adapts to NestedTypeBinding, which adapts to NestedTypeBinding, which adapts to NestedTypeBinding.
+CaseStatement acts as an adaptee for adapter SwitchStatement, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts resolve method of CaseStatement to Statement, which adapts to Statement, which adapts to Statement.
+CaseStatement acts as an adaptee for adapter BlockScope, which adapts to Scope, which adapts to Scope, which adapts to Scope, which adapts to Scope, which adapts to Scope, which adapts to Scope.
+CaseStatement acts as an adapter, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts to Statement, which adapts to Statement.

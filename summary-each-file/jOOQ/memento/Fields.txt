@@ -1,0 +1,1 @@
+Fields acts as an originator for memento Row, which is inherited by, which fieldses a Row Row to.

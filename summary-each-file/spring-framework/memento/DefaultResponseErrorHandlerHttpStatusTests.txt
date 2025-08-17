@@ -1,0 +1,2 @@
+DefaultResponseErrorHandlerHttpStatusTests acts as a caretaker for memento ClientHttpResponse, which has HttpStatus parameter of httpStatus Error True, which handles HttpStatus parameter of httpStatus, Class<? parameter of extends Error Exception, which errors Codes.
+DefaultResponseErrorHandlerHttpStatusTests acts as a caretaker for memento C, which has HttpStatus parameter of httpStatus Error True, which handles HttpStatus parameter of httpStatus, Class<? parameter of extends Error Exception, which errors Codes.

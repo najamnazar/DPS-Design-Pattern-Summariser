@@ -1,0 +1,2 @@
+MockLocalizerHeartbeatResponse acts as a factory for LocalizerHeartbeatResponse, which overrides getResourceSpecs method of LocalizerHeartbeatResponse.
+MockLocalizerHeartbeatResponse acts as a product for LocalizationProtocol, which overrides getResourceSpecs method of LocalizerHeartbeatResponse.

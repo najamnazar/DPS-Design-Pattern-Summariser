@@ -1,0 +1,1 @@
+XsltEndpointConfigurer acts as a target for adapter XsltSaxonEndpointConfigurer, which adapts to XsltEndpointConfigurer, which adapts to XsltEndpointConfigurer, which adapts to XsltEndpointConfigurer.

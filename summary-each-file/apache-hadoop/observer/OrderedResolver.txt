@@ -1,0 +1,1 @@
+OrderedResolver acts as an observer for publisher MultipleDestinationMountTableResolver, which is inherited by RandomResolver, LeaderFollowerResolver, RouterResolver, HashResolver, which gets String parameter of path, PathLocation parameter of loc First Namespace.

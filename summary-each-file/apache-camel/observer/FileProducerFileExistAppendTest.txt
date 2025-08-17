@@ -1,0 +1,2 @@
+FileProducerFileExistAppendTest acts as a publisher for observer Service, which tests Append, which tests Append File By File, which creates Route Builder.
+FileProducerFileExistAppendTest acts as a publisher for observer CamelContext, which tests Append, which tests Append File By File, which creates Route Builder.

@@ -1,0 +1,1 @@
+Olingo4ApiCollection acts as a singleton, which gets an Olingo4ApiCollection Collection to.

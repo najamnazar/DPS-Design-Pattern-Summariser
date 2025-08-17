@@ -1,0 +1,1 @@
+AnnotationBinding acts as a factory for IAnnotationBinding, which overrides getAnnotationType method of IAnnotationBinding, getDeclaredMemberValuePairs method of IAnnotationBinding, getAllMemberValuePairs method of IAnnotationBinding, getName method of IAnnotationBinding.

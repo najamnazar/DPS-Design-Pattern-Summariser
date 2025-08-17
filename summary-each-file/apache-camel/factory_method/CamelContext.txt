@@ -1,0 +1,3 @@
+CamelContext acts as a factory for ScheduledJobState, which overrides.
+CamelContext acts as a factory for FromRestConfigurationTest, which overrides.
+CamelContext acts as a factory for FaultToleranceProcessorFactory, which overrides.

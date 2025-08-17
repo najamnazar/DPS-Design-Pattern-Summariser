@@ -1,0 +1,1 @@
+TestDistCpSyncReverseFromSource acts as a publisher for observer Path, which inits Source Path.

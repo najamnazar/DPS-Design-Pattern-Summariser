@@ -1,0 +1,1 @@
+KeyAccessor acts as an abstract product for ECDSASignatureTest, which is inherited by DefaultKeyAccessor.

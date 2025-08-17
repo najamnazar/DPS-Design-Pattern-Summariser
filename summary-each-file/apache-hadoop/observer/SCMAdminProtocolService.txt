@@ -1,0 +1,1 @@
+SCMAdminProtocolService acts as a publisher for observer Configuration, which services Configuration parameter of conf Init, which gets Configuration parameter of conf Bind Address, which services Start, which services Stop, which checks String parameter of method Acls, which runs RunSharedCacheCleanerTaskRequest parameter of request Cleaner Task.

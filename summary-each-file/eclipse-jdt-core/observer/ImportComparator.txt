@@ -1,0 +1,1 @@
+ImportComparator acts as a publisher for observer ImportName, which is inherited by, which creates Qualified Name Comparator, which compares ImportName parameter of o1, ImportName parameter of o2.

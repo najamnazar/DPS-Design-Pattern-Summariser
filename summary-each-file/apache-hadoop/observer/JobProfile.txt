@@ -1,0 +1,1 @@
+JobProfile acts as an observer, which news Instance, which gets User, which gets Job ID, which gets Job Id, which gets Job File, which gets URL, which gets Job Name, which gets Queue Name, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields.

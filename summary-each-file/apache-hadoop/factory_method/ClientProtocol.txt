@@ -1,0 +1,2 @@
+ClientProtocol acts as an abstract product for RouterWebHdfsMethods, which is inherited by RouterRpcServer, RouterClientProtocol, ClientNamenodeProtocolTranslatorPB, YARNRunner, LocalJobRunner.
+ClientProtocol acts as a factory for FSNamesystem, which overrides.

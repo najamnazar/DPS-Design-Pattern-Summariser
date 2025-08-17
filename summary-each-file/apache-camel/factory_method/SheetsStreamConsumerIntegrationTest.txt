@@ -1,0 +1,1 @@
+SheetsStreamConsumerIntegrationTest acts as a factory method for GoogleSheetsClientFactory, which is inherited by AbstractGoogleSheetsTestSupport.

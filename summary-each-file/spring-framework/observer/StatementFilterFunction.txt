@@ -1,0 +1,3 @@
+StatementFilterFunction acts as a publisher for observer Statement, which is inherited by, which filters Statement parameter of statement, ExecuteFunction parameter of next, which ands StatementFilterFunction parameter of afterFilter Then.
+StatementFilterFunction acts as a publisher for observer StatementFilterFunction, which is inherited by, which filters Statement parameter of statement, ExecuteFunction parameter of next, which ands StatementFilterFunction parameter of afterFilter Then.
+StatementFilterFunction acts as an observer for publisher DefaultDatabaseClient, which is inherited by, which filters Statement parameter of statement, ExecuteFunction parameter of next, which ands StatementFilterFunction parameter of afterFilter Then.

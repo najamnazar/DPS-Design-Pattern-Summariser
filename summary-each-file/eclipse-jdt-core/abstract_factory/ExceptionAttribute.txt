@@ -1,0 +1,1 @@
+ExceptionAttribute acts as a product for IMethodInfo, which overrides getExceptionIndexes method of IExceptionAttribute, getExceptionNames method of IExceptionAttribute, getExceptionsNumber method of IExceptionAttribute.

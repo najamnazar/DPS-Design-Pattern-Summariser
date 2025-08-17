@@ -1,0 +1,1 @@
+KinesisInternalClient acts as a memento, which is inherited by KinesisClientIAMOptimizedImpl, KinesisClientStandardImpl, which gets Kinesis Client.

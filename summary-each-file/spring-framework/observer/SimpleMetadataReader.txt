@@ -1,0 +1,2 @@
+SimpleMetadataReader acts as an observer, which gets Resource parameter of resource Class Reader, which gets Resource, which gets Class Metadata, which gets Annotation Metadata.
+SimpleMetadataReader acts as a publisher for observer Resource, which is inherited by, which gets Resource parameter of resource Class Reader, which gets Resource, which gets Class Metadata, which gets Annotation Metadata.

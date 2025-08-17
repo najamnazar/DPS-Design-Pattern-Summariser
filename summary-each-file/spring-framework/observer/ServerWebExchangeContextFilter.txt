@@ -1,0 +1,1 @@
+ServerWebExchangeContextFilter acts as an observer, which filters ServerWebExchange parameter of exchange, WebFilterChain parameter of chain, which gets Context parameter of context.

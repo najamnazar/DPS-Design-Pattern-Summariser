@@ -1,0 +1,1 @@
+SyslogDataFormat acts as a memento, which ends.

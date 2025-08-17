@@ -1,0 +1,1 @@
+SimpSession acts as an observer for publisher DefaultSimpUserRegistry, which is inherited by TestSimpSession, which gets Id, which gets User, which gets Subscriptions.

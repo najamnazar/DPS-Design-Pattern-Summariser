@@ -1,0 +1,1 @@
+StringToNumberConverterFactory acts as a caretaker for memento C, which gets Class<T> parameter of targetType Converter, which converts String parameter of source.

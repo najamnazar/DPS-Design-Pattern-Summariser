@@ -1,0 +1,1 @@
+Commits acts as a publisher for observer Commit, which is inherited by CommitsImpl, which roots, which gets String parameter of id, which adds Commit parameter of commit, which adds Commit... parameter of commits All, which adds Collection<? parameter of extends All, which loads MigrationsType parameter of migrations, which exports.

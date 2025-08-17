@@ -1,0 +1,3 @@
+XQueryBuilder acts as a component for decorator ExpressionDefinition, which overrides toStringPredicate, initPredicate, evaluatePredicate, matchesPredicate.
+XQueryBuilder acts as a component for decorator DelegateProcessor, which overrides toStringProcessor, processProcessor.
+XQueryBuilder acts as a component for decorator MockValueBuilder, which overrides toStringExpression, initExpression, evaluateExpression, matchesExpression.

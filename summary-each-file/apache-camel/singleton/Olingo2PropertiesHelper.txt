@@ -1,0 +1,1 @@
+Olingo2PropertiesHelper acts as a singleton, which gets an Olingo2PropertiesHelper Helper to.

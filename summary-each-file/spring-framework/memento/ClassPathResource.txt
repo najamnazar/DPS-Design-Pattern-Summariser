@@ -1,0 +1,1 @@
+ClassPathResource acts as a caretaker for memento C, which gets Path, which gets Class Loader, which exists, which resolves URL, which gets Input Stream, which gets URL, which creates String parameter of relativePath Relative, which gets Filename, which gets Description, which equals @Nullable parameter of Object, which hashes Code.

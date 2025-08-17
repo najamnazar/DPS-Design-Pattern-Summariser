@@ -1,0 +1,2 @@
+ToFileRouteTest acts as a publisher for observer CamelContext, which tests To File, which creates Registry, which creates Route Builder, which processes Exchange parameter of exchange.
+ToFileRouteTest acts as a publisher for observer Service, which tests To File, which creates Registry, which creates Route Builder, which processes Exchange parameter of exchange.

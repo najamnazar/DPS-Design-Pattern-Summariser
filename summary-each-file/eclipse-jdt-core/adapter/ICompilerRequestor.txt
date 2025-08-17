@@ -1,0 +1,7 @@
+ICompilerRequestor acts as an adaptee for adapter AbstractRegressionTest, which adapts to AbstractCompilerTest, StopableTestCase.
+ICompilerRequestor acts as a target for adapter BatchCompilerRequestor, which adapts to ICompilerRequestor.
+ICompilerRequestor acts as a target for adapter Requestor, which adapts acceptResult method of String to ICompilerRequestor.
+ICompilerRequestor acts as a target for adapter Requestor, which adapts acceptResult method of Hashtable to ICompilerRequestor.
+ICompilerRequestor acts as a target for adapter AbstractImageBuilder, which adapts to ICompilerRequestor.
+ICompilerRequestor acts as an adaptee for adapter AbstractImageBuilder, which adapts to ICompilerRequestor, ICompilationUnitLocator.
+ICompilerRequestor acts as a target for adapter EclipseBatchRequestor, which adapts to ICompilerRequestor.

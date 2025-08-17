@@ -1,0 +1,2 @@
+CustomValidatorBean acts as a product for WebFluxConfigurer, which overrides.
+CustomValidatorBean acts as a product for WebMvcConfigurer, which overrides.

@@ -1,0 +1,5 @@
+CamelItemProcessorTest acts as a publisher for observer CamelContext, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.
+CamelItemProcessorTest acts as a publisher for observer FluentProducerTemplate, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.
+CamelItemProcessorTest acts as a publisher for observer Service, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.
+CamelItemProcessorTest acts as a publisher for observer ProducerTemplate, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.
+CamelItemProcessorTest acts as a publisher for observer ConsumerTemplate, which does Post Setup, which creates Route Builder, which shoulds Return Doubled Message.

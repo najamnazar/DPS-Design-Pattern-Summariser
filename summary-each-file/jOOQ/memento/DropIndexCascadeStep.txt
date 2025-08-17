@@ -1,0 +1,2 @@
+DropIndexCascadeStep acts as a memento, which restricts, which restricts.
+DropIndexCascadeStep acts as a memento, which is inherited by DropIndexOnStep, DropIndexImpl, which restricts, which restricts.

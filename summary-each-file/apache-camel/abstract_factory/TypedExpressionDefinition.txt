@@ -1,0 +1,1 @@
+TypedExpressionDefinition acts as a product for HasExpressionType, which overrides.

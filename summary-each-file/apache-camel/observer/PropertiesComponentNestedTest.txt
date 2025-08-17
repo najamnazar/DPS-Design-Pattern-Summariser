@@ -1,0 +1,2 @@
+PropertiesComponentNestedTest acts as a publisher for observer Service, which tests Nested, which creates Route Builder, which creates Camel Context.
+PropertiesComponentNestedTest acts as a publisher for observer CamelContext, which tests Nested, which creates Route Builder, which creates Camel Context.

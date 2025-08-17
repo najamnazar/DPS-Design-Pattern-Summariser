@@ -1,0 +1,1 @@
+BindContext acts as an abstract product for BindContext, which is inherited by AbstractBindContext.

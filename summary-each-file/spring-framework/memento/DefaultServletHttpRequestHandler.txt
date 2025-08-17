@@ -1,0 +1,1 @@
+DefaultServletHttpRequestHandler acts as a caretaker for memento C, which sets String parameter of defaultServletName Default Servlet Name, which sets ServletContext parameter of servletContext Servlet Context, which handles HttpServletRequest parameter of request, HttpServletResponse parameter of response Request.

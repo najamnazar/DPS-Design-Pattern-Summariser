@@ -1,0 +1,3 @@
+LifecycleContextBean acts as a caretaker for memento C, which sets BeanFactory parameter of beanFactory Bean Factory, which afters Properties Set, which sets ApplicationContext parameter of applicationContext Application Context.
+LifecycleContextBean acts as a caretaker for memento ApplicationContext, which sets BeanFactory parameter of beanFactory Bean Factory, which afters Properties Set, which sets ApplicationContext parameter of applicationContext Application Context.
+LifecycleContextBean acts as a caretaker for memento A, which sets BeanFactory parameter of beanFactory Bean Factory, which afters Properties Set, which sets ApplicationContext parameter of applicationContext Application Context.

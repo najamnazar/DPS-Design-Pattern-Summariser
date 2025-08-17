@@ -1,0 +1,1 @@
+StandardTypeComparator acts as a product for EvaluationContext, which overrides canCompare method of TypeComparator, compare method of TypeComparator.

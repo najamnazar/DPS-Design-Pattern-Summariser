@@ -1,0 +1,1 @@
+TrackingUriPlugin acts as a publisher for observer Configuration, which gets ApplicationId parameter of id Tracking Uri.

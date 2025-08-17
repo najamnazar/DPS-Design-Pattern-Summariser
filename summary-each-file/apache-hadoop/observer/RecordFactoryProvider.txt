@@ -1,0 +1,1 @@
+RecordFactoryProvider acts as a publisher for observer Configuration, which is inherited by, which gets Configuration parameter of conf Record Factory, which gets String parameter of factoryClassName Factory Class Instance.

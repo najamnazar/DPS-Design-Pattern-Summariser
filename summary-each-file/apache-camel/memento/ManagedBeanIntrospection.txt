@@ -1,0 +1,1 @@
+ManagedBeanIntrospection acts as a caretaker for memento Context, which gets Bean Introspection, which gets Invoked Counter, which is Extended Statistics, which sets Boolean parameter of extendedStatistics Extended Statistics, which resets Counters, which gets Cached Classes, which clears Cache.

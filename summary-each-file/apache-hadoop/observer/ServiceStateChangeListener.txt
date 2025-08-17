@@ -1,0 +1,2 @@
+ServiceStateChangeListener acts as an observer for publisher ServiceOperations, which is inherited by ContainerManager, BreakableStateChangeListener, AuxServices, LoggingStateChangeListener, which states Service parameter of service Changed.
+ServiceStateChangeListener acts as a publisher for observer Service, which is inherited by BreakableStateChangeListener, AuxServices, which states Service parameter of service Changed.

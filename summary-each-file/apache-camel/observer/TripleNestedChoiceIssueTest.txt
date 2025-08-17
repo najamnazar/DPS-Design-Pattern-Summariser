@@ -1,0 +1,2 @@
+TripleNestedChoiceIssueTest acts as a publisher for observer CamelContext, which tests Nested Choice Very Big, which tests Nested Choice Big, which tests Nested Choice Med, which tests Nested Choice Low, which creates Route Builder.
+TripleNestedChoiceIssueTest acts as a publisher for observer Service, which tests Nested Choice Very Big, which tests Nested Choice Big, which tests Nested Choice Med, which tests Nested Choice Low, which creates Route Builder.

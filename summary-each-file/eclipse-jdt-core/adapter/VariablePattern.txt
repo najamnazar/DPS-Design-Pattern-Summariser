@@ -1,0 +1,1 @@
+VariablePattern acts as an adaptee for adapter VariableLocator, which adapts to PatternLocator.

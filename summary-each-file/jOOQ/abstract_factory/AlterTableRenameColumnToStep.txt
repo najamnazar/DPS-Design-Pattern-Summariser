@@ -1,0 +1,2 @@
+AlterTableRenameColumnToStep acts as an abstract factory for AlterTableFinalStep, which is inherited by AlterTableImpl.
+AlterTableRenameColumnToStep acts as an abstract product for AlterTableRenameColumnToStep, which is inherited by AlterTableImpl, AlterTableImpl, AlterTableImpl.

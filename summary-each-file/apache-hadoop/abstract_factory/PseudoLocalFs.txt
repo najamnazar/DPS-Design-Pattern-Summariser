@@ -1,0 +1,2 @@
+PseudoLocalFs acts as a product for FileSystemAccess, which overrides getUri method of FileSystem, getHomeDirectory method of FileSystem, getWorkingDirectory method of FileSystem, mkdirs method of FileSystem, rename method of FileSystem, makeQualified method of FileSystem.
+PseudoLocalFs acts as a product for ShuffleConsumerPlugin, which overrides getUri method of FileSystem, getHomeDirectory method of FileSystem, getWorkingDirectory method of FileSystem, mkdirs method of FileSystem, rename method of FileSystem, makeQualified method of FileSystem.

@@ -1,0 +1,1 @@
+GetUserMappingsProtocolClientSideTranslatorPB acts as an observer, which closes, which gets String parameter of user Groups For User, which is String parameter of methodName Method Supported.

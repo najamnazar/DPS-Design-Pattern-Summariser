@@ -1,0 +1,2 @@
+WireTapStreamCachingTest acts as a caretaker for memento Context, which tests Sending AMessage Using Wiretap Converts To Re Readable, which tests Sending AMessage Using Wiretap Should Not Delete Stream File Before All Excanges Are Complete, which sets Up, which creates Route Builder.
+WireTapStreamCachingTest acts as a caretaker for memento Producer, which tests Sending AMessage Using Wiretap Converts To Re Readable, which tests Sending AMessage Using Wiretap Should Not Delete Stream File Before All Excanges Are Complete, which sets Up, which creates Route Builder.

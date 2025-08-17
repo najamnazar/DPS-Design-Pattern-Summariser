@@ -1,0 +1,3 @@
+TestDSFailedAppMaster acts as a publisher for observer Resource, which runs, which mains String[] parameter of args.
+TestDSFailedAppMaster acts as a publisher for observer ContainerId, which runs, which mains String[] parameter of args.
+TestDSFailedAppMaster acts as a publisher for observer Options, which runs, which mains String[] parameter of args.

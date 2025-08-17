@@ -1,0 +1,1 @@
+StompEndpoint acts as a factory for HeaderFilterStrategyAware, which overrides getHeaderFilterStrategy method of HeaderFilterStrategyAware, setHeaderFilterStrategy method of HeaderFilterStrategyAware.

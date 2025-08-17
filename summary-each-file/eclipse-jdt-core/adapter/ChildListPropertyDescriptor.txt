@@ -1,0 +1,12 @@
+ChildListPropertyDescriptor acts as an adaptee for adapter JavaDocRegion, which adapts to AbstractTagElement, which adapts to AbstractTagElement.
+ChildListPropertyDescriptor acts as an adaptee for adapter ASTRewriteFlattener, which adapts to ASTVisitor, which adapts to ASTVisitor.
+ChildListPropertyDescriptor acts as an adaptee for adapter ASTRewritingMethodDeclTest, which adapts to ASTRewritingTest, which adapts to ASTRewritingTest.
+ChildListPropertyDescriptor acts as an adaptee for adapter ASTRewriteAnalyzer, which adapts to ASTVisitor, which adapts to ASTVisitor.
+ChildListPropertyDescriptor acts as an adaptee for adapter RecordDeclaration, which adapts to AbstractTypeDeclaration, which adapts to AbstractTypeDeclaration.
+ChildListPropertyDescriptor acts as an adaptee for adapter EnumConstantDeclaration, which adapts to BodyDeclaration, which adapts to BodyDeclaration.
+ChildListPropertyDescriptor acts as an adaptee for adapter ImplicitTypeDeclaration, which adapts to AbstractTypeDeclaration, which adapts to AbstractTypeDeclaration.
+ChildListPropertyDescriptor acts as an adaptee for adapter TagElement, which adapts to AbstractTagElement, which adapts to AbstractTagElement.
+ChildListPropertyDescriptor acts as an adaptee for adapter TypeMethodReference, which adapts to MethodReference, which adapts to MethodReference.
+ChildListPropertyDescriptor acts as an adaptee for adapter CreationReference, which adapts to MethodReference, which adapts to MethodReference.
+ChildListPropertyDescriptor acts as an adaptee for adapter ExpressionMethodReference, which adapts to MethodReference, which adapts to MethodReference.
+ChildListPropertyDescriptor acts as an adaptee for adapter SuperMethodReference, which adapts to MethodReference, which adapts to MethodReference.

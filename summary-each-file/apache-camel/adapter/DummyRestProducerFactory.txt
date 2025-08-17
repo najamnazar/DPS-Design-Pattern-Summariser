@@ -1,0 +1,3 @@
+DummyRestProducerFactory acts as an adaptee for adapter RestOpenApiGetTest, which adapts to CamelTestSupport.
+DummyRestProducerFactory acts as an adaptee for adapter RestOpenApiGetUriParamTest, which adapts to CamelTestSupport.
+DummyRestProducerFactory acts as an adaptee for adapter RestOpenApiReaderPropertyPlaceholderTest, which adapts to CamelTestSupport.

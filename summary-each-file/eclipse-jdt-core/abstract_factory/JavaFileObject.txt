@@ -1,0 +1,3 @@
+JavaFileObject acts as a product for JavaFileManager, which overrides.
+JavaFileObject acts as an abstract product for JavaFileObject, which is inherited by IdeOutputClassFileObject, IdeOutputClassFileObject, IdeOutputClassFileObject, ArchiveFileObject, ArchiveFileObject, ArchiveFileObject, SimpleJavaFileObject, SimpleJavaFileObject, SimpleJavaFileObject, PathFileObject, PathFileObject, PathFileObject, IdeOutputJavaFileObject, IdeOutputJavaFileObject, IdeOutputJavaFileObject, ForwardingJavaFileObject, ForwardingJavaFileObject, ForwardingJavaFileObject.
+JavaFileObject acts as an abstract factory for, which is inherited by IdeOutputClassFileObject, ArchiveFileObject, SimpleJavaFileObject, PathFileObject, IdeOutputJavaFileObject, ForwardingJavaFileObject.

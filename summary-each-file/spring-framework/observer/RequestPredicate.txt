@@ -1,0 +1,1 @@
+RequestPredicate acts as an observer for publisher RequestPredicates, which is inherited by, which tests ServerRequest parameter of request, which ands RequestPredicate parameter of other, which negates, which ors RequestPredicate parameter of other, which nests ServerRequest parameter of request, which accepts RequestPredicates.Visitor parameter of visitor.

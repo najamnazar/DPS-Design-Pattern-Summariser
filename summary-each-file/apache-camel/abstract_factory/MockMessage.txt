@@ -1,0 +1,10 @@
+MockMessage acts as a product for Exchange, which overrides.
+MockMessage acts as a product for MessageHistory, which overrides.
+MockMessage acts as a product for MessageCreator, which overrides.
+MockMessage acts as a product for UndertowHttpBinding, which overrides.
+MockMessage acts as a product for CxfMessageMapper, which overrides.
+MockMessage acts as a product for XmlSignatureProperties, which overrides.
+MockMessage acts as a product for NettyHttpBinding, which overrides.
+MockMessage acts as a product for UnitOfWork, which overrides.
+MockMessage acts as a product for XmlSignatureChecker, which overrides.
+MockMessage acts as a product for Message, which overrides.

@@ -1,0 +1,1 @@
+GetNewReservationResponsePBImpl acts as a product for ApplicationClientProtocol, which overrides getReservationId method of GetNewReservationResponse, setReservationId method of GetNewReservationResponse.

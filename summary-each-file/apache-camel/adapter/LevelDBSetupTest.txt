@@ -1,0 +1,1 @@
+LevelDBSetupTest acts as an adapter, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts runTest method of LevelDBFile, runTest method of LevelDBFile to CamelTestSupport, which adapts to CamelTestSupport.

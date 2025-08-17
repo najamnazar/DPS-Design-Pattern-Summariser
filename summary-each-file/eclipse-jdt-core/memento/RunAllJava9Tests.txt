@@ -1,0 +1,2 @@
+RunAllJava9Tests acts as a caretaker for memento String, which gets All Test Classes, which gets Converter Test Classes, which gets Compiler Classes, which suites, which adds TestSuite parameter of suite, Class[] parameter of testClasses Tests To Suite, which tears Down.
+RunAllJava9Tests acts as a caretaker for memento S, which gets All Test Classes, which gets Converter Test Classes, which gets Compiler Classes, which suites, which adds TestSuite parameter of suite, Class[] parameter of testClasses Tests To Suite, which tears Down.

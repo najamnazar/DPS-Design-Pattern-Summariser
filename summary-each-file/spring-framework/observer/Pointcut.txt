@@ -1,0 +1,1 @@
+Pointcut acts as an observer for publisher TransactionProxyFactoryBean, which is inherited by AnnotationMatchingPointcut, ControlFlowPointcut, StaticMethodMatcherPointcut, TruePointcut, DynamicMethodMatcherPointcut, ExpressionPointcut, ComposablePointcut, which gets Class Filter, which gets Method Matcher.

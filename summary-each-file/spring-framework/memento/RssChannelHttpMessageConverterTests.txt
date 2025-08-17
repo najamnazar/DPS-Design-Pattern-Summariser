@@ -1,0 +1,2 @@
+RssChannelHttpMessageConverterTests acts as a caretaker for memento Message, which cans Read And Write, which reads, which writes, which writes Other Charset, which writes Other Content Type Parameters.
+RssChannelHttpMessageConverterTests acts as a caretaker for memento C, which cans Read And Write, which reads, which writes, which writes Other Charset, which writes Other Content Type Parameters.

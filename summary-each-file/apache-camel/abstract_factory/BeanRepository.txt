@@ -1,0 +1,1 @@
+BeanRepository acts as an abstract product for BeanRepository, which is inherited by AbstractReifier, JndiBeanRepository, Registry, ApplicationContextBeanRepository.

@@ -1,0 +1,1 @@
+WccAttr acts as an observer for publisher WccData, which is inherited by, which gets Size, which gets Mtime, which gets Ctime, which deserializes XDR parameter of xdr, which serializes XDR parameter of out.

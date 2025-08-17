@@ -1,0 +1,1 @@
+RouterAsyncUserProtocol acts as an adapter, which adapts to RouterUserProtocol, which adapts to RouterUserProtocol, which adapts to RouterUserProtocol.

@@ -1,0 +1,1 @@
+IncomparableKey acts as an observer, which writes DataOutput parameter of out, which reads DataInput parameter of in Fields, which compares Object parameter of o To.

@@ -1,0 +1,5 @@
+DerivedColumnList acts as an abstract product for DerivedColumnList, which is inherited by DerivedColumnListImpl.
+DerivedColumnList acts as an abstract product for DerivedColumnList, which is inherited by DerivedColumnListImpl, DerivedColumnListImpl, DerivedColumnListImpl, DerivedColumnListImpl.
+DerivedColumnList acts as an abstract factory for Name, which is inherited by DerivedColumnListImpl.
+DerivedColumnList acts as a product for DiagnosticsContext, which overrides.
+DerivedColumnList acts as a product for VisitContext, which overrides.

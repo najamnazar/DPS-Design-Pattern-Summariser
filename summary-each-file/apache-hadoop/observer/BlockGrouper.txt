@@ -1,0 +1,1 @@
+BlockGrouper acts as a publisher for observer ECSchema, which is inherited by, which sets ECSchema parameter of schema Schema, which gets Schema, which gets Required Num Data Blocks, which gets Required Num Parity Blocks, which makes ECBlock[] parameter of dataBlocks, ECBlock[] parameter of parityBlocks Block Group, which anies ECBlockGroup parameter of blockGroup Recoverable.

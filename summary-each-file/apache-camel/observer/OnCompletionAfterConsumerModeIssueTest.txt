@@ -1,0 +1,2 @@
+OnCompletionAfterConsumerModeIssueTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests On Completion In Sub, which tests On Completion In Main And Sub, which tests On Completion In Global And Sub.
+OnCompletionAfterConsumerModeIssueTest acts as a publisher for observer Service, which is Use Route Builder, which tests On Completion In Sub, which tests On Completion In Main And Sub, which tests On Completion In Global And Sub.

@@ -1,0 +1,2 @@
+FileASTRequestor acts as a caretaker for memento C, which accepts String parameter of sourceFilePath, CompilationUnit parameter of ast AST, which accepts String parameter of bindingKey, IBinding parameter of binding Binding, which creates String[] parameter of bindingKeys Bindings.
+FileASTRequestor acts as a caretaker for memento R, which accepts String parameter of sourceFilePath, CompilationUnit parameter of ast AST, which accepts String parameter of bindingKey, IBinding parameter of binding Binding, which creates String[] parameter of bindingKeys Bindings.

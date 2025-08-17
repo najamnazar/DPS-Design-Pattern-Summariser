@@ -1,0 +1,1 @@
+GoogleCloudFunctionsOperations acts as an observer for publisher GoogleCloudFunctionsConfiguration, which is inherited by.

@@ -1,0 +1,5 @@
+KinesisFirehoseComponentManualIT acts as a publisher for observer ProducerTemplate, which tests Firehose Routing, which tests Firehose Batch Routing, which creates Route Builder.
+KinesisFirehoseComponentManualIT acts as a publisher for observer Service, which tests Firehose Routing, which tests Firehose Batch Routing, which creates Route Builder.
+KinesisFirehoseComponentManualIT acts as a publisher for observer CamelContext, which tests Firehose Routing, which tests Firehose Batch Routing, which creates Route Builder.
+KinesisFirehoseComponentManualIT acts as a publisher for observer FluentProducerTemplate, which tests Firehose Routing, which tests Firehose Batch Routing, which creates Route Builder.
+KinesisFirehoseComponentManualIT acts as a publisher for observer ConsumerTemplate, which tests Firehose Routing, which tests Firehose Batch Routing, which creates Route Builder.

@@ -1,0 +1,1 @@
+CustomerGatewayIT acts as a publisher for observer AuthenticationType, which tests Customer Management Workflow, which tests Update Unknown Customer, which tests Search Unknown Customer, which tests Wrong Customer Create Request, which creates Route Builder.

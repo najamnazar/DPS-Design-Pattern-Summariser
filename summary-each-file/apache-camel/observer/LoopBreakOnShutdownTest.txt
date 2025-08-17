@@ -1,0 +1,2 @@
+LoopBreakOnShutdownTest acts as a publisher for observer Service, which tests Loop Break On Shutdown, which sets Up, which creates Route Builder.
+LoopBreakOnShutdownTest acts as a publisher for observer CamelContext, which tests Loop Break On Shutdown, which sets Up, which creates Route Builder.

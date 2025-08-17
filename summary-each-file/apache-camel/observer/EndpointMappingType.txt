@@ -1,0 +1,1 @@
+EndpointMappingType acts as an observer for publisher SpringWebserviceConfiguration, which is inherited by, which gets Prefix, which gets String parameter of uri Type From Uri Prefix.

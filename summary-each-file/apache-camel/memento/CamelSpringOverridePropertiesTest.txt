@@ -1,0 +1,1 @@
+CamelSpringOverridePropertiesTest acts as a caretaker for memento Producer, which overrides, which tests Override.

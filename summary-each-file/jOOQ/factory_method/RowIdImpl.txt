@@ -1,0 +1,1 @@
+RowIdImpl acts as a product for MockResultSet, which overrides.

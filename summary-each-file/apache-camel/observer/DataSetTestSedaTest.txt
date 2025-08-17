@@ -1,0 +1,2 @@
+DataSetTestSedaTest acts as a publisher for observer CamelContext, which tests Seda.
+DataSetTestSedaTest acts as a publisher for observer Service, which tests Seda.

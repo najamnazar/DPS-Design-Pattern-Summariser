@@ -1,0 +1,1 @@
+NodesListManagerEvent acts as an observer for publisher TestRMNodeTransitions, which is inherited by, which gets Node.

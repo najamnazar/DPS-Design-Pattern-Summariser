@@ -1,0 +1,2 @@
+RawKeyValueIterator acts as an abstract product for RawKeyValueIterator, which is inherited by BufferPuller, BasicTypeSorterBase.
+RawKeyValueIterator acts as an abstract factory for, which is inherited by BufferPuller, BasicTypeSorterBase.

@@ -1,0 +1,1 @@
+XhrTransport acts as an observer, which is Xhr Streaming Disabled, which executes URI parameter of transportUrl, HttpHeaders parameter of headers, TextMessage parameter of message Send Request.

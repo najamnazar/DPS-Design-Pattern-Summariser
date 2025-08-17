@@ -1,0 +1,4 @@
+AsyncListenableTaskExecutor acts as an adaptee for adapter ThreadPoolTaskExecutor, which adapts to ExecutorConfigurationSupport, which adapts to ExecutorConfigurationSupport.
+AsyncListenableTaskExecutor acts as an adaptee for adapter SimpleBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest, which adapts to AbstractBufferingAsyncClientHttpRequest.
+AsyncListenableTaskExecutor acts as an adaptee for adapter JettyWebSocketClient, which adapts to AbstractWebSocketClient, which adapts to AbstractWebSocketClient.
+AsyncListenableTaskExecutor acts as an adaptee for adapter ThreadPoolTaskScheduler, which adapts to ExecutorConfigurationSupport, which adapts to ExecutorConfigurationSupport.

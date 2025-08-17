@@ -1,0 +1,3 @@
+Elements acts as a factory for Elements, which overrides.
+Elements acts as a factory for ModuleElementImpl, which overrides.
+Elements acts as a factory method for RecordComponentElement, which is inherited by Elements.

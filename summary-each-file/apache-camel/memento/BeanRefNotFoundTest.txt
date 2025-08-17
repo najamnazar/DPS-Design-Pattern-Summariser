@@ -1,0 +1,2 @@
+BeanRefNotFoundTest acts as a caretaker for memento Producer, which creates Registry, which tests Bean Ref Not Found, which is Use Route Builder.
+BeanRefNotFoundTest acts as a caretaker for memento Context, which creates Registry, which tests Bean Ref Not Found, which is Use Route Builder.

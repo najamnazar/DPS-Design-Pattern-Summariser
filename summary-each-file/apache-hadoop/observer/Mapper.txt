@@ -1,0 +1,1 @@
+Mapper acts as an observer, which maps K1 parameter of key, V1 parameter of value, OutputCollector<K2, parameter of V2>, Reporter parameter of reporter.

@@ -1,0 +1,1 @@
+TestCompletionEngineProvider acts as a factory for ICompletionEngineProvider, which overrides newCompletionEngine method of ICompletionEngineProvider.

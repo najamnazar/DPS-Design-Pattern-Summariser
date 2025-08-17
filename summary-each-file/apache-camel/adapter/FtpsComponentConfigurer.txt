@@ -1,0 +1,1 @@
+FtpsComponentConfigurer acts as an adapter, which adapts to FtpComponentConfigurer, which adapts to FtpComponentConfigurer, which adapts to FtpComponentConfigurer.

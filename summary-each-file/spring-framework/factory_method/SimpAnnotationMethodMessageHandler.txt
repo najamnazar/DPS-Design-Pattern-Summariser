@@ -1,0 +1,3 @@
+SimpAnnotationMethodMessageHandler acts as a factory for MessageBrokerRegistry, which overrides.
+SimpAnnotationMethodMessageHandler acts as a factory for LogDelegateFactory, which overrides.
+SimpAnnotationMethodMessageHandler acts as a factory for AbstractAdaptableMessageListener, which overrides.

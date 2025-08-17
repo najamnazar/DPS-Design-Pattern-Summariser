@@ -1,0 +1,1 @@
+MethodBinding acts as an abstract product for MethodBinding, which is inherited by MostSpecificExceptionMethodBinding, ParameterizedMethodBinding, SyntheticFactoryMethodBinding, UpdatedMethodBinding, SyntheticMethodBinding, PolymorphicMethodBinding, ProblemMethodBinding, SyntheticAccessMethodBinding.

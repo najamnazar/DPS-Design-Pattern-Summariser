@@ -1,0 +1,2 @@
+FileRenameReadLockMustUseMarkerFileTest acts as a publisher for observer CamelContext, which tests Camel Lock File, which creates Route Builder.
+FileRenameReadLockMustUseMarkerFileTest acts as a publisher for observer Service, which tests Camel Lock File, which creates Route Builder.

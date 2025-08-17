@@ -1,0 +1,5 @@
+MvelResourceTest acts as a publisher for observer CamelContext, which tests Mvel Resource, which creates Route Builder.
+MvelResourceTest acts as a publisher for observer Service, which tests Mvel Resource, which creates Route Builder.
+MvelResourceTest acts as a publisher for observer FluentProducerTemplate, which tests Mvel Resource, which creates Route Builder.
+MvelResourceTest acts as a publisher for observer ConsumerTemplate, which tests Mvel Resource, which creates Route Builder.
+MvelResourceTest acts as a publisher for observer ProducerTemplate, which tests Mvel Resource, which creates Route Builder.

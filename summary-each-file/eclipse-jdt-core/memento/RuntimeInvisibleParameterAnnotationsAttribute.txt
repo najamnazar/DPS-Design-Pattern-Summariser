@@ -1,0 +1,2 @@
+RuntimeInvisibleParameterAnnotationsAttribute acts as a caretaker for memento C, which gets Parameter Annotations, which gets Parameters Number.
+RuntimeInvisibleParameterAnnotationsAttribute acts as a caretaker for memento Class, which gets Parameter Annotations, which gets Parameters Number.

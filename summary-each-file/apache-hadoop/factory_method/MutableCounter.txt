@@ -1,0 +1,1 @@
+MutableCounter acts as a factory for MutableGauge, which overrides.

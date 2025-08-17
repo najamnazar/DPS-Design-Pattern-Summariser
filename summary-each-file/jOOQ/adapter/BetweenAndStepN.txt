@@ -1,0 +1,1 @@
+BetweenAndStepN acts as an adaptee for adapter RowBetweenCondition, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition, which adapts to AbstractCondition.

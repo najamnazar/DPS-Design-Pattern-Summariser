@@ -1,0 +1,1 @@
+UnitOfWorkFactory acts as an observer for publisher AbstractCamelContext, SimpleCamelContext, which is inherited by DefaultUnitOfWorkFactory, which creates Exchange parameter of exchange Unit Of Work, which afters CamelContext parameter of camelContext Properties Configured.

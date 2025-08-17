@@ -1,0 +1,1 @@
+PreconditionContainer acts as a memento, which sets String parameter of precondition Precondition, which sets String parameter of precondition Precondition.

@@ -1,0 +1,2 @@
+RoutineDefinition acts as an originator for memento Database.
+RoutineDefinition acts as an originator for memento PackageDefinition.

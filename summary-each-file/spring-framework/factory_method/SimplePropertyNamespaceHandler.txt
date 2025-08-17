@@ -1,0 +1,1 @@
+SimplePropertyNamespaceHandler acts as a product for NamespaceHandlerResolver, which overrides init method of NamespaceHandler, parse method of NamespaceHandler.

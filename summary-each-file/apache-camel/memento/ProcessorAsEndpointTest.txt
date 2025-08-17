@@ -1,0 +1,1 @@
+ProcessorAsEndpointTest acts as a caretaker for memento Context, which tests Sending To Processor Endpoint, which tests Sending To Non Existent Endpoint, which creates Application Context.

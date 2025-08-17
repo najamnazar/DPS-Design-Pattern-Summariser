@@ -1,0 +1,3 @@
+DatabaseClient acts as a factory for DatabaseClient, which overrides.
+DatabaseClient acts as an abstract product for DatabaseClient, which is inherited by DefaultDatabaseClient.
+DatabaseClient acts as a factory method for DatabaseClient, which is inherited by DatabaseClient.

@@ -1,0 +1,5 @@
+DelegateEndpoint acts as an adaptee for adapter MasterEndpoint, which adapts to DefaultEndpoint.
+DelegateEndpoint acts as an adaptee for adapter CronEndpoint, which adapts to DefaultEndpoint.
+DelegateEndpoint acts as an adaptee for adapter RefEndpoint, which adapts to DefaultEndpoint.
+DelegateEndpoint acts as an adaptee for adapter WebhookEndpoint, which adapts to DefaultEndpoint.
+DelegateEndpoint acts as an adaptee for adapter ServiceEndpoint, which adapts to DefaultEndpoint.

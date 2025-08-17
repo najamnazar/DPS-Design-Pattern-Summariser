@@ -1,0 +1,3 @@
+PropertyTrait acts as a product for ModelineParser, which overrides getName method of Trait, parseTrait method of Trait.
+PropertyTrait acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.
+PropertyTrait acts as a factory for Trait, which overrides getName method of Trait, parseTrait method of Trait.

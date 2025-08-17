@@ -1,0 +1,1 @@
+NodeLabelsStore acts as an observer, which updates Map<NodeId, parameter of Set<String>> Node To Labels Mappings, which stores List<NodeLabel> parameter of labels New Cluster Node Labels, which removes Collection<String> parameter of labels Cluster Node Labels, which recovers, which inits Configuration parameter of conf, CommonNodeLabelsManager parameter of mgr.

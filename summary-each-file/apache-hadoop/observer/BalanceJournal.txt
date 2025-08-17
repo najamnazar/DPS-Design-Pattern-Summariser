@@ -1,0 +1,1 @@
+BalanceJournal acts as an observer for publisher BalanceProcedureScheduler, which is inherited by BalanceJournalInfoHDFS, which saves BalanceJob parameter of job Job, which recovers BalanceJob parameter of job Job, which lists All Jobs, which clears BalanceJob parameter of job.

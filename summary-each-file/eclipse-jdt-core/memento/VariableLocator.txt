@@ -1,0 +1,1 @@
+VariableLocator acts as a caretaker for memento S, which matches Expression parameter of node, MatchingNodeSet parameter of nodeSet, which matches Reference parameter of node, MatchingNodeSet parameter of nodeSet, which matches Reference parameter of node, MatchingNodeSet parameter of nodeSet, boolean parameter of writeOnlyAccess Reference, which tos String.

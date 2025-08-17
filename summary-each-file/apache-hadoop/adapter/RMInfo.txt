@@ -1,0 +1,1 @@
+RMInfo acts as an adaptee for adapter ResourceManager, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable, which adapts to CompositeService, Recoverable.

@@ -1,0 +1,1 @@
+PopularTagsIterator acts as a publisher for observer SchedulingRequest, which is inherited by, which gets SchedulingRequest parameter of o1 Tag Popularity, which has Next, which nexts.

@@ -1,0 +1,2 @@
+TypedValue acts as an abstract product for TypedValue, which is inherited by BooleanTypedValue.
+TypedValue acts as an abstract product for TypedValue, which is inherited by BooleanTypedValue, BooleanTypedValue, BooleanTypedValue.

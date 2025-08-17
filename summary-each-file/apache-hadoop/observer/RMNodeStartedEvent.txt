@@ -1,0 +1,1 @@
+RMNodeStartedEvent acts as an observer, which gets NMContainer Statuses, which gets Running Applications, which gets Node Status, which gets Log Aggregation Reports For Apps, which sets List<LogAggregationReport> parameter of logAggregationReportsForApps Log Aggregation Reports For Apps.

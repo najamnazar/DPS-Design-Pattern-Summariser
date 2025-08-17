@@ -1,0 +1,2 @@
+ScannerTests acts as a caretaker for memento S, which suites, which tests Has Annotation, which tests Has No Annotation, which tests Has Annotation In Comment, which _tests Has Annotation Declaration.
+ScannerTests acts as a caretaker for memento String, which suites, which tests Has Annotation, which tests Has No Annotation, which tests Has Annotation In Comment, which _tests Has Annotation Declaration.

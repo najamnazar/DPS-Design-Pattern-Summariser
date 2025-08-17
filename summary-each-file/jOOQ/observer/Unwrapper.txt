@@ -1,0 +1,1 @@
+Unwrapper acts as an observer for publisher DefaultConfiguration, which is inherited by, which unwraps Wrapper parameter of wrapper, Class<T> parameter of iface.

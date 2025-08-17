@@ -1,0 +1,1 @@
+BufferFactoryWrapper acts as a factory method for IBuffer, which is inherited by WorkingCopyOwner, IOpenable, Openable, Openable, Openable, WorkingCopyOwner, IOpenable, AbstractClassFile, IOpenable, IOpenable, IOpenable, IOpenable, Openable, WorkingCopyTests, Openable.

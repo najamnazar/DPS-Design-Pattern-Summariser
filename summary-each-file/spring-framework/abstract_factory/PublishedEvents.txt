@@ -1,0 +1,2 @@
+PublishedEvents acts as an abstract factory for PublishedEvents, which is inherited by DefaultPublishedEvents.
+PublishedEvents acts as an abstract product for PublishedEvents, which is inherited by DefaultPublishedEvents.

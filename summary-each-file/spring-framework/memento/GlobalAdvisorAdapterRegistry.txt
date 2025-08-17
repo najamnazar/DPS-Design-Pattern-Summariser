@@ -1,0 +1,1 @@
+GlobalAdvisorAdapterRegistry acts as a caretaker for memento A, which gets Instance, which resets.

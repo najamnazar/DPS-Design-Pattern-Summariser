@@ -1,0 +1,1 @@
+DefaultCloseableConnectionProvider acts as a caretaker for memento C, which finalizes.

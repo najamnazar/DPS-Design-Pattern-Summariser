@@ -1,0 +1,1 @@
+DeleteOp acts as an observer, which gets Delete File, which runs FileSystem parameter of fs.

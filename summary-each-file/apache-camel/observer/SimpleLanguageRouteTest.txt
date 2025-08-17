@@ -1,0 +1,2 @@
+SimpleLanguageRouteTest acts as a publisher for observer Service, which tests Simple Filter, which creates Route Builder.
+SimpleLanguageRouteTest acts as a publisher for observer CamelContext, which tests Simple Filter, which creates Route Builder.

@@ -1,0 +1,1 @@
+AbstractConstraintDefinition acts as an adapter, which adapts to AbstractDefinition, which adapts to AbstractDefinition, which adapts to AbstractDefinition.

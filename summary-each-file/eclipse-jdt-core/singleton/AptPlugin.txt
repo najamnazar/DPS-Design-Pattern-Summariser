@@ -1,0 +1,1 @@
+AptPlugin acts as a singleton, which gets an AptPlugin Plugin to getFileForWorkspace method of FactoryPathUtil, tearDown method of APITests, setUp method of APITests.

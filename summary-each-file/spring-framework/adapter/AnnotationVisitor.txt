@@ -1,0 +1,2 @@
+AnnotationVisitor acts as a target for adapter AnnotationWriter, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor.
+AnnotationVisitor acts as a target for adapter AbstractRecursiveAnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor, which adapts to AnnotationVisitor.

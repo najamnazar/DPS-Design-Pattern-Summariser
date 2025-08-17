@@ -1,0 +1,4 @@
+SqlPrepareStatementStrategy acts as an adaptee for adapter SqlProducerAlwaysPopulateStatementTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.
+SqlPrepareStatementStrategy acts as an adaptee for adapter SqlConsumer, which adapts to ScheduledBatchPollingConsumer, which adapts to ScheduledBatchPollingConsumer, which adapts to ScheduledBatchPollingConsumer.
+SqlPrepareStatementStrategy acts as an adaptee for adapter SqlProducer, which adapts to DefaultProducer, which adapts to DefaultProducer, which adapts to DefaultProducer.
+SqlPrepareStatementStrategy acts as an adaptee for adapter SqlProducerAlwaysPopulateStatementFalseTest, which adapts to CamelTestSupport, which adapts to CamelTestSupport, which adapts to CamelTestSupport.

@@ -1,0 +1,1 @@
+SchemaMetaProvider acts as a memento, which provides.

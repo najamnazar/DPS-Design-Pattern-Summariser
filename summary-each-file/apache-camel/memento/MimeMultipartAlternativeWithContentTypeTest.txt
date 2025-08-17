@@ -1,0 +1,2 @@
+MimeMultipartAlternativeWithContentTypeTest acts as a caretaker for memento Context, which sends Multipart Email, which verifies String parameter of expectString The Recived Email, which tests Multipart Email Content Type, which creates Route Builder.
+MimeMultipartAlternativeWithContentTypeTest acts as a caretaker for memento Producer, which sends Multipart Email, which verifies String parameter of expectString The Recived Email, which tests Multipart Email Content Type, which creates Route Builder.

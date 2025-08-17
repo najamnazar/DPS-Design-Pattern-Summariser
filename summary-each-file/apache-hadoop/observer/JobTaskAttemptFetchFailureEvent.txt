@@ -1,0 +1,1 @@
+JobTaskAttemptFetchFailureEvent acts as an observer, which gets Maps, which gets Reduce, which gets Host.

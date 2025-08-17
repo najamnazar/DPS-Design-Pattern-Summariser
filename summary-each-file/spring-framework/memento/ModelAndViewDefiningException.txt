@@ -1,0 +1,1 @@
+ModelAndViewDefiningException acts as a caretaker for memento A, which gets Model And View.

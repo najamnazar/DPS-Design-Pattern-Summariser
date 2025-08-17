@@ -1,0 +1,1 @@
+CometdProducer acts as a factory for CometdProducerConsumer, which overrides getEndpoint method of CometdProducerConsumer, setBayeux method of CometdProducerConsumer.

@@ -1,0 +1,1 @@
+Counter acts as an observer, which increments, which decrements, which gets Count, which sets int parameter of counter Count, which resets.

@@ -1,0 +1,4 @@
+MockHistoryContext acts as an adaptee for adapter TestHsWebServicesJobsQuery, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.
+MockHistoryContext acts as an adaptee for adapter TestHsWebServicesJobs, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.
+MockHistoryContext acts as an adaptee for adapter TestHsWebServicesTasks, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase, which adapts to JerseyTestBase.
+MockHistoryContext acts as an adapter, which adapts to MockAppContext, which adapts to MockAppContext, which adapts to MockAppContext, which adapts to MockAppContext, which adapts to MockAppContext.

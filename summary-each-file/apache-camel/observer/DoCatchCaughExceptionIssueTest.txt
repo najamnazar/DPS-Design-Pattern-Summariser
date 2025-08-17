@@ -1,0 +1,2 @@
+DoCatchCaughExceptionIssueTest acts as a publisher for observer CamelContext, which tests Send That Is Caught, which creates Route Builder.
+DoCatchCaughExceptionIssueTest acts as a publisher for observer Service, which tests Send That Is Caught, which creates Route Builder.

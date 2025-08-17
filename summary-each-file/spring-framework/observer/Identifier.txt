@@ -1,0 +1,2 @@
+Identifier acts as a publisher for observer SpelNodeImpl, which tos String AST, which gets ExpressionState parameter of state Value Internal.
+Identifier acts as an observer, which tos String AST, which gets ExpressionState parameter of state Value Internal.

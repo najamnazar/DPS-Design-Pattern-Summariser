@@ -1,0 +1,2 @@
+ValidatorContractTest acts as a publisher for observer Service, which is Use Route Builder, which tests Input Type Only, which tests Output Type Only, which tos String parameter of in A.
+ValidatorContractTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Input Type Only, which tests Output Type Only, which tos String parameter of in A.

@@ -1,0 +1,1 @@
+RSLegacyRawDecoder acts as a product for RawErasureCoderFactory, which overrides decode method of RawErasureDecoder, decode method of RawErasureDecoder, doDecode method of RawErasureDecoder, doDecode method of RawErasureDecoder.

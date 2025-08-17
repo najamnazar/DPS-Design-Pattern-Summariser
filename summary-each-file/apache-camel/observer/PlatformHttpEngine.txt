@@ -1,0 +1,1 @@
+PlatformHttpEngine acts as an observer for publisher PlatformHttpComponent, which is inherited by VertxPlatformHttpEngine, JettyCustomPlatformHttpEngine, which creates PlatformHttpEndpoint parameter of platformHttpEndpoint, Processor parameter of processor Consumer, which gets Server Port.

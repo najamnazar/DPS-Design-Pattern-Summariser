@@ -1,0 +1,2 @@
+GrpcProducer acts as a publisher for observer Exchange, which is inherited by, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange, which does Start, which does Stop, which initializes Channel.
+GrpcProducer acts as a publisher for observer Exchange, which processes Exchange parameter of exchange, AsyncCallback parameter of callback, which processes Exchange parameter of exchange, which does Start, which does Stop, which initializes Channel.

@@ -1,0 +1,2 @@
+Queue acts as an abstract product for SchedulerApplicationAttempt, which is inherited by FSQueue.
+Queue acts as a factory for AbstractLeafQueue, which overrides.

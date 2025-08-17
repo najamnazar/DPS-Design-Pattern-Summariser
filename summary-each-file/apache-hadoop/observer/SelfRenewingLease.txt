@@ -1,0 +1,1 @@
+SelfRenewingLease acts as an observer for publisher NativeAzureFileSystem, which is inherited by, which frees, which is Freed, which gets Lease ID, which gets Cloud Blob, which runs.

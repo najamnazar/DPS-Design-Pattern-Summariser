@@ -1,0 +1,1 @@
+SingleInputLanguageSupport acts as a caretaker for memento Context, which gets Header Name, which sets String parameter of headerName Header Name, which gets Property Name, which sets String parameter of propertyName Property Name.

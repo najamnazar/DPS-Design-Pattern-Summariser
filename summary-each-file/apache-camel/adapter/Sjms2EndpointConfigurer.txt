@@ -1,0 +1,1 @@
+Sjms2EndpointConfigurer acts as an adapter, which adapts to SjmsEndpointConfigurer, which adapts to SjmsEndpointConfigurer, which adapts to SjmsEndpointConfigurer.

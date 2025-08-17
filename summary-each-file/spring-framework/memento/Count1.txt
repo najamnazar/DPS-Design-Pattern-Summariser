@@ -1,0 +1,1 @@
+Count1 acts as a caretaker for memento Parameter, which set__1s Object parameter of value, which set__1s Field<Object> parameter of field.

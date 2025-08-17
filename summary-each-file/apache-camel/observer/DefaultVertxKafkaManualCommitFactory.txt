@@ -1,0 +1,1 @@
+DefaultVertxKafkaManualCommitFactory acts as an observer, which creates KafkaConsumer<Object, parameter of Object>, String parameter of topicName, TopicPartition parameter of partition, long parameter of recordOffset.

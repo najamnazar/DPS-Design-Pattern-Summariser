@@ -1,0 +1,5 @@
+HasFileDescriptor acts as a target for adapter CryptoInputStream, which adapts to HasFileDescriptor.
+HasFileDescriptor acts as a target for adapter BufferedFSInputStream, which adapts to HasFileDescriptor.
+HasFileDescriptor acts as an adaptee for adapter FSDataInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.
+HasFileDescriptor acts as a target for adapter FSDataInputStream, which adapts to HasFileDescriptor.
+HasFileDescriptor acts as an adaptee for adapter CryptoInputStream, which adapts to CanSetReadahead, HasFileDescriptor, CanUnbuffer, HasEnhancedByteBufferAccess, ByteBufferReadable.

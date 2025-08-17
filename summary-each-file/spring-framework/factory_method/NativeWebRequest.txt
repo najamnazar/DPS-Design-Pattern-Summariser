@@ -1,0 +1,1 @@
+NativeWebRequest acts as an abstract product for ServletWebArgumentResolverAdapter, which is inherited by FacesWebRequest, ServletWebRequest.

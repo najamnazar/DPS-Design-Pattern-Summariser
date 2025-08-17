@@ -1,0 +1,2 @@
+FailOverLoadBalancerSetFaultTest acts as a publisher for observer CamelContext, which tests Fail Over Set Fault, which creates Route Builder.
+FailOverLoadBalancerSetFaultTest acts as a publisher for observer Service, which tests Fail Over Set Fault, which creates Route Builder.

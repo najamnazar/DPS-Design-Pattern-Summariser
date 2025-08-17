@@ -1,0 +1,1 @@
+AbstractContractContentSummaryTest acts as a publisher for observer Path, which tests Get Content Summary, which tests Get Content Summary Incorrect Path.

@@ -1,0 +1,1 @@
+SockJsFrameFormat acts as an abstract product for XhrPollingTransportHandler, which is inherited by DefaultSockJsFrameFormat.

@@ -1,0 +1,1 @@
+AnnotationValueImpl acts as a product for AnnotationTypeElementDeclaration, which overrides getValue method of AnnotationValue, toString method of AnnotationValue.

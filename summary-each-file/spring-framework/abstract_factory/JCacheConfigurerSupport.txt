@@ -1,0 +1,1 @@
+JCacheConfigurerSupport acts as a factory for JCacheConfigurer, which overrides exceptionCacheResolver method of JCacheConfigurer.

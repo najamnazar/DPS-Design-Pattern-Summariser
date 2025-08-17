@@ -1,0 +1,1 @@
+ContainerManager acts as an observer, which gets Containers Monitor, which gets Opportunistic Containers Status, which updates ContainerQueuingLimit parameter of queuingLimit Queuing Limit, which gets Container Scheduler, which handles Credential Update, which gets Resource Localization Service.

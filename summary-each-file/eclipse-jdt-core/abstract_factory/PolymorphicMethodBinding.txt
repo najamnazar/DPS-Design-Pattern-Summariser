@@ -1,0 +1,1 @@
+PolymorphicMethodBinding acts as a product for Invocation, which overrides original method of MethodBinding.

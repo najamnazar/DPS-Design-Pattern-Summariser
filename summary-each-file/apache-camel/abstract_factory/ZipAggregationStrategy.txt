@@ -1,0 +1,2 @@
+ZipAggregationStrategy acts as a product for AggregationStrategyAwareDefinition, which overrides aggregate method of AggregationStrategy, onCompletion method of AggregationStrategy.
+ZipAggregationStrategy acts as a factory for AggregationStrategy, which overrides aggregate method of AggregationStrategy, onCompletion method of AggregationStrategy.

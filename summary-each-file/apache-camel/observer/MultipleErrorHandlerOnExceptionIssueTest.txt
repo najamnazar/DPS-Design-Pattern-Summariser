@@ -1,0 +1,2 @@
+MultipleErrorHandlerOnExceptionIssueTest acts as a publisher for observer Service, which tests Multiple Error Handler On Exception A, which tests Multiple Error Handler On Exception B, which creates Route Builder.
+MultipleErrorHandlerOnExceptionIssueTest acts as a publisher for observer CamelContext, which tests Multiple Error Handler On Exception A, which tests Multiple Error Handler On Exception B, which creates Route Builder.

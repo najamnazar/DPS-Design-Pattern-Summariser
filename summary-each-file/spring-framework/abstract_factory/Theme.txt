@@ -1,0 +1,2 @@
+Theme acts as an abstract factory for MessageSource, which is inherited by SimpleTheme.
+Theme acts as an abstract product for Theme, which is inherited by SimpleTheme.

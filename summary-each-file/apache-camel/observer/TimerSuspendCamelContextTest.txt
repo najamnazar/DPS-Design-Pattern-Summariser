@@ -1,0 +1,2 @@
+TimerSuspendCamelContextTest acts as a publisher for observer CamelContext, which tests Timer Suspend Resume, which creates Route Builder.
+TimerSuspendCamelContextTest acts as a publisher for observer Service, which tests Timer Suspend Resume, which creates Route Builder.

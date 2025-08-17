@@ -1,0 +1,1 @@
+ArrayQualifiedTypeReference acts as a target for adapter ParameterizedQualifiedTypeReference, which adapts to ArrayQualifiedTypeReference, which adapts to ArrayQualifiedTypeReference, which adapts to ArrayQualifiedTypeReference, which adapts to ArrayQualifiedTypeReference, which adapts to ArrayQualifiedTypeReference, which adapts to ArrayQualifiedTypeReference.

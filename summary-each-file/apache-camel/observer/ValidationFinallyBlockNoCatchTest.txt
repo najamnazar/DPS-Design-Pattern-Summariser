@@ -1,0 +1,2 @@
+ValidationFinallyBlockNoCatchTest acts as a publisher for observer CamelContext, which tests Valid Message, which tests Invalid Message, which sets Up, which creates Route Builder.
+ValidationFinallyBlockNoCatchTest acts as a publisher for observer Service, which tests Valid Message, which tests Invalid Message, which sets Up, which creates Route Builder.

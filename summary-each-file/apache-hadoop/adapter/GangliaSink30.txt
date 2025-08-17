@@ -1,0 +1,1 @@
+GangliaSink30 acts as an adapter, which adapts to AbstractGangliaSink, which adapts to AbstractGangliaSink, which adapts to AbstractGangliaSink, which adapts to AbstractGangliaSink, which adapts to AbstractGangliaSink.

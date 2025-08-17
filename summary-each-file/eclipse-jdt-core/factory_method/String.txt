@@ -1,0 +1,1 @@
+String acts as a product for IdeInputFileObject, which overrides.

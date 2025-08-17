@@ -1,0 +1,4 @@
+ClassType acts as an abstract product for ClassType, which is inherited by ClassDeclarationImpl, EnumType.
+ClassType acts as an abstract factory for ClassDeclaration, ClassType, which is inherited by ClassDeclarationImpl.
+ClassType acts as a product for Types, which overrides.
+ClassType acts as a product for DeclaredType, which overrides.

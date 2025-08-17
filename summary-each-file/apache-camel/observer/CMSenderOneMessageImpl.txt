@@ -1,0 +1,1 @@
+CMSenderOneMessageImpl acts as an observer, which sends final parameter of CMMessage, which creates final parameter of CMMessage Xml, which does final parameter of String, final parameter of String Http Post.

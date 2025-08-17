@@ -1,0 +1,2 @@
+AggregateTimeoutManualTest acts as a publisher for observer Service, which tests Disabled, which xxxtests Aggregate Timeout Manual, which creates Route Builder.
+AggregateTimeoutManualTest acts as a publisher for observer CamelContext, which tests Disabled, which xxxtests Aggregate Timeout Manual, which creates Route Builder.

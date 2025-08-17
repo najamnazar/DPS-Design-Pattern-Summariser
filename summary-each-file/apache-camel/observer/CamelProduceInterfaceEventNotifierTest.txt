@@ -1,0 +1,2 @@
+CamelProduceInterfaceEventNotifierTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Post Processor, which sets Up, which says String parameter of hello Hello.
+CamelProduceInterfaceEventNotifierTest acts as a publisher for observer Service, which creates Camel Context, which tests Post Processor, which sets Up, which says String parameter of hello Hello.

@@ -1,0 +1,1 @@
+TestHttpFSFileSystemLocalFileSystem acts as a publisher for observer Operation, which gets Proxied FSTest Dir, which gets Proxied FSURI, which gets Proxied FSConf, which adds Path parameter of path Prefix, which tests Set Permission.

@@ -1,0 +1,2 @@
+DirectVmHeaderFilterStrategyTest acts as a publisher for observer Service, which tests Properties Propagated Or Not, which creates Route Builder.
+DirectVmHeaderFilterStrategyTest acts as a publisher for observer CamelContext, which tests Properties Propagated Or Not, which creates Route Builder.

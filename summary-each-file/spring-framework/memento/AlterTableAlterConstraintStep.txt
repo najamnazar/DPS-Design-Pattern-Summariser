@@ -1,0 +1,2 @@
+AlterTableAlterConstraintStep acts as an originator for memento AlterTableFinalStep, which is inherited by, which enforces AlterTableFinalStep, which nots an AlterTableFinalStep Enforced to.
+AlterTableAlterConstraintStep acts as a memento, which is inherited by AlterTableImpl, which nots Enforced, which nots Enforced.

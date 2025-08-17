@@ -1,0 +1,1 @@
+DefaultAnnotationExpressionFactory acts as a factory for AnnotationExpressionFactory, which overrides createExpression method of AnnotationExpressionFactory.

@@ -1,0 +1,2 @@
+CheckpointService acts as a factory for CheckpointService, which overrides.
+CheckpointService acts as a factory method for CheckpointID, which is inherited by CheckpointService.

@@ -1,0 +1,1 @@
+DefaultClaimCheckRepository acts as a factory for ClaimCheckRepository, which overrides add method of ClaimCheckRepository, contains method of ClaimCheckRepository, get method of ClaimCheckRepository, getAndRemove method of ClaimCheckRepository, push method of ClaimCheckRepository, pop method of ClaimCheckRepository, clear method of ClaimCheckRepository.

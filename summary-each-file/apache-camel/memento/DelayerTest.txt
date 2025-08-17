@@ -1,0 +1,2 @@
+DelayerTest acts as a caretaker for memento Context, which tests Sending Message Gets Delayed, which tests Delay Constant, which tests Delay Bean, which tests Exchange Aware Delay Bean, which creates Route Builder.
+DelayerTest acts as a caretaker for memento Producer, which tests Sending Message Gets Delayed, which tests Delay Constant, which tests Delay Bean, which tests Exchange Aware Delay Bean, which creates Route Builder.

@@ -1,0 +1,3 @@
+AMWebApp acts as a publisher for observer Configuration, which setups, which gets Web App Filter Class.
+AMWebApp acts as an observer, which setups, which gets Web App Filter Class.
+AMWebApp acts as a publisher for observer HttpServer2, which setups, which gets Web App Filter Class.

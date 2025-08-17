@@ -1,0 +1,2 @@
+HL7DataFormat acts as a product for DataFormatDefinitionAware, which overrides.
+HL7DataFormat acts as a product for Model, which overrides.

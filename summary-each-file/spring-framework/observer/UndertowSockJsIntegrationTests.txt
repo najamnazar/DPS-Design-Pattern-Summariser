@@ -1,0 +1,2 @@
+UndertowSockJsIntegrationTests acts as a publisher for observer WebSocketSession, which upgrades Strategy Config Class, which creates Web Socket Test Server, which creates Web Socket Transport, which creates Xhr Transport, which upgrades Strategy.
+UndertowSockJsIntegrationTests acts as a publisher for observer TextMessage, which upgrades Strategy Config Class, which creates Web Socket Test Server, which creates Web Socket Transport, which creates Xhr Transport, which upgrades Strategy.

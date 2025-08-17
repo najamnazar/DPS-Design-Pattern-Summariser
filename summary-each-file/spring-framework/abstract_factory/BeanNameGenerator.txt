@@ -1,0 +1,1 @@
+BeanNameGenerator acts as an abstract product for BeanNameGenerator, which is inherited by AnnotationBeanNameGenerator, DefaultBeanNameGenerator.

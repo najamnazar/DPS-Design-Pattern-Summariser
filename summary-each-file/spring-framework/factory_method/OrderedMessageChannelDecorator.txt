@@ -1,0 +1,1 @@
+OrderedMessageChannelDecorator acts as a product for AbstractBrokerMessageHandler, which overrides send method of MessageChannel, send method of MessageChannel.

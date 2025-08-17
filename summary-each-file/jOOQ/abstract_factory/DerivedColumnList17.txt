@@ -1,0 +1,4 @@
+DerivedColumnList17 acts as a product for VisitContext, which overrides.
+DerivedColumnList17 acts as a product for DiagnosticsContext, which overrides.
+DerivedColumnList17 acts as an abstract product for DerivedColumnList17, which is inherited by DerivedColumnListImpl, DerivedColumnListImpl.
+DerivedColumnList17 acts as a product for Context, which overrides.

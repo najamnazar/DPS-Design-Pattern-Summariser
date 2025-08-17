@@ -1,0 +1,1 @@
+MemberDeclarationImpl acts as a caretaker for memento Binding, which accepts DeclarationVisitor parameter of visitor, which gets Class<A> parameter of annotationClass Annotation, which gets Annotation Mirrors, which gets Annotation Instances, which gets Doc Comment, which gets Position.

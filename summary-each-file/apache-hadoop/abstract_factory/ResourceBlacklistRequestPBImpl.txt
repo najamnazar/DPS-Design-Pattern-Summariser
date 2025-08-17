@@ -1,0 +1,1 @@
+ResourceBlacklistRequestPBImpl acts as a product for BlacklistManager, which overrides getBlacklistAdditions method of ResourceBlacklistRequest, setBlacklistAdditions method of ResourceBlacklistRequest, getBlacklistRemovals method of ResourceBlacklistRequest, setBlacklistRemovals method of ResourceBlacklistRequest.

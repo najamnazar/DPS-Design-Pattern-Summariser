@@ -1,0 +1,1 @@
+TwoManagedNamePatternTest acts as a caretaker for memento Context, which creates String parameter of name, String parameter of pattern Camel Context, which tests Managed Name Pattern, which tears Down.

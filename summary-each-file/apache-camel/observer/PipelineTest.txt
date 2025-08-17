@@ -1,0 +1,2 @@
+PipelineTest acts as a publisher for observer CamelContext, which processes Exchange parameter of exchange, which tests Send Message Through APipeline, which tests Results Returned, which tests Only Properties, which sets Up, which creates Route Builder.
+PipelineTest acts as a publisher for observer Service, which processes Exchange parameter of exchange, which tests Send Message Through APipeline, which tests Results Returned, which tests Only Properties, which sets Up, which creates Route Builder.

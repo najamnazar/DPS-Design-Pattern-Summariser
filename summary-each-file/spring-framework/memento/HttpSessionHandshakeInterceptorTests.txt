@@ -1,0 +1,2 @@
+HttpSessionHandshakeInterceptorTests acts as a caretaker for memento C, which defaults Constructor, which constructors With Attribute Names, which does Not Copy Http Session Id, which does Not Copy Attributes, which does Not Cause Session Creation.
+HttpSessionHandshakeInterceptorTests acts as a caretaker for memento A, which defaults Constructor, which constructors With Attribute Names, which does Not Copy Http Session Id, which does Not Copy Attributes, which does Not Cause Session Creation.

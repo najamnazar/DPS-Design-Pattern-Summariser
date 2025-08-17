@@ -1,0 +1,2 @@
+SqlEndpointLikeTest acts as a caretaker for memento Context, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.
+SqlEndpointLikeTest acts as a caretaker for memento Producer, which tests SQLEndpoint, which creates Camel Registry, which tears Down, which creates Route Builder.

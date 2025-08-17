@@ -1,0 +1,1 @@
+CamelClusterMember acts as an adaptee for adapter JGroupsRaftClusterView, which adapts to AbstractCamelClusterView, which adapts to AbstractCamelClusterView.

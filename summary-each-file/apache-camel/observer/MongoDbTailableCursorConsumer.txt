@@ -1,0 +1,4 @@
+MongoDbTailableCursorConsumer acts as a publisher for observer ExceptionHandler, which does Stop, which does Start, which inits Tail Tracking.
+MongoDbTailableCursorConsumer acts as a publisher for observer Exchange, which does Stop, which does Start, which inits Tail Tracking.
+MongoDbTailableCursorConsumer acts as a publisher for observer Route, which does Stop, which does Start, which inits Tail Tracking.
+MongoDbTailableCursorConsumer acts as a publisher for observer HealthCheck, which does Stop, which does Start, which inits Tail Tracking.

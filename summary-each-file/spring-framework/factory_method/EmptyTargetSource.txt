@@ -1,0 +1,1 @@
+EmptyTargetSource acts as a product for TargetSourceCreator, which overrides getTargetClass method of TargetSource, isStatic method of TargetSource, getTarget method of TargetSource, releaseTarget method of TargetSource.

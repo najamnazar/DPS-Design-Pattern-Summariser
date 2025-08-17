@@ -1,0 +1,3 @@
+HttpRegistry acts as a factory method for HttpRegistryProvider, which is inherited by HttpRegistry.
+HttpRegistry acts as a factory for HttpRegistry, which overrides.
+HttpRegistry acts as an abstract product for ServletComponent, which is inherited by DefaultHttpRegistry.

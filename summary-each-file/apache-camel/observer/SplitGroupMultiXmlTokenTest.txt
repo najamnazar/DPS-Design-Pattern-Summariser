@@ -1,0 +1,5 @@
+SplitGroupMultiXmlTokenTest acts as a publisher for observer CamelContext, which tests Token XMLPair Group, which creates Body, which creates Route Builder.
+SplitGroupMultiXmlTokenTest acts as a publisher for observer ConsumerTemplate, which tests Token XMLPair Group, which creates Body, which creates Route Builder.
+SplitGroupMultiXmlTokenTest acts as a publisher for observer FluentProducerTemplate, which tests Token XMLPair Group, which creates Body, which creates Route Builder.
+SplitGroupMultiXmlTokenTest acts as a publisher for observer ProducerTemplate, which tests Token XMLPair Group, which creates Body, which creates Route Builder.
+SplitGroupMultiXmlTokenTest acts as a publisher for observer Service, which tests Token XMLPair Group, which creates Body, which creates Route Builder.

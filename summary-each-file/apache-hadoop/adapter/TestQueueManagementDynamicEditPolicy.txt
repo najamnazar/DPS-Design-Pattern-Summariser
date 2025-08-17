@@ -1,0 +1,1 @@
+TestQueueManagementDynamicEditPolicy acts as an adapter, which adapts to TestCapacitySchedulerAutoCreatedQueueBase, which adapts to TestCapacitySchedulerAutoCreatedQueueBase, which adapts to TestCapacitySchedulerAutoCreatedQueueBase.

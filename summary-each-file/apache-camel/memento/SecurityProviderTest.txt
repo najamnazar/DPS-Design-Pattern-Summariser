@@ -1,0 +1,1 @@
+SecurityProviderTest acts as a caretaker for memento Configuration, which tests Secured Allowed, which tests Secured Not Allowed.

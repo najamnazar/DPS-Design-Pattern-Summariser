@@ -1,0 +1,2 @@
+AdviceWithMockEndpointsTest acts as a caretaker for memento Context, which tests No Advised, which tests Advised Mock Endpoints, which tests Advised Mock Endpoints With Pattern, which creates Route Builder.
+AdviceWithMockEndpointsTest acts as a caretaker for memento Producer, which tests No Advised, which tests Advised Mock Endpoints, which tests Advised Mock Endpoints With Pattern, which creates Route Builder.

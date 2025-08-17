@@ -1,0 +1,2 @@
+DefaultErrorHandlerRedeliveryTest acts as a caretaker for memento Context, which tests Redelivery Test, which tests No Redeliveries Test, which tests One Redelivery Test, which creates Route Builder.
+DefaultErrorHandlerRedeliveryTest acts as a caretaker for memento Producer, which tests Redelivery Test, which tests No Redeliveries Test, which tests One Redelivery Test, which creates Route Builder.

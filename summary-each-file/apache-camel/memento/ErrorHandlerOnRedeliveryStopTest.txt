@@ -1,0 +1,2 @@
+ErrorHandlerOnRedeliveryStopTest acts as a caretaker for memento Producer, which tests Retry While, which creates Route Builder, which processes Exchange parameter of exchange.
+ErrorHandlerOnRedeliveryStopTest acts as a caretaker for memento Context, which tests Retry While, which creates Route Builder, which processes Exchange parameter of exchange.

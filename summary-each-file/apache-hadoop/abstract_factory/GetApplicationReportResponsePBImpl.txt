@@ -1,0 +1,1 @@
+GetApplicationReportResponsePBImpl acts as a product for ApplicationBaseProtocol, which overrides getApplicationReport method of GetApplicationReportResponse.

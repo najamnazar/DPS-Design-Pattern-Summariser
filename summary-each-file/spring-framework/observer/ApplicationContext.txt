@@ -1,0 +1,2 @@
+ApplicationContext acts as an observer, which gets Id, which gets Application Name, which gets Display Name, which gets Startup Date, which gets Parent, which gets Autowire Capable Bean Factory.
+ApplicationContext acts as an observer for publisher EventListenerMethodProcessor, which is inherited by ConfigurableApplicationContext, WebApplicationContext, which gets Id, which gets Application Name, which gets Display Name, which gets Startup Date, which gets Parent, which gets Autowire Capable Bean Factory.

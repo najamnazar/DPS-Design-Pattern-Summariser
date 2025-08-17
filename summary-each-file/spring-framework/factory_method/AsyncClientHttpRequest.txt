@@ -1,0 +1,1 @@
+AsyncClientHttpRequest acts as an abstract product for SimpleClientHttpRequestFactory, which is inherited by AbstractAsyncClientHttpRequest.

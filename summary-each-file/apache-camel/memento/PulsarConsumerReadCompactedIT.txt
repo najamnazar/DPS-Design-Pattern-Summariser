@@ -1,0 +1,1 @@
+PulsarConsumerReadCompactedIT acts as a caretaker for memento Producer, which setups, which tears Down Producer, which creates Camel Registry, which registers final parameter of Registry Pulsar Beans, which gives Pulsar Client, which gives Pulsar Admin, which triggers Compaction, which tests Read Compacted, which tests Read Not Compacted.

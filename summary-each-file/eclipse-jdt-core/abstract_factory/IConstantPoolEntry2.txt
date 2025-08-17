@@ -1,0 +1,3 @@
+IConstantPoolEntry2 acts as a product for IConstantValueAttribute, which overrides.
+IConstantPoolEntry2 acts as a product for IConstantPool, which overrides.
+IConstantPoolEntry2 acts as a product for IAnnotationComponentValue, which overrides.

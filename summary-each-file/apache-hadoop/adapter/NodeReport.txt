@@ -1,0 +1,1 @@
+NodeReport acts as a target for adapter NodeReportPBImpl, which adapts to NodeReport, which adapts to NodeReport.

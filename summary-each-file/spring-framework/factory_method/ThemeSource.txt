@@ -1,0 +1,1 @@
+ThemeSource acts as an abstract product for UiApplicationContextUtils, which is inherited by GenericWebApplicationContext, AbstractRefreshableWebApplicationContext, StaticWebApplicationContext.

@@ -1,0 +1,1 @@
+StringTemplate acts as a facade for subsystem Processor, which process calls process method of Processor, which process calls process method of Processor.

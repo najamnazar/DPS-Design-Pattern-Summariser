@@ -1,0 +1,5 @@
+SchematronEndpointTest acts as a publisher for observer ProducerTemplate, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.
+SchematronEndpointTest acts as a publisher for observer ConsumerTemplate, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.
+SchematronEndpointTest acts as a publisher for observer CamelContext, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.
+SchematronEndpointTest acts as a publisher for observer FluentProducerTemplate, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.
+SchematronEndpointTest acts as a publisher for observer Service, which tests Schematron File Read From Class Path, which tests Schematron File Read From File System.

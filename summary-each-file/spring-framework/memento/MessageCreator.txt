@@ -1,0 +1,1 @@
+MessageCreator acts as an originator for memento Message, which creates a Message Message to.

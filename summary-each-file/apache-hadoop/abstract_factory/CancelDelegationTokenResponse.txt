@@ -1,0 +1,1 @@
+CancelDelegationTokenResponse acts as an abstract product for CancelDelegationTokenResponse, which is inherited by CancelDelegationTokenResponsePBImpl.

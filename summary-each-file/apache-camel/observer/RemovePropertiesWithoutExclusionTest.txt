@@ -1,0 +1,2 @@
+RemovePropertiesWithoutExclusionTest acts as a publisher for observer CamelContext, which tests Set Exchange Properties Mid Route Then Remove With Pattern, which sets Up, which creates Route Builder.
+RemovePropertiesWithoutExclusionTest acts as a publisher for observer Service, which tests Set Exchange Properties Mid Route Then Remove With Pattern, which sets Up, which creates Route Builder.

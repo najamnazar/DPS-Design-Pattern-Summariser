@@ -1,0 +1,1 @@
+JmsHeaderMapper acts as an observer for publisher MessagingMessageConverter, which is inherited by SimpleJmsHeaderMapper.

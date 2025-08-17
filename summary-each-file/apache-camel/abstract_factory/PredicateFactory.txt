@@ -1,0 +1,2 @@
+PredicateFactory acts as an abstract factory for Predicate, which is inherited by ExpressionDefinition.
+PredicateFactory acts as an abstract product for PredicateFactory, which is inherited by ExpressionDefinition.

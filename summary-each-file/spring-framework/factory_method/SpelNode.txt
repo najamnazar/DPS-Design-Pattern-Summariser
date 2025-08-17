@@ -1,0 +1,2 @@
+SpelNode acts as an abstract product for SpelNodeImpl, which is inherited by SpelNodeImpl.
+SpelNode acts as a factory for SpelNodeImpl, which overrides.

@@ -1,0 +1,1 @@
+ReplicaRecoveryInfo acts as a caretaker for memento Replica, which gets Original Replica State, which equals Object parameter of o, which hashes Code, which tos String.

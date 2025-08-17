@@ -1,0 +1,1 @@
+HttpEndpointConfigurer acts as a target for adapter ResteasyEndpointConfigurer, which adapts to HttpEndpointConfigurer, which adapts to HttpEndpointConfigurer, which adapts to HttpEndpointConfigurer, which adapts to HttpEndpointConfigurer.

@@ -1,0 +1,2 @@
+SimpSession acts as an abstract factory for SimpUser, which is inherited by TestSimpSession.
+SimpSession acts as an abstract product for SimpSession, which is inherited by TestSimpSession.

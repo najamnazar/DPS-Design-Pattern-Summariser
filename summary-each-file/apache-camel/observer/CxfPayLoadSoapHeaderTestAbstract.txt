@@ -1,0 +1,5 @@
+CxfPayLoadSoapHeaderTestAbstract acts as a publisher for observer CamelContext, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.
+CxfPayLoadSoapHeaderTestAbstract acts as a publisher for observer Service, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.
+CxfPayLoadSoapHeaderTestAbstract acts as a publisher for observer ConsumerTemplate, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.
+CxfPayLoadSoapHeaderTestAbstract acts as a publisher for observer FluentProducerTemplate, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.
+CxfPayLoadSoapHeaderTestAbstract acts as a publisher for observer ProducerTemplate, which gets Router Endpoint URI, which gets Service Endpoint URI, which starts String parameter of n, which starts Service.

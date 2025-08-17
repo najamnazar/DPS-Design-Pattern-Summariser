@@ -1,0 +1,2 @@
+LabelTag acts as a publisher for observer TagWriter, which is inherited by, which sets String parameter of forId For, which gets For, which writes TagWriter parameter of tagWriter Tag Content, which gets Name, which resolves For, which autogenerates For, which does End Tag, which does Finally.
+LabelTag acts as a publisher for observer TagWriter, which sets String parameter of forId For, which gets For, which writes TagWriter parameter of tagWriter Tag Content, which gets Name, which resolves For, which autogenerates For, which does End Tag, which does Finally.

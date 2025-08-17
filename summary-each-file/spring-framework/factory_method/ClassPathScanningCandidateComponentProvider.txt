@@ -1,0 +1,5 @@
+ClassPathScanningCandidateComponentProvider acts as a factory for GenericWebApplicationContext, which overrides.
+ClassPathScanningCandidateComponentProvider acts as a factory for AnnotatedBeanDefinitionReader, which overrides.
+ClassPathScanningCandidateComponentProvider acts as a factory method for MetadataReaderFactory, which is inherited by ClassPathScanningCandidateComponentProvider.
+ClassPathScanningCandidateComponentProvider acts as a factory for FreeMarkerConfigurationFactory, which overrides.
+ClassPathScanningCandidateComponentProvider acts as a factory for ClassPathScanningCandidateComponentProvider, which overrides.

@@ -1,0 +1,1 @@
+ApplicationStartup acts as a caretaker for memento A, which is inherited by, which starts String parameter of name.

@@ -1,0 +1,1 @@
+AbstractXMLasObjectBinding acts as a publisher for observer XML, which is inherited by, which converters, which inits Ctx, which froms XML parameter of t, which tos T parameter of u, which froms Type, which tos Type, which writes ObjectOutputStream parameter of oos Object, which reads ObjectInputStream parameter of ois Object.

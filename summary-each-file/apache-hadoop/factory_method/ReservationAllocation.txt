@@ -1,0 +1,1 @@
+ReservationAllocation acts as an abstract product for PlanView, which is inherited by InMemoryReservationAllocation.

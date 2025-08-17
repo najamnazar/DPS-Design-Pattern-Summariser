@@ -1,0 +1,1 @@
+ResumeAdapter acts as an observer for publisher ResumeStrategy, TransientResumeStrategy, which is inherited by EntryFilter, FileResumeAdapter, ResumeActionAware, KinesisResumeAdapter, KafkaResumeAdapter, which resumes.

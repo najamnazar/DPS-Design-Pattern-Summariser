@@ -1,0 +1,1 @@
+XMLAttributes acts as an abstract product for XMLElement, which is inherited by XMLAttributesImpl.

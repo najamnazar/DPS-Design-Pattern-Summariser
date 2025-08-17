@@ -1,0 +1,1 @@
+ResumableReifier acts as a factory method for ResumeStrategy, which is inherited by FeedEntryPollingConsumer, FeedEntryPollingConsumer.

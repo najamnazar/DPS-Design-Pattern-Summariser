@@ -1,0 +1,2 @@
+CamelContextLogExhaustedMessageBodyTest acts as a caretaker for memento Context, which tests Log Exhausted Message History With Message Body, which creates Camel Context, which creates Route Builder.
+CamelContextLogExhaustedMessageBodyTest acts as a caretaker for memento Producer, which tests Log Exhausted Message History With Message Body, which creates Camel Context, which creates Route Builder.

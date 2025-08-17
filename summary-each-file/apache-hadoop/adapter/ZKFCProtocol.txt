@@ -1,0 +1,4 @@
+ZKFCProtocol acts as a target for adapter ZKFCRpcServer, which adapts to ZKFCProtocol, which adapts to ZKFCProtocol.
+ZKFCProtocol acts as an adaptee for adapter DummyHAService, which adapts to HAServiceTarget, which adapts to HAServiceTarget.
+ZKFCProtocol acts as an adaptee for adapter ZKFCProtocolClientSideTranslatorPB, which adapts to ZKFCProtocol, ProtocolTranslator, which adapts to ZKFCProtocol, ProtocolTranslator.
+ZKFCProtocol acts as a target for adapter ZKFCProtocolClientSideTranslatorPB, which adapts to ZKFCProtocol, which adapts to ZKFCProtocol.

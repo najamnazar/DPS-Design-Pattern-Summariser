@@ -1,0 +1,3 @@
+SingleTestClassWithTwoLevelContextHierarchyAndMixedConfigTypesTests acts as a caretaker for memento A, which foos, which bazes, which loads Context Hierarchy.
+SingleTestClassWithTwoLevelContextHierarchyAndMixedConfigTypesTests acts as a caretaker for memento C, which foos, which bazes, which loads Context Hierarchy.
+SingleTestClassWithTwoLevelContextHierarchyAndMixedConfigTypesTests acts as a caretaker for memento ApplicationContext, which foos, which bazes, which loads Context Hierarchy.

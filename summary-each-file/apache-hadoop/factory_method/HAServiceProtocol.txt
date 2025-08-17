@@ -1,0 +1,1 @@
+HAServiceProtocol acts as an abstract product for HealthMonitor, which is inherited by AdminService, HAServiceProtocolClientSideTranslatorPB.

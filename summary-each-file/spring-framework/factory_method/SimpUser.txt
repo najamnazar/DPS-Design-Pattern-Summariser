@@ -1,0 +1,1 @@
+SimpUser acts as a factory for SimpSubscription, which overrides.

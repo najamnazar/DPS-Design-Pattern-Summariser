@@ -1,0 +1,1 @@
+Query acts as a memento, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement, which cancels Statement.

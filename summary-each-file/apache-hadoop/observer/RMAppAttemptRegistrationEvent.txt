@@ -1,0 +1,1 @@
+RMAppAttemptRegistrationEvent acts as an observer, which gets Host, which gets Rpcport, which gets Trackingurl.

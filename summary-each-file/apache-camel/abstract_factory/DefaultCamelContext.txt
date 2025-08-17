@@ -1,0 +1,1 @@
+DefaultCamelContext acts as a factory for ModelCamelContext, which overrides startRouteDefinitions method of ModelCamelContext, createExpression method of ModelCamelContext, createPredicate method of ModelCamelContext, adviceWith method of ModelCamelContext.

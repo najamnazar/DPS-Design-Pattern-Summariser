@@ -1,0 +1,1 @@
+AbstractRow acts as a product for SelectQueryImpl, which overrides size method of Row, isNull method of Row, isNotNull method of Row, $fields method of Row.

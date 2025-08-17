@@ -1,0 +1,1 @@
+UriComponentsBuilderMethodArgumentResolver acts as a product for SessionAttributeMethodArgumentResolverTests, which overrides supportsParameter method of HandlerMethodArgumentResolver, resolveArgument method of HandlerMethodArgumentResolver.

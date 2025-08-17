@@ -1,0 +1,1 @@
+CodeSnippetEnvironment acts as a factory for INameEnvironment, which overrides findType method of INameEnvironment, findType method of INameEnvironment, isPackage method of INameEnvironment, cleanup method of INameEnvironment.

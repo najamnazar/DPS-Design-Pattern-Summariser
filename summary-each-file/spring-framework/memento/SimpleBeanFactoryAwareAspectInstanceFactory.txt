@@ -1,0 +1,1 @@
+SimpleBeanFactoryAwareAspectInstanceFactory acts as a caretaker for memento B, which sets String parameter of aspectBeanName Aspect Bean Name, which sets BeanFactory parameter of beanFactory Bean Factory, which gets Aspect Instance, which gets Aspect Class Loader, which gets Order.

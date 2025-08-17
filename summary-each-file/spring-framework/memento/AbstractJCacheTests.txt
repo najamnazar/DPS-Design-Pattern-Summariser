@@ -1,0 +1,1 @@
+AbstractJCacheTests acts as a caretaker for memento C, which is inherited by, which tracks TestInfo parameter of testInfo Cache Name, which creates String... parameter of cacheNames Simple Cache Manager.

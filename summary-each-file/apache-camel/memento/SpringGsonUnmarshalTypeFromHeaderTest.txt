@@ -1,0 +1,1 @@
+SpringGsonUnmarshalTypeFromHeaderTest acts as a caretaker for memento Context, which tests Unmarshal Type From Header, which creates Application Context.

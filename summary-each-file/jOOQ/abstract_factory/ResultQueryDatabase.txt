@@ -1,0 +1,2 @@
+ResultQueryDatabase acts as a product for DataTypeDefinition, which overrides.
+ResultQueryDatabase acts as a product for Definition, which overrides.

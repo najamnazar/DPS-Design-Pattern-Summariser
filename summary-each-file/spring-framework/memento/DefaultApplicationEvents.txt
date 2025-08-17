@@ -1,0 +1,1 @@
+DefaultApplicationEvents acts as a caretaker for memento A, which adds ApplicationEvent parameter of event Event, which streams, which streams Class<T> parameter of type, which clears, which unwraps Object parameter of source Payload Event.

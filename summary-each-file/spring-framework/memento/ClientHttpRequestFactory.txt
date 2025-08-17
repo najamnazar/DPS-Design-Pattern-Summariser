@@ -1,0 +1,1 @@
+ClientHttpRequestFactory acts as an originator for memento ClientHttpRequest, which is inherited by, which creates a ClientHttpRequest Request to.

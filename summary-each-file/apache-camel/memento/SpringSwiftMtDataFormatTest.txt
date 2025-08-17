@@ -1,0 +1,1 @@
+SpringSwiftMtDataFormatTest acts as a caretaker for memento Context, which tests Unmarshal, which tests Marshal, which tests Marshal Json, which creates Application Context.

@@ -1,0 +1,1 @@
+TransportRequest acts as an abstract factory for HttpHeaders, SockJsMessageCodec, which is inherited by DefaultTransportRequest.

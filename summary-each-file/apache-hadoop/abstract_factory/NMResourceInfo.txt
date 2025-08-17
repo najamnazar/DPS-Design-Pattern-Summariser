@@ -1,0 +1,1 @@
+NMResourceInfo acts as an abstract product for NMResourceInfo, which is inherited by NMDeviceResourceInfo, NMGpuResourceInfo.

@@ -1,0 +1,2 @@
+Statistic acts as an adaptee for adapter AbstractS3ACostTest, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase, which adapts to AbstractS3ATestBase.
+Statistic acts as an adaptee for adapter S3AFileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem, which adapts to FileSystem.

@@ -1,0 +1,2 @@
+InterfaceDeclaration acts as a publisher for observer ClassScope.
+InterfaceDeclaration acts as an observer.

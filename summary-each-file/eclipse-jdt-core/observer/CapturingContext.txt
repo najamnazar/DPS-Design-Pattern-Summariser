@@ -1,0 +1,1 @@
+CapturingContext acts as a publisher for observer Scope, which is inherited by, which enters int parameter of start, int parameter of end, Scope parameter of scope, which leaves, which maybes ReferenceBinding parameter of type Capture.

@@ -1,0 +1,2 @@
+DefaultKafkaManualSyncCommit acts as a memento, which commits.
+DefaultKafkaManualSyncCommit acts as a caretaker for memento KafkaManualCommit, which commits.

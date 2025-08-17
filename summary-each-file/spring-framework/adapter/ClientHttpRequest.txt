@@ -1,0 +1,1 @@
+ClientHttpRequest acts as an adaptee for adapter BufferingClientHttpRequestWrapper, which adapts to AbstractBufferingClientHttpRequest.

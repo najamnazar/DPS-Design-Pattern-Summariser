@@ -1,0 +1,2 @@
+ManagedService acts as a factory for ScheduledJobState, which overrides getRouteId method of ScheduledJobState.
+ManagedService acts as a factory for SplunkEndpoint, which overrides start method of SplunkEndpoint, stop method of SplunkEndpoint.

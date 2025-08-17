@@ -1,0 +1,2 @@
+SplitWithEndTest acts as a publisher for observer Service, which tests Route Is Correct At Runtime, which tests Split, which creates Route Builder, which his String parameter of s.
+SplitWithEndTest acts as a publisher for observer CamelContext, which tests Route Is Correct At Runtime, which tests Split, which creates Route Builder, which his String parameter of s.

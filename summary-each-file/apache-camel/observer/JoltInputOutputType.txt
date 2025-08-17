@@ -1,0 +1,1 @@
+JoltInputOutputType acts as an observer for publisher JoltEndpoint, which is inherited by.

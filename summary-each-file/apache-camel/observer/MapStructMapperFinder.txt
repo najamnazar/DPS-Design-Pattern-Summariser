@@ -1,0 +1,1 @@
+MapStructMapperFinder acts as an observer for publisher MapstructComponent, which is inherited by DefaultMapStructFinder, which sets String parameter of mapperPackageName Mapper Package Name, which gets Mapper Package Name, which discovers Class<?> parameter of clazz Mappings.

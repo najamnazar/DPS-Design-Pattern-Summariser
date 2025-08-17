@@ -1,0 +1,1 @@
+JettyHttpConsumer acts as a product for ServletResolveConsumerStrategy, which overrides doStart method of HttpConsumer.

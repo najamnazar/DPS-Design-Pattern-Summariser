@@ -1,0 +1,2 @@
+TracingStandbyTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Enable Tracer, which tests Add Route, which creates Route Builder.
+TracingStandbyTest acts as a publisher for observer Service, which creates Camel Context, which tests Enable Tracer, which tests Add Route, which creates Route Builder.

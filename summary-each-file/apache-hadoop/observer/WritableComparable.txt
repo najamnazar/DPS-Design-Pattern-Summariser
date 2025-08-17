@@ -1,0 +1,2 @@
+WritableComparable acts as an observer.
+WritableComparable acts as an observer for publisher MapFile, ArrayFile, SetFile, which is inherited by UserCommandKey, ExternalWritable, Record, IncomparableKey.

@@ -1,0 +1,1 @@
+NamenodeProtocols acts as an observer.

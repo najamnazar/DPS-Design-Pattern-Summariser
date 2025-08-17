@@ -1,0 +1,1 @@
+AzureFileSystemInstrumentation acts as a product for MetricsSystemImpl, which overrides.

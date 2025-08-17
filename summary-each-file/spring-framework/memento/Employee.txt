@@ -1,0 +1,4 @@
+Employee acts as a caretaker for memento A, which gets Company, which sets String parameter of co Company.
+Employee acts as a caretaker for memento B, which gets Company, which sets String parameter of co Company.
+Employee acts as a caretaker for memento C, which gets Company, which sets String parameter of co Company.
+Employee acts as a caretaker for memento ApplicationContext, which gets Company, which sets String parameter of co Company.

@@ -1,0 +1,4 @@
+DefaultFetchSpec acts as a caretaker for memento A, which ones, which firsts, which alls, which rows Updated.
+DefaultFetchSpec acts as a caretaker for memento C, which ones, which firsts, which alls, which rows Updated.
+DefaultFetchSpec acts as a caretaker for memento Row, which ones, which firsts, which alls, which rows Updated.
+DefaultFetchSpec acts as a caretaker for memento B, which ones, which firsts, which alls, which rows Updated.

@@ -1,0 +1,1 @@
+ManagementInterceptStrategy acts as an abstract product for ManagementInterceptStrategy, which is inherited by InstrumentationInterceptStrategy.

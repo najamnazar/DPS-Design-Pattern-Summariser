@@ -1,0 +1,2 @@
+WireTapBeanAsProcessorTest acts as a publisher for observer CamelContext, which creates Registry, which tests Bean As Processor, which sets Up, which creates Route Builder, which processes Exchange parameter of exchange, which gets Tapped.
+WireTapBeanAsProcessorTest acts as a publisher for observer Service, which creates Registry, which tests Bean As Processor, which sets Up, which creates Route Builder, which processes Exchange parameter of exchange, which gets Tapped.

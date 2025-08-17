@@ -1,0 +1,2 @@
+EnumConstant acts as an adapter, which adapts to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration.
+EnumConstant acts as an adaptee for adapter EnumDeclaration, which adapts print method of EnumConstant, print method of EnumConstant to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration, which adapts to TypeDeclaration.

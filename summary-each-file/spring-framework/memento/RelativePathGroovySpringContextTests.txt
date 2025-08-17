@@ -1,0 +1,3 @@
+RelativePathGroovySpringContextTests acts as a caretaker for memento C.
+RelativePathGroovySpringContextTests acts as a caretaker for memento A.
+RelativePathGroovySpringContextTests acts as a caretaker for memento ApplicationContext.

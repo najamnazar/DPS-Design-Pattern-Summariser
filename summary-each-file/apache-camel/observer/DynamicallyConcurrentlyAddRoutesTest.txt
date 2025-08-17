@@ -1,0 +1,2 @@
+DynamicallyConcurrentlyAddRoutesTest acts as a publisher for observer CamelContext, which is Use Route Builder, which tests Concurrently Add Routes, which creates Processor parameter of processor Consumer, which creates Producer.
+DynamicallyConcurrentlyAddRoutesTest acts as a publisher for observer Service, which is Use Route Builder, which tests Concurrently Add Routes, which creates Processor parameter of processor Consumer, which creates Producer.

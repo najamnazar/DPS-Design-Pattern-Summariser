@@ -1,0 +1,2 @@
+KameletLocalBeanClassTwoTest acts as a caretaker for memento Producer, which tests One, which creates Route Builder, which wheres String parameter of name.
+KameletLocalBeanClassTwoTest acts as a caretaker for memento Context, which tests One, which creates Route Builder, which wheres String parameter of name.

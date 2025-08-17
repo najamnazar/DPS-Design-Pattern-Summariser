@@ -1,0 +1,2 @@
+DOMCompilationUnit acts as a product for IDOMFactory, which overrides getHeader method of IDOMCompilationUnit, getName method of IDOMCompilationUnit, setHeader method of IDOMCompilationUnit, setName method of IDOMCompilationUnit.
+DOMCompilationUnit acts as a factory for IDOMCompilationUnit, which overrides getHeader method of IDOMCompilationUnit, getName method of IDOMCompilationUnit, setHeader method of IDOMCompilationUnit, setName method of IDOMCompilationUnit.

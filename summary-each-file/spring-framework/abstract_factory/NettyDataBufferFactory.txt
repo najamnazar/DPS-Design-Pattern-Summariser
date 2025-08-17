@@ -1,0 +1,4 @@
+NettyDataBufferFactory acts as a factory for DataBufferFactory, which overrides wrap method of DataBufferFactory, join method of DataBufferFactory.
+NettyDataBufferFactory acts as a product for DataBuffer, which overrides wrap method of DataBufferFactory, join method of DataBufferFactory.
+NettyDataBufferFactory acts as a product for ReactiveHttpOutputMessage, which overrides wrap method of DataBufferFactory, join method of DataBufferFactory.
+NettyDataBufferFactory acts as a product for RSocketStrategies, which overrides wrap method of DataBufferFactory, join method of DataBufferFactory.

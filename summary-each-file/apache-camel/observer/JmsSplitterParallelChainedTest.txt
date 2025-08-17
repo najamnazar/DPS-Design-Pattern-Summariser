@@ -1,0 +1,1 @@
+JmsSplitterParallelChainedTest acts as a publisher for observer ArtemisService, which gets Uri, which gets Uri2, which tests Split Parallel, which gets Component Name, which creates Route Builder.

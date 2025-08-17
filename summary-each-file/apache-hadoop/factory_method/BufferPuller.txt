@@ -1,0 +1,1 @@
+BufferPuller acts as a product for Shuffle, which overrides getKey method of RawKeyValueIterator, getValue method of RawKeyValueIterator, next method of RawKeyValueIterator, getProgress method of RawKeyValueIterator, close method of RawKeyValueIterator.

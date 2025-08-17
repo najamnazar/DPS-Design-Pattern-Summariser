@@ -1,0 +1,1 @@
+CacheProvider acts as an observer for publisher DefaultConfiguration, which is inherited by DefaultCacheProvider, which provides CacheContext parameter of context.

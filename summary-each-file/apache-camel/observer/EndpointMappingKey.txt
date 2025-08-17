@@ -1,0 +1,1 @@
+EndpointMappingKey acts as an observer for publisher WSACamelEndpointMapping, which is inherited by, which gets Type, which gets Lookup Key, which gets Expression, which hashes Code, which equals Object parameter of obj.

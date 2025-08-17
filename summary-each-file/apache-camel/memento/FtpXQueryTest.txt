@@ -1,0 +1,2 @@
+FtpXQueryTest acts as a caretaker for memento Context, which tests XQuery From Ftp, which creates Route Builder.
+FtpXQueryTest acts as a caretaker for memento Producer, which tests XQuery From Ftp, which creates Route Builder.

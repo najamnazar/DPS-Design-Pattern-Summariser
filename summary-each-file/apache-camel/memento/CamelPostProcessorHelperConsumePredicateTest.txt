@@ -1,0 +1,2 @@
+CamelPostProcessorHelperConsumePredicateTest acts as a caretaker for memento Context, which tests Consume Predicate, which tests Consume Predicate Drop, which lows String parameter of body, which highes String parameter of body.
+CamelPostProcessorHelperConsumePredicateTest acts as a caretaker for memento Producer, which tests Consume Predicate, which tests Consume Predicate Drop, which lows String parameter of body, which highes String parameter of body.

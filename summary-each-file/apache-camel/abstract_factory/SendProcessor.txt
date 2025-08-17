@@ -1,0 +1,1 @@
+SendProcessor acts as a factory for EndpointAware, which overrides getEndpoint method of EndpointAware.

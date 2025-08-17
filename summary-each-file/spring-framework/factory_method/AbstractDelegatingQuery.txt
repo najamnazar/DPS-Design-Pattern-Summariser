@@ -1,0 +1,1 @@
+AbstractDelegatingQuery acts as a product for CloseableQuery, which overrides close method of CloseableQuery.

@@ -1,0 +1,1 @@
+GetDestinationResponsePBImpl acts as a product for MountTableManager, which overrides getDestinations method of GetDestinationResponse, setDestinations method of GetDestinationResponse.

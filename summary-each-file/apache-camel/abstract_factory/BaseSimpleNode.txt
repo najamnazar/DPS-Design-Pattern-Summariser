@@ -1,0 +1,1 @@
+BaseSimpleNode acts as a factory for SimpleNode, which overrides getToken method of SimpleNode.

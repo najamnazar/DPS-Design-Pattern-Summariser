@@ -1,0 +1,1 @@
+ServerEndpoint acts as an adaptee for adapter ServerConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer, which adapts to DefaultConsumer.

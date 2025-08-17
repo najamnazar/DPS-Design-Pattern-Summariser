@@ -1,0 +1,1 @@
+TestCompilationParticipant3 acts as a caretaker for memento C, which gets Participant.

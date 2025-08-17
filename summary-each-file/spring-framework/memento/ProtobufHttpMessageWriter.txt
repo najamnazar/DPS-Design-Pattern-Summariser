@@ -1,0 +1,1 @@
+ProtobufHttpMessageWriter acts as a caretaker for memento C, which writes Publisher<? parameter of extends, ResolvableType parameter of elementType, @Nullable parameter of MediaType, ReactiveHttpOutputMessage parameter of message, Map<String, parameter of Object>, which gets Class<?> parameter of clazz Message Builder.

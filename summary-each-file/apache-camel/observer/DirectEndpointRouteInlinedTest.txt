@@ -1,0 +1,2 @@
+DirectEndpointRouteInlinedTest acts as a publisher for observer CamelContext, which tests Direct, which tests Direct Existing Exists.
+DirectEndpointRouteInlinedTest acts as a publisher for observer Service, which tests Direct, which tests Direct Existing Exists.

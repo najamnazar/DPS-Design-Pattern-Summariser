@@ -1,0 +1,3 @@
+MicrometerMessageHistoryFactory acts as a factory for MessageHistoryFactory, which overrides isCopyMessage method of MessageHistoryFactory, setCopyMessage method of MessageHistoryFactory, getNodePattern method of MessageHistoryFactory, setNodePattern method of MessageHistoryFactory.
+MicrometerMessageHistoryFactory acts as a product for CamelContext, which overrides isCopyMessage method of MessageHistoryFactory, setCopyMessage method of MessageHistoryFactory, getNodePattern method of MessageHistoryFactory, setNodePattern method of MessageHistoryFactory.
+MicrometerMessageHistoryFactory acts as a factory for CamelContextAware, which overrides getCamelContext method of CamelContextAware, setCamelContext method of CamelContextAware.

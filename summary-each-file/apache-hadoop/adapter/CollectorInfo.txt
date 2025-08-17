@@ -1,0 +1,1 @@
+CollectorInfo acts as an adaptee for adapter RMAppImpl, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable, which adapts to Recoverable.

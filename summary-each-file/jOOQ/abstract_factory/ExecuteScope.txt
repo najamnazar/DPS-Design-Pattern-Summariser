@@ -1,0 +1,1 @@
+ExecuteScope acts as an abstract factory for ExecuteContext, which is inherited by AbstractExecuteScope.

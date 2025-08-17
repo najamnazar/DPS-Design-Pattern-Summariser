@@ -1,0 +1,2 @@
+VerboseElementCache acts as a caretaker for memento S, which makes int parameter of space Space, which puts K parameter of key, JavaElementInfo parameter of value.
+VerboseElementCache acts as a caretaker for memento String, which makes int parameter of space Space, which puts K parameter of key, JavaElementInfo parameter of value.

@@ -1,0 +1,1 @@
+AsyncClientHttpRequest acts as a memento, which is inherited by AbstractAsyncClientHttpRequest, which executes Async.

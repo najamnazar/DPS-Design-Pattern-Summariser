@@ -1,0 +1,1 @@
+FakeTestDevicePlugin3 acts as a factory for DevicePlugin, which overrides getRegisterRequestInfo method of DevicePlugin, getDevices method of DevicePlugin, onDevicesAllocated method of DevicePlugin.

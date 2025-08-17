@@ -1,0 +1,2 @@
+ToDynamicTest acts as a publisher for observer CamelContext, which tests To Dynamic, which tests To Dynamic Invalid, which creates Route Builder.
+ToDynamicTest acts as a publisher for observer Service, which tests To Dynamic, which tests To Dynamic Invalid, which creates Route Builder.

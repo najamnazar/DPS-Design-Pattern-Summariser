@@ -1,0 +1,1 @@
+CsvFile acts as an observer, which closes, which gets Path, which gets Separator, which gets Eol, which rows long parameter of quotes, Object... parameter of columns, which lines String parameter of line, which gets Out.

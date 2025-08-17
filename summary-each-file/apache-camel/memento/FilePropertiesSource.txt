@@ -1,0 +1,1 @@
+FilePropertiesSource acts as a caretaker for memento Component, which gets Name, which loads PropertiesComponent parameter of propertiesComponent, PropertiesLocation parameter of location Properties From Location, which gets Order.

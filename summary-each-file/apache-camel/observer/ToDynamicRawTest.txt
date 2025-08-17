@@ -1,0 +1,2 @@
+ToDynamicRawTest acts as a publisher for observer CamelContext, which tests To Dynamic Raw, which creates Route Builder.
+ToDynamicRawTest acts as a publisher for observer Service, which tests To Dynamic Raw, which creates Route Builder.

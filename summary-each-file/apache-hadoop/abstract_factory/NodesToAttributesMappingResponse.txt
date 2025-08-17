@@ -1,0 +1,1 @@
+NodesToAttributesMappingResponse acts as an abstract product for NodesToAttributesMappingResponse, which is inherited by NodesToAttributesMappingResponsePBImpl.

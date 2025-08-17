@@ -1,0 +1,2 @@
+ResourceTransformer acts as an observer for publisher ResourceChainRegistration, which is inherited by ResourceTransformerSupport, CachingResourceTransformer, which transforms HttpServletRequest parameter of request, Resource parameter of resource, ResourceTransformerChain parameter of transformerChain.
+ResourceTransformer acts as a publisher for observer Resource, which is inherited by ResourceTransformerSupport, which transforms HttpServletRequest parameter of request, Resource parameter of resource, ResourceTransformerChain parameter of transformerChain.

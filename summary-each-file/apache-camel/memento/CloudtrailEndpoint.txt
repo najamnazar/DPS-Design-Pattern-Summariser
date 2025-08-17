@@ -1,0 +1,1 @@
+CloudtrailEndpoint acts as a caretaker for memento Configuration, which does Start, which does Stop, which creates Producer, which creates Processor parameter of processor Consumer, which gets Client, which gets Configuration.

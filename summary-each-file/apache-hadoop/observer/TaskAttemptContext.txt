@@ -1,0 +1,1 @@
+TaskAttemptContext acts as an observer for publisher LoadJob, which is inherited by TaskAttemptContextImpl, TaskInputOutputContext, which gets Task Attempt ID, which gets Progressible, which gets Job Conf.

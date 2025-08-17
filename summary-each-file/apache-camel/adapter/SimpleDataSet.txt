@@ -1,0 +1,7 @@
+SimpleDataSet acts as an adaptee for adapter RoutePerformanceTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SimpleDataSet acts as an adaptee for adapter DataSetTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SimpleDataSet acts as an adaptee for adapter DataSetConsumerTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SimpleDataSet acts as an adaptee for adapter DataSetPreloadTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SimpleDataSet acts as an adaptee for adapter DataSetProducerTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SimpleDataSet acts as an adaptee for adapter DataSetSedaTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.
+SimpleDataSet acts as an adaptee for adapter BigDataSetManualTest, which adapts to ContextTestSupport, which adapts to ContextTestSupport, which adapts to ContextTestSupport.

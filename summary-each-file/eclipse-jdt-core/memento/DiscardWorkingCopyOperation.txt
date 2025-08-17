@@ -1,0 +1,4 @@
+DiscardWorkingCopyOperation acts as a caretaker for memento Map, which executes Operation, which gets Working Copy, which is Read Only.
+DiscardWorkingCopyOperation acts as a caretaker for memento String, which executes Operation, which gets Working Copy, which is Read Only.
+DiscardWorkingCopyOperation acts as a caretaker for memento E, which executes Operation, which gets Working Copy, which is Read Only.
+DiscardWorkingCopyOperation acts as a caretaker for memento S, which executes Operation, which gets Working Copy, which is Read Only.

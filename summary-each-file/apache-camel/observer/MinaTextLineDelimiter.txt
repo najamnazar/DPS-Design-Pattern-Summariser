@@ -1,0 +1,1 @@
+MinaTextLineDelimiter acts as an observer for publisher MinaConfiguration, which is inherited by, which gets Line Delimiter.

@@ -1,0 +1,1 @@
+MappedInterceptor acts as a decorator for component HandlerInterceptor, which is inherited by.

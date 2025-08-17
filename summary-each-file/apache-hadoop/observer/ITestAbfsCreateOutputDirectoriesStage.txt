@@ -1,0 +1,1 @@
+ITestAbfsCreateOutputDirectoriesStage acts as a publisher for observer Path, which setups, which creates Configuration, which creates final parameter of Configuration Contract.

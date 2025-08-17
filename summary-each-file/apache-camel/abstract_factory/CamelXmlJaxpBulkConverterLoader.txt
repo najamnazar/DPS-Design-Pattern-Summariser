@@ -1,0 +1,2 @@
+CamelXmlJaxpBulkConverterLoader acts as a factory for CamelContextAware, which overrides setCamelContext method of CamelContextAware, getCamelContext method of CamelContextAware.
+CamelXmlJaxpBulkConverterLoader acts as a factory for BulkTypeConverters, which overrides size method of BulkTypeConverters, convertTo method of BulkTypeConverters.

@@ -1,0 +1,2 @@
+TwoManagedCamelContextAutoAssignedNameClashTest acts as a publisher for observer CamelContext, which is inherited by, which creates Camel Context, which tests Two Managed Camel Context Clash, which gets CamelContext parameter of context Context Object Name, which tears Down.
+TwoManagedCamelContextAutoAssignedNameClashTest acts as a publisher for observer CamelContext, which creates Camel Context, which tests Two Managed Camel Context Clash, which gets CamelContext parameter of context Context Object Name, which tears Down.

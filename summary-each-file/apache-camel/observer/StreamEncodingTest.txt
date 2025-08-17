@@ -1,0 +1,5 @@
+StreamEncodingTest acts as a publisher for observer ProducerTemplate, which tests String Content, which creates Route Builder.
+StreamEncodingTest acts as a publisher for observer CamelContext, which tests String Content, which creates Route Builder.
+StreamEncodingTest acts as a publisher for observer ConsumerTemplate, which tests String Content, which creates Route Builder.
+StreamEncodingTest acts as a publisher for observer FluentProducerTemplate, which tests String Content, which creates Route Builder.
+StreamEncodingTest acts as a publisher for observer Service, which tests String Content, which creates Route Builder.

@@ -1,0 +1,1 @@
+MessagingException acts as a caretaker for memento Message, which is inherited by, which gets Failed Message, which tos String.

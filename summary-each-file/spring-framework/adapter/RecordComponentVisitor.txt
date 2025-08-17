@@ -1,0 +1,1 @@
+RecordComponentVisitor acts as a target for adapter RecordComponentWriter, which adapts to RecordComponentVisitor, which adapts to RecordComponentVisitor, which adapts to RecordComponentVisitor, which adapts to RecordComponentVisitor, which adapts to RecordComponentVisitor.

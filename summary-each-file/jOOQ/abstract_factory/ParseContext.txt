@@ -1,0 +1,2 @@
+ParseContext acts as an abstract product for ParseContext, which is inherited by ParserImpl.
+ParseContext acts as an abstract factory for Condition, ParseContext, Name, which is inherited by ParserImpl.

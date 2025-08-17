@@ -1,0 +1,2 @@
+CustomLoadBalancerDefinition acts as a publisher for observer LoadBalancer, which is inherited by, which gets Ref, which sets String parameter of ref Ref, which gets Custom Load Balancer, which sets LoadBalancer parameter of loadBalancer Custom Load Balancer, which tos String.
+CustomLoadBalancerDefinition acts as an observer, which gets Ref, which sets String parameter of ref Ref, which gets Custom Load Balancer, which sets LoadBalancer parameter of loadBalancer Custom Load Balancer, which tos String.

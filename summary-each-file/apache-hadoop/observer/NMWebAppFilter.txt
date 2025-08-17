@@ -1,0 +1,1 @@
+NMWebAppFilter acts as an observer, which does ServletRequest parameter of servletRequest, ServletResponse parameter of servletResponse, FilterChain parameter of filterChain Filter, which containers HttpServletRequest parameter of request Log Page Redirect Path, which inits FilterConfig parameter of filterConfig, which destroys.

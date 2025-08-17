@@ -1,0 +1,2 @@
+DurationRoutePolicyMaxMessagesTest acts as a publisher for observer CamelContext, which tests Duration Route Policy, which creates Route Builder.
+DurationRoutePolicyMaxMessagesTest acts as a publisher for observer Service, which tests Duration Route Policy, which creates Route Builder.

@@ -1,0 +1,2 @@
+UpdateContainerRequestPBImpl acts as an originator for memento ContainerUpdateType, which gets a ContainerUpdateType Container Update Type to, which sets ContainerUpdateType parameter of updateType Container Update Type.
+UpdateContainerRequestPBImpl acts as an originator for memento ExecutionType, which gets an ExecutionType Execution Type to, which sets ExecutionType parameter of execType Execution Type.

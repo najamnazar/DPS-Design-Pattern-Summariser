@@ -1,0 +1,2 @@
+AppReportFetcher acts as a factory method for ApplicationHistoryProtocol, which is inherited by AppReportFetcher, AppReportFetcher.
+AppReportFetcher acts as a factory for AppReportFetcher, which overrides.

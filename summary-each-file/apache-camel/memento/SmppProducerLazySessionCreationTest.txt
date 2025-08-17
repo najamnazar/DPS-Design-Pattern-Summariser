@@ -1,0 +1,2 @@
+SmppProducerLazySessionCreationTest acts as a caretaker for memento Configuration, which sets Up, which processes Should Create The Smpp Session, which processes Should Create The Smpp Session With The System Id And Password From The Exchange.
+SmppProducerLazySessionCreationTest acts as a caretaker for memento Producer, which sets Up, which processes Should Create The Smpp Session, which processes Should Create The Smpp Session With The System Id And Password From The Exchange.

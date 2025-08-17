@@ -1,0 +1,1 @@
+Synchronization acts as an observer for publisher DefaultUnitOfWork, MDCUnitOfWork, which is inherited by SynchronizationVetoable, SynchronizationRouteAware, AcknowledgeSync, IdempotentOnCompletion, GenericFileOnCompletion, ResumableCompletion, AcknowledgeAsync, which ons Exchange parameter of exchange Complete, which ons Exchange parameter of exchange Failure.

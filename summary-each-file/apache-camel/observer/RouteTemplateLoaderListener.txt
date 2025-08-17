@@ -1,0 +1,1 @@
+RouteTemplateLoaderListener acts as an observer for publisher KameletComponent, which is inherited by DependencyDownloaderKamelet, which loads Resource parameter of resource Route Template.

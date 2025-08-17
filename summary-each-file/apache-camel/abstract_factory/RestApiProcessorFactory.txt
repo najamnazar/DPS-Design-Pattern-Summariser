@@ -1,0 +1,1 @@
+RestApiProcessorFactory acts as an abstract factory for Processor, which is inherited by DummyRestProcessorFactory, OpenApiRestApiProcessorFactory.

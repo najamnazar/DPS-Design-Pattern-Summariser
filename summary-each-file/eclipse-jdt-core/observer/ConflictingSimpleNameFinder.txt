@@ -1,0 +1,1 @@
+ConflictingSimpleNameFinder acts as an observer for publisher ConflictIdentifier, which is inherited by StaticConflictingSimpleNameFinder, TypeConflictingSimpleNameFinder, which finds Set<String> parameter of simpleNames, Set<String> parameter of onDemandAndImplicitContainerNames, IProgressMonitor parameter of monitor Conflicting Simple Names.

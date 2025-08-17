@@ -1,0 +1,1 @@
+ITestNativeAzureFileSystemAtomicRenameDirList acts as a publisher for observer AzureBlobStorageTestAccount, which creates Test Account, which tests Atomic Rename Key Doesnt NPEOn Initializing With Non Default URI.

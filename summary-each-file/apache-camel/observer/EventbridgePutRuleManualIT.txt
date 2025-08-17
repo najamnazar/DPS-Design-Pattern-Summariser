@@ -1,0 +1,5 @@
+EventbridgePutRuleManualIT acts as a publisher for observer CamelContext, which sends In, which creates Route Builder.
+EventbridgePutRuleManualIT acts as a publisher for observer ConsumerTemplate, which sends In, which creates Route Builder.
+EventbridgePutRuleManualIT acts as a publisher for observer ProducerTemplate, which sends In, which creates Route Builder.
+EventbridgePutRuleManualIT acts as a publisher for observer FluentProducerTemplate, which sends In, which creates Route Builder.
+EventbridgePutRuleManualIT acts as a publisher for observer Service, which sends In, which creates Route Builder.

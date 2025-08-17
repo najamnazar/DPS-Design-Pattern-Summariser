@@ -1,0 +1,5 @@
+ChunkComponentLayersTest acts as a publisher for observer CamelContext, which tests Chunk Layer, which creates Route Builder.
+ChunkComponentLayersTest acts as a publisher for observer ConsumerTemplate, which tests Chunk Layer, which creates Route Builder.
+ChunkComponentLayersTest acts as a publisher for observer FluentProducerTemplate, which tests Chunk Layer, which creates Route Builder.
+ChunkComponentLayersTest acts as a publisher for observer ProducerTemplate, which tests Chunk Layer, which creates Route Builder.
+ChunkComponentLayersTest acts as a publisher for observer Service, which tests Chunk Layer, which creates Route Builder.

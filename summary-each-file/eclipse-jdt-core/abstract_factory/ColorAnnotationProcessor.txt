@@ -1,0 +1,2 @@
+ColorAnnotationProcessor acts as a product for AnnotationProcessorFactory, which overrides.
+ColorAnnotationProcessor acts as a product for EclipseAnnotationProcessorFactory, which overrides.

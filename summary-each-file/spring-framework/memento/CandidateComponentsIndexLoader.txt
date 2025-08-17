@@ -1,0 +1,2 @@
+CandidateComponentsIndexLoader acts as a caretaker for memento Index, which loads @Nullable parameter of ClassLoader Index, which does ClassLoader parameter of classLoader Load Index.
+CandidateComponentsIndexLoader acts as a caretaker for memento C, which loads @Nullable parameter of ClassLoader Index, which does ClassLoader parameter of classLoader Load Index.

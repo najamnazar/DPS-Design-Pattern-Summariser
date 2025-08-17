@@ -1,0 +1,1 @@
+Foo acts as an observer for publisher PropertyBindingSupportAutowireNestedTest, which is inherited by, which gets Bar Refs, which sets List<Bar> parameter of bars Bar Refs.

@@ -1,0 +1,15 @@
+ScenarioConfiguration acts as a product for CapacitySchedulerContext, which overrides.
+ScenarioConfiguration acts as a product for MiniMRClientCluster, which overrides.
+ScenarioConfiguration acts as a product for RMContext, which overrides.
+ScenarioConfiguration acts as a product for AMRMProxyApplicationContext, which overrides.
+ScenarioConfiguration acts as a product for WriteOperations, which overrides.
+ScenarioConfiguration acts as a product for MutableConfScheduler, which overrides.
+ScenarioConfiguration acts as a product for RunningJob, which overrides.
+ScenarioConfiguration acts as a product for SPSService, which overrides.
+ScenarioConfiguration acts as a product for Job, which overrides.
+ScenarioConfiguration acts as a product for ObjectStorage, which overrides.
+ScenarioConfiguration acts as a product for LaunchableService, which overrides.
+ScenarioConfiguration acts as a product for MutableConfigurationProvider, which overrides.
+ScenarioConfiguration acts as a product for GetSpaceUsed, which overrides.
+ScenarioConfiguration acts as a product for Configurable, which overrides.
+ScenarioConfiguration acts as a product for FileSystemAccess, which overrides.

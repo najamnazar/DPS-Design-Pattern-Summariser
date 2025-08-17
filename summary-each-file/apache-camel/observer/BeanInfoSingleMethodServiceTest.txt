@@ -1,0 +1,2 @@
+BeanInfoSingleMethodServiceTest acts as a publisher for observer CamelContext, which tests Bean Info Single Method Route, which tests Bean Info Single Method, which tests Bean Info Single Method Impl, which creates Route Builder.
+BeanInfoSingleMethodServiceTest acts as a publisher for observer Service, which tests Bean Info Single Method Route, which tests Bean Info Single Method, which tests Bean Info Single Method Impl, which creates Route Builder.

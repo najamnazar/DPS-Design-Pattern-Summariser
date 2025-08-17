@@ -1,0 +1,1 @@
+Content acts as an observer for publisher ContentCounts, which is inherited by.

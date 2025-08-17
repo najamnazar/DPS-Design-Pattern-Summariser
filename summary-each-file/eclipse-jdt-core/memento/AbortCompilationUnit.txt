@@ -1,0 +1,3 @@
+AbortCompilationUnit acts as a caretaker for memento C.
+AbortCompilationUnit acts as a caretaker for memento R.
+AbortCompilationUnit acts as a caretaker for memento E.

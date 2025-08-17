@@ -1,0 +1,1 @@
+CombineFileSplit acts as an observer, which gets Job.

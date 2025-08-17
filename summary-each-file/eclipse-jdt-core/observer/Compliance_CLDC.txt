@@ -1,0 +1,9 @@
+Compliance_CLDC acts as a publisher for observer String, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer Processor, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer File, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer ICompilerRequestor, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer StringBuilder, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer Compiler, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer Requestor, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer Map, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.
+Compliance_CLDC acts as a publisher for observer ASTVisitor, which gets Compiler Options, which suites, which tests Class, which test001s, which test002s, which test003s, which test004s.

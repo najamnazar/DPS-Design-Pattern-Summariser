@@ -1,0 +1,1 @@
+DefaultRouteStartupOrder acts as a factory for RouteStartupOrder, which overrides getStartupOrder method of RouteStartupOrder, getRoute method of RouteStartupOrder, getInput method of RouteStartupOrder, getServices method of RouteStartupOrder.

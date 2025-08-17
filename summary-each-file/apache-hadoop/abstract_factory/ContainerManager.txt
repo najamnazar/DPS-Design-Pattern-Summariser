@@ -1,0 +1,1 @@
+ContainerManager acts as an abstract factory for OpportunisticContainersStatus, ContainersMonitor, which is inherited by ContainerManagerImpl.

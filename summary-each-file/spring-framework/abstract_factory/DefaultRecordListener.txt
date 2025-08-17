@@ -1,0 +1,2 @@
+DefaultRecordListener acts as a product for RecordListenerProvider, which overrides.
+DefaultRecordListener acts as a factory for RecordListener, which overrides.

@@ -1,0 +1,1 @@
+Definition acts as an abstract factory for PackageDefinition, Database, Name, which is inherited by AbstractDefinition.

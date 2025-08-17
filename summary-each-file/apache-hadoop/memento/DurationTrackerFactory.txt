@@ -1,0 +1,1 @@
+DurationTrackerFactory acts as an originator for memento DurationTracker, which is inherited by, which tracks a DurationTracker Duration to, which tracks a DurationTracker Duration to.

@@ -1,0 +1,6 @@
+PolicyProvider acts as a target for adapter NMPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.
+PolicyProvider acts as a target for adapter HDFSPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.
+PolicyProvider acts as a target for adapter RMPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.
+PolicyProvider acts as a target for adapter ClientHSPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.
+PolicyProvider acts as a target for adapter ClientAMPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.
+PolicyProvider acts as a target for adapter MRAMPolicyProvider, which adapts to PolicyProvider, which adapts to PolicyProvider.

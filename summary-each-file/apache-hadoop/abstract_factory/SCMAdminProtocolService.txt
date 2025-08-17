@@ -1,0 +1,1 @@
+SCMAdminProtocolService acts as a factory for SCMAdminProtocol, which overrides runCleanerTask method of SCMAdminProtocol.

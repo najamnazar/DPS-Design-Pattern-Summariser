@@ -1,0 +1,1 @@
+AMInfo acts as an abstract product for MockJobs, which is inherited by AMInfoPBImpl.

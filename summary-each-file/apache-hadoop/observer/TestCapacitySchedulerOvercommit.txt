@@ -1,0 +1,4 @@
+TestCapacitySchedulerOvercommit acts as a publisher for observer NodeId, which gets Configuration.
+TestCapacitySchedulerOvercommit acts as a publisher for observer MockNM, which gets Configuration.
+TestCapacitySchedulerOvercommit acts as a publisher for observer MockRM, which gets Configuration.
+TestCapacitySchedulerOvercommit acts as a publisher for observer ResourceScheduler, which gets Configuration.

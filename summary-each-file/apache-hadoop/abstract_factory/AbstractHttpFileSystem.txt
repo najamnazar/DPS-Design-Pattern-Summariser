@@ -1,0 +1,2 @@
+AbstractHttpFileSystem acts as a product for FileSystemAccess, which overrides initialize method of FileSystem, getUri method of FileSystem, getWorkingDirectory method of FileSystem, hasPathCapability method of FileSystem.
+AbstractHttpFileSystem acts as a product for ShuffleConsumerPlugin, which overrides initialize method of FileSystem, getUri method of FileSystem, getWorkingDirectory method of FileSystem, hasPathCapability method of FileSystem.
